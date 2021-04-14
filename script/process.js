@@ -2,7 +2,7 @@ const fs = require("fs");
 let sourceLines = [];
 let targetLines = [];
 let parsedLines = [];
-fs.readFile("in.txt", "utf8", function(err, data){
+fs.readFile("formatted.txt", "utf8", function(err, data){
 	let lines = data.split("\r\n");
 	for(let line of lines){
 		let split = line.split("\t");
@@ -25,5 +25,5 @@ fs.readFile("in.txt", "utf8", function(err, data){
 
 	let formatted = [];
 	for(i=0;i<sourceLines.length;i++) formatted.push(`${sourceLines[i]}\t${targetLines[i]}`);
-	fs.writeFile("out.txt", formatted.join("\r\n"), "utf8", function(err){ });
+	fs.writeFile("processed.txt", formatted.join("\r\n"), "utf8", function(err){ });
 });
