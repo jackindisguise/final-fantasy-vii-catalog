@@ -217,7 +217,7 @@ Marlene	マリン
 “I won't tell TIFA.”	「TIFAにはないしょに
 	しといてあげるね」
 CLOUD	CLOUD
-“Looks like I can rest here.	「ここで眠れるな……
+“Looks like I can rest here.”	「ここで眠れるな……」
 Sleep	眠る
 Don't want to sleep	眠りたくない
 Received "Potion"!	『ポーション』を手にいれた！
@@ -226,9 +226,9 @@ Received "Phoenix Down"!	『フェニックスの尾』を手にいれた！
 AERIS's House	AERITHの家２Ｆ
 Marlene	マリン
 “Daddy,	「とうちゃん、TIFA、CLOUD！
-TIFA,	
+TIFA,	ちゃ～んとAERITH助けてきてね」
 CLOUD!	
-Please bring AERIS back!”	ちゃ～んとAERITH助けてきてね」}
+Please bring AERIS back!”	
 TIFA	TIFA
 “You're going after AERIS, right?”	「AERITHのところへ行くのね」
 TIFA	TIFA
