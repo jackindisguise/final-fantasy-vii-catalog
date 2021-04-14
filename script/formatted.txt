@@ -1,750 +1,1667 @@
-Elmyra	エルミナ
-“CLOUD…wasn't it?”	「CLOUD……だったね」
-Elmyra	エルミナ
-“Well now, make yourselves at home.”	「まあ、てきとうにくつろいでおくれよ」
-Elmyra	エルミナ
-“It's about AERIS, isn't it?”	「AERITHのこと、だろ？」
-CLOUD	CLOUD
-“…Sorry.	「……すまない。
-The Shinra have her.”	神羅にさらわれた」
-Elmyra	エルミナ
-“I know.	「知ってるよ。
-They took her from here.”	ここから連れていかれたからね」
-CLOUD	CLOUD
-“They were here?”	「ここで？」
-Elmyra	エルミナ
-“That's what AERIS wanted…”	「AERITHが望んだことだよ……」
-CLOUD	CLOUD
-“Why is Shinra after AERIS?”	「どうしてAERITHは
-	神羅に狙われるんだ？」
-Elmyra	エルミナ
-“AERIS is an Ancient.	「AERITHは古代種。
-The sole survivor.”	古代種の生き残りなんだとさ」
-BARRET	BARRET
-“What did you say?	「……なんだとさ、だって？
-But, aren't you her mother?”	あんた母親だろ？」
-Elmyra	エルミナ
-“Not her real mother.	「……本当の母親じゃないんだよ。
-…it must have been 15 years ago…”	あれは……そう、１５年前…」
-Elmyra	エルミナ
-“…during the war.	「……戦争中でね。
-My husband was sent to the front.	わたしの夫は戦地に行ってた。
-Some far away place called Wutai.”	ウータイという遠い国さ」
-“One day, I went to the station because	「ある日、休暇で帰ってくるって
-I got a letter saying	てがみをもらったから
-he was coming home on leave.”	わたしは駅までむかえにいったのさ」
-“You used to see this sort of thing	戦争中はよくある風景だったね。
-a lot during the war.”	
-“Her last words were,	「AERITHを安全なところへ。
-Please take AERIS	そう言い残して彼女は死んだ。」
-somewhere safe.”	
-“My husband never came back.	「わたしの夫は帰らず、子供もいない。
-I had no child. I was lonely.	わたしもさびしかったんだろうね。
-So I decided to take her home with me.”	AERITHを家に連れて帰ることにしたんだ。」
-“AERIS and I became close very	「AERITHはすぐに
-quickly. That child loved to talk.	わたしになついてくれた。
-She used to talk to me about everything.”	よくしゃべる子でねえ。
-	いろいろ話してくれたよ」
-“She told me how she escaped from some kind of	「どこかの研究所みたいな
-research laboratory, and that her	ところから母親と逃げ出したこと。
-mother had already returned to the Planet,	お母さんは星に帰っただけだから
-so she wasn't lonely…many other things.”	さびしくなんかない……いろいろね」
-BARRET	BARRET
-“Returned to the Planet?”	「星に帰っただって？」
-Elmyra	エルミナ
-“I didn't know what she meant.	「わたしには意味がわからなかったよ。
-I asked if she meant a star in the sky,”	夜空の星かって聞いたら
-“but she said it was this Planet…	ちがう、この星だっていわれて……」
-She was a mysterious child in many ways.”	「まあ、いろんな意味で不思議な
-	子供だったね」
-AERIS	AERITH
-“Mom.”	「お母さん」
-AERIS	AERITH
-“Please don't cry.”	「泣かないでね」
-Elmyra	エルミナ
-“AERIS just blurted that out	「AERITHが突然言い出した。
-all of a sudden. When I asked	何があったのかって聞いたら……」
-her if something happened…”	
-AERIS	AERITH
-“Someone dear to you has just died.”	「お母さんの大切な人が
-	死んじゃったよ」
-“His spirit was coming to see you,	「心だけになってお母さんに
-but he's already returned to the Planet.”	会いにきたけど
-	でも、星に帰ってしまったの」
-Elmyra	エルミナ
-“At that time I didn't believe her.”	「わたしは信じなかった」
-Elmyra	エルミナ
-“But…”	「でも…」
-Elmyra	エルミナ
-“Several days later…	「それから何日かして…
-we received a notice	夫が戦死したという知らせが…
-saying my husband died…”	届いたんだ…」
-Elmyra	エルミナ
-“…and that was it.”	「……とまあ、こんな具合でね」
-“A lot had happened, but we were happy.	「いろいろあったけど
-Until one day…”	わたしたちは幸せだった。
-	ところがある日……」
-Tseng	ツォン
-“We want you to return AERIS	「AERITHを返してほしいのです。
-to us. We've been searching	ずいぶん探しました」
-for her for a long time.”	
-AERIS	AERITH
-“No!	「いやっ！
-Never!”	絶対いやっ！」
-Tseng	ツォン
-“AERIS, you're a very special child.	「AERITH、君は大切な子供なんだ。
-You are of special blood.”	君は特別な血をひいている」
-“Your real mother was an 'Ancient'.”	「君の本当のお母さんの血。
-	『古代種』の血だ」
-Elmyra	エルミナ
-“At that moment, I found out	「もちろん聞いたよ。
-she was an 'Ancient'.”	『古代種』って何だってね」
-Tseng	ツォン
-“The Ancients will lead us to	「古代種は至上の幸福が約束された土地へ
-a land of supreme happiness.”	我々を導いてくれるのです」
-“AERIS will be able to bring	「AERITHはこのまずしいスラムの人々に
-happiness to all those in the slums.”	幸福を与えることができるのです」
-“That is why Shinra would like	「ですから我々神羅カンパニーは
-AERIS's cooperation.”	ぜひともAERITHの協力を……」
-AERIS	AERITH
-“He's wrong!	「ちがうもん！
-I'm not an Ancient!	AERITH、古代種なんかじゃ
-I'm not!”	ないもん！」
-Tseng	ツォン
-“But AERIS, surely you hear	「でもAERITH、君はときどき
-voices sometimes	誰もいないのに声が
-when you're all alone?”	聞こえることがあるだろ？」
-AERIS	AERITH
-“No, I don't!”	「そんなことないもん！」
-Elmyra	エルミナ
-“But I knew.	「でも、わたしにはわかっていた。
-I knew about her mysterious powers.”	あの子の不思議な能力……」
-“She tried so hard to hide it,	「一生けんめい、かくそうとしていたから
-so I acted as though I never noticed.”	わたしは気がつかないふりを
-	していたけどね」}
-CLOUD	CLOUD
-“It's amazing how she's avoided	「よく何年も神羅から
-the Shinra for all these years…”	逃げつづけることができたな」
-Elmyra	エルミナ
-“The Shinra need her,	「神羅はAERITHの協力が必要だったから
-so I guess they wouldn't harm her.”	手荒なマネはできなかったんだろうね」
-TIFA	TIFA
-“But why now?”	「じゃあ、今回はどうして……」
-Elmyra	エルミナ
-“She brought a little girl	「小さな女の子を連れて
-here with her.”	ここに帰って来たんだ」
-“Tseng found them on their way here.	「その途中でツォンのやつに
-She probably wasn't fast	みつかってしまったらしくてね。
-enough to get away.”	逃げ切れなかったんだろ、きっと」
-“She decided to go to the Shinra in	「女の子の無事と引き替えに
-exchange for the little girl's safety.”	自分が神羅に行くことに
-	なったんだ」
-CLOUD	CLOUD
-“…Marlene.”	「マリン、だな」
-BARRET	BARRET
-“Marlene!!	「マリン！！
-AERIS was caught	マリンのためにAERITHは
-because of Marlene!?”	つかまったのか！」
-BARRET	BARRET
-“I'm sorry.	「すまねえ。
-Marlene's my daughter.	マリンはオレの娘だ。
-I'm really sorry…”	すまねえ……本当に……」
-Elmyra	エルミナ
-“You're her father!?	「あんたが父親かい！？
-How in the world could you ever leave	あんた、娘をほったらかして
-a child alone like that!?”	何をやってるんだい！？」
-BARRET	BARRET
-“…Please don't start with that.	「……その話はやめてくれ。
-I'm always thinkin' about what	オレだって何度も考えたさ。
-might happen to Marlene, if I…”	オレが死んじまったらマリンは…ってな」
-BARRET	BARRET
-“But you gotta understand somethin'…	「でもよ、答えはでねえんだ。
-…I don't got any answers.	マリンといつもいっしょにいたい。
-I wanna be with Marlene…	
-But I gotta fight.”	でも、それじゃあ戦えない」
-BARRET	BARRET
-“'Cause if I don't…the Planet's gonna die.”	「戦わなければ星が死ぬ」
-BARRET	BARRET
-“So I'm gonna keep fightin'!”	「おう！　オレは戦うぜ！」
-BARRET	BARRET
-“But inside I'm always thinkin' of her.	「でも、マリンが心配だ。
-I just wanna be with her…always.”	いつでもそばにいてやりたい」
-BARRET	BARRET
-“See? I'm goin' in circles, now.”	「な？　グルグルまわっちまうんだ」
-Elmyra	エルミナ
-“…I think I know what you mean.	「……わからないでもないけどね。
-She's upstairs asleep,	ま、とにかく２階で眠ってるから
-Why don't you go and see her?”	会っておやりよ」
-TIFA	TIFA
-“It's my fault…	「私のせい……。
-I was the one who got	私がAERITHを巻きこんだから」
-AERIS involved in this.”	
-Elmyra	エルミナ
-“Don't say that.	「あんた、気にするんじゃないよ。
-AERIS doesn't think so.”	AERITHだってそんなふうに
-	思っちゃいないよ」
-TIFA	TIFA
-“I feel so depressed.”	「なんか落ちこんじゃう」
-Elmyra	エルミナ
-“…sigh…”	「はぁ……」}
-BARRET	BARRET
-“CLOUD!”	「CLOUD！」
-BARRET	BARRET
-“I'm so glad…	「マリン……良かった……
-I'm so glad you're all right…”	無事で良かった……」
-Marlene	マリン
-“Daddy, don't cry.	「とうちゃん
-Your whiskers	泣いちゃダメだよ。
-hurt!”	おヒゲ、いたいよ！」
-BARRET	BARRET
-“You gonna go help AERIS, right?	「AERITHを助けにいくんだろ？
-She's done so much for me…”	すっかり世話になっちまったからな」
-BARRET	BARRET
-“If the Shinra're involved,	「それに相手が神羅となれば
-I ain't stayin' here!	黙っちゃいられねえ！
-I'm comin', too!”	オレも行くぜ！」
-Marlene	マリン
-“Guess what? Guess what?	「あのね、あのね、AERITHがね
-AERIS asked me	いっぱい聞いてたよ」
-lots of questions.”	
-“Like what kind of person CLOUD is.	「CLOUDってどんな人って。
-I bet she likes you, CLOUD!”	CLOUDのこと好きなんだよ、きっと」
-I don't know	俺にはわからないよ
-Let's hope so	そうだといいな
-Marlene	マリン
-“Dummy!”	「ドンカン！」
-Marlene	マリン
-“I won't tell TIFA.”	「TIFAにはないしょに
-	しといてあげるね」
-CLOUD	CLOUD
-“Looks like I can rest here.”	「ここで眠れるな……」
-Sleep	眠る
-Don't want to sleep	眠りたくない
-Received "Potion"!	『ポーション』を手にいれた！
-Received "Ether"!	『エーテル』を手にいれた！
-Received "Phoenix Down"!	『フェニックスの尾』を手にいれた！
-AERIS's House	AERITHの家２Ｆ
-Marlene	マリン
-“Daddy,	「とうちゃん、TIFA、CLOUD！
-TIFA,	ちゃ～んとAERITH助けてきてね」
-CLOUD!	
-Please bring AERIS back!”	
-TIFA	TIFA
-“You're going after AERIS, right?”	「AERITHのところへ行くのね」
-TIFA	TIFA
-“I'm coming with you.”	「私も行くから」
-CLOUD	CLOUD
-“We're going right into Shinra Headquarters.	「神羅の本社にのりこむ。
-…You gotta be prepared for the worst.”	……カクゴが必要だぞ」
-TIFA	TIFA
-“I know.”	「わかってるわ」
-TIFA	TIFA
-“Right now, I feel I have to	「それに今は思いきり身体を
-push myself to the limit.”	動かしたい気分なの」
-TIFA	TIFA
-“If I stayed here…I'd go crazy.”	「じっとしてると……なんか、ダメ」
-BARRET	BARRET
-“Sorry, but can you take care	「すまねえが、もうしばらく
-of Marlene a bit longer?”	マリンをあずかってくれねえか？」
-Elmyra	エルミナ
-“Yes, I don't mind.”	「ああ、かまわないよ」
-BARRET	BARRET
-“This place is dangerous now.	「それから、ここは危険だ。
-You better go somewhere else.”	どこかへ移ったほうがいい」
-Elmyra	エルミナ
-“…You're right.	「……そうだねえ。
-But promise me that you'll	でも、必ず迎えにくるんだよ。
-come back to her.	
-Don't get yourself killed.”	死んじゃいけないよ」
-Elmyra	エルミナ
-“I mean it, come back to her.	「必ず迎えにくるんだよ。
-Don't get yourself killed.”	死んじゃいけないよ」}
-AERIS's House	AERITH's House
-Received "Ether"!	『エーテル』を手にいれた！
-Received "Cover" Materia!	『かばう』のマテリアを手にいれた！
+“The hell are you?	「なんだお前は？
+What're you doin' around here?”	こんなところで何をしている？」
+Where's AERIS?	AERITHはどこだ！
+…	…………
+“AERIS?	「AERITH？
+How did you know that name?	その名を知っているとは
+You must be…”	お前まさか！？」
+“AERIS,	「AERITHってあのコだろ。
+you mean that kid.	受付の。
+The receptionist? I was	じつはオレもあのコ
+startin' to worry about her, too.”	気になってるんだよね」
+“And so another rival	「ウーン、はやくも
+appears on the scene, eh?”	ライバル出現……」
+“You mean, she's not?	「え、そうじゃない？
+It's someone else?”	なんだ、人違いか」
+“Oh, I see.	「ハハーン……わかったぞ。
+So you must be	さてはお前、アレだな？
+that whatcha call it…”	いまウワサの……」
+“Shinra, Inc. Repair Division!!”	「神羅カンパニー修理課　！！」
+“You know, this building	「いや～、このビルも
+looks like it's	そろそろあちこちに
+starting to fall apart.”	ガタがきててなあ」
+“This door was just pushed open.	「この階のドア
+You ought to fix this right away.”	開きっぱなしなんだ。
+	早く直してくれよな」
+“Oh yeah, and take a look	「あ、そうそう
+on the other floors, too.	いちおう他の階も
+	見回ってくれよ。
+Here, take this.”	これ、やるから」
+Received Key Item "Keycard 62"!	キーアイテム『カードキー６２』を手にいれた！
+“This door is stuck wide open.	「この階のドア
+Better fix this right away.”	開きっぱなしなんだ。
+	早く直してくれよな」
+“This is the lounge floor.	「ここはリフレッシュ・フロア。
+Above us are the special floors for	この上は、おえらがたがいる
+the company big wigs.”	特別なフロアが多いからね」
+“It's tough working under someone.	「その下ではたらく我々も
+It wears you out.”	いろいろとつかれるんだよ。
+	いろいろとね……」
+“I thought I heard a ruckus	「さっき下の方が
+downstairs a minute ago.	さわがしかったけど
+Do you know what that was all about?”	何かあったのかしら？」
+“No idea.	「さあな。
+But no need to worry because	ま、６０階から上は
+everything above the	何があっても安全だ。
+60th floor is safe.”	気にすることもないって」
+“What's keeping her?	「あいつ、遅いな……
+Did she forget her keycard?”	カードキー忘れたかな？」
+“Even employees can't access floors	「社員といえど
+above the 60th	６０階から上は
+without a keycard.”	カードキーがないと
+	自由に歩けないからな……」
+“I don't remember seeing your face before…	「あら、見かけない顔……
+You new here?”	新しく配属されたのね？」
+“Say, you're cute.	「いいわ、私がいろいろ
+Let me teach you some…things.”	おしえてあげる♥」
+Things?	い、いろいろ？
+Um, I'm kinda in a hurry…	急いでいるもので……
+“Oh?	「あら、そう。
+That's too bad…”	ざんねんだわ……」
+“Wipe that stupid look off your face.	「なーに、ヘンな顔して。
+I was only going to teach you	教えてあげるのは、ここから
+how to get to the next floor.”	上のフロアのことよ」
+“The higher ups in the company	「６０階から上は、役員クラスの
+use the floors above the 60th floor.	社員の多い特別フロア。
+But you can't get there without	カードキーがないと入ることも
+a keycard.”	許可されないの」
+“Get a keycard and you can use	「カードキーがあれば
+the elevators freely.”	階段もエレベーターも自由に
+	使えるわ」
+“…voila!	「エレベーターはホラ、私の
+Hear that sound and	横にあるこのドアの前で
+the door will open.”	【決定ボタン】　を押すの。
+	そうすると……」
+“Just remember there are	「……っていう音がして
+different types of cards.	ドアが開くから」
+One keycard alone won't	「でもね、カードキーにも何種類か
+let you go everywhere.”	あって、１枚でどこでも、って
+	わけにはいかないのよ」
+“For example,	「そうね、たとえば
+“'Keycard 60' only takes	『カードキー６０』なら６０階まで。
+you to the 60th floor.	
+'Keycard 65' only takes	『カードキー６５』なら６５階まで。
+you to the 65th floor.”	そういうことよ」
+“It's a security system worthy of	「まあミッドガル、いえ、今や
+Shinra. After all, they control	世界のエネルギー流通を一手に
+everything in Midgar and in the	ひきうける神羅カンパニーの
+world for that matter.”	本社としては、当然のセキュリティよね」
+“Oh, I have to go.	「あらやだ、長くなっちゃったわ。
+Gotta get back to work!”	それじゃおたがい、お仕事
+	がんばりましょうね♥」}
+Shinra Bldg. 62f.	Shinra Bldg. 62f.
+Shinra, Inc.	神羅カンパニー
+Urban Dev. Research Library	都市開発部門資料室
+Shinra, Inc.	神羅カンパニー
+Space Dev. Research Library	宇宙開発部門資料室
+Shinra, Inc.	神羅カンパニー
+Peace Preservation/	治安維持部門・兵器開発部門資料室
+Weapon Dev. Research Library	
+Shinra, Inc.	神羅カンパニー
+Scientific Research Library	科学部門資料室
+Hart	ハット
+“How do you do?”	「あ、これはどうも」
+“This is the Midgar Mayor's Office.	「こちらはこのミッドガルの
+Mayor Domino is in his office.”	市長室でございます。
+	この中にはドミノ市長が
+	いらっしゃいます」
+“I am the Deputy Mayor.	「ちなみにわたくしは
+If you should have any questions	ミッドガルの助役です。
+feel free to ask me…”	困ったことがありましたら
+	ぜひわたくしに……」
+Domino	ドミノ
+“Hmm?	「あ～？
+Oh, and who might you be?”	なんだねキミたちは？」
+“You all must be those…ahem…	「ああ、キミらが例の……
+Me? I'm Domino, the Mayor of Midgar.”	私？　私はこの魔晄都市
+	ミッドガルの市長、ドミノだ」
+“Actually, I'm Mayor in name only.	「とは言っても名前だけ。
+The city and everything in it is really	ホントのところ、ミッドガルの
+run by Shinra, Inc.”	すべては神羅のものだ」
+“My only real job is watching over	「今の私の仕事といったら
+Shinra's documents…”	神羅カンパニーの資料管理……」
+“Me! The Mayor!	「ミッドガルの市長が！
+A librarian!	神羅の資料を！
+Ohh…”	ハア……」
+“You want to get upstairs?	「キミら、上へ行きたいんだろ？
+I tell you what, if you can guess the	いいとも、私のカードキーをやろう。
+password, I'll give you my keycard.”	合言葉を言えたらな」
+“Yes, that's it.	「そう、合言葉だ。
+Guess the password	それを言えたら、カードをやろう」
+and I'll give you my keycard!”	
+“Get it on the first try	「おまけに１回で当てたら
+and I'll even throw in	ナイスなおみやげも
+a special item!”	つけてやるぞ？」
+Domino	ドミノ
+“Got it?”	「合言葉がわかったのか？
+“Then tell me.”	では言ってみたまえ」
+“So, what's the password?”	「合言葉は？」
+BEST	市長最高！！
+KING	神羅最低！！
+ORBS	魔晄最高！！
+BOMB	市長爆発！！
+MAKO	魔晄爆発！！
+HOJO	神羅爆発！！
+Wait a second	ちょっと待ってくれ
+Domino	ドミノ
+“Nope! You're ALL wrong!	「ぜんぜん違う！
+It's a much better word than that!	もっとすばらしい言葉だ！
+Try again!”	やり直し！」
+[THIS VARIES, SO I AM PRESENTING IT IN THE ORDER THE ENGLISH VERSION GIVES]	
+Domino	ドミノ
+“BEST!!”	「市　　長　　最　　高　　！！」
+“God, I love the sound of that!	「なんとすばらしいひびき！
+BEST!! I AM the best…ME!!	そのとおり！
+No matter what anyone else says,	ミッドガルの市長は最高！
+you'd better believe it.”	誰が何と言おうと最高！」
+“…hmm. Well, OK.	「……フン、まあいいだろう。
+Here, take it.”	ホラ、持っていけ」
+Domino	ドミノ
+“KING!!”	「神　　羅　　最　　低　　！！」
+“God, I love the sound of that!	「なんとすばらしいひびき！
+KING!! President Shinra sucks!	そのとおり！
+I should be King of Midgar!”	プレジデント神羅は最低！
+“…hmm. Well, OK.	私こそミッドガルの主！」
+Here, take it.”	「……フン、まあいいだろう。
+	ホラ、持っていけ」
+Domino	ドミノ
+“BOMB!!”	「市　　長　　爆　　発　　！！」
+“God, I love the sound of that!	「なんとすばらしいひびき！
+BOMB!! I'm so angry, I'm like	そのとおり！
+a walking time bomb waiting to explode!”	私の怒りは最高レベルに！
+“…hmm. Well, OK.	もう爆発しそうだ！」
+Here, take it.”	「……フン、まあいいだろう。
+	ホラ、持っていけ」
+Domino	ドミノ
+“MAKO!!”	「魔　　晄　　爆　　発　　！！」
+“God, I love the sound of that!	「なんとすばらしいひびき！
+MAKO! If I had a lot more of it,	そのとおり！
+I would be a real Mayor!”	魔晄エネルギーを爆発させろ！
+“…hmm. Well, OK.	そして私を真の市長に！」
+Here, take it.”	「……フン、まあいいだろう。
+	ホラ、持っていけ」
+Received "Keycard 65"!	キーアイテム『カードキー６５』を手に入れた！
+Domino	ドミノ
+“Why would I do something	「なんでこんなコトするか？」
+like this, you ask?”	
+“Revenge, of course!	「きまってるじゃないか。
+	イヤガラセだよ。
+	イヤガラセ」
+Shinra's been torturing me forever.”	「いいか、神羅はずっと私を
+	苦しめてきたんだぞ」
+“That's why I was a little rough	「だから私はここで
+on you all just now.	キミたちをなやませ
+Now go up there and really	今度はキミたちが上へ行って
+make them suffer.”	神羅のやつらを困らせる」
+“This ought to teach them!	「どうだ、これでおあいこだろ。
+Heh heh heh…”	ヒ、ヒヒ、ヒヒヒ……」
+Domino	ドミノ
+“But my card will only get you	「言っておくが、私のカードでは
+to the 65th floor.”	６５階までしかのぼれんよ」
+“Can you believe how they treat me?	「神羅め、この私を……この私を
+…ME! Like some common employee…”	一般社員とおなじあつかいに……」
+Hart	ハット
+“Did you speak with the Mayor?”	「市長の話は
+	お聞きになりました？」
+“What?	「は？
+A password?	合言葉？
+Oh, I get it…”	ははあ、なるほど……」
+“He's got way too much time on his hands.	「あの人もヒマなんですよ。
+But you can't really blame him,	なんせミッドガルの全権は
+Everything in Midgar is controlled	ほとんどプレジデント神羅の
+by President Shinra.”	ものですからね」
+“Maybe I can help you.”	「そういうことなら
+	わたくしがお手伝いしましょう」
+“What do you want to know?”	「なんでもお答えしますよ？」
+The password…duh!	合言葉を教えて
+How about a hint?	ヒントをくれ
+Get out of my face	助けなどいらない
+Hart	ハット
+“…I see.	「ハア、そうですか。
+Then, I guess that's that.”	ではしかたありませんね」
+“Good luck	「がんばってご自分で
+finding it on your own.”	見つけてください」
+“If you decide you want help.	「どうしてもわからなかったら
+I'll just be right over here.	またどうぞ。
+Ready to tell you anytime…”	いつでもお教えしますよ……」
+“What can I do for you?”	「ハイハイ。何がお望みで？」
+Give me the hint again	さっきのヒントをもう１度
+Give me the next hint	次のヒントを
+Uh, nothing	なんでもない
+Hart	ハット
+“Sure, sure.	「ええ、いいですとも。
+All right.”	いいですとも」
+“As a public servant,	「市民のみなさんに
+it's my job to serve	サービスすることこそ
+the needs of the people.”	わたくしたち役人のよろこび」
+“So here's a hint…”	「こころよくヒントを
+	お教えしましょう！
+“…for 500 gil.”	「……５００ギルで」
+Give him the money	金をだそう
+Forget it!	ふざけるな！
+“…for 1000 gil.”	「……１０００ギルで」
+Give him the money	金をだそう
+Forget it!	ふざけるな！
+“…for 2000 gil.”	「……２０００ギルで」
+Give him the money	金をだそう
+Forget it!	ふざけるな！
+“…for 5000 gil.”	「……５０００ギルで」
+Give him the money	金をだそう
+Forget it!	ふざけるな！
+“…for 15000 gil.”	「……１５０００ギルで」
+Give him the money	金をだそう
+Forget it!	ふざけるな！
+Hart	ハット
+“What do you want to know?”	「なんでもお答えしますよ？」
+HELP	助けてくれ
+Forget it	助けなどいらない
+Hart	ハット
+“Hey now!	「おやおや。
+You're a bit short.”	お金がたりないようですが？」
+“No one works on credit nowadays…	「今どきスラムの道具屋だって
+not even stores in the slums.”	ツケはききませんよ……」
+Hart	ハット
+“I can't believe it! I gave you all	「しかし、これだけの
+these hints, and you STILL don't get it?”	ヒントでもわからないとは……」
+“You guys are amazing!	「あなたがた、やっぱりスゴイ人だ。
+	いろんなイミで」
+Really, amazing…”	「こうなったらもう
+“Well, seeing as things have come to this,	ズバリ合言葉をお教えします！
+I might as well just tell you.”	
+Hart	ハット
+“Oh, my…well,	「これはこれは……
+Thank you very much.”	ありがとうございます。
+“Now listen.	「いいですか。
+On this floor are four research libraries	このフロアには神羅カンパニーの
+for four different sections of Shinra, Inc….”	４つの部門の資料室があります」
+“Parts of the password are hidden	「合言葉はその４つの資料室に
+in each of the libraries.”	かくされています」
+“Pay careful attention to the files	「各部屋の資料をよ～く
+in each room.”	調べてみてください」
+“The name of each library is written	「資料室の名前は
+on the plaque outside the door.”	ドアの横のプレートに
+	書いてあります」
+“Now, in each library will be one file	「いいですか。
+mixed in from another library.”	どの資料室にも１つだけ
+	他の部の資料が
+	まぎれこんでいるはずです」
+“Look carefully at the numbers	「その資料の数字と
+on each file.”	ファイル名をよく見ると……」
+“There is a number at the beginning	「いいですか。
+of each file name.”	すべての資料には
+	数字がついています」
+“Look at the number on	「各部屋にまぎれこんでいる
+the files that don't belong	資料の名前を、その数字と
+in that library.”	見くらべてください」
+“Match the number with the letters	
+in the title of the file.”	
+“If the file starts with a 4,	「『４』と書いてある資料なら
+then check the fourth letter and…	名前の４文字目を……
+well, you get the idea.”	もう、おわかりでしょ？」
+Hart	ハット
+“What do you mean the next hint?	「次のヒントって……
+I've practically told you, didn't I?”	もう、ズバリ答えを
+	言っちゃったじゃないですか！」
+“…all right.	「……わかりました。
+Since this seems like a special case,	特別にわたくしのカードキーを
+I'll give you MY key card!”	さしあげましょう！」
+Hart	ハット
+“If you run into President Shinra,	「もしプレジデント神羅に
+please don't tell him about this.”	会っても、わたくしのことは
+	言わないでくださいよ」
+“I can't be a partner to	「これ以上神羅に
+anymore trouble for Shinra.”	イジメられるのは
+	ゴメンですからね……」
+	ドミノ
+“I never thought you'd	「なんと、１回でズバリあてるとは……」
+get it on the first try…”	
 	
-TIFA	TIFA
-“How do we get to the Shinra Building?”	「神羅ビルにはどうやって？」
-BARRET	BARRET
-“There ain't no train	「もう、上に行く列車は使えねぇ…」
-that goes up there anymore…”	
-TIFA	TIFA
-“…”	「………」
-TIFA	TIFA
-“Well, let's go to Wall Market.	「とりあえず、【ウォールマーケット】に
-We might be able to find something there.”	行きましょう。　あそこなら何か
-	いい手が見つかるかもしれないわ」}
-Wall Market	ウォールマーケット
-“Everyone climbed up this wire.	「みんなこのワイヤーを登って
-Looks scary…Brrr.”	上にいっちゃったよ。
-	こわくないのかな……ブルブル」
-“Oh man!	「うわ～！
-This is horrible…”	すげ～、ヒサン……」
-“Hey, scary, huh?	「な、こえ～だろ？
-Dad told me that	とうちゃんはしんらってやつの
-it's the Shinra's doing.”	しわざだっていってたよ」
-TIFA	TIFA
-“Can we climb it?”	「これ、のぼれるの？」
-“Yeah.	「うん。
-It leads to the upper world.”	上の世界につながってるんだよ」
-BARRET	BARRET
-“Alright!	「よし！
-We'll climb the wire!”	このワイヤー、のぼろうぜ！」
-CLOUD	CLOUD
-“There's no way we can do this.	「それは無理な話だな。
-You know how far it goes up?”	何百メートルあると思ってるんだ？」
-BARRET	BARRET
-“There IS a way!	「無理じゃねえ！
-Look! What's that look like?”	見ろ！　これは何に見える？」
-CLOUD	CLOUD
-“Just a normal wire.”	「何のへんてつもないワイヤーだ」
-BARRET	BARRET
-“Oh yeah? Well to me it looks	「そうかよ？　オレには
-like a golden shiny wire of hope.”	金色に輝く希望の糸に見えるぜ」
-“You're right.	「そうね、AERITHを救うために
-This is the only way	残された道は、これだけだもんね」
-to save AERIS…”	
-CLOUD	CLOUD
-“OK, that was a bad analogy,	「よくわからないたとえだったが
-but, BARRET,	BARRET、あんたの気持ちはわかった」
-I understand how you feel.”	
-CLOUD	CLOUD
-“Let's go!”	「行くぞ！」}
-Plate Section	プレート断面
-CLOUD	CLOUD
-“…Maybe if I put a battery in…”	「……バッテリーをはめれば」
-“The propeller might work.”	「あのプロペラが回りそうだな」
-CLOUD	CLOUD
-“It might work	「バッテリーをはめなければ
-if I put a battery in it.”	動きそうにないな」
-CLOUD	CLOUD
-“I guess I'll just have to	「武器屋の言葉を
-believe the shopkeeper.”	信じてみるか」
-CLOUD	CLOUD
-“Looks like the only way is	「どうやら、あれに飛び移るしか
-to jump onto that bar.”	ないようだな」
-“Should make it if I	「あれが、いちばん近づく前に
-jump before it comes too close.	ジャンプすればよさそうだな。
-(use [OK] to jump)”	（決定ボタンでジャンプ）」
-CLOUD	CLOUD
-“Jumped too soon…”	「タイミングが早かったようだ……」
-CLOUD	CLOUD
-“Jumped too late…”	「タイミングが遅かったようだ……」
-CLOUD	CLOUD
-“Need a battery here, too.”	「ここにもバッテリーが必要だな」
-CLOUD	CLOUD
-“Damn, out of batteries…”	「しまった。
-	もうバッテリーがない……」}
-Shinra Bldg.	神羅ビル
-Shinra Bldg. Stairs	神羅ビル・階段
-	
-BARRET	BARRET
-“Yo…	「おい……
-You really gonna take these	ホンキでこれ、上まで
-stairs all the way up?”	のぼるつもりか……？」
-TIFA	TIFA
-“Well we've got to	「しょうがないでしょ。
-get to AERIS	AERITHを
-to help her somehow.”	無事に助けるためよ」
-BARRET	BARRET
-“Of all the out of the way…”	「しかし、いくら
-	見つかりにくいったって
-	こいつは……」
-TIFA	TIFA
-“I don't have time to argue with you!	「もう、ゴチャゴチャいわない！
-I'm going!”	いくわよ！」
-BARRET	BARRET
-“Y, yo TIFA!	「お、おいTIFA！
-Don't go alone!”	１人でいくな！」
-TIFA	TIFA
-“Wait a minute,	「ちょっと待ってよ
-CLOUD!”	CLOUD！」}
-Shinra Bldg. Stairs	神羅ビル・階段
-	
-BARRET	BARRET
-“Don't know…	「なんで……
-why…the hell…	わざわざ……
-we gotta…climb…”	こんな……くろうを……」
-CLOUD	CLOUD
-“…because we don't want to start	「……AERITHを助け出すまで
-a commotion until we've saved	騒ぎはおこしたくないんだ」
-AERIS.”	
-CLOUD	CLOUD
-“If that's possible…”	「でも、無理だろうな……」
-BARRET	BARRET
-“…heh heh heh.”	「……ヘヘヘ」
-CLOUD	CLOUD
-“Knock it off. You're giving me the creeps.”	「なんだよ、気持ち悪いな」
-BARRET	BARRET
-“So even you will fight for someone else.	「あんたでも他人のために
-Guess I figured you wrong.”	戦うことがあるんだな。
-	見直したぜ」
-CLOUD	CLOUD
-“Who cares what you figured!”	「あんたに見直されても
-	うれしくない」
-BARRET	BARRET
-“I'm just sayin'	「いや、なんていうか……
-mebbe I was wrong…”	いろいろ悪かったな」
-TIFA	TIFA
-“heh heh heh……”	「フフフ……」
-CLOUD	CLOUD
-“What's that supposed	「なんだよ。
-to mean, TIFA?”	TIFAまで……」
-BARRET	BARRET
-“…how much farther do these	「……しかしこの階段
-stairs go on?”	どこまで続くんだ？」
-TIFA	TIFA
-“Why don't you ask them?”	「さあ……階段にきいて」
-BARRET	BARRET
-“It's not one of them endless	「このままずっと
-stairways or somethin', is it?”	続くなんてことは
-	ないよなあ？」
-TIFA	TIFA
-“Of course not!!”	「まさか！！」
-BARRET	BARRET
-“Right…couldn't be that…”	「だよな……
-	そんなはずないよな……」
-BARRET	BARRET
-“Are we there yet?”	「まだつかないのか？」
-TIFA	TIFA
-“Not yet.”	「まだみたいね」
-BARRET	BARRET
-“…there yet?”	「……まだか？」
-TIFA	TIFA
-“I said not yet!”	「まだよ」
-BARRET	BARRET
-“Yo…”	「なあ……」
-TIFA	TIFA
-“Look, don't even ask!	「まだだってば！
-We're way way way way far	まだまだまだまだ
-away from being there, OK!?”	まだまだまだーっ！！」
-BARRET	BARRET
-“Yo…	「なあ……
-What floor is this?”	今、何階だ？」
-TIFA	TIFA
-“…I stopped counting.”	「……もう数える
-	気にもならない」
-BARRET	BARRET
-“Why they gotta build these buildings	「こ……こんなバカ高い
-so damn tall?”	ビルつくりやがって……」
-BARRET	BARRET
-“That Shinra…	「やっぱり、し、神羅なんて
-They're just no damn good.”	ロクなやつじゃねえぜ……！」
-TIFA	TIFA
-“…”	「…………」
-BARRET	BARRET
-“…huff…	「ああ……
-Man, I'm beat…”	オレはもうダメだ……」
-BARRET	BARRET
-“Marlene, daddy wanted to	「マリン、父ちゃんは
-see your face one more time…”	もう一度お前に
-	会いたかった……」
-TIFA	TIFA
-“Would you stop acting like a	「ちょっと！
-retard and climb!?”	エンギでもないこと
-	言わないの！」
-TIFA	TIFA
-“It's just a bit more!”	「もう少し！
-	もう少しだから！」
-TIFA	TIFA
-“…maybe.”	「たぶん……」
-BARRET	BARRET
-“Damn, man!	「もうイヤだ！
-I've had it! I'm going back!”	オレはもどるぞ！」
-TIFA	TIFA
-“It'll take just as long to go down as	「今までのぼったのと
-it did to come up.”	おなじだけ階段おりて？」
-BARRET	BARRET
-“…”	「…………」
-TIFA	TIFA
-“C'mon, BARRET.	「ホラ、BARRET
-Pull it together!”	しっかりしなさい！」
-BARRET	BARRET
-“Yeah well, all I know is I'm only	「ん、んなコト言ったって
-flesh 'n' blood…	オレは、み、右腕以外は
-cept for this arm of mine.”	普通の体なんだぜ……」
-“Don't treat me like I'm some	「元ソルジャーみたいな
-ex-SOLDIER or somethin'…”	と、特別製と……
-	いっしょにしないでくれ……」
-TIFA	TIFA
-“What about me!? I'm human too!	「私だって普通だってば！
-Oh, do what you want, I'm going on!”	先に行っちゃうわよ！」
-TIFA	TIFA
-“…?”	「……？」
-TIFA	TIFA
-“Yaah!	「キャッ！！
-BARRET!	ヤダ、BARRET！
-You go first!”	やっぱり先に行って！」
-BARRET	BARRET
-“What're ya ignorant?	「バ、バカ！
-	オレはそんな
-…I didn't mean that”	つもりじゃ……」
-TIFA	TIFA
-“All right, all right!”	「いいから！」
-TIFA	TIFA
-“CLOUD,	「CLOUDも！
-you go on ahead too!!”	先に行って！！」}
-	
+“Just goes to show you can't	「ひとは見かけによらないものだ。
+judge a book by its cover.	まあいい、約束は約束だ。
+Oh well, a promise is a promise.	これもやろう」
+Take this, too.”	
+Received "Elemental" Materia!	『ぞくせい』のマテリアを手にいれた！
+You cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+Domino	ドミノ
+“What…full already?	「……なんだ、アレはいっぱいか。
+Come back again when it's empty.”	アレに空きができたら、またきたまえ」
 Received "Elixir"!	『エリクサー』を手にいれた！
-Received "Behemoth Horn"!	『ベヒーモスホーン』を手にいれた！
-Shinra Bldg. Stairs	神羅ビル・階段
+Received "Ether"!	『エーテル』を手にいれた！
+Received "Potion"!	『ポーション』を手にいれた！-
+Domino	ドミノ
+“Hmm.	「フン、そこそこ頭は
+It appears you're not completely stupid.”	はたらくようだ」
+“Fine then, take this.”	「いいだろう、これを
+	うけとりたまえ」
+Domino	ドミノ
+“I see…	「なるほど……
+For you…this might be best.”	ま、キミらならこんなものかな」
+“Then,	「それでは、キミたちに
+this is for all of you.”	あげるのもこんなものだ」
+Domino	ドミノ
+“Hoo boy! You finally got it?”	「やれやれ、やっとあてたか……」
+“You all really don't use	「やはり頭を使うのは
+your heads much, do you?”	苦手かね？」
+“……What the hey.	「……まあいい。
+Here, just take it anyway.”	とっておきたまえ」}
+This is the Scientific Research Library.	ここは科学部門の資料室です。
+Materials for the…	他の３つの資料室にはそれぞれ……
+Urban Dev. Library	都市開発部門
+Peace/Weapon Dev. Library	治安維持・兵器開発部門
+Space Dev. Library	宇宙開発部門
+are held in their respective libraries…	の資料が保管されています。
 	
-BARRET	BARRET
-“…finally…	「や……やっと……
-…made it…”	つい……た……」
-“…never wanna see…	「か……階段なんて……
-no more stairs the rest of my life…”	もう見るのもゴメンだ……」
-TIFA	TIFA
-“…huff…puff…	「ハア……ハア……
-I'm beat…”	さすがにこれは……
-	こたえたわ……ね……」
-“But here we are.	「……でも、これからが本番よね。
-We'd better get ready!”	元気出していかなきゃ……！」}
-sector 0	０番街
-Shinra Bldg.	神羅ビル
-	
-BARRET	BARRET
-“Hey, you oughta know	「おい、このビルには
-this building well.”	くわしいんだろ？」
-TIFA	TIFA
-“What's wrong?”	「どうしたの？」
+Materials are non-circulating!	持ちだし禁止！
+Please do not remove any	このフロアの資料はすべて
+Materials from this floor.	外部に持ちだすことを
+	禁じられています。
+2Problems with Plate	２　神羅プレート都市の
+ construction in Midgar	設計とその間題点
+5Reactor Construction Chart	２　魔晄炉建造工事
+	都市部着工予定表
+6Reactor Construction Chart	８　魔晄炉建造工事
+	都市部着工予定表
+4Ranks and extended use	６　魔晄兵器の長期使用に
+of Mako weaponry	関する特別規定
+24Ranks and extended use	１　魔晄兵器の長期使用に
+  of Mako weaponry	関する特別規定
+4Midgar City map: Sectors 0-4	４　ミッドガル区分地図
+	０番街～４番街
+9Midgar City map: Sectors 5-8	５　ミッドガル区分地図
+	５番街～８番街
+3An illustrated guide to	６　　図説　カトー式都市空間工法
+City Planning	
+4The Jenova Project	１　　ジェノバプロジェクト
+	経過報告書
+	神羅カンパニー科学部門
+6Data on experimental	２　ミッドガル周辺に生息する
+animals living near Midgar	突然変異生物実験データ
+3File on Dr. Gast, Biologist	３　　　　ガストファイル
+	生物博士ガスト・ファレミス
+14The Ancients in History	７　　　歴史の中の古代種
+	生物博士ガスト・ファレミス
+8New plans for Urban Planning	３　新都市建設計画書
+10New plans for Urban Planning	１　新都市建設計画書
+4Report on high Mako levels	５　生物体の高レベル魔晄による
+in living beings	影響に対する調査
+2Mako energy and the rise	４　生物の爆発的進化と
+in life forms	魔晄エネルギー
+8Final evolutionary stages	６　地上生物の最終進化論
+in land dwelling life	
+1Biological characteristics	８　伝承における古代種の
+of the Ancients	生物学的特性
+10Biological characteristics	[COULDN'T FIND IT]
+of the Ancients	[COULDN'T FIND IT]
+16Modern history of	２　　宇宙開発部門
+Midgar space program vol. 1	栄光の歴史　上巻
+19Modern history of the	４　　宇宙開発部門
+Midgar Space Dev Program Vol. 2	栄光の歴史　下巻
+7Diminishing Mako energy	９　魔晄エネルギーの低下と
+and Planet movements	惑星運動
+1Results of failed space mission	５　大型飛行機械「ヨナイ７９式」
+"YA-79"	宇宙進出計画の失敗
+6Shinra rocket space travel	６　神羅ロケットエンジンと
+	大陸間航行機
+7Economic report: Space Dev Program	１　　最終予算報告書
+	神羅宇宙開発部門
+10Materia production and its military uses	１　　マテリアの製造および
+	その軍事的利用に関する権利
+3Special peace keeping law	２　特別治安維持法
+	ハイデッカー私案
+1Heidegger's Shinra peace keeping law	１　神羅特別治安維持法
+	ハイデッカー私案
+1Breakdown of SOLDIER members by class	３　クラス別ソルジャー配備データ
+3Plan for new land weapons	４　新式地上兵器開発プラン
+4Midgar crime white paper	６　ミッドガル治安白書
+	反神羅勢力の現状
+2Problems with Plate	７　神羅プレート都市の
+construction in Midgar	設計とその間題点
+This is the Space Dev Research Library.	ここは宇宙開発部門資料室です。
+Click on the plate in front of	各資料室の場所については
+each library to see which it is.	部屋の前にあるプレートを
+	ごらんください。
+This is the Public Order/Weapon	ここは治安維持部門および
+Development Library.	兵器開発部門の資料室です。
+Return materials where you found them.	せいりせいとんを忘れずに！
+Do not mix materials from other libraries.	他の部門の資料と
+	間違えないようにしましょう。
+16Modern history of	２　　宇宙開発部門
+Midgar space program vol. 1	栄光の歴史　上巻
+17Modern history of	４　　宇宙開発部門
+Midgar space program vol. 2	栄光の歴史　下巻
+1Results of failed space mission "YA-79"	５　大型飛行機械「ヨナイ７９式」
+	宇宙進出計画の失敗
+6Shinra rocket space travel	６　神羅ロケットエンジンと
+	大陸間航行機
+8Final evolutionary stages	６　地上生物の最終進化論
+in land dwelling life	
+2Economic report: Space Dev Program	１　　最終予算報告書
+	神羅宇宙開発部門
+10Materia production and its military uses	５　　マテリアの製造および
+	その軍事的利用に関する権利
+3Special peace keeping law	２　特別治安維持法
+	ハイデッカー私案
+14Heidegger's Shinra peace keeping law	１　神羅特別治安維持法
+	ハイデッカー私案
+1Breakdown of SOLDIER members by class	３　クラス別ソルジャー配備データ
+2Plan for new land weapons	４　新式地上兵器開発プラン
+7Economic report: anti-Shinra activities	７　ミッドガル治安白書
+	反神羅勢力の現状
+2Construction of Midgar city	２　神羅プレート都市の
+plates and their problems	設計とその間題点
+5Reactor construction chart	２　魔晄炉建造工事
+	都市部着工予定表
+24Ranks and extended use of Mako weaponry	６　魔晄兵器の長期使用に
+	関する特別規定
+4Ranks and extended use of Mako weaponry	１　魔晄兵器の長期使用に
+	関する特別規定
+4Midgar City Map: Sectors 0 - 4	４　ミッドガル区分地図
+	０番街～４番街
+9Midgar City Map: Sectors 5 - 8	５　ミッドガル区分地図
+	５番街～８番街
+3An illustrated guide to city planning	６　　図説　カトー式都市空間工法
+1Jenova Project	１　　ジェノバプロジェクト
+	経過報告書
+	神羅カンパニー科学部門
+6Data on experimental animals	２　ミッドガル周辺に生息する
+living near Midgar	突然変異生物実験データ
+4File on Dr. Gast, biologist	３　　　ガストファイルα
+	生物博士ガスト・ファレミス
+4File on Dr. Gast, biologist	４　　　ガストファイルβ
+	生物博士ガスト・ファレミス
+10New plans for urban planning	３　新都市建設計画書
+4Report of high Mako levels in life forms	５　生物体の高レベル魔晄による
+	影響に対する調査
+2Mako energy and the rise in life forms	４　生物の爆発的進化と
+	魔晄エネルギー
+6Biological Characteristics of the Ancients	６　伝承における古代種の
+	生物学的特性
+15Diminishing Mako energy and	９　魔晄エネルギーの低下と
+Planet movements	惑星運動}
+"…beep…beep…	「ピピッ……
+Open the door?"	このドアをあけまスか？」
+Yes	あける
+No	やめておく
+"…beep…beep…	「ピピッ……
+…verifying keycard…	カードキー照合……
+………	………………
+"Level B employee: verified.	「Ｂランク社員ト確認。
+You are permitted to open doors	アナタは、このフロアのドアを
+on this floor up to three times."	３回まで開けルことが許可されましタ」
+"blip…	「チュウイ。
+If you receive an item coupon,	アイテムクーポンをもラったら
+remember to exchange it for an item."	わすれズに、アイテムと交換しまショう」
+"…Warning…do not enter the	「ケイコク。キケンですから
+air conditioning ducts,	むやみに通気ダクトを
+they are very dangerous..."	のぞクのはやめまショウ」
+"…ga…	「……ガ……
+…gaga…ga..."	……ガガ……ガ……」
+"…bing…bing…	「ピピッ……
+Enter command	コマンドを入力してくだサい」
+All Clear	オールクリア
+Coupon Change	クーポンチェンジ
+"You can exchange your coupons	「クーポンをアイテムに
+for items. Here are	かえることができまス。
+the items you can have..."	もラえるアイテムは……」
+"A coupon…'Star Pendant'	「Ａクーポン……『星のペンダント』
+B coupon….'Four Slots'	Ｂクーポン……『フォウスロット』
+C coupon….'All' Materia"	Ｃクーポン……マテリア『ぜんたいか』」
+"Please use caution…once you have	「ただし、クーポンチェンジ後の
+exchanged coupons for items you	オールクリアはでキません。
+may not select 'All Clear'."	ゴちゅういくださイ」
+"Exchange coupon?"	「クーポンチェンジしまスか？」
+Yeah……	ああ……
+Naw	やめておく
+"………	「………………
+Coupon exchange complete."	クーポンチェンジ完了」
+"…bing…bing…	「ピピッ……
+Start again from the beginning?"	もう一度ハジメから
+	やりなおしまスか？」
+"The information and materials you	「ただしこのフロアで
+received on this floor	手にいれタ記録、資料なども
+will all be cleared."	すべてクリアされまス」
+"Clear them?"	「クリアしまスか？」
+Yeah…	ああ……
+No	やめておく
+"………	「………………
+Cleared."	クリア完了」
+"You are permitted to open	「アナタは、このフロアのドアを
+ any door on this floor up to three times."	３回まで開けルことが許可されましタ」
+"Bi, bing…	「ピピッ……
+ You have opened three doors."	アナタはすでに３回
+	ドアをあけていまス」
+"If you access the computer,	「コンピュータにアクセスすれば
+You can begin	もう１度ハジメから
+this process one more time."	やりなおすことができまス」
+Received "Star Pendant"!	『星のペンダント』を手にいれた！
+Received "Hourglass"!	『きんのすなどけい』を手にいれた！
+Received "All" Materia!	『ぜんたいか』のマテリアを手にいれた！
+Received "Four Slot"!	『フォウスロット』を手にいれた！
+Received "Glow Lance"!	『グローランス』を手にいれた！
 CLOUD	CLOUD
-“…Not really,	「……知らない。
-now that I think about it,	そういえば本社に
-this's the first time I've ever been	来るのは初めてだ」
-to the Headquarters.”	
-BARRET	BARRET
-“I heard about this place before.”	「前にきいたことがあるぜ」
-“Every floor above the 60th is	「このビルの６０階から上は
-special and not easy to get to	特別ブロックとかで
-even for employees.”	社員でも簡単には入れないってな」
-“Must be where they	「AERITHが連れて
-took AERIS.”	いかれたのもそこにちがいねえ」
-“The security's pretty light now.	「今なら警備にもスキがある。
-Alright, let's go!!”	おおし、いくぜっ！！」
-TIFA	TIFA
-“Wait a second!	「ちょっとまってよ！
-You're not thinking of just going	まさか正面からのりこむつもり？」
-right through the main entrance, are you?”	
-BARRET	BARRET
-“Well what else does it look like!?	「決まってるだろ！
-I'm gonna kick some Shinra butt and…”	神羅のやつらをけちらして……」
-TIFA	TIFA
-“That's not going to work!	「そんなのムチャよ！
-We've got to find another way…”	もっと見つかりにくい方法を……」
-BARRET	BARRET
-“Ain't gonna be no other way!	「そんなコトやってられねえ！
-If we keep wastin' time like this,	グズグズしてたら
-AERIS'll…”	AERITHだって……」
-TIFA	TIFA
-“I know that!	「それはわかるけど！
-But if we get caught here…”	ここで私たちまで
-	つかまったら……」
-“Hey, CLOUD.	「ね、CLOUD。
-…What should we do?”	……どうしたらいいの？」
-Let's bust on in!	つっこむぞ！
-Let's sneak in quietly	コッソリ行こう
-BARRET	BARRET
-“That's more like it!	「そうこなくっちゃな！
-C'mon, let's go!!”	おおし、いくぜっ！！」
-TIFA	TIFA
-“See? Let's be careful and find a	「でしょ？
-different route!”	こんな時こそしんちょうに
-	他のルートを探しましょ！」
-{Cait Sith}	CAIT SITH
-“No, no!	「ちゃうちゃう！
-The Sister Ray's not this way!”	シスター・レイは、こっちやない！」
-	
-Shinra Bldg. 1f. lobby	神羅ビル・１階ロビー
-	
-Receptionist	受付
-“Excuse me! If you don't have an	「ちょっと、困ります！
-appointment, you'll have to…”	アポイントメントのない方は
-	こちらで……」
-BARRET	BARRET
-“I don't need no appointment…	「わりいな、ちっとばかし
-This is a 'mergency!”	急な用件でよ」
-“And anyone who don't wanna get their	「ケガしたくなかったら
-face bashed in better git outta the way!!”	ひっこんでな！！」
-“Yaagghh!”	「キャアーッ！！」
-“Who do they think	「なんなんだ
-they are?”	あいつら！？」
-“D, do you think	「ま、まさかやつらが
-they're AVALANCHE?”	アバランチ！？」
-“Intruders!	「侵入者だ！
-Seize them!!”	つかまえろ！！」
-BARRET	BARRET
-“Let's go to the top!”	「一気に上まで行くぞ！」
-“Battle!!”	バトル！！}
-Shinra Bldg. 2f. Shop	神羅ビル２階ショップ
-	
-“Honey…would you	「ネエ～
-buy me that car!”	新しいクルマ買ってェ～」
-“But baby,	「そんなこと言ったって
-it's way too expensive.”	新車は高いしなあ……」
-“What did you say?”	「はい？」
-“…”	「……」
-“…”	「……」
-“Hh, hey!”	「ヒ、ヒエ～！」
-“Ww, wait	「イヤ～
-for meeeeeee!”	おいてかないでェ～！」
-“Please take all	「え～、お買い物は
-purchases to the register”	レジの向こうからどうぞ」
-“Welcome.	「いらっしゃいませ。
-Our special today is…”	本日は何を……」
-“Eagghhh!!”	「キャッ！！」
-“Here,	「お、お金なら
-t, take the money…”	さしあげますから……」
-BARRET	BARRET
-“I don't want your money.	「カンチガイするな。
-AVALANCHE ain't no packa criminals.”	アバランチは強盗じゃねえ」
-“We jus' want back what your	「……アンタんとこのボスに
-boss stole from us.”	とられたものを
-	取り返しにきただけだ」
-BARRET	BARRET
-“I don't want your money.	「カンチガイするな、
-AVALANCHE ain't no packa criminals.”	アバランチは強盗じゃねえ」
-“We jus' want back what	「……アンタんとこのボスに
-your boss stole from us.”	とられたものを
-	取り返しただけだ」
-“I mean, "who"	「いや、ま、ものってのは
-he stole from us.”	なんだ、よくねえ言いかただがな」
-“A, AVALANCHE?”	「ア、アバランチ！？」
-BARRET	BARRET
-“We ain't gonna hurt you. We might	「アンタをどうこうする
-even pay ya, if ya help us.”	気はねえ。
-	金だってちゃんと払うぜ」
-“Ok…ok…well…”	「は、はい、それでは……」
-“What is it?”	「ま、まだなにか……？」
-“Thank you and come again…	「またのご来店お待ち……
-Forget I said that.”	したくはないです、ホントは……」
-“Welcome…	「……いらっしゃいませ。
-to the fully automated store.	無人販売機が
-Place your order…now.”	御用をうけたまわります」
-Received "Pile Bunker"!	『パイルバンカー』を手にいれた！
-Received "Master Fist"!	『マスターフィスト』を手にいれた！
-“You opened up all those	「あの、商品を勝手に
-things without asking	開けるとか、そういったことは
-and, hey wait!”	その、ちょっと……」}
-BARRET	BARRET
-“This is the real thing.	「ここからが本番だ。ゆだんするな」
-Don't let your guard down.”	
+“An air-duct…	「通気ダクトか……
+It doesn't look like	こちらからは
+I can climb in here.”	もぐりこめそうにないな」
 CLOUD	CLOUD
-“…I don't know.	「……知らない。
-Now that you mention it,	そういえば本社に来るのは初めてだ。
-this's my first time at headquarters.	あんたは知っているのか？」
-What about you?”	
-BARRET	BARRET
-“…I been here before.	「……前に来たことがある。
-Back when I still had both my hands.”	まだ、両腕があるころにな」
-TIFA	TIFA
-“I hope AERIS is all right.”	「AERITH、無事だといいね」
-TIFA	TIFA
-“AERIS…	「AERITH………
-She's been through a lot, huh.”	いろいろ大変だったのね」
-Yeah	そうだな
-You too, TIFA	TIFAだって}
-TIFA	TIFA
-“…What's wrong?”	「……どうしたの？」
+“An air-duct…”	「通気ダクトか……」
+Climb in and look around	もぐりこんでみるか
+Leave it alone	ほうっておこう
+Received Key Item "A Coupon "!	キーアイテム『Ａクーポン』を手にいれた！
+Received Key Item "B Coupon "!	キーアイテム『Ｂクーポン』を手にいれた！
+Received Key Item "C Coupon "!	キーアイテム『Ｃクーポン』を手にいれた！
+"…beep…beep…	「ピピッ……
+You do not have any coupons."	あなタはクーポンをもっていまセん」
+"…beep…beep…	「ピピッ……
+After you have exchanged coupons	クーポンチェンジ後の
+you may no longer use 'All Clear'."	オールクリアはでキません」
+You cannot take on more materia.	これいじょうマテリアは持てません。
+Please discard some materia.	なにかマテリアをすててください。
+"Your 'All' Materia was	「マテリア『ぜんたいか』を
+returned for a C Coupon."	Ｃクーポンにもどしましタ」}
+“…huff…wheeze…	「ハーハー……
+I'm trying to get rid	最近おなかのあたりが
+of my love-handles…”	気になりだして……」
+“…huff…puff…	「フーフー……
+If you get tired, you can	つかれたらとなりの部屋で
+rest up in the next room.”	やすむといいわよ」
+“Hmph, hmph…	「フンッ、フンッ……
+I'm head of building security	このビルの警備をあずかる
+so stamina's very important to me.”	者として、体力には
+	気をつかっているのだ」
+“You must be a visitor.	「ビジターの方でございますね。
+Feel free to use any	あいているマシンはご自由に
+open machine.”	ご利用ください」
 CLOUD	CLOUD
-“I didn't want to start a ruckus till	「AERITHを助け出すまで
-we saved AERIS.”	騒ぎはおこしたくなかった」
-“I should have known	「まあ、無理だろうとは
-that was impossible though…”	思っていたが……」
-BARRET	BARRET
-“Heh, heh, heh.”	「ヘヘヘ」
+“A nap room…”	「仮眠室か……」
+Let's get some rest	休んでいこう
+Let's move on	先を急ごう
+“…zzz…	「グーゴー……
+Please…let me…	たのむ……から
+get some…rest…”	ゆっくりねかせてくれ……」
+Received "Phoenix Down"!	『フェニックスの尾』を手にいれた！
+Received "Ether"!	『エーテル』を手にいれた！
+Received "HP Shout"!	『マーベラスチアー』を手にいれた！
 CLOUD	CLOUD
-“What is it? You're givin' me the willies.”	「なんだよ、気持ち悪いな」
-BARRET	BARRET
-“So there are times when even you	「あんたでも他人のために
-fight for other people.	戦うことがあるんだな。
-I am impressed.”	見直したぜ」
+“What is this…a Megaphone?”	「何だこれ……メガホン？」
+“Hanging on to	「こんなもの持っていっても
+this won't do any good…”	しょうがないな」
+Locked…	カギがかかっている……　　
+There's nothing inside…	中にはなにもない……　　
+Out of Order	故障中です
+Please use a different floor	他の階をご利用下さい
+Shinra Company Repair Management Department	神羅カンパニー修理課
+“Take one to restore your energy!!	「体力回復にこの１本！！
+'Shinra Gym Health Drink'”	『神羅ジム特製ドリンク』」
+“Only 250 gil!!”	「２５０ギルにて発売中！！」
+Try it out	買ってみるか
+Don't try it	やめておこう
 CLOUD	CLOUD
-“Who cares if you're impressed?”	「あんたに見直されてもうれしくない」
+“…Nothing…”	「……何もでてこないな」
+“…”	「…………」
+CLOUD	CLOUD
+“…Is it broken?'”	「……こわれているのか？」
+BANG on it	ガンガンたたく
+Give up	あきらめよう
+“Sir, what are you doing!?	「ちょっと、なにするんですか！
+No violence here, please!”	乱暴はやめてください！」
+Received "Mind Source"!	『マインドアップ』を手にいれた！
+Received "Speed Source"!	『スピードアップ』を手にいれた！
+CLOUD	CLOUD
+“….”	「…………」
+Should I try it?	やってみようか？
+This is so stupid	バカバカしい
+CLOUD	CLOUD
+“Whew…”	「フウ……」
+Better quit	そろそろやめよう
+Just a bit longer	もうすこしつづけよう
+CLOUD	CLOUD
+“I think I feel	「ほんのすこし
+a little lighter…	身が軽くなったような……
+Maybe just a bit…”	気がするな」}
+Locked…	カギがかかっている……}
+CLOUD	CLOUD
+“A model of Midgar…a city born	「ミッドガル……
+from the earth's Mako.”	魔晄エネルギーを吸い出し
+	生きつづける都市の模型か……」
+“Some parts are missing…”	「模型が価けている……」
+Insert the Midgar parts	ミッドガルパーツをはめよう
+Leave it alone	ほうっておこう
+CLOUD	CLOUD
+“…Sounds like	「……なにかが開いたような
+something opened up…”	音がしたな……」
+Received Key Item "Keycard 66"!	キーアイテム『カードキー６６』を手にいれた！
+CLOUD	CLOUD
+“Midgar…a city born	「ミッドガル……
+from the earth's Mako.	魔晄エネルギーを吸い出し
+A model of the city…”	生きつづける都市の模型か……」
+“When construction of Sector 6	「この建設中の６番街が
+finishes, Shinra's plan	完成したとき、神羅の
+will be complete.”	野望も完全なものとなる」
+“That must be why he took	「その野望のために
+AERIS…”	AERITHを……？」}
+ “They're having another executive meeting.	 “They're having another executive meeting.
+I wonder if it's about that Plate incident.”	I wonder if it's about that Plate incident.”
+“Sittin' here facing the monitor…day in, day out…	 “Sittin' here facing the monitor…day in, day out…
+I kinda feel……forced…into doing it.	I kinda feel……forced…into doing it.
+And I just don't have any motivation.”	And I just don't have any motivation.”
+“Hey, when you're in the bathroom, do you ever	 “Hey, when you're in the bathroom, do you ever
+hear whispers coming from somewhere?”	hear whispers coming from somewhere?”
+“Is it just me or does the	 “関係ないけどよ。
+Conference Room smell?	あの会議室って、何か臭くないか？
+There's some sort of stench	どこかから臭ってくるんだよな…… END}
+coming from somewhere…”	「なんかこう、生きがいって
+“It gives me the feeling that I AM alive.	ものを感じるよな。
+The feeling of moving this world,	世界をこの手で動かしているっていう
+just with my hands.”	この感じ」END}
+“Whew, I'm so sick of carrying all these files…”	 “はぁ～
+	 もうファイル運びはうんざり……」{NewScreen}
+“But I get to meet lots of guys.	「でもいろんな男の人との出会いがある。
+I guess that's the benefit of being a secretary!”	それがOLの特権ね！」END}
+“Hello…!!	 “Hello…!!
+(Looks so serious.	
+ I guess it means the man's fastidious.)”	
+“Hello…!!	 “Hello…!!
+(He's kinda cute. But looks like that girl's	
+ with him…	
+ But that's kinda exciting!)”	
+“Hello…!!	 “Hello…!!
+ (Wow, Pee-U! No thanks.)”	
+“Hello…!!	 “Hello…!!
+(Just concentrate on work…)”	
+“Come on, we're building the future of Mako!”	 “さあ、私たちで魔晄の未来をつくるのよ！”
+“……………………	 “……………………
+ ……………………	 ……………………
+ ……………………	 ……………………
+ ……………………	 ……………………
+ ……………………	 ……………………
+ ……………………	 ……………………
+ “Phew!”	………………ふう”
 BARRET	BARRET
-“Y'know, I ain't so good at sayin' this but…	「いや、なんていうか……
-Sorry…for…lots of things.”	いろいろ悪かったな」
+“Geez--!	「ヒュ～！ 
+That's a lotta suits!”	そうそうたる顔ぶれだぜ」
+Reeve	Reeve
+“We have the damage estimates for Sector 7.”	「７番街の被害報告が出ました」　NewScreen}
+“Considering those factories we already set up	「すでに稼動していた工場部分と
+and all the investments,	現在までの投資額を考えると
+the damage is estimated	 我が社の損害は
+at approximately 10 Billion gil…”	100億ギルはくだらないかと……」END}
+Reeve	リーブ
+“The estimated cost to rebuild Sector 7 is…”	「また７番プレートの再建にかかる
+	費用は……」
+President Shinra	プレジデント神羅
+“We're not rebuilding.”	「再建はしない」”
+Reeve	リーブ
+“What?”	「は？」END}
+President Shinra	プレジデント神羅
+“We're leaving Sector 7 as it is.”	「７番プレートはこのまま放っておく」
+“And restarting the Neo-Midgar plan.”	「そのかわりに 
+	ネオ・ミッドガル計画を再開する」END}
+Reeve	リーブ
+“…then the Ancients?”	「……では、古代種が？」END}
+President Shinra	プレジデント神羅
+“The Promised Land will soon be ours.”	「約束の地はまもなく
+	我々のものになるだろう」END}
+President Shinra	プレジデント神羅
+“I want you to raise the Mako rates	「それから各地の魔晄料金を
+15% in every area.”	15％値上げしたまえ」END}
+Palmer	パルマー
+“Rate hike! Rate hike!	「値上げ値上げ！
+Tra, la, la!	 うひょひょひょひょ！ 
+And please include our Space Program	ぜひ我が宇宙開発部にも予算を！」
+in the budget!”	
+President Shinra	プレジデント神羅
+“Reeve and Scarlet will divide the  	「魔晄料金値上げによる差益は
+extra income from the rate increase.”	 リーブくんとスカーレットくんで
+	分配したまえ」
+Palmer	パルマー
+“Oh man!”	「いいないいな！」END}
+Reeve	リーブ
+“Sir. If you raise the rates,	「プレジデント。
+the people will lose confidence…”	これ以上の魔晄料金の値上げは
+	住民の不満をまねき……」
+President Shinra	プレジデント神羅
+“It'll be all right.”	「だいじょうぶだ」（NewScreen）
+“The ignorant citizens won't lose confidence,	「おろかな住民たちは不満をどころか
+they'll trust Shinra, Inc. even more.”	 ますます神羅カンパニーに
+	信頼をよせることになる」END}
+Heidegger	ハイデッカー
+“Ha ha ha!”	「ガハハハハ！」NewScreen}
+“After all, we're the ones who saved	「テロリストどもから
+Sector 7 from AVALANCHE!”	７番街の市民を救ったのは
+	 神羅カンパニーですからな！」END}
 BARRET	BARRET
-“Wh, what the!?”	「な、何だ！？」
+“That dirty #$*$^”	「汚ねえ……」
+President Shinra	プレジデント神羅
+“Hojo.	「おお、宝条くん。
+How's the girl?”	あの娘はどうかね」
+Hojo	宝条
+“As a specimen, she is inferior to her mother.	「サンプルとしては母親におとる。
+I'm still in the process of comparing	母親イファルナとの比較中だが
+her to her mother, Ifalna,	初期段階で相違が18％」
+but for now the difference is 18 %.”	
+President Shinra	プレジデント神羅
+“How long will the research take?”	「その検査にはどれくらいかかる？」
+Hojo	宝条
+“Probably 120 years.	「ざっと、120年。
+It's probably impossible to finish	我々が生きてるあいだは無理だろう。
+in our lifetime.	もちろんあのサンプルもな」
+Or in the lifetime of the specimen too,	
+for that matter.”	
+Hojo	宝条
+“That's why we're thinking of breeding her.	「だから古代種を繁殖させようと思うのだ。
+Then we could create one that could withstand	しかも、長命で実験に耐えうる
+our research for a long time.”	強さを持たせることができる」
+President Shinra	プレジデント神羅
+“What about the Promised Land?	「約束はどうなる？ 
+Won't it hinder our plans?”	計画に支障はでないのか？」END}
+Hojo	Hojo
+“That's what I need to plan.	「……そのつもりだ。
+The mother is strong…	母は強く……そして弱みを持つ」END}
+and yet has her weaknesses.”	
+CLOUD	CLOUD
+“They were talking about	「いまのはAERITHの話……だよな」END}
+AERIS…right?”	
+BARRET	BARRET
+“I dunno.”	「わかんねえ」END}
 TIFA	TIFA
-“Look!”	「見て、あれ！」
+“Probably.”	「たぶん、ね」END}
+CLOUD	CLOUD
+“Let's follow 'em.”	「あとをつけよう」END}
+Scarlet	スカーレット
+“Something stinks…”	「臭うわね……」END}
+President Shinra	神羅
+“That concludes our meeting.”	「では、会議を終わる」END}
+Flush?	汚いから長そうか？
+Climb up?	登ってみようか？
+Get out of here	やっぱり出よう
+CLOUD	CLOUD
+“Hojo…huh…?”	「宝条……ってやつか……」END}
 BARRET	BARRET
-“DA-MN!”	「チ……！」
+“I remember him.”	「思い出したぜ」END}
 BARRET	BARRET
-“Just stop it, CLOUD!	「かまわねえCLOUD！
-I don't care where!”	どこでもいいから止めちまえ！」
+“That Hojo guy.	「あの宝条ってやつ。
+He's in charge of the Shinra's	神羅の科学部門の責任者だ。
+Science Department.	
+CLOUD, don't you know him?”	CLOUD、知らねえのか？」END}
+CLOUD	CLOUD
+“This is the first time I've actually ever seen him.	「じっさい見るのは初めてだ。
+So…that's what he looks like…”	そうか……あいつが……」END}
+“Is this today's specimen?”	「今日の実験サンプルはそいつですか？」END}
+Hojo	宝条
+“Yes.	「そうだ。すぐ実験にとりかかる。上の階をあげてくれ」END}
+We're starting right away.	
+Raise it to the upper level.”	
+Hojo	宝条
+“My precious specimen…”	「かわいいサンプルよ……」END}
 TIFA	TIFA
-“What's going on!?”	「どうなってるの！？」
-“Oh man!!”	「ヒャッ！！」
-“No, uh, that's all right.	「あ、あの、いいんです。
-My mistake.	まちがいでした。
-I'm, uh, not getting on.”	私、のりませんから」
-“Oh man!!”	「ヒエ～ッ！！」
-“You…again?	「ま、まだ
-	のってらしたんですか……
-Uh, I'll pass.”	え、ええ、私は今回も
-	パスしますです」
-Elevator	エレベーター
-Shinra Bldg. 59f.	神羅ビル・５９階
+“Precious specimen…?”	「かわいいサンプルよ…か」END}
+TIFA	TIFA
+“Is it going to be used for	「生物実験に使われるのかな？」END}
+a biological experiment?”	
+CLOUD	CLOUD
+“……A monster.”	“……A monster.”
+TIFA	TIFA
+“You all right?”	“You all right?”
+CLOUD	CLOUD
+“Jenova…”	「ジェノバ……」END}
+CLOUD	CLOUD
+“Jenova…	「ジェノバ…… セフィロスの…… そうか……ここに運んだのか」END}
+Sephiroth's…	
+So…they've brought it here.”	
+TIFA	TIFA
+“CLOUD, be strong!”	「CLOUD、しっかりして！」END}
+CLOUD	CLOUD
+“Did you see it?”	「見たか？」END}
+BARRET	BARRET
+“See what?”	「何を？」END}
+CLOUD	CLOUD
+“It's moving……still alive?”	「動いてる……生きてる？」END}
+BARRET	BARRET
+“Where's its $#&*&@ head?	「何だい、この首なしは？ けっ、バカバカしい。さっさと行こうぜ」END}
+This whole thing's stupid.	
+Let's keep goin'.”	
+“Let's see…	 “さて……と
+The specimen Hojo asked me for is…”	宝条さんに頼まれた
+	サンプルわ……と
+“That elevator back there is only	「奥のサンプル運搬用エレベーターは
+to transport Specimens.	使用禁止だよ。６８階の研究室に
+You can't use it.	直結しているから便利なんだけどね」
+It would be a lot easier	
+if it led to the 68 Floor Research Lab.”	
+CLOUD	CLOUD
+“AERIS!”	“AERITH!”
+Hojo	宝条
+“AERIS?	「AERITH？ ああ、この娘の名前だったな。何か用か？」END}
+Oh, is that her name?	
+What do you want?”	
+CLOUD	{CLOUD
+“We're taking AERIS back.”	「AERITHを返してもらおう」END}
+Hojo	宝条
+“Outsiders……”	「…………部外者だな」END}
+BARRET	BARRET
+“Shoulda noticed it earlier, you…”	「最初に気づけよ」END}
+Hojo	宝条
+“There's so many frivolous things in this world.”	「世の中にはどうでもいいことが多いのでな」END}
+Hojo	宝条
+“Are you going to kill me?	「私を殺そうというのか？ それはやめた方がいいな」NewScreen}
+I don't think you should.”	
+“The equipment here is extremely delicate.	「ここの装置はデリケートだ。私がいなくなったら操作できまい？　ん？」END}
+Without me, who could operate it? Hmm?”	
+CLOUD	CLOUD
+“Ugh.”	「くっ」END}
+Hojo	宝条
+“That's right.	「そうそう。こういう時こそ論理的思考によって 行動することをおすすめするよ」END}
+I recommend you think things out logically	
+before you make any rash moves.”	
+Hojo	宝条
+“Now, bring in the Specimen!”	「さあ、サンプルを投入しろ！」END}
+CLOUD	CLOUD
+“What do you think you're doin'?”	「何をする気だ！」END}
+Hojo	宝条
+“Lending a helping hand to	「滅びゆく種族に愛の手を…… どちらも絶滅まぢかだ」END}
+an endangered species…	
+Both of them are on the	
+brink of extinction…”	
+Hojo	宝条
+“If I don't help, all these animals will disappear.”	「私が手を貸さないと この種の生物は滅んでしまうからな」END}
+TIFA	TIFA
+“…animal? That's terrible!	「……生物？　ひどいわ！ AERITHは人間なのよ！」END}
+AERIS is a human being!”	
+BARRET	BARRET
+“You're gonna pay!”	「許せねえ！」END}
+AERIS	AERITH
+“CLOUD, help!”	「CLOUD、助けて！」END}
+CLOUD	CLOUD
+“BARRET!	「BARRET！ 何とかならないのか？」END}
+Can't you do anything?”	
+BARRET	BARRET
+“Awright!!	「ええい！！ さがってろ！」END}
+Step back!”	
+Hojo	宝条
+“Stop!!”	「やめろ！！」END}
+Hojo	宝条
+“Wh…what are you do--	「な、なんていうことだ。大事なサンプルが……」END}
+Oh! My precious specimens…”	
+Hojo	Hojo
+“Take care of the rest!”	“Take care of the rest!”
+Hojo	宝条
+“This is no ordinary specimen.	「今度はこんなハンパな奴ではないぞ。もっと凶暴なサンプルだ！」END}
+This is a very ferocious specimen!”	
+CLOUD	CLOUD
+“Now's our chance to get AERIS!”	「今のうちにAERITHを！」END}
+AERIS	AERITH
+“Thanks, CLOUD.”	「ありがと、CLOUD」END}
+TIFA	TIFA
+“CLOUD…what's wrong?”	「どうしたの？　CLOUD……」END}
+CLOUD	CLOUD
+“…The elevator is moving.”	「……エレベーターが動いてる」END}
+BARRET	BARRET
+“Oh shit…	“Oh shit…
+We're surrounded.”	
+“He's rather strong.	「あいつは少々手強い。私の力を貸してやる」END}
+I'll help you all out.”	
+TIFA	TIFA
+“It talked!?”	「しゃべった！？」END}
+“I'll talk as much as you want later, Miss.”	「あとでいくらでもしゃべってやるよ、おじょうさん」END}
+CLOUD	CLOUD
+“We'll take care of that monster.”	「あの化け物は俺たちがかたづける」NewScreen}
+“Somebody take AERIS	「誰かAERITHを安全な所へ……」EOL}
+somewhere safe…”	
+   TIFA, I'm countin' on you!	   TIFA, I'm countin' on you!
+   BARRET, take care of her!	   BARRET, take care of her!
+CLOUD	CLOUD
+“What's your name?”	「おまえの名前は？」END}
+{Red XIII}	RED XIII
+“Hojo has named me, Red XIII.	「宝条は私をRED XIIIと名づけた。私にとって無意味な名前だ。好きなように呼んでくれ」END}
+A name with no meaning whatsoever to me.	
+Call me whatever you wish.”	
+CLOUD	CLOUD
+“Come on!”	「さあ、かかってこい！」END}
+“You must be the leader? Come on!”	 “You must be the leader? Come on!”
+BARRET	BARRET
+“I'll take AERIS!”	“I'll take AERITH!”
+TIFA	TIFA
+“I'll take AERIS!”	“I'll take AERITH!”
+CLOUD	CLOUD
+“AERIS, you all right?”	「AERITH、だいじょうぶか？」END}
+TIFA	TIFA
+“She seems all right,	「だいじょうぶみたいよ。……いろんな意味でね」END}
+…in many ways.”	
+{Red XIII}	RED XIII
+“I have a right to choose, too.	「……私にも選ぶ権利がある。二本足は好みじゃない」END}
+I don't like two-legged things.”	
+BARRET	BARRET
+“What are you?”	「おまえ、なんだ？」END}
+{Red XIII}	RED XIII
+“An informed question. But difficult to answer.	「興味深い問いだ。しかし、その問いは答え難いな。私は見てのとおり、こういう存在だ」
+I am what you see.”	
+{Red XIII}	RED XIII
+“…You must have many questions, but	「……いろいろ質問もあるだろうが とりあえずここから出ようか。道案内くらいなら付きあってやる」END}
+first, let's get out of here.	
+I'll lead the way.”	
+AERIS	AERITH
+“CLOUD…	「CLOUD…… やっぱり、来てくれたのね」END}
+so you did come for me.”	
+AERIS	AERITH
+Eaaaaghhh!	Eaaaaghhh!
+{Red XIII}	RED XIII
+“I apologize for what happened back there.	「さっきは失礼したな。宝条を油断させるために演技をしたつもりだったが……」END}
+I was merely acting to throw Hojo off guard……”	
+AERIS	AERITH
+“…….”	“…….”
+TIFA	TIFA
+“Let's go!”	“Let's go!”
+BARRET	BARRET
+“Now we've saved AERIS,	「さあ、AERITHを助ければもうこんなビルには用はない！ さっさと出ちまおうぜ」END}
+ain't no need to be in this buildin'!	
+So let's get the hell outta here!”	
+CLOUD	CLOUD
+“If all five of us go together, we'll be noticed.	「５人で行動していたら目立つ。二手に別れよう」END}
+Let's break up in two groups.”	
+AERIS	AERITH
+“I'll see you later!!	“あとでね！
+We'll be waiting at the 66th Floor Elevator.”	【66階エレベーター】で待ってるから”
+TIFA	TIFA
+“We'll be going first!	先に行くわよ！
+Meet at the 66th Floor Elevator.”	集合は【66階エレベーター】よ”
+BARRET	BARRET
+“Later!	「あとでな！　【66階エレベーター】で合流だ！」END}
+Meet up at the 66th Floor Elevator!”	
+{Red XIII}	RED XIII
+“Don't be late.	「遅れるなよ。【エレベーター】の場所はわかっているな？ 【66階】だぞ」END}
+Do you know where the Elevator is?	
+The 66th Floor!”	
+“No! Please don't kill me.	ひゃっ！殺さないで
+I only did what Hojo told me to do.”	宝条博士に言われてやっただけなんだ　
+“To prove it to you…here,	そのしょうこに……ほら
+this is the key card to the 68th Floor.	６８階までのドアロックキーを
+Would I be doing this if I was the enemy?”	君たちにあげるよ。
+	敵だったらこんな事するはずないだろ？
+	……ねっ？
+BARRET	BARRET
+“Damn, down.”	“Damn, down.”
+TIFA	TIFA
+“Hurry up!”	“Hurry up!”
+{Red XIII}	RED XIII
+“It'll come soon.”	“It'll come soon.”
+BARRET	BARRET
+“Alright, let's go!”	“Alright, let's go!”
+TIFA	TIFA
+“Let's go!”	“Let's go!”
+BARRET	BARRET
+“Where you goin'?	「どこ行くんだい？
+Everyone's waitin'	【６６階エレベーター】で
+at the 66th Floor Elevator.”	みんな待ってるぜ」
+TIFA	TIFA
+“Where are you going?	「どこ行くの？
+Everyone's waiting for us	【６６階のエレベータ】で
+at the 66th Floor Elevator.”	みんな待っているわよ」
+AERIS	AERITH
+“Not that way!	「そっちじゃない！
+Everyone's on the	みんなは【６６階エレベータ】で
+66th Floor Elevator.”	待っているわ」
+{Red XIII}	RED XIII
+“”	「」}
+You don't have a Card Key	カードキーを手にいれてません
+CLOUD	CLOUD
+“H, hey! What is it?”	「お、おい！　何だ？」
+Rude	ルード
+“Would you press 'Up' please?”	「上を押してもらおうか？」
+CLOUD	CLOUD
+“Turks!	「タークス？
+Must be a trap…”	ワナ……か」
+Tseng	ツォン
+“This must've been a real thrill for you…	「スリリングな気分をあじわえたと思うが……
+Did you enjoy it?”	楽しんでもらえたかな？」
+CLOUD	CLOUD
+“Ggh…”	「くっ……」}
+Cloud}	CLOUD
+“They got you, too?”	「みんなもつかまったのか……
+	…………？」
+CLOUD	CLOUD
+“Where is AERIS!?”	「AERITHはどこだ！」
+President Shinra	プレジデント神羅
+“In a safe place.”	「安全な場所にいる」
+President Shinra	プレジデント神羅
+“She's the last	「あれは貴重な
+surviving Ancient…”	古代種の生き残りだからな」
+President Shinra	プレジデント神羅
+“Don't you know?	「知らんのか？
+They called themselves the Cetra, and lived	自らをセトラと呼び、数千年の昔に生き
+thousands of years ago.	今は歴史の中に埋もれてしまった種族」
+Now they are just a forgotten page in history.”	
+{Red XIII}	RED XIII
+“Cetra…that girl	「セトラ……あの娘が
+is a survivor of the Cetra?”	セトラの生き残り？」
+President Shinra	プレジデント神羅
+“Cetra, or the Ancients, will show us	「セトラ、すなわち古代種は
+the way to the 'Promised Land'.	我らに『約束の地』を教えてくれる。
+I'm expecting a lot out of her.”	彼女には期待しているのだ」
+{Red XIII}	RED XIII
+“The Promised Land?	「約束の地？
+Isn't that just a legend?”	それは言い伝えではないか？」
+President Shinra	プレジデント神羅
+“Even so, it's far too appealing	「だからといって放っておくには
+not to pursue.”	あまりにも魅力的だ」
+“It's been said the Promised Land is	「約束の地は途方もなく豊かな土地と
+very fertile.”	言われているからな」
+“…If the land is fertile…”	「……土地が豊かだということは」
+BARRET	BARRET
+“then there's gotta be Mako!”	「魔晄エネルギーだな！」
+President Shinra	プレジデント神羅
+“Exactly.	「そのとおり。
+That is why our money making	そこでは金喰い虫の魔晄炉など
+Mako Reactor is necessary.”	必要ないのだ」
+“The abundant Mako will	「豊富な魔晄エネルギーが
+flow out on its own.”	勝手に吹き出してくる」
+President Shinra	プレジデント神羅
+“That is where Neo-Midgar will be built.	「そこに建設されるネオ・ミッドガル。
+Shinra's new glory…”	我が神羅カンパニーのさらなる栄光……」
+BARRET	BARRET
+“@$#*^%!	「ケッ！
+Quit dreamin'!”	夢みてんじゃねえよ！」
+President Shinra	プレジデント神羅
+“Oh really, don't you know?	「おやおや、知らないのか？
+These days all it takes for your	最近では金と力さえあれば
+dreams to come true is money and power.”	夢はかなうのだ」
+President Shinra	プレジデント神羅
+“Well, that is all for our meeting.”	「さて、会見はこれで終わりだ」
+BARRET	BARRET
+“Hold it!	「待ちやがれ！
+I got a lot to say to you!”	テメエには言いたいことが
+	山ほどあるんだ！」
+President Shinra	プレジデント神羅
+“If there's anything else…	「何かあるなら……
+talk to my secretary.”	秘書をとおしてくれたまえ」
+Rude	ルード
+“Come on! Outta his way!”	「さあ！　さがれ！」}
+I wonder how BARRET is doing	BARRETはどうしてるかな
+I wonder how {Red XIII} is doing	RED XIIIはどうしてるかな
+I wonder how AERIS is doing	AERITHはどうしてるかな
+I wonder how {Red XIII} is doing	RED XIIIはどうしてるかな
+I wonder how AERIS is doing	AERITHはどうしてるかな
+I wonder how BARRET is doing	BARRETはどうしてるかな
+I wonder how AERIS is doing	AERITHはどうしてるかな
+I wonder how AERIS is doing	AERITHはどうしてるかな
+I wonder how BARRET is doing	BARRETはどうしてるかな
+I wonder how {Red XIII} is doing	RED XIIIはどうしてるかな
+Let's just get some sleep	とりあえず眠っておこう
+I wonder how {Red XIII} is doing	RED XIIIはどうしてるかな
+Let's just get some sleep	とりあえず眠っておこう
+I wonder how BARRET is doing	BARRETはどうしてるかな
+Let's just get some sleep	とりあえず眠っておこう
+Let's just get some sleep	とりあえず眠っておこう
+TIFA	TIFA
+“Psst (Can we get out?)”	「ヒソヒソ（逃げられるかな？）」EOL}
+(Leave it to me)	
+(Kinda hard)	
+TIFA	TIFA
+“Psst (CLOUD, you're so brave!)”	「ヒソヒソ（CLOUD、たのもしい！）」
+TIFA	TIFA
+“Psst (Don't give up!)”	“ヒソヒソ(弱気にならないでよ！}
+BARRET	BARRET
+“Hey!”	「おい」}
+BARRET	BARRET
+“AERIS is an Ancient	「AERITHは古代種で 古代種の本当の呼び名はセトラ」NewScreen}
+and the real name of the Ancients is Cetra.”	
+“The Ancients know where the Promised Land is	「それで古代種は約束の地って場所を知っていて、神羅はその約束の地が欲しい、と」END}
+and the Shinra is searching for that	
+Promised Land.”	
+BARRET	BARRET
+“I only heard stories 'bout	「でも、約束の地ってのは 言い伝えに出てくるだけで 本当にあるのかどうかはわからねえ」}
+the Promised Land. I don't know	
+if it really exists.”	
+BARRET	BARRET
+“Is that right?”	「これでいいのか？」}
+BARRET	BARRET
+“The Shinra believe that the	「約束の地には豊富な魔晄エネルギーがあると 神羅の連中は考えてる」}
+Promised Land is full of Mako energy.”	
+BARRET	BARRET
+“Which means, if the Shinra get there,	「ってえことは、神羅はそこに行ったら また魔晄エネルギーをガンガン吸い上げちまうってことだ」.”
+they'll suck up all the Mako energy.”	
+BARRET	BARRET
+“…and the land'll wither away.	「……そこも土地が枯れちまうな。星が……病んでいくわけだ」}
+The Planet's gonna get weaker.”	
+BARRET	BARRET
+“I can't just leave 'em be.	「放っちゃおけねえ！ アバランチ、メンバー募集だ」NewScreen}
+I'm recruitin'new members!!”	
+“Me, TIFA, CLOUD…	「オレ、TIFA、CLOUD…… それにAERITHもだな」END}
+and AERIS too.”	
+BARRET	BARRET
+“How 'bout you?”	「おめえ、どうだ？」}
+BARRET	BARRET
+“You're so damn boring.”	「つまんねえやろうだぜ」}
+{Red XIII}	RED XIII
+“…………Grandpa.”	「……………………じっちゃん」}
+BARRET	BARRET
+“Grandpa!?  Ha, ha, ha……	「じっちゃん！？　へへへへ じっちゃん、ねえ……へへへへ」}
+Grandpa, hmm……ha, ha, ha……”	
+{Red XIII}	RED XIII
+“What's so funny?”	「なにがおかしい」}
+BARRET	BARRET
+“Nothin'……ha, ha”	「いや、べつに……へへへ」
+AERIS	AERITH
+“CLOUD, are you there?”	「CLOUD、そこにいるの？」}
+CLOUD	CLOUD
+“AERIS!? You safe?”	「AERITH！？　無事か？」}
+AERIS	AERITH
+“Yeah, I'm all right.”	「うん、だいじょぶ」}
+AERIS	AERITH
+“I knew that CLOUD would	「きっと、CLOUDが来てくれるって思ってた」}
+come for me.”	
+CLOUD	CLOUD
+“Hey, I'm your bodyguard, right?”	「ボディーガード、依頼しただろ？」}
+AERIS	AERITH
+“The deal was for one date, right?”	「報酬はデート１回、だったよね？」}
+TIFA	TIFA
+“…………oh, I get it.”	「…………………なるほど」}
+AERIS	AERITH
+“…!? TIFA!	「……！？　TIFA！ TIFAもそこにいるの！」}
+TIFA, you're there too!”	
+TIFA	TIFA
+“EXCUSE me.”	「すいませんねえ」}
+TIFA	TIFA
+“You know, AERIS.	「あのね、AERITH。質問があるんだけど」}
+I have a question.”	
+AERIS	AERITH
+“What?”	「な～に？」}
+TIFA	TIFA
+“Does the Promised Land really exist?”	「約束の地って本当にあるの？」}
+AERIS	AERITH
+“…I don't know.”	「……わからない｣}
+AERIS	AERITH
+“All I know is…”	「わたし、知ってるのは……」}
+“The Cetra were born from the Planet,	『セトラの民、星より生まれ 星と語り、星を開く』NewScreen}
+speak with the Planet, and unlock the Planet.”	
+“And……then…”	「えっと……それから……」”{NewScreen}
+“The Cetra will return to the Promised Land.	『セトラの民、約束の地へ帰る。至上の幸福、星が与えし定めの地』END}
+A land that promises supreme happiness.”	
+TIFA	TIFA
+“…What does that mean?”	「……どういう意味？」}
+AERIS	AERITH
+“More than words……I don't know.”	「言葉以上の意味、知らないの」}
+CLOUD	CLOUD
+“…Speak with the Planet?”	「……星と語り？」}
+TIFA	TIFA
+“Just what does the Planet say?”	「星が何か言うの？」}
+AERIS	AERITH
+“It's full of people and noisy.	「人が大勢いて、ざわざわしてるかんじ。だから何を言ってるのか よくわからないの」}
+That's why I can't make out	
+what they are saying.”	
+CLOUD	CLOUD
+“You hear it now?”	「今も聞こえるのか？」}
+AERIS	AERITH
+“I, I only heard it at the Church in the Slums.	「わたし、聞こえたのはスラムの教会だけ。ミッドガルはもうダメだって 母さん……本当の母さんが言ってた」}
+Mother said that Midgar was no longer safe.	
+That is…my real mother.”	
+AERIS	AERITH
+“Someday I'll get out of Midgar…	「いつかミッドガルから逃げなさい。星と話して、AERITHの約束の地 見つけなさい」NewScreen}
+Speak with the Planet	
+and find my Promised Land.”	
+“…That's what mom said.”	「……母さんが言ってた」NewScreen}
+“I thought I would stop hearing her	「大人になったら聞こえなくなるんだと思ってたけど……」END}
+voice as I grew up, but…”	
+CLOUD	CLOUD
+“What's happened?”	「どうしたんだ？」}
+CLOUD	CLOUD
+“The door's open…	「ドアが開いている…… いつの間に？」}
+When did it open?”	
+TIFA	TIFA
+“……”	“……”
+CLOUD	CLOUD
+“TIFA…	「TIFA……起きろ！」}
+Wake up!”	
+TIFA	TIFA
+“What's wrong?”	「どうしたの？」}
+CLOUD	CLOUD
+“Something's wrong.	「ようすがおかしい。外を見てみろ」}
+Look outside.”	
+TIFA	TIFA
+“This's kinda eerie…”	「一体何があったのかしら……」}
+TIFA	TIFA
+“I wonder what happened…”	「なんだか恐いわ……」}
+CLOUD	CLOUD
+“He should have the key on him…”	「きっとここのカギを持っているはずだ……」}
+CLOUD	CLOUD
+“Come on, TIFA,	「ほら、TIFAはAERITHを。俺はBARRETたちを助ける」}
+get AERIS.	
+I'll go help BARRET	
+and the others.”	
+CLOUD	CLOUD
+“AERIS”	“AERITH”
+AERIS	AERITH
+“…What happened?”	「何かに襲われた……？」}
+AERIS	AERITH
+“Must've been attacked by…”	“Must've been attacked by…”
+CLOUD	CLOUD
+“BARRET, {Red XIII}	「BARRET、RED XIII……来てくれ。ようすが変なんだ」}
+…come with me.	
+Something's wrong.”	
+BARRET	BARRET
+“How'd you get in?	「どうやって入ってきた？ どうして扉が開いているんだ！？」}
+Why's the door open!?”	
+BARRET	BARRET
+“The hell's goin' on!?”	「どうしちまったんだよ？」}
+{Red XIII}	RED XIII
+“No human could've done this.”	「人間の仕業ではないな」}
+{Red XIII}	RED XIII
+“I'll go on ahead.”	「私がこの先の様子を見てくる」}
+BARRET	BARRET
+“I'll clean up back here,	「こいつの後始末はオレにまかせて おまえらは先に行け。神羅に見つからねえうちによ！」}
+so you guys go ahead.	
+And don't get caught by Shinra!”	
+TIFA	TIFA
+“Come on, let's follow {Red XIII}!”	「さ、RED XIIIの後を追いましょう」}
+{Red XIII}	RED XIII
+“Jenova Specimen…	「ジェノバ・サンプル…… 察するに上の階に向かったようだ。奥のサンプル用エレベーターを使ってな」}
+Looks like it went to the upper floor	
+using that elevator for the specimens.”	
+{Red XIII}	RED XIII
+“It looks like it leads up…”	「何か目的に向かっているような…… 上に……？」}
+CLOUD	CLOUD
+“…Did it get away?	“…Did it get away?
+Jenova…?”	Jenova…?
+CLOUD	CLOUD
+“Jenova too…”	“Jenova too…”
+BARRET	BARRET
+“He's dead…	「死んでる……
+The head of Shinra is dead…”	神羅カンパニーのボスが死んだ……」
+TIFA	TIFA
+“Then this sword must be…”	「この刀は？！」
+CLOUD	CLOUD
+“Sephiroth's!!”	「セフィロスのものだ！！」
+TIFA	TIFA
+“…Sephiroth is alive?”	「……セフィロスは生きているのね？」
+CLOUD	CLOUD
+“…Looks like it.	「……そうみたいだな。
+Only Sephiroth can use that sword.”	この刀を使えるのは
+	セフィロスしかいないはずだ」
+BARRET	BARRET
+“Who cares who did it!?	「誰がやったっていいじゃねえか！
+This is the end of the Shinra!”	これで神羅も終わりだぜ！」
+“Uh!”	「うひょ！」
+Palmer	パルマー
+“P, p, p, please, don't kill me!”	「こここここころさないでくれ！」
+CLOUD	CLOUD
+“What happened?”	「何があったんだ？」
+Palmer	パルマー
+“Se…Sephiroth.	「セ、セフィロス。
+Sephiroth came.”	セフィロスが来た」
+CLOUD	CLOUD
+“Did you see him? Did you see Sephiroth?”	「見たのか？　セフィロスを見たのか？」
+Palmer	パルマー
+“Yeah, I saw him! With my own eyes!”	「ああ、見た！　この目で見た！」
+CLOUD	CLOUD
+“You really saw him?”	「本当に見たんだな？」
+Palmer	パルマー
+“Uh!	「うひょっ！
+Would I lie at a time like this!?	こんな時にウソなんか言わない！
+I heard his voice, too!”	それに声も聞いたんだ、うひょっ！」
+Palmer	パルマー
+“Um, he said something about	「えっと『約束の地は渡さない』って
+not letting us have the Promised Land.”	ブツブツ言ってた」
+TIFA	TIFA
+“Then does that mean”	「それじゃあ、なに？」
+“the Promised Land really does	「約束の地っていうのは本当にあって
+exist and that Sephiroth's	セフィロスは約束の地を
+here to save it from Shinra?”	神羅から守るためにこんなことを？」
+BARRET	BARRET
+“So he's a good guy then?”	「いいやつじゃねえのか？」
+CLOUD	CLOUD
+“Save the Promised Land?	「約束の地を守る？
+A good guy? No way!!”	いいやつ？　ちがう！！」
+“It's not that simple! I know him!	「そんな単純な話じゃない！
+Sephiroth's mission is different!”	俺は知ってるんだ！
+	セフィロスの目的はちがう！」
+BARRET	BARRET
+“Rufus!	「ルーファウス！
+&*%$! I forgot about him!”	しまった！　アイツがいたか！」
+TIFA	TIFA
+“Who's that?”	「誰なの？」
+BARRET	BARRET
+“Vice President Rufus.	「副社長ルーファウス。
+The President's son.”	プレジデントの息子だ」
+{Red XIII}	RED XIII
+“I only know his name.”	「名前だけなら、私も知っている」
+BARRET	BARRET
+“I heard that he'd been assigned somewhere	「長期出張中だって聞いてたぜ……」
+else for a long time…”	
+TIFA	TIFA
+“I wonder what sort of person he is?”	「どんな人なのかしら……」
+AERIS	AERITH
+“I've heard that no one's ever	「血も涙もない、そう聞いたこと、あるけど」
+seen him bleed or cry.”	
+Rufus	ルーファウス
+“So…	「そうか……
+So Sephiroth was actually here.	やはりセフィロスは生きていたか。
+…By the way,”	……ところで」
+Rufus	ルーファウス
+“just who are you?”	「おまえたちはなんだ？」
+CLOUD	CLOUD
+“I'm CLOUD,	「元ソルジャー・クラス１ＳＴ。
+ex-SOLDIER, First Class!”	CLOUDだ！」
+BARRET	BARRET
+“I'm from AVALANCHE!”	「アバランチだ！」
+TIFA	TIFA
+“Me too!”	「同じく！」
+AERIS	AERITH
+“A flower girl from the slums.”	「……スラムの花売り」
+{Red XIII}	RED XIII
+“A Research Specimen.”	「……実験サンプル」
+Rufus	ルーファウス
+“What a crew.”	「おかしな組み合わせだ」
+Rufus	ルーファウス
+“Well, I'm Rufus.	「さて、私はルーファウス。
+The President of Shinra, Inc.”	この神羅カンパニーの社長だ」
+BARRET	BARRET
+“You're only President 'cause yer old man died!”	「オヤジが死んだらさっそく社長か！」
+Rufus	ルーファウス
+“Correct. I'll let you hear my	「そうだ、社長就任のあいさつでも
+inauguration speech.”	聞かせてやろうか」
+Rufus	ルーファウス
+“…Father tried to control the world	「……オヤジは金の力で世界を
+with money	支配しようとした。
+and that worked for him.”	なるほどうまくいっていたようだ」
+Rufus	ルーファウス
+“The people believed that Shinra	「民衆は神羅に保護されていると
+would protect them.”	思っているからな」
+Rufus	ルーファウス
+“Work at Shinra, get your pay.	「神羅で働き、給料をもらい
+If terrorists attack,	テロリストがあらわれれば
+the Shinra army will help you.”	神羅の軍隊が助けてくれる」
+“It looked perfect on the outside.”	「一見完璧だ」
+Rufus	ルーファウス
+“But, I do things differently.”	「だが私のやりかたはちがう」
+“I'll control the world with fear.	「私は世界を恐怖で支配する。
+It's too much to do it like my old man.”	オヤジのやりかたでは
+	金がかかりすぎるからな」
+Rufus	ルーファウス
+“A little fear will control	「恐怖はほんの少しで人の心を支配する。
+the minds of the common people.	おろかな民衆のために
+There's no reason to waste	金を使う必要はない」
+good money on them.”	「私はオヤジとはちがうのだ」
+TIFA	TIFA
+“He likes to make speeches	「演説好きなところはそっくりね」
+just like his father.”	
+CLOUD	CLOUD
+“Get AERIS outta	「AERITHを連れてビルから出てくれ！」
+the building!”	
+BARRET	BARRET
+“What?”	「なに？」
+CLOUD	CLOUD
+“I'll explain later!	「説明はあとだ！
+BARRET! This is the real crisis	BARRET！　本当の星の危機だ！」
+for the Planet!”	
+BARRET	BARRET
+“The hell's that supposed to mean?”	「なんだそりゃ？」
+CLOUD	CLOUD
+“I'll explain later!	「あとで話す！
+Just take my word for now!	いまは俺を信じてくれ！
+I'll go after I take care of him!”	俺はこいつを倒してから行く！」
+BARRET	BARRET
+“Alright, CLOUD!”	「わかったぜ、CLOUD！」
+Rufus	ルーファウス
+“Why do you want to fight me?”	「なぜ私と戦うのだ？」
+CLOUD	CLOUD
+“You want the Promised Land	「おまえは約束の地を求めて
+and Sephiroth.”	セフィロスを追う」
+Rufus	ルーファウス
+“That's right.”	「ふむ、その通り」
+Rufus	ルーファウス
+“Did you know	「ん？　おまえ、セフィロスが古代種だと
+that Sephiroth is an Ancient?”	知っているのか？」
+CLOUD	CLOUD
+“…Whatever,	「……いろいろあってな。
+I can't let either you or Sephiroth	とにかく、おまえにもセフィロスにも
+have the Promised Land!”	約束の地はわたせない！」
+Rufus	ルーファウス
+“I see.	「なるほど。
+I guess we won't be allies.”	友だちにはなれないようだな」
+Access Menu with [MENU]	【△ボタン】でメニューをひらく
+Remove Materia from members with [SWITCH]	【□ボタン】で他のメンバーのマテリアをはずす
+End with [START].	【スタートボタン】で終了
+Access Menu with [MENU]	【△ボタン】でメニューをひらく
+End with [START]	【スタートボタン】で終了
+TIFA	TIFA
+“Where's Rufus?”	「ルーファウスは？」
+CLOUD	CLOUD
+“I couldn't finish 'em.	「とどめはさせなかった。
+This is gonna get complicated.”	面倒なことになりそうだ」
+AERIS	AERITH
+“CLOUD…	「CLOUD、なんか、思いつめてた」
+I just thought of something.”	
+TIFA	TIFA
+“…I'll wait for CLOUD!	「……私、CLOUDを待つわ！
+Everyone, get to the elevator!”	みんなはエレベーターで先に！」
+AERIS	AERITH
+“Hmm, it's going to get pretty ugly from here on.	「さあ、この先きっと
+We should check on our equipment.”	ガードがきびしくなるわ。
+	装備をととのえておいたほうがいいわね」
+CLOUD and	CLOUD、TIFAのマテリアを……
+TIFA's Materia…	
+(Remove)	【はずす】
+(Leave it)	【そのまま】}
+Shinra Bldg. 3f. Lobby	神羅ビル・３階ロビー
 	
-BARRET	BARRET
-“Hey CLOUD!”	「おい、CLOUD！」
-“We come this far, and you're thinkin'	「ここまできといて
-of goin' back down to the 1st floor?”	また１階までもどるのか？」
-Yeah	ああ
-No…	いや……
-BARRET	BARRET
-“No time for that now!	「そんなヒマは
-Stop messin' around, boy!”	ねえんじゃねえのか？
-	ま、おまえの勝手だがな」
-BARRET	BARRET
-“Yeah, that's right!	「おう、だよな！
-Let's go on!”	とっとと先を急ごうぜ！」
-“Destroy the intruders!”	「侵入者を排除しろ！」
-CLOUD	CLOUD
-“What's this?”	「これは……」
-Received Key Item "Keycard 60"!	キーアイテム『カードキー６０』を手にいれた！
-Shinra Bldg. 60f.	神羅ビル・６０階
+Hardy Datona	ハーディ＝デイトナ　　
+AERIS	AERITH
+“Quickly,	「はやく、ここから
+we have to get out of here…”	逃げなくちゃ……」}
+Shinra Bldg. 2f. Lobby	神羅ビル・２階ロビー
 	
-“What're you doing here?	「なんだおまえたち！
-Unauthorized personnel	ここから先は
-aren't allowed here!!”	関係者以外立ち入り禁止だ！！」
-“Your kind don't belong here!	「おまえたちのような者が
-Go on, get out!”	入れる場所ではない！
-	さっさと立ち去れ！」
-“Hey there!	「おいキサマ！
-What do you think you're doing there?”	そこでなにをしている！」
+AERIS	AERITH
+“Quickly,	「はやく、ここから
+we can escape this way…”	逃げなくちゃ……」}
 BARRET	BARRET
-“Look at all them guards	「みろよ、警備のやつらが
-runnin' around.”	ウロウロしてやがるぜ」
-“CLOUD,	「CLOUD、まずおまえが
-you go on ahead and signal us	さきに行ってあいずしてくれ。
-when it's safe to move.”	オレたちがあとにつづく」
+“I'll go on ahead!”	「オレが先に行くぜ！」
+BARRET	BARRET
+“*&^%(*…	「チッ……！
+We're surrounded!”	すっかりかこまれてやがる」
+“If I was alone this wouldn't be a thing, but	「オレひとりならともかく
+I gotta reputation to protect.”	このメンツじゃ……」
+AERIS	AERITH
+“You all get out	「……やっぱり、あなたたちだけ
+while you can.”	逃げて」
+“It's not you they're after…	「あの人たちがねらっているのは
+it's me.”	わたし。
+	あなたたちだけなら……」
+BARRET	BARRET
+“Yeah, well that ain't happenin'.”	「ヘッ、そうはいかねえな」
+“You got caught up in this over Marlene.	「アンタはマリンを守るために
+Now, it's my turn to help you!”	ヤツらに捕まった。
+	今度は、オレがアンタを守る番だ」
+BARRET	BARRET
+“OK, playtime's over	「これ以上ヤツらの……神羅の
+jackasses…”	好き勝手にはさせねえ」
+AERIS	AERITH
+“…Thank you, Mr. BARRET!”	「……ありがと、BARRETさん」
+BARRET	BARRET
+“Who you callin' Mr. BARRET?	「へヘッ、よしてくれよ。
+That don't sound right!”	『BARRETさん』なんて
+	オレのガラじゃねえや」
+{Red XIII}	RED XIII
+“Well then…”	「……さて」
+“If you are through talking,	「キミたちの話が終わったなら
+may I suggest that we think of	そろそろここから逃げ出す方法を
+a way to get out of here.”	考えてみないか？」
+BARRET	BARRET
+“Huh? Oh, oh yeah…	「ん？あ、ああ……
+You're cold, man.	チェッ、いやに冷静なやつだな。
+Just like someone else 'round here I know.”	どこかの誰かさんみたいだぜ」
+{Red XIII}	RED XIII
+“Did you say something?”	「なにか？」
+BARRET	BARRET
+“Notta thing.	「いや、なんでもねえよ。
+So what're we gonna do?”	さて、どうするか……」
 TIFA	TIFA
-“Stay in the shadows!”	「ものかげに
-	隠れながら進むのよ！」
+“BARRET!!”	「BARRET！！」
 BARRET	BARRET
-“When those guards turn around,	「警備のやつらが
-MOVE!”	目をそらした時がチャンスだぜ」
-BARRET	BARRET
-“What the hell're ya doin'?	「なにやってんだ！
-Man, you gotta do it again!”	次はちゃんと頼むぜ！」
-BARRET	BARRET
-“OK!	「よし！
-We gonna rock!”	ガンガンいくぞ！」
+“TIFA!	「TIFA！
+Where's CLOUD?”	CLOUDは！？」
 TIFA	TIFA
-“Remember,	「忘れないで！
-we're here to save	私たちの目的はあくまでも
-AERIS.”	AERITHを助けだすこと」
+“Everyone! Over here!”	「みんな、こっち！」
 BARRET	BARRET
-“Hell, I know that!”	「わかってるって！」
-BARRET	BARRET
-“I shoulda known	「やーっぱり
-it'd turn out like this…”	こうなっちまうんだよな……」
-“If I knew it'd be	「こんなことなら
-like this in the first place…”	はじめっから……」
+“Huh?	「ええ！？
+What's up?	どうしたんだよ？
+Where's CLOUD?”	CLOUDは？」
 TIFA	TIFA
-“Shhh!	「シッ！
-Now let's move on.”	とにかく先を急ぎましょ」
-“Wait for the soldiers to turn,	「警備兵のスキをついて、○ボタンで
-then push [OK] to signal the others!”	BARRETたちにあいずをおくれ！」
+“He's coming!	「話は後！
+Hurry, Hurry!!”	いいから早く！！」
+AERIS	AERITH
+“Quickly! We'll	「はやく、ここから
+escape this way…”	逃げなくちゃ……」
+CLOUD	CLOUD
+“Nope.	「反応がない……
+Have to find another way up,	他のルートを
+I guess…”	探さなければ……」
+[the movie continues]	ムービーへ続くのだ！
+[Shinra S-27]	『　神羅　　Ｓー２７式　』
+[Shinra PA-86]	『　神羅　　ＰＡー８６式　』
+[Shinra S-510]	『　神羅　　Ｓー５１０式　』
+[Shinra SA-37]	『　神羅　　ＳＡー３７式　』
+Turtle's Paradise Newsletter	【かめ道楽　通信】
+No. 2	ナンバー２
+The end of another hard day. Wouldn't you	きびしい仕事で
+like to sit back with a tall cool one?	おつかれのアナタ……
+You can at the Turtle's Paradise!!	ぜひいちど
+Stop in today!	居酒屋『かめ道楽』へ！！
+There's nothing like	仕事の後の
+a smooth one after work!	一杯は最高ですよ！
+Shinra, Inc.	神羅カンパニー
+Our slogan is:	今週の標語
+Shinra's Future Is	神羅の未来は
+The World's Future!!	世界の未来！！
+Mako Energy For A	魔晄の光で
+Brighter World!!	明るい世の中！！}
+Control the bike with the [Directional buttons]	指示があるまで、ディスクホルダーを開けないで下さい
+ and save your friends in the truck	バイクを【方向キー】で操作して
+from the Shinra pursuit troops.	神羅の追撃隊から
+[OK]	仲間の乗るトラックを守って下さい
+Attack on right	○ボタン
+[SWITCH]	右の敵を攻撃する
+Attack on left	□ボタン
+  [MENU]Menu	左の敵を攻撃する
+  [CANCEL]Form Party	△ボタン　　　メニュー
+[START]Start Game	×ボタン　　　パーティ編成
+	スタートボタン　　ゲーム開始
+BARRET	BARRET
+“Well, what do we do now?”	「さて、どうするよ？」
+CLOUD	CLOUD
+“Sephiroth is alive.	「セフィロスは生きている。
+…I have to settle the score.”	俺は……あのときの決着を
+	つけなくてはならない」
+BARRET	BARRET
+“Will that save the Planet?”	「それが星を救うことになるんだな？」
+CLOUD	CLOUD
+“…It seems so.”	「……おそらく、な」
+BARRET	BARRET
+“Then, I'm going!”	「おっし、オレは行くぜ！」
+AERIS	AERITH
+“I'll go, too.	「わたしも、行く。
+There are things I need to know.”	……知りたいこと、あるから」
+CLOUD	CLOUD
+“About the Ancients?”	「古代種のことか？」
+AERIS	AERITH
+“…Many things.”	「……いろいろ、たくさん」
+TIFA	TIFA
+“I guess it's good bye, Midgar.”	「さらばミッドガル、ね」
+BARRET	BARRET
+“We told AERIS's mom to go	「AERITHのおふくろさんには
+somewhere safe, so Marlene should be	安全な場所に移るようにって
+safe, too.”	言っといたからマリンも安全だな」
+Yeah, she should be	そうだな
+Hmm, I don't know	さ～て、どうかな
+AERIS	AERITH
+“She said she didn't want to stay	「もう、ミッドガルはイヤだって
+in Midgar anymore.	言ってた……ちょうど良かったかな」
+…Maybe it's for the best.”	
+AERIS	AERITH
+“Stop it, CLOUD!	「やめてよ、CLOUD！
+I'm worried, too.”	わたしだって心配なんだから」
+AERIS	AERITH
+“You know what?	「そういえば、わたし
+This is the first time I've ever left Midgar…”	ミッドガル出るの、初めて……」
+Really? Are you worried?	そうか……不安か？
+It's dangerous. Are you sure you want to go?	危険だぞ、いいのか？
+AERIS	AERITH
+“A little…no, maybe a lot.	「ちょっと、う～ん、かなり、かな。
+But I have a bodyguard, right?”	でも、なんでも屋さんが
+	いっしょだし、ね？」
+AERIS	AERITH
+“I thought you'd say that!”	「言うと思った！」
+TIFA	TIFA
+“…I guess this is the start of our journey…”	「……旅がはじまるのね」
+You hate traveling?	旅はきらいか？
+It's dangerous. You sure you want to go?	危険だぞ、いいのか？
+TIFA	TIFA
+“…I don't know.	「……どうかな。
+But, I don't have anywhere else to go.	でも、もう帰るところないもの。
+So I guess it doesn't really matter whether	旅が好きとかキライとか関係ないわ」
+I like to travel or not.”	
+TIFA	TIFA
+“…Hmm.	「……う～ん。
+But you know, it should be all right	でもほら、CLOUDが約束守ってくれれば
+if you keep your promise.”	だいじょうぶよね、きっと」
+{Red XIII}	RED XIII
+“I'm going back to my hometown.	「私は故郷に帰るつもりだ。
+I'll go with you as far as that.”	それまではいっしょに行ってやる」
+CLOUD	CLOUD
+“Then…”	「さて……」
+Let's stay here for a while	もう少しここにいよう
+Let's go!	行こうか！
+BARRET	BARRET
+“To the Northeast, there's a town	「ここから北東に行くと
+called Kalm.”	カームって町があるんだ」
+“The food at the Inn's good.	「宿屋のメシがうまくてなあ。
+Why don't we head there first?”	とりあえずそこに行かねえか？」
+AERIS	AERITH
+“You're right.	「そうね。
+I've heard about that town before.	聞きたいこと、いろいろあるしね。
+CLOUD?”	CLOUD？」
+BARRET	BARRET
+“About Sephiroth,	「セフィロスのこと、そして星の危機……」
+and about the crisis of the Planet…”	
+CLOUD	CLOUD
+“You're right.	「そうだな。
+We need to know	セフィロスの行方の情報も
+where Sephiroth went.”	必要だからな」
+BARRET	BARRET
+“We need a leader for our journey.	「ここから先
+'Course that could only be me.”	団体行動にはリーダーが必要だ。
+	リーダーといえばオレしかいねえ」
+TIFA	TIFA
+“You think so?”	「そうかしら……」
+AERIS	AERITH
+“I think it should be CLOUD.”	「どう考えてもCLOUD、よね」
+BARRET	BARRET
+“^#$^%…alright.	「チッ…………わかったよ。
+Go Northeast to a town	ここから【北東にカームって町】があるんだ。
+called Kalm.	何かあったらそこを集合場所にしよう」
+If something happens,	
+we'll meet up there.”	
+BARRET	BARRET
+“'Sides, we can't have five people	「それにしたって野っ原を５人でゾロゾロ
+strolling around out there.	歩くなんて危なくてしょうがねえ。
+It's too dangerous.	
+Let's split into two parties…”	おまえ、パーティーを２組に分けてみろ」
+Access Menu with [MENU],	【メニューボタン】でメニューをひらく
+Change with [CANCEL],	【キャンセルボタン】でパーティチェンジ
+End with [SELECT],	【決定ボタン】で終了
+AERIS	AERITH
+“…That's an unexpected”	「……予想外の」
+TIFA	TIFA
+“…combination.”	「……組み合わせ」
+TIFA	TIFA
+“Well, have fun…boys.”	「まあ、男同士、楽しくやりなさい」
+TIFA	TIFA
+“We'll see you at Kalm!”	「それじゃあ、カームで！」
+BARRET	BARRET
+“…Thought you'd do that.”	「……やると思ったぜ」
+BARRET	BARRET
+“Later, at Kalm!”	「じゃあ、カームでな！」
+	
+“That's funny…I dropped the key	「おっかしいな？このゲートのカギ……
+to this gate…somewhere.	どこかに落としたかな？
+Must've been on that	この前のハックツ・ツアーの最中かな？」}
+excavation tour.”	
