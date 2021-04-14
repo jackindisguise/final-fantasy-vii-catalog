@@ -1,0 +1,305 @@
+“Who goes there!?”	「なんだ、おまえたちは！」
+“C'mon newcomer.	「行くぞ、新入り！
+Follow me.”	オレに続け！」
+Biggs	ビッグス
+“Wow! You used to be in SOLDIER all right!	「さすが、ソルジャー！
+…Not everyday ya find one	でもよ、反神羅（しんら）グループ【アバランチ】に
+in a group like AVALANCHE.”	ソルジャーが参加するなんてスゲエよな！」
+Jessie	ジェシー
+“SOLDIER? Aren't they the enemy?”	「その話って本当だったの？
+	ソルジャーって言ったら
+	私たちの敵でしょ？」
+Jessie	ジェシー
+“What's he doing with us in AVALANCHE?”	「どうして、そのソルジャーが
+	私たちアバランチに協力するわけ？」
+Biggs	ビッグス
+“He WAS in SOLDIER, Jessie.”{NewScreen}	「早とちりするな、ジェシー。
+“But he quit and is with us now.”	元、ソルジャーなんだってさ」
+	「今はもう神羅（しんら）をやめちまって
+	俺たちの仲間ってわけさ」
+Biggs	ビッグス
+“Didn't catch your name…”	「まだ名前聞いてなかったよな。
+	教えてくれ」
+CLOUD	CLOUD
+“…CLOUD.”	「……CLOUDだ」
+Biggs	ビッグス
+“CLOUD, eh? I'm…”	「CLOUDか、おれは……」
+CLOUD	CLOUD
+“I don't care what your names are.	「あんたたちの名前なんて興味ないね。
+Once this job's over…I'm outta here.”	どうせこの仕事が終わったらお別れだ」
+“The hell you all doin'!?	「なにやってんだオマエたち！
+I thought I told you never to move	かたまって行動するなって
+in a group!”	言ってんだろ！」
+“Our target's the North Mako Reactor.	「ターゲットは壱番魔晄炉（まこうろ）。
+We'll meet on the bridge in front of it.”	魔晄炉前のブリッジに集合だぞ」
+“Ex-SOLDIER, huh?	「元ソルジャー……。
+I don't trust ya!”	チッ、信用できねえな」
+BARRET	BARRET
+“Press the Directional buttons while	「【キャンセル】ボタン（初期状態では×）を
+pushing [CANCEL]	押しながら方向ボタンを押せば速く走ることができる。
+to run.”	遅れずについてこい！」
+Wedge	ウェッジ
+“I'll secure our escape passage.	「俺は脱出口を確保しておくっす！」
+You concentrate on the mission,	
+CLOUD.”	
+Wedge	ウェッジ
+“Geez, we're really gonna blow	「しっかし、この大きな魔晄炉（まこうろ）を
+this huge furnace up?	爆破するなんて……みものっすね！」
+This'll be somethin' to see!”	
+Switch On.	スイッチオン
+Jessie	ジェシー
+“Push that button over there!”	「さ、そこのボタンを
+	押して！」
+BARRET	BARRET
+“Now let's go into the reactor!	「さあ、魔晄炉（まこうろ）の中へ！
+From here on out, you stick with me.”	ここからはオレのそばに
+“Leave this to me!”	いてもらうぜ」
+“Don't mess up SOLDIER-boy!”	「ここはまかせとき！」
+	「たのんだぜソルジャーさんよ！」
+“Bring BARRET back alive!”	「BARRETをよろしくな！」
+BARRET	BARRET
+“Yo! This your first time in a reactor?”	「……おい。
+	おまえ魔晄炉（まこうろ）は
+	初めてじゃないんだろ？」
+CLOUD	CLOUD
+“No. After all, I did work for Shinra, y'know.”	「まあな。
+	ソルジャー……
+	神羅（しんら）カンパニーの人間だったからな」
+BARRET	BARRET
+“The Planet's full of Mako energy.	「この星は魔晄（まこう）エネルギーに満ちている。
+People here use it everyday.”	住民はその魔晄エネルギーを使って
+	日々生活している」
+“However, nobody knows the truth about Mako.	「でも誰も魔晄の本質を知らねえんだ。
+Do you know?”	おまえ、知ってるか？」
+BARRET	BARRET
+“It's the life blood of this Planet.	「魔晄はこの星を流れる血だ。
+But Shinra keeps suckin' the blood out	それを神羅（しんら）って会社は
+with these weird machines.”	ガンガン吸い出していやがる。
+	このへんちくりんなスクラップでな……」
+CLOUD	CLOUD
+“I'm not here for a lecture.	「能書きはいい。
+Let's just do it.”	先を急ごう」
+BARRET	BARRET
+“@#&^%$!”	「クッ……」
+“From now on you come with me.”	「よし、ここからはオレといっしょに
+	行動してもらうぜ」
+BARRET	BARRET
+“Little by little the reactors'll drain out	「魔晄炉（まこうろ）のせいで、この星の命は
+all the life.	毎日けずられていく。
+Then that'll be that.”	そしていつの日か……ゼロだ」
+BARRET	BARRET
+“The planet's dyin', CLOUD!”	「星が死んじまうんだぞ。
+	えっ、CLOUDさんよ！」
+CLOUD	CLOUD
+“It's not my problem.”	「悪いけど興味がないな」
+CLOUD	CLOUD
+“The only thing I care about is finishin' this job	「俺が考えてるのは、さっさと仕事を
+before security and the Roboguards come.”	終わらせたいってことだけだ。
+	警備兵やガードロボットが来ないうちにな」
+BARRET	BARRET
+“…”	「…………」
+Jessie	ジェシー
+“Code deciphered”	「コード解除」
+Biggs	ビッグス
+“Code deciphered”	「コード解除」
+“Can't decipher code	「ビッグスがいないと
+without Biggs”	コード解除できない」
+“Can't decipher code	「ジェシーがいないと
+without Jessie”	コード解除できない」
+CLOUD	CLOUD
+“You all right?”	「だいじょうぶか？」
+Jessie	ジェシー
+“My leg got stuck.”	「うかつ！！　足がはさまって……」
+Jessie	ジェシー
+“Thanks!”	「サンキュー！」
+Biggs	ビッグス
+“I only let my guard down for a minute…	「敵に後ろをとられて……
+And someone got behind me…”	油断しちまった」
+Jessie	ジェシー
+“Biggs and I got the code for this door.”	「私とビッグスがここのドアロックの
+	暗号を手にいれたの」
+Biggs	ビッグス
+“Think how many of our people risked their	「ここの暗号を入手するために
+lives, just for this code…”	何人の仲間が犠牲になったことか……」
+Jessie	ジェシー
+“Push [OK] in front of a ladder	「はしごの前では【決定ボタン】を押して。
+to grab on to it.	そうすればはしごにつかまるわ。
+Then use the [Directional button]	後は【方向キー】の上下で、のぼりおりするの」
+to climb up and down.”	
+Jessie	ジェシー
+“There you go!”	「そう、その調子！」
+Biggs	ビッグス
+“Let's go!”	「行くぞ！」
+Jessie	ジェシー
+“Alright, be careful.”	「さ、あせらないで」
+Biggs	ビッグス
+“Jessie still isn't back yet!”	「ジェシーがまだ
+	あがって来てないんだ！」
+BARRET	BARRET
+“When we blow this place, this ain't gonna	「ここもブッ壊しちまえば
+be nothin' more than a hunka junk.”	ただのガラクタだぜ」
+BARRET	BARRET
+“CLOUD, you set the bomb.”	「CLOUDさんよ
+	この爆弾をセットしてくれ」
+CLOUD	CLOUD
+“Shouldn't you do it?”	「あんたがやったほうが
+	いいんじゃないのか？」
+BARRET	BARRET
+“Jus' do it!	「オレ？　オレは見張らせてもらう。
+I gotta watch to make sure	おまえさんがおかしなマネを
+you don't pull nothin'.”	しないようにな」
+CLOUD	CLOUD
+“Fine, be my guest.”	「……好きにしてくれ」
+   Watch out!	目をさませ！
+This isn't just a reactor!!	ここはただの発電所じゃない！！
+BARRET	BARRET
+“What's wrong?”	「…………うした？」
+CLOUD	CLOUD
+“Huh?”	「え？」
+BARRET	BARRET
+“What's wrong, CLOUD?	「どうしたCLOUDさんよ？
+Hurry it up!”	早くしてくれ！」
+CLOUD	CLOUD
+“…Yeah, sorry.”	「……ああ、すまない」
+BARRET	BARRET
+“Heads up, here they come!”	「本格的にやってくるぜ」
+CLOUD	CLOUD
+“The alarm!”	「警報か？」
+CLOUD	CLOUD
+“Come on, let's get outta here!”	「さあ、脱出だ」
+CLOUD	CLOUD
+“This is…	「これは……
+Materia…”	マテリア……」
+Ten minutes to detonation!	爆発　１０　分前
+Two minutes remaining	残り　２　分
+One minute remaining	残り　１　分
+Thirty seconds remaining	残り　３０　秒
+Ten seconds remaining	残り　１０　秒
+Five seconds remaining	残り　５　秒
+Four seconds remaining	残り　４　秒
+Three seconds remaining	残り　３　秒
+Two seconds remaining	残り　２　秒
+One second remaining	残り　１　秒
+BARRET	BARRET
+“Damn man‚get a hold of yourself!”	「おい、しっかりしてくれよ！」
+TIFA	TIFA
+“You all right?”	「だいじょうぶ？」
+CLOUD	CLOUD
+“…TIFA.”	「……TIFA」
+TIFA	TIFA
+“Mmm?”	「ん？」
+CLOUD	CLOUD
+“No…forget…	「い……いや……
+Come on‚let's hurry!”	気にするな。
+CLOUD	さあ、急ごう！」
+“I know.	CLOUD
+You're my chaperon‚ right?”	「わかってるさ。
+BARRET	あんたは俺の見張りだろ？」
+“Damn straight.”	BARRET
+BARRET	「そういうことだ」
+“TIFA's old friend…	BARRET
+That ain't good enough.”	「TIFAの幼なじみ……
+	それだけじゃ不安なんでな」
+TIFA	TIFA
+“Let's hurry‚CLOUD.”	「急ぎましょう、CLOUD」
+Biggs	ビッグス
+“That should keep the planet going…	「星の命……ちょっとはのびたかな」
+at least a little longer.”	
+Wedge	ウェッジ
+“Yeah.”	「そうっすね」
+BARRET	BARRET
+“…”	「…………」
+Jessie	ジェシー
+“OK!	「出来た！
+Now everyone get back.”	下がって」
+	
+Sector 8	８番街
+BARRET	BARRET
+“Alright, now let's get out of here.”	「さあ、引き上げるぞ」
+BARRET	BARRET
+“Rendezvous at Sector 8 station!	「ランデブー地点は８番街ステーション！
+Split up and get on the train!”	各自単独行動、列車に乗りこむんだ！」
+CLOUD	CLOUD
+“H, hey!”	「お、おい！」
+BARRET	BARRET
+“If it's about your money,	「金の話なら
+wait 'til we get back.”	無事にアジトに帰ってからだ」
+	
+Sector 8	８番街
+Flower girl	花売り
+“Excuse me.”	「ねえ」
+Flower girl	花売り
+“What happened?”	「何があったの？」
+You'd better get out of here	逃げたほうがいい
+Nothing…hey…	気にするな……それより
+Flower girl	花売り
+“Really?	「そうなの！？
+I don't know what's going on,	なんだかわからないけど
+but all right.”	そうするわね」
+CLOUD	CLOUD
+“…”	「……」
+Don't see many flowers around here	花なんて、めずらしいな
+Never mind	いや、なんでもないんだ
+Flower girl	花売り
+“What!	「もうっ！
+Tell me!”	気になるなあ」
+Flower girl	花売り
+“Oh, these?	「あっ、これね。
+Do you like them?	気に入ってくれた？
+They're only one gil.”	１ギルなんだけど、どう？」
+Buy one	もらおう
+Forget it	やめとくよ
+Flower girl	花売り
+“Uh, excuse me, would you like	「あっ、ねぇ、お花はいらない？
+to buy some flowers?	
+They're only one gil.”	たった１ギルよ」
+Flower girl	花売り
+“Oh, thank you!”	「わあ、ありがとう！」
+Flower girl	花売り
+“Here you are!”	「はい！」
+Flower girl	花売り
+“Ahh…not again.”	「……ちょっとがっかり、かな」
+“What an explosion!”	「しっかし、スゲェ爆発だったな」
+“Think it's another Mako reactor accident?”	「ああ、また魔晄炉の事故じゃねぇのか？」
+	
+Sector 8	８番街
+“Just what the hell's going on!?”	「いったい何がおこったって言うのよ」
+	
+“Wonder what that is on the wall over there.	「何か壁に書いてあるな？
+Let's see…”{NewScreen}	なに、なに…」
+Don't be fooled by Shinra!	神羅にだまされるな！
+Mako energy doesn't last forever!	魔晄エネルギーは永遠ではない！
+Mako is the Planet's life source!	魔晄は星の命！
+The end is in sight!{NewScreen}	いつか終わりがやってくる！
+	
+Protectors of the Planet: AVALANCHE	星の救世主：アバランチ
+Received "Potion"!	「ポーション」を手にいれた！
+Sector 8	８番街
+Soldier	兵士
+“Hey! You there!!”	「おい！　そこの男！！」
+Soldier	兵士
+“That's him!!”	「いたぞ！！」
+Soldier	兵士
+“Halt!!”	「まて！！」
+Soldier	兵士
+“Over here!!”	「こっちだ！！」
+CLOUD	CLOUD
+“What a pain…”	「めんどうだな…」
+Soldier	兵士
+“That's as far as you go.”	「ここまでだな」
+CLOUD	CLOUD
+“I don't have time to mess around 	「残念だが、おまえらの相手をしてるほど
+with you guys.”	ヒマじゃないんでな」
+Soldier	兵士
+“Enough babbling…	「たわごとを……
+Grab him!!”	よし捕らえろ！！」
+Sector 8	８番街
+“What the?”	「なにごとだ！」
+CLOUD	CLOUD
+“Shinra Soldiers…”	「神羅兵か……」
+Fight them!	やってやる！
+Later!	めんどくさいから逃げる
+CLOUD	CLOUD
+“Hmph!”	「チッ！」
+Fight them!	やってやる！
+Later!	めんどくさいから逃げる

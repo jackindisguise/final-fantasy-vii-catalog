@@ -1,0 +1,810 @@
+Last train out of Sector 8 Station.	ミッドガル８番街ステーション発最終列車～
+Last stop is Sector 7, Train Graveyard.	終点、スラム７番街列車基場駅～
+Expected time of arrival is 12:23AM,	到着予定時刻はミッドガル時０時２３分……
+“Huh?	「ん……？
+This is my house,	ここは俺ん家だから
+so make yourselves at home.”	まあゆっくりしてけ」
+“Hey!!	「おい！！
+What's going on here?”	こら……！！」
+“Oops, uh,	「あ、いえ
+n, nothing…”	なんでもないです…」
+“Please don't make any trouble.”	「騒ぎはおこさないで
+	くださいよぅ」
+“…mumble…grumble…	「ブツブツ……
+(…Reactor's blown to bits…	（はあ、悪いことは続くもんだ。
+…Bad things one after another…	今夜は魔晄炉事故のダイヤの乱れで
+…What a day!)”	大変な一日だったのに）」
+“Please!!	「たのみますよぅ！！
+Don't bother the other passengers.”	他のお客さんの迷惑になりますから…」
+“This is why I hate the last train.	「これだから終電はまいるよ…。
+Hoo-boy…”	はあ……」
+“You see the headlines in the Shinra Times?”	「神羅新聞の号外見たかい？」
+“The terrorists that bombed	「壱番魔晄炉爆破のテロリストは
+the No. 1 Reactor are based	スラムにひそんでるらしいぞ」
+somewhere in the slums.”	
+“…Blowing up a Reactor…	「しかし、魔晄炉爆破とは考えたよな。
+they sure put some thought into this one.”	リーダーはさしずめ頭の切れるヤツだな。
+	次は、何やるんだろな？」
+“They must have a real calculating leader.	「ごめんよ……ちょっと気分が…
+I wonder what they'll do next?”	変なもん食ったからなあ。
+	あのミッドガル名物のプレートピザ…」
+BARRET	BARRET
+“YO!”	「おう！」
+“This ain't no private car!!	「こいつぁ、貸し切り列車じゃねえぞ！！
+So split up!!”	散れ散れ！！」
+“…Hoodlums again.	「また危ない人たちといっしょか。
+God, don't I just have all the luck?”	私もつくづく運がないな」
+BARRET	BARRET
+“You say sumthin' ?”	「んっ～！？」
+BARRET	BARRET
+“I said, 'you say sumthin'!?”	「んんっ～！？」
+BARRET	BARRET
+“Now look at that!!	「おいっ！！
+It got empty alluva sudden.”	ずいぶんすいてやがるな」
+“What's goin' on?”	「どうなってる？」
+“DAMN!!”	「ヒッ！！」
+“It..it's empty because of…	「き、きみたちみたいなのがいるから
+g, guys like you…”	す、すいてるんじゃないか…」
+“YYY…YIPES!!”	「ヒ～～ッ！！」
+“You…you've seen the news, right?	「ニュ、ニュースぐらい見てるだろ？
+AVALANCHE says there'll be more bombings.”	アバランチの爆弾テロ予告が
+	あったんだ」
+“Only devoted employees like me	「こんな日にミッドガルに出かけるのは
+would go to Midgar on a day like today.”	仕事熱心な私たち
+	サラリーマン神羅ぐらいさ」
+BARRET	BARRET
+“You work for Shinra?”	「きっさま、神羅のもんか？」
+Shinra Manager	神羅課長
+“I won't give in to violence…	「わ、私は暴力にはくっしないぞ～。
+and I'm not giving you my seat either!”	こ、この席だって、ゆずらない」
+TIFA	TIFA
+“BARRET!!”	「BARRET！！」
+BARRET	BARRET
+“&$#%!!	「チッ！！
+You lucky ^$#^$.!”	あんた、ついてるぜ」
+CLOUD	CLOUD
+“So, what are we gonna do now?”	「さて、どうするんだ？」
+BARRET	BARRET
+“@#$%! The hell you so calm?	「ケッ！　落ちついた野郎だぜ！
+You're bustin' up my rhythm!”	こっちのペースがくるっちまう…」
+BARRET	BARRET
+“Huh?  Wait a minute!”	「んっ？　ちょっと、まった！」
+“Did we make a terrorist threat?”	「オレたち、テロの予告なんてしたか？」
+TIFA	TIFA
+“What are you talking about?	「なにいってるのよ！
+Right about now, AVALANCHE is famous.”	アバランチはいまや有名なのよ」
+BARRET	BARRET
+“Heh heh…	「へヘ……
+Famous…”	有名か…」
+TIFA	TIFA
+“Looks like they just finished	「列車の接続がすんだみたい。
+connecting the cars.	出発するわ」
+We're finally leaving.”	CLOUD
+CLOUD	「今回の作戦について
+“So what's our next target?”	聞かせてくれ」
+BARRET	BARRET
+“Hah! Listen to	「ヘッ！　仕事熱心だな。
+Mr. Serious-about-his-work!”	CLOUDさんよ！」
+BARRET	BARRET
+“Alright…I'll tell ya!”	「しかたねえ……
+	せ、説明してやるっ！」
+“Jessie's probably already told you,	「ジェシーから聞いただろうが
+but there's a security check point	上のプレートとの境界には検間がある。
+at the top plate.”	列車ごとＩＤスキャンするシステムだ」
+“It's an ID scan system	
+checkin' all the trains.”	
+TIFA	TIFA
+“Which Shinra is very proud of.”	「神羅じまんのね」
+BARRET	BARRET
+“We can't use our fake ID's	「今までのニセＩＤは
+anymore…”	もう使えねえ…」
+Good Morning, and welcome to Midgar lines.	本日も御乗車ありがとうございます～
+Arrival time at Sector 4 Station is 11:45.	４番街ステーション到着予定時刻は
+	ミッドガル時１１時４５分～　　
+TIFA	TIFA
+“That means we've got only three	「ＩＤ検知エリアまで
+more minutes to the ID Check point.”	あと３分ってところね」
+BARRET	BARRET
+“Alright, in three minutes,	「よし、あと３分たったら
+we're jumpin' off this train.”	列車から飛び降りる」
+“Got it!?”	「いいな！」
+CLOUD	CLOUD
+“What do we do until then?”	「それまでは、どうしたらいい？」
+BARRET	BARRET
+“The hell do I care whatcha do?	「どうもこうもねえ。
+Just siddown an' shu'up.”	そのへん、すわってろ」
+CLOUD	CLOUD
+“Sorry, but I have a thing against	「あいにく、列車では
+sitting down in trains.”	すわらない主義でね」
+BARRET	BARRET
+“@#$%! Do whatever you want!”	「ケッ！　勝手にしろ」
+CLOUD	CLOUD
+“What do we do after we jump?”	「飛び降りたあとは？」
+BARRET	BARRET
+“Yo, CLOUD!”	「よう、CLOUD！」
+BARRET	BARRET
+“Yo, Mr. Know-it-all, big time SOLDIER!	「ヘッ！　元ソルジャーの物知りさんよ！
+You oughta know the area 'round	五番魔晄炉のあたりは、くわしいんだろ！」
+the No. 5 Reactor, right!”	「おまえさんの知ったかぶり説明が
+“So let's hear YOUR explanation!”	聞きてえもんだな！」
+TIFA	TIFA
+“I'll help, too.”	「私も手伝うね」
+BARRET	BARRET
+“@#$%!	「ケッ！
+I don't know even why you came!”	なにしにきたんだか！」
+TIFA	TIFA
+“Oh, BARRET!	「あら、BARRET！
+Are you mad because	相手してあげましょうか？」
+I'm not paying enough attention to you?”	
+BARRET	BARRET
+“@#$%!!”	「チッ……！！」
+TIFA	TIFA
+“CLOUD, come over here!	「CLOUD、こっち！
+Let's look at the Railway Map Monitor.”	路線図モニタでも見てよ」
+TIFA	TIFA
+“Hmm, it looks like	「あら、もう何度も見たって
+you've seen this already…”	顔してるのね」
+“It's all right. Come a little closer.”	「ま、いいわ。
+	もっとそばにきて」
+TIFA	TIFA
+“That's odd.	「おかしいわね。
+The ID Check Point was supposed	ＩＤ検知エリアはもっと先なのに」
+to be further down.”	
+Type A Security Alert!!	Ａ式非常警戒体制を発動
+Unidentified passengers confirmed…	列車内に未確認のＩＤを検知
+A search of all cars will be conducted!	各車両緊急チェックに入ります　　
+Repeat!!	くりかえします
+Type A Security Alert!!	Ａ式非常警戒体制を発動
+Unidentified passengers confirmed…	列車内に未確認のＩＤを検知
+A search of all cars will be conducted!	各車両緊急チェックに入ります　　
+TIFA	TIFA
+“What's happening?”	「どういうこと？」
+BARRET	BARRET
+“What's goin' on?!”	「どうなってんだ！！」
+Jessie	ジェシー
+“We're in trouble.”	「まっずいことになっちゃったわ」
+“I'll explain later.	「説明はあと。
+Hurry! Get to the next car!”	はやく！　こっちの車両に！」
+BARRET	BARRET
+“@#$%!	「チッ！
+Someone blew it…”	しくじりやがったな…」
+BARRET	BARRET
+“Let's go!	「いくぜ！
+Keep it up!”	モタモタすんな！」
+BARRET	BARRET
+“C'mon!! Hurry your slow ass up!	「チッ！！　ウスノロッ！！
+That's it, huh?”	ここまでか……」
+TIFA	TIFA
+“Oh well…”	「しかたないね」
+BARRET	BARRET
+“We're gonna jump outta here!!	「こっから飛び降りるぞ！！
+Follow me!!”	オレに続け、ナスボケッ！！」
+TIFA	TIFA
+“We got a lot of battles ahead of us.	「ああ～　たくさんバトルね。
+This's going to be tough.”	たいへんよ、きっと」
+“Hmmm?	「ん……？
+You're the only ones that'll talk to me	俺ん家来て、あいさつするのは
+or come to my house.”	あんただけ」
+“I'm impressed.”	「感心、感心」
+“Hm?	「ん……？
+You'd talk to me even now?”	こんなときでも、俺にあいさつか？」
+“I'm really impressed.	「これまた、感心、感心。
+Here's a little	ごほうびに、いいものをあげよ」
+something as a reward.”	
+Received "Phoenix Down"!	「フェニックスの尾」を手にいれた！
+“If I die in the gutter,	「俺がのたれ死んだら
+use that to revive me, okay?”	そいつでたのむよ」
+Shinra Manager	神羅課長
+“Waaaaah!!”	「ヒッ……！！」
+“Don't…don't worry about me.	「わ、私にはかまわないでくれたまえ。
+(oh man, oh man, oh man…!!	（ヒッヒッ……
+I'm gonna brag to everyone	会社のみんなにじまんしちゃおう…）」
+at work about this…)”	
+Unidentified passengers located in Car #1	車両１に未確認ＩＤ検知
+Preparing for Lock Down	ドアロック準備　　　
+Car #1: Locked Down	車両１ドアロック完了
+Car being sent to the station	未確認ＩＤを駅まで護送します　　
+Level 1 Warning	警戒レベル１
+Car #1: Lock Down	車両１をロックします　　　
+Car #1: Locked Down	車両１ロック完了
+Upgrading to Level 2 Warning	警戒レベル２に移行　　　　
+Jessie	ジェシー
+“Let's  hurry!!”	「さ、いそいで！！」
+BARRET	BARRET
+“What's happenin'?”	「どうなってんだ！？」
+Jessie	ジェシー
+“Sorry!!	「ごめん！！
+I've made a mistake…”	まちがえちゃったの…」
+BARRET	BARRET
+“What!?”	「なにを！？」
+Jessie	ジェシー
+“Ugh!	「え……！
+I'm not sure…”	いえない」
+BARRET	BARRET
+“C'mon, this ain't no joke!”	「あそびじゃねえんだぞ」
+Biggs	ビッグス
+“Hurry!”	「いそぐんだ！」
+Wedge	ウェッジ
+“They're locking the door, sir!”	「扉ロックされるっす！」
+Biggs	ビッグス
+“We'll execute it just as we planned it.”	「おれたちは予定通り
+	例のアレを実行する」
+Wedge	ウェッジ
+“I'm goin' first, sir!	「先、行くっす！
+Let's switch to Plan 2!”	作戦その２にうつるっす」
+BARRET	BARRET
+“What do you want me to do?”	「どうすりゃいい？」
+Jessie	ジェシー
+“Just run!”	「とにかく、走って！」
+“Changing to Plan 2!”	「作戦２にチェンジよ！」
+BARRET	BARRET
+“Damn!!	「チッ！！
+I guess there's no other way…”	しようがねえ…」
+“We gonna kick some ass!”	「ガンガンいくぜ！」
+BARRET	BARRET
+“What!?	「チッ！！
+That's it!?”	もうおしまいかよ！」
+TIFA	TIFA
+“That didn't do anything!”	「ぜんぜんっだめね！」
+BARRET	BARRET
+“We'll jump from here!!	「こっから飛び降りるぞ！！
+Follow me, you 'spensive leech!!”	オレに続け、高給取り！！」
+TIFA	TIFA
+“Phew---!	「ふぅっ～！
+Be strong!”	しっかりしてね！」
+	
+Unidentified passengers located in Car #2	車両２に未確認ＩＤ検知
+Preparing for Lock Down	ドアロック準備　　　
+Car #2: Locked Down	車両２ドアロック完了
+Car being sent to the station	未確認ＩＤを駅まで護送します　　
+“Hey…	「やぁ……
+You guys are too rowdy.”	あんたたち、そうぞうしいねえ」
+“Well, just calm down.”	「まあまあ、おちついて」
+TIFA	TIFA
+“Yes, it's really something.	「すごいね。
+It's always like this.”	いつもこんな調子なの」
+BARRET	BARRET
+“Hey, yo!	「おう！
+Jus' keep the hell outta my face!”	じゃますんな！」
+“Hyu---n!!	「ヒュ～ン！！
+Hyu---n!!”	ヒュ～ン！！」
+“Does this mean	「ひょっとしてこれ
+that we're in a major bind?”	ボクら、大ピンチってやつかい？」
+“Gosh!!	「もぅ！！
+You're adults,	いい大人がドタドタと」
+but you're acting like kids.”	「列車のなかでは
+“Please behave while you're in the train.”	おぎょうぎよくしてね」
+“Huh?”	「あ～ん？」
+“The hell?”	「なっん～だっ！」
+“Do you want this?”	「ほしいのか？」
+Yeah…	ああ……
+My mistake	まちがいだ
+“Wow!	「ホゥ！
+I won't even charge you…”	無料ほうしにしとくぜ」
+“What?	「あ～ん？
+Don't get used to it though.”	くせになるから気をつけな」
+“Wha-t?	「あ～ん？
+Let me know when you need me.”	必要になったらいっとくれ」
+Received "Hi-Potion"!	「ハイポーション」を手にいれた！
+“Wha-t?	「あ～ん？
+You sure are greedy.”	あんた、がめついねえ」}
+Inside Train	客車内
+Last train out of Sector 8 Station.	ミッドガル８番街ステーション発最終列車～
+Last stop is Sector 7, Train Graveyard.	終点、スラム７番街列車基場駅～
+Expected time of arrival is 12:23AM,	到着予定時刻はミッドガル時０時２３分……
+Level 2 Warning	警戒レベル２
+Car #2: Lock Down	車両２をロックします
+Car #2: Locked down	車両２ロック完了
+Upgrading to Warning Level 3	警戒レベル３に移行
+Unidentified Passengers:	未確認ＩＤは列車前半部に移動中
+Currently tracking location	現在位置の再確認に入ります
+Level 3 Warning	警戒レベル３
+Car #3: Lock down	車両３をロックします
+Car #3: Locked Down	車両３ロック完了
+Upgrading to Warning Level 4	警戒レベル４に移行
+BARRET	BARRET
+“Alright!	「よし！！
+We clear!?”	ぬけたか！？」
+Jessie	ジェシー
+“Not yet. They're starting another check.	「まだよ、すぐ次の検知がはじまるわ。
+If we're caught, we're done for!”	バレたらアウトよ！」
+“But, don't worry.	「でも、心配しないで。
+If we move up the train,	前の車両に順々にうつっていけば
+car by car, we should get past it!”	やりすごせるわ！」
+BARRET	BARRET
+“Damn, man!!	「チッ！！
+Explain it right!”	ちゃんと説明しろ」
+Jessie	ジェシー
+“You want an explanation?	「説明？　いいの？
+OK!! Let me.”	ＯＫ！！　まっかせといて」
+Jessie	ジェシー
+“This train's security system is	「この列車の警戒装置は、旧型の神羅Ａ式」
+the old Shinra A system.”	
+“Once it identifies an illegal ID,	「未確認のＩＤを検知したら
+the system automatically locks down each car.”	車両がロックされるシステムなの」
+“It'll stay locked until it gets to the station,	「そのまま、駅に護送されて
+where Shinra guards will be waiting.”	神羅警備兵にかこまれちゃうってわけよ」
+Jessie	ジェシー
+“But it's an old system, we can get past it.”	「でも、旧式だけにちょろいもんよ」
+“If we move from car to car to the front,	「前の車両に順々に移っていけば
+we should be able to go on as planned.”	作戦通りにいく計算よ」
+Jessie	ジェシー
+“The second detection scan	「もうすぐ、２波のパルスが来るわ。
+should be coming up pretty soon.	さ、次の車両へ！」
+Let's go to the next car!”	
+Jessie	ジェシー
+“Oh no!”	「あっ……！」
+Jessie	ジェシー
+“I'm so sorry.”	「ごめんなさい」
+“It's my fault that we didn't	「列車のＩＤスキャンのミス
+clear the ID scan.”	私のせいなの」
+“I modified the ID card for	「CLOUDのＩＤカード。
+CLOUD and that's	私の特別製にしたから…
+what made the sensors go off.”	あんなことに」
+“I did my best, but	「心をこめたつもりだったんだけどね。
+it just didn't work.”	失敗しちゃった」
+Jessie	ジェシー
+“I'll make a better one next time.”	「こんどはもっとましなもの
+	プレゼントするわ。」
+“I'll head back to the hideout first	「先にアジトに帰って研究開発に
+and work on research and development.”	はげんでるからね」
+CLOUD	CLOUD
+“…Oh, man…”	「……まいったな」
+BARRET	BARRET
+“The hell!?	「チッ！！
+So this is as far as we go?”	ここまでか……」
+TIFA	TIFA
+“We were almost there.”	「もうすこしだったのに」
+BARRET	BARRET
+“We're gonna jump off here!!	「こっから飛び降りるぞ！！
+Follow me!!”	オレに続け！！」
+TIFA	TIFA
+“Don't worry!	「どんまい！
+Don't worry!”	どんまい！」
+Illegal ID identified in Car #3	車両３に未確認ＩＤ検知
+ Prepare for Lock Down	ドアロック準備
+Car #3: Locked Down	車両３ドアロック完了
+Illegal ID will be taken to the station	未確認ＩＤを駅まで護送します
+Illegal ID identified in Car #4	車両４に未確認ＩＤ検知
+ Prepare for Lock Down	ドアロック準備
+Car #4: Locked Down	車両４ドアロック完了
+Illegal ID will be taken to the station	未確認ＩＤを駅まで護送します
+BARRET	BARRET
+“Shu'up!!  Don't talk to me!	「ウッー！！　話かけんなよ！
+You're gonna mess me up!”	わかんなくなっちゃうだろ」
+BARRET	BARRET
+“…heave…breathe…”	「ハァハァ……」
+“urrrrgh!!”	「ウッー……！！」
+TIFA	TIFA
+“Shhhhhhh!	「シッ～！
+Not now!”	いまはだめ！」
+TIFA	TIFA
+“OK, already!”	「ふ～んだ！」
+Johnny	ジョニー
+“Later…Goodbye…Adios, Midgar!!”	「さらば、グッバイ、アディオス！
+	ミッドガル！！」
+Johnny	ジョニー
+“sob…”	「ぐっすん……」
+“Hee hee!!”	「ニヒニヒ！！」
+“Yesss!!”	「シュタッ！！」
+“urrrrrrrg”	「むぎゅ～～」
+“…Nowhere to run…”	「に、逃げ場がない……」
+“By any chance…”	「もっ、もしかして……」
+“Busted?”	「ばれてます？」
+Huh?	ん……？
+That's right	そうだ
+“I'm SO sorry.	「すいましぇ～ん。
+I'll give it back…”	返しま～しゅ」
+“OK, then.	「ほんじゃまっ
+That's that.”	そういうことで」
+“Any idea what happened?”	「わかりますっ？」
+“All I know is,	「目が覚めたら、すっぱだかで
+when I woke up, the 3 of us	男３人だった気分！」
+were butt-naked!”	
+“But I guess you couldn't relate…”	「わかんないでしょうねぇ」
+“That scary broad made me	「こわい年上の女性がわたしに
+take the bomb.”	爆弾をつきつけて……」
+“Of course I couldn't very well refuse her!”	「ことわれませんでした、ハイ」
+“Brrrrrr…”	「ブルブルブル……」
+“It's terrible.	「ひどいんです。
+Who'd expect underwear bandits	いまどき、おいはぎ。
+in this day and age?”	みぐるみはぐんですから」
+“What the hell?”	「なにさっ！」
+“Hmph!”	「チッ……！」
+“I know what you want to say.”	「わかってるよ。
+	いいたいこと」
+“Here, take it!”	「ほら、とっときな！」}
+Inside Train	客車内
+	
+Last stop is Sector 7‚Train Graveyard.	ミッドガル８番街ステーション発最終列車～
+Expected time arrival is 12:23AM,	終点、スラム７番街列車基場駅～
+Midgar Standard Time…	到着予定時刻はミッドガル時０時２３分……
+	
+Level 4 Warning!!	警戒レベル４
+Car #4: Lock Down	車両４をロックします
+Car #4: Locked Down	車両４ロック完了
+Upgrading to maximum security alert!!	警戒レベルＭＡＸに移行
+BARRET	BARRET
+“All right!!	「よしっ！！
+We made it!”	うまくいったな！」
+BARRET	BARRET
+“Yo!!	「おう！！
+This way!!”	こっちだ！！」
+BARRET	BARRET
+“Let's go!!	「いくぜ！！
+We're gonna dive outta here!!”	こっからダイブだ！！」
+TIFA	TIFA
+“…Scary…huh.”	「……こわいね」
+CLOUD	CLOUD
+“Too late for that now.	「いまさらなんだよ。
+Why'd you come along anyway?”	だいたい、どうして来たんだ？」
+TIFA	TIFA
+“Because…”	「だって……」
+BARRET	BARRET
+“Hey you two!	「おふたりさん
+There ain't no time for that!”	時間がないぞ！」
+TIFA	TIFA
+“Yeah!!	「うん！！
+I've made up my mind!”	決めた！」
+“Watch closely.	「よっく、見てて。
+I'm gonna jump!!”	私、飛ぶから！！」
+CLOUD	CLOUD
+“You don't care if I go first?”	「さきにいくが
+	かまわないな？」
+BARRET	BARRET
+“A leader always stays till the end.”	「リーダーは最後まで
+“Don't worry 'bout me, just go!”	残るもんだ」
+	「いいから、はやくいけ！」
+BARRET	BARRET
+“Yo!	「おう！
+Don't go gettin' your spikey-ass hurt!”	けがすんなよ！」
+“It's only the beginnin' of the mission!”	「作戦はこっからが
+	本番だぞ！」-
+Wedge	ウェッジ
+“Guess who?	「わかるっすか？
+It's me, Wedge!”	俺、ウェッジっす！」
+“Looks like things were a success.”	「作戦ばっちり成功っすね」
+Wedge	ウェッジ
+“I look just like my little brother	「関係ないすけど
+in these clothes…”	このかっこう……
+“I wonder how everyone is now?”	俺の弟にそっくりなんすよ」
+	「いまごろ、どうしてるかなあ」
+Jessie	ジェシー
+“It's me, Jessie.	「私、ジェシーよ。
+How do I look, CLOUD?”	どう、CLOUD？」
+“Do I look good in a Shinra uniform?”	「神羅の制服、似合ってるかな？」
+Yeah…	そうだな……
+Not now	いまはそれどころじゃない
+CLOUD	CLOUD
+“…You look great, just like a man.”	「……すてきだよ、男勝りで」
+CLOUD	CLOUD
+“Just concentrate on our plan.”	「今は作戦に集中しろ」
+Jessie	ジェシー
+“Yay!! I'm so happy	「エッ！！　うれしいっ
+…I think?”	……のかしら？」
+Jessie	ジェシー
+“You're right, sorry.”	「ごめん、そうよね」
+Biggs	ビッグス
+“I always wanted to dress up like this.”	「おれ、一度でいいから
+	こんな格好してみたかったんだ」
+BARRET	BARRET
+“Yo!!	「おう！！
+Ain't no time to waste!!”	時間がねえ！！」
+“…Do something!”	「……なんとかしてやれ！」}
+BARRET	BARRET
+“Later!	「じゃな！
+You take care of the rest!”	あとしまつはたのんだっ！」}
+Winding Tunnel	螺旋トンネル
+4th Street Plate Int.	４番街プレート内部
+Lower Sector 4 Plate	４番街プレート下部
+	
+[Save Point]	【セーブポイント】
+Access the Menu and select	メニューを開いて　セーブ　を選ぶと
+[SAVE] to save your game.	ゲームの状態を保存できます。
+	
+Received "Potion"!	「ポーション」を手にいれた！
+Received "Tent"!	「テント」を手にいれた！
+Received "Ether"!	「エーテル」を手にいれた！
+	
+“You're the AVALANCHE!”	「きさま、アバランチだな！」
+CLOUD	CLOUD
+“Those light beams are	「この光の帯は、神羅の警報センサー。
+the Shinra's security sensors.	これ以上、奥には進めないな」
+We can't go any further.”	
+CLOUD	CLOUD
+“Shinra security guards are there.	「神羅の警備兵がいる。
+…We've got to turn back.”	……もどるしかないか」
+	
+ “A terrorist attack!”	「テロリストの襲撃だ！」
+	
+ “AVALANCHE is attacking!”	「アバランチが襲ってきたぞ！」
+	
+ “Intruders!”	「侵入者だ！」
+“More security's coming.	「警備兵の増援が来るようだ。
+It's dangerous to stay here.”	このままでは、危ない」
+Run	逃げる
+Stay here	ふみ止まる
+BARRET	BARRET
+“That's one damn tiny hole.	「か～っ、せまっちい穴だな。
+You tellin' me to squeeze into	ここからプレートの下にもぐれってのか？
+that to get under the Plate? No way!”	たまんねぇぜ」
+“Yo, CLOUD, what're we gonna do?”	「どうする、CLOUDさんよぉ？」
+Look inside	中をよく見てみる
+Go down	おりる
+Don't go	おりない
+BARRET	BARRET
+“Don't be wastin' time.	「のんびりしてるヒマはないぜ。
+Never know when the Shinra'll find us.”	いつ神羅のやつらにおれたちの
+	行動がばれないとも限らない」
+“CLOUD, you jus' gotta go.”	「CLOUD、行くしかないぜ」
+Go down	おりる
+Don't go	おりない
+BARRET	BARRET
+“But, damn man,	「でもよ、ゾッとしねぇな」
+that thing gives me the chills.”	
+BARRET	BARRET
+“Whaddya mean we're not goin' in?	「入らねぇのか？
+There ain't no other way of gettin'	ここを通る以外には、五番魔晄炉に
+to the Sector 5 reactor	いく方法はないんだぜ」
+'cept through here.”	
+TIFA	TIFA
+“…Doesn't seem to be anything that'll	「……ダクトの中に
+get us stuck in this duct.”	足がかりになりそうな
+	ものはないわね」
+CLOUD	CLOUD
+“After coming this far,	「ここまで来て警報センサーの世話に
+only an amateur'd	なるなんてのは、シロウトだけだ」
+get caught by a security sensor.”	
+CLOUD	CLOUD
+“Yeah. If we go down this duct, we	「ああ。このダクトをおりたら
+won't be able to come back.”	ここには、もどってこれないぞ」
+BARRET	BARRET
+“Good, so far everything's going as planned.”	「よし、ここまでは予定通りだ」
+BARRET	BARRET
+“That was close.	「やばかったぜ。
+I thought we were gonna get caught…”	神羅のやつらに見つかるかと思った……」
+BARRET	BARRET
+“Oh man……	「なんてこった……
+We were forced to get this far out.”	こんな手前で降りるハメになっちまった」
+BARRET	BARRET
+“Don't let your guard down till	「しかし、五番魔晄炉にたどり着くまでは
+we get to the Sector 5 reactor.”	油断は禁物だぜ」
+BARRET	BARRET
+“They probably don't know	「まだ、オレたちが潜入したことは
+we sneaked in yet.	バレていないはずだ。
+We'll be at the reactor in no time.”	五番魔晄炉まで一気に行けるぞ」
+BARRET	BARRET
+“We can't just go back now.	「しかし、今さらノコノコ
+We've gotta go on.”	引き返すことはできねぇ。
+	このまま進むしかねぇ」
+BARRET	BARRET
+“Biggs, Wedge and Jessie	「ビッグス、ウェッジ、ジェシーが
+got everything ready for us.	先行している手はずになってる。
+So MOVE it.”	行くぞ、おまえら」
+BARRET	BARRET
+“Biggs, Wedge, and Jessie did good.	「ビッグス、ウェッジ、ジェシーは
+Now, it's our turn!”	うまくやったようだな。
+	さぁて、あいつらに追いつくぜ！」
+Jessie	ジェシー
+“I'm sorry.”	「ごめんなさい」
+Wedge	ウェッジ
+“CLOUD, this way.	「CLOUDさん、こっちっす。
+The reactor's up this ladder.”	五番魔晄炉はこのハシゴの先っす」
+Biggs	ビッグス
+“We're gonna pull out now.	「おれたちは、これで引き上げる。
+We'll meet up at the hideout.”	アジトで落ち合おうぜ」
+“CLOUD, we're countin' on you	「CLOUD、五番魔晄炉の爆破
+to blow the reactor!”	よろしくたのむぜ！」
+Jessie	ジェシー
+“Next time,	「こんどはもっとましなもの
+I'll give you something better.”	プレゼントするわ」
+“I'll be back at the hideout	「先にアジトに帰って研究開発に
+in my research room workin' on it.”	はげんでるからね」
+Jessie	ジェシー
+“The ID scan problem on the train	「列車のＩＤスキャンのミス
+was all my fault.”	私のせいなの」
+Jessie	ジェシー
+“I modified your ID card…	「CLOUDのＩＤカード。
+And that's what did it…”	私の特別製にしたから……」
+Jessie	ジェシー
+“I did my best…	「あんなことに」
+But I failed.”	心をこめたつもりだったんだけどね。
+	失敗しちゃった」
+BARRET	BARRET
+“The reactor's just down	「さぁて、五番魔晄炉は
+this tunnel!”	このトンネルの奥だ！」
+TIFA	TIFA
+“Papa…”	「パパ……」
+TIFA	TIFA
+“Sephiroth!?”	「セフィロスね！」
+TIFA	TIFA
+“Did Sephiroth do this to you?”	「セフィロスがやったのね！」
+TIFA	TIFA
+“Sephiroth…SOLDIER…	「セフィロス……ソルジャー……
+Mako Reactors…Shinra…”	魔晄炉……神羅……ぜんぶ！」
+TIFA	TIFA
+“I hate them all!”	「ぜんぶ大キライ！」}
+BARRET	BARRET
+“Damn man, get a hold of yourself!”	「おい、しっかりしてくれよ！」
+TIFA	TIFA
+“You all right?”	「だいじょうぶ？」
+CLOUD	CLOUD
+“…TIFA.”	「……TIFA」
+TIFA	TIFA
+“Mmm?”	「ん？」
+CLOUD	CLOUD
+“No…forget…	「い……いや……
+Come on, let's hurry!”	気にするな。
+	さあ、急ごう！」
+CLOUD	CLOUD
+“I know.	「わかってるさ。
+You're my chaperone, right?”	あんたは俺の見張りだろ？」
+BARRET	BARRET
+“Damn straight.”	「そういうことだ」
+BARRET	BARRET
+“TIFA's old friend…	「TIFAの幼なじみ……
+That ain't good enough.”	それだけじゃ不安なんでな」
+TIFA	TIFA
+“Let's hurry, CLOUD.”	「急ぎましょう、CLOUD」
+BARRET	BARRET
+“Alright, let's go.”	「よし、行くぞ」}
+Blin66_1-5, BLIN67_all, BLIN68_all, pillar_1-3, smkin_1	
+[Blin66_1 is missing, so I’ve had to piece this together as best I could]	
+TIFA	TIFA
+“Jessie said we all have to push	３人同時にボタンを押せってジェシーが言ってたわ
+the button at once.”	
+TIFA	TIFA
+“No good. Let's try it again.”	失敗ね、もう一度
+No.5 Reactor	五番魔晄炉
+	
+BARRET	BARRET
+“This way!”	「こっちだ！」
+BARRET	BARRET
+“Shinra soldiers!?”	「神羅兵！？」
+	
+No.5 Reactor	五番魔晄炉
+	
+BARRET	BARRET
+“$#%&!	「くそっ！
+What the hell's goin' on?”	どうなってんだ？」
+CLOUD	CLOUD
+“…A trap…”	「……ワナ、か」
+BARRET	BARRET
+“Pres…President Shinra?”	「プ、プレジデント神羅？」
+TIFA	TIFA
+“Why is the President here?”	「なぜ、プレジデントが
+	ここにいるの？」
+President Shinra	プレジデント神羅
+“Hmm…	「ほほう。
+So you all must be…	君たちがアレかね。
+What was it?”	……なんて言ったかな？」
+BARRET	BARRET
+“AVALANCHE!	「アバランチだ！　覚えておけ！
+And don't ya forget it!	おまえはプレジデント神羅だな」
+So you're President Shinra, huh?”	
+CLOUD	CLOUD
+“Long time no see, sir.”	「ひさしぶりだな、プレジデント」
+President Shinra	プレジデント神羅
+“…Long time no see?	「……ひさしぶり？
+Oh…you.”	ああ、君がアレかね」
+“You're the one who quit SOLDIER	「アバランチとやらに参加して
+and joined AVALANCHE.	いるという元ソルジャー。
+I knew you'd been exposed to Mako,	たしかにその目の輝きは
+from the look in your eyes…”	魔晄を浴びた者……」
+“Tell me, traitor…	「その裏切り者の名前は
+what was your name?”	なんといったかな？」
+CLOUD	CLOUD
+“CLOUD.”	「CLOUD、だ」
+President Shinra	プレジデント神羅
+“Forgive me for asking,	「すまないがソルジャーの
+but I can't be expected to	名前なんて
+remember everyone's name.”	いちいち覚えとらんのでな」
+“Unless you become	「せめてセフィロスぐらいには
+another Sephiroth.”	なってもらわんと」
+President Shinra	プレジデント神羅
+“Aah, Sephiroth…	「そう、セフィロス……。
+He was brilliant.	優秀なソルジャーであった。
+Perhaps too brilliant.”	そう、優秀すぎる……な」
+CLOUD	CLOUD
+“Sephiroth?”	「セフィロスだと……？」
+BARRET	BARRET
+“Don't give a damn 'bout none of that!	「んなこたぁ、どうでもいい！
+This place's goin' up with a big BANG soon!	もうすぐここはドッカン！！だぜ！
+Serves y'all right!”	ざまあみやがれ！」
+President Shinra	プレジデント神羅
+“And such a waste of good fireworks,	「そうだな。
+just to get rid of vermin like you…”	キミたちウジ虫を始末するには
+	高物すぎる花火ではあるが……」
+BARRET	BARRET
+“VERMIN!?	「ウジ虫だと！？
+That's all you can say? VERMIN!?”	言うに事価いて、ウジ虫だと！」
+“Shinra're the VERMIN for	「キサマら神羅は、この星を死に
+killing the Planet! Guess that'd	追いやろうとする寄生虫じゃねぇか！
+make you King VERMIN!	その親玉であるキサマが
+So shu'up jackass!”	何をえらそうにホザく！」
+President Shinra	プレジデント神羅
+“…You are beginning to bore me.”	「……そろそろキミたちの
+	相手をするのにもあきたよ」
+“I'm a very busy man,	「わしは多忙な身なのでな。
+so if you'll excuse me…	もう、失礼させてもらうか。
+I have a dinner I must attend.”	今日は、会食の予定が
+	あるものでな」
+BARRET	BARRET
+“Dinner!? Don't gimme that!	「会食だと！？　ふざけやがって！
+I ain't even started wit' you yet!”	おまえには言いたいことが
+	まだまだあるんだ！」
+President Shinra	プレジデント神羅
+“But, I've made arrangements for	「キミたちの遊び相手は
+a playmate for you all.”	別に用意させてもらった」
+TIFA	TIFA
+“What's that noise?!”	「！？　何の音？」
+BARRET	BARRET
+“The hell is that!?”	「な、なんだコイツは！！」
+President Shinra	プレジデント神羅
+“Now then,	「では、失礼」
+if you'll excuse me.”	
+CLOUD	CLOUD
+“Wait, President!”	「待て、プレジデント！」
+President Shinra	プレジデント神羅
+“Meet 'Airbuster', a techno-soldier.	「我が社の兵器開発部が試作した
+Our Weapon Development Department	機動兵「エアバスター」だ」
+created him.”	
+“I'm sure the data he'll extract from	「君たちとの戦闘データは
+your dead bodies will be of great	今後の開発の貴重なサンプルとして
+use to us in future experiments.”	利用させてもらうよ」
+TIFA	TIFA
+“Help, CLOUD!”	「助けて、CLOUD！」
+TIFA	TIFA
+“THIS is from SOLDIER?”	「これ、ソルジャーなの？」
+BARRET	BARRET
+“Yo, CLOUD!	「おい、CLOUD！
+We've gotta do somethin'	とりあえずコイツをなんとかするぞ！」
+'bout him!”	
+CLOUD	CLOUD
+“No way! It's just a machine.”	「まさか！　ただの機械さ」
+BARRET	BARRET
+“I don't care what it is!!	「なんでもいい！！
+I'm gonna bust him up!”	ぶっこわしてやるぜ！」
+BARRET	BARRET
+“It's gonna blow!	「もうすぐ爆発する！
+Let's go, TIFA!”	行くぞ、TIFA！」
+TIFA	TIFA
+“BARRET!	「BARRET！
+Can't you do something?”	何とかならないの？」
+BARRET	BARRET
+“Not a damn thing.”	「どうしようもねえな」
+TIFA	TIFA
+“CLOUD!	「CLOUD！
+Please don't die! You can't die!	なんとかして生きて！　死んじゃダメ！
+There's still so much I want to tell you!”	話したいことがたくさんあるの！」
+CLOUD	CLOUD
+“I know, TIFA…”	「わかってる、TIFA」
+BARRET	BARRET
+“Hey, you gonna be alright?”	「おい、なんとかなりそうか？」
+(Be strong)	（つよがる）
+(I don't know if I can hold on)	（ダメかもしれない……）
+CLOUD	CLOUD
+“…”	「…………」
+“You worry about yourselves!	「自分の心配でもしてろ！
+I'm all right,	俺はいいからTIFAを！」
+but take care of TIFA!”	
+BARRET	BARRET
+“…Alright.	「……そうか。
+Sorry 'bout all this.”	いろいろ悪かったな」
+CLOUD	CLOUD
+“Stop talkin' like this is the end!”	「これで終わりみたいな言いかたは
+	やめてくれ！」
+BARRET	BARRET
+“OK, hold on!”	「じゃ、あとでな」
+BARRET	BARRET
+“Don't go cryin' like a woman.	「情けない声だすんじゃねえよ。
+There ain't nothin' I can do for ya.	悪いが何もしてやれそうにない。
+Ya gotta do it on your own.”	自分でなんとかしてくれ」
+CLOUD	CLOUD
+“BARRET…”	「BARRET……」
+CLOUD	CLOUD
+“&#%^!	「くっ！
+Can't hold on much longer.>	長くはもちそうにない。
+BARRET, hurry!”	BARRET……は、はやく！」
+CLOUD	CLOUD
+“…Techno-soldier?”	「……機動兵？」

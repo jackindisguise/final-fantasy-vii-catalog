@@ -1,0 +1,750 @@
+Elmyra	エルミナ
+“CLOUD…wasn't it?”	「CLOUD……だったね」
+Elmyra	エルミナ
+“Well now, make yourselves at home.”	「まあ、てきとうにくつろいでおくれよ」
+Elmyra	エルミナ
+“It's about AERIS, isn't it?”	「AERITHのこと、だろ？」
+CLOUD	CLOUD
+“…Sorry.	「……すまない。
+The Shinra have her.”	神羅にさらわれた」
+Elmyra	エルミナ
+“I know.	「知ってるよ。
+They took her from here.”	ここから連れていかれたからね」
+CLOUD	CLOUD
+“They were here?”	「ここで？」
+Elmyra	エルミナ
+“That's what AERIS wanted…”	「AERITHが望んだことだよ……」
+CLOUD	CLOUD
+“Why is Shinra after AERIS?”	「どうしてAERITHは
+	神羅に狙われるんだ？」
+Elmyra	エルミナ
+“AERIS is an Ancient.	「AERITHは古代種。
+The sole survivor.”	古代種の生き残りなんだとさ」
+BARRET	BARRET
+“What did you say?	「……なんだとさ、だって？
+But, aren't you her mother?”	あんた母親だろ？」
+Elmyra	エルミナ
+“Not her real mother.	「……本当の母親じゃないんだよ。
+…it must have been 15 years ago…”	あれは……そう、１５年前…」
+Elmyra	エルミナ
+“…during the war.	「……戦争中でね。
+My husband was sent to the front.	わたしの夫は戦地に行ってた。
+Some far away place called Wutai.”	ウータイという遠い国さ」
+“One day, I went to the station because	「ある日、休暇で帰ってくるって
+I got a letter saying	てがみをもらったから
+he was coming home on leave.”	わたしは駅までむかえにいったのさ」
+“You used to see this sort of thing	戦争中はよくある風景だったね。
+a lot during the war.”	
+“Her last words were,	「AERITHを安全なところへ。
+Please take AERIS	そう言い残して彼女は死んだ。」
+somewhere safe.”	
+“My husband never came back.	「わたしの夫は帰らず、子供もいない。
+I had no child. I was lonely.	わたしもさびしかったんだろうね。
+So I decided to take her home with me.”	AERITHを家に連れて帰ることにしたんだ。」
+“AERIS and I became close very	「AERITHはすぐに
+quickly. That child loved to talk.	わたしになついてくれた。
+She used to talk to me about everything.”	よくしゃべる子でねえ。
+	いろいろ話してくれたよ」
+“She told me how she escaped from some kind of	「どこかの研究所みたいな
+research laboratory, and that her	ところから母親と逃げ出したこと。
+mother had already returned to the Planet,	お母さんは星に帰っただけだから
+so she wasn't lonely…many other things.”	さびしくなんかない……いろいろね」
+BARRET	BARRET
+“Returned to the Planet?”	「星に帰っただって？」
+Elmyra	エルミナ
+“I didn't know what she meant.	「わたしには意味がわからなかったよ。
+I asked if she meant a star in the sky,”	夜空の星かって聞いたら
+“but she said it was this Planet…	ちがう、この星だっていわれて……」
+She was a mysterious child in many ways.”	「まあ、いろんな意味で不思議な
+	子供だったね」
+AERIS	AERITH
+“Mom.”	「お母さん」
+AERIS	AERITH
+“Please don't cry.”	「泣かないでね」
+Elmyra	エルミナ
+“AERIS just blurted that out	「AERITHが突然言い出した。
+all of a sudden. When I asked	何があったのかって聞いたら……」
+her if something happened…”	
+AERIS	AERITH
+“Someone dear to you has just died.”	「お母さんの大切な人が
+	死んじゃったよ」
+“His spirit was coming to see you,	「心だけになってお母さんに
+but he's already returned to the Planet.”	会いにきたけど
+	でも、星に帰ってしまったの」
+Elmyra	エルミナ
+“At that time I didn't believe her.”	「わたしは信じなかった」
+Elmyra	エルミナ
+“But…”	「でも…」
+Elmyra	エルミナ
+“Several days later…	「それから何日かして…
+we received a notice	夫が戦死したという知らせが…
+saying my husband died…”	届いたんだ…」
+Elmyra	エルミナ
+“…and that was it.”	「……とまあ、こんな具合でね」
+“A lot had happened, but we were happy.	「いろいろあったけど
+Until one day…”	わたしたちは幸せだった。
+	ところがある日……」
+Tseng	ツォン
+“We want you to return AERIS	「AERITHを返してほしいのです。
+to us. We've been searching	ずいぶん探しました」
+for her for a long time.”	
+AERIS	AERITH
+“No!	「いやっ！
+Never!”	絶対いやっ！」
+Tseng	ツォン
+“AERIS, you're a very special child.	「AERITH、君は大切な子供なんだ。
+You are of special blood.”	君は特別な血をひいている」
+“Your real mother was an 'Ancient'.”	「君の本当のお母さんの血。
+	『古代種』の血だ」
+Elmyra	エルミナ
+“At that moment, I found out	「もちろん聞いたよ。
+she was an 'Ancient'.”	『古代種』って何だってね」
+Tseng	ツォン
+“The Ancients will lead us to	「古代種は至上の幸福が約束された土地へ
+a land of supreme happiness.”	我々を導いてくれるのです」
+“AERIS will be able to bring	「AERITHはこのまずしいスラムの人々に
+happiness to all those in the slums.”	幸福を与えることができるのです」
+“That is why Shinra would like	「ですから我々神羅カンパニーは
+AERIS's cooperation.”	ぜひともAERITHの協力を……」
+AERIS	AERITH
+“He's wrong!	「ちがうもん！
+I'm not an Ancient!	AERITH、古代種なんかじゃ
+I'm not!”	ないもん！」
+Tseng	ツォン
+“But AERIS, surely you hear	「でもAERITH、君はときどき
+voices sometimes	誰もいないのに声が
+when you're all alone?”	聞こえることがあるだろ？」
+AERIS	AERITH
+“No, I don't!”	「そんなことないもん！」
+Elmyra	エルミナ
+“But I knew.	「でも、わたしにはわかっていた。
+I knew about her mysterious powers.”	あの子の不思議な能力……」
+“She tried so hard to hide it,	「一生けんめい、かくそうとしていたから
+so I acted as though I never noticed.”	わたしは気がつかないふりを
+	していたけどね」}
+CLOUD	CLOUD
+“It's amazing how she's avoided	「よく何年も神羅から
+the Shinra for all these years…”	逃げつづけることができたな」
+Elmyra	エルミナ
+“The Shinra need her,	「神羅はAERITHの協力が必要だったから
+so I guess they wouldn't harm her.”	手荒なマネはできなかったんだろうね」
+TIFA	TIFA
+“But why now?”	「じゃあ、今回はどうして……」
+Elmyra	エルミナ
+“She brought a little girl	「小さな女の子を連れて
+here with her.”	ここに帰って来たんだ」
+“Tseng found them on their way here.	「その途中でツォンのやつに
+She probably wasn't fast	みつかってしまったらしくてね。
+enough to get away.”	逃げ切れなかったんだろ、きっと」
+“She decided to go to the Shinra in	「女の子の無事と引き替えに
+exchange for the little girl's safety.”	自分が神羅に行くことに
+	なったんだ」
+CLOUD	CLOUD
+“…Marlene.”	「マリン、だな」
+BARRET	BARRET
+“Marlene!!	「マリン！！
+AERIS was caught	マリンのためにAERITHは
+because of Marlene!?”	つかまったのか！」
+BARRET	BARRET
+“I'm sorry.	「すまねえ。
+Marlene's my daughter.	マリンはオレの娘だ。
+I'm really sorry…”	すまねえ……本当に……」
+Elmyra	エルミナ
+“You're her father!?	「あんたが父親かい！？
+How in the world could you ever leave	あんた、娘をほったらかして
+a child alone like that!?”	何をやってるんだい！？」
+BARRET	BARRET
+“…Please don't start with that.	「……その話はやめてくれ。
+I'm always thinkin' about what	オレだって何度も考えたさ。
+might happen to Marlene, if I…”	オレが死んじまったらマリンは…ってな」
+BARRET	BARRET
+“But you gotta understand somethin'…	「でもよ、答えはでねえんだ。
+…I don't got any answers.	マリンといつもいっしょにいたい。
+I wanna be with Marlene…	
+But I gotta fight.”	でも、それじゃあ戦えない」
+BARRET	BARRET
+“'Cause if I don't…the Planet's gonna die.”	「戦わなければ星が死ぬ」
+BARRET	BARRET
+“So I'm gonna keep fightin'!”	「おう！　オレは戦うぜ！」
+BARRET	BARRET
+“But inside I'm always thinkin' of her.	「でも、マリンが心配だ。
+I just wanna be with her…always.”	いつでもそばにいてやりたい」
+BARRET	BARRET
+“See? I'm goin' in circles, now.”	「な？　グルグルまわっちまうんだ」
+Elmyra	エルミナ
+“…I think I know what you mean.	「……わからないでもないけどね。
+She's upstairs asleep,	ま、とにかく２階で眠ってるから
+Why don't you go and see her?”	会っておやりよ」
+TIFA	TIFA
+“It's my fault…	「私のせい……。
+I was the one who got	私がAERITHを巻きこんだから」
+AERIS involved in this.”	
+Elmyra	エルミナ
+“Don't say that.	「あんた、気にするんじゃないよ。
+AERIS doesn't think so.”	AERITHだってそんなふうに
+	思っちゃいないよ」
+TIFA	TIFA
+“I feel so depressed.”	「なんか落ちこんじゃう」
+Elmyra	エルミナ
+“…sigh…”	「はぁ……」}
+BARRET	BARRET
+“CLOUD!”	「CLOUD！」
+BARRET	BARRET
+“I'm so glad…	「マリン……良かった……
+I'm so glad you're all right…”	無事で良かった……」
+Marlene	マリン
+“Daddy, don't cry.	「とうちゃん
+Your whiskers	泣いちゃダメだよ。
+hurt!”	おヒゲ、いたいよ！」
+BARRET	BARRET
+“You gonna go help AERIS, right?	「AERITHを助けにいくんだろ？
+She's done so much for me…”	すっかり世話になっちまったからな」
+BARRET	BARRET
+“If the Shinra're involved,	「それに相手が神羅となれば
+I ain't stayin' here!	黙っちゃいられねえ！
+I'm comin', too!”	オレも行くぜ！」
+Marlene	マリン
+“Guess what? Guess what?	「あのね、あのね、AERITHがね
+AERIS asked me	いっぱい聞いてたよ」
+lots of questions.”	
+“Like what kind of person CLOUD is.	「CLOUDってどんな人って。
+I bet she likes you, CLOUD!”	CLOUDのこと好きなんだよ、きっと」
+I don't know	俺にはわからないよ
+Let's hope so	そうだといいな
+Marlene	マリン
+“Dummy!”	「ドンカン！」
+Marlene	マリン
+“I won't tell TIFA.”	「TIFAにはないしょに
+	しといてあげるね」
+CLOUD	CLOUD
+“Looks like I can rest here.	「ここで眠れるな……
+Sleep	眠る
+Don't want to sleep	眠りたくない
+Received "Potion"!	『ポーション』を手にいれた！
+Received "Ether"!	『エーテル』を手にいれた！
+Received "Phoenix Down"!	『フェニックスの尾』を手にいれた！
+AERIS's House	AERITHの家２Ｆ
+Marlene	マリン
+“Daddy,	「とうちゃん、TIFA、CLOUD！
+TIFA,	
+CLOUD!	
+Please bring AERIS back!”	ちゃ～んとAERITH助けてきてね」}
+TIFA	TIFA
+“You're going after AERIS, right?”	「AERITHのところへ行くのね」
+TIFA	TIFA
+“I'm coming with you.”	「私も行くから」
+CLOUD	CLOUD
+“We're going right into Shinra Headquarters.	「神羅の本社にのりこむ。
+…You gotta be prepared for the worst.”	……カクゴが必要だぞ」
+TIFA	TIFA
+“I know.”	「わかってるわ」
+TIFA	TIFA
+“Right now, I feel I have to	「それに今は思いきり身体を
+push myself to the limit.”	動かしたい気分なの」
+TIFA	TIFA
+“If I stayed here…I'd go crazy.”	「じっとしてると……なんか、ダメ」
+BARRET	BARRET
+“Sorry, but can you take care	「すまねえが、もうしばらく
+of Marlene a bit longer?”	マリンをあずかってくれねえか？」
+Elmyra	エルミナ
+“Yes, I don't mind.”	「ああ、かまわないよ」
+BARRET	BARRET
+“This place is dangerous now.	「それから、ここは危険だ。
+You better go somewhere else.”	どこかへ移ったほうがいい」
+Elmyra	エルミナ
+“…You're right.	「……そうだねえ。
+But promise me that you'll	でも、必ず迎えにくるんだよ。
+come back to her.	
+Don't get yourself killed.”	死んじゃいけないよ」
+Elmyra	エルミナ
+“I mean it, come back to her.	「必ず迎えにくるんだよ。
+Don't get yourself killed.”	死んじゃいけないよ」}
+AERIS's House	AERITH's House
+Received "Ether"!	『エーテル』を手にいれた！
+Received "Cover" Materia!	『かばう』のマテリアを手にいれた！
+	
+TIFA	TIFA
+“How do we get to the Shinra Building?”	「神羅ビルにはどうやって？」
+BARRET	BARRET
+“There ain't no train	「もう、上に行く列車は使えねぇ…」
+that goes up there anymore…”	
+TIFA	TIFA
+“…”	「………」
+TIFA	TIFA
+“Well, let's go to Wall Market.	「とりあえず、【ウォールマーケット】に
+We might be able to find something there.”	行きましょう。　あそこなら何か
+	いい手が見つかるかもしれないわ」}
+Wall Market	ウォールマーケット
+“Everyone climbed up this wire.	「みんなこのワイヤーを登って
+Looks scary…Brrr.”	上にいっちゃったよ。
+	こわくないのかな……ブルブル」
+“Oh man!	「うわ～！
+This is horrible…”	すげ～、ヒサン……」
+“Hey, scary, huh?	「な、こえ～だろ？
+Dad told me that	とうちゃんはしんらってやつの
+it's the Shinra's doing.”	しわざだっていってたよ」
+TIFA	TIFA
+“Can we climb it?”	「これ、のぼれるの？」
+“Yeah.	「うん。
+It leads to the upper world.”	上の世界につながってるんだよ」
+BARRET	BARRET
+“Alright!	「よし！
+We'll climb the wire!”	このワイヤー、のぼろうぜ！」
+CLOUD	CLOUD
+“There's no way we can do this.	「それは無理な話だな。
+You know how far it goes up?”	何百メートルあると思ってるんだ？」
+BARRET	BARRET
+“There IS a way!	「無理じゃねえ！
+Look! What's that look like?”	見ろ！　これは何に見える？」
+CLOUD	CLOUD
+“Just a normal wire.”	「何のへんてつもないワイヤーだ」
+BARRET	BARRET
+“Oh yeah? Well to me it looks	「そうかよ？　オレには
+like a golden shiny wire of hope.”	金色に輝く希望の糸に見えるぜ」
+“You're right.	「そうね、AERITHを救うために
+This is the only way	残された道は、これだけだもんね」
+to save AERIS…”	
+CLOUD	CLOUD
+“OK, that was a bad analogy,	「よくわからないたとえだったが
+but, BARRET,	BARRET、あんたの気持ちはわかった」
+I understand how you feel.”	
+CLOUD	CLOUD
+“Let's go!”	「行くぞ！」}
+Plate Section	プレート断面
+CLOUD	CLOUD
+“…Maybe if I put a battery in…”	「……バッテリーをはめれば」
+“The propeller might work.”	「あのプロペラが回りそうだな」
+CLOUD	CLOUD
+“It might work	「バッテリーをはめなければ
+if I put a battery in it.”	動きそうにないな」
+CLOUD	CLOUD
+“I guess I'll just have to	「武器屋の言葉を
+believe the shopkeeper.”	信じてみるか」
+CLOUD	CLOUD
+“Looks like the only way is	「どうやら、あれに飛び移るしか
+to jump onto that bar.”	ないようだな」
+“Should make it if I	「あれが、いちばん近づく前に
+jump before it comes too close.	ジャンプすればよさそうだな。
+(use [OK] to jump)”	（決定ボタンでジャンプ）」
+CLOUD	CLOUD
+“Jumped too soon…”	「タイミングが早かったようだ……」
+CLOUD	CLOUD
+“Jumped too late…”	「タイミングが遅かったようだ……」
+CLOUD	CLOUD
+“Need a battery here, too.”	「ここにもバッテリーが必要だな」
+CLOUD	CLOUD
+“Damn, out of batteries…”	「しまった。
+	もうバッテリーがない……」}
+Shinra Bldg.	神羅ビル
+Shinra Bldg. Stairs	神羅ビル・階段
+	
+BARRET	BARRET
+“Yo…	「おい……
+You really gonna take these	ホンキでこれ、上まで
+stairs all the way up?”	のぼるつもりか……？」
+TIFA	TIFA
+“Well we've got to	「しょうがないでしょ。
+get to AERIS	AERITHを
+to help her somehow.”	無事に助けるためよ」
+BARRET	BARRET
+“Of all the out of the way…”	「しかし、いくら
+	見つかりにくいったって
+	こいつは……」
+TIFA	TIFA
+“I don't have time to argue with you!	「もう、ゴチャゴチャいわない！
+I'm going!”	いくわよ！」
+BARRET	BARRET
+“Y, yo TIFA!	「お、おいTIFA！
+Don't go alone!”	１人でいくな！」
+TIFA	TIFA
+“Wait a minute,	「ちょっと待ってよ
+CLOUD!”	CLOUD！」}
+Shinra Bldg. Stairs	神羅ビル・階段
+	
+BARRET	BARRET
+“Don't know…	「なんで……
+why…the hell…	わざわざ……
+we gotta…climb…”	こんな……くろうを……」
+CLOUD	CLOUD
+“…because we don't want to start	「……AERITHを助け出すまで
+a commotion until we've saved	騒ぎはおこしたくないんだ」
+AERIS.”	
+CLOUD	CLOUD
+“If that's possible…”	「でも、無理だろうな……」
+BARRET	BARRET
+“…heh heh heh.”	「……ヘヘヘ」
+CLOUD	CLOUD
+“Knock it off. You're giving me the creeps.”	「なんだよ、気持ち悪いな」
+BARRET	BARRET
+“So even you will fight for someone else.	「あんたでも他人のために
+Guess I figured you wrong.”	戦うことがあるんだな。
+	見直したぜ」
+CLOUD	CLOUD
+“Who cares what you figured!”	「あんたに見直されても
+	うれしくない」
+BARRET	BARRET
+“I'm just sayin'	「いや、なんていうか……
+mebbe I was wrong…”	いろいろ悪かったな」
+TIFA	TIFA
+“heh heh heh……”	「フフフ……」
+CLOUD	CLOUD
+“What's that supposed	「なんだよ。
+to mean, TIFA?”	TIFAまで……」
+BARRET	BARRET
+“…how much farther do these	「……しかしこの階段
+stairs go on?”	どこまで続くんだ？」
+TIFA	TIFA
+“Why don't you ask them?”	「さあ……階段にきいて」
+BARRET	BARRET
+“It's not one of them endless	「このままずっと
+stairways or somethin', is it?”	続くなんてことは
+	ないよなあ？」
+TIFA	TIFA
+“Of course not!!”	「まさか！！」
+BARRET	BARRET
+“Right…couldn't be that…”	「だよな……
+	そんなはずないよな……」
+BARRET	BARRET
+“Are we there yet?”	「まだつかないのか？」
+TIFA	TIFA
+“Not yet.”	「まだみたいね」
+BARRET	BARRET
+“…there yet?”	「……まだか？」
+TIFA	TIFA
+“I said not yet!”	「まだよ」
+BARRET	BARRET
+“Yo…”	「なあ……」
+TIFA	TIFA
+“Look, don't even ask!	「まだだってば！
+We're way way way way far	まだまだまだまだ
+away from being there, OK!?”	まだまだまだーっ！！」
+BARRET	BARRET
+“Yo…	「なあ……
+What floor is this?”	今、何階だ？」
+TIFA	TIFA
+“…I stopped counting.”	「……もう数える
+	気にもならない」
+BARRET	BARRET
+“Why they gotta build these buildings	「こ……こんなバカ高い
+so damn tall?”	ビルつくりやがって……」
+BARRET	BARRET
+“That Shinra…	「やっぱり、し、神羅なんて
+They're just no damn good.”	ロクなやつじゃねえぜ……！」
+TIFA	TIFA
+“…”	「…………」
+BARRET	BARRET
+“…huff…	「ああ……
+Man, I'm beat…”	オレはもうダメだ……」
+BARRET	BARRET
+“Marlene, daddy wanted to	「マリン、父ちゃんは
+see your face one more time…”	もう一度お前に
+	会いたかった……」
+TIFA	TIFA
+“Would you stop acting like a	「ちょっと！
+retard and climb!?”	エンギでもないこと
+	言わないの！」
+TIFA	TIFA
+“It's just a bit more!”	「もう少し！
+	もう少しだから！」
+TIFA	TIFA
+“…maybe.”	「たぶん……」
+BARRET	BARRET
+“Damn, man!	「もうイヤだ！
+I've had it! I'm going back!”	オレはもどるぞ！」
+TIFA	TIFA
+“It'll take just as long to go down as	「今までのぼったのと
+it did to come up.”	おなじだけ階段おりて？」
+BARRET	BARRET
+“…”	「…………」
+TIFA	TIFA
+“C'mon, BARRET.	「ホラ、BARRET
+Pull it together!”	しっかりしなさい！」
+BARRET	BARRET
+“Yeah well, all I know is I'm only	「ん、んなコト言ったって
+flesh 'n' blood…	オレは、み、右腕以外は
+cept for this arm of mine.”	普通の体なんだぜ……」
+“Don't treat me like I'm some	「元ソルジャーみたいな
+ex-SOLDIER or somethin'…”	と、特別製と……
+	いっしょにしないでくれ……」
+TIFA	TIFA
+“What about me!? I'm human too!	「私だって普通だってば！
+Oh, do what you want, I'm going on!”	先に行っちゃうわよ！」
+TIFA	TIFA
+“…?”	「……？」
+TIFA	TIFA
+“Yaah!	「キャッ！！
+BARRET!	ヤダ、BARRET！
+You go first!”	やっぱり先に行って！」
+BARRET	BARRET
+“What're ya ignorant?	「バ、バカ！
+	オレはそんな
+…I didn't mean that”	つもりじゃ……」
+TIFA	TIFA
+“All right, all right!”	「いいから！」
+TIFA	TIFA
+“CLOUD,	「CLOUDも！
+you go on ahead too!!”	先に行って！！」}
+	
+Received "Elixir"!	『エリクサー』を手にいれた！
+Received "Behemoth Horn"!	『ベヒーモスホーン』を手にいれた！
+Shinra Bldg. Stairs	神羅ビル・階段
+	
+BARRET	BARRET
+“…finally…	「や……やっと……
+…made it…”	つい……た……」
+“…never wanna see…	「か……階段なんて……
+no more stairs the rest of my life…”	もう見るのもゴメンだ……」
+TIFA	TIFA
+“…huff…puff…	「ハア……ハア……
+I'm beat…”	さすがにこれは……
+	こたえたわ……ね……」
+“But here we are.	「……でも、これからが本番よね。
+We'd better get ready!”	元気出していかなきゃ……！」}
+sector 0	０番街
+Shinra Bldg.	神羅ビル
+	
+BARRET	BARRET
+“Hey, you oughta know	「おい、このビルには
+this building well.”	くわしいんだろ？」
+TIFA	TIFA
+“What's wrong?”	「どうしたの？」
+CLOUD	CLOUD
+“…Not really,	「……知らない。
+now that I think about it,	そういえば本社に
+this's the first time I've ever been	来るのは初めてだ」
+to the Headquarters.”	
+BARRET	BARRET
+“I heard about this place before.”	「前にきいたことがあるぜ」
+“Every floor above the 60th is	「このビルの６０階から上は
+special and not easy to get to	特別ブロックとかで
+even for employees.”	社員でも簡単には入れないってな」
+“Must be where they	「AERITHが連れて
+took AERIS.”	いかれたのもそこにちがいねえ」
+“The security's pretty light now.	「今なら警備にもスキがある。
+Alright, let's go!!”	おおし、いくぜっ！！」
+TIFA	TIFA
+“Wait a second!	「ちょっとまってよ！
+You're not thinking of just going	まさか正面からのりこむつもり？」
+right through the main entrance, are you?”	
+BARRET	BARRET
+“Well what else does it look like!?	「決まってるだろ！
+I'm gonna kick some Shinra butt and…”	神羅のやつらをけちらして……」
+TIFA	TIFA
+“That's not going to work!	「そんなのムチャよ！
+We've got to find another way…”	もっと見つかりにくい方法を……」
+BARRET	BARRET
+“Ain't gonna be no other way!	「そんなコトやってられねえ！
+If we keep wastin' time like this,	グズグズしてたら
+AERIS'll…”	AERITHだって……」
+TIFA	TIFA
+“I know that!	「それはわかるけど！
+But if we get caught here…”	ここで私たちまで
+	つかまったら……」
+“Hey, CLOUD.	「ね、CLOUD。
+…What should we do?”	……どうしたらいいの？」
+Let's bust on in!	つっこむぞ！
+Let's sneak in quietly	コッソリ行こう
+BARRET	BARRET
+“That's more like it!	「そうこなくっちゃな！
+C'mon, let's go!!”	おおし、いくぜっ！！」
+TIFA	TIFA
+“See? Let's be careful and find a	「でしょ？
+different route!”	こんな時こそしんちょうに
+	他のルートを探しましょ！」
+{Cait Sith}	CAIT SITH
+“No, no!	「ちゃうちゃう！
+The Sister Ray's not this way!”	シスター・レイは、こっちやない！」
+	
+Shinra Bldg. 1f. lobby	神羅ビル・１階ロビー
+	
+Receptionist	受付
+“Excuse me! If you don't have an	「ちょっと、困ります！
+appointment, you'll have to…”	アポイントメントのない方は
+	こちらで……」
+BARRET	BARRET
+“I don't need no appointment…	「わりいな、ちっとばかし
+This is a 'mergency!”	急な用件でよ」
+“And anyone who don't wanna get their	「ケガしたくなかったら
+face bashed in better git outta the way!!”	ひっこんでな！！」
+“Yaagghh!”	「キャアーッ！！」
+“Who do they think	「なんなんだ
+they are?”	あいつら！？」
+“D, do you think	「ま、まさかやつらが
+they're AVALANCHE?”	アバランチ！？」
+“Intruders!	「侵入者だ！
+Seize them!!”	つかまえろ！！」
+BARRET	BARRET
+“Let's go to the top!”	「一気に上まで行くぞ！」
+“Battle!!”	バトル！！}
+Shinra Bldg. 2f. Shop	神羅ビル２階ショップ
+	
+“Honey…would you	「ネエ～
+buy me that car!”	新しいクルマ買ってェ～」
+“But baby,	「そんなこと言ったって
+it's way too expensive.”	新車は高いしなあ……」
+“What did you say?”	「はい？」
+“…”	「……」
+“…”	「……」
+“Hh, hey!”	「ヒ、ヒエ～！」
+“Ww, wait	「イヤ～
+for meeeeeee!”	おいてかないでェ～！」
+“Please take all	「え～、お買い物は
+purchases to the register”	レジの向こうからどうぞ」
+“Welcome.	「いらっしゃいませ。
+Our special today is…”	本日は何を……」
+“Eagghhh!!”	「キャッ！！」
+“Here,	「お、お金なら
+t, take the money…”	さしあげますから……」
+BARRET	BARRET
+“I don't want your money.	「カンチガイするな。
+AVALANCHE ain't no packa criminals.”	アバランチは強盗じゃねえ」
+“We jus' want back what your	「……アンタんとこのボスに
+boss stole from us.”	とられたものを
+	取り返しにきただけだ」
+BARRET	BARRET
+“I don't want your money.	「カンチガイするな、
+AVALANCHE ain't no packa criminals.”	アバランチは強盗じゃねえ」
+“We jus' want back what	「……アンタんとこのボスに
+your boss stole from us.”	とられたものを
+	取り返しただけだ」
+“I mean, "who"	「いや、ま、ものってのは
+he stole from us.”	なんだ、よくねえ言いかただがな」
+“A, AVALANCHE?”	「ア、アバランチ！？」
+BARRET	BARRET
+“We ain't gonna hurt you. We might	「アンタをどうこうする
+even pay ya, if ya help us.”	気はねえ。
+	金だってちゃんと払うぜ」
+“Ok…ok…well…”	「は、はい、それでは……」
+“What is it?”	「ま、まだなにか……？」
+“Thank you and come again…	「またのご来店お待ち……
+Forget I said that.”	したくはないです、ホントは……」
+“Welcome…	「……いらっしゃいませ。
+to the fully automated store.	無人販売機が
+Place your order…now.”	御用をうけたまわります」
+Received "Pile Bunker"!	『パイルバンカー』を手にいれた！
+Received "Master Fist"!	『マスターフィスト』を手にいれた！
+“You opened up all those	「あの、商品を勝手に
+things without asking	開けるとか、そういったことは
+and, hey wait!”	その、ちょっと……」}
+BARRET	BARRET
+“This is the real thing.	「ここからが本番だ。ゆだんするな」
+Don't let your guard down.”	
+CLOUD	CLOUD
+“…I don't know.	「……知らない。
+Now that you mention it,	そういえば本社に来るのは初めてだ。
+this's my first time at headquarters.	あんたは知っているのか？」
+What about you?”	
+BARRET	BARRET
+“…I been here before.	「……前に来たことがある。
+Back when I still had both my hands.”	まだ、両腕があるころにな」
+TIFA	TIFA
+“I hope AERIS is all right.”	「AERITH、無事だといいね」
+TIFA	TIFA
+“AERIS…	「AERITH………
+She's been through a lot, huh.”	いろいろ大変だったのね」
+Yeah	そうだな
+You too, TIFA	TIFAだって}
+TIFA	TIFA
+“…What's wrong?”	「……どうしたの？」
+CLOUD	CLOUD
+“I didn't want to start a ruckus till	「AERITHを助け出すまで
+we saved AERIS.”	騒ぎはおこしたくなかった」
+“I should have known	「まあ、無理だろうとは
+that was impossible though…”	思っていたが……」
+BARRET	BARRET
+“Heh, heh, heh.”	「ヘヘヘ」
+CLOUD	CLOUD
+“What is it? You're givin' me the willies.”	「なんだよ、気持ち悪いな」
+BARRET	BARRET
+“So there are times when even you	「あんたでも他人のために
+fight for other people.	戦うことがあるんだな。
+I am impressed.”	見直したぜ」
+CLOUD	CLOUD
+“Who cares if you're impressed?”	「あんたに見直されてもうれしくない」
+BARRET	BARRET
+“Y'know, I ain't so good at sayin' this but…	「いや、なんていうか……
+Sorry…for…lots of things.”	いろいろ悪かったな」
+BARRET	BARRET
+“Wh, what the!?”	「な、何だ！？」
+TIFA	TIFA
+“Look!”	「見て、あれ！」
+BARRET	BARRET
+“DA-MN!”	「チ……！」
+BARRET	BARRET
+“Just stop it, CLOUD!	「かまわねえCLOUD！
+I don't care where!”	どこでもいいから止めちまえ！」
+TIFA	TIFA
+“What's going on!?”	「どうなってるの！？」
+“Oh man!!”	「ヒャッ！！」
+“No, uh, that's all right.	「あ、あの、いいんです。
+My mistake.	まちがいでした。
+I'm, uh, not getting on.”	私、のりませんから」
+“Oh man!!”	「ヒエ～ッ！！」
+“You…again?	「ま、まだ
+	のってらしたんですか……
+Uh, I'll pass.”	え、ええ、私は今回も
+	パスしますです」
+Elevator	エレベーター
+Shinra Bldg. 59f.	神羅ビル・５９階
+	
+BARRET	BARRET
+“Hey CLOUD!”	「おい、CLOUD！」
+“We come this far, and you're thinkin'	「ここまできといて
+of goin' back down to the 1st floor?”	また１階までもどるのか？」
+Yeah	ああ
+No…	いや……
+BARRET	BARRET
+“No time for that now!	「そんなヒマは
+Stop messin' around, boy!”	ねえんじゃねえのか？
+	ま、おまえの勝手だがな」
+BARRET	BARRET
+“Yeah, that's right!	「おう、だよな！
+Let's go on!”	とっとと先を急ごうぜ！」
+“Destroy the intruders!”	「侵入者を排除しろ！」
+CLOUD	CLOUD
+“What's this?”	「これは……」
+Received Key Item "Keycard 60"!	キーアイテム『カードキー６０』を手にいれた！
+Shinra Bldg. 60f.	神羅ビル・６０階
+	
+“What're you doing here?	「なんだおまえたち！
+Unauthorized personnel	ここから先は
+aren't allowed here!!”	関係者以外立ち入り禁止だ！！」
+“Your kind don't belong here!	「おまえたちのような者が
+Go on, get out!”	入れる場所ではない！
+	さっさと立ち去れ！」
+“Hey there!	「おいキサマ！
+What do you think you're doing there?”	そこでなにをしている！」
+BARRET	BARRET
+“Look at all them guards	「みろよ、警備のやつらが
+runnin' around.”	ウロウロしてやがるぜ」
+“CLOUD,	「CLOUD、まずおまえが
+you go on ahead and signal us	さきに行ってあいずしてくれ。
+when it's safe to move.”	オレたちがあとにつづく」
+TIFA	TIFA
+“Stay in the shadows!”	「ものかげに
+	隠れながら進むのよ！」
+BARRET	BARRET
+“When those guards turn around,	「警備のやつらが
+MOVE!”	目をそらした時がチャンスだぜ」
+BARRET	BARRET
+“What the hell're ya doin'?	「なにやってんだ！
+Man, you gotta do it again!”	次はちゃんと頼むぜ！」
+BARRET	BARRET
+“OK!	「よし！
+We gonna rock!”	ガンガンいくぞ！」
+TIFA	TIFA
+“Remember,	「忘れないで！
+we're here to save	私たちの目的はあくまでも
+AERIS.”	AERITHを助けだすこと」
+BARRET	BARRET
+“Hell, I know that!”	「わかってるって！」
+BARRET	BARRET
+“I shoulda known	「やーっぱり
+it'd turn out like this…”	こうなっちまうんだよな……」
+“If I knew it'd be	「こんなことなら
+like this in the first place…”	はじめっから……」
+TIFA	TIFA
+“Shhh!	「シッ！
+Now let's move on.”	とにかく先を急ぎましょ」
+“Wait for the soldiers to turn,	「警備兵のスキをついて、○ボタンで
+then push [OK] to signal the others!”	BARRETたちにあいずをおくれ！」

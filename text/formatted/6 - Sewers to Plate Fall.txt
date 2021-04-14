@@ -1,0 +1,516 @@
+President Shinra	プレジデント神羅
+“How are the preparations going?”	「準備のほうは？」
+Heidegger	ハイデッカー
+“Gya, haa, haa!!  Smoothly, very smoothly!	「ガハハ！！　順調順調！
+I assigned the Turks to this.”	実行部隊はタークスです」
+Reeve	リーブ
+“President!!	「プレジデント！
+Are we really going to do this?	本当にやるのですか？
+Simply destroy a group	たかだか数人の組織をつぶすのに……」
+with only a few members…”	
+President Shinra	プレジデント神羅
+“What's the problem, Reeve? You want out?”	「いまさらナニかね、リーブ君」
+Reeve	リーブ
+“…No.”	「……いいえ」
+“But, as head of the Urban Development	「しかし、私は都市開発責任者として
+Department,	ミッドガルの建造、運営の
+I have been involved in the building	すべてにかかわってきました。
+and running of Midgar. That's why…”	ですから……」
+Heidegger	ハイデッカー
+“Reeve, flush your personal problems	「リーブ、そういう個人的な間題は
+with the rest of your crap!”	朝のうちにトイレで流しちまうんだな！」
+Reeve	リーブ
+“The Mayor's against this anyway…”	「市長も反対しているわけであり……」
+Heidegger	ハイデッカー
+“Mayor?”	「市長！？」
+“He just sits in this building all day	「このビルの中でボソボソと
+feeding his face!	メシをくってるあいつか！？
+You still call that a Mayor?”	あいつを、まだ市長と呼ぶのか？」
+Heidegger	ハイデッカー
+“Now if you'll excuse me sir!”	「それでは失礼します！」
+President Shinra	プレジデント神羅
+“You're tired.	「君はつかれているんだよ。
+Why don't you take a couple of days	休暇をとって旅行でも行ってなさい」
+off and go somewhere.”	
+President Shinra	プレジデント神羅
+“We'll destroy Sector 7	「７番街を破壊する。
+and report that AVALANCHE did it.	アバランチの仕業として報道する。
+Then we'll send in the rescue	神羅カンパニーによる救助活動。
+operation, care of Shinra, Inc….	
+Heh, heh, heh…this is perfect.”	フフフ……かんぺきだ」
+Heidegger	ハイデッカー
+“Gya, haaa, haa!”	「ガハハハ！」}
+Sewer	地下下水道
+TIFA	TIFA
+“Man!	「もう！
+This is terrible.”	サイテーね、これ」
+CLOUD	CLOUD
+“You alright?”	「だいじょうぶか？」
+AERIS	AERITH
+“Yeah.”	「うん」
+AERIS	AERITH
+“Well, the worst is over…”	「ま、最悪の事態からは
+	のがれられた……」
+AERIS	AERITH
+“Maybe not…”	「……でもないみたい」
+Let's try and jump down	飛び降りてみよう
+Let's not…	やめるか……
+TIFA	TIFA
+“It's too late…	「もうダメだわ……
+Marlene…BARRET	マリン……BARRET
+…the people of the Slums.”	……スラムの人たち」
+AERIS	AERITH
+“Don't give up, never give up hope.	「あきらめない、あきらめない。
+It's not easy to destroy the pillar, right?”	柱、壊すなんて
+	そんなに簡単じゃない、でしょ？」
+TIFA	TIFA
+“…Yeah…you're right!	「…………そうね……そうよね！
+We still have time.”	まだ時間はあるわよね」
+Train Graveyard	列車基場
+	
+CLOUD	CLOUD
+“AERIS,	「AERITH。
+I got you mixed up in this…”	すっかり巻きこんでしまって……」
+AERIS	AERITH
+“Don't tell me to go home.”	「ここから帰れ！
+	な～んて言わないでね」
+TIFA	TIFA
+“If we can just get past	「え～と……明かりのついている
+the trains that are lit up,	車両を抜けて行けば出られそうね」}
+we should be able to get out of here.”	
+	
+[Save Point]	【セーブポイント】
+	
+Received "Hi-Potion"!	『ハイポーション』を手にいれた！
+Received "Ether"!	『エーテル』を手にいれた！
+Received "Potion"!	『ポーション』を手にいれた！
+Received "Echo Screen"!	『やまびこえんまく』を手にいれた！
+TIFA	TIFA
+“We made it!	「まにあった！
+The pillar's standing!”	柱が立ってる！」
+CLOUD	CLOUD
+“Wait!	「まて！
+You hear something above us?”	上から……聞こえないか？」
+AERIS	AERITH
+“…gun fire?”	「……銃声？」
+CLOUD	CLOUD
+“BARRET?”	「BARRETか！？」
+CLOUD	CLOUD
+“I'm going up!”	「のぼるぞ！」
+CLOUD	CLOUD
+“AERIS!	「AERITH！
+You look after Wedge.”	ウェッジをたのむ」
+TIFA	TIFA
+“AERIS, do me a favor.”	「AERITH、おねがい」
+“I have a bar called '7th Heaven' in	「この近くに私たちの店
+this neighborhood.”	『セブンスヘブン』があるの」
+“There's a little girl	「そこにマリンっていう名前の
+named Marlene there.”	小さな女の子がいるから……」
+AERIS	AERITH
+“Don't worry.	「わかった。
+I'll put her somewhere safe.”	安全な場所へ、ね」
+TIFA	TIFA
+“It's dangerous here!	「ここは危険です！
+Everyone get away from the pillar, quickly!”	みんな早く柱からはなれて！」
+“Everyone get out of Sector 7!”	「７番街から離れて！」
+CLOUD	CLOUD
+“Wedge!!	「だいじょうぶか？
+You all right!?”	……ウェッジ！！」
+Wedge	ウェッジ
+“…CLOUD.	「……CLOUDさん…。
+You remembered…my name.”	俺の名前…覚えてくれたっすね」
+Wedge	ウェッジ
+“BARRET's up top.	「BARRETさんが…上で戦ってるっす。
+…Help him…”	手をかしてやって……」
+Wedge	ウェッジ
+“An' CLOUD…	「CLOUDさん……
+Sorry, I wasn't any help.”	めいわくかけて、すいません…っす」
+Wedge	ウェッジ
+“CLOUD…	「CLOUDさん……
+It hurts…”	い、痛いです……」
+TIFA	TIFA
+“CLOUD!!	「CLOUD！！
+You've gotta go now,	早くしなきゃ、BARRETが…」
+or BARRET's…”	
+“Hey now!!	「おっ！！
+Oops!!”	おっおっと！！」
+“What on earth are you doing?	「ああ、なんてことを！！
+Just butt out…geez!”	じゃましないでくれよ……ったく！」
+“Huh?	「ん？
+You came to see it, too?”	あんたも見にきたのか？」
+“There was a bombing on top.	「上で爆弾テロがあったんだってよ。
+If this pillar should come down,	この柱がぶっとんだら、このスラムも
+everyone in the slums is dust…”	終わりだからな……」
+“Well,	「まあ、心配するだけむだだったな」
+there's no point in worryin' about that.”	
+“Hey!! Check it out!	「なぁ！！見てみろよ。
+It's huge, ain't it?”	いつ見ても、どでかい柱だなぁ」
+“Hey…	「ほら……。
+This is a strange and wonderful place.”	なんだか、素敵で不思議な場所だろ」
+“This is my place,	「オレの場所だが、たまには見にきてもいいぞ。
+but you can come here when you want.	じゃな！！　きょうだい！」
+See ya, bro!”	
+“Ah…eh…uhm.	「あ、あ、あの……
+Excuse me. You cannot pass	すいません。
+without the proper clearance.”	ここから先は、立入禁止なんですが」
+“Did I do good this time?”	「こ、こんな感じでいいでしょうか？
+	先輩」
+“You gotta be tougher!”	「もっと、どうどうとせんか！」
+“But, uh, I…”	「え、で、でも……」
+“W, wow! You're great!!”	「さ、さすが、先輩！！」
+“Damn right!!	「おう！！
+Don't waste time talkin's	むだぐちたたくんじゃねえ！」
+what I always say!”	
+“What the hell do you want?	「きさま、何の用だ？
+You know who I am?”	この俺が何者か、知らんわけないだろう？」
+“You can't pass.	「ここから先は立ち入り禁止だ。
+I got the miserable job of keepin'	俺はここでおまえみたいな浮浪者を
+scum like you from trying to sneak in here.”	おっぱらうケチな仕事をしてるもんだ」
+“If you understand, then scram!”	「わかったら、さっさとうせろ！！」
+“Listen…	「あ、あの……
+My partner's pretty mean,	となりの先輩、こわいから
+I wouldn't get him mad, if I were you.”	さからわない方がいいと思いますよ」
+“You know, I got some tickets to	「先輩！！
+'Loveless', do you want to go?”	ＬＯＶＥＬＥＳＳのチケット取れたんですけど
+	いっしょにいきません？」
+“What're you, retarded?	「やめとけ！
+Midgar's under martial law now!”	ミッドガルは非常警戒体制に入ってる」
+“Sir, are you really	「あっ、先輩！
+concerned for me?”	僕のこと、心配してくれてるんですか！」
+“Hell no!!	「そんなんじゃねえ！！
+But in case you forgot,	テロリストはスラムにひそんでる。
+we're in the middle of a slum.	俺たちだって、気をぬけねぇ」
+They could be anywhere around,	
+so stay on your guard.”	
+“Right. You mean the AVALANCHE?”	「ああ、アバランチですか？」
+“Don't you worry.	「大丈夫ですよ。
+SOLDIER has been added to the police force.”	なんてったって
+	ソルジャーが警備に導入されたんですから」
+“Boy, it's been a while since SOLDIER's been	「ソルジャーの出動かぁ、久しぶりですよね。
+mobilized, hasn't it?”	ねえ、先輩」
+“I ever tell you that I flunked the	「僕、ソルジャーの試験
+SOLDIER entrance exam?”	落っこちちゃったんですよ。
+	この話、しましたっけ？」
+“Damn right!!	「おう！！
+blahblahblah…”	ペラペラペラペラ……」
+“Hey shut up for a minute	「すこしはだまって、仕事できねえのか！」
+and let me get back to work!”	
+“…sigh.”	「……しゅん」
+“What are you more scared of	「アバランチと先輩……
+AVALANCHE or me?”	どっちがこわいんだろ？」
+“Oh, you, of course.”	「きっと、先輩だな」
+“HALT!!	「おう！！
+No one is allowed to pass!!”	ここから先は立入禁止だ！！」
+[Save Point]	【セーブポイント】
+AERIS	AERITH
+“Don't worry.	「だいじょうぶ。
+You let me handle this.”	ここはまかせて」
+“Uh oh…	「オロオロ…
+There goes the pillar.”	柱壊れちゃうんですか」
+“I'm scared,	「こわいんですけど
+but it's for your own good.”	あんたたちのためにね」
+“If things get too hairy, we'll escape.	「ほんとにやばくなったら
+It's not something	逃げだしますから。
+you'll see happen too often.”	めったに見れるもんじゃないですし」
+“Uhh…Help!	「ウウッ……守ってくれよ。
+My strange and wonderful little place.”	俺の素敵で不思議な場所」
+“L, look… This is my job, so	「あ、あの……
+I have to be here	これが、僕の仕事だから…
+until the absolute last minute.”	ギリギリまでここにいないとならないんだ」
+“Umm…	「うん…
+I just LOVE men with a sense of duty.	責任感の強いあなた、好きよ。
+Let me stay here with you.”	私、そばについてるわ」
+“B, but…	「あ、あの……
+What happens if AVALANCHE shows up?”	アバランチの人たち
+	だいじょうぶかな？」
+“Umm…you're shaking.	「うん…あなた、ふるえてるのね？
+You're so gentle…I think I'm in love.”	やさしい人…好きよ」
+“Doh! And this was supposed to be	「おう！　これが俺の最後の仕事だ！
+my last job!	登ってけ！！」
+Do something!!”	
+“I never thought this would ever happen to me!	「こんなことになるなんてな！
+Great…	いい気分じゃねえ！
+I'm quitting tomorrow!”	明日、じひょうだ！」}
+Jessie	ジェシー
+“…CLOUD…	「あ……CLOUD…… 
+I'm glad……I could talk	最後に……話せて良かった……」
+with you…one last time.”	
+Don't say 'last'……	最後だなんて……
+Is that so…	そうか……
+Jessie	ジェシー
+“That's…all right…”	「もう、いい……いいの……」
+“Because…of our actions…many……people died……	「私たち……私たちの作戦で
+this probably……is our punishment…”	 たくさん……人、死んじゃったし…… 
+	きっと……そのむくい……ね」
+Jessie	Jessie
+“…Is…that so……?”	……そうか……ですって……？
+“Ha……cool……as usual…	「フフ…………相変わらず……
+ex-…SOLDIER.	クールな……元ソルジャーさん。
+…always…I liked that…in you…”	……そこが……いいんだけどね……」
+Biggs	ビッグス
+“CLOUD…	「CLOUD ……
+so you don't care…what happens…	やっぱり……星の命なんて……
+to the…Planet?”	どうなろうと……興味ないか？」
+Nope, not interested	悪いけど興味ない
+You're wounded……	それよりケガが……
+Biggs	Biggs
+“Hmph…you haven't changed.	「へっ……変わんええな。
+Oh, forget it.”	まあ……いいや。」
+Biggs	Biggs
+“Thanks, CLOUD.	「ありがとよ、CLOUD
+…don't worry 'bout me……	でも……おれわいいから……
+BARRET's…fighting up there.	BARRETが……上で戦っている。
+Go help him…”	手をかしてやってくれ……」
+BARRET	BARRET
+“TIFA! CLOUD!	「TIFA！　CLOUD！ 来てくれたか！」
+You came!”	
+“Be careful! They're attacking	「気をつけろ！　やつら ヘリで襲ってきやがる」
+from the helicopter.”	
+TIFA	TIFA
+“Better equip ourselves	「本格的にくる敵に 装備を整えておいたほうがいいわ！
+before they attack in full force!”	さっそく来たわ！」
+Press the (MENU) button to access the Menu.	【メニューボタン】でメニューをひらく
+Press the (OK)button when finished.	【決定ボタン】で終了
+Press the (MENU) button to access the Menu.	【メニューボタン】でメニューをひらく
+Press the (CANCEL) button for Change Party.	【カンセルボタン】Change Partyをはずす
+Press the (OK) button when finished.	【決定ボタン】で終了
+TIFA	TIFA
+“Here they come!”	さっそく来だわ！
+Reno	レノ
+“You're too late.	「おそかった、と
+Once I push this button…”	 このスイッチを押すと……」
+BARRET	BARRET
+“Stop!”	“Stop!”
+Reno	レノ
+“That's all, folks! Mission accomplished.”	「はい、おしまい！　作業終了」
+BARRET	BARRET
+“DAMN! It's a time bomb!”	“くっ！時間爆弾か！
+TIFA	TIFA
+“We have to disarm it!	「解除しなくちゃ！ CLOUD！　BARRET！　おねがい！」
+CLOUD! BARRET!	
+Please!”	
+Reno	レノ
+“I can't have you do that.	「そういうわけにはいかないぞ、と タークスのレノさまの邪魔は 誰にもさせないぞっ……と」
+No one get in the way	
+of Reno and the Turks…”	
+TIFA	TIFA
+“CLOUD!	「CLOUD！ 止めかたがわからないの。やってみて！」
+I don't know how to stop this.	
+Try it!”	
+CLOUD	CLOUD
+“…It's not a normal time bomb.”	「……ただの時限爆弾じゃない」 
+Tseng	ツォン
+“That's right.	「そのとおり。それを操作するのは難しい」
+You'll have a hard time disarming that one.”	
+“It'll blow the second some stupid jerk	「どこかのバカ者が勝手にふれると困るからな」”
+touches it.”	
+TIFA	TIFA
+“Please, stop it!”	「おねがい、とめて！」
+Tseng	ツォン
+“Ha ha ha……”	「クックックッ……」
+“Only a Shinra Executive can set up or disarm	「緊急用プレート解除システムの
+the Emergency Plate Release System.”	設定と解除は神羅役員会の
+	決定なしではできないのだ」
+BARRET	BARRET
+“Shut yer hole!”	「ゴチャゴチャうるせえ！」
+Tseng	ツォン
+“I wouldn't try that……	「そんなことされると
+You just might make me	大切なゲストがケガ
+injure our special guest.”	するじゃないか」
+CLOUD	CLOUD
+“AERIS!!”	“AERITH!!”
+TIFA	TIFA
+“AERIS!!”	“AERITH!!”
+Tseng	ツォン
+“Oh, you know each other?”	「おや、知り合いなのか？」
+Tseng	ツォン
+“How nice you could see each other one last time.	「最後に会えて良かったな。
+You should thank me.”	私に感謝してくれ」
+CLOUD	CLOUD
+“What are you gonna do	「AERITHをどうする気だ」
+with AERIS!?”	
+Tseng	ツォン
+“I haven't decided.”	「さあな」
+“Our orders were to find	「われわれタークスにあたえられた
+and catch the last remaining Ancient.”	命令は『古代種』の生き残りを
+	つかまえろ、ということだけだ」
+Tseng	ツォン
+“It's taken us a long time, but now I can finally	「ずいぶんと長い時間がかかったが 
+report this to the President.”	やっとプレジデントに報告できる」
+AERIS	AERITH
+“TIFA, don't worry!	「TIFA、だいじょうぶだから！ 
+She's all right!”	あの子、だいじょうぶだから！」
+TIFA	TIFA
+“AERIS!”	“AERITH!”
+AERIS	AERITH
+“Hurry and get out!”	「だからはやく逃げて！」
+Tseng	ツォン
+“Ha, ha, ha…	「クックックッ！ 
+Well, it should be starting right about now.	そろそろ始まるぞ。
+Think you can escape in time?”	逃げきれるかな？」
+TIFA	TIFA
+“We're not going to make it!”	???
+BARRET	BARRET
+“Yo, we can use this wire to get out!”	「おい、このワイヤーを使って 脱出できるぜ！」
+BARRET	BARRET
+“Jus' hang on to me!”	???
+TIFA	TIFA
+“Once that Plate starts coming down	「上のプレートが落ちてきたら ひとたまりもないわ.
+it'll be too late.	いそがなくちゃ！」
+We gotta hurry!”	
+BARRET	BARRET
+“Marlene!	「マリン！
+MARLENE!!”	マリン！！」
+BARRET	BARRET
+“MAR---LE---NE!!”	「マリーーーン！！」
+BARRET	BARRET
+“Biggs!”	「ビッグス！」
+BARRET	BARRET
+“Wedge!!”	「ウェッジ！！」
+BARRET	BARRET
+“Jessie!!”	「ジェシー！！」
+BARRET	BARRET
+“Goddamn it!!!”	「こんちくしょう！」
+BARRET	BARRET
+“Dammit!”	「こんちくしょう！！」
+BARRET	BARRET
+“DAMMIT ALL!!!!”	「こんちくしょうーー！！！！」
+BARRET	BARRET
+“What the hell's it all for!?”	「なんだ、こんなもの！」
+BARRET	BARRET
+“ARGGHHHH!!!”	「うおぉぉーー！！」
+CLOUD	CLOUD
+“Hey, BARRET!”	「おい、BARRET！」
+TIFA	TIFA
+“BARRET!”	「BARRET！」
+CLOUD	CLOUD
+“Hey!”	「おい！」
+TIFA	TIFA
+“BARRET, stop…	「BARRET、もうやめて……
+Please stop, BARRET.”	おねがい、BARRET」
+BARRET	BARRET
+“URGHHHH!!!”	「うわぁぁぁーー！！！」
+BARRET	BARRET
+“God	「クッ！
+damn…”	ちくしょう……」
+BARRET	BARRET
+“Marlene…”	「マリン……」
+TIFA	TIFA
+“…	「………
+BARRET?”	ねぇ、BARRET……」
+TIFA	TIFA
+“Marlene is…	「マリンは、マリンは
+I think Marlene is safe.”	だいじょうぶだと思うの」
+BARRET	BARRET
+“…huh?”	「……え？」
+TIFA	TIFA
+“Right before they took AERIS,	「AERITHが言ってたわ。
+she said, 'Don't worry, she's all right.'	『あの子、だいじょうぶだから』
+She was probably talking about Marlene.”	って、マリンのことよ、きっと」
+BARRET	BARRET
+“Rrr, really!?”	「ほ、本当か！！」
+TIFA	TIFA
+“But…”	「でも……」
+BARRET	BARRET
+“Biggs…	「ビッグス……
+Wedge…	ウェッジ……
+Jessie…”	ジェシー……」
+CLOUD	CLOUD
+“All three of them were in the pillar.”	「……あの３人は柱の中にいた」
+BARRET	BARRET
+“Think I don't know that?”	「わかってる……」
+BARRET	BARRET
+“But…we, all of us	「でもよ、でもよ！
+fought together.”	いっしょに戦ってきた仲間だ！」
+BARRET	BARRET
+“I don't wanna think of them	「死んじまったなんて……
+as dead!”	思いたくねえ！」
+TIFA	TIFA
+“…And the other people in Sector 7.”	「……７番街の人たちも」
+BARRET	BARRET
+“This is all screwed up!”	「ああ、ヒドイもんだぜ」
+“They destroyed an entire village	「オレたちを倒すために街ひとつ
+just to get to us!	つぶしちまうんだからな。
+They killed so many people…”	いったい何人死んだんだ……」
+TIFA	TIFA
+“…Are you saying it's our fault?	「……私たちのせい？
+Because AVALANCHE was here?	アバランチがいたから？
+Innocent people lost their lives because of us?”	関係ない人たちまで……」
+BARRET	BARRET
+“No, TIFA!	「ちがう！　ちがうぜ！　TIFA！！」
+That ain't it!	
+Hell no!!”	
+“It ain't us! It's the damn Shinra!	「なにもかも神羅のやつらが
+It's never been nobody but the Shinra!”	やったことじゃねえか！」
+BARRET	BARRET
+“They're evil and destroyin'	「自分たちの金や権力のために
+our planet just to…”	星の命を吸い取る悪堂ども！」
+“build their power and line their own	「その神羅をつぶさない限り
+damn pockets with gold!”	この星は死んじまうんだ！」
+BARRET	BARRET
+“Our fight ain't never gonna be over	「神羅を倒すまでオレたちの戦いは
+until we get rid of them!!”	おわらねえ！！」
+TIFA	TIFA
+“…I don't know.”	「……わからない」
+BARRET	BARRET
+“What don't you know!?	「オレが言ってること
+You don't believe me?”	わからねえのか！？」
+TIFA	TIFA
+“It's not that.	「ちがう……
+I'm not sure about…me.	わからないのは
+My feelings.”	自分の……気持ち」
+BARRET	BARRET
+“An' what about you?”	「おまえはどうなんだ？」
+CLOUD	CLOUD
+“…”	「……」
+BARRET	BARRET
+“Yo!”	「おい！」
+BARRET	BARRET
+“Where's he think he's goin'?”	「あいつ、どこへ？」
+TIFA	TIFA
+“Oh! AERIS!”	「あっ！　AERITHのこと！」
+BARRET	BARRET
+“Oh yeah, that girl.	「ああ、あの姉ちゃんか。
+What's up with her?”	何者なんだ？」
+TIFA	TIFA
+“…I don't really know…	「……私もよく知らない。
+but she's the one I left	でも、マリンのことを
+Marlene with.”	AERITHに頼んだの」
+BARRET	BARRET
+“Damn! Marlene!!”	「そうだ！　マリン！！」
+TIFA	TIFA
+“AERIS said that Marlene was	「マリンはだいじょうぶって
+safe.”	AERITHは言ってたけど……」
+BARRET	BARRET
+“TIFA.	「TIFA。
+There ain't no turnin' back now.”	もう、あともどりはできねえんだ」}
+	
+Sector 6 park	６番街公園
+You may not take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+Received "Sense" Materia!	『みやぶる』のマテリアを手にいれた！
+“CLOUD!”	「CLOUD！」
+BARRET	BARRET
+“Take me to Marlene!”	「マリンのところへ連れてってくれ！」
+TIFA	TIFA
+“You're going to help AERIS?”	「AERITHを助けにいくのね？」
+CLOUD	CLOUD
+“Yeah…	「ああ……
+But before that,	でも、その前に
+there's something I want to know.”	確かめたいことがあるんだ」
+TIFA	TIFA
+“What's that?”	「なに？」
+CLOUD	CLOUD
+“…It's about the Ancients.”	「……古代種」
+“Now listen good!	「よく聞け！
+The Ancients are the	古代種こそが
+rightful rulers of this Planet!”	この星の正当なる支配者！」
+CLOUD	CLOUD
+"Sephiroth…?"	「セフィロス……？」
+TIFA	TIFA
+“Are you all right?”	「だいじょうぶ？」
+BARRET	BARRET
+“Pull it together, man!”	「しっかりしてくれよ！」
+Sector 6	６番街}
+“In my veins courses the blood of the Ancients.	「われこそ古代種の血をひきし者。
+I am one of the rightful heirs to this planet!”	この星の正統なる後継者！」
