@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.1...v0.0.2) (2021-04-15)
+
+
+### Features
+
+* Added prepublish script for auto-generating meta data related to the script. ([2aeb83c](https://github.com/nowotato/final-fantasy-7-script/commit/2aeb83cdf2c936961cf4751c47422d8d8c967dab))
+* Added scripts for ripping kanji from the processed scripts. ([9f10c17](https://github.com/nowotato/final-fantasy-7-script/commit/9f10c1735ddf9aa3a51d86358eb579d1ebaca3d4))
+
+
+### Bug Fixes
+
+* **readme:** Added info about the project to the main README. ([07146ca](https://github.com/nowotato/final-fantasy-7-script/commit/07146ca74384c514bf18edf19371ab9f714779da))
+* Updated README. ([892669a](https://github.com/nowotato/final-fantasy-7-script/commit/892669a58ec19e09d44d65261e2d777322d17985))
+
 ### 0.0.1 (2021-04-14)
 
 

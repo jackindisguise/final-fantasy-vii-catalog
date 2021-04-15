@@ -1,12 +1,13 @@
 {
   "name": "script",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "How to Use\r ---\r This is the script I wrote to quickly associate dialogue lines between the English and Japanese scripts, based on how they're formatted in the source spreadsheet.",
   "main": "process.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"kanji": "node generateKanjiTable.js && node generateKanjiInOrder.js",
-	"prepublishOnly": "npm run kanji"
+    "kanji": "node generateKanjiTable.js && node generateKanjiInOrder.js",
+    "prepublishOnly": "npm run kanji",
+    "release": "standard-version"
   },
   "author": "",
   "license": "ISC",
