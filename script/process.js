@@ -1,9 +1,7 @@
-const fs = require("fs");
-let sourceLines = [];
-let targetLines = [];
-let parsedLines = [];
-fs.readFile("formatted.txt", "utf8", function(err, data){
+function process(data){
 	let lines = data.split("\r\n");
+	let sourceLines = [];
+	let targetLines = [];
 	for(let line of lines){
 		let split = line.split("\t");
 		let source = split[0];
@@ -35,7 +33,9 @@ fs.readFile("formatted.txt", "utf8", function(err, data){
 	sourceLines = sourceLinesRaster.split("\r\n");
 	targetLines = targetLinesRaster.split("\r\n");
 
-	let formatted = [];
-	for(i=0;i<sourceLines.length;i++) formatted.push(`${sourceLines[i]}\t${targetLines[i]}`);
-	fs.writeFile("processed.txt", formatted.join("\r\n"), "utf8", function(err){ });
-});
+	let processed = [];
+	for(let i=0;i<sourceLines.length;i++){ processed.push({source:sourceLines[i], target:targetLines[i]}); }
+	return processed;
+};
+
+module.exports = process;
