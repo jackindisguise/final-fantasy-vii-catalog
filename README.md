@@ -16,8 +16,13 @@ The Goal of This Project:
 Navigation:
 ---
 The Anki deck and related files are stored in `/deck`.
+
 The Javascript written to process the script is stored in `/script`.
+
 The spreadsheets that are being used to handle everything are stored in `/spreadsheets`.
+
 Formatted scripts are stored in `/text/formatted`.
+
 Processed scripts are stored in `/text/processed`.
+
 Kanji metadata is stored `/text/kanji`.
