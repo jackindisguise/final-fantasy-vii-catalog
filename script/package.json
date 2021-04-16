@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "kanji": "node generateKanjiTable.js && node generateKanjiInOrder.js",
-    "prerelease": "npm run kanji",
-    "release": "npm run prerelease && standard-version"
+    "meta": "npm run kanji",
+    "release": "standard-version --dry-run"
   },
   "author": "",
   "license": "ISC",
