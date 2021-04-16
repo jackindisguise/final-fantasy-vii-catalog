@@ -1,0 +1,1314 @@
+AERIS	AERITH
+“CLOUD, you're late!”	「CLOUD、おそい～っ！」
+BARRET	BARRET
+“Yo man, you're late!”	「おそいじゃねぇか！」
+CLOUD	CLOUD
+“Sorry to keep you waiting.”	「すまない。
+	またせたようだな」
+AERIS	AERITH
+“Guess everyone's here now.”	「これで、みんなそろったわね」
+BARRET	BARRET
+“So let's hear your story…”	「さあて……
+	聞かせてもらおうじゃねえか」
+“You know, the one about Sephiroth	セフィロス、星の危機。
+and the crisis of the Planet.”	
+“Let's hear it all.”	おまえが知ってることのすべてを
+CLOUD	CLOUD
+“…I used to want to be like Sephiroth,	「……俺はセフィロスにあこがれて
+so I joined SOLDIER.”	ソルジャーになったんだ」
+“After working with Sephiroth	「いくつかの作戦を
+on several missions,	セフィロスといっしょにこなすうちに
+we became friends.”	俺たちは親しくなった」
+BARRET	BARRET
+“You call that a friend?”	「親友ってやつか？」
+CLOUD	CLOUD
+“Yeah, well…”	「どうかな……」
+“He was older than me,	「年もはなれていたし
+and hardly ever	セフィロスは自分のことを
+talked about himself.”	ほとんど話さなかった」
+CLOUD	CLOUD
+“So I guess you'd call us war buddies…	「戦友……かな。
+We trusted each other.	俺たちは信頼しあっていた。
+Until one day…”	あのときまでは……」
+TIFA	TIFA
+“…”	「………」
+AERIS	AERITH
+“…One day?”	「あのとき？」
+CLOUD	CLOUD
+“After the war it was SOLDIER's	「戦争終結後のソルジャーの任務は
+duty to put down any resistance	神羅に反抗する人たちを……。
+against the Shinra.”	ゆううつな仕事が多かったな」
+CLOUD	CLOUD
+“…that was five years ago.”	「……あれは５年前」
+“I was 16…”	「俺は１６歳だった……」
+CLOUD	CLOUD
+“It sure is raining hard.”	「すごい雨だな」
+CLOUD	CLOUD
+“Hey, how are you doing?”	「おい、気分はどうだ？」
+“I'm all right.”	「……だいじょうぶ」
+CLOUD	CLOUD
+“I wouldn't know…”	「俺は乗り物酔いなんて
+	なったことないからな」
+“I've never had motion sickness.”	「よくわからないんだ」
+CLOUD	CLOUD
+“Everything okay?”	「準備はＯＫ？」
+Sephiroth	セフィロス
+“Hey.”	「おい、おまえ」
+Sephiroth	セフィロス
+“Settle down.”	「もうすこしおちつけ」-
+CLOUD	CLOUD
+“They gave me some new Materia.”	「新しいマテリア、支給されたんだ」
+“I can't wait to use it.”	「早く使ってみたくて
+	おちつかなくてさ」
+Sephiroth	セフィロス
+“…Just like a kid.”	「……子供か、おまえは」
+CLOUD	CLOUD
+“You going to brief us	「なあ、そろそろ今回の仕事
+about this mission?”	教えてくれよ」
+Sephiroth	セフィロス
+“This isn't a typical	「……今回の任務は
+mission.”	いつもとはちがう」
+CLOUD	CLOUD
+“Good!”	「それはうれしいね！」
+Sephiroth	セフィロス
+“Why do you say that?”	「どうしてだ？」
+CLOUD	CLOUD
+“I joined SOLDIER	「俺はあんたみたいになりたくて
+to be like you.”	ソルジャーになったんだ」
+“But by the time I made First Class,	「それなのにクラス１ＳＴに
+the war was already over.”	昇格したのと同時に
+	戦争が終わってしまった」
+“My big hopes of becoming a hero	「俺がヒーローになるチャンスが
+like you ended with the war.”	減ってしまったわけさ」
+“That's why I always sign up	「だから、そういうチャンスがあるなら
+whenever there's a big mission.	俺は絶対にモノにしてみせる」
+Kind of a way to prove myself.”	
+CLOUD	CLOUD
+“Say, how do you feel,	「な、どんな気分だ？
+MISTER Sephiroth?”	英雄セフィロスさん？」
+Sephiroth	セフィロス
+“…I thought you wanted	「……おまえ、今回の任務が
+a briefing?”	知りたかったんじゃないのか？」
+Sephiroth	セフィロス
+“Our mission is to investigate	「今回の任務は
+an old Mako reactor.”	老朽化した魔晄炉の調査だ」
+Sephiroth	セフィロス
+“There have been reports of	「異常動作を起こしているうえに
+it malfunctioning,	凶暴な動物が発生している」
+and producing brutal creatures.”	
+“First, we will dispose of those	「そいつらを始末しつつ
+creatures.	原因を見つけだし、排除する」
+Then, we'll locate the problem	
+and neutralize it.”	
+CLOUD	CLOUD
+“Brutal creatures?	「凶暴な動物……
+Where?”	場所はどこだ？」
+Sephiroth	セフィロス
+“The Mako Reactor at Nibelheim.”	「ニブルヘイムの魔晄炉だ」
+CLOUD	CLOUD
+“Nibelheim…”	「ニブルヘイム……」
+CLOUD	CLOUD
+“That's where I'm from.”	「ニブルヘイムは
+	俺の生まれ故郷なんだ」
+Sephiroth	セフィロス
+“Hmm…hometown…”	「そうか……故郷か」
+“Sir…s, something strange	「へ、へんな動物が！！
+just crashed into the truck!”	トラックに突っこんで来ました！」
+Sephiroth	セフィロス
+“That would be our Monster…”	「モンスターのお出ましか」
+Sephiroth	セフィロス
+“Come on, let's go to work.”	「さあ、仕事だぞ」
+CLOUD	CLOUD
+“Sephiroth's strength is incredible.	「セフィロスの強さは普通じゃない。
+He is far stronger in reality	世間で知られている
+than any stories you	どんな話よりも……すごかった」
+may have heard about him.”	
+AERIS	AERITH
+“So…	「あれ～？
+Where do you come in?”	CLOUDの活躍は？」
+CLOUD	CLOUD
+“Me?	
+I was mesmerized by the	「俺か？　俺はセフィロスの戦いぶりに
+way Sephiroth fought.”	みとれていたな」
+CLOUD	CLOUD
+“…and then	「……そして俺たちは
+we reached Nibelheim.”	ニブルヘイムについたんだ」
+Nibelheim	ニブルヘイム
+	
+Sephiroth	セフィロス
+“How does it feel?”	「どんな気分なんだ？」
+Sephiroth	セフィロス
+“It's your first time back to your hometown	「ひさしぶりの故郷なんだろ？」
+in a long time, right?”	
+Sephiroth	セフィロス
+“So how does it feel?”	「どんな気分がするものなんだ？」
+“I wouldn't know because	「オレには故郷がないから
+I don't have a hometown…”	わからないんだ……」
+CLOUD	CLOUD
+“Ummm…how 'bout your parents?”	「ええと……両親は？」
+Sephiroth	セフィロス
+“My mother is Jenova.	「母の名はジェノバ。
+She died right after she gave birth to me.	オレを生んですぐに死んだ。
+My father…”	父は……」
+Sephiroth	セフィロス
+“What does it matter?”	「オレは何を話してるんだ……」
+Sephiroth	セフィロス
+“All right, let's go.”	「さあ、行こうか」
+BARRET	BARRET
+“Yo wait a minute!!”	「ちょっと待った！！」
+BARRET	BARRET
+“Isn't that, uh…?”	「な、あれじゃねえか？」
+BARRET	BARRET
+“The name of Sephiroth's mother…”	「セフィロスが言ってた
+	母親の名前……」--
+BARRET	BARRET
+“I remember Jenova.	「ジェノバ……覚えてるぞ！
+That's that damn headless spook	神羅ビルにいた首ナシの
+livin' in the Shinra building.”	バケモノだな！」
+CLOUD	CLOUD
+“That's right.”	「そのとおりだ」
+TIFA	TIFA
+“BARRET,	「ちょっとBARRET。
+would you please let us hear what	CLOUDの話、ちゃんと聞かせて。
+CLOUD has to say?	質間はあとよ」
+You can ask questions later.”	
+BARRET	BARRET
+“TIFA, I was only…”	「でもよぉ、TIFA……」
+TIFA	TIFA
+“Ok CLOUD, continue.”	「さあCLOUD、つづけて」
+AERIS	AERITH
+“The childhood friends are reunited!”	「幼なじみの再会ね！」
+CLOUD	CLOUD
+“…I was really surprised	「……TIFAには
+with TIFA.”	おどろかされたな」
+Sephiroth	セフィロス
+“The Mako smells pretty bad here.”	「魔晄のにおいがするな」
+“Psst…	「ヒソヒソ……
+(You keep wandering around here and you'll get	（ウロチョロしてるとしかられるぞ）」
+in trouble.)”	
+“Being on watch is so boring.”	「たいくつなんだよな、見張りって」
+You want to do what we always do?	いつもの、やるか？
+Just sit tight, it's your job, right?	ガマンガマン、仕事だろ？
+CLOUD	CLOUD
+“Shall we practice?”	「練習でもするか？」
+CLOUD	CLOUD
+“I'll come and talk to you once in a while.	「時々話しにくるからさ。
+Just stick with it.”	ガマンしてろよ」
+“Practice?	「練習……
+Oh, you mean practice my pose.”	ああ、ポーズの練習か」
+“Do members of SOLDIER always have	「ソルジャーは常に他人の目を
+to worry about what others think?”	意識しなくちゃならないってか？」
+“How did it go?”	「……どうだっけ？」
+“…Was it like this?”	「……こうか？」
+CLOUD	CLOUD
+“Good job!”	「うまくなったな！」
+“I really don't want to be in SOLDIER.”	「俺、ソルジャーなんかに
+	なりたくないんだよねえ」
+Nibelheim	ニブルヘイム
+	
+CLOUD	CLOUD
+“…The town was quiet.”	「……村はひっそりしていた」
+“Everyone must be in their houses,	「みんな、モンスターを恐れて
+afraid to come out because of the monsters.”	家に閉じこもっていたのかな？」
+“No, maybe they're afraid of us…”	「いや、俺たちを
+	恐れていたのか……」
+Sephiroth	セフィロス
+“We leave for the reactor at dawn.	「魔晄炉への出発は明朝。
+Make sure you get to sleep early.”	今日は早めに眠っておけ」
+Sephiroth	セフィロス
+“All we need is one lookout,	「見張りはひとりでいいから
+so you others, get some rest.”	おまえたちも休んでおけよ」
+Sephiroth	セフィロス
+“Oh, and…”	「そうだったな……」
+Sephiroth	セフィロス
+“You may visit your family and friends.”	「家族や知り合いと
+	会ってきてもかまわないぞ」
+“Man…	「はぁ……
+I'm so nervous.”	ドキドキするなぁ」
+How come?	どうしてだ？
+I'm excited.	俺はワクワクしてる
+“Look, you never know when a monster's	「いつ、モンスターが来るか
+gonna show up, right?”	わからないんだろ？」
+“…That's right.	「……そうだったな。
+Don't blow your chance to become a hero…”	英雄になるチャンス、のがすなよ」
+“Hey, if you don't calm down,	「おい、落ちつきがないと
+you won't get a good evaluation…”	査定が悪くなるぞ」
+“Hmm? You from Shinra?”	「ん？　あんた、神羅の？」
+That's right!	そのとおりだ！
+Who are you?	あんたは？
+“Geez…	「ふん……
+Big-headed young kid.”	若造がえらそうに」
+“I'm the town's…	「私はこの村の……
+….	……
+…!?”	……！？」
+“Aren't you CLOUD?”	「おまえ、CLOUDだな？」
+“Don't you know me?”	「私を忘れたのか？」
+CLOUD	CLOUD
+“You're TIFA's…”	「TIFAの……」
+“Right.	「そう。
+I'm TIFA's father.”	TIFAの父親だ」
+CLOUD	CLOUD
+“…Long time no see, sir.”	「……ひさしぶりです」
+TIFA's father	TIFAパパ
+“…Stay away from my daughter.”	「……娘には近づかないで
+	もらいたいものだな」
+TIFA's father	TIFAパパ
+“We don't need the Shinra's help to	「神羅にたよらなくても
+protect our town!”	自分の村ぐらい守ってみせる！」
+TIFA's father	TIFAパパ
+“If I knew this was going to happen,	「こんなことなら山歩きなんて
+I would've made mountain climbing off limits…”	禁止しておけばよかった……」
+TIFA's father	TIFAパパ
+“I hate myself for asking you this, but…”	「おまえにこんなことをたのむのは
+“Don't take your eyes off of TIFA!	腹が立つが……」
+Hurry up and go back to her side!”	「TIFAのそばから離れるな！
+	さっさと娘のそばにもどってくれ！」
+TIFA's father	TIFAパパ
+“Until we know that there's no danger,	「危険がないことがわかるまで
+we're not moving.”	私たちはここを動かないからな」
+“I heard Sephiroth was coming	「英雄セフィロスが来るってんで
+so I brought my camera.”	カメラの用意して
+	待ってたんですよ」
+“I want a shot of	「セフィロスとモンスターの
+Sephiroth and a monster.”	ツーショットが欲しいんです」
+Take my picture.	俺の写真をとれ
+Get back in the house, it's dangerous.	危険だから家に入ってろ
+“I don't take pictures	「……マイナーな人の写真は
+of nobodys.”	とらない主義なんですよう」
+“All right…	「はいはい……
+Fat-head…”	（えらそうに）」
+“Hey?	「おろっ？
+This guy's a real…”	（こいつはたしか……）」
+“You…	「あんた……
+Are you CLOUD?”	CLOUDくん？」
+“Really?	「ふ～ん……そっかぁ
+So that's how it is, huh?”	そうなんだぁ」
+“Gosh, CLOUD,	「いや～、もう、CLOUDくん
+you've grown up to be a nice-looking lad.”	立派になってぇ」
+Then take my picture	それなら俺の写真をとれ
+It's dangerous, go home	危険だから家に入ってろ
+“Let's do this, CLOUD.	「こうしよう、CLOUDくん。
+Let me take a picture of you with Sephiroth.”	セフィロスといっしょの時に
+	写真、とらせてもらうよ」
+“OK, OK…	「ほいほい……
+Fat-head…	（えらそうにさ……）
+You're just his assistant.”	（セフィロスのおとものくせにさ）」
+“Think they'd let me take a picture?”	「写真とらせてくれるかなぁ」
+“What's Sephiroth doing?”	「セフィロス、何してる？」
+Sephiroth	セフィロス
+“Once the guide gets here, we're heading out.”	「ガイドが来たら出発だ」
+TIFA's father	TIFAパパ
+“Listen to me, Sephiroth.	「セフィロス、聞いてくれ。
+In case something happens…”	もしものことがあったら……」
+Sephiroth	セフィロス
+“…Trust me.”	「……安心してくれ」
+TIFA	TIFA
+“I'll be all right, Dad!”	「だいじょうぶだから、パパ！」
+“I have two men from SOLDIER with me.”	「つよ～いソルジャーが
+	ふたりもいるのよ」
+TIFA	TIFA
+“I'm TIFA.	「TIFAです。
+Nice to meet you!”	よろしくおねがいします！」
+CLOUD	CLOUD
+“TIFA!	「TIFA！
+You're the guide?”	あんたがガイド！？」
+TIFA	TIFA
+“That's right.”	「そういうこと」
+“It so happens I'm the	「この村で一番のガイドといえば
+number one guide in this town.”	私のことでしょうね」
+CLOUD	CLOUD
+“It's too dangerous!	「でも、危険すぎる！
+I can't get you involved in this!”	そんなことにあんたを
+	巻きこむわけにはいかない！」
+Sephiroth	セフィロス
+“There's no problem if you protect her.”	「おまえが守ってやれば
+	間題はなかろう」
+Sephiroth	セフィロス
+“…Let's go.”	「……では、行こうか」
+“Umm…”	「あの……」
+“Mr. Sephiroth!	「セフィロスさん！
+Please let me take one picture for a memento!”	記念に写真を１枚」
+“TIFA, can you ask	「TIFAちゃんからも
+him for me too?”	たのんでくれないかな……」
+“Great, thank you!”	「はい、どうも！」
+“I'll give each of you a copy	「写真できたら
+once I get it developed!”	みなさんにあげますからね！」
+“Cheeeeese!”	「いきますよ～！」
+CLOUD	CLOUD
+“This Mansion…”	「この屋敷は……」
+“…No, I'll come here later.”	「……いや、後にしよう」
+Sephiroth	セフィロス
+“Hey, stay over here!”	「おい、こっちに来ていろ！」
+CLOUD	CLOUD
+“Up ahead is…Mt. Nibel.”	「この先は……ニブル山だ」
+“I'll tell you about the time	「山へ行ったときのことは
+I went into the mountains.”	あとで話すよ」
+Sephiroth	セフィロス
+“Hey, calm down!	「おい、落ちつけ！
+Wait over here.”	こっちで待ってろ」
+“…Late again.”	「……また遅刻だな」
+“I was so nervous.	「なんか緊張してさあ。
+I couldn't get any sleep…”	眠れなかったんだよね、俺」
+Zangan	ザンガン
+“There's nothing that'll	「村に危害をくわえるようなことは
+harm the town, right?”	ないだろうな？」
+Why?	どうして……？
+No way!	そんなことはない！
+CLOUD	CLOUD
+“…Why do you ask?”	「……そんなことを聞く？」
+CLOUD	CLOUD
+“It's Sephiroth.	「セフィロスにかぎって
+He would never do that.”	そんなことはしないさ」
+Zangan	ザンガン
+“The Shinra showed up to eliminate	「会社に不利な情報を消すために
+any information that could be	神羅がやってきたこと……」
+embarrassing to the company.”	
+“You pick these things up when	「各地を旅していると
+you travel as much as I do.”	いろんな話を聞くからな」
+Zangan	ザンガン
+“…Oh my.	「……おやおや。
+You sure do have faith.”	ずいぶん信頼してるんだな」
+“Is that you, CLOUD?”	CLOUDかい？
+…Yeah	……ああ
+…No	……ちがう
+“Mom?”	「……母さんか？」
+“Here, I've brought you something!”	「ほら、さしいれだよ！」
+“Don't tell anyone in town!”	「村のみんなには
+	ナイショだからね！」
+Received "Homemade Potion!”	『手づくりポーション』を手にいれた！
+Nibelheim Inn	ニブルヘイムの宿
+	
+“The, uh…	「あ……
+The whole inn's booked up	本日は神羅会社の皆さんの
+by Shinra for the night.”	貸し切りになってましてねぇ」
+“…?”	「……？」
+“CLOUD?”	「……CLOUDちゃん？」
+“Is it you, CLOUD?”	「CLOUDちゃんかい？」
+“It must've been two years.”	「２年ぶりかねえ」
+“Say, you've really moved up in the world,	「セフィロスさんの部下なんて
+being under Sephiroth's command.”	大出世だねえ、ほんとにぃ」
+“Wow…”	「ほんとにねぇ……」
+“This is really, somethin'.”	「いんや～」
+“You used to be such a scrawny	「あのひねくれボウズがねぇ……」
+kid, and now look at you!”	
+“So, what do you need, CLOUD?”	「なんだい？　CLOUDちゃん」
+Where's Sephiroth?	セフィロスは？
+Give me a room	泊めてくれ
+How is the town?	村の様子を聞かせてくれ
+“He's upstairs.”	「ああ、２階にいるさぁ」
+“You STILL haven't found one yet?”	「ま～だ、見つからないのかい？」
+“It's all reserved for you	「貸し切りだから、かまわないよ。
+Shinra people, so I don't mind.	
+But, wouldn't you feel more comfortable	でも、じぶんちの方が
+staying at home?”	落ちつくんじゃないかい？」
+“Now about the town…”	「村のことねえ……」
+“A lot of monsters have been appearing	「モンスターちゅうのが増えたのは
+in the last 12 months.”	ここ１年くらいかねぇ」
+“Other than that, there's not much change.	「それ以外はあんまり変わんないよ。
+Nothing much exciting happens	こんなちっこい村なんて
+in a little town like this.”	変わりようないさぁ」
+“It was all right when	「あの魔晄炉つくってるころが
+they were building the reactor,”	いちばんはなやかだったよ」
+“…while they were still building it.”	「……つくってる頃はねぇ」
+“But once it was completed, it's been bad.”	「完成してからはダメさぁ」
+“Within a few years,	「何年もしないうちに
+all the trees on the mountain withered away.”	お山の木、枯れちゃったもんねぇ」
+“I don't know if the reactor was good or bad…”	「魔晄炉なんてねぇ
+“I mean it's easy to say	良かったのかねぇ
+that it was a bad idea now.	悪かったのかねぇ……」
+But what can you do about it?”	「悪かったちゅうのは簡単さぁ。
+	でも、いまさらねぇ……」
+“Anyhow, we've got to get rid of the monsters.”	「とりあえず、モンスターたちが
+	いなくなればねぇ」
+“Then, we'll be able to relax a little bit.”	「そうすりゃ、ちょこっとは
+	良くなるさぁ」
+“I'll let you in on a secret…”	「ここだけの話……」
+“The Shinra aren't really popular here.”	「この村じゃ、神羅さんの評判は
+	あんまり良くないのさぁ」
+“You know what I mean, right?”	「CLOUDちゃんなら
+“You're from here, so you know.”	わかるだろう？」
+	「この村の出身だもんねぇ」
+“It's the same story I always tell.	「なんど話してもいっしょさぁ。
+You still want to hear it?”	聞きたいかい？」
+Yeah, tell me again	聞かせてくれ
+No, that's all right	いや、もういい
+“Hey, you want to rest?”	「ああ、休みたいのかい？」
+Yes, please	たのむ
+Forget it	なんでもない
+“It's already been paid for.	「お金はもらってるから
+Go on, get some rest.”	ゆっくりおやすみ」
+“Hmmmm”	「……ふむふむ」
+“Is Shinra here to get rid of the monsters?”	「モンスター退治にやってきた
+	神羅の人間だな？」
+CLOUD	CLOUD
+“And who are you?”	「あんたは？」
+“I'm Zangan.	「私はザンガン。
+I travel around the world teaching children	世界中の子供たちに
+martial arts.”	武術を教える旅をしている」
+Zangan	ザンガン
+“I have 128 students all over the world!”	「弟子は世界中に１２８人！」
+“In this town, a girl	「この村では
+named TIFA is my student.”	TIFAという女の子が
+	私の弟子になった」
+CLOUD	CLOUD
+“Did you say TIFA?”	「TIFAだって？」
+Zangan	ザンガン
+“TIFA has good sense.	「TIFAはセンスが良いな。
+She'll be a powerful fighter.”	彼女は強くなるぞ」
+Zangan	ザンガン
+“I want to see some Shinra techniques.”	「神羅の人間の戦いぶり
+	しっかり見せてもらうよ」
+“And if you see anything you can use,	「使えるようだったら
+you might want to incorporate	ザンガン流格闘術に
+some of my techniques.”	取り入れるのもいいな」
+“Well, good luck.”	「ま、しっかりやってくれ」
+Will we be able to use this place, too?”	「俺たちも、ここ、使えるのかな？」
+Zangan	ザンガン
+“Oh?	「おっ？
+Did you come crying home?”	泣きながら帰ってきたのかな？」
+“I think you probably know	「……あんたの方が
+better than I do, but…”	良く知ってると思うけどねぇ」
+Nibelheim Inn	ニブルヘイムの宿２階
+	
+Sephiroth	セフィロス
+“…”	「…………」
+Sephiroth	セフィロス
+“…We have an early start tomorrow.	「……明日は早いぞ。
+You should get some sleep soon.”	そろそろ眠ったほうがいいな」
+It's still early.	まだ早いよ
+Yeah, let's get some sleep.	ああ、そうしよう
+Sephiroth	セフィロス
+“…I'm not going to wake you up tomorrow.”	「……明日は起こさないからな」
+CLOUD	CLOUD
+“What are you looking at?”	「何を見ている？」
+Sephiroth	セフィロス
+“…This scenery…	「……この風景
+I feel like I know this place.”	オレは知ってるような気がする」
+Sephiroth	セフィロス
+“I've hired a guide to the Mako reactor.”	「魔晄炉へのガイドは
+	手配しておいた」
+“I've heard she's young,	「若い娘らしいが
+I hope we can rely on her…”	たよりにしていいものか……」
+CLOUD	CLOUD
+“It was the morning after that,	「そのよく朝だったな、TIFA」
+right TIFA?”	
+TIFA	TIFA
+“Yes, right…”	「そ、そうね……」
+“We're short one bed…”	「ベッドがひとつ足りない……」
+CLOUD	CLOUD
+“This is…my house.	「ここは……俺の家だ。
+It has nothing to do with what	５年前の事件とは関係ないな」
+happened five years ago.”	
+CLOUD	CLOUD
+“Hey…”	「なあ……」
+“I can't…remember much else.	「あまり……覚えてないんだ。
+There's…nothing more to talk about.”	話すことは、もう……ない」
+AERIS	AERITH
+“That's all right, CLOUD.”	「もう、いいよ、CLOUD」
+BARRET	BARRET
+“Yo wait, I wanna hear.”	「でもよ、興味あるぜ」
+AERIS	AERITH
+“Me too!	「わたしも！
+It's been a long time, right?”	ひさしぶり、だったんでしょ？」
+BARRET	BARRET
+“Tell us more!”	「聞かせろよ！」
+“You saw your family, right?”	「家族と会ったんだろ？」
+Don't want to talk about it	話したくないんだ
+All right…	やれやれ……
+BARRET	BARRET
+“Well, I ain't gonna force ya…”	「ま、ムリにとは言わねえけどよ」
+CLOUD	CLOUD
+“I don't know if you'd call it a 'family'…”	「家族っていっても……」
+“My father…died when I was still young.”	「親父は……
+	俺がまだ子供のころに
+	死んでしまった」
+“That's why my mom……	「だから母さんが……
+lived alone in this house.”	この家には母さんがひとりで
+	住んでいた」
+CLOUD	CLOUD
+“Yeah, I saw my mom.”	「ああ、俺、母さんに会ったよ」
+CLOUD	CLOUD
+“My mom…she was a vibrant woman.	「母さんは……元気な人だった。
+Hadn't changed at all.”	全然変わってなかった」
+“But a few days later, she died…”	「その何日かあとには
+	死んでしまったけど……」
+“But when I saw her, she looked fine.”	「あの時は……本当に元気だった」
+CLOUD	CLOUD
+“Uh?”	「あの……」
+“Yes?”	「は～い？」
+“CLOUD!?”	「CLOUD！？」
+“Welcome home, CLOUD!”	「おかえりなさい、CLOUD！」
+CLOUD	CLOUD
+“Hi, Mom.”	「ただいま、母さん」
+“Come, come…	「どれどれ……
+Let me take a look at you!”	晴れ姿、母さんにも
+	よ～く見せておくれ」
+“Hmmm…”	「ふ～ん」
+“You look so handsome.”	「ほれぼれしちゃうねえ」
+“So is this a SOLDIER uniform?”	「これ、ソルジャーさんの
+	制服かい？」
+CLOUD	CLOUD
+“…Mom, I…”	「…………母さん、俺」
+“Are you eating right?”	「ちゃんとゴハンは
+	食べてるのかい？」
+CLOUD	CLOUD
+“I'm all right.	「だいじょうぶ。
+The Company takes care of me.”	会社が面倒みてくれてる」
+“Is that so?”	「そうなのかい」
+“I know you can't cook…”	「あんた、料理なんて
+	できないだろ？」
+“I've been worried sick about you.”	「いったいどうしてるのかと
+	思ってたんだよ」
+“CLOUD?”	「ねえ、CLOUD」
+“You know, CLOUD…”	「でもねぇ、CLOUD」
+“…isn't that right, CLOUD?”	「そうだろ、CLOUD？」
+“I'll always be your mother…”	「母さんはね、いつだって、あんたの」
+CLOUD	CLOUD
+“…Let's stop this…”	「…………もう、やめよう……」
+TIFA's House	TIFAの家
+	
+TIFA	TIFA
+“CLOUD?”	「ねえ、CLOUD……」
+“Did you go in my house?”	「私の家にもはいったの？」
+Yeah…	ああ……
+No…	い、いや……
+CLOUD	CLOUD
+“I thought you might be home.”	「TIFA、いるかなと思って」
+CLOUD	CLOUD
+“I remember you weren't there.”	「そういえば行かなかったな」
+TIFA's House	TIFAの家２階
+	
+TIFA	TIFA
+“CLOUD?”	「CLOUD……」
+“Did you go into my room?”	「私の部屋にもはいったの？」
+Yeah	ああ……
+No	いや……
+Received "Orthopedic Underwear!"	『ちょっと背のびパンツ』を手にいれた！
+TIFA	TIFA
+“CLOUD!!!”	「CLOUD……それ、本当なの？」
+It's true	ああ……
+Just kidding. Don't get mad.	冗談だ、怒るな……
+TIFA	TIFA
+“…CLOUD”	「……CLOUD」
+“We're talking about something	「今はすごく真面目な話を
+really important here.”	しているんでしょ？」
+CLOUD	CLOUD
+“The letter…”	「手紙だ……」
+TIFA	TIFA
+“Did you read it?	「もしかして読んだの？
+My letter?”	私あての手紙」
+I'd never do that!	そんなことはしない！
+Yeah…	ああ……
+TIFA	TIFA
+“Of course!”	「そうよね！」
+TIFA	TIFA
+“You remember what it said?”	「内容もおぼえているとか……」
+I don't remember	おぼえてない……
+I remember clearly	はっきりと
+TIFA	TIFA
+“Then, let's go on with the story	「それじゃあ、セフィロスの話の
+about Sephiroth.”	続きを聞かせて？」
+CLOUD	CLOUD
+“Dear TIFA…”	「TIFAへの手紙……」
+(Remember)	（思い出す）
+(Stop)	（やめる）
+CLOUD	CLOUD
+“I read it…”	「俺は読んでしまった……」
+“It was a letter addressed to	「よろず屋の息子が
+TIFA from the son of	TIFAに書いた手紙だった……」
+the guy that runs the General Store…”	
+	
+“TIFA, how are you?	「TIFA、元気か？
+I just arrived in Midgar eight days ago.”	ぼくは８日前ミッドガルについた」
+“Yesterday, all of Nibelheim got	「きのうはニブルヘイム出身の
+together to welcome me.	仲間たちが集まってくれたんだ。
+The only person that we couldn't	あ、CLOUDだけは連絡先が
+get a hold of was CLOUD.”	わからなくて呼べなかったけど」
+“But everyone said he wasn't	「でも、アイツはもともとみんなと
+really that close to us.	仲が良かったわけでもないし
+So even if we asked, he probably	きっと呼んでもつまらないから
+wouldn't have come anyway.”	まあ、いいんじゃないかって
+	みんなと話してた」
+“Well, enough about him.”	「うーん。
+	CLOUDの話をしてもしょうがない」
+TIFA	TIFA
+“CLOUD…	「ねえ、CLOUD……
+Do you remember all of it?”	それ全部おぼえてるの？」
+No, that's it	いや、ここまでだな
+Yeah, I remember	なぜか最後までおぼえてる
+CLOUD	CLOUD
+“Because there was some stuff about me…”	「俺のことが書いてあったからかな……」
+“Midgar is really something.	「ミッドガルはすごいところだ。
+But to tell the truth, I feel	ぼくは、はっきり言って
+so behind on everything…	遅れていて、ダサダサの
+so out of it.”	ナントカって感じだった」
+“Even the rooms of people	「スラムの人たちでさえ
+in the slums are clean.”	部屋の中はとてもきれいなんだ」
+“Right now I'm living in the slums,	「今はお金がないから
+but I plan to move to a really nice room,	スラムに住んでいるけど
+like the ones I've seen in magazines, once	いつかは本で見たような
+I make some money.”	オシャレな部屋に住んでやるつもりだ」
+“…But, to do that, I guess I have to find	「……などと書いてみたが
+a job first.	そのためにはまず仕事を
+	見つけなくちゃいけない。
+That's right.	そうなんだ。
+I still haven't found a job yet.”	まだ、仕事、みつからないんだ」
+“I lied to my parents and told them I	「両親には神羅カンパニーで
+found a great job with Shinra, Inc.”	働き口が見つかったって
+	ウソの手紙を出してしまった」
+“I wonder if it's too late to go back.	「もうあともどりはできないかな。
+Sometimes I think I should've	実家のよろず屋を
+taken over my parents' store.”	継げば良かったなと思う」
+“I just made it here to Midgar	「ミッドガルについたばかりなのに
+but all I think about is Nibelheim.”	考えるのはニブルヘイムのこと
+	ばかりなんだ」
+“Hey, TIFA…	「ねえ、TIFA。
+Is that stupid old water tower still working?”	あのオンボロ給水塔は
+	ちゃんと動いているか？」
+“Is the old man at the Inn doing well?	「宿屋のじいさんは元気か？
+Are my parents still at the shop everyday?	ぼくの両親は毎日店をあけてるか？
+Have any monsters attacked?”	モンスターは襲って来ないか？」
+“And most of all,	「何よりTIFA、どうしてる？
+how are you, TIFA?	もう何年も会っていないような
+It feels like I haven't seen you for years.”	気分だよ」
+“We were all talking about you last night.”	「きのうもみんなで
+	TIFAの話でもり上がった」
+“Everyone likes you.	「みんなTIFAが好きなんだ。
+But because everyone idolizes you,	でも、TIFAはみんなの
+I couldn't very well stab them in the back.”	アイドルだったから
+	仲間を裏切ることができなかった」
+“I always acted cool, but actually,	「なーんてカッコつけてたけど
+I was just afraid of being jilted.”	本当は告白してフラれるのが
+	恐かっただけなんだよ」
+“Wow, if I keep writing like this,	「あ、これ以上書くとラブレターに
+this'll become a love letter!”	なってしまう！」
+“So, I think I'll stop here.	「だから今回はこのへんで。
+Take care.	じゃあ、元気で。
+I'll write again.”	また、手紙書くよ」
+“P.S.  Write me back, okay?”	「Ｐ・Ｓ　返事すごく欲しい」
+Nibelheim House	小さな姉弟がいた家
+	
+“…Oh, you're with the Shinra?	「……ああ、神羅の方ですね。
+Welcome.”	ごくろうさまです」
+“Making the rounds?”	「見回りですか？」
+“Oh, I'm sorry!	「あら、ごめんなさい！
+It's you, CLOUD!	CLOUDくんだったのね。
+I didn't recognize you.”	気づかなくって」
+“Shinra----?”	「しんら～？」
+“Chinra---?”	「ちんら～？」
+“SOLDIER?”	「ソルジャ？」
+“SALTZA?”	「そるざ？」
+“Are you going to kill the monsters?”	「モンスターやっつけるの？」
+“Are you going to…?”	「…………つけるの？」
+“….”	「……………………」
+CLOUD	CLOUD
+“These kids are also Sephiroth fans…”	「この子たちもセフィロスが……」
+“He's soooo cool!!”	「カッコイ～！！」
+“Way cool!!”	「カッキー！！」
+“CLOUD, you've grown up to	「CLOUDくん、なかなか
+be a strong man.”	たくましくなったわね」
+“Have a safe trip.”	「いってらっしゃい」
+“Do your best.”	「がんばれ～」
+“Do your best.”	「ガバレ～」
+Nibelheim Item Store	ニブルヘイムのよろず屋
+	
+“Welcome.”	「はい、いらっしゃい」
+“Hey?	「あれっ？
+Aren't you…?”	あんたは……」
+CLOUD	CLOUD
+“…Have I been here before?	「……ここへは行ったのかな？
+…I don't remember.”	……覚えてないな」
+BARRET	BARRET
+“Now you're pissin' me off!!	「じれったいぜ！
+This don't matter, so get on with it!”	関係ないなら先を聞かせろ！」
+“Oh, oh, you're…”	「ねえねえ、あんたは……」
+A Mako Reactor was built in Mt. Nibel.	魔晄炉はニブル山の中に造られていた
+The cold mountain air of Mt. Nibel	ニブルの山の寒々とした空気
+was the same…	変わっていなかったな…
+TIFA	TIFA
+“It gets harder from here!	「さ、ここからが大変よ！
+Follow me!”	ついて来て！」
+“I'm all right.	「俺はだいじょうぶ。
+You be careful too, Guide.”	ガイドさんこそ、気をつけて」
+“Let's hurry.”	「早く行こうぜ」
+TIFA	TIFA
+“Uh…the bridge!!”	「は、橋が！！」
+Sephiroth	セフィロス
+“Everyone seems to be all right.	「無事のようだな。
+Will we be able to get back?”	もとの場所までもどれるのか？」
+TIFA	TIFA
+“These caves are intertwined,	「このへんの洞窟はアリのすみたいに
+like an ant farm…”	入り組んでいるから……」
+“Oh, and Sephiroth…	「それにセフィロスさん。
+One person seems to be missing…”	１人、姿が見えないけど……」
+Sephiroth	セフィロス
+“It may sound cruel,	「冷たいようだが、さがしている時間はない。
+but we've no time to search for him.	さあ、もどれないなら、先へ進むぞ。
+We can't go back, so we must go on.	これからは一練に行動する」
+We'll travel together from here.”	
+CLOUD	CLOUD
+“What's this?”	「これは？」
+TIFA	TIFA
+“A mysteriously colored cave…”	「不思議な色の洞窟ね……」
+Sephiroth	セフィロス
+“It must be the Mako energy.	「魔晄エネルギーだな。
+This mountain is especially abundant in it.	この山は特にエネルギーが豊富なのだ。
+That's why the Mako Reactor was built here.”	だから魔晄炉がつくられた」
+CLOUD	CLOUD
+“…And what's this?”	「……これは？」
+Sephiroth	セフィロス
+“A Mako fountain.	「魔晄の泉。
+It's a miracle of nature.”	自然の驚異というやつだな」
+TIFA	TIFA
+“It's so beautiful…”	「こんなにきれいなのに……」
+TIFA	TIFA
+“If the Mako Reactor continues to	「このまま魔晄炉がエネルギーを
+suck up the energy,	吸い上げ続けたら
+this fountain will dry up too…”	この泉も消えてしまうのね」
+Sephiroth	セフィロス
+“Materia.	「マテリアだ。
+When you condense Mako energy,	魔晄エネルギーが凝縮されると
+Materia is produced.”	マテリアができる」
+“It's very rare to see Materia	「天然のマテリアを見るなんて
+in its natural state.”	めったにない機会だ」
+CLOUD	CLOUD
+“By the way…	「そういえば……
+Why is it that when you use Materia	どうしてマテリアを使うと
+you can also use magic, too?”	魔法を使うことができるんだ？」
+Sephiroth	セフィロス
+“You were in SOLDIER and	「そんなことも知らずに
+didn't even know that?”	ソルジャーをやってるのか？」
+Sephiroth	セフィロス
+“…the knowledge and wisdom of the Ancients	「……マテリアの中には
+is held in the Materia.”	いわゆる古代種の知識が
+	封じこまれている」
+Sephiroth	セフィロス
+“Anyone with this knowledge can freely	「大地、星の力を自在に操る知識。
+use the powers of the land and the Planet.	その知識が星と我々をむすびつけ
+That knowledge interacts between	魔法を呼び出す……といわれている」
+ourselves and the Planet	
+calling up magic…or so they say.”	
+CLOUD	CLOUD
+“Magic…a mysterious power…”	「魔法……不思議な力だ……」
+Sephiroth	セフィロス
+“Ha, ha, ha !”	「ハハハハハ！」
+CLOUD	CLOUD
+“Did I say somethin' funny?”	「なにか変なこと言ったか？」
+Sephiroth	セフィロス
+“A man once told me never to use unscientific	「ある男がな、不思議な力なんて
+terms like 'mysterious power'!	非科学的な言い方は許さん！
+It shouldn't even be called 'magic'!”	魔法なんて呼び方もダメだ！」
+“I still remember how angry he was.”	「そう言って怒っていたのを
+	思い出しただけだ」
+CLOUD	CLOUD
+“Who was that?”	「誰だ、それ？」
+Sephiroth	セフィロス
+“Hojo of Shinra, Inc….	「神羅カンパニーの宝条。
+An inexperienced man assigned	偉大な科学者の仕事を引き継いだ
+to take over the work of a great scientist.”	みじゅくな男だ」
+“He was a walking mass of complexes.”	「コンプレックスのかたまりのような男だな」
+TIFA	TIFA
+“A Mako fountain…	「魔晄の泉……
+So this is where the knowledge	この中には古代種の知識が
+of the Ancients is.”	入っているのね」
+TIFA	TIFA
+“We finally made it.	「ついたわ。
+We sure took the long way though.”	ずいぶん遠回り
+	しちゃったけどね」
+CLOUD	CLOUD
+“TIFA, you wait here.”	「TIFAはここで待っていてくれ」
+TIFA	TIFA
+“I'm going inside, too!	「私も中へ行く！
+I wanna see!”	見たい！」
+Sephiroth	セフィロス
+“Only authorized people are allowed in.	「この中は一般人立入禁止だ。
+This place is full of	神羅の企業秘密で
+Shinra's industrial secrets.”	いっぱいだからな」
+TIFA	TIFA
+“But!”	「でも！」
+Sephiroth	セフィロス
+“Take care of the lady.”	「おじょうさんを守ってやりな」
+TIFA	TIFA
+“Mm, man!”	「ん、もう！」
+TIFA	TIFA
+“Better take real	「しっかり守ってね！」
+good care of me, then!”	
+TIFA	TIFA
+“Yeah, I remember.”	「うん、おぼえてる」
+TIFA	TIFA
+“Hmm…so it was you?”	「そっか……CLOUDだったんだ」
+CLOUD	CLOUD
+“This is…Jenova, right?	「ＪＥＮＯＶＡ……なんだろう。
+It won't open…”	ロックは……あかないか……」-
+Sephiroth	セフィロス
+“This is the reason for the malfunction.	「動作異常の原因はこれだな。
+This part is broken.”	この部分が壊れているんだ」
+“CLOUD, close the valve.”	「CLOUD、バルブを閉じてくれ」
+Sephiroth	セフィロス
+“Did you close the valve?”	「バルブは閉じたのか？」
+Sephiroth	セフィロス
+“Why did it break?”	「なぜ壊れた……？」
+Sephiroth	セフィロス
+“…Now I see, Hojo.”	「……わかったよ、宝条」
+“But doing this will never	「でもな、こんなことしたって
+put you on the same level	あんたはガスト博士には
+as Professor Gast.”	かなわないのさ」
+Sephiroth	セフィロス
+“This is a system that condenses and	「これは魔晄エネルギーを凝縮して
+freezes the Mako energy…	さらに冷やすシステムだ………本来はな」
+that is, when it's working correctly.”	
+“Now…what does Mako energy become	「さて……さらに凝縮すると
+when it's further condensed?”	魔晄エネルギーはどうなる？」
+CLOUD	CLOUD
+“Uh, umm…Oh yeah!	「え、ええと……
+	そうだった！
+It becomes a Materia.”	マテリアができるんだな」
+Sephiroth	セフィロス
+“Right, normally.	「そう、普通ならな。
+But Hojo put something else in there.	でも宝条はこの中にあるものを入れた。
+…Take a look.”	……見ろ」
+Sephiroth	セフィロス
+“Look through the window.”	「マドから中をのぞいて見ろ」
+CLOUD	CLOUD
+“Wh…what is this!?”	「こ、これは！？」
+Sephiroth	セフィロス
+“Normal members of SOLDIER are humans	「おまえたち普通のソルジャーは
+that have been showered with Mako.”	魔晄を浴びた人間だ」
+“You're different from the others	「一般人とはちがうが
+but still human.”	それでも人間なんだ」
+“But, what are they?	「しかし、こいつらはなんだ？
+They've been exposed to a far	おまえたちとは比べものにならないほど
+higher degree of Mako than you.”	高密度の魔晄に浸されている」
+CLOUD	CLOUD
+“…Is this some kind of monster?”	「……これがモンスター？」
+Sephiroth	セフィロス
+“Exactly.	「そうだ。
+And it's Hojo of Shinra	モンスターを生み出したのは
+that produced these monsters.”	神羅カンパニーの宝条だ」
+“Mutated living organisms produced	「魔晄エネルギーが創り出す
+by Mako energy.	異形の生物。
+That's what these monsters	それがモンスターの正体」
+really are.”	
+CLOUD	CLOUD
+“Normal members of SOLDIER?	「普通のソルジャーって？
+You mean you're different?”	あんたは違うのか？」
+CLOUD	CLOUD
+“H…hey, Sephiroth!”	「お、おい、セフィロス！」
+Sephiroth	セフィロス
+“No…”	「ま、まさか……」
+Sephiroth	セフィロス
+“…Was I?”	「……オレも？」
+Sephiroth	セフィロス
+“…Was I created this way, too?”	「……オレはこうして生み出されたのか？」
+CLOUD	CLOUD
+“…Sephiroth.”	「……セフィロス」
+Sephiroth	セフィロス
+“Am I the same as all these monsters?”	「オレはモンスターと
+	同じだというのか……」
+Sephiroth	セフィロス
+“You saw it!	「お前も見ただろう！
+All of them…were humans…”	こいつらの中にいるのは……
+	まさしく人間だ……」
+CLOUD	CLOUD
+“Human!? No way!”	「人間！？　まさか！」--
+Sephiroth	セフィロス
+“…Ever since I was small I've felt…”	「……子供のころから
+	オレは感じていた」
+“…that I was different from the others.	「オレは他のやつらとはちがう。
+Special, in some way.”	オレは特別な存在なんだと思っていた」
+Sephiroth	セフィロス
+“But…	「しかし、それは……
+not like this…”	それはこんな意味じゃない」
+Am I…human?	オレは……人間なのか？
+“I didn't really understand	「セフィロスが何を言っているのか
+what Sephiroth meant then.”	その時の俺にはよくわからなかった」
+“I was even more surprised that	「俺はなによりも神羅カンパニーが
+Shinra was producing monsters.”	モンスターを創っていたということに
+	ショックをうけていた」
+BARRET	BARRET
+“Yeah, maybe so.	「た、確かにそうかもな。
+Wanna take a breather here?”	ここいらで一息いれることにするか」
+BARRET	BARRET
+“Hmph!	「ケッ、余計なお世話だ。
+Pokin' his damn nose in	
+where it don't belong.	
+CLOUD!	おい、CLOUD。話を続けてくれ。」
+Why don't you finish that story?”	
+RED XIII	RED XIII
+“(Phew……)”	「（フッ……）」
+BARRET	BARRET
+“(Why you talkin' to me!?)”	「（な、なんでオレに話をふるんだ！？）」
+Save game and take a rest	セーブして一息いれよう
+Keep talking	このまま話を続けてくれ
+BARRET	BARRET
+“…I get it.”	「……なるほどな」
+RED XIII	RED XIII
+“That would seem to explain the increase	「ここ数年来のモンスターの増加には
+in the number of monsters recently.”	そういった理由があったのか」
+“I think we should listen carefully	「これからのCLOUDの話は
+to CLOUD.	じっくりと聞く必要があるな。
+Don't you think so BARRET?”	そうではないか、BARRET？」
+BARRET	BARRET
+“Damn, Shinra!	「くっ……神羅めっ！
+The more I hear, the more I hate 'em!”	ますます許せねえ！」
+TIFA	TIFA
+“…Who would have ever	「……あの魔晄炉には
+thought the Mako Reactor	そんな秘密があったのね」
+held such a secret.”	
+AERIS	AERITH
+“TIFA…	「ねぇ、TIFA。
+Were you waiting outside then?”	あなたはずっと外で待ってたの？」
+TIFA	TIFA
+“…Yes.”	「………ええ」
+CLOUD	CLOUD
+“We returned to Nibelheim.	「俺たちはニブルヘイムへもどった。
+Sephiroth confined himself to the inn.	セフィロスは宿屋にこもり
+He didn't even try to talk to me.”	誰とも言葉をかわそうとしない」
+TIFA	TIFA
+“Then all of a sudden he	「そしていなくなったのよね」
+just disappeared, right?”	
+CLOUD	CLOUD
+“We found him inside	「セフィロスがみつかったのは
+the biggest building in Nibelheim.”	ニブルヘイムで一番大きな建物」
+TIFA	TIFA
+“The villagers used to call	「村の人たちは神羅屋敷と呼んでいたわ。
+it the Shinra mansion.”	私たちが生まれたころには
+	もう空き家になっていて……」
+CLOUD	CLOUD
+“Long ago, people from Shinra	「むかし、その屋敷は
+used to live in that mansion…”	神羅カンパニーの人間が使っていた……」
+“There's no sign of Sephiroth,	「セフィロスさんの姿が見えないんだ。
+but I know I saw him go into this room…”	たしかに、この部屋に入っていったのを
+	見たんだけど……」
+“Sephiroth seems different.”	「セフィロスさんの
+	ようすが変なんだ」
+Do [CANCEL]	×ボタン　ド
+Re [SWITCH]	□ボタン　レ
+Mi [MENU]	△ボタン　ミ
+Fa [OK]	○ボタン　ファ
+So [PAGEUP] or [PAGEDOWN] + [CANCEL]	Ｒ１ボタンかＬ１ボタンと×ボタン　ソ
+La [PAGEUP] or [PAGEDOWN] + [SWITCH]	Ｒ１ボタンかＬ１ボタンと□ボタン　ラ
+Ti [PAGEUP] or [PAGEDOWN] + [MENU]	Ｒ１ボタンかＬ１ボタンと△ボタン　シ
+Do [PAGEUP] or [PAGEDOWN] + [OK]	Ｒ１ボタンかＬ１ボタンと○ボタン　高いド
+Do Mi So  (C)Directional button Down	方向キー下　ドミソ（Ｃ）
+Do Fa La  (F)Directional button Left	方向キー左　ドファラ（Ｆ）
+Re So Ti  (G)Directional button Up	方向キー上　レソシ（Ｇ）
+Mi So Do  (C)Directional button Right	方向キー右　ミソ高いド（Ｃ）
+End[START]	スタートボタン　終了
+End[START]	スタートボタン　終了
+“Information concerning Materia/Hojo”	『マテリア関係資料／宝条』
+Read it	読んでみる
+Ignore	よまない
+“Life of Materia”	『マテリアの中の生命』
+Read it	読んでみる
+Ignore	よまない
+“Legend of the Ancients, World Version”	『古代種の伝説・世界編』
+Read it	読んでみる
+Ignore	よまない
+“Next Quarter's projected Budget/Hojo”	『次期計画予算／宝条』
+Read it	読んでみる
+Ignore	よまない
+“North Pole Daily Report/Hojo”	『北極日報／宝条』
+Read it	読んでみる
+Ignore	よまない
+“/Hojo”	『／宝条』
+Read it	読んでみる
+Ignore	よまない
+“The Promised Land”	『約束の地』
+Read it	読んでみる
+Ignore	よまない
+Sephiroth	セフィロス
+“…An apparently dead organism	「……２０００年前の地層から
+was found in a 2000 year old	みつかった仮死状態の生物」
+geological stratum.”	
+Sephiroth	セフィロス
+“Professor Gast named that organism, Jenova…”	「その生物をガスト博士は
+	ジェノバと命名した……」
+Sephiroth	セフィロス
+“X Year, X Month, X Day.	「Ｘ年Ｘ月Ｘ日。
+Jenova confirmed to be an Ancient…”	ジェノバを古代種と確認……」
+Sephiroth	セフィロス
+“X Year, X Month, X Day.	「Ｘ年Ｘ月Ｘ日。
+Jenova Project approved.	ジェノバ・プロジェクト承認。
+The use of Mako Reactor 1 approved for use…”	魔晄炉１号機使用許可……」
+Sephiroth	セフィロス
+“My mother's name is Jenova…	「オレの母の名はジェノバ……
+Jenova Project…	ジェノバ・プロジェクト……
+Is this just a coincidence?”	これは偶然なのか？」
+Sephiroth	セフィロス
+“Professor Gast…	「ガスト博士……
+Why didn't you tell me anything?	どうして何も教えてくれなかった？
+…Why did you die?”	……どうして死んだ？」
+Sephiroth	セフィロス
+“Let me be alone.”	「１人にしてくれ」
+“Ha, ha, ha, ha!”	「ハハハハ！」
+“Sephiroth didn't come	それ以降セフィロスは神羅屋敷に
+out of the Shinra Mansion…”	こもりきりになった……
+He continued to read as	まるで何かに取りつかれたかのように
+if he were possessed by something,	書物を読みあさり、地下室の明かりは
+and not once, did the light	決して消える事はなかった……
+in the basement go out…	
+Sephiroth	セフィロス
+“Ha, ha, ha…”	「クックックッ……」
+Sephiroth	セフィロス
+“Who is it!?”	「誰だ！！」
+Sephiroth	セフィロス
+“Hmph…traitor.”	「フッ……裏切り者め」
+CLOUD	CLOUD
+“Traitor?”	「裏切り者？」
+Sephiroth	セフィロス
+“You ignorant traitor.	「何も知らぬ裏切り者よ。
+I'll tell you.”	教えてやろう」
+“This Planet originally belonged to the Cetra.	「この星はもともとセトラのものだった。
+Cetra was a itinerant race.	セトラは旅をする民族。
+They would migrate in,	旅をして、星を開き、そしてまた旅……」
+settle the Planet, then move on…”	
+“At the end of their harsh,	「つらく、きびしい旅の果てに
+hard journey, it was said	約束の地を知り、至上の幸福を見つける」
+they would find the Promised Land	
+and supreme happiness.”	
+Sephiroth	セフィロス
+“But, those who disliked journeying appeared.	「だが、旅を嫌う者たちが現れた。
+They stopped their migrations,	その者は旅することをやめ
+built shelters and elected to	家を持ち、安楽な生活を選んだ」
+lead an easier life.”	
+“They took that which the Cetra	「セトラと星が生み出したものをうばい
+and the Planet had made without	何も返そうとしない」
+giving back one whit in return!”	
+Sephiroth	セフィロス
+“Those are your ancestors.”	「それがおまえたちの祖先だ」
+CLOUD	CLOUD
+“Sephiroth…”	「セフィロス……」
+Sephiroth	セフィロス
+“Long ago, disaster struck the Planet.”	「昔、この星を災害が襲った」
+Sephiroth	セフィロス
+“Your ancestors escaped…	「おまえたちの祖先は
+They survived because they hid.”	逃げ回り……隠れたおかげで
+	生きのびた」
+Sephiroth	セフィロス
+“The Planet was saved	「星の危機はセトラの犠牲で回避された。
+by sacrificing the Cetra.	その後でのうのうと数をふやしたのが
+After that, your ancestors	おまえたちだ」
+continued to multiply.”	
+Sephiroth	セフィロス
+“Now all that's left of the Cetra	「セトラはこうしてレポートの中に
+is in these reports.”	残るだけの種族になってしまった」
+CLOUD	CLOUD
+“What does that have to do with you?”	「それがあんたとどういう
+	関係があるんだ？」
+Sephiroth	セフィロス
+“Don't you see?”	「わからないか？」
+Sephiroth	セフィロス
+“An Ancient named Jenova was found in	「２０００年前の地層から発見され
+a 2000 year-old geological stratum.”	ジェノバと名づけられた古代種」
+Sephiroth	セフィロス
+“The Jenova Project.”	「そしてジェノバ・プロジェクト」
+Sephiroth	セフィロス
+“The Jenova Project wanted to produce people	「ジェノバ・プロジェクトとは
+with the powers of the Ancients…	古代種……つまりセトラの能力を持った
+Or, the Cetra.”	人間を創り出すことだ」
+Sephiroth	セフィロス
+“…I am what was produced.”	「……創り出されたのはオレだ」
+CLOUD	CLOUD
+“Pr…produced!?”	「つ、つくりだされた！？」
+Sephiroth	セフィロス
+“Yes.”	「そう」
+“Professor Gast, leader of	「ジェノバ・プロジェクトの責任者
+the Jenova Project and genius	天才的科学者ガスト博士が
+scientist, produced me.”	オレをつくりだした」
+CLOUD	CLOUD
+“How…how did he?”	「そんなこと……どうやって……」
+CLOUD	CLOUD
+“Se…Sephiroth?”	「セ、セフィロス？」
+Sephiroth	セフィロス
+“Out of my way.	「邪魔するな。
+I'm going to see my mother.”	オレは母に会いに行く」
+Sephiroth	セフィロス
+“Mother, I'm here to see you.	「母さん、会いに来たよ。
+Please, open this door.”	このとびらをあけておくれ」
+TIFA	TIFA
+“How could you do that to Papa and	「よくもパパを！
+all the townspeople?”	よくも村のみんなを！」
+TIFA	TIFA
+“…You promised…	「……ピンチの……時には
+You promised that you'd come……	……来てくれるって
+when I was in trouble…”	約束したのに……」
+Sephiroth	セフィロス
+“Mother, let's take the Planet	「母さん、いっしょにこの星を
+back together.”	取りもどそうよ」
+“I've thought of a great idea.	「オレ、いいことを考えたんだよ。
+Let's go to the Promised Land.”	約束の地へ行こう」
+CLOUD	CLOUD
+“Sephiroth…”	「セフィロス……」
+CLOUD	CLOUD
+“My family! My hometown!	「俺の家族を！　俺の故郷を！
+How could you do this to them!?”	よくもやってくれたな！」
+Sephiroth	セフィロス
+“Ha, ha, ha…	「クックックッ……
+They've come again, Mother.”	母さん、またやつらが来たよ」
+Sephiroth	セフィロス
+“With her superior power, knowledge,	「母さんは優れた能力と
+and magic,	知識、そして魔法で
+Mother was destined to become	この星の支配者になるはずだった」
+the ruler of this Planet.”	
+Sephiroth	セフィロス
+“But, they…”	「でも、あいつらが……」
+“These worthless ones,	「何のとりえもないあいつらが
+took the Planet from you.	母さんたちからこの星を
+Didn't they, Mother?”	うばったんだよね」
+Sephiroth	セフィロス
+“But, don't be sad anymore.”	「でも、もう悲しまないで」
+CLOUD	CLOUD
+“What about MY sadness!?	「俺の悲しみはどうしてくれる！
+My family…friends?	家族……友だち……
+The sadness of having my hometown	故郷をうばわれた俺の悲しみは！！」
+taken away from me!?”	
+“It's the same as your sadness!”	「あんたの悲しみと同じだ！」
+Sephiroth	セフィロス
+“Ha, ha, ha…my sadness?	「クックックッ……オレの悲しみ？
+What do I have to be sad about?”	何を悲しむ？」
+“I am the chosen one.	「オレは選ばれし者。
+I have been chosen	この星の支配者として選ばれし存在だ」
+to be the leader of this Planet.”	
+Sephiroth	セフィロス
+“I have orders to take the Planet back	「この星を、愚かなおまえたちから
+from you stupid people for the Cetra.	セトラの手にとりもどすために生をうけた。
+What should I be sad about?”	何を悲しめというのだ？」
+CLOUD	CLOUD
+“Sephiroth…	「セフィロス……
+I trusted you…”	信頼していたのに……」
+CLOUD	CLOUD
+“No, you're not the Sephiroth I used to know!”	「いや、おまえは、もう
+	俺の知っているセフィロスじゃない！」
+“But they....	「けど、アイツラが．．．．．．．
+Those worthless creatures	何のとりえも無いアイツラが
+Are stealing the planet from Mother	母さん達からこの星を奪ったんだよね
+But now I'm here with you	でも、もう悲しまないで」
+so don't worry”	
+CLOUD	CLOUD
+“…and that's the end of my story.”	「……この話はここで終わりなんだ」
+BARRET	BARRET
+“Wait a damn minute!	「ちょっと待てよ！
+That's it? No more?”	続きはどうなったんだ？」
+CLOUD	CLOUD
+“…I don't remember.”	「……覚えていない」
+AERIS	AERITH
+“What happened to Sephiroth?”	「セフィロスはどうなったの？」
+CLOUD	CLOUD
+“In terms of skill,	「実力から言って、俺がセフィロスを
+I couldn't have killed him.”	倒せたとは思えないんだ」
+TIFA	TIFA
+“Official records state Sephiroth is dead.	「公式記録ではセフィロスは
+I read it in the newspaper.”	死んだことになっていたわ。
+	新聞でみたもの」
+AERIS	AERITH
+“Shinra, Inc. owns the newspapers,	「新聞は神羅が出してるのよ。
+so you can't rely on that.”	信用できない」
+CLOUD	CLOUD
+“…I want to know the truth.	「……俺はたしかめたい。
+I want to know what happened.”	あの時、何があったのかを」
+“I challenged Sephiroth and lived.	「セフィロスに戦いをいどんだ俺は
+Why didn't he kill me?”	まだ生きている。
+	セフィロスは、なぜ俺を殺さなかったのか？」
+TIFA	TIFA
+“…I'm alive, too.”	「……私も生きているわ」
+AERIS	AERITH
+“A lot of this doesn't make sense.	「なんだか、いろいろ、へん。
+What about Jenova?	ねえ、ジェノバは？
+It was in the Shinra building, right?”	神羅ビルにいたのはジェノバ、よね？」
+CLOUD	CLOUD
+“Shinra shipped it	「神羅がニブルヘイムから
+from Nibelheim to Midgar.”	ミッドガルへ運んだのは確実だな」
+AERIS	AERITH
+“Did someone carry it out later?	「そのあと、また誰かが持ち出した？
+It was missing from the Shinra building.”	神羅ビルからもなくなってたわよ」
+TIFA	TIFA
+“Sephiroth?”	「セフィロス……？」
+BARRET	BARRET
+“Damn!	「が～～～っ！
+None of this makes sense!”	わけがわかんねえ！」
+“I'm going,	「オレはいくぜ！
+going,	オレはいくぜ！
+gone!”	オレはいくぜ！！」
+“And I'm leavin' the thinkin' to you!”	「考えるのはオマエたちにまかせた！」
+BARRET	BARRET
+“Yo, CLOUD!	「おい、CLOUD！
+Let's get a move on!”	出発の準備を整えろ！」
+Wait a sec	ちょっと待て
+Right	わかったよ
+BARRET	BARRET
+“CLOUD, what's wrong?	「CLOUD、何をためらう！
+You just gonna stand there while	セフィロスが約束の地に向かうのを
+Sephiroth heads for the Promised Land?”	だまって見ているのか？」
+“I ain't lettin' Sephiroth or	「セフィロスも神羅も
+Shinra get to no Promised Land.	約束の地には行かせねえ。
+If they do,	行かせちまったら
+then we're all screwed.”	とりかえしのつかねえことになる」
+“Y'know what I'm sayin'?”	「オレにわかるのはそれだけだぜ！」
+Beautiful, just beautiful!	すばらしい！
+Is that all?	それだけか？
+BARRET	BARRET
+“Jus' leave it to me!”	「まかせておけって！」
+BARRET	BARRET
+“Fine!	「いいじゃねえかよ！
+That's good enough.”	それで、じゅうぶんだぜ！」
+BARRET	BARRET
+“Yo, c'mon let's go!”	「よっしゃ、行こうぜ！」
+CLOUD	CLOUD
+“Oh brother…”	「やれやれ……」
+TIFA	TIFA
+“CLOUD?”	「……ねぇCLOUD」
+TIFA	TIFA
+“How bad was I after	「セフィロスに斬られた私は
+Sephiroth stabbed me?”	どんなふうだった？」
+CLOUD	CLOUD
+“I thought you were a goner.	「もうダメだと思った。
+…I was so sad.”	……悲しかったよ」
+AERIS	AERITH
+“I…”	「わたし……」
+AERIS	AERITH
+“The Ancients…Cetra…Jenova…	「古代種……セトラ……ジェノバ……
+Sephiroth and myself…”	セフィロス……わたし……」
+TIFA	TIFA
+“Let's go.	「行きましょう。
+BARRET's waiting.”	BARRETが待ってるわ」
+RED XIII	RED XIII
+“What a fascinating story…”	「実に興味ぶかい話だ……」
+CLOUD	CLOUD
+“BARRET and the others are	「BARRETたちが
+waiting for me at the inn.”	宿屋で待っている」
+BARRET	BARRET
+“Yo, CLOUD.	「おい、CLOUD。
+Here.”	これをわたしておくぜ」
+AERIS	AERITH
+“CLOUD.	「ねえ、CLOUD。
+Take this.”	使って、これ」
+TIFA	TIFA
+“Oh, CLOUD.	「はい、CLOUD。
+Let me give you this.”	これをわたしておくわ」
+Received "PHS"!	『ＰＨＳ』を手にいれた！
+BARRET	BARRET
+“As long as we got [PHS],	「その『ＰＨＳ』があれば
+we can always reach each other.	いつでも連絡が取れるからな。
+Use it if something happens.”	なにかあったら、それを使うんだぜ」
+AERIS	AERITH
+“With [PHS],	「『ＰＨＳ』があれば
+I can see you any time!”	いつでもCLOUDに会えるね！」
+TIFA	TIFA
+“Just use [PHS],	「『ＰＨＳ』を使えば
+and you can contact	連絡がとりやすくなるわね」
+any of us easy.”	
+BARRET	BARRET
+“Alright then, we're outta here.”	「じゃあな、オレたちは行くぜ」
+AERIS	AERITH
+“Well, I'll be going.”	「じゃあ、わたし行くね」
+TIFA	TIFA
+“I'm going on ahead.”	「じゃあ、先に行くわね」
+RED XIII	RED XIII
+“[PHS] will put us in constant	「『ＰＨＳ』があれば
+contact with each other.”	たがいの連絡がとりやすくなる」
+(Changing party members)	【パーティの入れ替え】
+“Access the menu and select [PHS].	「メニューを開いて『ＰＨＳ』を選ぶと
+“It can only be used on the World Map	「パーティメンバーの入れ替えができます。
+or at a Save Point.”	ただし『ＰＨＳ』が使えるのは
+	ワールドマップとセーブポイントの上だけです。
