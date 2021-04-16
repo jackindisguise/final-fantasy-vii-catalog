@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.3...v0.0.4) (2021-04-16)
+
+
+### Features
+
+* Reconfigured the process scripts so we can automatically reprocess all scripts when updates are made. ([1b2c09c](https://github.com/nowotato/final-fantasy-7-script/commit/1b2c09c765ecca23cfb2603126c0cf45972aa6a4))
+* Removed all escape code characters from the script. ([2ca5c04](https://github.com/nowotato/final-fantasy-7-script/commit/2ca5c0440e026ddce704ae3492d47d31c0320511))
+
+
+### Bug Fixes
+
+* Brought spreadsheets up to date. ([5253b01](https://github.com/nowotato/final-fantasy-7-script/commit/5253b014f1304f1e1b9f171e776932681049dbc7))
+* Combined the flier into 1 line. ([8e109c0](https://github.com/nowotato/final-fantasy-7-script/commit/8e109c0e95e752431e14dd3c90d2dfcee57cca42))
+* Flier should be 1 line. ([d2a920f](https://github.com/nowotato/final-fantasy-7-script/commit/d2a920fa1e5d174ec7f25820b33acbe0e891ee86))
+* Forgot to generate kanji stuff. I need to automate this somehow. ([fc39dd2](https://github.com/nowotato/final-fantasy-7-script/commit/fc39dd29dacf571943c2d7039ca24d743af40558))
+* Found escape codes (}) still lingering around. ([a7f42f6](https://github.com/nowotato/final-fantasy-7-script/commit/a7f42f6db65354389c47bb5e2f395fc976c79a6b))
+* I guess my updates to the script revealed an inconsistency in scene 2. Yay. ([5c4997c](https://github.com/nowotato/final-fantasy-7-script/commit/5c4997c04840b2c5e1e2e531fbb273925d8ff811))
+* Removed whitespace starting any lines in the script. ([981f3c8](https://github.com/nowotato/final-fantasy-7-script/commit/981f3c8d146a9c2bea678d87c3a4aa777ce694d0))
+* Yet another flier collapsed into 1 line. ([73e1e6f](https://github.com/nowotato/final-fantasy-7-script/commit/73e1e6fb0f252a2247e79fea25f33d9b2606871e))
+
 ### [0.0.3](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.2...v0.0.3) (2021-04-16)
 
 
