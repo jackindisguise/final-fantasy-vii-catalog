@@ -362,11 +362,11 @@ TIFA	TIFA
 “Don't worry!	「どんまい！
 Don't worry!”	どんまい！」
 Illegal ID identified in Car #3	車両３に未確認ＩＤ検知
- Prepare for Lock Down	ドアロック準備
+Prepare for Lock Down	ドアロック準備
 Car #3: Locked Down	車両３ドアロック完了
 Illegal ID will be taken to the station	未確認ＩＤを駅まで護送します
 Illegal ID identified in Car #4	車両４に未確認ＩＤ検知
- Prepare for Lock Down	ドアロック準備
+Prepare for Lock Down	ドアロック準備
 Car #4: Locked Down	車両４ドアロック完了
 Illegal ID will be taken to the station	未確認ＩＤを駅まで護送します
 BARRET	BARRET
@@ -515,11 +515,11 @@ CLOUD	CLOUD
 “Shinra security guards are there.	「神羅の警備兵がいる。
 …We've got to turn back.”	……もどるしかないか」
 	
- “A terrorist attack!”	「テロリストの襲撃だ！」
+“A terrorist attack!”	「テロリストの襲撃だ！」
 	
- “AVALANCHE is attacking!”	「アバランチが襲ってきたぞ！」
+“AVALANCHE is attacking!”	「アバランチが襲ってきたぞ！」
 	
- “Intruders!”	「侵入者だ！」
+“Intruders!”	「侵入者だ！」
 “More security's coming.	「警備兵の増援が来るようだ。
 It's dangerous to stay here.”	このままでは、危ない」
 Run	逃げる

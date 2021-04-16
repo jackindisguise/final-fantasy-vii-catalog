@@ -254,11 +254,11 @@ We're gonna jump off here!! Follow me!!	こっから飛び降りるぞ！！オ�
 TIFA	TIFA
 Don't worry! Don't worry!	どんまい！どんまい！
 Illegal ID identified in Car #3	車両３に未確認ＩＤ検知
- Prepare for Lock Down	ドアロック準備
+Prepare for Lock Down	ドアロック準備
 Car #3: Locked Down	車両３ドアロック完了
 Illegal ID will be taken to the station	未確認ＩＤを駅まで護送します
 Illegal ID identified in Car #4	車両４に未確認ＩＤ検知
- Prepare for Lock Down	ドアロック準備
+Prepare for Lock Down	ドアロック準備
 Car #4: Locked Down	車両４ドアロック完了
 Illegal ID will be taken to the station	未確認ＩＤを駅まで護送します
 BARRET	BARRET
@@ -368,9 +368,9 @@ CLOUD	CLOUD
 Those light beams are the Shinra's security sensors. We can't go any further.	この光の帯は、神羅の警報センサー。これ以上、奥には進めないな
 CLOUD	CLOUD
 Shinra security guards are there. …We've got to turn back.	神羅の警備兵がいる。……もどるしかないか
- A terrorist attack!	テロリストの襲撃だ！
- AVALANCHE is attacking!	アバランチが襲ってきたぞ！
- Intruders!	侵入者だ！
+A terrorist attack!	テロリストの襲撃だ！
+AVALANCHE is attacking!	アバランチが襲ってきたぞ！
+Intruders!	侵入者だ！
 More security's coming. It's dangerous to stay here.	警備兵の増援が来るようだ。このままでは、危ない
 Run	逃げる
 Stay here	ふみ止まる
