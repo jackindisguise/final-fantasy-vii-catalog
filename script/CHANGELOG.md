@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.4...v0.0.5) (2021-04-16)
+
+
+### Features
+
+* Added Scene 10: On That Day 5 Years Ago. ([8b8e089](https://github.com/nowotato/final-fantasy-7-script/commit/8b8e089db3d4ca89a1e73af25f2101d84d54e6ff))
+
 ### [0.0.4](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.3...v0.0.4) (2021-04-16)
 
 
