@@ -19,6 +19,8 @@ fs.readFile("formatted.txt", "utf8", function(err, data){
 	sourceLinesRaster = sourceLinesRaster.replace(/“([^”]+)”/g, function(a,b){ return `${b.replace(/\r\n/g, " ")}`; });
 	// removes double linebreaks
 	sourceLinesRaster = sourceLinesRaster.replace(/(?:\r\n){2,}/g, function(){ return "\r\n"; });
+	// remove trailing linebreaks
+	sourceLinesRaster = sourceLinesRaster.replace(/\r\n$/g, "");
 
 	let targetLinesRaster = targetLines.join("\r\n");
 	// automatically close open dialogue when it comes upon another open dialogue
@@ -27,6 +29,8 @@ fs.readFile("formatted.txt", "utf8", function(err, data){
 	targetLinesRaster = targetLinesRaster.replace(/「([^」]+)」/g, function(a,b){ return `${b.replace(/\r\n/g, "")}`; });
 	// removes double linebreaks
 	targetLinesRaster = targetLinesRaster.replace(/(?:\r\n){2,}/g, function(a){ return "\r\n"; });
+	// remove trailing linebreak
+	targetLinesRaster = targetLinesRaster.replace(/\r\n$/g, "");
 
 	sourceLines = sourceLinesRaster.split("\r\n");
 	targetLines = targetLinesRaster.split("\r\n");
