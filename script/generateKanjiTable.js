@@ -6,6 +6,8 @@ const folder = "../text/processed/";
 
 // local data
 let kanji = {};
+let kanjiArray = [];
+let kanjiCount = 0;
 
 // read all processed texts and scrape kanji data
 fs.readdir(folder, function(err, files){
@@ -17,10 +19,16 @@ fs.readdir(folder, function(err, files){
 		let kanjiRule = /([\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A])/g;
 		let x = data.match(kanjiRule);
 		if(x) data.match(kanjiRule).forEach(function(value, index, results){
-			kanji[value] = (kanji[value] ? kanji[value]+1 : 1);
+			kanjiCount++;
+			if(!kanji[value]) { // create new entry
+				kanji[value] = {kanji:value, order:kanjiArray.length+1, occurrences:1};
+				kanjiArray.push(kanji[value]);
+			} else { // update entry
+				kanji[value].occurrences++;
+			}
 		});
 	}
 
-	fs.writeFileSync("kanjiTable.json", JSON.stringify({unique:Object.keys(kanji).length, total:Object.values(kanji).reduce(function(a,b){return a+b;}), table:kanji}, null, "\t"), "utf8");
+	fs.writeFileSync("kanjiTable.json", JSON.stringify({unique:kanjiArray.length, total:kanjiCount, table:kanjiArray}, null, "\t"), "utf8");
 	console.log("Generated Kanji table.")
 });
