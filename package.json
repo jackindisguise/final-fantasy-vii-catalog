@@ -5,7 +5,7 @@
   "main": "process.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "kanji": "node generateKanjiTable.js && node generateKanjiInOrder.js",
+    "kanji": "cd script && node generateKanjiTable.js && node generateKanjiInOrder.js",
     "meta": "npm run kanji",
     "release": "standard-version"
   },
