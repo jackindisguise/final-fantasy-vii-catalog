@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.2...v0.0.3) (2021-04-16)
+
+
+### Features
+
+* Added scenes 8 and 9. ([e4bd589](https://github.com/nowotato/final-fantasy-7-script/commit/e4bd589daa23e824034f83754e790189b930fad8))
+* Removes trailing linebreaks (generated in some circumstances during processing). ([cf6044e](https://github.com/nowotato/final-fantasy-7-script/commit/cf6044e77247721e185e71bf7fff3966316eef13))
+* Script now detects when a new dialogue block starts in the middle of a dialogue block and assumes it's the end of the previous block. ([3ab2002](https://github.com/nowotato/final-fantasy-7-script/commit/3ab20023a06765f69b6a04847af2ba0700171067))
+
+
+### Bug Fixes
+
+* Anki ordering is annoying. Had to clear the deck and start over. ([636ef9c](https://github.com/nowotato/final-fantasy-7-script/commit/636ef9c14946477bf0074dd205c2b3ea4e1ec1fa))
+* Fixed auto-closing script. ([12e48c1](https://github.com/nowotato/final-fantasy-7-script/commit/12e48c1d4e60a8ba4476a7f0b1470383d7d79989))
+* Fixed uniform spreadsheet for scene 8. ([a353f25](https://github.com/nowotato/final-fantasy-7-script/commit/a353f250ed3a5cf03450d616c022dd57b0205c9f))
+* Run pre-release stuff before standard-version in 1 command. ([84f3570](https://github.com/nowotato/final-fantasy-7-script/commit/84f35703ef2031ab050b2077ecf47f694c80522d))
+* Too early to debug this, so I fixed it quick. ([2881206](https://github.com/nowotato/final-fantasy-7-script/commit/2881206d0758a68e9069f2f22ade1a17e3b9f777))
+
 ### [0.0.2](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.1...v0.0.2) (2021-04-15)
 
 
