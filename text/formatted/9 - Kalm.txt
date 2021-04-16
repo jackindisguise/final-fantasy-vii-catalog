@@ -1,0 +1,495 @@
+Kalm	カーム
+Weapon Store	武器屋
+Item Store	アイテム屋
+Bar	酒場
+House: 1f	民家１階
+House: 2f	民家２階
+Rear Tower (Pagoda)	裏の塔
+Inn: 1f	宿屋１階
+Inn: 2f	宿屋２階
+CLOUD's Past	CLOUDの過去
+	
+Received "Ether"!	『エーテル』を手にいれた！
+Received "Peacemaker"!	『ピースメーカー』を手にいれた！
+Received "Guard Source"!	『ガードアップ』を手にいれた！
+…Dropped "Megalixir"!	……『ラストエリクサー』が落ちてきた！
+Received "Underwater" Materia!	『せんすい』のマテリアを手にいれた！
+Received "Master Magic" Materia!	『マスターまほう』のマテリアを手にいれた！
+Received "Master Command" Materia!	『マスターコマンド』のマテリアを手にいれた！
+Received "Master Summon" Materia!	『マスターしょうかん』のマテリアを手にいれた！
+Cannot take on anymore Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+Empty…	からっぽだ……
+Can't reach it…	手がとどかない……
+BARRET	BARRET
+“This is Kalm.”	「ここが、カームだ」
+AERIS	AERITH
+“We've reached Kalm.”	「カームに着いたね」
+TIFA	TIFA
+“So this is Kalm?”	「ここが、カームね」
+RED XIII	RED XIII
+“…this must be Kalm.”	「……カームに着いたな」
+BARRET	BARRET
+“Yo, I'll be waitin' at the inn…	「おい、先に宿屋で待ってるぜ。
+Hurry and get your butt over there!”	チンタラせずに、早くこいよ！」
+AERIS	AERITH
+“I wonder if everyone's there already?	「みんな、もう着いてるかな。
+Let's hurry over to the inn!”	はやく宿屋に行きましょ！」
+TIFA	TIFA
+“Everyone's waiting at the inn.	「宿屋でみんなが待ってるわ。
+Let's go CLOUD.”	行きましょう、CLOUD」
+RED XIII	RED XIII
+“We're supposed to meet at the inn.	「宿屋でおちあう手はずだったな。
+…Shall we go?”	……行くか」
+BARRET	BARRET
+“Get over here!”	「とっとと来いよ」
+AERIS	AERITH
+“Well then, I'll go on ahead.”	「じゃあ、先、行ってるね」
+TIFA	TIFA
+“Let's go CLOUD.”	「行きましょう、CLOUD」
+RED XIII	RED XIII
+“Let's go CLOUD.”	「行こう、CLOUD」
+“Thanks to the Mako energy	「神羅カンパニーが魔晄エネルギーを
+Shinra, Inc. develops for us,	実用化してくれたおかげで
+everything's more convenient now.”	わしらの生活も便利になったもんじゃ」
+“Maybe a little too convenient.”	「ちと、便利になりすぎたかも
+	しれんがの」
+“I hear that the natural resources	「魔晄炉のある場所の土地は
+near the reactors are being sucked dry.”	どんどんやせていってしまうという話だ」
+“We're better off with	「この町みたいに
+the Mako energy.”	魔晄エネルギーは供給してもらうだけ
+	ってのが一番いい方法なのさ」
+“The famous floating city, Midgar…	「空中に浮かぶ都市と言われるミッドガル。
+Just once I'd love to see it in person.”	一度、この目で見てみたいものだわ」
+“What does it do?	「何をしているのかって？
+It checks the pressure of the	ミッドガルから送られてくる
+Mako energy sent from Midgar.”	魔晄エネルギーの圧力を
+	チェックしてるのさ」
+“This is the Item Store.”	「ここは、アイテム屋だよ」
+“This is the Weapons Store.”	「ここは、武器屋だよ」
+“This is the Materia Store.”	「ここは、マテリア屋だよ」
+“I heard terrorists bombed a Midgar reactor…”	「ミッドガルじゃ、テロリストが
+	魔晄炉を爆破したらしいぜ」
+“There have been a lot of dangerous accidents	「最近、ぶっそうな事が多いよな。
+recently. I hate it, just hate it.”	やだ、やだ」
+“It seems there was this group	「ミッドガルでは、アバランチという
+called AVALANCHE runnin' around,	反神羅組織が活動していたらしいが
+but I guess SOLDIER	ついに神羅のソルジャーによって
+finally wiped them out.”	全滅させられたそうだな」
+“Shinra is trying to eliminate anyone,	「神羅カンパニーは、自分たちに逆らう者
+who stands up to them.”	たちを、どんどん排除しようとしている」
+“It don't matter if we like it or not.	「我々は、好むと好まざるに関わらず
+Shinra's taken over,	神羅カンパニーの支配を
+and we gotta live with it!”	受け入れなければならないのさ」
+“Stay out of the kitchen.”	「ちゅうぼうに入ってこないでおくれ」
+“I heard President Shinra was killed.	「プレジデント神羅が殺されたそうだな。
+And his son Rufus, the new president,	それに息子のルーファウス新社長も
+was badly hurt.”	大ケガしたっていうじゃないか」
+“Hey, I bet that's news to you?”	「どうだ、初耳だろ？」
+You're pretty smart!	おっ、事情通！
+Don't care…	興味ないね
+“Heh, heh…Just between us…	「ふふふ……ここだけの話だが
+I heard it was them	神羅親子を襲ったのは
+Ava-whaddya call-ums that got	アバラなんとかいう組織だって話だぜ」
+President Shinra and his son.”	
+“Don't care?	「関心なしか？
+If you're going to travel,	旅をするなら神羅カンパニーの
+you'd best keep an eye on	動きには注目したほうがいいぜ」
+what Shinra's doing.”	
+“When I grow up I'm gonna be in SOLDIER.	「ぼく、大きくなったら
+That's why I'm training hard now!!”	神羅のソルジャーになるんだ！
+	そのために、いまからモウクンレン
+	してるんだ！！」
+“My older brother's so stupid.	「……お兄ちゃん、子供っぽくて
+He's so embarrassing I could just puke!”	わたし、はずかしい」
+“Hyah, hayah, eagghh!”	「うりゃー、アシコシのタンレン～」
+“Hyah, hayah, eagghh!”	「うりゃー、コンジョウのトックン～」
+“Hyah, hayah, eagghh!”	「うりゃー、うりゃ、うりゃ～」
+“Thanks to Mako energy,	「魔晄エネルギーのおかげで
+life's pretty darn convenient.	生活が色々と便利になったわ。
+Thanks to Shinra.”	神羅さまさまよね」
+“Don't you think?”	「あなたも、そう思うでしょ？」
+Yeah, maybe	そうかもしれない
+You're full of it	そんなことはない
+“See!?	「そうでしょ！
+How would we get by	もう、魔晄エネルギーのない
+without Mako energy?”	生活なんて考えられないわね」
+“Hmm.	「ふ～ん。
+But I'd hate to think of what life'd	でも、魔晄エネルギーのない
+be like without Mako energy.”	生活なんて、私は考えられないわね」
+“Mako energy's made things	「魔晄エネルギーのおかげで
+a lot more convenient…”	いろいろと便利になったけど……」
+“But a lot of plants and animals	「でも、そのかわりに動物や植物が
+have been disappearing at a rapid pace.”	どんどんへっているような気がするわ」
+“I think the old life was better.”	「わたしは、むかしの方が
+	よかったんじゃないかと思うの」
+“Don't you think so?”	「ね、そうよね？」
+Yeah, maybe	そうかもしれない
+No way	そんなことはない
+“Yeah, sure I'm right!	「そうでしょ？　そう思うわよね」
+You think so, don't you?”	
+“That's just what my mom said.”	「お母さんとおなじことを言うのね」
+“Yeah, Mako energy's made life	「魔晄エネルギーのおかげで
+much easier.	生活が色々と便利になったわ。
+And it's all thanks to Shinra, Inc.”	神羅さまさまよね」
+“Things were better when	「私は、動物とあそべたころの方が
+you could play with animals…”	よかったと思うわ……」
+“Listen to me!	「あっ、聞いてくれよ！
+Something really big's happening	なんかミッドガルにでっかい大砲が
+in Midgar.”	ついちゃって、すごい事になっているよ」
+“They were just saying on TV it was	「テレビによると、ルーファウスの
+Rufus' second strategy and…”	２つめの作戦だとか……」
+“That big cannon's pointed due north…	「あの大砲は真北に向いてるけど……
+Do you think the target is Sephiroth?”	目標は……セフィロス？？」
+“Everyone at Shinra's in an uproar	「ウェポンがやってくるって
+because they heard Weapon's coming.”	神羅カンパニーの人間は大騒ぎしとるよ」
+“I heard a big hydroplane carrying	「秘密兵器を運んでいた飛空艇が
+secret weapons, was attacked by Weapon	空を飛ぶウェポンに襲われて
+and was sunk at sea…”	海に沈んでしまったとか何やら……」
+“If something ever happened to	「ルーファウス社長がいなくなっては
+President Rufus,	もう、神羅カンパニーもおしまいじゃな。
+That'd be the end of Shinra, Inc.	……そして、この世界も」
+and the rest of the world, too.”	
+“Did you say you came	「おまえたち、ミッドガルから
+from Midgar?”	来たんじゃと？」
+“I used to live there, too.	「わしも以前ミッドガルに
+But I heard they got	住んでいたんじゃが
+lots of troubles lately.”	近頃はあそこも色々あるようじゃな」
+“Is it true	「モンスターってのは神羅がつくったって
+that Shinra makes monsters?”	ウワサがあるがホントかねえ？」
+It's true	そのとおり
+Just a rumor	たんなるウワサ
+“Yeah, well either way,	「どっちにしたって
+as long as we use reactors,	魔晄炉の世話になってるかぎり
+we can't stand up to Shinra.”	神羅にゃさからえないんだけどね」
+“There was a suspicious-looking man	「怪しい黒マントの男がこの町にいたんだ！
+in a black cloak!	ぶっそうな刀なんか持ち歩いてさ」
+He was carrying a mean-looking sword.”	
+“They say Midgar's in the middle of a war	「ミッドガルじゃ、神羅とアバランチとか
+between the Shinra and	いうヤツらが戦争しているそうじゃないか」
+some terrorists called AVALANCHE.”	
+“20 gil a night.	「一泊、２０ギルです。
+What's it gonna be?”	とまっていかれますか？」
+Stay?	はい
+Move on	いいえ
+“Mr…CLOUD?	「CLOUDさまですね。
+Your party is waiting for you	お連れさまが
+on the 2nd floor.”	２階でお待ちです」
+“Shinra's leading the world around	「この世界は、神羅カンパニーの動きに
+by the nose,	ふりまわされているのさ。
+and you guys are just gonna	あんたたちも、それを受け入れる事だな」
+sit back and take it?”	
+“Me? I used to work in a mine	「オレはよぉ、この町の南にある鉱山
+down south called Mythril Mine”	【ミスリルマイン】で働いていたんだ」
+“But, awhile back,	「しかしよぉ、その鉱山にモンスターが
+monsters started appearing.”	わんさか出るようになっちまってな」
+“After that, business went to pot	「おかげで、商売あがったり。
+and now I spend the days here drinking.”	ここで日がな１日飲んだくれてるのさ」
+“Urrrp!…hic…	「ウィ～、ひっく。
+I'm stinking drunk!!”	オレはヨってるぞォ～！！」
+“Seems like you're a little short.	「お金が足りないようですね。
+Why don't you drop by again…	またのおこしを、お待ちしています」
+when you have money.”	
+“Why doesn't anyone believe me?	「なんで、誰も信じてくれないんだ～！
+I'm so lonely…”	……こどくなボク」
+“Listen to me!	「あっ、聞いてくれよ！
+Just now, some guy in a black cloak	たった今、黒マントの男が
+walked east towards that grassy field.”	東の草原に向かって歩いていったんだ」
+“He's got this killer sword,	「ぶっそうな刀なんか持ち歩いてさ。
+and looks REAL scary…”	なんか、おっかないヤツだったよ……」
+“Aw, c'mon! Listen to me!	「あっ、聞いてくれよ！」
+Got anything interesting to say?”	「何か、おもしろいことでも
+	ないかなぁ……？」
+  Locked. Can't open it…	カギがかかっていて、開かない……　
+“I gotta hurry up and get strong so	「ぼく、はやく強くなって
+I can crush Meteor to bits!	メテオをぶっこわしてやるんだ！
+But I gotta train real hard to do it.”	そのために、いまからモウクンレン
+“Oh man, oh man!”	するんだ！！」
+“Meteor's gonna fall on us, and	「見たことも聞いたこともないような
+now some huge monster	でっかいモンスターはうろつきまわるし
+like I've never seen	メテオは落っこってくるし……」
+is wandering around out there!”	
+“What's going to happen	「あ～、ボクたちはどーなって
+to all of us?”	しまうんだ～～～～～！！」
+“I want you to stop that talk	「メテオが落ちてくるだって！？
+about Meteor falling on us!”	やめてほしいぜ、そーゆーことはよ」
+“Listen, I work hard…and now you're	「今までいっしょうけんめい働いてきたのによぉ
+tellin' me Meteor's gonna smash	メテオでみんな、パーになっちまうってか！？
+everything to bits?”	
+“Well, I ain't standin' around	「ケッ、ばからしくて、やってられっかよ。
+listenin' to fool talk like this.	まじめに働く気なんか失せちまったぜ」
+Makes a person lose the will to work,	
+that's what it does!”	
+“What're ya, dense?	「ケッ、やってらんねーよ。
+Something like that'll never happen!	ばからしいったら、ありゃしねぇ」
+It's ridiculous!”	
+“And all of Midgar's gonna be	「ミッドガルじゃ、メテオを破壊しようと
+destroyed by a falling meteor?	おおわらわらしいぜ」
+Oh, don't make me laugh!”	
+“There's been a number of scary	「最近、ぶっそうな事が多いよな。
+incidents lately.	やだ、やだ」
+I hate it. Just hate it!”	
+“I heard the remaining members of AVALANCHE	「ミッドガルじゃ、アバランチの残堂が
+smashed the Shinra troops at Midgar.”	神羅カンパニーを叩きつぶしたらしいぜ」
+“Lately, there's been a number of	「最近、ぶっそうな事が多いよな。
+scary incidents.	やだ、やだ」
+I hate it. Just hate it!”	
+“They say the remaining members of AVALANCHE	「ミッドガルでは、アバランチの残堂が
+broke Shinra's resistance and destroyed	神羅カンパニーの抵抗をはねのけて
+the Mako cannon at Midgar.”	魔晄キャノンを破壊したという話だ」
+“What's going to happen to the world?”	「これから、この世界は
+	どうなってしまうのだろう……」
+“I heard Shinra's taking it's	「神羅カンパニーは、メテオやウェポンに
+biggest artillery from Junon and	対抗するため、各地の施設から
+other facilities and gathering it	役にたちそうなものを、ジュノンや
+in Midgar to fight Meteor and Weapon.”	ミッドガルに集めているという話だ」
+“Even if Meteor falls,	「ミッドガルに行けば、あのメテオが落ちても
+you ought to be safe	大丈夫なんじゃないかしら？」
+as long as you're in Midgar.”	
+“They say it's a "Mako Metropolis"	「『魔晄都市』って言うくらいだから
+so it will survive.”	なんとかなりそうな気がするんだけど……」
+“Ah, youth…	「お若いの、空いっぱいに見えとる
+You really believe that big meteor	あのメテオが落ちてくるなんて
+filling up the sky is going to fall?”	信じられるかの？」
+“If that's the case then all we can do is	「こうなってしもうては
+put our hope in Shinra, Inc.”	神羅カンパニーだけが
+	わしらの頼りじゃて」
+“If Shinra, Inc. was our last hope,	「最後の頼みの神羅カンパニーも
+and they've been beaten by terrorists…	テロリストにやられてしもうて……
+Are we all going to die?”	わしらはこのまま死ぬのかのぉ？」
+“Meteor's going to fall, isn't it?	「メテオが落ちてくるんだろ？
+Then we're all history unless	神羅カンパニーがなんとかしてくれないと
+Shinra does something about it!”	みんな死んでしまうことになるな」
+“Why're you checking the Mako energy	「いまさら魔晄エネルギーの圧力を
+pressure at a time like this?	チェックなんてしても
+It's probably already too late.”	しかたがないのだろうけど……」
+“You can't go into a tail spin	「こんな時だからこそ、ヤケにならずに
+at a time like this.	今までどおりキチンと生活して
+You've got to keep living	いかなきゃいけない、そう思うんだ」
+just like before.	
+At least that's what I think…”	
+“They say Meteor's going to fall,	「メテオが落ちてくると言うけど大丈夫！
+but that's okay!	そんなもの、神羅カンパニーが
+I'm sure Shinra'll come	きっとなんとかしてくれるわよ」
+through for us in the end!”	
+“Dear, can you believe it?	「あなた、信じられる！？
+They say that Shinra's gone under!!”	あの神羅カンパニーが
+	つぶれちゃったんですって！！」
+“This world is coming to an end all	「アバランチなんていうテロリストが
+because some terrorists called AVALANCHE	余計なことしてくれたおかげで
+stuck their noses in the wrong place!”	もう、この世はおしまいよ」
+“I can't believe Meteor's really	「メテオが落ちてくるなんて……
+falling this way…	わたしたちは、どうなってしまうのかしら？」
+What's going to happen to us?”	
+“I can't believe Meteor's really	「メテオが落ちてくるなんて……
+falling this way…	わたしたちは、どうなってしまうのかしら？」
+What's going to happen to us?”	
+“Meteor's coming, right?	「メテオが落ちてくるんでしょ？
+Where will I stash my money?	ヘソクリ、どこにかくそうかしら……
+Wait, maybe I'd better take it	いや、それよりもヘソクリを持って
+with me and get out of here!”	どこかへ逃げ出した方がいいのかしら？」
+“One night, 300 gil.	「一泊、３００ギルです。
+Wanna check in?”	とまっていかれますか？」
+Yes	はい
+No	いいえ
+“Tourists, huh?	「ん？　あんた、旅行者だね。
+Here are a few things you should	世界を旅する時に知っておくと
+know that will come in handy	役立つことがあるのだけれど……」
+when you travel around the world…”	
+“Want to hear what they are?”	「教えて欲しいかい？」
+Tell me	はい
+I already know	いいえ
+“Then let me explain	「それじゃ、ワールドマップでの
+how to use the world map.”	コントローラ操作について
+	説明してあげるとしよう」
+“Well then, what do you want to know?”	「さて、何を教えてあげようか？」
+Changing camera angles	視点の切替について
+Map indicators	地図の表示について
+Operating the buttons	ボタン操作について
+“Anything else you'd like to know?”	「他に何か、ききたいことがあるかい？」
+Map indicators	地図の表示について
+Operating the buttons	ボタン操作について
+Nope, I got it	もう、いいです
+“Anything else you want to ask?”	「他に何か、ききたいことがあるかい？」
+Changing camera angles	視点の切替について
+Operating the buttons	ボタン操作について
+No, that's all	もう、いいです
+“Anything else you want to ask?”	「他に何か、ききたいことがあるかい？」
+Changing camera angles	視点の切替について
+Map indicators	地図の表示について
+No, that's all	もう、いいです
+“First press [CAMERA]	「まず、ワールドマップでは
+to change the camera angle.”	コントローラの【Ｌ２ボタン】を押すと
+	視点を変えることができる」
+“There are 2 angles to choose from,	「選べる視点は２種類あるから
+select the one you like.”	自分の好きな方を選ぶといいね」
+“Then rotate the camera either way	「そして【Ｌ１ボタン】や【Ｒ１ボタン】を
+by pressing [PAGEUP]	押してやれば、視点を左右に
+or [PAGEDOWN].”	回してやることができるんだ」
+“Try different angles until	「いろいろ試してみて
+you find the one you like best.	自分にあった視点をさがしてやれば
+It makes the journey a lot more fun!”	旅は、もっと楽しくなると思うよ」
+“Press [START]	「この世界の地図は【スタートボタン】を
+once to view the World Map.”	押してやると、見ることができる」
+“There is a large and small map.	「地図には、大きいものと小さいものがあるから
+Learn when to use which	場合によって使い分けてやれば
+and you won't get lost.”	道に迷うことも少なくなると思うよ」
+“Push [START] twice	「【スタートボタン】を何回か押してやれば
+to change the size of the map,	地図を切り替えたり、消すことができるんだ。
+and once more to turn it off.”	便利だろ？」
+“Pretty easy, huh?”	[COULDN'T FIND]
+“Ride things by pressing	「【決定ボタン】を押せば、乗り物に乗り
+[ASSIST] and	【キャンセルボタン】を押せば
+get off by pressing [CANCEL].	乗りものから下りる。
+This isn't so hard, either!”	このへんは、そんなに難しくないね」
+“Oh, right. You can't dash	「あ、そうそう。ワールドマップでは
+on the World Map, so make sure	ダッシュができないから
+not to press [CANCEL]	【キャンセルボタン】は、乗り物から
+unless you want to get off.”	下りるときにしか押さない方がいいね」
+“Remember this because	「特にチョコボは
+Chocobos will run away	下りると逃げちゃうからね。
+as soon as you get off them,	気をつけた方がいいよ」
+so be careful.”	
+“Once on the World Map	「ワールドマップではメニューを開けば
+you can access the menu	どこでもセーブできるから
+to save your game anywhere.	セーブはこまめにとったほうがいいよ」
+It's a good idea to save frequently!”	
+“Well then, bon voyage!”	「それじゃ、よい旅を」
+“Is that so? Well, that's that.	「そうかい？　それは残念。
+Have a nice trip.”	それじゃ、よい旅を」
+CLOUD	CLOUD
+“Damn!!”	「……いいかげんに、しろっ！！」
+TIFA	TIFA
+“Oh! You!!”	「ん、もうっ！！」
+CID	CID
+“…don't mess with me!!”	「……なめてんじゃねぇっ！！」
+“Huh? You're looking for your friend?	「え？　友人をさがしてる？
+You want to know where the Lifestream is?”	ライフストリームはどこかって？」
+“Hmm, I can't help you find your friend,	「ん～、君の友人の事はしらないけど
+but I've heard about the Lifestream.”	ライフストリームについては
+“When I traveled to the Southern islands,	聞いたことあるよ」
+a doctor was very kind to me.	「【南の島】に旅行に言った時
+I seem to recall him telling me something	ある医者に世話になったんだけど
+about the Lifestream…”	その時に医者からそんな言葉を
+	聞いたような覚えがあるけど……」
+“Hey, listen to me!	「あっ、聞いてくれよ！
+The Shinra troops are on the move.”	神羅軍の動きが活発になってきたんだ」
+“The TV news said Rufus came up with two plans.	「テレビによると、ルーファスは
+One, is to launch a rocket into space	２つの作戦を打ち立てたらしいね。
+containing Huge Materia…”	なんでもその１つはヒュージマテリアを
+	集めて、ロケットで宇宙に飛ばすとか……」
+“Is Huge Materia really that destructive?”	「ヒュージマテリアの破壊力ってのは
+	そんなにすごいのかなぁ？」
+“Sephiroth put up a huge barrier	「北のクレーターにセフィロスは
+around the North Crater.”	巨大なバリアをはったんだ」
+“Rufus wants to use a mammoth cannon	「ルーファスは、あの大砲で
+to smash the barrier.”	それをぶち壊す計画なんだ」
+“He plans to have Shinra troops	「バリアがなくなったスキに
+rush in and attack Sephiroth	神羅軍でセフィロスを
+after the barrier falls.”	直接攻撃するつもりなのさ」
+“The North Crater barrier's	「北のクレーターのバリアが
+been demolished?”	ブッこわれたんだって！？」
+“So now's the time to	「じゃあ今こそが、セフィロスを
+defeat Sephiroth.”	倒す好機なわけだ」
+“Hey, listen to me!	「あっ、聞いてくれよ！
+I heard the barrier	セフィロスを守っていたバリアは
+protecting Sephiroth is gone!”	なくなったんだって！」
+“But with Rufus dead,	「でも、ルーファスが死んでしまったから
+the Shinra troops don't know what to do.	神羅軍は右往左往するばかり。
+Heidegger and Scarlet don't have	ハイデッカーやスカーレットじゃ
+what it takes to lead the troops.”	神羅をまとめるには力不足だし……」
+“I really thought something was	「せっかくなんとかなると思ったのに
+finally going to happen,	これじゃ、何も変わってないのと
+but everything's the same…	同じじゃないか～！」
+Not a damn thing changes around here!”	
+“My old man was a miner, but	「ボクのお父さん、炭鉱夫なんだけど
+he couldn't go to work after monsters	ミスリルの鉱山にモンスターがでてきて
+started appearing in the Mythril Mines.”	仕事ができなくなっちゃったんだ」
+“Now all he does is sit around	「今じゃ、この奥の酒場でお酒ばっかり
+getting drunk in the bar…”	飲んで酔っぱらっているよ」
+“My dad still just sits at the	「ボクのお父さん、もうすぐメテオが
+bar drinking, even though	落ちてくるというのに
+he knows Meteor's coming!”	この奥の酒場でお酒ばっかり……」
+“It's sad. Even though he's an adult,	「いい大人のクセに、現実見えていない
+he just doesn't want to see	ってのは、情けないよね。
+the world as it really is.	まいっちゃうなぁ、もう」
+I dunno what to do.”	
+“South of this town past the Mythril Mine	「この町の南にある【ミスリルマイン】を抜けて
+and far to the west	さらに西へ行くと【ジュノン】という
+is a Shinra harbor called Junon.”	神羅カンパニーの港があるの」
+“They say there's a reactor and	「そこにも魔晄炉があって
+many tall buildings there.	大きな建物がたくさん建っているそうよ。
+I hope to see it someday.”	ああ、行ってみたいわぁ」
+“The world's at peace…	「すべて、世は事もなし……、っと。
+all's well.”	和平じゃのう」
+“Tomorrow's another day…	「明日は明日の風がふく……、っと。
+all's well.”	和平じゃのう」
+“I got my health,	「今日も元気だ、ごはんがうまい……、っと。
+and enough to eat…	和平じゃのう」
+all's well.”	
+“The world's changed a lot	「この数日で、この世界は
+in the past few days…”	大きく様変わりしてしまった……」
+“That huge Meteor is covering	「天空をおおうメテオ……
+up the sky and acting	我が物顔でかっぽする巨大なモンスター……」
+like it owned it.”	
+“A lot of my friends	「……ワシの友人も、
+have died…”	おおぜい死んでしまった」
+“I'm goin' on a journey to	「ワシは、死んでしまった友人たちの
+pray for their souls.”	めいふくをいのる旅に出ようと思う」
+“A map that was sunk along with the ship.	「沈ぼつ船とともに沈んだというめい界の地図。
+..."Guidebook"	……【ガイドブック】
+A rose that blooms once every 1000 years	千年に一度、砂ばくにさくという花。
+in the desert.	
+..."Desert Rose"	……【デザートローズ】
+A harp that soothes those who hear it.	きく者の心をおだやかにするたてごと。
+..."Earth Harp"”	……【アースハープ】」
+“I wonder if there's anyone	「誰かワシのもとに持ってきてくれる
+who'll bring it to me?”	人はおらんかのう……」
+“Now if I can just get the "Guidebook",	「あとは【ガイドブック】さえあれば
+I can start my journey…”	旅に出られるのじゃが……」
+“Now if I can just get "Desert Rose",	「あとは【デザートローズ】さえあれば
+I can stary my journey…”	旅に出られるのじゃが……」
+“Now if I can just get "Earth Harp",	「あとは【アースハープ】さえあれば
+I can start my journey…”	旅に出られるのじゃが……」
+“"Guidebook" and "Desert Rose"…	「【ガイドブック】と【デザートローズ】……
+Will you guys look for them for me?”	おぬしたち、探してきてくれんか？」
+“"Guidebook" and "Earth Harp"…	「【ガイドブック】と【アースハープ】……
+Will you guys look for them for me?”	おぬしたち、探してきてくれんか？」
+“"Desert Rose" and "Earth Harp"…	「【デザートローズ】と【アースハープ】……
+Will you guys look for them for me?”	おぬしたち、探してきてくれんか？」
+“OH! It's "Guidebook"!	「おお、それは【ガイドブック】！
+Wanna trade it for this	ワシの持っている【水中呼吸マテリア】と
+Underwater Materia?”	交換せぬか？」
+“How about it?”	「どうじゃ？」
+Trade	交換する
+Don't trade	交換しない
+“OH! It's "Desert Rose"!	「おお、それは【デザートローズ】！
+Wanna trade it for that	ワシのペットの【チョコボ】と
+Chocobo over there?”	交換せぬか？」
+“How about it?”	「どうじゃ？」
+Trade	交換する
+Don't trade	交換しない
+“OH! It's the Earth Harp!	「おお、それは【アースハープ】！
+Wanna trade it for	ワシの持っている【マスターマテリア】と
+some Master Materia?”	交換せぬか？」
+“I'm not bein' stingy either!	「１個なんてケチな事は言わん！
+I'll give you all three of 'em!”	３個セットにして渡すぞ」
+“How about it?”	「どうじゃ？」
+Trade	交換する
+Don't trade	交換しない
+“Ok then,	「よし、交換成立じゃな」
+it's a done deal!”	
+“I dunno…”	「何が不満なんじゃ……」
+“it's Underwater Materia.	「【潜水マテリア】じゃ。
+Go on, it's yours!”	持っていってくれ」
+“It's a Chocobo.	「【ウルトラチョコボ】じゃ。
+Take it, it's yours!”	連れてゆくがええ」
+“It's a 3-piece Master Materia set,	「【マスターマテリア３点セット】じゃ。
+…and it's all yours!”	持っていってくれ」
+“I guess it's time to go	「では、ワシはとむらいの旅に
+on a journey for the souls	行くとするか……」
+of my departed friends…”	
+CLOUD	CLOUD
+“Looks like my Stable's full.	「『チョコぼう』がいっぱいだな。
+I'll come back when I have room.”	空きをつくってから
+	連れていくことにしよう」
