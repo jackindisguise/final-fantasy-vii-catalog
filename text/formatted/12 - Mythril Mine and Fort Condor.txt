@@ -1,5 +1,4 @@
 Marshes	湿地帯
-	
 CLOUD	CLOUD
 “Did Sephiroth…	「セフィロスが……
 do this?”	やったのか……」
@@ -31,9 +30,9 @@ BARRET	BARRET
 If we keep going,	このまま行くと、カームの町とは
 we'll never get to Kalm.”	似ても似つかぬ場所に着く事になるぜ」
 AERIS	AERITH
-“CLOUD!	「CLOUD！
-“CLOUD!	CLOUD
-If we continue this way,	このまま進むと、カームの町から
+CLOUD!	CLOUD！
+CLOUD	CLOUD
+“If we continue this way,	「このまま進むと、カームの町から
 we'll get farther and	どんどんはなれるだけ、よ」
 farther away from Kalm.”	
 TIFA	TIFA
@@ -211,9 +210,9 @@ why don't you finish that first?”	からのほうがよいだろう」
 I'm sorry…really	残念だけど
 All right, we'll help	協力してもいいけど
 “Let's see…head north along the coast,	「そうか…　ジュノンの街は
-keep going a ways and	ここを海ぞいに北へ、ずっと行ったところだ。
+keep going a ways and	ここを海ぞいに北へ、ずっと行ったところだ。」
 you'll run into Junon.”	
-“But be alert because	小高い丘の影になっているから気をつけてな」
+“But be alert because	「小高い丘の影になっているから気をつけてな」
 it sits in the shadows of	
 a small hill.”	
 “All right then…	「そうか…
@@ -267,9 +266,9 @@ VINCENT	VINCENT
 the situation.”	あまかったのかもしれないな」
 CLOUD	CLOUD
 “You mean to tell me	「俺の力はこんなものだったのか？
-that's the extent of my powers?”	
-“So that's as good as it gets?	この程度なのか……
-At this rate I'll never beat	これじゃ神羅にも……セフィロスにも……」
+that's the extent of my powers?	この程度なのか……
+So that's as good as it gets?	これじゃ神羅にも……セフィロスにも……」
+At this rate I'll never beat	
 the Shinra…let alone Sephiroth…”	
 BARRET	BARRET
 “Yeah, ain't no way you gonna win.”	「ああ、勝てねぇよな」
@@ -278,8 +277,8 @@ what's gonna happen to Fort Condor?”	コンドルフォートの連中に
 	もうしわけねえぜ」
 TIFA	TIFA
 “No, CLOUD.	「ダメよ、CLOUD
-You mustn't give up.	あきらめちゃダメ」
-Survivors never give up.”	「生き残った私たちが、がんばらなくちゃ」
+You mustn't give up.	あきらめちゃダメ
+Survivors never give up.”	生き残った私たちが、がんばらなくちゃ」
 AERIS	AERITH
 “CLOUD…	「CLOUD……
 You won't find the answer	自分責めても、答え、見つからないよ」
@@ -341,14 +340,10 @@ but this's the truth.”	これはほんまのことや」
 VINCENT	VINCENT
 “This is a rather harsh reality.”	「かなりきびしい現実だな」
 Fort Condor	コンドルフォート
-[Save Point]	【セーブポイント】
-Access the Menu and select	メニューを開いて「セーブ」を選ぶと
-[SAVE] to save your game.	ゲームの状態を保存できます。
-	
 “Hello.	「いらっしゃい。
 I'm sorry but we're not	でも今は、売れないんだよ。
-selling anything now.”	なんせ、自分たちで使うからね」
-“We're using everything	
+selling anything now.	なんせ、自分たちで使うからね」
+We're using everything	
 we have for ourselves.”	
 “Hello.	「いらっしゃい。
 Do your best. We will, too.”	がんばってよ。
@@ -362,8 +357,8 @@ would ever climb up here.”
 “…Your eyes are different.	「……　変わった目をしているな。
 Well, anyhow.	まあ、関係ないか。
 Any minute now, this will be	ここはもうすぐ神羅との戦場になる。
-a battlefield against Shinra.”	まきぞえにならないうちに、降りなさい」
-“You'd better get down	
+a battlefield against Shinra.”	
+“You'd better get down	「まきぞえにならないうちに、降りなさい」
 before you get involved.”	
 “Hmmn, now this is something,	「ほう、珍しいな。
 I never thought anyone	こんなところまで登ってくるとはな」
@@ -395,12 +390,12 @@ CID	CID
 “A battlefield?	「戦場たあ、聞きずてならねえな」
 We can't overlook that.”	
 “It appears you have a problem	「あなたがたも、神羅とは何かあるらしいな。
-with Shinra, too.	せっかく、ここまで登ってきたんだ。
+with Shinra, too.	せっかく、ここまで登ってきたんだ。」
 After all, you climbed up here.”	
-“Why not listen to	ちょっとだけ話を聞いていかないか？」
+“Why not listen to	「ちょっとだけ話を聞いていかないか？」
 what I have to say for a moment?”	
 CLOUD	CLOUD
-“…”	「……」
+…	……
 I guess so	いいだろう
 Not interested	やめておこう
 TIFA	TIFA
@@ -666,9 +661,9 @@ Shinra's changing its strategy now.”	神羅がやり方を変えてくるぞ�
 the reactor and then take out	中からマテリアを
 the Materia that's inside.”	取り出すつもりらしい」
 CLOUD	CLOUD
-“I see. I guess that means	「そうか、ここもか。
+“I see. I guess that means	「そうか、ここもか。」
 this area, too.”	
-“Well, we can't afford to	もう、負けられないな」
+“Well, we can't afford to	「もう、負けられないな」
 lose any more.”	
 BARRET	BARRET
 “Man, we're walking on	「やばいぜ、負けられないぜ！」
@@ -721,14 +716,14 @@ get on that chair over there.”	そっちのイスの上に乗りなよ。
 “Thanks for accepting.”	「引き受けてくれて
 	ありがとう」
 “So shall I let you in on our strategy?”	「じゃあさっそく戦術の説明をしようか」
-“The enemy has targeted	「敵は、この山の魔晄炉を目指して登ってくる。
-our mountain reactor and	それにたいして、ワナを置いて
-will be climbing to reach it.”	兵を雇って守るのだ」
-“We must set a trap and	「まあ、これだけなのだが……
-hire soldiers to protect the place.”	この村は、お金がない。
-“Well, this is all we have…	戦おうにも、お金がなくて何もできない」
-This village doesn't have any money.	
-Even if we wanted to fight,	
+“The enemy has targeted	「敵は、この山の魔晄炉を目指して登ってくる。」
+our mountain reactor and	
+will be climbing to reach it.”	
+“We must set a trap and	「それにたいして、ワナを置いて
+hire soldiers to protect the place.”	兵を雇って守るのだ」
+“Well, this is all we have…	「まあ、これだけなのだが……
+This village doesn't have any money.	この村は、お金がない。
+Even if we wanted to fight,	戦おうにも、お金がなくて何もできない」
 we can't because we're broke.”	
 “We need 400 gil to hire one soldier.	「なにせ、兵を雇うと４００ギルも必要になる。
 So, if we hire 20 soldiers,	２０部隊雇うと、８０００ギルにもなってしまう」
@@ -778,10 +773,11 @@ But, we're resigned to stay.”	私たちも、かくごはできている」
 “Let's get back to basics.	「話を元へもどそう。
 If the enemy reaches this shed,	もしこの小屋に敵が進入したときには
 you'll have to fight them off	君たちが直接戦わなければならなくなる」
-immediately.”	「まあ、１回負けたからといって
-It's not the end of the world,	それで、終わりにはならないけど
-but if you lose repeatedly,	何度も負けてしまうと、危険だね」
-it could be dangerous.”	
+immediately.”	
+“It's not the end of the world,	「まあ、１回負けたからといって
+but if you lose repeatedly,	それで、終わりにはならないけど
+it could be dangerous.”	何度も負けてしまうと、危険だね」
+	
 “Now then, is there anything you wish to ask?”	「さて、何か聞きたいことはあるかい？」
 Conditions for victory	勝利条件のこと
 The enemy	敵のこと
@@ -999,17 +995,17 @@ but aren't especially effective
 or deficient for any enemy.”	
 “Attackers move extremely fast	「アタッカーは、移動速度が速く
 and are best for expanding	前線を広げるのに向いている。
-the front line.”	敵ビーストにたいして強く
-“They work good against enemy Beasts,	敵バーバリアンが苦手だ」
-but not enemy Barbarians.”	
+the front line.”	
+“They work good against enemy Beasts,	「敵ビーストにたいして強く
+but not enemy Barbarians.”	敵バーバリアンが苦手だ」
 “Defenders have high endurance,	「ディフェンダーは、体力が高いが
-but move slowly.	移動速度が遅い、拠点防御に向いている。
-They're best suited for defense.”	敵バーバリアンにたいして強く
-“Defenders work best against enemy	敵ワイバーンが苦手だ」
-Barbarians, but not enemy Wyverns.”	
+but move slowly.	移動速度が遅い、拠点防御に向いている。」
+They're best suited for defense.”	
+“Defenders work best against enemy	「敵バーバリアンにたいして強く
+Barbarians, but not enemy Wyverns.”	敵ワイバーンが苦手だ」
 “Shooters attack from a distance,	「シューターは、間接攻撃ができる。
-but have low endurance.	しかし、体力が低い。
-Shooters work best against	敵ワイバーンにたいして強く
+but have low endurance.”	しかし、体力が低い。」
+“Shooters work best against	「敵ワイバーンにたいして強く
 enemy Wyverns, but not enemy Beasts.”	敵ビーストが苦手だ」
 “Repairers repair allied units,	「リペアラーは、味方の回復ができる。
 but have little attacking power.”	しかし、攻撃力はあまりない」
