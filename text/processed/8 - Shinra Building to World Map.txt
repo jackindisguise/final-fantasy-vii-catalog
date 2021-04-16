@@ -29,7 +29,7 @@ Get a keycard and you can use the elevators freely.	カードキーがあれば�
 …voila! Hear that sound and the door will open.	エレベーターはホラ、私の横にあるこのドアの前で【決定ボタン】　を押すの。そうすると……
 Just remember there are different types of cards. One keycard alone won't let you go everywhere.	……っていう音がしてドアが開くから
 For example,	でもね、カードキーにも何種類かあって、１枚でどこでも、ってわけにはいかないのよ
-Keycard 60' only takes you to the 60th floor. Keycard 65' only takes you to the 65th floor.	そうね、たとえば『カードキー６０』なら６０階まで。『カードキー６５』なら６５階まで。そういうことよ
+'Keycard 60' only takes you to the 60th floor. Keycard 65' only takes you to the 65th floor.	そうね、たとえば『カードキー６０』なら６０階まで。『カードキー６５』なら６５階まで。そういうことよ
 It's a security system worthy of Shinra. After all, they control everything in Midgar and in the world for that matter.	まあミッドガル、いえ、今や世界のエネルギー流通を一手にひきうける神羅カンパニーの本社としては、当然のセキュリティよね
 Oh, I have to go. Gotta get back to work!	あらやだ、長くなっちゃったわ。それじゃおたがい、お仕事がんばりましょうね♥
 Shinra Bldg. 62f.	Shinra Bldg. 62f.
@@ -192,7 +192,7 @@ Please do not remove any Materials from this floor.	このフロアの資料は�
 24 Ranks and extended use of Mako weaponry	１　魔晄兵器の長期使用に 関する特別規定
 4 Midgar City map: Sectors 0-4	４　ミッドガル区分地図 ０番街～４番街
 9 Midgar City map: Sectors 5-8	５　ミッドガル区分地図 ５番街～８番街
-3 An illustrated guide to City Planning	６　　図説　カトー式都市空間工法
+3 An illustrated guide to City Planning	６　　図説　カトー式都市空間工法 
 4 The Jenova Project	１　　ジェノバプロジェクト 経過報告書 神羅カンパニー科学部門
 6 Data on experimental animals living near Midgar	２　ミッドガル周辺に生息する 突然変異生物実験データ
 3 File on Dr. Gast, Biologist	３　　　　ガストファイル 生物博士ガスト・ファレミス
@@ -201,7 +201,7 @@ Please do not remove any Materials from this floor.	このフロアの資料は�
 10 New plans for Urban Planning	１　新都市建設計画書
 4 Report on high Mako levels in living beings	５　生物体の高レベル魔晄による
 2 Mako energy and the rise in life forms	影響に対する調査
-8 Final evolutionary stages in land dwelling life	４　生物の爆発的進化と 魔晄エネルギー ６　地上生物の最終進化論
+8 Final evolutionary stages in land dwelling life	４　生物の爆発的進化と 魔晄エネルギー ６　地上生物の最終進化論 
 1 Biological characteristics of the Ancients	８　伝承における古代種の生物学的特性
 10 Biological characteristics of the Ancients	[COULDN'T FIND IT]
 16 Modern history of Midgar space program vol. 1	２　　宇宙開発部門 栄光の歴史　上巻
@@ -225,7 +225,7 @@ Return materials where you found them. Do not mix materials from other libraries
 1Results of failed space mission YA-79	５　大型飛行機械「ヨナイ７９式
 6Shinra rocket space travel	宇宙進出計画の失敗
 8Final evolutionary stages in land dwelling life	６　神羅ロケットエンジンと 大陸間航行機
-2Economic report: Space Dev Program	６　地上生物の最終進化論
+2Economic report: Space Dev Program	６　地上生物の最終進化論 
 10Materia production and its military uses	１　　最終予算報告書 神羅宇宙開発部門
 3Special peace keeping law	５　　マテリアの製造および その軍事的利用に関する権利
 14Heidegger's Shinra peace keeping law	２　特別治安維持法 ハイデッカー私案
@@ -309,8 +309,8 @@ Received "HP Shout"!	『マーベラスチアー』を手にいれた！
 CLOUD	CLOUD
 What is this…a Megaphone?	何だこれ……メガホン？
 Hanging on to this won't do any good…	こんなもの持っていってもしょうがないな
-Locked…	カギがかかっている……
-There's nothing inside…	中にはなにもない……
+Locked…	カギがかかっている……　　
+There's nothing inside…	中にはなにもない……　　
 Out of Order	故障中です
 Please use a different floor	他の階をご利用下さい
 Shinra Company Repair Management Department	神羅カンパニー修理課
@@ -351,16 +351,16 @@ CLOUD	CLOUD
 Midgar…a city born from the earth's Mako. A model of the city…	ミッドガル……魔晄エネルギーを吸い出し生きつづける都市の模型か……
 When construction of Sector 6 finishes, Shinra's plan will be complete.	この建設中の６番街が完成したとき、神羅の野望も完全なものとなる
 That must be why he took	その野望のために
-Is it just me or does the Conference Room smell? There's some sort of stench coming from somewhere…	関係ないけどよ。 あの会議室って、何か臭くないか？ どこかから臭ってくるんだよな……
+Is it just me or does the Conference Room smell? There's some sort of stench coming from somewhere…	関係ないけどよ。 あの会議室って、何か臭くないか？ どこかから臭ってくるんだよな……  
 It gives me the feeling that I AM alive. The feeling of moving this world, just with my hands.	なんかこう、生きがいってものを感じるよな。世界をこの手で動かしているっていうこの感じ
-Whew, I'm so sick of carrying all these files…	はぁ～ もうファイル運びはうんざり……
+Whew, I'm so sick of carrying all these files…	 はぁ～ もうファイル運びはうんざり……
 But I get to meet lots of guys. I guess that's the benefit of being a secretary!	でもいろんな男の人との出会いがある。それがOLの特権ね！
-Come on, we're building the future of Mako!	さあ、私たちで魔晄の未来をつくるのよ！
-…………………… …………………… …………………… …………………… …………………… …………………… Phew!	…………………… …………………… …………………… …………………… …………………… ……………………………………ふう
+Come on, we're building the future of Mako!	 さあ、私たちで魔晄の未来をつくるのよ！
+…………………… …………………… …………………… …………………… …………………… …………………… Phew!	 …………………… …………………… …………………… …………………… …………………… ……………………………………ふう
 BARRET	BARRET
 Geez--! That's a lotta suits!	ヒュ～！ そうそうたる顔ぶれだぜ
 Reeve	Reeve
-We have the damage estimates for Sector 7.	７番街の被害報告が出ました
+We have the damage estimates for Sector 7.	７番街の被害報告が出ました　
 Considering those factories we already set up and all the investments, the damage is estimated at approximately 10 Billion gil…	すでに稼動していた工場部分と現在までの投資額を考えると 我が社の損害は100億ギルはくだらないかと……
 Reeve	リーブ
 The estimated cost to rebuild Sector 7 is…	また７番プレートの再建にかかる費用は……
@@ -453,7 +453,7 @@ CLOUD	CLOUD
 It's moving……still alive?	動いてる……生きてる？
 BARRET	BARRET
 Where's its $#&*&@ head? This whole thing's stupid. Let's keep goin'.	何だい、この首なしは？ けっ、バカバカしい。さっさと行こうぜ
-Let's see… The specimen Hojo asked me for is…	さて……と 宝条さんに頼まれた サンプルわ……と
+Let's see… The specimen Hojo asked me for is…	 さて……と 宝条さんに頼まれた サンプルわ……と
 That elevator back there is only to transport Specimens. You can't use it. It would be a lot easier if it led to the 68 Floor Research Lab.	奥のサンプル運搬用エレベーターは使用禁止だよ。６８階の研究室に直結しているから便利なんだけどね
 Hojo	宝条
 AERIS? Oh, is that her name? What do you want?	AERITH？ ああ、この娘の名前だったな。何か用か？
@@ -514,9 +514,9 @@ It talked!?	しゃべった！？
 I'll talk as much as you want later, Miss.	あとでいくらでもしゃべってやるよ、おじょうさん
 CLOUD	CLOUD
 We'll take care of that monster.	あの化け物は俺たちがかたづける
-Somebody take AERIS somewhere safe…	７番街の被害報告が出ました
-TIFA, I'm countin' on you!	TIFA, I'm countin' on you!
-BARRET, take care of her!	BARRET, take care of her!
+Somebody take AERIS somewhere safe…	７番街の被害報告が出ました　
+TIFA, I'm countin' on you!	   TIFA, I'm countin' on you!
+BARRET, take care of her!	   BARRET, take care of her!
 CLOUD	CLOUD
 What's your name?	おまえの名前は？
 RED XIII	RED XIII
@@ -885,7 +885,7 @@ TIFA's Materia…	CLOUD、TIFAのマテリアを……
 (Remove)	【はずす】
 (Leave it)	【そのまま】
 Shinra Bldg. 3f. Lobby	神羅ビル・３階ロビー
-Hardy Datona	ハーディ＝デイトナ
+Hardy Datona	ハーディ＝デイトナ　　
 AERIS	AERITH
 Quickly, we have to get out of here…	はやく、ここから逃げなくちゃ……
 Shinra Bldg. 2f. Lobby	神羅ビル・２階ロビー
@@ -1016,7 +1016,7 @@ I think it should be CLOUD.	どう考えてもCLOUD、よね
 BARRET	BARRET
 ^#$^%…alright. Go Northeast to a town called Kalm. If something happens, we'll meet up there.	チッ…………わかったよ。ここから【北東にカームって町】があるんだ。何かあったらそこを集合場所にしよう
 BARRET	BARRET
-Sides, we can't have five people strolling around out there. It's too dangerous. Let's split into two parties…	それにしたって野っ原を５人でゾロゾロ歩くなんて危なくてしょうがねえ。おまえ、パーティーを２組に分けてみろ
+'Sides, we can't have five people strolling around out there. It's too dangerous. Let's split into two parties…	それにしたって野っ原を５人でゾロゾロ歩くなんて危なくてしょうがねえ。おまえ、パーティーを２組に分けてみろ
 Access Menu with [MENU],	【メニューボタン】でメニューをひらく
 Change with [CANCEL],	【キャンセルボタン】でパーティチェンジ
 End with [SELECT],	【決定ボタン】で終了

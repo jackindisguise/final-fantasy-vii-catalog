@@ -13,7 +13,7 @@ Jessie	ジェシー
 “What's he doing with us in AVALANCHE?”	「どうして、そのソルジャーが
 	私たちアバランチに協力するわけ？」
 Biggs	ビッグス
-“He WAS in SOLDIER, Jessie.”{NewScreen}	「早とちりするな、ジェシー。
+“He WAS in SOLDIER, Jessie.”	「早とちりするな、ジェシー。
 “But he quit and is with us now.”	元、ソルジャーなんだってさ」
 	「今はもう神羅（しんら）をやめちまって
 	俺たちの仲間ってわけさ」
@@ -266,11 +266,11 @@ Sector 8	８番街
 “Just what the hell's going on!?”	「いったい何がおこったって言うのよ」
 	
 “Wonder what that is on the wall over there.	「何か壁に書いてあるな？
-Let's see…”{NewScreen}	なに、なに…」
+Let's see…”	なに、なに…」
 Don't be fooled by Shinra!	神羅にだまされるな！
 Mako energy doesn't last forever!	魔晄エネルギーは永遠ではない！
 Mako is the Planet's life source!	魔晄は星の命！
-The end is in sight!{NewScreen}	いつか終わりがやってくる！
+The end is in sight!	いつか終わりがやってくる！
 	
 Protectors of the Planet: AVALANCHE	星の救世主：アバランチ
 Received "Potion"!	「ポーション」を手にいれた！

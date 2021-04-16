@@ -32,7 +32,7 @@ CLOUD	CLOUD
 Hmm… You were worried about me?	ほう……？心配してくれたのか
 BARRET	BARRET
 Wha!?	なにっ！！
-That's comin' outta your share, hot shot!	チッ…刻のぶんは報酬からひくからな
+That's comin' outta your share, hot shot! 	チッ…刻のぶんは報酬からひくからな
 BARRET	BARRET
 Wake up!	おい、おめえら！
 We're movin' out! Follow me!	場所変えるぞ。ついてこい！
@@ -95,7 +95,7 @@ CLOUD	CLOUD
 Then why doesn't everyone move onto the Plate?	どうしてみんな上へ移らないんだろう……
 BARRET	BARRET
 Dunno. Probably 'cuz they ain't got no money. Or, maybe…	さあな。金がないからだろ。いや、それとも……
-Cuz they love their land, no matter how polluted it gets.	どんなに汚れていても地ベタが好きなのかもな
+'Cuz they love their land, no matter how polluted it gets.	どんなに汚れていても地ベタが好きなのかもな
 CLOUD	CLOUD
 I know… no one lives in the slums because they want to.	わかってるさ…。好きでスラムに住んでるやつなどいない
 It's like this train. It can't run anywhere except where its rails take it.	みんな、この列車とおなじ。敷かれたレールには逆らえないんだ
@@ -196,7 +196,7 @@ I don't know…	わからないな
 CLOUD	CLOUD
 Yeah… If I feel like it.	ああ……。気がむいたらな
 Jessie	ジェシー
-Alrighty then! It's a date!	うん！CLOUD、約束ね
+Alrighty then! It's a date!	うん！CLOUD、約束ね　
 CLOUD	CLOUD
 You never know what lies ahead.	先のことなんか、わからないな
 Jessie	ジェシー
@@ -219,11 +219,11 @@ No, I'm sure his leave was just canceled.	いや、休暇が取り消しにな�
 I went to the station everyday.	それからわたしは毎日駅へ行ったんだ。
 Then, one day…	ある日……
 You used to see that kind of thing a lot during the war.	戦争中はよくある風景だったね。
-Please take {Aeris} somewhere safe.	AERITHを安全なところへ。
+Please take AERIS somewhere safe.	AERITHを安全なところへ。
 That's the last thing she said before she died.	そう言い残して彼女は死んだ。
 My husband never came back, and I had no child.	わたしの夫は帰らず、子供もいない。
 I think I must have been very lonesome.	わたしもさびしかったんだろうね。
-So I took {Aeris} home with me.	AERITHを家に連れて帰ることにしたんだ。
+So I took AERIS home with me.	AERITHを家に連れて帰ることにしたんだ。
 I'm not letting you go tonight.	今夜は帰さないよ
 Wow!	エェ！
 Isn't there somewhere we could go to be alone?	ね、どっかで休んでいこう
@@ -326,7 +326,7 @@ But that BARRET, busted it up.	そいつをぶっこわしたのがあのBARRET�
 Shot it up with that weird machine gun hand of his. Blam, blam, blam.	ガンガンガンガンガンガン！！って、例の腕ガンでいきなりだぜ！
 I think it was when President Shinra was on.	あんときは、たしかプレジデント神羅が出演してたな
 He was on again this morning, too, you know.	今日のニュースでもプレジデント神羅が出るだろうからよ
-TIFA better watch out for her TV.	こりゃ、TIFAちゃんのお店のテレビもやばいかもな
+TIFA better watch out for her TV. 	こりゃ、TIFAちゃんのお店のテレビもやばいかもな
 Hey!! Open up! C'mon baby!!	ヘイ！！　あけてくれってんだよ！ベイビー！！
 It's me! Johnny! Mom!!	俺だよ！　ジョニーだよ！かあちゃ～ん！！
 SHHH!! Wait a minute!!	おい！！ちょっとまてよ！！-
@@ -770,293 +770,294 @@ If this keeps up, this store's goin' under…	もうこの店もダメかのう�
 Can't sell any really good medicine in a slum like this.	こんなスラムじゃまともなクスリは売れんなあ
 Oh!! Look at this! This doesn't happen everyday. Are you…a customer?	おっ！！こりゃこりゃ！こりゃ、めずらしい。あんた、まさか客かね？
 Yes!! Welcome!! We sell! We buy!	はい！！　いらっしゃい！！売りますよ！買いますよ！
-By the way, you wouldn't happen to be…  Naw, never mind. Forget it. Sector 7 Weapon Shop  “He, HEY! Waitaminit you!!	ところで、あんた。もしかして……
-You can't just walk outta here without buyin' somethin'!	……いや、なんでもないよ。
-Might be unhealthy fer ya, if ya know what I mean.	失礼、失礼」}
-Hey!! What the--YOU!?	７番街・武器屋１階
-Anyone talking to me must be a novice.	んっ！！おい、客！！
-Yep, that's me	買わねえとどんなめにあうか……想像してみりゃ、わかるよな
-I used to be in SOLDIER,	よう！！なんだ、おまえ？
-the name's CLOUD	俺に話しかけるってことは、しろうとだな？
-CLOUD	素人だ。
-So what. Everyone's gotta start sometime.	俺は元ソルジャーのCLOUDだ。
-CLOUD	CLOUD
-The name's CLOUD. Used to be with SOLDIER, I got no business with you.	それがどうした。誰だって最初は素人だろ
-Hmmph!! Well, I never heard of ya!	CLOUD
-Don't act so big, amateur. Seein' as how I'm such a warm hearted guy, I'll show ya the ropes.	俺は元ソルジャーのCLOUDだ。おまえに用などない
-You come back here tomorrow. I got some things I gots ta do.	フン！！おまえの名前なんて聞いてねぇよ
-Heh heh…He'll forget about it. OH, you!!	素人のくせにいばるんじゃねぇ。親切な俺様がこんせつていねいに教えてやるぜ！
-Get my friend on the second floor to teach ya.	明日の朝に顔あらってでなおしてきな。俺様だって準備が必要だからな
-Crap!! Watch it, you old guy!	てへへ…一晩じゃ、おぼえきれんぜ。おう！素人！！悪いが、二階のあいぼうから教わってくれ
-I was just about to rip up that smooth little head of yours!	チッ！！　おっさん！！気をつけてくれよ！
-In the slums ya gotta take care of yourself first.	あんたのツンツン頭をブチぬいちまうとこだぜ！
-I been livin' like that ever since I was a kid.	スラムじゃ、自分の身は自分で守る。ガキのころから、そんな生き方さ
-You wanna be tough like me? Then you gotta pick out some good weapons.	オレみたいにタフな男の子になりたかったらいかす武器を選ぶこったな
-Oh and uh, by the way old guy…	でな、おっさん。相談なんだが……
-You can see this store don't have no customers… and even tough guys like me could use a buck or two…	見ての通り、この武器屋には客がいない。タフな男の子のこのオレもびんぼうってわけさ
-Ya think you could spare some cash?	というわけで……このオレに、こづかいくれないかな？
-Give him some	金渡す
-Don't give him any	あげない
-YESSS…	しめしめ……
-Damn, man!! Ya chinsey old %*&!	チッ！！おっさん、しけてんな
-Hey old guy! I got a good-lookin' sister!!	オレの姉キは美人だぞ！！おっさん！！
-Give him some	金渡す
-Forget it	あげない
-What's the matter, old dude? You don't like women?	おっ！！おっさん、美人に興味なし、と
-You dried up old geez. You tired?	チッ！！おっさん、しけたツラしてんな。もしかして、つかれてんじゃないの？
-Why don't you rest up on the third floor of my house?	家の３階で休ませてあげてもいいけど…
-There's just one condition.	それにはひとつ条件があるぜ
-You gotta give me some cash.	このオレにこづかいくれるならな
-1 gil	１ギル
-10 gil	１０ギル
-nothin'	あげない
-Damn, man!! Just forget about it!	チッ！！　おっさん。この話はなかったことにしてくれ
-Oh man, oh man…	しめしめ……
-Go ahead 'n' help yourself to the room.	いいぜ、部屋は自由に使ってくれ
-Cheap %#*^…	そりゃ、ドケチってやつだぜ。おっさん
-Geez, dude, you're really old. You sure you ain't poorer than me?	おっさん、やきがまわったな。オレよりびんぼうじゃねえか
-Use whatever bed you want. Sleep tight, old guy.	すきなベッドで休んでいきな。いい夢見なよな、おっさん}
-Weapons Shop 3rd Floor	７番街・武器屋３階
-This is a slum, so don't think you can stay for free.	ただで休めるほどスラムの街はあまくはないぜ
-What are you going to do?	どうすんだい？
-Doesn't just seeing the bed make you sleepy?	ベッドを見たら眠くなってきただろ
-10 gil	１０ギル
-no way	休まない
-Tough guy, huh!? You'd better sleep when you can.	強情だな！　もうっ！休めるときに休む
-You'd better save when you can.	セーブできるときにセーブする
-That's the trick to being tough. Remember that, old dude.	これがタフに生きてく基本だぜ！おっさん、覚えときな
-Sweet dreams, pops.	いい夢見なよな、おっさん
-Rough times, huh pop? Not a dime on you?	おっさん、苦労してんだな。金もってないじゃないか！
-CLOUD	CLOUD
-Hoo…	フゥッ……}
-Save Point	【セーブポイント】
-Sector 7 Slums, Weapons Shop Floor 2	７番街・武器屋２階
-Beginner's Hall	初心者の館
-Unn!! Who the hell are you!? No unauthorized access.	ん………！！なんだ、てめぇは？ここは部外者立ち入り禁止だぞ
-Do you know about what's been going on?	あんたも、知ってるか？
-What, that again?	また、その話か
-…	…………。
-You must be sick of hearing it… But it's been so long since there was any real news here.	そうか、もう聞きあきちまったか…。ひさしぶりのでかいニュースだからよ。先行きが、気になるよな
-You're worried where it's all heading, right? Everyone's in a buzz 'bout that terrorist group AVALANCHE blowin' up the Sector 1 Mako Reactor.	なんでもよう……アバランチとかいうテロ集団が壱番魔晄炉を爆破したって話だ
-On the surface they say they're an anti-Shinra group, but in reality…	おもてむきは、反神羅がどうしたとかって声明がでてるらしいがよ。真相はな……
-they say they're just out to kill as many people as they can.	無差別大量殺人が目的だってうわささ
-Since today's special, I'm gonna let you in on a juicy bit of news. But you gotta keep it to yourself.	まあ、今日は特別だ。ここだけの話。いいニュースがあったからな
-Haaa, haaa, haaa!!	ガハハハハ！！
-That's a good one, ain't it!? While they're bustin' things up on top, the only ones makin' out good are us weapon stores!	笑わせてくれるじゃねぇか！？上でゴタゴタやってくれりゃよ。武器屋としては大助かりってやつよ
-Now, if we can just get rid of this back stock, we'll be doin' OK.	この在庫の山もはけちまえばいいがな
-I welcome everything going to pot!	俺っちは、ぶっそうな世の中を歓迎するぜ！
-GO!! GO!! AVALANCHE!! That's what I say!	ゴー！！ゴー！！アバランチ！！ってやつだな
-You know what I do? I'll bet you don't.	オレの仕事わかります？わかんねえだろ～な
-You come here tomorrow and I'll tell you.	明日になれば、わかりますからまた来てくださいね
-Ahh, there just ain't no good jobs here in the slums.	はぁ～スラムじゃ、まともな仕事にありつけやしない
-I wanna go to the upper world.	上の街にいきたいなあ
-This is the Beginner's Hall.	まいどおなじみ初心者の館だよ～ん！
-You say you're a beginner? But your eyes say you're not.	あんたが、素人だってか。その目は、そうじゃないって言ってるぜ
-CLOUD	CLOUD
-Don't mess with me. I used to be in SOLDIER. I'll tell you how much I know… an' for free too!	元ソルジャーをなめるな。どれだけ物知りか、教えてやる。しかも、無料でだ！
-CLOUD	CLOUD
-What do you want to know?	なにが知りたいんだ？
-How to save?	記録を残すには？
-How to heal your allies?	傷ついた味方を回復するには？
-Curative Magic?	魔法を使った回復
-Weapons and armor?	武器、防具の使い方
-How to apply Materia?	マテリアの装着
-Effective ways to use Materia?	マテリアの高度な使い方
-How to form your battle party?	戦闘時の隊形について
-How to check your status?	現在の自分の状態をチェック
-About Limit status?	リミット技の使い方
-Other things to watch for?	その他の注意
-That's all	もう教えることはない
-CLOUD	CLOUD
-First, you need Potions.	説明にあたって、ポーションが必要だな
-You're a stingy one. Here, I'll give you ONE Potion.	せこいなあ、元ソルジャーさん。そらポーションの一個くらい、さしあげますぜ
-I don't have any extra Potions on me. Why don't you go buy some?	俺もポーションの手持ちがないよ。買ってきたらどうだい？
-CLOUD	CLOUD
-Sorry. I'll have to go get my money.	悪いな。報酬だと思ってもらっておく
-CLOUD	CLOUD
-You probably know all this. But just in case, I'll go over it.	常識なのでわかっているとは思うが念のため、言っておく
-Until you get instructions, don't open or take discs out of the CD drive.	指示があるまで、ディスクホルダーを開けたり他のものと取りかえたりするな
-After you open up the CD drive, I can't guarantee what'll happen. That's all.	ディスクホルダーを開けた場合後のことは保証できない。以上
-You cannot take on any more Materia.	これいじょうマテリアは持てません。
-Please discard some Materia.	なにかマテリアをすててください。
-Received "All" Materia!	『ぜんたいか』のマテリアを手にいれた！
-[Save Point]	【セーブポイント】
-Received "Ether"!	『エーテル』を手にいれた！
-Hey!! You got one right off!	おっ！！さっそく手にいれましたね！
-That was Materia. Next, take this [treasure chest]!	いまのはマテリアですよ。こんどはこの【たからばこ】をどうぞ！
-Now listen, hidden in these treasure chests are a lot of items.	いいですか？こ～んな【たからばこ】にはお得なアイテムがかくされてます
-There are box types and bag types, so make sure you don't overlook any.	ボトルタイプやふくろタイプなどほかにもしゅるいがありますからお見のがしないように
-This is the fabled [Save Point]!!	うっとり……くるくる……これがうわさの【セーブポイント】！！
-At a [Save Point] you can use a [tent] and/or select 'SAVE'.	【セーブポイント】では……『テント』を使って休むこと　セーブ　することができちゃいます
-You can also do something else there, but right now it's a secret.	ほんとは、もうひとつあるんだけどいまは秘密♥　楽しみに待っててね♥
-Even if you are wiped out, if you've saved, you can restart from that same point. That way you don't have to worry when you've been wiped out.	も～し、全滅しても、　セーブ　しておけばその場所から復活することができちゃうの。これなら、安心して全滅できるわよね
-This is jumping ahead a little but, when you leave Midgar…	ちょ～っと、先の話になるけどミッドガルを出ることになったら……
-and you get to the world map, you can save anywhere you like. Remember that.	地和線まで広がる【ワールドマップ】で好きなだけ　セーブ　することができるの。そのときがきたら、思い出してね
-That should be all you need to know about the Save Point. I'll probably see you again somewhere down the road. Take care!	ただいま、ごしょうかいにあずかりましたあっしが【セーブポイント】でござんす！旅先行き先先々でお目にかかることと思いますが今後ともよろしゅうおねがいもうしあげます！
-I'm a [treasure chest]!!	俺様が、【たからばこ】だ！！
-Beginners, make sure and keep an eye out for me!!	初心者のキ・ミ・た・ち！俺様をしっかりとさがしてくれよ！！
-Hey SOLDIER!! Tell us about battles! We'll even pay you!	物知り元ソルジャーさん！！バトルのことをオレたち３人組に教えてくださいよ！報酬はずみますから！
-CLOUD	CLOUD
-What do you want to know?	なにを教えてほしいんだ？
-About ATB	【ＡＴＢ】について
-About numbers on the screen	【飛び出す数字】について
-About [Change] and [Defend]	【チェンジ】と【ぼうぎょ】について
-About [Escape]	【逃げる】について
-About [Gauges]	【ゲージ】について
-About [Status]	【ステータス】について
-About [Elementals]	【属性】について
-About [Help]	【ヘルプ】について
-That's all the time I have for you!	もうひまつぶしは終わりだ
-CLOUD	CLOUD
-I'm not hard up enough to take money from guys like you. But I'll rap with you for a while.	おまえたちから金をとるほど落ちぶれちゃいない。ひまつぶしにつきあってやる
-CLOUD	CLOUD
-ATB or Active Time Battle is a system that is always in operation during battle.	【ＡＴＢ】、すなわち【アクティブタイムバトル】は戦闘中、つねに時間が流れているシステムだ
-Select [Wait] from ATB on the Config Menu and time will stop when you select magic or items during battle.	メニューのコンフィグでＡＴＢを【ウェイト】にすると……戦闘中、魔法やアイテムを選んでいる間時間が止まる
-This gives you time to pick out your commands. This is especially helpful to beginners.	コマンドをゆっくり選べるというわけだ。おまえたち、初心者にはおあつらえむきだな
-Selecting [Recommended] ATB in the config menu can stop time while the effects of spells and items are taking place during battle.	同じくコンフィグでＡＴＢを【おすすめ】にすると……戦闘中、魔法やアイテムのエフェクトが出ている間時間が止まる
-This lets you take your time looking over the progression of the battle. When you don't want to rush in battle, this is for you!	戦闘の様子をゆっくり見られるというわけだ。落ちついて戦いたいときはこれだな
-Personally, I always use [Active], but you can use whichever you like.	俺はいつでも【アクティブ】だが気にするな、好きなものを選ぶといい。以上だ
-CLOUD	CLOUD
-White numbers appearing on the screen in battle are damage points. Green numbers show restorative points.	バトルの時に、【ピロンと飛び出す数字】は白がダメージ、緑が回復していることを表している
-You better watch these if you don't want to get wiped out.	全滅したくなければ注意することだな
-CLOUD	CLOUD
-The [Change] command can move characters to and from the front and back rows.	【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる
-In the back row, the damage received is less, but the attacking power is less.	後列にすると受けるダメージが減るが、攻撃力も減る。【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ
-You can make a [Change] by pressing the Directional button in battle. Pushing the Directional button the other direction during battle accesses [Defend].	同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ
-Selecting [Defend] reduces the damage you receive by half until the next command.	【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる
-If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it.	手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな
-CLOUD	CLOUD
-I don't really remember ever having to use the [Escape] command… but you'll probably need it.	俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう
-Push [PAGEUP] and [PAGEDOWN] together, hold them down, and you can escape.	Ｌ１ボタンとＲ１ボタンを押しっぱなしにしていると逃げられたはずだ
-CLOUD	CLOUD
-During battle, there are several [Gauges] displayed. You can't check them now, so just remember what I tell you.	いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。戦闘中、いくつか表示されている【ゲージ】のことだ
-[time gauge] displays the time remaining until your next turn while in battle.	【ＴＩＭＥゲージ】は戦闘中、次のコマンド入力が回ってくるまでの待ち時間をあらわしている
-When the gauge is full, you can make your command. If you don't want to make one, push [MENU] and you can move to the next character. It's convenient when you wanna make BARRET work.	ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。BARRETをこきつかいたい時などに便利だ
-The [limit gauge] increases every time you sustain damage. When it is full, you can use the [limit technique].	【ＬＩＭＩＴゲージ】はダメージを受けるごとにのびていくはずだ。これがいっぱいになると、【リミット技】が使える
-This gauge is not cleared after each battle, but gradually builds up over time.	【ＬＩＭＩＴゲージ】は、各戦闘ごとにクリアされず数をこなしただけ、たまっていくタイプだ
-It takes a while for it to build up, so you have to think about which times are the best to use it.	たまったからといって、すぐにつかわず【リミット技】の使いどころを見極めることが大切なのは言うまでもない
-You probably don't know about them, but there are conditions of [fury] and [sadness].	おまえたちは知らないだろうから、教えといてやる。【ステータス】に、【怒り】と【悲しい】という状態がある
-When you have [fury], your limit gauge builds up sooner, but your attacking accuracy is lower.	【怒り】は、【ＬＩＭＩＴゲージ】の上がり方が早くなるが攻撃の命中率は低下する
-Keep in mind that [sadness] makes your limit gauge build up slower, but the damage you receive is also lessened.	【悲しい】は、【ＬＩＭＩＴゲージ】の上がり方が遅くなるが、敵の攻撃から受けるダメージは低下する。ついでに、おぼえておくといいだろう
-The [barrier gauge] shows your defense barriers.	【ＢＡＲＲＩＥＲゲージ】は特定の魔法の効果時間をあらわす
-The top gauge displays [barrier] or magic defense against attacks. The bottom gauge displays [magic barrier] or defenses against magic attacks.	上のゲージは、なぐられ攻撃を防ぐ魔法【バリア】下のゲージは、魔法攻撃を防ぐ魔法【マバリア】
-Both will cut the damage you receive in half. However, over time they will disappear.	両方ともダメージを半分にしてくれるが時間が経つと消えてしまう
-Whenever you use [barrier] or [magic barrier] make sure to pay attention to the [barrier gauge].	【バリア】と【マバリア】の魔法をつかったときは【ＢＡＲＲＩＥＲゲージ】に注目だな
-That's it. Remember that for the next battle.	以上だ、次の戦闘で確認してくれ
-CLOUD	CLOUD
-Looks like you didn't get it the last time I told you. What's wrong with you? You touched in the head?	この俺の説明でもわからんようならしかたない。おまえたちの理解する能力がたりないようだ
-Well, don't worry. You just need to push [ASSIST] in battle.	だが、安心しろ。そんなおまえたちは、戦闘中、セレクトボタンを押してみるといいだろう
-Do that, and the [Help] message will walk you through the commands.	【ヘルプメッセージ】が、俺にかわっていろいろとコマンドの説明をしてくれるはずだ
-It also shows you the name of your enemy, so even I use it once in a while. Make good use of it.	敵のモンスター名なども表示されるから俺も気分転換に見ることもある。はずかしがらずに使うといい
-CLOUD	CLOUD
-[wiped out]. This is one I've never personally used. But I heard from someone what it was about.	【全滅】か……俺の記憶にはないから、これは人から聞いた話だ
-When you are wiped out, you start back from the last save point.	【全滅】したときには前の【セーブポイント】からはじまる
-Even a weakling like you can make it out of the roughest places as long as you hang in there and fight. You should be glad!	おまえたちのような弱いヤツでも地道に戦えば、どんな難所でも脱出できるはずだ。ありがたいことだな
-CLOUD	CLOUD
-[Status] means just that. The status of each character.	【ステータス】とはキャラクターの状態のことだ
-I'll probably wind up repeating myself, but let me go over a few basic points.	これまで説明したことと重なるかもしれんが代表的なものをまとめといてやる
-Sleep You cannot put in a command until you get up.	すいみん　起きるまでコマンド入力不可になる。
-Poison Steals your HP in battle.	どく　　　　戦闘中にどんどんＨＰが減っていく。
-Fury Damage is increased, attack accuracy decreased. Tranquilizers will remedy it.	いかり　　ダメージ倍、命中率低下。鎮静剤でもどる。
-Sadness Damage is decreased. Hyper will remedy it.	かなしい　ダメージ低下。興奮剤でもどる。
-Petrify Will petrify and become immobilized. Every member will be wiped out.	せきか　　石になり、動けなくなる。全員石で全滅だ。
-Confuse Will attack enemy and ally alike.	こんらん　頭が混乱し、敵味方の区別がつかなくなる。
-Silence Will be unable to cast magic.	ちんもく　全ての魔法をとなえられなくなる。
-Paralyze Stops time gauges, commands.	マヒ　　　　タイムゲージ停止、コマンド入力不可
-Darkness Accuracy of hitting attacks decreases.	くらやみ　なぐり攻撃の命中率低下。
-Frog Become a frog. I hate this one!	カエル　　カエルになる。俺はだいきらいだ。
-CLOUD	CLOUD
-Hoo…I'm beat.	フッ……さすがにつかれたな
-Your [Status] can be changed with magic and items, so you should check it whenever you buy things.	【ステータス変化】はアイテムや魔法で直せるから物を買うときに確認しておくのがいいだろう
-CLOUD	CLOUD
-[elemental] is the special effect that comes with certain weapons and magic.	【属性】は魔法や武器などについてくる特別な効果のことだ
-It's necessary to move ahead effectively. If you pay attention to the types of elementals you use you'll become intermediate in no time.	有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな
-I put together this list, but remember, it's just a partial list don't take it too literally.	代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな
-Fire Fire effect. Works best on animals and water monsters.	炎　　火の効果。けもの、氷のモンスターにきく。
-Ice Ice effect. Works best on fire monsters and things that hate the cold.	冷　　氷の効果。寒がり、火のモンスターにきく。
-Lightning Lightning effect. Works best on mechanical things.	雷　　電撃の効果。機械でできたヤツにきく。
-Earth Attacks using the earth's power. Doesn't work on flying enemies.	土　　大地の力の攻撃。飛んでるヤツにはきかない。
-Poison Poisons enemies. Doesn't work on any poison-based enemies.	毒　　毒状態にする。もともと毒のヤツにはきかない。
-Gravity Gravity-based attack. These hurt if they hit.	重　　重力を使った攻撃。当たるといたいな。
-Water Calls on the earth's water. Works well on fire monsters.	水　　大地の恵みの水を呼ぶ。火のモンスターにきく。
-Wind Calls up the winds. Works well on flying enemies.	風　　大気の風をよびおこす。飛んでるヤツにきく。
-Holy Calls up the Planet's power. Works well on dark monsters.	聖　　星の力をよびおこす。暗黒のモンスターにきく。
-CLOUD	CLOUD
-If you use reciprocal elementals in your attacks, the effect is huge!	相反する【属性】を攻撃に使用することで大きな効果を得られる
-Also, if you use the same elemental, your defenses are raised. But, you have to be careful because the opposite is also true.	また、同じ属性なら防御の効率があがる。だが……逆もまた真なり。気をつけることだな
-To see what elementals an enemy has, you need [Sense] Materia. If you get that Materia, you should try using it.	敵のもっている【属性】をみぬくためには【みやぶる】ことが必要だ。マテリアを手にいれたら、使ってみてくれ
-……smack……knock……!!	ポカポカポカポカ……！！
-Help!	たしゅけて～！
-CLOUD	CLOUD
-You've got to hang in there. Your limit gauge is just starting to build.	そこでがまんだ。おまえの【リミットゲージ】はたまりはじめている
-Waaaah!!	びえ～ん！！
-CLOUD	CLOUD
-OK! Now your limit gauge is full, go ahead and use it! Fight with your limit technique.	よしっ、【リミットゲージ】はいっぱいだ！えんりょはいらない。【リミット技】で勝負だ！
-Magic!! Magic!!	まほう！！まほう！！
-CLOUD	CLOUD
-Calm down! When your enemy uses magic counter with [Magic Barrier] or [reflect].	おちつけ！相手が魔法を使うときには【マバリア】か【リフレク】で対抗するのだ
-[Magic Barrier] reduces the damage received from magic by half.	【マバリア】は魔法のダメージを半分にする魔法だ
-[reflect] bounces the attacks off you. But the number of times you can use it is limited so be careful.	【リフレク】は魔法をはねかえすがはねかえす回数に制限があるから気をつけろ
-Wow! You sure are strong! I'm going to be strong, too !	さっすが、元ソルジャ！どちたら、強くなるの～！
-Me too!	なるの～！
-CLOUD	CLOUD
-If you want to get as strong as me you need to use Materia. And you have to find the best combinations of them.	俺みたいに強くなりたければマテリアを効率よく育て最適な組み合わせをさがすことだな
-The type of Materia you put in your weapons and armor will determine how quickly your Materia grows.	装備する武器や防具のしゅるいによってマテリアの成長のスピードはちがう
-Put Materia into the open slots in your weapons and armor. The possible combinations are limitless.	武器や防具にあいている穴の形によってマテリアの組み合わせは無限に広がる
-That's about all I can tell you. If you want to be like me, you have to have some natural talent.	俺にアドバイスできるのはそのくらいのことだ。もっとも生まれついた素質がなければ俺のようにはなれんがな
-I still don't get it!	わかんな～い！
-CLOUD	CLOUD
-Listen kids, don't piss me off!	俺を怒らせるな！
-That's all right. Just give it a try. Little by little, you'll get used to it.	大丈夫だ、まずはやってみろ。そのうち、なれてしまう
-CLOUD	CLOUD
-Great!	上出来だ
-How to use the buttons.	『基本的なボタン操作方法』
-[Directional button][CONTROL]	【方向キー】　　　　　　【ボタン】
-up [MENU]: menu	上　　　　　　　　　　　△：メニュー
-leftright: walk  [OK]: speak/execute	左　　　右：歩く　　　□　　○：話す／決定
-down [CANCEL]: run	下　　　　　　　　　　　×：走る／取り消し
-[PAGEUP]/[PAGEDOWN]: turn.	Ｌ１／Ｒ１ボタン：チョコッとまがる
-[How to restart]	『ソフトリセット方法』
-You must quit the game in order to restart.	Ｌ１＆Ｌ２＆Ｒ１＆Ｒ２＆セレクト＆スタート
-To quit the game, either select QUIT	以上のボタンを同時に押すとリセットがかかります。
-in the Main Menu or press CTRL+Q.	（フィールド上のみ有効）
-CLOUD	CLOUD
-Huh? Finger!? What the hell?	ん？　指！？なんだ、おまえ？
-I'm the position cursor!! Call me whenever you're walking around confused!	ボク、【ポジションカーソル】！！歩いている時、迷ったらボクを呼び出して！
-Push [ASSIST] and I'll appear over your shiny little head.	セレクトボタンを押せばボクが君のツンツン頭のうえにつきまとうよ
-CLOUD	CLOUD
-Geez, you stand out even more than I do…	俺より目立つな……
-Am I in the way? If so, just push [ASSIST] one more time.	ボクがじゃまかい？そんなときはもう一度セレクトボタンを押してね
-I'm pretty busy myself, and can't always come when you need me. If I don't show up sometimes, don't get mad.	それから、ボクはこう見えてもけっこういそがしいからいつでも登場はできないんだ。でてこなくても怒らないで！
-Later!	それじゃね、バイバ～イ！
-[Position Cursor]	【ポジションカーソル】
-Push [ASSIST] when you're lost in the field. Usually, the [Position Cursor] will appear on the screen.	フィールドで迷ったときにはセレクトボタンを押してください。ポジションカーソルが表示されます。
-But wait!!	さらに！！
-[Red triangles] mark the exits and [Green triangles] mark ladders.	入口をあらわす『赤サンカク』とはしごなどをあらわす『緑サンカク』も表示されます。
-These will help you safely make it through even the darkest streets or dangerous mountains! But, there are times when they won't appear, so be careful.	これで、暗い夜道も険しい山道もご安心！なお、フィールドによっては表示されないことがあります。御注意ください。
-Johnny's Home	ジョニーの家
-Ha, Ha!…… Well, there's nothin' wrong with that, I'd say.	ハッハッ……。まあ、それもいいでしょうなあ
-Ha!  Ha!…… I wonder if my son's already left?	ハッハッ……。息子はもう旅立ちましたかな？
-When it's just my wife and I here, you have no idea how lonesome it gets.	こうして家内と私、二人きりになってみるといやはや、さびしいものですなあ}
-We want him to be happy and do other things while he's young, but we can't help but worry…	ハッハッ……　若いうちはね好きなことをやらせてみようと思っていてもやっぱり心配なのは、いけませんなあ
-I guess we always will.	親として修行がたりませんなあ
-By the way……	ところで、あなた
-Where are you from?	故郷はおありですかな？
-A village called Nibelheim	ニブルヘイムという村だ……
-Who cares?	そんな面倒なものはすてたさ
-But if you still have a family, you outta at least write them.	でも、もし、あなたにも家族がおありなら手紙ぐらい書いてあげるのが、いいですなあ
-You may leave your home, but it'll always be there for you.	故郷はね、知らんぷりをしていてもいつでも、あなたを待ってますよ
-At least that's how I see it.	ハッハッ……まあ、そんなもんですなあ
-Hmm…did you say Nibelheim? Wasn't it in the news a while back?	ほう……あのニブルヘイム村ですか。ほら、何年か前にニュースになったことがありましたなあ
-Something to do with a reactor accident…	あのときは、たしか……魔晄炉の事故でしたか
-That was the first major Mako accident, I remember it was all over the news.	当時は、最初の大きな魔晄炉事故ということですいぶん話題になりましたなあ
-This might sound rude, but…	ハッハッ……ぶしつけな質間ですが
-Is your family still living?	ご家族は健在ですかな？
-I forgot about them long ago	いたとしても忘れたな
-I'm just an ex-SOLDIER	俺は孤独なソルジャーだ
-Well, you really outta go home again. And if you can't do that, try and at least remember them sometimes.	ハッハッ……。まあ、たまには帰ってあげなさい。それができないならときどき思い出すのがよろしい
-Our boy acted like you, When he was a kid.	ハッハッ……。私も若いころはそんな風にかっこつけたこともありましたよ
-You seem to be about his age.	ハッハッ……あなたは、まだそんな年ごろかな
-Well, would you mind leaving us alone?	ハッハッ……。そろそろ、二人っきりにしてくれませんか
-I want to enjoy some quiet time together with my wife.	家内と二人きりの時間というのをね。しみじみすごしたいのですよ
-He used to give us nothing but headaches when he was here, but now that he's gone…we kind of miss him. …Strange, isn't it?	あんな子でもいなくなってみるとね。なんだか、落ちつかなくて。……不思議なものね
+By the way, you wouldn't happen to be…  Naw, never mind. Forget it. Sector 7 Weapon Shop 	ところで、あんた。もしかして……
+He, HEY! Waitaminit you!!	……いや、なんでもないよ。
+You can't just walk outta here without buyin' somethin'!	失礼、失礼」}
+Might be unhealthy fer ya, if ya know what I mean.	７番街・武器屋１階
+Hey!! What the--YOU!?	んっ！！おい、客！！
+Anyone talking to me must be a novice.	買わねえとどんなめにあうか……想像してみりゃ、わかるよな
+Yep, that's me	よう！！なんだ、おまえ？
+I used to be in SOLDIER,	俺に話しかけるってことは、しろうとだな？
+ the name's CLOUD	素人だ。
+CLOUD	俺は元ソルジャーのCLOUDだ。
+So what. Everyone's gotta start sometime.	CLOUD
+CLOUD	それがどうした。誰だって最初は素人だろ
+The name's CLOUD. Used to be with SOLDIER, I got no business with you.	CLOUD
+Hmmph!! Well, I never heard of ya!	俺は元ソルジャーのCLOUDだ。おまえに用などない
+Don't act so big, amateur. Seein' as how I'm such a warm hearted guy, I'll show ya the ropes.	フン！！おまえの名前なんて聞いてねぇよ
+You come back here tomorrow. I got some things I gots ta do.	素人のくせにいばるんじゃねぇ。親切な俺様がこんせつていねいに教えてやるぜ！
+Heh heh…He'll forget about it. OH, you!!	明日の朝に顔あらってでなおしてきな。俺様だって準備が必要だからな
+Get my friend on the second floor to teach ya.	てへへ…一晩じゃ、おぼえきれんぜ。おう！素人！！悪いが、二階のあいぼうから教わってくれ
+Crap!! Watch it, you old guy!	チッ！！　おっさん！！気をつけてくれよ！
+I was just about to rip up that smooth little head of yours!	あんたのツンツン頭をブチぬいちまうとこだぜ！
+In the slums ya gotta take care of yourself first.	スラムじゃ、自分の身は自分で守る。ガキのころから、そんな生き方さ
+I been livin' like that ever since I was a kid.	オレみたいにタフな男の子になりたかったらいかす武器を選ぶこったな
+You wanna be tough like me? Then you gotta pick out some good weapons.	でな、おっさん。相談なんだが……
+Oh and uh, by the way old guy…	見ての通り、この武器屋には客がいない。タフな男の子のこのオレもびんぼうってわけさ
+You can see this store don't have no customers… and even tough guys like me could use a buck or two…	というわけで……このオレに、こづかいくれないかな？
+Ya think you could spare some cash?	金渡す
+Give him some	あげない
+Don't give him any	しめしめ……
+YESSS…	チッ！！おっさん、しけてんな
+Damn, man!! Ya chinsey old %*&!	オレの姉キは美人だぞ！！おっさん！！
+Hey old guy! I got a good-lookin' sister!!	金渡す
+Give him some	あげない
+Forget it	おっ！！おっさん、美人に興味なし、と
+What's the matter, old dude? You don't like women?	チッ！！おっさん、しけたツラしてんな。もしかして、つかれてんじゃないの？
+You dried up old geez. You tired?	家の３階で休ませてあげてもいいけど…
+Why don't you rest up on the third floor of my house?	それにはひとつ条件があるぜ
+There's just one condition.	このオレにこづかいくれるならな
+You gotta give me some cash.	１ギル
+1 gil	１０ギル
+10 gil	あげない
+nothin'	チッ！！　おっさん。この話はなかったことにしてくれ
+Damn, man!! Just forget about it!	しめしめ……
+Oh man, oh man…	いいぜ、部屋は自由に使ってくれ
+Go ahead 'n' help yourself to the room.	そりゃ、ドケチってやつだぜ。おっさん
+Cheap %#*^…	おっさん、やきがまわったな。オレよりびんぼうじゃねえか
+Geez, dude, you're really old. You sure you ain't poorer than me?	すきなベッドで休んでいきな。いい夢見なよな、おっさん}
+Use whatever bed you want. Sleep tight, old guy.	７番街・武器屋３階
+Weapons Shop 3rd Floor	ただで休めるほどスラムの街はあまくはないぜ
+This is a slum, so don't think you can stay for free.	どうすんだい？
+What are you going to do?	ベッドを見たら眠くなってきただろ
+Doesn't just seeing the bed make you sleepy?	１０ギル
+10 gil	休まない
+no way	強情だな！　もうっ！休めるときに休む
+Tough guy, huh!? You'd better sleep when you can.	セーブできるときにセーブする
+You'd better save when you can.	これがタフに生きてく基本だぜ！おっさん、覚えときな
+That's the trick to being tough. Remember that, old dude.	いい夢見なよな、おっさん
+Sweet dreams, pops.	おっさん、苦労してんだな。金もってないじゃないか！
+Rough times, huh pop? Not a dime on you?	CLOUD
+CLOUD	フゥッ……}
+Hoo…	【セーブポイント】
+Save Point	７番街・武器屋２階
+Sector 7 Slums, Weapons Shop Floor 2	初心者の館
+Beginner's Hall	ん………！！なんだ、てめぇは？ここは部外者立ち入り禁止だぞ
+Unn!! Who the hell are you!? No unauthorized access.	あんたも、知ってるか？
+Do you know about what's been going on?	また、その話か
+What, that again?	…………。
+…	そうか、もう聞きあきちまったか…。ひさしぶりのでかいニュースだからよ。先行きが、気になるよな
+You must be sick of hearing it… But it's been so long since there was any real news here.	なんでもよう……アバランチとかいうテロ集団が壱番魔晄炉を爆破したって話だ
+You're worried where it's all heading, right? Everyone's in a buzz 'bout that terrorist group AVALANCHE blowin' up the Sector 1 Mako Reactor.	おもてむきは、反神羅がどうしたとかって声明がでてるらしいがよ。真相はな……
+On the surface they say they're an anti-Shinra group, but in reality…	無差別大量殺人が目的だってうわささ
+they say they're just out to kill as many people as they can.	まあ、今日は特別だ。ここだけの話。いいニュースがあったからな
+Since today's special, I'm gonna let you in on a juicy bit of news. But you gotta keep it to yourself.	ガハハハハ！！
+Haaa, haaa, haaa!!	笑わせてくれるじゃねぇか！？上でゴタゴタやってくれりゃよ。武器屋としては大助かりってやつよ
+That's a good one, ain't it!? While they're bustin' things up on top, the only ones makin' out good are us weapon stores!	この在庫の山もはけちまえばいいがな
+Now, if we can just get rid of this back stock, we'll be doin' OK.	俺っちは、ぶっそうな世の中を歓迎するぜ！
+I welcome everything going to pot!	ゴー！！ゴー！！アバランチ！！ってやつだな
+GO!! GO!! AVALANCHE!! That's what I say!	オレの仕事わかります？わかんねえだろ～な
+You know what I do? I'll bet you don't.	明日になれば、わかりますからまた来てくださいね
+You come here tomorrow and I'll tell you.	はぁ～スラムじゃ、まともな仕事にありつけやしない
+Ahh, there just ain't no good jobs here in the slums.	上の街にいきたいなあ
+I wanna go to the upper world.	まいどおなじみ初心者の館だよ～ん！
+This is the Beginner's Hall.	あんたが、素人だってか。その目は、そうじゃないって言ってるぜ
+You say you're a beginner? But your eyes say you're not.	CLOUD
+CLOUD	元ソルジャーをなめるな。どれだけ物知りか、教えてやる。しかも、無料でだ！
+Don't mess with me. I used to be in SOLDIER. I'll tell you how much I know… an' for free too!	CLOUD
+CLOUD	なにが知りたいんだ？
+What do you want to know?	記録を残すには？
+How to save?	傷ついた味方を回復するには？
+How to heal your allies?	魔法を使った回復
+Curative Magic?	武器、防具の使い方
+Weapons and armor?	マテリアの装着
+How to apply Materia?	マテリアの高度な使い方
+Effective ways to use Materia?	戦闘時の隊形について
+How to form your battle party?	現在の自分の状態をチェック
+How to check your status?	リミット技の使い方
+About Limit status?	その他の注意
+Other things to watch for?	もう教えることはない
+That's all	CLOUD
+CLOUD	説明にあたって、ポーションが必要だな
+First, you need Potions.	せこいなあ、元ソルジャーさん。そらポーションの一個くらい、さしあげますぜ
+You're a stingy one. Here, I'll give you ONE Potion.	俺もポーションの手持ちがないよ。買ってきたらどうだい？
+I don't have any extra Potions on me. Why don't you go buy some?	CLOUD
+CLOUD	悪いな。報酬だと思ってもらっておく
+Sorry. I'll have to go get my money.	CLOUD
+CLOUD	常識なのでわかっているとは思うが念のため、言っておく
+You probably know all this. But just in case, I'll go over it.	指示があるまで、ディスクホルダーを開けたり他のものと取りかえたりするな
+Until you get instructions, don't open or take discs out of the CD drive.	ディスクホルダーを開けた場合後のことは保証できない。以上
+After you open up the CD drive, I can't guarantee what'll happen. That's all.	これいじょうマテリアは持てません。
+You cannot take on any more Materia.	なにかマテリアをすててください。
+Please discard some Materia.	『ぜんたいか』のマテリアを手にいれた！
+Received "All" Materia!	【セーブポイント】
+[Save Point]	『エーテル』を手にいれた！
+Received "Ether"!	おっ！！さっそく手にいれましたね！
+Hey!! You got one right off!	いまのはマテリアですよ。こんどはこの【たからばこ】をどうぞ！
+That was Materia. Next, take this [treasure chest]!	いいですか？こ～んな【たからばこ】にはお得なアイテムがかくされてます
+Now listen, hidden in these treasure chests are a lot of items.	ボトルタイプやふくろタイプなどほかにもしゅるいがありますからお見のがしないように
+There are box types and bag types, so make sure you don't overlook any.	うっとり……くるくる……これがうわさの【セーブポイント】！！
+This is the fabled [Save Point]!!	【セーブポイント】では……『テント』を使って休むこと　セーブ　することができちゃいます
+At a [Save Point] you can use a [tent] and/or select 'SAVE'.	ほんとは、もうひとつあるんだけどいまは秘密♥　楽しみに待っててね♥
+You can also do something else there, but right now it's a secret.	も～し、全滅しても、　セーブ　しておけばその場所から復活することができちゃうの。これなら、安心して全滅できるわよね
+Even if you are wiped out, if you've saved, you can restart from that same point. That way you don't have to worry when you've been wiped out.	ちょ～っと、先の話になるけどミッドガルを出ることになったら……
+This is jumping ahead a little but, when you leave Midgar…	地和線まで広がる【ワールドマップ】で好きなだけ　セーブ　することができるの。そのときがきたら、思い出してね
+and you get to the world map, you can save anywhere you like. Remember that.	ただいま、ごしょうかいにあずかりましたあっしが【セーブポイント】でござんす！旅先行き先先々でお目にかかることと思いますが今後ともよろしゅうおねがいもうしあげます！
+That should be all you need to know about the Save Point. I'll probably see you again somewhere down the road. Take care!	俺様が、【たからばこ】だ！！
+I'm a [treasure chest]!!	初心者のキ・ミ・た・ち！俺様をしっかりとさがしてくれよ！！
+Beginners, make sure and keep an eye out for me!!	物知り元ソルジャーさん！！バトルのことをオレたち３人組に教えてくださいよ！報酬はずみますから！
+Hey SOLDIER!! Tell us about battles! We'll even pay you!	CLOUD
+CLOUD	なにを教えてほしいんだ？
+What do you want to know?	【ＡＴＢ】について
+About ATB	【飛び出す数字】について
+About numbers on the screen	【チェンジ】と【ぼうぎょ】について
+About [Change] and [Defend]	【逃げる】について
+About [Escape]	【ゲージ】について
+About [Gauges]	【ステータス】について
+About [Status]	【属性】について
+About [Elementals]	【ヘルプ】について
+About [Help]	もうひまつぶしは終わりだ
+That's all the time I have for you!	CLOUD
+CLOUD	おまえたちから金をとるほど落ちぶれちゃいない。ひまつぶしにつきあってやる
+I'm not hard up enough to take money from guys like you. But I'll rap with you for a while.	CLOUD
+CLOUD	【ＡＴＢ】、すなわち【アクティブタイムバトル】は戦闘中、つねに時間が流れているシステムだ
+ATB or Active Time Battle is a system that is always in operation during battle.	メニューのコンフィグでＡＴＢを【ウェイト】にすると……戦闘中、魔法やアイテムを選んでいる間時間が止まる
+Select [Wait] from ATB on the Config Menu and time will stop when you select magic or items during battle.	コマンドをゆっくり選べるというわけだ。おまえたち、初心者にはおあつらえむきだな
+This gives you time to pick out your commands. This is especially helpful to beginners.	同じくコンフィグでＡＴＢを【おすすめ】にすると……戦闘中、魔法やアイテムのエフェクトが出ている間時間が止まる
+Selecting [Recommended] ATB in the config menu can stop time while the effects of spells and items are taking place during battle.	戦闘の様子をゆっくり見られるというわけだ。落ちついて戦いたいときはこれだな
+This lets you take your time looking over the progression of the battle. When you don't want to rush in battle, this is for you!	俺はいつでも【アクティブ】だが気にするな、好きなものを選ぶといい。以上だ
+Personally, I always use [Active], but you can use whichever you like.	CLOUD
+CLOUD	バトルの時に、【ピロンと飛び出す数字】は白がダメージ、緑が回復していることを表している
+White numbers appearing on the screen in battle are damage points. Green numbers show restorative points.	全滅したくなければ注意することだな
+You better watch these if you don't want to get wiped out.	CLOUD
+CLOUD	【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる
+The [Change] command can move characters to and from the front and back rows.	後列にすると受けるダメージが減るが、攻撃力も減る。【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ
+In the back row, the damage received is less, but the attacking power is less.	同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ
+You can make a [Change] by pressing the Directional button in battle. Pushing the Directional button the other direction during battle accesses [Defend].	【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる
+Selecting [Defend] reduces the damage you receive by half until the next command.	手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな
+If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it.	CLOUD
+CLOUD	俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう
+I don't really remember ever having to use the [Escape] command… but you'll probably need it.	Ｌ１ボタンとＲ１ボタンを押しっぱなしにしていると逃げられたはずだ
+Push [PAGEUP] and [PAGEDOWN] together, hold them down, and you can escape.	CLOUD
+CLOUD	いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。戦闘中、いくつか表示されている【ゲージ】のことだ
+During battle, there are several [Gauges] displayed. You can't check them now, so just remember what I tell you.	【ＴＩＭＥゲージ】は戦闘中、次のコマンド入力が回ってくるまでの待ち時間をあらわしている
+[time gauge] displays the time remaining until your next turn while in battle.	ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。BARRETをこきつかいたい時などに便利だ
+When the gauge is full, you can make your command. If you don't want to make one, push [MENU] and you can move to the next character. It's convenient when you wanna make BARRET work.	【ＬＩＭＩＴゲージ】はダメージを受けるごとにのびていくはずだ。これがいっぱいになると、【リミット技】が使える
+The [limit gauge] increases every time you sustain damage. When it is full, you can use the [limit technique].	【ＬＩＭＩＴゲージ】は、各戦闘ごとにクリアされず数をこなしただけ、たまっていくタイプだ
+This gauge is not cleared after each battle, but gradually builds up over time.	たまったからといって、すぐにつかわず【リミット技】の使いどころを見極めることが大切なのは言うまでもない
+It takes a while for it to build up, so you have to think about which times are the best to use it.	おまえたちは知らないだろうから、教えといてやる。【ステータス】に、【怒り】と【悲しい】という状態がある
+You probably don't know about them, but there are conditions of [fury] and [sadness].	【怒り】は、【ＬＩＭＩＴゲージ】の上がり方が早くなるが攻撃の命中率は低下する
+When you have [fury], your limit gauge builds up sooner, but your attacking accuracy is lower.	【悲しい】は、【ＬＩＭＩＴゲージ】の上がり方が遅くなるが、敵の攻撃から受けるダメージは低下する。ついでに、おぼえておくといいだろう
+Keep in mind that [sadness] makes your limit gauge build up slower, but the damage you receive is also lessened.	【ＢＡＲＲＩＥＲゲージ】は特定の魔法の効果時間をあらわす
+The [barrier gauge] shows your defense barriers.	上のゲージは、なぐられ攻撃を防ぐ魔法【バリア】下のゲージは、魔法攻撃を防ぐ魔法【マバリア】
+The top gauge displays [barrier] or magic defense against attacks. The bottom gauge displays [magic barrier] or defenses against magic attacks.	両方ともダメージを半分にしてくれるが時間が経つと消えてしまう
+Both will cut the damage you receive in half. However, over time they will disappear.	【バリア】と【マバリア】の魔法をつかったときは【ＢＡＲＲＩＥＲゲージ】に注目だな
+Whenever you use [barrier] or [magic barrier] make sure to pay attention to the [barrier gauge].	以上だ、次の戦闘で確認してくれ
+That's it. Remember that for the next battle.	CLOUD
+CLOUD	この俺の説明でもわからんようならしかたない。おまえたちの理解する能力がたりないようだ
+Looks like you didn't get it the last time I told you. What's wrong with you? You touched in the head?	だが、安心しろ。そんなおまえたちは、戦闘中、セレクトボタンを押してみるといいだろう
+Well, don't worry. You just need to push [ASSIST] in battle.	【ヘルプメッセージ】が、俺にかわっていろいろとコマンドの説明をしてくれるはずだ
+Do that, and the [Help] message will walk you through the commands.	敵のモンスター名なども表示されるから俺も気分転換に見ることもある。はずかしがらずに使うといい
+It also shows you the name of your enemy, so even I use it once in a while. Make good use of it.	CLOUD
+CLOUD	【全滅】か……俺の記憶にはないから、これは人から聞いた話だ
+[wiped out]. This is one I've never personally used. But I heard from someone what it was about.	【全滅】したときには前の【セーブポイント】からはじまる
+When you are wiped out, you start back from the last save point.	おまえたちのような弱いヤツでも地道に戦えば、どんな難所でも脱出できるはずだ。ありがたいことだな
+Even a weakling like you can make it out of the roughest places as long as you hang in there and fight. You should be glad!	CLOUD
+CLOUD	【ステータス】とはキャラクターの状態のことだ
+[Status] means just that. The status of each character.	これまで説明したことと重なるかもしれんが代表的なものをまとめといてやる
+I'll probably wind up repeating myself, but let me go over a few basic points.	すいみん　起きるまでコマンド入力不可になる。
+Sleep You cannot put in a command until you get up.	どく　　　　戦闘中にどんどんＨＰが減っていく。
+Poison Steals your HP in battle.	いかり　　ダメージ倍、命中率低下。鎮静剤でもどる。
+Fury Damage is increased, attack accuracy decreased. Tranquilizers will remedy it.	かなしい　ダメージ低下。興奮剤でもどる。
+Sadness Damage is decreased. Hyper will remedy it.	せきか　　石になり、動けなくなる。全員石で全滅だ。
+Petrify Will petrify and become immobilized. Every member will be wiped out.	こんらん　頭が混乱し、敵味方の区別がつかなくなる。
+Confuse Will attack enemy and ally alike.	ちんもく　全ての魔法をとなえられなくなる。
+Silence Will be unable to cast magic.	マヒ　　　　タイムゲージ停止、コマンド入力不可
+Paralyze Stops time gauges, commands.	くらやみ　なぐり攻撃の命中率低下。
+Darkness Accuracy of hitting attacks decreases.	カエル　　カエルになる。俺はだいきらいだ。
+Frog Become a frog. I hate this one!	CLOUD
+CLOUD	フッ……さすがにつかれたな
+Hoo…I'm beat.	【ステータス変化】はアイテムや魔法で直せるから物を買うときに確認しておくのがいいだろう
+Your [Status] can be changed with magic and items, so you should check it whenever you buy things.	CLOUD
+CLOUD	【属性】は魔法や武器などについてくる特別な効果のことだ
+[elemental] is the special effect that comes with certain weapons and magic.	有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな
+It's necessary to move ahead effectively. If you pay attention to the types of elementals you use you'll become intermediate in no time.	代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな
+I put together this list, but remember, it's just a partial list don't take it too literally.	炎　　火の効果。けもの、氷のモンスターにきく。
+Fire Fire effect. Works best on animals and water monsters.	冷　　氷の効果。寒がり、火のモンスターにきく。
+Ice Ice effect. Works best on fire monsters and things that hate the cold.	雷　　電撃の効果。機械でできたヤツにきく。
+Lightning Lightning effect. Works best on mechanical things.	土　　大地の力の攻撃。飛んでるヤツにはきかない。
+Earth Attacks using the earth's power. Doesn't work on flying enemies.	毒　　毒状態にする。もともと毒のヤツにはきかない。
+Poison Poisons enemies. Doesn't work on any poison-based enemies.	重　　重力を使った攻撃。当たるといたいな。
+Gravity Gravity-based attack. These hurt if they hit.	水　　大地の恵みの水を呼ぶ。火のモンスターにきく。
+Water Calls on the earth's water. Works well on fire monsters.	風　　大気の風をよびおこす。飛んでるヤツにきく。
+Wind Calls up the winds. Works well on flying enemies.	聖　　星の力をよびおこす。暗黒のモンスターにきく。
+Holy Calls up the Planet's power. Works well on dark monsters.	CLOUD
+CLOUD	相反する【属性】を攻撃に使用することで大きな効果を得られる
+If you use reciprocal elementals in your attacks, the effect is huge!	また、同じ属性なら防御の効率があがる。だが……逆もまた真なり。気をつけることだな
+Also, if you use the same elemental, your defenses are raised. But, you have to be careful because the opposite is also true.	敵のもっている【属性】をみぬくためには【みやぶる】ことが必要だ。マテリアを手にいれたら、使ってみてくれ
+To see what elementals an enemy has, you need [Sense] Materia. If you get that Materia, you should try using it.	ポカポカポカポカ……！！
+……smack……knock……!!	たしゅけて～！
+Help!	CLOUD
+CLOUD	そこでがまんだ。おまえの【リミットゲージ】はたまりはじめている
+You've got to hang in there. Your limit gauge is just starting to build.	びえ～ん！！
+Waaaah!!	CLOUD
+CLOUD	よしっ、【リミットゲージ】はいっぱいだ！えんりょはいらない。【リミット技】で勝負だ！
+OK! Now your limit gauge is full, go ahead and use it! Fight with your limit technique.	まほう！！まほう！！
+Magic!! Magic!!	CLOUD
+CLOUD	おちつけ！相手が魔法を使うときには【マバリア】か【リフレク】で対抗するのだ
+Calm down! When your enemy uses magic counter with [Magic Barrier] or [reflect].	【マバリア】は魔法のダメージを半分にする魔法だ
+[Magic Barrier] reduces the damage received from magic by half.	【リフレク】は魔法をはねかえすがはねかえす回数に制限があるから気をつけろ
+[reflect] bounces the attacks off you. But the number of times you can use it is limited so be careful.	さっすが、元ソルジャ！どちたら、強くなるの～！
+Wow! You sure are strong! I'm going to be strong, too !	なるの～！
+Me too!	CLOUD
+CLOUD	俺みたいに強くなりたければマテリアを効率よく育て最適な組み合わせをさがすことだな
+If you want to get as strong as me you need to use Materia. And you have to find the best combinations of them.	装備する武器や防具のしゅるいによってマテリアの成長のスピードはちがう
+The type of Materia you put in your weapons and armor will determine how quickly your Materia grows.	武器や防具にあいている穴の形によってマテリアの組み合わせは無限に広がる
+Put Materia into the open slots in your weapons and armor. The possible combinations are limitless.	俺にアドバイスできるのはそのくらいのことだ。もっとも生まれついた素質がなければ俺のようにはなれんがな
+That's about all I can tell you. If you want to be like me, you have to have some natural talent.	わかんな～い！
+I still don't get it!	CLOUD
+CLOUD	俺を怒らせるな！
+Listen kids, don't piss me off!	大丈夫だ、まずはやってみろ。そのうち、なれてしまう
+That's all right. Just give it a try. Little by little, you'll get used to it.	CLOUD
+CLOUD	上出来だ
+Great!	『基本的なボタン操作方法』
+How to use the buttons.	【方向キー】　　　　　　【ボタン】
+[Directional button][CONTROL]	上　　　　　　　　　　　△：メニュー
+up [MENU]: menu	左　　　右：歩く　　　□　　○：話す／決定
+leftright: walk  [OK]: speak/execute	下　　　　　　　　　　　×：走る／取り消し
+down [CANCEL]: run	Ｌ１／Ｒ１ボタン：チョコッとまがる
+[PAGEUP]/[PAGEDOWN]: turn.	『ソフトリセット方法』
+[How to restart]	Ｌ１＆Ｌ２＆Ｒ１＆Ｒ２＆セレクト＆スタート
+You must quit the game in order to restart.	以上のボタンを同時に押すとリセットがかかります。
+To quit the game, either select QUIT	（フィールド上のみ有効）
+in the Main Menu or press CTRL+Q.	CLOUD
+CLOUD	ん？　指！？なんだ、おまえ？
+Huh? Finger!? What the hell?	ボク、【ポジションカーソル】！！歩いている時、迷ったらボクを呼び出して！
+I'm the position cursor!! Call me whenever you're walking around confused!	セレクトボタンを押せばボクが君のツンツン頭のうえにつきまとうよ
+Push [ASSIST] and I'll appear over your shiny little head.	CLOUD
+CLOUD	俺より目立つな……
+Geez, you stand out even more than I do…	ボクがじゃまかい？そんなときはもう一度セレクトボタンを押してね
+Am I in the way? If so, just push [ASSIST] one more time.	それから、ボクはこう見えてもけっこういそがしいからいつでも登場はできないんだ。でてこなくても怒らないで！
+I'm pretty busy myself, and can't always come when you need me. If I don't show up sometimes, don't get mad.	それじゃね、バイバ～イ！
+Later!	【ポジションカーソル】
+[Position Cursor]	フィールドで迷ったときにはセレクトボタンを押してください。ポジションカーソルが表示されます。
+Push [ASSIST] when you're lost in the field. Usually, the [Position Cursor] will appear on the screen.	さらに！！
+But wait!!	入口をあらわす『赤サンカク』とはしごなどをあらわす『緑サンカク』も表示されます。
+[Red triangles] mark the exits and [Green triangles] mark ladders.	これで、暗い夜道も険しい山道もご安心！なお、フィールドによっては表示されないことがあります。御注意ください。
+These will help you safely make it through even the darkest streets or dangerous mountains! But, there are times when they won't appear, so be careful.	ジョニーの家
+Johnny's Home	ハッハッ……。まあ、それもいいでしょうなあ
+Ha, Ha!…… Well, there's nothin' wrong with that, I'd say.	ハッハッ……。息子はもう旅立ちましたかな？
+Ha!  Ha!…… I wonder if my son's already left?	こうして家内と私、二人きりになってみるといやはや、さびしいものですなあ}
+When it's just my wife and I here, you have no idea how lonesome it gets.	ハッハッ……　若いうちはね好きなことをやらせてみようと思っていてもやっぱり心配なのは、いけませんなあ
+We want him to be happy and do other things while he's young, but we can't help but worry…	親として修行がたりませんなあ
+I guess we always will.	ところで、あなた
+By the way……	故郷はおありですかな？
+Where are you from?	ニブルヘイムという村だ……
+A village called Nibelheim	そんな面倒なものはすてたさ
+Who cares?	でも、もし、あなたにも家族がおありなら手紙ぐらい書いてあげるのが、いいですなあ
+But if you still have a family, you outta at least write them.	故郷はね、知らんぷりをしていてもいつでも、あなたを待ってますよ
+You may leave your home, but it'll always be there for you.	ハッハッ……まあ、そんなもんですなあ
+At least that's how I see it.	ほう……あのニブルヘイム村ですか。ほら、何年か前にニュースになったことがありましたなあ
+Hmm…did you say Nibelheim? Wasn't it in the news a while back?	あのときは、たしか……魔晄炉の事故でしたか
+Something to do with a reactor accident…	当時は、最初の大きな魔晄炉事故ということですいぶん話題になりましたなあ
+That was the first major Mako accident, I remember it was all over the news.	ハッハッ……ぶしつけな質間ですが
+This might sound rude, but…	ご家族は健在ですかな？
+Is your family still living?	いたとしても忘れたな
+I forgot about them long ago	俺は孤独なソルジャーだ
+I'm just an ex-SOLDIER	ハッハッ……。まあ、たまには帰ってあげなさい。それができないならときどき思い出すのがよろしい
+Well, you really outta go home again. And if you can't do that, try and at least remember them sometimes.	ハッハッ……。私も若いころはそんな風にかっこつけたこともありましたよ
+Our boy acted like you, When he was a kid.	ハッハッ……あなたは、まだそんな年ごろかな
+You seem to be about his age.	ハッハッ……。そろそろ、二人っきりにしてくれませんか
+Well, would you mind leaving us alone?	家内と二人きりの時間というのをね。しみじみすごしたいのですよ
+I want to enjoy some quiet time together with my wife.	あんな子でもいなくなってみるとね。なんだか、落ちつかなくて。……不思議なものね
+He used to give us nothing but headaches when he was here, but now that he's gone…we kind of miss him. …Strange, isn't it?	undefined

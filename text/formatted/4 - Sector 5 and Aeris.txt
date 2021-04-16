@@ -101,48 +101,48 @@ Poor flowers.”	お花さん、かわいそ」
 “Now that you mention it…”	「そういえば、まだだった」
 “We don't know each other's names, do we?”	「おたがい、名前、知らないね」
 “My name is…”	「わたしは……」
-“I'm {AERIS}‚the flower girl.	【AERITH名前入力】
+“I'm AERIS‚the flower girl.	【AERITH名前入力】
 Nice to meet you.”	
-“I'm {Aeris}, the flower girl.	「わたし、花売りのAERITH。
+“I'm AERIS, the flower girl.	「わたし、花売りのAERITH。
 Nice to meet you.”	よろしくね」
 CLOUD	CLOUD
 “The name's CLOUD.”	「俺はCLOUDだ」
 “Me?	「仕事は……
 I do a little bit of everything.”	仕事は「なんでも屋」だ」
-{Aeris}	AERITH
+AERIS	AERITH
 “Oh…a jack of all trades.”	「はぁ……なんでも屋さん」
 CLOUD	CLOUD
 “Yeah, I do whatever's needed.”	「なんでもやるのさ」
 CLOUD	CLOUD
 “What's so funny?	「何がおかしい！
 What are you laughing at?”	どうして笑う！」
-{Aeris}	AERITH
+AERIS	AERITH
 “Sorry, I just…”	「ごめんなさい……でも、ね」
 CLOUD	CLOUD
 “Huh?”	「ん……？」
-{Aeris}	AERITH
+AERIS	AERITH
 “CLOUD!	「CLOUD！
 Don't let it get to you!”	かまっちゃダメ！」
-{Aeris}	AERITH
+AERIS	AERITH
 “Sorry, bad timing on my part.”	「タイミング、悪いなぁ」
-{Aeris}	AERITH
+AERIS	AERITH
 “Say, CLOUD.	「ねえ、CLOUD。
 Have you ever been a bodyguard?”	ボディガードも仕事のうち？」
 CLOUD	CLOUD
 “What's that?”	「なんだって？」
-{Aeris}	AERITH
+AERIS	AERITH
 “You CAN do anything, right?”	「何でも屋さん、でしょ？」
 CLOUD	CLOUD
 “Yeah, that's right.”	「……そうだけどな」
-{Aeris}	AERITH
+AERIS	AERITH
 “Then, get me out of here.	「ここから連れ出して。
 Take me home.”	家まで、連れてって」
 CLOUD	CLOUD
 “OK…	「お引き受けしましょう。
 but it'll cost you.”	しかし、安くはない」
-{Aeris}	AERITH
+AERIS	AERITH
 “OK then, let's see…”	「じゃあねえ……」
-{Aeris}	AERITH
+AERIS	AERITH
 “How about	「デート、１回！」
 if I go out with you once?”	
 “Don't mind me.”	「オレにかまうな、だと」
@@ -164,14 +164,14 @@ CLOUD	CLOUD
 Want him taken out?”	やっちまいますか？」
 Reno	レノ
 “I haven't decided yet.”	「考え中だぞ、と」
-{Aeris}	AERITH
+AERIS	AERITH
 “CLOUD, don't! Stop!”	「CLOUD、ダメ、やめて！」
-{Aeris}	AERITH
+AERIS	AERITH
 “Don't fight here!	「ここで戦ってほしくない！
 You'll ruin the flowers!”	お花、ふまないでほしいの！」
-{Aeris}	AERITH
+AERIS	AERITH
 “CLOUD! Over here!”	「こっち！　CLOUD！」
-{Aeris}	AERITH
+AERIS	AERITH
 “The exit is back there.”	「出口、奥にあるから」
 Reno	レノ
 “Did you see	「見たか？
@@ -204,23 +204,23 @@ Yes	はい
 No	いいえ
 Reno	レノ
 “There they are, over there!”	「いたぞ、あそこだ！」
-{Aeris}	AERITH
+AERIS	AERITH
 “CLOUD…that one!”	「CLOUD、あれ！」
 CLOUD	CLOUD
 “I know.	「わかっている。
 Looks like they aren't going to let us go.”	どうやら見逃すつもりはないようだな」
-{Aeris}	AERITH
+AERIS	AERITH
 “What should we do?”	「どうしよう？」
 CLOUD	CLOUD
 “Well we can't let them catch us, can we?	「つかまるわけにはいかないんだろ？
 Then, there's only one thing left.”	それなら、答えはひとつさ」
 CLOUD	CLOUD
-“{Aeris}!	「さあ、AERITH。
+“AERIS!	「さあ、AERITH。
 This way!”	こっちだ」
 CLOUD	CLOUD
 “All right.	「だいじょうぶだ。
 I'll hold them off.”	俺が受け止めてやる」
-{Aeris}	AERITH
+AERIS	AERITH
 “Right.	「わかったわ。
 Make sure they don't get through!”	しっかり受け止めてね」
 Reno	レノ
@@ -229,49 +229,49 @@ Attack! Attack! > Attack!”	撃て、撃て！、撃つな！」
 Reno	レノ
 “Think we killed 'em?	「やっちまったかな、と。
 They never should've fought us!”	抵抗するからだぞ、と」
-{Aeris}	AERITH
+AERIS	AERITH
 “Eaygh!!”	「きゃあっ！」
 CLOUD	CLOUD
-“{Aeris}!”	「AERITH！」
-{Aeris}	AERITH
+“AERIS!”	「AERITH！」
+AERIS	AERITH
 “CLOUD, help!”	「CLOUD、助けて！」
 CLOUD	CLOUD
-“{Aeris}!”	「AERITH！」
+“AERIS!”	「AERITH！」
 Hold on a minute!	しばらく待っていろ！
 Fight 'em!	戦え！
 RUN!	逃げるんだ！
-{Aeris}	AERITH
+AERIS	AERITH
 “A, all right.”	「わ、わかったわ」
 “Guuagh!”	「ぐわっ！」
 “Urkkk!”	「ぶべっ！」
 “Nwahh!”	「のわっ！」
-{Aeris}	AERITH
+AERIS	AERITH
 “Thanks, CLOUD.”	「ありがとう、CLOUD」
-{Aeris}	AERITH
+AERIS	AERITH
 “Oh, CLOUD	「もう、CLOUD
 what are you doing!?”	なにやってるのよ！」
 “The Ancient!	「古代種！
 We got her!”	捕まえたぞ！」
-{Aeris}	AERITH
+AERIS	AERITH
 “Whew, that surprised me.”	「ふぅ、おどろいた」
 CLOUD	CLOUD
-“{Aeris}, this way.”	「AERITH、こっちだ」
-{Aeris}	AERITH
+“AERIS, this way.”	「AERITH、こっちだ」
+AERIS	AERITH
 “CLOUD, hurry.”	「CLOUD、急ぎましょう」
 CLOUD	CLOUD
 “Damn!”	「くそっ！」
 CLOUD	CLOUD
 “What's that?”	「あれは……？」
-{Aeris}	AERITH
+AERIS	AERITH
 “We'll get out through	「そこの屋根の壊れたところから
 the hole in the roof.”	外に出ましょう」
-{Aeris}	AERITH
+AERIS	AERITH
 “Jump off that beam,	「倒れたハリ、つたって行けば
 and we should be able to make it	屋根の上、出られるから」}
 through to the roof.”	
 Church	教会
 	
-{Aeris}	AERITH
+AERIS	AERITH
 “Ha, ha…	「フフフ……
 They're looking for	まださがしてるね」
 me again.”	
@@ -279,18 +279,18 @@ CLOUD	CLOUD
 “You mean it's not the	「初めてじゃないな？
 first time they've	やつらが襲ってきたのは？」
 been after you?”	
-{Aeris}	AERITH
+AERIS	AERITH
 “…no.”	「……まあ、ね」
 CLOUD	CLOUD
 “They're the Turks.”	「タークスだよ、あいつらは」
-{Aeris}	AERITH
+AERIS	AERITH
 “Hmm…”	「ふ～ん……」
 CLOUD	CLOUD
 “The Turks are	「タークスは神羅の組織。
 a Shinra organization.	ソルジャーの人材をみつけだし
 They scout for possible	スカウトするのが役目だ」
 candidates for SOLDIER.”	
-{Aeris}	AERITH
+AERIS	AERITH
 “This violently? I thought	「こんなに乱暴なやりかたで？
 they were kidnapping	まるで人さらいみたい」
 someone.”	
@@ -300,20 +300,20 @@ a lot of other dirty	汚いことをやっている」
 stuff on the side.”	「スパイ、殺し屋……
 “Spying,	いろいろだ」
 murder…you know.”	
-{Aeris}	AERITH
+AERIS	AERITH
 “They look like it.”	「そんな顔してるね」
 CLOUD	CLOUD
 “But, why're they after you?	「でも、どうして
 There must be a reason,	あんたがねらわれる？
 right?”	何かわけがあるんだろ？」
-{Aeris}	AERITH
+AERIS	AERITH
 “No, not really. I think they	「う～ん……べつに。
 believe I have what it	あ、わたしソルジャーの素質が
 takes to be in SOLDIER!”	あるのかも！」
 CLOUD	CLOUD
 “Maybe you do.	「そうかもな。
 You want to join?”	なりたいのか？」
-{Aeris}	AERITH
+AERIS	AERITH
 “I don't know…	「どうかな～。
 But I don't want to	でも、あんなヤツらに
 get caught	つかまるのはイヤ！」
@@ -324,10 +324,10 @@ Sector 5 Slum	５番街スラム
 	
 CLOUD	CLOUD
 “…”	「…………」
-{Aeris}	AERITH
+AERIS	AERITH
 “Wait…	「待って……
 Wait, I said!”	ちょっと待ってってば！」
-{Aeris}	AERITH
+AERIS	AERITH
 “Puff…	「ハア……
 …wheeze…”	ハア……」
 “Slow…down…	「ひとりで……さきに……
@@ -336,16 +336,16 @@ CLOUD	CLOUD
 “Funny…”	「おかしいな……」
 “I thought you were cut	「ソルジャーの素質が
 out to be in SOLDIER.”	あるんじゃなかったか？」
-{Aeris}	AERITH
+AERIS	AERITH
 “Oh! You're terrible!”	「もう！　いじわる！」
-{Aeris}	AERITH
+AERIS	AERITH
 “Hey…CLOUD.	「ねえ……CLOUD。
 Were you…ever in SOLDIER?”	あなた、もしかして……
 	ソルジャー？」
 CLOUD	CLOUD
 “…I used to be.	「……元ソルジャーだ。
 How did you guess?”	どうしてわかった？」
-{Aeris}	AERITH
+AERIS	AERITH
 “…Your eyes.	「……あなたの目。
 They have a strange glow…”	その不思議な輝き……」
 CLOUD	CLOUD
@@ -354,13 +354,13 @@ have been infused with Mako…	ソルジャーのあかし」
 A mark of SOLDIER.”	
 “But, how did you know	「だが、どうして、あんたがそれを？」
 about that?”	
-{Aeris}	AERITH
+AERIS	AERITH
 “…Oh, nothing.”	「……ちょっと、ね」
 CLOUD	CLOUD
 “Nothing?”	「ちょっと……？」
-{Aeris}	AERITH
+AERIS	AERITH
 “Right, nothing!”	「そ、ちょっと！」
-{Aeris}	AERITH
+AERIS	AERITH
 “Come on, let's go!	「さ、行きましょ！
 Bodyguard!”	ボディーガードさん！」}
 	
@@ -369,10 +369,10 @@ Access the Menu and select	メニューを開いて　セーブ　を選ぶと
 [SAVE] to save your game.	ゲームの状態を保存できます。
 Sector 5 Slum	５番街スラム
 	
-{Aeris}	AERITH
+AERIS	AERITH
 “Whew! Finally made it off!	「フ～！　やっとおりられた！
 Now what?”	さて、と……」
-{Aeris}	AERITH
+AERIS	AERITH
 “My house is over here.	「こっちよ、わたしの家は。
 Hurry before they come.”	あの人たちが来ないうちに
 	急ぎましょ」
@@ -435,14 +435,14 @@ call…rumor I heard.”
 I just made it up because	さいきんスゴイものを
 nothing's been happening around	見ていないのでつい……」
 here lately.”	
-{Aeris}	AERITH
+AERIS	AERITH
 “You mean that's…”	「それってひょっとして……」}
 [SAVE POINT]	【セーブポイント】
 Access the Menu and select	メニューを開いて　セーブ　を選ぶと
 [SAVE] to save your game.	ゲームの状態を保存できます。
 Sector 5 Slum	５番街スラム
 	
-{Aeris}	AERITH
+AERIS	AERITH
 “This guy are sick.”	「ここの人、病気みたいなの」
 “He passed out nearby and	「近くで倒れていたのを
 someone must have helped him here.”	誰かが助けたんだって」
@@ -453,14 +453,14 @@ Earthen Pipe	ドカン
 	
 	
 “ooh…aaah…ughhhh…”	「う……あ……あぁ……」
-{Aeris}	AERITH
+AERIS	AERITH
 “This is the one…	「この人なの……
 won't you help him?”	ね、助けてあげられない？」
 CLOUD	CLOUD
 “Listen, I'm no doctor.”	「悪いが俺は医者じゃない」
-{Aeris}	AERITH
+AERIS	AERITH
 “No, I guess not…”	「そう……そうよね……」
-{Aeris}	AERITH
+AERIS	AERITH
 “Hey…that man has a tattoo.	「あら？　この人、イレズミしてる。
 I think it's the number 2.”	数字の２、かな」----
 	
@@ -734,9 +734,9 @@ CLOUD	CLOUD
 “That's too much to ask of kids.”	「コドモには無理だな」
 “Too much to ask?  What?	「ムリ？　ムリってな～に？
 I don't get it.”	わかんな～い」
-{Aeris}	AERITH
+AERIS	AERITH
 “CLOUD, what are you saying!?”	「CLOUD、なに言ってるの！？」
-{Aeris}	AERITH
+AERIS	AERITH
 “Will you take good care of my flowers, for me?”	「お花、かわいがってあげてね」
 “Yeah!”	「うん！」
 “Sure!”	「うん！」
@@ -746,11 +746,11 @@ I don't get it.”	わかんな～い」
 Where's the flower lady?”	おねえちゃんは？」}
 	
 church in the slums	スラムの教会
-{Aeris}	AERITH
+AERIS	AERITH
 “I'm home, Mom.”	「ただいま、お母さん」
 CLOUD	CLOUD
 “Yeah.”	「ああ」}
-{Aeris}	AERITH
+AERIS	AERITH
 “This is CLOUD.	「この人、CLOUD。
 My bodyguard.”	わたしのボディーガードよ」
 Elmyra	エルミナ
@@ -759,56 +759,56 @@ You were followed again!?”	おまえ、また狙われたのかい！？」
 Elmyra	エルミナ
 “Are you all right!?	「体は！？　ケガはないのかい！？」
 You're not hurt, are you!?”	
-{Aeris}	AERITH
+AERIS	AERITH
 “I'm all right.	「だいじょうぶ。
 I had CLOUD with me.”	今日はCLOUDもいてくれたし」
 Elmyra	エルミナ
 “Thank you, CLOUD.”	「ありがとうね、CLOUDさん」
-{Aeris}	AERITH
+AERIS	AERITH
 “So what are you going to do now?”	「ねぇ、これからどうするの？」
 CLOUD	CLOUD
 “…Is Sector 7 far from here?	「……７番街は遠いのか？
 I want to go to TIFA's bar.”	TIFAの店に行きたいんだ」
-{Aeris}	AERITH
+AERIS	AERITH
 “Is TIFA…a girl?”	「TIFAって……女の人？」
 CLOUD	CLOUD
 “Yeah.”	「ああ」
-{Aeris}	AERITH
+AERIS	AERITH
 “A girl…friend?”	「彼女？」
 CLOUD	CLOUD
 “Girlfriend?”	「彼女？」
 No way!	そんなんじゃない！
 Yeah, that's right	そんなところだ
-{Aeris}	AERITH
+AERIS	AERITH
 “Hee hee hee…”	「ふふふ」
-{Aeris}	AERITH
+AERIS	AERITH
 “You don't have to get THAT upset…”	「そ～んなにムキにならなくても
 	いいと思うけど」
-{Aeris}	AERITH
+AERIS	AERITH
 “Oh, how nice.”	「ふ～ん、いいねえ」
-{Aeris}	AERITH
+AERIS	AERITH
 “Well, that's…nice.”	「でも、まあ、いいわ」
-{Aeris}	AERITH
+AERIS	AERITH
 “Let's see, Sector 7?	「７番街だったわね。
 I'll show you the way.”	私が案内してあげる」
 CLOUD	CLOUD
 “You gotta be kidding.	「冗談じゃない。
 Why do you want to put	また危ない目にあったら
 yourself in danger again?”	どうするんだ？」
-{Aeris}	AERITH
+AERIS	AERITH
 “I'm used to it.”	「なれてるわ」
 CLOUD	CLOUD
 “Used to it!?”	「なれてる！？」
 CLOUD	CLOUD
 “Well, I don't know…	「……まあ、そうだとしても
 getting help from a girl…”	女の力をかりるなんて…」
-{Aeris}	AERITH
+AERIS	AERITH
 “A girl!! What do you mean by that!?”	「女！！　女の力なんて！？」
-{Aeris}	AERITH
+AERIS	AERITH
 “You expect me to just sit by quietly	「そういう言い方されて
 after hearing you say	だまってるわけにはいかないわね」
 something like that!?”	
-{Aeris}	AERITH
+AERIS	AERITH
 “Mom!	「お母さん！
 I'm taking CLOUD to Sector 7.	わたし、７番街まで
 I'll be back in a while.”	CLOUDをおくっていくから」
@@ -818,24 +818,24 @@ once you've made up your mind.”	言いだしたら聞かないからね」
 Elmyra	エルミナ
 “But if you must go, why don't you go	「でも、明日にしたらどうだい？
 tomorrow? It's getting late now.”	今日はもう遅くなってきたし」
-{Aeris}	AERITH
+AERIS	AERITH
 “Yeah, you're right, Mom.”	「うん、わかった、お母さん」
 Elmyra	エルミナ
-“{Aeris},	「AERITH、ベッドの準備をしておくれ」
+“AERIS,	「AERITH、ベッドの準備をしておくれ」
 please go make the bed.”	
-{Aeris}	AERITH
+AERIS	AERITH
 “You need to go through	「７番街へは６番街を抜けていくの。
 Sector 6 to get to Sector 7.	６番街、ちょっと危険なところだから
 Sector 6 is a little	今夜はゆっくり休んでね」
 dangerous so you'd better	
 get some rest tonight.”	
-{Aeris}	AERITH
+AERIS	AERITH
 “CLOUD…”	「CLOUD」
-{Aeris}	AERITH
+AERIS	AERITH
 “Good night.”	「おやすみ」
 CLOUD	CLOUD
 “Oh, man…”	「まいったな……」-
-{CLOUD}'s House	CLOUDの家
+CLOUD's House	CLOUDの家
 	
 “…seem pretty tired…”	「……かなり、アレだな。
 	つかれてるみたいだぞ」
@@ -872,7 +872,7 @@ asleep.”	眠ってしまったのか」
 CLOUD	CLOUD
 “Sector 7's past Sector 6…	「６番街をこえて７番街へ、か。
 I should be all right by myself…”	１人でなんとかなりそうだな」
-{Aeris}	AERITH
+AERIS	AERITH
 “CLOUD!	「もう！　またタークス、来たのかと
 I thought the Turks	思ったじゃない！
 came back! Get some rest!”	おとなしく休んで！」
@@ -888,30 +888,30 @@ Elmyra	エルミナ
 “…	「………。
 I don't know how to say this, but…”	言いにくいんだけど…」
 “could you please leave here tonight,	「今夜のうちに
-without telling {Aeris}?”	出ていってくれないかい？
+without telling AERIS?”	出ていってくれないかい？
 	AERITHにはないしょでさ」
 Elmyra	エルミナ
-“SOLDIER…the last thing {Aeris}	「ソルジャーなんて……
+“SOLDIER…the last thing AERIS	「ソルジャーなんて……
 needs is to get hurt again.”	またAERITHが悲しい思いを
 	することになる……」}
 CLOUD	CLOUD
 “Through Sector 6 to get to Sector 7.	「６番街をこえて７番街へ、か。
 I should be able to do it alone…”	一人でなんとかなりそうだな」}
-{AERIS}'s House	の家
+AERIS's House	の家
 [Save Point]	【セーブポイント】
 Access the Menu and select	メニューを開いて　セーブ　を選ぶと
 [SAVE] to save your game.	ゲームの状態を保存できます。
 You cannot take on any more Materia.	これいじょうマテリアは持てません。
 Please discard some Materia.	なにかマテリアをすててください。
 Sector 5 Slum	５番街スラム
-{Aeris}	AERITH
+AERIS	AERITH
 “You're up bright and early.”	「お早い出発、ね」
 CLOUD	CLOUD
 “I couldn't ask you to go.	「危険だとわかっているのに
 I knew it would be dangerous.”	あんたにたよるわけにはいかないさ」
-{Aeris}	AERITH
+AERIS	AERITH
 “Are you done?”	「言いたいことはそれだけ？」
-{Aeris}	AERITH
+AERIS	AERITH
 “You have to go through the slum in	「TIFAさんのいる【セブンスヘブン】は
 Sector 6 to get to	この先のスラム【６番街】を通らないと
 TIFA's 7th Heaven.”	いけないの」
@@ -922,14 +922,14 @@ do ya think you're talkin' to!?”	シッシッ！」
 “Aaaaah…what a drag.	「あ～あ……たいくつだぜ。
 You wanna go to that store in	また６番街スラムの
 Sector 6 again?”	例の店に行ってみっかな……」}
-{Aeris}	AERITH
+AERIS	AERITH
 “The gate to Sector 7's in there.”	「この奥に７番街へのゲートがあるの」
 CLOUD	CLOUD
 “Thanks.	「わかった。
 I guess this is goodbye.	じゃあ、ここで別れようか。
 You gonna be all right	ひとりで帰れるか？」
 going home?”	
-{Aeris}	AERITH
+AERIS	AERITH
 “Oh no!	「いや～ん、帰れない～！！
 What ever will I do!?'	って言ったらどうするの？」
 …Isn't that	
@@ -937,46 +937,46 @@ what you want me
 to say?”	
 Take her home.	家までおくる
 Go on to Sector 7.	７番街までいっしょに
-{Aeris}	AERITH
+AERIS	AERITH
 “Isn't that a little out of the way?”	「それってなんだかおかしくない？」
 CLOUD	CLOUD
 “Yeah, I guess so.”	「そうだな」
-{Aeris}	AERITH
+AERIS	AERITH
 “I could do that.	「それもいいかもね。
 But won't I be	でも、CLOUD困らない？」
 in your way?”	
 CLOUD	CLOUD
 “What do you	「なにが？」
 mean in the way?”	
-{Aeris}	AERITH
+AERIS	AERITH
 “Nothing!”	「なんでもない！」
-{Aeris}	AERITH
+AERIS	AERITH
 “Can we take a break?”	「ちょっと休もっか」
-{Aeris}	AERITH
+AERIS	AERITH
 “I can't believe it's still here.”	「なつかしい、まだあったんだ」
-{Aeris}	AERITH
+AERIS	AERITH
 “CLOUD,	「CLOUD、こっち！」
 over here!”	
-{Aeris}	AERITH
+AERIS	AERITH
 “What rank were you?”	「あなた、クラスは？」
 CLOUD	CLOUD
 “Rank?”	「クラス？」
-{Aeris}	AERITH
+AERIS	AERITH
 “You know, in SOLDIER.”	「ソルジャーのクラス」
 CLOUD	CLOUD
 “Oh, I was…”	「ああ、俺は……」
 CLOUD	CLOUD
 “First Class.”	「クラス……
 	１ＳＴ（ファースト）だ」
-{Aeris}	AERITH
+AERIS	AERITH
 “Just the same as him.”	「ふ～ん。　おんなじだ」
 CLOUD	CLOUD
 “The same as who?”	「誰と同じだって？」
-{Aeris}	AERITH
+AERIS	AERITH
 “My first boyfriend.”	「初めて好きになった人」
 CLOUD	CLOUD
 “Were you…serious?”	「……つきあってた？」
-{Aeris}	AERITH
+AERIS	AERITH
 “No. But I liked	「そんなんじゃないの。
 him for a while.”	ちょっと、いいなって
 	思ってた」
@@ -984,12 +984,12 @@ CLOUD	CLOUD
 “I probably knew him.	「もしかしたら知ってるかも
 What was his name?”	しれないな。
 	そいつの名前は？」
-{Aeris}	AERITH
+AERIS	AERITH
 “It doesn't	「もう、いいの」
 really matter.”	
-{Aeris}	AERITH
+AERIS	AERITH
 “Sector 7's just past this gate.”	「このゲートの向こう、７番街よ」
-{Aeris}	AERITH
+AERIS	AERITH
 “Okay, I guess I'll be going home now.	「じゃ、わたし、帰るね。
 I'm glad I met you, CLOUD.”	CLOUD、会えて良かったわ」
 CLOUD	CLOUD
@@ -998,7 +998,7 @@ CLOUD	CLOUD
 “Huh? Hey, back there…”	「ん？　あの後ろ………」）
 CLOUD	CLOUD
 “TIFA!?”	「TIFA！？」
-{Aeris}	AERITH
+AERIS	AERITH
 “That girl in the cart was TIFA?	「あれに乗っていた人がTIFAさん？
 Where was she going?	どこいくのかしら？
 She looked kind of odd…”	それに、様子が変だったわね……」
