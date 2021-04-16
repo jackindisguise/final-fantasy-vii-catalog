@@ -72,7 +72,7 @@ AERIS	AERITH
 No, I don't!	そんなことないもん！
 Elmyra	エルミナ
 But I knew. I knew about her mysterious powers.	でも、わたしにはわかっていた。あの子の不思議な能力……
-She tried so hard to hide it, so I acted as though I never noticed.	一生けんめい、かくそうとしていたからわたしは気がつかないふりをしていたけどね}
+She tried so hard to hide it, so I acted as though I never noticed.	一生けんめい、かくそうとしていたからわたしは気がつかないふりをしていたけどね
 CLOUD	CLOUD
 It's amazing how she's avoided the Shinra for all these years…	よく何年も神羅から逃げつづけることができたな
 Elmyra	エルミナ
@@ -112,7 +112,7 @@ Don't say that. AERIS doesn't think so.	あんた、気にするんじゃない�
 TIFA	TIFA
 I feel so depressed.	なんか落ちこんじゃう
 Elmyra	エルミナ
-…sigh…	はぁ……}
+…sigh…	はぁ……
 BARRET	BARRET
 CLOUD!	CLOUD！
 BARRET	BARRET
@@ -163,7 +163,7 @@ This place is dangerous now. You better go somewhere else.	それから、ここ
 Elmyra	エルミナ
 …You're right. But promise me that you'll come back to her. Don't get yourself killed.	……そうだねえ。でも、必ず迎えにくるんだよ。死んじゃいけないよ
 Elmyra	エルミナ
-I mean it, come back to her. Don't get yourself killed.	必ず迎えにくるんだよ。死んじゃいけないよ}
+I mean it, come back to her. Don't get yourself killed.	必ず迎えにくるんだよ。死んじゃいけないよ
 AERIS's House	AERITH's House
 Received "Ether"!	『エーテル』を手にいれた！
 Received "Cover" Materia!	『かばう』のマテリアを手にいれた！
@@ -174,7 +174,7 @@ There ain't no train that goes up there anymore…	もう、上に行く列車�
 TIFA	TIFA
 …	………
 TIFA	TIFA
-Well, let's go to Wall Market. We might be able to find something there.	とりあえず、【ウォールマーケット】に行きましょう。　あそこなら何かいい手が見つかるかもしれないわ}
+Well, let's go to Wall Market. We might be able to find something there.	とりあえず、【ウォールマーケット】に行きましょう。　あそこなら何かいい手が見つかるかもしれないわ
 Wall Market	ウォールマーケット
 Everyone climbed up this wire. Looks scary…Brrr.	みんなこのワイヤーを登って上にいっちゃったよ。こわくないのかな……ブルブル
 Oh man! This is horrible…	うわ～！すげ～、ヒサン……
@@ -196,7 +196,7 @@ You're right. This is the only way to save AERIS…	そうね、AERITHを救う�
 CLOUD	CLOUD
 OK, that was a bad analogy, but, BARRET, I understand how you feel.	よくわからないたとえだったがBARRET、あんたの気持ちはわかった
 CLOUD	CLOUD
-Let's go!	行くぞ！}
+Let's go!	行くぞ！
 Plate Section	プレート断面
 CLOUD	CLOUD
 …Maybe if I put a battery in…	……バッテリーをはめれば
@@ -215,7 +215,7 @@ Jumped too late…	タイミングが遅かったようだ……
 CLOUD	CLOUD
 Need a battery here, too.	ここにもバッテリーが必要だな
 CLOUD	CLOUD
-Damn, out of batteries…	しまった。もうバッテリーがない……}
+Damn, out of batteries…	しまった。もうバッテリーがない……
 Shinra Bldg.	神羅ビル
 Shinra Bldg. Stairs	神羅ビル・階段
 BARRET	BARRET
@@ -229,7 +229,7 @@ I don't have time to argue with you! I'm going!	もう、ゴチャゴチャい�
 BARRET	BARRET
 Y, yo TIFA! Don't go alone!	お、おいTIFA！１人でいくな！
 TIFA	TIFA
-Wait a minute, CLOUD!	ちょっと待ってよCLOUD！}
+Wait a minute, CLOUD!	ちょっと待ってよCLOUD！
 Shinra Bldg. Stairs	神羅ビル・階段
 BARRET	BARRET
 Don't know… why…the hell… we gotta…climb…	なんで……わざわざ……こんな……くろうを……
@@ -315,7 +315,7 @@ What're ya ignorant?  …I didn't mean that	バ、バカ！オレはそんなつ
 TIFA	TIFA
 All right, all right!	いいから！
 TIFA	TIFA
-CLOUD, you go on ahead too!!	CLOUDも！先に行って！！}
+CLOUD, you go on ahead too!!	CLOUDも！先に行って！！
 Received "Elixir"!	『エリクサー』を手にいれた！
 Received "Behemoth Horn"!	『ベヒーモスホーン』を手にいれた！
 Shinra Bldg. Stairs	神羅ビル・階段
@@ -324,7 +324,7 @@ BARRET	BARRET
 …never wanna see… no more stairs the rest of my life…	か……階段なんて……もう見るのもゴメンだ……
 TIFA	TIFA
 …huff…puff… I'm beat…	ハア……ハア……さすがにこれは……こたえたわ……ね……
-But here we are. We'd better get ready!	……でも、これからが本番よね。元気出していかなきゃ……！}
+But here we are. We'd better get ready!	……でも、これからが本番よね。元気出していかなきゃ……！
 sector 0	０番街
 Shinra Bldg.	神羅ビル
 BARRET	BARRET
@@ -369,7 +369,7 @@ D, do you think they're AVALANCHE?	ま、まさかやつらがアバランチ！
 Intruders! Seize them!!	侵入者だ！つかまえろ！！
 BARRET	BARRET
 Let's go to the top!	一気に上まで行くぞ！
-Battle!!	バトル！！}
+Battle!!	バトル！！
 Shinra Bldg. 2f. Shop	神羅ビル２階ショップ
 Honey…would you buy me that car!	ネエ～新しいクルマ買ってェ～
 But baby, it's way too expensive.	そんなこと言ったって新車は高いしなあ……
@@ -398,7 +398,7 @@ Thank you and come again… Forget I said that.	またのご来店お待ち…�
 Welcome… to the fully automated store. Place your order…now.	……いらっしゃいませ。無人販売機が御用をうけたまわります
 Received "Pile Bunker"!	『パイルバンカー』を手にいれた！
 Received "Master Fist"!	『マスターフィスト』を手にいれた！
-You opened up all those things without asking and, hey wait!	あの、商品を勝手に開けるとか、そういったことはその、ちょっと……}
+You opened up all those things without asking and, hey wait!	あの、商品を勝手に開けるとか、そういったことはその、ちょっと……
 BARRET	BARRET
 This is the real thing. Don't let your guard down.	ここからが本番だ。ゆだんするな
 CLOUD	CLOUD
@@ -410,7 +410,7 @@ I hope AERIS is all right.	AERITH、無事だといいね
 TIFA	TIFA
 AERIS… She's been through a lot, huh.	AERITH………いろいろ大変だったのね
 Yeah	そうだな
-You too, TIFA	TIFAだって}
+You too, TIFA	TIFAだって
 TIFA	TIFA
 …What's wrong?	……どうしたの？
 CLOUD	CLOUD

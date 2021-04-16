@@ -121,7 +121,7 @@ Elmyra	エルミナ
 I knew about her mysterious powers.”	あの子の不思議な能力……」
 “She tried so hard to hide it,	「一生けんめい、かくそうとしていたから
 so I acted as though I never noticed.”	わたしは気がつかないふりを
-	していたけどね」}
+	していたけどね」
 CLOUD	CLOUD
 “It's amazing how she's avoided	「よく何年も神羅から
 the Shinra for all these years…”	逃げつづけることができたな」
@@ -186,7 +186,7 @@ AERIS doesn't think so.”	AERITHだってそんなふうに
 TIFA	TIFA
 “I feel so depressed.”	「なんか落ちこんじゃう」
 Elmyra	エルミナ
-“…sigh…”	「はぁ……」}
+“…sigh…”	「はぁ……」
 BARRET	BARRET
 “CLOUD!”	「CLOUD！」
 BARRET	BARRET
@@ -258,7 +258,7 @@ come back to her.
 Don't get yourself killed.”	死んじゃいけないよ」
 Elmyra	エルミナ
 “I mean it, come back to her.	「必ず迎えにくるんだよ。
-Don't get yourself killed.”	死んじゃいけないよ」}
+Don't get yourself killed.”	死んじゃいけないよ」
 AERIS's House	AERITH's House
 Received "Ether"!	『エーテル』を手にいれた！
 Received "Cover" Materia!	『かばう』のマテリアを手にいれた！
@@ -273,7 +273,7 @@ TIFA	TIFA
 TIFA	TIFA
 “Well, let's go to Wall Market.	「とりあえず、【ウォールマーケット】に
 We might be able to find something there.”	行きましょう。　あそこなら何か
-	いい手が見つかるかもしれないわ」}
+	いい手が見つかるかもしれないわ」
 Wall Market	ウォールマーケット
 “Everyone climbed up this wire.	「みんなこのワイヤーを登って
 Looks scary…Brrr.”	上にいっちゃったよ。
@@ -309,7 +309,7 @@ CLOUD	CLOUD
 but, BARRET,	BARRET、あんたの気持ちはわかった」
 I understand how you feel.”	
 CLOUD	CLOUD
-“Let's go!”	「行くぞ！」}
+“Let's go!”	「行くぞ！」
 Plate Section	プレート断面
 CLOUD	CLOUD
 “…Maybe if I put a battery in…”	「……バッテリーをはめれば」
@@ -334,7 +334,7 @@ CLOUD	CLOUD
 “Need a battery here, too.”	「ここにもバッテリーが必要だな」
 CLOUD	CLOUD
 “Damn, out of batteries…”	「しまった。
-	もうバッテリーがない……」}
+	もうバッテリーがない……」
 Shinra Bldg.	神羅ビル
 Shinra Bldg. Stairs	神羅ビル・階段
 	
@@ -358,7 +358,7 @@ BARRET	BARRET
 Don't go alone!”	１人でいくな！」
 TIFA	TIFA
 “Wait a minute,	「ちょっと待ってよ
-CLOUD!”	CLOUD！」}
+CLOUD!”	CLOUD！」
 Shinra Bldg. Stairs	神羅ビル・階段
 	
 BARRET	BARRET
@@ -483,7 +483,7 @@ TIFA	TIFA
 “All right, all right!”	「いいから！」
 TIFA	TIFA
 “CLOUD,	「CLOUDも！
-you go on ahead too!!”	先に行って！！」}
+you go on ahead too!!”	先に行って！！」
 	
 Received "Elixir"!	『エリクサー』を手にいれた！
 Received "Behemoth Horn"!	『ベヒーモスホーン』を手にいれた！
@@ -499,7 +499,7 @@ TIFA	TIFA
 I'm beat…”	さすがにこれは……
 	こたえたわ……ね……」
 “But here we are.	「……でも、これからが本番よね。
-We'd better get ready!”	元気出していかなきゃ……！」}
+We'd better get ready!”	元気出していかなきゃ……！」
 sector 0	０番街
 Shinra Bldg.	神羅ビル
 	
@@ -575,7 +575,7 @@ they're AVALANCHE?”	アバランチ！？」
 Seize them!!”	つかまえろ！！」
 BARRET	BARRET
 “Let's go to the top!”	「一気に上まで行くぞ！」
-“Battle!!”	バトル！！}
+“Battle!!”	バトル！！
 Shinra Bldg. 2f. Shop	神羅ビル２階ショップ
 	
 “Honey…would you	「ネエ～
@@ -625,7 +625,7 @@ Received "Pile Bunker"!	『パイルバンカー』を手にいれた！
 Received "Master Fist"!	『マスターフィスト』を手にいれた！
 “You opened up all those	「あの、商品を勝手に
 things without asking	開けるとか、そういったことは
-and, hey wait!”	その、ちょっと……」}
+and, hey wait!”	その、ちょっと……」
 BARRET	BARRET
 “This is the real thing.	「ここからが本番だ。ゆだんするな」
 Don't let your guard down.”	
@@ -643,7 +643,7 @@ TIFA	TIFA
 “AERIS…	「AERITH………
 She's been through a lot, huh.”	いろいろ大変だったのね」
 Yeah	そうだな
-You too, TIFA	TIFAだって}
+You too, TIFA	TIFAだって
 TIFA	TIFA
 “…What's wrong?”	「……どうしたの？」
 CLOUD	CLOUD

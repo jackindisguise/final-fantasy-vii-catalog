@@ -110,7 +110,7 @@ OK then, let's see…	じゃあねえ……
 AERIS	AERITH
 How about if I go out with you once?	デート、１回！
 Don't mind me.	オレにかまうな、だと
-I'll give you a little more time.	もう少し、時間をやるぞ、と}
+I'll give you a little more time.	もう少し、時間をやるぞ、と
 CLOUD	CLOUD
 I don't know who you are, but…	どこの誰だか知らないが……
 CLOUD	CLOUD
@@ -139,7 +139,7 @@ Did you see that guy's eyes?	見たか？あのにいちゃんの目
 Reno	レノ
 They were…Mako eyes.	……魔晄の目
 Reno	レノ
-Hmm. All right, c'mon, get to work.	ま、いいか。さ、お仕事お仕事、と}
+Hmm. All right, c'mon, get to work.	ま、いいか。さ、お仕事お仕事、と
 Reno	レノ
 They were…Mako eyes.	あれは………魔晄の目
 Reno	レノ
@@ -150,7 +150,7 @@ Reno	レノ
 And don't step on the flowers…	お花、ふまないでね…だと
 You just stepped on them yourself!	レノさん、ふんだ！
 They're ruined!	花、ぐしゃぐしゃ！
-You're gonna catch holy hell!	怒られる～！}
+You're gonna catch holy hell!	怒られる～！
 Inside the Church	教会奥
 Church Roof	教会屋根裏
 Here's a barrel.	タルがある。
@@ -214,7 +214,7 @@ What's that?	あれは……？
 AERIS	AERITH
 We'll get out through the hole in the roof.	そこの屋根の壊れたところから外に出ましょう
 AERIS	AERITH
-Jump off that beam, and we should be able to make it through to the roof.	倒れたハリ、つたって行けば屋根の上、出られるから}
+Jump off that beam, and we should be able to make it through to the roof.	倒れたハリ、つたって行けば屋根の上、出られるから
 Church	教会
 AERIS	AERITH
 Ha, ha… They're looking for me again.	フフフ……まださがしてるね
@@ -244,7 +244,7 @@ Maybe you do. You want to join?	そうかもな。なりたいのか？
 AERIS	AERITH
 I don't know… But I don't want to get caught by THOSE people!	どうかな～。でも、あんなヤツらにつかまるのはイヤ！
 CLOUD	CLOUD
-Then, let's go!	それじゃあ、行くぞ！}
+Then, let's go!	それじゃあ、行くぞ！
 Sector 5 Slum	５番街スラム
 CLOUD	CLOUD
 …	…………
@@ -274,7 +274,7 @@ Nothing?	ちょっと……？
 AERIS	AERITH
 Right, nothing!	そ、ちょっと！
 AERIS	AERITH
-Come on, let's go! Bodyguard!	さ、行きましょ！ボディーガードさん！}
+Come on, let's go! Bodyguard!	さ、行きましょ！ボディーガードさん！
 [SAVE POINT]	【セーブポイント】
 Access the Menu and select	メニューを開いて　セーブ　を選ぶと
 [SAVE] to save your game.	ゲームの状態を保存できます。
@@ -305,7 +305,7 @@ A really weird guy lives inside of some Huge Materia! And then there were 9 litt
 Huh? Oh, uh, no, I uh… really didn't see it myself…I uh, well, it was more like a, whaddya call…rumor I heard.	……え？あ、いや、あの、ホントに見たというよりは、ホラ、風のウワサというか、その……
 All right. It was a lie. I just made it up because nothing's been happening around here lately.	すみません、ウソでした。さいきんスゴイものを見ていないのでつい……
 AERIS	AERITH
-You mean that's…	それってひょっとして……}
+You mean that's…	それってひょっとして……
 [SAVE POINT]	【セーブポイント】
 Access the Menu and select	メニューを開いて　セーブ　を選ぶと
 [SAVE] to save your game.	ゲームの状態を保存できます。
@@ -348,10 +348,10 @@ What am I doing? I'm walking around looking at the ground.	何をしてるかっ
 You find a lot of things people dropped when you look down. You never find them when you're looking up. Right?	下にはいろいろ落ちてるけど上を見たって何も落ちてきやしないもの。でしょ？
 Never thought that would come tumbling down. Maybe I better walk around looking up from now on.	あんなものが落ちてくるなんて……これからは上を向いて歩いていこうっと
 I'm not going to look up or down! From now on I'm just going to look straight ahead.	もう下を見るのも上を見るのもやめた！これからは前を向いて歩いていくの！
-Maybe not. I'm just flapping my gums. I really wonder how things will turn out.	なーんてね。そんな強がり言ってる場合じゃないのよね……いったいどうなっちゃうのかな}
+Maybe not. I'm just flapping my gums. I really wonder how things will turn out.	なーんてね。そんな強がり言ってる場合じゃないのよね……いったいどうなっちゃうのかな
 Item Store	アイテム屋
 Hmmm,… …hmph…we only trade items for gil here.	……ジロジロ…………フン、アイテムは金と引き換えだよ
-Hmmm,… …hmph…we only trade items for gil here. No matter what.	……ジロジロ……フン、金さえだしゃアイテムはやるよ。何があろうとね……}
+Hmmm,… …hmph…we only trade items for gil here. No matter what.	……ジロジロ……フン、金さえだしゃアイテムはやるよ。何があろうとね……
 Materia store	マテリア屋
 I don't care if it's scrap metal or Materia. We can get anything here in the slums.	スクラップだろうがマテリアだろうが！このスラムで、手に入らないものはない！
 Got a lot of good Materia here. Why don't you look it over?	いいマテリアがそろってるぜ。見てってくんな！
@@ -375,7 +375,7 @@ Any passengers getting off at Midgar should please ring.	お降りのお客様�
 You know, Midgar's supposed to be sparkly 'n' springy 'n' sleeky.	ミッドガルってさあ。キラキラでグイーングイーンでシャキーンシャキーンなんだって
 Oh yeah. Someday, I'm goin' there.	いいなあ。行ってみたいなあ
 Meteor's getting closer. You can hear it rumbling.	ゴオオ……ゴオオ……って星がちかづいてくるんだよ
-We don't do something about it and pretty soon it'll be…ker-blam!	はやくなんとかしないとドッカーンだよ……！}
+We don't do something about it and pretty soon it'll be…ker-blam!	はやくなんとかしないとドッカーンだよ……！
 House 1f.	民家１階
 Uh, test, test… This is a dummy message. A test. Is it coming through?	あ～テステス……これはダミーのメッセージテストってヤツだな。ちゃんとでてるかい？
 Hmph……! Everything President Shinra says is a lie.	ケッ……！プレジデント神羅の言うことなんてみんなうそっぱちさ
@@ -399,7 +399,7 @@ Tomorrow's weather will be overcast most of the day, with a slight chance of sho
 The cause of the accident is still unclear at this time, however, according to some sources it is believed to have something to do with the terrorist group, AVALANCHE.	事故の原因はなお不明ですが関係者によると、カンパニーに対する破壊活動で手配されているテロ組織　アバランチ　による犯行声明が出されたとの情報もあり、現在その……
 Citizens, unite! Come to the light, Mako energy.	集え、民衆よ！魔晄の光のもとへ！！
 Power is Truth Shinra is the future. Real happiness can be found in obedience to the company!	力こそ真理神羅こそ未来！カンパニーにしたがうことこそしょくんの幸福である！
-……ga…… g, ga ga………………	……ガー……ガ、ガガー……}
+……ga…… g, ga ga………………	……ガー……ガ、ガガー……
 House 2f.	民家２階
 glug…glug…	グーグー……
 Now…no one… will find it…num…	……これで……だれにも……みつからムニャムニャ……
@@ -452,12 +452,12 @@ Yeah!	うん！
 Sure!	うん！
 They're purrty!	きれいだねえ！
 I'm gonna water them later…	あとで、おみずあげますからね～
-Hey! Where's the flower lady?	あれっ？おねえちゃんは？}
+Hey! Where's the flower lady?	あれっ？おねえちゃんは？
 church in the slums	スラムの教会
 AERIS	AERITH
 I'm home, Mom.	ただいま、お母さん
 CLOUD	CLOUD
-Yeah.	ああ}
+Yeah.	ああ
 AERIS	AERITH
 This is CLOUD. My bodyguard.	この人、CLOUD。わたしのボディーガードよ
 Elmyra	エルミナ
@@ -543,7 +543,7 @@ You should have…	あんたにはねぇ……
 an older girlfriend, one that'll take care of you.	ちょっとお姉さんであんたをグイグイ引っ張っていく
 I think that would be best for you.	そんな女の子がピッタリだと思うんだけどね
 CLOUD	CLOUD
-I'm not interested.	……興味ないな}
+I'm not interested.	……興味ないな
 CLOUD	CLOUD
 …I must've fallen asleep.	……いつのまにか眠ってしまったのか
 CLOUD	CLOUD
@@ -551,7 +551,7 @@ Sector 7's past Sector 6… I should be all right by myself…	６番街をこ�
 AERIS	AERITH
 CLOUD! I thought the Turks came back! Get some rest!	もう！　またタークス、来たのかと思ったじゃない！おとなしく休んで！
 CLOUD	CLOUD
-Can't get caught this time…	次はみつからないように……}
+Can't get caught this time…	次はみつからないように……
 Elmyra	エルミナ
 That glow in your eyes… you're from SOLDIER, right?	あんたのその目の輝きは……ソルジャーなんだろ？
 CLOUD	CLOUD
@@ -560,9 +560,9 @@ Elmyra	エルミナ
 … I don't know how to say this, but…	………。言いにくいんだけど…
 could you please leave here tonight, without telling AERIS?	今夜のうちに出ていってくれないかい？AERITHにはないしょでさ
 Elmyra	エルミナ
-SOLDIER…the last thing AERIS needs is to get hurt again.	ソルジャーなんて……またAERITHが悲しい思いをすることになる……}
+SOLDIER…the last thing AERIS needs is to get hurt again.	ソルジャーなんて……またAERITHが悲しい思いをすることになる……
 CLOUD	CLOUD
-Through Sector 6 to get to Sector 7. I should be able to do it alone…	６番街をこえて７番街へ、か。一人でなんとかなりそうだな}
+Through Sector 6 to get to Sector 7. I should be able to do it alone…	６番街をこえて７番街へ、か。一人でなんとかなりそうだな
 AERIS's House	の家
 [Save Point]	【セーブポイント】
 Access the Menu and select	メニューを開いて　セーブ　を選ぶと
@@ -580,7 +580,7 @@ AERIS	AERITH
 You have to go through the slum in Sector 6 to get to TIFA's 7th Heaven.	TIFAさんのいる【セブンスヘブン】はこの先のスラム【６番街】を通らないといけないの
 I'll take you there. Come on!	案内してあげる。さ、行きましょ！
 Huh? Who the hell're you? Who do ya think you're talkin' to!?	ン～？このへんじゃ見ねえカオだな。シッシッ！
-Aaaaah…what a drag. You wanna go to that store in Sector 6 again?	あ～あ……たいくつだぜ。また６番街スラムの例の店に行ってみっかな……}
+Aaaaah…what a drag. You wanna go to that store in Sector 6 again?	あ～あ……たいくつだぜ。また６番街スラムの例の店に行ってみっかな……
 AERIS	AERITH
 The gate to Sector 7's in there.	この奥に７番街へのゲートがあるの
 CLOUD	CLOUD
@@ -644,6 +644,6 @@ That girl in the cart was TIFA? Where was she going? She looked kind of odd…	�
 CLOUD	CLOUD
 Wait!	まて！
 CLOUD	CLOUD
-I'll go on alone! You go home!	俺ひとりでいい！あんたは帰れ！}
+I'll go on alone! You go home!	俺ひとりでいい！あんたは帰れ！
 Sector 6 park	６番街公園
 Sector 6	６番街

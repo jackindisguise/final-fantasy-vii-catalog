@@ -146,7 +146,7 @@ AERIS	AERITH
 “How about	「デート、１回！」
 if I go out with you once?”	
 “Don't mind me.”	「オレにかまうな、だと」
-“I'll give you a little more time.”	「もう少し、時間をやるぞ、と」}
+“I'll give you a little more time.”	「もう少し、時間をやるぞ、と」
 CLOUD	CLOUD
 “I don't know who you are, but…”	「どこの誰だか知らないが……」
 CLOUD	CLOUD
@@ -180,7 +180,7 @@ Reno	レノ
 “They were…Mako eyes.”	「……魔晄の目」
 Reno	レノ
 “Hmm.	「ま、いいか。
-All right, c'mon, get to work.”	さ、お仕事お仕事、と」}
+All right, c'mon, get to work.”	さ、お仕事お仕事、と」
 Reno	レノ
 “They were…Mako eyes.”	「あれは………魔晄の目」
 Reno	レノ
@@ -192,7 +192,7 @@ Reno	レノ
 “And don't step on the flowers…”	「お花、ふまないでね…だと」
 “You just stepped on them yourself!”	「レノさん、ふんだ！」
 “They're ruined!”	「花、ぐしゃぐしゃ！」
-“You're gonna catch holy hell!”	「怒られる～！」}
+“You're gonna catch holy hell!”	「怒られる～！」
 Inside the Church	教会奥
 Church Roof	教会屋根裏
 Here's a barrel.	「タル」がある。
@@ -267,7 +267,7 @@ AERIS	AERITH
 the hole in the roof.”	外に出ましょう」
 AERIS	AERITH
 “Jump off that beam,	「倒れたハリ、つたって行けば
-and we should be able to make it	屋根の上、出られるから」}
+and we should be able to make it	屋根の上、出られるから」
 through to the roof.”	
 Church	教会
 	
@@ -319,7 +319,7 @@ But I don't want to	でも、あんなヤツらに
 get caught	つかまるのはイヤ！」
 by THOSE people!”	
 CLOUD	CLOUD
-“Then, let's go!”	「それじゃあ、行くぞ！」}
+“Then, let's go!”	「それじゃあ、行くぞ！」
 Sector 5 Slum	５番街スラム
 	
 CLOUD	CLOUD
@@ -362,7 +362,7 @@ AERIS	AERITH
 “Right, nothing!”	「そ、ちょっと！」
 AERIS	AERITH
 “Come on, let's go!	「さ、行きましょ！
-Bodyguard!”	ボディーガードさん！」}
+Bodyguard!”	ボディーガードさん！」
 	
 [SAVE POINT]	【セーブポイント】
 Access the Menu and select	メニューを開いて　セーブ　を選ぶと
@@ -436,7 +436,7 @@ I just made it up because	さいきんスゴイものを
 nothing's been happening around	見ていないのでつい……」
 here lately.”	
 AERIS	AERITH
-“You mean that's…”	「それってひょっとして……」}
+“You mean that's…”	「それってひょっとして……」
 [SAVE POINT]	【セーブポイント】
 Access the Menu and select	メニューを開いて　セーブ　を選ぶと
 [SAVE] to save your game.	ゲームの状態を保存できます。
@@ -529,7 +529,7 @@ look straight ahead.”	これからは前を向いて
 “Maybe not.	「なーんてね。
 I'm just flapping my gums.	そんな強がり言ってる
 I really wonder how things	場合じゃないのよね……
-will turn out.”	いったいどうなっちゃうのかな」}
+will turn out.”	いったいどうなっちゃうのかな」
 Item Store	アイテム屋
 	
 “Hmmm,…	「……ジロジロ……
@@ -538,7 +538,7 @@ for gil here.”	金と引き換えだよ」
 “Hmmm,…	「……ジロジロ……
 …hmph…we only trade items	フン、金さえだしゃ
 for gil here.	アイテムはやるよ。
-No matter what.”	何があろうとね……」}
+No matter what.”	何があろうとね……」
 Materia store	マテリア屋
 	
 “I don't care if it's scrap metal	「スクラップだろうが
@@ -594,7 +594,7 @@ Someday, I'm goin' there.”	行ってみたいなあ」
 “Meteor's getting closer.	「ゴオオ……ゴオオ……って
 You can hear it rumbling.”	星がちかづいてくるんだよ」
 “We don't do something about it	「はやくなんとかしないと
-and pretty soon it'll be…ker-blam!”	ドッカーンだよ……！」}
+and pretty soon it'll be…ker-blam!”	ドッカーンだよ……！」
 House 1f.	民家１階
 	
 “Uh, test, test…	「あ～テステス……
@@ -665,7 +665,7 @@ Shinra is the future.	神羅こそ未来！
 Real happiness can be found	カンパニーにしたがうことこそ
 in obedience to the company!”	しょくんの幸福である！」
 “……ga……	「……ガー……
-g, ga ga………………”	ガ、ガガー……」}
+g, ga ga………………”	ガ、ガガー……」
 House 2f.	民家２階
 	
 “glug…glug…”	「グーグー……」
@@ -743,13 +743,13 @@ AERIS	AERITH
 “They're purrty!”	「きれいだねえ！」
 “I'm gonna water them later…”	「あとで、おみずあげますからね～」
 “Hey!	「あれっ？
-Where's the flower lady?”	おねえちゃんは？」}
+Where's the flower lady?”	おねえちゃんは？」
 	
 church in the slums	スラムの教会
 AERIS	AERITH
 “I'm home, Mom.”	「ただいま、お母さん」
 CLOUD	CLOUD
-“Yeah.”	「ああ」}
+“Yeah.”	「ああ」
 AERIS	AERITH
 “This is CLOUD.	「この人、CLOUD。
 My bodyguard.”	わたしのボディーガードよ」
@@ -865,7 +865,7 @@ take care of you.”	あんたをグイグイ引っ張っていく」
 “I think that would be best for you.”	「そんな女の子が
 	ピッタリだと思うんだけどね」
 CLOUD	CLOUD
-“I'm not interested.”	「……興味ないな」}
+“I'm not interested.”	「……興味ないな」
 CLOUD	CLOUD
 “…I must've fallen	「……いつのまにか
 asleep.”	眠ってしまったのか」
@@ -877,7 +877,7 @@ AERIS	AERITH
 I thought the Turks	思ったじゃない！
 came back! Get some rest!”	おとなしく休んで！」
 CLOUD	CLOUD
-“Can't get caught this time…”	「次はみつからないように……」}
+“Can't get caught this time…”	「次はみつからないように……」
 Elmyra	エルミナ
 “That glow in your eyes…	「あんたのその目の輝きは……
 you're from SOLDIER, right?”	ソルジャーなんだろ？」
@@ -893,10 +893,10 @@ without telling AERIS?”	出ていってくれないかい？
 Elmyra	エルミナ
 “SOLDIER…the last thing AERIS	「ソルジャーなんて……
 needs is to get hurt again.”	またAERITHが悲しい思いを
-	することになる……」}
+	することになる……」
 CLOUD	CLOUD
 “Through Sector 6 to get to Sector 7.	「６番街をこえて７番街へ、か。
-I should be able to do it alone…”	一人でなんとかなりそうだな」}
+I should be able to do it alone…”	一人でなんとかなりそうだな」
 AERIS's House	の家
 [Save Point]	【セーブポイント】
 Access the Menu and select	メニューを開いて　セーブ　を選ぶと
@@ -921,7 +921,7 @@ Who the hell're you? Who	このへんじゃ見ねえカオだな。
 do ya think you're talkin' to!?”	シッシッ！」
 “Aaaaah…what a drag.	「あ～あ……たいくつだぜ。
 You wanna go to that store in	また６番街スラムの
-Sector 6 again?”	例の店に行ってみっかな……」}
+Sector 6 again?”	例の店に行ってみっかな……」
 AERIS	AERITH
 “The gate to Sector 7's in there.”	「この奥に７番街へのゲートがあるの」
 CLOUD	CLOUD
@@ -1006,7 +1006,7 @@ CLOUD	CLOUD
 “Wait!”	「まて！」
 CLOUD	CLOUD
 “I'll go on alone!	「俺ひとりでいい！
-You go home!”	あんたは帰れ！」}
+You go home!”	あんたは帰れ！」
 	
 Sector 6 park	６番街公園
 Sector 6	６番街

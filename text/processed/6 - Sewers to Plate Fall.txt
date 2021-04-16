@@ -23,7 +23,7 @@ You're tired. Why don't you take a couple of days off and go somewhere.	君は�
 President Shinra	プレジデント神羅
 We'll destroy Sector 7 and report that AVALANCHE did it. Then we'll send in the rescue operation, care of Shinra, Inc…. Heh, heh, heh…this is perfect.	７番街を破壊する。アバランチの仕業として報道する。神羅カンパニーによる救助活動。フフフ……かんぺきだ
 Heidegger	ハイデッカー
-Gya, haaa, haa!	ガハハハ！}
+Gya, haaa, haa!	ガハハハ！
 Sewer	地下下水道
 TIFA	TIFA
 Man! This is terrible.	もう！サイテーね、これ
@@ -49,7 +49,7 @@ AERIS, I got you mixed up in this…	AERITH。すっかり巻きこんでしま�
 AERIS	AERITH
 Don't tell me to go home.	ここから帰れ！な～んて言わないでね
 TIFA	TIFA
-If we can just get past the trains that are lit up, we should be able to get out of here.	え～と……明かりのついている車両を抜けて行けば出られそうね}
+If we can just get past the trains that are lit up, we should be able to get out of here.	え～と……明かりのついている車両を抜けて行けば出られそうね
 [Save Point]	【セーブポイント】
 Received "Hi-Potion"!	『ハイポーション』を手にいれた！
 Received "Ether"!	『エーテル』を手にいれた！
@@ -132,7 +132,7 @@ Umm… I just LOVE men with a sense of duty. Let me stay here with you.	うん�
 B, but… What happens if AVALANCHE shows up?	あ、あの……アバランチの人たちだいじょうぶかな？
 Umm…you're shaking. You're so gentle…I think I'm in love.	うん…あなた、ふるえてるのね？やさしい人…好きよ
 Doh! And this was supposed to be my last job! Do something!!	おう！　これが俺の最後の仕事だ！登ってけ！！
-I never thought this would ever happen to me! Great… I'm quitting tomorrow!	こんなことになるなんてな！いい気分じゃねえ！明日、じひょうだ！}
+I never thought this would ever happen to me! Great… I'm quitting tomorrow!	こんなことになるなんてな！いい気分じゃねえ！明日、じひょうだ！
 Jessie	ジェシー
 …CLOUD… I'm glad……I could talk with you…one last time.	あ……CLOUD…… 最後に……話せて良かった……
 Don't say 'last'……	最後だなんて……
@@ -318,7 +318,7 @@ Damn! Marlene!!	そうだ！　マリン！！
 TIFA	TIFA
 AERIS said that Marlene was safe.	マリンはだいじょうぶってAERITHは言ってたけど……
 BARRET	BARRET
-TIFA. There ain't no turnin' back now.	TIFA。もう、あともどりはできねえんだ}
+TIFA. There ain't no turnin' back now.	TIFA。もう、あともどりはできねえんだ
 Sector 6 park	６番街公園
 You may not take on any more Materia.	これいじょうマテリアは持てません。
 Please discard some Materia.	なにかマテリアをすててください。
@@ -341,5 +341,5 @@ TIFA	TIFA
 Are you all right?	だいじょうぶ？
 BARRET	BARRET
 Pull it together, man!	しっかりしてくれよ！
-Sector 6	６番街}
+Sector 6	６番街
 In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet!	われこそ古代種の血をひきし者。この星の正統なる後継者！

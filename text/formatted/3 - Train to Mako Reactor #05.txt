@@ -287,7 +287,7 @@ Don't get used to it though.”	くせになるから気をつけな」
 Let me know when you need me.”	必要になったらいっとくれ」
 Received "Hi-Potion"!	「ハイポーション」を手にいれた！
 “Wha-t?	「あ～ん？
-You sure are greedy.”	あんた、がめついねえ」}
+You sure are greedy.”	あんた、がめついねえ」
 Inside Train	客車内
 Last train out of Sector 8 Station.	ミッドガル８番街ステーション発最終列車～
 Last stop is Sector 7, Train Graveyard.	終点、スラム７番街列車基場駅～
@@ -413,7 +413,7 @@ in this day and age?”	みぐるみはぐんですから」
 “Hmph!”	「チッ……！」
 “I know what you want to say.”	「わかってるよ。
 	いいたいこと」
-“Here, take it!”	「ほら、とっときな！」}
+“Here, take it!”	「ほら、とっときな！」
 Inside Train	客車内
 	
 Last stop is Sector 7‚Train Graveyard.	ミッドガル８番街ステーション発最終列車～
@@ -490,10 +490,10 @@ Biggs	ビッグス
 BARRET	BARRET
 “Yo!!	「おう！！
 Ain't no time to waste!!”	時間がねえ！！」
-“…Do something!”	「……なんとかしてやれ！」}
+“…Do something!”	「……なんとかしてやれ！」
 BARRET	BARRET
 “Later!	「じゃな！
-You take care of the rest!”	あとしまつはたのんだっ！」}
+You take care of the rest!”	あとしまつはたのんだっ！」
 Winding Tunnel	螺旋トンネル
 4th Street Plate Int.	４番街プレート内部
 Lower Sector 4 Plate	４番街プレート下部
@@ -623,7 +623,7 @@ TIFA	TIFA
 “Sephiroth…SOLDIER…	「セフィロス……ソルジャー……
 Mako Reactors…Shinra…”	魔晄炉……神羅……ぜんぶ！」
 TIFA	TIFA
-“I hate them all!”	「ぜんぶ大キライ！」}
+“I hate them all!”	「ぜんぶ大キライ！」
 BARRET	BARRET
 “Damn man, get a hold of yourself!”	「おい、しっかりしてくれよ！」
 TIFA	TIFA
@@ -647,7 +647,7 @@ That ain't good enough.”	それだけじゃ不安なんでな」
 TIFA	TIFA
 “Let's hurry, CLOUD.”	「急ぎましょう、CLOUD」
 BARRET	BARRET
-“Alright, let's go.”	「よし、行くぞ」}
+“Alright, let's go.”	「よし、行くぞ」
 Blin66_1-5, BLIN67_all, BLIN68_all, pillar_1-3, smkin_1	
 [Blin66_1 is missing, so I’ve had to piece this together as best I could]	
 TIFA	TIFA
