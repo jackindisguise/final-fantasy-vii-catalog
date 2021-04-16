@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.5...v0.0.6) (2021-04-16)
+
+
+### Bug Fixes
+
+* All important metadata is stored in the kanji table. ([614db0a](https://github.com/nowotato/final-fantasy-7-script/commit/614db0ada476a88913249bff96627358d247409b))
+* Moved relevant NPM files to root. ([7e391ab](https://github.com/nowotato/final-fantasy-7-script/commit/7e391abeecde7f1f7f29c258f8d818a15ecba80b))
+* Moving changelog to root directory. ([8f44f23](https://github.com/nowotato/final-fantasy-7-script/commit/8f44f23cf812042fdd571405b7ec01a6b47094e9))
+
 ### [0.0.5](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.4...v0.0.5) (2021-04-16)
 
 

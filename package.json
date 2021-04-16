@@ -1,6 +1,6 @@
 {
   "name": "script",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "How to Use\r ---\r This is the script I wrote to quickly associate dialogue lines between the English and Japanese scripts, based on how they're formatted in the source spreadsheet.",
   "main": "process.js",
   "scripts": {
