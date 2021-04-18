@@ -1,0 +1,1 @@
+These are auto-generated meta files showing each unique kanji that appears in the scene.

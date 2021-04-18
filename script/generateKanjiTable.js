@@ -13,6 +13,8 @@ let kanjiCount = 0;
 fs.readdir(folder, function(err, files){
 	if(err) return;
 	for(let file of files){
+		let uniqueKanjiInScene = [];
+		let newKanjiInScene = [];
 		let complete = folder+file;
 		if(complete.indexOf(".txt") === -1) continue;
 		let data = fs.readFileSync(folder+file, "utf8");
@@ -20,13 +22,20 @@ fs.readdir(folder, function(err, files){
 		let x = data.match(kanjiRule);
 		if(x) data.match(kanjiRule).forEach(function(value, index, results){
 			kanjiCount++;
+			if(uniqueKanjiInScene.indexOf(value) === -1) uniqueKanjiInScene.push(value); // track all unique kanji in this scene
 			if(!kanji[value]) { // create new entry
 				kanji[value] = {kanji:value, order:kanjiArray.length+1, occurrences:1};
+				newKanjiInScene.push(value); // track all new kanji in this scene
 				kanjiArray.push(kanji[value]);
 			} else { // update entry
 				kanji[value].occurrences++;
 			}
 		});
+
+		let uniqueKanjiFile = "../text/kanji/unique/" + file;
+		let newKanjiFile = "../text/kanji/new/" + file;
+		fs.writeFileSync(uniqueKanjiFile, uniqueKanjiInScene.join(""), "utf8");
+		fs.writeFileSync(newKanjiFile, newKanjiInScene.join(""), "utf8");
 	}
 
 	fs.writeFileSync("kanjiTable.json", JSON.stringify({unique:kanjiArray.length, total:kanjiCount, table:kanjiArray}, null, "\t"), "utf8");
