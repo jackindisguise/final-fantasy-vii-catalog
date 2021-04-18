@@ -1,7 +1,7 @@
 {
   "name": "final-fantasy-7-script",
   "version": "1.0.0",
-  "description": "How to Use\r ---\r This is the script I wrote to quickly associate dialogue lines between the English and Japanese scripts, based on how they're formatted in the source spreadsheet.",
+  "description": "Processing the Japanese and English Final Fantasy 7 script for quick and easy use.",
   "main": "process.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
