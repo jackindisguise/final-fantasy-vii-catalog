@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.7...v0.0.8) (2021-04-18)
+
+
+### Features
+
+* Added Scene 13: Yuffie. ([03cb540](https://github.com/nowotato/final-fantasy-7-script/commit/03cb5402ffd40745299b6531b4f0762665dca454))
+* Added Scene 14: Junon. ([89ec60a](https://github.com/nowotato/final-fantasy-7-script/commit/89ec60ad6ab1f54b3363a20e4321cefdd04440e8))
+
+
+### Bug Fixes
+
+* Fixed automated kanji script. Also, generated kanji data for last version. ([cacf0bb](https://github.com/nowotato/final-fantasy-7-script/commit/cacf0bba7f5e6ab48d91453efc3e060b6bc05f58))
+* Remember not to run standard-version from subdirectories. ([cfb18dc](https://github.com/nowotato/final-fantasy-7-script/commit/cfb18dc249b29e5a33c890391911b66e79d1625a))
+
 ### [0.0.7](https://github.com/nowotato/final-fantasy-7-script/compare/v0.0.6...v0.0.7) (2021-04-16)
 
 
