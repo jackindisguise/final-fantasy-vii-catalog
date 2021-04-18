@@ -25,4 +25,4 @@ Formatted scripts are stored in `/text/formatted`.
 
 Processed scripts are stored in `/text/processed`.
 
-Kanji metadata is stored `/text/kanji`.
+Data regarding kanji is stored in `/text/kanji`.
