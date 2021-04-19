@@ -2,8 +2,8 @@
 const fs = require("fs");
 
 // local includes
-const kanji = require("./kanjiTable");
-const directory = "../text/kanji/";
+const kanji = require("./kanji");
+const directory = "../kanji/";
 
 // generate kanji in order of appearance
 {
@@ -11,7 +11,7 @@ const directory = "../text/kanji/";
 	kanji.table.forEach(function(value, index){ data.push(value.kanji); });
 	fs.writeFileSync(directory+"appearance.txt", data.join(""), "utf8");
 }
-console.log("Generated kanji list sorted by appearance.")
+console.log("Generated kanji list sorted in order of appearance.")
 
 {
 	let data = [];
@@ -20,4 +20,4 @@ console.log("Generated kanji list sorted by appearance.")
 	fs.writeFileSync(directory+"occurences.txt", data.join(""), "utf8");
 }
 
-console.log("Generated kanji list sorted by occurrences.")
+console.log("Generated kanji list sorted in order of most to least occurrences.")

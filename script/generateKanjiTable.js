@@ -2,7 +2,10 @@
 const fs = require("fs");
 
 // local consts
-const folder = "../text/processed/";
+const inputFolder = "../scene/processed/";
+const outputFolderNewKanji = "../kanji/new/";
+const outputFolderUniqueKanji = "../kanji/unique/";
+const outputFile = "kanji.json";
 
 // local data
 let kanji = {};
@@ -10,14 +13,14 @@ let kanjiArray = [];
 let kanjiCount = 0;
 
 // read all processed texts and scrape kanji data
-fs.readdir(folder, function(err, files){
+fs.readdir(inputFolder, function(err, files){
 	if(err) return;
 	for(let file of files){
 		let uniqueKanjiInScene = [];
 		let newKanjiInScene = [];
-		let complete = folder+file;
+		let complete = inputFolder+file;
 		if(complete.indexOf(".txt") === -1) continue;
-		let data = fs.readFileSync(folder+file, "utf8");
+		let data = fs.readFileSync(inputFolder+file, "utf8");
 		let kanjiRule = /([\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A])/g;
 		let x = data.match(kanjiRule);
 		if(x) data.match(kanjiRule).forEach(function(value, index, results){
@@ -32,12 +35,13 @@ fs.readdir(folder, function(err, files){
 			}
 		});
 
-		let uniqueKanjiFile = "../text/kanji/unique/" + file;
-		let newKanjiFile = "../text/kanji/new/" + file;
+		let uniqueKanjiFile = outputFolderUniqueKanji + file;
+		let newKanjiFile = outputFolderNewKanji + file;
 		fs.writeFileSync(uniqueKanjiFile, uniqueKanjiInScene.join(""), "utf8");
 		fs.writeFileSync(newKanjiFile, newKanjiInScene.join(""), "utf8");
+		console.log(`Generated new and unique kanji list for scene '${file}'`)
 	}
 
-	fs.writeFileSync("kanjiTable.json", JSON.stringify({unique:kanjiArray.length, total:kanjiCount, table:kanjiArray}, null, "\t"), "utf8");
-	console.log("Generated Kanji table.")
+	fs.writeFileSync(outputFile, JSON.stringify({unique:kanjiArray.length, total:kanjiCount, table:kanjiArray}, null, "\t"), "utf8");
+	console.log("Generated kanji table.")
 });

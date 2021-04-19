@@ -4,7 +4,6 @@
   "description": "Processing the Japanese and English Final Fantasy 7 script for quick and easy use.",
   "main": "process.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "kanji": "cd script && node generateKanjiTable.js && node generateKanjiInOrder.js",
     "meta": "npm run kanji",
     "release": "standard-version"

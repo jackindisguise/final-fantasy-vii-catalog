@@ -2,8 +2,8 @@ const fs = require("fs");
 const process = require("./process");
 
 // local consts
-const formatted = "../text/formatted/";
-const processed = "../text/processed/";
+const formatted = "../scene/formatted/";
+const processed = "../scene/processed/";
 
 // read all formatted texts and process them
 fs.readdir(formatted, function(err, files){
