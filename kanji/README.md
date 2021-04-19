@@ -8,6 +8,10 @@ Kanji sorted in the order they appear in the script.
 ---
 Kanji sorted from most common to least common in the script.
 
+`COMPREHENSIVE.md`
+---
+Comprehensive data about the kanji in each scene.
+
 `new/`
 ---
 Each scene introduces some brand new kanji into the script.

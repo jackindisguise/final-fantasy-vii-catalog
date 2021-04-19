@@ -5,7 +5,7 @@ const fs = require("fs");
 const inputSceneFolder = "../scene/processed/";
 const inputNewFolder = "../kanji/new/";
 const inputUniqueFolder = "../kanji/unique/";
-const outputComprehensiveFile = "../kanji/comprehensive.md";
+const outputComprehensiveFile = "../kanji/COMPREHENSIVE.md";
 
 // kanji data
 const kanji = require("./kanji");
