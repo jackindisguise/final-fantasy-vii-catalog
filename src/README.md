@@ -16,7 +16,7 @@ Due to inconsistencies in the source spreadsheet, you have to do quite a lot of 
 * re-combining dialogue that was split into multiple boxes due to space requirements (and other reasons) in the translated text;
 * adding missing translations.
 
-The ultimate goal is to have it so that *the text in the English script has the exact same number of "lines" as the text in the Japanese script*. Once all this formatting is done, each line in the English script is attached to the same line in the Japanese script. Matching lines is the only important thing.
+The ultimate goal is to have it so that the text in the English script has the exact same number of "lines" as the text in the Japanese script. Once all this formatting is done, each line in the English script is attached to the same line in the Japanese script. Matching lines is the only important thing.
 
 The format of the processed text should be thus:
 
@@ -26,14 +26,19 @@ The format of the processed text should be thus:
 ---
 Processes the formatted script from `formatted.txt` and pops out the processed script in `processed.txt`.
 
-`autoprocess.js`
+`process_all.js`
 ---
-Automatically processes all formatted scenes in `../text/formatted`
+Automatically processes all formatted scenes in `../scene/formatted`
 
-`generateKanjiTable.js`
+`generate_kanji.js`
 ---
-Generates a Kanji table and stores it in `kanjiTable.JSON` for use in other scripts.
+Generates a Kanji table and stores it in `kanji.JSON` for use in other scripts.
 
-`generateKanjiInOrder.js`
+`generate_kanji_order.js`
 ---
-Creates kanji lists from `kanjiTable.JSON` and places them in `../text/kanji/`.
+Creates kanji lists from `kanji.JSON` and places them in `../kanji/`.
+
+
+`generate_scene_kanji.js`
+---
+Generate data regarding kanji in each scene and places it in `../kanji/COMPREHENSIVE.md`.
