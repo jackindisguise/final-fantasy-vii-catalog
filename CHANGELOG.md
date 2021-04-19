@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.2.0...v1.3.0) (2021-04-19)
+
+
+### Features
+
+* Added Scene 17: Corel. ([9899795](https://github.com/nowotato/final-fantasy-7-script/commit/9899795e89fa91a692ae3143eba77f1ebfc44628))
+* Added Scene 18: Gold Saucer and Corel Prison. ([15f38be](https://github.com/nowotato/final-fantasy-7-script/commit/15f38bef3f8bb5acd172c3a1e60201bc1f13269e))
+
 ## [1.2.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.1.0...v1.2.0) (2021-04-19)
 
 

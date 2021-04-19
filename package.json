@@ -1,10 +1,10 @@
 {
   "name": "final-fantasy-7-script",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Processing the Japanese and English Final Fantasy 7 script for quick and easy use.",
   "main": "process.js",
   "scripts": {
-	"process": "cd src && node process_all",
+    "process": "cd src && node process_all",
     "kanji": "cd src && node generate_kanji && node generate_kanji_order && node generate_scene_kanji",
     "meta": "npm run kanji",
     "release": "standard-version",
