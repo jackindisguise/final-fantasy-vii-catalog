@@ -2,7 +2,7 @@ const fs = require("fs");
 let data = fs.readFileSync("../CHANGELOG.md", "utf8");
 
 // latest version
-let rule = /### \[(.*?)\]\((.*?)\) (.+)/;
+let rule = /## \[(.*?)\]\((.*?)\) (.+)/;
 let result = rule.exec(data);
 let version = result[1];
 let link = result[2];
