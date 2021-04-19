@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.1.0...v1.2.0) (2021-04-19)
+
+
+### Features
+
+* Working on adding a more comprehensive interpretation of kanji data. ([acba0c6](https://github.com/nowotato/final-fantasy-7-script/commit/acba0c6fd1a377e756dbdb7cd1b3d5d347d9a21a))
+
+
+### Bug Fixes
+
+* Adding more useful data. ([bfb1d86](https://github.com/nowotato/final-fantasy-7-script/commit/bfb1d86706aeb391daccfdac79d06d126889b929))
+* I think I'm liking this format for the comprehensive kanji markdown. ([e358459](https://github.com/nowotato/final-fantasy-7-script/commit/e358459ba2dc3083433843e66d500481c43b769c))
+* Maybe just make 1 file for the comprehensive info? ([b65b8e4](https://github.com/nowotato/final-fantasy-7-script/commit/b65b8e4940a638e8582d3acb30ca3c18114756f8))
+* Moved /script to /src. Changed script names. Changed some file names. ([77a2f34](https://github.com/nowotato/final-fantasy-7-script/commit/77a2f34c370a6e50c0aff28d262c33d7d5c133c1))
+* Rearranged file structure a little bit. ([3e1179c](https://github.com/nowotato/final-fantasy-7-script/commit/3e1179c200339b305c1e145615a91b3f581280f2))
+* updated readme. ([b992692](https://github.com/nowotato/final-fantasy-7-script/commit/b9926928caf40111dfe8f0704f50b3843772473f))
+* Updated some readmes. I don't like how they read. ([f2a9194](https://github.com/nowotato/final-fantasy-7-script/commit/f2a9194c3ddf94d34ff952d38f1c1b8baffcae6a))
+
 ## [1.1.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.0.0...v1.1.0) (2021-04-18)
 
 
