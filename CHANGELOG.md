@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.3.0...v1.4.0) (2021-04-19)
+
+
+### Features
+
+* Added Scene 19: Gongaga. ([5ec8d0e](https://github.com/nowotato/final-fantasy-7-script/commit/5ec8d0e563acd472ae28a56ac583c9af3a3b14a7))
+
+
+### Bug Fixes
+
+* `/kanji/README.md` has been replaced with the comprehensive kanji list. ([897178b](https://github.com/nowotato/final-fantasy-7-script/commit/897178b65aad13500a1bef13703597800c744f3b))
+
 ## [1.3.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.2.0...v1.3.0) (2021-04-19)
 
 
