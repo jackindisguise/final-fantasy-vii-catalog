@@ -1,0 +1,499 @@
+Gongaga Village	ゴンガガ
+Jungle	ジャングル
+Meltdown Reactor	メルトダウン魔晄炉
+Weapons Store	武器屋
+Item Store	アイテム屋
+Inn	宿屋
+Residence	民家
+Zack's Home	ザックスの実家
+Mayor's Home	村長の家
+Received "Titan" Materia!	『タイタン』のマテリアを手にいれた！
+Cannot take on anymore Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+Received "Deathblow" Materia!	『ひっさつ』のマテリアを手にいれた！
+Received "X-Potion"!	『エクスポーション』を手にいれた！
+Received "White M-phone"!	『ホワイトメガホン』を手にいれた！
+“You a traveller? Hey wait,	「旅の人かい……おんや？
+that glow in your eye…	あんたのその目の輝きは……
+Are you in SOLDIER?”	ソルジャーさんだね？」
+Grandma	おばあさん
+“Oh, you're right!	「あらあらホントだよ！
+Don't you know anything	あんたウチの息子を知らないかい？」
+about our son?”	
+Grandpa	おじいさん
+“His name is Zack.”	「ザックスっちゅう名前なんだが」
+Grandma	おばあさん
+“It's been close to 10 years since	「こんなイナカじゃくらせないとか
+he left for the city, saying that	言い残して都会へいったまま
+he didn't want to live in the country…”	もう、かれこれ１０年近く……」
+Grandpa	おじいさん
+“He left saying	「ソルジャーになるっちゅうて
+he's going to join SOLDIER.	村を飛び出したんだ
+You ever hear of a Zack in SOLDIER?”	あんた、知らないかい？
+	ソルジャーのザックス」
+CLOUD	CLOUD
+“Hmmm…I don't know.”	「さあ……知らないな」
+TIFA	TIFA
+“Zack…”	「……ソルジャーのザックス……」
+Grandpa	おじいさん
+“Young lady, you know him?”	「娘さん、知ってるのかい？」
+Grandma	おばあさん
+“I remember he wrote us 6 or 7 years ago	「そういえば６、７年前に手紙がきて
+saying that he had a girlfriend.	ガールフレンドができましたって
+Could that have been you?”	書いてあったけど、あんたかい？」
+TIFA	TIFA
+“…No, it wasn't.”	「……ちがいます」
+AERIS	AERITH
+“Zack…”	「ザックス……」
+Grandpa	おじいさん
+“Do you know him, young lady?”	「娘さん、知ってるのかい？」
+AERIS	AERITH
+“What a shock…	「……この村にザックスの家が
+I didn't know Zack was	あるなんて知らなかったから
+from this town.”	びっくりしちゃった」
+CLOUD	CLOUD
+“You know him?”	「知ってるヤツか？」
+AERIS	AERITH
+“Didn't I tell you?	「いつか話さなかった？
+He was my first love.”	わたし、初めて好きになった人」
+CLOUD	CLOUD
+“…”	「…………」
+AERIS	AERITH
+“Zack…	「ザックス……
+SOLDIER First Class.	ソルジャー・クラス１ＳＴ。
+Same as CLOUD.”	CLOUDと同じ」
+CLOUD	CLOUD
+“Strange, there aren't that	「クラス１ＳＴなんて何人も
+many who make First Class,	いないはずだ。
+but I've never heard of him.”	でも俺は知らないな」
+AERIS	AERITH
+“That's all right.	「別にかまわないの。
+It's all in the past now.	むかしのことだしね。
+I was just worried	ただ、行方不明だから心配なだけ」
+because I heard he's been missing.”	
+CLOUD	CLOUD
+“Missing?”	「行方不明？」
+AERIS	AERITH
+“I think it was five years ago.	「５年前かな。
+He went out on a job,	仕事で出かけてそれっきり」
+and never came back.”	
+AERIS	AERITH
+“He loved women, a real lady's man.	「女の子が大好きなヤツだったからね。
+He probably found someone else…”	どこかで知り合った子と
+	仲良くなっちゃったのよ、きっと」
+AERIS	AERITH
+“Hey? What's wrong?”	「あれ？　どうしたの？」
+Poor guy	それは心配だな
+(…jealous…envious…)	（やきもち……しっと……）
+AERIS	AERITH
+“I don't really mind	「いいんだけど、べつに。
+that I haven't heard from him.	でも、ご両親にくらい連絡すれば
+But I feel for his parents.”	いいのにね」
+AERIS	AERITH
+“Are you…jealous?	「もしかして……やきもちやいてる？
+Hmm?  Hmmm?	ん？　んん？
+Are you, CLOUD?”	どうなのかな、CLOUDくん？」
+AERIS	AERITH
+“I'm kidding. I'm sorry.”	「な～んて、ごめんね」
+AERIS	AERITH
+“I was hoping maybe you were…”	「そうだったら
+	うれしい……かな」
+CLOUD	CLOUD
+“AERIS…”	「AERITH……」
+AERIS	AERITH
+“Let's go, CLOUD.”	「行きましょ、CLOUD」
+TIFA	TIFA
+“Zack…”	「ザックス……」
+CLOUD	CLOUD
+“Do you know him?”	「知ってるのか？」
+TIFA	TIFA
+“N, no, I don't know him!”	「い、いいえ、知らないわ！」
+CLOUD	CLOUD
+“Your face tells me differently.”	「いかにも知ってるって顔してるぞ」
+TIFA	TIFA
+“I told you, I don't!”	「知らないんだってば！」
+CLOUD	CLOUD
+“All right.”	「わ、わかったよ」
+TIFA	TIFA
+“…”	「…………」
+TIFA	TIFA
+“That sounds just like you,	「でもさ、ソルジャーになるっ！
+leaving town, and saying	なんて言い残して村を出たなんて
+I'm joining SOLDIER!'.”	まるでCLOUDみたいね」
+CLOUD	CLOUD
+“There were a lot of guys	「あのころは、そういうヤツが
+like that back then.”	たくさんいたんだろうな」
+TIFA	TIFA
+“You must really be something	「そんなたくさんのなかから
+making it in SOLDIER	ソルジャーになるなんて
+out of a group like that.”	CLOUD、えらいえらい」
+“I really respect you…”	「そんけいしちゃうなぁ……」
+I just got lucky	運が良かっただけさ
+I worked hard for it	がんばったからな
+TIFA	TIFA
+“Don't be so humble!”	「けんそんしちゃってぇ！」
+TIFA	TIFA
+“Hard work pays off, huh.”	「努力はむくわれるってわけね」
+TIFA	TIFA
+“You know…”	「あのね……」
+“I'm as proud of CLOUD	「CLOUDがソルジャーになったの
+joining SOLDIER	私、自分のことみたいに
+as if it were me.”	ほこらしいのよ」
+TIFA	TIFA
+“CLOUD,	「CLOUD
+thanks for caring.”	心配してくれてありがとう。」
+“A reactor explosion three years ago	「３年前の魔晄炉爆発事故で
+took my husband…”	夫は……」
+“Do people really need	「はたして、人が生きていくのに
+reactors to live?”	魔晄炉が必要なのでしょうか？」
+“Aren't there more important	「もっと大切なことがあるのでは
+things in life?”	ないでしょうか……？」
+“You want something?”	「ほお……何か用かい？」
+Buy weapons?	武器を買いたい
+Hear a story?	話を聞きたい
+Nothing in particular	特に用事はない
+“Huh, did you want something?”	「え……何の用かしら？」
+Buy accessories?	アクセサリーを買いたい
+Hear a story?	話を聞きたい
+Nothing in particular	特に用事はない
+“Uh, need somethin'?”	「ああ……何か用か？」
+Need a room?	宿泊したい
+Hear a story?	話を聞きたい
+Nothing in particular	特に用事はない
+“Oh, you here to shop?”	「おお……買いものにきたのか？」
+Buy items?	アイテムを買いたい
+Hear a story?	話を聞きたい
+Nothing in particular	特に用事はない
+Mayor	村長
+“This is Gongaga Village.	「ここは、ゴンガガ村。
+Many people died here in a	魔晄炉の爆発事故のために
+Mako reactor explosion.”	多くの人々を失った村じゃ」
+Mayor	村長
+“The Shinra people told us	「神羅のものたちは、魔晄炉が
+that everyone would be happy	できれば幸せになると言いおった。
+once the reactor was built.	しかし、魔晄炉はわしらに
+But all it brought us was sadness…”	悲しみしか与えなかった……」
+“…”	「…………」
+“Shinra built the reactor,	「神羅のやつらは、村の安全など
+without even thinking about	考えずに、魔晄炉を建設した。
+the town's safety.	その結果が、これさ」
+And, this is the result.”	
+“One day, a huge explosion.	「ある日、魔晄炉が大爆発を起こした。
+killed many of the townspeople…”	その事故に巻きこまれて
+	多くの村人が死んでしまった……」
+“It's been a while since the explosion,	「魔晄炉の爆発事故が起こってから
+but you can still find the	ずいぶんたつが、そのつめあとは
+pieces it left all over town.”	いまだに村のあちこちに残っている」
+“We voted to outlaw the use of	「わたしたちゴンガガ村の住人は
+Mako energy and live with nature,	魔晄炉の爆発事故があってからは
+ever since the explosion.”	魔晄エネルギーの利用を止めて
+	自然とともに生きることを選んだの」
+“People can live without	「神羅の魔晄炉がなくても
+the Shinra's Mako Reactors.”	人は生きていけるのよ」
+“No matter how much I pray,	「いくら　いのっても
+it won't bring our grandson back…”	死んだマゴはかえってこん……」
+“…You don't have enough money.	「……金が足りないな。
+Come back when you get some.”	金をためてから、来るんだな」
+“It's 80 Gil a night.”	「一泊８０ギルだぜ」
+Pay up	８０ギル払う
+Don't pay	払わない
+“There's something shiny back there…”	「奥の方に、何か光るものがある……」
+Don't do anything	何もしない
+Reach for it	手をのばしてみる
+“A ruined reactor.”	「壊れた魔晄炉……」
+CLOUD	CLOUD
+“AERIS…”	「AERITH……」
+CLOUD	CLOUD
+“TIFA…	「TIFA……
+What happened?”	いったい、どうしたんだ？」
+CLOUD	CLOUD
+“What happened to you two?”	「ふたりとも、どうしたんだ？」
+CLOUD	CLOUD
+“…Zack.”	「……ザックス」
+“Zack.	「ソルジャーのザックス。
+I don't know anything	おれは、そんな男、知らない」
+about that man.”	
+“…But	「しかし……
+That name sounds familiar…”	その名前には、聞き覚えがある……」
+“Why?”	「なぜだ……！？」
+AERIS	AERITH
+“That can't…”	「そんな……」
+Grandpa	おじいさん
+“Have you ever met someone	「なあ、あんた
+in SOLDIER named Zack?”	ザックスっちゅうソルジャーに
+	会ったことはないかの？」
+Grandma	おばあさん
+“I can't believe he hasn't	「１０年も連絡もよこさんとは……
+contacted us in 10 years…!	なんちゅう息子じゃ」
+…After all, we're his parents.”	
+“It's 300 Gil a night.”	「一泊３００ギルだぜ」
+Pay 300 Gil	３００ギル払う
+Don't pay	払わない
+“I am a traveling salesman,	「わたしは、世界を旅する行商人。」
+going around the world.”	
+“I came because I heard that near	「このゴンガガ村の近くに
+this village was Materia strong	『大地をゆるがす力を持つマテリア』
+enough to shake the earth.”	があると聞いて、来てみたのだが……」
+“Even I get homesick and want	「そんなわたしだが、むしょうに
+to see my family.”	家族に会いたくなることがある」
+“I have a favor to ask of you.	「そこであなたに、たのみがある。
+Can you get this letter to my lovely wife?”	どうかわたしの愛する奥さんに
+	この手紙をとどけてもらいたい」
+“Will you do it for me?”	「おねがいできるだろうか？」
+Take the letter	手紙を受け取る
+Not interested	興味ないね
+“My wife lives in Kalm.	「わたしの愛する奥さんは
+I really appreciate this.”	カームの町に住んでいる。
+	どうか、よろしくたのむ」
+“What's going on	「なんということだ……
+in a world about to end?	死が目前に迫っているこの世界では
+Is kindness the first to vanish?”	もはや人情もかれはてたか……」
+“They sell the weapons	「武器は、２階で売っているわ。
+on the second floor.	そこの柱をのぼってちょうだい」
+Climb up the pole to get there.”	
+“Lifestream?	「ライフストリーム？
+Never heard of it.”	そんなもの、聞いた事ないわ」
+“Planet structure?	「星のしくみ？
+…Who cares about that?”	……どうでもいいわ、そんなこと」
+“Why don't you go ask	「そういうこむずかしい事は
+Bugenhagen of Cosmo Canyon	コスモキャニオンのブーゲンハーゲン
+hard questions like that?”	という人に聞けば？」
+“Seems like the Shinra is planning	「あのメテオをこわすために
+something big to destroy Meteor…”	神羅が大きな計画を立てているそうね……」
+“I heard they're going to do something	「大きなマテリアを集めて
+with all that Huge Materia	なにかをするつもりらしいけど……」
+they've been gathering…”	
+“After what happened with the reactor	「魔晄炉のこともあるし
+you can't trust Shinra.”	神羅のすることは信用できないわ」
+“…Everyone's going to die.	「……みんな、死ぬのよ。
+Everything's coming to an end.”	何もかもが、終わるのよ」
+“You lost?	「道にまよったのじゃな？
+When that happens the only ones	そういう時に一番たよりに
+you can count on are your friends.”	なるのは友、じゃよ」
+“The first thing you gotta do	「もっとも大切な友を探すこと。
+is find your best friend.”	それが先決じゃて」
+“This reactor's useless,	「ここの魔晄炉はもう使い物にならんが
+but I hear there's still Huge Materia	【コレル】、【コンドルフォート】、【ジュノン】の
+at the Corel, Fort Condor,	魔晄炉の中には、大きなマテリアが
+and the Junon reactors.”	残っているそうじゃ」
+“Shinra's gathering all the Materia	「いま神羅はそれの回収に
+from those places…	かかっているそうだが……
+But for what?”	いったいなんのために」
+“Shinra's tried a lot of things,	「神羅もいろんな手をつくしたが
+but it's only HUMAN.	しょせん、ちっぽけな人間のやること。
+It's fate that Meteor will	メテオによって人が滅びるのは
+kill the people.”	運命なのじゃよ」
+“Tell me, young man.”	「おしえてくれ、若者よ」
+“Can't we be happy without	「幸せは、犠牲なしに得ることは
+having to sacrifice anything?”	できないのじゃろうか？」
+“Can't time pass	「時代は、不幸なしに越えることは
+without unhappiness?”	できないのじゃろうか……」
+RED XIII	RED XIII
+“Hey, CLOUD.	「ねぇ、CLOUD。
+How did the Turks know to	どうしてタークスは、オイラたちを
+wait and ambush us here?”	まちぶせできたのかな」
+RED XIII	RED XIII
+“…You'd think someone told	「……だれかが、オイラたちのことを
+the Shinra about us?”	神羅に知らせているのかな」
+CLOUD	CLOUD
+“…Is someone there?”	「……誰かいる」
+Reno	レノ
+“Hey, Rude.	「なあ、ルード。
+Who do you like?”	あんた、誰がいいんだ？」
+Reno	レノ
+“What are you getting so	「なに赤くなってるのかな、と。
+embarrassed about?	ん？　誰がいいのかな？」
+Come on? Who do you like?”	
+Rude	ルード
+“…TIFA.”	「……………TIFA」
+Reno	レノ
+“Hmm…”	「な、なるほど……と」
+Reno	レノ
+“That's a tough one.”	「つらいところだな、あんたも」
+Reno	レノ
+“But, poor Elena.	「しかし、イリーナもかわいそうにな。
+She…you…”	あいつ、あんたのこと……」
+Rude	ルード
+“No, she likes Tseng.”	「いや、あいつはツォンさんだ」
+Reno	レノ
+“I never knew that!	「そりゃ初耳だな、と。
+But Tseng likes that Ancient…”	だってツォンさんは
+	あの古代種……」
+CLOUD	CLOUD
+“What are they talking about?”	「あいつら何の話してるんだ？」
+Elena	イリーナ
+“It's so stupid!”	「ホント、くだらない！」
+“They always talk about who	「先輩たち、いつでも
+they like or don't like.	誰が好きとかキライとか
+But Tseng is different.”	そんな話ばっかりなんですよ。
+	ツォンさんは別ですけど」
+Elena	イリーナ
+“Ah! Oh no!”	「あ！　いけない！」
+Elena	イリーナ
+“They're here!	「先輩たち！
+They're really here!”	来ました！
+	あの人たち、ホントに来ましたよ！」
+Reno	レノ
+“Hmm…	「そうか……
+Then it's time…”	出番だな、と」
+Reno	レノ
+“Rude…don't go easy on them	「ルード……あの娘がいても
+even the girls.”	手を抜くなよ、と」
+Rude	ルード
+“…Don't worry, I'll do my job.”	「……仕事はちゃんとやるさ」
+Elena	イリーナ
+“Then, we're counting on you.	「じゃ、先輩たち。
+I'll report to Tseng!”	あとはよろしくおねがいします。
+	私はツォンさんに報告にいきま～す！」
+Reno	レノ
+“It's been a while.”	「久しぶりだな、と」
+Reno	レノ
+“Payback time for what you did in Sector 7.”	「７番街の借りを返すぞ、と」
+Sector 7?	７番街……忘れたな
+Out of our way	ジャマだ……どこか行け
+Reno	レノ
+“That's sad.”	「それはさびしいな、と」
+Reno	レノ
+“I don't like being taken for a fool.”	「なめられるのは嫌いだな、と」
+TIFA	TIFA
+“Hey, something seems wrong,	「ねえ、なんか変じゃない？
+Like they knew we were coming.”	待ちぶせされてたみたいよ」
+AERIS	AERITH
+“…How could they know	「……どうしてわかったのかな？
+we were coming here.”	わたしたち、ここに来ること」
+BARRET	BARRET
+“I don't like it.	「気にいらねえぜ。
+How'd they find out	どうしてオレたちの居場所が
+where we were?”	わかったんだ？」
+RED XIII	RED XIII
+“Interesting…	「興味深い……
+They were definitely	やつらはあきらかに
+waiting for us.”	まちぶせしていたようだが」
+YUFFIE	YUFFIE
+“I don't like this!	「なんかイヤなかんじ！
+It's like the whole world knows	アタシたちの行き先って
+where we're going.”	バレバレみたいだよ」
+CAIT SITH	CAIT SITH
+“How'd they know that we were here?”	「なんで、ここにおるのんが
+	わかったんやろ？」
+VINCENT	VINCENT
+“How did they know that	「何故、わたしたちがここに
+we were here?”	いることがわかったのだ……」
+CLOUD	CLOUD
+“They followed us…	「尾行されたか……
+But there weren't any signs of it.	いや、そんな気配はなかった。
+Then, that means…”	ということは……」
+TIFA	TIFA
+“A spy? No way.”	「スパイ！？……まさか」
+AERIS	AERITH
+“That there's a Shinra spy…”	「神羅のスパイがいるとか……」
+BARRET	BARRET
+“A spy, maybe?	「もしかしてよ、スパイ？
+No, no way.”	いや、まさかな」
+RED XIII	RED XIII
+“…someone's been informing them.”	「……だれかが内通しているのか」
+YUFFIE	YUFFIE
+“Maybe it's someone	「仲間んなかにスパイでも
+in this group?”	いるんじゃないの～？」
+CAIT SITH	CAIT SITH
+“You don't think there's a spy,	「まさか、CLOUDさん
+do you CLOUD?”	スパイでもおると、思てますんか？」
+“I hate this.	「たまらんなぁ～。
+Now everyone's gonna blame me	そんなん、新入りのボクが
+because I'm new.”	うたがわれるんに決まってますやん」
+VINCENT	VINCENT
+“It means there's a Shinra spy…”	「神羅の手先がいる……
+	ということか？」
+CLOUD	CLOUD
+“I don't even want to think	「スパイがいるなんて
+about there being a spy…”	考えたくもない……」
+CLOUD	CLOUD
+“I trust everyone.”	「俺はみんなを信じるよ」
+Rude	ルード
+“That's as far as you go.”	「これ以上、先には進ませない」
+CID	CID
+“Man, looks like	「気にくわねぇな。
+they've taken a short cut.”	先回りされてるみてぇだ」
+CID	CID
+“And a couple of Shinra dogs	「けっ、神羅のイヌがいるってのかよ！」
+are here too!”	
+BARRET	BARRET
+“The Shinra build reactors to make money.	「神羅のやつらは、金もうけのために
+And this is what happens.”	魔晄炉をつくる。
+	そして、その結果がこれだ」
+BARRET	BARRET
+“You saw that village.	「見ただろう、あの村を。
+It's always the powerless that	神羅の横暴でよ、被害にあうのは
+suffer from tyrants like Shinra.”	いつでも力を持たない人間だぜ」
+“The one's with the power control those	「力を持つものが
+without it.	持たないものを支配する。
+That's just the way of the world now.”	それが、今の世界ってわけだ」
+“But I can't let 'em do that.	「オレは、そんなことは許せねぇ。
+That's why I formed AVALANCHE to fight 'em.”	『アバランチ』を結成して
+	神羅カンパニーと戦ってるのも
+	そんな世界を変えてえからだ」
+BARRET	BARRET
+“…Yo, CLOUD	「……なあ、CLOUD
+You still gonna fight with us, right?”	これからもオレたちと一練に
+	戦ってくんだろ？」
+“We need you, man.”	「オレたちにゃ、おまえが必要なんだ」
+You got it	任せておけ
+Not interested	興味ないね
+BARRET	BARRET
+“Thanks, man.”	「ありがとうよ」
+BARRET	BARRET
+“…!!”	「…………！！」
+“I never shoulda	「おまえなんかに期待した
+believed you.”	オレがバカだったよ」
+Scarlet	スカーレット
+“This reactor's a failure.”	「ここの魔晄炉は失格ねえ」
+“What I'm looking for is	「私が探してるのは
+big, large, Huge Materia.	ビッグでラージでヒュージな
+You seen any?”	マテリアなのよ。
+	あなた知らない？」
+Tseng	ツォン
+“…No I haven't seen it.	「……存じません。
+I'll get on it right away.”	さっそく調査します」
+Scarlet	スカーレット
+“Please.	「おねがいね。
+We could make the ultimate weapon	それがあれば究極の兵器が
+if we only had some.”	つくれそうなのよ」
+Tseng	ツォン
+“I just can't wait.”	「それは楽しみですね」
+Scarlet	スカーレット
+“With Hojo gone,	「宝条がいなくなったおかげで
+the Weapon Development's	私の兵器開発部に予算が
+been getting a bigger budget.”	た～っぷりまわってくるの」
+Tseng	ツォン
+“I envy them.”	「うらやましいかぎりです」
+Scarlet	スカーレット
+“But, even if we make	「でもね、せっかく完璧な兵器をつくっても
+the perfect weapon, could that	あのバカのハイデッカーに
+stupid Heidegger even use it?”	使いこなせるのかしら」
+Tseng	ツォン
+“…”	「…………」
+Scarlet	スカーレット
+“Oh…sorry!	「あら、ごめんなさい！
+I forgot Heidegger was your boss!	ハイデッカーはあなたの上司だったわね！
+Ha ha ha!”	キャハハハハ！」
+Scarlet	スカーレット
+“Let's go!”	「行きましょ！」
+CLOUD	CLOUD
+“…Big, large, Huge Materia?”	「ビッグでラージでヒュージな
+	マテリア？」
+“An ultimate weapon?	「究極の兵器？
+The perfect weapon?”	完璧な兵器？」
+“Just what are	「神羅め、今度は何を始める
+the Shinra up to?”	つもりなんだ……」
+CLOUD	CLOUD
+“It's Scarlet,	「神羅の兵器開発部部長
+Head of Shinra Weapon Development.”	スカーレットのおでましか」--
+Scarlet	スカーレット
+“Hmph!	「……フンッ！
+This isn't any good either.”	ここもダメだわ」
+“You only get junky Materia	「チンケな魔晄炉には
+from junky reactors.”	チンケなマテリアしか
+	ないみたいね」
+Reno	レノ
+“This is just part of the job.	「これも仕事だ。
+Don't take it personally.”	悪く思うなよ、と」
