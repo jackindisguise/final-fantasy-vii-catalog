@@ -30,7 +30,7 @@ Processes the formatted script from `formatted.txt` and pops out the processed s
 ---
 Automatically processes all formatted scenes in `../scene/formatted`
 
-`generate_kanji.js`
+`generate_kanji_table.js`
 ---
 Generates a Kanji table and stores it in `kanji.JSON` for use in other scripts.
 
@@ -39,6 +39,6 @@ Generates a Kanji table and stores it in `kanji.JSON` for use in other scripts.
 Creates kanji lists from `kanji.JSON` and places them in `../kanji/`.
 
 
-`generate_scene_kanji.js`
+`generate_kanji_readme.js`
 ---
-Generate data regarding kanji in each scene and places it in `../kanji/COMPREHENSIVE.md`.
+Generate data regarding kanji in each scene and places it in `../kanji/README.md`.

@@ -5,14 +5,35 @@ const fs = require("fs");
 const inputSceneFolder = "../scene/processed/";
 const inputNewFolder = "../kanji/new/";
 const inputUniqueFolder = "../kanji/unique/";
-const outputComprehensiveFile = "../kanji/COMPREHENSIVE.md";
+const outputComprehensiveFile = "../kanji/README.md";
 
 // kanji data
 const kanji = require("./kanji");
 
 // other
 let kanjiRule = /([\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A])/g;
-let scenes = [];
+let sections = [];
+
+// generate general data
+{
+	let general = [];
+	general.push("Kanji in the Script");
+	general.push("---");
+	general.push("**Unique Kanji in Order of Appearance**");
+
+	// compose text list of all unique kanji
+	let list = [];
+	for(let entry of kanji.table) list.push(entry.kanji);
+	general.push(`> ${list.join("")}`);
+	general.push("");
+
+	// add counts
+	general.push(`* There are **${kanji.total}** total kanji in the script.`)
+	general.push(`* There are **${kanji.unique}** total unique kanji.`);
+
+	// add to sections
+	sections.push(general.join("\r\n"));
+}
 
 fs.readdir(inputNewFolder, function(err, files){
 	for(let file of files){
@@ -36,11 +57,11 @@ fs.readdir(inputNewFolder, function(err, files){
 		line.push("**About**:");
 		line.push(`* There are **${count}** total kanji that appear in this scene.`);
 		line.push(`* There are **${uSplit.length}** unique kanji that appear in this scene.`);
-		line.push(`* There are **${nSplit.length}** unique kanji that appear for the first time ever.`);
-		if(nSplit.length) line.push(`* That's **${(nSplit.length / kanji.unique*100).toFixed(2)}%** of the unique kanji in the entire script.`);
-		scenes.push(line.join("\r\n"));
+		line.push(`* There are **${nSplit.length}** unique kanji that appear for the first time.`);
+		if(nSplit.length) line.push(`* That's **${(nSplit.length / kanji.unique*100).toFixed(2)}%** of the unique kanji in the script.`);
+		sections.push(line.join("\r\n"));
 	}
 
-	fs.writeFileSync(outputComprehensiveFile, scenes.join("\r\n\r\n"), "utf8");
+	fs.writeFileSync(outputComprehensiveFile, sections.join("\r\n\r\n"), "utf8");
 });
 

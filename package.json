@@ -5,7 +5,7 @@
   "main": "process.js",
   "scripts": {
     "process": "cd src && node process_all",
-    "kanji": "cd src && node generate_kanji && node generate_kanji_order && node generate_scene_kanji",
+    "kanji": "cd src && node generate_kanji_table && node generate_kanji_order && node generate_kanji_readme",
     "meta": "npm run kanji",
     "release": "standard-version",
     "release-dry": "standard-version --dry-run"
