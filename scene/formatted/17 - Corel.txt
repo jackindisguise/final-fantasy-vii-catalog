@@ -1,0 +1,654 @@
+Mt. Corel	コレル山・東
+“Whew!!”	「ふぅーっ！！」
+“Hey!”	「おっ！」
+“You're actually talking to me.”	「あんたたちはちゃんと
+	話しかけてくれるんだな」
+“I just passed a guy	「少し前にすれちがった
+in a black cape back there.”	黒マントのヤツがよ」
+“I just tried to tell him that it's dangerous	「人が親切に、この先は危険だって
+up ahead, and he ignored me!”	教えてやってんのにムシしやがってよう」
+CLOUD	CLOUD
+“What is it?”	「なんのことだ？」
+CLOUD	CLOUD
+“Sephiroth…”	「セフィロス……」
+BARRET	BARRET
+“…ahh.”	「…………ああ」
+TIFA	TIFA
+“Let's hurry on.”	「先を急ぎましょ」
+AERIS	AERITH
+“There was a black-caped guy here, too?”	「ここにも、黒マントね…」
+YUFFIE	YUFFIE
+“Oh gawd, what a drag!!”	「ああ、かったりぃ！！」
+RED XIII	RED XIII
+“Hmm…	「ふーむ…。
+I'm moving on ahead…”	行く先々にねぇ…」
+“It's dangerous up ahead.	「この先は危険だよ。
+Be careful on your way.”	道中、気をつけてな」
+“If any strangers should greet you warmly	「旅先で出会った見知らぬ旅人に
+while traveling,	あったかい声をかけて
+make sure to greet them back.”	あいさつをかわす」
+“Whew!	「ふう～～」
+being on the road.”	
+Mt. Corel East	コレル山・東
+Mt. Corel West	コレル山・西
+Mt. Corel West	コレル山・西
+Received "W Machine Gun"!	『Ｗマシンガン』を手にいれた！
+Received "Transform" Materia!	『へんしん』のマテリアを手にいれた！
+Received "Turbo Ether"!	『エーテルターボ』を手にいれた！
+	
+Oh, oh oh oh oh!!	おっとととと！！
+Push the [OK] button to jump!	【○ボタン】でジャンプしろ！
+	
+“Get the treasure by holding	「【方向キーの左】か【方向キーの右】を押しながら
+the Left or Right Directional buttons down	【○ボタン連打】で空をおよげば、お宝ゲット！」
+while repeatedly pressing [OK]!”	
+	
+“Hold down the Left Direction button	「左キーを押しながら
+while repeatedly pressing [OK]	○連打で空をおよげば、お宝ゲット！」
+to get the treasure!”	
+	
+“Hold down the Right Direction button	「右キーを押しながら
+while repeatedly pressing [OK]	○連打で空をおよげば、お宝ゲット！」
+to get the treasure!”	
+You cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+Mt. Corel West	コレル山・西
+Received "Star Pendant"	『星のペンダント』を手にいれた！
+Received "Wizard Staff"!	『ウィザードロッド』を手にいれた！
+Mt. Corel West	コレル山・西
+CLOUD	CLOUD
+“OW!!	「いてっ！！
+Sure is tight in here…”	せまいな、ここ……」
+“Come on, CLOUD,	「さっ、気を取り直して…。
+don't let it get to you.	んっ、これかな」
+Let's see…this is it.”	
+CLOUD	CLOUD
+“Maybe if I turn this…”	「これを動かせば……」
+“…something should happen.”	「なにかがおこるはずだ」
+Do it	操作する
+Leave it	やめておこう
+CLOUD	CLOUD
+“OK, then…”	「そうだな……」
+PHS	ＰＨＳ
+Let's move on!	先を急ぐぞ！
+TIFA	TIFA
+“OH!! CLOUD!	「あっ！！CLOUD！
+That's it!”	ちょうどよかった！」
+TIFA	TIFA
+“We can't go on until the	「この橋がつながらないと
+bridge is let down.”	先に進めないみたいなの」
+“I think there's a switch	「あそこの小屋にスイッチが
+in that shack over there…”	あるらしいんだけど…」
+“But there's too many monsters around	「モンスターが多くて
+and I'm beat…”	つかれちゃったから……」
+AERIS	AERITH
+“CLOUD!!”	「CLOUD！！」
+AERIS	AERITH
+“I was just wishing you were	「CLOUDがいてくれたらなあって
+here!”	思ってたとこなの」
+“Unless someone lets down the bridge,	「この橋が動かないと先に進めないの。」
+we're stuck.”	
+“CLOUD should be able	「CLOUDなら、なんとかしてくれるよね」
+to do something.”	
+“But let's take a	「でも、その前に……
+breather first.”	ちょっと休もっ」
+AERIS	AERITH
+“Come on, CLOUD.	「ね、CLOUD
+Let's rest a minute.”	ちょっと休もっ」
+RED XIII	RED XIII
+“Wha? Oh, it's you.”	「んっ……あんたたちか？」
+RED XIII	RED XIII
+“There seems to be an instrument in that	「あそこの小屋に橋を動かす装置が
+hut that manipulates this bridge.”	あるらしいのだがな……」
+“Perhaps it's best if we rest a moment.”	「しばし休息というわけだ」
+BARRET	BARRET
+“…whew!”	「……ふう」
+YUFFIE	YUFFIE
+“I don't want to have to	「あんなとこまで
+go all that way!”	いきたかないよ！」
+TIFA	TIFA
+“I'm beat…”	「つかれちゃったね…」
+AERIS	AERITH
+“I'm sure glad I'm with you,	「CLOUDといっしょが
+CLOUD!”	よかったなっ！」
+RED XIII	RED XIII
+“What?”	「……なんだ？」
+YUFFIE	YUFFIE
+“I'm pooped!”	「つかれたよっ！」
+TIFA	TIFA
+“CLOUD!!	「CLOUD！！
+Go CLOUD!! Go!!”	がんばれー！！」
+AERIS	AERITH
+“Oh, CLOUD!!	「きゃ～、CLOUD！！
+Good Luck!!”	がんばって～！！」
+Morph Menu	『へんせいメニュー』
+“The shack is here!!”	「ここが小屋なのです。
+	………ポジションカーソルより」
+AERIS	AERITH
+“How cute!!”	「きゃっ、かわいいっ！」
+AERIS	AERITH
+“How cute!!”	「きゃっ、かわいいっ！」
+TIFA	TIFA
+“Oh, cute!!”	「かわいいね！！」
+TIFA	TIFA
+“Yes!!	「うん！！
+…how cute.”	……かわいいね」
+YUFFIE	YUFFIE
+“Yeow!	「おおっ！
+Lookit that!!”	お宝！！」
+BARRET	BARRET
+“Haaeyy!”	「ひゅ～！！」
+RED XIII	RED XIII
+“huff…huff…”	「はぅっ…はぅっ…」
+CLOUD	CLOUD
+“What should we do?”	「どうするか…」
+Take the treasure	宝をもらってくぞ
+Leave it where it is	おいていってあげようか
+CLOUD	CLOUD
+“Times are tough…	「世の中はきびしいからな…。
+I'm taking the treasure.”	お宝はいただく」
+CLOUD	CLOUD
+“…It's got nothing to do with us.	「……俺たちには関係ない。
+Just forget about it.”	無視だな」
+TIFA	TIFA
+“Right!	「うん！
+That was admirable of you.”	CLOUD、えらいえらい」
+TIFA	TIFA
+“Oh! CLOUD!	「CLOUDったら！！
+Your hair looks like a Chocobo!”	チョコボ頭のくせに！」
+AERIS	AERITH
+“CLOUD…”	「CLOUD……」
+YUFFIE	YUFFIE
+“You kiddin'?”	「ええ、まじぃ？」
+RED XIII	RED XIII
+“Glu…glug…”	「ゴっ……ゴクっ！」
+YUFFIE	YUFFIE
+“Come to Mommy!!”	「いただきますっ！！」
+BARRET	BARRET
+“Haeey!! Baaeby!!”	「ひゅ～ひゅ～！！」
+Received 10 "Phoenix Down"!	『フェニックスの尾』を１０枚手にいれた！
+Mt. Corel	コレル山・西
+	
+“Hey!	「おう！！
+How'd you ever wind up here?”	よくこんなとこまで、きたもんだな！」
+“Look, I'm sorry but,	「わるいけどよ
+I can't do a thing for you!”	なんももてなしはできねえぞ！」
+“Oh boy!!	「あーあ！！
+Corel sure has gone to pot.	コレルっていやよう
+It used to be a famous coal mining town!”	昔は炭坑が有名でよう！」
+“They say	「仕事もくさるほどあったっていうぜ！
+there were more jobs than	それがどうだい！！」
+you could shake a…	
+Well, you get the picture!”	
+“Now, it's nothing but a miserable pit!	「いまじゃ、見る影もねえ。
+Me, my bulldozer…everyone's out of work.”	俺もこのブルも動かねえよ」
+“Got no job…I can't even show my face.	「仕事がねえんじゃ
+Bout all that's left for me is	おてんとうさんに顔見せできねえ。
+just livin' in this hole all day.”	こうして穴ぐらぐらしってわけよ」
+	
+Received "Mind Source"!	『マインドアップ』を手にいれた！
+Received "Power Source"!	『パワーアップ』を手にいれた！
+Received "Tent"!	『テント』を手にいれた！
+Mt. Corel	コレル山・西
+North Corel	北コレル
+BARRET	BARRET
+“You heard 'em…	「きこえただろ…
+It's my fault	オレのせいで、この町は……
+this town was…destroyed…”	壊れてしまったのさ……」
+BARRET	BARRET
+“Wait here…”	「ここで、まっててくれ……」
+BARRET	BARRET
+“Can't keep regrettin' the past…	「すんだことを
+It's the future	くやんでもしかたねぇよ……
+we gotta think about now.”	これからどうするかだ」
+BARRET	BARRET
+“…I'm sorry…”	「…す、すまん…」
+“YOU know who's responsible for North Corel	「だれかサンのおかげで
+winding up like this!”	北コレルは、このありさまだ！」
+“Well, lookey here!	「ケッ！
+Never thought	また、BARRETさまに会えるとは
+I'd ever see your face again.”	思ってもみなかったぜ」
+“I'll never understand the rich.	「金持ちってのは、わからねぇもんだな。
+I heard some guy named	なんでもゴールドソーサーにいる
+Dio at the Gold Saucer	ディオってやつは
+is collectin' rocks!”	石ころまで集めてるらしいぜ」
+“I figure if I stay alive long enough,	「生きてりゃそのうち
+something good's bound to happen.”	イイことがあるかもな」
+“Some Shinra soldiers went up to Mt. Corel.	「神羅兵がコレル山を登っていったんだ。
+They said they're collecting Huge Materia	なんでも、メテオをぶっ壊すために
+to blow up Meteor!”	ヒュージマテリアを集めてるんだとよ！」
+“Ya think they can really do it?	「ほんとに、そんなことができるのか……
+I'll bet the reactor destroys everything	メテオにやられる前に、また魔晄炉に
+even before Meteor hits!”	メチャクチャにされるんじゃねぇのか？」
+“Look down… nuthin' but junk.	「うつむけばガラクタ
+Look up…Meteor.”	見上げればメテオ……」
+“Am I gonna be stuck between these two	「こいつらにはさまれて
+for the rest of my life?”	オレの一生は終わるのか」
+“”	「」
+“I wanna play at the Gold Saucer…”	「ゴールドソーサーで遊びてぇよ…
+“And it's only a Ropeway ride away…	「ロープウェイに乗るだけで行けるのに
+but I don't have enough money to play…”	金がねぇから遊べねぇんだよ…」
+“Those people over there,	「向こうにいるヤツらは
+they with you?”	テメエのツレなのか？」
+“Well, I feel sorry for 'em!	「フン、気のどくに！
+Hangin' around a walkin' death sentence	なにせ、BARRETという死神に
+like BARRET.”	とりつかれているんだからな」
+“They kick you out of	「フン！また、どこかの町を
+another town or somethin'?”	追い出されてきたんだろう？」
+“You destroy everything you touch.”	「なにせ、きさまは死神だからな」
+“Why doncha say something!?”	「なんとか言ったらどうなんだ！」
+“Or did ya forget	「自分がやったことを
+what you done here already?”	忘れたんじゃねぇだろうな？」
+“Get out of the way!!”	「ジャマしねぇでくれよ！！」
+“The only way we can make ends meet around	「この地に残された者は
+here now is by collecting junk!”	ガラクタあさりでしか
+	食っていけねぇんだ！」
+“You, you're…”	「きっ、きさまは……」
+“Hey!!	「オーイ！！
+He's back!”	ヤツが、もどってきやがったぜ！」
+“You got a lot of nerve	「どのツラさげて、もどってきたんだ？」
+comin' back here!”	
+“Look at this place!	「見てみろ！おまえのせいで
+It's all your fault North Corel	北コレルはガレキの町になっちまった……」
+turned into a garbage heap!”	
+“^%$#!	「チッ、おもしろくねぇ！」
+You ain't even worth the effort.”	
+“Don't waste your time talkin' to	「こんなデクノボウにかまってると
+that Techno-freak!”	ロクなことがねぇな！」
+“Whenever I look up in the sky,	「たまに空を見上げると
+I see Meteor staring me right in the face…”	メテオのやろうが、でっかい顔して
+	オレを見つめてやがる……」
+“If you're gonna crash down, then hurry up!!	「クソッ、落ちるつもりなら
+Cause I'm gonna kick the $#@& outta ya!”	早く落ちてこいってんだ！！
+	そしたらオレが、け飛ばしてやるぜ！」
+“A buncha guys called Turks came here	「タークスとかなんとかいうヤツらが来て
+sayin' they'd pay 10000 gil for	キー・ストーンっていう石を
+some rock called a 'Keystone'.”	１００００ギルで買うって言ったんだ」
+“When I asked how much they'd pay for	「じゃあ、ここに落ちてる石ころなら
+a regular rock just layin' around here,	いくらで買ってくれるんだ？って聞いたら
+they slapped me upside my damn head!!”	なぐられちまったよ、ちきしょう！！」
+“Shinra soldiers came around sayin'	「神羅の兵が、どかどかやってきて
+they were gathering up	魔晄炉のヒュージマテリアを
+all the Huge Materia.”	回収するだとか言ってたぜ」
+“I think they're gonna bring it here	「【コレル魔晄炉】から炭坑列車で
+by coal train, from the Corel Reactor.”	この町まで運んでくる
+	つもりなんじゃねぇのかな？」
+“Staring up at Meteor	「空を見上げて
+won't put food in my stomach.”	メテオとにらめっこしても
+	一文のとくにもならねえ」
+“But if I look down,	「こうやって下を向いていると
+sometimes I find somethin' to eat.”	ハラのたしになることも
+	たまには、あるけどな」
+“I hear it's a big fad now in the city	「よぉ、都会のほうじゃ
+to get tattoos. Is that right?”	数字のイレズミをほるのが流行ってるのか？」
+I wouldn't know	しらない
+That's right	そのとおり
+“Really…?	「そうか…
+I saw a big '1' on the arm of	ロープウェイの方に行った若ぞうの
+a young guy heading towards the Ropeway.	手のこうに大きな『１』が見えたんだ。
+That Black Cape he had on was really cool.”	黒マントのかっこいいヤツだったぜ」
+“I guess I should get a '0' tattoo!	「じゃあ、オレなら『０』のイレズミだな！
+For a poor man like me,	ビンボー人には、『０』がお似合いだ」
+0' oughtta be perfect.”	
+“Hey,	「よぉ、世の中は今
+what's gonna happen to the world?”	どうなってんだい……」
+“I guess no one wants to have fun anymore	「ゴールドーソーサーが閉園に
+now that the Gold Saucer is closing…”	なるんだから、遊ぶ気分じゃない
+	ってところなのか？」
+“Hey,	「よぉ、ゴールドソーサーが
+the Gold Saucer reopened!”	再開したんだぜ！」
+“We've got to play hard	「メテオのことを頭から消すには
+to get our minds off Meteor.”	遊んで忘れるしか無いってことか」
+Weapon Shop	武器屋
+“If you want to survive,	「生き抜いていくには
+then you're gonna need	この店の武器が必要だぜ」
+some of my weapons.”	
+Accessory Shop	道具屋
+“Please buy something!	「何でもイイ
+Anything will do!”	買ってちょうだい！」
+“What do you want?”	「何か用か？」
+Buy	買う
+Listen to your story	話を聞く
+Not interested	興味ない
+“Take that road on the left	「左の道を行けば
+to the Ropeway station!”	ロープウェイ乗り場があるぜ！」
+“The Ropeway'll take you	「ロープウェイに乗れば
+to the Gold Saucer.”	ゴールドソーサーに行けるんだ」
+“It don't mean much	「まっ、おれたちビンボー人には
+to us poor folks though…”	関係のない話だけどな…」
+“Sometimes, I see something glowin'	「時々イドの中で何かが光るの。
+inside the well.	ひろったら、お金にかえて
+If I ever get it, I'm going to sell it	ゴールドソーサーへ行くんだもん」
+and go to the Gold Saucer.”	
+“I'm gonna keep diggin' in this well	「このイドをず～っとほって
+till I come out	世界のうらがわまで行きたいな」
+on the other side of the world…”	
+“Then, I'm going to make lotsa friends.”	「そしたら友だちを
+	いっぱいつくるんだもん」
+“I got this out of that well.	「イドの中からひろい上げたんだ。
+This rock must REALLY be something!!”	きっとスゴ～イ石だよ！！」
+“Whoops…	「あれれ、おじさん？
+You can't hold all those.”	それじゃ、持ちきれないよ」
+“Here, I'll keep it in my pocket,	「ポケットにしまっておくから
+and you can come by later and	また、あとで取りにきてね！」
+get it, OK?”	
+TIFA	TIFA
+“I wonder what Shinra wants to do	「神羅は、あのヒュージマテリアを
+with all that Huge Materia?”	何に使おうとしているのかしら？」
+RED XIII	RED XIII
+“What are we going to do now?”	「これから、どうするんだい？」
+CID	CID
+“Sorry…	「もうしわけねぇ…
+I never shoulda gave that Huge Materia	オレ様としたことが、簡単に
+to the Shinra so easily…”	神羅にヒュージマテリアを
+	もってかれちまって……」
+YUFFIE	YUFFIE
+“No use baggin' on yourself!	「くよくよしてもしかたないよ！
+It's not like you, OLD guy!”	そんなのオッサンらしくないよ」
+CAIT SITH	CAIT SITH
+“It's not all over yet.	「まだ全てが終わってしまへんで。
+Cheer up!”	元気をだしましょ！」
+VINCENT	VINCENT
+“…Isn't is too early	「……あきらめるのは
+to give up?”	まだ早いのではないか？」
+Received "Ultima" Materia!	『アルテマ』のマテリアを手にいれた！
+CID	CID
+“There's only one more Huge Materia	「神羅の狙う、ヒュージマテリア……
+the Shinra needs…	残るはジュノンの海底魔晄炉のみだな」
+That's the one at the Underwater Reactor.”	
+CID	CID
+“With us always in their face,	「いくら神羅でも、ことごとくオレ様たちの
+even the Shinra's gotta be	邪魔が入って、しん重になっているはずだ」
+getting tired of it all.”	
+CID	CID
+“We have to hurry that much…	「そんなに急がなくてもいいと思うぜ……
+…Right now I'm more worried	……それよりオレ様は
+about him than anything else!”	あいつが気がかりで、しょうがねえんだ！」
+CID	CID
+“Yeah, and I'm worried	「ああ、それにTIFAも
+about TIFA, too.”	どうしてるか心配だしな。」
+CID	CID
+“Let's go see	「ちょっと様子を見に戻ってみるか
+what's going on at Mideel…”	【ミディール】へ……」
+BARRET	BARRET
+“We'll get there first!”	「先まわりしてやるぜ！」
+BARRET	BARRET
+“CLOUD…”	「CLOUD……」
+RED XIII	RED XIII
+“We HAVE to stop them!!”	「絶対に止めなきゃ！！」
+RED XIII	RED XIII
+“Must be about CLOUD…”	「CLOUDのことだね……」
+YUFFIE	YUFFIE
+“We've got to hurry and stop 'em!!”	「急いで、止めなきゃ！！」
+YUFFIE	YUFFIE
+“You must be talking 'bout CLOUD…”	「CLOUDのことだろ……」
+CAIT SITH	CAIT SITH
+“We headin' out to	「海底魔晄炉に行くんでっか？」
+the Underwater Reactor?”	
+CAIT SITH	CAIT SITH
+“CLOUD…”	「CLOUDさん……」
+VINCENT	VINCENT
+“Are we going to	「海底魔晄炉に行くのか？」
+the Underwater Reactor?”	
+VINCENT	VINCENT
+“CLOUD…”	「CLOUDか……」
+Inside Tent	テントの中
+	
+“Grandpa used to be	「ジィちゃんは、その昔
+a Coal Train engineer.”	たんこう列車の運転手だったの」
+“He still can't kick	「その時のクセが
+his old habits from then.”	まだぬけないみたい」
+“Seeing that train got Grandpa more excited	「ジィちゃんったら久しぶりに
+than I've seen him for some time.”	機関車を見てはしゃいじゃって」
+“As long as we stay here,	「ここにいるかぎり、ジィちゃんは
+Grandpa won't be able	機関車のことを忘れられないみたいね」
+to forget about trains.”	
+“Maybe we should start fresh,	「【南の島ミディール】にでも引っ越して
+and move to	気分をかえてみようかしら」
+Southern Isle of Mideel?”	
+“With Meteor coming,	「メテオが落ちてくるんじゃ
+I guess it doesn't matter…”	どこへ引っ越しても同じかしら……」
+“The next train's coming in soon.”	「もうすぐ、次の列車がくるぞ」
+“What the?	「なんじゃ？
+Watch out for the train!”	列車にひかれるなよ！」
+Received "Ether"!	『エーテル』を手にいれた！
+Inside Tent	テントの中
+	
+“Everyone knows that accident	「事故は、ふせぎようがなかったことは
+couldn't have been avoided.”	み～んなわかっておるんじゃ」
+“But no one will be satisfied	「でも、だれかに責任を
+until someone takes the blame.”	押しつけなければ
+	気がおさまらんかったのじゃよ」
+“I hear something's gonna fall	「空から何か降ってくるらしいね？」
+from the sky?”	
+“You saved my life.	「あんたらのおかげで命びろいしたよ。
+Not that I have much longer	と言っても、あたしゃもう長くないがね」
+to live anyway…”	
+“I want to leave	「こんなガラクタの町なんかすててよ
+this garbage dump of a town behind me,	どこかで人生をやり直してぇんだ」
+and start a new life.”	
+“If I had a buggy,	「バギーカーでも持ってりゃ
+I'd cross the southern desert,	南のサバクを越えて、川向こうの村に
+and go to that town across the river…”	渡れるんだけどよ……」
+“There was something glowing	「向こうのイドの中で
+in that well over there.”	何かが光ってたんだよ」
+“If I can get my hands on it,	「ひろったら、お金にかえて
+I'm gonna sell it	ゴールドソーサーに行くんだ！」
+and go to the Gold Saucer!”	
+“When I grow up,	「大きくなったら
+I'm gonna travel the world	世界中の光る石を集めに行くんだ！」
+collecting glowing stones!”	
+“I got it out of the well.	「イドの中からひろい上げたんだ。
+It must be a special rock!!”	きっとスゴ～イ石だよ！！」
+“Hey?	「あれれ？
+You can't hold anymore.”	それじゃ、持ちきれないよ」
+“I'll keep it in my pocket for you.	「ポケットにしまっておくから
+You can come by and pick it up later!”	また、あとで取りにきてね！」
+Received "Ultima" Materia!	『アルテマ』のマテリアを手にいれた！
+Inside Ragged Hut	ボロ小屋の中
+	
+“Because of them…ugh	「あいつらのせいよ……ウウッ
+my husband got into that accident…	夫は、あの事故にまきこまれて……
+He used to be such a strong man…”	あんなに強い人だったのに……」
+“Is Meteor really going to	「メテオって
+crash down on us?”	本当に落ちてくるのかしら……」
+“I'm still too young…	「わたしまだ若いのに……
+I'll never remarry.”	だれか、おヨメにもらって～」
+“This memento is	「夫のかたみなの…これをあげるから
+all I have left of my husband…	メテオをなんとかしてちょうだい」
+I'll give it to you	
+if you'll please stop Meteor…”	
+“How am I supposed to continue living	「何もかも失ったこの町で
+in a town that lost everything?”	どうやって、生きていけばイイのやら……」
+“To hell with the Mako reactor!”	「魔晄炉なんて、クソくらえじゃ！」
+“The town is in shambles…	「町はメチャクチャになった……
+and Meteor is coming our way…”	メテオも落ちてくる……」
+“All we have left is	「残ったのは
+our love for each other.”	ワシらの愛だけじゃな」
+“I don't want to die,	「もう少し長生きしたかったのに
+but who can stop Meteor?”	メテオが降ってくるとはな……」
+“Yaaay!!	「わーい！！
+What do you wanna play?”	何して遊ぶぅ？」
+“Hey, what's a Meteor?”	「ねぇ、メテオってなぁに？」
+Received "Catastrophe"!	『カタストロフィ』を手にいれた！
+North Corel Inn	宿屋
+	
+“Welcome.	「いらっしゃい。
+It's 50 gil a night.	５０ギルだけど泊まるかいの？」
+Would you like a room?”	
+Yes	はい
+No	いいえ
+North Corel Inn	宿屋
+“Hmm, you don't quite have enough.”	「ん～お金がたりんな」
+North Corel Inn	宿屋
+“Enjoy your stay.”	「ゆっくり休みなされ」
+North Corel Inn	宿屋
+“Please come again.”	「また来て下さいな」
+“You all right?”	「だいじょうぶかい？」
+“Some townspeople carried you here	「町のみんながあんたたちを
+so the Shinra wouldn't find you.”	神羅に気づかれないように
+	ここに運んだんだ」
+“How much more will they have to	「神羅のやつらは
+destroy before they're satisfied!?”	どこまでこの町を壊せば
+	気がすむんだろうな！？」
+“Isn't anyone brave enough	「だれか神羅をこらしめてくれる
+to stick it to Shinra?”	勇気のある者はおらんかの？」
+Ropeway Station	ロープウェイ乗り場
+	
+“Ride the Ropeway?”	「ロープウェイに乗りますか？」
+Go on	乗る
+Don't go on	乗らない
+“Ride the Ropeway?”	「ロープウェイに乗りますか？」
+Yes	はい
+No	いいえ
+CLOUD	CLOUD
+“What happened?”	「何があったんだ？」
+CLOUD	CLOUD
+“Shinra troops?	「神羅の軍？
+What for!?”	いったい何のために！？」
+CLOUD	CLOUD
+“Let's get on.”	「乗ろうぜ」
+TIFA	TIFA
+“That's so terrible!”	「ひどいっ！」
+TIFA	TIFA
+“Don't blame yourself.	「自分を責めちゃだめよ。
+We were all fooled by the promises	そのころは、みんな神羅のあまい言葉に
+Shinra made back then.”	おどらされていたんだから」
+TIFA	TIFA
+“I never knew.	「私、知らなかったわ。
+BARRET never said a thing…”	BARRET、何も言わなかったから……」
+TIFA	TIFA
+“…”	「…………」
+“We better go on!”	「早くのらなきゃ！」
+TIFA	TIFA
+“Everyone's…	「みんな、いろいろ……
+been through a lot of hardship…”	つらいこと持ってるんだね」
+BARRET	BARRET
+“Sorry.”	「すまねえな」
+BARRET	BARRET
+“My hometown used to be around here.”	「このあたりにオレの故郷があった」
+BARRET	BARRET
+“It ain't here no more.	「今はもうない。
+Heard it got buried…	砂の下に埋もれちまったらしい。
+in just 4 years.”	……たった４年で」
+BARRET	BARRET
+“An' it's my fault.	「オレのせいだからだ。
+ALL my fault.”	ぜんぶオレのせいなんだ」
+BARRET	BARRET
+“There was an explosion at a reactor.”	「魔晄炉で爆発事故が起こったんだ」
+“Shinra blamed the accident on the people.	「神羅はその事故の責任を
+Said it was done by a rebel faction.”	コレル村のオレたちに押しつけた。
+	反対派のしわざだと言ってな」
+BARRET	BARRET
+“Well, I guess that's true.	「ああ、たしかにな。
+But more than Shinra,	でもよ、オレは神羅以上に
+I can't forgive myself.”	自分を許せなかったんだ」
+“Never should've gone along	「オレさえ魔晄炉に賛成しなければ……」
+with the building of the reactor…”	
+BARRET	BARRET
+“That's why…	「だからよ、だからこそ
+that's why I get so pissed off!!”	オレは自分にハラが立つんだ！！」
+“Not only did they take advantage of me…	「あまい言葉にのせられたあげく
+But I lost my wife, Myrna, too…”	女房を……ミーナを失い……」
+BARRET	BARRET
+“Dyne was my best friend.	「ダインは親友だったぜ。
+We were close ever	ガキのころからのよう……」
+since we were kids…”	
+BARRET	BARRET
+“It's all my fault…”	「全部、オレのせいなんだ……」
+AERIS	AERITH
+“BARRET, what happened?”	「BARRET、どうしたの？」
+AERIS	AERITH
+“But how could those people	「だからって、どうして、さっきの人たち
+say those terrible things?”	あんなひどいこと言うの？」
+AERIS	AERITH
+“…”	「…………」
+AERIS	AERITH
+“Everything Shinra does seems to	「神羅のやることは
+make everyone miserable…”	みんな不幸にしてしまうのね…」
+RED XIII	RED XIII
+“What do you mean 'used to'?”	「あった、とは？」
+RED XIII	RED XIII
+“…”	「…………」
+YUFFIE	YUFFIE
+“I'm not sympathizing with BARRET!	「アタシはBARRETに
+He never should have trusted Shinra, Inc.”	同情なんてしないよ！
+	神羅を信じたのが悪いのさ」
+YUFFIE	YUFFIE
+“I'm waiting inside.”	「アタシは先に乗っておくよ」
+“The Ropeway takes you	「ロープウェイは『ゴールドソーサー』行きだ。
+to the 'Gold Saucer'.	料金は、タダだから心配いらんよ」
+It's free, so don't worry about it.”	
+“Hey everyone!	「オーイ、あんたら！
+If you want to go to the 'Gold Saucer',	『ゴールドソーサー』に行くなら
+hurry and get on!”	早く乗っておくれ」
+“The Gold Saucer is currently closed.	「ゴールドソーサーは今、閉園中なんだ。
+The Ropeway's up and runnin', but	ロープウェイは使えるけど
+there's no point in goin' there.”	行ってもムダだと思うよ」
+“The Gold Saucer reopened.	「ゴールドソーサーが再開したよ。
+Why don't you go play hard and	こんな時だからこそ、遊んで頭もサイフも
+clear your heads	カラッポにしたらどうだい？」
+as well as your pockets?”	
+“I'm gonna use all my life savings	「メテオが落ちる前にゴールドソーサーで
+before Meteor hits!”	有り金を全部使ってやるぜ！」
+“I know how you feel,	「あせる気持ちは分かるけどよ。
+but what if Meteor doesn't hit us?	メテオが落ちなかったら
+What are you gonna do then?”	そのあと、どうするんだよ？」
+	
+…My hometown, Corel's always	……オレの故郷、コレルは
+been a coal mining town.	古くからの炭坑の村だった。
+It may be dusty and poor,	ほこりっぽくて
+but it's calm…	のどかで、まずしくて……
+It's a real small town.	そんなちっぽけな村だった。
+That's the first time I ever heard	「魔晄炉」という名を初めて
+Mako Reactor mentioned since then…	耳にする、あの時までは……
+We all dreamt of the good life.	オレたちは豊かな生活を夢みていた。
+Then, all of a sudden, Shinra troops came…	しかし……突然神羅の軍が……
+	
+Village Headman	村長
+“What are we going to do?	「どうする？
+The only one opposed	反対してるのは
+to this is Dyne…”	ダインだけだが……」
+Dyne	ダイン
+“I am definitely against it, no matter what.	「俺は絶対反対だ。
+There's nothing to talk about if you're	コレルの炭坑をすてるなんて
+thinking of throwing away our coal!”	できない相談だからな！」
+Dyne	ダイン
+“The coal's been ours for generations.	「コレルの炭坑は、俺たちの
+Our fathers, and theirs before them,	じいさんたち、おやじたちが
+risked their lives for it.”	命がけで守ってきたものだ」
+“We have no right to throw it all	「俺たちの時代になって
+away so easily!”	すてることなんてできない！」
+BARRET	BARRET
+“But listen, Dyne.	「でもよ、ダイン。
+No one uses coal nowadays.	今の時代、石炭なんて誰も使わない。
+It's the sign of the times.”	時代にはさからえないんだ」
+Scarlet	スカーレット
+“Right, everything is Mako, now.”	「そう、時代は魔晄エネルギー」
+“It'll be all right, Dyne.	「だいじょうぶですよ、ダインさん。
+Shinra, Inc. will guarantee your	魔晄炉完成のあかつきには
+livelihood once the Mako Reactor	我々神羅カンパニーが
+is completed.”	みなさんの生活を保障します」
+BARRET	BARRET
+“Listen, Dyne.	「な、ダイン。
+I don't want my wife, Myrna,	オレは女房のミーナに
+to suffer anymore.”	これ以上苦しい生活をさせたくないんだ」
+Dyne	ダイン
+“I know how you feel!	「そんなの俺だって同じなんだ！」
+I feel the same way too, damn it!”	
+“But even so,	「でも、それでも俺には
+I won't give away our coal mines!”	炭坑をすてるなんて
+	できないんだよ！」
+Village Headman	村長
+“Dyne…you've got to understand.”	「ダイン……わかってくれ」
+“That's how the Corel Reactor	「こうしてコレル魔晄炉は
+was built…and completed.”	建設され……完成した。」
+“We all thought it would bring us an	「オレたちは豊かな生活を夢みていた。
+easier life.”	しかし…………」
+“It happened when Dyne and I were	「オレとダインが村を離れている
+out of town for a few days.”	ほんのわずかな時間の出来事だった。」
+“Corel was burned down by	「コレル村は神羅の軍によって
+the Shinra troops.”	やきはらわれてしまったんだ。」
+All the townspeople…	大勢の村人たちも……
+All my relatives……	オレたちの家族も……
+Everyone…everything…	みんな……いっしょに……
