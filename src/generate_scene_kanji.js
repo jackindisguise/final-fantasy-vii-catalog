@@ -28,10 +28,16 @@ fs.readdir(inputNewFolder, function(err, files){
 		let line = [];
 		line.push(`${sceneName}`);
 		line.push("---");
+		if(nSplit.length) {
+			line.push("**New Kanji**:")
+			line.push(`> ${newKanjiData}`);
+			line.push("");
+		}
+		line.push("**About**:");
 		line.push(`* There are **${count}** total kanji that appear in this scene.`);
 		line.push(`* There are **${uSplit.length}** unique kanji that appear in this scene.`);
-		line.push(`* There are **${nSplit.length}** kanji that are introduced for the first time in this scene.`);
-		line.push(`* That's **${(nSplit.length / kanji.unique*100).toFixed(2)}%** of the unique kanji in the entire script.`);
+		line.push(`* There are **${nSplit.length}** unique kanji that appear for the first time ever.`);
+		if(nSplit.length) line.push(`* That's **${(nSplit.length / kanji.unique*100).toFixed(2)}%** of the unique kanji in the entire script.`);
 		scenes.push(line.join("\r\n"));
 	}
 
