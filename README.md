@@ -17,7 +17,7 @@ Navigation:
 ---
 The Anki deck and related files are stored in `/deck`.
 
-The Javascript written to process the script is stored in `/script`.
+The Javascript written to process the script is stored in `/src`.
 
 The spreadsheets that are being used to handle everything are stored in `/spreadsheets`.
 
