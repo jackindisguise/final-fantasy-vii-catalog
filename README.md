@@ -21,8 +21,8 @@ The Javascript written to process the script is stored in `/script`.
 
 The spreadsheets that are being used to handle everything are stored in `/spreadsheets`.
 
-Formatted scripts are stored in `/text/formatted`.
+Formatted scripts are stored in `/scene/formatted`.
 
-Processed scripts are stored in `/text/processed`.
+Processed scripts are stored in `/scene/processed`.
 
-Data regarding kanji is stored in `/text/kanji`.
+Data regarding kanji is stored in `/kanji`.
