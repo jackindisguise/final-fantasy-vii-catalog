@@ -17,8 +17,10 @@ let scenes = [];
 fs.readdir(inputNewFolder, function(err, files){
 	for(let file of files){
 		if(file.indexOf(".txt") === -1) continue;
-		let kanjiData = fs.readFileSync(inputNewFolder+file, "utf8");
-		let split = kanjiData.split("");
+		let newKanjiData = fs.readFileSync(inputNewFolder+file, "utf8");
+		let nSplit = newKanjiData.split("");
+		let uniqueKanjiData = fs.readFileSync(inputUniqueFolder+file, "utf8");
+		let uSplit = uniqueKanjiData.split("");
 		let sceneData = fs.readFileSync(inputSceneFolder+file, "utf8");
 		let count = 0;
 		sceneData.match(kanjiRule).forEach(function(){ count++; });
@@ -27,8 +29,9 @@ fs.readdir(inputNewFolder, function(err, files){
 		line.push(`${sceneName}`);
 		line.push("---");
 		line.push(`* There are **${count}** total kanji that appear in this scene.`);
-		line.push(`* There are **${split.length}** kanji that are introduced for the first time in this scene.`);
-		line.push(`* That's **${(split.length / kanji.unique*100).toFixed(2)}%** of the unique kanji in the entire script.`);
+		line.push(`* There are **${uSplit.length}** unique kanji that appear in this scene.`);
+		line.push(`* There are **${nSplit.length}** kanji that are introduced for the first time in this scene.`);
+		line.push(`* That's **${(nSplit.length / kanji.unique*100).toFixed(2)}%** of the unique kanji in the entire script.`);
 		scenes.push(line.join("\r\n"));
 	}
 
