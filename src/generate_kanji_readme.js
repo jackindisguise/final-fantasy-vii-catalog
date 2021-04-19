@@ -17,8 +17,6 @@ let sections = [];
 // generate general data
 {
 	let general = [];
-	general.push("Kanji in the Script");
-	general.push("---");
 	general.push("**Unique Kanji in Order of Appearance**");
 
 	// compose text list of all unique kanji
@@ -33,8 +31,13 @@ let sections = [];
 
 	// add to sections
 	sections.push(general.join("\r\n"));
+	sections.push("---");
 }
 
+// add scene header
+sections.push("Scenes\r\n---");
+
+// generate scene sections
 fs.readdir(inputNewFolder, function(err, files){
 	for(let file of files){
 		if(file.indexOf(".txt") === -1) continue;
