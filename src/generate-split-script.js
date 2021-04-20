@@ -13,6 +13,7 @@ let allSource = [];
 let allTarget = [];
 
 // read all processed texts and scrape kanji data
+console.log(`Splitting English/Japanese dialogue:`);
 fs.readdir(inputFolder, function(err, files){
 	if(err) return;
 	for(let file of files){
@@ -39,8 +40,11 @@ fs.readdir(inputFolder, function(err, files){
 
 		fs.writeFileSync(outputFolderEnglish+file, sourceLines.join("\r\n"), "utf8");
 		fs.writeFileSync(outputFolderJapanese+file, targetLines.join("\r\n"), "utf8");
+		console.log(`\t${file}`)
 	}
 
 	fs.writeFileSync(outputFolderEnglish+"combined.txt", allSource.join("\r\n"), "utf8");
+	console.log(`Combined all English dialogue into one file: '${outputFolderEnglish+"combined.txt"}'`)
 	fs.writeFileSync(outputFolderJapanese+"combined.txt", allTarget.join("\r\n"), "utf8");
+	console.log(`Combined all Japanese dialogue into one file: '${outputFolderJapanese+"combined.txt"}'`)
 });

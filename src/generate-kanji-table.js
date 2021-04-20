@@ -13,14 +13,18 @@ let kanjiArray = [];
 let kanjiCount = 0;
 
 // read all processed texts and scrape kanji data
+console.log("Scraping kanji from scenes.");
+console.log("");
+console.log("File\t\t\t\t|  Unique Kanji\t| New Kanji");
+console.log("----------------------------------------------------------------------------------------------------")
 fs.readdir(inputFolder, function(err, files){
 	if(err) return;
 	for(let file of files){
 		let uniqueKanjiInScene = [];
 		let newKanjiInScene = [];
-		let complete = inputFolder+file;
-		if(complete.indexOf(".txt") === -1) continue;
-		let data = fs.readFileSync(inputFolder+file, "utf8");
+		let fullPath = inputFolder+file;
+		if(fullPath.indexOf(".txt") === -1) continue;
+		let data = fs.readFileSync(fullPath, "utf8");
 		let kanjiRule = /([\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A])/g;
 		let x = data.match(kanjiRule);
 		if(x) data.match(kanjiRule).forEach(function(value, index, results){
@@ -39,9 +43,12 @@ fs.readdir(inputFolder, function(err, files){
 		let newKanjiFile = outputFolderNewKanji + file;
 		fs.writeFileSync(uniqueKanjiFile, uniqueKanjiInScene.join(""), "utf8");
 		fs.writeFileSync(newKanjiFile, newKanjiInScene.join(""), "utf8");
-		console.log(`Generated new and unique kanji list for scene '${file}'`)
+		let width = 31;
+		let safe = file;
+		safe = safe.length > width ? safe.substring(0,width-3)+"..." : safe.length < width ? safe + " ".repeat(width-safe.length) : safe;
+		console.log(`${safe}\t| ${uniqueKanjiInScene.length}\t\t| ${newKanjiInScene.length}`)
 	}
 
 	fs.writeFileSync(outputFile, JSON.stringify({unique:kanjiArray.length, total:kanjiCount, table:kanjiArray}, null, "\t"), "utf8");
-	console.log("Generated kanji table.")
+	console.log("Kanji table generated!")
 });

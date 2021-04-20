@@ -67,5 +67,6 @@ fs.readdir(inputNewFolder, function(err, files){
 	}
 
 	fs.writeFileSync(outputComprehensiveFile, sections.join("\r\n\r\n"), "utf8");
+	console.log(`Kanji README.md generated.`);
 });
 
