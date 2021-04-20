@@ -3,12 +3,19 @@
 		"動詞": "verb",
 		"名詞": "noun",
 		"形容詞": "i-adj",
-		"助詞": "particle"
+		"助詞": "particle",
+		"助動詞": "inflecting dependent word"
 	},
 	"pos2": {
 		"形容動詞語幹": "na-adj",
 		"副助詞": "adverbial particle",
 		"並立助詞": "list particle",
 		"終助詞": "sentence particle"
+	},
+	"form": {
+		"形容詞": "i-adj"
+	},
+	"form2": {
+		"連用タ接続": "ta form"
 	}
 }
