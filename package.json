@@ -4,7 +4,7 @@
   "description": "Processing the Japanese and English Final Fantasy 7 script for quick and easy use.",
   "main": "process.js",
   "scripts": {
-    "process": "cd src && node process_all",
+    "process": "cd src && node process-all",
     "kanji": "cd src && node generate-kanji-table && node generate-kanji-order && node generate-kanji-readme",
     "split": "cd src && node generate-split-script",
     "meta": "npm run kanji && npm run split",
