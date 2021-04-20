@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.5.0...v1.6.0) (2021-04-20)
+
+
+### Features
+
+* Added Scene 21: Nibelheim. ([b681bcb](https://github.com/nowotato/final-fantasy-7-script/commit/b681bcbf0a3248bfb50df39482f93681129d8668)), closes [#24](https://github.com/nowotato/final-fantasy-7-script/issues/24)
+
 ## [1.5.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.4.0...v1.5.0) (2021-04-20)
 
 
