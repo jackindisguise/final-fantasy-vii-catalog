@@ -1,3 +1,9 @@
+<center>
+![Version](https://img.shields.io/github/v/tag/nowotato/final-fantasy-7-script?label=current-version&style=for-the-badge)
+
+![All Scenes](https://img.shields.io/github/milestones/progress-percent/nowotato/final-fantasy-7-script/1?label=script-completion&style=for-the-badge)
+</center>
+
 About This Project:
 ---
 I started this project because Final Fantasy VII is one of my favorite stories of all time, and I want to be able to read it in its entirety in Japanese. I also want to share the information with others so they can also read Final Fantasy VII in its original language for themselves.
