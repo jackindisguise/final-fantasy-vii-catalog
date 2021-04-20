@@ -5,9 +5,10 @@
   "main": "process.js",
   "scripts": {
     "process": "cd src && node process_all",
-    "kanji": "cd src && node generate_kanji_table && node generate_kanji_order && node generate_kanji_readme",
-    "meta": "npm run kanji",
-    "release": "standard-version",
+    "kanji": "cd src && node generate-kanji-table && node generate-kanji-order && node generate-kanji-readme",
+	"split": "cd src && node generate-split-script",
+    "meta": "npm run kanji && npm run split",
+    "release": "npm run meta && standard-version",
     "release-dry": "standard-version --dry-run"
   },
   "author": "",
