@@ -48,16 +48,17 @@ fs.readdir(inputNewFolder, function(err, files){
 		let sceneData = fs.readFileSync(inputSceneFolder+file, "utf8");
 		let count = 0;
 		sceneData.match(kanjiRule).forEach(function(){ count++; });
+		let sceneNumber = file.substring(0,2);
 		let sceneName = file.substring(5, file.indexOf(".txt"));
 		let line = [];
-		line.push(`${sceneName}`);
+		line.push(`${sceneNumber}: ${sceneName}`);
 		line.push("---");
 		if(nSplit.length) {
 			line.push("**New Kanji**:")
 			line.push(`> ${newKanjiData}`);
 			line.push("");
 		}
-		line.push("**About**:");
+//		line.push("**About**:");
 		line.push(`* There are **${count}** total kanji that appear in this scene.`);
 		line.push(`* There are **${uSplit.length}** unique kanji that appear in this scene.`);
 		line.push(`* There are **${nSplit.length}** unique kanji that appear for the first time.`);
