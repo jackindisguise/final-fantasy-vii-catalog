@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.4.0...v1.5.0) (2021-04-20)
+
+
+### Features
+
+* Added more meta files. Can now easily grab just the Japanese or English text. ([ee25909](https://github.com/nowotato/final-fantasy-7-script/commit/ee25909f699cc0bbaab9e10bdae34e848701e11d))
+* Added Scene 20: Cosmo Canyon. ([2a1c653](https://github.com/nowotato/final-fantasy-7-script/commit/2a1c65333a52eb8fc2ff3fb00710513580253094)), closes [#23](https://github.com/nowotato/final-fantasy-7-script/issues/23)
+
 ## [1.4.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.3.0...v1.4.0) (2021-04-19)
 
 
