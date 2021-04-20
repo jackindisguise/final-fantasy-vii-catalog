@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.6.0...v1.7.0) (2021-04-20)
+
+
+### Features
+
+* Added Scene 22: Vincent. ([509d7ee](https://github.com/nowotato/final-fantasy-7-script/commit/509d7ee6073483963fee295e1e78a0c2f0832ec0)), closes [#25](https://github.com/nowotato/final-fantasy-7-script/issues/25)
+* Added Scene 23: Rocket Town and Cid. ([89e2184](https://github.com/nowotato/final-fantasy-7-script/commit/89e21844ae3a24040334e03e0aa525fa6fc6b593)), closes [#26](https://github.com/nowotato/final-fantasy-7-script/issues/26)
+
+
+### Bug Fixes
+
+* Scripts have more interesting output. ([3f40a5e](https://github.com/nowotato/final-fantasy-7-script/commit/3f40a5e818c42da07c6002c8b20c095702ffb19a))
+* Updated decks and spreadsheets. ([a984123](https://github.com/nowotato/final-fantasy-7-script/commit/a9841231109606ef0d02e945384cccead547e6f8))
+
 ## [1.6.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.5.0...v1.6.0) (2021-04-20)
 
 
