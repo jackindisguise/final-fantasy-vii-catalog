@@ -1,1 +1,1 @@
-This folder contains the separated English and Japanese script lines.
+This folder contains the separated English and Japanese dialogue of the scenes in the game.
