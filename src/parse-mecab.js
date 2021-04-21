@@ -2,9 +2,14 @@
 const { exec } = require("child_process");
 const fs = require("fs");
 
-const mecab = "C:\\Program Files (x86)\\MeCab\\bin\\mecab.exe";
+const symbols = require("./mecab-symbols");
 
-exec(`"${mecab}" in.txt`, function(err,stdout,stderr){
+const mecab = "C:\\Program Files (x86)\\MeCab\\bin\\mecab.exe";
+const file = "../scene/split/japanese/02 - Train and Sector 7 Night.txt";
+
+let words = [];
+
+exec(`"${mecab}" "${file}"`, function(err,stdout,stderr){
 	let lines = stdout.split("\r\n");
 	let tokens = [];
 	for(let line of lines){
@@ -17,6 +22,7 @@ exec(`"${mecab}" in.txt`, function(err,stdout,stderr){
 			if(meta[i] == "*") meta[i] = null;
 			else if(meta[i].indexOf("／") !== -1) meta[i] = meta[i].split("／");
 		}
+	
 		let token = {
 			word: word,
 			pos: meta[0],
@@ -30,6 +36,28 @@ exec(`"${mecab}" in.txt`, function(err,stdout,stderr){
 			readingKata: meta[8]
 		};
 
-		console.log(token);
+		if(!token.root) continue;
+		if(tokenIsNoun(token) && words.indexOf(token.root) === -1) words.push(token.root);
+		if(tokenIsVerb(token) && words.indexOf(token.root) === -1) words.push(token.root);
+		if(tokenIsAdjective(token) && words.indexOf(token.root) === -1) words.push(token.root);
+		if(tokenIsAdverb(token) && words.indexOf(token.root) === -1) words.push(token.root);
 	}
+
+	console.log(words);
 });
+
+function tokenIsNoun(token){
+	return token.pos === symbols.pos.noun;
+}
+
+function tokenIsVerb(token){
+	return token.pos === symbols.pos.verb;
+}
+
+function tokenIsAdjective(token){
+	return token.pos === symbols.pos.i_adjective || token.pos2 === symbols.pos.na_adj;
+}
+
+function tokenIsAdverb(token){
+	return token.pos === symbols.pos.adverb;
+}

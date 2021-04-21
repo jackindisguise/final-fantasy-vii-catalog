@@ -1,21 +1,22 @@
 {
 	"pos": {
-		"動詞": "verb",
-		"名詞": "noun",
-		"形容詞": "i-adj",
-		"助詞": "particle",
-		"助動詞": "inflecting dependent word"
+		"verb": "動詞",
+		"noun": "名詞",
+		"i_adj": "形容詞",
+		"particle": "助詞",
+		"inflecting dependent word": "助動詞",
+		"adverb": "副詞"
 	},
 	"pos2": {
-		"形容動詞語幹": "na-adj",
-		"副助詞": "adverbial particle",
-		"並立助詞": "list particle",
-		"終助詞": "sentence particle"
+		"na_adj": "形容動詞語幹",
+		"adverbial particle": "副助詞",
+		"list particle": "並立助詞",
+		"sentence particle": "終助詞"
 	},
 	"form": {
-		"形容詞": "i-adj"
+		"i_adj": "形容詞"
 	},
 	"form2": {
-		"連用タ接続": "ta form"
+		"ta_form": "連用タ接続"
 	}
 }
