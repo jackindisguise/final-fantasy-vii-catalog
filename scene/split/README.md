@@ -1,0 +1,1 @@
+This folder contains the separated English and Japanese script lines.

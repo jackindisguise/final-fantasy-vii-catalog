@@ -1,0 +1,1 @@
+Each text file in this folder corresponds to a sheet in the `processed.xlsx` spreadsheet, in table form for easy viewership.

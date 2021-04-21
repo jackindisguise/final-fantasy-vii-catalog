@@ -1,0 +1,1 @@
+Each text file in this folder corresponds to a sheet in the `processed.xlsx` spreadsheet, and contains only the Japanese text.
