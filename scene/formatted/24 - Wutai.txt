@@ -851,7 +851,7 @@ Sorry, but why don't you all come back later?”	わるいな、また後でき�
 “Listen, I'm sorry about last time.	「やあ。こないだは悪かったな。
 YUFFIE told me	じつはYUFFIEちゃんに
 not to sell anything to you.”	アンタらに売るの、止められててさ」
-	「でももう解決したんだよな？
+[DOESN'T EXIST]	「でももう解決したんだよな？
 	さあ、買った買った！」
 “This is a weapon store of hard cores,	「ここは、あきらめない人間による
 by hard cores, and for the hard cores!	あきらめない人間のための武器屋！
@@ -1021,10 +1021,10 @@ Flip the Left Lever	左のレバーをさげる
 Flip the Right Lever	右のレバーをさげる
 [Turtle's Paradise]	【かめ道楽　通信】
 No. 6	ナンバー６
-Drink at the "Turtle's Paradise"	『かめ道楽』で飲まずして
+“Drink at the "Turtle's Paradise"	「『かめ道楽』で飲まずして
 and talk about Wutai!	ウータイを語るなかれ！
 To find "Turtle's Paradise",	居酒屋『かめ道楽』は
-look for the big pot outside!!	でっかいツボが目印です！！
+look for the big pot outside!!”	でっかいツボが目印です！！」
 Hidden Room	かくし部屋
 	
 YUFFIE	YUFFIE
@@ -1166,7 +1166,7 @@ Wheee! Wheee!”	ういの～、うぶいの～」
 “All right, that's it!!”	「そこまでだ！」
 “Hold it right there!”	「待ちなさい！」
 “Hey, hey, hey!	「おうおうおう！
-That's as far as you go!”	そのヘンにしときな！
+That's as far as you go!”	そのヘンにしときな！」
 Corneo	コルネオ
 “Hee-haw.	「ほひ～。
 What…what's goin' on!? Who's there?”	なんだ、なんだ！　何者だ！」
@@ -1191,7 +1191,7 @@ AERIS	AERITH
 “You just don't get it, do you…!?”	「こりない人ね
 	こんなマネして……！」
 Corneo	コルネオ
-“Hmm…Who are you guys!?”	「ほひひ、なんだ、お前たちは！？
+“Hmm…Who are you guys!?”	「ほひひ、なんだ、お前たちは！？」
 CID	CID
 “Maybe God'd forgive an ugly ^#@# like you,	「てめーみてえな、ゲスやろう
 but I won't!”	神さんが許しても、このオレ様が
@@ -1268,7 +1268,7 @@ YUFFIE	YUFFIE
 Corneo	コルネオ
 “Once I push this button, they'll fall	「このスイッチを押すと、このまま
 and we'll have SQUASHED TOMATOES!”	下に真っ逆さま……
-	つぶれたトマトのでき上がり！
+	つぶれたトマトのでき上がり！」
 CLOUD	CLOUD
 “Damn!”	「クッ……！」
 TIFA	TIFA
@@ -1545,7 +1545,7 @@ Staniv	スタニフ
 each floor will be your opponent…	立ち合うのが、ならわし……。
 This is a five-storied pagoda,but	しかし、ここは五強の塔４階にして
 the fourth floor is the highest…”	最上階の意味を持つ……」
-“In other words, no one has ever	すなわち！
+“In other words, no one has ever	「すなわち！
 defeated me--Master of Weaponry!”	武の強聖の、私を敗った者は
 	かつてないということだ」
 “You still want to try…?”	「それでも、戦うかね……？」
@@ -1923,8 +1923,8 @@ Here, I'll give this to you guys.”	これもアンタたちにあげちゃう�
 Besides, they have lots of Materia anyway.”	あいつら、いっぱいマテリア
 	持ってるしな」
 YUFFIE	YUFFIE
-“Here, look, look!”	「ホラ、見て見て！」
-	ジャジャーン！！
+“Here, look, look!”	「ホラ、見て見て！
+	ジャジャーン！！」
 Received "MP Absorb" Materia!	『ＭＰきゅうしゅう』のマテリアを手にいれたー！
 YUFFIE	YUFFIE
 “…”	「…………」
