@@ -1,6 +1,9 @@
 # ignore npm stuff
 node_modules/
 
+# my stuff
+jsdict/
+
 # ignore files
 formatted.txt
 processed.txt
