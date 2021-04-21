@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.7.0...v1.8.0) (2021-04-21)
+
+
+### Features
+
+* Added Scene 24: Wutai. ([435d09e](https://github.com/nowotato/final-fantasy-vii-catalog/commit/435d09ed13c31ad624a24348249a38a9720943fc)), closes [#27](https://github.com/nowotato/final-fantasy-vii-catalog/issues/27)
+* Added Scene 25: Gold Saucer (Pre-Date). ([5dcf14e](https://github.com/nowotato/final-fantasy-vii-catalog/commit/5dcf14e9ae711652f1eb88136b5eafa444cb53c2)), closes [#28](https://github.com/nowotato/final-fantasy-vii-catalog/issues/28)
+* Added Scene 26: Date Scene. ([2bb37ba](https://github.com/nowotato/final-fantasy-vii-catalog/commit/2bb37ba91782ea0f0565426fd815160ab5d05d53)), closes [#29](https://github.com/nowotato/final-fantasy-vii-catalog/issues/29)
+
 ## [1.7.0](https://github.com/nowotato/final-fantasy-7-script/compare/v1.6.0...v1.7.0) (2021-04-20)
 
 
