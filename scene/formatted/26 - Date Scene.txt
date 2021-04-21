@@ -1,0 +1,946 @@
+TIFA	TIFA
+“CLOUD…”	「CLOUD……」
+CLOUD	CLOUD
+“What's wrong?”	「どうしたんだ？」
+TIFA	TIFA
+“……”	「…………」
+TIFA	TIFA
+“I thought about what I was going to say,	「セリフ、考えてきたんだけど
+but, it's kinda embarrassing…”	なんだかてれちゃうな……」
+TIFA	TIFA
+“Hey, CLOUD!	「ね、CLOUD！
+Why don't the two of us sneak out of here	ふたりでこっそり遊びにいかない？」
+and spend some time together?”	
+TIFA	TIFA
+“Come on, let's go!”	「ね、行きましょ！」
+CLOUD	CLOUD
+“Hey.”	「お、おい」
+AERIS	AERITH
+“Hee, hee!”	「エヘヘ！」
+AERIS	AERITH
+“Let's go on a date!”	「デート、しない？」
+CLOUD	CLOUD
+“What?”	「はぁ？」
+AERIS	AERITH
+“A D-A-T-E!	「デ・ー・ト！
+Or haven't you ever gone on one?”	したことないの？」
+Don't take me for a fool	バカにするな
+Well, not a real one…	正式には、ない
+AERIS	AERITH
+“Hey…a little touchy, aren't we?”	「あ、ムキになるの、あやしい」
+AERIS	AERITH
+“No, just a mixed-up kid…”	「う～ん、不幸な青年、ね」
+AERIS	AERITH
+“Oh well.	「まぁ、いいわ。
+Come on, let's go!”	さ、いきましょ」
+BARRET	BARRET
+“Yo, CLOUD.	「よう、CLOUD。
+You still up?”	起きてるな？」
+BARRET	BARRET
+“Uh, I was jus' thinkin' of goin'	「いや、散歩でもしねえかと思ってよ」
+for a walk…”	
+CLOUD	CLOUD
+“What, just the two of us?”	「２人でか？」
+BARRET	BARRET
+“What's wrong with that?	「いいじゃねえかよ！
+Don't gimme no lip!! Just c'mon!”	さ、グダグダ言ってねえで行くぞ！」
+YUFFIE	YUFFIE
+“CLOUD you up?”	「CLOUD　起きてる？」
+YUFFIE	YUFFIE
+“Would you…keep me company	「ちょ、ちょっと
+for a bit.”	アタシに付き合ってくれよ」
+CLOUD	CLOUD
+“Huh?	「？
+Keep you company where?”	付き合うってどこへ？」
+YUFFIE	YUFFIE
+“Just come on.”	「いいから」
+Hotel	客室
+Terminal Floor	ターミナルフロア
+	
+“Tonight's Enchantment Night!	「さあ、今夜はマジカルナイト！
+All the attractions are free.”	すべてのアトラクションは
+	無料になってるよ」
+“How 'bout it you two? There's	「あっ、どうです、そこのお２人さん。
+going to be an entertaining show	今から、こちらイベントスクェアで
+in Event Square!”	楽しいショーが始まりますよ！」
+“Congratulations!!”	「おめでとうございます！！」
+“You are our 100th couple today!!”	「あなた方が
+	本日１００組目のカップルです！！！」
+“You are our 100th couple today…	「あなた方が
+Oh, wait…no you're not…	本日１００組目のカップル……
+	じゃないみたいですね……
+Sorry.”	しつれい」
+“You two will play the leads	「あなた方が
+in tonight's show!!”	これから始まるショーの
+	主人公です！！！！」
+CLOUD	CLOUD
+“Wha?”	「はぁ？」
+“Oh, now, it's not hard. Just play	「難しいことはありません
+it however you want to and the rest	あなたは好きにしてくだされば
+of the cast will cover up for you.”	ショーのプロが話をまとめますので」
+“Come this way.”	「ささ、こちらへ」
+CLOUD	CLOUD
+“H, hey!”	「お、おい」
+AERIS	AERITH
+“This sounds like fun.	「わぁ、おもしろそう
+Come on CLOUD, let's do it.”	はやく行きましょ、CLOUD」
+TIFA	TIFA
+“Sounds like fun.	「へぇ、なんかおもしろそう。
+Come on CLOUD,	行きましょう、CLOUD」
+let's give it a try.”	
+YUFFIE	YUFFIE
+“I don't know what it's all about but	「なんだか、わからないけど
+sounds kind of cool.	
+Wanna try it, CLOUD?”	行こうよ、CLOUD」
+Event square	イベントスクェア
+Narration	ナレーション
+“Long, long ago…”	「むか～し、昔のそのまた昔の物語」
+“An evil shadow appeared over the	「和平なガルディア王国にとつじょとして
+peaceful kingdom of Galdia…”	襲いかかる、邪悪な影…」
+“Princess Rosa was kidnapped	「ああ、悪竜王ヴァルヴァドスにさらわれた
+by the Evil Dragon King,	姫君ルーザの運命は
+Valvados. What will become of her?”	どうなってしまうのでありましょうか…」
+“Just then,	「しかし、その時！
+the legendary hero, Alfred, appears!!”	伝説の勇者アルフリードが
+	ガルディア王国に
+	あらわれたのであります！！」
+Knight	兵士
+“Oh……You must be	「おお～、あな～たこそ～
+the legendary hero…Alfred!”	伝説の勇者～、アルフリ～ド！」
+Knight	兵士
+“Hey, it's your line.”	「ちょっと、アンタだよ」
+Knight	兵士
+“Yeah, you.”	「そう、アンタ」
+Knight	兵士
+“Ahem!”	「オホン！」
+Knight	兵士
+“By my soul,	「なぜかわかりま～す、わかるので～す。
+please…please save Princess Rosa!”	どうか～、どうか、ルーザ姫を
+	お救い、くださ～～～い」
+Knight	兵士
+“Now…please talk…	「さあ～、王様に～
+to the King!!”	おはな～しを～～！！」
+King	王様
+“Oh…legendary hero, Alfred.	「おお～、勇者アルフリ～ド
+You have come to save my beloved	私の愛しいル～ザを
+Rosa…”	救うために～やってきた～」
+King	王様
+“On the peak of a dangerous mountain…	「悪竜王ヴァルヴァドスのすみかは～
+dwells the Evil Dragon King, Valvados…	はるか険しい山の上～。
+who's kidnapped Princess Rosa…”	あわれル～ザは捕われの身～」
+King	王様
+“But…	「しか～し
+you can't beat the Evil Dragon King now!	今のお前では悪竜王には勝て～ん！
+Talk to one who can help you…”	お前の力とな～る者に語りかけよ～」
+Who will you talk to?	どっちに話しかけようかな？
+The knight	兵士
+The wizard	魔法使い
+Wizard	魔法使い
+“I am the great wizard, Vorman.	「わた～しは大魔法使いボーマン～。
+What do you wish to know?”	お前～は何を知りたいの～？」
+The Evil Dragon King's weakness	悪竜王～の～弱点
+The Princess' measurements	ル～ザ姫の～スリ～サイズ
+Knight	兵士
+“I am…a lowly…knight.	「わたし～は名もなき～兵士～。
+How…can I help you?”	わたし～に何のごようでしょ～う？」
+Defeat the Evil Dragon King	悪竜王～を～倒せ～
+Defeat the King	王様を～倒せ～
+Wizard	魔法使い
+“Ahh, the weakness of the Evil Dragon King.	「ああ～悪竜王の弱点
+It must be, it must be…”	それは～、それは～」
+Wizard	魔法使い
+“Yes, it must be…	「そう！
+True love!”	それは真実の～愛！」
+Wizard	魔法使い
+“The power of love…	「愛しあ～う２人の力こそが～
+Is the only weapon that can withstand	悪竜王の邪悪な～る牙に打ち勝つ
+the fangs of the Evil Dragon King…!”	ただひとつの武器～！」
+Narration	ナレーション
+“Oh what is going to happen next?	「なんということで～ありましょう～！
+Oh…legendary hero…look!”	おお！勇者よ～、あれを見よ～！」
+EDK	悪竜王
+“Gaaaaaaaah!”	「ガハハハハ～！」
+EDK	悪竜王
+“I am the Evil Dragon King…Valvados!	「我こそは～、悪竜王ヴァルヴァドス～！
+I have not harmed the Princess…	さらった姫に～
+I have been expecting…you!”	何もしないで待っていたぞ～！」
+Princess	姫
+“Please help me…	「お助け～ください～
+legendary hero!”	勇者さま～！」
+Princess	姫
+“How was that?”	「……こんな感じ？」
+Princess	姫
+“How was that?”	「……こんな感じかな？」
+Princess	姫
+“…Was that good?”	「……これでいいのか？」
+EDK	悪竜王
+“Gaaaaaah!	「ガハハハハ～！
+Here I come, legendary hero…Alfred!”	いくぞ勇者アルフリ～ド～！」
+EDK	悪竜王
+“I already know…	「なんで～
+your name!”	名前を知っているかは
+	気にするな～！」
+Wizard	魔法使い
+“And now…legendary hero…! Here is	「さあ～勇者よ～！
+what will happen…to your beloved…”	今こそなんじの～愛するものに～」
+Wizard	魔法使い
+“A kiss!	「口づけを～！
+The power of True Love!!”	真実の愛の～力を～！！」
+Kiss the Princess	姫にする～
+Kiss the King	王様～にする～
+Kiss the Evil Dragon King	悪竜～王にする～
+EDK	悪竜王
+“What ho! You dare	「コラァ～！
+ignore the Evil Dragon King!?”	この悪竜王様を無視するな～！」
+EDK	悪竜王
+“Gaaaaaaahh!	「ガハハハハ～！
+Prepare yourself…legendary hero Alfred!”	いいか勇者アルフリ～ド～！」
+EDK	悪竜王
+“Who is your enemy…?	「お前の敵は誰だ
+Say it!”	さあ～言ってみろ～！」
+The Evil…Dragon King…	悪～竜王～～
+The King	王～様～
+That Knight	兵～士～
+Knight	兵士
+“Uuuuuurrrrrgh!”	「ウ、ウワ～アアア～！」
+EDK	悪竜王
+“Gaaaaaaaaaaahh!	「ガハハハハ～！
+What now…legendary hero!?”	さあ～どう～する勇者よ～！」
+To the Princess	姫のもと～へ
+To the King	王様のもと～へ
+To home	スタコ～ラ逃げ～る
+Knight	兵士
+“…	「……………
+Someone…help…”	だれか、助けて……」
+King	王様
+“Oh…Alfred…!	「おお～アルフリ～ド～！
+In truth…I too…”	じつはワシも～お前のことがあ～」
+EDK	悪竜王
+“Arrggaahhh!!	「ウギャアア～
+Curses…	俺は～
+The power of…love!!”	愛の力に弱～いんだあ～！！」
+King	王様
+“Oh…behold!	「おお見よ～！
+Love has…triumphed!”	２人の愛の～勝利～だ～！」
+King	王様
+“Now let's all return…	「さあみなのもの～
+and celebrate.”	もどって～
+	いわいのうたげを～」
+“Yes let's…yes let's…!”	「そうしよ～　そうしよ～」
+Narration	ナレーション
+“Oh, how profound the power of love…	「ああ、何と強い愛の力でありましょう……
+And so the legendary hero Alfred and	伝説の勇者アルフリードの物語は
+our story live on happily ever after.”	こうしてめでたく棊を閉じるのであります」
+AERIS	AERITH
+“Wh, what?”	「ちょ、ちょっと何これ」
+AERIS	AERITH
+“You must be kidding!”	「こんなのイヤー！」
+TIFA	TIFA
+“H, hey, what is this?”	「ちょ、ちょっとなんなの？」
+TIFA	TIFA
+“That can't be the end!!”	「こ、これで、終わりなんて
+	いやーー！！」
+YUFFIE	YUFFIE
+“What…?”	「な、なんだ？」
+YUFFIE	YUFFIE
+“…That's it?”	「終わり？」
+Princess	姫
+“CLOUD…	「CLOUD……
+I mean, Alfred…”	じゃなかった、アルフリ～ド～」
+King	王様
+“Come on! No more!”	「ヒ～エ～！もうダメ～だ～！」
+AERIS	AERITH
+“Stop it CLOUD!	「コォ～ラ～！
+	CLOUD～！
+What are you doing!?”	さっきからなにやってんのよぉ！」
+AERIS	AERITH
+“The play's a disaster!	「おしばい、だいなしじゃない！
+Now I'm getting mad!”	もう怒ったんだから！」
+TIFA	TIFA
+“CLOUD!! Be serious!!	「CLOUD！！
+You really don't want to be	もっとまじめにやってよ！！
+in the play that much, do you?”	そんなに、私とおしばいしてるのイヤなわけ！？」
+TIFA	TIFA
+“Now I'm mad!”	「もう怒ったわよ！」
+YUFFIE	YUFFIE
+“Come on, CLOUD!!	「コラ！　CLOUD！！
+I'm tryin' to be serious here	せっかく、アタイがまじめに
+and you…”	やってるのに…」
+YUFFIE	YUFFIE
+“Ok, now I'm pissed!”	「もう、怒った！」
+EDK	悪竜王
+“Gaaaaaahh!	「ガハハハハ～！
+You dare ignore me!!”	俺を～無視するとは～
+	いい度胸だ～！」
+AERIS	AERITH
+“Why don't you shut up,	「何よアンタ
+blabbermouth!!”	ゴチャゴチャうるさいのよ！！」
+TIFA	TIFA
+“Shut up!!”	「うっるさいわね！！」
+YUFFIE	YUFFIE
+“Just shut up!!”	「うるっさい！！」
+Narration	ナレーション
+“Oh my…what an unusually strong Princess!	「あ……ああ、何と強い……姫の力！
+And so the new legendary hero Rosa	伝説の勇者ルーザの物語は
+and our story ends happily ever after.”	こうしてめでたく棊を閉じるのであります」
+EDK	悪竜王
+“What…?”	「なにを…」
+EDK	悪竜王
+“Urrrrrgh”	「うぎゃああ」
+Beautiful Girl	美女性
+“Thank…you.	「ありがとう～ございます～。
+You've released me…from the spell	おかげで～のろいがとけて～
+and I am my normal self again…”	元の姿にもどれま～した～」
+AERIS	AERITH
+“Oh, that was fun.	「あ～、おもしろかった。
+Hey, let's go on the Gondola.”	ね、次はゴンドラ乗ろう」
+TIFA	TIFA
+“Hmm, that was funny.	「フフ、おかしかったね。
+Hey, let's go on the Gondola next.”	ねぇ、次はゴンドラ乗りましょ」
+YUFFIE	YUFFIE
+“I didn't get it. CLOUD,	「なんだか、よくわかんなかったなぁ。
+let's go on the Gondola next.”	CLOUD、次はゴンドラ乗ろうよ」
+BARRET	BARRET
+“Let's go somewhere	「ちょっと、静かに話せるとこ、行こうぜ」
+where we can talk, in private.”	
+AERIS	AERITH
+“Two, please.”	「２人おねがいしま～す」
+TIFA	TIFA
+“Two, please.”	「２人おねがいします」
+YUFFIE	YUFFIE
+“Two.”	「２人でのるよ」
+BARRET	BARRET
+“Hey! You gotta be kiddin'!	「おいおい、男２人で
+Just us two?	乗るのかよ……
+…ok, that's cool, I guess…”	まぁ、いいけどな」
+BARRET	BARRET
+“Yo. Two.”	「おい、２人だ」
+“Here you are, two tickets.”	「はい、お２人様ですね」
+Inside the Ferris Wheel	観らん車内部
+TIFA	TIFA
+“Look, there.”	「あっ、あれ」
+TIFA	TIFA
+“Look, look.”	「見て、見て」
+AERIS	AERITH
+“Wow.”	「すっご～い」
+AERIS	AERITH
+“CLOUD!”	「CLOUD、ほら！」
+YUFFIE	YUFFIE
+“Geez!”	「すっげぇ」
+YUFFIE	YUFFIE
+“Oh my gawd!”	「ひょ～！」
+TIFA	TIFA
+“Oh, how pretty.”	「わあ、きれい」
+TIFA	TIFA
+“Look, CLOUD.”	「ねぇ、CLOUD見て」
+TIFA	TIFA
+“Oh, CLOUD.”	「CLOUD、ほら」
+AERIS	AERITH
+“Wow, how nice.”	「わあ、すご～い」
+AERIS	AERITH
+“Oh! Look, CLOUD.”	「あっ！　CLOUD見て」
+AERIS	AERITH
+“It's so pretty.”	「わあ、きれ～」
+YUFFIE	YUFFIE
+“Wow!”	「あっ！」
+YUFFIE	YUFFIE
+“Geez!!”	「わあ！！」
+YUFFIE	YUFFIE
+“CLOUD!”	「CLOUD！」
+Wait a minute.	もうちょっとまって。
+TIFA	TIFA
+“…it's really pretty, isn't it?”	「……きれいね」
+TIFA	TIFA
+“Ok, I'm going to just	「……言っちゃおうかな」
+go ahead and say it…”	
+CLOUD	CLOUD
+“…What?”	「……何を」
+TIFA	TIFA
+“AERIS would be able to just	「AERITHなら、きっと
+come out and say it, probably.”	ハッキリ言うんだろうな」
+CLOUD	CLOUD
+“Huh?”	「はぁ？」
+TIFA	TIFA
+“Sometimes being old friends is hard.”	「幼なじみってむずかしいよね」
+TIFA	TIFA
+“I mean, timing is everything.”	「タイミング、むずかしいのよ」
+CLOUD	CLOUD
+“Yeah…”	「はぁ……」
+TIFA	TIFA
+“CLOUD…?”	「あのね、CLOUD」
+TIFA	TIFA
+“I…”	「私ね……」
+TIFA	TIFA
+“….	「……………
+….”	…………………」
+AERIS	AERITH
+“…Beautiful, isn't it?”	「……きれいだね」
+AERIS	AERITH
+“……first off,	「……はじめはね
+it bothered me how you	そっくりだったから
+looked exactly alike.”	気になった」
+AERIS	AERITH
+“Two completely different people,	「全然別人なんだけど、そっくり」
+but look exactly the same.”	
+AERIS	AERITH
+“The way you walk, gesture…”	「歩きかた、手の動かしかた……」
+AERIS	AERITH
+“I think I must have seen him again, in you…”	「あなたの中に彼を見ていた……」
+AERIS	AERITH
+“But you're different.”	「でも、ちがうの」
+AERIS	AERITH
+“Things are different…”	「いまは、ちがう……」
+AERIS	AERITH
+“CLOUD…”	「ね、CLOUD」
+AERIS	AERITH
+“I'm searching for you.”	「わたし、あなたをさがしてる」
+CLOUD	CLOUD
+“…?”	「……………？」
+AERIS	AERITH
+“I want to meet you.”	「あなたに会いたい」
+CLOUD	CLOUD
+“But I'm right here.”	「俺はここにいる」
+AERIS	AERITH
+I know, I know…what I mean is…	（うんうん、わかってる……でも）
+AERIS	AERITH
+“I want to meet…you.”	「あなたに……会いたい」
+BARRET	BARRET
+“Hey spike-head.	「おめえよ～。
+What'd you wanna see fireworks with me for?”	オレと花火見て楽しいかあ？」
+CLOUD	CLOUD
+“Not having fun?”	「……楽しいと思うか？」
+BARRET	BARRET
+“You should've asked one of them!”	「それならよ、どっちか誘えば
+	良かっただろうが！」
+CLOUD	CLOUD
+“Which would you have asked?”	「どっちか？」
+BARRET	BARRET
+“Oh man, there just ain't no choice!”	「決まってんだろ！」
+BARRET	BARRET
+“TIFA, AERIS.”	「TIFA、AERITH」
+BARRET	BARRET
+“Ah, YUFFIE?”	「おっ、YUFFIEか？」
+CLOUD	CLOUD
+(hoo boy)	（やれやれ）
+BARRET	BARRET
+“What the hell's that supposed to mean?”	「なんだよ、それ」
+BARRET	BARRET
+“Hey, you don't mean…Marlene?”	「おめえ、まさか……マリンを？」
+BARRET	BARRET
+“NO WAY! Forget it!”	「ダメだ！　許さねえ！」
+BARRET	BARRET
+“There ain't no way I'm lettin' a wacko like you	「おまえみたいなワケがわからないヤツに
+anywhere near my little Marlene!”	マリンはやれねえ！」
+BARRET	BARRET
+“She's my baby. My prized possession.”	「マリンは、オレの宝物だからな」
+BARRET	BARRET
+“…Marlene.”	「…………マリン」
+BARRET	BARRET
+“Wish I could've brought Marlene here.	「……マリンに見せたかったぜ。
+She'd love the fireworks.”	この花火よぉ」
+BARRET	BARRET
+“Why the hell do I gotta be	「どうしておまえなんかと……」
+here with a jackass like you!”	
+BARRET	BARRET
+“…The more I think	「クソッ……なんだか腹が立ってきたぜ」
+bout it the madder I get!”	
+BARRET	BARRET
+“Damn fireworks anyways.”	「うるせえ花火だ」
+BARRET	BARRET
+“Shut up!!”	「うるせ～～～！！」
+YUFFIE	YUFFIE
+“CLOUD…?”	「CLOUD……」
+YUFFIE	YUFFIE
+“No I, uh…”	「いや、なんかさ～」
+CLOUD	CLOUD
+“…”	「…………」
+YUFFIE	YUFFIE
+“I just felt like doing that.”	「そういうフンイキかなって
+	思ったワケよ」
+YUFFIE	YUFFIE
+“That's all.”	「ん、そんだけ」
+YUFFIE	YUFFIE
+“H, hey!!	「お、おい！
+Say something, why don't you!”	なんとか言いなよ！」
+YUFFIE	YUFFIE
+“…gawd, I could just die.”	「…………照れるよ」
+YUFFIE	YUFFIE
+“Say something, PLEASE!”	「なんとか言ってよ～～ッ！」
+CLOUD	CLOUD
+“…something.”	「………………ナントカ」
+AERIS	AERITH
+“There's no time for this!	「そんな場合じゃない、でしょ？
+We have to go after CAIT SITH.”	はやく、CAIT SITH、追いましょう」
+TIFA	TIFA
+“There's no time to waste.	「ゆっくりしてるヒマは無いの。
+Let's hurry and go after CAIT SITH!”	はやくCAIT SITHを追いましょ！」
+YUFFIE	YUFFIE
+“Should we be wasting time like this?	「そんな、ゆっくりしててい～の？
+Weren't we going after CAIT SITH?”	CAIT SITHを追うんじゃないのか？」
+BARRET	BARRET
+“The hell're you doin'!?	「何してんだ！
+We're goin' after CAIT SITH!”	はやくCAIT SITHを追うぞ」
+TIFA	TIFA
+“CLOUD	「CLOUD
+I really had fun tonight.”	今日は楽しかったわ」
+CLOUD	CLOUD
+“By the way,	「そういえば
+what did you want to say a minute ago?”	さっき何を言おうと…」
+TIFA	TIFA
+“N, nothing!”	「な、なんでも！」
+TIFA	TIFA
+“Nothing…”	「なんでもない…」
+CLOUD	CLOUD
+“?”	「？」
+TIFA	TIFA
+“Oh, look at the time.	「あっ、もうこんな時間
+We should be getting back.”	そろそろもどりましょう」
+AERIS	AERITH
+“I had fun tonight.	「今日は楽しかった
+Let's do it again.”	また、いっしょにこようね」
+AERIS	AERITH
+“Don't you like being with me?”	「わたしとじゃイヤ？」
+No, I don't	ああ
+That's not it	そんなことない
+AERIS	AERITH
+“Oh, don't tease me like that!”	「もう、いじわる！」
+AERIS	AERITH
+“I'm glad.”	「よかった」
+“Next time we come,	「次に来たときは
+let's take our time	もっとゆっくりと
+and go on more rides.”	いろ～んなものに乗ろうね」
+AERIS	AERITH
+“Oh, look at the time.	「あっ、もうこんな時間
+We'd better get going.”	そろそろ帰りましょ」
+BARRET	BARRET
+“Oh man	「やれやれ
+I'm beat.	なんか、つかれちまった。
+Let's head back.”	そろそろもどろうぜ」
+YUFFIE	YUFFIE
+“I should sleep	「アタイ今日は
+really well tonight.”	よく眠れそうだよ」
+YUFFIE	YUFFIE
+“Thanks…	「つきあってくれて
+for coming with me.”	ありがとな」
+CLOUD	CLOUD
+“Yeah.”	「ああ」
+YUFFIE	YUFFIE
+“You wanna go back,	「じゃあ
+CLOUD?”	そろそろもどろっかCLOUD」
+AERIS	AERITH
+“Hey?	「あれっ？
+What's CAIT SITH doing?”	CAIT SITH、なにしてるのかな？」
+TIFA	TIFA
+“That's…CAIT SITH.	「あれ……CAIT SITHよね。
+He's acting strange.”	なんだか様子がおかしいわよ」
+BARRET	BARRET
+“…it's CAIT SITH.	「……CAIT SITHだぜ。
+What's he doin' so quietly?”	なにコソコソしてやがるんだ？」
+YUFFIE	YUFFIE
+“Hey, isn't that CAIT SITH?	「あっ、CAIT SITHじゃないか？
+What's he doing?”	なにやってんだ？」
+CLOUD	CLOUD
+“!!”	「！！」
+CLOUD	CLOUD
+“Is that the…Keystone?”	「あいつが持ってるのは
+	キーストーンじゃないのか？」
+CLOUD	CLOUD
+“Hey! CAIT SITH!”	「おい！　CAIT SITH！」
+CAIT SITH	CAIT SITH
+“Oh oh!”	「やばやば！」
+AERIS	AERITH
+“Come on, let's go.”	「ねぇ、行ってみよ」
+TIFA	TIFA
+“Come on, let's go.”	「ねぇ、行ってみましょう」
+YUFFIE	YUFFIE
+“CLOUD, let's go.”	「CLOUD、あそこいこうぜ」
+BARRET	BARRET
+“CLOUD, wanna take a peek?”	「CLOUD　チョットのぞいてみるか」
+AERIS	AERITH
+“We've got no time for this!	「そんな場合じゃない、でしょ！？
+Let's go after CAIT SITH!”	はやく、CAIT SITH、追いましょ！」
+TIFA	TIFA
+“We've got no time to relax.	「ゆっくりしてるヒマは無いわよ。
+Let's go after CAIT SITH!”	はやくCAIT SITHを追いましょ！」
+YUFFIE	YUFFIE
+“Is it all right to relax like that?	「そんな、ゆっくりしてていいのか？
+Aren't we going after CAIT SITH?”	CAIT SITHを追うんじゃないのか？」
+BARRET	BARRET
+“What're ya doin'?	「何してんだ！
+We're goin' after CAIT SITH!”	はやくCAIT SITHを追うぞ」
+AERIS	AERITH
+“We don't have time for that!?	「そんな場合じゃない、でしょ！？
+Let's hurry and go after CAIT SITH!”	はやく、CAIT SITH、追いましょ！」
+TIFA	TIFA
+“There's no time to waste.	「ゆっくりしてるヒマは無いわよ。
+Let's hurry after CAIT SITH!”	はやくCAIT SITHを追いましょ！」
+YUFFIE	YUFFIE
+“Should we be doing that?	「そんな、ゆっくりしてていいのか？
+We've got to go after CAIT SITH?”	CAIT SITHを追うんじゃないのか？」
+BARRET	BARRET
+“Whacha doin!?	「何してんだ！
+We're goin' after CAIT SITH!”	はやくCAIT SITHを追うぞ」
+AERIS	AERITH
+“There's no time for this, right!?	「そんな場合じゃない、でしょ！？
+Let's hurry after CAIT SITH!”	はやく、CAIT SITH、追いましょ！」
+TIFA	TIFA
+“There's no time to relax.	「ゆっくりしてるヒマは無いわよ。
+Let's hurry after CAIT SITH!”	はやくCAIT SITHを追いましょ！」
+YUFFIE	YUFFIE
+“Should we be this laid back?	「そんな、ゆっくりしてていいのか？
+Aren't we going after CAIT SITH?”	CAIT SITHを追うんじゃないのか？」
+BARRET	BARRET
+“What the hell are you doing?	「何してんだ！
+Let's get CAIT SITH!”	はやくCAIT SITHを追うぞ」
+AERIS	AERITH
+“There's no time for that!!	「そんな場合じゃない、でしょ！？
+Let's hurry and go after CAIT SITH!”	はやく、CAIT SITH、追いましょ！」
+TIFA	TIFA
+“There's no time to relax.	「ゆっくりしてるヒマは無いわよ。
+Let's hurry and go after CAIT SITH!”	はやくCAIT SITHを追いましょ！」
+YUFFIE	YUFFIE
+“Is there time to be fooling around?	「そんな、ゆっくりしてていいのか？
+Weren't we goin' after CAIT SITH?”	CAIT SITHを追うんじゃないのか？」
+BARRET	BARRET
+“What the hell are you doing!?	「何してんだ！
+We gotta get that damn cat!”	はやくCAIT SITHを追うぞ」
+AERIS	AERITH
+“We don't have time for this!	「そんな、場合じゃないでしょ！
+We've got to go after CAIT SITH.”	はやく、CAIT SITHを追いましょう」
+TIFA	TIFA
+“There's no time for this.	「ゆっくり乗ってるヒマは無いわよ
+Let's hurry after CAIT SITH!”	はやくCAIT SITHを追いましょ！」
+YUFFIE	YUFFIE
+“Should we be doing this?	「そんな、ゆっくりしてていいのか？
+I thought we were after CAIT SITH?”	CAIT SITHを追うんじゃないのか？」
+BARRET	BARRET
+“The hell you doin'!?	「何してんだ！
+We gotta go after CAIT SITH!”	はやくCAIT SITHを追うぞ」
+Round Square	ラウンドスクェア
+Current GP	現在の持ちＧＰ
+GP	ＧＰ
+“Sorry it's out of order.”	「もうしわけございませんが
+	こちらはただいま故障中です」
+“Yaaay!!”	「わ～い！！」
+“Yaay Yaay!”	「キャッキャ！」
+“Come on now‚no running.”	「これこれ、走るんじゃないよ」
+CAIT SITH	CAIT SITH
+“Hey! Look here!	「ほら！　これや！
+The Key Materia!”	キー・マテリアや！」
+Tseng	ツォン
+“Well done.”	「ごくろうさまです」
+CLOUD	CLOUD
+“Hey!”	「おい！」
+CAIT SITH	CAIT SITH
+“W, w, wait a second.	「ちょちょ、ちょっと待って～や。
+I won't run or hide.”	逃げも隠れもしませんから」
+“Yes‚I was a spy.	「確かにボクは、スパイしてました。
+I was hired by the Shinra.”	神羅のまわしモンです」
+TIFA	TIFA
+“Don't mess with us!”	「ふざけないでよ！」
+AERIS	AERITH
+“…I trusted you.	「……信じてたのに
+I can't believe you!”	がっかり！」
+BARRET	バレット
+“Ya dirty &*$*%$!”	「うすぎたねえ野郎だぜ！」
+CLOUD	CLOUD
+“You think this's a big joke!?”	「ふざけるな！！」
+CAIT SITH	CAIT SITH
+“I can't help it.	「しゃあないんです。
+What's done is done.	すんでしもたことは
+That's just the way it is.”	どないしょうもあらへん」
+“How 'bout if we go on like	「なぁ～んもなかったように
+nothing ever happened?”	しませんか？」
+CLOUD	CLOUD
+“You're pushin' it‚CAIT SITH!	「ずうずうしいぞ、CAIT SITH！
+You gotta lot of nerve staying with us	スパイだとわかってて
+all the while being a spy!”	いっしょにいられるわけないだろ！」
+CAIT SITH	CAIT SITH
+“Then‚what are you goin' to do?	「ほな、どないするんですか？
+Destroy me?”	ボクを壊すんですか？」
+CAIT SITH	CAIT SITH
+“You'd just be wastin' your time if you tried.	「そんなんしても、ムダですよ。
+This body's just a toy anyway.”	この身体、もともとオモチャやから」
+“My real body's at Shinra Headquarters	「本体はミッドガルの神羅本社に
+in Midgar.	おるんですわ。
+I'm controlin' this	そっから、このネコのおもちゃ
+toy cat from there.”	操っとるわけなんです」
+TIFA	TIFA
+“So you're from Shinra.	「それじゃあ正体は神羅の人間なのね。
+Who are you?”	だれなのよ？」
+AERIS	AERITH
+“So you're from Shinra.	「正体は神羅の人、ね？
+Who? Who are you!	だ～れ？　あなた！
+Tell me!”	言いなさい！」
+BARRET	BARRET
+“Who the hell are ya!?	「だれだ、てめえ！
+What's your real name!?”	本当の名前を教えろ！」
+YUFFIE	YUFFIE
+“Part of the Shinra!	「神羅の人間！
+Who the *&$# are you!?”	おまえ、だれだ！？」
+CAIT SITH	CAIT SITH
+“Whoa‚I can't tell you my name.”	「おっと、名前は教えられへん」
+CLOUD	CLOUD
+“We're not gettin' anywhere.”	「話にならないな」
+CAIT SITH	CAIT SITH
+“Right? I told you!	「な？　そうですやろ？
+Talking won't do any good‚so can't	話しなんどうでもええから
+we just continue our journey?”	このまま旅、続けませんか？」
+CAIT SITH	CAIT SITH
+“…Alright‚yes‚I am a Shinra employee.”	「……確かにボクは、神羅の社員や」
+“But we're not completely enemies.”	「それでも、完全にみなさんの
+	敵っちゅうわけでもないんですよ」
+CAIT SITH	CAIT SITH
+“…Something bothers me.	「……ど～も、気になるんや。
+I think it's you're ways of living”	みなさんの
+	その、生き方っちゅうか？」
+“You don't get paid	「誰か給料はろてくれるわけやないし
+You don't get praised. And yet you	だぁれも、ほめてくれへん。
+still risk your lives and continue on	そやのに、命かけて旅しとる。
+your journey. Seeing that makes me…”	そんなん見とるとなぁ……」
+CAIT SITH	CAIT SITH
+“It just makes me think about my life.	「自分の人生、考えてまうんや。
+I don't think I'd feel too good	なんや、このまま終わってしもたら
+if things ended the way it is now.”	アカンのとちゃうかってな」
+TIFA	TIFA
+“You're lying again.”	「またウソついてる」
+AERIS	AERITH
+“…And so on‚and so on…”	「～とかなんとか言ってぇ」
+BARRET	BARRET
+“Hmph! You ain't foolin' us this time!”	「へっ！　だまされないぜ！」
+YUFFIE	YUFFIE
+“Sounds fishy---”	「あやしい～」
+CLOUD	CLOUD
+“He won't come clean.	「正体はあかさない。
+And he won't quit being a spy.”	スパイはやめない」
+“We can't go on with	「そんなヤツといっしょに
+someone like that.	旅なんてできないからな。
+Pull your head out!”	冗談はやめてくれ」
+CAIT SITH	CAIT SITH
+“…I thought so.	「……まぁそうやろなぁ。
+It won't do any good talking to you.”	話し合いにもならんわな」
+“So‚I've prepared myself in case	「ま、こうなんのとちゃうかとおもて
+something like this happened.”	準備だけはしといたんですわ」
+CAIT SITH	CAIT SITH
+“Why don't you listen to this.”	「これ、聞いてもらいましょか」
+“Dad! TIFA!”	「父ちゃん！　TIFA！」
+TIFA	TIFA
+“Marlene!”	「マリン！」
+AERIS	AERITH
+“Hey! That's Marlene!”	「あっ！　マリンの声！」
+BARRET	BARRET
+“Ma…Marlene!?”	「マ、マリン！？」
+CLOUD	CLOUD
+“…Marlene?”	「……マリン？」
+Marlene	マリン
+“Hey! It's dad!	「あ！　とうちゃんの声だ！
+Dad! It's me‚Marlene!”	とうちゃん！　マリンね！」
+Marlene	マリン
+“Hey! It's TIFA!	「あ！　TIFAの声だ！
+TIFA! You know what!”	TIFA！　あのね！」
+Marlene	マリン
+“Hey! It's the flower lady!	「あ！　お花のお姉ちゃん！
+Flower lady…”	お姉ちゃん…」
+Marlene	マリン
+“Hey! It's CLOUD!”	「あ！　CLOUDの声だ！」
+CAIT SITH	CAIT SITH
+“…So‚there's no other way	「……というわけです、みなさんは
+but to listen to me.”	ボクの言うとおりにするしか
+	あらへんのですわ」
+CLOUD	CLOUD
+“You're the lowest…”	「……最低だ」
+CAIT SITH	CAIT SITH
+“I didn't want to do this either.	「そりゃ、ボクかって
+Not by using dirty tricks	こんなことやりたない。
+and taking hostages…”	人質とかヒレツなやりかたは……」
+CAIT SITH	CAIT SITH
+“So‚this is how it is.	「まぁ、こういうわけなんですわ。
+There's no room for compromises.	話し合いの余地はないですな。
+So why don't we go on as we did.”	今までどおり、仲ようしてください。」
+CAIT SITH	CAIT SITH
+“Tomorrow is the Temple of the Ancients‚right?	「明日は古代種の神殿でしたな？
+I know where it is	場所知ってますから
+so I'll tell you later.”	後で、教えますわ」
+“Of course we'll get there after the Shinra‚	「神羅のあとになりますけど
+but you'll have to deal with that.”	まぁ、そんくらいは
+	ガマンしてくださいな」
+CLOUD	CLOUD
+“…Well‚we're stuck…	「……仕方ないな。
+We'll have to do what he says.”	言うとおりにしよう」
+TIFA	TIFA
+“…Marlene.”	「……マリン」
+AERIS	AERITH
+“I wonder if Marlene is all right…	「マリン、だいじょぶかな……
+I wonder what happened to Mom?”	お母さん、どうしたのかな」
+BARRET	BARRET
+“Sorry‚CLOUD.”	「すまねえ、CLOUD」
+YUFFIE	YUFFIE
+“Uh‚yup.”	「う、うん」
+Chocobo Square	チョコボスクェア
+	
+CAIT SITH	CAIT SITH
+“Hey! Over here!	「ほら！　これや！
+The Keystone!”	キーストーンや！」
+Tseng	ツォン
+“Well done.”	「ごくろうさまです」
+CLOUD	CLOUD
+“Hey!”	「おい！」
+CAIT SITH	CAIT SITH
+“W, wait a second.	「ちょちょ、ちょっと待って～や。
+I won't run or hide.”	逃げも隠れもしませんから」
+“Yes, I was a spy.	「確かにボクは、スパイしてました。
+I was hired by the Shinra.”	神羅のまわしモンです」
+TIFA	TIFA
+“Don't mess with us!”	「ふざけないでよ！」
+AERIS	AERITH
+“…I trusted you.	「……信じてたのに
+I can't believe you!”	がっかり！」
+“Ya dirty &*$*%$!”	「うすぎたねえ野郎だぜ！」
+CLOUD	CLOUD
+“You think I'm jokin'!?”	「ふざけるな！！」
+CAIT SITH	CAIT SITH
+“I couldn't help it.”	「しゃあないんです。
+	すんでしもたことは
+	どないしょうもあらへん」
+“How 'bout if we go on like	「なぁ～んもなかったように
+nothing ever happened?”	しませんか？」
+CLOUD	CLOUD
+“No way, cat!	「ずうずうしいぞ、CAIT SITH！
+You gotta lot of guts acting like	スパイだとわかってて
+a friend but being a spy!”	いっしょにいられるわけないだろ！」
+CAIT SITH	CAIT SITH
+“Then, what are you goin' to do?	「ほな、どないするんですか？
+Kill me?”	ボクを壊すんですか？」
+CAIT SITH	CAIT SITH
+“You'd just be wastin' your time if you tried.	「そんなんしても、ムダですよ。
+This body's just a toy anyway.”	この身体、もともとオモチャやから」
+“My real body's at Shinra Headquarters	「本体はミッドガルの神羅本社に
+in Midgar.	おるんですわ。
+I'm controlin' this	そっから、このネコのおもちゃ
+toy cat from there.”	操っとるわけなんです」
+TIFA	TIFA
+“So you're from Shinra.	「それじゃあ正体は神羅の人間なのね。
+Who are you?”	だれなのよ？」
+AERIS	AERITH
+“So you're from Shinra.	「正体は神羅の人、ね？
+Who? Who are you!	だ～れ？　あなた！
+Tell me!”	言いなさい！」
+BARRET	BARRET
+“The hell are ya!?	「だれだ、てめえ！
+What's your real name!?”	本当の名前を教えろ！」
+YUFFIE	YUFFIE
+“Part of the Shinra!	「神羅の人間！
+Who the *&$# are you!?”	おまえ、だれだ！？」
+CAIT SITH	CAIT SITH
+“Whoa, I can't tell you my name.”	「おっと、名前は教えられへん」
+CLOUD	CLOUD
+“We're not gettin' anywhere.”	「話にならないな」
+CAIT SITH	CAIT SITH
+“See? I told you!	「な？　そうやろ？
+Talking won't do any good, so can't	話なんてどうでもええから
+we just continue our journey?”	このまま旅、続けませんか？」
+CAIT SITH	CAIT SITH
+“…Alright, yes, I am a Shinra employee.”	「……確かにボクは、神羅の社員や」
+“But we're not entirely enemies.”	「それでも、完全にみなさんの
+	敵っちゅうわけでもないんですよ」
+CAIT SITH	CAIT SITH
+“…Something bothers me.	「……ど～も、気になるんや。
+	みなさんの
+I think it's your way of life.”	その、生き方っちゅうか？」
+“You don't get paid.	「誰か給料はろてくれるわけやないし
+You don't get praised. Yet, you	だぁれも、ほめてくれへん。
+still risk your lives and continue on	そやのに、命かけて旅しとる。
+your journey. Seeing that makes me…”	そんなん見とるとなぁ……」
+CAIT SITH	CAIT SITH
+“It just makes me think about my life.	「自分の人生、考えてまうんや。
+I don't think I'd feel too good	なんや、このまま終わってしもたら
+if things ended the way they are now.”	アカンのとちゃうかってな」
+TIFA	TIFA
+“You're lying again.”	「またウソついてる」
+AERIS	AERITH
+“…And so on, and so on…”	「～とかなんとか言ってぇ」
+BARRET	BARRET
+“Hmph! You ain't foolin' us this time!”	「へっ！　だまされないぜ！」
+YUFFIE	YUFFIE
+“Sounds fishy…”	「あやしい～」
+CLOUD	CLOUD
+“He'll never tell the truth.	「正体はあかさない。
+Once a spy, always a spy.”	スパイはやめない」
+“We can't go on with	「そんなヤツといっしょに
+someone like that.	旅なんてできないからな。
+C'mon get real!!”	冗談はやめてくれ」
+CAIT SITH	CAIT SITH
+“…just as I thought.	「……まぁそうやろなぁ。
+Talking won't make a bit of difference.”	話し合いにもならんわな」
+“But I prepared something in case	「ま、こうなんのとちゃうかとおもて
+this happened.”	準備だけはしといたんですわ」
+CAIT SITH	CAIT SITH
+“Why don't you listen to this?”	「これ、聞いてもらいましょか」
+“Papa! TIFA!”	「父ちゃん！　TIFA！」
+TIFA	TIFA
+“Marlene!”	「マリン！」
+AERIS	AERITH
+“Hey! That's Marlene!”	「あっ！　マリンの声！」
+BARRET	BARRET
+“Ma…Marlene!?”	「マ、マリン！？」
+CLOUD	CLOUD
+“…Marlene?”	「……マリン？」
+Marlene	マリン
+“Hey! It's dad!	「あ！　とうちゃんの声だ！
+Dad! It's me, Marlene!”	とうちゃん！　マリンね！」
+Marlene	マリン
+“Hey! It's TIFA!	「あ！　TIFAの声だ！
+TIFA! Help, I'm-”	TIFA！　あのね！」
+Marlene	マリン
+“Hey! It's the flower lady!	「あ！　お花のお姉ちゃん！
+Flower lady…”	お姉ちゃん…」
+Marlene	マリン
+“Hey! It's CLOUD!”	「あ！　CLOUDの声だ！
+	CLOUD！　あ…」
+CAIT SITH	CAIT SITH
+“…So, you have to do as I say.”	「……というわけです、みなさんは
+	ボクの言うとおりにするしか
+	あらへんのですわ」
+CLOUD	CLOUD
+“You're the lowest…”	「……最低だ」
+CAIT SITH	CAIT SITH
+“I didn't want to do this…	「そりゃ、ボクかって
+using dirty tricks and	こんなことやりたない。
+taking hostages…”	人質とかヒレツなやりかたは……」
+CAIT SITH	CAIT SITH
+“But this is how it is…no compromises.	「まぁ、こういうわけなんですわ。
+So why don't we go on as we did?”	話し合いの余地はないですな。
+	今までどおり、仲ようしてください。」
+CAIT SITH	CAIT SITH
+“Tomorrow is the Temple of the Ancients, right?	「明日は古代種の神殿でしたな？
+I know where it is	場所知ってますから
+so I'll tell you later.”	あとで、教えますわ」
+“Of course,we'll get there after the Shinra,	「神羅のあとになりますけど
+but you'll have to deal with that.”	まぁ、そんくらいは
+	ガマンしてくださいな」
+CAIT SITH	CAIT SITH
+“Oh, you didn't seem to know this, but…”	「そういや、みなさんは
+“The Keystone is the key to the	知らんかったみたいやけど」
+Temple of the Ancients.	「キーストーンは
+Even so, you're all going, right?”	古代種の神殿への鍵なんです。
+“I know where it is, so	どちらにしろ、みなさんも
+I'll show you later.”	行くんですよね？」
+“The Shinra have already been there, but	「場所知ってますから
+I guess you have to deal with that.”	あとで、教えますわ」
+	「神羅のあとになりますけど
+	まぁ、そんくらいは
+	ガマンしてくださいな」
+CLOUD	CLOUD
+“…Well, we're stuck…	「……仕方ないな。
+We'll have to do what he says.”	言うとおりにしよう」
+TIFA	TIFA
+“…Marlene.”	「……マリン」
+AERIS	AERITH
+“I wonder if Marlene is all right…	「マリン、だいじょうぶかな……
+I wonder what happened to Mom?”	お母さん、どうしたのかな」
+BARRET	BARRET
+“Sorry, CLOUD.”	「すまねえ、CLOUD」
+YUFFIE	YUFFIE
+“Uh, yup.”	「う、うん」
+Chocobo Square	チョコボスクェア
+	
