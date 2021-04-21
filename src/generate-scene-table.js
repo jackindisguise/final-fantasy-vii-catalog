@@ -25,7 +25,8 @@ fs.readdir(inputFolder, function(err, files){
 			table.push(`| ${i} | ${source} | ${target} |`);
 		}
 
-		fs.writeFileSync(outputFolder+file, table.join("\r\n"), "utf8");
+		let fixedFile = file.substring(0,file.length-4)+".md";
+		fs.writeFileSync(outputFolder+fixedFile, table.join("\r\n"), "utf8");
 		console.log(`\t${file}`)
 	}
 });
