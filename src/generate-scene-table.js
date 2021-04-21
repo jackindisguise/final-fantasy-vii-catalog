@@ -12,7 +12,7 @@ fs.readdir(inputFolder, function(err, files){
 	for(let file of files){
 		if(file.indexOf(".txt") === -1) continue;
 		let table = [];
-		table.push("| ID | English | Japanese |");
+		table.push("| ＃ | English | Japanese |");
 		table.push("|-|-|-|");		
 		let name = file.substring(0, file.length-4);
 		let data = fs.readFileSync(inputFolder+file, "utf8");
@@ -22,7 +22,7 @@ fs.readdir(inputFolder, function(err, files){
 			let split = line.split("\t");
 			let source = split[0];
 			let target = split[1];
-			table.push(`| ${i} | ${source} | ${target} |`);
+			table.push(`| ${i+1} | ${source} | ${target} |`);
 		}
 
 		let fixedFile = file.substring(0,file.length-4)+".md";
