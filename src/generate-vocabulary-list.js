@@ -19,6 +19,8 @@ const outputFolderUnique = "../vocabulary/unique/";
 const searchedWords = [];
 const foundWords = [];
 const usedDictEntries = [];
+const sceneWords = [];
+const sceneUsedDictEntries = [];
 
 // safe array handling
 function __array(data){
@@ -56,8 +58,8 @@ function formatWord(word){
 	return formatted;
 }
 
-// read all processed texts and scrape kanji data
-console.log(`Generating tables for scenes:`);
+// read all processed texts and scrape vocabulary
+console.log(`Scraping scenes for vocabulary:`);
 function finish(){
 	console.log("DONE.");
 }
@@ -93,7 +95,11 @@ fs.readdir(inputFolder, function(err, files){
 
 				// new lines
 				let nLines = [];
-				sceneWords.forEach(function(value){ nLines.push(`${value.definition}\t${value.line}`); });
+				sceneWords.forEach(function(value){
+					let word = formatWord(value.definition);
+					let sense = formatSense(value.definition);
+					nLines.push(`${word.kanji}\t${word.kana}\t${sense.pos}\t${sense.gloss}\t${value.line}`);
+				});
 				fs.writeFileSync(outputFolderNew+file, nLines.join("\r\n"), "utf8");
 
 				nextFile();
@@ -101,7 +107,6 @@ fs.readdir(inputFolder, function(err, files){
 			}
 
 			let line = lines[i];
-			console.log(file, i, line);
 
 			// process through mecab
 			mecab(line, function(err, tokens){
@@ -117,6 +122,7 @@ fs.readdir(inputFolder, function(err, files){
 					if(!token.root) return nextToken();
 					if(searchedWords.indexOf(token.root) !== -1) return nextToken();
 					if(!tokenIsBasic(token)) return nextToken();
+					console.log(file, i+1, line, `'${token.root}'`);
 					searchedWords.push(token.root);
 					let word = {word: token.root, scene: file, line: line, definition:null};
 
@@ -132,7 +138,7 @@ fs.readdir(inputFolder, function(err, files){
 									let _word = formatWord(json[z]);
 									let _definition = formatSense(json[z]);
 									let used = (usedDictEntries.indexOf(json[z].ent_seq) !== -1);
-									console.log(`${used?"***":""}${z+1}) ${_word.kana}${_word.kanji ? " "+_word.kanji : ""}: (${_definition.pos}) ${_definition.gloss}`);
+									console.log(`${z+1})${used?"***":""} ${_word.kana}${_word.kanji ? " "+_word.kanji : ""}: (${_definition.pos}) ${_definition.gloss}`);
 								}
 							}
 
@@ -140,15 +146,15 @@ fs.readdir(inputFolder, function(err, files){
 								process.stdout.write("Your choice: ")
 								process.stdin.once("data", function(chunk){
 									let num = new Number(chunk);
-									if(chunk == "\r\n") num = 1;
+									if(chunk == "\r\n") { console.log("Skipped."); console.log(""); return nextToken(); }
 									if(num > 0 && num <= json.length) {
 										let choice = json[num-1];
 										let used = (usedDictEntries.indexOf(choice.ent_seq) !== -1);
 										if(!used){
-											console.log(choice.ent_seq, usedDictEntries.join(","));
 											word.definition = choice;
 											usedDictEntries.push(choice.ent_seq);
-											foundWords.push(choice);
+											foundWords.push(word);
+											sceneWords.push(word);
 										}
 									} else {
 										console.log("Not an option. Try again.");
@@ -169,10 +175,17 @@ fs.readdir(inputFolder, function(err, files){
 								listOptions();
 								askForNumber();
 							} else {
-								let used = (usedDictEntries.indexOf(json[0].ent_seq) !== -1);
+								let choice = json[0];
+								let _word = formatWord(choice);
+								let _definition = formatSense(choice);
+								console.log(`Automatically chose definition for '${token.root}':`);
+								console.log(`${(_word.kanji ? `${_word.kanji} ` : "")}${_word.kana} (${_definition.pos}) ${_definition.gloss}`);
+								console.log("");
+								let used = (usedDictEntries.indexOf(choice.ent_seq) !== -1);
 								if(!used){
-									usedDictEntries.push(json[0].ent_seq);
-									foundWords.push(json[0]);
+									usedDictEntries.push(choice.ent_seq);
+									foundWords.push(word);
+									sceneWords.push(word);
 								}
 								nextToken()
 							}
