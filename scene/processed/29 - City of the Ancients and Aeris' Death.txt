@@ -54,463 +54,453 @@ I want a Lunar Harp	ルナ・ハープがほしい
 Not interested	興味ない
 Ask the guy in the tent below.	下のテントにいる男に聞いてな
 We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.	私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね
-Please push [SWITCH] to	□ボタンを押してスタッフの
-set staff in position.	配置場所を決めてください。
+Please push [SWITCH] to set staff in position.	□ボタンを押してスタッフの配置場所を決めてください。
 Order a search (100 gil)	調査を指示（１００ギル）
 Done	もういらない
-Could not position the staff,	お金がたりないので
-due to a lack of funds.	配置しませんでした。
-Press [SWITCH] to ignite the	□ボタンを押せば調査用の爆弾が
-bomb for the search.	地中で爆発します。
-The staff member will calculate	各スタッフは爆発の反動を計算し
-the tremors and dig up the buried item.	目的のまいぞう物の方向を指し示します。
-The dig point is where	つまりスタッフの視線が交わった
-the staff's line	ポイントがハックツポイントです。
-of vision meets.	地下調査する地点まで移動し□ボタンで
-Move to the dig point	決定してください。穴をほって調査します。
-and press [SWITCH] to select.	ではこの地点をほります。一晩ねれば、結果が村のたからばこに入れられます
-The staff will dig for the item.	ハックツってのは地道な作業だよ。俺たちがほりおこした宝物はテントの横のハコにしまっておくんだ。おぼえておきな
-Now, the staff will dig here. The result will be placed in the treasure box overnight.	や、やっぱりコワイ……
-Excavating is a slow process. The treasures we excavate are stored in the box next to the tent. Remember that.	すこし前に、若い娘さんがこうやってなんか話してたんだ
-It, it's scary…	そしたらどうだい森の入り口がガーッって開いたんだよ
-Just a while ago, a young girl asked me the same things.	おれにもできないかと思ってさ
-Then the entrance to the forest made a funny sound, like 'Grrrrrrgh!'.	おねがい、わたしを入れて！
-I thought that maybe I could do it, too.	すこし前にな、黒い服の男がこうやって森の中に入っていったんだよ
-Please, let me in!	ぬぉぉぉおおお！
-While ago, a man in black came and said this as he went into the forest.	眠りの森がめざめた……
-Nnnnnnghaah!	CLOUD
-The Sleeping Forest awoke…	ここは……！
+Could not position the staff, due to a lack of funds.	お金がたりないので配置しませんでした。
+Press [SWITCH] to ignite the bomb for the search.	□ボタンを押せば調査用の爆弾が 地中で爆発します。
+The staff member will calculate the tremors and dig up the buried item.	各スタッフは爆発の反動を計算し 目的のまいぞう物の方向を指し示します。
+The dig point is where the staff's line of vision meets.	つまりスタッフの視線が交わった ポイントがハックツポイントです。 
+Move to the dig point and press [SWITCH] to select. The staff will dig for the item.	地下調査する地点まで移動し□ボタンで 決定してください。穴をほって調査します。 ？？？
+Now, the staff will dig here. The result will be placed in the treasure box overnight.	ではこの地点をほります。一晩ねれば、結果が村のたからばこに入れられます
+Excavating is a slow process. The treasures we excavate are stored in the box next to the tent. Remember that.	ハックツってのは地道な作業だよ。俺たちがほりおこした宝物はテントの横のハコにしまっておくんだ。おぼえておきな
+It, it's scary…	や、やっぱりコワイ……
+Just a while ago, a young girl asked me the same things.	すこし前に、若い娘さんがこうやってなんか話してたんだ
+Then the entrance to the forest made a funny sound, like 'Grrrrrrgh!'.	そしたらどうだい森の入り口がガーッって開いたんだよ
+I thought that maybe I could do it, too.	おれにもできないかと思ってさ
+Please, let me in!	おねがい、わたしを入れて！
+While ago, a man in black came and said this as he went into the forest.	すこし前にな、黒い服の男がこうやって森の中に入っていったんだよ
+Nnnnnnghaah!	ぬぉぉぉおおお！
+The Sleeping Forest awoke…	眠りの森がめざめた……
 CLOUD	CLOUD
-This place…!	あれが……古代種の都『忘らるる都』なのか
+This place…!	ここは……！
 CLOUD	CLOUD
-So that's……the capital of the Ancients The Forgotten City'.	あの『都』にAERITHはいる……
+So that's……the capital of the Ancients The Forgotten City'.	あれが……古代種の都『忘らるる都』なのか
 CLOUD	CLOUD
-AERIS is in that 'City'.	……ウッ
+AERIS is in that 'City'.	あの『都』にAERITHはいる……
 CLOUD	CLOUD
-…Ugh.	……古代種の言葉？
+…Ugh.	……ウッ
 CLOUD	CLOUD
-…Words of the Ancients?	……ダメだ。おれには、わからない
+…Words of the Ancients?	……古代種の言葉？
 CLOUD	CLOUD
-…No good. I can't understand.	……ウッ、またか
+…No good. I can't understand.	……ダメだ。おれには、わからない
 CLOUD	CLOUD
-…Ugh, again?	意識に流れこんでくる…………古代種の言葉なのか？
-CLOUD	TIFA
-This stream of consciousness… Could this be the words of the Ancients…?	キャッ！？
+…Ugh, again?	……ウッ、またか
+CLOUD	CLOUD
+This stream of consciousness… Could this be the words of the Ancients…?	意識に流れこんでくる…………古代種の言葉なのか？
 TIFA	TIFA
-Eyaaaa!	……古代種の意識？
+Eyaaaa!	キャッ！？
 TIFA	TIFA
-…Consciousness of the Ancients?	……ごめんなさい。……私には……わからない
+…Consciousness of the Ancients?	……古代種の意識？
 TIFA	TIFA
-…I'm sorry. …I can't…understand.	キャッ！？また？
+…I'm sorry. …I can't…understand.	……ごめんなさい。……私には……わからない
 TIFA	TIFA
-Eaayy!? Again?	頭に直接語りかけてくる……これは、古代種の意識？
-TIFA	CID
-It speaks directly to my mind… Is this the Consciousness of the Ancients?	おわっ！
+Eaayy!? Again?	キャッ！？また？
+TIFA	TIFA
+It speaks directly to my mind… Is this the Consciousness of the Ancients?	頭に直接語りかけてくる……これは、古代種の意識？
 CID	CID
-Whoa…!	なんでぃ、こりゃ？
+Whoa…!	おわっ！
 CID	CID
-What the hell's this?	古代種さんよぉオレ様には、あんたが何言いたいのかさっぱりわかんねえぜ
+What the hell's this?	なんでぃ、こりゃ？
 CID	CID
-Hey Ancients, I don't even have a clue what you're trying to say to me.	うわっち！またかよ、おい
+Hey Ancients, I don't even have a clue what you're trying to say to me.	古代種さんよぉオレ様には、あんたが何言いたいのかさっぱりわかんねえぜ
 CID	CID
-Whoa, @#$%! Not again!	誰だ？　オレ様の頭をのぞこうとするのは？まさか、古代種の意識が？
-CID	BARRET
-Who is it? Who's trying to peek into my mind?	おっ、ベッドがあるぜ
-Is it the Consciousness of the Ancients?	TIFA
-BARRET	ここに住んでいた人たちが使っていたものかしら？
-Hey, there's a bed.	RED XIII
-TIFA	あっ、ベッドがあるよ
-Do you think the people who used to live here used it?	CID
-RED XIII	おっ、意外と心地よさそうなベッドじゃねぇか
-Look, there's a bed here.	YUFFIE
-CID	ラッキ～、こんなところにベッドがあるなんて～
-Yeah, and it looks pretty comfortable.	CAIT SITH
-YUFFIE	こら、運がええですわ。ええとこにベッドがあります
-How COOL! I can't believe we found such a soft bed in a dive like this.	VINCENT
-CAIT SITH	ここの住人が使っていたものか？
-We're in luck. There's a bed in here.	BARRET
-VINCENT	よぉ、CLOUD。ここいらで一服しようぜ
-I wonder if the owners used this?	TIFA
-BARRET	ひと休み、していきましょうか？
-Yo, CLOUD. Let's take a break here.	RED XIII
-TIFA	ねぇ、休んでいこうよ。オイラ、つかれちゃった
-Shall we take a break here?	CID
-RED XIII	つかれもたまってきたしちっと休んでいかねぇか？
-Hey, let's rest a bit. I'm tired…	YUFFIE
-CID	ねぇ～、休もうよ～あたい、もう歩きたくな～い
-I'm beat. Why don't we get some rest?	CAIT SITH
-YUFFIE	CLOUDさん、ひとねむりしませんか？
-Come on--, let's rest for a while--- I don't want to walk anymore…	VINCENT
-CAIT SITH	ひとねむり、するか？
-Why don't we catch some ZZZs?…	ベッドがある。
-VINCENT	休んでいきますか？
-Maybe we should take a short nap?	はい
-Here's a bed.	いいえ
-Get some rest?	CLOUD
-Yes	感じる……
-No	CLOUD
-CLOUD	ここに、AERITHがいる
-I feel it…	……そしてセフィロスも
-CLOUD	CLOUD
-AERIS is here. …and so is Sephiroth.	……りくつじゃない。感じるんだ、おれの心が
-CLOUD	BARRET
-…It's not an excuse. I feel it in my soul.	CLOUD、どうした？
-BARRET	TIFA
-CLOUD, what is it?	CLOUD……どうしたの？
-TIFA	RED XIII
-CLOUD…what's wrong?	どうしたんだい？気分でも悪いの？
-RED XIII	CID
-What's wrong? Are you sick?	おい、何時だと思ってんだよ！
-CID	YUFFIE
-Do you know what TIME it is!?	あれ～、CLOUD。どしたの？
-YUFFIE	CAIT SITH
-Hey---, CLOUD. What's your problem?	どないしたんですかぁ～。こないな時間に～
-CAIT SITH	VINCENT
-What's wrong? What time is it…?	……どうした？
-VINCENT	BARRET
-…What's wrong?	な、なんだって！セフィロスが！？
-BARRET	TIFA
-Wh, what! Sephiroth!?	AERITHだけではなくセフィロスまでいるというの？
-TIFA	RED XIII
-You're saying it's not just AERIS, but Sephiroth, too?	え！　セフィロスまでいるの！？
-RED XIII	CID
-What! Sephiroth's here too!?	おいおい、ホントかよ！
-CID	YUFFIE
-Wa, wa, wait a minute. You serious!?	うっそ～！セフィロスなんてお呼びじゃないのに～
-YUFFIE	CAIT SITH
-No way---! Sephiroth wasn't invited!	ほ、ほんまですか？CLOUDさん！？
-CAIT SITH	VINCENT
-Are you serious, CLOUD!?	……それが本当なら、まずいな
-VINCENT	BARRET
-…If that's true, then we're in for it.	しかし、なんでそんなことがわかるんだ？
-BARRET	TIFA
-How do you know that?	でも、どうしてそんなことがわかるの？
-TIFA	RED XIII
-But how can you tell?	どうしてわかったんだい？
-RED XIII	CID
-How did you find out?	でもよぉ、なんでそんなことがわかるんだ！？
-CID	YUFFIE
-Hey, how do you know!?	ど、どーして？どーしてそんなことがわかっちゃうわけ？
-YUFFIE	CAIT SITH
-Wh…why? How can you tell that kind of stuff?	でも、なんでそんなんがわかるんですか？
-CAIT SITH	VINCENT
-But how can you tell that?	……なぜわかった？
-VINCENT	BARRET
-…How did you find that out?	まずいぜ、それじゃ！のんきにねてる場合じゃないぞ
-BARRET	TIFA
-Then, we better get up offa our lazy asses!!	それが本当なら、急がなきゃ！はやくAERITHを！
-TIFA	RED XIII
-If that's true, then we've got to hurry! We've got to get to AERIS!	ど、どうしよう？急がないと、大変なことになるよ！
-RED XIII	CID
-Wh,…what should we do? We must hurry to her!	やべぇぞ、CLOUD。のほほんとしてる場合じゃ、ねぇな
-CID	YUFFIE
-@#$$, CLOUD. We can't be sittin' around on our asses.	それって、ちょーマズいんじゃない？
-YUFFIE	CAIT SITH
-That means it's pretty bad …doesn't it?	それが、ほんまやったらえらいことや！はよAERITHさん見つけんとあかんわ
-CAIT SITH	VINCENT
-If that's true, then we're in for it! We have to find AERIS fast!	それが本当なら、急ぐべきだ。取り返しのつかないことになる。
-VINCENT	CLOUD
-If that's true, we should hurry. Something terrible could happen at any moment.	……ああ。はやくAERITHをさがそう
-CLOUD	CLOUD
-…Right. Let's hurry and find AERIS.	ねている場合じゃない
-CLOUD	CLOUD
-No time to be sleeping.	調べているヒマはない
-CLOUD	CLOUD
-No time to think about it.	AERITHの声の聞こえた方向……あっちか？
-CLOUD	CLOUD
-AERIS's voice…… Coming from there?	AERITHをさがさなくては
-CLOUD	BARRET
-We have to find AERIS.	お、おい。ちょっと待ってくれ
+Whoa, @#$%! Not again!	うわっち！またかよ、おい
+CID	CID
+Who is it? Who's trying to peek into my mind?	誰だ？　オレ様の頭を のぞこうとするのは？
+Is it the Consciousness of the Ancients?	まさか、古代種の意識が？
 BARRET	BARRET
-Hey yo! Wait up.	情けねぇが、つかれちまった。どっかひとねむりできる場所をさがそうぜ
-BARRET	TIFA
-I hate to say it, but I'm beat. Isn't there anywhere to rest.	ち、ちょっとCLOUD
+Hey, there's a bed.	おっ、ベッドがあるぜ
 TIFA	TIFA
-Hey, hey CLOUD.	わ、わたし、つかれちゃった。どこか、休める場所を探さない？
-TIFA	RED XIII
-I'm…I'm so tired. Can't we find somewhere to rest?	ま、待ってよ
+Do you think the people who used to live here used it?	ここに住んでいた人たちが使っていたものかしら？
 RED XIII	RED XIII
-Wait!	おいら、もうヘトヘトだよ。どっかで、ひとやすみさせてよ
-RED XIII	CID
-I'm exhausted. Let me get some rest somewhere.	お……おい、CLOUD
+Look, there's a bed here.	あっ、ベッドがあるよ
 CID	CID
-H…ey, CLOUD	はずかしながら、つかれちまったぜ。どっかで、ちょいと眠らせてくれや
-CID	YUFFIE
-I gotta get some more rest. Let me catch a snooze somewhere around here.	あ～、もーっ嫌っ！！
+Yeah, and it looks pretty comfortable.	おっ、意外と心地よさそうなベッドじゃねぇか
 YUFFIE	YUFFIE
-Ahhh--- I can't go another step!!	アタイ、つかれちゃったよ～！あたたかいベッドで眠らせてくんないともう、一歩も動かないからね！
-YUFFIE	CAIT SITH
-I'm so----o tired! If you don't get me to a bed, I'm not taking another step!	ち、ちょっと待ってぇ～な
+How COOL! I can't believe we found such a soft bed in a dive like this.	ラッキ～、こんなところにベッドがあるなんて～
 CAIT SITH	CAIT SITH
-Wa------it!	わて、つかれてしまいましたわ。すまんけど、どっかで休ませておくれな
-CAIT SITH	VINCENT
-I'm exhausted. I'm sorry, but please let me rest somewhere.	待て、CLOUD
+We're in luck. There's a bed in here.	こら、運がええですわ。ええとこにベッドがあります
 VINCENT	VINCENT
-Wait, CLOUD.	……つかれた
-VINCENT	BARRET
-…I'm tired.	そっちの方角へ行くと北の山に出ちまうぜ。はやくAERITHをさがそうぜ
-BARRET	TIFA
-That way goes to the Mountains up north. Let's hurry and find AERIS.	そのまま進むと、北の山に出るわ。AERITHはそっちにはいないんじゃないの？
-TIFA	RED XIII
-If we continue this way, we'll end up in the Northern Mountains. AERIS isn't over there, right?	そっちは、北の山に行く道だよ。AERITHさがすの、方向ちがうよ
-RED XIII	CID
-That road leads to the Northern Mountains. We have to go the other way to find AERIS.	雪山でスキーでもするつもりか？AERITHさがすんならそっちじゃないだろ、え！
-CID	YUFFIE
-You thinkin' of going skiing? If we wanna find AERIS, we go THAT way!	AERITHさがすんでしょ！雪山の方行って、ど～すんの！サイテ～！
-YUFFIE	CAIT SITH
-We're looking for AERIS, right! Then why are you heading for the mountains!? What a dork!	CLOUDさんそっちは北の山へ行く道やで
-CAIT SITH	AERITHさんが待ってますんや。はよ、さがしにいきましょ
-CLOUD, uh that's the road to the Northern Mountains.	VINCENT
-AERIS is waiting, let's go find her.	これは北の山へ向かう道。AERITHをさがすのはもうあきらめたのか？
-VINCENT	CLOUD
-This is the road to the Northern Mountains. Don't you want to find AERIS?	AERITH？
-CLOUD	BARRET
-AERIS?	CLOUD！
-BARRET	TIFA
-CLOUD!	CLOUD！
-TIFA	RED XIII
-CLOUD!	CLOUD！
-RED XIII	CAIT SITH
-CLOUD!	CLOUD！
-CAIT SITH	YUFFIE
-CLOUD!	CLOUD！
-YUFFIE	CID
-CLOUD!	CLOUD！
-CID	VINCENT
-CLOUD!	CLOUD！
-VINCENT	BARRET
-CLOUD!	やめろ！！
-BARRET	TIFA
-Stop it!!	やめて！
-TIFA	RED XIII
-Stop!	何をするんだ！
-RED XIII	CAIT SITH
-Please stop that!	なにしとんや！！
-CAIT SITH	YUFFIE
-What're you doing!	ストーーップ！
-YUFFIE	CID
-Sto----p!	バカッ！
-CID	VINCENT
-Dumb #^%@!	やめろ！
-VINCENT	CLOUD
-Stop it!	クッ……俺に何をさせる気だ
-CLOUD	AERITH
-Ugh…what are you making me do?	……来ない……で
-AERIS	CLOUD
-…stay…back…	……AERITH
+I wonder if the owners used this?	ここの住人が使っていたものか？
+BARRET	BARRET
+Yo, CLOUD. Let's take a break here.	よぉ、CLOUD。ここいらで一服しようぜ
+TIFA	TIFA
+Shall we take a break here?	ひと休み、していきましょうか？
+RED XIII	RED XIII
+Hey, let's rest a bit. I'm tired…	ねぇ、休んでいこうよ。オイラ、つかれちゃった
+CID	CID
+I'm beat. Why don't we get some rest?	つかれもたまってきたしちっと休んでいかねぇか？
+YUFFIE	YUFFIE
+Come on--, let's rest for a while--- I don't want to walk anymore…	ねぇ～、休もうよ～あたい、もう歩きたくな～い
+CAIT SITH	CAIT SITH
+Why don't we catch some ZZZs?…	CLOUDさん、ひとねむりしませんか？
+VINCENT	VINCENT
+Maybe we should take a short nap?	ひとねむり、するか？
+Here's a bed.	ベッドがある。
+Get some rest?	休んでいきますか？
+Yes	はい
+No	いいえ
 CLOUD	CLOUD
-…AERIS.	……ウソだろ？
-CLOUD	セフィロス
-This can't be real!	気にすることはない。まもなくこの娘も星をめぐるエネルギーとなる
-Sephiroth	私の寄り道はもう終わった。あとは北を目指すのみ。雪原の向こうに待っている『約束の地』
-Do not worry. Soon the girl will become part of the Planet's energy.	セフィロス
-All that is left is to go North. The 'Promised Land' waits for me over the snowy fields.	私はそこで新たな存在として星と一体化する。その時はその娘も…
-Sephiroth	CLOUD
-There, I will become a new being by uniting with the Planet. As will this girl…	……だまれ
+I feel it…	感じる……
 CLOUD	CLOUD
-…Shut up.	自然のサイクルもおまえのバカげた計画も関係ない
+AERIS is here. …and so is Sephiroth.	ここに、AERITHがいる……そしてセフィロスも
 CLOUD	CLOUD
-The cycle of nature and your stupid plan don't mean a thing.	AERITHがいなくなってしまう
-CLOUD	AERITHは、もうしゃべらないもう……笑わない泣かない……怒らない……
-AERIS is gone.	CLOUD
-AERIS will no longer talk, no longer laugh, cry…or get angry…	俺たちは……どうしたらいい？
+…It's not an excuse. I feel it in my soul.	……りくつじゃない。感じるんだ、おれの心が
+BARRET	BARRET
+CLOUD, what is it?	CLOUD、どうした？
+TIFA	TIFA
+CLOUD…what's wrong?	CLOUD……どうしたの？
+RED XIII	RED XIII
+What's wrong? Are you sick?	どうしたんだい？気分でも悪いの？
+CID	CID
+Do you know what TIME it is!?	おい、何時だと思ってんだよ！
+YUFFIE	YUFFIE
+Hey---, CLOUD. What's your problem?	あれ～、CLOUD。どしたの？
+CAIT SITH	CAIT SITH
+What's wrong? What time is it…?	どないしたんですかぁ～。こないな時間に～
+VINCENT	VINCENT
+…What's wrong?	……どうした？
+BARRET	BARRET
+Wh, what! Sephiroth!?	な、なんだって！セフィロスが！？
+TIFA	TIFA
+You're saying it's not just AERIS, but Sephiroth, too?	AERITHだけではなくセフィロスまでいるというの？
+RED XIII	RED XIII
+What! Sephiroth's here too!?	え！　セフィロスまでいるの！？
+CID	CID
+Wa, wa, wait a minute. You serious!?	おいおい、ホントかよ！
+YUFFIE	YUFFIE
+No way---! Sephiroth wasn't invited!	うっそ～！セフィロスなんてお呼びじゃないのに～
+CAIT SITH	CAIT SITH
+Are you serious, CLOUD!?	ほ、ほんまですか？CLOUDさん！？
+VINCENT	VINCENT
+…If that's true, then we're in for it.	……それが本当なら、まずいな
+BARRET	BARRET
+How do you know that?	しかし、なんでそんなことがわかるんだ？
+TIFA	TIFA
+But how can you tell?	でも、どうしてそんなことがわかるの？
+RED XIII	RED XIII
+How did you find out?	どうしてわかったんだい？
+CID	CID
+Hey, how do you know!?	でもよぉ、なんでそんなことがわかるんだ！？
+YUFFIE	YUFFIE
+Wh…why? How can you tell that kind of stuff?	ど、どーして？どーしてそんなことがわかっちゃうわけ？
+CAIT SITH	CAIT SITH
+But how can you tell that?	でも、なんでそんなんがわかるんですか？
+VINCENT	VINCENT
+…How did you find that out?	……なぜわかった？
+BARRET	BARRET
+Then, we better get up offa our lazy asses!!	まずいぜ、それじゃ！のんきにねてる場合じゃないぞ
+TIFA	TIFA
+If that's true, then we've got to hurry! We've got to get to AERIS!	それが本当なら、急がなきゃ！はやくAERITHを！
+RED XIII	RED XIII
+Wh,…what should we do? We must hurry to her!	ど、どうしよう？急がないと、大変なことになるよ！
+CID	CID
+@#$$, CLOUD. We can't be sittin' around on our asses.	やべぇぞ、CLOUD。のほほんとしてる場合じゃ、ねぇな
+YUFFIE	YUFFIE
+That means it's pretty bad …doesn't it?	それって、ちょーマズいんじゃない？
+CAIT SITH	CAIT SITH
+If that's true, then we're in for it! We have to find AERIS fast!	それが、ほんまやったらえらいことや！はよAERITHさん見つけんとあかんわ
+VINCENT	VINCENT
+If that's true, we should hurry. Something terrible could happen at any moment.	それが本当なら、急ぐべきだ。取り返しのつかないことになる。
 CLOUD	CLOUD
-What about us…what are WE supposed to do?	この痛みはどうしたらいい？
+…Right. Let's hurry and find AERIS.	……ああ。はやくAERITHをさがそう
 CLOUD	CLOUD
-What is this pain?	指先がチリチリする。口の中はカラカラだ。目の奥が熱いんだ！
-CLOUD	セフィロス
-My fingers are tingling. My mouth is dry. My eyes are burning!	何を言っているのだ？おまえに感情があるとでもいうのか？
-Sephiroth	CLOUD
-What are you talking about? Are you trying to tell me you have feelings now?	あたりまえだ！俺がなんだというんだ！
-CLOUD	セフィロス
-Of course! What do you think I am!?	クックックッ……悲しむふりはやめろ
-Sephiroth	怒りにふるえる演技も必要ない
-Ha, ha, ha…… Stop acting as if you are sad.	セフィロス
-And there's no need to act as if you're angry either.	なぜなら、CLOUD。おまえは……
-Sephiroth	ジェノバ
-Because, CLOUD. You are…	なぜなら、おまえは……人形だ
+No time to be sleeping.	ねている場合じゃない
+CLOUD	CLOUD
+No time to think about it.	調べているヒマはない
+CLOUD	CLOUD
+AERIS's voice…… Coming from there?	AERITHの声の聞こえた方向……あっちか？
+CLOUD	CLOUD
+We have to find AERIS.	AERITHをさがさなくては
+BARRET	BARRET
+Hey yo! Wait up.	お、おい。ちょっと待ってくれ
+BARRET	BARRET
+I hate to say it, but I'm beat. Isn't there anywhere to rest.	情けねぇが、つかれちまった。どっかひとねむりできる場所をさがそうぜ
+TIFA	TIFA
+Hey, hey CLOUD.	ち、ちょっとCLOUD
+TIFA	TIFA
+I'm…I'm so tired. Can't we find somewhere to rest?	わ、わたし、つかれちゃった。どこか、休める場所を探さない？
+RED XIII	RED XIII
+Wait!	ま、待ってよ
+RED XIII	RED XIII
+I'm exhausted. Let me get some rest somewhere.	おいら、もうヘトヘトだよ。どっかで、ひとやすみさせてよ
+CID	CID
+H…ey, CLOUD	お……おい、CLOUD
+CID	CID
+I gotta get some more rest. Let me catch a snooze somewhere around here.	はずかしながら、つかれちまったぜ。どっかで、ちょいと眠らせてくれや
+YUFFIE	YUFFIE
+Ahhh--- I can't go another step!!	あ～、もーっ嫌っ！！
+YUFFIE	YUFFIE
+I'm so----o tired! If you don't get me to a bed, I'm not taking another step!	アタイ、つかれちゃったよ～！あたたかいベッドで眠らせてくんないともう、一歩も動かないからね！
+CAIT SITH	CAIT SITH
+Wa------it!	ち、ちょっと待ってぇ～な
+CAIT SITH	CAIT SITH
+I'm exhausted. I'm sorry, but please let me rest somewhere.	わて、つかれてしまいましたわ。すまんけど、どっかで休ませておくれな
+VINCENT	VINCENT
+Wait, CLOUD.	待て、CLOUD
+VINCENT	VINCENT
+…I'm tired.	……つかれた
+BARRET	BARRET
+That way goes to the Mountains up north. Let's hurry and find AERIS.	そっちの方角へ行くと北の山に出ちまうぜ。はやくAERITHをさがそうぜ
+TIFA	TIFA
+If we continue this way, we'll end up in the Northern Mountains. AERIS isn't over there, right?	そのまま進むと、北の山に出るわ。AERITHはそっちにはいないんじゃないの？
+RED XIII	RED XIII
+That road leads to the Northern Mountains. We have to go the other way to find AERIS.	そっちは、北の山に行く道だよ。AERITHさがすの、方向ちがうよ
+CID	CID
+You thinkin' of going skiing? If we wanna find AERIS, we go THAT way!	雪山でスキーでもするつもりか？AERITHさがすんならそっちじゃないだろ、え！
+YUFFIE	YUFFIE
+We're looking for AERIS, right! Then why are you heading for the mountains!? What a dork!	AERITHさがすんでしょ！雪山の方行って、ど～すんの！サイテ～！
+CAIT SITH	CAIT SITH
+CLOUD, uh that's the road to the Northern Mountains.	CLOUDさんそっちは北の山へ行く道やで
+AERIS is waiting, let's go find her.	AERITHさんが待ってますんや。はよ、さがしにいきましょ
+VINCENT	VINCENT
+This is the road to the Northern Mountains. Don't you want to find AERIS?	これは北の山へ向かう道。AERITHをさがすのはもうあきらめたのか？
+CLOUD	CLOUD
+AERIS?	AERITH？
+BARRET	BARRET
+CLOUD!	CLOUD！
+TIFA	TIFA
+CLOUD!	CLOUD！
+RED XIII	RED XIII
+CLOUD!	CLOUD！
+CAIT SITH	CAIT SITH
+CLOUD!	CLOUD！
+YUFFIE	YUFFIE
+CLOUD!	CLOUD！
+CID	CID
+CLOUD!	CLOUD！
+VINCENT	VINCENT
+CLOUD!	CLOUD！
+BARRET	BARRET
+Stop it!!	やめろ！！
+TIFA	TIFA
+Stop!	やめて！
+RED XIII	RED XIII
+Please stop that!	何をするんだ！
+CAIT SITH	CAIT SITH
+What're you doing!	なにしとんや！！
+YUFFIE	YUFFIE
+Sto----p!	ストーーップ！
+CID	CID
+Dumb #^%@!	バカッ！
+VINCENT	VINCENT
+Stop it!	やめろ！
+CLOUD	CLOUD
+Ugh…what are you making me do?	クッ……俺に何をさせる気だ
+AERIS	AERITH
+…stay…back…	……来ない……で
+CLOUD	CLOUD
+…AERIS.	……AERITH
+CLOUD	CLOUD
+This can't be real!	……ウソだろ？
+Sephiroth	セフィロス
+Do not worry. Soon the girl will become part of the Planet's energy.	気にすることはない。まもなくこの娘も星をめぐるエネルギーとなる
+All that is left is to go North. The 'Promised Land' waits for me over the snowy fields.	私の寄り道はもう終わった。あとは北を目指すのみ。雪原の向こうに待っている『約束の地』
+Sephiroth	セフィロス
+There, I will become a new being by uniting with the Planet. As will this girl…	私はそこで新たな存在として星と一体化する。その時はその娘も…
+CLOUD	CLOUD
+…Shut up.	……だまれ
+CLOUD	CLOUD
+The cycle of nature and your stupid plan don't mean a thing.	自然のサイクルもおまえのバカげた計画も関係ない
+CLOUD	CLOUD
+AERIS is gone.	AERITHがいなくなってしまう
+AERIS will no longer talk, no longer laugh, cry…or get angry…	AERITHは、もうしゃべらないもう……笑わない泣かない……怒らない……
+CLOUD	CLOUD
+What about us…what are WE supposed to do?	俺たちは……どうしたらいい？
+CLOUD	CLOUD
+What is this pain?	この痛みはどうしたらいい？
+CLOUD	CLOUD
+My fingers are tingling. My mouth is dry. My eyes are burning!	指先がチリチリする。口の中はカラカラだ。目の奥が熱いんだ！
+Sephiroth	セフィロス
+What are you talking about? Are you trying to tell me you have feelings now?	何を言っているのだ？おまえに感情があるとでもいうのか？
+CLOUD	CLOUD
+Of course! What do you think I am!?	あたりまえだ！俺がなんだというんだ！
+Sephiroth	セフィロス
+Ha, ha, ha…… Stop acting as if you are sad.	クックックッ……悲しむふりはやめろ
+And there's no need to act as if you're angry either.	怒りにふるえる演技も必要ない
+Sephiroth	セフィロス
+Because, CLOUD. You are…	なぜなら、CLOUD。おまえは……
 Jenova	ジェノバ
-Because, you are…a puppet.	おまえは……
-Jenova	CLOUD
-You are…	俺が……人形？
+Because, you are…a puppet.	なぜなら、おまえは……人形だ
+Jenova	ジェノバ
+You are…	おまえは……
 CLOUD	CLOUD
-I'm…a puppet?	みんな、聞いてくれ
+I'm…a puppet?	俺が……人形？
 CLOUD	CLOUD
-Everyone‚listen to me.	俺はニブルヘイムで生まれた元ソルジャーのCLOUDだ
+Everyone‚listen to me.	みんな、聞いてくれ
 CLOUD	CLOUD
-I'm CLOUD‚ex-SOLDIER‚ born in Nibelheim.	セフィロスとの決着をつけるためにここまでやってきた
-CLOUD	BARRET
-I came to settle up with Sephiroth.	……何が言いてえ？
-BARRET	TIFA
-What're ya tryin' to say?	……どうしたの？
-TIFA	RED XIII
-…What's going on?	……あん？
-RED XIII	CID
-…Hmm?	まえにも聞いたぜ
-CID	YUFFIE
-I heard that before.	こんな時に、どして？
-YUFFIE	CAIT SITH
-Why now?	なんや、いきなりあらたまって。どないしたんですか？
-CAIT SITH	VINCENT
-Why're you being so formal? Is something wrong?	……そうだな
-VINCENT	CLOUD
-…You're right.	俺は自分の意志でここまでやってきた……そう思っていた
-CLOUD	しかし……
-I came here by my own free will… Or so I thought.	CLOUD
-However…	……正直に話す。俺は自分が怖い
+I'm CLOUD‚ex-SOLDIER‚ born in Nibelheim.	俺はニブルヘイムで生まれた元ソルジャーのCLOUDだ
 CLOUD	CLOUD
-…To tell the truth, I'm afraid of myself.	……俺の中には俺の知らない部分がある
-CLOUD	俺はセフィロスに黒マテリアを渡してしまった
-…There is a part of me that I don't understand.	CLOUD
-That part that made me give the Black Materia to Sephiroth.	みんなが止めてくれなければAERITHをこの手で……
-CLOUD	……そういう自分が俺の中にいる。俺ではない自分が
-If you hadn't stopped me, AERIS might have been…	CLOUD
-…There's something inside of me. A person who is not really me.	だから俺はもうこの旅をやめた方がいいのかもしれない
-CLOUD	とんでもないことをしてしまうかもしれない
-That's why I should quit this journey.	CLOUD
-Before I do something terrible.	でも、俺は行く
-CLOUD	５年前、俺の故郷を焼き払いたった今AERITHを殺しそしてこの星を破壊しようとしているセフィロスを……俺は許さない
-But I am going.”	CLOUD
-He destroyed my hometown five years ago, killed AERIS‚and is now trying to destroy the Planet. I'll never forgive…Sephiroth.	俺は……俺は、行かなくてはならない
+I came to settle up with Sephiroth.	セフィロスとの決着をつけるためにここまでやってきた
+BARRET	BARRET
+What're ya tryin' to say?	……何が言いてえ？
+TIFA	TIFA
+…What's going on?	……どうしたの？
+RED XIII	RED XIII
+…Hmm?	……あん？
+CID	CID
+I heard that before.	まえにも聞いたぜ
+YUFFIE	YUFFIE
+Why now?	こんな時に、どして？
+CAIT SITH	CAIT SITH
+Why're you being so formal? Is something wrong?	なんや、いきなりあらたまって。どないしたんですか？
+VINCENT	VINCENT
+…You're right.	……そうだな
 CLOUD	CLOUD
-I… I must go on.	……頼みがある
+I came here by my own free will… Or so I thought.	俺は自分の意志でここまでやってきた……そう思っていた
+However…	しかし……
 CLOUD	CLOUD
-…I have a favor to ask of you.	みんなも来てくれ……るよな？
+…To tell the truth, I'm afraid of myself.	……正直に話す。俺は自分が怖い
 CLOUD	CLOUD
-Will you all come with me?	……俺がおかしなまねをしないように見張っていてほしいんだ
-CLOUD	BARRET
-…to save me from doing something terrible.	……でもよ、なんだかよ……
-BARRET	TIFA
-…I dunno‚man…	……でも、CLOUD
-TIFA	RED XIII
-…But‚CLOUD	……わかった、CLOUD
-RED XIII	CID
-…All right‚CLOUD.	ま、なんだな。そん時は、そん時だ
-CID	YUFFIE
-Well‚we'll face it when it happens.	アタシにまかせな！
-YUFFIE	CAIT SITH
-Leave it to me!	見張るやなんて、そんな……おんなじ仲間やないですか～
-CAIT SITH	VINCENT
-Watch you?…… We're all in this together!	……そうだな
-VINCENT	CLOUD
-…I guess so.	AERITHがどうやってメテオを防ごうとしたのかはわからない
-CLOUD	今となっては俺たちにはそれを知る方法もない
-I don't know how AERIS tried to save the planet from the Meteor.	CLOUD
-And I guess now, we'll never know.	でも！
+…There is a part of me that I don't understand.	……俺の中には俺の知らない部分がある
+That part that made me give the Black Materia to Sephiroth.	俺はセフィロスに黒マテリアを渡してしまった
 CLOUD	CLOUD
-But!	まだ、チャンスはある。セフィロスがメテオを使う前に黒マテリアを取り返すんだ
+If you hadn't stopped me, AERIS might have been…	みんなが止めてくれなければAERITHをこの手で……
+…There's something inside of me. A person who is not really me.	……そういう自分が俺の中にいる。俺ではない自分が
 CLOUD	CLOUD
-We still have a chance. We must get that Black Materia back before Sephiroth uses it.	行こう
+That's why I should quit this journey.	だから俺はもうこの旅をやめた方がいいのかもしれない
+Before I do something terrible.	とんでもないことをしてしまうかもしれない
 CLOUD	CLOUD
-Let's go.	みんな聞いてくれ
+But I am going.	でも、俺は行く
+He destroyed my hometown five years ago, killed AERIS‚and is now trying to destroy the Planet. I'll never forgive…Sephiroth.	５年前、俺の故郷を焼き払いたった今AERITHを殺しそしてこの星を破壊しようとしているセフィロスを……俺は許さない
 CLOUD	CLOUD
-Everyone, listen to me.	俺はニブルヘイムで生まれた元ソルジャーのCLOUDだ
+I… I must go on.	俺は……俺は、行かなくてはならない
 CLOUD	CLOUD
-I am CLOUD, born in Nibelheim and formerly of SOLDIER.	セフィロスとの決着をつけるためにここまでやってきた
-CLOUD	TIFA
-I came here to settle up with Sephiroth.	……どうしたの？
-TIFA	BARRET
-…What's wrong?	……何が言いてえ？
-BARRET	RED XIII
-…yeah, so?	……あん？
-RED XIII	YUFFIE
-…Huh?	どしたの、急に？
-YUFFIE	VINCENT
-What hit you so suddenly?	……そうだな
-VINCENT	CID
-…Yes.	前にも聞いたぜ
-CID	CLOUD
-I've heard all this before.	俺は自分の意志でここまでやってきた……そう思っていた。でも……
+…I have a favor to ask of you.	……頼みがある
 CLOUD	CLOUD
-I came here on my own will…… or at least that's what I thought. But…	……正直に話す。俺は自分が恐い
+Will you all come with me?	みんなも来てくれ……るよな？
 CLOUD	CLOUD
-To be honest… I'm afraid of myself.	俺の中には、俺の知らない部分がある
-CLOUD	俺はセフィロスに黒マテリアを渡してしまった
-There's a part of me I don't understand.	CLOUD
-Like when I gave away the Black Materia.	みんなが止めてくれなければAERITHをこの手で……
+…to save me from doing something terrible.	……俺がおかしなまねをしないように見張っていてほしいんだ
+BARRET	BARRET
+…I dunno‚ man…	……でもよ、なんだかよ……
+TIFA	TIFA
+…But‚CLOUD	……でも、CLOUD
+RED XIII	RED XIII
+…All right‚CLOUD.	……わかった、CLOUD
+CID	CID
+Well‚ we'll face it when it happens.	ま、なんだな。そん時は、そん時だ
+YUFFIE	YUFFIE
+Leave it to me!	アタシにまかせな！
+CAIT SITH	CAIT SITH
+Watch you?…… We're all in this together!	見張るやなんて、そんな……おんなじ仲間やないですか～
+VINCENT	VINCENT
+…I guess so.	……そうだな
 CLOUD	CLOUD
-And if you all hadn't stopped me, …AERIS might have…	……そういう自分が俺の中にいる
+I don't know how AERIS tried to save the planet from the Meteor.	AERITHがどうやってメテオを防ごうとしたのかはわからない
+And I guess now, we'll never know.	今となっては俺たちにはそれを知る方法もない
 CLOUD	CLOUD
-…It's something inside me.	だから俺はもうこの旅をやめた方がいいのかもしれない
-CLOUD	とんでもないことをしてしまうかもしれない
-That is why, maybe I shouldn't go on with this journey.	CLOUD
-I may do something terrible.	でも、俺は行く
+But!	でも！
 CLOUD	CLOUD
-But, I AM going on.	５年前、俺の故郷を焼き払いたった今、AERITHを奪った
-CLOUD	そしてこの星を破壊しようとしているセフィロスを……俺は許さない
-Five years ago, he burned down my hometown, then he took AERIS.	CLOUD
-And now he's trying to destroy the Planet. I won't let him get away with it.	……俺は行かなくちゃならない
+We still have a chance. We must get that Black Materia back before Sephiroth uses it.	まだ、チャンスはある。セフィロスがメテオを使う前に黒マテリアを取り返すんだ
 CLOUD	CLOUD
-…I must go on.	それで……頼みがあるんだ
+Let's go.	行こう
 CLOUD	CLOUD
-But…I have a favor to ask of you.”	みんなも……行ってくれるよな？
+Everyone, listen to me.	みんな聞いてくれ
 CLOUD	CLOUD
-…Will you all still go with me?	……俺がおかしなまねをしないように見張っていてほしいんだ
-CLOUD	TIFA
-Please watch me so I don't do anything horrible.	……でも、CLOUD
-TIFA	BARRET
-…But, CLOUD.	……でもよ、なんかだよ
-BARRET	RED XIII
-…But, you know…	……わかった、CLOUD
-RED XIII	YUFFIE
-…All right, CLOUD.	よ～し、しっかり見張ってるよ
-YUFFIE	VINCENT
-All right, we'll watch you.	……なるほど
-VINCENT	CID
-…I see.	ま、なんだな。そん時は、そん時だ
-CID	CLOUD
-Well, if somethin' happens, it happens.	AERITHがどうやってメテオを防ごうとしたのかはわからない。俺たちにはそれを知る方法もない
+I am CLOUD, born in Nibelheim and formerly of SOLDIER.	俺はニブルヘイムで生まれた元ソルジャーのCLOUDだ
 CLOUD	CLOUD
-I wonder how AERIS was going to save this planet from Meteor. We have no way of finding out now.	でも……
+I came here to settle up with Sephiroth.	セフィロスとの決着をつけるためにここまでやってきた
+TIFA	TIFA
+…What's wrong?	……どうしたの？
+BARRET	BARRET
+…yeah, so?	……何が言いてえ？
+RED XIII	RED XIII
+…Huh?	……あん？
+YUFFIE	YUFFIE
+What hit you so suddenly?	どしたの、急に？
+VINCENT	VINCENT
+…Yes.	……そうだな
+CID	CID
+I've heard all this before.	前にも聞いたぜ
 CLOUD	CLOUD
-But…	まだ、チャンスはある。セフィロスがメテオを使う前に黒マテリアを取り返せばいいんだ
-CLOUD	【　ディスク１が終了しました　】
-We still have a chance. We need to get the Black Materia back before Sephiroth uses Meteor.	指示があるまで、ディスクホルダーを開けないで下さい
-( End of Disc 1 )	ここまでのゲームの状態を
-Please do not open the CD drive	メモリーカードにセーブしますか？
-until further instructions.	はい
-Save the game to this point	いいえ
-on your computer?	ディスク交換が必要です。
-Yes	ここまでをメモリーカードに
-No	セーブしますか？
-Please change the disc.	はい
-Save your game?	いいえ
-Yes	ディスク２に交換してください。
-No	現在はまだここでセーブできません。
-Please insert disc two.	このままゲームをつづけてください。
-You still haven't saved your game.	BARRET
-Continue playing?	セフィロスは……どっちだ？
-BARRET	TIFA
-Which way'd that damn foo' Sephiroth go?	セフィロスは……どっちに行ったのかしら？
-TIFA	RED XIII
-Sephiroth… I wonder which way he went?	セフィロスは……どっちに行ったのかな？
-RED XIII	CID
-Sephiroth… which way did he go?	……どっち行きやがったんだ？セフィロスの野郎はよ
-CID	YUFFIE
-…Which way did that creep Sephiroth go!?	え～っと……セフィロス、どっち？
-YUFFIE	CAIT SITH
-Ummm… Which way did that Sephiroth guy go?	セフィロスはどっち行ったんやろ？
-CAIT SITH	VINCENT
-I wonder which way Sephiroth went?	セフィロス……どこへ向かった？
-VINCENT	BARRET
-Which way did Sephiroth head?	おい、大丈夫か？
-BARRET	TIFA
-Hey, you alright?	CLOUD！しっかりして！！
-TIFA	RED XIII
-CLOUD! Get a hold of yourself!!	だ、大丈夫？
-RED XIII	CID
-You all right?	お、おい！大丈夫か？
-CID	YUFFIE
-Ey, hey! You alright?	ち、ちょっと！シッカリしてよ
-YUFFIE	CAIT SITH
-Wait! Get a hold of yourself!	CLOUDさん！大丈夫ですか？
-CAIT SITH	VINCENT
-CLOUD! Are you all right?	……大丈夫か？
-VINCENT	CLOUD
-…you all right?	セフィロスは言っていた……【北を目指す】……【雪原の向こう】と……
+I came here on my own will…… or at least that's what I thought. But…	俺は自分の意志でここまでやってきた……そう思っていた。でも……
 CLOUD	CLOUD
-Sephiroth said to me… Head North…… ……past the Snow Fields……	……うっ
+To be honest… I'm afraid of myself.	……正直に話す。俺は自分が恐い
 CLOUD	CLOUD
-…ugh.	ああ……
-CLOUD	undefined
-Hmmm…	undefined
+There's a part of me I don't understand.	俺の中には、俺の知らない部分がある
+Like when I gave away the Black Materia.	俺はセフィロスに黒マテリアを渡してしまった
+CLOUD	CLOUD
+And if you all hadn't stopped me, …AERIS might have…	みんなが止めてくれなければAERITHをこの手で……
+CLOUD	CLOUD
+…It's something inside me.	……そういう自分が俺の中にいる
+CLOUD	CLOUD
+That is why, maybe I shouldn't go on with this journey.	だから俺はもうこの旅をやめた方がいいのかもしれない
+I may do something terrible.	とんでもないことをしてしまうかもしれない
+CLOUD	CLOUD
+But, I AM going on.	でも、俺は行く
+CLOUD	CLOUD
+Five years ago, he burned down my hometown, then he took AERIS.	５年前、俺の故郷を焼き払いたった今、AERITHを奪った
+And now he's trying to destroy the Planet. I won't let him get away with it.	そしてこの星を破壊しようとしているセフィロスを……俺は許さない
+CLOUD	CLOUD
+…I must go on.	……俺は行かなくちゃならない
+CLOUD	CLOUD
+But…I have a favor to ask of you.”	それで……頼みがあるんだ
+CLOUD	CLOUD
+…Will you all still go with me?	みんなも……行ってくれるよな？
+CLOUD	CLOUD
+Please watch me so I don't do anything horrible.	……俺がおかしなまねをしないように見張っていてほしいんだ
+TIFA	TIFA
+…But, CLOUD.	……でも、CLOUD
+BARRET	BARRET
+…But, you know…	……でもよ、なんかだよ
+RED XIII	RED XIII
+…All right, CLOUD.	……わかった、CLOUD
+YUFFIE	YUFFIE
+All right, we'll watch you.	よ～し、しっかり見張ってるよ
+VINCENT	VINCENT
+…I see.	……なるほど
+CID	CID
+Well, if somethin' happens, it happens.	ま、なんだな。そん時は、そん時だ
+CLOUD	CLOUD
+I wonder how AERIS was going to save this planet from Meteor. We have no way of finding out now.	AERITHがどうやってメテオを防ごうとしたのかはわからない。俺たちにはそれを知る方法もない
+CLOUD	CLOUD
+But…	でも……
+CLOUD	CLOUD
+We still have a chance. We need to get the Black Materia back before Sephiroth uses Meteor.	まだ、チャンスはある。セフィロスがメテオを使う前に黒マテリアを取り返せばいいんだ
+( End of Disc 1 )	【　ディスク１が終了しました　】
+Please do not open the CD drive until further instructions.	指示があるまで、ディスクホルダーを開けないで下さい
+Save the game to this point on your computer?	ここまでのゲームの状態をメモリーカードにセーブしますか？
+Yes	はい
+No	いいえ
+Please change the disc.	ディスク交換が必要です。
+Save the game to this point on your computer?	ここまでをメモリーカードにセーブしますか？
+Yes	はい
+No	いいえ
+Please insert disc two.	ディスク２に交換してください。
+You still haven't saved your game.	現在はまだここでセーブできません。
+Continue playing?	このままゲームをつづけてください。
+BARRET	BARRET
+Which way'd that damn foo' Sephiroth go?	セフィロスは……どっちだ？
+TIFA	TIFA
+Sephiroth… I wonder which way he went?	セフィロスは……どっちに行ったのかしら？
+RED XIII	RED XIII
+Sephiroth… which way did he go?	セフィロスは……どっちに行ったのかな？
+CID	CID
+…Which way did that creep Sephiroth go!?	……どっち行きやがったんだ？セフィロスの野郎はよ
+YUFFIE	YUFFIE
+Ummm… Which way did that Sephiroth guy go?	え～っと……セフィロス、どっち？
+CAIT SITH	CAIT SITH
+I wonder which way Sephiroth went?	セフィロスはどっち行ったんやろ？
+VINCENT	VINCENT
+Which way did Sephiroth head?	セフィロス……どこへ向かった？
+BARRET	BARRET
+Hey, you alright?	おい、大丈夫か？
+TIFA	TIFA
+CLOUD! Get a hold of yourself!!	CLOUD！しっかりして！！
+RED XIII	RED XIII
+You all right?	だ、大丈夫？
+CID	CID
+Ey, hey! You alright?	お、おい！大丈夫か？
+YUFFIE	YUFFIE
+Wait! Get a hold of yourself!	ち、ちょっと！シッカリしてよ
+CAIT SITH	CAIT SITH
+CLOUD! Are you all right?	CLOUDさん！大丈夫ですか？
+VINCENT	VINCENT
+…you all right?	……大丈夫か？
+CLOUD	CLOUD
+Sephiroth said to me… Head North…… ……past the Snow Fields……	セフィロスは言っていた……【北を目指す】……【雪原の向こう】と……
+CLOUD	CLOUD
+…ugh.	……うっ
+CLOUD	CLOUD
+Hmmm…	ああ……

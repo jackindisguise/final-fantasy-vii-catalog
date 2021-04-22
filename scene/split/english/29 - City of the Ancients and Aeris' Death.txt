@@ -54,22 +54,14 @@ I want a Lunar Harp
 Not interested
 Ask the guy in the tent below.
 We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.
-Please push [SWITCH] to
-set staff in position.
+Please push [SWITCH] to set staff in position.
 Order a search (100 gil)
 Done
-Could not position the staff,
-due to a lack of funds.
-Press [SWITCH] to ignite the
-bomb for the search.
-The staff member will calculate
-the tremors and dig up the buried item.
-The dig point is where
-the staff's line
-of vision meets.
-Move to the dig point
-and press [SWITCH] to select.
-The staff will dig for the item.
+Could not position the staff, due to a lack of funds.
+Press [SWITCH] to ignite the bomb for the search.
+The staff member will calculate the tremors and dig up the buried item.
+The dig point is where the staff's line of vision meets.
+Move to the dig point and press [SWITCH] to select. The staff will dig for the item.
 Now, the staff will dig here. The result will be placed in the treasure box overnight.
 Excavating is a slow process. The treasures we excavate are stored in the box next to the tent. Remember that.
 It, it's scary…
@@ -370,7 +362,7 @@ CLOUD
 That's why I should quit this journey.
 Before I do something terrible.
 CLOUD
-But I am going.”
+But I am going.
 He destroyed my hometown five years ago, killed AERIS‚and is now trying to destroy the Planet. I'll never forgive…Sephiroth.
 CLOUD
 I… I must go on.
@@ -381,13 +373,13 @@ Will you all come with me?
 CLOUD
 …to save me from doing something terrible.
 BARRET
-…I dunno‚man…
+…I dunno‚ man…
 TIFA
 …But‚CLOUD
 RED XIII
 …All right‚CLOUD.
 CID
-Well‚we'll face it when it happens.
+Well‚ we'll face it when it happens.
 YUFFIE
 Leave it to me!
 CAIT SITH
@@ -467,14 +459,12 @@ But…
 CLOUD
 We still have a chance. We need to get the Black Materia back before Sephiroth uses Meteor.
 ( End of Disc 1 )
-Please do not open the CD drive
-until further instructions.
-Save the game to this point
-on your computer?
+Please do not open the CD drive until further instructions.
+Save the game to this point on your computer?
 Yes
 No
 Please change the disc.
-Save your game?
+Save the game to this point on your computer?
 Yes
 No
 Please insert disc two.

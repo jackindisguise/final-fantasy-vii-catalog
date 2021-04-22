@@ -93,22 +93,22 @@ to find buried treasure.	埋まっているものを発見するの。
 We use bombs to make earthquakes,	爆弾で人工的に地震をおこし
 and then check the sound waves	その振動の反射をそくていするのね」
 given off by the tremors.”	
-Please push [SWITCH] to	□ボタンを押してスタッフの
-set staff in position.	配置場所を決めてください。
+“Please push [SWITCH] to	「□ボタンを押してスタッフの
+set staff in position.”	配置場所を決めてください。」
 Order a search (100 gil)	調査を指示（１００ギル）
 Done	もういらない
-Could not position the staff,	お金がたりないので
-due to a lack of funds.	配置しませんでした。
-Press [SWITCH] to ignite the	□ボタンを押せば調査用の爆弾が
+“Could not position the staff,	「お金がたりないので
+due to a lack of funds.	配置しませんでした。」
+“Press [SWITCH] to ignite the	「□ボタンを押せば調査用の爆弾が
 bomb for the search.	地中で爆発します。
-The staff member will calculate	各スタッフは爆発の反動を計算し
+“The staff member will calculate	「各スタッフは爆発の反動を計算し
 the tremors and dig up the buried item.	目的のまいぞう物の方向を指し示します。
-The dig point is where	つまりスタッフの視線が交わった
+“The dig point is where	「つまりスタッフの視線が交わった
 the staff's line	ポイントがハックツポイントです。
 of vision meets.	
-Move to the dig point	地下調査する地点まで移動し□ボタンで
+“Move to the dig point	「地下調査する地点まで移動し□ボタンで
 and press [SWITCH] to select.	決定してください。穴をほって調査します。
-The staff will dig for the item.	
+The staff will dig for the item.	？？？
 “Now, the staff will dig here.	「ではこの地点をほります。
 The result will be placed	一晩ねれば、結果が村のたからばこに
 in the treasure box overnight.”	入れられます」
@@ -176,7 +176,7 @@ Not again!”	またかよ、おい」
 CID	CID
 “Who is it? Who's trying to peek	「誰だ？　オレ様の頭を
 into my mind?”	のぞこうとするのは？
-“Is it the Consciousness	まさか、古代種の意識が？」
+“Is it the Consciousness	「まさか、古代種の意識が？」
 of the Ancients?”	
 BARRET	BARRET
 “Hey, there's a bed.”	「おっ、ベッドがあるぜ」
@@ -223,8 +223,8 @@ No	いいえ
 CLOUD	CLOUD
 “I feel it…”	「感じる……」
 CLOUD	CLOUD
-“AERIS is here.	「ここに、AERITHがいる」
-…and so is Sephiroth.”	「……そしてセフィロスも」
+“AERIS is here.	「ここに、AERITHがいる
+…and so is Sephiroth.”	……そしてセフィロスも」
 CLOUD	CLOUD
 “…It's not an excuse.	「……りくつじゃない。
 I feel it in my soul.”	感じるんだ、おれの心が」
@@ -522,7 +522,7 @@ I should quit this journey.”	いいのかもしれない」
 “Before I do something terrible.”	「とんでもないことをしてしまうかも
 	しれない」
 CLOUD	CLOUD
-But I am going.”	「でも、俺は行く」
+“But I am going.”	「でも、俺は行く」
 “He destroyed my hometown five years ago,	「５年前、俺の故郷を焼き払い
 killed AERIS‚and is	たった今AERITHを殺し
 now trying to destroy the Planet.	そしてこの星を破壊しようとしている
@@ -538,13 +538,13 @@ CLOUD	CLOUD
 “…to save me	「……俺がおかしなまねをしないように
 from doing something terrible.”	見張っていてほしいんだ」
 BARRET	BARRET
-“…I dunno‚man…”	「……でもよ、なんだかよ……」
+“…I dunno‚ man…”	「……でもよ、なんだかよ……」
 TIFA	TIFA
 “…But‚CLOUD”	「……でも、CLOUD」
 RED XIII	RED XIII
 “…All right‚CLOUD.”	「……わかった、CLOUD」
 CID	CID
-“Well‚we'll face it	「ま、なんだな。
+“Well‚ we'll face it	「ま、なんだな。
 when it happens.”	そん時は、そん時だ」
 YUFFIE	YUFFIE
 “Leave it to me!”	「アタシにまかせな！」
@@ -648,15 +648,15 @@ CLOUD	CLOUD
 We need to get the Black Materia back	セフィロスがメテオを使う前に
 before Sephiroth uses Meteor.”	黒マテリアを取り返せばいいんだ」
 ( End of Disc 1 )	【　ディスク１が終了しました　】
-Please do not open the CD drive	
-until further instructions.	指示があるまで、ディスクホルダーを開けないで下さい
-Save the game to this point	ここまでのゲームの状態を
-on your computer?	メモリーカードにセーブしますか？
+“Please do not open the CD drive	
+until further instructions.”	指示があるまで、ディスクホルダーを開けないで下さい
+“Save the game to this point	「ここまでのゲームの状態を
+on your computer?”	メモリーカードにセーブしますか？」
 Yes	はい
 No	いいえ
-Please change the disc.	ディスク交換が必要です。
-	ここまでをメモリーカードに
-Save your game?	セーブしますか？
+“Please change the disc.”	ディスク交換が必要です。
+“Save the game to this point	「ここまでをメモリーカードに
+on your computer?”	セーブしますか？」
 Yes	はい
 No	いいえ
 Please insert disc two.	ディスク２に交換してください。
