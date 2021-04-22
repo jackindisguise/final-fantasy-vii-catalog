@@ -16,8 +16,9 @@ const symbols = require("./mecab-symbols.json");
 const inputFolder = "../scene/split/japanese/";
 const outputFolderNew = "../vocabulary/new/";
 const outputFolderUnique = "../vocabulary/unique/";
+const searchedWords = [];
 const foundWords = [];
-const foundRoots = [];
+const usedDictEntries = [];
 
 // safe array handling
 function __array(data){
@@ -36,22 +37,23 @@ function tokenIsBasic(token){ return tokenIsNoun(token) || tokenIsVerb(token) ||
 // jsdict formatters
 function formatSense(word){
 	let sense = __array(word.sense);
-	let text = [];
+	let formatted = {pos:null, gloss:[]};
 	for(let entry of sense){
 		let current = [];
-		if(entry.pos) current.push(`(${__array(entry.pos).join(", ")})`);
-		current.push(`${__array(entry.gloss).join(", ")}`);
-		text.push(current.join(" "));
+		if(entry.pos) formatted.pos = `${__array(entry.pos).join(", ")}`
+		formatted.gloss.push(`${__array(entry.gloss).join(", ")}`);
 	}
 
-	return text.join("; ");
+	return formatted;
 }
 
 function formatWord(word){
+	let formatted = {kana: null, kanji: null};
 	let k_ele = __array(word.k_ele);
 	let r_ele = __array(word.r_ele);
-	if(k_ele.length) return `${k_ele[0].keb}\t${r_ele[0].reb}`;
-	else if(r_ele.length) return `\t${r_ele[0].reb}`;
+	if(k_ele.length) formatted.kanji = k_ele[0].keb;
+	if(r_ele.length) formatted.kana = r_ele[0].reb;
+	return formatted;
 }
 
 // read all processed texts and scrape kanji data
@@ -59,6 +61,9 @@ console.log(`Generating tables for scenes:`);
 function finish(){
 	console.log("DONE.");
 }
+
+// read from stdin
+process.stdin.resume();
 
 fs.readdir(inputFolder, function(err, files){
 	let j = -1;
@@ -110,20 +115,10 @@ fs.readdir(inputFolder, function(err, files){
 
 					let token = tokens[k];
 					if(!token.root) return nextToken();
+					if(searchedWords.indexOf(token.root) !== -1) return nextToken();
 					if(!tokenIsBasic(token)) return nextToken();
+					searchedWords.push(token.root);
 					let word = {word: token.root, scene: file, line: line, definition:null};
-	
-					// add to scene list (only unique words in this scene)
-					if(sceneRoots.indexOf(token.root)===-1){
-					}
-	
-					// add to complete list (only absolutely new words)
-					if(foundRoots.indexOf(token.root)===-1){
-						foundWords.push(word);
-						foundRoots.push(token.root);
-						sceneRoots.push(word.root);
-						sceneWords.push(word);
-					}
 
 					// lookup definitions
 					http.get(`http://localhost:666/lookup/${encodeURI(token.root)}`, function(res){
@@ -131,10 +126,56 @@ fs.readdir(inputFolder, function(err, files){
 						res.on("data", function(chunk){ data += chunk; });
 						res.on("end", function(){
 							let json = JSON.parse(data);
-							if(!json || !json.length) return nextToken();
-							let first = json[0];
-							word.definition = `${formatWord(first)}\t${formatSense(first)}`;
-							nextToken();
+							function listOptions(){
+								console.log(`Choose a disambiguation for '${token.root}':`);
+								for(let z=0;z<json.length;z++) {
+									let _word = formatWord(json[z]);
+									let _definition = formatSense(json[z]);
+									let used = (usedDictEntries.indexOf(json[z].ent_seq) !== -1);
+									console.log(`${used?"***":""}${z+1}) ${_word.kana}${_word.kanji ? " "+_word.kanji : ""}: (${_definition.pos}) ${_definition.gloss}`);
+								}
+							}
+
+							function askForNumber(){
+								process.stdout.write("Your choice: ")
+								process.stdin.once("data", function(chunk){
+									let num = new Number(chunk);
+									if(chunk == "\r\n") num = 1;
+									if(num > 0 && num <= json.length) {
+										let choice = json[num-1];
+										let used = (usedDictEntries.indexOf(choice.ent_seq) !== -1);
+										if(!used){
+											console.log(choice.ent_seq, usedDictEntries.join(","));
+											word.definition = choice;
+											usedDictEntries.push(choice.ent_seq);
+											foundWords.push(choice);
+										}
+									} else {
+										console.log("Not an option. Try again.");
+										console.log("");
+										listOptions();
+										askForNumber();
+										return;
+									}
+									process.stdin.removeAllListeners();
+									console.log("");
+									nextToken();
+								});
+
+							}
+
+							if(!json || !json.length) { console.log(`No results for ${token.root}.`); return nextToken(); }
+							if(json.length>1){
+								listOptions();
+								askForNumber();
+							} else {
+								let used = (usedDictEntries.indexOf(json[0].ent_seq) !== -1);
+								if(!used){
+									usedDictEntries.push(json[0].ent_seq);
+									foundWords.push(json[0]);
+								}
+								nextToken()
+							}
 						});
 					});
 				}
