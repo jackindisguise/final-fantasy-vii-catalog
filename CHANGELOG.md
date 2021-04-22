@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.8.0...v1.9.0) (2021-04-22)
+
+
+### Features
+
+* Added Scene 27: Gold Saucer (Post-Date). ([38fdf83](https://github.com/nowotato/final-fantasy-vii-catalog/commit/38fdf83f40e36e3114b78844582413e2855a8d08)), closes [#30](https://github.com/nowotato/final-fantasy-vii-catalog/issues/30)
+* Added Scene 28: Temple of the Ancients. ([abeab20](https://github.com/nowotato/final-fantasy-vii-catalog/commit/abeab20cd12524d352c8004a2fcc9dc459558e63))
+
 ## [1.8.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.7.0...v1.8.0) (2021-04-21)
 
 
