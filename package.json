@@ -7,7 +7,8 @@
     "process": "cd src && node process-all",
     "kanji": "cd src && node generate-kanji-table && node generate-kanji-order && node generate-kanji-readme",
     "split": "cd src && node generate-split-script",
-    "meta": "npm run kanji && npm run split",
+	"table": "cd src && node generate-scene-tables",
+    "meta": "npm run kanji && npm run split && npm run table",
     "release": "npm run meta && standard-version",
     "release-dry": "standard-version --dry-run"
   },

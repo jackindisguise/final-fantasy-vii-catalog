@@ -15,7 +15,7 @@ let kanjiCount = 0;
 // read all processed texts and scrape kanji data
 console.log("Scraping kanji from scenes.");
 console.log("");
-console.log("File\t\t\t\t|  Unique Kanji\t| New Kanji");
+console.log("File\t\t\t\t| Unique Kanji\t| New Kanji");
 console.log("----------------------------------------------------------------------------------------------------")
 fs.readdir(inputFolder, function(err, files){
 	if(err) return;

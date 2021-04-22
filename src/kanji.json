@@ -1,21 +1,21 @@
 {
-	"unique": 946,
-	"total": 29741,
+	"unique": 950,
+	"total": 31010,
 	"table": [
 		{
 			"kanji": "行",
 			"order": 1,
-			"occurrences": 333
+			"occurrences": 341
 		},
 		{
 			"kanji": "新",
 			"order": 2,
-			"occurrences": 65
+			"occurrences": 69
 		},
 		{
 			"kanji": "入",
 			"order": 3,
-			"occurrences": 179
+			"occurrences": 187
 		},
 		{
 			"kanji": "続",
@@ -30,12 +30,12 @@
 		{
 			"kanji": "神",
 			"order": 6,
-			"occurrences": 516
+			"occurrences": 556
 		},
 		{
 			"kanji": "羅",
 			"order": 7,
-			"occurrences": 465
+			"occurrences": 467
 		},
 		{
 			"kanji": "参",
@@ -50,7 +50,7 @@
 		{
 			"kanji": "話",
 			"order": 10,
-			"occurrences": 230
+			"occurrences": 234
 		},
 		{
 			"kanji": "本",
@@ -60,32 +60,32 @@
 		{
 			"kanji": "当",
 			"order": 12,
-			"occurrences": 84
+			"occurrences": 86
 		},
 		{
 			"kanji": "言",
 			"order": 13,
-			"occurrences": 282
+			"occurrences": 294
 		},
 		{
 			"kanji": "私",
 			"order": 14,
-			"occurrences": 247
+			"occurrences": 271
 		},
 		{
 			"kanji": "敵",
 			"order": 15,
-			"occurrences": 51
+			"occurrences": 52
 		},
 		{
 			"kanji": "協",
 			"order": 16,
-			"occurrences": 12
+			"occurrences": 13
 		},
 		{
 			"kanji": "力",
 			"order": 17,
-			"occurrences": 133
+			"occurrences": 138
 		},
 		{
 			"kanji": "早",
@@ -95,27 +95,27 @@
 		{
 			"kanji": "元",
 			"order": 19,
-			"occurrences": 71
+			"occurrences": 72
 		},
 		{
 			"kanji": "今",
 			"order": 20,
-			"occurrences": 190
+			"occurrences": 193
 		},
 		{
 			"kanji": "俺",
 			"order": 21,
-			"occurrences": 278
+			"occurrences": 305
 		},
 		{
 			"kanji": "仲",
 			"order": 22,
-			"occurrences": 26
+			"occurrences": 27
 		},
 		{
 			"kanji": "間",
 			"order": 23,
-			"occurrences": 172
+			"occurrences": 182
 		},
 		{
 			"kanji": "名",
@@ -125,52 +125,52 @@
 		{
 			"kanji": "前",
 			"order": 25,
-			"occurrences": 193
+			"occurrences": 194
 		},
 		{
 			"kanji": "聞",
 			"order": 26,
-			"occurrences": 211
+			"occurrences": 215
 		},
 		{
 			"kanji": "教",
 			"order": 27,
-			"occurrences": 64
+			"occurrences": 68
 		},
 		{
 			"kanji": "興",
 			"order": 28,
-			"occurrences": 78
+			"occurrences": 80
 		},
 		{
 			"kanji": "味",
 			"order": 29,
-			"occurrences": 112
+			"occurrences": 115
 		},
 		{
 			"kanji": "仕",
 			"order": 30,
-			"occurrences": 78
+			"occurrences": 81
 		},
 		{
 			"kanji": "事",
 			"order": 31,
-			"occurrences": 160
+			"occurrences": 161
 		},
 		{
 			"kanji": "終",
 			"order": 32,
-			"occurrences": 93
+			"occurrences": 96
 		},
 		{
 			"kanji": "別",
 			"order": 33,
-			"occurrences": 57
+			"occurrences": 59
 		},
 		{
 			"kanji": "動",
 			"order": 34,
-			"occurrences": 98
+			"occurrences": 102
 		},
 		{
 			"kanji": "壱",
@@ -180,17 +180,17 @@
 		{
 			"kanji": "番",
 			"order": 36,
-			"occurrences": 163
+			"occurrences": 167
 		},
 		{
 			"kanji": "魔",
 			"order": 37,
-			"occurrences": 272
+			"occurrences": 279
 		},
 		{
 			"kanji": "晄",
 			"order": 38,
-			"occurrences": 201
+			"occurrences": 202
 		},
 		{
 			"kanji": "炉",
@@ -200,7 +200,7 @@
 		{
 			"kanji": "集",
 			"order": 40,
-			"occurrences": 34
+			"occurrences": 37
 		},
 		{
 			"kanji": "合",
@@ -210,17 +210,17 @@
 		{
 			"kanji": "信",
 			"order": 42,
-			"occurrences": 50
+			"occurrences": 58
 		},
 		{
 			"kanji": "用",
 			"order": 43,
-			"occurrences": 90
+			"occurrences": 96
 		},
 		{
 			"kanji": "初",
 			"order": 44,
-			"occurrences": 41
+			"occurrences": 42
 		},
 		{
 			"kanji": "期",
@@ -240,17 +240,17 @@
 		{
 			"kanji": "押",
 			"order": 48,
-			"occurrences": 50
+			"occurrences": 51
 		},
 		{
 			"kanji": "方",
 			"order": 49,
-			"occurrences": 179
+			"occurrences": 183
 		},
 		{
 			"kanji": "向",
 			"order": 50,
-			"occurrences": 80
+			"occurrences": 81
 		},
 		{
 			"kanji": "速",
@@ -270,17 +270,17 @@
 		{
 			"kanji": "脱",
 			"order": 54,
-			"occurrences": 5
+			"occurrences": 6
 		},
 		{
 			"kanji": "出",
 			"order": 55,
-			"occurrences": 239
+			"occurrences": 258
 		},
 		{
 			"kanji": "口",
 			"order": 56,
-			"occurrences": 25
+			"occurrences": 28
 		},
 		{
 			"kanji": "確",
@@ -295,7 +295,7 @@
 		{
 			"kanji": "大",
 			"order": 59,
-			"occurrences": 164
+			"occurrences": 175
 		},
 		{
 			"kanji": "爆",
@@ -305,27 +305,27 @@
 		{
 			"kanji": "破",
 			"order": 61,
-			"occurrences": 26
+			"occurrences": 30
 		},
 		{
 			"kanji": "中",
 			"order": 62,
-			"occurrences": 188
+			"occurrences": 194
 		},
 		{
 			"kanji": "人",
 			"order": 63,
-			"occurrences": 396
+			"occurrences": 415
 		},
 		{
 			"kanji": "星",
 			"order": 64,
-			"occurrences": 149
+			"occurrences": 174
 		},
 		{
 			"kanji": "満",
 			"order": 65,
-			"occurrences": 18
+			"occurrences": 19
 		},
 		{
 			"kanji": "住",
@@ -340,7 +340,7 @@
 		{
 			"kanji": "使",
 			"order": 68,
-			"occurrences": 121
+			"occurrences": 129
 		},
 		{
 			"kanji": "日",
@@ -350,7 +350,7 @@
 		{
 			"kanji": "生",
 			"order": 70,
-			"occurrences": 180
+			"occurrences": 190
 		},
 		{
 			"kanji": "活",
@@ -360,7 +360,7 @@
 		{
 			"kanji": "誰",
 			"order": 72,
-			"occurrences": 57
+			"occurrences": 60
 		},
 		{
 			"kanji": "質",
@@ -370,12 +370,12 @@
 		{
 			"kanji": "知",
 			"order": 74,
-			"occurrences": 212
+			"occurrences": 241
 		},
 		{
 			"kanji": "流",
 			"order": 75,
-			"occurrences": 30
+			"occurrences": 31
 		},
 		{
 			"kanji": "血",
@@ -385,12 +385,12 @@
 		{
 			"kanji": "会",
 			"order": 77,
-			"occurrences": 113
+			"occurrences": 116
 		},
 		{
 			"kanji": "社",
 			"order": 78,
-			"occurrences": 79
+			"occurrences": 81
 		},
 		{
 			"kanji": "吸",
@@ -410,7 +410,7 @@
 		{
 			"kanji": "先",
 			"order": 82,
-			"occurrences": 119
+			"occurrences": 120
 		},
 		{
 			"kanji": "急",
@@ -420,7 +420,7 @@
 		{
 			"kanji": "命",
 			"order": 84,
-			"occurrences": 76
+			"occurrences": 79
 		},
 		{
 			"kanji": "毎",
@@ -430,17 +430,17 @@
 		{
 			"kanji": "死",
 			"order": 86,
-			"occurrences": 72
+			"occurrences": 75
 		},
 		{
 			"kanji": "悪",
 			"order": 87,
-			"occurrences": 103
+			"occurrences": 104
 		},
 		{
 			"kanji": "考",
 			"order": 88,
-			"occurrences": 57
+			"occurrences": 63
 		},
 		{
 			"kanji": "警",
@@ -460,12 +460,12 @@
 		{
 			"kanji": "来",
 			"order": 92,
-			"occurrences": 188
+			"occurrences": 199
 		},
 		{
 			"kanji": "解",
 			"order": 93,
-			"occurrences": 24
+			"occurrences": 28
 		},
 		{
 			"kanji": "除",
@@ -480,7 +480,7 @@
 		{
 			"kanji": "後",
 			"order": 96,
-			"occurrences": 96
+			"occurrences": 99
 		},
 		{
 			"kanji": "油",
@@ -490,7 +490,7 @@
 		{
 			"kanji": "断",
 			"order": 98,
-			"occurrences": 12
+			"occurrences": 13
 		},
 		{
 			"kanji": "暗",
@@ -500,17 +500,17 @@
 		{
 			"kanji": "号",
 			"order": 100,
-			"occurrences": 15
+			"occurrences": 19
 		},
 		{
 			"kanji": "手",
 			"order": 101,
-			"occurrences": 446
+			"occurrences": 478
 		},
 		{
 			"kanji": "何",
 			"order": 102,
-			"occurrences": 308
+			"occurrences": 319
 		},
 		{
 			"kanji": "犠",
@@ -525,37 +525,37 @@
 		{
 			"kanji": "決",
 			"order": 105,
-			"occurrences": 52
+			"occurrences": 55
 		},
 		{
 			"kanji": "定",
 			"order": 106,
-			"occurrences": 51
+			"occurrences": 52
 		},
 		{
 			"kanji": "上",
 			"order": 107,
-			"occurrences": 249
+			"occurrences": 251
 		},
 		{
 			"kanji": "下",
 			"order": 108,
-			"occurrences": 105
+			"occurrences": 108
 		},
 		{
 			"kanji": "調",
 			"order": 109,
-			"occurrences": 29
+			"occurrences": 30
 		},
 		{
 			"kanji": "子",
 			"order": 110,
-			"occurrences": 130
+			"occurrences": 134
 		},
 		{
 			"kanji": "壊",
 			"order": 111,
-			"occurrences": 36
+			"occurrences": 42
 		},
 		{
 			"kanji": "弾",
@@ -565,7 +565,7 @@
 		{
 			"kanji": "見",
 			"order": 113,
-			"occurrences": 337
+			"occurrences": 356
 		},
 		{
 			"kanji": "張",
@@ -580,7 +580,7 @@
 		{
 			"kanji": "目",
 			"order": 116,
-			"occurrences": 90
+			"occurrences": 96
 		},
 		{
 			"kanji": "発",
@@ -595,7 +595,7 @@
 		{
 			"kanji": "所",
 			"order": 119,
-			"occurrences": 69
+			"occurrences": 74
 		},
 		{
 			"kanji": "格",
@@ -605,22 +605,22 @@
 		{
 			"kanji": "的",
 			"order": 121,
-			"occurrences": 48
+			"occurrences": 49
 		},
 		{
 			"kanji": "報",
 			"order": 122,
-			"occurrences": 54
+			"occurrences": 55
 		},
 		{
 			"kanji": "分",
 			"order": 123,
-			"occurrences": 158
+			"occurrences": 167
 		},
 		{
 			"kanji": "残",
 			"order": 124,
-			"occurrences": 74
+			"occurrences": 76
 		},
 		{
 			"kanji": "秒",
@@ -630,7 +630,7 @@
 		{
 			"kanji": "気",
 			"order": 126,
-			"occurrences": 276
+			"occurrences": 291
 		},
 		{
 			"kanji": "幼",
@@ -640,12 +640,12 @@
 		{
 			"kanji": "不",
 			"order": 128,
-			"occurrences": 71
+			"occurrences": 74
 		},
 		{
 			"kanji": "安",
 			"order": 129,
-			"occurrences": 50
+			"occurrences": 55
 		},
 		{
 			"kanji": "街",
@@ -655,12 +655,12 @@
 		{
 			"kanji": "引",
 			"order": 131,
-			"occurrences": 20
+			"occurrences": 22
 		},
 		{
 			"kanji": "地",
 			"order": 132,
-			"occurrences": 142
+			"occurrences": 153
 		},
 		{
 			"kanji": "点",
@@ -675,12 +675,12 @@
 		{
 			"kanji": "自",
 			"order": 135,
-			"occurrences": 119
+			"occurrences": 133
 		},
 		{
 			"kanji": "単",
 			"order": 136,
-			"occurrences": 16
+			"occurrences": 19
 		},
 		{
 			"kanji": "独",
@@ -690,17 +690,17 @@
 		{
 			"kanji": "列",
 			"order": 138,
-			"occurrences": 44
+			"occurrences": 45
 		},
 		{
 			"kanji": "車",
 			"order": 139,
-			"occurrences": 77
+			"occurrences": 79
 		},
 		{
 			"kanji": "乗",
 			"order": 140,
-			"occurrences": 86
+			"occurrences": 87
 		},
 		{
 			"kanji": "金",
@@ -715,7 +715,7 @@
 		{
 			"kanji": "帰",
 			"order": 143,
-			"occurrences": 68
+			"occurrences": 70
 		},
 		{
 			"kanji": "花",
@@ -730,7 +730,7 @@
 		{
 			"kanji": "逃",
 			"order": 146,
-			"occurrences": 88
+			"occurrences": 91
 		},
 		{
 			"kanji": "故",
@@ -740,17 +740,17 @@
 		{
 			"kanji": "壁",
 			"order": 148,
-			"occurrences": 2
+			"occurrences": 7
 		},
 		{
 			"kanji": "永",
 			"order": 149,
-			"occurrences": 2
+			"occurrences": 3
 		},
 		{
 			"kanji": "遠",
 			"order": 150,
-			"occurrences": 16
+			"occurrences": 18
 		},
 		{
 			"kanji": "救",
@@ -760,7 +760,7 @@
 		{
 			"kanji": "世",
 			"order": 152,
-			"occurrences": 89
+			"occurrences": 91
 		},
 		{
 			"kanji": "主",
@@ -775,7 +775,7 @@
 		{
 			"kanji": "男",
 			"order": 155,
-			"occurrences": 93
+			"occurrences": 94
 		},
 		{
 			"kanji": "念",
@@ -785,7 +785,7 @@
 		{
 			"kanji": "相",
 			"order": 157,
-			"occurrences": 40
+			"occurrences": 42
 		},
 		{
 			"kanji": "捕",
@@ -805,12 +805,12 @@
 		{
 			"kanji": "最",
 			"order": 161,
-			"occurrences": 103
+			"occurrences": 106
 		},
 		{
 			"kanji": "戦",
 			"order": 162,
-			"occurrences": 180
+			"occurrences": 181
 		},
 		{
 			"kanji": "給",
@@ -825,17 +825,17 @@
 		{
 			"kanji": "約",
 			"order": 165,
-			"occurrences": 81
+			"occurrences": 92
 		},
 		{
 			"kanji": "束",
 			"order": 166,
-			"occurrences": 78
+			"occurrences": 89
 		},
 		{
 			"kanji": "時",
 			"order": 167,
-			"occurrences": 159
+			"occurrences": 177
 		},
 		{
 			"kanji": "刻",
@@ -850,17 +850,17 @@
 		{
 			"kanji": "心",
 			"order": 170,
-			"occurrences": 88
+			"occurrences": 92
 		},
 		{
 			"kanji": "配",
 			"order": 171,
-			"occurrences": 54
+			"occurrences": 57
 		},
 		{
 			"kanji": "勝",
 			"order": 172,
-			"occurrences": 67
+			"occurrences": 68
 		},
 		{
 			"kanji": "酬",
@@ -870,12 +870,12 @@
 		{
 			"kanji": "場",
 			"order": 174,
-			"occurrences": 111
+			"occurrences": 116
 		},
 		{
 			"kanji": "変",
 			"order": 175,
-			"occurrences": 88
+			"occurrences": 95
 		},
 		{
 			"kanji": "次",
@@ -885,12 +885,12 @@
 		{
 			"kanji": "作",
 			"order": 177,
-			"occurrences": 66
+			"occurrences": 69
 		},
 		{
 			"kanji": "閉",
 			"order": 178,
-			"occurrences": 14
+			"occurrences": 16
 		},
 		{
 			"kanji": "顔",
@@ -910,12 +910,12 @@
 		{
 			"kanji": "然",
 			"order": 182,
-			"occurrences": 30
+			"occurrences": 32
 		},
 		{
 			"kanji": "感",
 			"order": 183,
-			"occurrences": 44
+			"occurrences": 47
 		},
 		{
 			"kanji": "謝",
@@ -925,7 +925,7 @@
 		{
 			"kanji": "困",
 			"order": 185,
-			"occurrences": 15
+			"occurrences": 16
 		},
 		{
 			"kanji": "切",
@@ -945,7 +945,7 @@
 		{
 			"kanji": "失",
 			"order": 189,
-			"occurrences": 47
+			"occurrences": 50
 		},
 		{
 			"kanji": "敗",
@@ -955,7 +955,7 @@
 		{
 			"kanji": "回",
 			"order": 191,
-			"occurrences": 103
+			"occurrences": 109
 		},
 		{
 			"kanji": "客",
@@ -975,7 +975,7 @@
 		{
 			"kanji": "空",
 			"order": 195,
-			"occurrences": 56
+			"occurrences": 61
 		},
 		{
 			"kanji": "浮",
@@ -985,7 +985,7 @@
 		{
 			"kanji": "都",
 			"order": 197,
-			"occurrences": 30
+			"occurrences": 32
 		},
 		{
 			"kanji": "市",
@@ -1005,22 +1005,22 @@
 		{
 			"kanji": "意",
 			"order": 201,
-			"occurrences": 62
+			"occurrences": 67
 		},
 		{
 			"kanji": "外",
 			"order": 202,
-			"occurrences": 54
+			"occurrences": 55
 		},
 		{
 			"kanji": "界",
 			"order": 203,
-			"occurrences": 56
+			"occurrences": 57
 		},
 		{
 			"kanji": "苦",
 			"order": 204,
-			"occurrences": 18
+			"occurrences": 19
 		},
 		{
 			"kanji": "汚",
@@ -1030,7 +1030,7 @@
 		{
 			"kanji": "降",
 			"order": 206,
-			"occurrences": 20
+			"occurrences": 23
 		},
 		{
 			"kanji": "土",
@@ -1045,12 +1045,12 @@
 		{
 			"kanji": "一",
 			"order": 209,
-			"occurrences": 138
+			"occurrences": 142
 		},
 		{
 			"kanji": "移",
 			"order": 210,
-			"occurrences": 28
+			"occurrences": 29
 		},
 		{
 			"kanji": "敷",
@@ -1065,7 +1065,7 @@
 		{
 			"kanji": "供",
 			"order": 213,
-			"occurrences": 31
+			"occurrences": 32
 		},
 		{
 			"kanji": "路",
@@ -1095,7 +1095,7 @@
 		{
 			"kanji": "思",
 			"order": 219,
-			"occurrences": 180
+			"occurrences": 189
 		},
 		{
 			"kanji": "説",
@@ -1105,27 +1105,27 @@
 		{
 			"kanji": "明",
 			"order": 221,
-			"occurrences": 84
+			"occurrences": 85
 		},
 		{
 			"kanji": "画",
 			"order": 222,
-			"occurrences": 28
+			"occurrences": 34
 		},
 		{
 			"kanji": "面",
 			"order": 223,
-			"occurrences": 21
+			"occurrences": 22
 		},
 		{
 			"kanji": "関",
 			"order": 224,
-			"occurrences": 63
+			"occurrences": 65
 		},
 		{
 			"kanji": "係",
 			"order": 225,
-			"occurrences": 46
+			"occurrences": 48
 		},
 		{
 			"kanji": "度",
@@ -1155,7 +1155,7 @@
 		{
 			"kanji": "制",
 			"order": 231,
-			"occurrences": 30
+			"occurrences": 31
 		},
 		{
 			"kanji": "駅",
@@ -1165,7 +1165,7 @@
 		{
 			"kanji": "着",
 			"order": 233,
-			"occurrences": 59
+			"occurrences": 61
 		},
 		{
 			"kanji": "燃",
@@ -1175,7 +1175,7 @@
 		{
 			"kanji": "導",
 			"order": 235,
-			"occurrences": 7
+			"occurrences": 8
 		},
 		{
 			"kanji": "火",
@@ -1190,7 +1190,7 @@
 		{
 			"kanji": "光",
 			"order": 238,
-			"occurrences": 25
+			"occurrences": 26
 		},
 		{
 			"kanji": "検",
@@ -1225,27 +1225,27 @@
 		{
 			"kanji": "体",
 			"order": 245,
-			"occurrences": 60
+			"occurrences": 65
 		},
 		{
 			"kanji": "眠",
 			"order": 246,
-			"occurrences": 31
+			"occurrences": 32
 		},
 		{
 			"kanji": "未",
 			"order": 247,
-			"occurrences": 29
+			"occurrences": 36
 		},
 		{
 			"kanji": "待",
 			"order": 248,
-			"occurrences": 102
+			"occurrences": 105
 		},
 		{
 			"kanji": "理",
 			"order": 249,
-			"occurrences": 51
+			"occurrences": 52
 		},
 		{
 			"kanji": "役",
@@ -1255,7 +1255,7 @@
 		{
 			"kanji": "全",
 			"order": 251,
-			"occurrences": 69
+			"occurrences": 76
 		},
 		{
 			"kanji": "離",
@@ -1265,7 +1265,7 @@
 		{
 			"kanji": "支",
 			"order": 253,
-			"occurrences": 22
+			"occurrences": 23
 		},
 		{
 			"kanji": "柱",
@@ -1280,12 +1280,12 @@
 		{
 			"kanji": "建",
 			"order": 256,
-			"occurrences": 24
+			"occurrences": 25
 		},
 		{
 			"kanji": "機",
 			"order": 257,
-			"occurrences": 61
+			"occurrences": 65
 		},
 		{
 			"kanji": "械",
@@ -1300,7 +1300,7 @@
 		{
 			"kanji": "呼",
 			"order": 260,
-			"occurrences": 38
+			"occurrences": 40
 		},
 		{
 			"kanji": "北",
@@ -1315,12 +1315,12 @@
 		{
 			"kanji": "覚",
 			"order": 263,
-			"occurrences": 37
+			"occurrences": 38
 		},
 		{
 			"kanji": "螺",
 			"order": 264,
-			"occurrences": 2
+			"occurrences": 3
 		},
 		{
 			"kanji": "旋",
@@ -1330,7 +1330,7 @@
 		{
 			"kanji": "真",
 			"order": 266,
-			"occurrences": 26
+			"occurrences": 27
 		},
 		{
 			"kanji": "設",
@@ -1340,17 +1340,17 @@
 		{
 			"kanji": "置",
 			"order": 268,
-			"occurrences": 38
+			"occurrences": 40
 		},
 		{
 			"kanji": "身",
 			"order": 269,
-			"occurrences": 38
+			"occurrences": 41
 		},
 		{
 			"kanji": "部",
 			"order": 270,
-			"occurrences": 106
+			"occurrences": 110
 		},
 		{
 			"kanji": "連",
@@ -1365,7 +1365,7 @@
 		{
 			"kanji": "物",
 			"order": 273,
-			"occurrences": 107
+			"occurrences": 112
 		},
 		{
 			"kanji": "抜",
@@ -1375,7 +1375,7 @@
 		{
 			"kanji": "休",
 			"order": 275,
-			"occurrences": 90
+			"occurrences": 93
 		},
 		{
 			"kanji": "温",
@@ -1405,12 +1405,12 @@
 		{
 			"kanji": "良",
 			"order": 281,
-			"occurrences": 34
+			"occurrences": 37
 		},
 		{
 			"kanji": "夫",
 			"order": 282,
-			"occurrences": 19
+			"occurrences": 20
 		},
 		{
 			"kanji": "暇",
@@ -1420,12 +1420,12 @@
 		{
 			"kanji": "取",
 			"order": 284,
-			"occurrences": 59
+			"occurrences": 60
 		},
 		{
 			"kanji": "消",
 			"order": 285,
-			"occurrences": 39
+			"occurrences": 40
 		},
 		{
 			"kanji": "争",
@@ -1435,7 +1435,7 @@
 		{
 			"kanji": "彼",
 			"order": 287,
-			"occurrences": 38
+			"occurrences": 40
 		},
 		{
 			"kanji": "女",
@@ -1460,7 +1460,7 @@
 		{
 			"kanji": "長",
 			"order": 292,
-			"occurrences": 181
+			"occurrences": 184
 		},
 		{
 			"kanji": "員",
@@ -1475,12 +1475,12 @@
 		{
 			"kanji": "悲",
 			"order": 295,
-			"occurrences": 21
+			"occurrences": 22
 		},
 		{
 			"kanji": "少",
 			"order": 296,
-			"occurrences": 63
+			"occurrences": 66
 		},
 		{
 			"kanji": "立",
@@ -1490,7 +1490,7 @@
 		{
 			"kanji": "痛",
 			"order": 298,
-			"occurrences": 5
+			"occurrences": 6
 		},
 		{
 			"kanji": "始",
@@ -1505,12 +1505,12 @@
 		{
 			"kanji": "落",
 			"order": 301,
-			"occurrences": 84
+			"occurrences": 86
 		},
 		{
 			"kanji": "年",
 			"order": 302,
-			"occurrences": 79
+			"occurrences": 81
 		},
 		{
 			"kanji": "親",
@@ -1520,7 +1520,7 @@
 		{
 			"kanji": "開",
 			"order": 304,
-			"occurrences": 98
+			"occurrences": 102
 		},
 		{
 			"kanji": "停",
@@ -1535,7 +1535,7 @@
 		{
 			"kanji": "突",
 			"order": 307,
-			"occurrences": 12
+			"occurrences": 13
 		},
 		{
 			"kanji": "店",
@@ -1600,7 +1600,7 @@
 		{
 			"kanji": "告",
 			"order": 320,
-			"occurrences": 30
+			"occurrences": 31
 		},
 		{
 			"kanji": "薬",
@@ -1610,17 +1610,17 @@
 		{
 			"kanji": "危",
 			"order": 322,
-			"occurrences": 38
+			"occurrences": 40
 		},
 		{
 			"kanji": "頭",
 			"order": 323,
-			"occurrences": 16
+			"occurrences": 17
 		},
 		{
 			"kanji": "例",
 			"order": 324,
-			"occurrences": 18
+			"occurrences": 19
 		},
 		{
 			"kanji": "演",
@@ -1630,12 +1630,12 @@
 		{
 			"kanji": "夢",
 			"order": 326,
-			"occurrences": 38
+			"occurrences": 40
 		},
 		{
 			"kanji": "泣",
 			"order": 327,
-			"occurrences": 7
+			"occurrences": 8
 		},
 		{
 			"kanji": "天",
@@ -1645,12 +1645,12 @@
 		{
 			"kanji": "忘",
 			"order": 329,
-			"occurrences": 36
+			"occurrences": 38
 		},
 		{
 			"kanji": "旅",
 			"order": 330,
-			"occurrences": 69
+			"occurrences": 71
 		},
 		{
 			"kanji": "勇",
@@ -1665,12 +1665,12 @@
 		{
 			"kanji": "議",
 			"order": 333,
-			"occurrences": 20
+			"occurrences": 21
 		},
 		{
 			"kanji": "実",
 			"order": 334,
-			"occurrences": 79
+			"occurrences": 80
 		},
 		{
 			"kanji": "強",
@@ -1690,7 +1690,7 @@
 		{
 			"kanji": "持",
 			"order": 338,
-			"occurrences": 145
+			"occurrences": 163
 		},
 		{
 			"kanji": "答",
@@ -1700,7 +1700,7 @@
 		{
 			"kanji": "放",
 			"order": 340,
-			"occurrences": 13
+			"occurrences": 14
 		},
 		{
 			"kanji": "練",
@@ -1725,27 +1725,27 @@
 		{
 			"kanji": "小",
 			"order": 345,
-			"occurrences": 39
+			"occurrences": 45
 		},
 		{
 			"kanji": "者",
 			"order": 346,
-			"occurrences": 120
+			"occurrences": 121
 		},
 		{
 			"kanji": "友",
 			"order": 347,
-			"occurrences": 18
+			"occurrences": 19
 		},
 		{
 			"kanji": "冗",
 			"order": 348,
-			"occurrences": 8
+			"occurrences": 9
 		},
 		{
 			"kanji": "談",
 			"order": 349,
-			"occurrences": 15
+			"occurrences": 16
 		},
 		{
 			"kanji": "指",
@@ -1770,12 +1770,12 @@
 		{
 			"kanji": "晴",
 			"order": 354,
-			"occurrences": 4
+			"occurrences": 5
 		},
 		{
 			"kanji": "高",
 			"order": 355,
-			"occurrences": 52
+			"occurrences": 53
 		},
 		{
 			"kanji": "額",
@@ -1800,7 +1800,7 @@
 		{
 			"kanji": "同",
 			"order": 360,
-			"occurrences": 45
+			"occurrences": 48
 		},
 		{
 			"kanji": "様",
@@ -1815,7 +1815,7 @@
 		{
 			"kanji": "我",
 			"order": 363,
-			"occurrences": 29
+			"occurrences": 31
 		},
 		{
 			"kanji": "暴",
@@ -1825,12 +1825,12 @@
 		{
 			"kanji": "守",
 			"order": 365,
-			"occurrences": 46
+			"occurrences": 50
 		},
 		{
 			"kanji": "投",
 			"order": 366,
-			"occurrences": 20
+			"occurrences": 21
 		},
 		{
 			"kanji": "選",
@@ -1840,7 +1840,7 @@
 		{
 			"kanji": "存",
 			"order": 368,
-			"occurrences": 19
+			"occurrences": 23
 		},
 		{
 			"kanji": "病",
@@ -1885,7 +1885,7 @@
 		{
 			"kanji": "判",
 			"order": 377,
-			"occurrences": 2
+			"occurrences": 3
 		},
 		{
 			"kanji": "貸",
@@ -1930,7 +1930,7 @@
 		{
 			"kanji": "難",
 			"order": 386,
-			"occurrences": 13
+			"occurrences": 14
 		},
 		{
 			"kanji": "躍",
@@ -1950,12 +1950,12 @@
 		{
 			"kanji": "笑",
 			"order": 390,
-			"occurrences": 14
+			"occurrences": 15
 		},
 		{
 			"kanji": "現",
 			"order": 391,
-			"occurrences": 34
+			"occurrences": 35
 		},
 		{
 			"kanji": "倍",
@@ -1995,7 +1995,7 @@
 		{
 			"kanji": "屋",
 			"order": 399,
-			"occurrences": 171
+			"occurrences": 173
 		},
 		{
 			"kanji": "階",
@@ -2010,17 +2010,17 @@
 		{
 			"kanji": "倒",
 			"order": 402,
-			"occurrences": 31
+			"occurrences": 33
 		},
 		{
 			"kanji": "秘",
 			"order": 403,
-			"occurrences": 17
+			"occurrences": 18
 		},
 		{
 			"kanji": "密",
 			"order": 404,
-			"occurrences": 24
+			"occurrences": 25
 		},
 		{
 			"kanji": "管",
@@ -2040,17 +2040,17 @@
 		{
 			"kanji": "道",
 			"order": 408,
-			"occurrences": 62
+			"occurrences": 64
 		},
 		{
 			"kanji": "具",
 			"order": 409,
-			"occurrences": 19
+			"occurrences": 20
 		},
 		{
 			"kanji": "買",
 			"order": 410,
-			"occurrences": 90
+			"occurrences": 91
 		},
 		{
 			"kanji": "想",
@@ -2065,7 +2065,7 @@
 		{
 			"kanji": "素",
 			"order": 413,
-			"occurrences": 19
+			"occurrences": 20
 		},
 		{
 			"kanji": "朝",
@@ -2080,12 +2080,12 @@
 		{
 			"kanji": "必",
 			"order": 416,
-			"occurrences": 55
+			"occurrences": 57
 		},
 		{
 			"kanji": "要",
 			"order": 417,
-			"occurrences": 52
+			"occurrences": 54
 		},
 		{
 			"kanji": "晩",
@@ -2095,7 +2095,7 @@
 		{
 			"kanji": "渡",
 			"order": 419,
-			"occurrences": 18
+			"occurrences": 20
 		},
 		{
 			"kanji": "姉",
@@ -2120,7 +2120,7 @@
 		{
 			"kanji": "労",
 			"order": 424,
-			"occurrences": 5
+			"occurrences": 6
 		},
 		{
 			"kanji": "館",
@@ -2140,7 +2140,7 @@
 		{
 			"kanji": "差",
 			"order": 428,
-			"occurrences": 3
+			"occurrences": 4
 		},
 		{
 			"kanji": "量",
@@ -2155,17 +2155,17 @@
 		{
 			"kanji": "特",
 			"order": 431,
-			"occurrences": 44
+			"occurrences": 46
 		},
 		{
 			"kanji": "在",
 			"order": 432,
-			"occurrences": 27
+			"occurrences": 31
 		},
 		{
 			"kanji": "庫",
 			"order": 433,
-			"occurrences": 3
+			"occurrences": 5
 		},
 		{
 			"kanji": "山",
@@ -2175,42 +2175,42 @@
 		{
 			"kanji": "歓",
 			"order": 435,
-			"occurrences": 7
+			"occurrences": 8
 		},
 		{
 			"kanji": "迎",
 			"order": 436,
-			"occurrences": 12
+			"occurrences": 13
 		},
 		{
 			"kanji": "記",
 			"order": 437,
-			"occurrences": 22
+			"occurrences": 28
 		},
 		{
 			"kanji": "録",
 			"order": 438,
-			"occurrences": 26
+			"occurrences": 30
 		},
 		{
 			"kanji": "傷",
 			"order": 439,
-			"occurrences": 6
+			"occurrences": 13
 		},
 		{
 			"kanji": "復",
 			"order": 440,
-			"occurrences": 20
+			"occurrences": 23
 		},
 		{
 			"kanji": "法",
 			"order": 441,
-			"occurrences": 70
+			"occurrences": 78
 		},
 		{
 			"kanji": "防",
 			"order": 442,
-			"occurrences": 19
+			"occurrences": 22
 		},
 		{
 			"kanji": "装",
@@ -2230,7 +2230,7 @@
 		{
 			"kanji": "形",
 			"order": 446,
-			"occurrences": 13
+			"occurrences": 14
 		},
 		{
 			"kanji": "技",
@@ -2255,7 +2255,7 @@
 		{
 			"kanji": "識",
 			"order": 451,
-			"occurrences": 16
+			"occurrences": 29
 		},
 		{
 			"kanji": "証",
@@ -2265,7 +2265,7 @@
 		{
 			"kanji": "以",
 			"order": 453,
-			"occurrences": 66
+			"occurrences": 68
 		},
 		{
 			"kanji": "得",
@@ -2275,7 +2275,7 @@
 		{
 			"kanji": "滅",
 			"order": 455,
-			"occurrences": 24
+			"occurrences": 26
 		},
 		{
 			"kanji": "和",
@@ -2285,12 +2285,12 @@
 		{
 			"kanji": "広",
 			"order": 457,
-			"occurrences": 7
+			"occurrences": 8
 		},
 		{
 			"kanji": "飛",
 			"order": 458,
-			"occurrences": 63
+			"occurrences": 65
 		},
 		{
 			"kanji": "数",
@@ -2305,7 +2305,7 @@
 		{
 			"kanji": "性",
 			"order": 461,
-			"occurrences": 40
+			"occurrences": 42
 		},
 		{
 			"kanji": "白",
@@ -2335,7 +2335,7 @@
 		{
 			"kanji": "左",
 			"order": 467,
-			"occurrences": 39
+			"occurrences": 40
 		},
 		{
 			"kanji": "可",
@@ -2370,7 +2370,7 @@
 		{
 			"kanji": "極",
 			"order": 474,
-			"occurrences": 12
+			"occurrences": 13
 		},
 		{
 			"kanji": "怒",
@@ -2405,7 +2405,7 @@
 		{
 			"kanji": "転",
 			"order": 481,
-			"occurrences": 5
+			"occurrences": 7
 		},
 		{
 			"kanji": "換",
@@ -2415,7 +2415,7 @@
 		{
 			"kanji": "憶",
 			"order": 483,
-			"occurrences": 5
+			"occurrences": 7
 		},
 		{
 			"kanji": "弱",
@@ -2430,12 +2430,12 @@
 		{
 			"kanji": "代",
 			"order": 486,
-			"occurrences": 94
+			"occurrences": 138
 		},
 		{
 			"kanji": "起",
 			"order": 487,
-			"occurrences": 22
+			"occurrences": 23
 		},
 		{
 			"kanji": "鎮",
@@ -2465,7 +2465,7 @@
 		{
 			"kanji": "化",
 			"order": 493,
-			"occurrences": 25
+			"occurrences": 26
 		},
 		{
 			"kanji": "直",
@@ -2475,7 +2475,7 @@
 		{
 			"kanji": "進",
 			"order": 495,
-			"occurrences": 38
+			"occurrences": 44
 		},
 		{
 			"kanji": "価",
@@ -2510,7 +2510,7 @@
 		{
 			"kanji": "恵",
 			"order": 502,
-			"occurrences": 2
+			"occurrences": 9
 		},
 		{
 			"kanji": "聖",
@@ -2520,7 +2520,7 @@
 		{
 			"kanji": "黒",
 			"order": 504,
-			"occurrences": 39
+			"occurrences": 63
 		},
 		{
 			"kanji": "負",
@@ -2535,12 +2535,12 @@
 		{
 			"kanji": "限",
 			"order": 507,
-			"occurrences": 15
+			"occurrences": 16
 		},
 		{
 			"kanji": "育",
 			"order": 508,
-			"occurrences": 23
+			"occurrences": 24
 		},
 		{
 			"kanji": "適",
@@ -2550,12 +2550,12 @@
 		{
 			"kanji": "穴",
 			"order": 510,
-			"occurrences": 6
+			"occurrences": 7
 		},
 		{
 			"kanji": "丈",
 			"order": 511,
-			"occurrences": 9
+			"occurrences": 10
 		},
 		{
 			"kanji": "操",
@@ -2570,7 +2570,7 @@
 		{
 			"kanji": "迷",
 			"order": 514,
-			"occurrences": 8
+			"occurrences": 9
 		},
 		{
 			"kanji": "君",
@@ -2590,7 +2590,7 @@
 		{
 			"kanji": "険",
 			"order": 518,
-			"occurrences": 24
+			"occurrences": 26
 		},
 		{
 			"kanji": "息",
@@ -2600,7 +2600,7 @@
 		{
 			"kanji": "若",
 			"order": 520,
-			"occurrences": 25
+			"occurrences": 26
 		},
 		{
 			"kanji": "修",
@@ -2615,7 +2615,7 @@
 		{
 			"kanji": "族",
 			"order": 523,
-			"occurrences": 35
+			"occurrences": 39
 		},
 		{
 			"kanji": "紙",
@@ -2625,7 +2625,7 @@
 		{
 			"kanji": "題",
 			"order": 525,
-			"occurrences": 16
+			"occurrences": 18
 		},
 		{
 			"kanji": "健",
@@ -2645,7 +2645,7 @@
 		{
 			"kanji": "騒",
 			"order": 529,
-			"occurrences": 11
+			"occurrences": 12
 		},
 		{
 			"kanji": "食",
@@ -2710,7 +2710,7 @@
 		{
 			"kanji": "完",
 			"order": 542,
-			"occurrences": 25
+			"occurrences": 26
 		},
 		{
 			"kanji": "了",
@@ -2730,12 +2730,12 @@
 		{
 			"kanji": "扉",
 			"order": 546,
-			"occurrences": 8
+			"occurrences": 14
 		},
 		{
 			"kanji": "位",
 			"order": 547,
-			"occurrences": 4
+			"occurrences": 5
 		},
 		{
 			"kanji": "再",
@@ -2750,7 +2750,7 @@
 		{
 			"kanji": "型",
 			"order": 550,
-			"occurrences": 7
+			"occurrences": 12
 		},
 		{
 			"kanji": "波",
@@ -2770,12 +2770,12 @@
 		{
 			"kanji": "究",
 			"order": 554,
-			"occurrences": 19
+			"occurrences": 20
 		},
 		{
 			"kanji": "返",
 			"order": 555,
-			"occurrences": 28
+			"occurrences": 30
 		},
 		{
 			"kanji": "弟",
@@ -2865,7 +2865,7 @@
 		{
 			"kanji": "玉",
 			"order": 573,
-			"occurrences": 1
+			"occurrences": 2
 		},
 		{
 			"kanji": "忙",
@@ -2910,12 +2910,12 @@
 		{
 			"kanji": "古",
 			"order": 582,
-			"occurrences": 81
+			"occurrences": 122
 		},
 		{
 			"kanji": "種",
 			"order": 583,
-			"occurrences": 79
+			"occurrences": 122
 		},
 		{
 			"kanji": "抵",
@@ -2935,7 +2935,7 @@
 		{
 			"kanji": "巨",
 			"order": 587,
-			"occurrences": 6
+			"occurrences": 7
 		},
 		{
 			"kanji": "匹",
@@ -2960,7 +2960,7 @@
 		{
 			"kanji": "途",
 			"order": 592,
-			"occurrences": 10
+			"occurrences": 11
 		},
 		{
 			"kanji": "頼",
@@ -3005,7 +3005,7 @@
 		{
 			"kanji": "月",
 			"order": 601,
-			"occurrences": 8
+			"occurrences": 9
 		},
 		{
 			"kanji": "狙",
@@ -3095,7 +3095,7 @@
 		{
 			"kanji": "娘",
 			"order": 619,
-			"occurrences": 24
+			"occurrences": 27
 		},
 		{
 			"kanji": "耳",
@@ -3105,7 +3105,7 @@
 		{
 			"kanji": "万",
 			"order": 621,
-			"occurrences": 7
+			"occurrences": 8
 		},
 		{
 			"kanji": "趣",
@@ -3115,7 +3115,7 @@
 		{
 			"kanji": "占",
 			"order": 623,
-			"occurrences": 15
+			"occurrences": 16
 		},
 		{
 			"kanji": "領",
@@ -3150,7 +3150,7 @@
 		{
 			"kanji": "怖",
 			"order": 630,
-			"occurrences": 6
+			"occurrences": 10
 		},
 		{
 			"kanji": "宿",
@@ -3195,7 +3195,7 @@
 		{
 			"kanji": "段",
 			"order": 639,
-			"occurrences": 21
+			"occurrences": 25
 		},
 		{
 			"kanji": "盗",
@@ -3240,7 +3240,7 @@
 		{
 			"kanji": "鉄",
 			"order": 648,
-			"occurrences": 4
+			"occurrences": 5
 		},
 		{
 			"kanji": "骨",
@@ -3270,7 +3270,7 @@
 		{
 			"kanji": "求",
 			"order": 654,
-			"occurrences": 11
+			"occurrences": 13
 		},
 		{
 			"kanji": "青",
@@ -3300,7 +3300,7 @@
 		{
 			"kanji": "照",
 			"order": 660,
-			"occurrences": 7
+			"occurrences": 9
 		},
 		{
 			"kanji": "暑",
@@ -3370,7 +3370,7 @@
 		{
 			"kanji": "探",
 			"order": 674,
-			"occurrences": 33
+			"occurrences": 35
 		},
 		{
 			"kanji": "依",
@@ -3380,7 +3380,7 @@
 		{
 			"kanji": "治",
 			"order": 676,
-			"occurrences": 14
+			"occurrences": 15
 		},
 		{
 			"kanji": "維",
@@ -3410,12 +3410,12 @@
 		{
 			"kanji": "責",
 			"order": 682,
-			"occurrences": 11
+			"occurrences": 13
 		},
 		{
 			"kanji": "任",
 			"order": 683,
-			"occurrences": 21
+			"occurrences": 23
 		},
 		{
 			"kanji": "造",
@@ -3435,7 +3435,7 @@
 		{
 			"kanji": "簡",
 			"order": 687,
-			"occurrences": 11
+			"occurrences": 14
 		},
 		{
 			"kanji": "浪",
@@ -3450,7 +3450,7 @@
 		{
 			"kanji": "邪",
 			"order": 690,
-			"occurrences": 13
+			"occurrences": 15
 		},
 		{
 			"kanji": "権",
@@ -3460,7 +3460,7 @@
 		{
 			"kanji": "正",
 			"order": 692,
-			"occurrences": 23
+			"occurrences": 24
 		},
 		{
 			"kanji": "統",
@@ -3520,7 +3520,7 @@
 		{
 			"kanji": "葉",
 			"order": 704,
-			"occurrences": 21
+			"occurrences": 25
 		},
 		{
 			"kanji": "排",
@@ -3555,12 +3555,12 @@
 		{
 			"kanji": "宇",
 			"order": 711,
-			"occurrences": 41
+			"occurrences": 42
 		},
 		{
 			"kanji": "宙",
 			"order": 712,
-			"occurrences": 41
+			"occurrences": 42
 		},
 		{
 			"kanji": "科",
@@ -3605,12 +3605,12 @@
 		{
 			"kanji": "影",
 			"order": 721,
-			"occurrences": 6
+			"occurrences": 7
 		},
 		{
 			"kanji": "響",
 			"order": 722,
-			"occurrences": 3
+			"occurrences": 4
 		},
 		{
 			"kanji": "査",
@@ -3640,7 +3640,7 @@
 		{
 			"kanji": "軍",
 			"order": 728,
-			"occurrences": 28
+			"occurrences": 29
 		},
 		{
 			"kanji": "勢",
@@ -3655,7 +3655,7 @@
 		{
 			"kanji": "模",
 			"order": 731,
-			"occurrences": 3
+			"occurrences": 8
 		},
 		{
 			"kanji": "被",
@@ -3665,7 +3665,7 @@
 		{
 			"kanji": "害",
 			"order": 733,
-			"occurrences": 8
+			"occurrences": 9
 		},
 		{
 			"kanji": "益",
@@ -3675,12 +3675,12 @@
 		{
 			"kanji": "宝",
 			"order": 735,
-			"occurrences": 81
+			"occurrences": 83
 		},
 		{
 			"kanji": "比",
 			"order": 736,
-			"occurrences": 2
+			"occurrences": 3
 		},
 		{
 			"kanji": "較",
@@ -3705,7 +3705,7 @@
 		{
 			"kanji": "首",
 			"order": 741,
-			"occurrences": 6
+			"occurrences": 7
 		},
 		{
 			"kanji": "搬",
@@ -3750,7 +3750,7 @@
 		{
 			"kanji": "豊",
 			"order": 750,
-			"occurrences": 8
+			"occurrences": 11
 		},
 		{
 			"kanji": "喰",
@@ -3760,7 +3760,7 @@
 		{
 			"kanji": "富",
 			"order": 752,
-			"occurrences": 3
+			"occurrences": 6
 		},
 		{
 			"kanji": "吹",
@@ -3790,7 +3790,7 @@
 		{
 			"kanji": "純",
 			"order": 758,
-			"occurrences": 2
+			"occurrences": 3
 		},
 		{
 			"kanji": "副",
@@ -3850,7 +3850,7 @@
 		{
 			"kanji": "砲",
 			"order": 770,
-			"occurrences": 6
+			"occurrences": 7
 		},
 		{
 			"kanji": "艇",
@@ -4045,7 +4045,7 @@
 		{
 			"kanji": "封",
 			"order": 809,
-			"occurrences": 5
+			"occurrences": 7
 		},
 		{
 			"kanji": "偉",
@@ -4065,12 +4065,12 @@
 		{
 			"kanji": "創",
 			"order": 813,
-			"occurrences": 4
+			"occurrences": 6
 		},
 		{
 			"kanji": "層",
 			"order": 814,
-			"occurrences": 3
+			"occurrences": 4
 		},
 		{
 			"kanji": "偶",
@@ -4090,7 +4090,7 @@
 		{
 			"kanji": "災",
 			"order": 818,
-			"occurrences": 5
+			"occurrences": 7
 		},
 		{
 			"kanji": "避",
@@ -4100,7 +4100,7 @@
 		{
 			"kanji": "愚",
 			"order": 820,
-			"occurrences": 3
+			"occurrences": 4
 		},
 		{
 			"kanji": "達",
@@ -4185,7 +4185,7 @@
 		{
 			"kanji": "悩",
 			"order": 837,
-			"occurrences": 3
+			"occurrences": 4
 		},
 		{
 			"kanji": "珍",
@@ -4205,7 +4205,7 @@
 		{
 			"kanji": "司",
 			"order": 841,
-			"occurrences": 4
+			"occurrences": 5
 		},
 		{
 			"kanji": "官",
@@ -4225,7 +4225,7 @@
 		{
 			"kanji": "印",
 			"order": 845,
-			"occurrences": 5
+			"occurrences": 6
 		},
 		{
 			"kanji": "獣",
@@ -4245,7 +4245,7 @@
 		{
 			"kanji": "療",
 			"order": 849,
-			"occurrences": 1
+			"occurrences": 2
 		},
 		{
 			"kanji": "岸",
@@ -4275,7 +4275,7 @@
 		{
 			"kanji": "衝",
 			"order": 855,
-			"occurrences": 2
+			"occurrences": 3
 		},
 		{
 			"kanji": "舎",
@@ -4290,7 +4290,7 @@
 		{
 			"kanji": "幻",
 			"order": 858,
-			"occurrences": 2
+			"occurrences": 3
 		},
 		{
 			"kanji": "讐",
@@ -4300,12 +4300,12 @@
 		{
 			"kanji": "召",
 			"order": 860,
-			"occurrences": 6
+			"occurrences": 7
 		},
 		{
 			"kanji": "喚",
 			"order": 861,
-			"occurrences": 6
+			"occurrences": 7
 		},
 		{
 			"kanji": "収",
@@ -4335,17 +4335,17 @@
 		{
 			"kanji": "銀",
 			"order": 867,
-			"occurrences": 1
+			"occurrences": 2
 		},
 		{
 			"kanji": "縁",
 			"order": 868,
-			"occurrences": 3
+			"occurrences": 4
 		},
 		{
 			"kanji": "捜",
 			"order": 869,
-			"occurrences": 1
+			"occurrences": 2
 		},
 		{
 			"kanji": "索",
@@ -4395,7 +4395,7 @@
 		{
 			"kanji": "志",
 			"order": 879,
-			"occurrences": 4
+			"occurrences": 5
 		},
 		{
 			"kanji": "針",
@@ -4405,7 +4405,7 @@
 		{
 			"kanji": "抱",
 			"order": 881,
-			"occurrences": 2
+			"occurrences": 3
 		},
 		{
 			"kanji": "訳",
@@ -4545,7 +4545,7 @@
 		{
 			"kanji": "森",
 			"order": 909,
-			"occurrences": 1
+			"occurrences": 3
 		},
 		{
 			"kanji": "吉",
@@ -4590,7 +4590,7 @@
 		{
 			"kanji": "精",
 			"order": 918,
-			"occurrences": 18
+			"occurrences": 28
 		},
 		{
 			"kanji": "瞬",
@@ -4680,7 +4680,7 @@
 		{
 			"kanji": "鍵",
 			"order": 936,
-			"occurrences": 2
+			"occurrences": 5
 		},
 		{
 			"kanji": "積",
@@ -4705,7 +4705,7 @@
 		{
 			"kanji": "殿",
 			"order": 941,
-			"occurrences": 21
+			"occurrences": 48
 		},
 		{
 			"kanji": "折",
@@ -4731,6 +4731,26 @@
 			"kanji": "棊",
 			"order": 946,
 			"occurrences": 2
+		},
+		{
+			"kanji": "祭",
+			"order": 947,
+			"occurrences": 1
+		},
+		{
+			"kanji": "壇",
+			"order": 948,
+			"occurrences": 1
+		},
+		{
+			"kanji": "釘",
+			"order": 949,
+			"occurrences": 1
+		},
+		{
+			"kanji": "貝",
+			"order": 950,
+			"occurrences": 1
 		}
 	]
 }
