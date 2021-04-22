@@ -9,3 +9,9 @@ This is a copy of the deck notes matching the current version.
 `current.apkg`
 ---
 This is a copy of the deck matching the current version.
+
+`autoreplace.txt`
+---
+These are common incorrect auto-generated readings for words, with the correct readings to replace them with.
+
+So far it's just names.
