@@ -9,6 +9,7 @@ function __array(data){
 	if(!data) return [];
 	return [data];
 }
+
 function lookupExact(word){
 	let results = [];
 	for(let entry of jsdict.dictionary){
