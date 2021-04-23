@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.10.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.9.0...v1.10.0) (2021-04-23)
+
+
+### Features
+
+* Added Scene 29: City of the Ancients and [...] ([2823969](https://github.com/nowotato/final-fantasy-vii-catalog/commit/2823969d4e01b4a861b48c26a405cb4afbe6cac5)), closes [#32](https://github.com/nowotato/final-fantasy-vii-catalog/issues/32)
+* Added Scene 30: Icicle Inn to Gaea's Cliff. ([c99fb78](https://github.com/nowotato/final-fantasy-vii-catalog/commit/c99fb786950928987098aa70fba9d1f787e1fbc2)), closes [#33](https://github.com/nowotato/final-fantasy-vii-catalog/issues/33) [#58](https://github.com/nowotato/final-fantasy-vii-catalog/issues/58)
+* Added scene 31: Whirlwind Maze and Weapons. ([1c52088](https://github.com/nowotato/final-fantasy-vii-catalog/commit/1c52088248013a204f7b40fe4d98be7013cc9727)), closes [#34](https://github.com/nowotato/final-fantasy-vii-catalog/issues/34)
+
 ## [1.9.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.8.0...v1.9.0) (2021-04-22)
 
 
