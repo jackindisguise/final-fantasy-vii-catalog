@@ -43,22 +43,22 @@ saying that he had a girlfriend.	ガールフレンドができましたって
 Could that have been you?”	書いてあったけど、あんたかい？」
 TIFA	TIFA
 “…No, it wasn't.”	「……ちがいます」
-AERIS	AERITH
+AERIS	AERIS
 “Zack…”	「ザックス……」
 Grandpa	おじいさん
 “Do you know him, young lady?”	「娘さん、知ってるのかい？」
-AERIS	AERITH
+AERIS	AERIS
 “What a shock…	「……この村にザックスの家が
 I didn't know Zack was	あるなんて知らなかったから
 from this town.”	びっくりしちゃった」
 CLOUD	CLOUD
 “You know him?”	「知ってるヤツか？」
-AERIS	AERITH
+AERIS	AERIS
 “Didn't I tell you?	「いつか話さなかった？
 He was my first love.”	わたし、初めて好きになった人」
 CLOUD	CLOUD
 “…”	「…………」
-AERIS	AERITH
+AERIS	AERIS
 “Zack…	「ザックス……
 SOLDIER First Class.	ソルジャー・クラス１ＳＴ。
 Same as CLOUD.”	CLOUDと同じ」
@@ -66,41 +66,41 @@ CLOUD	CLOUD
 “Strange, there aren't that	「クラス１ＳＴなんて何人も
 many who make First Class,	いないはずだ。
 but I've never heard of him.”	でも俺は知らないな」
-AERIS	AERITH
+AERIS	AERIS
 “That's all right.	「別にかまわないの。
 It's all in the past now.	むかしのことだしね。
 I was just worried	ただ、行方不明だから心配なだけ」
 because I heard he's been missing.”	
 CLOUD	CLOUD
 “Missing?”	「行方不明？」
-AERIS	AERITH
+AERIS	AERIS
 “I think it was five years ago.	「５年前かな。
 He went out on a job,	仕事で出かけてそれっきり」
 and never came back.”	
-AERIS	AERITH
+AERIS	AERIS
 “He loved women, a real lady's man.	「女の子が大好きなヤツだったからね。
 He probably found someone else…”	どこかで知り合った子と
 	仲良くなっちゃったのよ、きっと」
-AERIS	AERITH
+AERIS	AERIS
 “Hey? What's wrong?”	「あれ？　どうしたの？」
 Poor guy	それは心配だな
 (…jealous…envious…)	（やきもち……しっと……）
-AERIS	AERITH
+AERIS	AERIS
 “I don't really mind	「いいんだけど、べつに。
 that I haven't heard from him.	でも、ご両親にくらい連絡すれば
 But I feel for his parents.”	いいのにね」
-AERIS	AERITH
+AERIS	AERIS
 “Are you…jealous?	「もしかして……やきもちやいてる？
 Hmm?  Hmmm?	ん？　んん？
 Are you, CLOUD?”	どうなのかな、CLOUDくん？」
-AERIS	AERITH
+AERIS	AERIS
 “I'm kidding. I'm sorry.”	「な～んて、ごめんね」
-AERIS	AERITH
+AERIS	AERIS
 “I was hoping maybe you were…”	「そうだったら
 	うれしい……かな」
 CLOUD	CLOUD
-“AERIS…”	「AERITH……」
-AERIS	AERITH
+“AERIS…”	「AERIS……」
+AERIS	AERIS
 “Let's go, CLOUD.”	「行きましょ、CLOUD」
 TIFA	TIFA
 “Zack…”	「ザックス……」
@@ -202,7 +202,7 @@ Don't do anything	何もしない
 Reach for it	手をのばしてみる
 “A ruined reactor.”	「壊れた魔晄炉……」
 CLOUD	CLOUD
-“AERIS…”	「AERITH……」
+“AERIS…”	「AERIS……」
 CLOUD	CLOUD
 “TIFA…	「TIFA……
 What happened?”	いったい、どうしたんだ？」
@@ -216,7 +216,7 @@ about that man.”
 “…But	「しかし……
 That name sounds familiar…”	その名前には、聞き覚えがある……」
 “Why?”	「なぜだ……！？」
-AERIS	AERITH
+AERIS	AERIS
 “That can't…”	「そんな……」
 Grandpa	おじいさん
 “Have you ever met someone	「なあ、あんた
@@ -358,7 +358,7 @@ Reno	レノ
 TIFA	TIFA
 “Hey, something seems wrong,	「ねえ、なんか変じゃない？
 Like they knew we were coming.”	待ちぶせされてたみたいよ」
-AERIS	AERITH
+AERIS	AERIS
 “…How could they know	「……どうしてわかったのかな？
 we were coming here.”	わたしたち、ここに来ること」
 BARRET	BARRET
@@ -385,7 +385,7 @@ But there weren't any signs of it.	いや、そんな気配はなかった。
 Then, that means…”	ということは……」
 TIFA	TIFA
 “A spy? No way.”	「スパイ！？……まさか」
-AERIS	AERITH
+AERIS	AERIS
 “That there's a Shinra spy…”	「神羅のスパイがいるとか……」
 BARRET	BARRET
 “A spy, maybe?	「もしかしてよ、スパイ？

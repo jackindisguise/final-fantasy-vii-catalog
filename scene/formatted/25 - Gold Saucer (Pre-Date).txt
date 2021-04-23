@@ -174,7 +174,7 @@ Received "Choco Feather"!	『チョコボのはね』を手に入れた！！
 Dio	ディオ
 “We shall meet again!	「では、またあおう少年！
 Heh, heh, heh.”	はっはははは」
-AERIS	AERITH
+AERIS	AERIS
 “With this,	「これがあれば
 We can get into the	古代種の神殿、はいれるね。
 Temple of the Ancients.	
@@ -213,7 +213,7 @@ I'll go talk to them.”	話つけてきます～」
 Staff	係員
 “I will let you know once	「修理が終わりしだい
 the repairs are completed.”	連絡させていただきます」
-AERIS	AERITH
+AERIS	AERIS
 “Are you thinking of just us going back?”	「わたしたちだけ、もどるの？」
 TIFA	TIFA
 “Hey, CLOUD,	「ちょっと、CLOUD。
@@ -265,33 +265,33 @@ CLOUD	CLOUD
 what the Shinra believe.”	……これは神羅の考え方だ」
 “I don't know	「じっさいにはどんなところなのか
 if it actually exists.”	どこにあるのかすらわからない」
-AERIS	AERITH
+AERIS	AERIS
 “The Cetras will return to the Promised Land.	「セトラの民は約束の地へ帰る。
 A land that promises boundless happiness.”	至上の幸福が約束された運命の土地」
 BARRET	BARRET
 “Cetra? That some kinda disease?”	「セトラノタミ？　なんだ、それ？」
-AERIS	AERITH
+AERIS	AERIS
 “That's what the Ancients	「古代種は自分たちのことを
 call themselves.”	そう呼んでいたの」
 “Hey, didn't you	「ねえ、コスモキャニオンで
 listen to the elders	長老たちの話、聞かなかったの？」
 at Cosmo Canyon?”	
-AERIS	AERITH
+AERIS	AERIS
 “…You don't 'know' where the	「……古代種も約束の地、どこにあるか
 Promised Land of the Ancients is.”	知ってるわけじゃないってこと」
-AERIS	AERITH
+AERIS	AERIS
 “You search and travel, until you feel it.	「求めて、旅をして、感じるの。
 Then you just know	ああ、ここが約束の地だ、ってね」
 that you've found it.”	
 CLOUD	CLOUD
-“AERIS…can you feel it too?”	「AERITHも……わかるのか？」
-AERIS	AERITH
+“AERIS…can you feel it too?”	「AERISも……わかるのか？」
+AERIS	AERIS
 “I think so.”	「たぶん、ね」
 TIFA	TIFA
 “So Sephiroth is traveling the world	「セフィロスが世界のあちこちを
 because he's searching for the Promised Land?	歩き回ってるのは
 Is that it?”	約束の地をさがしてるのね」
-AERIS	AERITH
+AERIS	AERIS
 “He's searching for that,	「それだけじゃない、きっと。
 and one other thing.”	ほかにも探してるものがある」
 CLOUD	CLOUD
@@ -316,25 +316,25 @@ The rest are just war scars,	他のは戦士の魔除けだけど
 but the number was done by Hojo.”	数字だけは宝条がやったんだよ」
 TIFA	TIFA
 “So there are at least 13!?”	「最低でも１３人！？」
-AERIS	AERITH
+AERIS	AERIS
 “You know…”	「……あのね」
-AERIS	AERITH
+AERIS	AERIS
 “I think Hojo did something to	「黒いマントの人たちは
 those men in the black capes.”	宝条に何かをされた人たちだと
 “But I don't know what	思うのね」
 it has to do with Sephiroth though…”	「セフィロスとの関係……
 	それ、よくわからないけど」
-AERIS	AERITH
+AERIS	AERIS
 “That's why I think we should just	「だから、セフィロス本人だけ
 go after Sephiroth himself.”	追いかければいいんじゃないかな？」
 BARRET	BARRET
 “Yeah, me too!	「それ、賛成だぜ！
 It's all just too damn confusin'.”	ややこしくてしょうがないからな」
-AERIS	AERITH
+AERIS	AERIS
 “And…”	「それにね……」
-AERIS	AERITH
+AERIS	AERIS
 “I'm sorry, forget it!”	「ゴメン、なんでもない！」
-AERIS	AERITH
+AERIS	AERIS
 “I think I'm tired.	「わたし、つかれちゃった。
 I'm going to bed now.”	部屋、行くね」
 CAIT SITH	CAIT SITH

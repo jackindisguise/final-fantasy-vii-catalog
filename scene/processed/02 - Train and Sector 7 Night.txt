@@ -2,14 +2,12 @@ Wedge	ウェッジ
 CLOUD never came.	CLOUDさんこなかったっすね
 Biggs	ビッグス
 CLOUD… Think he was killed?	CLOUD……やられちまったのかな
-BARRET	BARRET
 No way!!	ケッ……！！あの野郎が金ももらわねえでいなくなるわけねえだろ！！
 Jessie	ジェシー
 CLOUD…	CLOUD……
 Biggs	ビッグス
 Say, do you think CLOUD's…	なあ、CLOUDってさ…
 going to stay on and fight for AVALANCHE!?	最後まで、おれたち…アバランチのために戦ってくれんのか？
-BARRET	BARRET
 How the hell would I know!? Do I look like a mind reader?	さあな……知らねえよ
 Hmph!! If y'all weren't such screw-ups…	チッ！！おまえらがもうすこしたよりになりゃよ……
 It's better if we don't hire a guy like that.	あんな野郎、やとわねえでもいいんだがな…
@@ -18,22 +16,15 @@ Hey, BARRET! What about our money?	あ、BARRETさん俺たちの給料……
 Uh, nothin'…sorry.	や、なんでもないっす…
 Wedge	ビッグス
 CLOUD!!	CLOUD！！
-CLOUD	CLOUD
 Looks like I'm a little late.	約束の時間に遅れたようだ
-BARRET	BARRET
 You damn right, you're late!!	おい！　遅刻野郎！！
 Come waltzin' in here makin' a big scene!	ずいぶん派手なおでましじゃねぇか
-CLOUD	CLOUD
 It's no big scene. Just what I always do.	そうでもない。ふつうだ
-BARRET	BARRET
 (*^%!	ケッ！！
 Havin' everyone worried like that. You don't give a damn 'bout no one but yourself!	心配させやがって勝手な野郎だ！
-CLOUD	CLOUD
 Hmm… You were worried about me?	ほう……？心配してくれたのか
-BARRET	BARRET
 Wha!?	なにっ！！
 That's comin' outta your share, hot shot! 	チッ…刻のぶんは報酬からひくからな
-BARRET	BARRET
 Wake up!	おい、おめえら！
 We're movin' out! Follow me!	場所変えるぞ。ついてこい！
 Wedge	ウェッジ
@@ -48,20 +39,16 @@ Jessie	ジェシー
 There you go!	はい、できあがり！
 Jessie	ジェシー
 Say, thanks for helping me back there at the reactor!	ね、魔晄炉で助けてくれてありがとう！
-CLOUD	CLOUD
 Yeah…	ああ……
 That's OK	気にするな
 Quit thanking me	礼なんかやめてくれ
-CLOUD	CLOUD
 Don't mention it.	気にするな。当然のことをしたまでさ
-CLOUD	CLOUD
 It bugs me when you thank me. It's just a part of my job.	感謝などされても困る。これも仕事のうちだからな
 Jessie	ジェシー
 But, I… I was just glad…	でも、私……ほんとにうれしかったから…
 Jessie	ジェシー
 CLOUD……	CLOUD……
 You're right. We're just partners.	そうだね、私たちただの仕事仲間ね…
-CLOUD	CLOUD
 It's not ready yet… Whoa!!	まだできてないんだ…ウオオ…！！
 Shut-off the switch in this position.	このまま、スイッチをお切りください
 We can escape from the train event…	列車イベントをぬけるのだが……
@@ -73,33 +60,22 @@ Did it!!	大成功！！
 Escaped	ぬけちゃう！
 Last Train from Midgar	ミッドガル発最終列車
 Inside Train	客車内
-BARRET	BARRET
 Look…you can see the surface now. This city don't have no day or night.	見ろよ…地上が見えてきたぜ。ひるも夜もねえ、オレたちの街がよ
 If that plate weren't there… we could see the sky.	ミッドガルのプレートさえなけりゃなぁ…。でっけえ空がおがめんのになあ
-CLOUD	CLOUD
 A floating city… Pretty unsettling scenery.	空中に浮かぶ都市か……。おちつかない風景だな
-BARRET	BARRET
 Huh? Never expect ta hear that outta someone like you.	はあ？あんたがそんなふうに感じるとはな
 …You jus' full of surprises.	……意外だぜ
-BARRET	BARRET
 The upper world…a city on a plate…	上の世界……プレート都市……
 It's 'cuz of that &^#$# 'pizza' that people underneath are sufferin'!	あのくさったピザのせいで下の人間がどんなに苦しんでることか……
-BARRET	BARRET
 All the pollution from Mako energy above falls down on the world below.	上の世界で汚された魔晄エネルギーが下の世界に降りてくる
-BARRET	BARRET
 And the city below is full of polluted air.	下の世界は今じゃあ汚された空気のたまり場だ
-BARRET	BARRET
 On top'a that, the Reactor keeps drainin' up all the energy.	おまけに魔晄炉はどんどんエネルギーをくみ上げちまう
 Thanks to that, the land is dying. We can't clean the air anymore.	おかげで土地は枯れる一方だ。空気をきれいにする力もなくしちまった
-CLOUD	CLOUD
 Then why doesn't everyone move onto the Plate?	どうしてみんな上へ移らないんだろう……
-BARRET	BARRET
 Dunno. Probably 'cuz they ain't got no money. Or, maybe…	さあな。金がないからだろ。いや、それとも……
 'Cuz they love their land, no matter how polluted it gets.	どんなに汚れていても地ベタが好きなのかもな
-CLOUD	CLOUD
 I know… no one lives in the slums because they want to.	わかってるさ…。好きでスラムに住んでるやつなどいない
 It's like this train. It can't run anywhere except where its rails take it.	みんな、この列車とおなじ。敷かれたレールには逆らえないんだ
-BARRET	BARRET
 Stop actin' like a damn kid. Siddown an' shu'up!	子供じゃねえんだ。じっとしてろよ
 Jessie	ジェシー
 Hey, CLOUD. You want to look at this with me?	ね、CLOUD。いっしょに見ない？
@@ -167,18 +143,12 @@ Each checkpoint has an ID sensor device.	各通過ポイントにはＩＤ検知
 It checks the identities and backgrounds of each passenger on the train and is linked up to the central data bank at Shinra headquarters.	乗客すべての身分やなにから全部！神羅ビルのホストコンピュータと連動してチェックされちゃうわけよ
 Whisper…whisper… (We definitely look suspicious, so we're using fake IDs.)	ひそひそ……（私たちはどう見たって不審人物だからニセのＩＤで通過してるの）
 Sector 7 Station	７番街スラム駅
-BARRET	BARRET
 Yo!! Get over here, all'ya!!	おう！！みんな、集まれ！！
-BARRET	BARRET
 This mission was a success. But don't get lazy now.	今回の作戦は成功だ。だがな、気を抜くなよ
 The hard part's still to come! Don't y'all be scared of that explosion!	本番はこれからだ！あんな爆発でびびるな！
-BARRET	BARRET
 Cause the next one's gonna be bigger than that!	次はもっと派手にかますぞ！
-BARRET	BARRET
 Meet back at the hideout!! Move out!	アジトに集合だ！！いくぞ！
-BARRET	BARRET
 Yo, CLOUD! You lissen up!	よう！CLOUDさんよ！あんたも聞いとけ！
-BARRET	BARRET
 Yo! What're ya doin' now?	おう！！なにしてやがる！
 Biggs	ビッグス
 uh, BARRET… We, uh…	あ、BARRET…おれたち……
@@ -193,25 +163,19 @@ CLOUD? When this mission's over…	ね、CLOUD？作戦終わったらさぁ
 Why don't all of us take a long vacation. Maybe we could go to a hot springs somewhere?	みんなでお休みとって温泉でもいかない？
 Yeah…	ああ……
 I don't know…	わからないな
-CLOUD	CLOUD
 Yeah… If I feel like it.	ああ……。気がむいたらな
 Jessie	ジェシー
 Alrighty then! It's a date!	うん！CLOUD、約束ね　
-CLOUD	CLOUD
 You never know what lies ahead.	先のことなんか、わからないな
 Jessie	ジェシー
 …how lovely.	……いいわ
 I might just have to tempt you, then.	またそのときになったら誘惑する
-BARRET	BARRET
 Yo, you all done flappin' your gums!?	よし、気がすんだか！！
 Go! Get on that train!	いけ！列車にのりこめ！
-TIFA	TIFA
 CLOUD… Don't be so distant.	ね、CLOUD。あんまり冷たくしないで
 Everyone wants to be your friend. I'm sure…	みんな、CLOUDと仲良くなりたいんだよ。きっと…
-BARRET	BARRET
 Damn, man!! I'm here to fight!	ケッ！！オレたちは戦ってんだぞ！
 Don't care 'bout bein' nobody's friend.	ともだちになることなんかねえんだ
-BARRET	BARRET
 Let's go! Don't be late!	オレたちもいくぞ！遅れんな
 My husband never came back.	夫は帰ってこなかった。
 I wonder if something happened to him?	夫の身になにかあったんだろうか？
@@ -219,11 +183,11 @@ No, I'm sure his leave was just canceled.	いや、休暇が取り消しにな�
 I went to the station everyday.	それからわたしは毎日駅へ行ったんだ。
 Then, one day…	ある日……
 You used to see that kind of thing a lot during the war.	戦争中はよくある風景だったね。
-Please take AERIS somewhere safe.	AERITHを安全なところへ。
+Please take AERIS somewhere safe.	AERISを安全なところへ。
 That's the last thing she said before she died.	そう言い残して彼女は死んだ。
 My husband never came back, and I had no child.	わたしの夫は帰らず、子供もいない。
 I think I must have been very lonesome.	わたしもさびしかったんだろうね。
-So I took AERIS home with me.	AERITHを家に連れて帰ることにしたんだ。
+So I took AERIS home with me.	AERISを家に連れて帰ることにしたんだ。
 I'm not letting you go tonight.	今夜は帰さないよ
 Wow!	エェ！
 Isn't there somewhere we could go to be alone?	ね、どっかで休んでいこう
@@ -258,30 +222,21 @@ ALL ABOARD! The train is about to depart.	さあ、おはやく御乗車ねが�
 I heard a rumor that the plate was going to fall, crushing this station, I've worked at so many years.	プレートが落ちるって噂を聞きましたです。長年親しんだこの駅ですからどうしてもはなれられません……
 But I just can't bear to leave here.	いったい、どうして……？うそであってほしいです
 Sector 7 Slums	７番街スラム
-BARRET	BARRET
 Don't get all slaphappy just 'cause today's mission went well!!	作戦ひとつうまくいったぐらいでうかれてんじゃねえぞ！！
-BARRET	BARRET
 Yo, CLOUD! Over here, now!	おい、CLOUDこっちだ！
 Sector 7 Mechanized Tower	７番街機械塔
 Sector 7 Slums	７番街スラム
-BARRET	BARRET
 All right!! You losers go on ahead!!	よし！！おめえら、先入ってろ！！
-BARRET	BARRET
 OK! Go on ahead.	よし！先に入ってろ
-BARRET	BARRET
 Heh heh…	へへ……
 You wanna meet your little baby?	幼なじみにはやく会いてえか？
 Little baby?	幼なじみ？
 Out of my way!	そこ、どいてくれ
-BARRET	BARRET
 Heh! Jus' calm down.	ヘッ！まあ、落ちつけよ
 Can't have people suspectin' us.	街のやつらにあやしまれるとまずいからな…
-BARRET	BARRET
 Hey! Don't act like you don't know what I mean!	ヘッ！！とぼけちゃってよ
 I'm tellin' you…	いいのかねえ…
-BARRET	BARRET
 You! CLOUD!! Get off your slow-movin' ass!!	よう！！　CLOUD！！チョロチョロすんじゃねぇ！！
-BARRET	BARRET
 The hell're you doin', boy? The operation's already started!!	なにやってんだ！！作戦は始まってんだぞ！！
 I'm not opening up. Go away!!	開けないよ！！帰ってちょうだい
 Oh &$#&@!! What the hell's wrong tonight!!	まったくよぉ！！今夜はどうなってんだかよ！！
@@ -368,7 +323,6 @@ Ahh! Now I ain't got no one to pick on!	あ～あ！いじめる相手がいな�
 When it comes down to it…I'm gutless. I'm still just a no-good kid.	ああ～、いざとなると勇気がでない。だめだな、ボクって。まだ子供だな～
 We're closed today. Come back tomorrow.	本日は閉店いたしました。またのご来店をおまちしております
 Don't be taken in by the Shinra. Mako energy will not last forever. Mako is the life of the Planet and that life is finite. The end is coming. Saviors of the Planet:  AVALANCHE	神羅にだまされるな！魔晄エネルギーは永遠ではない！魔晄は星の命！いつか終わりがやってくる！星の救世主：アバランチ
-CLOUD	CLOUD
 What crappy handwriting. And look at all this graffiti!	きたない字だな。おまけに、いたずら書きだらけだ
 7th Heaven	セブンスヘブン
 Papa!!	とうちゃん！！
@@ -382,106 +336,68 @@ He's always pushing people around, and you've always been in fights ever since y
 I was worried.	……ちょっと、心配だったんだ
 Hmm. You've grown up. When you were little you used to get into fights at the drop of a hat.	ふ～ん。CLOUDもおとなになったのね。子供のころは、すぐケンカだったのに
 Enter name	『TIFA名前入力』
-TIFA	TIFA
 Flowers? How nice…	あら？お花なんてめずらしいわね
 You almost never see them here in the slums.	スラムじゃ、めったにさかないのよ
-TIFA	TIFA
 But…	でも……
 A flower for me? Oh CLOUD, you shouldn't have…	プレゼントに、お花なんてCLOUD、そうなんだ～
-CLOUD	CLOUD
 …	そんなんじゃないさ
 Give it to TIFA	TIFA、あげる
 Give it to Marlene	マリン、あげる
-TIFA	TIFA
 Thank you, CLOUD. It smells wonderful.	ありがとう、CLOUD。ん～、いいかおり！
 Maybe I should fill the store with flowers.	お店を花でいっぱいにしちゃおうかな
 Thudthudthud!!	『ドカドカドカ！！　というＳＥがはいるよてい』
 Marlene	マリン
 Papa, welcome home!	とうちゃん、おかえり！
-TIFA	TIFA
 You all right, BARRET?	BARRET、ごくろうさま
-BARRET	BARRET
 Great!!	おう！！
-BARRET	BARRET
 Get in here, fools!! We're startin' the meetin'!!	おめえら！！会議をはじめっぞ！！
-TIFA	TIFA
 Everyone is down below.	みんなは下にいるわよ
-BARRET	BARRET
 Yeah.	おう、ただいま
-BARRET	BARRET
 Huh? Where'd you get that flower?	ん？どうしたんだ、その花は？-
 Marlene	マリン
 CLOUD gave it to me.	……CLOUDにもらったの
-BARRET	BARRET
 Oh…	そうか……
-BARRET	BARRET
 Did you thank him?	マリン、ありがとうは言ったのか？
 Marlene	マリン
 …	…………
 Marlene	マリン
 Thank you, CLOUD.	お花、ありがとうね、CLOUD
 We'll take care of you.	ちゃんとお世話するからね
-TIFA	TIFA
 CLOUD… come over here.	CLOUD……こっちにきて
-TIFA	TIFA
 Sit down.	どうぞ、すわって
-TIFA	TIFA
 How about… …something to drink?	ねえ……何かのむ？
 I don't feel like it	いまはそんな気分じゃないな
 Give me something hard	キツイの、くれないか
-TIFA	TIFA
 OHH!!	も～う！！
 I can make a drink just as good as anyone else.	私だってちゃんとお酒ぐらいつくれるようになったのよ
 Everyone says my drinks taste the best!	お客さんだって、TIFAちゃんのつくるお酒はおいしいよっていってくれるんだから！
-TIFA	TIFA
 Just a minute. I'll make one for you.	まってて。いまつくるから
-TIFA	TIFA
 You know, I'm relieved you made it back safely.	なんだか、ほっとしちゃった。CLOUDが無事もどってきて
-CLOUD	CLOUD
 What's with you all of a sudden? That job wasn't even tough.	急にどうした？あのていどの仕事、なんでもないさ
-TIFA	TIFA
 I guess not…	そうね……
 You were in SOLDIER.	CLOUD、ソルジャーになったんだもんね--
-TIFA	TIFA
 Make sure you get your pay from BARRET.	……今回の報酬なんだけどBARRETからもらってね
-CLOUD	CLOUD
 Don't worry. Once I get that money, I'm outta here.	そうするよ。報酬をもらえば、また、お別れだな
-TIFA	TIFA
 CLOUD. Are you feeling all right?	ねえ、CLOUD。気分はどう？
-CLOUD	CLOUD
 …Yeah… Why?	……ふつうさ。どうしてそんなことを聞く？
-TIFA	TIFA
 No reason. You just look a little tired I guess.	ううん、なんでもない。ただ、つかれてないのかなって…-
-TIFA	TIFA
 You'd better go down below.	みんなのところに行ってあげて
 AVALANCHE Hideout	アバランチアジト
-BARRET	BARRET
 Yo, CLOUD! There's somethin' I wanna ask ya.	おい、CLOUDさんよ。聞きたいことがあるんだ
 Was there anyone from SOLDIER fighting us today?	きょう、オレたちが戦った相手にソルジャーはいたのか？
-CLOUD	CLOUD
 None. I'm positive.	いや、いなかった。それは確実だ
-BARRET	BARRET
 You sound pretty sure.	ずいぶんと自信たっぷりじゃねえか
-CLOUD	CLOUD
 If there was anyone from SOLDIER you wouldn't be standing here now.	もしソルジャーと戦っていたらあんたたちが生きてるはずないからな
-BARRET	BARRET
 Don't go thinkin' you so bad jus' cuz you was in SOLDIER.	自分が元ソルジャーだからってえらそうに言うんじゃねえよ！
-CLOUD	CLOUD
 …	…………-
-BARRET	BARRET
 Yeah, you're strong.	確かにおまえは強い
 Probably all them guys in SOLDIER are.	おそらくソルジャーってのはみんな強いんだろうさ
 But don't forget that your skinny ass's workin' for AVALANCHE now! Don't get no ideas bout hangin' on to Shinra.	でもな、おまえは反乱組織アバランチにやとわれてる身だ。神羅のかたを持つんじゃねえ！
-CLOUD	CLOUD
 Stayin' with Shinra? You asked me a question and I answered it…that's all.	神羅のかたをもつ？俺はあんたの質間に答えただけだ
-CLOUD	CLOUD
 I'm going upstairs. I want to talk about my money.	俺は上で待っている。報酬の話がしたい
-TIFA	TIFA
 Wait, CLOUD!	待って、CLOUD！
-BARRET	BARRET
 TIFA! Let him go!	TIFA！そんなヤツ放っておけ！
 Looks like he still misses the Shinra!	どうやら神羅に未練タラタラらしいからな！
-CLOUD	CLOUD
 Shut up!	だまれ！
 I don't care about neither Shinra nor SOLDIER!	俺は神羅にもソルジャーにも未練はない！
 But don't get me wrong!	でも、かんちがいするな！
@@ -523,65 +439,44 @@ But citizens of Midgar, there is no need to fear.	しかし、ミッドガル市
 I have immediately mobilized SOLDIER to protect our citizenry against this senseless violence. Thank you and good night.	我々神羅カンパニーはこのような暴力からみなさんを守るためにソルジャーの投入を決定しました。これで……
 Marlene	マリン
 Papa, you're so great!	とうちゃ～んかっこいい！
-BARRET	BARRET
 Shucks!! …money…	チッ！！……………ほ、報酬かよ…
-TIFA	TIFA
 Straighten things up with everyone for me.	みんなには、あやまっておくね
 Save Point	【セーブポイント】
 Access the menu and select [SAVE] to save your game.	メニューを開いて　セーブ　を選ぶとゲームの状態を保存できます。
-TIFA	TIFA
 Listen, CLOUD. I'm asking you. Please join us.	CLOUD、おねがい。力をかして
-CLOUD	CLOUD
 Sorry TIFA…	TIFA……わるいけどさ
-TIFA	TIFA
 The Planet is dying. Slowly but surely, it's dying.	星が病んでるの。このままじゃ死んじゃう
 Someone has to do something.	誰かがなんとかしなくちゃならないの
-CLOUD	CLOUD
 So let BARRET and his buddies do something about it. It's got nothin' to do with me.	BARRETたちがなんとかするんだろ？俺には関係ないさ
-BARRET	BARRET
 You damn right we'll do something about it. N' you stay outta this TIFA!	ああ、オレたちがなんとかする。TIFA、もうやめとけ
 President Shinra	プレジデント神羅
 The terrorist group called AVALANCHE has claimed responsibility for today's bombing of the No. 1 Mako Reactor. It is also predicted that they will continue with similar terrorist activities in the future.	……壱番魔晄炉破壊事件に関してアバランチと名乗る組織から犯行声明が出されています。声明によるとアバランチは今後も同様のテロを続けることを予告しております。
 But I want the citizens of Midgar to be assured.	しかし、ミッドガル市民のみなさん安心して下さい
 Shinra, Inc. has mobilized SOLDIER to protect you from any violence and thereby…	我々神羅カンパニーはこのような暴力からみなさんを守るためにソルジャーの投入を決定しました。これで……
-TIFA	TIFA
 Will you please come back? Ah, wait. Please wait.	CLOUD！　もどってくれるの？あ、でも、ちょっとまって
 The president of Shinra is going to read a statement.	プレジデント神羅の発表がニュースで読まれるの
-TIFA	TIFA
 The next time we'll be up against…SOLDIER.	私たち……次はソルジャーと戦うのね
-TIFA	TIFA
 CLOUD, then you'll help us?	CLOUD、助けてくれるのね？
 A promise is a promise	約束だからな
 But I still hate BARRET	でも、BARRETがきらい-
-TIFA	TIFA
 I hate BARRET.	ありがとう、CLOUD
-TIFA	TIFA
 You came to tell me that?	そんなこと言いにきたの？
-TIFA	TIFA
 He's not a bad person.	……悪い人じゃないわ
-TIFA	TIFA
 Don't worry. I'll talk to him.	だいじょうぶ。私からちゃんと話しておくから
-TIFA	TIFA
 Come on. Let's go below!	さあ、下へいきましょ！
-TIFA	TIFA
 Good Morning! CLOUD!	おはよ！　CLOUD！
 Did you sleep well?	よく、眠れた？
 BARRET's snoring kept me up….	BARRETのイビキがうるさくて…
 Next to you, who wouldn't?	TIFAがそばにいたから…
-TIFA	TIFA
 …psst…	ひそひそ……
 (keep it down, they'll hear you. BARRET's always edgy before an operation.)	（ダメ……聞こえちゃうよ。BARRET、作戦前は気が立ってるから）
-TIFA	TIFA
 I don't know what you mean.	それどういう意味かしら
-TIFA	TIFA
 I'm going this time.	今回は私も行くね！
-TIFA	TIFA
 Marlene, you watch the store while we're gone!	マリン、お店たのむね！
 Marlene	マリン
 All right!! Good Luck.	うん！！お仕事がんばってね
 Marlene	マリン
 Take care!	いってらっしゃい
-TIFA	TIFA
 Sorry, CLOUD. Marlene seems a little shy.	CLOUD、ごめんね。マリン、てれちゃってるみたい-
 Marlene	マリン
 …	…………
@@ -621,144 +516,83 @@ CLOUD, ya gotta help us. I'm really scared.	CLOUDさん、手貸してくださ�
 Jessie	ジェシー
 CLOUD…. It's painful.	CLOUD……なんだか、せつないよ
 Why is that?	どうしてなの？
-CLOUD	CLOUD
 What's goin' on? It's really shakin' a lot…	どうなってる……？やけにゆれるな……
-CLOUD	CLOUD
 TIFA? Where?	TIFA……？どこだ？
-CLOUD	CLOUD
 …I'm going out…	……俺はどこへ向かっている……
 Received BARRET's stash, 1500 gil!	BARRETのへそくり１５００ギル手にいれた！
-TIFA	TIFA
 So! You're really leaving!?	あ～あ！本当に行っちゃうんだ！
-TIFA	TIFA
 You're just going to walk right out ignoring your childhood friend!?	かわいい幼なじみのたのみもきかずに行っちゃうんだ！-
-CLOUD	CLOUD
 What?	ん……？
 How can you say that!	よくいうぜ！
 …Sorry	……わるいな
-TIFA	TIFA
 ….You forgot the promise, too.	……約束も忘れちゃったんだ
-CLOUD	CLOUD
 Promise?	約束？
-TIFA	TIFA
 So you DID forget.	やっぱり忘れてる
-TIFA	TIFA
 Remember? CLOUD, it was seven years ago…	思い出して……CLOUD。あれは７年前よ……
-TIFA	TIFA
 You remember now, don't you? Our promise?	思い出してくれたみたいね約束
-TIFA	TIFA
 Look, the well.	ほら、村の給水塔
 Do you remember?	覚えてる？
-CLOUD	CLOUD
 Yeah…back then.	ああ……あの時か
-CLOUD	CLOUD
 I thought you would never come, and I was getting a little cold.	TIFA、なかなか来なくてちょっと寒かったな
-TIFA	TIFA
 Sorry I'm late.	お・ま・た・せ
-TIFA	TIFA
 You said you wanted to talk to me about something?	な～に？話があるって
-CLOUD	CLOUD
 Come this Spring…I'm leaving town for Midgar.	俺……春になったら村を出てミッドガルへ行くよ
-TIFA	TIFA
 All the boys are leaving town.	……男の子たちってみ～んな村を出てっちゃうね
-CLOUD	CLOUD
 But I'm different from them. I'm not just going to find a job.	俺はみんなとはちがう。ただ仕事をさがすだけじゃない
-CLOUD	CLOUD
 I want to join SOLDIER.	俺、ソルジャーになりたいんだ
-CLOUD	CLOUD
 I'm going to be the best there is, just like Sephiroth!	セフィロスみたいな最高のソルジャーに
-TIFA	TIFA
 Sephiroth… The Great Sephiroth?	セフィロス……英雄セフィロス、か
-CLOUD	CLOUD
 I thought about Sephiroth all the time. Even in my sleep. My mom had given up on me.	あのころの俺は、ねてもさめてもセフィロス、セフィロス……母さんもあきれていたな
-TIFA	TIFA
 I had no idea you were planning on that.	私、CLOUDがそんなこと考えてたなんてぜんぜん知らなかった……
-TIFA	TIFA
 But, what about our promise?	ね、それより約束は？
-TIFA	TIFA
 Isn't it hard to join SOLDIER?	ソルジャーになるのって難しいんでしょ？
-CLOUD	CLOUD
 …I probably won't be able to come back to this town for a while.	……しばらくのあいだ村にはもどれないな、きっと
-CLOUD	CLOUD
 …Huh?	……うん？
-TIFA	TIFA
 If you make it, will you be in the newspapers?	大活躍したら新聞にものるかな？
-CLOUD	CLOUD
 I'll try.	がんばるよ
-TIFA	TIFA
 Hey, let's make a promise.	ね、約束しない？
-TIFA	TIFA
 Umm…if you get really famous and I'm ever in a bind…	あのね、CLOUDが有名になってその時、私が困ってたら……
 you'll come save me, all right?	CLOUD、私を助けに来てね
-CLOUD	CLOUD
 What?	はぁ？
-TIFA	TIFA
 If I'm ever in trouble, my hero will come and rescue me.	私がピンチのときにヒーローがあらわれて助けてくれるの
 I want to experience that at least once.	一度くらい経験したいじゃない？
-CLOUD	CLOUD
 Ha, ha, ha! What's that?	ハハハハ！なんだよ、それ！
-TIFA	TIFA
 You're laughing at me!	笑ったわね！
-TIFA	TIFA
 Come on! Promise me!	いいじゃないのよ～！約束しなさい～！
-CLOUD	CLOUD
 All right…I promise.	わかった……約束するよ
-CLOUD	CLOUD
 I'm not a hero and I'm not famous. So I can't keep our promise.	俺は英雄でも有名でもない。約束は……守れない
-TIFA	TIFA
 But you got your childhood dream, didn't you? You joined SOLDIER.	でも子供のころの夢を実現したでしょ？ちゃんとソルジャーになったんだもの
-TIFA	TIFA
 So come on! You've got to keep your promise…	だから、ねっ！今度こそ約束を……
-BARRET	BARRET
 Wait a sec big-time SOLDIER!	おいちょっと待て！ソルジャーさんよ
-CLOUD	CLOUD
 This is my pay? Don't make me laugh.	こんな、しけた報酬じょうだんじゃないな
-TIFA	TIFA
 What? Then you'll…	え？それじゃ！！
-CLOUD	CLOUD
 You got the next mission lined up? I'll do it for 3000.	次のミッションはあるのか？倍額の３０００でうけてやってもいい
-BARRET	BARRET
 What!?	なんだと！……！
-TIFA	TIFA
 It's OK, it's OK.	いいからいいから
-TIFA	TIFA
 …psst…. (We're really hurting for help, right?)	ヒソヒソ……（人手に困ってるってのが本音でしょ？）
-BARRET	BARRET
 Uh….ugh…. (That money's for Marlene's schoolin'….)	う……ぐぅ……（残りのへそくりはマリンの学費だぞ……）
-BARRET	BARRET
 2000!	２０００だ！
-TIFA	TIFA
 Thanks, CLOUD.	ありがとう、CLOUD
-BARRET	BARRET
 Our target's the Sector 5 Reactor. Head for the station first.	標的は【五番魔晄炉】だ。まず、駅へ行く
 I'll fill you in on the train.	くわしい作戦は列車の中でな
-BARRET	BARRET
 Yo, CLOUD.	おい、CLOUD
 Got a message from the old man at the weapon shop upstairs! Said he's got somethin' special so come and get it!	武器屋２階のオヤジからの伝言だ！いいもんあげるからとりにこい……たしかに伝えたぞ！
 Yo! If you pull somethin' funny… you now what I'll do to ya, right?	おう！　おかしなマネをしたら……わかってんだろうな
-BARRET	BARRET
 Whoa, wait a damn minute. CLOUD!!	おい、ちょっと待て。CLOUDさんよ！！
-BARRET	BARRET
 A promise is a promise! Here!!	約束は約束だからな！ほら、金だ！！
-TIFA	TIFA
 I'm so glad everyone's safe.	よかった、みんな、無事で
-BARRET	BARRET
 Yo! CLOUD!	おう！　CLOUD！
 Before the next mission, I got somethin' I wanna ask you!	作戦の前にひとつおまえさんに聞きたいことがある！
 I, uh… I don't really know how to use Materia!	じつはな……オレはマテリアの使い方をよくしらねえ！
 I'll give you that Materia we found. Just teach me how to use it!	ひろったマテリアはおまえにくれてやる。だから、教えろ！
-CLOUD	CLOUD
 …sigh…	さて……
 OK, I'll explain it	面倒だが説明しよう
 You wouldn't understand	面倒くさい……-
-BARRET	BARRET
 So this is what makes them guys in SOLDIER so great, huh!?	ソルジャーさんたちの秘密ってわけか
 Ok. I'll ask Jessie again later. But you're in charge of the Materia!	まあ、いいだろう。あとで、ジェシーにでも聞いておくからな。だがな、マテリアはおまえが管理しろ！
-BARRET	BARRET
 &$*#! What's this, It wasn't that tough!' crap?	ケッ！　なにが……『それほど、むずかしくはないだろう』だ！
 I don't get it!….	ぜんぜんわかんねえ……
 You just handle the Materia, CLOUD!	まあ、いいだろう。マテリアはおまえが管理しとけ！
-TIFA	TIFA
 CLOUD! I got a message from the Weapon Shop man upstairs.	CLOUD！武器屋２階のおじさんから伝言よ
 He has something he wants to give you. Don't forget!	あげたいものがあるからお店によって……だって。わすれないでね！
 [Materia System]	【マテリアシステム】
@@ -769,7 +603,7 @@ If this keeps up, this store's goin' under…	フーッ……今日もひまひ�
 Can't sell any really good medicine in a slum like this.	もうこの店もダメかのう…
 Oh!! Look at this! This doesn't happen everyday. Are you…a customer?	こんなスラムじゃまともなクスリは売れんなあ
 Yes!! Welcome!! We sell! We buy!	おっ！！こりゃこりゃ！こりゃ、めずらしい。あんた、まさか客かね？
-By the way, you wouldn't happen to be…  Naw, never mind. Forget it. Sector 7 Weapon Shop 	はい！！　いらっしゃい！！売りますよ！買いますよ！
+By the way, you wouldn't happen to be…  Naw, never mind. Forget it. Sector 7 Weapon Shop	はい！！　いらっしゃい！！売りますよ！買いますよ！
 He, HEY! Waitaminit you!!	ところで、あんた。もしかして……
 You can't just walk outta here without buyin' somethin'!	……いや、なんでもないよ。
 Might be unhealthy fer ya, if ya know what I mean.	失礼、失礼」
@@ -778,11 +612,9 @@ Anyone talking to me must be a novice.	んっ！！おい、客！！
 Yep, that's me	買わねえとどんなめにあうか……想像してみりゃ、わかるよな
 I used to be in SOLDIER,	よう！！なんだ、おまえ？
 the name's CLOUD	俺に話しかけるってことは、しろうとだな？
-CLOUD	素人だ。
-So what. Everyone's gotta start sometime.	俺は元ソルジャーのCLOUDだ。
-CLOUD	CLOUD
-The name's CLOUD. Used to be with SOLDIER, I got no business with you.	それがどうした。誰だって最初は素人だろ
-Hmmph!! Well, I never heard of ya!	CLOUD
+So what. Everyone's gotta start sometime.	素人だ。
+The name's CLOUD. Used to be with SOLDIER, I got no business with you.	俺は元ソルジャーのCLOUDだ。
+Hmmph!! Well, I never heard of ya!	それがどうした。誰だって最初は素人だろ
 Don't act so big, amateur. Seein' as how I'm such a warm hearted guy, I'll show ya the ropes.	俺は元ソルジャーのCLOUDだ。おまえに用などない
 You come back here tomorrow. I got some things I gots ta do.	フン！！おまえの名前なんて聞いてねぇよ
 Heh heh…He'll forget about it. OH, you!!	素人のくせにいばるんじゃねぇ。親切な俺様がこんせつていねいに教えてやるぜ！
@@ -827,7 +659,6 @@ You'd better save when you can.	セーブできるときにセーブする
 That's the trick to being tough. Remember that, old dude.	これがタフに生きてく基本だぜ！おっさん、覚えときな
 Sweet dreams, pops.	いい夢見なよな、おっさん
 Rough times, huh pop? Not a dime on you?	おっさん、苦労してんだな。金もってないじゃないか！
-CLOUD	CLOUD
 Hoo…	フゥッ……
 Save Point	【セーブポイント】
 Sector 7 Slums, Weapons Shop Floor 2	７番街・武器屋２階
@@ -852,9 +683,7 @@ Ahh, there just ain't no good jobs here in the slums.	はぁ～スラムじゃ�
 I wanna go to the upper world.	上の街にいきたいなあ
 This is the Beginner's Hall.	まいどおなじみ初心者の館だよ～ん！
 You say you're a beginner? But your eyes say you're not.	あんたが、素人だってか。その目は、そうじゃないって言ってるぜ
-CLOUD	CLOUD
 Don't mess with me. I used to be in SOLDIER. I'll tell you how much I know… an' for free too!	元ソルジャーをなめるな。どれだけ物知りか、教えてやる。しかも、無料でだ！
-CLOUD	CLOUD
 What do you want to know?	なにが知りたいんだ？
 How to save?	記録を残すには？
 How to heal your allies?	傷ついた味方を回復するには？
@@ -867,13 +696,10 @@ How to check your status?	現在の自分の状態をチェック
 About Limit status?	リミット技の使い方
 Other things to watch for?	その他の注意
 That's all	もう教えることはない
-CLOUD	CLOUD
 First, you need Potions.	説明にあたって、ポーションが必要だな
 You're a stingy one. Here, I'll give you ONE Potion.	せこいなあ、元ソルジャーさん。そらポーションの一個くらい、さしあげますぜ
 I don't have any extra Potions on me. Why don't you go buy some?	俺もポーションの手持ちがないよ。買ってきたらどうだい？
-CLOUD	CLOUD
 Sorry. I'll have to go get my money.	悪いな。報酬だと思ってもらっておく
-CLOUD	CLOUD
 You probably know all this. But just in case, I'll go over it.	常識なのでわかっているとは思うが念のため、言っておく
 Until you get instructions, don't open or take discs out of the CD drive.	指示があるまで、ディスクホルダーを開けたり他のものと取りかえたりするな
 After you open up the CD drive, I can't guarantee what'll happen. That's all.	ディスクホルダーを開けた場合後のことは保証できない。以上
@@ -896,7 +722,6 @@ That should be all you need to know about the Save Point. I'll probably see you 
 I'm a [treasure chest]!!	俺様が、【たからばこ】だ！！
 Beginners, make sure and keep an eye out for me!!	初心者のキ・ミ・た・ち！俺様をしっかりとさがしてくれよ！！
 Hey SOLDIER!! Tell us about battles! We'll even pay you!	物知り元ソルジャーさん！！バトルのことをオレたち３人組に教えてくださいよ！報酬はずみますから！
-CLOUD	CLOUD
 What do you want to know?	なにを教えてほしいんだ？
 About ATB	【ＡＴＢ】について
 About numbers on the screen	【飛び出す数字】について
@@ -907,28 +732,22 @@ About [Status]	【ステータス】について
 About [Elementals]	【属性】について
 About [Help]	【ヘルプ】について
 That's all the time I have for you!	もうひまつぶしは終わりだ
-CLOUD	CLOUD
 I'm not hard up enough to take money from guys like you. But I'll rap with you for a while.	おまえたちから金をとるほど落ちぶれちゃいない。ひまつぶしにつきあってやる
-CLOUD	CLOUD
 ATB or Active Time Battle is a system that is always in operation during battle.	【ＡＴＢ】、すなわち【アクティブタイムバトル】は戦闘中、つねに時間が流れているシステムだ
 Select [Wait] from ATB on the Config Menu and time will stop when you select magic or items during battle.	メニューのコンフィグでＡＴＢを【ウェイト】にすると……戦闘中、魔法やアイテムを選んでいる間時間が止まる
 This gives you time to pick out your commands. This is especially helpful to beginners.	コマンドをゆっくり選べるというわけだ。おまえたち、初心者にはおあつらえむきだな
 Selecting [Recommended] ATB in the config menu can stop time while the effects of spells and items are taking place during battle.	同じくコンフィグでＡＴＢを【おすすめ】にすると……戦闘中、魔法やアイテムのエフェクトが出ている間時間が止まる
 This lets you take your time looking over the progression of the battle. When you don't want to rush in battle, this is for you!	戦闘の様子をゆっくり見られるというわけだ。落ちついて戦いたいときはこれだな
 Personally, I always use [Active], but you can use whichever you like.	俺はいつでも【アクティブ】だが気にするな、好きなものを選ぶといい。以上だ
-CLOUD	CLOUD
 White numbers appearing on the screen in battle are damage points. Green numbers show restorative points.	バトルの時に、【ピロンと飛び出す数字】は白がダメージ、緑が回復していることを表している
 You better watch these if you don't want to get wiped out.	全滅したくなければ注意することだな
-CLOUD	CLOUD
 The [Change] command can move characters to and from the front and back rows.	【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる
 In the back row, the damage received is less, but the attacking power is less.	後列にすると受けるダメージが減るが、攻撃力も減る。【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ
 You can make a [Change] by pressing the Directional button in battle. Pushing the Directional button the other direction during battle accesses [Defend].	同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ
 Selecting [Defend] reduces the damage you receive by half until the next command.	【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる
 If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it.	手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな
-CLOUD	CLOUD
 I don't really remember ever having to use the [Escape] command… but you'll probably need it.	俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう
 Push [PAGEUP] and [PAGEDOWN] together, hold them down, and you can escape.	Ｌ１ボタンとＲ１ボタンを押しっぱなしにしていると逃げられたはずだ
-CLOUD	CLOUD
 During battle, there are several [Gauges] displayed. You can't check them now, so just remember what I tell you.	いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。戦闘中、いくつか表示されている【ゲージ】のことだ
 [time gauge] displays the time remaining until your next turn while in battle.	【ＴＩＭＥゲージ】は戦闘中、次のコマンド入力が回ってくるまでの待ち時間をあらわしている
 When the gauge is full, you can make your command. If you don't want to make one, push [MENU] and you can move to the next character. It's convenient when you wanna make BARRET work.	ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。BARRETをこきつかいたい時などに便利だ
@@ -943,16 +762,13 @@ The top gauge displays [barrier] or magic defense against attacks. The bottom ga
 Both will cut the damage you receive in half. However, over time they will disappear.	両方ともダメージを半分にしてくれるが時間が経つと消えてしまう
 Whenever you use [barrier] or [magic barrier] make sure to pay attention to the [barrier gauge].	【バリア】と【マバリア】の魔法をつかったときは【ＢＡＲＲＩＥＲゲージ】に注目だな
 That's it. Remember that for the next battle.	以上だ、次の戦闘で確認してくれ
-CLOUD	CLOUD
 Looks like you didn't get it the last time I told you. What's wrong with you? You touched in the head?	この俺の説明でもわからんようならしかたない。おまえたちの理解する能力がたりないようだ
 Well, don't worry. You just need to push [ASSIST] in battle.	だが、安心しろ。そんなおまえたちは、戦闘中、セレクトボタンを押してみるといいだろう
 Do that, and the [Help] message will walk you through the commands.	【ヘルプメッセージ】が、俺にかわっていろいろとコマンドの説明をしてくれるはずだ
 It also shows you the name of your enemy, so even I use it once in a while. Make good use of it.	敵のモンスター名なども表示されるから俺も気分転換に見ることもある。はずかしがらずに使うといい
-CLOUD	CLOUD
 [wiped out]. This is one I've never personally used. But I heard from someone what it was about.	【全滅】か……俺の記憶にはないから、これは人から聞いた話だ
 When you are wiped out, you start back from the last save point.	【全滅】したときには前の【セーブポイント】からはじまる
 Even a weakling like you can make it out of the roughest places as long as you hang in there and fight. You should be glad!	おまえたちのような弱いヤツでも地道に戦えば、どんな難所でも脱出できるはずだ。ありがたいことだな
-CLOUD	CLOUD
 [Status] means just that. The status of each character.	【ステータス】とはキャラクターの状態のことだ
 I'll probably wind up repeating myself, but let me go over a few basic points.	これまで説明したことと重なるかもしれんが代表的なものをまとめといてやる
 Sleep You cannot put in a command until you get up.	すいみん　起きるまでコマンド入力不可になる。
@@ -965,10 +781,8 @@ Silence Will be unable to cast magic.	ちんもく　全ての魔法をとなえ
 Paralyze Stops time gauges, commands.	マヒ　　　　タイムゲージ停止、コマンド入力不可
 Darkness Accuracy of hitting attacks decreases.	くらやみ　なぐり攻撃の命中率低下。
 Frog Become a frog. I hate this one!	カエル　　カエルになる。俺はだいきらいだ。
-CLOUD	CLOUD
 Hoo…I'm beat.	フッ……さすがにつかれたな
 Your [Status] can be changed with magic and items, so you should check it whenever you buy things.	【ステータス変化】はアイテムや魔法で直せるから物を買うときに確認しておくのがいいだろう
-CLOUD	CLOUD
 [elemental] is the special effect that comes with certain weapons and magic.	【属性】は魔法や武器などについてくる特別な効果のことだ
 It's necessary to move ahead effectively. If you pay attention to the types of elementals you use you'll become intermediate in no time.	有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな
 I put together this list, but remember, it's just a partial list don't take it too literally.	代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな
@@ -981,34 +795,27 @@ Gravity Gravity-based attack. These hurt if they hit.	重　　重力を使っ�
 Water Calls on the earth's water. Works well on fire monsters.	水　　大地の恵みの水を呼ぶ。火のモンスターにきく。
 Wind Calls up the winds. Works well on flying enemies.	風　　大気の風をよびおこす。飛んでるヤツにきく。
 Holy Calls up the Planet's power. Works well on dark monsters.	聖　　星の力をよびおこす。暗黒のモンスターにきく。
-CLOUD	CLOUD
 If you use reciprocal elementals in your attacks, the effect is huge!	相反する【属性】を攻撃に使用することで大きな効果を得られる
 Also, if you use the same elemental, your defenses are raised. But, you have to be careful because the opposite is also true.	また、同じ属性なら防御の効率があがる。だが……逆もまた真なり。気をつけることだな
 To see what elementals an enemy has, you need [Sense] Materia. If you get that Materia, you should try using it.	敵のもっている【属性】をみぬくためには【みやぶる】ことが必要だ。マテリアを手にいれたら、使ってみてくれ
 ……smack……knock……!!	ポカポカポカポカ……！！
 Help!	たしゅけて～！
-CLOUD	CLOUD
 You've got to hang in there. Your limit gauge is just starting to build.	そこでがまんだ。おまえの【リミットゲージ】はたまりはじめている
 Waaaah!!	びえ～ん！！
-CLOUD	CLOUD
 OK! Now your limit gauge is full, go ahead and use it! Fight with your limit technique.	よしっ、【リミットゲージ】はいっぱいだ！えんりょはいらない。【リミット技】で勝負だ！
 Magic!! Magic!!	まほう！！まほう！！
-CLOUD	CLOUD
 Calm down! When your enemy uses magic counter with [Magic Barrier] or [reflect].	おちつけ！相手が魔法を使うときには【マバリア】か【リフレク】で対抗するのだ
 [Magic Barrier] reduces the damage received from magic by half.	【マバリア】は魔法のダメージを半分にする魔法だ
 [reflect] bounces the attacks off you. But the number of times you can use it is limited so be careful.	【リフレク】は魔法をはねかえすがはねかえす回数に制限があるから気をつけろ
 Wow! You sure are strong! I'm going to be strong, too !	さっすが、元ソルジャ！どちたら、強くなるの～！
 Me too!	なるの～！
-CLOUD	CLOUD
 If you want to get as strong as me you need to use Materia. And you have to find the best combinations of them.	俺みたいに強くなりたければマテリアを効率よく育て最適な組み合わせをさがすことだな
 The type of Materia you put in your weapons and armor will determine how quickly your Materia grows.	装備する武器や防具のしゅるいによってマテリアの成長のスピードはちがう
 Put Materia into the open slots in your weapons and armor. The possible combinations are limitless.	武器や防具にあいている穴の形によってマテリアの組み合わせは無限に広がる
 That's about all I can tell you. If you want to be like me, you have to have some natural talent.	俺にアドバイスできるのはそのくらいのことだ。もっとも生まれついた素質がなければ俺のようにはなれんがな
 I still don't get it!	わかんな～い！
-CLOUD	CLOUD
 Listen kids, don't piss me off!	俺を怒らせるな！
 That's all right. Just give it a try. Little by little, you'll get used to it.	大丈夫だ、まずはやってみろ。そのうち、なれてしまう
-CLOUD	CLOUD
 Great!	上出来だ
 How to use the buttons.	『基本的なボタン操作方法』
 [Directional button][CONTROL]	【方向キー】　　　　　　【ボタン】
@@ -1020,11 +827,9 @@ down [CANCEL]: run	下　　　　　　　　　　　×：走る／取り消�
 You must quit the game in order to restart.	Ｌ１＆Ｌ２＆Ｒ１＆Ｒ２＆セレクト＆スタート
 To quit the game, either select QUIT	以上のボタンを同時に押すとリセットがかかります。
 in the Main Menu or press CTRL+Q.	（フィールド上のみ有効）
-CLOUD	CLOUD
 Huh? Finger!? What the hell?	ん？　指！？なんだ、おまえ？
 I'm the position cursor!! Call me whenever you're walking around confused!	ボク、【ポジションカーソル】！！歩いている時、迷ったらボクを呼び出して！
 Push [ASSIST] and I'll appear over your shiny little head.	セレクトボタンを押せばボクが君のツンツン頭のうえにつきまとうよ
-CLOUD	CLOUD
 Geez, you stand out even more than I do…	俺より目立つな……
 Am I in the way? If so, just push [ASSIST] one more time.	ボクがじゃまかい？そんなときはもう一度セレクトボタンを押してね
 I'm pretty busy myself, and can't always come when you need me. If I don't show up sometimes, don't get mad.	それから、ボクはこう見えてもけっこういそがしいからいつでも登場はできないんだ。でてこなくても怒らないで！

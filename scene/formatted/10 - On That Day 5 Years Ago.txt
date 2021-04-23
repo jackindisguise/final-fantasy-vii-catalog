@@ -1,11 +1,11 @@
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD, you're late!”	「CLOUD、おそい～っ！」
 BARRET	BARRET
 “Yo man, you're late!”	「おそいじゃねぇか！」
 CLOUD	CLOUD
 “Sorry to keep you waiting.”	「すまない。
 	またせたようだな」
-AERIS	AERITH
+AERIS	AERIS
 “Guess everyone's here now.”	「これで、みんなそろったわね」
 BARRET	BARRET
 “So let's hear your story…”	「さあて……
@@ -32,7 +32,7 @@ We trusted each other.	俺たちは信頼しあっていた。
 Until one day…”	あのときまでは……」
 TIFA	TIFA
 “…”	「………」
-AERIS	AERITH
+AERIS	AERIS
 “…One day?”	「あのとき？」
 CLOUD	CLOUD
 “After the war it was SOLDIER's	「戦争終結後のソルジャーの任務は
@@ -123,7 +123,7 @@ CLOUD	CLOUD
 He is far stronger in reality	世間で知られている
 than any stories you	どんな話よりも……すごかった」
 may have heard about him.”	
-AERIS	AERITH
+AERIS	AERIS
 “So…	「あれ～？
 Where do you come in?”	CLOUDの活躍は？」
 CLOUD	CLOUD
@@ -176,7 +176,7 @@ BARRET	BARRET
 “TIFA, I was only…”	「でもよぉ、TIFA……」
 TIFA	TIFA
 “Ok CLOUD, continue.”	「さあCLOUD、つづけて」
-AERIS	AERITH
+AERIS	AERIS
 “The childhood friends are reunited!”	「幼なじみの再会ね！」
 CLOUD	CLOUD
 “…I was really surprised	「……TIFAには
@@ -503,11 +503,11 @@ CLOUD	CLOUD
 “Hey…”	「なあ……」
 “I can't…remember much else.	「あまり……覚えてないんだ。
 There's…nothing more to talk about.”	話すことは、もう……ない」
-AERIS	AERITH
+AERIS	AERIS
 “That's all right, CLOUD.”	「もう、いいよ、CLOUD」
 BARRET	BARRET
 “Yo wait, I wanna hear.”	「でもよ、興味あるぜ」
-AERIS	AERITH
+AERIS	AERIS
 “Me too!	「わたしも！
 It's been a long time, right?”	ひさしぶり、だったんでしょ？」
 BARRET	BARRET
@@ -955,7 +955,7 @@ TIFA	TIFA
 “…Who would have ever	「……あの魔晄炉には
 thought the Mako Reactor	そんな秘密があったのね」
 held such a secret.”	
-AERIS	AERITH
+AERIS	AERIS
 “TIFA…	「ねぇ、TIFA。
 Were you waiting outside then?”	あなたはずっと外で待ってたの？」
 TIFA	TIFA
@@ -998,317 +998,3 @@ End[START]	スタートボタン　終了
 End[START]	スタートボタン　終了
 “Information concerning Materia/Hojo”	『マテリア関係資料／宝条』
 Read it	読んでみる
-Ignore	よまない
-“Life of Materia”	『マテリアの中の生命』
-Read it	読んでみる
-Ignore	よまない
-“Legend of the Ancients, World Version”	『古代種の伝説・世界編』
-Read it	読んでみる
-Ignore	よまない
-“Next Quarter's projected Budget/Hojo”	『次期計画予算／宝条』
-Read it	読んでみる
-Ignore	よまない
-“North Pole Daily Report/Hojo”	『北極日報／宝条』
-Read it	読んでみる
-Ignore	よまない
-“/Hojo”	『／宝条』
-Read it	読んでみる
-Ignore	よまない
-“The Promised Land”	『約束の地』
-Read it	読んでみる
-Ignore	よまない
-Sephiroth	セフィロス
-“…An apparently dead organism	「……２０００年前の地層から
-was found in a 2000 year old	みつかった仮死状態の生物」
-geological stratum.”	
-Sephiroth	セフィロス
-“Professor Gast named that organism, Jenova…”	「その生物をガスト博士は
-	ジェノバと命名した……」
-Sephiroth	セフィロス
-“X Year, X Month, X Day.	「Ｘ年Ｘ月Ｘ日。
-Jenova confirmed to be an Ancient…”	ジェノバを古代種と確認……」
-Sephiroth	セフィロス
-“X Year, X Month, X Day.	「Ｘ年Ｘ月Ｘ日。
-Jenova Project approved.	ジェノバ・プロジェクト承認。
-The use of Mako Reactor 1 approved for use…”	魔晄炉１号機使用許可……」
-Sephiroth	セフィロス
-“My mother's name is Jenova…	「オレの母の名はジェノバ……
-Jenova Project…	ジェノバ・プロジェクト……
-Is this just a coincidence?”	これは偶然なのか？」
-Sephiroth	セフィロス
-“Professor Gast…	「ガスト博士……
-Why didn't you tell me anything?	どうして何も教えてくれなかった？
-…Why did you die?”	……どうして死んだ？」
-Sephiroth	セフィロス
-“Let me be alone.”	「１人にしてくれ」
-“Ha, ha, ha, ha!”	「ハハハハ！」
-“Sephiroth didn't come	それ以降セフィロスは神羅屋敷に
-out of the Shinra Mansion…”	こもりきりになった……
-He continued to read as	まるで何かに取りつかれたかのように
-if he were possessed by something,	書物を読みあさり、地下室の明かりは
-and not once, did the light	決して消える事はなかった……
-in the basement go out…	
-Sephiroth	セフィロス
-“Ha, ha, ha…”	「クックックッ……」
-Sephiroth	セフィロス
-“Who is it!?”	「誰だ！！」
-Sephiroth	セフィロス
-“Hmph…traitor.”	「フッ……裏切り者め」
-CLOUD	CLOUD
-“Traitor?”	「裏切り者？」
-Sephiroth	セフィロス
-“You ignorant traitor.	「何も知らぬ裏切り者よ。
-I'll tell you.”	教えてやろう」
-“This Planet originally belonged to the Cetra.	「この星はもともとセトラのものだった。
-Cetra was a itinerant race.	セトラは旅をする民族。
-They would migrate in,	旅をして、星を開き、そしてまた旅……」
-settle the Planet, then move on…”	
-“At the end of their harsh,	「つらく、きびしい旅の果てに
-hard journey, it was said	約束の地を知り、至上の幸福を見つける」
-they would find the Promised Land	
-and supreme happiness.”	
-Sephiroth	セフィロス
-“But, those who disliked journeying appeared.	「だが、旅を嫌う者たちが現れた。
-They stopped their migrations,	その者は旅することをやめ
-built shelters and elected to	家を持ち、安楽な生活を選んだ」
-lead an easier life.”	
-“They took that which the Cetra	「セトラと星が生み出したものをうばい
-and the Planet had made without	何も返そうとしない」
-giving back one whit in return!”	
-Sephiroth	セフィロス
-“Those are your ancestors.”	「それがおまえたちの祖先だ」
-CLOUD	CLOUD
-“Sephiroth…”	「セフィロス……」
-Sephiroth	セフィロス
-“Long ago, disaster struck the Planet.”	「昔、この星を災害が襲った」
-Sephiroth	セフィロス
-“Your ancestors escaped…	「おまえたちの祖先は
-They survived because they hid.”	逃げ回り……隠れたおかげで
-	生きのびた」
-Sephiroth	セフィロス
-“The Planet was saved	「星の危機はセトラの犠牲で回避された。
-by sacrificing the Cetra.	その後でのうのうと数をふやしたのが
-After that, your ancestors	おまえたちだ」
-continued to multiply.”	
-Sephiroth	セフィロス
-“Now all that's left of the Cetra	「セトラはこうしてレポートの中に
-is in these reports.”	残るだけの種族になってしまった」
-CLOUD	CLOUD
-“What does that have to do with you?”	「それがあんたとどういう
-	関係があるんだ？」
-Sephiroth	セフィロス
-“Don't you see?”	「わからないか？」
-Sephiroth	セフィロス
-“An Ancient named Jenova was found in	「２０００年前の地層から発見され
-a 2000 year-old geological stratum.”	ジェノバと名づけられた古代種」
-Sephiroth	セフィロス
-“The Jenova Project.”	「そしてジェノバ・プロジェクト」
-Sephiroth	セフィロス
-“The Jenova Project wanted to produce people	「ジェノバ・プロジェクトとは
-with the powers of the Ancients…	古代種……つまりセトラの能力を持った
-Or, the Cetra.”	人間を創り出すことだ」
-Sephiroth	セフィロス
-“…I am what was produced.”	「……創り出されたのはオレだ」
-CLOUD	CLOUD
-“Pr…produced!?”	「つ、つくりだされた！？」
-Sephiroth	セフィロス
-“Yes.”	「そう」
-“Professor Gast, leader of	「ジェノバ・プロジェクトの責任者
-the Jenova Project and genius	天才的科学者ガスト博士が
-scientist, produced me.”	オレをつくりだした」
-CLOUD	CLOUD
-“How…how did he?”	「そんなこと……どうやって……」
-CLOUD	CLOUD
-“Se…Sephiroth?”	「セ、セフィロス？」
-Sephiroth	セフィロス
-“Out of my way.	「邪魔するな。
-I'm going to see my mother.”	オレは母に会いに行く」
-Sephiroth	セフィロス
-“Mother, I'm here to see you.	「母さん、会いに来たよ。
-Please, open this door.”	このとびらをあけておくれ」
-TIFA	TIFA
-“How could you do that to Papa and	「よくもパパを！
-all the townspeople?”	よくも村のみんなを！」
-TIFA	TIFA
-“…You promised…	「……ピンチの……時には
-You promised that you'd come……	……来てくれるって
-when I was in trouble…”	約束したのに……」
-Sephiroth	セフィロス
-“Mother, let's take the Planet	「母さん、いっしょにこの星を
-back together.”	取りもどそうよ」
-“I've thought of a great idea.	「オレ、いいことを考えたんだよ。
-Let's go to the Promised Land.”	約束の地へ行こう」
-CLOUD	CLOUD
-“Sephiroth…”	「セフィロス……」
-CLOUD	CLOUD
-“My family! My hometown!	「俺の家族を！　俺の故郷を！
-How could you do this to them!?”	よくもやってくれたな！」
-Sephiroth	セフィロス
-“Ha, ha, ha…	「クックックッ……
-They've come again, Mother.”	母さん、またやつらが来たよ」
-Sephiroth	セフィロス
-“With her superior power, knowledge,	「母さんは優れた能力と
-and magic,	知識、そして魔法で
-Mother was destined to become	この星の支配者になるはずだった」
-the ruler of this Planet.”	
-Sephiroth	セフィロス
-“But, they…”	「でも、あいつらが……」
-“These worthless ones,	「何のとりえもないあいつらが
-took the Planet from you.	母さんたちからこの星を
-Didn't they, Mother?”	うばったんだよね」
-Sephiroth	セフィロス
-“But, don't be sad anymore.”	「でも、もう悲しまないで」
-CLOUD	CLOUD
-“What about MY sadness!?	「俺の悲しみはどうしてくれる！
-My family…friends?	家族……友だち……
-The sadness of having my hometown	故郷をうばわれた俺の悲しみは！！」
-taken away from me!?”	
-“It's the same as your sadness!”	「あんたの悲しみと同じだ！」
-Sephiroth	セフィロス
-“Ha, ha, ha…my sadness?	「クックックッ……オレの悲しみ？
-What do I have to be sad about?”	何を悲しむ？」
-“I am the chosen one.	「オレは選ばれし者。
-I have been chosen	この星の支配者として選ばれし存在だ」
-to be the leader of this Planet.”	
-Sephiroth	セフィロス
-“I have orders to take the Planet back	「この星を、愚かなおまえたちから
-from you stupid people for the Cetra.	セトラの手にとりもどすために生をうけた。
-What should I be sad about?”	何を悲しめというのだ？」
-CLOUD	CLOUD
-“Sephiroth…	「セフィロス……
-I trusted you…”	信頼していたのに……」
-CLOUD	CLOUD
-“No, you're not the Sephiroth I used to know!”	「いや、おまえは、もう
-	俺の知っているセフィロスじゃない！」
-“But they....	「けど、アイツラが．．．．．．．
-Those worthless creatures	何のとりえも無いアイツラが
-Are stealing the planet from Mother	母さん達からこの星を奪ったんだよね
-But now I'm here with you	でも、もう悲しまないで」
-so don't worry”	
-CLOUD	CLOUD
-“…and that's the end of my story.”	「……この話はここで終わりなんだ」
-BARRET	BARRET
-“Wait a damn minute!	「ちょっと待てよ！
-That's it? No more?”	続きはどうなったんだ？」
-CLOUD	CLOUD
-“…I don't remember.”	「……覚えていない」
-AERIS	AERITH
-“What happened to Sephiroth?”	「セフィロスはどうなったの？」
-CLOUD	CLOUD
-“In terms of skill,	「実力から言って、俺がセフィロスを
-I couldn't have killed him.”	倒せたとは思えないんだ」
-TIFA	TIFA
-“Official records state Sephiroth is dead.	「公式記録ではセフィロスは
-I read it in the newspaper.”	死んだことになっていたわ。
-	新聞でみたもの」
-AERIS	AERITH
-“Shinra, Inc. owns the newspapers,	「新聞は神羅が出してるのよ。
-so you can't rely on that.”	信用できない」
-CLOUD	CLOUD
-“…I want to know the truth.	「……俺はたしかめたい。
-I want to know what happened.”	あの時、何があったのかを」
-“I challenged Sephiroth and lived.	「セフィロスに戦いをいどんだ俺は
-Why didn't he kill me?”	まだ生きている。
-	セフィロスは、なぜ俺を殺さなかったのか？」
-TIFA	TIFA
-“…I'm alive, too.”	「……私も生きているわ」
-AERIS	AERITH
-“A lot of this doesn't make sense.	「なんだか、いろいろ、へん。
-What about Jenova?	ねえ、ジェノバは？
-It was in the Shinra building, right?”	神羅ビルにいたのはジェノバ、よね？」
-CLOUD	CLOUD
-“Shinra shipped it	「神羅がニブルヘイムから
-from Nibelheim to Midgar.”	ミッドガルへ運んだのは確実だな」
-AERIS	AERITH
-“Did someone carry it out later?	「そのあと、また誰かが持ち出した？
-It was missing from the Shinra building.”	神羅ビルからもなくなってたわよ」
-TIFA	TIFA
-“Sephiroth?”	「セフィロス……？」
-BARRET	BARRET
-“Damn!	「が～～～っ！
-None of this makes sense!”	わけがわかんねえ！」
-“I'm going,	「オレはいくぜ！
-going,	オレはいくぜ！
-gone!”	オレはいくぜ！！」
-“And I'm leavin' the thinkin' to you!”	「考えるのはオマエたちにまかせた！」
-BARRET	BARRET
-“Yo, CLOUD!	「おい、CLOUD！
-Let's get a move on!”	出発の準備を整えろ！」
-Wait a sec	ちょっと待て
-Right	わかったよ
-BARRET	BARRET
-“CLOUD, what's wrong?	「CLOUD、何をためらう！
-You just gonna stand there while	セフィロスが約束の地に向かうのを
-Sephiroth heads for the Promised Land?”	だまって見ているのか？」
-“I ain't lettin' Sephiroth or	「セフィロスも神羅も
-Shinra get to no Promised Land.	約束の地には行かせねえ。
-If they do,	行かせちまったら
-then we're all screwed.”	とりかえしのつかねえことになる」
-“Y'know what I'm sayin'?”	「オレにわかるのはそれだけだぜ！」
-Beautiful, just beautiful!	すばらしい！
-Is that all?	それだけか？
-BARRET	BARRET
-“Jus' leave it to me!”	「まかせておけって！」
-BARRET	BARRET
-“Fine!	「いいじゃねえかよ！
-That's good enough.”	それで、じゅうぶんだぜ！」
-BARRET	BARRET
-“Yo, c'mon let's go!”	「よっしゃ、行こうぜ！」
-CLOUD	CLOUD
-“Oh brother…”	「やれやれ……」
-TIFA	TIFA
-“CLOUD?”	「……ねぇCLOUD」
-TIFA	TIFA
-“How bad was I after	「セフィロスに斬られた私は
-Sephiroth stabbed me?”	どんなふうだった？」
-CLOUD	CLOUD
-“I thought you were a goner.	「もうダメだと思った。
-…I was so sad.”	……悲しかったよ」
-AERIS	AERITH
-“I…”	「わたし……」
-AERIS	AERITH
-“The Ancients…Cetra…Jenova…	「古代種……セトラ……ジェノバ……
-Sephiroth and myself…”	セフィロス……わたし……」
-TIFA	TIFA
-“Let's go.	「行きましょう。
-BARRET's waiting.”	BARRETが待ってるわ」
-RED XIII	RED XIII
-“What a fascinating story…”	「実に興味ぶかい話だ……」
-CLOUD	CLOUD
-“BARRET and the others are	「BARRETたちが
-waiting for me at the inn.”	宿屋で待っている」
-BARRET	BARRET
-“Yo, CLOUD.	「おい、CLOUD。
-Here.”	これをわたしておくぜ」
-AERIS	AERITH
-“CLOUD.	「ねえ、CLOUD。
-Take this.”	使って、これ」
-TIFA	TIFA
-“Oh, CLOUD.	「はい、CLOUD。
-Let me give you this.”	これをわたしておくわ」
-Received "PHS"!	『ＰＨＳ』を手にいれた！
-BARRET	BARRET
-“As long as we got [PHS],	「その『ＰＨＳ』があれば
-we can always reach each other.	いつでも連絡が取れるからな。
-Use it if something happens.”	なにかあったら、それを使うんだぜ」
-AERIS	AERITH
-“With [PHS],	「『ＰＨＳ』があれば
-I can see you any time!”	いつでもCLOUDに会えるね！」
-TIFA	TIFA
-“Just use [PHS],	「『ＰＨＳ』を使えば
-and you can contact	連絡がとりやすくなるわね」
-any of us easy.”	
-BARRET	BARRET
-“Alright then, we're outta here.”	「じゃあな、オレたちは行くぜ」
-AERIS	AERITH
-“Well, I'll be going.”	「じゃあ、わたし行くね」
-TIFA	TIFA
-“I'm going on ahead.”	「じゃあ、先に行くわね」
-RED XIII	RED XIII
-“[PHS] will put us in constant	「『ＰＨＳ』があれば
-contact with each other.”	たがいの連絡がとりやすくなる」
-(Changing party members)	【パーティの入れ替え】
-“Access the menu and select [PHS].	「メニューを開いて『ＰＨＳ』を選ぶと
-“It can only be used on the World Map	「パーティメンバーの入れ替えができます。
-or at a Save Point.”	ただし『ＰＨＳ』が使えるのは
-	ワールドマップとセーブポイントの上だけです。

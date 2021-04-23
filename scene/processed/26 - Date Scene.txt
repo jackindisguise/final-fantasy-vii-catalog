@@ -1,48 +1,26 @@
-TIFA	TIFA
 CLOUD…	CLOUD……
-CLOUD	CLOUD
 What's wrong?	どうしたんだ？
-TIFA	TIFA
 ……	…………
-TIFA	TIFA
 I thought about what I was going to say, but, it's kinda embarrassing…	セリフ、考えてきたんだけどなんだかてれちゃうな……
-TIFA	TIFA
 Hey, CLOUD! Why don't the two of us sneak out of here and spend some time together?	ね、CLOUD！ふたりでこっそり遊びにいかない？
-TIFA	TIFA
 Come on, let's go!	ね、行きましょ！
-CLOUD	CLOUD
 Hey.	お、おい
-AERIS	AERITH
 Hee, hee!	エヘヘ！
-AERIS	AERITH
 Let's go on a date!	デート、しない？
-CLOUD	CLOUD
 What?	はぁ？
-AERIS	AERITH
 A D-A-T-E! Or haven't you ever gone on one?	デ・ー・ト！したことないの？
 Don't take me for a fool	バカにするな
 Well, not a real one…	正式には、ない
-AERIS	AERITH
 Hey…a little touchy, aren't we?	あ、ムキになるの、あやしい
-AERIS	AERITH
 No, just a mixed-up kid…	う～ん、不幸な青年、ね
-AERIS	AERITH
 Oh well. Come on, let's go!	まぁ、いいわ。さ、いきましょ
-BARRET	BARRET
 Yo, CLOUD. You still up?	よう、CLOUD。起きてるな？
-BARRET	BARRET
 Uh, I was jus' thinkin' of goin' for a walk…	いや、散歩でもしねえかと思ってよ
-CLOUD	CLOUD
 What, just the two of us?	２人でか？
-BARRET	BARRET
 What's wrong with that? Don't gimme no lip!! Just c'mon!	いいじゃねえかよ！さ、グダグダ言ってねえで行くぞ！
-YUFFIE	YUFFIE
 CLOUD you up?	CLOUD　起きてる？
-YUFFIE	YUFFIE
 Would you…keep me company for a bit.	ちょ、ちょっとアタシに付き合ってくれよ
-CLOUD	CLOUD
 Huh? Keep you company where?	？付き合うってどこへ？
-YUFFIE	YUFFIE
 Just come on.	いいから
 Hotel	客室
 Terminal Floor	ターミナルフロア
@@ -52,17 +30,12 @@ Congratulations!!	おめでとうございます！！
 You are our 100th couple today!!	あなた方が本日１００組目のカップルです！！！
 You are our 100th couple today… Oh, wait…no you're not…  Sorry.	あなた方が本日１００組目のカップル……じゃないみたいですね……しつれい
 You two will play the leads in tonight's show!!	あなた方がこれから始まるショーの主人公です！！！！
-CLOUD	CLOUD
 Wha?	はぁ？
 Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.	難しいことはありませんあなたは好きにしてくださればショーのプロが話をまとめますので
 Come this way.	ささ、こちらへ
-CLOUD	CLOUD
 H, hey!	お、おい
-AERIS	AERITH
 This sounds like fun. Come on CLOUD, let's do it.	わぁ、おもしろそうはやく行きましょ、CLOUD
-TIFA	TIFA
 Sounds like fun. Come on CLOUD, let's give it a try.	へぇ、なんかおもしろそう。行きましょう、CLOUD
-YUFFIE	YUFFIE
 I don't know what it's all about but sounds kind of cool. Wanna try it, CLOUD?	なんだか、わからないけど行こうよ、CLOUD
 Event square	イベントスクェア
 Narration	ナレーション
@@ -159,41 +132,26 @@ Now let's all return… and celebrate.	さあみなのもの～もどって～�
 Yes let's…yes let's…!	そうしよ～　そうしよ～
 Narration	ナレーション
 Oh, how profound the power of love… And so the legendary hero Alfred and our story live on happily ever after.	ああ、何と強い愛の力でありましょう……伝説の勇者アルフリードの物語はこうしてめでたく棊を閉じるのであります
-AERIS	AERITH
 Wh, what?	ちょ、ちょっと何これ
-AERIS	AERITH
 You must be kidding!	こんなのイヤー！
-TIFA	TIFA
 H, hey, what is this?	ちょ、ちょっとなんなの？
-TIFA	TIFA
 That can't be the end!!	こ、これで、終わりなんていやーー！！
-YUFFIE	YUFFIE
 What…?	な、なんだ？
-YUFFIE	YUFFIE
 …That's it?	終わり？
 Princess	姫
 CLOUD… I mean, Alfred…	CLOUD……じゃなかった、アルフリ～ド～
 King	王様
 Come on! No more!	ヒ～エ～！もうダメ～だ～！
-AERIS	AERITH
 Stop it CLOUD!  What are you doing!?	コォ～ラ～！CLOUD～！さっきからなにやってんのよぉ！
-AERIS	AERITH
 The play's a disaster! Now I'm getting mad!	おしばい、だいなしじゃない！もう怒ったんだから！
-TIFA	TIFA
 CLOUD!! Be serious!! You really don't want to be in the play that much, do you?	CLOUD！！もっとまじめにやってよ！！そんなに、私とおしばいしてるのイヤなわけ！？
-TIFA	TIFA
 Now I'm mad!	もう怒ったわよ！
-YUFFIE	YUFFIE
 Come on, CLOUD!! I'm tryin' to be serious here and you…	コラ！　CLOUD！！せっかく、アタイがまじめにやってるのに…
-YUFFIE	YUFFIE
 Ok, now I'm pissed!	もう、怒った！
 EDK	悪竜王
 Gaaaaaahh! You dare ignore me!!	ガハハハハ～！俺を～無視するとは～いい度胸だ～！
-AERIS	AERITH
 Why don't you shut up, blabbermouth!!	何よアンタゴチャゴチャうるさいのよ！！
-TIFA	TIFA
 Shut up!!	うっるさいわね！！
-YUFFIE	YUFFIE
 Just shut up!!	うるっさい！！
 Narration	ナレーション
 Oh my…what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.	あ……ああ、何と強い……姫の力！伝説の勇者ルーザの物語はこうしてめでたく棊を閉じるのであります
@@ -203,269 +161,140 @@ EDK	悪竜王
 Urrrrrgh	うぎゃああ
 Beautiful Girl	美女性
 Thank…you. You've released me…from the spell and I am my normal self again…	ありがとう～ございます～。おかげで～のろいがとけて～元の姿にもどれま～した～
-AERIS	AERITH
 Oh, that was fun. Hey, let's go on the Gondola.	あ～、おもしろかった。ね、次はゴンドラ乗ろう
-TIFA	TIFA
 Hmm, that was funny. Hey, let's go on the Gondola next.	フフ、おかしかったね。ねぇ、次はゴンドラ乗りましょ
-YUFFIE	YUFFIE
 I didn't get it. CLOUD, let's go on the Gondola next.	なんだか、よくわかんなかったなぁ。CLOUD、次はゴンドラ乗ろうよ
-BARRET	BARRET
 Let's go somewhere where we can talk, in private.	ちょっと、静かに話せるとこ、行こうぜ
-AERIS	AERITH
 Two, please.	２人おねがいしま～す
-TIFA	TIFA
 Two, please.	２人おねがいします
-YUFFIE	YUFFIE
 Two.	２人でのるよ
-BARRET	BARRET
 Hey! You gotta be kiddin'! Just us two? …ok, that's cool, I guess…	おいおい、男２人で乗るのかよ……まぁ、いいけどな
-BARRET	BARRET
 Yo. Two.	おい、２人だ
 Here you are, two tickets.	はい、お２人様ですね
 Inside the Ferris Wheel	観らん車内部
-TIFA	TIFA
 Look, there.	あっ、あれ
-TIFA	TIFA
 Look, look.	見て、見て
-AERIS	AERITH
 Wow.	すっご～い
-AERIS	AERITH
 CLOUD!	CLOUD、ほら！
-YUFFIE	YUFFIE
 Geez!	すっげぇ
-YUFFIE	YUFFIE
 Oh my gawd!	ひょ～！
-TIFA	TIFA
 Oh, how pretty.	わあ、きれい
-TIFA	TIFA
 Look, CLOUD.	ねぇ、CLOUD見て
-TIFA	TIFA
 Oh, CLOUD.	CLOUD、ほら
-AERIS	AERITH
 Wow, how nice.	わあ、すご～い
-AERIS	AERITH
 Oh! Look, CLOUD.	あっ！　CLOUD見て
-AERIS	AERITH
 It's so pretty.	わあ、きれ～
-YUFFIE	YUFFIE
 Wow!	あっ！
-YUFFIE	YUFFIE
 Geez!!	わあ！！
-YUFFIE	YUFFIE
 CLOUD!	CLOUD！
 Wait a minute.	もうちょっとまって。
-TIFA	TIFA
 …it's really pretty, isn't it?	……きれいね
-TIFA	TIFA
 Ok, I'm going to just go ahead and say it…	……言っちゃおうかな
-CLOUD	CLOUD
 …What?	……何を
-TIFA	TIFA
-AERIS would be able to just come out and say it, probably.	AERITHなら、きっとハッキリ言うんだろうな
-CLOUD	CLOUD
+AERIS would be able to just come out and say it, probably.	AERISなら、きっとハッキリ言うんだろうな
 Huh?	はぁ？
-TIFA	TIFA
 Sometimes being old friends is hard.	幼なじみってむずかしいよね
-TIFA	TIFA
 I mean, timing is everything.	タイミング、むずかしいのよ
-CLOUD	CLOUD
 Yeah…	はぁ……
-TIFA	TIFA
 CLOUD…?	あのね、CLOUD
-TIFA	TIFA
 I…	私ね……
-TIFA	TIFA
 …. ….	………………………………
-AERIS	AERITH
 …Beautiful, isn't it?	……きれいだね
-AERIS	AERITH
 ……first off, it bothered me how you looked exactly alike.	……はじめはねそっくりだったから気になった
-AERIS	AERITH
 Two completely different people, but look exactly the same.	全然別人なんだけど、そっくり
-AERIS	AERITH
 The way you walk, gesture…	歩きかた、手の動かしかた……
-AERIS	AERITH
 I think I must have seen him again, in you…	あなたの中に彼を見ていた……
-AERIS	AERITH
 But you're different.	でも、ちがうの
-AERIS	AERITH
 Things are different…	いまは、ちがう……
-AERIS	AERITH
 CLOUD…	ね、CLOUD
-AERIS	AERITH
 I'm searching for you.	わたし、あなたをさがしてる
-CLOUD	CLOUD
 …?	……………？
-AERIS	AERITH
 I want to meet you.	あなたに会いたい
-CLOUD	CLOUD
 But I'm right here.	俺はここにいる
-AERIS	AERITH
 I know, I know…what I mean is…	（うんうん、わかってる……でも）
-AERIS	AERITH
 I want to meet…you.	あなたに……会いたい
-BARRET	BARRET
 Hey spike-head. What'd you wanna see fireworks with me for?	おめえよ～。オレと花火見て楽しいかあ？
-CLOUD	CLOUD
 Not having fun?	……楽しいと思うか？
-BARRET	BARRET
 You should've asked one of them!	それならよ、どっちか誘えば良かっただろうが！
-CLOUD	CLOUD
 Which would you have asked?	どっちか？
-BARRET	BARRET
 Oh man, there just ain't no choice!	決まってんだろ！
-BARRET	BARRET
-TIFA, AERIS.	TIFA、AERITH
-BARRET	BARRET
+TIFA, AERIS.	TIFA、AERIS
 Ah, YUFFIE?	おっ、YUFFIEか？
-CLOUD	CLOUD
 (hoo boy)	（やれやれ）
-BARRET	BARRET
 What the hell's that supposed to mean?	なんだよ、それ
-BARRET	BARRET
 Hey, you don't mean…Marlene?	おめえ、まさか……マリンを？
-BARRET	BARRET
 NO WAY! Forget it!	ダメだ！　許さねえ！
-BARRET	BARRET
 There ain't no way I'm lettin' a wacko like you anywhere near my little Marlene!	おまえみたいなワケがわからないヤツにマリンはやれねえ！
-BARRET	BARRET
 She's my baby. My prized possession.	マリンは、オレの宝物だからな
-BARRET	BARRET
 …Marlene.	…………マリン
-BARRET	BARRET
 Wish I could've brought Marlene here. She'd love the fireworks.	……マリンに見せたかったぜ。この花火よぉ
-BARRET	BARRET
 Why the hell do I gotta be here with a jackass like you!	どうしておまえなんかと……
-BARRET	BARRET
 …The more I think bout it the madder I get!	クソッ……なんだか腹が立ってきたぜ
-BARRET	BARRET
 Damn fireworks anyways.	うるせえ花火だ
-BARRET	BARRET
 Shut up!!	うるせ～～～！！
-YUFFIE	YUFFIE
 CLOUD…?	CLOUD……
-YUFFIE	YUFFIE
 No I, uh…	いや、なんかさ～
-CLOUD	CLOUD
 …	…………
-YUFFIE	YUFFIE
 I just felt like doing that.	そういうフンイキかなって思ったワケよ
-YUFFIE	YUFFIE
 That's all.	ん、そんだけ
-YUFFIE	YUFFIE
 H, hey!! Say something, why don't you!	お、おい！なんとか言いなよ！
-YUFFIE	YUFFIE
 …gawd, I could just die.	…………照れるよ
-YUFFIE	YUFFIE
 Say something, PLEASE!	なんとか言ってよ～～ッ！
-CLOUD	CLOUD
 …something.	………………ナントカ
-AERIS	AERITH
 There's no time for this! We have to go after CAIT SITH.	そんな場合じゃない、でしょ？はやく、CAIT SITH、追いましょう
-TIFA	TIFA
 There's no time to waste. Let's hurry and go after CAIT SITH!	ゆっくりしてるヒマは無いの。はやくCAIT SITHを追いましょ！
-YUFFIE	YUFFIE
 Should we be wasting time like this? Weren't we going after CAIT SITH?	そんな、ゆっくりしててい～の？CAIT SITHを追うんじゃないのか？
-BARRET	BARRET
 The hell're you doin'!? We're goin' after CAIT SITH!	何してんだ！はやくCAIT SITHを追うぞ
-TIFA	TIFA
 CLOUD I really had fun tonight.	CLOUD今日は楽しかったわ
-CLOUD	CLOUD
 By the way, what did you want to say a minute ago?	そういえばさっき何を言おうと…
-TIFA	TIFA
 N, nothing!	な、なんでも！
-TIFA	TIFA
 Nothing…	なんでもない…
-CLOUD	CLOUD
 ?	？
-TIFA	TIFA
 Oh, look at the time. We should be getting back.	あっ、もうこんな時間そろそろもどりましょう
-AERIS	AERITH
 I had fun tonight. Let's do it again.	今日は楽しかったまた、いっしょにこようね
-AERIS	AERITH
 Don't you like being with me?	わたしとじゃイヤ？
 No, I don't	ああ
 That's not it	そんなことない
-AERIS	AERITH
 Oh, don't tease me like that!	もう、いじわる！
-AERIS	AERITH
 I'm glad.	よかった
 Next time we come, let's take our time and go on more rides.	次に来たときはもっとゆっくりといろ～んなものに乗ろうね
-AERIS	AERITH
 Oh, look at the time. We'd better get going.	あっ、もうこんな時間そろそろ帰りましょ
-BARRET	BARRET
 Oh man I'm beat. Let's head back.	やれやれなんか、つかれちまった。そろそろもどろうぜ
-YUFFIE	YUFFIE
 I should sleep really well tonight.	アタイ今日はよく眠れそうだよ
-YUFFIE	YUFFIE
 Thanks… for coming with me.	つきあってくれてありがとな
-CLOUD	CLOUD
 Yeah.	ああ
-YUFFIE	YUFFIE
 You wanna go back, CLOUD?	じゃあそろそろもどろっかCLOUD
-AERIS	AERITH
 Hey? What's CAIT SITH doing?	あれっ？CAIT SITH、なにしてるのかな？
-TIFA	TIFA
 That's…CAIT SITH. He's acting strange.	あれ……CAIT SITHよね。なんだか様子がおかしいわよ
-BARRET	BARRET
 …it's CAIT SITH. What's he doin' so quietly?	……CAIT SITHだぜ。なにコソコソしてやがるんだ？
-YUFFIE	YUFFIE
 Hey, isn't that CAIT SITH? What's he doing?	あっ、CAIT SITHじゃないか？なにやってんだ？
-CLOUD	CLOUD
 !!	！！
-CLOUD	CLOUD
 Is that the…Keystone?	あいつが持ってるのはキーストーンじゃないのか？
-CLOUD	CLOUD
 Hey! CAIT SITH!	おい！　CAIT SITH！
-CAIT SITH	CAIT SITH
 Oh oh!	やばやば！
-AERIS	AERITH
 Come on, let's go.	ねぇ、行ってみよ
-TIFA	TIFA
 Come on, let's go.	ねぇ、行ってみましょう
-YUFFIE	YUFFIE
 CLOUD, let's go.	CLOUD、あそこいこうぜ
-BARRET	BARRET
 CLOUD, wanna take a peek?	CLOUD　チョットのぞいてみるか
-AERIS	AERITH
 We've got no time for this! Let's go after CAIT SITH!	そんな場合じゃない、でしょ！？はやく、CAIT SITH、追いましょ！
-TIFA	TIFA
 We've got no time to relax. Let's go after CAIT SITH!	ゆっくりしてるヒマは無いわよ。はやくCAIT SITHを追いましょ！
-YUFFIE	YUFFIE
 Is it all right to relax like that? Aren't we going after CAIT SITH?	そんな、ゆっくりしてていいのか？CAIT SITHを追うんじゃないのか？
-BARRET	BARRET
 What're ya doin'? We're goin' after CAIT SITH!	何してんだ！はやくCAIT SITHを追うぞ
-AERIS	AERITH
 We don't have time for that!? Let's hurry and go after CAIT SITH!	そんな場合じゃない、でしょ！？はやく、CAIT SITH、追いましょ！
-TIFA	TIFA
 There's no time to waste. Let's hurry after CAIT SITH!	ゆっくりしてるヒマは無いわよ。はやくCAIT SITHを追いましょ！
-YUFFIE	YUFFIE
 Should we be doing that? We've got to go after CAIT SITH?	そんな、ゆっくりしてていいのか？CAIT SITHを追うんじゃないのか？
-BARRET	BARRET
 Whacha doin!? We're goin' after CAIT SITH!	何してんだ！はやくCAIT SITHを追うぞ
-AERIS	AERITH
 There's no time for this, right!? Let's hurry after CAIT SITH!	そんな場合じゃない、でしょ！？はやく、CAIT SITH、追いましょ！
-TIFA	TIFA
 There's no time to relax. Let's hurry after CAIT SITH!	ゆっくりしてるヒマは無いわよ。はやくCAIT SITHを追いましょ！
-YUFFIE	YUFFIE
 Should we be this laid back? Aren't we going after CAIT SITH?	そんな、ゆっくりしてていいのか？CAIT SITHを追うんじゃないのか？
-BARRET	BARRET
 What the hell are you doing? Let's get CAIT SITH!	何してんだ！はやくCAIT SITHを追うぞ
-AERIS	AERITH
 There's no time for that!! Let's hurry and go after CAIT SITH!	そんな場合じゃない、でしょ！？はやく、CAIT SITH、追いましょ！
-TIFA	TIFA
 There's no time to relax. Let's hurry and go after CAIT SITH!	ゆっくりしてるヒマは無いわよ。はやくCAIT SITHを追いましょ！
-YUFFIE	YUFFIE
 Is there time to be fooling around? Weren't we goin' after CAIT SITH?	そんな、ゆっくりしてていいのか？CAIT SITHを追うんじゃないのか？
-BARRET	BARRET
 What the hell are you doing!? We gotta get that damn cat!	何してんだ！はやくCAIT SITHを追うぞ
-AERIS	AERITH
 We don't have time for this! We've got to go after CAIT SITH.	そんな、場合じゃないでしょ！はやく、CAIT SITHを追いましょう
-TIFA	TIFA
 There's no time for this. Let's hurry after CAIT SITH!	ゆっくり乗ってるヒマは無いわよはやくCAIT SITHを追いましょ！
-YUFFIE	YUFFIE
 Should we be doing this? I thought we were after CAIT SITH?	そんな、ゆっくりしてていいのか？CAIT SITHを追うんじゃないのか？
-BARRET	BARRET
 The hell you doin'!? We gotta go after CAIT SITH!	何してんだ！はやくCAIT SITHを追うぞ
 Round Square	ラウンドスクェア
 Current GP	現在の持ちＧＰ
@@ -474,79 +303,48 @@ Sorry it's out of order.	もうしわけございませんがこちらはただ�
 Yaaay!!	わ～い！！
 Yaay Yaay!	キャッキャ！
 Come on now‚no running.	これこれ、走るんじゃないよ
-CAIT SITH	CAIT SITH
 Hey! Look here! The Key Materia!	ほら！　これや！キー・マテリアや！
 Tseng	ツォン
 Well done.	ごくろうさまです
-CLOUD	CLOUD
 Hey!	おい！
-CAIT SITH	CAIT SITH
 W, w, wait a second. I won't run or hide.	ちょちょ、ちょっと待って～や。逃げも隠れもしませんから
 Yes‚I was a spy. I was hired by the Shinra.	確かにボクは、スパイしてました。神羅のまわしモンです
-TIFA	TIFA
 Don't mess with us!	ふざけないでよ！
-AERIS	AERITH
 …I trusted you. I can't believe you!	……信じてたのにがっかり！
 BARRET	バレット
 Ya dirty &*$*%$!	うすぎたねえ野郎だぜ！
-CLOUD	CLOUD
 You think this's a big joke!?	ふざけるな！！
-CAIT SITH	CAIT SITH
 I can't help it. What's done is done. That's just the way it is.	しゃあないんです。すんでしもたことはどないしょうもあらへん
 How 'bout if we go on like nothing ever happened?	なぁ～んもなかったようにしませんか？
-CLOUD	CLOUD
 You're pushin' it‚CAIT SITH! You gotta lot of nerve staying with us all the while being a spy!	ずうずうしいぞ、CAIT SITH！スパイだとわかってていっしょにいられるわけないだろ！
-CAIT SITH	CAIT SITH
 Then‚what are you goin' to do? Destroy me?	ほな、どないするんですか？ボクを壊すんですか？
-CAIT SITH	CAIT SITH
 You'd just be wastin' your time if you tried. This body's just a toy anyway.	そんなんしても、ムダですよ。この身体、もともとオモチャやから
 My real body's at Shinra Headquarters in Midgar. I'm controlin' this toy cat from there.	本体はミッドガルの神羅本社におるんですわ。そっから、このネコのおもちゃ操っとるわけなんです
-TIFA	TIFA
 So you're from Shinra. Who are you?	それじゃあ正体は神羅の人間なのね。だれなのよ？
-AERIS	AERITH
 So you're from Shinra. Who? Who are you! Tell me!	正体は神羅の人、ね？だ～れ？　あなた！言いなさい！
-BARRET	BARRET
 Who the hell are ya!? What's your real name!?	だれだ、てめえ！本当の名前を教えろ！
-YUFFIE	YUFFIE
 Part of the Shinra! Who the *&$# are you!?	神羅の人間！おまえ、だれだ！？
-CAIT SITH	CAIT SITH
 Whoa‚I can't tell you my name.	おっと、名前は教えられへん
-CLOUD	CLOUD
 We're not gettin' anywhere.	話にならないな
-CAIT SITH	CAIT SITH
 Right? I told you! Talking won't do any good‚so can't we just continue our journey?	な？　そうですやろ？話しなんどうでもええからこのまま旅、続けませんか？
-CAIT SITH	CAIT SITH
 …Alright‚yes‚I am a Shinra employee.	……確かにボクは、神羅の社員や
 But we're not completely enemies.	それでも、完全にみなさんの敵っちゅうわけでもないんですよ
-CAIT SITH	CAIT SITH
 …Something bothers me. I think it's you're ways of living	……ど～も、気になるんや。みなさんのその、生き方っちゅうか？
 You don't get paid You don't get praised. And yet you still risk your lives and continue on your journey. Seeing that makes me…	誰か給料はろてくれるわけやないしだぁれも、ほめてくれへん。そやのに、命かけて旅しとる。そんなん見とるとなぁ……
-CAIT SITH	CAIT SITH
 It just makes me think about my life. I don't think I'd feel too good if things ended the way it is now.	自分の人生、考えてまうんや。なんや、このまま終わってしもたらアカンのとちゃうかってな
-TIFA	TIFA
 You're lying again.	またウソついてる
-AERIS	AERITH
 …And so on‚and so on…	～とかなんとか言ってぇ
-BARRET	BARRET
 Hmph! You ain't foolin' us this time!	へっ！　だまされないぜ！
-YUFFIE	YUFFIE
 Sounds fishy---	あやしい～
-CLOUD	CLOUD
 He won't come clean. And he won't quit being a spy.	正体はあかさない。スパイはやめない
 We can't go on with someone like that. Pull your head out!	そんなヤツといっしょに旅なんてできないからな。冗談はやめてくれ
-CAIT SITH	CAIT SITH
 …I thought so. It won't do any good talking to you.	……まぁそうやろなぁ。話し合いにもならんわな
 So‚I've prepared myself in case something like this happened.	ま、こうなんのとちゃうかとおもて準備だけはしといたんですわ
-CAIT SITH	CAIT SITH
 Why don't you listen to this.	これ、聞いてもらいましょか
 Dad! TIFA!	父ちゃん！　TIFA！
-TIFA	TIFA
 Marlene!	マリン！
-AERIS	AERITH
 Hey! That's Marlene!	あっ！　マリンの声！
-BARRET	BARRET
 Ma…Marlene!?	マ、マリン！？
-CLOUD	CLOUD
 …Marlene?	……マリン？
 Marlene	マリン
 Hey! It's dad! Dad! It's me‚Marlene!	あ！　とうちゃんの声だ！とうちゃん！　マリンね！
@@ -556,100 +354,59 @@ Marlene	マリン
 Hey! It's the flower lady! Flower lady…	あ！　お花のお姉ちゃん！お姉ちゃん…
 Marlene	マリン
 Hey! It's CLOUD!	あ！　CLOUDの声だ！
-CAIT SITH	CAIT SITH
 …So‚there's no other way but to listen to me.	……というわけです、みなさんはボクの言うとおりにするしかあらへんのですわ
-CLOUD	CLOUD
 You're the lowest…	……最低だ
-CAIT SITH	CAIT SITH
 I didn't want to do this either. Not by using dirty tricks and taking hostages…	そりゃ、ボクかってこんなことやりたない。人質とかヒレツなやりかたは……
-CAIT SITH	CAIT SITH
 So‚this is how it is. There's no room for compromises. So why don't we go on as we did.	まぁ、こういうわけなんですわ。話し合いの余地はないですな。今までどおり、仲ようしてください。
-CAIT SITH	CAIT SITH
 Tomorrow is the Temple of the Ancients‚right? I know where it is so I'll tell you later.	明日は古代種の神殿でしたな？場所知ってますから後で、教えますわ
 Of course we'll get there after the Shinra‚ but you'll have to deal with that.	神羅のあとになりますけどまぁ、そんくらいはガマンしてくださいな
-CLOUD	CLOUD
 …Well‚we're stuck… We'll have to do what he says.	……仕方ないな。言うとおりにしよう
-TIFA	TIFA
 …Marlene.	……マリン
-AERIS	AERITH
 I wonder if Marlene is all right… I wonder what happened to Mom?	マリン、だいじょぶかな……お母さん、どうしたのかな
-BARRET	BARRET
 Sorry‚CLOUD.	すまねえ、CLOUD
-YUFFIE	YUFFIE
 Uh‚yup.	う、うん
 Chocobo Square	チョコボスクェア
-CAIT SITH	CAIT SITH
 Hey! Over here! The Keystone!	ほら！　これや！キーストーンや！
 Tseng	ツォン
 Well done.	ごくろうさまです
-CLOUD	CLOUD
 Hey!	おい！
-CAIT SITH	CAIT SITH
 W, wait a second. I won't run or hide.	ちょちょ、ちょっと待って～や。逃げも隠れもしませんから
 Yes, I was a spy. I was hired by the Shinra.	確かにボクは、スパイしてました。神羅のまわしモンです
-TIFA	TIFA
 Don't mess with us!	ふざけないでよ！
-AERIS	AERITH
 …I trusted you. I can't believe you!	……信じてたのにがっかり！
 Ya dirty &*$*%$!	うすぎたねえ野郎だぜ！
-CLOUD	CLOUD
 You think I'm jokin'!?	ふざけるな！！
-CAIT SITH	CAIT SITH
 I couldn't help it.	しゃあないんです。すんでしもたことはどないしょうもあらへん
 How 'bout if we go on like nothing ever happened?	なぁ～んもなかったようにしませんか？
-CLOUD	CLOUD
 No way, cat! You gotta lot of guts acting like a friend but being a spy!	ずうずうしいぞ、CAIT SITH！スパイだとわかってていっしょにいられるわけないだろ！
-CAIT SITH	CAIT SITH
 Then, what are you goin' to do? Kill me?	ほな、どないするんですか？ボクを壊すんですか？
-CAIT SITH	CAIT SITH
 You'd just be wastin' your time if you tried. This body's just a toy anyway.	そんなんしても、ムダですよ。この身体、もともとオモチャやから
 My real body's at Shinra Headquarters in Midgar. I'm controlin' this toy cat from there.	本体はミッドガルの神羅本社におるんですわ。そっから、このネコのおもちゃ操っとるわけなんです
-TIFA	TIFA
 So you're from Shinra. Who are you?	それじゃあ正体は神羅の人間なのね。だれなのよ？
-AERIS	AERITH
 So you're from Shinra. Who? Who are you! Tell me!	正体は神羅の人、ね？だ～れ？　あなた！言いなさい！
-BARRET	BARRET
 The hell are ya!? What's your real name!?	だれだ、てめえ！本当の名前を教えろ！
-YUFFIE	YUFFIE
 Part of the Shinra! Who the *&$# are you!?	神羅の人間！おまえ、だれだ！？
-CAIT SITH	CAIT SITH
 Whoa, I can't tell you my name.	おっと、名前は教えられへん
-CLOUD	CLOUD
 We're not gettin' anywhere.	話にならないな
-CAIT SITH	CAIT SITH
 See? I told you! Talking won't do any good, so can't we just continue our journey?	な？　そうやろ？話なんてどうでもええからこのまま旅、続けませんか？
-CAIT SITH	CAIT SITH
 …Alright, yes, I am a Shinra employee.	……確かにボクは、神羅の社員や
 But we're not entirely enemies.	それでも、完全にみなさんの敵っちゅうわけでもないんですよ
-CAIT SITH	CAIT SITH
 …Something bothers me.  I think it's your way of life.	……ど～も、気になるんや。みなさんのその、生き方っちゅうか？
 You don't get paid. You don't get praised. Yet, you still risk your lives and continue on your journey. Seeing that makes me…	誰か給料はろてくれるわけやないしだぁれも、ほめてくれへん。そやのに、命かけて旅しとる。そんなん見とるとなぁ……
-CAIT SITH	CAIT SITH
 It just makes me think about my life. I don't think I'd feel too good if things ended the way they are now.	自分の人生、考えてまうんや。なんや、このまま終わってしもたらアカンのとちゃうかってな
-TIFA	TIFA
 You're lying again.	またウソついてる
-AERIS	AERITH
 …And so on, and so on…	～とかなんとか言ってぇ
-BARRET	BARRET
 Hmph! You ain't foolin' us this time!	へっ！　だまされないぜ！
-YUFFIE	YUFFIE
 Sounds fishy…	あやしい～
-CLOUD	CLOUD
 He'll never tell the truth. Once a spy, always a spy.	正体はあかさない。スパイはやめない
 We can't go on with someone like that. C'mon get real!!	そんなヤツといっしょに旅なんてできないからな。冗談はやめてくれ
-CAIT SITH	CAIT SITH
 …just as I thought. Talking won't make a bit of difference.	……まぁそうやろなぁ。話し合いにもならんわな
 But I prepared something in case this happened.	ま、こうなんのとちゃうかとおもて準備だけはしといたんですわ
-CAIT SITH	CAIT SITH
 Why don't you listen to this?	これ、聞いてもらいましょか
 Papa! TIFA!	父ちゃん！　TIFA！
-TIFA	TIFA
 Marlene!	マリン！
-AERIS	AERITH
 Hey! That's Marlene!	あっ！　マリンの声！
-BARRET	BARRET
 Ma…Marlene!?	マ、マリン！？
-CLOUD	CLOUD
 …Marlene?	……マリン？
 Marlene	マリン
 Hey! It's dad! Dad! It's me, Marlene!	あ！　とうちゃんの声だ！とうちゃん！　マリンね！
@@ -659,30 +416,19 @@ Marlene	マリン
 Hey! It's the flower lady! Flower lady…	あ！　お花のお姉ちゃん！お姉ちゃん…
 Marlene	マリン
 Hey! It's CLOUD!	あ！　CLOUDの声だ！CLOUD！　あ…
-CAIT SITH	CAIT SITH
 …So, you have to do as I say.	……というわけです、みなさんはボクの言うとおりにするしかあらへんのですわ
-CLOUD	CLOUD
 You're the lowest…	……最低だ
-CAIT SITH	CAIT SITH
 I didn't want to do this… using dirty tricks and taking hostages…	そりゃ、ボクかってこんなことやりたない。人質とかヒレツなやりかたは……
-CAIT SITH	CAIT SITH
 But this is how it is…no compromises. So why don't we go on as we did?	まぁ、こういうわけなんですわ。話し合いの余地はないですな。今までどおり、仲ようしてください。
-CAIT SITH	CAIT SITH
 Tomorrow is the Temple of the Ancients, right? I know where it is so I'll tell you later.	明日は古代種の神殿でしたな？場所知ってますからあとで、教えますわ
 Of course,we'll get there after the Shinra, but you'll have to deal with that.	神羅のあとになりますけどまぁ、そんくらいはガマンしてくださいな
-CAIT SITH	CAIT SITH
 Oh, you didn't seem to know this, but…	そういや、みなさんは知らんかったみたいやけど
 The Keystone is the key to the Temple of the Ancients. Even so, you're all going, right?	キーストーンは古代種の神殿への鍵なんです。どちらにしろ、みなさんも行くんですよね？
 I know where it is, so I'll show you later.	場所知ってますからあとで、教えますわ
 The Shinra have already been there, but I guess you have to deal with that.	神羅のあとになりますけどまぁ、そんくらいはガマンしてくださいな
-CLOUD	CLOUD
 …Well, we're stuck… We'll have to do what he says.	……仕方ないな。言うとおりにしよう
-TIFA	TIFA
 …Marlene.	……マリン
-AERIS	AERITH
 I wonder if Marlene is all right… I wonder what happened to Mom?	マリン、だいじょうぶかな……お母さん、どうしたのかな
-BARRET	BARRET
 Sorry, CLOUD.	すまねえ、CLOUD
-YUFFIE	YUFFIE
 Uh, yup.	う、うん
 Chocobo Square	チョコボスクェア

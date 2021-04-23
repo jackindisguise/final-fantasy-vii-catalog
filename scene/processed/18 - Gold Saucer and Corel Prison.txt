@@ -68,68 +68,41 @@ Let's try all of the Attractions! 	様々なアトラクションへレッツ　
 Welcome to Gold Saucer!	ゴールドソーサーへようこそ！
 Many attractions await you here at Gold Saucer. 	ゴールドソーサーでは 様々なアトラクションが あなたを待っています。
 You will be moved and excited, thrilled and terrified! Led from one zone to another… unlike anything you've ever experienced! Make your memories…today.	感動と興奮、スリル＆サスペンスあなたを未体験ゾーンへご案内！一生の思い出をあなたに……
-AERIS	AERITH
 Wow! Let's have fun!	うわ～！楽しまなくっちゃ！
-AERIS	AERITH
 I know this isn't the right time to do this.	そんな場合じゃないのはわかってるけど、ね
-AERIS	AERITH
 Hey, BARRET, cheer up!	ね、BARRETも元気だして！
-BARRET	BARRET
 …I ain't in a cheery mood. So jus' leave me alone.	……そんな気分にはなれねえ。オレのことは放っておいてくれ
-AERIS	AERITH
 Really? That's too bad.	そ～ぉ？仕方ないね
-AERIS	AERITH
 Let's go!	行こっ！
-TIFA	TIFA
-…whisper…whisper… (Wasn't that a little harsh, AERIS!?)	ヒソヒソ……。（AERITH！ちょっとひどいんじゃない？）
-AERIS	AERITH
+…whisper…whisper… (Wasn't that a little harsh, AERIS!?)	ヒソヒソ……。（AERIS！ちょっとひどいんじゃない？）
 …whisper…whisper… (Just act normal when this happens)	ヒソヒソ……。（こういうとき、ヘンに気をつかわないほうがいいよ）
-TIFA	TIFA
 …whisper… (You think so…?)	ヒソヒソ……。（そうかな……）
-AERIS	AERITH
 Of course!	だいじょぶよ！
-AERIS	AERITH
 We're gonna go play…	わたしたち、遊んでくるね
-BARRET	BARRET
 So PLAY! …mess around all you want!	勝手にしろ！チャラチャラしやがってよ！
 Don't forget we're after Sephiroth!	オレたちはセフィロスを追ってるんだぞ！それを忘れるんじゃねえ！
-AERIS	AERITH
 …I think he's mad.	……怒っちゃった
-TIFA	TIFA
 He'll be fine. He seems to be doing a little better now.	あ、でも、だいじょうぶみたい。なんだかいつものBARRET。少し元気でたみたい
-AERIS	AERITH
 Then, shall we!?	それじゃ、わたしたちも！
-TIFA	TIFA
 We'd better be careful, Sephiroth might be around.	セフィロスが来てるかもしれないから気をつけなくちゃね
 Go together	いっしょに行く
 Don't go together	いっしょに行かない
-AERIS	AERITH
 I wish we could just forget everything and have fun!	いろ～んなこと忘れて楽しめると、いいね
 Go together	いっしょに行く
 Don't go together	いっしょに行かない
-RED XIII	RED XIII
 …You want to go with me?	……私と行くのか？
 Go together	いっしょに行く
 Don't go together	いっしょに行かない
-YUFFIE	YUFFIE
 With me!?	アタシと！？
 Go together	いっしょに行く
 Don't go together	いっしょに行かない
-TIFA	TIFA
 CLOUD!	CLOUD！
-AERIS	AERITH
 CLOUD!	CLOUD！
-YUFFIE	YUFFIE
 CLOUD!	CLOUD！
-RED XIII	RED XIII
 CLOUD!	CLOUD！
-TIFA	TIFA
 I'll go with you.	いっしょに行くわ
-AERIS	AERITH
 Don't go alone, go with me!	１人で行かないで私と行きましょ！
-YUFFIE	YUFFIE
 Let's go together, CLOUD!	アタシといっしょに行こうよ！
-RED XIII	RED XIII
 Don't go by yourself…	１人ではなんだろう……
 Speed Square	スピードスクェア
 Chocobo Square	チョコボスクェア
@@ -154,7 +127,6 @@ Battle Square	バトルスクェア
 Wonder Square	ワンダースクェア
 Round Square	ラウンドスクェア
 Sorry it's out of order.	もうしわけございませんがこちらはただいま故障中です
-CLOUD	CLOUD
 Who should I ride with?	どっちと乗るか…
 Welcome. This attraction is 3 GP.  	いらっしゃいませ こちらのアトラクションの お値段は３ＧＰに なっておりますが
 Shall you be riding this evening?	お乗りになられますか？
@@ -192,17 +164,14 @@ Welcome to the Gold Saucer.	ゴールドソーサーにようこそ
 Phew…	ふう……
 Man	男
 Hey boy.	そこの少年
-CLOUD	CLOUD
 Boy…	少年……
 Man	男
 How is it? You having fun?	どうだね？　楽しんでいるかね？
 Mmm, so, you ARE having fun. Well, good, good for you boy.	ん、そうか、楽しんでいるかよかった、よかった、な少年よ
-CLOUD	CLOUD
 My name's CLOUD. And stop calling me boy.	俺は、CLOUDだ。少年というのはやめてくれ
 Dio	ディオ
 Mmm? Me? I'm the owner of the Gold Saucer. The name's Dio.	ん？　私か？私は、ここゴールドソーサーの園長ディオという
 Just call me 'Dio'.	気軽に『ディオちゃん』と呼んでくれ
-CLOUD	CLOUD
 (He's not even listening)	………（聞いちゃいないな）
 Dio	ディオ
 By the way, boy, do you know what a 'Black Materia' is?	そうだ、少年。『黒マテリア』を知っているか？
@@ -212,17 +181,14 @@ Dio	ディオ
 Ha ha ha…that, I say, that's a good one, boy! But it's not good to lie. You can't fool me.	ははははははは、少年！ウソはいけない。　この私の目はごまかせないぞ
 Dio	ディオ
 Oh, so you do know?	おお、やはり知っているか
-CLOUD	CLOUD
 Why d'you ask me?	なぜ俺に聞いた？
 Dio	ディオ
 Well, a while back, a boy your age came in and asked me if I had Black Materia.'	少し前に、少年くらいの少年が来て『黒マテリア』はないかと聞いていったのでな
 Dio	ディオ
 I thought you might know who he was, seein' as how you're both about the same age.	同じくらいの少年なら知っているのかと思ってな
-CLOUD	CLOUD
 Did he happen to have…a black cape?	その男は黒いマントの……
 Dio	ディオ
 Why yes, yes indeed. And a tattoo on his hand that said '1'.	その通りだ。それに手の甲に『１』のタトゥーをしていたぞ
-CLOUD	CLOUD
 Where did he go!?	その男、どこへ行った！？
 Dio	ディオ
 Ha ha ha, I have no idea.	はははははは、そんなことはさすがの私も知らんよ
@@ -263,7 +229,6 @@ Yes	ああ
 Not interested	興味ない
 You'll receive a prize if you get more than 3000 Points. So good luck.	３０００点以上取ったら景品があります、ガンバッテください
 HighScore CLOUD	ハイスコア　CLOUD
-CLOUD	CLOUD
 Ugh…	うっ…
 Welcome. Thank you for coming to the Ghost Hotel.	いらっしゃいませ当ゴーストホテルへおいでいただきまことに、ありがとうございます
 Welcome. No matter what happens in this world, The Ghost Hotel will always be in business.	いらっしゃいませ世界がどうなろうとも当ゴーストホテルは元気いっぱい営業させていただきます
@@ -333,7 +298,6 @@ The soldiers died instantly, but the staff survived.	けど、撃たれた神羅
 Those two over there eloped, saying something about Our last moments together---' I can't bear it.	そこの２人、カケオチしちゃったのよ『最後の時を君と～』とかなんとか言っちゃってさまいっちゃうわね
 I don't have anyone special in my life but when it happens, it happens.	ま、私にはそんな人いないしこうなったら、なるようにしかならないでしょ
 …that's why I'm working now. Oh, sorry for going off like that…	ってわけで私は働いてるわけ。あっ、ゴメンなさいグチっちゃって
-BARRET	BARRET
 Dyne…	ダイン……
 You know, I've been thinking about it for a while now, but you must be pretty strong.	ねぇねぇ前から思ってたんだけどあなた、とっても強いわよね？
 Probably strong enough to take on the top 1 or 2 fighters?	たぶん、歴代ファイターでも１、２をあらそう強さだわ
@@ -356,25 +320,15 @@ Gained  Battle Points	バトルポイントをポイント獲得
 Total  BP	合計　　ＢＰ
 Current GP	現在の持ちＧＰ
 GP	ＧＰ
-CLOUD	CLOUD
 Well, I guess I'll enjoy a few battles.	さて、たまには戦いを楽しむか
-CLOUD	CLOUD
 All right, I'll show 'em.	よし、ガンバルぞ
-BARRET	BARRET
 I'm gonna bust the place up!	あばれまくってやるぜ！
-TIFA	TIFA
 I'll show 'em with a BANG!	ガツーンといくわよ！
-AERIS	AERITH
 Let's make this quick.	サクッといってみよっかな
-RED XIII	RED XIII
 I guess it'll be fun to show off what I've got.	腕だめしにはちょうどいいかな
-CID	CID
 Let ol' CID show ya how it's done!	このCID様にまかせとけ！
-YUFFIE	YUFFIE
 I'll show you my moves!	アタシのカレイな舞をみせてやる！
-VINCENT	VINCENT
 Hmph…I'll show them what real fighting is.	フッ……戦いと言うものを教えてやろう
-CAIT SITH	CAIT SITH
 Then, I'm off!	ほな、行くで～！-
 Changed my mind	やっぱりやめた
 Current BP	所持ＢＰ
@@ -486,7 +440,6 @@ Ask how to buy	買い方聞く
 Thank you! 1 BET is  gil. This is the next race.	ありがとうございます１ＢＥＴはギルです。こちらが、次のレースになります
 Which rank would you like?	どちらのランクのレースに投票いたしますか？
 You're a Chocobo jockey, right? Which rank will you ride in?	チョコボレーサーの方ですね？どちらのランクのレースに投票いたしますか？
-CLOUD	CLOUD
 I lost…	はずれた……
 C(1BET 100gil)	Ｃ（１ＢＥＴ　１００ギル）
 B(1BET 200gil)	Ｂ（１ＢＥＴ　２００ギル）
@@ -514,7 +467,6 @@ This data is helpful when you make your pick.	こちらを参考にして予想�
 After you've made your selections, press [START] to start the race.	投票がすみましたら『ＳＴＡＲＴ』ボタンでレースを開始して下さい
 You do not have enough gil…	ギルがたりないようですが…
 It should come in pretty soon…	もうしばらくしたらはいると思うの…
-CLOUD	CLOUD
 I won!	当たった！
 You may exchange your ticket for an item or GP.	投票券をアイテムかＧＰにできますが？
 Item please	アイテムがいい
@@ -548,9 +500,7 @@ Received "Megalixir"!!	『ラストエリクサー』を手にいれた！！
 Received "Turbo Ether"!!	『エーテルターボ』を手にいれた！！
 Received "Hi-Potion"!!	『ハイポーション』を手にいれた！！
 Received "Ice Crystal"!!	『冷気の結晶』を手にいれた！！
-CLOUD	CLOUD
 I lost…	まけた……
-CLOUD	CLOUD
 I won!!	勝った！！
 I'm sorry We can't play yet…	ごめんなさいまだ、遊べないの…
 Ester	エスト
@@ -570,7 +520,6 @@ Tell me how to ride it	乗り方を聞く
 Don't do it	やめる
 Ester	エスト
 Hmm, it seems that no Chocobos can be registered…	あら、いま登録できるチョコボっていないみたい…
-CLOUD	CLOUD
 Which one?	どれをだそうか？
 Ester	エスト
 Congratulations! You're first!	おめでとう１着よ
@@ -610,9 +559,7 @@ Short	ショート
 Long	ロング
 Ester	エスト
 Good Luck! Take care!	がんばっていってらっしゃ～い
-TIFA	TIFA
 Hey, CLOUD. Let me ride once in a while.	ねぇ、CLOUDたまには、私にも乗らせて
-CID	CID
 Hey, CLOUD. Let me hop on sometime.	おう、CLOUDたまには、おれ様にも乗らせてくれよ
 Sure	いいよ
 Nope	ダメ
@@ -641,7 +588,6 @@ Mega Sumo	メガずもう
 1 game 100 gil	１プレイ　１００ギル
 Try it	やる
 Not interested	興味ない
-CLOUD	CLOUD
 Not enough gil…	ギルがたりない…
 Push [OK] consecutively.	『○ボタンを連打してください』
 Please select opponent.	『対戦レベルを選んでください』
@@ -736,7 +682,6 @@ You sure do need a lot of money here.	ここってほ～んと金がかかるね
 Building 2f.	建物２Ｆ
 Try it	やる
 Not interested	興味ない
-CLOUD	CLOUD
 Don't have enough gil…	ギルがたりない…
 3D Battler	『３Ｄバトラー』
 1 game 200 gil	１プレイ　２００ギル
@@ -816,9 +761,7 @@ Level 2	レベル２
 Level 3	レベル３
 Level 4	レベル４
 Not interested.	興味ない
-TIFA	TIFA
 Hey, CLOUD. Let me ride sometime.	ねぇ、CLOUDたまには、私にも乗らせて
-CID	CID
 Hey, CLOUD. Let me get on sometime.	おう、CLOUDたまには、おれ様にも乗らせてくれよ
 Sure	いいよ
 Nope	ダメ
@@ -828,9 +771,9 @@ This year, Mog is pipapopupo years old. …that's 28 in human years.	モグは�
 He's at that age when he should be looking for a mate.	そろそろ、おヨメさんが欲しい 年ごろです。
 But before Mog can become an adult, he first needs to learn how to fly. 	モーグリの世界では 飛べるようになると りっぱなオスとみなされます。
 Even though Mog trains hard everyday, he still can't seem to get off the ground.  	ところがモグは、まだ上手に 飛べません。 毎日、いっしょうけんめい 練習しているのですが……
-Looks like he's still got a long way to go…  	おやおや、今日もダメなようです。  
+Looks like he's still got a long way to go…	おやおや、今日もダメなようです。
 Here's where you come in.	そこで、みなさんにおねがいです。
-Help Mog learn how to fly by pushing [OK] and feeding him his favorite Kupo nut. 	【○ボタン】で、モグの大好きな クポの実をあげて、彼が飛べるよう 手伝ってあげてください。 
+Help Mog learn how to fly by pushing [OK] and feeding him his favorite Kupo nut.	【○ボタン】で、モグの大好きな クポの実をあげて、彼が飛べるよう 手伝ってあげてください。
 But don't overfeed him. He won't be able to fly if he's too fat.	でも、あげすぎには御用心。 重くて飛べなくなってしまいます。
 [OK]…Give him a Kupo nut 	【○ボタン】 クポの実をあげる
 Oh?	おや？
@@ -861,65 +804,37 @@ Hey you!! What're you lookin' so down for!?	ヘイ・ユー！！暗～い顔し
 How 'bout it? Want me to read your fortune!? A bright future! A happy future!	どうですか～？みなさんの未来占うで～
 Oh, but don't hold it against me if it doesn't come true!	明るい未来、ゆかいな未来！あっ、ひさんな未来が出たらかんにんしてや～！
 Oh, so sorry! I'm a fortune telling machine. The name's…	あらら、すんません！ボクは、占いマシーンです。名前は……
-CLOUD	CLOUD
 You can only read the future?	占うのは未来だけか？
-CAIT SITH	CAIT SITH
 You kidding? I can find missing things, missing people, anything!	バカにしたらあかんで！失せ物、失せ人なんでもございや！
-CLOUD	CLOUD
 Then can you tell me where a man named Sephiroth is?	セフィロスという男はどこにいる？
-CAIT SITH	CAIT SITH
 Sephiroth, right!?	セフィロスですな！
 Okay, here goes!!	ほな、いきまっせ！！
-CLOUD	CLOUD
 …Ordinary luck. It will be an active fortune.	……中吉。活発な運勢になります
 Give into the good will of others, and something big'll happen after summer.  …Wait…hold on…	周りの人の好意に甘えてひと頑張りしておくと夏以降にどっきりな予感。……なんだこれは？
-CAIT SITH	CAIT SITH
 Huh? Let me try again.	あれっ？　もっぺんやりましょか
-CLOUD	CLOUD
 Be careful of forgetfulness. Your lucky color is…blue?	忘れ物に注意。ラッキーカラーは青？
-CLOUD	CLOUD
 …Forget it.	……もういい
-CAIT SITH	CAIT SITH
 Wait, wait give me another chance!	待って～な、もっぺんやらして！
-CLOUD	CLOUD
 What the?	……なんだと！？
-TIFA	TIFA
 What does it say?	何てかいてあるの？
-AERIS	AERITH
 What?	な～に？
-RED XIII	RED XIII
 Read it out loud, CLOUD	読んでみろ、CLOUD
-YUFFIE	YUFFIE
 What is it? Tell us!	なんだよう！教えろよう！
-CLOUD	CLOUD
 What you pursue will be yours. But you will lose something dear.	求めれば必ず会えます。しかし最も大切なものを失います
-CAIT SITH	CAIT SITH
 I don't know if it's good or bad…	ええんか、わるいんかようわからんなぁ……
 This's the first time I ever got something like THIS.	こんな占い初めてですわ。気になりますな～
-CAIT SITH	CAIT SITH
 Then shall we?	ほな、いきましょか
-TIFA	TIFA
 Excuse me?	はぁ？
-AERIS	AERITH
 What are you talking about?	なにいってるの？
-RED XIII	RED XIII
 To where?	どこへ？
-YUFFIE	YUFFIE
 Huh?	なんだぁ？
-CAIT SITH	CAIT SITH
 Being a fortune teller, this is gonna bug me.	占い屋CAIT SITHとしてはこんな占い不本意なんです
 If I don't see how it turns out, I'll never be able to relax. So, I'm going with you!	きっちり見届けんと気持ちがおさまらん。みなさんといっしょに行かせてもらいますわ！
-TIFA	TIFA
 Is it all right, CLOUD?	いいの？　CLOUD
-AERIS	AERITH
 What are we going to do, CLOUD?	どうするの、CLOUD
-RED XIII	RED XIII
 CLOUD, it's all right with you?	CLOUD、いいのか？
-YUFFIE	YUFFIE
 He's weird! CLOUD, don't let him come!	へんなやつ！CLOUD、やめなよ
-CAIT SITH	CAIT SITH
 I'm comin' with you no matter WHAT you say!	どないに言われてもついてきます！
-CLOUD	CLOUD
 H…hey!	お、おい！
 Yaaay!!	わ～い！！
 Eaayyyyyyh!	キャッキャ！
@@ -932,41 +847,24 @@ Wonder Square	ワンダースクェア
 They probably told you at the entrance, but most of the attractions at Gold Saucer only take 'GP'.	入口で聞いたと思うけどよゴールドソーサーのアトラクションのほとんどは『ＧＰ』っていうゴールドソーサーでのお金がいるんだよ
 They don't sell GP. You can only get 'em from the Wonder Square games or at the Chocobo Races.	これが、普通に売ってなくてよこのワンダースクェアのゲームかチョコボレースでしか手に入れられねぇんだ
 Attention! Dismissed!!	よし、ちれ！！
-CLOUD	CLOUD
 Shinra soldiers… Even here…	神羅兵…こんなところまで…
-AERIS	AERITH
 What happened?	どうしたの？
-TIFA	TIFA
 What?	なに？
-RED XIII	RED XIII
 What happened?	どうした？
-YUFFIE	YUFFIE
 What is it?	なんだ？
-CLOUD	CLOUD
 Sh…!	シッ！
 I'm sorry, we're currently renovating. Please come again.	すいません、今は改装中なんですまた、出直してください
 …	……………
-CLOUD	CLOUD
 !!	！！
-CLOUD	CLOUD
 Hmm!?	ん！？
-CLOUD	CLOUD
 Dead…	死んでる……
-TIFA	TIFA
 What!?	え！？
-AERIS	AERITH
 What!? Why?	え！？　どうして？
-RED XIII	RED XIII
 What the…	いったい……
-YUFFIE	YUFFIE
 Wh…why?	な、なんで？
-TIFA	TIFA
 Wa…wait CLOUD!	ちょ、ちょっとCLOUD！
-AERIS	AERITH
 CLOUD!? Where are you going?	CLOUD！？どこ、いくの？
-RED XIII	RED XIII
 Hey, CLOUD!	おい、CLOUD！
-YUFFIE	YUFFIE
 Don't, don't just leave me!	ア、アタシを置いていくな！
 Battle Square	バトルスクェア
 I heard that this is the curator's favorite attraction. He even has his collection displayed in the arena.	ここのアトラクションが園長は１番好きらしいね。闘技場内に自分のコレクションを展示してるくらいだからなぁ
@@ -982,49 +880,36 @@ I like fighters, but hate ones who're all talk.	わたし、ファイターっ�
 I watched you win eight battles. I want you to have this!	見てたわ、あなたが８戦勝ち抜くところ。これ、受け取って下さい！
 Received "Sprint Shoes"!	『エルメスのくつ』を手にいれた！！
 Good luck in the future too!	これからもガンバってくださいね
-CLOUD	CLOUD
 Did Sephiroth do this!?	セフィロスがやったのか！
-CLOUD	CLOUD
 No…it's not him… They're all shot… Sephiroth would never use a gun…	これは……ちがう………銃で撃たれている……セフィロスは銃など使わない…
 Ugh, ugggh.	う、うう
-CLOUD	CLOUD
 Hey, what happened!	おい、何があったんだ！
 Victim	被害者
 Ugh…ugh…a man with a gun…on his arm…	ウ…ウ…片腕が銃の男……
-AERIS	AERITH
 It can't be!?	ま、まさか！？
-TIFA	TIFA
 A gun on his arm!?	片腕が銃！？
-RED XIII	RED XIII
 …did he!?	……あいつが！？
-YUFFIE	YUFFIE
 Wow, no way!!	へぇ、やるぅ！！
 Hold it right there! And stay quiet!!	そこまでだ！おとなしくしろ！！
 Dio	ディオ
 Did you guys do this!?	お前らがやったのか！？
-CLOUD	CLOUD
 N…no, it wasn't us!	ち、ちがう、俺たちじゃない！
 Dio	ディオ
 I must've been wrong…	私の見こみ違いというわけか…
 Dio	ディオ
 Stop them!!	捕らえろ！！
-CAIT SITH	CAIT SITH
 Hurry and run, it's gonna get ugly.	はよ逃げな、やばいで
-CLOUD	CLOUD
 He…hey!	お、おい！
 Arena Lobby	闘技場ロビー
 Dio	ディオ
 That's as far as you go.	ここまでだな
-CLOUD	CLOUD
 Wait, listen to…	まて、話を…
-CAIT SITH	CAIT SITH
 CLOUD…	CLOUDさん…
 Arena	闘技場
 doing it.	してる
 Dio	ディオ
 One more to go.	あと、１人だな
 Yes	はい
-CLOUD	CLOUD
 Hey! Pay attention!!	おい！少しは、こっちの話を聞け！！
 Dio	ディオ
 I don't need to hear it. Pay for your crime below!!	聞くことはない。下で、罪をつぐなうのだ！！
@@ -1033,58 +918,32 @@ Do it!	やれ！
 Corel Prison	コレルプリズン
 Wo-ho! Welcome to Corel Prison.	ひゃあ、はっはっは！ようこそコレルプリズンへ
 Hold---it. If you wanna pass, you're gonna need the boss's permission.	おっと、こっから先はボスの許可が無ければダメだ
-BARRET	BARRET
 …	………
-AERIS	AERITH
 You all right?	だいじょぶ？
-TIFA	TIFA
 CLOUD, you all right?	CLOUDだいじょうぶ？
-RED XIII	RED XIII
 Are you all right?	だいじょうぶか？
-YUFFIE	YUFFIE
 Hey, you okay?	おい、だいじょうぶ？
-CLOUD	CLOUD
 Where are we?	ここは？
-CAIT SITH	CAIT SITH
 A desert prison… Corel Prison…	サバクのかんごく……コレルプリズンやな
-CLOUD	CLOUD
 A desert prison?	サバクのかんごく？
-CAIT SITH	CAIT SITH
 Yup, a natural prison in the middle of the desert… surrounded entirely by quicksand.	そや、サバクの流砂にかこまれた自然のかんごくや
-CAIT SITH	CAIT SITH
 I heard that once you get in, you never get out…	一度入ったら、出ることはかなわんって、聞いてます…
-CAIT SITH	CAIT SITH
 But, there was one special exception…	けど、たしかナンか特例があったような…
-AERIS	AERITH
 Hey!! BARRET!!	あっ！！BARRET！！
-TIFA	TIFA
 BARRET!?	BARRET！？
-RED XIII	RED XIII
 Mmm!? Isn't that BARRET?	ん！？あれは、BARRETではないのか？
-YUFFIE	YUFFIE
 Hey? Isn't that BARRET?	あれ？あいつ、BARRETじゃないのか？
-CLOUD	CLOUD
 BARRET…	BARRET……
-CLOUD	CLOUD
 Did you…	あんたまさか本当に……
-BARRET	BARRET
 Stay back! This's something I gotta deal with.	来るな！　これはオレの……オレがカタをつけなくちゃならねえことなんだ
-BARRET	BARRET
 Jus' leave me alone…	ほっといてくれ……
-CAIT SITH	CAIT SITH
 Whew! That's one of your friends? He sure looks dangerous…	ヒョーッ！あの人も、みなさんのお知り合い？なんやアブなそうな人やなぁ～
-RED XIII	RED XIII
 BARRET…	BARRET……
-AERIS	AERITH
 CLOUD, what should we do? BARRET's not his normal self.	CLOUD、どうしよう？BARRET、いつもとちがうよ
-TIFA	TIFA
 …BARRET…	そんな……BARRET……
-YUFFIE	YUFFIE
 Hey, CLOUD! Just leave him alone.	おい、CLOUD！あんなヤツほっとこうよ
 I mean, he told us to, didn't he? Then that's that, right?	向こうもああ言ってんだ。ここでオサラバしよ、な？
-CLOUD	CLOUD
 This one's been shot, too…	これも銃で撃たれあとだ…
-CLOUD	CLOUD
 We should find BARRET before we go out into the desert.	サバクに出る前にBARRETを追ったほうがいいな
 Basement	地下室
 Empty…	からっぽ……
@@ -1103,7 +962,6 @@ Not interested	興味ないね
 Yeah, I want to enter	ぜひ、出たい
 You thinkin' of livin' here forever? Then live a long life!	一生ここでくらす気か？せいぜい長生きするんだな！
 Then go get permission with the boss of this place.	それならよ、許可をとってこいよ。ここのボスのさ
-CLOUD	CLOUD
 Who's the boss?	ボスは誰だ？
 You don't even know that? Oh man.	あ～らら！知らないの？ダメだな、こりゃ
 Empty…	からっぽ……
@@ -1140,31 +998,18 @@ Of course, if you got the boss's permission it'd be a different story, but YOU'l
 Mr.Coates	コーツ
 Ha ha ha ha.	はははっははっ
 Mayor's Old House	旧村長の家
-CLOUD	CLOUD
 BARRET!	BARRET！
-BARRET	BARRET
 Didn't I tell you not to come here!?	来るなと言ったじゃねえか！
-CAIT SITH	CAIT SITH
 Ju…just hold on for a second! We just want to talk! You'll understand if you just hear us out!	ちょ、ちょっとタンマ！話し、しましょ！な、話せばわかるって！
-CLOUD	CLOUD
 BARRET!!	BARRET！！
-BARRET	BARRET
 Didn't want none of ya to get involved…	おまえたちをまきこみたくなかった……
-AERIS	AERITH
 Hey that's CLOUD's line! …It's too dangerous, I can't let you get involved…' blah, blah, blah…	それ、CLOUDのセリフ！『危険だ、まきこむわけにはいかない』とかなんとか、ね
-TIFA	TIFA
 Yeah. We're already involved in this.	そうそう。それに私たち、もう思いっきりまきこまれちゃってるんだから
-AERIS	AERITH
 We saw you and hurried here. BARRET, just tell us what's going on.	上でBARRET見つけてあわててここまで来たの。BARRET、ちゃんと説明して
-TIFA	TIFA
 We saw you and hurried here. So come on BARRET, just tell us what's going on.	上でBARRETを見かけてあわてて追いかけてきたんだから。さあBARRET、きちんと説明してね
-BARRET	BARRET
 You guys…	おまえたち……
-RED XIII	RED XIII
 I heard that the murders at the Battle Arena were done by a man with a gun-arm…was that you?	闘技場の事件は片腕が銃の男のしわざだと聞いた。……あんたか？
-BARRET	BARRET
 There's another… another man that got a gun grafted inta one of his arms. It was four years ago…	もう１人いるんだ……片腕に銃をもつ男。４年前、あの日から……
-BARRET	BARRET
 What the hell happened?	なんてこった……
 Dyne	ダイン
 What's done is done.	とりかえしがつかねえ…
@@ -1175,18 +1020,14 @@ I remember…	あの日……
 I was on my way home from visiting	建設中の魔晄炉を見物にいった
 a Mako Reactor being built.	帰り道だった……
 BARRET! Dyne! Come quick! The village's being attacked! It's Shinra soldiers!	BARRET！　ダイン！大変だ！　村が襲われた！神羅の兵だ！
-BARRET	BARRET
 What!!!?	なにっ！！！
 Dyne	ダイン
 C'mon, BARRET! We gotta hurry!	おい、BARRET！急ぐんだ！
 BARRET! Dyne! Protect the village!	BARRET！　ダイン！村をたのんだぞ…
-BARRET	BARRET
 Hmp!! Old man!!	チッ！！おやっさん！！
-BARRET	BARRET
 Krggh!!	クッ……！！
 Dyne	ダイン
 BARRET!! You stay here!!	BARRET！！ここはこらえろ！！
-BARRET	BARRET
 Shu' up!!	うるせえ！！
 Dyne	ダイン
 Watch out!!	あぶねえ！！
@@ -1197,63 +1038,38 @@ Scarlet	スカーレット
 Kya, ha, ha!!! Looks like one hit you!!	キャハハハハ！！！ちゃんと当たるじゃないか！！
 Scarlet	スカーレット
 Kya, ha, ha!! Stop playing around and cover me!!	キャハハハハハ！！！ほら、遊んでないで援護しな！！
-BARRET	BARRET
 Dyne!! Hang on!!	ダイン！！離すんじゃねえぞ！！
 Listen to me!! You're comin' back to the village, hear!!?	いいか！！村へ帰るんだろ！！
 Dyne	ダイン
 Yeah… I ain't lettin' go…	ああ……。離すわけねえ……
 You're comin' back… Everyone's waitin' for ya…	俺たちの村に帰るんだ………みんなが待ってる…
 Eleanor… and Marlene… They all waitin' on us…	エレノアが…マリンが……俺たちの帰りを……
-BARRET	BARRET
 Dyyyyyyne!	ダイーーーーーン！
-BARRET	BARRET
 From then on, I couldn't use my right arm no more.	オレの右腕はもう使い物にならなかった
-BARRET	BARRET
 …I was depressed for a while.	……しばらく悩んだけどよ
-BARRET	BARRET
 But then I threw away my artificial arm and got this gun grafted in.	オレは右腕をすてこの銃を手に入れた
-BARRET	BARRET
 Got a new right arm to get revenge on the Shinra, who took everything away…	オレからすべてを奪っていった神羅に復讐するための新しい右腕……
-BARRET	BARRET
 Back then, I heard the doc say there was another man who got the same operation as me.	そのときの医者から聞いたのさ。オレと同じ手術を望んだ男がもう１人いるってことをな
 But, his was the left arm.	ただし、そいつは左腕が銃になっている
-CLOUD	CLOUD
 …	…………
-AERIS	AERITH
 But…Dyne's injury was the same as yours, right?	でも……それならダインもあなたと同じ、でしょ？
-TIFA	TIFA
 Yeah, that's right. He was deceived by the Shinra too.	そうよね。神羅にだまされたんだもの
 He'll probably join us to fight against the Shinra.	きっと、いっしょに神羅と戦ってくれるわ
-BARRET	BARRET
 …Wouldn't bet on it. I gotta 'pologize to Dyne before I can rest in peace.	……わからねえ。わからねえが、オレはダインにあやまらなくちゃ気がすまねえ
-BARRET	BARRET
 An' that's why I gotta go alone.	だからよ、１人でいかせてくれ
-CLOUD	CLOUD
 Do whatever you want… Is that what you want to hear?	好きにすればいい
 Well, I can't let you do it. We need your help to save the Planet.	と、いいたいところだがダメだなここで、アンタに死なれると夢見が悪そうだ
-AERIS	AERITH
 BARRET, this isn't the end.	BARRETここで終わりじゃないよ
-TIFA	TIFA
 Weren't you going to save the Planet?	星を救うんでしょ？
-BARRET	BARRET
 @#$%! TIFA, you oughtta know by now.	へっ！TIFA、もうわかっただろ？
-TIFA	TIFA
 …That's all right. I'm not so different from you.	……いいじゃない、べつに。私だって似たようなものだわ
-AERIS	AERITH
 That's easier to understand. It's you, BARRET.	わかりやすいよ、そのほうが。BARRETらしいもん
-CLOUD	CLOUD
 So there it is, BARRET. So I guess it'll be BARRET, me, and…	というわけだ、BARRET。さて、BARRETと俺と……
-AERIS	AERITH
 I wonder if Dyne will join us?	ダインさん、仲間なってくれるかな？
-TIFA	TIFA
 Be careful.	気をつけてね
-RED XIII	RED XIII
 Hmm? Shall I go with you?	ん？　私も行こうか？
-CAIT SITH	CAIT SITH
 Fortune's good. Everything is perfect!	ええ占い出てますわ。なんもかんもバッチリですわ！
-YUFFIE	YUFFIE
 You all sure are acting pretty heroic, considerin' we're not makin' any money on this…	金にもならないのに物好きなやつらだねえ
-CLOUD	CLOUD
 Looks like we could get some sleep here.	ここで、ひと眠りできそうだ
 Sleep	ねる
 Don't sleep	ねない
@@ -1264,27 +1080,21 @@ Don't get on	乗りたくない
 Corel Desert	コレルサバク
 Corel Prison	コレルプリズン
 Dyne	ダイン
-BARRET	BARRET
 …Dyne …is that you?	……ダイン……おまえなのか？
 Dyne	ダイン
 Now that's a voice I haven't heard in years…	なつかしい声だな……
 Dyne	ダイン
 A voice I'll never forget…	忘れようにも忘れられない声だ……
-BARRET	BARRET
 I always hoped I'd be able to see you again someday… I knew you were alive somewhere… we had the same operation.	いつか会えると信じていた……オレと同じ手術を受けどこかで生きていると……
-BARRET	BARRET
 Listen Dyne, I want to…	聞いてくれダイン。おまえに……
 Dyne	ダイン
 I can hear her voice. What's that?	声が……聞こえるんだ
-BARRET	BARRET
 …?	……？
 Dyne	ダイン
 It's Eleanor's voice. Begging me… not to hate your rotten guts.	聞こえるんだよ、エレノアの声が。おねがいだから……BARRETをうらまないでってさ
 Dyne	ダイン
 That's why I never hunted you down…	だから、あんたを追っかけるのはやめといた……
-BARRET	BARRET
 …I know I was stupid. I'm not asking you to forgive me.	……自分の愚かさは知っている。許してくれとは言わない
-BARRET	BARRET
 But…what're you doin' in a place like this?	でもよ……こんなところで何をしてるんだ？
 Why ya wanna kill people who ain't even involved? Why?	関係ない人間を殺してどうなる？なぜだ？
 Dyne	ダイン
@@ -1295,7 +1105,6 @@ Dyne	ダイン
 I don't CARE about reasons!	理由なんてどうでもいい！
 Dyne	ダイン
 All they give us is artillery and stupid excuses… What's left is a world of despair and emptiness…	与えられるのは銃弾と不条理…残されるのは絶望と無の世界…それだけだ！！
-BARRET	BARRET
 …	…………
 Dyne	ダイン
 You still want to hear 'why'? …All right, I'll tell you.	それでも聞きたいか？……なら教えてやろう
@@ -1309,60 +1118,45 @@ Dyne	ダイン
 The whole world!	この世界のすべてを！
 Dyne	ダイン
 I got nothing left in this world. Corel, Eleanor… Marlene…	この世界にはもう何もない。コレル村、エレノア……マリン……
-BARRET	BARRET
 Dyne, Marlene… Marlene's still alive.	マリンは……マリンは生きている
 Dyne	ダイン
 …?	……？
-BARRET	BARRET
 I went back into town. I thought she was gone for sure.	あのあと、オレは村にもどった。もう逃げられない…そう思った
-BARRET	BARRET
 I wandered around town for awhile…	だからせめて、最後はミーナのそばにいたいと思った
-BARRET	BARRET
 That's when I found her… …found Marlene.	そこであの子を……おまえの娘、マリンを見つけた
 Dyne	ダイン
 …	……
-BARRET	BARRET
 She's in Midgar. Let's go see her together, all right?	マリンはミッドガルにいるんだ。一練に会いに行こう、な？
 Dyne	ダイン
 So…she's still alive?	そうか……生きているのか……
 Dyne	ダイン
 All right, BARRET. Then I guess you and me gotta fight.	わかったよ、BARRET。やはりおまえと戦わなくてはならないな
-BARRET	BARRET
 What!?	なんだと！？
 Dyne	ダイン
 Eleanor's all by herself. I gotta take Marlene to her.	エレノアが１人でさみしがってる。マリンも連れて行ってやらないとな
-BARRET	BARRET
 Dyne…are you crazy!?	ダイン……正気か！？
 Dyne	ダイン
 Marlene wants to see her mom, don't she?	マリンだって母さんに会いたがってるだろ？
-BARRET	BARRET
 Stop, Dyne! I can't die yet!	やめろ、ダイン！オレはここで死ぬわけにはいかねえんだ！
 Dyne	ダイン
 Oh yeah? Well my life's been over ever since then.	そうかい。俺はあの日から命はすててるぜ
-BARRET	BARRET
 Stop it! I don't wanna fight you!	やめてくれ！おまえとはやりたくねえ！
-CLOUD	CLOUD
 BARRET!	BARRET！
-BARRET	BARRET
 CLOUD, you stay the hell out of it! This is MY problem!!	CLOUD、手を出すな！これは、オレの間題だ！！
 Dyne	ダイン
 …BARRET…	……BARRET……
-BARRET	BARRET
 Dyne!!	ダイン！！
 Dyne	ダイン
 Back!!	来るな！！
 Dyne	ダイン
 …I didn't just lose an arm back then…	……俺はあの時片腕と……いっしょに
 I lost something irreplaceable. I don't know where it went wrong…	かけがえのないものを失った……どこで……くいちがっちまったのかな……
-BARRET	BARRET
 Dyne…I don't know either, man.	ダイン……わからねえよ
-BARRET	BARRET
 Is this the only way… we can resolve this?	オレたち……こういうやりかたでしか決着をつけられなかったのか？
 Dyne	ダイン
 I told you… I… I wanna destroy everything…	言ったはずだ……俺は……壊してしまいたかったんだよ……
 Dyne	ダイン
 Everything… This crazy world… Even me…	何もかも……このくるった世界も……俺自身も……
-BARRET	BARRET
 An' what 'bout Marlene? What's gonna happen to her!?	マリンは！マリンはどうなるんだ！
 Dyne	ダイン
 …Think about it…BARRET… How old was Marlene back then?	……考えてみろ……BARRET……あのときマリンはいくつだった……？
@@ -1372,39 +1166,28 @@ Dyne	ダイン
 And what's more…BARRET…	それにな……BARRET……
 Dyne	ダイン
 My hands are too stained to carry her anymore…	マリンを抱いてやるには俺の手は……少々汚れすぎちまったのさ……
-BARRET	BARRET
 …	……
 Dyne	ダイン
 BARRET…	BARRET…
 Dyne	ダイン
 Give that pendant to Marlene… It was…Eleanor's… my wife's…a memento…	そのペンダントをマリンに…エレ…ノアの……女房の……かたみ……
-BARRET	BARRET
 All right…	わかった……
 Dyne	ダイン
 …so…Marlene's… already…4…	……そうか……マリンが……もう……４つ…か……
-BARRET	BARRET
 Dyne…?	ダイン……？
 Dyne	ダイン
 BARRET… Don't…you… …Don't ever make her…cry…	BARRET……マリンを…………泣かせる…な…よ……
-BARRET	BARRET
 Dyne!	ダイン！
-BARRET	BARRET
 Dy------ne!!	ダイーーーン！！
-BARRET	BARRET
 …Dyne. Me an' you were the same…	……ダイン。おまえと同じなんだ……
-BARRET	BARRET
 My hands ain't any cleaner… I shouldn't carry Marlene either…	オレだって……オレの手だって……汚れちまってる……
-BARRET	BARRET
 Uuuurrrrrrgh!!!	うおぉぉーーーー！！！
 Mr.Coates	コーツ
 You want somethin'?	何か用か？
-BARRET	BARRET
 I want to go up.	上へ行きてえ
 Mr.Coates	コーツ
 Like I told you before, you gotta get the boss's permission, then win the Chocobo…	だからよ、ボスの許可をとってチョコボレースに……
-BARRET	BARRET
 Dyne's got his reasons an' can't speak.	ダインはワケがあって話ができなくなった
-BARRET	BARRET
 So, I got this, instead.	そのかわり、これをもらってきたぜ
 Mr.Coates	コーツ
 Yeah, bull--!!	ゲッ……
@@ -1417,11 +1200,9 @@ You must've. Or you'd never be holding that thing.	いや、そうなんだろ�
 …So Dyne's dead… Maybe now, the place'll calm down a little.	そうか……ダインが死んだかこれで、ここも少しは落ちついた土地になるぜ
 Mr.Coates	コーツ
 Dyne didn't care who anyone was…	なにしろダインはだれかれかまわず……
-BARRET	BARRET
 The hell do YOU know!!	てめえに何がわかるってんだ！！
 Mr.Coates	コーツ
 R…ight! I mean, no, I DON'T know anything. S…sorry.	わわわ、わかった！いや、なんにもわかってないです。す、すいません
-CLOUD	CLOUD
 Then, will you get us outta here?	それじゃあ、ここから出してもらおうか？
 Mr.Coates	コーツ
 Huh? Oh man, you guys are mistaken.	ん？　あんたたちなんか、かんちがいしてないか？
@@ -1431,7 +1212,6 @@ Mr.Coates	コーツ
 That's to win the Chocobo Race and that's held up there, in the Gold Saucer.	ゴールドソーサーで行なわれているチョコボレースで優勝するしかねぇ
 Mr.Coates	コーツ
 And, only one racer can go up at a time.	それに、一度に上に行けるレーサーはたった１人だ
-BARRET	BARRET
 Say what!?	なんだと！
 Mr.Coates	コーツ
 Noooo! Really, even if you threaten me!!	だーーっ！いくら、おどしてもダメだ！！
@@ -1439,22 +1219,14 @@ A rule's a rule. I can't change it.	このルールだけは変えるわけに�
 If I do, the whole system down here'll get messed up!! An' I can't do that!	ここの規律がメチャクチャになっちまう！！これは、ゆずれねぇ！
 Mr.Coates	コーツ
 OK, OK, I'll let one go up there. After that, he's gotta deal with Dio.	ひ、１人は上に送ってやる。後は、そいつがディオと取り引きするなり、なんなりしな
-BARRET	BARRET
 Alright then.	ちっ！　しょうがねぇ
-BARRET	BARRET
 CLOUD, you go.	CLOUD、おまえ行ってこい
-BARRET	BARRET
 We'll wait down here.	オレたちは、下でまってるからよ
 Hurry up an' win that Chocobo Race, an' get us outta here!	さっさと、チョコボレースとかいうのに勝って、こっちもなんとかしろ！
-RED XIII	RED XIII
 You're right. CLOUD should do it.	そうだな、CLOUDが適任だろう
-AERIS	AERITH
 Yes, good luck, CLOUD.	うん、CLOUDがんばってね
-TIFA	TIFA
 Right, CLOUD. We'll be waiting and rooting for you.	そうね、CLOUD私たち待ってるからたのむわよ
-YUFFIE	YUFFIE
 Well, CLOUD go get 'em!	じゃ、CLOUDたのんだよ
-CAIT SITH	CAIT SITH
 OK CLOUD, knock 'em dead!	ほんな、CLOUDさんガンバッテなぁ～
 Mr.Coates	コーツ
 Have you decided?	は、話は、まとまったか？
@@ -1597,17 +1369,13 @@ Boy, if you're reading this letter, then you must've won. I know you earned it.	
 I heard about Dyne from Ester. Now that you won, I'm granting you and your friends a full pardon, and setting you all free.	ダインのことはエスト君から聞いた。少年が勝つことができたなら私の権限で、君の仲間の自由も約束しよう
 And by way of apology, I have a little gift for you to use on your journey.	それと、おわびと言ってはなんだが、プレゼントを用意した。旅のやくにたててくれたまえ
 Sorry I couldn't be there to tell you this in person, but I'm a very busy man. Sincerely, Dio	これでも、多忙な身の上。手紙という形でしつれいした。ではディオちゃん　より
-CLOUD	CLOUD
 A gift?	プレゼント？
-AERIS	AERITH
 CLOUD, this is great!! The assistant manager just stopped by and dropped off a 'buggy'!	CLOUD！？　ね、すごいのよ！いまね、園長の使いとかいう人が来て『バギー』置いていったの
 Now we can go over deserts' and 'rivers', no problem.	これがあれば『サバク』も『川』もラクラクよ
 OK, CLOUD. I'll be waiting outside.	じゃ、CLOUD。外でまってるね
-CLOUD	CLOUD
 (Hmm? The letter continues…)	（ん？　手紙に続きがある）
 P.S. I recently met Sephiroth. I'll bet he's pretty popular with boys your age.	Ｐ．Ｓ．この間、私はセフィロスにあったぞ少年たちの年代では、彼のファンもいるだろう
 Why don't you get his autograph? He was heading toward Gongaga, south of the river.	サインでももらったらどうだ？彼は、ここから【南の川を越えてゴンガガエリア】に向かったようだぞ
-CLOUD	CLOUD
 Sephiroth…	セフィロス……
 Ester	エスト
 I guess this is goodbye.	じゃあ、お別れね

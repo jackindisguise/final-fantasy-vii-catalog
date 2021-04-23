@@ -1,53 +1,28 @@
 Nibelheim	ニブルヘイム
-TIFA	TIFA
 What!?	え～っ！！
-TIFA	TIFA
 This was all burnt down, wasn't it?	燃えちゃったはず、だよね？
-CLOUD	CLOUD
 …I thought so.	……そのはずだ
-TIFA	TIFA
 Then why… My house is still here too…	それなのに、どうして？私の家もある……
-BARRET	BARRET
 The hell's goin' on!? This a dream or somethin'?	どうなってるんだよ！おまえ夢でも見てたのか？
-AERIS	AERITH
 …Something's strange?	……なんだか、変？
-RED XIII	RED XIII
 I wonder what's going on…	どういうことなんだろう……
-CAIT SITH	CAIT SITH
 CLOUD, maybe you were just dreaming…?	CLOUDさん、夢でも見とったんとちゃいますか？
-CID	CID
 Hey, it isn't like what you told me!	聞いてた話とちがうぜ！
-YUFFIE	YUFFIE
 What the…?	なになに！？
-BARRET	BARRET
 You said the whole town burnt down, right?	おまえ、この村は全部燃えちまったって言ってたよな
-AERIS	AERITH
 This is Nibelheim, right? But the town's all here.	ここ、ニブルヘイムだよね？村、ちゃんとしてるよ
-RED XIII	RED XIII
 This is Nibelheim? I heard it burnt down.	ここがニブルヘイム？燃えて全滅って聞いてたけど
-CAIT SITH	CAIT SITH
 The whole town was destroyed by Sephiroth. At least that's what I heard…	セフィロスのせいで村は全滅。そう聞いてましたけど……
-CID	CID
 Didn't you say that your hometown burned down?	おめえ、故郷は燃えてなくなったとか言ってなかったか？
-YUFFIE	YUFFIE
 I thought someone said this town burnt down!	村、なくなったって誰かから聞いたよ！
-CLOUD	CLOUD
 …Yeah.	……ああ
-BARRET	BARRET
 You tryin' to fool us?	おまえ、オレたちをだましやがったのか！？
-AERIS	AERITH
 Hey, what's going on?	ね、どうなってんのかな？
-RED XIII	RED XIII
 CLOUD… Did you lie to us?	CLOUD……オイラたちにウソついた？
-CAIT SITH	CAIT SITH
 CLOUD, did you make up that story just to get our support?	CLOUDさん同情でもひこ思て、つくり話ですか？
-CID	CID
 Yo, CLOUD. It's not good to lie.	CLOUDよう。ウソはいけねえぜ
-YUFFIE	YUFFIE
 What happened?	どしたの？
-CLOUD	CLOUD
 I'm not lying!	俺はウソなんか言ってない
-CLOUD	CLOUD
 I remember…the intense heat of the flames…	俺はおぼえてる……あの炎の熱さを……
 Wooow… He's…calling…Sephiroth… is…calling…	うぁぁぁあああ……呼んで……る……セフィロスが……呼んでる……
 Got "Mind Plus!"	『マインドアップ』を手にいれた！
@@ -58,32 +33,25 @@ Over…mountains… …gone…	山……こえて……行って……しまっ�
 What is it?	なんだい、あんた？
 Nothing	なんでもないんだ
 I want to hear your story	話が聞きたい
-CLOUD	CLOUD
 I lived in this house until I was 14…	俺はこの家に１４歳まで住んでいた……
-CLOUD	CLOUD
 No, but this town was burned down.	いや、それよりこの村は全部燃えたはずだ
 You're sick, saying such things…	なにをネボケたこと言ってるんだい！
 Get out of here!	顔あらってからおとといおいで！
 Oh, really. Then, it'll help me too.	そうかいそうかい。そりゃぁ、私も助かるよ
 What's going to happen to this Planet!? What the hell's Shinra doing!?	この星はどうなっちまうんだい！神羅カンパニーは何をしてるんだい！
-CLOUD	CLOUD
 A man with a black cape!?	黒マントの男！？
-CLOUD	CLOUD
 He has a tattoo of the number '11'…	『１１』のイレズミがある……
 Received "Turbo Ether!"	『エーテルターボ』を手にいれた！
 …Must…go… …Reun…ion…	……行かな……くては…………リユニ……オン
 …Must…get…it… and bring…to…Se…phi…roth…	あれ……を……手にい……れセ……フィロスに……とどけるの……だ
 Then…become…one… with…Se…phi…roth…	そ……して……おぉ……セフィ……ロスと……ひとつ……に
-CLOUD	CLOUD
 This guy's number '5'…	この男はナンバー『５』……
-TIFA	TIFA
 CLOUD… CLOUD was playing.	CLOUD……CLOUDが弾いてた
 I wonder what…this is?	なんだろう……これ
 Received "Elemental" Materia!	『ぞくせい』のマテリアを手にいれた
 It looks like Materia, but I can't hold any more.	マテリアみたいだけど、もうもてない
 TIFA's secret savings, 1 gil came out of the keyboard.	ピアノのけんばんの間からTIFAのへそくり１ギルがでてきた
 I've heard this melody somewhere before. I played it well.	どこかで聞いたメロディ。なんとなくうまく弾けた……
-TIFA	TIFA
 I have the sheet music for that song.	その曲なら、がくふがあるわ
 Huh? Wait a minute! There's something inside the music sheet.	あれ？　ちょっと待って！がくふの間に何かはさまってる
 TIFA, what's happened to our town? Was it all an illusion, or just a dream? No, it was neither. I remember trying to get people out of the flames, but not having the strength… Burning with anger, I went to the reactor to kill Sephiroth.	TIFAよこの村はいったいどうなっているのだ？あれは幻、それとも夢だったのか？いや、そんなはずはない。私ははっきりと覚えている。炎の中から無事な者を救いだそうとしたが力およばず……怒りに燃えた私はセフィロスを倒すべく魔晄炉へ向かった。
@@ -104,15 +72,12 @@ I want to give it to you myself, but it's hard for my students to see me as an o
 To my most precious student,  From Zangan	最愛の弟子へ　ザンガン
 Tifa's Final Mystery?	TIFAの最終奥義
 Received "Final Heaven"	『ファイナルヘブン』を手にいれた
-TIFA	TIFA
 Did you play my piano?	私のピアノを弾いたの？
 No, I didn't	いや、弾かなかった
 Yeah, I jammed on it	ギンギンに弾いた
 Just a little…	ちょっとだけ
-CLOUD	CLOUD
 I can read sheet music too, you know. Ummm, let's see…	俺だって、がくふくらい読め…… えっと……
 Do…\ Re…> Mi…> Ti…\ La…\ > Do…> Re…> Mi…> So…> Fa…> Do…> Re…> Do…\ Forget it…	ド…レ…ミ…シー…ラー…ド…レ…ミ…ソ…ファ…ド…レ…ド…いいや、もう
-CLOUD	CLOUD
 Play the piano?	ピアノでも弾くか……
 No, forget it	いや、やめておこう
 Aw, go for it	ちょっとだけ
@@ -133,11 +98,8 @@ Re So Ti (G)Directional key Up	方向キー上　レソシ（Ｇ）
 Mi So Do (C)Directional key Right	方向キー右　ミソ高いド（Ｃ）
 End[START]	スタートボタン　終了
 Use [START] to end.	スタートボタン　終了
-CLOUD	CLOUD
 But…I definitely remember playing the piano then. So why wasn't it burnt down?	あのとき……確かにこのピアノを弾いた。でも、なぜ焼けなかったんだ
-CLOUD	CLOUD
 A man in a black cape?	黒マントの男！？
-CLOUD	CLOUD
 Tattoo number '4'	『４』のイレズミだ
 Received "Platinum Fist!"	『プラチナフィスト』を手にいれた！
 …Where…are…you? Great…Se…phi…roth…	……どこ……で……す……か？セフィ……ロス……さま
@@ -146,7 +108,7 @@ Periodic Report to Professor Hojo	定期報告　宝条博士へ
 Unfortunately, no 'CLONES' have left this town this quarter. As previously reported, the 'CLONES 'seem to be sensing something.	残念ながら今期も村を出て行った【コピー】はいません。すでに報告させていただいたとおり【コピー】たちは確かに何かを感じてはいるようです。
 But all they say is, 'Reunion' or 'Sephiroth' and show no other signs of activity.	しかし、うわごとのように【リユニオン】【セフィロス】などと言うだけであり、どこかに旅立つという気配はまったくありません。
 2  Confidentiality Report	２　機密保持関係報告
-A total of eight people have visited this town this quarter. 	今期に村をおとずれた人間は計８名。  
+A total of eight people have visited this town this quarter.	今期に村をおとずれた人間は計８名。 
 Fortunately, none knew about the incident five years ago.	さいわい、今期も、５年前の事件を 知っている者はいませんでした。
 Therefore, no one knows the town was restored exactly as it was five years ago. Our staff, disguised as townspeople, have improved their acting skills, and we do not report any problems at this time.	ですから、村が燃える前と同じように再建されたことに気づいた者はいません。村人のふりをしているスタッフの演技もなかなか上手くなりましたのでこちらの方は間題なしと思われます。
 That is all.	以上、報告いたします
@@ -160,12 +122,10 @@ Enjoy your stay.	では、ごゆっくりどうぞ
 You don't have enough money.	お金……足りないですね
 Well, maybe next time…	では、またの機会に……
 Oh, I'm so sorry. I've got lots to do…	あ、すいません。ちょっと仕事がたてこんでますので……
-CLOUD	CLOUD
 This town was supposed to have burnt down five years ago.	この村は５年前に全部燃えてしまったはずだ
 What the hell is going on?	いったいどうなってるんだ？
 Sir, don't say such awful things.	お客さん、変なこと言わないで下さい！
 I was born and raised in this town. What you say never happened.	私はこの村で生まれ育ちました。そんなことは全然なかったですよ
-TIFA	TIFA
 You're lying…	おじさん、ウソついてる……
 EXCUSE ME! That's so rude…	失礼だなぁ……
 If you're going to talk like that, I'm going to have to ask you to leave.	変なこと言うなら出ていってもらいますよ
@@ -173,9 +133,7 @@ I'm checking the Mako boiler. Please don't bother me now.	魔晄ボイラーの�
 …Welcome. It's 100 gil a night…	……いらっしゃい。１泊１００ギルですが……
 Spend the night.	とまる
 Don't stay.	やめる
-CLOUD	CLOUD
 Man in a black cape?	黒マントの男！？
-CLOUD	CLOUD
 He has a tattoo number '6'. Hmm? He has something…	『６』のイレズミがあるな。ん？　何か持ってる……
 Received "Luck Source!"	『ラックアップ』を手にいれた！
 Urrr…rrrrr…rrrgh… Must…go to…Re…union…	う……あ……ぁああ……リユ……ニオン……行きたい……
@@ -183,19 +141,15 @@ Nibelheim House	小さな姉弟がいた家２階
 Re…union.	……リュ……ニヨン
 ….	………………
 Re…union.	………………ヨン
-CLOUD	CLOUD
 …The Black Cape…	黒マントの……
 Received "Luck Source!"	『ラックアップ』を手にいれた！
 Nice town, huh?	ここはいい村でしょ？
 We've been in business here for a long time…	あたしらは昔っからここで商売してますけどね……
-CLOUD	CLOUD
 …You're lying.	……ウソだ
 Do you have anything to do with this town?	もしかして……あなた、この村の関係者？
 How about bein' born and raised here?	そう、この村で生まれ育った
 Nope, guess not	いや、ちがう
-CLOUD	CLOUD
 I was here until I was 14, and I don't remember you.	１４歳までここにいた。俺はあんたなんか知らない
-CLOUD	CLOUD
 …Nothing.	……なんでもない
 It's not nice to lie!!	ウソはいけませんよ！！
 Oh yeah?	ホッ……
@@ -207,9 +161,7 @@ What? Secret?	えっ？　秘密？
 We don't have a clue. But it's all right.	ウチらは知らないな。でも、いいのいいの
 It's all over anyway!	もう全部終わりなんだからさ！
 Finished, finito, over!! Even as we speak Meteor… This is the end!	終わり終わり終わり！！ああ、こうしてる間にもメテオが～！　終末が～！！
-CLOUD	CLOUD
 A man in a black cape!?	黒マントの男！？
-CLOUD	CLOUD
 He has a tattoo of the number'12'. Mmm? He has something.	『１２』のイレズミがあるな。ん？　何か持ってるぞ
 Received"Elixir"!	『エリクサー』を手にいれた！
 Can…you…hear? The…voice…of…Se…phi…roth?	聞こ……え……る？セフィ……ロスの……声……
@@ -244,22 +196,18 @@ A  Shot for resisting.	Ａ　抵抗したため、射殺。
 B  Escaped during A's resistance.	Ｂ　Ａが抵抗する間に逃亡
 Escapee Report no. 4 Other	逃亡者に関する報告書　４ ：その他
 B's whereabouts is currently unknown. But pursuit is unnecessary due to his diminishing consciousness. Awaiting further instructions.	現在、Ｂの行方は不明です。しかし、Ｂは意識の乱れがかなり進行している様子でしたのでこのまま放置しておいても間題は無いというのが我々の見解です。今後に関する指示をおねがいします
-CLOUD	CLOUD
 Sephiroth!	セフィロス！
 Sephiroth	セフィロス
 Being here brings back memories.	なつかしいな、ここは
 Sephiroth	セフィロス
 Are you going to participate in the Reunion?	ところで、おまえはリユニオンに参加しないのか？
-CLOUD	CLOUD
 I don't even know what a Reunion is!	俺はリユニオンなんて知らない！
 Sephiroth	セフィロス
 Jenova will be at the Reunion. Jenova will join the Reunion, becoming a calamity from the skies.	ジェノバはリユニオンするものだ。ジェノバはリユニオンして空から来た厄災となる
-CLOUD	CLOUD
 Jenova, a calamity from the skies? You mean she wasn't an Ancient!?	ジェノバが空から来た厄災？古代種じゃなかったのか！？
 Sephiroth	セフィロス
 …I see. I don't think you have the right to participate.	……なるほど。おまえには参加資格はなさそうだ
 I will go North past Mt. Nibel. If you wish to know…then follow…	わたしは【ニブル山をこえて北】へいく。もしお前が自覚するならば……わたしを追ってくるがよい
-CLOUD	CLOUD
 …Reunion? Calamity from the skies?	……リユニオン？空から来た厄災？
 Hojo's Letter	宝条の手紙
 I must get rid of all those that stand in the way of my research. Even that one from the Turks.	私の研究の邪魔をする者を全て取り除かなければならない。タークスのあの男も例外ではない

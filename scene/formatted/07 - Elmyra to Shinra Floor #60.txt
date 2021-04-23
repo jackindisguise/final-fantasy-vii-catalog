@@ -3,7 +3,7 @@ Elmyra	エルミナ
 Elmyra	エルミナ
 “Well now, make yourselves at home.”	「まあ、てきとうにくつろいでおくれよ」
 Elmyra	エルミナ
-“It's about AERIS, isn't it?”	「AERITHのこと、だろ？」
+“It's about AERIS, isn't it?”	「AERISのこと、だろ？」
 CLOUD	CLOUD
 “…Sorry.	「……すまない。
 The Shinra have her.”	神羅にさらわれた」
@@ -13,12 +13,12 @@ They took her from here.”	ここから連れていかれたからね」
 CLOUD	CLOUD
 “They were here?”	「ここで？」
 Elmyra	エルミナ
-“That's what AERIS wanted…”	「AERITHが望んだことだよ……」
+“That's what AERIS wanted…”	「AERISが望んだことだよ……」
 CLOUD	CLOUD
-“Why is Shinra after AERIS?”	「どうしてAERITHは
+“Why is Shinra after AERIS?”	「どうしてAERISは
 	神羅に狙われるんだ？」
 Elmyra	エルミナ
-“AERIS is an Ancient.	「AERITHは古代種。
+“AERIS is an Ancient.	「AERISは古代種。
 The sole survivor.”	古代種の生き残りなんだとさ」
 BARRET	BARRET
 “What did you say?	「……なんだとさ、だって？
@@ -35,13 +35,13 @@ I got a letter saying	てがみをもらったから
 he was coming home on leave.”	わたしは駅までむかえにいったのさ」
 “You used to see this sort of thing	戦争中はよくある風景だったね。
 a lot during the war.”	
-“Her last words were,	「AERITHを安全なところへ。
+“Her last words were,	「AERISを安全なところへ。
 Please take AERIS	そう言い残して彼女は死んだ。」
 somewhere safe.”	
 “My husband never came back.	「わたしの夫は帰らず、子供もいない。
 I had no child. I was lonely.	わたしもさびしかったんだろうね。
-So I decided to take her home with me.”	AERITHを家に連れて帰ることにしたんだ。」
-“AERIS and I became close very	「AERITHはすぐに
+So I decided to take her home with me.”	AERISを家に連れて帰ることにしたんだ。」
+“AERIS and I became close very	「AERISはすぐに
 quickly. That child loved to talk.	わたしになついてくれた。
 She used to talk to me about everything.”	よくしゃべる子でねえ。
 	いろいろ話してくれたよ」
@@ -57,15 +57,15 @@ I asked if she meant a star in the sky,”	夜空の星かって聞いたら
 “but she said it was this Planet…	ちがう、この星だっていわれて……」
 She was a mysterious child in many ways.”	「まあ、いろんな意味で不思議な
 	子供だったね」
-AERIS	AERITH
+AERIS	AERIS
 “Mom.”	「お母さん」
-AERIS	AERITH
+AERIS	AERIS
 “Please don't cry.”	「泣かないでね」
 Elmyra	エルミナ
-“AERIS just blurted that out	「AERITHが突然言い出した。
+“AERIS just blurted that out	「AERISが突然言い出した。
 all of a sudden. When I asked	何があったのかって聞いたら……」
 her if something happened…”	
-AERIS	AERITH
+AERIS	AERIS
 “Someone dear to you has just died.”	「お母さんの大切な人が
 	死んじゃったよ」
 “His spirit was coming to see you,	「心だけになってお母さんに
@@ -85,14 +85,14 @@ Elmyra	エルミナ
 Until one day…”	わたしたちは幸せだった。
 	ところがある日……」
 Tseng	ツォン
-“We want you to return AERIS	「AERITHを返してほしいのです。
+“We want you to return AERIS	「AERISを返してほしいのです。
 to us. We've been searching	ずいぶん探しました」
 for her for a long time.”	
-AERIS	AERITH
+AERIS	AERIS
 “No!	「いやっ！
 Never!”	絶対いやっ！」
 Tseng	ツォン
-“AERIS, you're a very special child.	「AERITH、君は大切な子供なんだ。
+“AERIS, you're a very special child.	「AERIS、君は大切な子供なんだ。
 You are of special blood.”	君は特別な血をひいている」
 “Your real mother was an 'Ancient'.”	「君の本当のお母さんの血。
 	『古代種』の血だ」
@@ -102,19 +102,19 @@ she was an 'Ancient'.”	『古代種』って何だってね」
 Tseng	ツォン
 “The Ancients will lead us to	「古代種は至上の幸福が約束された土地へ
 a land of supreme happiness.”	我々を導いてくれるのです」
-“AERIS will be able to bring	「AERITHはこのまずしいスラムの人々に
+“AERIS will be able to bring	「AERISはこのまずしいスラムの人々に
 happiness to all those in the slums.”	幸福を与えることができるのです」
 “That is why Shinra would like	「ですから我々神羅カンパニーは
-AERIS's cooperation.”	ぜひともAERITHの協力を……」
-AERIS	AERITH
+AERIS's cooperation.”	ぜひともAERISの協力を……」
+AERIS	AERIS
 “He's wrong!	「ちがうもん！
-I'm not an Ancient!	AERITH、古代種なんかじゃ
+I'm not an Ancient!	AERIS、古代種なんかじゃ
 I'm not!”	ないもん！」
 Tseng	ツォン
-“But AERIS, surely you hear	「でもAERITH、君はときどき
+“But AERIS, surely you hear	「でもAERIS、君はときどき
 voices sometimes	誰もいないのに声が
 when you're all alone?”	聞こえることがあるだろ？」
-AERIS	AERITH
+AERIS	AERIS
 “No, I don't!”	「そんなことないもん！」
 Elmyra	エルミナ
 “But I knew.	「でも、わたしにはわかっていた。
@@ -126,7 +126,7 @@ CLOUD	CLOUD
 “It's amazing how she's avoided	「よく何年も神羅から
 the Shinra for all these years…”	逃げつづけることができたな」
 Elmyra	エルミナ
-“The Shinra need her,	「神羅はAERITHの協力が必要だったから
+“The Shinra need her,	「神羅はAERISの協力が必要だったから
 so I guess they wouldn't harm her.”	手荒なマネはできなかったんだろうね」
 TIFA	TIFA
 “But why now?”	「じゃあ、今回はどうして……」
@@ -143,7 +143,7 @@ CLOUD	CLOUD
 “…Marlene.”	「マリン、だな」
 BARRET	BARRET
 “Marlene!!	「マリン！！
-AERIS was caught	マリンのためにAERITHは
+AERIS was caught	マリンのためにAERISは
 because of Marlene!?”	つかまったのか！」
 BARRET	BARRET
 “I'm sorry.	「すまねえ。
@@ -177,11 +177,11 @@ She's upstairs asleep,	ま、とにかく２階で眠ってるから
 Why don't you go and see her?”	会っておやりよ」
 TIFA	TIFA
 “It's my fault…	「私のせい……。
-I was the one who got	私がAERITHを巻きこんだから」
+I was the one who got	私がAERISを巻きこんだから」
 AERIS involved in this.”	
 Elmyra	エルミナ
 “Don't say that.	「あんた、気にするんじゃないよ。
-AERIS doesn't think so.”	AERITHだってそんなふうに
+AERIS doesn't think so.”	AERISだってそんなふうに
 	思っちゃいないよ」
 TIFA	TIFA
 “I feel so depressed.”	「なんか落ちこんじゃう」
@@ -197,14 +197,14 @@ Marlene	マリン
 Your whiskers	泣いちゃダメだよ。
 hurt!”	おヒゲ、いたいよ！」
 BARRET	BARRET
-“You gonna go help AERIS, right?	「AERITHを助けにいくんだろ？
+“You gonna go help AERIS, right?	「AERISを助けにいくんだろ？
 She's done so much for me…”	すっかり世話になっちまったからな」
 BARRET	BARRET
 “If the Shinra're involved,	「それに相手が神羅となれば
 I ain't stayin' here!	黙っちゃいられねえ！
 I'm comin', too!”	オレも行くぜ！」
 Marlene	マリン
-“Guess what? Guess what?	「あのね、あのね、AERITHがね
+“Guess what? Guess what?	「あのね、あのね、AERISがね
 AERIS asked me	いっぱい聞いてたよ」
 lots of questions.”	
 “Like what kind of person CLOUD is.	「CLOUDってどんな人って。
@@ -223,14 +223,14 @@ Don't want to sleep	眠りたくない
 Received "Potion"!	『ポーション』を手にいれた！
 Received "Ether"!	『エーテル』を手にいれた！
 Received "Phoenix Down"!	『フェニックスの尾』を手にいれた！
-AERIS's House	AERITHの家２Ｆ
+AERIS's House	AERISの家２Ｆ
 Marlene	マリン
 “Daddy,	「とうちゃん、TIFA、CLOUD！
-TIFA,	ちゃ～んとAERITH助けてきてね」
+TIFA,	ちゃ～んとAERIS助けてきてね」
 CLOUD!	
 Please bring AERIS back!”	
 TIFA	TIFA
-“You're going after AERIS, right?”	「AERITHのところへ行くのね」
+“You're going after AERIS, right?”	「AERISのところへ行くのね」
 TIFA	TIFA
 “I'm coming with you.”	「私も行くから」
 CLOUD	CLOUD
@@ -259,7 +259,7 @@ Don't get yourself killed.”	死んじゃいけないよ」
 Elmyra	エルミナ
 “I mean it, come back to her.	「必ず迎えにくるんだよ。
 Don't get yourself killed.”	死んじゃいけないよ」
-AERIS's House	AERITH's House
+AERIS's House	AERIS's House
 Received "Ether"!	『エーテル』を手にいれた！
 Received "Cover" Materia!	『かばう』のマテリアを手にいれた！
 	
@@ -301,7 +301,7 @@ CLOUD	CLOUD
 BARRET	BARRET
 “Oh yeah? Well to me it looks	「そうかよ？　オレには
 like a golden shiny wire of hope.”	金色に輝く希望の糸に見えるぜ」
-“You're right.	「そうね、AERITHを救うために
+“You're right.	「そうね、AERISを救うために
 This is the only way	残された道は、これだけだもんね」
 to save AERIS…”	
 CLOUD	CLOUD
@@ -344,7 +344,7 @@ You really gonna take these	ホンキでこれ、上まで
 stairs all the way up?”	のぼるつもりか……？」
 TIFA	TIFA
 “Well we've got to	「しょうがないでしょ。
-get to AERIS	AERITHを
+get to AERIS	AERISを
 to help her somehow.”	無事に助けるためよ」
 BARRET	BARRET
 “Of all the out of the way…”	「しかし、いくら
@@ -366,7 +366,7 @@ BARRET	BARRET
 why…the hell…	わざわざ……
 we gotta…climb…”	こんな……くろうを……」
 CLOUD	CLOUD
-“…because we don't want to start	「……AERITHを助け出すまで
+“…because we don't want to start	「……AERISを助け出すまで
 a commotion until we've saved	騒ぎはおこしたくないんだ」
 AERIS.”	
 CLOUD	CLOUD
@@ -518,7 +518,7 @@ BARRET	BARRET
 “Every floor above the 60th is	「このビルの６０階から上は
 special and not easy to get to	特別ブロックとかで
 even for employees.”	社員でも簡単には入れないってな」
-“Must be where they	「AERITHが連れて
+“Must be where they	「AERISが連れて
 took AERIS.”	いかれたのもそこにちがいねえ」
 “The security's pretty light now.	「今なら警備にもスキがある。
 Alright, let's go!!”	おおし、いくぜっ！！」
@@ -535,7 +535,7 @@ We've got to find another way…”	もっと見つかりにくい方法を…�
 BARRET	BARRET
 “Ain't gonna be no other way!	「そんなコトやってられねえ！
 If we keep wastin' time like this,	グズグズしてたら
-AERIS'll…”	AERITHだって……」
+AERIS'll…”	AERISだって……」
 TIFA	TIFA
 “I know that!	「それはわかるけど！
 But if we get caught here…”	ここで私たちまで
@@ -638,16 +638,16 @@ BARRET	BARRET
 “…I been here before.	「……前に来たことがある。
 Back when I still had both my hands.”	まだ、両腕があるころにな」
 TIFA	TIFA
-“I hope AERIS is all right.”	「AERITH、無事だといいね」
+“I hope AERIS is all right.”	「AERIS、無事だといいね」
 TIFA	TIFA
-“AERIS…	「AERITH………
+“AERIS…	「AERIS………
 She's been through a lot, huh.”	いろいろ大変だったのね」
 Yeah	そうだな
 You too, TIFA	TIFAだって
 TIFA	TIFA
 “…What's wrong?”	「……どうしたの？」
 CLOUD	CLOUD
-“I didn't want to start a ruckus till	「AERITHを助け出すまで
+“I didn't want to start a ruckus till	「AERISを助け出すまで
 we saved AERIS.”	騒ぎはおこしたくなかった」
 “I should have known	「まあ、無理だろうとは
 that was impossible though…”	思っていたが……」
@@ -735,7 +735,7 @@ We gonna rock!”	ガンガンいくぞ！」
 TIFA	TIFA
 “Remember,	「忘れないで！
 we're here to save	私たちの目的はあくまでも
-AERIS.”	AERITHを助けだすこと」
+AERIS.”	AERISを助けだすこと」
 BARRET	BARRET
 “Hell, I know that!”	「わかってるって！」
 BARRET	BARRET

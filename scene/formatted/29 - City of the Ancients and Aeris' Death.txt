@@ -2,7 +2,7 @@
 a town for nature lovers.”	ボーンビレッジへ」
 “What do you want?”	「何か用かな？」
 Where is the City of the Ancients?	古代種の都はどこだ？
-Do you know where AERIS is?	AERITHを知らないか？
+Do you know where AERIS is?	AERISを知らないか？
 What are you doing?	何をしている？
 “What do you want?”	「何か用かな？」
 Have you seen Sephiroth?	セフィロスを見かけたか？
@@ -133,7 +133,7 @@ CLOUD	CLOUD
 “So that's……the capital of the Ancients	「あれが……古代種の都
 The Forgotten City'.”	『忘らるる都』なのか」
 CLOUD	CLOUD
-“AERIS is in that 'City'.”	「あの『都』にAERITHは
+“AERIS is in that 'City'.”	「あの『都』にAERISは
 	いる……」
 CLOUD	CLOUD
 “…Ugh.”	「……ウッ」
@@ -223,7 +223,7 @@ No	いいえ
 CLOUD	CLOUD
 “I feel it…”	「感じる……」
 CLOUD	CLOUD
-“AERIS is here.	「ここに、AERITHがいる
+“AERIS is here.	「ここに、AERISがいる
 …and so is Sephiroth.”	……そしてセフィロスも」
 CLOUD	CLOUD
 “…It's not an excuse.	「……りくつじゃない。
@@ -249,7 +249,7 @@ BARRET	BARRET
 “Wh, what!	「な、なんだって！
 Sephiroth!?”	セフィロスが！？」
 TIFA	TIFA
-“You're saying it's not just AERIS,	「AERITHだけではなく
+“You're saying it's not just AERIS,	「AERISだけではなく
 but Sephiroth, too?”	セフィロスまでいるというの？」
 RED XIII	RED XIII
 “What! Sephiroth's here too!?”	「え！　セフィロスまでいるの！？」
@@ -291,7 +291,7 @@ BARRET	BARRET
 offa our lazy asses!!”	のんきにねてる場合じゃないぞ」
 TIFA	TIFA
 “If that's true, then we've got to hurry!	「それが本当なら、急がなきゃ！
-We've got to get to AERIS!”	はやくAERITHを！」
+We've got to get to AERIS!”	はやくAERISを！」
 RED XIII	RED XIII
 “Wh,…what should we do?	「ど、どうしよう？
 We must hurry to her!”	急がないと、大変なことになるよ！」
@@ -304,24 +304,24 @@ YUFFIE	YUFFIE
 …doesn't it?”	
 CAIT SITH	CAIT SITH
 “If that's true, then we're in for it!	「それが、ほんまやったらえらいことや！
-We have to find AERIS fast!”	はよAERITHさん見つけんとあかんわ」
+We have to find AERIS fast!”	はよAERISさん見つけんとあかんわ」
 VINCENT	VINCENT
 “If that's true, we should hurry.	「それが本当なら、急ぐべきだ。
 Something terrible could happen	取り返しのつかないことになる。」
 at any moment.”	
 CLOUD	CLOUD
 “…Right.	「……ああ。
-Let's hurry and	はやくAERITHをさがそう」
+Let's hurry and	はやくAERISをさがそう」
 find AERIS.”	
 CLOUD	CLOUD
 “No time to be sleeping.”	「ねている場合じゃない」
 CLOUD	CLOUD
 “No time to think about it.”	「調べているヒマはない」
 CLOUD	CLOUD
-“AERIS's voice……	「AERITHの声の聞こえた方向……
+“AERIS's voice……	「AERISの声の聞こえた方向……
 Coming from there?”	あっちか？」
 CLOUD	CLOUD
-“We have to find AERIS.”	「AERITHをさがさなくては」
+“We have to find AERIS.”	「AERISをさがさなくては」
 BARRET	BARRET
 “Hey yo!	「お、おい。
 Wait up.”	ちょっと待ってくれ」
@@ -362,34 +362,34 @@ VINCENT	VINCENT
 BARRET	BARRET
 “That way goes to	「そっちの方角へ行くと
 the Mountains up north.	北の山に出ちまうぜ。
-Let's hurry and find AERIS.”	はやくAERITHをさがそうぜ」
+Let's hurry and find AERIS.”	はやくAERISをさがそうぜ」
 TIFA	TIFA
 “If we continue this way, we'll end	「そのまま進むと、北の山に出るわ。
-up in the Northern Mountains.	AERITHはそっちには
+up in the Northern Mountains.	AERISはそっちには
 AERIS isn't over there, right?”	いないんじゃないの？」
 RED XIII	RED XIII
 “That road leads to the Northern Mountains.	「そっちは、北の山に行く道だよ。
-We have to go the other way	AERITHさがすの、方向ちがうよ」
+We have to go the other way	AERISさがすの、方向ちがうよ」
 to find AERIS.”	
 CID	CID
 “You thinkin' of going skiing?	「雪山でスキーでもするつもりか？
-If we wanna find AERIS,	AERITHさがすんなら
+If we wanna find AERIS,	AERISさがすんなら
 we go THAT way!”	そっちじゃないだろ、え！」
 YUFFIE	YUFFIE
-“We're looking for AERIS, right!	「AERITHさがすんでしょ！
+“We're looking for AERIS, right!	「AERISさがすんでしょ！
 Then why are you heading for	雪山の方行って、ど～すんの！
 the mountains!? What a dork!”	サイテ～！」
 CAIT SITH	CAIT SITH
 “CLOUD, uh	「CLOUDさん
 that's the road to the Northern Mountains.”	そっちは北の山へ行く道やで」
-“AERIS is waiting,	「AERITHさんが待ってますんや。
+“AERIS is waiting,	「AERISさんが待ってますんや。
 let's go find her.”	はよ、さがしにいきましょ」
 VINCENT	VINCENT
 “This is the road to the Northern	「これは北の山へ向かう道。
-Mountains.	AERITHをさがすのは
+Mountains.	AERISをさがすのは
 Don't you want to find AERIS?”	もうあきらめたのか？」
 CLOUD	CLOUD
-“AERIS?”	「AERITH？」
+“AERIS?”	「AERIS？」
 BARRET	BARRET
 “CLOUD!”	「CLOUD！」
 TIFA	TIFA
@@ -420,10 +420,10 @@ VINCENT	VINCENT
 “Stop it!”	「やめろ！」
 CLOUD	CLOUD
 “Ugh…what are you making me do?”	「クッ……俺に何をさせる気だ」
-AERIS	AERITH
+AERIS	AERIS
 “…stay…back…”	「……来ない……で」
 CLOUD	CLOUD
-“…AERIS.”	「……AERITH」
+“…AERIS.”	「……AERIS」
 CLOUD	CLOUD
 “This can't be real!”	「……ウソだろ？」
 Sephiroth	セフィロス
@@ -443,8 +443,8 @@ CLOUD	CLOUD
 “The cycle of nature and your	「自然のサイクルも
 stupid plan don't mean a thing.”	おまえのバカげた計画も関係ない」
 CLOUD	CLOUD
-“AERIS is gone.”	「AERITHがいなくなってしまう」
-“AERIS will no longer talk,	「AERITHは、もうしゃべらない
+“AERIS is gone.”	「AERISがいなくなってしまう」
+“AERIS will no longer talk,	「AERISは、もうしゃべらない
 no longer laugh, cry…or get angry…”	もう……笑わない
 	泣かない……怒らない……」
 CLOUD	CLOUD
@@ -513,7 +513,7 @@ that I don't understand.”	俺の知らない部分がある」
 the Black Materia to Sephiroth.”	渡してしまった」
 CLOUD	CLOUD
 “If you hadn't stopped me,	「みんなが止めてくれなければ
-AERIS might have been…”	AERITHをこの手で……」
+AERIS might have been…”	AERISをこの手で……」
 “…There's something inside of me.	「……そういう自分が俺の中にいる。
 A person who is not really me.”	俺ではない自分が」
 CLOUD	CLOUD
@@ -524,7 +524,7 @@ I should quit this journey.”	いいのかもしれない」
 CLOUD	CLOUD
 “But I am going.”	「でも、俺は行く」
 “He destroyed my hometown five years ago,	「５年前、俺の故郷を焼き払い
-killed AERIS‚and is	たった今AERITHを殺し
+killed AERIS‚and is	たった今AERISを殺し
 now trying to destroy the Planet.	そしてこの星を破壊しようとしている
 I'll never forgive…Sephiroth.”	セフィロスを……俺は許さない」
 CLOUD	CLOUD
@@ -554,7 +554,7 @@ We're all in this together!”	おんなじ仲間やないですか～」
 VINCENT	VINCENT
 “…I guess so.”	「……そうだな」
 CLOUD	CLOUD
-“I don't know how AERIS	「AERITHがどうやって
+“I don't know how AERIS	「AERISがどうやって
 tried to save the planet	メテオを防ごうとしたのかは
 from the Meteor.”	わからない」
 “And I guess now,	「今となっては
@@ -600,7 +600,7 @@ CLOUD	CLOUD
 	渡してしまった」
 CLOUD	CLOUD
 “And if you all hadn't stopped me,	「みんなが止めてくれなければ
-…AERIS might have…”	AERITHをこの手で……」
+…AERIS might have…”	AERISをこの手で……」
 CLOUD	CLOUD
 “…It's something inside me.”	「……そういう自分が俺の中にいる」
 CLOUD	CLOUD
@@ -612,7 +612,7 @@ CLOUD	CLOUD
 “But, I AM going on.”	「でも、俺は行く」
 CLOUD	CLOUD
 “Five years ago, he burned down my hometown,	「５年前、俺の故郷を焼き払い
-then he took AERIS.”	たった今、AERITHを奪った」
+then he took AERIS.”	たった今、AERISを奪った」
 “And now he's trying to destroy the Planet.	「そしてこの星を破壊しようとしている
 I won't let him get away with it.”	セフィロスを……俺は許さない」
 CLOUD	CLOUD
@@ -638,7 +638,7 @@ CID	CID
 “Well, if somethin' happens, it happens.”	「ま、なんだな。
 	そん時は、そん時だ」
 CLOUD	CLOUD
-“I wonder how AERIS was going to save	「AERITHがどうやって
+“I wonder how AERIS was going to save	「AERISがどうやって
 this planet from Meteor.	メテオを防ごうとしたのかはわからない。
 We have no way of finding out now.”	俺たちにはそれを知る方法もない」
 CLOUD	CLOUD

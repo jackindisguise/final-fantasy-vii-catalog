@@ -68,68 +68,41 @@ Let's try all of the Attractions!
 Welcome to Gold Saucer!
 Many attractions await you here at Gold Saucer. 
 You will be moved and excited, thrilled and terrified! Led from one zone to another… unlike anything you've ever experienced! Make your memories…today.
-AERIS
 Wow! Let's have fun!
-AERIS
 I know this isn't the right time to do this.
-AERIS
 Hey, BARRET, cheer up!
-BARRET
 …I ain't in a cheery mood. So jus' leave me alone.
-AERIS
 Really? That's too bad.
-AERIS
 Let's go!
-TIFA
 …whisper…whisper… (Wasn't that a little harsh, AERIS!?)
-AERIS
 …whisper…whisper… (Just act normal when this happens)
-TIFA
 …whisper… (You think so…?)
-AERIS
 Of course!
-AERIS
 We're gonna go play…
-BARRET
 So PLAY! …mess around all you want!
 Don't forget we're after Sephiroth!
-AERIS
 …I think he's mad.
-TIFA
 He'll be fine. He seems to be doing a little better now.
-AERIS
 Then, shall we!?
-TIFA
 We'd better be careful, Sephiroth might be around.
 Go together
 Don't go together
-AERIS
 I wish we could just forget everything and have fun!
 Go together
 Don't go together
-RED XIII
 …You want to go with me?
 Go together
 Don't go together
-YUFFIE
 With me!?
 Go together
 Don't go together
-TIFA
 CLOUD!
-AERIS
 CLOUD!
-YUFFIE
 CLOUD!
-RED XIII
 CLOUD!
-TIFA
 I'll go with you.
-AERIS
 Don't go alone, go with me!
-YUFFIE
 Let's go together, CLOUD!
-RED XIII
 Don't go by yourself…
 Speed Square
 Chocobo Square
@@ -154,7 +127,6 @@ Battle Square
 Wonder Square
 Round Square
 Sorry it's out of order.
-CLOUD
 Who should I ride with?
 Welcome. This attraction is 3 GP.  
 Shall you be riding this evening?
@@ -192,17 +164,14 @@ Welcome to the Gold Saucer.
 Phew…
 Man
 Hey boy.
-CLOUD
 Boy…
 Man
 How is it? You having fun?
 Mmm, so, you ARE having fun. Well, good, good for you boy.
-CLOUD
 My name's CLOUD. And stop calling me boy.
 Dio
 Mmm? Me? I'm the owner of the Gold Saucer. The name's Dio.
 Just call me 'Dio'.
-CLOUD
 (He's not even listening)
 Dio
 By the way, boy, do you know what a 'Black Materia' is?
@@ -212,17 +181,14 @@ Dio
 Ha ha ha…that, I say, that's a good one, boy! But it's not good to lie. You can't fool me.
 Dio
 Oh, so you do know?
-CLOUD
 Why d'you ask me?
 Dio
 Well, a while back, a boy your age came in and asked me if I had Black Materia.'
 Dio
 I thought you might know who he was, seein' as how you're both about the same age.
-CLOUD
 Did he happen to have…a black cape?
 Dio
 Why yes, yes indeed. And a tattoo on his hand that said '1'.
-CLOUD
 Where did he go!?
 Dio
 Ha ha ha, I have no idea.
@@ -263,7 +229,6 @@ Yes
 Not interested
 You'll receive a prize if you get more than 3000 Points. So good luck.
 HighScore CLOUD
-CLOUD
 Ugh…
 Welcome. Thank you for coming to the Ghost Hotel.
 Welcome. No matter what happens in this world, The Ghost Hotel will always be in business.
@@ -333,7 +298,6 @@ The soldiers died instantly, but the staff survived.
 Those two over there eloped, saying something about Our last moments together---' I can't bear it.
 I don't have anyone special in my life but when it happens, it happens.
 …that's why I'm working now. Oh, sorry for going off like that…
-BARRET
 Dyne…
 You know, I've been thinking about it for a while now, but you must be pretty strong.
 Probably strong enough to take on the top 1 or 2 fighters?
@@ -356,25 +320,15 @@ Gained  Battle Points
 Total  BP
 Current GP
 GP
-CLOUD
 Well, I guess I'll enjoy a few battles.
-CLOUD
 All right, I'll show 'em.
-BARRET
 I'm gonna bust the place up!
-TIFA
 I'll show 'em with a BANG!
-AERIS
 Let's make this quick.
-RED XIII
 I guess it'll be fun to show off what I've got.
-CID
 Let ol' CID show ya how it's done!
-YUFFIE
 I'll show you my moves!
-VINCENT
 Hmph…I'll show them what real fighting is.
-CAIT SITH
 Then, I'm off!
 Changed my mind
 Current BP
@@ -486,7 +440,6 @@ Ask how to buy
 Thank you! 1 BET is  gil. This is the next race.
 Which rank would you like?
 You're a Chocobo jockey, right? Which rank will you ride in?
-CLOUD
 I lost…
 C(1BET 100gil)
 B(1BET 200gil)
@@ -514,7 +467,6 @@ This data is helpful when you make your pick.
 After you've made your selections, press [START] to start the race.
 You do not have enough gil…
 It should come in pretty soon…
-CLOUD
 I won!
 You may exchange your ticket for an item or GP.
 Item please
@@ -548,9 +500,7 @@ Received "Megalixir"!!
 Received "Turbo Ether"!!
 Received "Hi-Potion"!!
 Received "Ice Crystal"!!
-CLOUD
 I lost…
-CLOUD
 I won!!
 I'm sorry We can't play yet…
 Ester
@@ -570,7 +520,6 @@ Tell me how to ride it
 Don't do it
 Ester
 Hmm, it seems that no Chocobos can be registered…
-CLOUD
 Which one?
 Ester
 Congratulations! You're first!
@@ -610,9 +559,7 @@ Short
 Long
 Ester
 Good Luck! Take care!
-TIFA
 Hey, CLOUD. Let me ride once in a while.
-CID
 Hey, CLOUD. Let me hop on sometime.
 Sure
 Nope
@@ -641,7 +588,6 @@ Mega Sumo
 1 game 100 gil
 Try it
 Not interested
-CLOUD
 Not enough gil…
 Push [OK] consecutively.
 Please select opponent.
@@ -736,7 +682,6 @@ You sure do need a lot of money here.
 Building 2f.
 Try it
 Not interested
-CLOUD
 Don't have enough gil…
 3D Battler
 1 game 200 gil
@@ -816,9 +761,7 @@ Level 2
 Level 3
 Level 4
 Not interested.
-TIFA
 Hey, CLOUD. Let me ride sometime.
-CID
 Hey, CLOUD. Let me get on sometime.
 Sure
 Nope
@@ -828,9 +771,9 @@ This year, Mog is pipapopupo years old. …that's 28 in human years.
 He's at that age when he should be looking for a mate.
 But before Mog can become an adult, he first needs to learn how to fly. 
 Even though Mog trains hard everyday, he still can't seem to get off the ground.  
-Looks like he's still got a long way to go…  
+Looks like he's still got a long way to go…
 Here's where you come in.
-Help Mog learn how to fly by pushing [OK] and feeding him his favorite Kupo nut. 
+Help Mog learn how to fly by pushing [OK] and feeding him his favorite Kupo nut.
 But don't overfeed him. He won't be able to fly if he's too fat.
 [OK]…Give him a Kupo nut 
 Oh?
@@ -861,65 +804,37 @@ Hey you!! What're you lookin' so down for!?
 How 'bout it? Want me to read your fortune!? A bright future! A happy future!
 Oh, but don't hold it against me if it doesn't come true!
 Oh, so sorry! I'm a fortune telling machine. The name's…
-CLOUD
 You can only read the future?
-CAIT SITH
 You kidding? I can find missing things, missing people, anything!
-CLOUD
 Then can you tell me where a man named Sephiroth is?
-CAIT SITH
 Sephiroth, right!?
 Okay, here goes!!
-CLOUD
 …Ordinary luck. It will be an active fortune.
 Give into the good will of others, and something big'll happen after summer.  …Wait…hold on…
-CAIT SITH
 Huh? Let me try again.
-CLOUD
 Be careful of forgetfulness. Your lucky color is…blue?
-CLOUD
 …Forget it.
-CAIT SITH
 Wait, wait give me another chance!
-CLOUD
 What the?
-TIFA
 What does it say?
-AERIS
 What?
-RED XIII
 Read it out loud, CLOUD
-YUFFIE
 What is it? Tell us!
-CLOUD
 What you pursue will be yours. But you will lose something dear.
-CAIT SITH
 I don't know if it's good or bad…
 This's the first time I ever got something like THIS.
-CAIT SITH
 Then shall we?
-TIFA
 Excuse me?
-AERIS
 What are you talking about?
-RED XIII
 To where?
-YUFFIE
 Huh?
-CAIT SITH
 Being a fortune teller, this is gonna bug me.
 If I don't see how it turns out, I'll never be able to relax. So, I'm going with you!
-TIFA
 Is it all right, CLOUD?
-AERIS
 What are we going to do, CLOUD?
-RED XIII
 CLOUD, it's all right with you?
-YUFFIE
 He's weird! CLOUD, don't let him come!
-CAIT SITH
 I'm comin' with you no matter WHAT you say!
-CLOUD
 H…hey!
 Yaaay!!
 Eaayyyyyyh!
@@ -932,41 +847,24 @@ Wonder Square
 They probably told you at the entrance, but most of the attractions at Gold Saucer only take 'GP'.
 They don't sell GP. You can only get 'em from the Wonder Square games or at the Chocobo Races.
 Attention! Dismissed!!
-CLOUD
 Shinra soldiers… Even here…
-AERIS
 What happened?
-TIFA
 What?
-RED XIII
 What happened?
-YUFFIE
 What is it?
-CLOUD
 Sh…!
 I'm sorry, we're currently renovating. Please come again.
 …
-CLOUD
 !!
-CLOUD
 Hmm!?
-CLOUD
 Dead…
-TIFA
 What!?
-AERIS
 What!? Why?
-RED XIII
 What the…
-YUFFIE
 Wh…why?
-TIFA
 Wa…wait CLOUD!
-AERIS
 CLOUD!? Where are you going?
-RED XIII
 Hey, CLOUD!
-YUFFIE
 Don't, don't just leave me!
 Battle Square
 I heard that this is the curator's favorite attraction. He even has his collection displayed in the arena.
@@ -982,49 +880,36 @@ I like fighters, but hate ones who're all talk.
 I watched you win eight battles. I want you to have this!
 Received "Sprint Shoes"!
 Good luck in the future too!
-CLOUD
 Did Sephiroth do this!?
-CLOUD
 No…it's not him… They're all shot… Sephiroth would never use a gun…
 Ugh, ugggh.
-CLOUD
 Hey, what happened!
 Victim
 Ugh…ugh…a man with a gun…on his arm…
-AERIS
 It can't be!?
-TIFA
 A gun on his arm!?
-RED XIII
 …did he!?
-YUFFIE
 Wow, no way!!
 Hold it right there! And stay quiet!!
 Dio
 Did you guys do this!?
-CLOUD
 N…no, it wasn't us!
 Dio
 I must've been wrong…
 Dio
 Stop them!!
-CAIT SITH
 Hurry and run, it's gonna get ugly.
-CLOUD
 He…hey!
 Arena Lobby
 Dio
 That's as far as you go.
-CLOUD
 Wait, listen to…
-CAIT SITH
 CLOUD…
 Arena
 doing it.
 Dio
 One more to go.
 Yes
-CLOUD
 Hey! Pay attention!!
 Dio
 I don't need to hear it. Pay for your crime below!!
@@ -1033,58 +918,32 @@ Do it!
 Corel Prison
 Wo-ho! Welcome to Corel Prison.
 Hold---it. If you wanna pass, you're gonna need the boss's permission.
-BARRET
 …
-AERIS
 You all right?
-TIFA
 CLOUD, you all right?
-RED XIII
 Are you all right?
-YUFFIE
 Hey, you okay?
-CLOUD
 Where are we?
-CAIT SITH
 A desert prison… Corel Prison…
-CLOUD
 A desert prison?
-CAIT SITH
 Yup, a natural prison in the middle of the desert… surrounded entirely by quicksand.
-CAIT SITH
 I heard that once you get in, you never get out…
-CAIT SITH
 But, there was one special exception…
-AERIS
 Hey!! BARRET!!
-TIFA
 BARRET!?
-RED XIII
 Mmm!? Isn't that BARRET?
-YUFFIE
 Hey? Isn't that BARRET?
-CLOUD
 BARRET…
-CLOUD
 Did you…
-BARRET
 Stay back! This's something I gotta deal with.
-BARRET
 Jus' leave me alone…
-CAIT SITH
 Whew! That's one of your friends? He sure looks dangerous…
-RED XIII
 BARRET…
-AERIS
 CLOUD, what should we do? BARRET's not his normal self.
-TIFA
 …BARRET…
-YUFFIE
 Hey, CLOUD! Just leave him alone.
 I mean, he told us to, didn't he? Then that's that, right?
-CLOUD
 This one's been shot, too…
-CLOUD
 We should find BARRET before we go out into the desert.
 Basement
 Empty…
@@ -1103,7 +962,6 @@ Not interested
 Yeah, I want to enter
 You thinkin' of livin' here forever? Then live a long life!
 Then go get permission with the boss of this place.
-CLOUD
 Who's the boss?
 You don't even know that? Oh man.
 Empty…
@@ -1140,31 +998,18 @@ Of course, if you got the boss's permission it'd be a different story, but YOU'l
 Mr.Coates
 Ha ha ha ha.
 Mayor's Old House
-CLOUD
 BARRET!
-BARRET
 Didn't I tell you not to come here!?
-CAIT SITH
 Ju…just hold on for a second! We just want to talk! You'll understand if you just hear us out!
-CLOUD
 BARRET!!
-BARRET
 Didn't want none of ya to get involved…
-AERIS
 Hey that's CLOUD's line! …It's too dangerous, I can't let you get involved…' blah, blah, blah…
-TIFA
 Yeah. We're already involved in this.
-AERIS
 We saw you and hurried here. BARRET, just tell us what's going on.
-TIFA
 We saw you and hurried here. So come on BARRET, just tell us what's going on.
-BARRET
 You guys…
-RED XIII
 I heard that the murders at the Battle Arena were done by a man with a gun-arm…was that you?
-BARRET
 There's another… another man that got a gun grafted inta one of his arms. It was four years ago…
-BARRET
 What the hell happened?
 Dyne
 What's done is done.
@@ -1175,18 +1020,14 @@ I remember…
 I was on my way home from visiting
 a Mako Reactor being built.
 BARRET! Dyne! Come quick! The village's being attacked! It's Shinra soldiers!
-BARRET
 What!!!?
 Dyne
 C'mon, BARRET! We gotta hurry!
 BARRET! Dyne! Protect the village!
-BARRET
 Hmp!! Old man!!
-BARRET
 Krggh!!
 Dyne
 BARRET!! You stay here!!
-BARRET
 Shu' up!!
 Dyne
 Watch out!!
@@ -1197,63 +1038,38 @@ Scarlet
 Kya, ha, ha!!! Looks like one hit you!!
 Scarlet
 Kya, ha, ha!! Stop playing around and cover me!!
-BARRET
 Dyne!! Hang on!!
 Listen to me!! You're comin' back to the village, hear!!?
 Dyne
 Yeah… I ain't lettin' go…
 You're comin' back… Everyone's waitin' for ya…
 Eleanor… and Marlene… They all waitin' on us…
-BARRET
 Dyyyyyyne!
-BARRET
 From then on, I couldn't use my right arm no more.
-BARRET
 …I was depressed for a while.
-BARRET
 But then I threw away my artificial arm and got this gun grafted in.
-BARRET
 Got a new right arm to get revenge on the Shinra, who took everything away…
-BARRET
 Back then, I heard the doc say there was another man who got the same operation as me.
 But, his was the left arm.
-CLOUD
 …
-AERIS
 But…Dyne's injury was the same as yours, right?
-TIFA
 Yeah, that's right. He was deceived by the Shinra too.
 He'll probably join us to fight against the Shinra.
-BARRET
 …Wouldn't bet on it. I gotta 'pologize to Dyne before I can rest in peace.
-BARRET
 An' that's why I gotta go alone.
-CLOUD
 Do whatever you want… Is that what you want to hear?
 Well, I can't let you do it. We need your help to save the Planet.
-AERIS
 BARRET, this isn't the end.
-TIFA
 Weren't you going to save the Planet?
-BARRET
 @#$%! TIFA, you oughtta know by now.
-TIFA
 …That's all right. I'm not so different from you.
-AERIS
 That's easier to understand. It's you, BARRET.
-CLOUD
 So there it is, BARRET. So I guess it'll be BARRET, me, and…
-AERIS
 I wonder if Dyne will join us?
-TIFA
 Be careful.
-RED XIII
 Hmm? Shall I go with you?
-CAIT SITH
 Fortune's good. Everything is perfect!
-YUFFIE
 You all sure are acting pretty heroic, considerin' we're not makin' any money on this…
-CLOUD
 Looks like we could get some sleep here.
 Sleep
 Don't sleep
@@ -1264,27 +1080,21 @@ Don't get on
 Corel Desert
 Corel Prison
 Dyne
-BARRET
 …Dyne …is that you?
 Dyne
 Now that's a voice I haven't heard in years…
 Dyne
 A voice I'll never forget…
-BARRET
 I always hoped I'd be able to see you again someday… I knew you were alive somewhere… we had the same operation.
-BARRET
 Listen Dyne, I want to…
 Dyne
 I can hear her voice. What's that?
-BARRET
 …?
 Dyne
 It's Eleanor's voice. Begging me… not to hate your rotten guts.
 Dyne
 That's why I never hunted you down…
-BARRET
 …I know I was stupid. I'm not asking you to forgive me.
-BARRET
 But…what're you doin' in a place like this?
 Why ya wanna kill people who ain't even involved? Why?
 Dyne
@@ -1295,7 +1105,6 @@ Dyne
 I don't CARE about reasons!
 Dyne
 All they give us is artillery and stupid excuses… What's left is a world of despair and emptiness…
-BARRET
 …
 Dyne
 You still want to hear 'why'? …All right, I'll tell you.
@@ -1309,60 +1118,45 @@ Dyne
 The whole world!
 Dyne
 I got nothing left in this world. Corel, Eleanor… Marlene…
-BARRET
 Dyne, Marlene… Marlene's still alive.
 Dyne
 …?
-BARRET
 I went back into town. I thought she was gone for sure.
-BARRET
 I wandered around town for awhile…
-BARRET
 That's when I found her… …found Marlene.
 Dyne
 …
-BARRET
 She's in Midgar. Let's go see her together, all right?
 Dyne
 So…she's still alive?
 Dyne
 All right, BARRET. Then I guess you and me gotta fight.
-BARRET
 What!?
 Dyne
 Eleanor's all by herself. I gotta take Marlene to her.
-BARRET
 Dyne…are you crazy!?
 Dyne
 Marlene wants to see her mom, don't she?
-BARRET
 Stop, Dyne! I can't die yet!
 Dyne
 Oh yeah? Well my life's been over ever since then.
-BARRET
 Stop it! I don't wanna fight you!
-CLOUD
 BARRET!
-BARRET
 CLOUD, you stay the hell out of it! This is MY problem!!
 Dyne
 …BARRET…
-BARRET
 Dyne!!
 Dyne
 Back!!
 Dyne
 …I didn't just lose an arm back then…
 I lost something irreplaceable. I don't know where it went wrong…
-BARRET
 Dyne…I don't know either, man.
-BARRET
 Is this the only way… we can resolve this?
 Dyne
 I told you… I… I wanna destroy everything…
 Dyne
 Everything… This crazy world… Even me…
-BARRET
 An' what 'bout Marlene? What's gonna happen to her!?
 Dyne
 …Think about it…BARRET… How old was Marlene back then?
@@ -1372,39 +1166,28 @@ Dyne
 And what's more…BARRET…
 Dyne
 My hands are too stained to carry her anymore…
-BARRET
 …
 Dyne
 BARRET…
 Dyne
 Give that pendant to Marlene… It was…Eleanor's… my wife's…a memento…
-BARRET
 All right…
 Dyne
 …so…Marlene's… already…4…
-BARRET
 Dyne…?
 Dyne
 BARRET… Don't…you… …Don't ever make her…cry…
-BARRET
 Dyne!
-BARRET
 Dy------ne!!
-BARRET
 …Dyne. Me an' you were the same…
-BARRET
 My hands ain't any cleaner… I shouldn't carry Marlene either…
-BARRET
 Uuuurrrrrrgh!!!
 Mr.Coates
 You want somethin'?
-BARRET
 I want to go up.
 Mr.Coates
 Like I told you before, you gotta get the boss's permission, then win the Chocobo…
-BARRET
 Dyne's got his reasons an' can't speak.
-BARRET
 So, I got this, instead.
 Mr.Coates
 Yeah, bull--!!
@@ -1417,11 +1200,9 @@ You must've. Or you'd never be holding that thing.
 …So Dyne's dead… Maybe now, the place'll calm down a little.
 Mr.Coates
 Dyne didn't care who anyone was…
-BARRET
 The hell do YOU know!!
 Mr.Coates
 R…ight! I mean, no, I DON'T know anything. S…sorry.
-CLOUD
 Then, will you get us outta here?
 Mr.Coates
 Huh? Oh man, you guys are mistaken.
@@ -1431,7 +1212,6 @@ Mr.Coates
 That's to win the Chocobo Race and that's held up there, in the Gold Saucer.
 Mr.Coates
 And, only one racer can go up at a time.
-BARRET
 Say what!?
 Mr.Coates
 Noooo! Really, even if you threaten me!!
@@ -1439,22 +1219,14 @@ A rule's a rule. I can't change it.
 If I do, the whole system down here'll get messed up!! An' I can't do that!
 Mr.Coates
 OK, OK, I'll let one go up there. After that, he's gotta deal with Dio.
-BARRET
 Alright then.
-BARRET
 CLOUD, you go.
-BARRET
 We'll wait down here.
 Hurry up an' win that Chocobo Race, an' get us outta here!
-RED XIII
 You're right. CLOUD should do it.
-AERIS
 Yes, good luck, CLOUD.
-TIFA
 Right, CLOUD. We'll be waiting and rooting for you.
-YUFFIE
 Well, CLOUD go get 'em!
-CAIT SITH
 OK CLOUD, knock 'em dead!
 Mr.Coates
 Have you decided?
@@ -1597,17 +1369,13 @@ Boy, if you're reading this letter, then you must've won. I know you earned it.
 I heard about Dyne from Ester. Now that you won, I'm granting you and your friends a full pardon, and setting you all free.
 And by way of apology, I have a little gift for you to use on your journey.
 Sorry I couldn't be there to tell you this in person, but I'm a very busy man. Sincerely, Dio
-CLOUD
 A gift?
-AERIS
 CLOUD, this is great!! The assistant manager just stopped by and dropped off a 'buggy'!
 Now we can go over deserts' and 'rivers', no problem.
 OK, CLOUD. I'll be waiting outside.
-CLOUD
 (Hmm? The letter continues…)
 P.S. I recently met Sephiroth. I'll bet he's pretty popular with boys your age.
 Why don't you get his autograph? He was heading toward Gongaga, south of the river.
-CLOUD
 Sephiroth…
 Ester
 I guess this is goodbye.

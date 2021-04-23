@@ -23,7 +23,7 @@ Empty…	からっぽだ……
 Can't reach it…	手がとどかない……
 BARRET	BARRET
 “This is Kalm.”	「ここが、カームだ」
-AERIS	AERITH
+AERIS	AERIS
 “We've reached Kalm.”	「カームに着いたね」
 TIFA	TIFA
 “So this is Kalm?”	「ここが、カームね」
@@ -32,7 +32,7 @@ RED XIII	RED XIII
 BARRET	BARRET
 “Yo, I'll be waitin' at the inn…	「おい、先に宿屋で待ってるぜ。
 Hurry and get your butt over there!”	チンタラせずに、早くこいよ！」
-AERIS	AERITH
+AERIS	AERIS
 “I wonder if everyone's there already?	「みんな、もう着いてるかな。
 Let's hurry over to the inn!”	はやく宿屋に行きましょ！」
 TIFA	TIFA
@@ -43,7 +43,7 @@ RED XIII	RED XIII
 …Shall we go?”	……行くか」
 BARRET	BARRET
 “Get over here!”	「とっとと来いよ」
-AERIS	AERITH
+AERIS	AERIS
 “Well then, I'll go on ahead.”	「じゃあ、先、行ってるね」
 TIFA	TIFA
 “Let's go CLOUD.”	「行きましょう、CLOUD」

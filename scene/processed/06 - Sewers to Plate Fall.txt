@@ -25,58 +25,37 @@ We'll destroy Sector 7 and report that AVALANCHE did it. Then we'll send in the 
 Heidegger	ハイデッカー
 Gya, haaa, haa!	ガハハハ！
 Sewer	地下下水道
-TIFA	TIFA
 Man! This is terrible.	もう！サイテーね、これ
-CLOUD	CLOUD
 You alright?	だいじょうぶか？
-AERIS	AERITH
 Yeah.	うん
-AERIS	AERITH
 Well, the worst is over…	ま、最悪の事態からはのがれられた……
-AERIS	AERITH
 Maybe not…	……でもないみたい
 Let's try and jump down	飛び降りてみよう
 Let's not…	やめるか……
-TIFA	TIFA
 It's too late… Marlene…BARRET …the people of the Slums.	もうダメだわ……マリン……BARRET……スラムの人たち
-AERIS	AERITH
 Don't give up, never give up hope. It's not easy to destroy the pillar, right?	あきらめない、あきらめない。柱、壊すなんてそんなに簡単じゃない、でしょ？
-TIFA	TIFA
 …Yeah…you're right! We still have time.	…………そうね……そうよね！まだ時間はあるわよね
 Train Graveyard	列車基場
-CLOUD	CLOUD
-AERIS, I got you mixed up in this…	AERITH。すっかり巻きこんでしまって……
-AERIS	AERITH
+AERIS, I got you mixed up in this…	AERIS。すっかり巻きこんでしまって……
 Don't tell me to go home.	ここから帰れ！な～んて言わないでね
-TIFA	TIFA
 If we can just get past the trains that are lit up, we should be able to get out of here.	え～と……明かりのついている車両を抜けて行けば出られそうね
 [Save Point]	【セーブポイント】
 Received "Hi-Potion"!	『ハイポーション』を手にいれた！
 Received "Ether"!	『エーテル』を手にいれた！
 Received "Potion"!	『ポーション』を手にいれた！
 Received "Echo Screen"!	『やまびこえんまく』を手にいれた！
-TIFA	TIFA
 We made it! The pillar's standing!	まにあった！柱が立ってる！
-CLOUD	CLOUD
 Wait! You hear something above us?	まて！上から……聞こえないか？
-AERIS	AERITH
 …gun fire?	……銃声？
-CLOUD	CLOUD
 BARRET?	BARRETか！？
-CLOUD	CLOUD
 I'm going up!	のぼるぞ！
-CLOUD	CLOUD
-AERIS! You look after Wedge.	AERITH！ウェッジをたのむ
-TIFA	TIFA
-AERIS, do me a favor.	AERITH、おねがい
+AERIS! You look after Wedge.	AERIS！ウェッジをたのむ
+AERIS, do me a favor.	AERIS、おねがい
 I have a bar called '7th Heaven' in this neighborhood.	この近くに私たちの店『セブンスヘブン』があるの
 There's a little girl named Marlene there.	そこにマリンっていう名前の小さな女の子がいるから……
-AERIS	AERITH
 Don't worry. I'll put her somewhere safe.	わかった。安全な場所へ、ね
-TIFA	TIFA
 It's dangerous here! Everyone get away from the pillar, quickly!	ここは危険です！みんな早く柱からはなれて！
 Everyone get out of Sector 7!	７番街から離れて！
-CLOUD	CLOUD
 Wedge!! You all right!?	だいじょうぶか？……ウェッジ！！
 Wedge	ウェッジ
 …CLOUD. You remembered…my name.	……CLOUDさん…。俺の名前…覚えてくれたっすね
@@ -86,7 +65,6 @@ Wedge	ウェッジ
 An' CLOUD… Sorry, I wasn't any help.	CLOUDさん……めいわくかけて、すいません…っす
 Wedge	ウェッジ
 CLOUD… It hurts…	CLOUDさん……い、痛いです……
-TIFA	TIFA
 CLOUD!! You've gotta go now, or BARRET's…	CLOUD！！早くしなきゃ、BARRETが…
 Hey now!! Oops!!	おっ！！おっおっと！！
 What on earth are you doing? Just butt out…geez!	ああ、なんてことを！！じゃましないでくれよ……ったく！
@@ -121,7 +99,6 @@ What are you more scared of AVALANCHE or me?	アバランチと先輩……ど�
 Oh, you, of course.	きっと、先輩だな
 HALT!! No one is allowed to pass!!	おう！！ここから先は立入禁止だ！！
 [Save Point]	【セーブポイント】
-AERIS	AERITH
 Don't worry. You let me handle this.	だいじょうぶ。ここはまかせて
 Uh oh… There goes the pillar.	オロオロ…柱壊れちゃうんですか
 I'm scared, but it's for your own good.	こわいんですけどあんたたちのためにね
@@ -140,206 +117,124 @@ Is that so…	そうか……
 Jessie	ジェシー
 That's…all right…	もう、いい……いいの……
 Because…of our actions…many……people died…… this probably……is our punishment…	私たち……私たちの作戦でたくさん……人、死んじゃったし…… きっと……そのむくい……ね
-Jessie	Jessie
 …Is…that so……?	……そうか……ですって……？
 Ha……cool……as usual… ex-…SOLDIER. …always…I liked that…in you…	フフ…………相変わらず……クールな……元ソルジャーさん。……そこが……いいんだけどね……
 Biggs	ビッグス
 CLOUD… so you don't care…what happens… to the…Planet?	CLOUD ……やっぱり……星の命なんて……どうなろうと……興味ないか？
 Nope, not interested	悪いけど興味ない
 You're wounded……	それよりケガが……
-Biggs	Biggs
 Hmph…you haven't changed. Oh, forget it.	へっ……変わんええな。まあ……いいや。
-Biggs	Biggs
 Thanks, CLOUD. …don't worry 'bout me…… BARRET's…fighting up there. Go help him…	ありがとよ、CLOUDでも……おれわいいから……BARRETが……上で戦っている。手をかしてやってくれ……
-BARRET	BARRET
 TIFA! CLOUD! You came!	TIFA！　CLOUD！ 来てくれたか！
 Be careful! They're attacking from the helicopter.	気をつけろ！　やつら ヘリで襲ってきやがる
-TIFA	TIFA
 Better equip ourselves before they attack in full force!	本格的にくる敵に 装備を整えておいたほうがいいわ！さっそく来たわ！
 Press the (MENU) button to access the Menu.	【メニューボタン】でメニューをひらく
 Press the (OK)button when finished.	【決定ボタン】で終了
 Press the (MENU) button to access the Menu.	【メニューボタン】でメニューをひらく
 Press the (CANCEL) button for Change Party.	【カンセルボタン】Change Partyをはずす
 Press the (OK) button when finished.	【決定ボタン】で終了
-TIFA	TIFA
 Here they come!	さっそく来だわ！
 Reno	レノ
 You're too late. Once I push this button…	おそかった、とこのスイッチを押すと……
-BARRET	BARRET
-Stop!	“Stop!”
 Reno	レノ
 That's all, folks! Mission accomplished.	はい、おしまい！　作業終了
-BARRET	BARRET
 DAMN! It's a time bomb!	“くっ！時間爆弾か！
-TIFA	TIFA
 We have to disarm it! CLOUD! BARRET! Please!	解除しなくちゃ！ CLOUD！　BARRET！　おねがい！
 Reno	レノ
 I can't have you do that. No one get in the way of Reno and the Turks…	そういうわけにはいかないぞ、と タークスのレノさまの邪魔は 誰にもさせないぞっ……と
-TIFA	TIFA
 CLOUD! I don't know how to stop this. Try it!	CLOUD！ 止めかたがわからないの。やってみて！
-CLOUD	CLOUD
 …It's not a normal time bomb.	……ただの時限爆弾じゃない 
 Tseng	ツォン
 That's right. You'll have a hard time disarming that one.	そのとおり。それを操作するのは難しい
 It'll blow the second some stupid jerk touches it.	どこかのバカ者が勝手にふれると困るからな”
-TIFA	TIFA
 Please, stop it!	おねがい、とめて！
 Tseng	ツォン
 Ha ha ha……	クックックッ……
 Only a Shinra Executive can set up or disarm the Emergency Plate Release System.	緊急用プレート解除システムの設定と解除は神羅役員会の決定なしではできないのだ
-BARRET	BARRET
 Shut yer hole!	ゴチャゴチャうるせえ！
 Tseng	ツォン
 I wouldn't try that…… You just might make me injure our special guest.	そんなことされると大切なゲストがケガするじゃないか
-CLOUD	CLOUD
-AERIS!!	“AERITH!!”
-TIFA	TIFA
-AERIS!!	“AERITH!!”
 Tseng	ツォン
 Oh, you know each other?	おや、知り合いなのか？
 Tseng	ツォン
 How nice you could see each other one last time. You should thank me.	最後に会えて良かったな。私に感謝してくれ
-CLOUD	CLOUD
-What are you gonna do with AERIS!?	AERITHをどうする気だ
+What are you gonna do with AERIS!?	AERISをどうする気だ
 Tseng	ツォン
 I haven't decided.	さあな
 Our orders were to find and catch the last remaining Ancient.	われわれタークスにあたえられた命令は『古代種』の生き残りをつかまえろ、ということだけだ
 Tseng	ツォン
 It's taken us a long time, but now I can finally report this to the President.	ずいぶんと長い時間がかかったが やっとプレジデントに報告できる
-AERIS	AERITH
 TIFA, don't worry! She's all right!	TIFA、だいじょうぶだから！ あの子、だいじょうぶだから！
-TIFA	TIFA
-AERIS!	“AERITH!”
-AERIS	AERITH
 Hurry and get out!	だからはやく逃げて！
 Tseng	ツォン
 Ha, ha, ha… Well, it should be starting right about now. Think you can escape in time?	クックックッ！ そろそろ始まるぞ。逃げきれるかな？
-TIFA	TIFA
 We're not going to make it!	???
-BARRET	BARRET
 Yo, we can use this wire to get out!	おい、このワイヤーを使って 脱出できるぜ！
-BARRET	BARRET
 Jus' hang on to me!	???
-TIFA	TIFA
 Once that Plate starts coming down it'll be too late. We gotta hurry!	上のプレートが落ちてきたら ひとたまりもないわ.いそがなくちゃ！
-BARRET	BARRET
 Marlene! MARLENE!!	マリン！マリン！！
-BARRET	BARRET
 MAR---LE---NE!!	マリーーーン！！
-BARRET	BARRET
 Biggs!	ビッグス！
-BARRET	BARRET
 Wedge!!	ウェッジ！！
-BARRET	BARRET
 Jessie!!	ジェシー！！
-BARRET	BARRET
 Goddamn it!!!	こんちくしょう！
-BARRET	BARRET
 Dammit!	こんちくしょう！！
-BARRET	BARRET
 DAMMIT ALL!!!!	こんちくしょうーー！！！！
-BARRET	BARRET
 What the hell's it all for!?	なんだ、こんなもの！
-BARRET	BARRET
 ARGGHHHH!!!	うおぉぉーー！！
-CLOUD	CLOUD
 Hey, BARRET!	おい、BARRET！
-TIFA	TIFA
 BARRET!	BARRET！
-CLOUD	CLOUD
 Hey!	おい！
-TIFA	TIFA
 BARRET, stop… Please stop, BARRET.	BARRET、もうやめて……おねがい、BARRET
-BARRET	BARRET
 URGHHHH!!!	うわぁぁぁーー！！！
-BARRET	BARRET
 God damn…	クッ！ちくしょう……
-BARRET	BARRET
 Marlene…	マリン……
-TIFA	TIFA
 … BARRET?	………ねぇ、BARRET……
-TIFA	TIFA
 Marlene is… I think Marlene is safe.	マリンは、マリンはだいじょうぶだと思うの
-BARRET	BARRET
 …huh?	……え？
-TIFA	TIFA
-Right before they took AERIS, she said, 'Don't worry, she's all right.' She was probably talking about Marlene.	AERITHが言ってたわ。『あの子、だいじょうぶだから』って、マリンのことよ、きっと
-BARRET	BARRET
+Right before they took AERIS, she said, 'Don't worry, she's all right.' She was probably talking about Marlene.	AERISが言ってたわ。『あの子、だいじょうぶだから』って、マリンのことよ、きっと
 Rrr, really!?	ほ、本当か！！
-TIFA	TIFA
 But…	でも……
-BARRET	BARRET
 Biggs… Wedge… Jessie…	ビッグス……ウェッジ……ジェシー……
-CLOUD	CLOUD
 All three of them were in the pillar.	……あの３人は柱の中にいた
-BARRET	BARRET
 Think I don't know that?	わかってる……
-BARRET	BARRET
 But…we, all of us fought together.	でもよ、でもよ！いっしょに戦ってきた仲間だ！
-BARRET	BARRET
 I don't wanna think of them as dead!	死んじまったなんて……思いたくねえ！
-TIFA	TIFA
 …And the other people in Sector 7.	……７番街の人たちも
-BARRET	BARRET
 This is all screwed up!	ああ、ヒドイもんだぜ
 They destroyed an entire village just to get to us! They killed so many people…	オレたちを倒すために街ひとつつぶしちまうんだからな。いったい何人死んだんだ……
-TIFA	TIFA
 …Are you saying it's our fault? Because AVALANCHE was here? Innocent people lost their lives because of us?	……私たちのせい？アバランチがいたから？関係ない人たちまで……
-BARRET	BARRET
 No, TIFA! That ain't it! Hell no!!	ちがう！　ちがうぜ！　TIFA！！
 It ain't us! It's the damn Shinra! It's never been nobody but the Shinra!	なにもかも神羅のやつらがやったことじゃねえか！
-BARRET	BARRET
 They're evil and destroyin' our planet just to…	自分たちの金や権力のために星の命を吸い取る悪堂ども！
 build their power and line their own damn pockets with gold!	その神羅をつぶさない限りこの星は死んじまうんだ！
-BARRET	BARRET
 Our fight ain't never gonna be over until we get rid of them!!	神羅を倒すまでオレたちの戦いはおわらねえ！！
-TIFA	TIFA
 …I don't know.	……わからない
-BARRET	BARRET
 What don't you know!? You don't believe me?	オレが言ってることわからねえのか！？
-TIFA	TIFA
 It's not that. I'm not sure about…me. My feelings.	ちがう……わからないのは自分の……気持ち
-BARRET	BARRET
 An' what about you?	おまえはどうなんだ？
-CLOUD	CLOUD
 …	……
-BARRET	BARRET
 Yo!	おい！
-BARRET	BARRET
 Where's he think he's goin'?	あいつ、どこへ？
-TIFA	TIFA
-Oh! AERIS!	あっ！　AERITHのこと！
-BARRET	BARRET
+Oh! AERIS!	あっ！　AERISのこと！
 Oh yeah, that girl. What's up with her?	ああ、あの姉ちゃんか。何者なんだ？
-TIFA	TIFA
-…I don't really know… but she's the one I left Marlene with.	……私もよく知らない。でも、マリンのことをAERITHに頼んだの
-BARRET	BARRET
+…I don't really know… but she's the one I left Marlene with.	……私もよく知らない。でも、マリンのことをAERISに頼んだの
 Damn! Marlene!!	そうだ！　マリン！！
-TIFA	TIFA
-AERIS said that Marlene was safe.	マリンはだいじょうぶってAERITHは言ってたけど……
-BARRET	BARRET
+AERIS said that Marlene was safe.	マリンはだいじょうぶってAERISは言ってたけど……
 TIFA. There ain't no turnin' back now.	TIFA。もう、あともどりはできねえんだ
 Sector 6 park	６番街公園
 You may not take on any more Materia.	これいじょうマテリアは持てません。
 Please discard some Materia.	なにかマテリアをすててください。
 Received "Sense" Materia!	『みやぶる』のマテリアを手にいれた！
 CLOUD!	CLOUD！
-BARRET	BARRET
 Take me to Marlene!	マリンのところへ連れてってくれ！
-TIFA	TIFA
-You're going to help AERIS?	AERITHを助けにいくのね？
-CLOUD	CLOUD
+You're going to help AERIS?	AERISを助けにいくのね？
 Yeah… But before that, there's something I want to know.	ああ……でも、その前に確かめたいことがあるんだ
-TIFA	TIFA
 What's that?	なに？
-CLOUD	CLOUD
 …It's about the Ancients.	……古代種
 Now listen good! The Ancients are the rightful rulers of this Planet!	よく聞け！古代種こそがこの星の正当なる支配者！
-CLOUD	CLOUD
 "Sephiroth…?"	セフィロス……？
-TIFA	TIFA
 Are you all right?	だいじょうぶ？
-BARRET	BARRET
 Pull it together, man!	しっかりしてくれよ！
 Sector 6	６番街
 In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet!	われこそ古代種の血をひきし者。この星の正統なる後継者！

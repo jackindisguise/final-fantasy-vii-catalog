@@ -1,56 +1,32 @@
 Haa--ah! Gotcha! And you deserve it, too!	ヘヘーん！やーい、だまされただろ！ザマーミロ！
-BARRET	BARRET
 Hey, we been had! And…my money!	あっ、やられた！アイツ、オレの金を！
-TIFA	TIFA
 Hey! My money!	アッ！私のお金、少なくなってる！
-AERIS	AERITH
 Hmm…Hey, don't we have less money than before?	あれ……ね、お金、へってない？
-RED XIII	RED XIII
 … Some money is missing.	…………金が減っているな
-RED XIII	RED XIII
 Hey! My emergency money!	アッ！オイラのヘソクリが！
-CAIT SITH	CAIT SITH
 Gil, gil, gil, where's my gil!?	ギ、ギルが～ボクのギルがあらへん～！
-CID	CID
 What the--!? Gone! My money's gone!	あああッ！？ねえ！　ねえぞ！　金がねえー！
-VINCENT	VINCENT
 Hmm? Pretty fast.	おや……？なるほど……すばやいな
 200 Gil Stolen!	２００ギル盗まれた！
 500 Gil Stolen!	５００ギル盗まれた！
 700 Gil Stolen!	７００ギル盗まれた！
 1000 Gil Stolen!	１０００ギル盗まれた！
-BARRET	BARRET
 &^%$!! Gimme back my money!!	チクショ～！！オレの金、かえせ～！！
-TIFA	TIFA
 Wait a second! Where's my money!?	ちょっと待ちなさい！私のお金は！？
-AERIS	AERITH
 Geez! You shouldn't have done that!!	も～う！！だめじゃない、こんなコトしちゃ！！
-RED XIII	RED XIII
 Greed…A perfect example of human nature.	金に目がくらむ……じつに人間らしい行動だな
-RED XIII	RED XIII
 Give…give back what is rightfully mine!	か、返せよ～！オイラのなんだぞ～！
-CAIT SITH	CAIT SITH
 Hey, you can't! My gil, give it back!	ちょっと、アカンて！ボクのギル、返して～な～！
-CID	CID
 Steal MY money, will ya? You got a lot of #&^%$ nerve!!	オレ様から金をくすねるたあいい度胸じゃねえか！！
 Just remember who you're dealin' with, punk!!	覚えてやがれ、このガキ！！
-VINCENT	VINCENT
 The gil doesn't seem be her real objective…	ギルが目的、というわけでもなさそうだがな……
-BARRET	BARRET
 Wassup with that broad?	なんなんだ、アイツ？
-TIFA	TIFA
 CLOUD, do you know her?	CLOUD、あのコ知ってるの？
-AERIS	AERITH
 Who is that girl?	だ～れ？あのコ……
-RED XIII	RED XIII
 You don't see one like that everyday…	……みなれない格好をしているな……
-RED XIII	RED XIII
 Who is that girl? She's still a child.	何なんだい、あいつ。まだコドモじゃないか
-CAIT SITH	CAIT SITH
 Who do you think she is? I don't recognize her face.	なんやろ、アレ。知らん顔ですなぁ
-CID	CID
 Who is that kid?	なんだ、あいつはよう？まだガキじゃねえか！
-VINCENT	VINCENT
 She has a mysterious weapon. I've seen her somewhere before…	不思議な武器を持っているな……どこかで見た記憶がある
 Man… I can't believe I lost.	チクショ～……このアタシが負けるなんて……
 You spikey-headed jerk! One more time, let's go one more time!	やい、このツンツン頭！もう１回、もう１回勝負だ！
@@ -83,21 +59,13 @@ Uuuuugh! Now I'm really mad!	キー！　ムキキー！！アッタマきたあ
 Make fun of me, will ya! Just watch!!	バカにしやがって……おぼえてろォ！！
 Hmm, just as I thought. What do you expect with my skills?	ヘヘ、や～っぱりそうか。ま、アタシの実力からいえばそれも当然だネ
 Good luck to you guys, too. If you feel up to it, we can go another around. Later!	アンタらもがんばれよ。また気が向いたら相手してやるからさ、んじゃね！
-TIFA	TIFA
 She's gone… What's with her?	行っちゃった……なんなの、あのコ……
-BARRET	BARRET
 Gone… Wassup with that?	行っちまった……なんだったんだ、アイツ……？
-AERIS	AERITH
 She's gone… So what was that all about?	行っちゃった……けっきょく、何だったのかな？
-RED XIII	RED XIII
 She's gone… So what did that prove?	行ってしまった……いったい何がしたかったんだ？
-RED XIII	RED XIII
 Huh? She's gone… What is she doing?	アレレ、行っちゃったよ……あいつ、何やってんだろ？
-CAIT SITH	CAIT SITH
 …She disappeared… I have no clue what happened.	……消えよった。なんや、サッパリわかりませんわ
-CID	CID
 She's gone, hey… What's with that kid!?	行っちまったよ、オイ……何なんだ、あのガキは！？
-VINCENT	VINCENT
 … What could her motivation have been?	…………理解に苦しむ行動だな
 What is it, you still have somethin' for me?	なんだよ、アタシにまだなんか用？
 …Hmmm. So is that it?	……ハハーン。さてはアレかな？
@@ -148,13 +116,9 @@ Okay forget it! I'm not going with you!	やめやめやめ！いっしょに行�
 Remember, if you piss me off it'll cost you!!	アタシを怒らせると高くつくの！おぼえときな！！
 Huh? Hey…HEY!	あれ、ちょ、ちょっと……
 Wait! I haven't even told you my name…	ちょっと！アタシまだ名前……
-YUFFIE	YUFFIE
 I'm YUFFIE! Good to meetcha!	アタシ、YUFFIE！ひとつヨロシク！
-YUFFIE	YUFFIE
 Heh, heh…just as I planned.	へへへ……うまくいったよ
 Now all I have to do is… a little this and a little that… nyuk, nyuk, nyuk…	あとはアレをナニして……クックック……
-YUFFIE	YUFFIE
 Hey, wait up! Wait for me!!	オ～イ、待ってよ！待ってってば～！！
-YUFFIE	YUFFIE
 Here, I'll give you back the money I've stolen from you!	盗んだお金ならホラ！ちゃんと返すからさァ！
 …Or, uh, what's left of it.	……まだ使ってないぶんは

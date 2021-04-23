@@ -1,5 +1,5 @@
 Wall Market	ウォールマーケット
-AERIS	AERITH
+AERIS	AERIS
 “This place is scary in a lot of ways.	「ここ、いろんな意味でこわいとこよ。
 Especially for a girl.	とくに女の子にはね。
 So we've got to find TIFA fast.”	早くTIFAさん、見つけなくちゃ」
@@ -68,8 +68,8 @@ I'll have to start over.”
 “I don't know what's gonna happen next.	「この先どうなるかわからんが
 But first, you gotta fill your stomach.”	まずは、腹ごしらえからですな」
 CLOUD	CLOUD
-“What's wrong, AERIS?”	「どうしたんだ、AERITH？」
-AERIS	AERITH
+“What's wrong, AERIS?”	「どうしたんだ、AERIS？」
+AERIS	AERIS
 “What is it?	「……どうした？
 Are you going outside like that?	あなた、そのまま外、出るの？
 I mean, that's okay with me, but…”	わたし、かまわないけど」
@@ -114,7 +114,7 @@ It gives me the chills.”	気味が悪いですわねえ」
 “Wanna see somethin' awesome?	「すんごいの見れんだぜ。　ついてこいよ」
 Follow me!”	
 Honey Bee Inn	蜜蜂の館
-AERIS	AERITH
+AERIS	AERIS
 “Hey!!	「キャッ！！
 CLOUD!!”	CLOUD！！」
 Johnny	ジョニー
@@ -201,7 +201,7 @@ Only members can go in. Shoo, shoo.”	残念ですが、おひきとりくだ�
 “Hey! Is that a "Member's Card" I see	「おっ！右手にかがやく『会員カード』
 shining in your hot little hand?	どうぞ、お通りください」
 Please, come in.”	
-AERIS	AERITH
+AERIS	AERIS
 “…Hmmmm.	「…………ふ～～～～ん。
 Sure, good excuse…”	そうやって、ごまかしますか」
 CLOUD	CLOUD
@@ -218,29 +218,29 @@ But, I get so nervous in front	でもでも、かわいい女の子の前だと
 of cute girls…”	きんちょうしちゃって……」
 “It just seems natural to get cautious…”	「なんだか、自然と
 	警戒しちゃうんです～」
-“I bought some pretty flowers	「AERITHちゃんから
+“I bought some pretty flowers	「AERISちゃんから
 from AERIS.”	きれいなお花買っちゃいましたよ」
 “500 gil, a little expensive.	「５００ギル、ちょっと高いかなあ。
 Well, at least I got her name.”	名前きけたから、まあゆるしますか」
 Johnny	JOHNNY
-“AERIS…	「AERITHちゃん～～。
+“AERIS…	「AERISちゃん～～。
 Thanks for the flower and 1 gil.”	お花、１ギルありがとう」
 “I'll treasure this!	「俺、大切にすっから！
 I'm going to dry it and	押し花にして、お守りにすんだ」
 keep it for good luck.”	
-“I asked AERIS for a date…”	「AERITHちゃん
+“I asked AERIS for a date…”	「AERISちゃん
 	デートにさそったらさ」
 “And she said not even if I paid her	「１００万ギルつまれてもいやだって。
 1,000,000 gil.	お花は３００ギルもするし……。
 Her flowers cost 300 gil, too…	意外と商売じょうずだぜ、ありゃ」
 She's a good business woman.”	
-AERIS	AERITH
+AERIS	AERIS
 “They bought lots of flowers from me.”	「お花たくさん
 	買ってもらっちゃった」
 “It's closing time.	「もう閉店なんですよ。
 …yawn…I'm so sleepy…”	ふぁぁ～～　ねむいです、ハイ」
 “Sir, is everything all right?	「お客さん、いいんですか？
-Look, AERIS looks so lonely.”	ほら、AERITHちゃん
+Look, AERIS looks so lonely.”	ほら、AERISちゃん
 	さびしそうじゃないの」
 “Uurrgh!	「く～～っ！　今日もここまでか……」
 So, this is it for today, huh?”	
@@ -275,7 +275,7 @@ So get the hell outta here.”	さっさとどっかへ行ってくれ」
 the most powerful man in Wall Market.”	大物、ドン・コルネオ様のお屋敷だ」
 “Look, the Don's not into men. So don't	「いいか、ドンは男には興味ないんだ。
 let me catch you around here again…”	さっさとどっかへ……」
-AERIS	AERITH
+AERIS	AERIS
 “Hey, this looks like the Don's mansion.	「ね、ここがドンの屋敷みたい。
 I'll go take a look.”	わたし、行ってくるね」
 “I'll tell TIFA about you.”	「TIFAさんに
@@ -283,12 +283,12 @@ I'll go take a look.”	わたし、行ってくるね」
 	話してきてあげる」
 CLOUD	CLOUD
 “No!! You can't!!”	「ダメだ！！」
-AERIS	AERITH
+AERIS	AERIS
 “Why?”	「どうして？」
 CLOUD	CLOUD
 “Do you know what kind of	「ここは……その……
 …place this is?”	……わかるだろ？」
-AERIS	AERITH
+AERIS	AERIS
 “Then what am I supposed to do?	「じゃあ、どうする？
 You want to go in with me?”	あなたもはいる？」
 CLOUD	CLOUD
@@ -296,7 +296,7 @@ CLOUD	CLOUD
 Besides if I bust in there,	むりやりはいったら
 it'll cause too much commotion.”	騒ぎになってしまう」
 CLOUD	CLOUD
-“But, I just can't let you	「かといってAERITHに
+“But, I just can't let you	「かといってAERISに
 go in alone…Oh, man…”	いかせるわけには……
 	いや、しかし……」
 CLOUD	CLOUD
@@ -304,20 +304,20 @@ CLOUD	CLOUD
 if TIFA's alright…”	確認できな……」
 CLOUD	CLOUD
 “What's so funny,	「なにがおかしいんだ？
-AERIS?”	AERITH？」
-AERIS	AERITH
+AERIS?”	AERIS？」
+AERIS	AERIS
 “CLOUD, why don't you	「CLOUD、女の子に
 dress up like a girl?	変装しなさい。
 It's the only way.”	それしかない、うん」
 CLOUD	CLOUD
 “WHAT!?”	「ええっ！？」
-AERIS	AERITH
+AERIS	AERIS
 “Just wait. I've got a cute	「ちょっと待っててね。
 friend I want to bring.”	きれいな友だち、連れてくるから」
 CLOUD	CLOUD
-“AERIS!	「AERITH！
+“AERIS!	「AERIS！
 I can't…”	いくらなんでも……」
-AERIS	AERITH
+AERIS	AERIS
 “You ARE worried about	「TIFAさんが
 TIFA, aren't you?	心配なんでしょ？
 Then come on, hurry!”	さ、早く早く！」
@@ -344,7 +344,7 @@ Oh well.”	まあいいか」
 “It didn't do a thing,	「役には立たなかったけど
 but thanks anyways.	気持ちはうれしかったよ。
 Here, this is for your kindness.”	お礼に、これあげるよ」
-AERIS	AERITH
+AERIS	AERIS
 “Wasn't there a Pharmacy here?”	たしか、薬屋さん、あったよね？」
 Received Key Item "Cologne"!	キーアイテム『コロン』を手にいれた！
 Received Key Item "Flower Cologne"!	キーアイテム『フラワーコロン』を手にいれた！
@@ -358,25 +358,25 @@ I can't hold it anymore!”
 do it at the counter.”	注文ならカウンターごしに　おねがいします」
 “Man,	「ふ～
 times are bad.”	うまくいかんもんだのう」
-AERIS	AERITH
+AERIS	AERIS
 “Excuse us, are you the father of	「あの～、服屋の親父さん、ですよね？」
 the girl at the Clothing Store?”	
 “I own the Clothes Shop…	「確かに服屋だが
 but I ain't your father.”	あなたの親父ではないぞ」
-AERIS	AERITH
+AERIS	AERIS
 “I didn't say that…”	「そんなこと、言ってない……」
 CLOUD	CLOUD
 “Make me some clothes.”	「服を作ってくれ」
 “I don't make men's clothes.	「わしは男物の服は作らんのだが？
 And I don't feel like makin'	それに、あまり気乗りがせんしな」
 anything right now.”	
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD,	「CLOUD、すこ～し、待ってて。
 you wait over there for a second.	わたし、話すから」
 I'll try and talk to him.”	
 “Why don't you go over there	「向こうで、なにか飲んでていいよ」
 and have something to drink.”	
-AERIS	AERITH
+AERIS	AERIS
 “You know, Mister.”	「あのね、おじさん」
 “He always said that just once,	「あの彼がね、一度でいいから
 he'd like to dress up like a girl.”	女の子の格好したいって言うの」
@@ -384,22 +384,22 @@ he'd like to dress up like a girl.”	女の子の格好したいって言うの
 a cute dress for him…”	着せてあげたいんだけど……」
 “What!?	「なんと！
 A tough lookin' guy like that?”	あんな無愛想なやつがか？」
-AERIS	AERITH
+AERIS	AERIS
 “So, how 'bout it?	「ね、ね、どう？
 Will you make him one?”	作ってくれる？」
 “…might be interesting.	「ふむ、なかなかおもしろそうだのう。
 I was gettin' a little bored	普通の服ばかり作っておったので
 just makin' regular clothes.”	ちょっとあきとったんだよ」
-AERIS	AERITH
+AERIS	AERIS
 “Then you'll do it for us?”	「じゃあ、作ってくれる？」
 “Yeah, all right.	「ああ、よかろう。
 What kind of dress you want?”	それで、どんなドレスがいいんじゃ？」
-AERIS	AERITH
+AERIS	AERIS
 “Something…”	「はだ触りは」
 That feels clean	さらっとしたの
 That feels soft	さわっとしたの
 “hm, hm, hm, and?”	「ふんふん、それで？」
-AERIS	AERITH
+AERIS	AERIS
 “And something…”	「ひかり具合は」
 shiny	きらきらしたの
 that shimmers	つやつやしたの
@@ -462,11 +462,11 @@ I really appreciate it.”
 Would you turn the other way,	そっちのおじょうさん
 for a second?”	ちょっとだけ向こうを
 	向いててくれないかな」
-AERIS	AERITH
+AERIS	AERIS
 “Why?”	「え～、どうして～？」
 CLOUD	CLOUD
-“…AERIS.”	「………AERITH」
-AERIS	AERITH
+“…AERIS.”	「………AERIS」
+AERIS	AERIS
 “Gosh!”	「もうっ！」
 “I'm sorry, lady.”	「すまないね、おじょうさん」
 “Now here's the thing.	「で、本題なんだけど
@@ -484,7 +484,7 @@ CLOUD	CLOUD
 “…”	「……」
 I'll go	引き受けよう
 Not interested	興味ないね
-AERIS	AERITH
+AERIS	AERIS
 “Finished?”	「もういいの？」
 “Good, thanks.	「そうか、ありがたい。
 I'll be waitin' here	頼んだよ」
@@ -493,7 +493,7 @@ CLOUD	CLOUD
 “I got it.”	「持ってきたぞ」
 “Oh, really!!	「おお、本当か！！
 Hey!”	あっ！」
-AERIS	AERITH
+AERIS	AERIS
 “Geez.”	「もう」
 “And, what was it?”	「で、なんだった」
 “A protein drink set.	「気合充填ドリンクゴールドセットか
@@ -695,7 +695,7 @@ this!?”	どうだー！」
 who wants to be cute?”	かわいくなりたいのは」
 CLOUD	CLOUD
 “Cute?”	「かわいく？」
-AERIS	AERITH
+AERIS	AERIS
 “Right.”	「そうなの」
 “And about the wig…”	「それで、かつらなんだけど……」
 “Yeah, I heard.	「ええ、聞いてるわよ。
@@ -717,7 +717,7 @@ out of this gym!”	コテンパンにして
 	さしあげますぜ！」
 CLOUD	CLOUD
 “Are you…”	「もしかして、あんたは」
-AERIS	AERITH
+AERIS	AERIS
 “THE beautiful Bro?”	「きれいな、お兄さん？」
 “What? You didn't know?	「いまごろ
 Always running around here	なにいっとるんじゃい。
@@ -804,23 +804,23 @@ Get a hold of yourself.”	しっかりしてくだせー」
 “Ummm, not quite there.”	「うーん、もうちょっとね」
 “So? How's it?”	「どう？　がんばってる？」
 Boutique	ブティック
-AERIS	AERITH
+AERIS	AERIS
 “Excuse me!	「すいませ～ん！
 I'd like to get a dress.”	ドレス１着、くださいな」
 “Umm, it might take a little	「うーん、ちょっと時間が
 time. Will that be all right?”	かかるかもしれませんが
 	かまいませんか？」
-AERIS	AERITH
+AERIS	AERIS
 “What's the problem?”	「何かあったんですか？」
 “Well, my father, the owner,	「ちょっと親父の奴
 has been in a slump lately.	スランプなんですよ。
 You see, he makes all the dresses.”	あ、ドレスは俺の親父が
 	作ってるんですよ」
-AERIS	AERITH
+AERIS	AERIS
 “And, where is your father?”	「その、親父さん、どちらに？」
 “He's probably plastered	「たぶん、居酒屋で
 at the bar.”	飲んだくれてますよ」
-AERIS	AERITH
+AERIS	AERIS
 “So…	「それじゃ……
 You're saying we can't get a dress	親父さん、どうにかしないと
 unless we do something	ドレス、ダメってこと？」
@@ -830,14 +830,14 @@ He's caused so much trouble.”	こまったもんですよ」
 “!”	「！」
 “You'd help me bring him back?”	「もしかして、お客さん。
 	どうにかしてくださるんですか？」
-AERIS	AERITH
+AERIS	AERIS
 “Well, if we don't do something,	「だから～！　どうにかしないと
 we don't get a dress, right?”	ドレス、手にはいらない、でしょ？」
 “Really!?	「本当っすか！
 Please help my crazy old dad.	おねがいしますよ、あのバカ親父を
 I just don't know	どうにかしてくださいよ。
 what to do anymore…”	もう、困り果ててたんすよ………」
-AERIS	AERITH
+AERIS	AERIS
 “All right, we'll do something.	「はいはい、どうにかします。
 Let's go, CLOUD!”	CLOUD、行きましょ！」
 “So how did it go?”	「どうでした？」
@@ -853,7 +853,7 @@ CLOUD	CLOUD
 “How…do you put this on?”	「これ……どうやって着るんだ？」
 CLOUD	CLOUD
 “Whoa! What are you doing!”	「わ！　なにをするんだ！」
-AERIS	AERITH
+AERIS	AERIS
 “It's still not right.	「やっぱり、ちょっと変。
 A wig! That's what you need!”	かつら、必要だね」
 “Umm, I thought you might,	「うむうむ、そうだろうと思って
@@ -865,9 +865,9 @@ there like you.	そこに、あんたと同じ趣味の人がいるんじゃ。
 Go and talk to them.”	彼に相談してみるとよいじゃろう」
 CLOUD	CLOUD
 “…'like you'?	「……同じ趣味？
-AERIS,	AERITH、親父さんに
+AERIS,	AERIS、親父さんに
 what did you tell him?”	どんな説明をしたんだ？」
-AERIS	AERITH
+AERIS	AERIS
 “Does it matter?	「いいじゃない、なんでも。
 Anyhow, we got a pretty dress!”	ドレス、きれいだしね！」
 “Hmm, not bad.	「ほう、これはなかなかどうして。
@@ -878,12 +878,12 @@ Should we try it?”
 My father's got	おもしろいものを見せてもらったよ。
 his motivation back now,	親父もやる気出してくれたし
 so the dress is on the house.”	そのドレスの代金はサービスしとくよ」
-AERIS	AERITH
+AERIS	AERIS
 “Walk more nicely like…this,	「おしとやかに歩いてね。
 Miss CLOUD.”	CLOUDちゃん」
 CLOUD	CLOUD
 “…What do you mean 'nicely'?”	「……何がおしとやかにだ」
-AERIS	AERITH
+AERIS	AERIS
 “Oh you're so cute,	「CLOUDちゃん、かわいい」
 Miss CLOUD.”	
 “Looks like everything went well.	「うまくいったようですね。
@@ -908,13 +908,13 @@ It looks good on you.”	似合っとる、似合っとる」
 “Looks like you're all set.	「そろったようじゃの。
 Now try it on,	早く着てみせてくれ」
 and let's see how it fits.”	
-AERIS	AERITH
+AERIS	AERIS
 “Aren't you going to change?”	「着替えるの？」
 Okay…I'm ready	かくごを決めた
 Not now	今は着替えない
 “…Hmm.	「……なんだか
 It's REALLY somethin'.”	すごいもんですね」
-AERIS	AERITH
+AERIS	AERIS
 “Aaah, I want one.	「でも、いいな、それ。
 Do you have one that'll	ね、わたしに似合うドレス、な～い？」
 look good on me, too?”	
@@ -924,16 +924,16 @@ look good on me, too?”
 This one's much better.”	これがいいって」
 “No, what are you saying?	「なにをいっとる。
 This one.”	こっちじゃよ」
-AERIS	AERITH
+AERIS	AERIS
 “…I want THIS one.”	「あ、わたし、これがいい」
 “Huh?”	「え？」
-AERIS	AERITH
+AERIS	AERIS
 “I'm going to go change.”	「ちょっと、着替えてくるね」
-AERIS	AERITH
+AERIS	AERIS
 “…No peeking!”	「……のぞいちゃダメよ」
-AERIS	AERITH
+AERIS	AERIS
 “So? How do I look?”	「どう？　似合ってる？」
-AERIS	AERITH
+AERIS	AERIS
 “Oh, you're no fun!”	「もう、かわいくないなぁ！」
 “You're…”	「あなたって」
 “weird.”	「ヘン」
@@ -1399,10 +1399,10 @@ Don't wander around…”	ウロウロしないでくれよ」
 “The Don's waiting in his room…	「ドンがこの部屋で
 	お待ちかねだよ。
 Ha ha ha…”	ヘヘヘ……」
-AERIS	AERITH
+AERIS	AERIS
 “Now's our chance.	「いまのうち。
 Let's find TIFA.”	さがしましょ、TIFAさん」
-AERIS	AERITH
+AERIS	AERIS
 “I wonder	「TIFAさん
 where she is?”	どこにいるのかな……」
 Closed…	かたくとざされている……
@@ -1411,11 +1411,11 @@ Don Corneo	許可なきものの
 Keep Out!	立ち入りを禁ず
 Torture Room	おしおき部屋
 	
-AERIS	AERITH
+AERIS	AERIS
 “…TIFA?”	「……TIFA、さん？」
-AERIS	AERITH
+AERIS	AERIS
 “Nice to meet you.	「はじめまして。
-I'm AERIS.”	わたし、AERITH」
+I'm AERIS.”	わたし、AERIS」
 “CLOUD's told me	「あなたのこと
 a lot about you.”	CLOUDから
 	聞いてるわ」
@@ -1423,11 +1423,11 @@ TIFA	TIFA
 “…And you are?”	「……あなたは？」
 “Hey you're the one with	「あっ、公園にいた人？
 CLOUD in the park…”	CLOUDといっしょに……」
-AERIS	AERITH
+AERIS	AERIS
 “Right, with CLOUD.”	「そ、CLOUDといっしょに」
 TIFA	TIFA
 “Oh…”	「そう……」
-AERIS	AERITH
+AERIS	AERIS
 “Don't worry.	「安心して。
 We just met. It's nothing.”	少し前に知り合ったばかりよ。
 	なんでもないの」
@@ -1439,11 +1439,11 @@ TIFA	TIFA
 “CLOUD and	「私とCLOUDは
 I grew up together.	たんなる幼なじみよ。
 Nothing more.”	なんでもないの」
-AERIS	AERITH
+AERIS	AERIS
 “Poor CLOUD,	「ふたりして『なんでもない！』
 having to stand here and listen to	な～んて言ってると
 both of us call him nothing.”	CLOUD、ちょっとかわいそう」
-AERIS	AERITH
+AERIS	AERIS
 “Right, CLOUD?”	「ね、CLOUD？」
 TIFA	TIFA
 “CLOUD?”	「CLOUD？」
@@ -1465,18 +1465,18 @@ because there was no other way	ここに入るためには仕方なかった」
 to get in here.”	
 CLOUD	CLOUD
 “I'm all right.	「身体はだいじょうぶだ。
-AERIS helped me out.”	AERITHに助けてもらった」
+AERIS helped me out.”	AERISに助けてもらった」
 TIFA	TIFA
-“Oh, AERIS did…”	「そうなの、AERITHさんが……」
+“Oh, AERIS did…”	「そうなの、AERISさんが……」
 CLOUD	CLOUD
 “TIFA, explain what you're	「TIFA、説明してくれ。
 doing in a place like this?”	こんなところで何をしているんだ」
 TIFA	TIFA
 “Yeah, um…”	「え、ええ……」
-AERIS	AERITH
+AERIS	AERIS
 “Ahem!!	「オホン！
 I'll just plug my ears.”	わたし、耳、ふさいでるね」
-AERIS	AERITH
+AERIS	AERIS
 “Please, go on with	「さあ、どうぞ、ヒミツのお話」
 your private conversation.”	
 TIFA	TIFA
@@ -1520,21 +1520,21 @@ TIFA	TIFA
 “Anyway, I have to be the	「とにかく！
 …girl for tonight.”	その１人に私が選ばれなければ
 	……今夜はアウトなのよ」
-AERIS	AERITH
+AERIS	AERIS
 “Sorry, but I overheard…”	「あの……聞こえちゃったんだけど」
-AERIS	AERITH
+AERIS	AERIS
 “If you know the three girls,	「３人の女の子が
 there's no problem, right?”	全員あなたの仲間だったら
 	間題ナシ、じゃないかな？」
 TIFA	TIFA
 “I guess so, but…”	「それはそうだけど……」
-AERIS	AERITH
+AERIS	AERIS
 “We have two here,	「ここに２人いるわよ」
 right?”	
 CLOUD	CLOUD
-“No, AERIS!	「ダメだ、AERITH！
+“No, AERIS!	「ダメだ、AERIS！
 I can't involve you.”	あんたを巻きこむわけにはいかない」
-AERIS	AERITH
+AERIS	AERIS
 “Oh? So it's all right for	「あら？　TIFAさんなら
 TIFA to be in danger?”	危険な目にあってもいいの？」
 CLOUD	CLOUD
@@ -1542,16 +1542,16 @@ CLOUD	CLOUD
 TIFA in…”	
 TIFA	TIFA
 “Is it all right?”	「いいの？」
-AERIS	AERITH
+AERIS	AERIS
 “I grew up in the slums…	「わたし、スラム育ちだから
 I'm used to danger.”	危険なこと、なれてるの」
-AERIS	AERITH
+AERIS	AERIS
 “Do you trust me?”	「あなたこそ、わたし
 	信じてくれる？」
 TIFA	TIFA
-“Yes. Thanks, Ms. AERIS.”	「ありがとう、AERITHさん」
-AERIS	AERITH
-“Call me AERIS.”	「AERITH、でいいわよ」
+“Yes. Thanks, Ms. AERIS.”	「ありがとう、AERISさん」
+AERIS	AERIS
+“Call me AERIS.”	「AERIS、でいいわよ」
 “He---y!!”	「お～い！！」
 “It's time, ladies.	「お姉ちゃんたち、時間だよ。
 The Don is waiting!”	コルネオ様がおまちかねだ！」
@@ -1565,9 +1565,9 @@ the other girl is…”	あとの１人はやっぱり……」
 “me…right?”	「俺……なんだろうな？」
 TIFA	TIFA
 “You're right, you didn't need…”	「聞くまでも」
-AERIS	AERITH
+AERIS	AERIS
 “…to ask.”	「ないわね」
-AERIS	AERITH
+AERIS	AERIS
 “They're going to get suspicious	「はやくいかないと
 if we don't hurry.”	あやしまれない？」
 TIFA	TIFA
@@ -1575,14 +1575,14 @@ TIFA	TIFA
 if ya don't look closely.”	よく見るとナカナカじゃない」
 “I wonder what BARRET would say	「BARRETが見たら
 if he could see you?”	なんて言うかな……」
-AERIS	AERITH
+AERIS	AERIS
 “Embarrassed?	「な～に、テレてるの？
 Come on, speak up!”	ダメ、ちゃんと話さないと！」
-AERIS	AERITH
+AERIS	AERIS
 “Hey, what's the secret?”	「ねえ、ヒミツのお話は？」
-AERIS	AERITH
+AERIS	AERIS
 “No---!!”	「イヤ～！！」
-AERIS	AERITH
+AERIS	AERIS
 “I'm so sorry!!”	「ごめんなさ～い！」
 Corneo Hall,2f.	コルネオの館２階
 	
@@ -1613,7 +1613,7 @@ TIFA	TIFA
 Be nice, Don.”	ドン・コルネオ」
 Don Corneo	コルネオ
 “This slender little girl!”	「このほそっこいおなごだ！」
-AERIS	AERITH
+AERIS	AERIS
 “Don, you've got	「まぁ、コルネオさんたら
 great taste.”	お目が高いわ」
 Don Corneo	コルネオ
@@ -1703,7 +1703,7 @@ Received "Phoenix Down"!	『フェニックスの尾』を手にいれた！
 CLOUD	CLOUD
 “TIFA!!”	「TIFA！！」
 You all right?	だいじょうぶか？
-We've gotta help AERIS!!	AERITHを助けるぞ！！
+We've gotta help AERIS!!	AERISを助けるぞ！！
 TIFA	TIFA
 “Hey, don't you even care about how I am?	「ちょっと、私はどうでもいいの？
 ….nevermind, let's go!”	……まあいいわ、急ぎましょ！」
@@ -1711,7 +1711,7 @@ TIFA	TIFA
 “Of course!	「あったりまえ！
 If you take me lightly,	私をアマく見ると
 you're gonna pay for it!!”	イタいめにあうんだから！！」
-AERIS	AERITH
+AERIS	AERIS
 “No---!!	「キャ～！！
 Help!!”	イヤ～！！」
 Kotch	コッチ
@@ -1727,16 +1727,16 @@ a cute girl…”	スウィ～トな恋人どうしを
 	
 	「キュー！！」
 CLOUD	CLOUD
-“AERIS!!”	「AERITH！！」
+“AERIS!!”	「AERIS！！」
 You all right?	だいじょうぶか？
 We gotta help TIFA!	TIFAを助けるぞ！
-AERIS	AERITH
+AERIS	AERIS
 “I told you.	「言ったでしょ。
 I'm used to danger.”	危険なことにはなれてるって」
-AERIS	AERITH
+AERIS	AERIS
 “To tell you the truth,	「でもホントはちょっと
 my heart was pounding!”	ドキドキしたけどね！」
-AERIS	AERITH
+AERIS	AERIS
 “Ye…yes, you're right…	「え、ええ、そうね……
 …let's hurry!”	……うん、急ぎましょ！」
 Kotch	コッチ
@@ -1751,7 +1751,7 @@ Don Corneo	コルネオ
 “Come, come, don't	「これこれ、そんなに
 be so shy…”	はずかしがらんで……
 	もっと近くへ、な？」
-AERIS	AERITH
+AERIS	AERIS
 “Ye…yes…”	「え、ええ……」
 “But Mr. Don.	「でもねコルネオさん。
 I'd like you to explain	その前にひとつ
@@ -1760,7 +1760,7 @@ Don Corneo	コルネオ
 “Of course, my dear.	「おお、教えてやるぞ。
 I'll take you through it slowly,	手取り足取り、じっくりとな。
 step by step. So come on!”	ホレ！　ホレホレ！」
-AERIS	AERITH
+AERIS	AERIS
 “No, that's not what	「い、いえ、ちがうの！
 I meant!”	そうじゃなくて！」
 “NO, STOP!	「ダメ！　ダメよ！
@@ -1770,7 +1770,7 @@ Don Corneo	コルネオ
 “Aoooooooh!!	「ほひ～！
 I can't wait any longer!	もうガマンでき～ん！
 Here comes Papa!!”	いくぞ～！！」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD!!”	「CLOUD！！」
 TIFA	TIFA
 “I know…”	「わかってるわ……」
@@ -1792,7 +1792,7 @@ TIFA	TIFA
 Don Corneo	コルネオ
 “…What the hell?	「ほひ～。
 Who's there?”	なんだ、なんだ！　何者だ！」
-AERIS	AERITH
+AERIS	AERIS
 “I'm sorry,	「ごめんなさいね。
 Don.”	コルネオさん」
 TIFA	TIFA
@@ -1826,7 +1826,7 @@ Don Corneo	コルネオ
 If I told you that, I'd be killed!”	しゃべったら殺される！」
 TIFA	TIFA
 “Talk! If you don't tell us…”	「言いなさい！　言わないと……」
-AERIS	AERITH
+AERIS	AERIS
 “…I'll rip it off.”	「……ねじり切っちゃうわよ」
 Don Corneo	コルネオ
 “Waaaaaaaaaaah--!	「ほひ～！

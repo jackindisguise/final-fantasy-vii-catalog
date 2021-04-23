@@ -124,36 +124,36 @@ thrilled and terrified!	あなたを未体験ゾーンへご案内！
 Led from one zone to another…	一生の思い出をあなたに……」
 unlike anything you've ever experienced!	
 Make your memories…today.”	
-AERIS	AERITH
+AERIS	AERIS
 “Wow!	「うわ～！
 Let's have fun!”	楽しまなくっちゃ！」
-AERIS	AERITH
+AERIS	AERIS
 “I know this isn't the right time	「そんな場合じゃないのは
 to do this.”	わかってるけど、ね」
-AERIS	AERITH
+AERIS	AERIS
 “Hey, BARRET, cheer up!”	「ね、BARRETも元気だして！」
 BARRET	BARRET
 “…I ain't in a cheery mood.	「……そんな気分にはなれねえ。
 So jus' leave me alone.”	オレのことは放っておいてくれ」
-AERIS	AERITH
+AERIS	AERIS
 “Really?	「そ～ぉ？
 That's too bad.”	仕方ないね」
-AERIS	AERITH
+AERIS	AERIS
 “Let's go!”	「行こっ！」
 TIFA	TIFA
 “…whisper…whisper…	「ヒソヒソ……。
-(Wasn't that a little harsh,	（AERITH！
+(Wasn't that a little harsh,	（AERIS！
 AERIS!?)”	ちょっとひどいんじゃない？）」
-AERIS	AERITH
+AERIS	AERIS
 “…whisper…whisper…	「ヒソヒソ……。
 (Just act normal when this happens)”	（こういうとき、ヘンに気を
 	つかわないほうがいいよ）」
 TIFA	TIFA
 “…whisper…	「ヒソヒソ……。
 (You think so…?)”	（そうかな……）」
-AERIS	AERITH
+AERIS	AERIS
 “Of course!”	「だいじょぶよ！」
-AERIS	AERITH
+AERIS	AERIS
 “We're gonna go play…”	「わたしたち、遊んでくるね」
 BARRET	BARRET
 “So PLAY!	「勝手にしろ！
@@ -161,20 +161,20 @@ BARRET	BARRET
 “Don't forget we're after Sephiroth!”	「オレたちはセフィロスを
 	追ってるんだぞ！
 	それを忘れるんじゃねえ！」
-AERIS	AERITH
+AERIS	AERIS
 “…I think he's mad.”	「……怒っちゃった」
 TIFA	TIFA
 “He'll be fine.	「あ、でも、だいじょうぶみたい。
 He seems to be doing	なんだかいつものBARRET。
 a little better now.”	少し元気でたみたい」
-AERIS	AERITH
+AERIS	AERIS
 “Then, shall we!?”	「それじゃ、わたしたちも！」
 TIFA	TIFA
 “We'd better be careful,	「セフィロスが来てるかもしれないから
 Sephiroth might be around.”	気をつけなくちゃね」
 Go together	いっしょに行く
 Don't go together	いっしょに行かない
-AERIS	AERITH
+AERIS	AERIS
 “I wish we could just forget	「いろ～んなこと忘れて
 everything and have fun!”	楽しめると、いいね」
 Go together	いっしょに行く
@@ -189,7 +189,7 @@ Go together	いっしょに行く
 Don't go together	いっしょに行かない
 TIFA	TIFA
 “CLOUD!”	「CLOUD！」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD!”	「CLOUD！」
 YUFFIE	YUFFIE
 “CLOUD!”	「CLOUD！」
@@ -197,7 +197,7 @@ RED XIII	RED XIII
 “CLOUD!”	「CLOUD！」
 TIFA	TIFA
 “I'll go with you.”	「いっしょに行くわ」
-AERIS	AERITH
+AERIS	AERIS
 “Don't go alone, go with me!”	「１人で行かないで
 	私と行きましょ！」
 YUFFIE	YUFFIE
@@ -612,7 +612,7 @@ BARRET	BARRET
 “I'm gonna bust the place up!”	「あばれまくってやるぜ！」
 TIFA	TIFA
 “I'll show 'em with a BANG!”	「ガツーンといくわよ！」
-AERIS	AERITH
+AERIS	AERIS
 “Let's make this quick.”	「サクッといってみよっかな」
 RED XIII	RED XIII
 “I guess it'll be fun to show off	「腕だめしには
@@ -1393,7 +1393,7 @@ CLOUD	CLOUD
 “What the?”	「……なんだと！？」
 TIFA	TIFA
 “What does it say?”	「何てかいてあるの？」
-AERIS	AERITH
+AERIS	AERIS
 “What?”	「な～に？」
 RED XIII	RED XIII
 “Read it out loud, CLOUD”	「読んでみろ、CLOUD」
@@ -1413,7 +1413,7 @@ CAIT SITH	CAIT SITH
 “Then shall we?”	「ほな、いきましょか」
 TIFA	TIFA
 “Excuse me?”	「はぁ？」
-AERIS	AERITH
+AERIS	AERIS
 “What are you talking about?”	「なにいってるの？」
 RED XIII	RED XIII
 “To where?”	「どこへ？」
@@ -1428,7 +1428,7 @@ So, I'm going with you!”	みなさんといっしょに
 	行かせてもらいますわ！」
 TIFA	TIFA
 “Is it all right, CLOUD?”	「いいの？　CLOUD」
-AERIS	AERITH
+AERIS	AERIS
 “What are we going to do, CLOUD?”	「どうするの、CLOUD」
 RED XIII	RED XIII
 “CLOUD, it's all right with you?”	「CLOUD、いいのか？」
@@ -1464,7 +1464,7 @@ Chocobo Races.”	手に入れられねぇんだ」
 CLOUD	CLOUD
 “Shinra soldiers…	「神羅兵…
 Even here…”	こんなところまで…」
-AERIS	AERITH
+AERIS	AERIS
 “What happened?”	「どうしたの？」
 TIFA	TIFA
 “What?”	「なに？」
@@ -1485,7 +1485,7 @@ CLOUD	CLOUD
 “Dead…”	「死んでる……」
 TIFA	TIFA
 “What!?”	「え！？」
-AERIS	AERITH
+AERIS	AERIS
 “What!? Why?”	「え！？　どうして？」
 RED XIII	RED XIII
 “What the…”	「いったい……」
@@ -1494,7 +1494,7 @@ YUFFIE	YUFFIE
 TIFA	TIFA
 “Wa…wait	「ちょ、ちょっと
 CLOUD!”	CLOUD！」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD!?	「CLOUD！？
 Where are you going?”	どこ、いくの？」
 RED XIII	RED XIII
@@ -1534,7 +1534,7 @@ CLOUD	CLOUD
 Victim	被害者
 “Ugh…ugh…a man	「ウ…ウ…片腕が銃の男……」
 with a gun…on his arm…”	
-AERIS	AERITH
+AERIS	AERIS
 “It can't be!?”	「ま、まさか！？」
 TIFA	TIFA
 “A gun on his arm!?”	「片腕が銃！？」
@@ -1585,7 +1585,7 @@ you're gonna need	ボスの許可が無ければダメだ」
 the boss's permission.”	
 BARRET	BARRET
 “…”	「………」
-AERIS	AERITH
+AERIS	AERIS
 “You all right?”	「だいじょぶ？」
 TIFA	TIFA
 “CLOUD, you all right?”	「CLOUD
@@ -1611,7 +1611,7 @@ you never get out…”	って、聞いてます…」
 CAIT SITH	CAIT SITH
 “But, there was	「けど、たしかナンか特例が
 one special exception…”	あったような…」
-AERIS	AERITH
+AERIS	AERIS
 “Hey!!	「あっ！！
 BARRET!!”	BARRET！！」
 TIFA	TIFA
@@ -1639,7 +1639,7 @@ He sure looks	なんやアブなそうな人やなぁ～」
 dangerous…”	
 RED XIII	RED XIII
 “BARRET…”	「BARRET……」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD, what should we do?	「CLOUD、どうしよう？
 BARRET's not his normal self.”	BARRET、いつもとちがうよ」
 TIFA	TIFA
@@ -1765,7 +1765,7 @@ CLOUD	CLOUD
 BARRET	BARRET
 “Didn't want none	「おまえたちを
 of ya to get involved…”	まきこみたくなかった……」
-AERIS	AERITH
+AERIS	AERIS
 “Hey that's CLOUD's line!	「それ、CLOUDのセリフ！
 …It's too dangerous, I can't	『危険だ、まきこむわけには
 let you get involved…' blah, blah, blah…”	いかない』とかなんとか、ね」
@@ -1773,7 +1773,7 @@ TIFA	TIFA
 “Yeah.	「そうそう。
 We're already involved in this.”	それに私たち、もう思いっきり
 	まきこまれちゃってるんだから」
-AERIS	AERITH
+AERIS	AERIS
 “We saw you and hurried here.	「上でBARRET見つけて
 BARRET, just tell us	あわててここまで来たの。
 what's going on.”	BARRET、ちゃんと説明して」
@@ -1873,7 +1873,7 @@ who got the same operation as me.”	もう１人いるってことをな」
 	銃になっている」
 CLOUD	CLOUD
 “…”	「…………」
-AERIS	AERITH
+AERIS	AERIS
 “But…Dyne's injury was	「でも……それならダインも
 the same as yours, right?”	あなたと同じ、でしょ？」
 TIFA	TIFA
@@ -1893,7 +1893,7 @@ Is that what you want to hear?”
 “Well, I can't let you do it.	「と、いいたいところだがダメだな
 We need your help to save	ここで、アンタに死なれると
 the Planet.”	夢見が悪そうだ」
-AERIS	AERITH
+AERIS	AERIS
 “BARRET,	「BARRET
 this isn't the end.”	ここで終わりじゃないよ」
 TIFA	TIFA
@@ -1904,14 +1904,14 @@ you oughtta know by now.”	TIFA、もうわかっただろ？」
 TIFA	TIFA
 “…That's all right.	「……いいじゃない、べつに。
 I'm not so different from you.”	私だって似たようなものだわ」
-AERIS	AERITH
+AERIS	AERIS
 “That's easier to understand.	「わかりやすいよ、そのほうが。
 It's you, BARRET.”	BARRETらしいもん」
 CLOUD	CLOUD
 “So there it is, BARRET.	「というわけだ、BARRET。
 So I guess it'll be	さて、BARRETと俺と……」
 BARRET, me, and…”	
-AERIS	AERITH
+AERIS	AERIS
 “I wonder if Dyne will join us?”	「ダインさん、仲間なってくれるかな？」
 TIFA	TIFA
 “Be careful.”	「気をつけてね」
@@ -2199,7 +2199,7 @@ an' get us outta here!”	勝って、こっちもなんとかしろ！」
 RED XIII	RED XIII
 “You're right. CLOUD should do it.”	「そうだな、CLOUDが
 	適任だろう」
-AERIS	AERITH
+AERIS	AERIS
 “Yes, good luck, CLOUD.”	「うん、CLOUD
 	がんばってね」
 TIFA	TIFA
@@ -2470,7 +2470,7 @@ Sincerely,	では
 Dio”	ディオちゃん　より」
 CLOUD	CLOUD
 “A gift?”	「プレゼント？」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD, this is great!!	「CLOUD！？　ね、すごいのよ！
 The assistant manager just stopped	いまね、園長の使いとかいう人が来て
 by and dropped off a 'buggy'!”	『バギー』置いていったの」

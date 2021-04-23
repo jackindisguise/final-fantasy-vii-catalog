@@ -1,104 +1,71 @@
 Temple of the Ancients	古代種の神殿
-AERIS	AERITH
 This is…the Temple of the Ancients…	ここ……古代種の神殿……
 I…I know… I feel it… The knowledge of the Ancients…floating…	わたし、わかる……感じるの……ただよう……古代種の意識
-AERIS	AERITH
 You could become one with the Planet, but you're stopping it with the strength of will.	死んで、星とひとつになれるのに意志の力でとどまってる……
 For the future? For us?	未来のため？わたしたちのため？
-CLOUD	CLOUD
 What are you saying? Do you understand?	なんて言ってる？わかるのか？
-AERIS	AERITH
 You're uneasy… But happy?	不安……でも、よろこんでる？
 Because I'm here? I'm sorry…I don't understand.	わたし、来たから？ごめんね……わからない
-AERIS	AERITH
 I want to go inside!	はやく、ねえ中に入りたい！
 Black cape	黒マント
 Key…stone…	キー……ストー……ン……
 Open…door…of the Temple…	神殿の……扉を……開いて……
 Black cape	黒マント
 Black…Materia…	黒……マテリア……
-AERIS	AERITH
 Look…	見て……
-TIFA	TIFA
 Number 9. Another man with a tattoo.	ナンバー９。ここにもイレズミの男ね
-BARRET	BARRET
 It says number 9. He has a tattoo on his neck.	ナンバー９だとよ。首にイレズミがある
-RED XIII	RED XIII
 He's number 9. There's a tattoo.	ナンバー９だね。イレズミがあるよ
-CAIT SITH	CAIT SITH
 Oh!? It's a number 9 tattoo.	おや！？ナンバー９のイレズミやな
-YUFFIE	YUFFIE
 He has a tattoo too! Ummm, I think it's number 9.	この人もイレズミしてる！え～と、ナンバー９かな
-CID	CID
 Hey, he's got a tattoo. It says number 9.	おい、イレズミしてやがるぜ。ナンバー９、だとよ
-VINCENT	VINCENT
 It's a number 9 tattoo.	ナンバー９のイレズミだ
-AERIS	AERITH
 CAIT SITH…	CAIT SITH……
 Temple of the Ancients	古代種の神殿
-AERIS	AERITH
 Hey! It's Tseng!	あっ！　ツォン！
-CLOUD	CLOUD
 Tseng? Of the Turks!?	タークスのツォンか！？
 Tseng	ツォン
 Oh, I've been tricked.	くっ……やられたな
 Tseng	ツォン
 It's not the Promised Land… Sephiroth's searching for…	セフィロスが……捜しているのは……約束の地じゃない……
-CLOUD	CLOUD
 Sephiroth? He's inside!?	セフィロス？中にいるのか！？
 Tseng	ツォン
 Look… for yourself…	自分で……たしかめるんだな……
 Tseng	ツォン
 Damn…	くそっ……
-Letting AERIS go was the start… of my…bad luck…	AERITHを…手放したのがケチ…の……つきはじめ…だ…
+Letting AERIS go was the start… of my…bad luck…	AERISを…手放したのがケチ…の……つきはじめ…だ…
 The President… was wrong…	社長は……判断をあや……まった……
-AERIS	AERITH
 You're wrong.	あなたたち、かんちがいしてる
 The Promised Land isn't like what you imagined.	約束の地、あなたたちが考えてるのとちがうもの
-AERIS	AERITH
 And, I'm not going to help.	それに、わたし、協力なんてしないから
 Either way, there was no way Shinra could have won.	どっちにしても、神羅には勝ち目はなかったのよ
 Tseng	ツォン
-…Pretty harsh. Sounds like something… you'd say.	ハハ……きびしいな。AERITH……らしい……言葉だ
+…Pretty harsh. Sounds like something… you'd say.	ハハ……きびしいな。AERIS……らしい……言葉だ
 Tseng	ツォン
 The Keystone… Place it…on…the altar…	キーストーン……祭壇に……置いて……み……ろ
 Received Key Item "Keystone"!	キーアイテム『キーストーン』を手にいれた！
-CLOUD	CLOUD
 You crying?	泣いてるのか？
-AERIS	AERITH
 …Tseng's with our enemy, the Turks, but I've known him since we were little…	……ツォンはタークスで敵だけど子供のころから知ってる
 There's not a lot of people I can say that about. In fact, there are probably only a handful of people in the world who really know me.	わたし、そういう人、少ないから。世界中、ほんの少ししかいないわたしのこと、知ってる人……
 Tseng	ツォン
 I am…still alive…	私は……まだ、生きている……
-CLOUD	CLOUD
 Let's put the Keystone in.	ここにキーストーンをつかえば……
 Temple of the Ancients	古代種の神殿
 Temple of the Ancients	古代種の神殿
-BARRET	BARRET
 Damn! So this is the Temple of the Ancients!	ひゅ～！これが古代種の神殿かよ！
-BARRET	BARRET
 Oh man, you gotta be kiddin'. This is makin' me dizzy!	ウッ～　冗談じゃねえ。めまいがするぜ！
 Hey, Cloud! Don't get lost!	おう！　CLOUD！迷うんじゃねえぞ！
-AERIS	AERITH
 Words…feelings… So many of them here.	言葉が…　思いが…たくさん、ここにある
-YUFFIE	YUFFIE
 Geeeez! We got our work cut out for us.	うひゃ～！こりゃ、たいへんだよ
 This is starting to get me really dizzy…	目まわってきたよ…アタシ
-CID	CID
 @#$%! @#$%! @#$%! What the hell's with this place!	クソッ！クソッ！クソッ！なんだってんだ、ここは！
-CAIT SITH	CAIT SITH
 Wow, this place is huge! I'm starting to get bored.	へ～、ごっつう広いなぁ。なんや、気い遠なりそうやわ
-VINCENT	VINCENT
 No exits… We can't turn back.	出口なしか…。もうもどれないぞ
-RED XIII	RED XIII
 …sniff…sniff… This place smells good.	クンクン……ここいいにおいするよ
 It smells the same as Cosmo Canyon.	コスモキャニオンとおんなじ星のにおいするよ
-TIFA	TIFA
 What a strange place. Do you think we're welcome here?	不思議な場所ね。私たち、歓迎されてるのかしら？
-AERIS	AERITH
 …CLOUD! I know it's going to be tough, but…	……CLOUD！ここ、いろいろ大変だと思うけど…
 Don't give up! We can do it!	なげださないで！がんばろう、ね！
-CLOUD	CLOUD
 Sealed……? That sound brings back memories.	封印されている……？なんだか、なつかしい響きだな
 Received "Morph" Materia!	『へんか』のマテリアを手にいれた！
 Received "Luck Plus" Materia!	『ラッキー』のマテリアを手にいれた！
@@ -116,7 +83,6 @@ Can I buy something?	買い物できるか？
 Let me rest	休ませてくれ
 I want to save my game	記録したいが
 Nothing	用はないな
-CLOUD	CLOUD
 This is the Temple of the Ancients. You won't be able to go back easily.	ここは古代種の神殿だ。かんたんにはもどれない
 Is that all right?	それでも、いいだろうか？
 Changed my mind	気が変わった
@@ -124,50 +90,32 @@ Save	記録する
 Welcome!	いらっしゃいませでぷ～
 Please come again!	またくるでぷ～
 HP/MP Restored!	ＨＰ／ＭＰが回復した！
-AERIS	AERITH
 Whew! We finally caught up to you.	うん！やっと、会えたね
 I'm sorry. You waited for me.	ごめんね。まっててくれたんだ
-AERIS	AERITH
 Those are the spirit bodies of the Ancients.	彼らは古代種の精神体
 They've been away from their Planet for a long time to protect this Temple.	ずっ～と長い間、星に帰らずこの神殿を守りつづけてる
-AERIS	AERITH
 Over the many years, they've lost the ability to talk.	ながい年月は彼らから言葉を失わせた
 Actually, they didn't need words from the beginning because there was only one objective for those left in the Temple.	ううん、最初から言葉はいらなかった。神殿にとどまったものたちの目的はひとつだったから
-AERIS	AERITH
 Please, talk to me!	ねえ、教えて！
-AERIS	AERITH
 No good. I don't understand the rest. Are you afraid?	だめ、あとはわからない。おびえているの……？
 Is it because Sephiroth is in the Temple? Or something else?	セフィロスが神殿にいるから？それとも、ほかのこと？
 Received "Mop"!	『モップ』を手にいれた！
 Received "Silver Rifle"!	『銀玉鉄砲』を手にいれた！
 Temple of the Ancients	古代種の神殿
-AERIS	AERITH
 …phew… We did it!	ふぅ～～やったね！
-CLOUD	CLOUD
 Everyone all right? That was rough.	だいじょうぶか？さすがに、こたえたな
-AERIS	AERITH
 Oh no…CLOUD. Come quick!!	あっ……CLOUD。たいへん！！
-AERIS	AERITH
 Hurry, this way!	はやく、こっち！
-AERIS	AERITH
 It's full of the knowledge of the Ancients.	古代種の知識がいっぱい
 No…not knowledge …consciousness…a living soul…	ううん、知識なんかじゃない。そう……意識……生きてる心……
-AERIS	AERITH
 It's trying to say something.	何か、言いたがってる
-AERIS	AERITH
 I'm sorry, I don't understand.	ごめんね、わからないの
-AERIS	AERITH
 What?	えっ？
-AERIS	AERITH
 What is it?	な～に？
-AERIS	AERITH
 …Danger? An evil…consciousness?	……危険？邪悪な……意識？
-AERIS	AERITH
 …show? You're going to show me?	えっ？　見せる？見せてくれるの？
 Temple of the Ancients	壁画の間
-CLOUD	CLOUD
 What's going on?	……どうなってる？
-AERIS	AERITH
 Wait! Look! It's showing us!	まって！ほら、見て…はじまるよ
 Test Play is up to here.	テストプレイはここまでです。
 Elena	イリーナ
@@ -208,44 +156,25 @@ The way…lies here.	その方法が……ここに
 Sephiroth	セフィロス
 Only death awaits you all. But do not fear.	おまえたちには死あるのみ。しかし、悲しむことはない
 For it is through death that a new spirit energy is born. Soon, you will live again as a part of me.	死によって生まれる新たな精神エネルギー。やがて私の一部として生きることができる
-AERIS	AERITH
 Did you see it?	見えた？
-BARRET	BARRET
 Yeah, I saw it.	おう、しっかり見たぜ
-TIFA	TIFA
 …I saw it.	……見えたわ
-RED XIII	RED XIII
 I…I saw it.	見、見た
-CAIT SITH	CAIT SITH
 …I saw it. Tseng was in bad shape.	よう見えましたわ。ツォンも、災難やったなぁ
-YUFFIE	YUFFIE
 Oh grossness!	キモチワリィな～！
-VINCENT	VINCENT
 An illusion the Ancients showed.	古代種が見せた幻影か……
-CID	CID
 Hey hey! Wh, what's the catch?	おいおい！どんなシカケになってんだぁ？
-CLOUD	CLOUD
 …Where is the room with the pictures on the walls?	……壁画の部屋はどこだ？
-AERIS	AERITH
 Almost there…	もうすぐ、ね
-CLOUD	CLOUD
 Sephiroth is here, right?	セフィロスがいるんだな？
-CLOUD	CLOUD
 No matter what he thinks, it's going to end here.	あいつが何を考えようとここで終わりだ
 I'm taking him out!	俺が倒す！
-BARRET	BARRET
 You mean WE are, right?	オレたちが、だろ？
-TIFA	TIFA
 We're here too, you know.	私たちだっているわ
-RED XIII	RED XIII
 Don't forget about us!	オイラを忘れるなよ！
-CAIT SITH	CAIT SITH
 I wonder if he'll go down that easy?	簡単に倒せんのやろか……
-YUFFIE	YUFFIE
 I have nothing to do with it. But, I guess I'll lend a hand.	アタシは関係ないけどね。でも、ま、手をかしてやるよ
-VINCENT	VINCENT
 …	…………
-CID	CID
 All right! Guess you youngsters gotta be enthusiastic like that!	おっ、いいねえ！若いやつはそうじゃなきゃいけねえ
 Received "Morph" Materia!	『へんか』のマテリアを手にいれた！
 Cannot take on any more Materia.	これいじょうマテリアは持てません。
@@ -277,21 +206,13 @@ Cancel	とりけし
 [OK]: Speed up time	○ボタン：時を進める
 [CANCEL]: Proceed now!	×ボタン：いまを進む！
 Temple of the Ancients	古代種の神殿
-AERIS	AERITH
 This atmosphere…	このふんいきは……
-BARRET	BARRET
 Feels like a battle!	バトルだな！
-TIFA	TIFA
 Here it comes!	くるわ！
-CAIT SITH	CAIT SITH
 It's a battle!	バトルやで！
-VINCENT	VINCENT
 A battle…	戦いか……
-YUFFIE	YUFFIE
 Oh man! I should've stayed at home.	あ～あ！くるんじゃなかったよ
-RED XIII	RED XIII
 I'm tingling with excitement.	オイラ、ムシャぶるい
-CID	CID
 Let's do it!	やったるでい！
 Received "Nail Bat"!	『釘バット』を手にいれた！
 Temple of the Ancients	古代種の神殿
@@ -301,16 +222,12 @@ Received "Megalixir"!	『ラストエリクサー』を手にいれた！
 Temple of the Ancients	古代種の神殿
 Temple of the Ancients	古代種の神殿
 Temple of the Ancients	古代種の神殿
-AERIS	AERITH
 Hey! It's locked.	あ！鍵かかってる
 No good. We have to catch it!	だめね。つかまえなきゃ！
-AERIS	AERITH
 You must be tired.	いろいろ大変ね
 Yeah	そうだな
 I want to go home	帰りたいな
-AERIS	AERITH
 Just hang in there. Someday we'll look back on these hard times and laugh.	がまんがまん。こんな苦労話、笑って話せる時がくるよだから、がんばろ！
-AERIS	AERITH
 Yeah. But it'll all be over soon!	そうだね。でも、もうすぐだから！
 Nyum, nyum…	ねむねむ……
 Nyum, nyum…	ねむねむ……
@@ -323,14 +240,11 @@ Door Unlocked!!	扉の鍵が開いた！！
 The Guard that escaped with the key to the door moves on a set course.	扉の鍵を持ち逃げした番人は一定のルートを移動しています
 Memorize the doors he enters and exits to figure out the pattern and catch him at an exit.	入る扉と出る扉の関係を覚え番人の出現位置をすいりしてつかまえてください
 Oh yeah, oh yeah… you can jump down to the ramp below and to the left of the screen.	それからそれから画面左の段差からは下の段に飛びおりることができます
-CLOUD	CLOUD
 It probably won't hurt if I jump from here...	ここなら飛び降りても痛くなさそうだな……
 Jump	ジャンプ
 Don't do it	やめとく
 Jump to the lower level with [OK]!	【○ボタン】で下の段へジャンプ！
-AERIS	AERITH
 This is the room with the murals…	ここが壁画の間……
-CLOUD	CLOUD
 Where are you!? Sephiroth!!	どこだ！？セフィロス！！
 Sephiroth	セフィロス
 So cold.	つめたいな
@@ -341,46 +255,30 @@ Sephiroth	セフィロス
 Splendid.	まったく、素晴らしい
 Sephiroth	セフィロス
 A treasure house of knowledge…	知の宝庫……
-CLOUD	CLOUD
 I don't understand what you're saying!	おまえが言ってることは意味不明なんだよ！
 Sephiroth	セフィロス
 Look well.	よく見ておくがいい
-CLOUD	CLOUD
 At what!?	なにを！！
 Sephiroth	セフィロス
 At that which adds to the knowledge of…	古代種の知のあたえるもの
 Sephiroth	セフィロス
 …Mother… …it's almost time.	……かあさん…。…もうすぐだよ
-AERIS	AERITH
 CLOUD!!	CLOUD！！
-BARRET	BARRET
 Hey!! CLOUD!!	おい！！CLOUD！！
-TIFA	TIFA
 Hey, CLOUD!	ねえ、CLOUD！
-RED XIII	RED XIII
 CLOUD!	CLOUDっ！
-YUFFIE	YUFFIE
 CLOUD! What are you doing?	CLOUD！なにやってんだ？
-CAIT SITH	CAIT SITH
 CLOUD! What's going on with you?	CLOUDさん！どないしたんや！
-CID	CID
 What the hell is going on?	どうなっちまってんだよ！
-VINCENT	VINCENT
 What are you doing?	なにをしているのだ？
-CLOUD	CLOUD
 Ha ha ha… Black Materia	クックックッ……黒マテリア
-AERIS	AERITH
 CLOUD!! Get a hold of yourself!	CLOUD！！しっかりしなさい！
-CLOUD	CLOUD
 CLOUD…	CLOUD……
 I… CLOUD…	俺……CLOUD……
-CLOUD	CLOUD
 Is this Meteor?	これがメテオか？
-CLOUD	CLOUD
 Looks like we're locked in.	閉じこめられたようだ
 Sephiroth	セフィロス
 Soon… we will become one.	もうすぐ……ひとつになれる
-AERIS	AERITH
 How do you intend to become one with the Planet?	星とひとつになるってどうするつもり？
 Sephiroth	セフィロス
 It's simple.	簡単なことだ
@@ -397,87 +295,51 @@ Sephiroth	セフィロス
 By merging with all the energy of the Planet, I will become a new life form, a new existence.	星のすべてのエネルギーとひとつになり私は新たなる生命、新たなる存在となる
 Melding with the Planet… I will cease to exist as I am now…	星とまじわり……私は…… 今は失われ、かつて人の心を支配した存在……
 Only to be reborn as a 'God' to rule over every soul.	『神』として生まれ変わるのだ
-AERIS	AERITH
 An injury powerful enough to destroy the Planet?	星が破壊されるほどの傷？
 Injure…the Planet?	傷つける？　星を？
 Sephiroth	セフィロス
 Behold that mural. The Ultimate Destructive Magic…Meteor.	壁画を見るがいい。最高の破壊魔法……メテオ
-CLOUD	CLOUD
 That'll never happen!	そうはいかない！
 Wake up!!	目をさませ！！
-CLOUD	CLOUD
 Where are you!? Sephiroth!!	どこだ！　セフィロス！-
-AERIS	AERITH
 Wait, CLOUD!	待って、CLOUD！
 Temple of the Ancients	壁画の間
-AERIS	AERITH
 CLOUD!!	CLOUD！！
-BARRET	BARRET
 Hey!! CLOUD!!	おい！！CLOUD！！
-TIFA	TIFA
 Hey, CLOUD!	ねえ、CLOUD！
-RED XIII	RED XIII
 CLOUD! What's wrong!	CLOUDっ！どうしたんだよぅ！
-YUFFIE	YUFFIE
 CLOUD! What are you doing?	CLOUD！なにやってんだ？
-CAIT SITH	CAIT SITH
 CLOUD! What's wrong with you!?	CLOUDさん！どないしたんや！
-CID	CID
 What the hell is going on!	どうなっちまってんだよ！
-VINCENT	VINCENT
 What are you doing?	なにをしているのだ？
-CLOUD	CLOUD
 Ha ha ha… Black Materia.	クックックッ……黒マテリア
-CLOUD	CLOUD
 Ha ha ha… Call Meteor.	クックックッ……メテオよぶ
-AERIS	AERITH
 CLOUD!! Get a hold of yourself!	CLOUD！！しっかりしなさい！
-CLOUD	CLOUD
 CLOUD…	CLOUD……
 I'm… CLOUD…	俺……CLOUD……
-CLOUD	CLOUD
 How should I?	どうやるんだ…
-CLOUD	CLOUD
 …I remember! I remember my way.	……思い出した！俺のやりかた
-AERIS	AERITH
 …CLOUD.	……CLOUD
-CLOUD	CLOUD
 Mm? What's wrong? Is something wrong?	ん？　どうした。なんか変か？
-AERIS	AERITH
 …It's nothing so don't worry about it.	……なんでもないから気にしないで
-AERIS	AERITH
 It's nothing.”	なんでもないよね」
-AERIS	AERITH
 Sephiroth got away.	逃げちゃったね、セフィロス
-CLOUD	CLOUD
 …Don't worry about it. I understood what he was saying.	……気にするな。あいつの言ってることはわかった
-CLOUD	CLOUD
 So this must be Meteor, right?	これがメテオだな？
-BARRET	BARRET
 Is it some sort of a disaster?	なんかの災害か？
 It looks like something's gonna fall from the sky.	空から何か降ってくるみてえだな
-TIFA	TIFA
 Is something going to fall from the sky?	空から何か降ってくるの？
-RED XIII	RED XIII
 Something's going to fall down?	何かおちてくるのかい？
-CAIT SITH	CAIT SITH
 Oh, so something's going to fall from the sky?  It's going to be something big.	なんや空から、ふってくんねんな？そりゃ、えらいことや
-VINCENT	VINCENT
 Something huge is falling from the sky?	空から巨大なものが落ちてくるのか？
-YUFFIE	YUFFIE
 I don't know what it is but…	なんだか知らないけど
 It looks like it's going to make a mess…	ま、メチャクチャなことになりそうだね
-CID	CID
 I don't know what the hell it is but it's falling from the sky?	なんだか知らねえが空から落ちてくるってことか？
 Hmpf! It's not even an omen.	ケッ！　縁起でもねえ
-AERIS	AERITH
 …This must be magic. Just what Sephiroth was saying.	……魔法ね、これは。セフィロスが言ってたとおり
-AERIS	AERITH
 The Ultimate Destructive Magic, Meteor.	究極の破壊魔法メテオ
 It finds small drifting planets with its magic.	宇宙をただよっている小さな星を魔法の力で呼びよせるの
-AERIS	AERITH
 And then collides with them. This Planet might get wiped out entirely…	そして……衝突。この星、完全に壊れちゃうかも……
-CLOUD	CLOUD
 Sephiroth!?	セフィロスか！！
 Sephiroth	セフィロス
 Ha ha ha… It is not me.	クックックッ……私ではない
@@ -487,7 +349,6 @@ Sephiroth	セフィロス
 They were pure creatures of natural shape. Several remain even now.	自然な形の純すいなモンスターたちだ。いまでもいくつかの種族は残っている
 Sephiroth	セフィロス
 These beings sealed their consciousness within materia, altering their lives for eternity.	ある種族は、マテリアのなかに自らの命を封じこめ、生を永遠に変えた
-Aeris	AERITH
 The summon materia…	召喚のマテリア……
 Sephiroth	セフィロス
 Correct. Such a clever girl.	然り。理解のはやい娘だ
@@ -497,241 +358,143 @@ Sephiroth	セフィロス
 They belong to this planet even more than you do.	おまえたちよりもこの星にふさわしい種族たちだ-
 Sephiroth	セフィロス
 Heh heh heh… Keep that in mind.	クックックッ……思い知るがいい
-CLOUD	CLOUD
 Any sign of Sephiroth?	セフィロスの気配は？
-AERIS	AERITH
 He disappeared.	消えちゃったね
 Received "Bahamut" Materia!	『バハムート』のマテリアを手にいれた！
 You cannot take on any more Materia.	これいじょうマテリアは持てません。
 Please discard some Materia.	なにかマテリアをすててください。
-CLOUD	CLOUD
 We're locked in.	閉じこめられたようだ
-CLOUD	CLOUD
 What is this?	これはなんだ？
-AERIS	AERITH
 …There's something written on it.	……何かかいてある
-AERIS	AERITH
 B.l.a.c.k…M.a.t.e.r.i.a.	……ク・ロ・マ……テ・リ・ア
-CLOUD	CLOUD
 Black Materia!!	黒マテリア！！
-AERIS	AERITH
 Hey!	あっ！
-AERIS	AERITH
 …Black Materia.	……黒マテリア
-AERIS	AERITH
 What should we do, CLOUD?	どうするの、CLOUD？
 Shake it	ゆらす
 Take it	とる
 Leave it	ほうっておく
-AERIS	AERITH
 Wait a minute. I'll ask!	ちょっと待って。わたし、聞いてみる！
-AERIS	AERITH
 I don't understand…	わからない……
-AERIS	AERITH
 What?	えっ？
-AERIS	AERITH
 Really!?	そうなの！？
-AERIS	AERITH
 They said that the Temple itself is the Black Materia.	この神殿そのものが黒マテリアだって
-AERIS	AERITH
 If we could only move this, we could take the Black Materia.	これを動かせば黒マテリアを持ち出せる
 But, the Temple would collapse.	でも、神殿、くずれちゃうの
-BARRET	BARRET
 Then just leave it.	おう！それならほっとこうぜ
 If we can't take it, then neither can Sephiroth, right?	誰にも持ち出せないならセフィロスだっておなじだろ？
-TIFA	TIFA
 Let's just leave it, OK?	そっとしておこうよ、ね？
-RED XIII	RED XIII
 That'll be safer. If no one else can take it…	それなら安全だね。だれにも持ち出せない
 Then Sephiroth can't either, right?	セフィロスだって同じなんだよね？
-CAIT SITH	CAIT SITH
 The Ancients were a mean bunch. This way, no one'll be able to get it.	古代種さんも、イジワルやなぁ。まぁ、これやったらだぁれも持ち出されへんやろ
-VINCENT	VINCENT
 I guess that means it's safe here.	ここにあれば安全というわけか
-YUFFIE	YUFFIE
 Let's just leave it and get the hell out of here!	こ、こんなもんほっといてはやく出よっ！
-CID	CID
 Guess stuff this dangerous is best left alone?	こんな物騒なもんはほっとくに限るってやつじゃねえのか
-CLOUD	CLOUD
 No. We've got to think of a way to get it out.	ダメだ。持ち出す方法を考えよう
-CLOUD	CLOUD
 Because Sephiroth has lots of different flunkies.	だって、そうだろ？セフィロスにはたくさんの分身がいるじゃないか
 It's nothing to him to throw their lives away to get the Black Materia.	あいつら、命を投げ出して黒マテリアを手に入れるくらいなんでもない
-CLOUD	CLOUD
 This place isn't safe.	この場所はもう安全じゃないんだ
-AERIS	AERITH
 So what are we going to do?	でも、どうするの？
-CAIT SITH	CAIT SITH
 I heard your situation!	話、聞かせてもらいましたよ！
 Hi, CLOUD. This is CAIT SITH.	もしもし～　CLOUDさん。ボクです、CAIT SITHです～
 I overheard the whole story!	話、聞かせてもらいましたよ！
-CAIT SITH	CAIT SITH
 Don't forget about me.	ボクのこと忘れんといてほしいなぁ
-CAIT SITH	CAIT SITH
 Everything you said makes perfect sense!	CLOUDさんの言うてることはよぉ、わかります
 You can use my stuffed body for the future of the Planet.	この作りモンの身体星の未来のために使わせてもらいましょ
-CLOUD	CLOUD
 We can't let Sephiroth get his hands on the Black Materia. And we can't let the Shinra get theirs on it either.	セフィロスに黒マテリアは渡せない。でも、神羅にも渡せない
-CAIT SITH	CAIT SITH
 So that means you don't trust me?	ようは、信用でけんってことですな？
-CAIT SITH	CAIT SITH
 But CLOUD. There's really nothing else you can do.	でもなぁ、CLOUDさん。どないしようもないんとちゃうか？
 Everyone, please trust me.	まぁ、信じてみいな
 I guess we have no choice	わかった……仕方ない
 No way	信用できない
-CAIT SITH	CAIT SITH
 All righty then! Leave it all to me!	よっしゃ！ほんな、まかせてもらいましょか！
-CAIT SITH	CAIT SITH
 You sure are stubborn, CLOUD.	CLOUDさん。あんたも、ガンコやなぁ～
-CAIT SITH	CAIT SITH
 Everyone, hurry up and get outside!	みなさん、はよう外へ！
 I'll go with you to a safe place.	安全なとこまでいっしょに行きますから
-CAIT SITH	CAIT SITH
 Please hurry, you've got to get out of here!	ほんな、みなさんはよう脱出してください！
 I'll be waiting at the exit!	出口のとこでまってますから！
-CAIT SITH	CAIT SITH
 Please believe me, CLOUD.	CLOUDさん、信じて～や
 Hmmm, I guess I have to	う～ん、仕方ないな
 How can I?	やっぱり信用できない
-CAIT SITH	CAIT SITH
 This must be it!	これやな！
-CAIT SITH	CAIT SITH
 The Ancients sure did a great job making this.	古代種さんたちこんなシカケよう作りはったなぁ～
-CAIT SITH	CAIT SITH
 I can protect the Planet too! I'm kinda embarrassed…	ボクも、この星を守るんや！なんや、照れるなぁ……
-CAIT SITH	CAIT SITH
 There's plenty of stuffed toys like my body around, but there's only one me!	このおんなじボディのんがようさんおるんやけどこのボクは、ボクだけなんや！
-CAIT SITH	CAIT SITH
 Don't forget me even if another CAIT SITH comes along.	新しいCAIT SITHがなかまになってもわすれんといてな
-CAIT SITH	CAIT SITH
 Good bye, then! I guess I'm off to save the Planet…	ほんな、行きますわ！しっかり、この星すくうんやで～！！
-CLOUD	CLOUD
 What do they mean?	どういうことだ？
-AERIS	AERITH
 So, this whole building is the Black Materia?	だから、この大きな建物自体が黒マテリア、なんだって
-CLOUD	CLOUD
 This huge Temple? This is the Black Materia!?	この、でかい神殿が？これが黒マテリア！？
 Then no one could take it.	それじゃあ、誰にも持ち出せないな
-AERIS	AERITH
 Hmm, it's pretty hard. You see this is a model of the Temple.	う～ん、むずかしいところね。ここにあるのは神殿の模型なの
 And inside it is a device, which gets smaller each time you solve a puzzle.	この模型には、しかけがあってパズルをといていくとどんどん模型が小さくなるんだって
 As the model becomes smaller, you become smaller too. Until it's small enough to fit in the palm of your hand.	模型、小さくなると、神殿自体も小さくなる。どんどん、おりたたまれていって、最後には手のひらにのるくらいにまで小さくなるの
-CLOUD	CLOUD
 So, if we solve the puzzles, the Black Materia will get smaller and smaller and we can take it out?	つまり、この模型のパズルを解けば黒マテリアは小さくなって持ち出せるようになるわけだな？
-AERIS	AERITH
 Yes, but there's one thing…	そう、でもね……
 You can only answer the puzzles inside the Temple.	パズルを解くのは、この場所でしかできないの
 So, anyone who solves the puzzle will be crushed by the Temple.	だから、パズルを解くと、その人はこの神殿、いいえ、黒マテリア自体に押しつぶされちゃうの
-CLOUD	CLOUD
 I see… the Ancients didn't want dangerous magic to be taken out of the Temple so easily…	なるほど……危険な魔法を簡単に持ち出させないための古代種の知恵か……
 Temple of the Ancients	古代種の神殿
-CLOUD	CLOUD
 I guess there's no way we can open it… We'll come back later.	開くわけないか…。あとまわしだな
-CLOUD	CLOUD
 It's warm…	なまあたたかい…
-CLOUD	CLOUD
 This isn't good…	やばいな……
-AERIS	AERITH
 CLOUD… …behind you.	CLOUD…………うしろ
-CAIT SITH	CAIT SITH
 Sorry to keep you waiting!! It's Me!!	おまちどうさん！！CAIT SITHです～！
-CAIT SITH	CAIT SITH
 I'll handle the rest!	あとのことはまかせてもらいましょ！
-CAIT SITH	CAIT SITH
 Well, everyone… Take care of yourselves!	ほんな、みなさんお元気で！
-AERIS	AERITH
 CAIT SITH…	CAIT SITH……
-AERIS	AERITH
 Come on, CLOUD… Say something.	ほら、CLOUD…。なにかいってあげなきゃ
-CLOUD	CLOUD
 I'm not good at this.	……にがてなんだ
-CAIT SITH	CAIT SITH
 Mmm, I understand. I feel the same too.	ん～、ようわかりますわ～ボクも同じような気持ちですわ
-AERIS	AERITH
 Why don't you read our fortunes?	そうだ！ねえ、うらなってよ
-CAIT SITH	CAIT SITH
 Say, that's right… I haven't done it in a while, huh?	そうやな～。それも、ひさしぶりですねぇ
 I'm so exited. Right or wrong, I'm still the same 'ol me	わくわくしますなぁ～当たるも～CAIT SITH当たらぬも～CAIT SITH
 Now, what should I predict?	ほんな、なに占いましょ？
-AERIS	AERITH
 Hmm, let's see how compatible CLOUD and I are!	そうねえ……。CLOUDとわたしの相性！
-CAIT SITH	CAIT SITH
 That'll cost ya. Exactly one date!	そりゃ、たこうつくで。デート１回やね！
-CAIT SITH	CAIT SITH
 Here I go!	ほんな、やりまっせ！
-CAIT SITH	CAIT SITH
 This isn't good. I can't say it.	こりゃあかんわちょっと、言えませんわ
 Poor TIFA.	TIFAさんにわるいわ
-AERIS	AERITH
 No! Tell me!	ダメ！教えて！
 I promise I won't get mad!	ぜっ～たいおどろかないから
-CAIT SITH	CAIT SITH
 Is that so? Then I'll tell you.	そうですか？ほんな、いいますよ
 Looks good. You are perfect for each other!	ええかんじですよ。おふたりの相性、ぴったりですわ！
-AERIS's star and CLOUD's star! They show a great future!	AERITHさんの星とCLOUDさんの星！すてきな未来が約束されてます！
+AERIS's star and CLOUD's star! They show a great future!	AERISさんの星とCLOUDさんの星！すてきな未来が約束されてます！
 CLOUD, I'll be your matchmaker, preacher… I'll do whatever you want me to!	CLOUDさんボク、司会でも仲人でもスパイでもなんでもしますわ～
 You just call me when it all happens!	そんときにはきっと、よんでくださいね
-CAIT SITH	CAIT SITH
 Thank you for believing in me, knowing that I was a spy.	スパイのボクのこと信じてくれて、おおきに！
 This is the final, final farewell!	ほんまに、ほんまに……いってきます！
-AERIS	AERITH
 Be strong CAIT SITH!!	がんばってCAIT SITH！！
-CAIT SITH	CAIT SITH
 She told me to 'Be strong.' I feel so happy.	がんばって、やって。なんや、うれしいなぁ～
-CAIT SITH	CAIT SITH
 Owwww…	いててて……
-CAIT SITH	CAIT SITH
 What happened?	どないなったんやろ？
-CAIT SITH	CAIT SITH
 I can still move more.	まだ動けるようやな
-CAIT SITH	CAIT SITH
 The Ancients went out of their way to make this great machine.	古代種さんたちこんなシカケよう作りはったなぁ～
-CAIT SITH	CAIT SITH
 I'm saving this Planet too! I'm a little embarrassed…	ボクも、この星を守るんや！なんや、照れるなぁ……
-CAIT SITH	CAIT SITH
 This must be it!	これやな！
 Temple of the Ancients	古代種の神殿
-CLOUD	CLOUD
 That's the Black Materia…	あれが、黒マテリア……
-BARRET	BARRET
 Hey! I'll keep watch here!	おう！オレはここでみはってるぜ！
-TIFA	TIFA
 I'll wait here.	私、ここでまってるね
-RED XIII	RED XIII
 I'll be sittin' out here.	おいら、ここでおすわりしてるよ
-YUFFIE	YUFFIE
 Heh heh…this looks majorly boring, so I'll stay here.	エヘヘ……興味ないからここにいるよ
-CID	CID
 I'm gonna have a smoke out here!	ここでいっぷくしてるぜ！
 Ahhh!! It's really something, having a smoke at a place like this.	クッ～！！こういうとこでいっぷくすんのはたまんねえ～！
-VINCENT	VINCENT
 I'll be looking around here.	私はここで見物していよう
 Got Key Item "Black Materia!"	キーアイテム『黒マテリア』を手にいれた！
-CLOUD	CLOUD
 As long as we have this, Sephiroth won't be able to use Meteor.	これを俺たちが持ってるかぎりセフィロスはメテオを使えないってわけだ
-CLOUD	CLOUD
 Mmm?	ん？
-CLOUD	CLOUD
 Can you guys use it?	俺たちは使えるのか？
-AERIS	AERITH
 Nope, we can't use it right now. You need great spiritual power to use it.	ダメ、今は使えない。とっても大きな精神の力が必要なの
-CLOUD	CLOUD
 You mean lots of spiritual energy?	たくさんの精神エネルギーってことか？
-AERIS	AERITH
 That's right.	そう、ね
 One person's power alone won't do it.	ひとりの人間が持ってるような精神エネルギーじゃダメ
 Somewhere special. Where there's plenty of the Planet's energy…	どこか特別な場所。星のエネルギーが豊富で……
-AERIS	AERITH
 Oh yeah!	あっ！
-AERIS	AERITH
 The Promised Land!!	約束の地！！
-CLOUD	CLOUD
 The Promised Land!!	約束の地だな！！
-CLOUD	CLOUD
 No, but…	いや、しかし……
-AERIS	AERITH
 Sephiroth is different. He's not an Ancient.	セフィロスは、ちがう。古代種じゃない
-CLOUD	CLOUD
 He shouldn't be able to find the Promised Land.	約束の地は見つけられないはずだ
 Sephiroth	セフィロス
 …Ah, but I have.	……が、私は見つけたのだ
@@ -740,15 +503,12 @@ I'm far superior to the Ancients.	私は古代種以上の存在なのだ
 I became a traveler of the Lifestream and gained the knowledge and wisdom of the Ancients.	ライフストリームの旅人となり古代の知識と知恵を手に入れた
 I also gained the knowledge and wisdom of those after the extinction of the Ancients.	古代種滅びし後の時代の知恵と知識をも手に入れた
 And soon, I will create the future.	そしてまもなく未来を創り出す
-AERIS	AERITH
 I won't let you do it! The future is not just yours!	そんなこと、させない！未来はあなただけのものじゃない！
 Sephiroth	セフィロス
 Ha, ha, ha…I wonder?	クックックッ……どうかな？
 Sephiroth	セフィロス
 Wake up!	さあ、目をさませ！
-CLOUD	CLOUD
 Sh…shut up!	だ、だまれ！
-CLOUD	CLOUD
 The…noise…	う……うるさ……い……
 No!	『だ～めだよぅ！』
 Don't be afraid--!	『こわがっちゃだめー！』
@@ -756,104 +516,61 @@ Waaaa~!!	『うわ～ん！！』
 What are you doing!?	『なにすんだよぅ～！！』
 Sephiroth	セフィロス
 There, CLOUD…good boy.	さあ、CLOUD……良い子だ
-CLOUD	CLOUD
 Wa…aaaa…aaa…	う……あ……ぁ……
 Gave "Black Materia" to Sephiroth!	『黒マテリア』をセフィロスに手わたした！
 Sephiroth	セフィロス
 …Well done.	……ごくろう
-AERIS	AERITH
 CLOUD, are you all right?	CLOUD、だいじょぶ？
-CLOUD	CLOUD
 …I gave the Black Materia to Sephiroth?	……俺はセフィロスに黒マテリアを……？
-CLOUD	CLOUD
-Wha…what did I do? Tell me, AERIS.	お、俺はなにをしたんだ……AERITH、教えてくれ
-AERIS	AERITH
+Wha…what did I do? Tell me, AERIS.	お、俺はなにをしたんだ……AERIS、教えてくれ
 CLOUD…be strong, OK?	CLOUD……しっかり、ね？
-CLOUD	CLOUD
 Urrrrrrgh… What have I done!?	ウヘヘヘヘ……俺はなにをした！
-AERIS	AERITH
 CLOUD… you haven't done anything.	CLOUD……あなた、なにもしていない
 It's not your fault.	あなたのせいじゃない
-CLOUD	CLOUD
 I…I'm---!	俺は！　俺はーーーっ！
-TIFA	TIFA
 CLOUD!!	CLOUDー！！
-TIFA	TIFA
 CLOUD, what are you doing!?	CLOUD、何してるの！？
-BARRET	BARRET
 Urrggggggh!!!! CLOUD!!	んがーー！！！CLOUD！！
-BARRET	BARRET
 HEY! CLOUD, you #$#&@!	おい！　CLOUDてめえ！
-RED XIII	RED XIII
 CLOUD!!	CLOUDっ！！
-RED XIII	RED XIII
-AERIS, are you all right!?	AERITH、だいじょうぶ！？
-YUFFIE	YUFFIE
+AERIS, are you all right!?	AERIS、だいじょうぶ！？
 What!? CLOUD!	おろっ！？CLOUD！
-YUFFIE	YUFFIE
-AERIS! CLOUD, what're you doing!?	AERITH！CLOUD、なにやってんだよっ！
-VINCENT	VINCENT
+AERIS! CLOUD, what're you doing!?	AERIS！CLOUD、なにやってんだよっ！
 …!!	……！！
-VINCENT	VINCENT
 CLOUD!	CLOUD！
-CID	CID
 Hey, EY!!	おいおいっ！！
-CID	CID
 CLOUD! What the hell are you doing!?	こらっ、CLOUD！なんてことしてんだよ、てめえは！
-CAIT SITH	CAIT SITH
 Oops! This looks like a bad time!	こりゃあかん！えらいときにきてしもた！
 I'm CAIT SITH No. 2. Right pleased to meet you all!	ボク、CAIT SITH２号機です～。よろしゅうたのんます～！
-CAIT SITH	CAIT SITH
 Oops! This looks like a bad time!	こりゃあかん！えらいときにきてしもた！
 I'm CAIT SITH No. 2. Pleased to meet you all!	ボク、CAIT SITH２号機です～。なかようしてください～！
-CAIT SITH	CAIT SITH
 CLOUD!! What are you doin'!!	CLOUDさん！！なにしとんや！！
-CLOUD	CLOUD
 Everything is white…	まっしろだ……
 What did I do? I don't remember anything…	俺はなにをした？おぼえていない…
 My memory…since when? If everything's a dream, don't wake me.	記憶…いつからなのか…？すべてが夢ならさめないでくれ
 Temple of the Ancients	古代種の神殿
-CLOUD	CLOUD
 That's the Black Materia…	あれが、黒マテリア……
-BARRET	BARRET
 Hey! I'll keep watch here!	おう！オレはここでみはってるぜ！
-TIFA	TIFA
 I'll wait here.	私、ここでまってるね
-RED XIII	RED XIII
 I'll be sittin' out here.	おいら、ここでおすわりしてるよ
-YUFFIE	YUFFIE
 Heh heh…this looks majorly boring, so I'll stay here.	エヘヘ……興味ないからここにいるよ
-CID	CID
 I'm gonna have a smoke out here!	ここでいっぷくしてるぜ！
 Ahhh!! It's great‚having a smoke at a place like this.	クッ～！！こういうとこでいっぷくすんのはたまんねえ～！
-VINCENT	VINCENT
 I'll be looking around here.	私はここで見物していよう
 Got Key Item "Black Materia!"	キーアイテム『黒マテリア』を手にいれた！
-CLOUD	CLOUD
 As long as we have this, Sephiroth won't be able to use Meteor.	これを俺たちが持ってるかぎりセフィロスはメテオを使えないってわけだ
-CLOUD	CLOUD
 Mmm?	ん？
-CLOUD	CLOUD
 Can you guys use it?	俺たちは使えるのか？
-AERIS	AERITH
 We can't use it right now. You need great spiritual power to use it.	ダメ、今は使えない。とっても大きな精神の力が必要なの
-CLOUD	CLOUD
 You mean lots of spiritual energy?	たくさんの精神エネルギーってことか？
-AERIS	AERITH
 That's right.	そう、ね
 One person's power alone won't do it.	ひとりの人間が持ってるような精神エネルギーじゃダメ
 Somewhere special. Where there's plenty of the Planet's energy…	どこか特別な場所。星のエネルギーが豊富で……
-AERIS	AERITH
 Oh yeah!	あっ！
-AERIS	AERITH
 The Promised Land!!	約束の地！！
-CLOUD	CLOUD
 The Promised Land!!	約束の地だな！！
-CLOUD	CLOUD
 No, but…	いや、しかし……
-AERIS	AERITH
 Sephiroth is different. He's not an Ancient.	セフィロスは、ちがう。古代種じゃない
-CLOUD	CLOUD
 He shouldn't be able to find the Promised Land.	約束の地は見つけられないはずだ
 Sephiroth	セフィロス
 …Ah, but I have.	……が、私は見つけたのだ
@@ -862,15 +579,12 @@ I'm far superior to the Ancients.	私は古代種以上の存在なのだ。
 I became a traveler of the Lifestream and gained the knowledge and wisdom of the Ancients.	ライフストリームの旅人となり古代の知識と知恵を手に入れた
 I also gained the knowledge and wisdom of those after the extinction of the Ancients.	古代種滅びし後の時代の知恵と知識をも手に入れた
 And soon, I will create the future.	そしてまもなく未来を創り出す
-AERIS	AERITH
 I won't let you do it! The future is not just yours!	そんなこと、させない！未来はあなただけのものじゃない！
 Sephiroth	セフィロス
 Ha, ha, ha…I wonder?	クックックッ……どうかな？
 Sephiroth	セフィロス
 Wake up!	さあ、目をさませ！
-CLOUD	CLOUD
 Sh…shut up!	だ、だまれ！
-CLOUD	CLOUD
 The…noise…	う……うるさ……い……
 No!	『だ～めだよぅ！』
 Don't be afraid--!	『こわがっちゃだめー！』
@@ -878,195 +592,116 @@ Waaaa~!!	『うわ～ん！！』
 What are you doing!?	『なにすんだよぅ～！！』
 Sephiroth	セフィロス
 There, CLOUD…good boy.	さあ、CLOUD……良い子だ
-CLOUD	CLOUD
 Wa…aaaa…aaa…	う……あ……ぁ……
 Gave "Black Materia" to Sephiroth!	『黒マテリア』をセフィロスに手わたした！
 Sephiroth	セフィロス
 …Well done.	……ごくろう
-AERIS	AERITH
 CLOUD, are you all right?	CLOUD、だいじょぶ？
-CLOUD	CLOUD
 …I gave the Black Materia to Sephiroth…?	……俺はセフィロスに黒マテリアを……？
-CLOUD	CLOUD
-Wha…what did I do? Tell me, AERIS.	お、俺はなにをしたんだ……AERITH、教えてくれ
-AERIS	AERITH
+Wha…what did I do? Tell me, AERIS.	お、俺はなにをしたんだ……AERIS、教えてくれ
 CLOUD…be strong, OK?	CLOUD……しっかり、ね？
-CLOUD	CLOUD
 Urrrrrrgh… What have I done!	ウヘヘヘヘ……俺はなにをした！
-AERIS	AERITH
 CLOUD… you haven't done anything.	CLOUD…… あなた、なにもしていない。
 It's not your fault.	あなたのせいじゃない
-CLOUD	CLOUD
 I…I'm---!	俺は！　俺はーーーっ！
-TIFA	TIFA
 CLOUD--!!	CLOUDー！！
-TIFA	TIFA
 CLOUD, what are you doing!?	CLOUD、何してるの！？
-BARRET	BARRET
 Urrggggggh!!!! CLOUD!!	んがーー！！！CLOUD！！
-BARRET	BARRET
 HEY! CLOUD, you #$#&@!	おい！　CLOUDてめえ！
-RED XIII	RED XIII
 CLOUD!!	CLOUDっ！！
-RED XIII	RED XIII
-AERIS, are you all right!?	AERITH、だいじょうぶ！？
-YUFFIE	YUFFIE
+AERIS, are you all right!?	AERIS、だいじょうぶ！？
 What!? CLOUD!	おろっ！？CLOUD！
-YUFFIE	YUFFIE
-AERIS! CLOUD, what're you doing!?	AERITH！CLOUD、なにやってんだよっ！
-VINCENT	VINCENT
+AERIS! CLOUD, what're you doing!?	AERIS！CLOUD、なにやってんだよっ！
 …!!	……！！
-VINCENT	VINCENT
 CLOUD!	CLOUD！
-CID	CID
 Hey, EY!!	おいおいっ！！
-CID	CID
 CLOUD! What the hell are you doing!?	こらっ、CLOUD！なんてことしてんだよ、てめえは！
-CAIT SITH	CAIT SITH
 Oops! This looks like a bad time!	あかん！　こりゃ たいへんなときにきてしもたわ！
 I'm CAIT SITH No. 2. Pleased to meet you all!	ボク、CAIT SITH>２号機です～。ほな、よろしゅうたのむわ～！
-CAIT SITH	CAIT SITH
 Oops! This looks like a bad time!	あかん！　こりゃ たいへんなときにきてしもたわ！
 I'm CAIT SITH No. 2. Pleased to meet you all!	ボク、CAIT SITH２号機です～。なかよくしてな～！！
-CAIT SITH	CAIT SITH
 CLOUD!! What are you doin'!!	CLOUDさん！！なにしてまんねん！！
-CLOUD	CLOUD
 Everything is white…	まっしろだ……
 What did I do? I don't remember anything…	俺はなにをした？おぼえていない…
 My memory…since when? If everything's a dream, don't wake me.	記憶…いつからなのか…？すべてが夢ならさめないでくれ
-AERIS	AERITH
 CLOUD, can you hear me?	CLOUD、わかる？
-CLOUD	CLOUD
 Yeah, I hear you. Sorry for what happened.	ああ、わかるよ。さっきはすまなかったな
-AERIS	AERITH
 Don't worry about it.	気にしないほうがいいよ
-CLOUD	CLOUD
 …I can't help it…	……そんなのムリだ
-AERIS	AERITH
 Oh…	そっか……
-AERIS	AERITH
 Then, why don't you REALLY worry about it?	じゃ、思いっきり気にしちゃえば？
-AERIS	AERITH
 And let me handle Sephiroth.	セフィロスのこと、わたしにまかせて
-AERIS	AERITH
 And CLOUD, you take care of yourself.	そして、CLOUDは自分のこと考えて
-AERIS	AERITH
 So you don't have a breakdown, okay?	自分が壊れてしまわないように、ね？
-CLOUD	CLOUD
 What is this place?	ここは……どこだ？
-AERIS	AERITH
 This forest leads to the City of the Ancients… and is called the Sleeping Forest.	この森は【古代種の都】へつづく……【眠りの森】と呼ばれている
-AERIS	AERITH
 It's only a matter of time before Sephiroth uses Meteor.	セフィロスがメテオを使うのは時間の間題
 That's why I'm going to protect it. Only a survivor of the Cetra, like me, can do it.	だから、それを防ぐの。それはセトラの生き残りのわたしにしかできない
-AERIS	AERITH
 The secret is just up here.	その秘密、この先にあるの
-AERIS	AERITH
 At least it should be. …I feel it. It feels like I'm being led by something.	ううん……あるはず。そう、感じるの。何かに導かれている感じ、するの
-AERIS	AERITH
 Then, I'll be going now. I'll come back when it's all over.	じゃ、わたし、行くね。全部終わったらまた、ね？
-CLOUD	CLOUD
-AERIS?	AERITH？
+AERIS?	AERIS？
 Sephiroth	セフィロス
 Hmm… So she's going to interfere? She'll be a difficult one, don't you think?	おやおや……私たちの邪魔をする気のようだ。困った娘だと思わないか？
 Sephiroth	セフィロス
 We must stop that girl soon.	そろそろあの娘にも…
-TIFA	TIFA
 …CLOUD.	……CLOUD
 [Empty Entry]	万年前の地層
 [Empty Entry]	ルナハープゲット
-BARRET	BARRET
 You look like you was havin' a nightmare.	うなされていたみたいだな
 How are you feeling?	調子はどうだ？
 I seem to be OK	いいみたいだ
 Not good	わるい
 Don't really know	よくわからない
-BARRET	BARRET
 That's good. Man, I didn't know what was gonna happen.	そりゃ、良かったな。まったく、どうなることかと思ったぜ
-BARRET	BARRET
 Oh… Better keep it to yourself.	そうか……でもよ、そうも言ってらんねえぜ
-BARRET	BARRET
 I guess that's right. Well, don't worry too much about it.	そんなとこだろうな。ま、あんまり悩まねえこった
-TIFA	TIFA
-You know, CLOUD. AERIS is gone.	あのね、CLOUD。AERITHがいなくなっちゃったの
-BARRET	BARRET
-Everyone's out looking for AERIS.	みんなはAERITHを探しに行ってる
-CLOUD	CLOUD
-…The City of the Ancients. AERIS is headed there.	……古代種の都。AERITHはそこに向かっている。メテオを防ぐ手段があるらしいんだ
-BARRET	BARRET
-By herself!? Why did she go by herself!?	AERITHが一人で！？なんだって一人で行っちまうんだよ！
-BARRET	BARRET
+You know, CLOUD. AERIS is gone.	あのね、CLOUD。AERISがいなくなっちゃったの
+Everyone's out looking for AERIS.	みんなはAERISを探しに行ってる
+…The City of the Ancients. AERIS is headed there.	……古代種の都。AERISはそこに向かっている。メテオを防ぐ手段があるらしいんだ
+By herself!? Why did she go by herself!?	AERISが一人で！？なんだって一人で行っちまうんだよ！
 Hey, we're goin' too.	おい、オレたちも行くぞ
-CLOUD	CLOUD
-Only the Ancients, only AERIS can save us from Meteor…	メテオを防ぐことができるのは古代種……AERITHだけだ
-TIFA	TIFA
-Then we must go. What'll we do if something happens to AERIS? If Sephiroth finds her, she's in trouble.	それならなおさらよ。AERITHにもしものことがあったらどうするの？セフィロスが気づいたら大変よ
-CLOUD	CLOUD
+Only the Ancients, only AERIS can save us from Meteor…	メテオを防ぐことができるのは古代種……AERISだけだ
+Then we must go. What'll we do if something happens to AERIS? If Sephiroth finds her, she's in trouble.	それならなおさらよ。AERISにもしものことがあったらどうするの？セフィロスが気づいたら大変よ
 Sephiroth…already knows.	セフィロスは……もう、知っている
-BARRET	BARRET
 Hey! Why are you still sittin' around?	おい！おまえ、なんだってチンタラしてるんだ？
-TIFA	TIFA
 Let's go, CLOUD.	行きましょ、CLOUD
-CLOUD	CLOUD
 No.	いやだ
-CLOUD	CLOUD
 I might lose it again.	俺、またおかしくなるかもしれない
-CLOUD	CLOUD
 If Sephiroth comes near me I might…	セフィロスがそばに来ると俺はまた……
-BARRET	BARRET
 Yeah, godammit! It's because of you that Sephiroth got the Black Materia in the first place. It's your damn fault!	ああ、そうだよ。おまえのせいでセフィロスは黒マテリアを手に入れたんだ。責任を取れ！
-CLOUD	CLOUD
 My fault?	責任？
-BARRET	BARRET
 I know you got problems… Hell, we all do. But you don't even understand yourself.	おまえはよ、なるほどいろんな間題を抱えてるんだろうさ。自分のことよくわかんねえんだもんな
-BARRET	BARRET
 But you gotta understand that there ain't no gettin' offa this train we're on, till we get to the end of the line.	でもよ、CLOUD。オレたちが乗っちまったこの列車はよ、途中下車はナシだぜ
-TIFA	TIFA
 CLOUD, we came this far… Aren't you going to settle up with Sephiroth?	CLOUD、ここまで来たのよ……セフィロスと決着をつけるんでしょ？
-BARRET	BARRET
 Goddamn jackass, that's what you are…	しょうがねえやつだぜ……
 Just think about it… How many people in this world do ya think really understand themselves?	あのな、考えてみろよ。自分のこと、全部わかってるやつなんて世の中に何人いると思ってんだ？
 People get depressed in life because they don't know what's up.	誰だって、わけわかんねえからあ～だこ～だ、なやむんだろ？
 But, they go on living. They don't run away… That's just how it is.	それでもみんななんとか生きてる。逃げ出したりしないでよう。そういうもんじゃねえのか？
-TIFA	TIFA
 CLOUD…you'll come with us, right? I believe in you.	CLOUD……来てくれるよね。私、信じてるから
-CLOUD	CLOUD
 No…	いやだ……
 I'm afraid. If this keeps up, I may go crazy!	俺は、怖いんだ。このままじゃ、俺は俺でなくなってしまうかもしれない
 I'm afraid…	怖いんだ……
-CLOUD	CLOUD
 What…am I supposed to do?	俺は……どうしたらいい？
 Just pull out of here?	ここから引き返す？
 To where?	引き返す？　……どこへ？
-BARRET	BARRET
 Wait a minute, TIFA. give him a little time.	待ちな、TIFA。しばらく時間をやろうぜ
 He has to decide this on his own.	これは、あいつが自分自身で決着をつけなきゃならねえことだ
-TIFA	TIFA
 CLOUD…	CLOUD……
-BARRET	BARRET
 You believe in CLOUD… right?	信じてるんだろ、CLOUDを
 You awake?	気がついたのかい？
 Those people were so worried that they stayed by your side until you woke up.	あの人たち、えらく心配してあんたが気づくまで、ずっとそばにいたよ
 You sure do have good friends.	いい友人を持ったね
-BARRET	BARRET
 Hey, how are you?	よう、どうだ？
-TIFA	TIFA
 CLOUD…	CLOUD……
-BARRET	BARRET
 I just wanna know, which is it gonna be?	ちょっと、聞いときたいんだけどよおまえはどっちなんだ？
 You wanna find out about yourself? Or are you afraid to find out?	自分のこと、もっと知りたいのか？それとも、知るのが怖いのか？
 Either way, if you stay around here all you're gonna do is worry about it.	ま、どっちにしても、ここにいたってなやんで頭かかえてるしかねえぞ
 Even if you do go nuts again when you see Sephiroth… If it happens, it happens.	もし、セフィロスと会ってよまた、おまえがおかしくなっちまったらそん時はそん時だぜ
 I'll go upside your spikey head and bring you back to normal!	オレがぶんなぐって正気にもどしてやるからよ！
-TIFA	TIFA
 CLOUD, it'll be all right. We're all with you.	CLOUD、大丈夫よ。みんながついてるじゃない
-CLOUD	CLOUD
 But…	……でも
-BARRET	BARRET
 If it happens, it happens. Don't worry 'bout it.	ま、なるようにしかならねえぜ。ウジウジなやむな
-CLOUD	CLOUD
 …You're…right. He's right, isn't he?	……そう……だな。……そう……だよな？
-TIFA	TIFA
-Come on, let's go and find AERIS.	さあ、AERITHを探しに行きましょう？
-CLOUD	CLOUD
+Come on, let's go and find AERIS.	さあ、AERISを探しに行きましょう？
 …I'm afraid to find out the truth. But…why?	……俺は、真実を、知るのが、怖い……？でも……それは……なぜだ？

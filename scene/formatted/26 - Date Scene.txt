@@ -15,22 +15,22 @@ TIFA	TIFA
 “Come on, let's go!”	「ね、行きましょ！」
 CLOUD	CLOUD
 “Hey.”	「お、おい」
-AERIS	AERITH
+AERIS	AERIS
 “Hee, hee!”	「エヘヘ！」
-AERIS	AERITH
+AERIS	AERIS
 “Let's go on a date!”	「デート、しない？」
 CLOUD	CLOUD
 “What?”	「はぁ？」
-AERIS	AERITH
+AERIS	AERIS
 “A D-A-T-E!	「デ・ー・ト！
 Or haven't you ever gone on one?”	したことないの？」
 Don't take me for a fool	バカにするな
 Well, not a real one…	正式には、ない
-AERIS	AERITH
+AERIS	AERIS
 “Hey…a little touchy, aren't we?”	「あ、ムキになるの、あやしい」
-AERIS	AERITH
+AERIS	AERIS
 “No, just a mixed-up kid…”	「う～ん、不幸な青年、ね」
-AERIS	AERITH
+AERIS	AERIS
 “Oh well.	「まぁ、いいわ。
 Come on, let's go!”	さ、いきましょ」
 BARRET	BARRET
@@ -81,7 +81,7 @@ of the cast will cover up for you.”	ショーのプロが話をまとめます
 “Come this way.”	「ささ、こちらへ」
 CLOUD	CLOUD
 “H, hey!”	「お、おい」
-AERIS	AERITH
+AERIS	AERIS
 “This sounds like fun.	「わぁ、おもしろそう
 Come on CLOUD, let's do it.”	はやく行きましょ、CLOUD」
 TIFA	TIFA
@@ -231,9 +231,9 @@ Narration	ナレーション
 “Oh, how profound the power of love…	「ああ、何と強い愛の力でありましょう……
 And so the legendary hero Alfred and	伝説の勇者アルフリードの物語は
 our story live on happily ever after.”	こうしてめでたく棊を閉じるのであります」
-AERIS	AERITH
+AERIS	AERIS
 “Wh, what?”	「ちょ、ちょっと何これ」
-AERIS	AERITH
+AERIS	AERIS
 “You must be kidding!”	「こんなのイヤー！」
 TIFA	TIFA
 “H, hey, what is this?”	「ちょ、ちょっとなんなの？」
@@ -249,11 +249,11 @@ Princess	姫
 I mean, Alfred…”	じゃなかった、アルフリ～ド～」
 King	王様
 “Come on! No more!”	「ヒ～エ～！もうダメ～だ～！」
-AERIS	AERITH
+AERIS	AERIS
 “Stop it CLOUD!	「コォ～ラ～！
 	CLOUD～！
 What are you doing!?”	さっきからなにやってんのよぉ！」
-AERIS	AERITH
+AERIS	AERIS
 “The play's a disaster!	「おしばい、だいなしじゃない！
 Now I'm getting mad!”	もう怒ったんだから！」
 TIFA	TIFA
@@ -272,7 +272,7 @@ EDK	悪竜王
 “Gaaaaaahh!	「ガハハハハ～！
 You dare ignore me!!”	俺を～無視するとは～
 	いい度胸だ～！」
-AERIS	AERITH
+AERIS	AERIS
 “Why don't you shut up,	「何よアンタ
 blabbermouth!!”	ゴチャゴチャうるさいのよ！！」
 TIFA	TIFA
@@ -291,7 +291,7 @@ Beautiful Girl	美女性
 “Thank…you.	「ありがとう～ございます～。
 You've released me…from the spell	おかげで～のろいがとけて～
 and I am my normal self again…”	元の姿にもどれま～した～」
-AERIS	AERITH
+AERIS	AERIS
 “Oh, that was fun.	「あ～、おもしろかった。
 Hey, let's go on the Gondola.”	ね、次はゴンドラ乗ろう」
 TIFA	TIFA
@@ -303,7 +303,7 @@ let's go on the Gondola next.”	CLOUD、次はゴンドラ乗ろうよ」
 BARRET	BARRET
 “Let's go somewhere	「ちょっと、静かに話せるとこ、行こうぜ」
 where we can talk, in private.”	
-AERIS	AERITH
+AERIS	AERIS
 “Two, please.”	「２人おねがいしま～す」
 TIFA	TIFA
 “Two, please.”	「２人おねがいします」
@@ -321,9 +321,9 @@ TIFA	TIFA
 “Look, there.”	「あっ、あれ」
 TIFA	TIFA
 “Look, look.”	「見て、見て」
-AERIS	AERITH
+AERIS	AERIS
 “Wow.”	「すっご～い」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD!”	「CLOUD、ほら！」
 YUFFIE	YUFFIE
 “Geez!”	「すっげぇ」
@@ -335,11 +335,11 @@ TIFA	TIFA
 “Look, CLOUD.”	「ねぇ、CLOUD見て」
 TIFA	TIFA
 “Oh, CLOUD.”	「CLOUD、ほら」
-AERIS	AERITH
+AERIS	AERIS
 “Wow, how nice.”	「わあ、すご～い」
-AERIS	AERITH
+AERIS	AERIS
 “Oh! Look, CLOUD.”	「あっ！　CLOUD見て」
-AERIS	AERITH
+AERIS	AERIS
 “It's so pretty.”	「わあ、きれ～」
 YUFFIE	YUFFIE
 “Wow!”	「あっ！」
@@ -356,7 +356,7 @@ go ahead and say it…”
 CLOUD	CLOUD
 “…What?”	「……何を」
 TIFA	TIFA
-“AERIS would be able to just	「AERITHなら、きっと
+“AERIS would be able to just	「AERISなら、きっと
 come out and say it, probably.”	ハッキリ言うんだろうな」
 CLOUD	CLOUD
 “Huh?”	「はぁ？」
@@ -373,36 +373,36 @@ TIFA	TIFA
 TIFA	TIFA
 “….	「……………
 ….”	…………………」
-AERIS	AERITH
+AERIS	AERIS
 “…Beautiful, isn't it?”	「……きれいだね」
-AERIS	AERITH
+AERIS	AERIS
 “……first off,	「……はじめはね
 it bothered me how you	そっくりだったから
 looked exactly alike.”	気になった」
-AERIS	AERITH
+AERIS	AERIS
 “Two completely different people,	「全然別人なんだけど、そっくり」
 but look exactly the same.”	
-AERIS	AERITH
+AERIS	AERIS
 “The way you walk, gesture…”	「歩きかた、手の動かしかた……」
-AERIS	AERITH
+AERIS	AERIS
 “I think I must have seen him again, in you…”	「あなたの中に彼を見ていた……」
-AERIS	AERITH
+AERIS	AERIS
 “But you're different.”	「でも、ちがうの」
-AERIS	AERITH
+AERIS	AERIS
 “Things are different…”	「いまは、ちがう……」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD…”	「ね、CLOUD」
-AERIS	AERITH
+AERIS	AERIS
 “I'm searching for you.”	「わたし、あなたをさがしてる」
 CLOUD	CLOUD
 “…?”	「……………？」
-AERIS	AERITH
+AERIS	AERIS
 “I want to meet you.”	「あなたに会いたい」
 CLOUD	CLOUD
 “But I'm right here.”	「俺はここにいる」
-AERIS	AERITH
+AERIS	AERIS
 I know, I know…what I mean is…	（うんうん、わかってる……でも）
-AERIS	AERITH
+AERIS	AERIS
 “I want to meet…you.”	「あなたに……会いたい」
 BARRET	BARRET
 “Hey spike-head.	「おめえよ～。
@@ -417,7 +417,7 @@ CLOUD	CLOUD
 BARRET	BARRET
 “Oh man, there just ain't no choice!”	「決まってんだろ！」
 BARRET	BARRET
-“TIFA, AERIS.”	「TIFA、AERITH」
+“TIFA, AERIS.”	「TIFA、AERIS」
 BARRET	BARRET
 “Ah, YUFFIE?”	「おっ、YUFFIEか？」
 CLOUD	CLOUD
@@ -468,7 +468,7 @@ YUFFIE	YUFFIE
 “Say something, PLEASE!”	「なんとか言ってよ～～ッ！」
 CLOUD	CLOUD
 “…something.”	「………………ナントカ」
-AERIS	AERITH
+AERIS	AERIS
 “There's no time for this!	「そんな場合じゃない、でしょ？
 We have to go after CAIT SITH.”	はやく、CAIT SITH、追いましょう」
 TIFA	TIFA
@@ -495,21 +495,21 @@ CLOUD	CLOUD
 TIFA	TIFA
 “Oh, look at the time.	「あっ、もうこんな時間
 We should be getting back.”	そろそろもどりましょう」
-AERIS	AERITH
+AERIS	AERIS
 “I had fun tonight.	「今日は楽しかった
 Let's do it again.”	また、いっしょにこようね」
-AERIS	AERITH
+AERIS	AERIS
 “Don't you like being with me?”	「わたしとじゃイヤ？」
 No, I don't	ああ
 That's not it	そんなことない
-AERIS	AERITH
+AERIS	AERIS
 “Oh, don't tease me like that!”	「もう、いじわる！」
-AERIS	AERITH
+AERIS	AERIS
 “I'm glad.”	「よかった」
 “Next time we come,	「次に来たときは
 let's take our time	もっとゆっくりと
 and go on more rides.”	いろ～んなものに乗ろうね」
-AERIS	AERITH
+AERIS	AERIS
 “Oh, look at the time.	「あっ、もうこんな時間
 We'd better get going.”	そろそろ帰りましょ」
 BARRET	BARRET
@@ -527,7 +527,7 @@ CLOUD	CLOUD
 YUFFIE	YUFFIE
 “You wanna go back,	「じゃあ
 CLOUD?”	そろそろもどろっかCLOUD」
-AERIS	AERITH
+AERIS	AERIS
 “Hey?	「あれっ？
 What's CAIT SITH doing?”	CAIT SITH、なにしてるのかな？」
 TIFA	TIFA
@@ -548,7 +548,7 @@ CLOUD	CLOUD
 “Hey! CAIT SITH!”	「おい！　CAIT SITH！」
 CAIT SITH	CAIT SITH
 “Oh oh!”	「やばやば！」
-AERIS	AERITH
+AERIS	AERIS
 “Come on, let's go.”	「ねぇ、行ってみよ」
 TIFA	TIFA
 “Come on, let's go.”	「ねぇ、行ってみましょう」
@@ -556,7 +556,7 @@ YUFFIE	YUFFIE
 “CLOUD, let's go.”	「CLOUD、あそこいこうぜ」
 BARRET	BARRET
 “CLOUD, wanna take a peek?”	「CLOUD　チョットのぞいてみるか」
-AERIS	AERITH
+AERIS	AERIS
 “We've got no time for this!	「そんな場合じゃない、でしょ！？
 Let's go after CAIT SITH!”	はやく、CAIT SITH、追いましょ！」
 TIFA	TIFA
@@ -568,7 +568,7 @@ Aren't we going after CAIT SITH?”	CAIT SITHを追うんじゃないのか？�
 BARRET	BARRET
 “What're ya doin'?	「何してんだ！
 We're goin' after CAIT SITH!”	はやくCAIT SITHを追うぞ」
-AERIS	AERITH
+AERIS	AERIS
 “We don't have time for that!?	「そんな場合じゃない、でしょ！？
 Let's hurry and go after CAIT SITH!”	はやく、CAIT SITH、追いましょ！」
 TIFA	TIFA
@@ -580,7 +580,7 @@ We've got to go after CAIT SITH?”	CAIT SITHを追うんじゃないのか？�
 BARRET	BARRET
 “Whacha doin!?	「何してんだ！
 We're goin' after CAIT SITH!”	はやくCAIT SITHを追うぞ」
-AERIS	AERITH
+AERIS	AERIS
 “There's no time for this, right!?	「そんな場合じゃない、でしょ！？
 Let's hurry after CAIT SITH!”	はやく、CAIT SITH、追いましょ！」
 TIFA	TIFA
@@ -592,7 +592,7 @@ Aren't we going after CAIT SITH?”	CAIT SITHを追うんじゃないのか？�
 BARRET	BARRET
 “What the hell are you doing?	「何してんだ！
 Let's get CAIT SITH!”	はやくCAIT SITHを追うぞ」
-AERIS	AERITH
+AERIS	AERIS
 “There's no time for that!!	「そんな場合じゃない、でしょ！？
 Let's hurry and go after CAIT SITH!”	はやく、CAIT SITH、追いましょ！」
 TIFA	TIFA
@@ -604,7 +604,7 @@ Weren't we goin' after CAIT SITH?”	CAIT SITHを追うんじゃないのか？�
 BARRET	BARRET
 “What the hell are you doing!?	「何してんだ！
 We gotta get that damn cat!”	はやくCAIT SITHを追うぞ」
-AERIS	AERITH
+AERIS	AERIS
 “We don't have time for this!	「そんな、場合じゃないでしょ！
 We've got to go after CAIT SITH.”	はやく、CAIT SITHを追いましょう」
 TIFA	TIFA
@@ -638,7 +638,7 @@ I won't run or hide.”	逃げも隠れもしませんから」
 I was hired by the Shinra.”	神羅のまわしモンです」
 TIFA	TIFA
 “Don't mess with us!”	「ふざけないでよ！」
-AERIS	AERITH
+AERIS	AERIS
 “…I trusted you.	「……信じてたのに
 I can't believe you!”	がっかり！」
 BARRET	バレット
@@ -668,7 +668,7 @@ toy cat from there.”	操っとるわけなんです」
 TIFA	TIFA
 “So you're from Shinra.	「それじゃあ正体は神羅の人間なのね。
 Who are you?”	だれなのよ？」
-AERIS	AERITH
+AERIS	AERIS
 “So you're from Shinra.	「正体は神羅の人、ね？
 Who? Who are you!	だ～れ？　あなた！
 Tell me!”	言いなさい！」
@@ -704,7 +704,7 @@ I don't think I'd feel too good	なんや、このまま終わってしもたら
 if things ended the way it is now.”	アカンのとちゃうかってな」
 TIFA	TIFA
 “You're lying again.”	「またウソついてる」
-AERIS	AERITH
+AERIS	AERIS
 “…And so on‚and so on…”	「～とかなんとか言ってぇ」
 BARRET	BARRET
 “Hmph! You ain't foolin' us this time!”	「へっ！　だまされないぜ！」
@@ -726,7 +726,7 @@ CAIT SITH	CAIT SITH
 “Dad! TIFA!”	「父ちゃん！　TIFA！」
 TIFA	TIFA
 “Marlene!”	「マリン！」
-AERIS	AERITH
+AERIS	AERIS
 “Hey! That's Marlene!”	「あっ！　マリンの声！」
 BARRET	BARRET
 “Ma…Marlene!?”	「マ、マリン！？」
@@ -769,7 +769,7 @@ CLOUD	CLOUD
 We'll have to do what he says.”	言うとおりにしよう」
 TIFA	TIFA
 “…Marlene.”	「……マリン」
-AERIS	AERITH
+AERIS	AERIS
 “I wonder if Marlene is all right…	「マリン、だいじょぶかな……
 I wonder what happened to Mom?”	お母さん、どうしたのかな」
 BARRET	BARRET
@@ -792,7 +792,7 @@ I won't run or hide.”	逃げも隠れもしませんから」
 I was hired by the Shinra.”	神羅のまわしモンです」
 TIFA	TIFA
 “Don't mess with us!”	「ふざけないでよ！」
-AERIS	AERITH
+AERIS	AERIS
 “…I trusted you.	「……信じてたのに
 I can't believe you!”	がっかり！」
 “Ya dirty &*$*%$!”	「うすぎたねえ野郎だぜ！」
@@ -821,7 +821,7 @@ toy cat from there.”	操っとるわけなんです」
 TIFA	TIFA
 “So you're from Shinra.	「それじゃあ正体は神羅の人間なのね。
 Who are you?”	だれなのよ？」
-AERIS	AERITH
+AERIS	AERIS
 “So you're from Shinra.	「正体は神羅の人、ね？
 Who? Who are you!	だ～れ？　あなた！
 Tell me!”	言いなさい！」
@@ -857,7 +857,7 @@ I don't think I'd feel too good	なんや、このまま終わってしもたら
 if things ended the way they are now.”	アカンのとちゃうかってな」
 TIFA	TIFA
 “You're lying again.”	「またウソついてる」
-AERIS	AERITH
+AERIS	AERIS
 “…And so on, and so on…”	「～とかなんとか言ってぇ」
 BARRET	BARRET
 “Hmph! You ain't foolin' us this time!”	「へっ！　だまされないぜ！」
@@ -879,7 +879,7 @@ CAIT SITH	CAIT SITH
 “Papa! TIFA!”	「父ちゃん！　TIFA！」
 TIFA	TIFA
 “Marlene!”	「マリン！」
-AERIS	AERITH
+AERIS	AERIS
 “Hey! That's Marlene!”	「あっ！　マリンの声！」
 BARRET	BARRET
 “Ma…Marlene!?”	「マ、マリン！？」
@@ -935,7 +935,7 @@ CLOUD	CLOUD
 We'll have to do what he says.”	言うとおりにしよう」
 TIFA	TIFA
 “…Marlene.”	「……マリン」
-AERIS	AERITH
+AERIS	AERIS
 “I wonder if Marlene is all right…	「マリン、だいじょうぶかな……
 I wonder what happened to Mom?”	お母さん、どうしたのかな」
 BARRET	BARRET

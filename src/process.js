@@ -6,6 +6,9 @@ function process(data){
 		let split = line.split("\t");
 		let source = split[0];
 		let target = split[1];
+		if(source.toUpperCase() === target.toUpperCase()) continue // ignore codes
+//		if(names.indexOf(source.toUpperCase()) !== -1 || names.indexOf(target) !== -1) continue;
+//		console.log(`Ignoring speaker line: ${source}\t${target}`)
 		sourceLines.push(source);
 		targetLines.push(target);
 	}

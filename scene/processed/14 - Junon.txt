@@ -1,59 +1,33 @@
 Under Junon	アンダージュノン
-CLOUD	CLOUD
 What kinda place is this?	ここはどんなところだ？
-CLOUD	CLOUD
 Did you see a man with a black cape?	黒いマントの男を見なかったか？
-CLOUD	CLOUD
 Are you all right now?	もう、だいじょうぶなのか？
-CLOUD	CLOUD
 That's all right.	かまわないよ
-CLOUD	CLOUD
 Hey!!	オッ、オイ！
-CLOUD	CLOUD
 Wait a second!	ちょっと、まてよ！
-CLOUD	CLOUD
 What happened to this town? It's so run-down…	なんだ、この村は？やけにさびれているな……
-BARRET	BARRET
 What's that music? It sure sounds lively.	この音楽は何だ？ずいぶんにぎやかじゃねえか
-BARRET	BARRET
 Rufus!? I gotta pay my respects.	ルーファウス！？これはあいさつに行かなくちゃな
-BARRET	BARRET
 We gotta get to the town up there… Mebbe we could climb the tower?	なんとかして上の街に行きてぇな。柱でもよじのぼるか？
-BARRET	BARRET
 Yeah, I'd like to take a good look at the new President of Shinra, Inc.!	神羅の新しい社長さんの顔をおがんでみたいぜ
-BARRET	BARRET
 Seems like something's goin' on up there!	なんだか上のほうがさわがしいな
-TIFA	TIFA
 High voltage tower…	高圧電流の柱ねぇ……
 I guess this means CLOUD'll have to do it.	こういうことは、CLOUDがうまくやってくれるのよね
-TIFA	TIFA
 Don't you just hate this?	いやよね
-TIFA	TIFA
 Doesn't it seem a little strange? Everything getting so noisy all of a sudden?	ねっ、何だか様子が変でしょ？きゅうに、さわがしくなって
-TIFA	TIFA
 Maybe…he dropped some from the North Caves into the Lifestream…	たぶん……北の大空洞からライフストリームに落ちて……
 Sir, do you know where the Lifestream runs through?	おじぃさん、ライフストリームが通っている場所を知ってる？
 CLOUD might have drifted from there.	もしかして、CLOUDはそこから流されたかもしれないの
-AERIS	AERITH
 You think Rufus is thinking about crossing the ocean from here, too?	ルーファウスもここから海をこえるつもりなのかな？
 What? Does that mean Sephiroth already crossed the ocean?	あれっ？それじゃ、セフィロスはもう、海を渡っちゃったってこと？
-AERIS	AERITH
 Yeah, better leave it to CLOUD!	そうね、あの子のことはCLOUDにまかせましょ！
-AERIS	AERITH
 You're probably right.	そうよねぇ
-AERIS	AERITH
 I heard that girl regained consciousness.	女の子が目をさましたらしいの
-RED XIII	RED XIII
 CLOUD, didn't you finish Rufus off?	CLOUDよ、ルーファウスにとどめをささなかったのか？
-RED XIII	RED XIII
 We're counting on you, CLOUD.	まかせたぞ、CLOUD
-RED XIII	RED XIII
 That looks like a Shinra soldier.	向こうにいるのは神羅の兵だな
-RED XIII	RED XIII
 Does this have something to do with the Shinra?	このさわがしさは神羅と何か関係があるのかもな？
-YUFFIE	YUFFIE
 Aren't you going to follow her?	あの子について行かないのか？
-YUFFIE	YUFFIE
 What's this loud music? It's giving me a headache!	なんだい、この音楽は？うるさくて頭にくるよ！
 Priscilla	プリシラ
 Umm…thanks for helping…	あのぅ……助けてくれてありがとう……
@@ -81,7 +55,6 @@ You're such a cheapskate.	しけたヤツだなぁ
 HEY! This is Shinra, Inc.'s elevator. Don't be snooping around here!!	コラッ！神羅カンパニーのエレベーターだ。ウロウロするな！！
 What? It's not time for our shift, yet. Just relax.	えっ？まだ、交代の時間じゃないはずだぜ。ゆっくり休んでおけよ
 That's not enough! Can't let you get on…	足りないじゃないか！乗せてやれないな
-CLOUD	CLOUD
 Uh…yeah…	おっ、おう……
 Who are you people? Where did you come from?	なんだね、あんたたち？どこから来たんだい
 Hmm… I've never seen that feller before.	さあ……そんな人とんと見かけんねぇ
@@ -122,40 +95,23 @@ Weapon Store	武器屋
 Hmm, what?	ワシが、ほしいのかい？
 If you see a weapon you want, you'd better buy it.	ほしい武器があったら買っていっておくれ
 Dolphin Offing	イルカの入りえ
-CLOUD	CLOUD
 …That's how it is.	……というわけなんだ
-CLOUD	CLOUD
 Great…	まいったな……
-CLOUD	CLOUD
 Hey! Hold on, we're coming!	おい、助けるぞ！
-CLOUD	CLOUD
 A gift? What am I supposed to do with it!?	プ、プレゼントって……どうしろっていうんだ！？
-CLOUD	CLOUD
 Jump to the top of the pole?	柱の上までジャンプだって！？
-BARRET	BARRET
 No! You got it all wrong! We're fighting against the Shinra!	ちがうぜ！オレたちは、神羅と戦ってるんだ
-BARRET	BARRET
 Hey! Look at that!	おい！　あれを見ろ！
-BARRET	BARRET
 Now ain't that something! I ain't never seen no dolphin jump like that!	見せてもらったぜ、イルカのジャンプすごいもんじゃねぇか！
-BARRET	BARRET
 Good luck CLOUD! If you make it, we'll follow you!	CLOUD、がんばれよ！おまえが上手くやったらオレたちも行くからよ！
 Whoa, I'll hold the PHS for you. It'll break if it gets wet.	おっと、それにＰＨＳをあずかっておいたぜ。ぬれたら壊れちまうからな
-TIFA	TIFA
 No…stay calm…	ちがうわ、安心して
-TIFA	TIFA
 Look at that!	あれを見て！
-AERIS	AERITH
 No you're wrong! We have nothing to do with the Shinra.	ちがうの！わたしたち、神羅と無関係なのよ
-AERIS	AERITH
 What's that!?	あれはなにっ！？
-RED XIII	RED XIII
 We don't get along with the Shinra.	……神羅とは相性が悪いな
-RED XIII	RED XIII
 Hey! It's a monster!	おい、モンスターだ
-YUFFIE	YUFFIE
 Hey watch your mouth! We hate the Shinra!	しつれいなこと言うんじゃないよ！神羅なんかだいっきらいさ
-YUFFIE	YUFFIE
 Whoa, Gawd!	おわっ、大変だ！
 He-y! Mr.Dolphin!	ねぇ～！イルカさ～ん！！
 Priscilla	プリシラ
@@ -188,21 +144,13 @@ Yes	はい
 No	いいえ
 Dolphin Offing	イルカのいりえ
 This is bad… You don't think she's dead, do you?	まいったな…もしかして死んでしまったのか？
-CLOUD	CLOUD
 Mouth to mouth!?	人工呼吸って！？
-CLOUD	CLOUD
 But… she's just a girl…	あ、いやあの、女の子だし……
-CLOUD	CLOUD
 Guess I gotta do it…	……しかたない
-BARRET	BARRET
 C'mon CLOUD.	CLOUD、まかせたぜ
-TIFA	TIFA
 CLOUD, what are you going to do?	CLOUD、どうするの？
-AERIS	AERITH
 CLOUD, hurry!	CLOUD、はやくっ！
-RED XIII	RED XIII
 You know I can't.	私にはムリだな
-YUFFIE	YUFFIE
 Do it, CLOUD!	CLOUD、やれ～っ！
 Priscilla	プリシラ
 Uh…ugh…	う、う～ん
@@ -222,36 +170,24 @@ What are you doing? Hurry up! Breath deeply and give her mouth to mouth!	何を�
 Push [SWITCH] once to start the CPR gauge.	□ボタン１回目　呼吸ゲージスタート
 Push it again to stop the gauge.	□ボタン２回目　呼吸ゲージストップ
 Grandma's House	おばあさんの家
-CLOUD	CLOUD
 Yeah…	そうだな……
 We'll try later	やっぱりあとにしよう
 Let's rest	ひと休みしよう
-CLOUD	CLOUD
 TIFA…	TIFA……
 When Sephiroth and I went to Nibelheim, where were you?	俺とセフィロスがニブルヘイムに行ったときTIFAはどこにいた？
-CLOUD	CLOUD
 The other time.	それ以外の時間だ
 Hmmm…	う～ん……
 Let's get some rest	ひと休みしよう
 No time to rest	休んでいられない
-TIFA	TIFA
 Get some rest?	休んでく？
-TIFA	TIFA
 CLOUD, come here. Everyone's here.	CLOUD、ちょっと来て。みんなそろってるわ
-TIFA	TIFA
 …We saw each other, right?	……会ったでしょ？
-TIFA	TIFA
 No…it was 5 years ago. I don't remember.	う～ん……５年前なのよ。覚えてないわ
 But, something seems strange outside. CLOUD, come quick.	ね、それより外の様子が変なの。早く来て、CLOUD
-AERIS	AERITH
 Want to rest?	休もっか？
-AERIS	AERITH
 What are you thinking?	何かんがえてんの？
-BARRET	BARRET
 I'm gonna relax for a while.	ちょっとばかりくつろがせてもらおうぜ！
-RED XIII	RED XIII
 Shall we rest?	休むのか？
-YUFFIE	YUFFIE
 Wanna rest?	お休みかい？
 I heard what happened. You've done so much for Priscilla.	話は聞いたよ。プリシラが世話になったね
 You all must be tired. If you want to get some rest, stay here.	あんたたちもつかれただろ？休むんならここをつかっておくれ
@@ -297,11 +233,8 @@ Priscilla	プリシラ
 I'm so happy!! Someday I'm going to be CLOUD's wife.	よかった～！！わたし、CLOUDおにいちゃんのおヨメさんになるって決めてるの
 Priscilla	プリシラ
 I've decided I'm gonna be CLOUD's wife.	わたし、CLOUDおにいちゃんのおヨメさんになるって決めてるの
-CLOUD	CLOUD
 Yeah, that's right.	ああ、そうなんだ
-TIFA	TIFA
 CLOUD fell into the Lifestream at the North Cave, and has been missing ever since.	CLOUDが北の大空洞からライフストリームに落ちて行方不明になっているの……
-CID	CID
 We found CLOUD!	CLOUDが見つかったぜ！
 Received "Shiva" Materia!	『シヴァ』のマテリアを手に入れた！
 You cannot take on any more Materia. Please discard some Materia.	これいじょうマテリアは持てません。なにかマテリアをすててください。
@@ -321,18 +254,13 @@ Locker Room	ひかえ室
 Today's the big day when we welcome President Rufus! Hurry up and change!	今日は新社長ルーファウス様をおむかえする大切な日だってのに！ほらっ、着替えろ！
 There's a uniform in the locker. Hurry and change!	制服はロッカーに入ってる。はやく着替えろ！
 Quit yappin'! Hurry up!	むだぐちたたくな！はよせいっ！
-CLOUD	CLOUD
 It's the Shinra uniform.	神羅兵の制服だ
 Don't change	着替えない
 Change	着替える
-CLOUD	CLOUD
 There's Shinra soldiers all around. Better not try anything dumb…	まわりは神羅兵だらけだ。へたに逆らうような愚はおかせないが…
-CLOUD	CLOUD
 Brings back memories…	なつかしいな…
-CLOUD	CLOUD
 A Shinra uniform…	神羅の制服か…
 I was so proud when I first put it on.	はじめてそでを通したときほこらしく思ったっけ
-CLOUD	CLOUD
 I wonder when it was…	いつからだったか…
 …I couldn't stand wearing this thing anymore.	こいつを着るのがたまらなくいやになったのは
 Wow! You look good in it!	ほ～う！にあっとるじゃないか！
@@ -404,7 +332,6 @@ Commander!! What's today's special pose?	隊長！！本日のスペシャルポ
 Huh? …I haven't decided yet.	んっ？……決めてない
 All right, rookie!! I'll let you decide!	よしっ、新入り！！特別におまえに決めさせてやる！
 Show me your best move!	得意のキメポーズ、やってみろ！
-CLOUD	CLOUD
 Let's see… My best move is…	そうだな…。俺の得意なのは
 Wow!	おおっ～！
 Awesome!	かっこいいであります！
@@ -514,7 +441,6 @@ Yes Sir, we'll get it ready quickly.	それはすぐに、はい
 What a disaster.	災難だったな
 Heidegger was really irritated…	ハイデッカーはイライラしてるからな
 The man in the Black Cape's been roaming the city, but we can't find him.	黒マントの男が街をうろついてるのに発見できないんだ
-CLOUD	CLOUD
 Man in a Black Cape?	黒マントの男？
 He showed up two or three days ago, and killed a few of our soldiers.	２、３日前にあらわれたんだ。そいつに兵士たちが何人か殺されてなぁ
 He disappeared right after that. There's a rumor going around that it was Sephiroth.	その後、行方不明さ。あの英雄セフィロスだってウワサだぜ
@@ -676,7 +602,6 @@ Respectable Inn	上級者の館
 This is a Respectable Inn… guests only!	ここは選ばれたもののみが入ることのゆるされる上級者の館
 You should absorb all the wisdom until it is a part of you.	どうぞ心ゆくまでもてる知識をひろうするがよい
 OK, Mr. Know-it-all, ex-SOLDIER! Let me revenge…I mean, review!	物知り元ソルジャーさんよ！復讐……いや復習させてくれよ
-CLOUD	CLOUD
 What do you want to review?	なにを復習したいんだ？
 ATB	【ＡＴＢ】について
 Onscreen numbers	【飛び出す数字】について
@@ -687,29 +612,23 @@ Status	【ステータス】について
 Elementals	【属性】について
 Help	【ヘルプ】について
 That's all	もう復習は終わりだ
-CLOUD	CLOUD
 I'm not so low as to take money off a bunch of low-lifes like you. I'm just doing this to kill time.	おまえたちから金をとるほど落ちぶれちゃいない。ひまつぶしにつきあってやる
-CLOUD	CLOUD
 ATB means Active Time Battle. It's a system in which time continuously runs during battle.	【ＡＴＢ】、すなわち【アクティブタイムバトル】は戦闘中、つねに時間が流れているシステムだ
 If the ATB is changed to [WAIT] in the Config Menu… Time stops during battle while you select magic or an item.	メニューのコンフィグでＡＴＢを【ウェイト】にすると……戦闘中、魔法やアイテムを選んでいる間時間が止まる
 That lets you select your commands carefully. It's geared especially for beginners like you.	コマンドをゆっくり選べるというわけだ。おまえたち、初心者にはおあつらえむきだな
 In the Config menu, if you change from ATB to [Recommended]…Time will stop while magic or item effects are displayed.	同じくコンフィグでＡＴＢを【おすすめ】にすると……戦闘中、魔法やアイテムのエフェクトが出ている間時間が止まる
 This lets you watch the effects carefully. Letting you fight at your own pace… this is the way to go.	戦闘の様子をゆっくり見られるというわけだ。落ちついて戦いたいときはこれだな
 I always use ACTIVE mode, but choose what you want. That's all.	俺はいつでも【アクティブ】だが気にするな、好きなものを選ぶといい。以上だ
-CLOUD	CLOUD
 During a battle, white numbers that appear on the screen indicate damage, and green numbers indicate recovery points.	バトルの時に、【ピロンと飛び出す数字】は白がダメージ、緑が回復していることを表している
 Remember that, if you don't want to be Wiped Out.	全滅したくなければ注意することだな
-CLOUD	CLOUD
 Change will change your fighting position to either the front or back row.	【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる
 If you select the back row, the amount of damage you receive is reduced, but so is your attacking power.	後列にすると受けるダメージが減るが、攻撃力も減る。
 [Change] can be selected from the battle menu by pushing the [left Directional button].	【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ
 You can also select [Defend] from battle menu by pushing the Directional button to the right.	同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ
 Defend will reduce your damage by half until your next turn.	【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる
 It's better to use Defend for strong enemies. Of course, I don't need anything like that.	手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな
-CLOUD	CLOUD
 I don't know too much about Escape during battles since I never do it, but…someone like you might need it.	俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう
 You can escape by holding down [PAGEUP] and [PAGEDOWN] in battle.	Ｌ１ボタンとＲ１ボタンを押しっぱなしにしていると逃げられたはずだ
-CLOUD	CLOUD
 It might be hard to understand this next one since you can't check it right now, but just listen.	いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。
 I'm talking about the Gauges displayed during battle.	戦闘中、いくつか表示されている【ゲージ】のことだ
 The Time Gauge shows the time remaining until your next turn during battle.	【ＴＩＭＥゲージ】は戦闘中、次のコマンド入力が回ってくるまでの待ち時間をあらわしている
@@ -726,16 +645,13 @@ The top gauge, Barrier, defends against attacks. And the bottom gauge, Magic Bar
 Both reduce the amount of damage by half, but disappear after several uses.	両方ともダメージを半分にしてくれるが時間が経つと消えてしまう
 Always keep an eye on the Barrier Gauge, when using Barrier and Magic Barrier spells.	【バリア】と【マバリア】の魔法をつかったときは【ＢＡＲＲＩＥＲゲージ】に注目だな
 That's all. Check them out next time you're in a battle.	以上だ、次の戦闘で確認してくれ
-CLOUD	CLOUD
 If you don't understand what I just told you, I guess you just have a limited capacity for information.	この俺の説明でもわからんようならしかたない。おまえたちの理解する能力がたりないようだ
 But, relax. Push [ASSIST] during battle.	だが、安心しろ。そんなおまえたちは、戦闘中、セレクトボタンを押してみるといいだろう
 A Help Message should explain the different commands to you.	【ヘルプメッセージ】が、俺にかわっていろいろとコマンドの説明をしてくれるはずだ
 It'll tell you things like the monsters' names. Even I look at it, sometimes… so don't be ashamed to use it.	敵のモンスター名なども表示されるから俺も気分転換に見ることもある。はずかしがらずに使うといい
-CLOUD	CLOUD
 Wiped Out… I've never really seen it, but someone told me about it once.	【全滅】か……俺の記憶にはないから、これは人から聞いた話だ
 When you get Wiped Out, you can continue from your last Save Point. Your Experience points will not change.	【全滅】したときに前の【セーブポイント】からかせいだ経験値はそのままのこるという
 Even wimps like you should be able to get out of difficult areas as long as you fight steadily. You ought to be thankful for this.	おまえたちのような弱いヤツでも地道に戦えば、どんな難所でも脱出できるはずだ。ありがたいことだな
-CLOUD	CLOUD
 Status simply means the status of the characters.	【ステータス】とはキャラクターの状態のことだ
 I don't want to repeat myself too much, so I'll mention the main points.	これまで説明したことと重なるかもしれんが代表的なものをまとめといてやる
 Sleep Cannot enter command until awakened.	すいみん　起きるまでコマンド入力不可になる。
@@ -748,10 +664,8 @@ Silence You cannot cast any Magic.	ちんもく　全ての魔法をとなえら
 Paralysis Time Gauge stops, you cannot enter commands.	マヒ　　　　タイムゲージ停止、コマンド入力不可
 Darkness Reduces attack concentration.	くらやみ　なぐり攻撃の命中率低下。
 Frog Turns you into a frog. I hate this.	カエル　　カエルになる。俺はだいきらいだ。
-CLOUD	CLOUD
 Phew…I'm tired.	フッ……さすがにつかれたな
 Changed Status can be changed with magic and items, so always double check it when you buy things.	【ステータス変化】はアイテムや魔法で直せるから物を買うときに確認しておくのがいいだろう
-CLOUD	CLOUD
 Elementals are special Materia that come with magic and weapons.	【属性】は魔法や武器などについてくる特別な効果のことだ
 You have to use this to your advantage in battle. Only once you start thinking in terms of Elementals can you truly be called an intermediate player.	有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな
 Here are some examples. Remember, they're just examples. You don't have to memorize them.	代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな
@@ -764,14 +678,12 @@ Gravity Gravity-based attack. These hurt if they hit.	重　　重力を使っ�
 Water Calls on the earth's water. Works well on fire monsters.	水　　大地の恵みの水を呼ぶ。火のモンスターにきく。
 Wind Calls up the winds. Works well on flying enemies.	風　　大気の風をよびおこす。飛んでるヤツにきく。
 Holy Summons the Planet's power. Works well on dark monsters.	聖　　星の力をよびおこす。暗黒のモンスターにきく。
-CLOUD	CLOUD
 Using opposite Elementals often is effective in battle.	相反する【属性】を攻撃に使用することで大きな効果を得られる
 Using the same Elementals usually increases Defense. But, the reverse is also true. Watch out for it.	また、同じ属性なら防御の効率があがる。だが……逆もまた真なり。気をつけることだな
 To find out what Elementals an enemy has, you need Sense Materia. Once you get it, try it out.	敵のもっている【属性】をみぬくためには【みやぶる】ことが必要だ。マテリアを手にいれたら、使ってみてくれ
 This is the Beginner's Hall (Intermediate)!	まいどおなじみ初心者の館（復活編）だよ～ん！
 Your explanations were so complicated I couldn't return to the Planet.	あんたの説明が、むずかしすぎて星に帰れなかったよ
 So, I have a right to ask you again.	もういちど、たのむ権利がオレにはあるよな
-CLOUD	CLOUD
 What do you want to know?	なにが知りたいんだ？
 How to save?	記録を残すには？
 How do I cure party members?	傷ついた味方を回復するには？
@@ -784,18 +696,14 @@ Checking status	現在の自分の状態をチェック
 Limit Techniques	リミット技の使い方
 Other	その他の注意
 You got nothing to teach me!	もう教えることはない
-CLOUD	CLOUD
 For my explanation, I'll need a Potion.	説明にあたって、ポーションが必要だな
 Man, ex-SOLDIERs sure are cheap. OK, I'll GIVE you a Potion…	せこいなあ、元ソルジャーさん。そらポーションの一個くらい、さしあげますぜ
 I don't seem to have any on me. Why don't you go buy one?	俺もポーションの手持ちがないよ。買ってきたらどうだい？
-CLOUD	CLOUD
 Thanks. I'll take that as my pay.	悪いな。報酬だと思ってもらっておく
-CLOUD	CLOUD
 I think you know the basics, but just in case…	常識なのでわかっているとは思うが念のため、言っておく
 Do not open the CD drive or change discs until instructed.	指示があるまで、ディスクホルダーを開けたり他のものと取りかえたりするな
 If you open the drive, I can't guarantee anything. That is all.	ディスクホルダーを開けた場合後のことは保証できない。以上
 OK wise-guy, I'll ask about Materia just so you can let off some stress.	物知りさん、あんたのストレス解消にマテリアの話を聞いてあげるよ
-CLOUD	CLOUD
 You're right…	そうだな……
 Growth Materia	マテリアの成長
 Kinds of Materia	マテリアのしゅるい
@@ -803,14 +711,12 @@ Combinations of Materia	マテリアの組み合わせ
 Divisions of Materia	マテリアのぶんれつ
 Number of Materia you may carry	もてるマテリアの数
 The rest is a secret	あとは秘密だ
-CLOUD	CLOUD
 First off, the main points.	単刀直入に要点からきりだそう
 Some types of Materia, like Magic, grow as you use them.	マテリアの成長には魔法のように使える技が増えていくタイプ
 Some, like Summon Magic, grow from being used once a battle, to several times per battle.	召喚のように一回のバトルで使える回数が増えてゆくもの
 Their effectiveness changes, too. There are all different kinds.	また、その効果が変わってゆくもの。……など色々なしゅるいがある
 Some types don't change, but they must grow in order to be divided.	中には、効果が変わらない物もあるがそういうマテリアもぶんれつさせるためには成長させなければならない
 …And that's it. Maybe that sounded too official.	……以上だな。なんだか、事務的だったかな
-CLOUD	CLOUD
 Types of Materia… Here goes!	マテリアのしゅるいか…一気にいくぞ！
 [Independent Materia] enables Abilities. No linking required.	【独立マテリア】つけていればアビリティが機能するマテリア。
 [Support Materia] is used with Command, Magic, and Summon Materia.	【支援マテリア】コマンドや魔法、召喚マテリアと組にしてつかうマテリア。
@@ -821,7 +727,6 @@ There are lots of different kinds of Materia, so you'll never get bored. One cal
 [Summon Materia] let's you use Summon Magic. As your Level increases, the number of times you can use it in a single battle increases.	【召喚マテリア】召喚獣が使える。レベルアップで１回のバトルで使える回数が増える。
 This's one of my favorites.	俺もお気に入りのマテリアだ。
 And there you have it, the five types of Materia.	……以上の５しゅるい
-CLOUD	CLOUD
 There's no single way to combine Materia. So here goes the basics.	マテリアの組み合わせ方か。ひとすじなわではいかない。ここでは基本のおさらいといこう
 Support Materia… The basic combination is Magic + All.	支援マテリアの使い方……基本は【魔法】＋【全体化】の組み合わせだ
 The variety of magic you can cast will increase as your Magic Level increases.	魔法をレベルアップすると魔法のしゅるいが増える。
@@ -836,7 +741,6 @@ I'm getting off the subject,… If you equip Fire + Elemental to your armor, it 
 Now this is important.	ポイントはここだな
 When the Elemental levels in your armor increase, so will their effectiveness. From half damage - no damage - absorb.	防具に限っては、さらにお得なことに【属性】がレベルアップすれば『半減→無効→吸収』と効果が上がるのだ
 If you combined Elemental and Fire you could develop Fire absorbing armor.	レベルアップした【属性】と【炎】を組み合わせれば【炎を吸収する防具】も作れるというわけだ
-CLOUD	CLOUD
 Wait, there's more. Next is the Added Effect for Support Materia.	さらに続けるとしよう。【追加効果】の支援マテリアの使い方だ
 The Added Effect Materia grafts the effects of Compound Status Materia into your weapons and armor.	【追加効果】マテリアは、組み合わせたステータス変化系のマテリアの効果を武器や防具にはりつけるためのものだ
 For example, equip Added Effect + Poison to your weapon and select [Attack]. Sometimes you'll make a Poison attack.	例えば、【追加効果】＋【毒】を武器につければ『たたかう』で攻撃したときに追加効果として【毒】のステータス異常をひきおこすことが可能だ。
@@ -844,7 +748,6 @@ Of course, it doesn't always work.	もちろん、成功しないときもある
 If you don't combine the Added Effect Materia with Status Change Materia, like Confusion or Time, you won't get any effect.	【追加効果】のマテリアは【まどわす】や【時間】などステータス変化系のマテリアと組み合わせなければ意味がない
 To learn more about Added Effect, access the menu and check the Status.	追加効果を細かく知りたければ『メニュー』を開いて『ステータス』をチェックしろ
 It's a little hard to get, but if you take your time, you'll be all right.	内容はハードだが落ちついて考えれば、だいじょうぶだ
-CLOUD	CLOUD
 Division… I'm pretty good at this.	ぶんれつか…。俺もこれが得意だな
 People tell me that my personality is divided. But I don't think so, but maybe it is?	俺は、よく性格がぶんれつしてるといわれる。自分ではそのつもりはないがあるいは、いまもそうかもしれないな…
 Anyhow…	話を元にもどそう
@@ -853,7 +756,6 @@ The original Materia will no longer grow. Once that happens, all you can do is u
 New Materia always starts out with zero AP, so you need to raise its levels!	新たに生まれたマテリアはＡＰが０の状態なのでこちらは、育てなければならない
 Of course, once the new Materia reaches its max, it'll divide. That's how you increase your Materia collection.	もちろん、ぶんれつして生まれたマテリアも最高レベルにたっするとまたぶんれつする。こうしてマテリアを増やしてゆくんだな
 Ha, ha… Right now I feel like I'm dividing myself.	クックックッ……なんだか、俺もすっかりぶんれつ気分だよ
-CLOUD	CLOUD
 Once Materia starts dividing, you must be careful.	ぶんれつしてマテリアがふえはじめたら注意が必要だ
 There's a limit to how much Materia you can have.	マテリアのもてる数には制限がある
 Since we're fighting for the life of the Planet, it goes against my beliefs to carry too much Materia.	なぜなら、俺たちは、名目上星の命を守るために戦っている。故に、マテリアの持ちすぎは理念に反してる
@@ -862,18 +764,15 @@ That's why, the amount of Materia that we can have is limited to 200… only wha
 When you have too much Materia, you need to dispose of some. If you don't, you can't take on any more.	マテリアがいっぱいの時は一度マテリアを手放してからでないとひろうこともできないし、買うこともできない
 So, ditch some Materia before that happens… Ahem…I mean, give them back to the Planet.	そんなときは、先にマテリアをすてる…。フッ……星に帰してやってくれ
 OK. Expert! Enlighten us on Limit Techniques, why doncha?	上級者さん！リミット技について演説をひとつどうぞ！
-CLOUD	CLOUD
 I don't have too much to say about that…	あまりないがな……
 Developing Limits	リミットの育て方
 Extreme Limits	リミット究極技
 That's it	こんなところだ
-CLOUD	CLOUD
 There are 2 basic ways of building up your Limit techniques. First, just use them!	リミット技を育てる基本は、２つ。まずひとつは、ひたすらリミット技を使うことだ
 And second is to finish off as many enemies as possible! It sounds easier than it is.	もうひとつは、より多くの敵にとどめをさす！かんたんそうだが、意外とむずかしい
 Everyone knows that when you gain a new Limit technique, you need to select it in the menu.	もはや常識だが、新たなレベルのリミット技を覚えたら、メニューでリミットレベルをセットしなおさなければならない
 And you know that you won't be able to use advanced techniques on each level if you haven't used the basic ones.	……まさか、わすれてないだろうな。各レベルの上級技はそのレベルの基本技を使っていないとあみだすことはできないからな
 Since the type and growth for each limit techniques is different, that's about all I will say.	リミット技の成長・種類には、個人差があるから俺に言えることはこれくらいだ
-CLOUD	CLOUD
 A long time ago I heard extreme techniques exist within the Limit techniques.	昔の話だが、うわさを聞いたことがある。リミット技には、究極の技が存在するという
 But, if that's true you wouldn't be able to get it in any normal way. That's about all I know about it.	だが、これはふつうの方法では使えるようにならない。俺の知っているのは、そこまでだ
 Received "Enemy Skill" Materia!	『てきのわざ』のマテリアを手にいれた！
@@ -958,14 +857,10 @@ Because Hojo disappeared, leaving a letter of resignation.	なんでも本社の
 Heidegger's been forced to take over that investigation, too.	ハイデッカーはその捜索もまかされたらしいからな
 Hey! I thought you were dismissed!	こらーっ！解散だと言っとろうが～！
 We got some cleaning up to do! Hurry up!	あとかたづけがのこっちょる！はよせいよ！
-RED XIII	RED XIII
 Hey, hurry. You're the last one.	おい、急げ。あとはおまえだけだ
-CLOUD	CLOUD
 How did you get here?	どうやって来たんだ？
-RED XIII	RED XIII
 A dolphin gave me a ride.	イルカに乗せてもらった
 Priscilla remembered it after you climbed the pole. But don't be mad at her.	おまえが柱をのぼったあとプリシラが思いついたんだ。悪く思うな
-CLOUD	CLOUD
 We'll cross the ocean, to the new continent.	俺たちは新たな大陸に向け、海を渡る
 …even if we are wearing Shinra's uniforms…	神羅の軍服につつまれながら……
 Lately the economy seems to be improving. Must be the 'Rufus' effect.	最近、ルーファウス効果ってやつで景気がよくなってね

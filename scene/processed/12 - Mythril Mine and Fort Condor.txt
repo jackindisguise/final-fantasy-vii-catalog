@@ -1,15 +1,9 @@
 Marshes	湿地帯
-CLOUD	CLOUD
 Did Sephiroth… do this?	セフィロスが……やったのか……
-TIFA	TIFA
 Amazing…	すごい……
-AERIS	AERITH
 Our enemy is someone that could do this?	こんなことやっちゃう人がわたしたちの相手……
-BARRET	BARRET
 This Sephiroth guy's pretty strong, I'd say.	とんでもねえ強さだな。セフィロスってやつは
-RED XIII	RED XIII
 It's a power that we should respect…	恐るべき力……だな
-YUFFIE	YUFFIE
 Geeeeez, Louise!	ウヒャ～！
 Mythril Mine	ミスリルマイン
 Received "Hi-Potion"!	『ハイポーション』を手にいれた！
@@ -20,23 +14,14 @@ Cannot take on anymore Materia.	これいじょうマテリアは持てません
 Please discard some Materia.	なにかマテリアをすててください。
 Received "Mind Source"!	『マインドアップ』を手にいれた！
 Received "Elixir"!	『エリクサー』を手にいれた！
-BARRET	BARRET
 Hey CLOUD. If we keep going, we'll never get to Kalm.	おいおい、CLOUDさんよぉ。このまま行くと、カームの町とは似ても似つかぬ場所に着く事になるぜ
-AERIS	AERITH
 CLOUD!	CLOUD！
-CLOUD	CLOUD
 If we continue this way, we'll get farther and farther away from Kalm.	このまま進むと、カームの町からどんどんはなれるだけ、よ
-TIFA	TIFA
 Hey, CLOUD. Wasn't Kalm right before this cavern?	ねぇ、CLOUD。カームの町は、この洞窟の手前にあるんじゃなかったかしら？
-RED XIII	RED XIII
 …We won't get to Kalm if we go through these caverns.	……この洞窟を通り抜けてもカームの町には着かないぞ
-BARRET	BARRET
 Yo, wassup? Can't SOLDIER-man even lead the way?	おいおい、しっかりしてくれよ。天下のソルジャーさまが道案内ひとつできねぇのか？
-AERIS	AERITH
 CLOUD! Are you lost!?	もう、CLOUD！道に迷っちゃったの！？
-TIFA	TIFA
 Kalm should be closer to Midgar.	カームの町は、もっとミッドガル寄りの位置にあるはずよ
-RED XIII	RED XIII
 If we're planning to meet at Kalm, we should go back and look again.	カームの町でおちあうつもりならもどって探し直すべきだな
 Rude	ルード
 Just a second!	ちょっと待った！
@@ -52,7 +37,6 @@ Rude	ルード
 Well if you know, then this won't take long.	知っているのなら話は早い……
 Rude	ルード
 It's difficult to explain what the Turks do…	おれたちタークスの仕事を説明するのは難しい……
-CLOUD	CLOUD
 Kidnapping, right?	人さらいだろ？
 Rude	ルード
 To put it negatively… you could say that.	悪意に満ちた言い方をするとそうなる……
@@ -84,29 +68,23 @@ He wants to show his affection for you all… with a new weapon.	親愛なるき
 Tseng	ツォン
 Well, then…	さて……
 Tseng	ツォン
-Where's AERIS? Isn't she with you?	……AERITHは？一練ではないのか？
+Where's AERIS? Isn't she with you?	……AERISは？一練ではないのか？
 Tseng	ツォン
 Oh… Then give her my regards.	そうか……よろしく伝えておいてくれ
 Tseng	ツォン
-AERIS… Long time no see.	AERITH……久しぶりだな
+AERIS… Long time no see.	AERIS……久しぶりだな
 Tseng	ツォン
 Looks like you're safe from the Shinra for a while, now that Sephiroth reappeared.	しばらくの間、君は神羅からは自由の身だ。セフィロスが現れたからな
-AERIS	AERITH
 What are you saying? That I should be grateful to Sephiroth?	……なに、言いたいの？セフィロスに感謝しろって？
 Tseng	ツォン
 No…	いや……
 I won't be seeing much of you, so take care.	あまり会えなくなるが元気でな
 Tseng	ツォン
 Well then, stay out of Shinra's way.	では、諸君。できれば神羅の邪魔はしないでもらいたいものだな
-CLOUD	CLOUD
-AERIS isn't with us. She's with the others.	AERITHはここにはいない。別行動をとっている
-BARRET	BARRET
+AERIS isn't with us. She's with the others.	AERISはここにはいない。別行動をとっている
 Wh, who are you!?	き、キサマは！？
-AERIS	AERITH
 By any chance, are you…?	あなた、もしかして？
-TIFA	TIFA
 Who are you?	あなたは？
-RED XIII	RED XIII
 … I hoped I'd never see you again…	……見たくもない顔に会ったな
 Sir!	先輩！
 Elena	イリーナ
@@ -115,7 +93,6 @@ Tseng	ツォン
 No need to tell them about our orders.	我々の任務を、彼らに教えてやる必要はない
 Rude/Elena	ルード＆イリーナ
 Yes sir!	はっ！
-AERIS	AERITH
 …Strange, hearing that from you.	……あなたに、そんなこと言われるなんて、不思議
 Elena	イリーナ
 Oh! Right!	あっ！　そうでした！
@@ -145,90 +122,49 @@ But be alert because it sits in the shadows of a small hill.	小高い丘の影�
 All right then… Take care of yourselves…	そうか…気をつけてな
 Really!? Then go on up and they'll fill you in on the details.	そうか！　それなら上に登ってくわしい話をきいてくれ
 Entrance to Fort Condor	コンドルフォート入口
-CLOUD	CLOUD
 What happened?	どうなったんだ
-TIFA	TIFA
 Where are all the villagers?	村のみんなは？
-CID	CID
 God! What the hell happened here!?	ダ～ッ！　どうなったんだよ！？
-BARRET	BARRET
 He's still alive.	まだ生きてるぜ
-AERIS	AERITH
 Where is everybody?	みんなは？
-RED XIII	RED XIII
 Where are we?	ここは？
-YUFFIE	YUFFIE
 Oh good, they're still alive.	よかった、生きてるよ
-CAIT SITH	CAIT SITH
 Oy! What on earth happened?	ありゃ？どないなったんや？
-VINCENT	VINCENT
 It seems we survived.	私たちは生き残ったようだな
-CLOUD	CLOUD
 You mean to tell me we're the only ones who made it?	俺たちだけが助かったのか……
-TIFA	TIFA
 I couldn't do anything. It was just too much.	私、なにもできなかった。あまりにも……
-CID	CID
 Damn!! I can't stand this!	チックショ～！！やってらんねえぜ！
-BARRET	BARRET
 Oh man… You look like hell.	ケッ……なんてザマなんだぁ？
-AERIS	AERITH
 I… I couldn't save anyone…	わたし……命、救えなかった……
-RED XIII	RED XIII
 …not enough strength.	……力不足だ
-YUFFIE	YUFFIE
 Well, I'm just glad we're all alive.	まあ、生きてるだけよかったよね
-CAIT SITH	CAIT SITH
 Things sure didn't go smoothly.	うまくいきませんなぁ
-VINCENT	VINCENT
 We might have underestimated the situation.	私たちはあまかったのかもしれないな
-CLOUD	CLOUD
 You mean to tell me that's the extent of my powers? So that's as good as it gets? At this rate I'll never beat the Shinra…let alone Sephiroth…	俺の力はこんなものだったのか？この程度なのか……これじゃ神羅にも……セフィロスにも……
-BARRET	BARRET
 Yeah, ain't no way you gonna win.	ああ、勝てねぇよな
 But if we give up now, what's gonna happen to Fort Condor?	でもよ、このままやめちまったらコンドルフォートの連中にもうしわけねえぜ
-TIFA	TIFA
 No, CLOUD. You mustn't give up. Survivors never give up.	ダメよ、CLOUDあきらめちゃダメ生き残った私たちが、がんばらなくちゃ
-AERIS	AERITH
 CLOUD… You won't find the answer by blaming yourself.	CLOUD……自分責めても、答え、見つからないよ
 Things are the way they are… But you can't blame yourself for that, right?	現実は現実……でも、思いつめてもしかたない……ね？
-RED XIII	RED XIII
 Don't be too hard on yourself, CLOUD. Let's think about what we should do next.	あんまり悩まないで、CLOUD。先のこと、考えようよ
-YUFFIE	YUFFIE
 No use crying over spilt milk. Right?	ま、やっちゃったことはしょうがないよね
-CAIT SITH	CAIT SITH
 Geez, you don't pull any punches do you? We'll just try not to fail next time.	きっついなぁ。次、失敗せんようにせんと
-VINCENT	VINCENT
 We have to fight to avoid any more casualties.	これ以上、犠牲を増やさぬため戦わなければならないのではないか？
-CID	CID
 We'll do it next time, OK?	次がんばろうや、な？
-CLOUD	CLOUD
 Yeah.	そうだな
 They've had their fun, but it's over as of now! There isn't gonna be any more suffering.	これ以上、やつらの思い通りにはさせない。もう、悲しみは増やさない
-TIFA	TIFA
 CLOUD… What should I do?	CLOUD、私……どうしたらいいの？
-BARRET	BARRET
 TIFA…	TIFA……
-RED XIII	RED XIII
 …	……
-YUFFIE	YUFFIE
 CLOUD I wonder what's going to happen?	CLOUDかどうなっちゃうんだろ
-CAIT SITH	CAIT SITH
 Y'know, worryin' only tires you out. Why don't you take it easy?	気にしすぎたらしんどいだけやで。もうちょい楽にしいや
-VINCENT	VINCENT
 You've got no choice but to take it for now.	今は耐えるほかはないな
-CID	CID
 Oy, such a bitter pill to swallow.	ちっ、しょっぺえなあ
-CID	CID
 This ain't no joke, Jack.	ちょっと冗談じゃすまねえぜ、こりゃ
-BARRET	BARRET
 Oh man, this is real bad.	ああ、かなりやばいぜ
-RED XIII	RED XIII
 Things don't seem too favorable.	あんまりいい状態じゃないね
-YUFFIE	YUFFIE
 I told you I'm not kidding!	もともと冗談じゃないんだよ！
-CAIT SITH	CAIT SITH
 If this were a joke it'd be one thing, but this's the truth.	冗談ですんだらええけどこれはほんまのことや
-VINCENT	VINCENT
 This is a rather harsh reality.	かなりきびしい現実だな
 Fort Condor	コンドルフォート
 Hello. I'm sorry but we're not selling anything now. We're using everything we have for ourselves.	いらっしゃい。でも今は、売れないんだよ。なんせ、自分たちで使うからね
@@ -240,183 +176,106 @@ Hmmn, now this is something, I never thought anyone would ever climb up here.	�
 You'd better get down before you get involved.	まきぞえにならないうちに、降りなさい
 Hmmn, now this is something, I never thought anyone would ever climb up here.	ほう、珍しいな。こんなところまで登ってくるとはな
 Any minute now, this will be a battlefield against Shinra. You'd better get down before you get involved.	ここはもうすぐ神羅との戦場になる。まきぞえにならないうちに降りなさい
-BARRET	BARRET
 Shinra? The hell those jackasses doing here?	神羅だって？こんなところへ何しにくるんだ
-TIFA	TIFA
 You mean Shinra?	神羅ですって？
-AERIS	AERITH
 What do you mean, a battlefield'?	どういうこと？戦場って
-RED XIII	RED XIII
 The Shinra…	神羅か……
-RED XIII	RED XIII
 Shinra again.	また、神羅だよ
-YUFFIE	YUFFIE
 The Shinra? Here too?	ここも、神羅かよ
-CAIT SITH	CAIT SITH
 …	……
-VINCENT	VINCENT
 What do you mean by that?	どういうことだ？
-CID	CID
 A battlefield? We can't overlook that.	戦場たあ、聞きずてならねえな
 It appears you have a problem with Shinra, too. After all, you climbed up here.	あなたがたも、神羅とは何かあるらしいな。せっかく、ここまで登ってきたんだ。
 Why not listen to what I have to say for a moment?	ちょっとだけ話を聞いていかないか？
-CLOUD	CLOUD
 …	……
 I guess so	いいだろう
 Not interested	やめておこう
-TIFA	TIFA
 Oh, by all means.	ええ、ぜひ
-CID	CID
 All right, talk on!	おうよ、言ってみろよ
-BARRET	BARRET
 The hell you talkin' about!? They're all fightin' the Shinra too! You gonna ignore that!?	なに言ってやがんだ！ここの連中も神羅と戦ってるんだぞそれを見すてるのか！
-TIFA	TIFA
 CLOUD, let's listen to what they have to say.	CLOUD、聞きましょう
-AERIS	AERITH
 After all, we came all this way, CLOUD	せっかくここまで来たんだから、ね？CLOUD
-CAIT SITH	CAIT SITH
 I know, I know, CLOUD. But let's listen for a bit.	まぁまぁ、CLOUDさんちょっとくらい聞きましょうや
-VINCENT	VINCENT
 There's no harm in listening to them.	話くらい聞いてもよかろう
-YUFFIE	YUFFIE
 Is this about the jewels?	お宝の話かい？
-CID	CID
 Man, she sure's cold.	ほんと、人情のねえ奴だぜ
 Do you know what's at the top of this mountain?	この山の上になにがのっているかわかるかな？
-BARRET	BARRET
 Huh? Something's up there?	ん？なにかあったか？
-AERIS	AERITH
 A huge bird.	おっきな、鳥さん
-TIFA	TIFA
 Come on, let's get it together.	もう、しっかりしてよ
-YUFFIE	YUFFIE
 Look close, old man.	しっかり見てろよおっさん
-CAIT SITH	CAIT SITH
 Yeah, come to think of it there was something.	そういやなんやおったな
-CLOUD	CLOUD
 The reactor and the Condor.	魔晄炉と、コンドルだな
-TIFA	TIFA
 That's the reactor and the Condor.	あれは、魔晄炉とコンドルね
-RED XIII	RED XIII
 That's the reactor and the Condor.	あれは、魔晄炉それと、コンドルだな
-RED XIII	RED XIII
 That's the reactor. And the Condor.	あれは、魔晄炉だよ。それと、コンドルだね
-VINCENT	VINCENT
 Come to think of it, there was a reactor. But I've never seen anything shaped like it…	そういえば、魔晄炉があったな。見たことのない形だったが……
-CID	CID
 No matter how you look at it, that's a reactor. And on top of it, is that the Condor?	ありゃどうみても魔晄炉だなその上にいるのはコンドルか？
 I can see you're very perceptive. Yes, it's a reactor and a Condor.	ほう、よくわかったな。確かに魔晄炉とコンドルだ
 That's right, on that mountain is a Condor and a reactor.	確かに、山の上にあるのはコンドルと魔晄炉だ
 It seems the Shinra doesn't like the idea of having a Condor on top of the reactor.	神羅は、魔晄炉の上にコンドルがいることが気にくわないらしい
-BARRET	BARRET
 Damn, that's one big bird! But why are they trying to get rid of it with weapons?	ちょっと大きな鳥だろ？なんでまた武力まで使って排除しようとするんだ？
-TIFA	TIFA
 What's so wrong with having a Condor on top of the reactor?	魔晄炉の上にコンドルがいちゃダメなのかしら？
-AERIS	AERITH
 Why?	ど～して？
-RED XIII	RED XIII
 It's not very logical.	理由がわからないな
-RED XIII	RED XIII
 The logic eludes me.	理由、わからないよ
-YUFFIE	YUFFIE
 I'm certain there must be state-of-the-art Materia inside the reactor. Am I right?	きっと、魔晄炉の中にすんごいマテリアでもあるんじゃない？
-VINCENT	VINCENT
 …That's too much.	……おおげさすぎるな
-CID	CID
 Huh? I don't get it.	あん？よくわかんねえぞ
-CAIT SITH	CAIT SITH
 Huh?…	ん～……
 It seems there's some type of special Materia in the reactor above us.	どうやら、この上の魔晄炉にはなにやら、特別なマテリアがあるらしい
 And because the Condor came, the Shinra rushed troops here.	そこへコンドルがきたので神羅は、あわてて軍を送ってきた
 The military wants to get the Condor and all the villagers off this mountain.	軍の目的は、コンドルとこの山に住むわたしたちの排除だ
 The Condor is now warming its egg, which hatches only once every few years.	今、コンドルは、数年に一度しか生まないタマゴを温めている
 We would like to protect the Condor from being harmed.	わたしたちは、神羅の手からコンドルの営みを守ってやりたい
-CLOUD	CLOUD
 New lives…	新しい命か……
-BARRET	BARRET
 I'll do it! I'll protect them from Shinra!	オレがやってやるぜ！神羅から守ってやるぜ！
-TIFA	TIFA
 Condor's egg A real work of nature.	コンドルのタマゴ生命の営み
 We've got to protect the life of the Planet.	星の命守らなくちゃ
-AERIS	AERITH
 We must protect the condor egg, right?	コンドルのタマゴ、守らないと、ね？
-RED XIII	RED XIII
 So, to protect the egg, are you gonna protect the reactor?	タマゴを守るために魔晄炉を守るのか…
-RED XIII	RED XIII
 We're going to protect the reactor in order to save the egg.	タマゴを守るために魔晄炉を守るんだ…
-YUFFIE	YUFFIE
 Special Materia, huh? Well, well, things are getting interesting.	特別なマテリアかへへへ、おもしろそうだね
-CAIT SITH	CAIT SITH
 I'm gonna leave it up to you all.	どないするかはみなさんにまかしますわ
-VINCENT	VINCENT
 …and come out in one piece?	命を消さないようにか……
-CID	CID
 You guys, what are ya gonna do?	どうすんだ？おめえらよう
 Unfortunately, we don't have the ability to fight Shinra ourselves.	残念ながら、私たちには直接、神羅と戦うだけの能力はない
 That's why we have hired soldiers to help us.	兵を雇って、いっしょに戦ってもらっている
 As our sponsor, you can help us with a contribution or by fighting alongside of us…	スポンサーとして、ギルの援助でもいいいっしょに戦ってくれるのでもいい…
 What do you think? You want to join us in our fight?	どうだろういっしょに戦ってもらえないか？
-CLOUD	CLOUD
 …	……
-BARRET	BARRET
 What's there to think about? We gotta do it!	なにを迷う！オレたちがやるんだよ！
-TIFA	TIFA
 CLOUD…	CLOUD……
-AERIS	AERITH
 CLOUD, why are you still worrying about it?	CLOUD何、迷ってるの？
-RED XIII	RED XIII
 You decide what we're going to do.	どうするかは君が決めたまえ
-RED XIII	RED XIII
 What are we going to do?	どうするの？
-YUFFIE	YUFFIE
 If things go right, we might even be able to pray to that special Materia.	うまいこといきゃその特別なマテリアってのをおがめるかもよ
-CAIT SITH	CAIT SITH
 I'll leave it up to you so please do as you see fit.	まかしますから好いたようにどうぞ
-VINCENT	VINCENT
 It's difficult to get back what you've lost…	失ってしまったものを取りもどすのは難しい……
-CID	CID
 Don't be so wishy-washy. Hurry and make up your mind.	グジャグジャ言ってねぇでさっさと決めちまえよ
-CLOUD	CLOUD
 …	……
 All right	わかった
 Not interested	興味ないな
-BARRET	BARRET
 What's wrong with you? And you call yourself a human!?	なに考えてんだ、おまえはそれでも人間か！
-TIFA	TIFA
 Well…	そう……
-AERIS	AERITH
 What a jerk. I'm disappointed in you.	なーんだ。ガッカリ
-YUFFIE	YUFFIE
 Now we lost the Materia.	マテリア、損したかもね
-VINCENT	VINCENT
 Have no regrets for what's already past.	後悔しないことだな
-CID	CID
 If you've made up your mind, let's just do it.	決めたんならさっさと行動しようぜ
-TIFA	TIFA
 CLOUD, thanks.	CLOUD、ありがとう
-TIFA	TIFA
 Everyone, listen to what I have to say.	みんな聞いて
 I can't possibly leave these people like this.	私には、この人たちを放っておくなんてできないの
 Let's do whatever we can to help them. All right?	できるかぎりのことをしたいの。みんな、いいわよね？
-CID	CID
 If you go that far, what can I say? Well, we'll be able to do something if you leave it up to us.	そこまで言われちゃあな。ま、オレ様たちにまかせておけばなんとかならぁな
-BARRET	BARRET
 Hey! We'll come to the rescue.	おうよ！オレたちがなんとかするぜ
-AERIS	AERITH
 Yes, yes. Let's do our best.	そうよね。がんばりましょ
-RED XIII	RED XIII
 Right. Let me lend a hand, too.	わかった。協力しよう
-RED XIII	RED XIII
 Got it. I'm gonna lend a hand, too.	わかった。協力するよ！
-YUFFIE	YUFFIE
 Okay, it's settled. We're gonna get the Materia, right?	よ～っし。マテリアゲットね
-CAIT SITH	CAIT SITH
 Well then, let's do our best.	ほんな、がんばりましょ
-VINCENT	VINCENT
 That's the right decision.	いい決断だ
 I see… Come back if you should change your mind.	そうか……気が変わったら来てくれ
 Have you by chance changed your mind?	気が変わったかな？
-CLOUD	CLOUD
 …	……
 Well, let's do it	ああ、やってみよう
 My position hasn't changed	変わらないな
@@ -428,32 +287,20 @@ And feel free to use our beds.	それと、ベッドは自由に使ってくれ
 I'm begging you. Please prevent the reactor from being destroyed and the Condor from being killed.	頼む、魔晄炉が破壊されコンドルが殺されるのを防いでくれ
 You've come at a good time. Shinra's changing its strategy now.	いいところへ来てくれた。神羅がやり方を変えてくるぞ
 It seems that Shinra will destroy the reactor and then take out the Materia that's inside.	どうやら、魔晄炉を破壊して中からマテリアを取り出すつもりらしい
-CLOUD	CLOUD
 I see. I guess that means this area, too.	そうか、ここもか。
 Well, we can't afford to lose any more.	もう、負けられないな
-BARRET	BARRET
 Man, we're walking on dangerous ground. We can't lose now!	やばいぜ、負けられないぜ！
-TIFA	TIFA
 Now is the time to dig in.	今が、がんばりどきね
-AERIS	AERITH
 We can't afford to be beaten!	負けられない、ね
-RED XIII	RED XIII
 We can't afford to be beaten!	これは負けられないね！
-YUFFIE	YUFFIE
 If we lose here, all the Materia we gathered will be for nothing.	ここで、負けちゃせっかくのマテリアがパーだよ
-CAIT SITH	CAIT SITH
 You're right. If we lose here, we'll be in great danger.	そうやね。ここで負けてしまうとちょっとやばいことになりそうですな
-VINCENT	VINCENT
 We must protect this area.	ここは、守らなければ
-CID	CID
 Damn! I guess we have to protect this area too.	ち！ここもかよ
 Watch Room	見張り小屋
 Do you guys want to see it, too?	あんたたちも見るかい？
-CLOUD	CLOUD
 See what?	なにをだ？
-TIFA	TIFA
 What?	なにをです？
-CID	CID
 What is it?	なんだよ？
 The condor. It's huge. Come on, have a look.	コンドルだよでっかいぜ。いいから見てみろよ
 What do ya think? Awesome, huh?	どうだい？すごいだろ
@@ -628,33 +475,21 @@ Then came the Condor, so Shinra dispatched the troops to get rid of it.	そこ�
 Their plan is to get rid of the Condor and the people on this mountain and to get the Materia from the Mako Reactor.	軍の目的は、コンドルとこの山に住むわたしたちを排除し魔晄炉からマテリアを取り出すことだ
 Oh, it's you guys? How are things going?	ああ、あなたがたですか。どうです、調子は？
 Up to now, you've lost  times. If you lose too many times, you won't be able to come back.	これまでに回負けてしまいましたね。あまり、負けてしまうと取り返しがつかないことになってしまいますよ
-CLOUD	CLOUD
 …	……
 We'll get some rest	そうだな休むか
 Let's move on	いや、やめておこう
-TIFA	TIFA
 Yeah…	そうね
 Let's get some rest	休みましょう
 Maybe next time	今度にしましょう
-CID	CID
 Yo!	おう
 Take a break	さっさと休んじまえ
 Not right now	今はいいや
-BARRET	BARRET
 Ey, let's get some rest.	おい、休もうぜ
-TIFA	TIFA
 Say, let's rest. Okay?	ねえ、休みましょうよ
-AERIS	AERITH
 Let's rest. Okay?	休も、ね？
-RED XIII	RED XIII
 We should get some rest while we can.	休めるときに、休んでおこう
-RED XIII	RED XIII
 Let's take a break when we can afford to.	休めるときに、休んでおこうよ
-YUFFIE	YUFFIE
 Come on… break time, break time!	さ、やすみやすみ
-CAIT SITH	CAIT SITH
 Now, shall we get some rest?	ほんな、休みましょか
-VINCENT	VINCENT
 It's probably best to get some rest now.	休んでおいた方がよさそうだな
-CID	CID
 Come on, let's get some shut-eye.	ガンガン休みだ

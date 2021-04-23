@@ -4,7 +4,7 @@ CLOUD	CLOUD
 do this?”	やったのか……」
 TIFA	TIFA
 “Amazing…”	「すごい……」
-AERIS	AERITH
+AERIS	AERIS
 “Our enemy is someone that	「こんなことやっちゃう人が
 could do this?”	わたしたちの相手……」
 BARRET	BARRET
@@ -29,7 +29,7 @@ BARRET	BARRET
 “Hey CLOUD.	「おいおい、CLOUDさんよぉ。
 If we keep going,	このまま行くと、カームの町とは
 we'll never get to Kalm.”	似ても似つかぬ場所に着く事になるぜ」
-AERIS	AERITH
+AERIS	AERIS
 CLOUD!	CLOUD！
 CLOUD	CLOUD
 “If we continue this way,	「このまま進むと、カームの町から
@@ -46,7 +46,7 @@ BARRET	BARRET
 “Yo, wassup?	「おいおい、しっかりしてくれよ。
 Can't SOLDIER-man	天下のソルジャーさまが
 even lead the way?”	道案内ひとつできねぇのか？」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD!	「もう、CLOUD！
 Are you lost!?”	道に迷っちゃったの！？」
 TIFA	TIFA
@@ -125,19 +125,19 @@ with a new weapon.”
 Tseng	ツォン
 “Well, then…”	「さて……」
 Tseng	ツォン
-“Where's AERIS?	「……AERITHは？
+“Where's AERIS?	「……AERISは？
 Isn't she with you?”	一練ではないのか？」
 Tseng	ツォン
 “Oh…	「そうか……
 Then give her my regards.”	よろしく伝えておいてくれ」
 Tseng	ツォン
-“AERIS…	「AERITH……
+“AERIS…	「AERIS……
 Long time no see.”	久しぶりだな」
 Tseng	ツォン
 “Looks like you're safe	「しばらくの間、君は神羅からは
 from the Shinra for a while,	自由の身だ。
 now that Sephiroth reappeared.”	セフィロスが現れたからな」
-AERIS	AERITH
+AERIS	AERIS
 “What are you saying?	「……なに、言いたいの？
 That I should be grateful to Sephiroth?”	セフィロスに感謝しろって？」
 Tseng	ツォン
@@ -149,11 +149,11 @@ Tseng	ツォン
 stay out of Shinra's way.”	できれば神羅の邪魔はしないで
 	もらいたいものだな」
 CLOUD	CLOUD
-“AERIS isn't with us.	「AERITHはここにはいない。
+“AERIS isn't with us.	「AERISはここにはいない。
 She's with the others.”	別行動をとっている」
 BARRET	BARRET
 “Wh, who are you!?”	「き、キサマは！？」
-AERIS	AERITH
+AERIS	AERIS
 “By any chance, are you…?”	「あなた、もしかして？」
 TIFA	TIFA
 “Who are you?”	「あなたは？」
@@ -168,7 +168,7 @@ Tseng	ツォン
 about our orders.”	教えてやる必要はない」
 Rude/Elena	ルード＆イリーナ
 “Yes sir!”	「はっ！」
-AERIS	AERITH
+AERIS	AERIS
 “…Strange, hearing	「……あなたに、そんなこと
 that from you.”	言われるなんて、不思議」
 Elena	イリーナ
@@ -228,7 +228,7 @@ CID	CID
 “God! What the hell happened here!?”	「ダ～ッ！　どうなったんだよ！？」
 BARRET	BARRET
 “He's still alive.”	「まだ生きてるぜ」
-AERIS	AERITH
+AERIS	AERIS
 “Where is everybody?”	「みんなは？」
 RED XIII	RED XIII
 “Where are we?”	「ここは？」
@@ -251,7 +251,7 @@ I can't stand this!”	やってらんねえぜ！」
 BARRET	BARRET
 “Oh man…	「ケッ……
 You look like hell.”	なんてザマなんだぁ？」
-AERIS	AERITH
+AERIS	AERIS
 “I…	「わたし……
 I couldn't save anyone…”	命、救えなかった……」
 RED XIII	RED XIII
@@ -279,7 +279,7 @@ TIFA	TIFA
 “No, CLOUD.	「ダメよ、CLOUD
 You mustn't give up.	あきらめちゃダメ
 Survivors never give up.”	生き残った私たちが、がんばらなくちゃ」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD…	「CLOUD……
 You won't find the answer	自分責めても、答え、見つからないよ」
 by blaming yourself.”	
@@ -373,7 +373,7 @@ The hell those jackasses	こんなところへ何しにくるんだ」
 doing here?”	
 TIFA	TIFA
 “You mean Shinra?”	「神羅ですって？」
-AERIS	AERITH
+AERIS	AERIS
 “What do you mean,	「どういうこと？
 a battlefield'?”	戦場って」
 RED XIII	RED XIII
@@ -410,7 +410,7 @@ You gonna ignore that!?”
 TIFA	TIFA
 “CLOUD, let's listen to	「CLOUD、聞きましょう」
 what they have to say.”	
-AERIS	AERITH
+AERIS	AERIS
 “After all, we came all this way,	「せっかくここまで来たんだから、ね？
 CLOUD”	CLOUD」
 CAIT SITH	CAIT SITH
@@ -427,7 +427,7 @@ the top of this mountain?”	のっているかわかるかな？」
 BARRET	BARRET
 “Huh?	「ん？
 Something's up there?”	なにかあったか？」
-AERIS	AERITH
+AERIS	AERIS
 “A huge bird.”	「おっきな、鳥さん」
 TIFA	TIFA
 “Come on, let's get it together.”	「もう、しっかりしてよ」
@@ -472,7 +472,7 @@ rid of it with weapons?”	排除しようとするんだ？」
 TIFA	TIFA
 “What's so wrong with having a Condor	「魔晄炉の上にコンドルがいちゃ
 on top of the reactor?”	ダメなのかしら？」
-AERIS	AERITH
+AERIS	AERIS
 “Why?”	「ど～して？」
 RED XIII	RED XIII
 “It's not very logical.”	「理由がわからないな」
@@ -512,7 +512,7 @@ TIFA	TIFA
 A real work of nature.”	生命の営み」
 “We've got to protect	「星の命
 the life of the Planet.”	守らなくちゃ」
-AERIS	AERITH
+AERIS	AERIS
 “We must protect	「コンドルのタマゴ、守らないと、ね？」
 the condor egg, right?”	
 RED XIII	RED XIII
@@ -552,7 +552,7 @@ BARRET	BARRET
 We gotta do it!”	オレたちがやるんだよ！」
 TIFA	TIFA
 “CLOUD…”	「CLOUD……」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD, why are you	「CLOUD
 still worrying about it?”	何、迷ってるの？」
 RED XIII	RED XIII
@@ -582,7 +582,7 @@ BARRET	BARRET
 And you call yourself a human!?”	それでも人間か！」
 TIFA	TIFA
 “Well…”	「そう……」
-AERIS	AERITH
+AERIS	AERIS
 “What a jerk.	「なーんだ。
 I'm disappointed in you.”	ガッカリ」
 YUFFIE	YUFFIE
@@ -610,7 +610,7 @@ if you leave it up to us.”	なんとかならぁな」
 BARRET	BARRET
 “Hey!	「おうよ！
 We'll come to the rescue.”	オレたちがなんとかするぜ」
-AERIS	AERITH
+AERIS	AERIS
 “Yes, yes.	「そうよね。
 Let's do our best.”	がんばりましょ」
 RED XIII	RED XIII
@@ -671,7 +671,7 @@ dangerous ground.
 We can't lose now!”	
 TIFA	TIFA
 “Now is the time to dig in.”	「今が、がんばりどきね」
-AERIS	AERITH
+AERIS	AERIS
 “We can't afford to be beaten!”	「負けられない、ね」
 RED XIII	RED XIII
 “We can't afford to be beaten!”	「これは負けられないね！」
@@ -1104,7 +1104,7 @@ BARRET	BARRET
 TIFA	TIFA
 “Say, let's rest.	「ねえ、休みましょうよ」
 Okay?”	
-AERIS	AERITH
+AERIS	AERIS
 “Let's rest. Okay?”	「休も、ね？」
 RED XIII	RED XIII
 “We should get some rest	「休めるときに、休んでおこう」

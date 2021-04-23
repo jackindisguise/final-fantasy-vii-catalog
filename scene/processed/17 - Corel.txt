@@ -4,19 +4,12 @@ Hey!	おっ！
 You're actually talking to me.	あんたたちはちゃんと話しかけてくれるんだな
 I just passed a guy in a black cape back there.	少し前にすれちがった黒マントのヤツがよ
 I just tried to tell him that it's dangerous up ahead, and he ignored me!	人が親切に、この先は危険だって教えてやってんのにムシしやがってよう
-CLOUD	CLOUD
 What is it?	なんのことだ？
-CLOUD	CLOUD
 Sephiroth…	セフィロス……
-BARRET	BARRET
 …ahh.	…………ああ
-TIFA	TIFA
 Let's hurry on.	先を急ぎましょ
-AERIS	AERITH
 There was a black-caped guy here, too?	ここにも、黒マントね…
-YUFFIE	YUFFIE
 Oh gawd, what a drag!!	ああ、かったりぃ！！
-RED XIII	RED XIII
 Hmm… I'm moving on ahead…	ふーむ…。行く先々にねぇ…
 It's dangerous up ahead. Be careful on your way.	この先は危険だよ。道中、気をつけてな
 If any strangers should greet you warmly while traveling, make sure to greet them back.	旅先で出会った見知らぬ旅人にあったかい声をかけてあいさつをかわす
@@ -38,91 +31,56 @@ Mt. Corel West	コレル山・西
 Received "Star Pendant"	『星のペンダント』を手にいれた！
 Received "Wizard Staff"!	『ウィザードロッド』を手にいれた！
 Mt. Corel West	コレル山・西
-CLOUD	CLOUD
 OW!! Sure is tight in here…	いてっ！！せまいな、ここ……
 Come on, CLOUD, don't let it get to you. Let's see…this is it.	さっ、気を取り直して…。んっ、これかな
-CLOUD	CLOUD
 Maybe if I turn this…	これを動かせば……
 …something should happen.	なにかがおこるはずだ
 Do it	操作する
 Leave it	やめておこう
-CLOUD	CLOUD
 OK, then…	そうだな……
 PHS	ＰＨＳ
 Let's move on!	先を急ぐぞ！
-TIFA	TIFA
 OH!! CLOUD! That's it!	あっ！！CLOUD！ちょうどよかった！
-TIFA	TIFA
 We can't go on until the bridge is let down.	この橋がつながらないと先に進めないみたいなの
 I think there's a switch in that shack over there…	あそこの小屋にスイッチがあるらしいんだけど…
 But there's too many monsters around and I'm beat…	モンスターが多くてつかれちゃったから……
-AERIS	AERITH
 CLOUD!!	CLOUD！！
-AERIS	AERITH
 I was just wishing you were here!	CLOUDがいてくれたらなあって思ってたとこなの
 Unless someone lets down the bridge, we're stuck.	この橋が動かないと先に進めないの。
 CLOUD should be able to do something.	CLOUDなら、なんとかしてくれるよね
 But let's take a breather first.	でも、その前に……ちょっと休もっ
-AERIS	AERITH
 Come on, CLOUD. Let's rest a minute.	ね、CLOUDちょっと休もっ
-RED XIII	RED XIII
 Wha? Oh, it's you.	んっ……あんたたちか？
-RED XIII	RED XIII
 There seems to be an instrument in that hut that manipulates this bridge.	あそこの小屋に橋を動かす装置があるらしいのだがな……
 Perhaps it's best if we rest a moment.	しばし休息というわけだ
-BARRET	BARRET
 …whew!	……ふう
-YUFFIE	YUFFIE
 I don't want to have to go all that way!	あんなとこまでいきたかないよ！
-TIFA	TIFA
 I'm beat…	つかれちゃったね…
-AERIS	AERITH
 I'm sure glad I'm with you, CLOUD!	CLOUDといっしょがよかったなっ！
-RED XIII	RED XIII
 What?	……なんだ？
-YUFFIE	YUFFIE
 I'm pooped!	つかれたよっ！
-TIFA	TIFA
 CLOUD!! Go CLOUD!! Go!!	CLOUD！！がんばれー！！
-AERIS	AERITH
 Oh, CLOUD!! Good Luck!!	きゃ～、CLOUD！！がんばって～！！
 Morph Menu	『へんせいメニュー』
 The shack is here!!	ここが小屋なのです。………ポジションカーソルより
-AERIS	AERITH
 How cute!!	きゃっ、かわいいっ！
-AERIS	AERITH
 How cute!!	きゃっ、かわいいっ！
-TIFA	TIFA
 Oh, cute!!	かわいいね！！
-TIFA	TIFA
 Yes!! …how cute.	うん！！……かわいいね
-YUFFIE	YUFFIE
 Yeow! Lookit that!!	おおっ！お宝！！
-BARRET	BARRET
 Haaeyy!	ひゅ～！！
-RED XIII	RED XIII
 huff…huff…	はぅっ…はぅっ…
-CLOUD	CLOUD
 What should we do?	どうするか…
 Take the treasure	宝をもらってくぞ
 Leave it where it is	おいていってあげようか
-CLOUD	CLOUD
 Times are tough… I'm taking the treasure.	世の中はきびしいからな…。お宝はいただく
-CLOUD	CLOUD
 …It's got nothing to do with us. Just forget about it.	……俺たちには関係ない。無視だな
-TIFA	TIFA
 Right! That was admirable of you.	うん！CLOUD、えらいえらい
-TIFA	TIFA
 Oh! CLOUD! Your hair looks like a Chocobo!	CLOUDったら！！チョコボ頭のくせに！
-AERIS	AERITH
 CLOUD…	CLOUD……
-YUFFIE	YUFFIE
 You kiddin'?	ええ、まじぃ？
-RED XIII	RED XIII
 Glu…glug…	ゴっ……ゴクっ！
-YUFFIE	YUFFIE
 Come to Mommy!!	いただきますっ！！
-BARRET	BARRET
 Haeey!! Baaeby!!	ひゅ～ひゅ～！！
 Received 10 "Phoenix Down"!	『フェニックスの尾』を１０枚手にいれた！
 Mt. Corel	コレル山・西
@@ -137,13 +95,9 @@ Received "Power Source"!	『パワーアップ』を手にいれた！
 Received "Tent"!	『テント』を手にいれた！
 Mt. Corel	コレル山・西
 North Corel	北コレル
-BARRET	BARRET
 You heard 'em… It's my fault this town was…destroyed…	きこえただろ…オレのせいで、この町は……壊れてしまったのさ……
-BARRET	BARRET
 Wait here…	ここで、まっててくれ……
-BARRET	BARRET
 Can't keep regrettin' the past… It's the future we gotta think about now.	すんだことをくやんでもしかたねぇよ……これからどうするかだ
-BARRET	BARRET
 …I'm sorry…	…す、すまん…
 YOU know who's responsible for North Corel winding up like this!	だれかサンのおかげで北コレルは、このありさまだ！
 Well, lookey here! Never thought I'd ever see your face again.	ケッ！また、BARRETさまに会えるとは思ってもみなかったぜ
@@ -204,48 +158,27 @@ Then, I'm going to make lotsa friends.	そしたら友だちをいっぱいつ�
 I got this out of that well. This rock must REALLY be something!!	イドの中からひろい上げたんだ。きっとスゴ～イ石だよ！！
 Whoops… You can't hold all those.	あれれ、おじさん？それじゃ、持ちきれないよ
 Here, I'll keep it in my pocket, and you can come by later and get it, OK?	ポケットにしまっておくからまた、あとで取りにきてね！
-TIFA	TIFA
 I wonder what Shinra wants to do with all that Huge Materia?	神羅は、あのヒュージマテリアを何に使おうとしているのかしら？
-RED XIII	RED XIII
 What are we going to do now?	これから、どうするんだい？
-CID	CID
 Sorry… I never shoulda gave that Huge Materia to the Shinra so easily…	もうしわけねぇ…オレ様としたことが、簡単に神羅にヒュージマテリアをもってかれちまって……
-YUFFIE	YUFFIE
 No use baggin' on yourself! It's not like you, OLD guy!	くよくよしてもしかたないよ！そんなのオッサンらしくないよ
-CAIT SITH	CAIT SITH
 It's not all over yet. Cheer up!	まだ全てが終わってしまへんで。元気をだしましょ！
-VINCENT	VINCENT
 …Isn't is too early to give up?	……あきらめるのはまだ早いのではないか？
 Received "Ultima" Materia!	『アルテマ』のマテリアを手にいれた！
-CID	CID
 There's only one more Huge Materia the Shinra needs… That's the one at the Underwater Reactor.	神羅の狙う、ヒュージマテリア……残るはジュノンの海底魔晄炉のみだな
-CID	CID
 With us always in their face, even the Shinra's gotta be getting tired of it all.	いくら神羅でも、ことごとくオレ様たちの邪魔が入って、しん重になっているはずだ
-CID	CID
 We have to hurry that much… …Right now I'm more worried about him than anything else!	そんなに急がなくてもいいと思うぜ…………それよりオレ様はあいつが気がかりで、しょうがねえんだ！
-CID	CID
 Yeah, and I'm worried about TIFA, too.	ああ、それにTIFAもどうしてるか心配だしな。
-CID	CID
 Let's go see what's going on at Mideel…	ちょっと様子を見に戻ってみるか【ミディール】へ……
-BARRET	BARRET
 We'll get there first!	先まわりしてやるぜ！
-BARRET	BARRET
 CLOUD…	CLOUD……
-RED XIII	RED XIII
 We HAVE to stop them!!	絶対に止めなきゃ！！
-RED XIII	RED XIII
 Must be about CLOUD…	CLOUDのことだね……
-YUFFIE	YUFFIE
 We've got to hurry and stop 'em!!	急いで、止めなきゃ！！
-YUFFIE	YUFFIE
 You must be talking 'bout CLOUD…	CLOUDのことだろ……
-CAIT SITH	CAIT SITH
 We headin' out to the Underwater Reactor?	海底魔晄炉に行くんでっか？
-CAIT SITH	CAIT SITH
 CLOUD…	CLOUDさん……
-VINCENT	VINCENT
 Are we going to the Underwater Reactor?	海底魔晄炉に行くのか？
-VINCENT	VINCENT
 CLOUD…	CLOUDか……
 Inside Tent	テントの中
 Grandpa used to be a Coal Train engineer.	ジィちゃんは、その昔たんこう列車の運転手だったの
@@ -305,59 +238,34 @@ Don't go on	乗らない
 Ride the Ropeway?	ロープウェイに乗りますか？
 Yes	はい
 No	いいえ
-CLOUD	CLOUD
 What happened?	何があったんだ？
-CLOUD	CLOUD
 Shinra troops? What for!?	神羅の軍？いったい何のために！？
-CLOUD	CLOUD
 Let's get on.	乗ろうぜ
-TIFA	TIFA
 That's so terrible!	ひどいっ！
-TIFA	TIFA
 Don't blame yourself. We were all fooled by the promises Shinra made back then.	自分を責めちゃだめよ。そのころは、みんな神羅のあまい言葉におどらされていたんだから
-TIFA	TIFA
 I never knew. BARRET never said a thing…	私、知らなかったわ。BARRET、何も言わなかったから……
-TIFA	TIFA
 …	…………
 We better go on!	早くのらなきゃ！
-TIFA	TIFA
 Everyone's… been through a lot of hardship…	みんな、いろいろ……つらいこと持ってるんだね
-BARRET	BARRET
 Sorry.	すまねえな
-BARRET	BARRET
 My hometown used to be around here.	このあたりにオレの故郷があった
-BARRET	BARRET
 It ain't here no more. Heard it got buried… in just 4 years.	今はもうない。砂の下に埋もれちまったらしい。……たった４年で
-BARRET	BARRET
 An' it's my fault. ALL my fault.	オレのせいだからだ。ぜんぶオレのせいなんだ
-BARRET	BARRET
 There was an explosion at a reactor.	魔晄炉で爆発事故が起こったんだ
 Shinra blamed the accident on the people. Said it was done by a rebel faction.	神羅はその事故の責任をコレル村のオレたちに押しつけた。反対派のしわざだと言ってな
-BARRET	BARRET
 Well, I guess that's true. But more than Shinra, I can't forgive myself.	ああ、たしかにな。でもよ、オレは神羅以上に自分を許せなかったんだ
 Never should've gone along with the building of the reactor…	オレさえ魔晄炉に賛成しなければ……
-BARRET	BARRET
 That's why… that's why I get so pissed off!!	だからよ、だからこそオレは自分にハラが立つんだ！！
 Not only did they take advantage of me… But I lost my wife, Myrna, too…	あまい言葉にのせられたあげく女房を……ミーナを失い……
-BARRET	BARRET
 Dyne was my best friend. We were close ever since we were kids…	ダインは親友だったぜ。ガキのころからのよう……
-BARRET	BARRET
 It's all my fault…	全部、オレのせいなんだ……
-AERIS	AERITH
 BARRET, what happened?	BARRET、どうしたの？
-AERIS	AERITH
 But how could those people say those terrible things?	だからって、どうして、さっきの人たちあんなひどいこと言うの？
-AERIS	AERITH
 …	…………
-AERIS	AERITH
 Everything Shinra does seems to make everyone miserable…	神羅のやることはみんな不幸にしてしまうのね…
-RED XIII	RED XIII
 What do you mean 'used to'?	あった、とは？
-RED XIII	RED XIII
 …	…………
-YUFFIE	YUFFIE
 I'm not sympathizing with BARRET! He never should have trusted Shinra, Inc.	アタシはBARRETに同情なんてしないよ！神羅を信じたのが悪いのさ
-YUFFIE	YUFFIE
 I'm waiting inside.	アタシは先に乗っておくよ
 The Ropeway takes you to the 'Gold Saucer'. It's free, so don't worry about it.	ロープウェイは『ゴールドソーサー』行きだ。料金は、タダだから心配いらんよ
 Hey everyone! If you want to go to the 'Gold Saucer', hurry and get on!	オーイ、あんたら！『ゴールドソーサー』に行くなら早く乗っておくれ
@@ -381,12 +289,10 @@ I am definitely against it, no matter what. There's nothing to talk about if you
 Dyne	ダイン
 The coal's been ours for generations. Our fathers, and theirs before them, risked their lives for it.	コレルの炭坑は、俺たちのじいさんたち、おやじたちが命がけで守ってきたものだ
 We have no right to throw it all away so easily!	俺たちの時代になってすてることなんてできない！
-BARRET	BARRET
 But listen, Dyne. No one uses coal nowadays. It's the sign of the times.	でもよ、ダイン。今の時代、石炭なんて誰も使わない。時代にはさからえないんだ
 Scarlet	スカーレット
 Right, everything is Mako, now.	そう、時代は魔晄エネルギー
 It'll be all right, Dyne. Shinra, Inc. will guarantee your livelihood once the Mako Reactor is completed.	だいじょうぶですよ、ダインさん。魔晄炉完成のあかつきには我々神羅カンパニーがみなさんの生活を保障します
-BARRET	BARRET
 Listen, Dyne. I don't want my wife, Myrna, to suffer anymore.	な、ダイン。オレは女房のミーナにこれ以上苦しい生活をさせたくないんだ
 Dyne	ダイン
 I know how you feel! I feel the same way too, damn it!	そんなの俺だって同じなんだ！

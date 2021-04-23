@@ -122,7 +122,7 @@ TIFA	TIFA
 “That's perfect.	「ちょうどいいわ。
 Why don't we take a break too?	私たちも一休みしない？
 We can meet back here in a while, OK?”	しばらく自由行動ね！」
-AERIS	AERITH
+AERIS	AERIS
 “Let's rest for a bit.	「ね、ちょっと休んでこ。
 There are some things I want	わたし、いろいろ
 to find out about anyway.”	聞いてみたいことあるし」
@@ -236,7 +236,7 @@ Come in today!	ぜひいちど
 It's right near Cosmo Candle!	「おたちよりください！
 	聖火コスモキャンドルの
 	すぐそばです！」
-AERIS	AERITH
+AERIS	AERIS
 “Cosmo…Canyon?	「コスモ……キャニオン？
 I wonder if there's any relation	関係あるのかな？
 to the planet or the Ancients…”	星とか、古代種とか……」
@@ -503,7 +503,7 @@ all in front of the 'Cosmo Candle'”	いっしょに来た連中が
 	コスモキャンドルの前に
 	集まっとったよ」
 “Are you all leaving now?”	「もう出発するんかい？」
-AERIS	AERITH
+AERIS	AERIS
 “Maybe there are some people here that know	「ここなら約束の地とか古代種とか
 about the Promised Land and the Ancients.”	くわしい人、いるかもね」
 TIFA	TIFA
@@ -513,7 +513,7 @@ RED XIII…?	子供みたいにはしゃいで」
 He's as excited as a little boy.”	
 TIFA	TIFA
 “Are you going somewhere?”	「どこかへ行くの？」
-AERIS	AERITH
+AERIS	AERIS
 “Hmm?”	「な～に？」
 Elder Bughe	長老ブーガ
 “Live with the Planet,	「星とともに生き
@@ -832,7 +832,7 @@ It looks like you have them all together.	そろったようじゃな？
 Then let's begin.”	それじゃ、はじめようかの」
 “I'll stand there.”	「ホレ、そこにたつんじゃよ」
 Observatory	天文台
-AERIS	AERITH
+AERIS	AERIS
 “So pretty…It's just like	「きれい……ホントの宇宙みたい。
 the real thing!”	ね、CLOUD？」
 TIFA	TIFA
@@ -852,7 +852,7 @@ This is my laboratory.”	これがワシのじまんの実験室じゃ」
 “All the workings of space	「この宇宙の仕組みが全てこの
 are entered into this	立体ホログラフィシステムに
 3D Holographic System.”	インプットされておる」
-AERIS	AERITH
+AERIS	AERIS
 “Hey! A shooting star!”	「あっ！　流れ星！」
 TIFA	TIFA
 “Look, look! A shooting star!”	「みてみて！流れ星！」
@@ -862,7 +862,7 @@ BARRET	BARRET
 “Whoa! Shootin' stars!”	「おおっ！　星が流れてるぜ！」
 YUFFIE	YUFFIE
 “Wh, what the? A shooting star?”	「な、なんだ？　流れ星？」
-AERIS	AERITH
+AERIS	AERIS
 “Wow, how wonderful.”	「うわ～、ステキ」
 TIFA	TIFA
 “Oh! This is amazing!!”	「スゴイ、スゴイ、スゴイ
@@ -1050,25 +1050,25 @@ it feels like you're going far away…”	行っちゃいそうで……」
 TIFA	TIFA
 “You really, really are…	「CLOUDは……本当に
 you…right?”	本当にCLOUD……だよね」
-AERIS	AERITH
+AERIS	AERIS
 “I learned a lot.	「わたし、べんきょうしちゃった。
 The elders taught me many things.”	長老さんに教えてもらったの。
 	いろいろ」
 “About the Cetra…	「セトラのこと……
 And the Promised Land…”	約束の地のこと……」
-AERIS	AERITH
+AERIS	AERIS
 “I'm…alone…	「わたし……ひとりだから……
 I'm all alone now…”	ひとりだけに
 	なっちゃったから……」
 CLOUD	CLOUD
 “But I'm…we're here for you, right?”	「俺が……俺たちがいるだろ？」
-AERIS	AERITH
+AERIS	AERIS
 “I know.	「わかってる。
 I know, but…	わかってるけど……
 I am the only…Cetra.”	セトラは……わたしだけなの」
 CLOUD	CLOUD
 “Does that mean we can't help?”	「俺たちじゃ、力になれないのか？」
-AERIS	AERITH
+AERIS	AERIS
 “……”	「…………」
 YUFFIE	YUFFIE
 “What a boring place, just like I thought.	「予想どおり、たいくつなとこだね～。
@@ -1120,7 +1120,7 @@ BARRET	BARRET
 “…Where're they going?”	「……どこ行こうってんだ？」
 TIFA	TIFA
 “Can I go too?”	「私も行っていいの？」
-AERIS	AERITH
+AERIS	AERIS
 “I wonder what he wants to	「何かしらね、RED XIIIに
 show RED XIII?”	見せたいものって……」
 CAIT SITH	CAIT SITH
@@ -1403,7 +1403,7 @@ RED XIII	RED XIII
 Fa…Father…”	父……さん……」
 CLOUD	CLOUD
 “Shall we get going?”	「そろそろ出発しようか」
-AERIS	AERITH
+AERIS	AERIS
 “So this is it,	「ここで、お別れね。
 RED XIII…”	RED XIII……」
 BARRET	BARRET

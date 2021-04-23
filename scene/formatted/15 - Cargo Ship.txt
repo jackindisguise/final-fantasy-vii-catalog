@@ -38,15 +38,15 @@ Heidegger are aboard this ship!”	ルーファウス新社長と
 “If we do good, we could	「うまくすれば
 get promoted!”	昇進のチャンスだぞ！」
 “Umm…It's me	「フフフ……わたし。
-AERIS.”	AERITHよ」
-AERIS	AERITH
+AERIS.”	AERISよ」
+AERIS	AERIS
 “Hey, CLOUD.	「ね、CLOUD。
 Did you see the Airship at Junon?”	ジュノンで飛空艇、見た？」
 CLOUD	CLOUD
 “…I heard it was big, but	「……ウワサには聞いていたけど
 I didn't expect	あれほど大きいとは
 it to be THAT big.”	思ってなかったな」
-AERIS	AERITH
+AERIS	AERIS
 “That was REALLY something.”	「すっごいよね～」
 “Hey, do you think I could get on it?”	「ね、わたし、あれにのれるかな？」
 I'll take you someday	いつか俺がのせてやるよ
@@ -55,22 +55,22 @@ CLOUD	CLOUD
 “…It's a Shinra weapon.	「……あれは神羅の兵器だ。
 We probably should've	破壊しといたほうが
 destroyed it.”	良かったかもな」
-AERIS	AERITH
+AERIS	AERIS
 “…Hmm.	「……そっかぁ。
 But just once,	でも、一回でいいから
 I'd like to ride it.”	のりたいなぁ」
-AERIS	AERITH
+AERIS	AERIS
 “Just once,	「一回でいいから
 I'd like to ride that Airship.”	のってみたいなぁ、飛空艇」
 CLOUD	CLOUD
 “…Keep hoping.”	「……期待しててくれ」
-AERIS	AERITH
+AERIS	AERIS
 “Wow!	「うわ～！
 I'm really looking forward to it!”	楽しみにしてるからね！」
-AERIS	AERITH
+AERIS	AERIS
 “Let's ride the Airship together, OK?	「一練にのろうね、飛空艇。
 Promise, promise me!”	約束、約束！」
-AERIS	AERITH
+AERIS	AERIS
 “Hey, CLOUD.	「ね、CLOUD。
 Did you see BARRET?”	BARRET見なかった？」
 “I hope he's not doing	「ムチャなこと、ひとりで
@@ -237,7 +237,7 @@ BARRET	BARRET
 “You all right!?”	「だいじょうぶか！？」
 TIFA	TIFA
 “Everyone all right!?”	「みんなだいじょうぶ！？」
-AERIS	AERITH
+AERIS	AERIS
 “Huh?”	「あれ？」
 BARRET	BARRET
 “Hey, wait.”	「待てよオイ」
@@ -267,7 +267,7 @@ Sephiroth…”	セフィロスが……」
 “…All right, let's go!”	「……よし、行こう！」
 BARRET	BARRET
 “I'm goin' too!”	「おう、オレも行くぜ！」
-AERIS	AERITH
+AERIS	AERIS
 “Is it really	「ホントに
 Sephiroth…?”	セフィロス……なの？」
 TIFA	TIFA
@@ -293,7 +293,7 @@ CLOUD	CLOUD
 “…time has…come…”	「時は……満ちた……」
 BARRET	BARRET
 “Look, CLOUD!!”	「見ろCLOUD！！」
-AERIS	AERITH
+AERIS	AERIS
 “Look, CLOUD!!”	「見て、CLOUD！！」
 TIFA	TIFA
 “CLOUD, look!!”	「CLOUD、あれ！！」
@@ -321,7 +321,7 @@ CLOUD	CLOUD
 Be more…”	もっと……」
 TIFA	TIFA
 “I've seen this somewhere…before.”	「これ……どこかで見たわね」
-AERIS	AERITH
+AERIS	AERIS
 “I've seen this before…”	「これ、見たことあるね……」
 BARRET	BARRET
 “Isn't he…that guy?”	「こいつは……アレじゃねえのか？」
@@ -336,7 +336,7 @@ The arm of Jenova.”	ジェノバの腕だ」
 BARRET	BARRET
 “Jenova…You mean he's been walkin'	「ジェノバを……こんなものを
 around with that thing?”	持ち歩いているのか？」
-AERIS	AERITH
+AERIS	AERIS
 “Jenova…	「ジェノバ……
 With this thing?”	こんなのと、いっしょに？」
 TIFA	TIFA
@@ -354,7 +354,7 @@ CLOUD	CLOUD
 TIFA	TIFA
 “He said something about	「時は満ちた、とか言ってたわね」
 it being time for something.”	
-AERIS	AERITH
+AERIS	AERIS
 “The time is now…	「時は満ちた……
 I think that was what was said.”	そんなこと言ってたね」
 BARRET	BARRET
@@ -376,7 +376,7 @@ BARRET	BARRET
 me what's happened so far?”	整理してくれねえか？」
 I'll try	やってみる
 No way	めんどくさい
-AERIS	AERITH
+AERIS	AERIS
 “Hmm…	「う～ん……
 I don't get it.”	わからない」
 “Hey, CLOUD.	「ねえCLOUD。
@@ -432,7 +432,7 @@ BARRET	BARRET
 “Whoa!	「おおっと！
 We'd best hurry and hide somewhere.”	はやいとこ隠れたほうが
 	よさそうだぜ」
-AERIS	AERITH
+AERIS	AERIS
 “Maybe we shouldn't stay	「ずっとここにいるの
 in here anymore…”	よくないんじゃない？」
 TIFA	TIFA

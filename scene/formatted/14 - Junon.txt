@@ -46,18 +46,18 @@ the North Caves into the Lifestream…	ライフストリームに落ちて…�
 where the Lifestream runs through?”	通っている場所を知ってる？」
 “CLOUD might have	「もしかして、CLOUDは
 drifted from there.”	そこから流されたかもしれないの」
-AERIS	AERITH
+AERIS	AERIS
 “You think Rufus is thinking about	「ルーファウスもここから
 crossing the ocean from here, too?”	海をこえるつもりなのかな？」
 “What?	「あれっ？
 Does that mean Sephiroth	それじゃ、セフィロスは
 already crossed the ocean?”	もう、海を渡っちゃったってこと？」
-AERIS	AERITH
+AERIS	AERIS
 “Yeah, better leave it	「そうね、あの子のことは
 to CLOUD!”	CLOUDにまかせましょ！」
-AERIS	AERITH
+AERIS	AERIS
 “You're probably right.”	「そうよねぇ」
-AERIS	AERITH
+AERIS	AERIS
 “I heard that girl regained consciousness.”	「女の子が目をさましたらしいの」
 RED XIII	RED XIII
 “CLOUD,	「CLOUDよ、ルーファウスに
@@ -250,10 +250,10 @@ TIFA	TIFA
 “No…stay calm…”	「ちがうわ、安心して」
 TIFA	TIFA
 “Look at that!”	「あれを見て！」
-AERIS	AERITH
+AERIS	AERIS
 “No you're wrong!	「ちがうの！
 We have nothing to do with the Shinra.”	わたしたち、神羅と無関係なのよ」
-AERIS	AERITH
+AERIS	AERIS
 “What's that!?”	「あれはなにっ！？」
 RED XIII	RED XIII
 “We don't get along with the Shinra.”	「……神羅とは相性が悪いな」
@@ -328,7 +328,7 @@ BARRET	BARRET
 TIFA	TIFA
 “CLOUD, what are	「CLOUD、どうするの？」
 you going to do?”	
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD, hurry!”	「CLOUD、はやくっ！」
 RED XIII	RED XIII
 “You know I can't.”	「私にはムリだな」
@@ -386,9 +386,9 @@ TIFA	TIFA
 I don't remember.”	覚えてないわ」
 “But, something seems strange outside.	「ね、それより外の様子が変なの。
 CLOUD, come quick.”	早く来て、CLOUD」
-AERIS	AERITH
+AERIS	AERIS
 “Want to rest?”	「休もっか？」
-AERIS	AERITH
+AERIS	AERIS
 “What are you thinking?”	「何かんがえてんの？」
 BARRET	BARRET
 “I'm gonna relax for a while.”	「ちょっとばかり

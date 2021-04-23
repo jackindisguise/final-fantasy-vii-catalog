@@ -46,12 +46,12 @@ TIFA	TIFA
 This is terrible.”	サイテーね、これ」
 CLOUD	CLOUD
 “You alright?”	「だいじょうぶか？」
-AERIS	AERITH
+AERIS	AERIS
 “Yeah.”	「うん」
-AERIS	AERITH
+AERIS	AERIS
 “Well, the worst is over…”	「ま、最悪の事態からは
 	のがれられた……」
-AERIS	AERITH
+AERIS	AERIS
 “Maybe not…”	「……でもないみたい」
 Let's try and jump down	飛び降りてみよう
 Let's not…	やめるか……
@@ -59,7 +59,7 @@ TIFA	TIFA
 “It's too late…	「もうダメだわ……
 Marlene…BARRET	マリン……BARRET
 …the people of the Slums.”	……スラムの人たち」
-AERIS	AERITH
+AERIS	AERIS
 “Don't give up, never give up hope.	「あきらめない、あきらめない。
 It's not easy to destroy the pillar, right?”	柱、壊すなんて
 	そんなに簡単じゃない、でしょ？」
@@ -69,9 +69,9 @@ We still have time.”	まだ時間はあるわよね」
 Train Graveyard	列車基場
 	
 CLOUD	CLOUD
-“AERIS,	「AERITH。
+“AERIS,	「AERIS。
 I got you mixed up in this…”	すっかり巻きこんでしまって……」
-AERIS	AERITH
+AERIS	AERIS
 “Don't tell me to go home.”	「ここから帰れ！
 	な～んて言わないでね」
 TIFA	TIFA
@@ -91,22 +91,22 @@ The pillar's standing!”	柱が立ってる！」
 CLOUD	CLOUD
 “Wait!	「まて！
 You hear something above us?”	上から……聞こえないか？」
-AERIS	AERITH
+AERIS	AERIS
 “…gun fire?”	「……銃声？」
 CLOUD	CLOUD
 “BARRET?”	「BARRETか！？」
 CLOUD	CLOUD
 “I'm going up!”	「のぼるぞ！」
 CLOUD	CLOUD
-“AERIS!	「AERITH！
+“AERIS!	「AERIS！
 You look after Wedge.”	ウェッジをたのむ」
 TIFA	TIFA
-“AERIS, do me a favor.”	「AERITH、おねがい」
+“AERIS, do me a favor.”	「AERIS、おねがい」
 “I have a bar called '7th Heaven' in	「この近くに私たちの店
 this neighborhood.”	『セブンスヘブン』があるの」
 “There's a little girl	「そこにマリンっていう名前の
 named Marlene there.”	小さな女の子がいるから……」
-AERIS	AERITH
+AERIS	AERIS
 “Don't worry.	「わかった。
 I'll put her somewhere safe.”	安全な場所へ、ね」
 TIFA	TIFA
@@ -202,7 +202,7 @@ AVALANCHE or me?”	どっちがこわいんだろ？」
 “HALT!!	「おう！！
 No one is allowed to pass!!”	ここから先は立入禁止だ！！」
 [Save Point]	【セーブポイント】
-AERIS	AERITH
+AERIS	AERIS
 “Don't worry.	「だいじょうぶ。
 You let me handle this.”	ここはまかせて」
 “Uh oh…	「オロオロ…
@@ -318,16 +318,16 @@ Tseng	ツォン
 You just might make me	大切なゲストがケガ
 injure our special guest.”	するじゃないか」
 CLOUD	CLOUD
-“AERIS!!”	“AERITH!!”
+“AERIS!!”	“AERIS!!”
 TIFA	TIFA
-“AERIS!!”	“AERITH!!”
+“AERIS!!”	“AERIS!!”
 Tseng	ツォン
 “Oh, you know each other?”	「おや、知り合いなのか？」
 Tseng	ツォン
 “How nice you could see each other one last time.	「最後に会えて良かったな。
 You should thank me.”	私に感謝してくれ」
 CLOUD	CLOUD
-“What are you gonna do	「AERITHをどうする気だ」
+“What are you gonna do	「AERISをどうする気だ」
 with AERIS!?”	
 Tseng	ツォン
 “I haven't decided.”	「さあな」
@@ -337,12 +337,12 @@ and catch the last remaining Ancient.”	命令は『古代種』の生き残り
 Tseng	ツォン
 “It's taken us a long time, but now I can finally	「ずいぶんと長い時間がかかったが 
 report this to the President.”	やっとプレジデントに報告できる」
-AERIS	AERITH
+AERIS	AERIS
 “TIFA, don't worry!	「TIFA、だいじょうぶだから！ 
 She's all right!”	あの子、だいじょうぶだから！」
 TIFA	TIFA
-“AERIS!”	“AERITH!”
-AERIS	AERITH
+“AERIS!”	“AERIS!”
+AERIS	AERIS
 “Hurry and get out!”	「だからはやく逃げて！」
 Tseng	ツォン
 “Ha, ha, ha…	「クックックッ！ 
@@ -404,7 +404,7 @@ I think Marlene is safe.”	だいじょうぶだと思うの」
 BARRET	BARRET
 “…huh?”	「……え？」
 TIFA	TIFA
-“Right before they took AERIS,	「AERITHが言ってたわ。
+“Right before they took AERIS,	「AERISが言ってたわ。
 she said, 'Don't worry, she's all right.'	『あの子、だいじょうぶだから』
 She was probably talking about Marlene.”	って、マリンのことよ、きっと」
 BARRET	BARRET
@@ -468,19 +468,19 @@ BARRET	BARRET
 BARRET	BARRET
 “Where's he think he's goin'?”	「あいつ、どこへ？」
 TIFA	TIFA
-“Oh! AERIS!”	「あっ！　AERITHのこと！」
+“Oh! AERIS!”	「あっ！　AERISのこと！」
 BARRET	BARRET
 “Oh yeah, that girl.	「ああ、あの姉ちゃんか。
 What's up with her?”	何者なんだ？」
 TIFA	TIFA
 “…I don't really know…	「……私もよく知らない。
 but she's the one I left	でも、マリンのことを
-Marlene with.”	AERITHに頼んだの」
+Marlene with.”	AERISに頼んだの」
 BARRET	BARRET
 “Damn! Marlene!!”	「そうだ！　マリン！！」
 TIFA	TIFA
 “AERIS said that Marlene was	「マリンはだいじょうぶって
-safe.”	AERITHは言ってたけど……」
+safe.”	AERISは言ってたけど……」
 BARRET	BARRET
 “TIFA.	「TIFA。
 There ain't no turnin' back now.”	もう、あともどりはできねえんだ」
@@ -493,7 +493,7 @@ Received "Sense" Materia!	『みやぶる』のマテリアを手にいれた！
 BARRET	BARRET
 “Take me to Marlene!”	「マリンのところへ連れてってくれ！」
 TIFA	TIFA
-“You're going to help AERIS?”	「AERITHを助けにいくのね？」
+“You're going to help AERIS?”	「AERISを助けにいくのね？」
 CLOUD	CLOUD
 “Yeah…	「ああ……
 But before that,	でも、その前に

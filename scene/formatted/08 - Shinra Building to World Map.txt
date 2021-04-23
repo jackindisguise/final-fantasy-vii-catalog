@@ -1,11 +1,11 @@
 “The hell are you?	「なんだお前は？
 What're you doin' around here?”	こんなところで何をしている？」
-Where's AERIS?	AERITHはどこだ！
+Where's AERIS?	AERISはどこだ！
 …	…………
-“AERIS?	「AERITH？
+“AERIS?	「AERIS？
 How did you know that name?	その名を知っているとは
 You must be…”	お前まさか！？」
-“AERIS,	「AERITHってあのコだろ。
+“AERIS,	「AERISってあのコだろ。
 you mean that kid.	受付の。
 The receptionist? I was	じつはオレもあのコ
 startin' to worry about her, too.”	気になってるんだよね」
@@ -740,7 +740,7 @@ Hojo	Hojo
 The mother is strong…	母は強く……そして弱みを持つ」
 and yet has her weaknesses.”	
 CLOUD	CLOUD
-“They were talking about	「いまのはAERITHの話……だよな」
+“They were talking about	「いまのはAERISの話……だよな」
 AERIS…right?”	
 BARRET	BARRET
 “I dunno.”	「わかんねえ」
@@ -806,11 +806,11 @@ You can't use it.	直結しているから便利なんだけどね」
 It would be a lot easier	
 if it led to the 68 Floor Research Lab.”	
 Hojo	宝条
-“AERIS?	「AERITH？ ああ、この娘の名前だったな。何か用か？」
+“AERIS?	「AERIS？ ああ、この娘の名前だったな。何か用か？」
 Oh, is that her name?	
 What do you want?”	
 CLOUD	CLOUD
-“We're taking AERIS back.”	「AERITHを返してもらおう」
+“We're taking AERIS back.”	「AERISを返してもらおう」
 Hojo	宝条
 “Outsiders……”	「…………部外者だな」
 BARRET	BARRET
@@ -840,11 +840,11 @@ brink of extinction…”
 Hojo	宝条
 “If I don't help, all these animals will disappear.”	「私が手を貸さないと この種の生物は滅んでしまうからな」
 TIFA	TIFA
-“…animal? That's terrible!	「……生物？　ひどいわ！ AERITHは人間なのよ！」
+“…animal? That's terrible!	「……生物？　ひどいわ！ AERISは人間なのよ！」
 AERIS is a human being!”	
 BARRET	BARRET
 “You're gonna pay!”	「許せねえ！」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD, help!”	「CLOUD、助けて！」
 CLOUD	CLOUD
 “BARRET!	「BARRET！ 何とかならないのか？」
@@ -863,15 +863,15 @@ Hojo	宝条
 “This is no ordinary specimen.	「今度はこんなハンパな奴ではないぞ。もっと凶暴なサンプルだ！」
 This is a very ferocious specimen!”	
 CLOUD	CLOUD
-“Now's our chance to get AERIS!”	「今のうちにAERITHを！」
-AERIS	AERITH
+“Now's our chance to get AERIS!”	「今のうちにAERISを！」
+AERIS	AERIS
 “Thanks, CLOUD.”	「ありがと、CLOUD」
 TIFA	TIFA
 “CLOUD…what's wrong?”	「どうしたの？　CLOUD……」
 CLOUD	CLOUD
 “…The elevator is moving.”	「……エレベーターが動いてる」
 BARRET	BARRET
-“Oh shit…	“Oh shit…
+“Oh shit…	[NO LINE FOUND]
 We're surrounded.”	
 “He's rather strong.	「あいつは少々手強い。私の力を貸してやる」
 I'll help you all out.”	
@@ -893,7 +893,7 @@ Call me whatever you wish.”
 CLOUD	CLOUD
 “Come on!”	「さあ、かかってこい！」
 CLOUD	CLOUD
-“AERIS, you all right?”	「AERITH、だいじょうぶか？」
+“AERIS, you all right?”	「AERIS、だいじょうぶか？」
 TIFA	TIFA
 “She seems all right,	「だいじょうぶみたいよ。……いろんな意味でね」
 …in many ways.”	
@@ -909,20 +909,20 @@ RED XIII	RED XIII
 “…You must have many questions, but	「……いろいろ質問もあるだろうが とりあえずここから出ようか。道案内くらいなら付きあってやる」
 first, let's get out of here.	
 I'll lead the way.”	
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD…	「CLOUD…… やっぱり、来てくれたのね」
 so you did come for me.”	
 RED XIII	RED XIII
 “I apologize for what happened back there.	「さっきは失礼したな。宝条を油断させるために演技をしたつもりだったが……」
 I was merely acting to throw Hojo off guard……”	
 BARRET	BARRET
-“Now we've saved AERIS,	「さあ、AERITHを助ければもうこんなビルには用はない！ さっさと出ちまおうぜ」
+“Now we've saved AERIS,	「さあ、AERISを助ければもうこんなビルには用はない！ さっさと出ちまおうぜ」
 ain't no need to be in this buildin'!	
 So let's get the hell outta here!”	
 CLOUD	CLOUD
 “If all five of us go together, we'll be noticed.	「５人で行動していたら目立つ。二手に別れよう」
 Let's break up in two groups.”	
-AERIS	AERITH
+AERIS	AERIS
 “I'll see you later!!	「あとでね！
 We'll be waiting at the 66th Floor Elevator.”	【66階エレベーター】で待ってるから」
 TIFA	TIFA
@@ -950,7 +950,7 @@ TIFA	TIFA
 “Where are you going?	「どこ行くの？
 Everyone's waiting for us	【６６階のエレベータ】で
 at the 66th Floor Elevator.”	みんな待っているわよ」
-AERIS	AERITH
+AERIS	AERIS
 “Not that way!	「そっちじゃない！
 Everyone's on the	みんなは【６６階エレベータ】で
 66th Floor Elevator.”	待っているわ」
@@ -971,7 +971,7 @@ CLOUD	CLOUD
 “They got you, too?”	「みんなもつかまったのか……
 	…………？」
 CLOUD	CLOUD
-“Where is AERIS!?”	「AERITHはどこだ！」
+“Where is AERIS!?”	「AERISはどこだ！」
 President Shinra	プレジデント神羅
 “In a safe place.”	「安全な場所にいる」
 President Shinra	プレジデント神羅
@@ -1029,12 +1029,12 @@ Rude	ルード
 “Come on! Outta his way!”	「さあ！　さがれ！」
 I wonder how BARRET is doing	BARRETはどうしてるかな
 I wonder how RED XIII is doing	RED XIIIはどうしてるかな
-I wonder how AERIS is doing	AERITHはどうしてるかな
+I wonder how AERIS is doing	AERISはどうしてるかな
 I wonder how RED XIII is doing	RED XIIIはどうしてるかな
-I wonder how AERIS is doing	AERITHはどうしてるかな
+I wonder how AERIS is doing	AERISはどうしてるかな
 I wonder how BARRET is doing	BARRETはどうしてるかな
-I wonder how AERIS is doing	AERITHはどうしてるかな
-I wonder how AERIS is doing	AERITHはどうしてるかな
+I wonder how AERIS is doing	AERISはどうしてるかな
+I wonder how AERIS is doing	AERISはどうしてるかな
 I wonder how BARRET is doing	BARRETはどうしてるかな
 I wonder how RED XIII is doing	RED XIIIはどうしてるかな
 Let's just get some sleep	とりあえず眠っておこう
@@ -1052,7 +1052,7 @@ TIFA	TIFA
 BARRET	BARRET
 “Hey!”	「おい」
 BARRET	BARRET
-“AERIS is an Ancient	「AERITHは古代種で 古代種の本当の呼び名はセトラ」
+“AERIS is an Ancient	「AERISは古代種で 古代種の本当の呼び名はセトラ」
 and the real name of the Ancients is Cetra.”	
 “The Ancients know where the Promised Land is	「それで古代種は約束の地って場所を知っていて、神羅はその約束の地が欲しい、と」
 and the Shinra is searching for that	
@@ -1075,7 +1075,7 @@ The Planet's gonna get weaker.”
 BARRET	BARRET
 “I can't just leave 'em be.	「放っちゃおけねえ！ アバランチ、メンバー募集だ」
 I'm recruitin'new members!!”	
-“Me, TIFA, CLOUD…	「オレ、TIFA、CLOUD…… それにAERITHもだな」
+“Me, TIFA, CLOUD…	「オレ、TIFA、CLOUD…… それにAERISもだな」
 and AERIS too.”	
 BARRET	BARRET
 “How 'bout you?”	「おめえ、どうだ？」
@@ -1090,36 +1090,36 @@ RED XIII	RED XIII
 “What's so funny?”	「なにがおかしい」
 BARRET	BARRET
 “Nothin'……ha, ha”	「いや、べつに……へへへ」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD, are you there?”	「CLOUD、そこにいるの？」
 CLOUD	CLOUD
-“AERIS!? You safe?”	「AERITH！？　無事か？」
-AERIS	AERITH
+“AERIS!? You safe?”	「AERIS！？　無事か？」
+AERIS	AERIS
 “Yeah, I'm all right.”	「うん、だいじょぶ」
-AERIS	AERITH
+AERIS	AERIS
 “I knew that CLOUD would	「きっと、CLOUDが来てくれるって思ってた」
 come for me.”	
 CLOUD	CLOUD
 “Hey, I'm your bodyguard, right?”	「ボディーガード、依頼しただろ？」
-AERIS	AERITH
+AERIS	AERIS
 “The deal was for one date, right?”	「報酬はデート１回、だったよね？」
 TIFA	TIFA
 “…………oh, I get it.”	「…………………なるほど」
-AERIS	AERITH
+AERIS	AERIS
 “…!? TIFA!	「……！？　TIFA！ TIFAもそこにいるの！」
 TIFA, you're there too!”	
 TIFA	TIFA
 “EXCUSE me.”	「すいませんねえ」
 TIFA	TIFA
-“You know, AERIS.	「あのね、AERITH。質問があるんだけど」
+“You know, AERIS.	「あのね、AERIS。質問があるんだけど」
 I have a question.”	
-AERIS	AERITH
+AERIS	AERIS
 “What?”	「な～に？」
 TIFA	TIFA
 “Does the Promised Land really exist?”	「約束の地って本当にあるの？」
-AERIS	AERITH
+AERIS	AERIS
 “…I don't know.”	「……わからない」
-AERIS	AERITH
+AERIS	AERIS
 “All I know is…”	「わたし、知ってるのは……」
 “The Cetra were born from the Planet,	『セトラの民、星より生まれ 星と語り、星を開く』
 speak with the Planet, and unlock the Planet.”	
@@ -1128,24 +1128,24 @@ speak with the Planet, and unlock the Planet.”
 A land that promises supreme happiness.”	
 TIFA	TIFA
 “…What does that mean?”	「……どういう意味？」
-AERIS	AERITH
+AERIS	AERIS
 “More than words……I don't know.”	「言葉以上の意味、知らないの」
 CLOUD	CLOUD
 “…Speak with the Planet?”	「……星と語り？」
 TIFA	TIFA
 “Just what does the Planet say?”	「星が何か言うの？」
-AERIS	AERITH
+AERIS	AERIS
 “It's full of people and noisy.	「人が大勢いて、ざわざわしてるかんじ。だから何を言ってるのか よくわからないの」
 That's why I can't make out	
 what they are saying.”	
 CLOUD	CLOUD
 “You hear it now?”	「今も聞こえるのか？」
-AERIS	AERITH
+AERIS	AERIS
 “I, I only heard it at the Church in the Slums.	「わたし、聞こえたのはスラムの教会だけ。ミッドガルはもうダメだって 母さん……本当の母さんが言ってた」
 Mother said that Midgar was no longer safe.	
 That is…my real mother.”	
-AERIS	AERITH
-“Someday I'll get out of Midgar…	「いつかミッドガルから逃げなさい。星と話して、AERITHの約束の地 見つけなさい」
+AERIS	AERIS
+“Someday I'll get out of Midgar…	「いつかミッドガルから逃げなさい。星と話して、AERISの約束の地 見つけなさい」
 Speak with the Planet	
 and find my Promised Land.”	
 “…That's what mom said.”	「……母さんが言ってた」
@@ -1173,15 +1173,15 @@ TIFA	TIFA
 CLOUD	CLOUD
 “He should have the key on him…”	「きっとここのカギを持っているはずだ……」
 CLOUD	CLOUD
-“Come on, TIFA,	「ほら、TIFAはAERITHを。俺はBARRETたちを助ける」
+“Come on, TIFA,	「ほら、TIFAはAERISを。俺はBARRETたちを助ける」
 get AERIS.	
 I'll go help BARRET	
 and the others.”	
 CLOUD	CLOUD
-“AERIS”	“AERITH”
-AERIS	AERITH
+“AERIS”	“AERIS”
+AERIS	AERIS
 “…What happened?”	「何かに襲われた……？」
-AERIS	AERITH
+AERIS	AERIS
 “Must've been attacked by…”	“Must've been attacked by…”
 CLOUD	CLOUD
 “BARRET, RED XIII	「BARRET、RED XIII……来てくれ。ようすが変なんだ」
@@ -1273,7 +1273,7 @@ BARRET	BARRET
 else for a long time…”	
 TIFA	TIFA
 “I wonder what sort of person he is?”	「どんな人なのかしら……」
-AERIS	AERITH
+AERIS	AERIS
 “I've heard that no one's ever	「血も涙もない、そう聞いたこと、あるけど」
 seen him bleed or cry.”	
 Rufus	ルーファウス
@@ -1289,7 +1289,7 @@ BARRET	BARRET
 “I'm from AVALANCHE!”	「アバランチだ！」
 TIFA	TIFA
 “Me too!”	「同じく！」
-AERIS	AERITH
+AERIS	AERIS
 “A flower girl from the slums.”	「……スラムの花売り」
 RED XIII	RED XIII
 “A Research Specimen.”	「……実験サンプル」
@@ -1329,7 +1329,7 @@ TIFA	TIFA
 “He likes to make speeches	「演説好きなところはそっくりね」
 just like his father.”	
 CLOUD	CLOUD
-“Get AERIS outta	「AERITHを連れてビルから出てくれ！」
+“Get AERIS outta	「AERISを連れてビルから出てくれ！」
 the building!”	
 BARRET	BARRET
 “What?”	「なに？」
@@ -1372,13 +1372,13 @@ TIFA	TIFA
 CLOUD	CLOUD
 “I couldn't finish 'em.	「とどめはさせなかった。
 This is gonna get complicated.”	面倒なことになりそうだ」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD…	「CLOUD、なんか、思いつめてた」
 I just thought of something.”	
 TIFA	TIFA
 “…I'll wait for CLOUD!	「……私、CLOUDを待つわ！
 Everyone, get to the elevator!”	みんなはエレベーターで先に！」
-AERIS	AERITH
+AERIS	AERIS
 “Hmm, it's going to get pretty ugly from here on.	「さあ、この先きっと
 We should check on our equipment.”	ガードがきびしくなるわ。
 	装備をととのえておいたほうがいいわね」
@@ -1389,12 +1389,12 @@ TIFA's Materia…
 Shinra Bldg. 3f. Lobby	神羅ビル・３階ロビー
 	
 Hardy Datona	ハーディ＝デイトナ　　
-AERIS	AERITH
+AERIS	AERIS
 “Quickly,	「はやく、ここから
 we have to get out of here…”	逃げなくちゃ……」
 Shinra Bldg. 2f. Lobby	神羅ビル・２階ロビー
 	
-AERIS	AERITH
+AERIS	AERIS
 “Quickly,	「はやく、ここから
 we can escape this way…”	逃げなくちゃ……」
 BARRET	BARRET
@@ -1404,7 +1404,7 @@ BARRET	BARRET
 We're surrounded!”	すっかりかこまれてやがる」
 “If I was alone this wouldn't be a thing, but	「オレひとりならともかく
 I gotta reputation to protect.”	このメンツじゃ……」
-AERIS	AERITH
+AERIS	AERIS
 “You all get out	「……やっぱり、あなたたちだけ
 while you can.”	逃げて」
 “It's not you they're after…	「あの人たちがねらっているのは
@@ -1418,7 +1418,7 @@ Now, it's my turn to help you!”	ヤツらに捕まった。
 BARRET	BARRET
 “OK, playtime's over	「これ以上ヤツらの……神羅の
 jackasses…”	好き勝手にはさせねえ」
-AERIS	AERITH
+AERIS	AERIS
 “…Thank you, Mr. BARRET!”	「……ありがと、BARRETさん」
 BARRET	BARRET
 “Who you callin' Mr. BARRET?	「へヘッ、よしてくれよ。
@@ -1452,7 +1452,7 @@ Where's CLOUD?”	CLOUDは？」
 TIFA	TIFA
 “He's coming!	「話は後！
 Hurry, Hurry!!”	いいから早く！！」
-AERIS	AERITH
+AERIS	AERIS
 “Quickly! We'll	「はやく、ここから
 escape this way…”	逃げなくちゃ……」
 CLOUD	CLOUD
@@ -1501,38 +1501,38 @@ CLOUD	CLOUD
 “…It seems so.”	「……おそらく、な」
 BARRET	BARRET
 “Then, I'm going!”	「おっし、オレは行くぜ！」
-AERIS	AERITH
+AERIS	AERIS
 “I'll go, too.	「わたしも、行く。
 There are things I need to know.”	……知りたいこと、あるから」
 CLOUD	CLOUD
 “About the Ancients?”	「古代種のことか？」
-AERIS	AERITH
+AERIS	AERIS
 “…Many things.”	「……いろいろ、たくさん」
 TIFA	TIFA
 “I guess it's good bye, Midgar.”	「さらばミッドガル、ね」
 BARRET	BARRET
-“We told AERIS's mom to go	「AERITHのおふくろさんには
+“We told AERIS's mom to go	「AERISのおふくろさんには
 somewhere safe, so Marlene should be	安全な場所に移るようにって
 safe, too.”	言っといたからマリンも安全だな」
 Yeah, she should be	そうだな
 Hmm, I don't know	さ～て、どうかな
-AERIS	AERITH
+AERIS	AERIS
 “She said she didn't want to stay	「もう、ミッドガルはイヤだって
 in Midgar anymore.	言ってた……ちょうど良かったかな」
 …Maybe it's for the best.”	
-AERIS	AERITH
+AERIS	AERIS
 “Stop it, CLOUD!	「やめてよ、CLOUD！
 I'm worried, too.”	わたしだって心配なんだから」
-AERIS	AERITH
+AERIS	AERIS
 “You know what?	「そういえば、わたし
 This is the first time I've ever left Midgar…”	ミッドガル出るの、初めて……」
 Really? Are you worried?	そうか……不安か？
 It's dangerous. Are you sure you want to go?	危険だぞ、いいのか？
-AERIS	AERITH
+AERIS	AERIS
 “A little…no, maybe a lot.	「ちょっと、う～ん、かなり、かな。
 But I have a bodyguard, right?”	でも、なんでも屋さんが
 	いっしょだし、ね？」
-AERIS	AERITH
+AERIS	AERIS
 “I thought you'd say that!”	「言うと思った！」
 TIFA	TIFA
 “…I guess this is the start of our journey…”	「……旅がはじまるのね」
@@ -1559,7 +1559,7 @@ BARRET	BARRET
 called Kalm.”	カームって町があるんだ」
 “The food at the Inn's good.	「宿屋のメシがうまくてなあ。
 Why don't we head there first?”	とりあえずそこに行かねえか？」
-AERIS	AERITH
+AERIS	AERIS
 “You're right.	「そうね。
 I've heard about that town before.	聞きたいこと、いろいろあるしね。
 CLOUD?”	CLOUD？」
@@ -1576,7 +1576,7 @@ Course that could only be me.”	団体行動にはリーダーが必要だ。
 	リーダーといえばオレしかいねえ」
 TIFA	TIFA
 “You think so?”	「そうかしら……」
-AERIS	AERITH
+AERIS	AERIS
 “I think it should be CLOUD.”	「どう考えてもCLOUD、よね」
 BARRET	BARRET
 “^#$^%…alright.	「チッ…………わかったよ。
@@ -1592,7 +1592,7 @@ Let's split into two parties…”	おまえ、パーティーを２組に分け
 Access Menu with [MENU],	【メニューボタン】でメニューをひらく
 Change with [CANCEL],	【キャンセルボタン】でパーティチェンジ
 End with [SELECT],	【決定ボタン】で終了
-AERIS	AERITH
+AERIS	AERIS
 “…That's an unexpected”	「……予想外の」
 TIFA	TIFA
 “…combination.”	「……組み合わせ」

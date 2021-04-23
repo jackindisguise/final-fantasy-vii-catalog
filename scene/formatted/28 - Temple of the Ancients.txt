@@ -1,10 +1,10 @@
 Temple of the Ancients	古代種の神殿
-AERIS	AERITH
+AERIS	AERIS
 “This is…the Temple of the Ancients…”	「ここ……古代種の神殿……」
 “I…I know…	「わたし、わかる……
 I feel it…	感じるの……
 The knowledge of the Ancients…floating…”	ただよう……古代種の意識」
-AERIS	AERITH
+AERIS	AERIS
 “You could become one with the Planet,	「死んで、星とひとつになれるのに
 but you're stopping it	意志の力でとどまってる……」
 with the strength of will.”	
@@ -13,12 +13,12 @@ For us?”	わたしたちのため？」
 CLOUD	CLOUD
 “What are you saying?	「なんて言ってる？
 Do you understand?”	わかるのか？」
-AERIS	AERITH
+AERIS	AERIS
 “You're uneasy…	「不安……
 But happy?”	でも、よろこんでる？」
 “Because I'm here?	「わたし、来たから？
 I'm sorry…I don't understand.”	ごめんね……わからない」
-AERIS	AERITH
+AERIS	AERIS
 “I want to go inside!”	「はやく、ねえ
 	中に入りたい！」
 Black cape	黒マント
@@ -26,7 +26,7 @@ Black cape	黒マント
 “Open…door…of the Temple…”	「神殿の……扉を……開いて……」
 Black cape	黒マント
 “Black…Materia…”	「黒……マテリア……」
-AERIS	AERITH
+AERIS	AERIS
 “Look…”	「見て……」
 TIFA	TIFA
 “Number 9.	「ナンバー９。
@@ -48,10 +48,10 @@ CID	CID
 It says number 9.”	ナンバー９、だとよ」
 VINCENT	VINCENT
 “It's a number 9 tattoo.”	「ナンバー９のイレズミだ」
-AERIS	AERITH
+AERIS	AERIS
 “CAIT SITH…”	「CAIT SITH……」
 Temple of the Ancients	古代種の神殿
-AERIS	AERITH
+AERIS	AERIS
 “Hey! It's Tseng!”	「あっ！　ツォン！」
 CLOUD	CLOUD
 “Tseng? Of the Turks!?”	「タークスのツォンか！？」
@@ -68,21 +68,21 @@ Tseng	ツォン
 for yourself…”	たしかめるんだな……」
 Tseng	ツォン
 “Damn…”	「くそっ……」
-“Letting AERIS go was the start…	「AERITHを…手放したのが
+“Letting AERIS go was the start…	「AERISを…手放したのが
 of my…bad luck…”	ケチ…の……つきはじめ…だ…」
 “The President…	「社長は……判断を
 was wrong…”	あや……まった……」
-AERIS	AERITH
+AERIS	AERIS
 “You're wrong.”	「あなたたち、かんちがいしてる」
 “The Promised Land isn't like	「約束の地、あなたたちが考えてるのと
 what you imagined.”	ちがうもの」
-AERIS	AERITH
+AERIS	AERIS
 “And, I'm not going to help.”	「それに、わたし、協力なんてしないから」
 “Either way, there was no way	「どっちにしても、神羅には
 Shinra could have won.”	勝ち目はなかったのよ」
 Tseng	ツォン
 “…Pretty harsh.	「ハハ……きびしいな。
-Sounds like something…	AERITH……らしい……言葉だ」
+Sounds like something…	AERIS……らしい……言葉だ」
 you'd say.”	
 Tseng	ツォン
 “The Keystone…	「キーストーン……
@@ -90,7 +90,7 @@ Place it…on…the altar…”	祭壇に……置いて……み……ろ」
 Received Key Item "Keystone"!	キーアイテム『キーストーン』を手にいれた！
 CLOUD	CLOUD
 “You crying?”	「泣いてるのか？」
-AERIS	AERITH
+AERIS	AERIS
 “…Tseng's with our enemy, the Turks,	「……ツォンはタークスで敵だけど
 but I've known him since we were little…”	子供のころから知ってる」
 “There's not a lot of people I can say that about.	「わたし、そういう人、少ないから。
@@ -111,7 +111,7 @@ BARRET	BARRET
 This is makin' me dizzy!”	めまいがするぜ！」
 “Hey, Cloud!	「おう！　CLOUD！
 Don't get lost!”	迷うんじゃねえぞ！」
-AERIS	AERITH
+AERIS	AERIS
 “Words…feelings…	「言葉が…　思いが…
 So many of them here.”	たくさん、ここにある」
 YUFFIE	YUFFIE
@@ -135,7 +135,7 @@ This place smells good.”	ここいいにおいするよ」
 TIFA	TIFA
 “What a strange place.	「不思議な場所ね。
 Do you think we're welcome here?”	私たち、歓迎されてるのかしら？」
-AERIS	AERITH
+AERIS	AERIS
 “…CLOUD!	「……CLOUD！
 I know it's going to be tough, but…”	ここ、いろいろ大変だと思うけど…」
 “Don't give up!	「なげださないで！
@@ -169,26 +169,26 @@ Save	記録する
 “Welcome!”	「いらっしゃいませでぷ～」
 “Please come again!”	「またくるでぷ～」
 HP/MP Restored!	ＨＰ／ＭＰが回復した！
-AERIS	AERITH
+AERIS	AERIS
 “Whew!	「うん！
 We finally caught up to you.”	やっと、会えたね」
 “I'm sorry.	「ごめんね。
 You waited for me.”	まっててくれたんだ」
-AERIS	AERITH
+AERIS	AERIS
 “Those are the spirit bodies of the Ancients.”	「彼らは古代種の精神体」
 “They've been away from	「ずっ～と長い間、星に帰らず
 their Planet for a long time	この神殿を守りつづけてる」
 to protect this Temple.”	
-AERIS	AERITH
+AERIS	AERIS
 “Over the many years,	「ながい年月は彼らから
 they've lost the ability to talk.”	言葉を失わせた」
 “Actually, they didn't need words	「ううん、最初から言葉はいらなかった。
 from the beginning	神殿にとどまったものたちの
 because there was only one objective	目的はひとつだったから」
 for those left in the Temple.”	
-AERIS	AERITH
+AERIS	AERIS
 “Please, talk to me!”	「ねえ、教えて！」
-AERIS	AERITH
+AERIS	AERIS
 “No good. I don't understand the rest.	「だめ、あとはわからない。
 Are you afraid?”	おびえているの……？」
 “Is it because Sephiroth is in the Temple?	「セフィロスが神殿にいるから？
@@ -197,39 +197,39 @@ Or something else?”	それとも、ほかのこと？」
 Received "Mop"!	『モップ』を手にいれた！
 Received "Silver Rifle"!	『銀玉鉄砲』を手にいれた！
 Temple of the Ancients	古代種の神殿
-AERIS	AERITH
+AERIS	AERIS
 “…phew…	「ふぅ～～
 We did it!”	やったね！」
 CLOUD	CLOUD
 “Everyone all right?	「だいじょうぶか？
 That was rough.”	さすがに、こたえたな」
-AERIS	AERITH
+AERIS	AERIS
 “Oh no…CLOUD.	「あっ……CLOUD。
 Come quick!!”	たいへん！！」
-AERIS	AERITH
+AERIS	AERIS
 “Hurry, this way!”	「はやく、こっち！」
-AERIS	AERITH
+AERIS	AERIS
 “It's full of the knowledge of the Ancients.”	「古代種の知識がいっぱい」
 “No…not knowledge	「ううん、知識なんかじゃない。
 …consciousness…a living soul…”	そう……意識……生きてる心……」
-AERIS	AERITH
+AERIS	AERIS
 “It's trying to say something.”	「何か、言いたがってる」
-AERIS	AERITH
+AERIS	AERIS
 “I'm sorry, I don't understand.”	「ごめんね、わからないの」
-AERIS	AERITH
+AERIS	AERIS
 “What?”	「えっ？」
-AERIS	AERITH
+AERIS	AERIS
 “What is it?”	「な～に？」
-AERIS	AERITH
+AERIS	AERIS
 “…Danger?	「……危険？
 An evil…consciousness?”	邪悪な……意識？」
-AERIS	AERITH
+AERIS	AERIS
 “…show?	「えっ？　見せる？
 You're going to show me?”	見せてくれるの？」
 Temple of the Ancients	壁画の間
 CLOUD	CLOUD
 “What's going on?”	「……どうなってる？」
-AERIS	AERITH
+AERIS	AERIS
 “Wait!	「まって！
 Look! It's showing us!”	ほら、見て…はじまるよ」
 “Test Play is up to here.”	「テストプレイはここまでです。」
@@ -288,7 +288,7 @@ But do not fear.”	しかし、悲しむことはない」
 a new spirit energy is born.	新たな精神エネルギー。
 Soon, you will live again as a part of me.”	やがて私の一部として
 	生きることができる」
-AERIS	AERITH
+AERIS	AERIS
 “Did you see it?”	「見えた？」
 BARRET	BARRET
 “Yeah, I saw it.”	「おう、しっかり見たぜ」
@@ -309,7 +309,7 @@ Wh, what's the catch?”	どんなシカケになってんだぁ？」
 CLOUD	CLOUD
 “…Where is the room	「……壁画の部屋はどこだ？」
 with the pictures on the walls?”	
-AERIS	AERITH
+AERIS	AERIS
 “Almost there…”	「もうすぐ、ね」
 CLOUD	CLOUD
 “Sephiroth is here, right?”	「セフィロスがいるんだな？」
@@ -370,7 +370,7 @@ You may proceed.”	進むがよい」
 [CANCEL]: Proceed now!	×ボタン：いまを進む！
 Temple of the Ancients	古代種の神殿
 	
-AERIS	AERITH
+AERIS	AERIS
 “This atmosphere…”	「このふんいきは……」
 BARRET	BARRET
 “Feels like a battle!”	「バトルだな！」
@@ -395,20 +395,20 @@ Received "Megalixir"!	『ラストエリクサー』を手にいれた！
 Temple of the Ancients	古代種の神殿
 Temple of the Ancients	古代種の神殿
 Temple of the Ancients	古代種の神殿
-AERIS	AERITH
+AERIS	AERIS
 “Hey!	「あ！
 It's locked.”	鍵かかってる」
 “No good.	「だめね。
 We have to catch it!”	つかまえなきゃ！」
-AERIS	AERITH
+AERIS	AERIS
 “You must be tired.”	「いろいろ大変ね」
 Yeah	そうだな
 I want to go home	帰りたいな
-AERIS	AERITH
+AERIS	AERIS
 “Just hang in there.	「がまんがまん。
 Someday we'll look back on these	こんな苦労話、笑って話せる時がくるよ
 hard times and laugh.”	だから、がんばろ！」
-AERIS	AERITH
+AERIS	AERIS
 “Yeah.	「そうだね。
 But it'll all be over soon!”	でも、もうすぐだから！」
 “Nyum, nyum…”	「ねむねむ……」
@@ -435,7 +435,7 @@ Jump	ジャンプ
 Don't do it	やめとく
 “Jump to the lower level	【○ボタン】で下の段へジャンプ！
 with [OK]!”	
-AERIS	AERITH
+AERIS	AERIS
 “This is the room with the murals…”	「ここが壁画の間……」
 CLOUD	CLOUD
 “Where are you!?	「どこだ！？
@@ -463,7 +463,7 @@ of…”
 Sephiroth	セフィロス
 “…Mother…	「……かあさん…。
 …it's almost time.”	…もうすぐだよ」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD!!”	「CLOUD！！」
 BARRET	BARRET
 “Hey!!	「おい！！
@@ -485,7 +485,7 @@ VINCENT	VINCENT
 CLOUD	CLOUD
 “Ha ha ha…	「クックックッ……
 Black Materia”	黒マテリア」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD!!	「CLOUD！！
 Get a hold of yourself!”	しっかりしなさい！」
 CLOUD	CLOUD
@@ -499,7 +499,7 @@ CLOUD	CLOUD
 Sephiroth	セフィロス
 “Soon…	「もうすぐ……
 we will become one.”	ひとつになれる」
-AERIS	AERITH
+AERIS	AERIS
 “How do you intend	「星とひとつになるって
 to become one with the Planet?”	どうするつもり？」
 Sephiroth	セフィロス
@@ -527,7 +527,7 @@ a new existence.”
 I will cease to exist as I am now…”	今は失われ、かつて人の心を支配した存在……
 “Only to be reborn as a 'God'	「『神』として生まれ変わるのだ」
 to rule over every soul.”	
-AERIS	AERITH
+AERIS	AERIS
 “An injury powerful enough	「星が破壊されるほどの傷？」
 to destroy the Planet?”	
 “Injure…the Planet?”	「傷つける？　星を？」
@@ -539,11 +539,11 @@ CLOUD	CLOUD
 “Wake up!!”	「目をさませ！！」
 CLOUD	CLOUD
 “Where are you!? Sephiroth!!”	「どこだ！　セフィロス！」-
-AERIS	AERITH
+AERIS	AERIS
 “Wait, CLOUD!”	「待って、CLOUD！」
 Temple of the Ancients	壁画の間
 	
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD!!”	「CLOUD！！」
 BARRET	BARRET
 “Hey!!	「おい！！
@@ -569,7 +569,7 @@ Black Materia.”	黒マテリア」
 CLOUD	CLOUD
 “Ha ha ha…	「クックックッ……
 Call Meteor.”	メテオよぶ」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD!!	「CLOUD！！
 Get a hold of yourself!”	しっかりしなさい！」
 CLOUD	CLOUD
@@ -581,17 +581,17 @@ CLOUD	CLOUD
 CLOUD	CLOUD
 “…I remember!	「……思い出した！
 I remember my way.”	俺のやりかた」
-AERIS	AERITH
+AERIS	AERIS
 “…CLOUD.”	「……CLOUD」
 CLOUD	CLOUD
 “Mm? What's wrong?	「ん？　どうした。
 Is something wrong?”	なんか変か？」
-AERIS	AERITH
+AERIS	AERIS
 “…It's nothing	「……なんでもないから
 so don't worry about it.”	気にしないで」
-AERIS	AERITH
+AERIS	AERIS
 It's nothing.”	なんでもないよね」
-AERIS	AERITH
+AERIS	AERIS
 “Sephiroth got away.”	「逃げちゃったね、セフィロス」
 CLOUD	CLOUD
 “…Don't worry about it.	「……気にするな。
@@ -619,14 +619,14 @@ CID	CID
 “I don't know what the hell it is but	「なんだか知らねえが
 it's falling from the sky?”	空から落ちてくるってことか？」
 “Hmpf! It's not even an omen.”	「ケッ！　縁起でもねえ」
-AERIS	AERITH
+AERIS	AERIS
 “…This must be magic.	「……魔法ね、これは。
 Just what Sephiroth was saying.”	セフィロスが言ってたとおり」
-AERIS	AERITH
+AERIS	AERIS
 “The Ultimate Destructive Magic, Meteor.”	「究極の破壊魔法メテオ」
 “It finds small drifting planets with	「宇宙をただよっている小さな星を
 its magic.”	魔法の力で呼びよせるの」
-AERIS	AERITH
+AERIS	AERIS
 “And then collides with them.	「そして……衝突。
 This Planet might get wiped out entirely…”	この星、完全に壊れちゃうかも……」
 CLOUD	CLOUD
@@ -644,7 +644,7 @@ shape. Several remain even now.”	いまでもいくつかの種族は残って
 Sephiroth	セフィロス
 “These beings sealed their consciousness	「ある種族は、マテリアのなかに
 within materia, altering their lives for eternity.”	自らの命を封じこめ、生を永遠に変えた」
-Aeris	AERITH
+Aeris	AERIS
 “The summon materia…”	「召喚のマテリア……」
 Sephiroth	セフィロス
 “Correct.	「然り。
@@ -661,7 +661,7 @@ Sephiroth	セフィロス
 Keep that in mind.”	思い知るがいい」
 CLOUD	CLOUD
 “Any sign of Sephiroth?”	「セフィロスの気配は？」
-AERIS	AERITH
+AERIS	AERIS
 “He disappeared.”	「消えちゃったね」
 Received "Bahamut" Materia!	『バハムート』のマテリアを手にいれた！
 You cannot take on any more Materia.	これいじょうマテリアは持てません。
@@ -671,34 +671,34 @@ CLOUD	CLOUD
 “We're locked in.”	「閉じこめられたようだ」
 CLOUD	CLOUD
 “What is this?”	「これはなんだ？」
-AERIS	AERITH
+AERIS	AERIS
 “…There's something written on it.”	「……何かかいてある」
-AERIS	AERITH
+AERIS	AERIS
 “B.l.a.c.k…M.a.t.e.r.i.a.”	「……ク・ロ・マ……テ・リ・ア」
 CLOUD	CLOUD
 “Black Materia!!”	「黒マテリア！！」
-AERIS	AERITH
+AERIS	AERIS
 “Hey!”	「あっ！」
-AERIS	AERITH
+AERIS	AERIS
 “…Black Materia.”	「……黒マテリア」
-AERIS	AERITH
+AERIS	AERIS
 “What should we do, CLOUD?”	「どうするの、CLOUD？」
 Shake it	ゆらす
 Take it	とる
 Leave it	ほうっておく
-AERIS	AERITH
+AERIS	AERIS
 “Wait a minute.	「ちょっと待って。
 I'll ask!”	わたし、聞いてみる！」
-AERIS	AERITH
+AERIS	AERIS
 “I don't understand…”	「わからない……」
-AERIS	AERITH
+AERIS	AERIS
 “What?”	「えっ？」
-AERIS	AERITH
+AERIS	AERIS
 “Really!?”	「そうなの！？」
-AERIS	AERITH
+AERIS	AERIS
 “They said that the Temple	「この神殿そのものが
 itself is the Black Materia.”	黒マテリアだって」
-AERIS	AERITH
+AERIS	AERIS
 “If we could only move this,	「これを動かせば
 we could take the Black Materia.”	黒マテリアを持ち出せる」
 “But, the Temple would collapse.”	「でも、神殿、くずれちゃうの」
@@ -737,7 +737,7 @@ to get the Black Materia.”	黒マテリアを手に入れるくらい
 	なんでもない」
 CLOUD	CLOUD
 “This place isn't safe.”	「この場所はもう安全じゃないんだ」
-AERIS	AERITH
+AERIS	AERIS
 “So what are we going to do?”	「でも、どうするの？」
 CAIT SITH	CAIT SITH
 “I heard your situation!”	「話、聞かせてもらいましたよ！」
@@ -808,14 +808,14 @@ CAIT SITH	CAIT SITH
 I guess I'm off to save the Planet…”	しっかり、この星すくうんやで～！！」
 CLOUD	CLOUD
 “What do they mean?”	「どういうことだ？」
-AERIS	AERITH
+AERIS	AERIS
 “So, this whole building	「だから、この大きな建物自体が
 is the Black Materia?”	黒マテリア、なんだって」
 CLOUD	CLOUD
 “This huge Temple?	「この、でかい神殿が？
 This is the Black Materia!?”	これが黒マテリア！？」
 “Then no one could take it.”	「それじゃあ、誰にも持ち出せないな」
-AERIS	AERITH
+AERIS	AERIS
 “Hmm, it's pretty hard.	「う～ん、むずかしいところね。
 You see this is a model of the Temple.”	ここにあるのは神殿の模型なの」
 “And inside it is a device,	「この模型には、しかけがあって
@@ -829,7 +829,7 @@ CLOUD	CLOUD
 “So, if we solve the puzzles,	「つまり、この模型のパズルを解けば
 the Black Materia will get smaller and smaller	黒マテリアは小さくなって
 and we can take it out?”	持ち出せるようになるわけだな？」
-AERIS	AERITH
+AERIS	AERIS
 “Yes, but there's one thing…”	「そう、でもね……」
 “You can only answer the puzzles	「パズルを解くのは、この場所でしか
 inside the Temple.”	できないの」
@@ -849,7 +849,7 @@ CLOUD	CLOUD
 “It's warm…”	「なまあたたかい…」
 CLOUD	CLOUD
 “This isn't good…”	「やばいな……」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD…	「CLOUD……
 …behind you.”	……うしろ」
 CAIT SITH	CAIT SITH
@@ -861,9 +861,9 @@ CAIT SITH	CAIT SITH
 CAIT SITH	CAIT SITH
 “Well, everyone…	「ほんな、みなさん
 Take care of yourselves!”	お元気で！」
-AERIS	AERITH
+AERIS	AERIS
 “CAIT SITH…”	「CAIT SITH……」
-AERIS	AERITH
+AERIS	AERIS
 “Come on, CLOUD…	「ほら、CLOUD…。
 Say something.”	なにかいってあげなきゃ」
 CLOUD	CLOUD
@@ -872,7 +872,7 @@ CAIT SITH	CAIT SITH
 “Mmm, I understand.	「ん～、ようわかりますわ～
 I feel the same too.”	ボクも同じような
 	気持ちですわ」
-AERIS	AERITH
+AERIS	AERIS
 “Why don't you read	「そうだ！
 our fortunes?”	ねえ、うらなってよ」
 CAIT SITH	CAIT SITH
@@ -882,7 +882,7 @@ I haven't done it in a while, huh?”	それも、ひさしぶりですねぇ」
 Right or wrong,	当たるも～CAIT SITH
 I'm still the same 'ol me”	当たらぬも～CAIT SITH」
 “Now, what should I predict?”	「ほんな、なに占いましょ？」
-AERIS	AERITH
+AERIS	AERIS
 “Hmm, let's see how compatible	「そうねえ……。
 CLOUD and I are!”	CLOUDとわたしの相性！」
 CAIT SITH	CAIT SITH
@@ -895,7 +895,7 @@ CAIT SITH	CAIT SITH
 	ちょっと、言えませんわ」
 “Poor TIFA.”	「TIFAさんに
 	わるいわ」
-AERIS	AERITH
+AERIS	AERIS
 “No!	「ダメ！
 Tell me!”	教えて！」
 “I promise I won't get mad!”	「ぜっ～たい
@@ -905,7 +905,7 @@ CAIT SITH	CAIT SITH
 Then I'll tell you.”	ほんな、いいますよ」
 “Looks good.	「ええかんじですよ。
 You are perfect for each other!”	おふたりの相性、ぴったりですわ！」
-“AERIS's star and	「AERITHさんの星と
+“AERIS's star and	「AERISさんの星と
 CLOUD's star!	CLOUDさんの星！
 They show a great future!”	すてきな未来が約束されてます！」
 “CLOUD, I'll be your matchmaker,	「CLOUDさん
@@ -918,7 +918,7 @@ CAIT SITH	CAIT SITH
 knowing that I was a spy.”	信じてくれて、おおきに！」
 “This is the final, final farewell!”	「ほんまに、ほんまに……
 	いってきます！」
-AERIS	AERITH
+AERIS	AERIS
 “Be strong	「がんばって
 CAIT SITH!!”	CAIT SITH！！」
 CAIT SITH	CAIT SITH
@@ -969,26 +969,26 @@ CLOUD	CLOUD
 “Mmm?”	「ん？」
 CLOUD	CLOUD
 “Can you guys use it?”	「俺たちは使えるのか？」
-AERIS	AERITH
+AERIS	AERIS
 “Nope, we can't use it right now.	「ダメ、今は使えない。
 You need great spiritual power to use it.”	とっても大きな精神の力が必要なの」
 CLOUD	CLOUD
 “You mean lots of spiritual energy?”	「たくさんの精神エネルギーってことか？」
-AERIS	AERITH
+AERIS	AERIS
 “That's right.”	「そう、ね」
 “One person's power alone won't do it.”	「ひとりの人間が持ってるような
 	精神エネルギーじゃダメ」
 “Somewhere special.	「どこか特別な場所。
 Where there's plenty of the Planet's energy…”	星のエネルギーが豊富で……」
-AERIS	AERITH
+AERIS	AERIS
 “Oh yeah!”	「あっ！」
-AERIS	AERITH
+AERIS	AERIS
 “The Promised Land!!”	「約束の地！！」
 CLOUD	CLOUD
 “The Promised Land!!”	「約束の地だな！！」
 CLOUD	CLOUD
 “No, but…”	「いや、しかし……」
-AERIS	AERITH
+AERIS	AERIS
 “Sephiroth is different.	「セフィロスは、ちがう。
 He's not an Ancient.”	古代種じゃない」
 CLOUD	CLOUD
@@ -1004,7 +1004,7 @@ and wisdom of the Ancients.”
 “I also gained the knowledge and wisdom of those	「古代種滅びし後の時代の
 after the extinction of the Ancients.”	知恵と知識をも手に入れた」
 “And soon, I will create the future.”	「そしてまもなく未来を創り出す」
-AERIS	AERITH
+AERIS	AERIS
 “I won't let you do it!	「そんなこと、させない！
 The future is not just yours!”	未来はあなただけのものじゃない！」
 Sephiroth	セフィロス
@@ -1027,21 +1027,21 @@ CLOUD	CLOUD
 Gave "Black Materia" to Sephiroth!	『黒マテリア』をセフィロスに手わたした！
 Sephiroth	セフィロス
 “…Well done.”	「……ごくろう」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD, are you all right?”	「CLOUD、だいじょぶ？」
 CLOUD	CLOUD
 “…I gave the Black Materia	「……俺はセフィロスに
 to Sephiroth?”	黒マテリアを……？」
 CLOUD	CLOUD
 “Wha…what did I do?	「お、俺はなにをしたんだ……
-Tell me, AERIS.”	AERITH、教えてくれ」
-AERIS	AERITH
+Tell me, AERIS.”	AERIS、教えてくれ」
+AERIS	AERIS
 “CLOUD…be strong, OK?”	「CLOUD……
 	しっかり、ね？」
 CLOUD	CLOUD
 “Urrrrrrgh…	「ウヘヘヘヘ……
 What have I done!?”	俺はなにをした！」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD…	「CLOUD……
 you haven't done anything.”	あなた、なにもしていない」
 “It's not your fault.”	「あなたのせいじゃない」
@@ -1060,12 +1060,12 @@ BARRET	BARRET
 RED XIII	RED XIII
 “CLOUD!!”	「CLOUDっ！！」
 RED XIII	RED XIII
-“AERIS, are you all right!?”	「AERITH、だいじょうぶ！？」
+“AERIS, are you all right!?”	「AERIS、だいじょうぶ！？」
 YUFFIE	YUFFIE
 “What!?	「おろっ！？
 CLOUD!”	CLOUD！」
 YUFFIE	YUFFIE
-“AERIS!	「AERITH！
+“AERIS!	「AERIS！
 CLOUD, what're you doing!?”	CLOUD、なにやってんだよっ！」
 VINCENT	VINCENT
 “…!!”	「……！！」
@@ -1125,26 +1125,26 @@ CLOUD	CLOUD
 “Mmm?”	「ん？」
 CLOUD	CLOUD
 “Can you guys use it?”	「俺たちは使えるのか？」
-AERIS	AERITH
+AERIS	AERIS
 “We can't use it right now.	「ダメ、今は使えない。
 You need great spiritual power to use it.”	とっても大きな精神の力が必要なの」
 CLOUD	CLOUD
 “You mean lots of spiritual energy?”	「たくさんの精神エネルギーってことか？」
-AERIS	AERITH
+AERIS	AERIS
 “That's right.”	「そう、ね」
 “One person's power alone won't do it.”	「ひとりの人間が持ってるような
 	精神エネルギーじゃダメ」
 “Somewhere special.	「どこか特別な場所。
 Where there's plenty of the Planet's energy…”	星のエネルギーが豊富で……」
-AERIS	AERITH
+AERIS	AERIS
 “Oh yeah!”	「あっ！」
-AERIS	AERITH
+AERIS	AERIS
 “The Promised Land!!”	「約束の地！！」
 CLOUD	CLOUD
 “The Promised Land!!”	「約束の地だな！！」
 CLOUD	CLOUD
 “No, but…”	「いや、しかし……」
-AERIS	AERITH
+AERIS	AERIS
 “Sephiroth is different.	「セフィロスは、ちがう。
 He's not an Ancient.”	古代種じゃない」
 CLOUD	CLOUD
@@ -1160,7 +1160,7 @@ and wisdom of the Ancients.”
 “I also gained the knowledge and wisdom of those	「古代種滅びし後の時代の
 after the extinction of the Ancients.”	知恵と知識をも手に入れた」
 “And soon, I will create the future.”	「そしてまもなく未来を創り出す」
-AERIS	AERITH
+AERIS	AERIS
 “I won't let you do it!	「そんなこと、させない！
 The future is not just yours!”	未来はあなただけのものじゃない！」
 Sephiroth	セフィロス
@@ -1183,22 +1183,22 @@ CLOUD	CLOUD
 Gave "Black Materia" to Sephiroth!	『黒マテリア』をセフィロスに手わたした！
 Sephiroth	セフィロス
 “…Well done.”	「……ごくろう」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD, are you all right?”	「CLOUD、だいじょぶ？」
 CLOUD	CLOUD
 “…I gave the Black Materia	「……俺はセフィロスに
 to Sephiroth…?”	黒マテリアを……？」
 CLOUD	CLOUD
 “Wha…what did I do?	「お、俺はなにをしたんだ……
-Tell me, AERIS.”	AERITH、教えてくれ」
-AERIS	AERITH
+Tell me, AERIS.”	AERIS、教えてくれ」
+AERIS	AERIS
 “CLOUD…be strong, OK?”	「CLOUD……
 	しっかり、ね？」
 	
 CLOUD	CLOUD
 “Urrrrrrgh…	「ウヘヘヘヘ……
 What have I done!”	俺はなにをした！」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD…	「CLOUD……
 you haven't done anything.”	あなた、なにもしていない。
 “It's not your fault.”	「あなたのせいじゃない」
@@ -1218,12 +1218,12 @@ BARRET	BARRET
 RED XIII	RED XIII
 “CLOUD!!”	「CLOUDっ！！」
 RED XIII	RED XIII
-“AERIS, are you all right!?”	「AERITH、だいじょうぶ！？」
+“AERIS, are you all right!?”	「AERIS、だいじょうぶ！？」
 YUFFIE	YUFFIE
 “What!?	「おろっ！？
 CLOUD!”	CLOUD！」
 YUFFIE	YUFFIE
-“AERIS!	「AERITH！
+“AERIS!	「AERIS！
 CLOUD, what're you doing!?”	CLOUD、なにやってんだよっ！」
 VINCENT	VINCENT
 “…!!”	「……！！」
@@ -1253,48 +1253,48 @@ CLOUD	CLOUD
 I don't remember anything…”	おぼえていない…」
 “My memory…since when?	「記憶…いつからなのか…？
 If everything's a dream, don't wake me.”	すべてが夢ならさめないでくれ」
-AERIS	AERITH
+AERIS	AERIS
 “CLOUD, can you hear me?”	「CLOUD、わかる？」
 CLOUD	CLOUD
 “Yeah, I hear you.	「ああ、わかるよ。
 Sorry for what happened.”	さっきはすまなかったな」
-AERIS	AERITH
+AERIS	AERIS
 “Don't worry about it.”	「気にしないほうがいいよ」
 CLOUD	CLOUD
 “…I can't help it…”	「……そんなのムリだ」
-AERIS	AERITH
+AERIS	AERIS
 “Oh…”	「そっか……」
-AERIS	AERITH
+AERIS	AERIS
 “Then, why don't you REALLY worry about it?”	「じゃ、思いっきり気にしちゃえば？」
-AERIS	AERITH
+AERIS	AERIS
 “And let me handle Sephiroth.”	「セフィロスのこと、わたしにまかせて」
-AERIS	AERITH
+AERIS	AERIS
 “And CLOUD,	「そして、CLOUDは
 you take care of yourself.”	自分のこと考えて」
-AERIS	AERITH
+AERIS	AERIS
 “So you don't have a breakdown, okay?”	「自分が壊れてしまわないように、ね？」
 CLOUD	CLOUD
 “What is this place?”	「ここは……どこだ？」
-AERIS	AERITH
+AERIS	AERIS
 “This forest leads to the City of the Ancients…	「この森は【古代種の都】へつづく……
 and is called the Sleeping Forest.”	【眠りの森】と呼ばれている」
-AERIS	AERITH
+AERIS	AERIS
 “It's only a matter of time before Sephiroth	「セフィロスがメテオを使うのは
 uses Meteor.”	時間の間題」
 “That's why I'm going to protect it.	「だから、それを防ぐの。
 Only a survivor of the Cetra,	それはセトラの生き残りの
 like me, can do it.”	わたしにしかできない」
-AERIS	AERITH
+AERIS	AERIS
 “The secret is just up here.”	「その秘密、この先にあるの」
-AERIS	AERITH
+AERIS	AERIS
 “At least it should be.	「ううん……あるはず。
 …I feel it.	そう、感じるの。
 It feels like I'm being led by something.”	何かに導かれている感じ、するの」
-AERIS	AERITH
+AERIS	AERIS
 “Then, I'll be going now.	「じゃ、わたし、行くね。
 I'll come back when it's all over.”	全部終わったらまた、ね？」
 CLOUD	CLOUD
-“AERIS?”	「AERITH？」
+“AERIS?”	「AERIS？」
 Sephiroth	セフィロス
 “Hmm…	「おやおや……
 So she's going to interfere?	私たちの邪魔をする気のようだ。
@@ -1325,27 +1325,27 @@ Well, don't worry	ま、あんまり悩まねえこった」
 too much about it.”	
 TIFA	TIFA
 “You know, CLOUD.	「あのね、CLOUD。
-AERIS is gone.”	AERITHが
+AERIS is gone.”	AERISが
 	いなくなっちゃったの」
 BARRET	BARRET
-“Everyone's out looking	「みんなはAERITHを
+“Everyone's out looking	「みんなはAERISを
 for AERIS.”	探しに行ってる」
 CLOUD	CLOUD
 “…The City of the Ancients.	「……古代種の都。
-AERIS is headed there.”	AERITHはそこに向かっている。
+AERIS is headed there.”	AERISはそこに向かっている。
 	メテオを防ぐ手段があるらしいんだ」
 BARRET	BARRET
-“By herself!?	「AERITHが一人で！？
+“By herself!?	「AERISが一人で！？
 Why did she go by herself!?”	なんだって一人で
 	行っちまうんだよ！」
 BARRET	BARRET
 “Hey, we're goin' too.”	「おい、オレたちも行くぞ」
 CLOUD	CLOUD
 “Only the Ancients, only AERIS	「メテオを防ぐことができるのは
-can save us from Meteor…”	古代種……AERITHだけだ」
+can save us from Meteor…”	古代種……AERISだけだ」
 TIFA	TIFA
 “Then we must go.	「それならなおさらよ。
-What'll we do if something	AERITHにもしものことがあったら
+What'll we do if something	AERISにもしものことがあったら
 happens to AERIS?	どうするの？
 If Sephiroth finds her,	セフィロスが気づいたら大変よ」
 she's in trouble.”	
@@ -1457,7 +1457,7 @@ CLOUD	CLOUD
 “…You're…right.	「……そう……だな。
 He's right, isn't he?”	……そう……だよな？」
 TIFA	TIFA
-“Come on,	「さあ、AERITHを
+“Come on,	「さあ、AERISを
 let's go and find AERIS.”	探しに行きましょう？」
 CLOUD	CLOUD
 “…I'm afraid to find out the truth.	「……俺は、真実を、知るのが、怖い……？

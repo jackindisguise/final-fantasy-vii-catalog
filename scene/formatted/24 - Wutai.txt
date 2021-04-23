@@ -1,7 +1,7 @@
 Wilderness	荒れ地
 	
 “Wait, wait, wait, wai----t!!”	「待った待った待ったーっ！！」
-AERIS	AERITH
+AERIS	AERIS
 “What!?	「なになに！？
 What happened all of a sudden?”	どうしたの、とつぜんあわてたりして？」
 BARRET	BARRET
@@ -29,12 +29,12 @@ YUFFIE	YUFFIE
 “It gets pretty tough past here.	「この先ってさあ、
 Better get ready…”	かなりキツイんだよね。
 	だからね、いろいろ準備を……」
-AERIS	AERITH
+AERIS	AERIS
 “…Hmmm…	「……ふ～ん……
 Something's fishy…”	なんかアヤしいな～」
 “You're not planning	「また何かイケないこと
 something sneaky again, are you?”	考えたりしてない？」
-AERIS	AERITH
+AERIS	AERIS
 “……Hmmm…	「……ふ～ん……
 Something's fishy…”	なんかアヤしいな～」
 “You're not planning	「何かイケないこととか
@@ -93,7 +93,7 @@ CLOUD	CLOUD
 “Shinra!?”	「神羅ッ！？」
 TIFA	TIFA
 “Shinra!?”	「神羅ッ！？」
-AERIS	AERITH
+AERIS	AERIS
 “The Shinra!?”	「あっ、神羅の……！？」
 BARRET	BARRET
 “The Shinra!!”	「神羅かっ！！」
@@ -108,7 +108,7 @@ VINCENT	VINCENT
 Shinra Soldier	神羅兵
 “Hey, that's not them!	「おい、違うぞ！　ヤツじゃない！
 These are the other guys from before!!”	こ、こいつら、例の！！」
-AERIS	AERITH
+AERIS	AERIS
 “YUFFIE, did you by any chance…”	「YUFFIE、あなた、もしかして……」
 BARRET	BARRET
 “YUFFIE, so you're…”	「YUFFIE、おまえ、やっぱり……！」
@@ -127,7 +127,7 @@ You will explain later.”	後でじっくり説明してもらおうか」
 YUFFIE	YUFFIE
 “I didn't know!	「知らない知らない！
 I had nothing to do with this one!”	これはアタシとカンケーないって！」
-AERIS	AERITH
+AERIS	AERIS
 “This one?	「これ『は』？
 What do you mean 'THIS one'?”	これ『は』って、何？」
 “So you WERE up to something!”	「YUFFIE、あなたやっぱり
@@ -169,7 +169,7 @@ Shinra Soldier	神羅兵
 Shinra Soldier	神羅兵
 “Uh…Get them!	「い……や、やれ！
 Grab them and ask questions later!!”	いいからやってしまえ！！」
-AERIS	AERITH
+AERIS	AERIS
 “What's going on!?”	「これ、どういうこと！？」
 “I thought something was missing…	「なにかたりないと思ったら
 my Materia's all gone!!”	マテリア、マテリア
@@ -206,7 +206,7 @@ So that's it.”	なるほど、そういうことか」
 	ぬきとられている……！」
 CLOUD	CLOUD
 “Hey…where's YUFFIE?”	「おい……YUFFIEは……？」
-AERIS	AERITH
+AERIS	AERIS
 “Hey…where's YUFFIE?”	「ね……YUFFIE……は？」
 TIFA	TIFA
 “Hey…where's YUFFIE?”	「ねえ……YUFFIEは……？」
@@ -221,7 +221,7 @@ CID	CID
 “Ey…where the hell's that damn kid?”	「オイ……YUFFIEのやつは……？」
 VINCENT	VINCENT
 “…”	「おい……YUFFIEは……？」
-AERIS	AERITH
+AERIS	AERIS
 “I'm SO mad!!”	「くーやーしーいーっ！！」
 BARRET	BARRET
 “That &*&$ kid!!!”	「あーのーやーろーおーっ！！」
@@ -244,7 +244,7 @@ CID	CID
 	しやがったな！！」
 VINCENT	VINCENT
 “Inexcusable…”	「これは見過ごせないな……」
-AERIS	AERITH
+AERIS	AERIS
 “She was probably eyeing our	「最初からあのコ
 Materia from the beginning.”	わたしたちのマテリア
 	ねらってたのね、きっと」
@@ -423,7 +423,7 @@ YUFFIE	YUFFIE
 I was wrong…”	アタシが悪かった……」
 “You win.	「アンタたちの勝ちだ。
 I'll give you back your Materia…”	マテリアはぜんぶ返すよ……」
-AERIS	AERITH
+AERIS	AERIS
 “I don't think she came out from here…	「あのコ、ここから
 Is that OK?”	出てないと思うけど……
 	いいの？」
@@ -948,7 +948,7 @@ Materia's…sniff, hic…in there.”	マテリア、ヒック……かくして
 YUFFIE	YUFFIE
 “Don't make a mistake.	「まちがえないで。
 The left lever…”	左のレバーを……」
-AERIS	AERITH
+AERIS	AERIS
 “I'm sorry, but……”	「かわいそう、だけど……」
 BARRET	BARRET
 “Ain't nuthin' we can do about it…”	「ま、しかたねえよな……」
@@ -966,7 +966,7 @@ VINCENT	VINCENT
 “There was nothing else to do.”	「やむをえないな」
 BARRET	BARRET
 “Wh…what the hell is this?”	「な、なんだコリャ！？」
-AERIS	AERITH
+AERIS	AERIS
 “Eyaaaaah!”	「キャッ！！」
 TIFA	TIFA
 “Eyaaaaah!”	「キャッ！！」
@@ -1001,7 +1001,7 @@ YUFFIE	YUFFIE
 “C'ya!!”	「じゃ～ね～！」
 BARRET	BARRET
 “Y, yo, wait up!!”	「お、おい、助けてくれよ！」
-AERIS	AERITH
+AERIS	AERIS
 “Wait, don't leave us!”	「ね、おいてかないで！」
 TIFA	TIFA
 “W..wait,	「ちょ、ちょっと
@@ -1187,7 +1187,7 @@ CLOUD	CLOUD
 TIFA	TIFA
 “That fall into the trap really hurt!”	「痛かったんだから！
 	あの落とし穴……！」
-AERIS	AERITH
+AERIS	AERIS
 “You just don't get it, do you…!?”	「こりない人ね
 	こんなマネして……！」
 Corneo	コルネオ
@@ -1278,7 +1278,7 @@ CID	CID
 BARRET	BARRET
 “Damn tricky $#%@&T$*^%$ !”	「きったねえ手
 	使いやがって……！」
-AERIS	AERITH
+AERIS	AERIS
 “All right…”	「わ、わかった……」
 RED XIII	RED XIII
 “Grrrrrgh…”	「グルル……！」
@@ -1343,7 +1343,7 @@ Elena	イリーナ
 “Y…Yes, sir!”	「は……はい！」
 TIFA	TIFA
 “Th…Thanks.”	「あ……ありがとう」
-AERIS	AERITH
+AERIS	AERIS
 “Thanks for your help.”	「ありがと、助かっちゃった」
 CID	CID
 “I uh, thanks for today.”	「ともかく、今日んとこは
@@ -1745,7 +1745,7 @@ we can't refuse…”	かまへんけど……」
 RED XIII	RED XIII
 “As long as she doesn't interfere!”	「オイラたちにめいわくを
 	かけないっていうならね……！」
-AERIS	AERITH
+AERIS	AERIS
 “All right.	「わかりました。
 We'll take her with us.”	娘さん、おあずかりします」
 TIFA	TIFA

@@ -409,7 +409,7 @@ DAMN, I'm pissed!”	ハラが立ってきた！」
 BARRET	BARRET
 “…Damn, man. Wassup with	「けっ、いけ好かねぇ野郎だ」
 that guy's attitude?”	
-AERIS	AERITH
+AERIS	AERIS
 “Sheesh!!	「むっか～～！！
 What bad manners!”	たいど、悪いわよ」
 TIFA	TIFA
@@ -440,7 +440,7 @@ All right!?”
 BARRET	BARRET
 “He always like this?	「いつもだって？
 That's pretty bad!”	そりゃ、ひでえな！」
-AERIS	AERITH
+AERIS	AERIS
 “Is it like this all the time?	「いつも？
 You keep quiet even when	いつもあんなこと言われて
 he's like that to you?”	だまってんの？」
@@ -813,7 +813,7 @@ best things for themselves.	絶対に独り占めしちまうんだよな。
 Let's take it!”	いただいちまおうぜ！」
 TIFA	TIFA
 “I wonder if we can borrow it…”	「貸してもらえないかしら……」
-AERIS	AERITH
+AERIS	AERIS
 “Let's take it, OK CLOUD?”	「もらっちゃお？　ね、CLOUD！」
 RED XIII	RED XIII
 “Will it fly?	「空を飛べるのかな？
@@ -843,8 +843,8 @@ BARRET	BARRET
 “I'm BARRET, of AVALANCHE.”	「アバランチのBARRETだ」
 TIFA	TIFA
 “TIFA. Nice to meet you.”	「TIFA。　よろしくね」
-AERIS	AERITH
-“I'm AERIS.”	「わたし、AERITH」
+AERIS	AERIS
+“I'm AERIS.”	「わたし、AERIS」
 RED XIII	RED XIII
 “Nanaki,	「ナナキ、またの名をRED XIII」
 otherwise known as RED XIII.”	
@@ -886,7 +886,7 @@ Palmer	パルマー
 “Se…se…security!!”	「け、け、け、警備兵！！」
 BARRET	BARRET
 “I can't stop it!”	「とまらねえぜ！」
-AERIS	AERITH
+AERIS	AERIS
 “I can't stop it!”	「とまらないの！」
 TIFA	TIFA
 “I can't stop it!”	「とまんないっ！」
@@ -904,7 +904,7 @@ CLOUD	CLOUD
 “All right, here we go!”	「よし、出発だ！」
 BARRET	BARRET
 “Gimme that!”	「オレにやらせろ！」
-AERIS	AERITH
+AERIS	AERIS
 “I want to try it!”	「わたし、やってみたい！」
 TIFA	TIFA
 “I wanna try!”	「私にやらせて！」
@@ -970,7 +970,7 @@ BARRET	BARRET
 “I don't care.”	「かまわないぜ」
 TIFA	TIFA
 “Of course, no problem!”	「もちろん、いいわよ」
-AERIS	AERITH
+AERIS	AERIS
 “I'm all for it.”	「さんせい、よ」
 RED XIII	RED XIII
 “I don't really care.”	「オイラはかまわないよ」

@@ -20,29 +20,17 @@ Cannot take on anymore Materia.	これいじょうマテリアは持てません
 Please discard some Materia.	なにかマテリアをすててください。
 Empty…	からっぽだ……
 Can't reach it…	手がとどかない……
-BARRET	BARRET
 This is Kalm.	ここが、カームだ
-AERIS	AERITH
 We've reached Kalm.	カームに着いたね
-TIFA	TIFA
 So this is Kalm?	ここが、カームね
-RED XIII	RED XIII
 …this must be Kalm.	……カームに着いたな
-BARRET	BARRET
 Yo, I'll be waitin' at the inn… Hurry and get your butt over there!	おい、先に宿屋で待ってるぜ。チンタラせずに、早くこいよ！
-AERIS	AERITH
 I wonder if everyone's there already? Let's hurry over to the inn!	みんな、もう着いてるかな。はやく宿屋に行きましょ！
-TIFA	TIFA
 Everyone's waiting at the inn. Let's go CLOUD.	宿屋でみんなが待ってるわ。行きましょう、CLOUD
-RED XIII	RED XIII
 We're supposed to meet at the inn. …Shall we go?	宿屋でおちあう手はずだったな。……行くか
-BARRET	BARRET
 Get over here!	とっとと来いよ
-AERIS	AERITH
 Well then, I'll go on ahead.	じゃあ、先、行ってるね
-TIFA	TIFA
 Let's go CLOUD.	行きましょう、CLOUD
-RED XIII	RED XIII
 Let's go CLOUD.	行こう、CLOUD
 Thanks to the Mako energy Shinra, Inc. develops for us, everything's more convenient now.	神羅カンパニーが魔晄エネルギーを実用化してくれたおかげでわしらの生活も便利になったもんじゃ
 Maybe a little too convenient.	ちと、便利になりすぎたかもしれんがの
@@ -182,11 +170,8 @@ Remember this because Chocobos will run away as soon as you get off them, so be 
 Once on the World Map you can access the menu to save your game anywhere. It's a good idea to save frequently!	ワールドマップではメニューを開けばどこでもセーブできるからセーブはこまめにとったほうがいいよ
 Well then, bon voyage!	それじゃ、よい旅を
 Is that so? Well, that's that. Have a nice trip.	そうかい？　それは残念。それじゃ、よい旅を
-CLOUD	CLOUD
 Damn!!	……いいかげんに、しろっ！！
-TIFA	TIFA
 Oh! You!!	ん、もうっ！！
-CID	CID
 …don't mess with me!!	……なめてんじゃねぇっ！！
 Huh? You're looking for your friend? You want to know where the Lifestream is?	え？　友人をさがしてる？ライフストリームはどこかって？
 Hmm, I can't help you find your friend, but I've heard about the Lifestream.	ん～、君の友人の事はしらないけどライフストリームについては聞いたことあるよ
@@ -242,5 +227,4 @@ it's Underwater Materia. Go on, it's yours!	【潜水マテリア】じゃ。持
 It's a Chocobo. Take it, it's yours!	【ウルトラチョコボ】じゃ。連れてゆくがええ
 It's a 3-piece Master Materia set, …and it's all yours!	【マスターマテリア３点セット】じゃ。持っていってくれ
 I guess it's time to go on a journey for the souls of my departed friends…	では、ワシはとむらいの旅に行くとするか……
-CLOUD	CLOUD
 Looks like my Stable's full. I'll come back when I have room.	『チョコぼう』がいっぱいだな。空きをつくってから連れていくことにしよう
