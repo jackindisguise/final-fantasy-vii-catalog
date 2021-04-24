@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.12.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.11.0...v1.12.0) (2021-04-24)
+
+
+### Features
+
+* Added Scene 33: Mideel I. ([25694ad](https://github.com/nowotato/final-fantasy-vii-catalog/commit/25694ad06b8704887ffc81746a66871619c6fad2)), closes [#36](https://github.com/nowotato/final-fantasy-vii-catalog/issues/36)
+
 ## [1.11.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.10.0...v1.11.0) (2021-04-24)
 
 
