@@ -50,7 +50,7 @@ function tokenIsAdjective(token){ return tokenIsIAdj(token) || tokenIsNaAdj(toke
 function tokenIsAdverb(token){ return token.pos === symbols.pos.adverb; }
 function tokenIsBasic(token){ return tokenIsNoun(token) || tokenIsVerb(token) || tokenIsAdjective(token) || tokenIsAdverb(token); }
 
-async function _read(callback){
+async function _read_stdin(callback){
 	return new Promise(function(resolve){
 		process.stdin.once("data", function(data){
 			callback(data);
@@ -61,13 +61,23 @@ async function _read(callback){
 
 async function readLine(){
 	let line;
-	await _read(function(data){
+	await _read_stdin(function(data){
 		line = data;
 	});
 
 	return line;
 }
 
+async function sleep(time){
+	return new Promise(function(resolve){
+		setTimeout(resolve, time);
+	});
+}
+
+const COLOR = {
+	YELLOW: "\u001b[33m",
+	RESET: "\u001b[0m"
+}
 
 // local consts
 const inputFolder = "../scene/processed/";
@@ -85,17 +95,25 @@ fs.readdir(inputFolder, async function(err, files){
 		return;
 	}
 
+	console.log(`Scraping scenes for vocabulary...`);
 	for(let file of files){
 		console.log(`\t${file}`)
 		let sceneLines = [];
 		let text = fs.readFileSync(inputFolder+file, "utf8");
 		let lines = text.split("\r\n");
-		for(let line of lines){
+		for(let i=0;i<lines.length;i++){
+			let line = lines[i];
 			let split = line.split("\t");
 			let english = split[0];
 			let japanese = split[1];
 			let tokens = await mecabSync(japanese);
-			for(let token of tokens){
+			for(let j=0;j<tokens.length;j++){
+				let reconstructed = [];
+				for(let k=0;k<tokens.length;k++) {
+					if(k===j) reconstructed.push(`${COLOR.YELLOW}${tokens[k].word}${COLOR.RESET}`);
+					else reconstructed.push(tokens[k].word);
+				}
+				let token = tokens[j];
 				if(!token.root) continue; // fake words
 				if(lookupWords.contains(token.root)) continue; // ignore past searches
 				lookupWords.push(token.root);
@@ -106,46 +124,62 @@ fs.readdir(inputFolder, async function(err, files){
 				else if(tokenIsNaAdj(token)) spec = symbols.pos2.na_adj;
 				else if(tokenIsAdverb(token)) spec = symbols.pos.adverb;
 				else continue;
-				console.log("Disambiguate:");
-				console.log(`\tWord:\t\t${token.word} (spec: ${spec})`);
-				console.log(`\tEnglish:\t${english}`);
-				console.log(`\tJapanese:\t${japanese}`);
-				console.log("");
-				console.log("Options:");
 				let search = await lookupSync(`${token.root}/${spec}`);
+				console.log("\tDisambiguating...");
+				console.log(`\t\tEnglish:\t${english}`);
+				console.log(`\t\tJapanese:\t${reconstructed.join("")}`);
+				console.log(`\t\tWord:\t\t${token.word} (spec: ${spec})`);
+				console.log("");
 				if(search){
 					let json = __array(JSON.parse(search));
 					if(!json.length) {
-						console.log("No results.");
+						console.log("\t\tNo results.");
 						console.log("");
 						continue;
 					}
-					for(let i=0;i<json.length;i++){
-						let entry = json[i];
+
+					console.log("\t\tOptions");
+					console.log("\t\t-------")
+					for(let k=0;k<json.length;k++){
+						let entry = json[k];
 						let word = formatWord(entry);
 						let def = formatSense(entry);
 						let display = word.kanji ? `${word.kanji}[${word.kana}]` : word.kana;
-						console.log(`\t${i}) ${display} (${def.pos}) ${def.gloss}`);
+						console.log(`\t\t${k}) ${display} (${def.pos}) ${def.gloss}`);
 					}
 
-					let first = json[0];
-					if(wordsFound.contains(first.ent_seq)) { // ignore
-						console.log("Ignoring duplicate.");
+					console.log("\t\t-------");
+					let choice;
+					if(json.length === 1) {
+						console.log("\t\tAutomatically choosing first result.")
+						await sleep(500);
+						choice = json[0];
+					} else {
+						while(true){
+							process.stdout.write("\t\tYour choice: "); // add line without break
+							let input = await readLine(); // read line from stdin
+//							input = input.split("\r\n").unshift(); // get first line sent
+							let num = new Number(input); // convert to number
+							if(num<0 || num >= json.length) {
+								console.log(`\t\t${num} is out of bounds.`);
+								continue;
+							}
+
+							choice = json[num];
+							break;
+						}
+					}
+
+					if(wordsFound.contains(choice.ent_seq)) { // ignore
+						console.log("\t\tIgnoring duplicate.");
 						console.log("");
 						continue;
 					}
 
-					console.log("");
-					console.log("Automatically choosing first result.")
-					wordsFound.push(first.ent_seq);
-					let word = formatWord(first);
-					let def = formatSense(first);
+					wordsFound.push(choice.ent_seq);
+					let word = formatWord(choice);
+					let def = formatSense(choice);
 					sceneLines.push(`${word.kana}\t${word.kanji?word.kanji:""}\t${def.pos}\t${def.gloss}\t${english}\t${japanese}`)
-
-/*					console.log("\t* Press Enter to Skip *");
-					console.log("");
-					process.stdout.write("Make a choice: ");*/
-//					let choice = await readLine();
 					console.log("");
 				}
 			}
