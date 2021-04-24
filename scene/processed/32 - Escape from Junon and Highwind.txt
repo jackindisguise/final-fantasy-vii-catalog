@@ -225,237 +225,235 @@ Well…I'm glad you're safe.	ハァ……無事で良かったね
 I'm going to stay up here a little longer.	アタシ……もすこし、ここにいるから
 …Urk…I get sick on ships either in the air or water.	……ウップ……海でも空でも船はダメなんだよ、アタシ--
 I wonder where you're taking me?	どこへ連れていってくれるのかな？
-fship_4	ハイウインド
-Highwind	てめえ、飛空艇が使えるんなら最初っから言えよな！
-Dammit! Why didn't ya tell me you could fly an airship!?	オレはよ……TIFAともサヨナラかと思ったぜ
-I thought… TIFA was gone for good.	すんませんな～でも、敵をあざむくにはなんとやら、ですわ
-Sorry, but I had to do something to trick the enemy.	さ！　みなさん待ってますから！
-Come on! Everyone is waiting!	みんな！？みんないるのね！
-Everyone? Everyone's here?	おい！　CID！
-Yo, CID!	準備ができしだい【コレル魔晄炉】へ出発だ！急げよ、リーダーさん！
-When you're ready, we're headin' for the Corel Reactor. C'mon Leader-man, let's hurry.	CID……パシリ？
-CID????	……ウップ…………負けないぞォ
-…Urk… …I'm not down yet.	ハイウインド
-Highwind	す、すいません！一度CID艇長とお話を！
-Sorry!! Go speak to Captain CID!	TIFAさんごくろうさまです！
-TIFA, thank you for a job well done!	CIDさんごくろうさまです！
-CID, thank you for a job well done!	ごくろうさまです！手をはなせないので、このまま失礼します！
-My hands are full, so I'll excuse myself here!	飛空艇操作
-Fly Airship	雑談でも
-Chew the fat	【決定ボタン】　　　前へ進む
-[ASSIST] to move ahead	【キャンセルボタン】着陸
-[CANCEL] to land	【メニューボタン】　ブリッジを呼ぶ
-[MENU] to call the bridge	【方向キー　上】　　高度を下げる
-[Directional button:up] lower altitude	【方向キー　下】　　高度を上げる
-[Directional button:down]  raise altitude	【方向キー　左】　　左へ！
-[Directional button:left]  move left	【方向キー　右】　　右へ！
-[Directional button:right]  move right	【Ｌ１ボタン】　　　左へ！
-[PAGEUP] arc Left	【Ｒ１ボタン】　　　右へ！
-[PAGEDOWN] arc Right	【ＳＥＬＥＣＴ】　　地図ＯＮ／ＯＦＦ
-[ASSIST] toggle map	【ＳＴＡＲＴ】　　　地図ＯＮ／ＯＦＦ
-[START]  toggle map	だいたいこんなカンジになってますね。ビャーッと飛びたい時はブリッジのパイロットに話しかけて下さい
-So things have come to this… When you want to take off, just tell the pilot on the bridge.	…………えっとえっと、えっと、何話そうかな
-…Well… Um, what should I talk about?	あ、ボクたちの反乱の話をさせてください
-Wanna hear why we rebelled?	聞かせて
-Listen	聞きたくない
-Don't care	ボクたちハイウインドのクルーは毎日毎日ハイデッカーにコキ使われていました
-Working on the Highwind, we spent every day slaving under Heidegger.	あの人、社長にしかられるとすぐにクルーにやつあたりするんです
-Whenever he got yelled at by the President, he'd immediately take it out on the crew.	ボクたちは、ず～っとガマンしてました。なぐられてもなぐられても
-We put up with this all the time, even when he beat us.	あこがれのハイウインドのクルーになれたのにそんなことでやめるのは悔しいですからね
-I mean, I finally made it on the crew of the famous Highwind, and there's no way I was going to quit over him.	そんなある日……たしか、７日前でしたよね。北の大空洞行きの任務の時です
-Let's see, it must've been a week ago…it was my shift and we were heading towards the North Cave.	社長やスカーレット部長といっしょにみなさんが乗りこんできたわけです
-Everyone, including the President and Scarlet, got on.	その中に伝説のパイロットCIDさんの姿が！
-And with them, I saw CID, a legendary pilot!	CIDさんはなつかしそうに船内を見てまわってまして……
-And he was looking around the inside of the ship looking really, y'know, nostalgic…	なんとボクたちにも声をかけて下さったんです
-He even talked to us.	感激！　感激！　感激です。ウワサどおりの熱いハートの人でした
-I couldn't believe it! I was so impressed! He was every bit as warm-hearted as we'd always heard.	CIDさんはハイウインドがあれば旅が楽になるとおっしゃりました
-CID said that if he had the Highwind, things would be a lot easier.	なんと、星を救う旅だそうですね。ホント、感動しちゃいましたよ
-And now here we are off to save the Planet. It's true. He really overwhelmed me.	それで、ボクたちは協力することにしたんです
-And that's why we decided to help.	大空洞からジュノンに着いたときボクは火事だ火事だと騒ぎました
-After the North Cave, we went to Junon, and I started screaming 'Fire! Fire!'	そのどさくさにまぎれてCIDさんとボクたちは船を神羅から盗んだんです
-In the middle of all the commotion, we stole this ship from the Shinra.	これがボクたちの反乱の話です。……上司へのささやかな反乱ですけどね
-That's how it happened. Just a minor mutiny against our leaders.	でも、BARRETさん、TIFAさんがハイデッカーにつかまってしまって……
-But BARRET and you were captured by Heidegger…	７日間、救出のチャンスをうかがってついに実行に移しました
-We waited seven days for a chance to rescue you guys before we finally could.	ですから、TIFAさん……作戦成功、お会いできてうれしいです！
-So thanks to our successful mission, we were able to see you again.	長い話、聞いて下さってありがとうございました！
-I hope I didn't bore you too much with that long story.	あれっ？　CIDさんってば忘れちゃったんですか？あ、ボクが覚えてるかどうかテストしたんですね！
-Huh?  Don't you want to test my memory on how we met CID?	雑談なんてとんでもないです！ボク、ちゃんと仕事してますよ！
-I'm not just shooting the breeze! I'm also working!	あ、そうそう。チョコぼうは使ってますか？
-Oh, yeah, yeah. Are you using Chocobos?	チョコボをつんでどこかに運ぶだけなんですけどね
-I mean, just loading them up and transporting them.	この戦いが終わったらみなさん、どうするんですかね
-I wonder what everyone's going to do when this fight's over?	この船……ハイウインドはどうなってしまうんでしょうね……
-I wonder what's gonna happen to the Highwind?	つぎ、どこ行くの？はやく行こう？
-Where's the next stop? Can't you get there any quicker?	それでさ、アタシをパーティーにいれて船からおろしてよ、ね、CLOUD
-CLOUD, put me in your party, so I can get off this ship.	チェッ……
-Hmph!	どうしてこんな乗り物なんかあるんだよ……
-I wonder why anyone would ever make an airship like this…	はぁ……はぁ……
-Ugh…ugh…	なに？　どっかついた？
-What? Are we there?	強いウータイのためとはいえアタシ、つらいよ
-I know it's all for Wutai, But I can't take much more of this.	CLOUD……はぁ……うっぷ
-CLOUD…urp…ugh.	アタシ、考えたんだけどさ……フゥ……どうしてマテリアには魔法とか戦いの知識ばっかりなんだろうってさ
-You know, I was thinking…phew… Why does Materia always have something to do with battles or magic?	きっと、古代種ってのは戦ってばかりいたんだよ、きっと
-I bet the Ancients must've always been fighting.	大変……ウップ……だったんだろね
-It must've been…ugh…terrible…	CLOUD……につまってんの？
-Are you waiting for CLOUD?	空なんか……飛んでるからダメなんだよ
-He's flying right now, so you can't get him.	あ、今、アタシを潜水監に押しこもうって思った？
-Were you going to force me into the submarine right now?	それはヤメテ！行くんなら、アタシ、つれてかないで
-Quit it! If you want to go, then just leave me behind.	……うう。何言ってるんだ、アタシ……
-…ooooooh. What're you talking about? I…	パイロット……どんなやつ？
-What's the pilot like?	ゆらさないでくれたらあとでYUFFIEちゃんがサインしたげるって伝えて……
-Tell him YUFFIE says if he pilots the plane smoothly, I'll give him my autograph…	ミッドガル……行くの？
-Headed for…Midgar?	あ、アタシ、どこでもいい。早くおろして
-Uh, a, anywhere's fine…I don't care. Just hurry up and land this thing.	CLOUD……この書類にサインして
-CLOUD…sign this.	なんだ？
-What is it?	戦いが終わったら、マテリアはぜ～んぶ、YUFFIEさんのものです
-It's a contract that says when the war is over, all the Materia will belong to me.	そう書いてある書類。よく読んで、サイン、たのむよ
-It's all in there. Read it carefully and then sign it, all right?	……だめだ。書類は読まない
-Forget it, I'm not even gonna read it.	字を読むと気分が悪くなる。船酔いがひどくなるからな
-Whenever I read, I get airsick.	はぅ……
-Oh yeah?	それ、よくわかるから何も言えないよ……
-I'm the same way, so I can't say too much.	クソッ……作戦失敗。あとでRED XIII、からかって……ウサばらし、しちゃお
-Damn! My plan failed. Let's pick on RED XIII later to let off steam.	はぅ……
-Huh?	あんたにはわかんないだろ？この船酔い……乗り物酔いのつらさ……
-How would you even know? You don't know how tough it is…getting sick on boats and rides…	たのむから……ほっといて
-So, please…just leave me alone.	……よくわかるよ、YUFFIE。俺の乗り物酔いもスジガネ入りだ
-I really do understand, YUFFIE. When I get sick on a flight, it's a real killer.	自分がソルジャーだと思っていた時はすっかり忘れていたけどな
-When I was in SOLDIER, I completely forgot about my motion sickness.	おろ～……
-Oh…	ね、なんとか酔わない方法ってないのかな？
-Isn't there any way to prevent this?	俺の研究によると……
-Well, according to my research…	まず、緊張していると酔わないな
-First off, if you're nervous a lot, you won't get sick.	しかし、常に緊張しているわけにもいかない
-But you can't always be nervous.	こういう広い場所がある乗り物では動き回るのが良い方法だ
-With this much space, your best bet is to move around while you're riding.	その場で身体を動かすのもいいだろうな
-It also might be a good idea to stretch sometimes, too.	でも、兵士はトラックでの移動が多かったからな
-But in SOLDIER, we spent a lot of time in trucks.	あれは最悪だった……
-That sucked!	ああ、それから絶対に乗り物の中でしてはいけないことがある
-And there's one thing you mustn't do when riding.	それは……
-And that is…	字を読むこと！
+Highwind	ハイウインド
+Dammit! Why didn't ya tell me you could fly an airship!?	てめえ、飛空艇が使えるんなら最初っから言えよな！
+I thought… TIFA was gone for good.	オレはよ……TIFAともサヨナラかと思ったぜ
+Sorry, but I had to do something to trick the enemy.	すんませんな～でも、敵をあざむくにはなんとやら、ですわ
+Come on! Everyone is waiting!	さ！　みなさん待ってますから！
+Everyone? Everyone's here?	みんな！？みんないるのね！
+Yo, CID!	おい！　CID！
+When you're ready, we're headin' for the Corel Reactor. C'mon Leader-man, let's hurry.	準備ができしだい【コレル魔晄炉】へ出発だ！急げよ、リーダーさん！
+CID????	CID……パシリ？
+…Urk… …I'm not down yet.	……ウップ…………負けないぞォ
+Highwind	ハイウインド
+Sorry!! Go speak to Captain CID!	す、すいません！一度CID艇長とお話を！
+TIFA, thank you for a job well done!	TIFAさんごくろうさまです！
+CID, thank you for a job well done!	CIDさんごくろうさまです！
+My hands are full, so I'll excuse myself here!	ごくろうさまです！手をはなせないので、このまま失礼します！
+Fly Airship	飛空艇操作
+Chew the fat	雑談でも
+[ASSIST] to move ahead	【決定ボタン】　　　前へ進む
+[CANCEL] to land	【キャンセルボタン】着陸
+[MENU] to call the bridge	【メニューボタン】　ブリッジを呼ぶ
+[Directional button:up] lower altitude	【方向キー　上】　　高度を下げる
+[Directional button:down]  raise altitude	【方向キー　下】　　高度を上げる
+[Directional button:left]  move left	【方向キー　左】　　左へ！
+[Directional button:right]  move right	【方向キー　右】　　右へ！
+[PAGEUP] arc Left	【Ｌ１ボタン】　　　左へ！
+[PAGEDOWN] arc Right	【Ｒ１ボタン】　　　右へ！
+[ASSIST] toggle map	【ＳＥＬＥＣＴ】　　地図ＯＮ／ＯＦＦ
+[START]  toggle map	【ＳＴＡＲＴ】　　　地図ＯＮ／ＯＦＦ
+So things have come to this… When you want to take off, just tell the pilot on the bridge.	だいたいこんなカンジになってますね。ビャーッと飛びたい時はブリッジのパイロットに話しかけて下さい
+…Well… Um, what should I talk about?	…………えっとえっと、えっと、何話そうかな
+Wanna hear why we rebelled?	あ、ボクたちの反乱の話をさせてください
+Listen	聞かせて
+Don't care	聞きたくない
+Working on the Highwind, we spent every day slaving under Heidegger.	ボクたちハイウインドのクルーは毎日毎日ハイデッカーにコキ使われていました
+Whenever he got yelled at by the President, he'd immediately take it out on the crew.	あの人、社長にしかられるとすぐにクルーにやつあたりするんです
+We put up with this all the time, even when he beat us.	ボクたちは、ず～っとガマンしてました。なぐられてもなぐられても
+I mean, I finally made it on the crew of the famous Highwind, and there's no way I was going to quit over him.	あこがれのハイウインドのクルーになれたのにそんなことでやめるのは悔しいですからね
+Let's see, it must've been a week ago…it was my shift and we were heading towards the North Cave.	そんなある日……たしか、７日前でしたよね。北の大空洞行きの任務の時です
+Everyone, including the President and Scarlet, got on.	社長やスカーレット部長といっしょにみなさんが乗りこんできたわけです
+And with them, I saw CID, a legendary pilot!	その中に伝説のパイロットCIDさんの姿が！
+And he was looking around the inside of the ship looking really, y'know, nostalgic…	CIDさんはなつかしそうに船内を見てまわってまして……
+He even talked to us.	なんとボクたちにも声をかけて下さったんです
+I couldn't believe it! I was so impressed! He was every bit as warm-hearted as we'd always heard.	感激！　感激！　感激です。ウワサどおりの熱いハートの人でした
+CID said that if he had the Highwind, things would be a lot easier.	CIDさんはハイウインドがあれば旅が楽になるとおっしゃりました
+And now here we are off to save the Planet. It's true. He really overwhelmed me.	なんと、星を救う旅だそうですね。ホント、感動しちゃいましたよ
+And that's why we decided to help.	それで、ボクたちは協力することにしたんです
+After the North Cave, we went to Junon, and I started screaming 'Fire! Fire!'	大空洞からジュノンに着いたときボクは火事だ火事だと騒ぎました
+In the middle of all the commotion, we stole this ship from the Shinra.	そのどさくさにまぎれてCIDさんとボクたちは船を神羅から盗んだんです
+That's how it happened. Just a minor mutiny against our leaders.	これがボクたちの反乱の話です。……上司へのささやかな反乱ですけどね
+But BARRET and you were captured by Heidegger…	でも、BARRETさん、TIFAさんがハイデッカーにつかまってしまって……
+We waited seven days for a chance to rescue you guys before we finally could.	７日間、救出のチャンスをうかがってついに実行に移しました
+So thanks to our successful mission, we were able to see you again.	ですから、TIFAさん……作戦成功、お会いできてうれしいです！
+I hope I didn't bore you too much with that long story.	長い話、聞いて下さってありがとうございました！
+Huh?  Don't you want to test my memory on how we met CID?	あれっ？　CIDさんってば忘れちゃったんですか？あ、ボクが覚えてるかどうかテストしたんですね！
+I'm not just shooting the breeze! I'm also working!	雑談なんてとんでもないです！ボク、ちゃんと仕事してますよ！
+Oh, yeah, yeah. Are you using Chocobos?	あ、そうそう。チョコぼうは使ってますか？
+I mean, just loading them up and transporting them.	チョコボをつんでどこかに運ぶだけなんですけどね
+I wonder what everyone's going to do when this fight's over?	この戦いが終わったらみなさん、どうするんですかね
+I wonder what's gonna happen to the Highwind?	この船……ハイウインドはどうなってしまうんでしょうね……
+Where's the next stop? Can't you get there any quicker?	つぎ、どこ行くの？はやく行こう？
+CLOUD, put me in your party, so I can get off this ship.	それでさ、アタシをパーティーにいれて船からおろしてよ、ね、CLOUD
+Hmph!	チェッ……
+I wonder why anyone would ever make an airship like this…	どうしてこんな乗り物なんかあるんだよ……
+Ugh…ugh…	はぁ……はぁ……
+What? Are we there?	なに？　どっかついた？
+I know it's all for Wutai, But I can't take much more of this.	強いウータイのためとはいえアタシ、つらいよ
+CLOUD…urp…ugh.	CLOUD……はぁ……うっぷ
+You know, I was thinking…phew… Why does Materia always have something to do with battles or magic?	アタシ、考えたんだけどさ……フゥ……どうしてマテリアには魔法とか戦いの知識ばっかりなんだろうってさ
+I bet the Ancients must've always been fighting.	きっと、古代種ってのは戦ってばかりいたんだよ、きっと
+It must've been…ugh…terrible…	大変……ウップ……だったんだろね
+Are you waiting for CLOUD?	CLOUD……につまってんの？
+He's flying right now, so you can't get him.	空なんか……飛んでるからダメなんだよ
+Were you going to force me into the submarine right now?	あ、今、アタシを潜水監に押しこもうって思った？
+Quit it! If you want to go, then just leave me behind.	それはヤメテ！行くんなら、アタシ、つれてかないで
+…ooooooh. What're you talking about? I…	……うう。何言ってるんだ、アタシ……
+What's the pilot like?	パイロット……どんなやつ？
+Tell him YUFFIE says if he pilots the plane smoothly, I'll give him my autograph…	ゆらさないでくれたらあとでYUFFIEちゃんがサインしたげるって伝えて……
+Headed for…Midgar?	ミッドガル……行くの？
+Uh, a, anywhere's fine…I don't care. Just hurry up and land this thing.	あ、アタシ、どこでもいい。早くおろして
+CLOUD…sign this.	CLOUD……この書類にサインして
+What is it?	なんだ？
+It's a contract that says when the war is over, all the Materia will belong to me.	戦いが終わったら、マテリアはぜ～んぶ、YUFFIEさんのものです
+It's all in there. Read it carefully and then sign it, all right?	そう書いてある書類。よく読んで、サイン、たのむよ
+Forget it, I'm not even gonna read it.	……だめだ。書類は読まない
+Whenever I read, I get airsick.	字を読むと気分が悪くなる。船酔いがひどくなるからな
+Oh yeah?	はぅ……
+I'm the same way, so I can't say too much.	それ、よくわかるから何も言えないよ……
+Damn! My plan failed. Let's pick on RED XIII later to let off steam.	クソッ……作戦失敗。あとでRED XIII、からかって……ウサばらし、しちゃお
+Huh?	はぅ……
+How would you even know? You don't know how tough it is…getting sick on boats and rides…	あんたにはわかんないだろ？この船酔い……乗り物酔いのつらさ……
+So, please…just leave me alone.	たのむから……ほっといて
+I really do understand, YUFFIE. When I get sick on a flight, it's a real killer.	……よくわかるよ、YUFFIE。俺の乗り物酔いもスジガネ入りだ
+When I was in SOLDIER, I completely forgot about my motion sickness.	自分がソルジャーだと思っていた時はすっかり忘れていたけどな
+Oh…	おろ～……
+Isn't there any way to prevent this?	ね、なんとか酔わない方法ってないのかな？
+Well, according to my research…	俺の研究によると……
+First off, if you're nervous a lot, you won't get sick.	まず、緊張していると酔わないな
+But you can't always be nervous.	しかし、常に緊張しているわけにもいかない
+With this much space, your best bet is to move around while you're riding.	こういう広い場所がある乗り物では動き回るのが良い方法だ
+It also might be a good idea to stretch sometimes, too.	その場で身体を動かすのもいいだろうな
+But in SOLDIER, we spent a lot of time in trucks.	でも、兵士はトラックでの移動が多かったからな
+That sucked!	あれは最悪だった……
+And there's one thing you mustn't do when riding.	ああ、それから絶対に乗り物の中でしてはいけないことがある
+And that is…	それは……
 Read!	字を読むこと！
-Read!	まあ、一度酔ってしまったら何をやってもどうしようもない……
-Once you get sick, there's nothing anyone can do.	つらいところだよな……
-I know it's tough…	あ、でも仲間がいるからちょっとだけ、元気でたよ
-…So you’re a little better off than me.	気分は……はぅ……だけどね
-But I don't feel…well.	ハイウインド
-Highwind	良いチョコボですね～
-That's a good Chocobo.	さびしいです……チョコボのせてください……
-I'm bored… I want to ride a Chocobo.	どうやって？
-How do I?	そのうちに
-Later	はぁ……
-Whew…	はい、それはですね自分で育てたチョコボにのったままハイウインドにのりこむんです
-Listen…you gotta ride in on a Chocobo you've raised yourself.	そうすれば、このチョコぼうにチョコボが入ってくるんです。はい、世話は私におまかせください
-Then, if you bring your Chocobo to this stable, you can let it rest here.	え？　チョコボの育て方？う～ん、それは私もよく知りません
-I'll take care of it for you.	チョコボ育てのことならミッドガル近くの【グリン＆グリングリン牧場】で話を聞けばＯＫだと思いますよ
-What? How do you raise a Chocobo? Can't say I know much about that.	とりあえずワールドマップへ
-If you want to know about raising Chocobo, there's a Chocobo ranch near Midgar. You should ask them.	いくです
-Anyhow,	いかないです
-I'm going to the World Map	ハイウインド
-I'm not goin'	ようこそ、オレ様の飛空艇ハイウインドへ！
-Highwind	どうしたい！もちっと感激しろい！
-Welcome to my airship-the Highwind!	CID……
-What's wrong!? You should be more excited than that!	おう……
-CID…	メンバー……足りないね
-Yeah…	CLOUDがいないとダメかい？
-Not enough crew.	オイラたちだけじゃ星を救えないのかな？
-Do you think we aren't strong enough without CLOUD?	メテオがせまってきてウェポンが暴れていて……
-Do you think we can't save the Planet alone?	そんな時に何をすればいいのかなんて私にはわからない……
-Meteor is coming, and Weapon is on the rampage…	もう、わからない……
-At a time like this, I don't know what I'm supposed to do.	何言ってんだ、TIFA！いっしょに考えようぜ！
-No idea at all…	オレたちが乗っちまった列車は途中下車はできねえぜ！
-Get a hold of yourself, TIFA! C'mon, let's think about this!	……CLOUDがいれば全部解決するような気がする
-No way we can get offa this train we're on!	CLOUDがね……
-If only CLOUD was here, everything would be fine.	いつもそうしていたみたいにちょっと気取ったポーズで言ってくれるの
-CLOUD would…	だいじょうぶだよ、TIFAって
-…stand that cocky little way he did, and tell us what to do.	TIFA！　いつからそんなに弱い女になったんだよ！
-He'd say, 'Everything's under control, TIFA.'	ゴメン、BARRET
-TIFA! When'd you become such a wimp!	私もちょっとびっくり。がっかりだね
-I'm sorry, BARRET.	それにTIFA……オイラたちがCLOUDだと思ってたのは……
-I'm so depressed, I'm surprised at myself.	……わかってる
-And TIFA…the reason why we all thought it was CLOUD was because…	だから確かめたいの。もう一度会いたいの
-I know.	オレ様はアイツのことはキライじゃなかったぜ
-That's why I want to make sure. That's why I have to see him again.	変なヤツだったけどな
-I want you to know I didn't dislike him.	カッコつけてるかと思えば間の抜けたこともする
-I gotta admit he was a strange dude.	やたら物知りなヤツだと思えばあたりまえのことも知らない
-Just when you thought he was cool, he'd do some damn fool thing.	動き方も話し方もなんかチグハグなんだよな
-Then when you thought he was smart, he'd show how stupid he was.	今にして思えばああ、なるほどってやつだけどよ
-Everything about him from his movements to his speech were kinda odd.	ま、生きてりゃそのうち会えるさ。元気だせ、ネエちゃん
-Knowin' what I do now, I can see why he was that way.	……会えるよね
-Well, as long as you stay alive, you just might see him again someday. So cheer up, sis.	ツンツン頭のい場所さえわかればこのハイウインドでひとっ飛びよ
-…I'll be able to see him someday.	……もしかしたら
-If we can find out where he is, the Highwind'll get us there in no time.	北のクレーターの奥底で地面がくずれてCLOUDはそのまま……
-Maybe…	さらに地中の奥深く……
-CLOUD is still stuck deep in the North Crater, where the ground cracked and swallowed him up…	地中の奥深く……ライフストリーム？
-Buried in the depths of the underground…	そのライフストリームが海底スレスレを通っていてときどき地上に吹き出す
-Deep within the earth…are you talking about the Lifestream?	そんな場所があるって話を聞いたことがあるんだ
-The Lifestream sometimes gushes out from cracks in the ocean floor to the surface.	もし、もし、もしかしたらCLOUDも……
-I heard about such a place.	見習いパイロット（ＬＶ３）
-Maybe, just maybe CLOUD's…	あわわわわ！話しかけないでくださいっ！
-Pilot in training (LV3)	しっかりしろい！
-Yaaaaahh! Don't talk to me right now!	見習いパイロット（ＬＶ３）
-Get a hold of yourself!	あわわわわ！CID艇長～！
-Pilot in training (LV3)	ネエちゃん、すまねえがオレ様はコイツに着陸の仕方をしこまなくちゃなんねえんだ
-Waaaaah! Captain CID!	な～に、すぐに終わっからよ
-TIFA, sorry, but I've gotta show this moron how to land the ship.	そうだ、ネエちゃん
-Don't worry, it'll be done in a minute.	ま、目的はなんにせよ準備が必要だろ？
-Oh, and TIFA…	ＯＰＥＲＡＴＩＯＮって部屋でちょこっと準備してこいよ
-No matter what your goal is, you've got to be prepared.	ＯＰＥＲＡＴＩＯＮって部屋にいろいろ用意してあっからよちょこっと準備してこいよ
-Go to the Operation room and get ready.	おっし！ガーッと飛びたいときはよこいつに指示してやってくれ
-I put a lot of things for you in the Operation room, so go get ready.	見習いパイロット（ＬＶ４）
-OK! You just signal when you're ready to fly full speed.	あわわわ！　いくですか？ いく いかない 見習いパイロット（ＬＶ４）
-Pilot in training (LV4)	あわわわ！　いくで～す！
-Eagggghh! Are we going?	ま、人生いろいろだ～なぁ
-We're going	さ～て、どうするよっ！オレたちに出来ることはなんだ？
-We're staying put	ん～っ？なんかねえのか？
-Pilot in training (LV4)	Cloudの回復を待つなんてのはナシにしてくれよな
-Eagggggh! We're off!	あの～、情報あるんですけど
-Well, it takes all kinds.	おう！　逆スパイか？
-What're we gonna do now! What can WE do?	はぁ……もう、開きなおりましたわ
-Huh? Ain't there nothin' we can do?	ガハハハとキャハハのふたりがなんや、やらかすようです
-An' don' go tellin' us to wait for CLOUD to get better.	盗み聞きでも、しましょか
-Oh, I've got some news.	会議室
-Yeah, what!? That you a spy?	ルーファウス
-Yeah… I've already told you I was.	さて……我々はふたつの課題を抱えている
-Both Gya ha ha and Kya ha ha are up to something.	１　メテオの破壊２　北の大空洞のバリアを取り除きセフィロスを倒す　　　　　　
-Wanna eavesdrop?	何か作戦は？
-Conference Room	ルーファウス
-Rufus	ほう……
-Now then… We're faced with two issues.	ルーファウス
-1 Destroy Meteor. 2 Remove the barrier around North Cave and defeat Sephiroth.	メテオにぶつける？我々の技術で可能なのか？
-Any ideas?	ガハハハハハ！すでに最初の課題はクリアも同然！
-Rufus	メテオはまもなくコッパミジンですな！
-What?	そのための作戦はすでに実行に移しておるのです。それは各地のヒュージマテリアの回収なのです
-Rufus	ガハハハハハ！
-You're going to ram Meteor?	ハイデッカー
-Do you think we have the technology to do it?	すでにニブルヘイムは回収終了。残るはコレルとコンドルフォート
-Heidegger	コレルにはすでに軍隊を向かわせております
-Gya haah hah hah! The first problem's already solved!	スカーレット
-Meteor will soon be smashed to bits!	ヒュージマテリアは魔晄炉内で圧縮されて生成される高度に集積された特別なマテリア
-The plan is already in motion. We are collecting Huge Materia from each region.	そこから引き出されるエネルギーは通常のマテリアの３３０超倍！
-Gyaa haa ha ha!	キャハハハ！すごいでしょ！
-Heidegger	そのヒュージマテリアを一同に集めてメテオにぶつけるの
-We've already collected Materia from Nibelheim.	そりゃあもう大爆発！！メテオなんか文字どおり打ちくだいちゃうってわけよ
-All that's left are Corel and Fort Condor.	スカーレット
-I've already dispatched troops to Corel.	それはご心配なく！
-Scarlet	それよりも、まずは各地のヒュージマテリアを回収すること
-Huge Materia is a high-density, special type of Materia made through a special compression process in Mako reactors.	……それでここへ来たんです。CLOUD……CLOUDは……
-The energy extracted from it is 330 times the strength of normal Materia.	ブーゲンハーゲン
-Kya, ha, ha! How about that!?	……そうか。CLOUDが……
-We will gather all the Huge Materia together and ram it into Meteor.	たしかにライフストリームが集まっている場所は世界にいくつかある
-That will cause a huge explosion, reducing Meteor literally to bits!!	ただそのほとんどははるか地の底で、とても人間の手のとどく場所ではないんじゃ
-Scarlet	ただひとつ例外は……ずーっと　【南の海にうかぶ島】　が……あるとかないとか……
-First things first!	なんて言ったかの。もう何年もここから出とらんから……ダメじゃ、思いだせん
-Right now, we've got to collect Huge Materia from each area.	ブーゲンハーゲン
-That's why we're here… CLOUD… CLOUD has…	ずーっと　【南の海】　にライフストリームの集まる島があるとかないとか……
-Bugenhagen	しかしの……もしそこでCLOUDが見つかったとしても……
-I see… CLOUD has…	ライフストリームはいわば精神エネルギーのかたまり
-It's true that there are several places on the planet where the Lifestream is gathered.	言いにくいことじゃがひとりの人間の精神がそのすさまじい流れにたえられるとは、とても……
-But most of those places are below the surface where humans cannot reach them.	ブーゲンハーゲン
-There's only one place An island in the Southern Sea… 	ナナキとあんたたちの話をきいておると、わしまで若くなったような気がするよ
-What did you say? I haven't left here in years… No good. I can't remember.	ホーホーホウ。こんな時にヒニクなことじゃが、な
-Bugenhagen	undefined
-In the Southern Seas I think there was an island where the Lifestream is.	undefined
-But even if you find CLOUD there…	undefined
-The Lifestream is a mass of spiritual energy,	undefined
-and one person alone couldn't stand against such an incredible spiritual current…	undefined
-Bugenhagen	undefined
-Listening to you and Nanaki speak has made me feel young again.	undefined
-Ho Ho Hoooo. Might sound a little sarcastic.	undefined
+Read!	字を読むこと！
+Once you get sick, there's nothing anyone can do.	まあ、一度酔ってしまったら何をやってもどうしようもない……
+I know it's tough…	つらいところだよな……
+…So you’re a little better off than me.	あ、でも仲間がいるからちょっとだけ、元気でたよ
+But I don't feel…well.	気分は……はぅ……だけどね
+Highwind	ハイウインド
+That's a good Chocobo.	良いチョコボですね～
+I'm bored… I want to ride a Chocobo.	さびしいです……チョコボのせてください……
+How do I?	どうやって？
+Later	そのうちに
+Whew…	はぁ……
+Listen…you gotta ride in on a Chocobo you've raised yourself.	はい、それはですね自分で育てたチョコボにのったままハイウインドにのりこむんです
+Then, if you bring your Chocobo to this stable, you can let it rest here.	そうすれば、このチョコぼうにチョコボが入ってくるんです。
+I'll take care of it for you.	はい、世話は私におまかせください
+What? How do you raise a Chocobo? Can't say I know much about that.	え？　チョコボの育て方？う～ん、それは私もよく知りません
+If you want to know about raising Chocobo, there's a Chocobo ranch near Midgar. You should ask them.	チョコボ育てのことならミッドガル近くの【グリン＆グリングリン牧場】で話を聞けばＯＫだと思いますよ
+Anyhow, to the world map...	とりあえずワールドマップへ
+I'm going.	いくです
+I'm not goin'.	いかないです
+Highwind	ハイウインド
+Welcome to my airship-the Highwind!	ようこそ、オレ様の飛空艇ハイウインドへ！
+What's wrong!? You should be more excited than that!	どうしたい！もちっと感激しろい！
+CID…	CID……
+Yeah…	おう……
+Not enough crew.	メンバー……足りないね
+Do you think we aren't strong enough without CLOUD?	CLOUDがいないとダメかい？
+Do you think we can't save the Planet alone?	オイラたちだけじゃ星を救えないのかな？
+Meteor is coming, and Weapon is on the rampage…	メテオがせまってきてウェポンが暴れていて……
+At a time like this, I don't know what I'm supposed to do.	そんな時に何をすればいいのかなんて私にはわからない……
+No idea at all…	もう、わからない……
+Get a hold of yourself, TIFA! C'mon, let's think about this!	何言ってんだ、TIFA！いっしょに考えようぜ！
+No way we can get offa this train we're on!	オレたちが乗っちまった列車は途中下車はできねえぜ！
+If only CLOUD was here, everything would be fine.	……CLOUDがいれば全部解決するような気がする
+CLOUD would…	CLOUDがね……
+…stand that cocky little way he did, and tell us what to do.	いつもそうしていたみたいにちょっと気取ったポーズで言ってくれるの
+He'd say, 'Everything's under control, TIFA.'	だいじょうぶだよ、TIFAって
+TIFA! When'd you become such a wimp!	TIFA！　いつからそんなに弱い女になったんだよ！
+I'm sorry, BARRET.	ゴメン、BARRET
+I'm so depressed, I'm surprised at myself.	私もちょっとびっくり。がっかりだね
+And TIFA…the reason why we all thought it was CLOUD was because…	それにTIFA……オイラたちがCLOUDだと思ってたのは……
+I know.	……わかってる
+That's why I want to make sure. That's why I have to see him again.	だから確かめたいの。もう一度会いたいの
+I want you to know I didn't dislike him.	オレ様はアイツのことはキライじゃなかったぜ
+I gotta admit he was a strange dude.	変なヤツだったけどな
+Just when you thought he was cool, he'd do some damn fool thing.	カッコつけてるかと思えば間の抜けたこともする
+Then when you thought he was smart, he'd show how stupid he was.	やたら物知りなヤツだと思えばあたりまえのことも知らない
+Everything about him from his movements to his speech were kinda odd.	動き方も話し方もなんかチグハグなんだよな
+Knowin' what I do now, I can see why he was that way.	今にして思えばああ、なるほどってやつだけどよ
+Well, as long as you stay alive, you just might see him again someday. So cheer up, sis.	ま、生きてりゃそのうち会えるさ。元気だせ、ネエちゃん
+…I'll be able to see him someday.	……会えるよね
+If we can find out where he is, the Highwind'll get us there in no time.	ツンツン頭のい場所さえわかればこのハイウインドでひとっ飛びよ
+Maybe…	……もしかしたら
+CLOUD is still stuck deep in the North Crater, where the ground cracked and swallowed him up…	北のクレーターの奥底で地面がくずれてCLOUDはそのまま……
+Buried in the depths of the underground…	さらに地中の奥深く……
+Deep within the earth…are you talking about the Lifestream?	地中の奥深く……ライフストリーム？
+The Lifestream sometimes gushes out from cracks in the ocean floor to the surface.	そのライフストリームが海底スレスレを通っていてときどき地上に吹き出す
+I heard about such a place.	そんな場所があるって話を聞いたことがあるんだ
+Maybe, just maybe CLOUD's…	もし、もし、もしかしたらCLOUDも……
+Pilot in training (LV3)	見習いパイロット（ＬＶ３）
+Yaaaaahh! Don't talk to me right now!	あわわわわ！話しかけないでくださいっ！
+Get a hold of yourself!	しっかりしろい！
+Pilot in training (LV3)	見習いパイロット（ＬＶ３）
+Waaaaah! Captain CID!	あわわわわ！CID艇長～！
+TIFA, sorry, but I've gotta show this moron how to land the ship.	ネエちゃん、すまねえがオレ様はコイツに着陸の仕方をしこまなくちゃなんねえんだ
+Don't worry, it'll be done in a minute.	な～に、すぐに終わっからよ
+Oh, and TIFA…	そうだ、ネエちゃん
+No matter what your goal is, you've got to be prepared.	ま、目的はなんにせよ準備が必要だろ？
+Go to the Operation room and get ready.	ＯＰＥＲＡＴＩＯＮって部屋でちょこっと準備してこいよ
+I put a lot of things for you in the Operation room, so go get ready.	ＯＰＥＲＡＴＩＯＮって部屋にいろいろ用意してあっからよちょこっと準備してこいよ
+OK! You just signal when you're ready to fly full speed.	おっし！ガーッと飛びたいときはよこいつに指示してやってくれ
+Pilot in training (LV4)	見習いパイロット（ＬＶ４）
+Eagggghh! Are we going?	あわわわ！　いくですか？
+We're going	いく
+We're staying put	いかない
+Pilot in training (LV4)	見習いパイロット（ＬＶ４）
+Eagggggh! We're off!	あわわわ！　いくで～す！
+Well, it takes all kinds.	ま、人生いろいろだ～なぁ
+What're we gonna do now! What can WE do?	さ～て、どうするよっ！オレたちに出来ることはなんだ？
+Huh? Ain't there nothin' we can do?	ん～っ？なんかねえのか？
+An' don' go tellin' us to wait for CLOUD to get better.	Cloudの回復を待つなんてのはナシにしてくれよな
+Oh, I've got some news.	あの～、情報あるんですけど
+Yeah, what!? That you a spy?	おう！　逆スパイか？
+Yeah… I've already told you I was.	はぁ……もう、開きなおりましたわ
+Both Gya ha ha and Kya ha ha are up to something.	ガハハハとキャハハのふたりがなんや、やらかすようです
+Wanna eavesdrop?	盗み聞きでも、しましょか
+Conference Room	会議室
+Rufus	ルーファウス
+Now then… We're faced with two issues.	さて……我々はふたつの課題を抱えている
+1 Destroy Meteor. 2 Remove the barrier around North Cave and defeat Sephiroth.	１　メテオの破壊２　北の大空洞のバリアを取り除きセフィロスを倒す　　　　　　
+Any ideas?	何か作戦は？
+Rufus	ルーファウス
+What?	ほう……
+Rufus	ルーファウス
+You're going to ram Meteor?	メテオにぶつける？
+Do you think we have the technology to do it?	我々の技術で可能なのか？
+Heidegger	ハイデッカー
+Gya haah hah hah! The first problem's already solved!	ガハハハハハ！すでに最初の課題はクリアも同然！
+Meteor will soon be smashed to bits!	メテオはまもなくコッパミジンですな！
+The plan is already in motion. We are collecting Huge Materia from each region.	そのための作戦はすでに実行に移しておるのです。それは各地のヒュージマテリアの回収なのです
+Gyaa haa ha ha!	ガハハハハハ！
+Heidegger	ハイデッカー
+We've already collected Materia from Nibelheim. All that's left are Corel and Fort Condor.	すでにニブルヘイムは回収終了。残るはコレルとコンドルフォート
+I've already dispatched troops to Corel.	コレルにはすでに軍隊を向かわせております
+Scarlet	スカーレット
+Huge Materia is a high-density, special type of Materia made through a special compression process in Mako reactors.	ヒュージマテリアは魔晄炉内で圧縮されて生成される高度に集積された特別なマテリア
+The energy extracted from it is 330 times the strength of normal Materia.	そこから引き出されるエネルギーは通常のマテリアの３３０超倍！
+Kya, ha, ha! How about that!?	キャハハハ！すごいでしょ！
+We will gather all the Huge Materia together and ram it into Meteor.	そのヒュージマテリアを一同に集めてメテオにぶつけるの
+That will cause a huge explosion, reducing Meteor literally to bits!!	そりゃあもう大爆発！！メテオなんか文字どおり打ちくだいちゃうってわけよ
+Scarlet	スカーレット
+First things first!	それはご心配なく！
+Right now, we've got to collect Huge Materia from each area.	それよりも、まずは各地のヒュージマテリアを回収すること
+That's why we're here… CLOUD… CLOUD has…	……それでここへ来たんです。CLOUD……CLOUDは……
+Bugenhagen	ブーゲンハーゲン
+I see… CLOUD has…	……そうか。CLOUDが……
+It's true that there are several places on the planet where the Lifestream is gathered.	たしかにライフストリームが集まっている場所は世界にいくつかある
+But most of those places are below the surface where humans cannot reach them.	ただそのほとんどははるか地の底で、とても人間の手のとどく場所ではないんじゃ
+There's only one place An island in the Southern Sea… 	ただひとつ例外は……ずーっと　【南の海にうかぶ島】　が……あるとかないとか……
+What did you say? I haven't left here in years… No good. I can't remember.	なんて言ったかの。もう何年もここから出とらんから……ダメじゃ、思いだせん
+Bugenhagen	ブーゲンハーゲン
+In the Southern Seas I think there was an island where the Lifestream is.	ずーっと　【南の海】　にライフストリームの集まる島があるとかないとか……
+But even if you find CLOUD there…	しかしの……もしそこでCLOUDが見つかったとしても……
+The Lifestream is a mass of spiritual energy,	ライフストリームはいわば精神エネルギーのかたまり
+and one person alone couldn't stand against such an incredible spiritual current…	言いにくいことじゃがひとりの人間の精神がそのすさまじい流れにたえられるとは、とても……
+Bugenhagen	ブーゲンハーゲン
+Listening to you and Nanaki speak has made me feel young again.	ナナキとあんたたちの話をきいておると、わしまで若くなったような気がするよ
+Ho Ho Hoooo. Might sound a little sarcastic.	ホーホーホウ。こんな時にヒニクなことじゃが、な

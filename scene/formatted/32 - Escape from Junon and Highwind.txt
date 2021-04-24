@@ -405,7 +405,6 @@ YUFFIE	YUFFIE
 “…Urk…I get sick on ships	「……ウップ……海でも空でも
 either in the air or water.”	船はダメなんだよ、アタシ」--
 “I wonder where you're taking me?”	どこへ連れていってくれるのかな？
-fship_4	
 Highwind	ハイウインド
 	
 	
@@ -656,17 +655,17 @@ Later	そのうちに
 Chocobo you've raised yourself.”	自分で育てたチョコボにのったまま
 	ハイウインドにのりこむんです」
 “Then, if you bring your Chocobo to	「そうすれば、このチョコぼうに
-this stable, you can let it rest	チョコボが入ってくるんです。
+this stable, you can let it rest	チョコボが入ってくるんです。」
 here.”	
-“I'll take care of it for you.”	はい、世話は私におまかせください」
+“I'll take care of it for you.”	「はい、世話は私におまかせください」
 “What? How do you raise a Chocobo?	「え？　チョコボの育て方？
 Can't say I know much about that.”	う～ん、それは私もよく知りません」
 “If you want to know about raising Chocobo,	「チョコボ育てのことなら
 there's a Chocobo ranch near Midgar.	ミッドガル近くの【グリン＆グリングリン牧場】で
 You should ask them.”	話を聞けばＯＫだと思いますよ」
-Anyhow,	「とりあえずワールドマップへ」
-I'm going to the World Map	いくです
-I'm not goin'	いかないです
+Anyhow, to the world map...	「とりあえずワールドマップへ」
+I'm going.	いくです
+I'm not goin'.	いかないです
 Highwind	ハイウインド
 CID	CID
 “Welcome to my airship-the Highwind!”	「ようこそ、オレ様の飛空艇
@@ -795,7 +794,7 @@ CID	CID
 You just signal when you're	ガーッと飛びたいときはよ
 ready to fly full speed.”	こいつに指示してやってくれ」
 Pilot in training (LV4)	見習いパイロット（ＬＶ４）
-“Eagggghh! Are we going?”	「あわわわ！　いくですか？
+“Eagggghh! Are we going?”	「あわわわ！　いくですか？」
 We're going	いく
 We're staying put	いかない
 Pilot in training (LV4)	見習いパイロット（ＬＶ４）
@@ -833,9 +832,9 @@ Rufus	ルーファウス
 “What?”	「ほう……」
 Rufus	ルーファウス
 “You're going to ram Meteor?”	「メテオにぶつける？
-“Do you think	我々の技術で可能なのか？」
+“Do you think	「我々の技術で可能なのか？」
 we have the technology to do it?”	
-Heidegger	
+Heidegger	ハイデッカー
 “Gya haah hah hah!	「ガハハハハハ！
 The first problem's already solved!”	すでに最初の課題はクリアも同然！」
 “Meteor will soon be	「メテオはまもなくコッパミジンですな！」
@@ -846,11 +845,11 @@ from each region.”
 “Gyaa haa ha ha!”	「ガハハハハハ！」
 Heidegger	ハイデッカー
 “We've already collected	「すでにニブルヘイムは回収終了。
-Materia from Nibelheim.”	残るはコレルとコンドルフォート」
-“All that's left are	「コレルにはすでに
-Corel and Fort Condor.”	軍隊を向かわせております」
-“I've already dispatched troops	
-to Corel.”	
+Materia from Nibelheim.	残るはコレルとコンドルフォート」
+All that's left are	
+Corel and Fort Condor.”	
+“I've already dispatched troops	「コレルにはすでに
+to Corel.”	軍隊を向かわせております」
 Scarlet	スカーレット
 “Huge Materia is a high-density,	「ヒュージマテリアは
 special type of Materia made through	魔晄炉内で圧縮されて生成される
