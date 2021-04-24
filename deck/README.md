@@ -10,7 +10,7 @@ This is a copy of the deck notes matching the current version.
 ---
 This is a copy of the deck matching the current version.
 
-`autoreplace.txt`
+`autoreplace.md`
 ---
 These are common incorrect auto-generated readings for words, with the correct readings to replace them with.
 
