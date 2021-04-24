@@ -1,43 +1,43 @@
 function process(data){
 	let lines = data.split("\r\n");
-	let sourceLines = [];
-	let targetLines = [];
+	let englishLines = [];
+	let japaneseLines = [];
 	for(let line of lines){
 		let split = line.split("\t");
-		let source = split[0];
-		let target = split[1];
-		if(source.toUpperCase() === target.toUpperCase()) continue // ignore codes
+		let english = split[0];
+		let japanese = split[1];
+		if(english.toUpperCase() === japanese.toUpperCase()) continue // ignore codes
 //		if(names.indexOf(source.toUpperCase()) !== -1 || names.indexOf(target) !== -1) continue;
 //		console.log(`Ignoring speaker line: ${source}\t${target}`)
-		sourceLines.push(source);
-		targetLines.push(target);
+		englishLines.push(english);
+		japaneseLines.push(japanese);
 	}
 
-	let sourceLinesRaster = sourceLines.join("\r\n");
+	let englishLinesRaster = englishLines.join("\r\n");
 	// automatically close open dialogue when it comes upon another open dialogue
-	sourceLinesRaster = sourceLinesRaster.replace(/“([^“”]+)(?=\r\n“)/g, function(a,b){ return `${b.replace(/\r\n/g, " ")}` });
+	englishLinesRaster = englishLinesRaster.replace(/“([^“”]+)(?=\r\n“)/g, function(a,b){ return `${b.replace(/\r\n/g, " ")}` });
 	// collapse linebreaks in open dialogue
-	sourceLinesRaster = sourceLinesRaster.replace(/“([^”]+)”/g, function(a,b){ return `${b.replace(/\r\n/g, " ")}`; });
+	englishLinesRaster = englishLinesRaster.replace(/“([^”]+)”/g, function(a,b){ return `${b.replace(/\r\n/g, " ")}`; });
 	// removes double linebreaks
-	sourceLinesRaster = sourceLinesRaster.replace(/(?:\r\n){2,}/g, function(){ return "\r\n"; });
+	englishLinesRaster = englishLinesRaster.replace(/(?:\r\n){2,}/g, function(){ return "\r\n"; });
 	// remove trailing linebreaks
-	sourceLinesRaster = sourceLinesRaster.replace(/\r\n$/g, "");
+	englishLinesRaster = englishLinesRaster.replace(/\r\n$/g, "");
 
-	let targetLinesRaster = targetLines.join("\r\n");
+	let japaneseLinesRaster = japaneseLines.join("\r\n");
 	// automatically close open dialogue when it comes upon another open dialogue
-	targetLinesRaster = targetLinesRaster.replace(/「([^「」]+)(?=\r\n「)/g, function(a,b){ return `${b.replace(/\r\n/g, " ")}`;});
+	japaneseLinesRaster = japaneseLinesRaster.replace(/「([^「」]+)(?=\r\n「)/g, function(a,b){ return `${b.replace(/\r\n/g, " ")}`;});
 	// collapse linebreaks in open dialogue
-	targetLinesRaster = targetLinesRaster.replace(/「([^」]+)」/g, function(a,b){ return `${b.replace(/\r\n/g, "")}`; });
+	japaneseLinesRaster = japaneseLinesRaster.replace(/「([^」]+)」/g, function(a,b){ return `${b.replace(/\r\n/g, "")}`; });
 	// removes double linebreaks
-	targetLinesRaster = targetLinesRaster.replace(/(?:\r\n){2,}/g, function(a){ return "\r\n"; });
+	japaneseLinesRaster = japaneseLinesRaster.replace(/(?:\r\n){2,}/g, function(a){ return "\r\n"; });
 	// remove trailing linebreak
-	targetLinesRaster = targetLinesRaster.replace(/\r\n$/g, "");
+	japaneseLinesRaster = japaneseLinesRaster.replace(/\r\n$/g, "");
 
-	sourceLines = sourceLinesRaster.split("\r\n");
-	targetLines = targetLinesRaster.split("\r\n");
+	englishLines = englishLinesRaster.split("\r\n");
+	japaneseLines = japaneseLinesRaster.split("\r\n");
 
 	let processed = [];
-	for(let i=0;i<sourceLines.length;i++){ processed.push({source:sourceLines[i], target:targetLines[i]}); }
+	for(let i=0;i<englishLines.length;i++){ processed.push({source:englishLines[i], target:japaneseLines[i]}); }
 	return processed;
 };
 
