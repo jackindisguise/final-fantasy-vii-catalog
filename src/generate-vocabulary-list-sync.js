@@ -9,6 +9,10 @@ const symbols = require("./mecab-symbols.json");
 const { stdin } = require("process");
 
 // safe array handling
+Array.prototype.contains = function(item){
+	return this.indexOf(item) !== -1;
+}
+
 function __array(data){
 	if(Array.isArray(data)) return data;
 	if(!data) return [];
@@ -46,15 +50,6 @@ function tokenIsAdjective(token){ return tokenIsIAdj(token) || tokenIsNaAdj(toke
 function tokenIsAdverb(token){ return token.pos === symbols.pos.adverb; }
 function tokenIsBasic(token){ return tokenIsNoun(token) || tokenIsVerb(token) || tokenIsAdjective(token) || tokenIsAdverb(token); }
 
-// local consts
-const inputFolder = "../scene/processed/";
-const outputFolderNew = "../vocabulary/new/";
-const outputFolderUnique = "../vocabulary/unique/";
-
-// local data
-const lookupWords = []; // words that have been searched for (don't repeat these)
-const wordsFound = []; // jsdict entries that we've chosen go here
-
 async function _read(callback){
 	return new Promise(function(resolve){
 		process.stdin.once("data", function(data){
@@ -73,6 +68,17 @@ async function readLine(){
 	return line;
 }
 
+
+// local consts
+const inputFolder = "../scene/processed/";
+const outputFolderNew = "../vocabulary/new/";
+//const outputFolderUnique = "../vocabulary/unique/";
+
+// local data
+const lookupWords = []; // token roots (words) that have been searched for (don't repeat these)
+const wordsFound = []; // jsdict entries that we've chosen go here (just the text sequence of the entry)
+
+// scroll through files
 fs.readdir(inputFolder, async function(err, files){
 	if(err) {
 		console.log(err);
@@ -80,6 +86,8 @@ fs.readdir(inputFolder, async function(err, files){
 	}
 
 	for(let file of files){
+		console.log(`\t${file}`)
+		let sceneLines = [];
 		let text = fs.readFileSync(inputFolder+file, "utf8");
 		let lines = text.split("\r\n");
 		for(let line of lines){
@@ -89,6 +97,8 @@ fs.readdir(inputFolder, async function(err, files){
 			let tokens = await mecabSync(japanese);
 			for(let token of tokens){
 				if(!token.root) continue; // fake words
+				if(lookupWords.contains(token.root)) continue; // ignore past searches
+				lookupWords.push(token.root);
 				let spec;
 				if(tokenIsNoun(token)) spec = symbols.pos.noun;
 				else if(tokenIsVerb(token)) spec = symbols.pos.verb;
@@ -105,6 +115,11 @@ fs.readdir(inputFolder, async function(err, files){
 				let search = await lookupSync(`${token.root}/${spec}`);
 				if(search){
 					let json = __array(JSON.parse(search));
+					if(!json.length) {
+						console.log("No results.");
+						console.log("");
+						continue;
+					}
 					for(let i=0;i<json.length;i++){
 						let entry = json[i];
 						let word = formatWord(entry);
@@ -113,14 +128,30 @@ fs.readdir(inputFolder, async function(err, files){
 						console.log(`\t${i}) ${display} (${def.pos}) ${def.gloss}`);
 					}
 
-					console.log("\t* Press Enter to Skip *");
+					let first = json[0];
+					if(wordsFound.contains(first.ent_seq)) { // ignore
+						console.log("Ignoring duplicate.");
+						console.log("");
+						continue;
+					}
+
 					console.log("");
-					process.stdout.write("Make a choice: ");
-					let choice = await readLine();
+					console.log("Automatically choosing first result.")
+					wordsFound.push(first.ent_seq);
+					let word = formatWord(first);
+					let def = formatSense(first);
+					sceneLines.push(`${word.kana}\t${word.kanji?word.kanji:""}\t${def.pos}\t${def.gloss}\t${english}\t${japanese}`)
+
+/*					console.log("\t* Press Enter to Skip *");
+					console.log("");
+					process.stdout.write("Make a choice: ");*/
+//					let choice = await readLine();
 					console.log("");
 				}
 			}
 
 		}
+
+		fs.writeFileSync(outputFolderNew+file, sceneLines.join("\r\n"), "utf8");
 	}
 });
