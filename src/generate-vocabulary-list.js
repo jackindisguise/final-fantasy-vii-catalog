@@ -9,7 +9,7 @@ const fs = require("fs");
 const http = require("http");
 
 // local packages
-const mecab = require("./mecab-wrapper");
+const {mecab} = require("./mecab-wrapper");
 const symbols = require("./mecab-symbols.json");
 
 // local consts
