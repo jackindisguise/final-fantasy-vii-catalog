@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.11.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.10.0...v1.11.0) (2021-04-24)
+
+
+### Features
+
+* Added Scene 32: Escape from Junon and Highwind. ([a820fa9](https://github.com/nowotato/final-fantasy-vii-catalog/commit/a820fa9a2416d610d8f2f514278fa4717863d6dc)), closes [#35](https://github.com/nowotato/final-fantasy-vii-catalog/issues/35)
+* Initial stage of vocabulary generator. Long way to go. ([d1f1fbd](https://github.com/nowotato/final-fantasy-vii-catalog/commit/d1f1fbd2d97b1adfb3e6fe0a0ba1968646156aa0))
+
+
+### Bug Fixes
+
+* Updated decks after major change. ([5b95f5d](https://github.com/nowotato/final-fantasy-vii-catalog/commit/5b95f5d8821a596c7ac74f32020a2f1a9be673cb))
+
 ## [1.10.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.9.0...v1.10.0) (2021-04-23)
 
 
