@@ -10,6 +10,7 @@ I want to go inside!	はやく、ねえ中に入りたい！
 Black cape	黒マント
 Key…stone…	キー……ストー……ン……
 Open…door…of the Temple…	神殿の……扉を……開いて……
+Black cape	黒マント
 Black…Materia…	黒……マテリア……
 Look…	見て……
 Number 9. Another man with a tattoo.	ナンバー９。ここにもイレズミの男ね
@@ -20,12 +21,17 @@ He has a tattoo too! Ummm, I think it's number 9.	この人もイレズミして
 Hey, he's got a tattoo. It says number 9.	おい、イレズミしてやがるぜ。ナンバー９、だとよ
 It's a number 9 tattoo.	ナンバー９のイレズミだ
 CAIT SITH…	CAIT SITH……
+Temple of the Ancients	古代種の神殿
 Hey! It's Tseng!	あっ！　ツォン！
 Tseng? Of the Turks!?	タークスのツォンか！？
+Tseng	ツォン
 Oh, I've been tricked.	くっ……やられたな
+Tseng	ツォン
 It's not the Promised Land… Sephiroth's searching for…	セフィロスが……捜しているのは……約束の地じゃない……
 Sephiroth? He's inside!?	セフィロス？中にいるのか！？
+Tseng	ツォン
 Look… for yourself…	自分で……たしかめるんだな……
+Tseng	ツォン
 Damn…	くそっ……
 Letting AERIS go was the start… of my…bad luck…	AERISを…手放したのがケチ…の……つきはじめ…だ…
 The President… was wrong…	社長は……判断をあや……まった……
@@ -33,14 +39,19 @@ You're wrong.	あなたたち、かんちがいしてる
 The Promised Land isn't like what you imagined.	約束の地、あなたたちが考えてるのとちがうもの
 And, I'm not going to help.	それに、わたし、協力なんてしないから
 Either way, there was no way Shinra could have won.	どっちにしても、神羅には勝ち目はなかったのよ
+Tseng	ツォン
 …Pretty harsh. Sounds like something… you'd say.	ハハ……きびしいな。AERIS……らしい……言葉だ
+Tseng	ツォン
 The Keystone… Place it…on…the altar…	キーストーン……祭壇に……置いて……み……ろ
 Received Key Item "Keystone"!	キーアイテム『キーストーン』を手にいれた！
 You crying?	泣いてるのか？
 …Tseng's with our enemy, the Turks, but I've known him since we were little…	……ツォンはタークスで敵だけど子供のころから知ってる
 There's not a lot of people I can say that about. In fact, there are probably only a handful of people in the world who really know me.	わたし、そういう人、少ないから。世界中、ほんの少ししかいないわたしのこと、知ってる人……
+Tseng	ツォン
 I am…still alive…	私は……まだ、生きている……
 Let's put the Keystone in.	ここにキーストーンをつかえば……
+Temple of the Ancients	古代種の神殿
+Temple of the Ancients	古代種の神殿
 Damn! So this is the Temple of the Ancients!	ひゅ～！これが古代種の神殿かよ！
 Oh man, you gotta be kiddin'. This is makin' me dizzy!	ウッ～　冗談じゃねえ。めまいがするぜ！
 Hey, Cloud! Don't get lost!	おう！　CLOUD！迷うんじゃねえぞ！
@@ -58,6 +69,10 @@ Don't give up! We can do it!	なげださないで！がんばろう、ね！
 Sealed……? That sound brings back memories.	封印されている……？なんだか、なつかしい響きだな
 Received "Morph" Materia!	『へんか』のマテリアを手にいれた！
 Received "Luck Plus" Materia!	『ラッキー』のマテリアを手にいれた！
+Received "Turbo Ether"!	『エーテルターボ』を手にいれた！
+Received "Mind Source"!	『マインドアップ』を手にいれた！
+You cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
 Received "Trident"!	『トライデント』を手にいれた！
 Received "Rocket Punch"!	『ロケットパンチ』を手にいれた！
 Received "Ribbon"!	『リボン』を手にいれた！
@@ -70,6 +85,7 @@ I want to save my game	記録したいが
 Nothing	用はないな
 This is the Temple of the Ancients. You won't be able to go back easily.	ここは古代種の神殿だ。かんたんにはもどれない
 Is that all right?	それでも、いいだろうか？
+Changed my mind	気が変わった
 Save	記録する
 Welcome!	いらっしゃいませでぷ～
 Please come again!	またくるでぷ～
@@ -85,6 +101,7 @@ No good. I don't understand the rest. Are you afraid?	だめ、あとはわか�
 Is it because Sephiroth is in the Temple? Or something else?	セフィロスが神殿にいるから？それとも、ほかのこと？
 Received "Mop"!	『モップ』を手にいれた！
 Received "Silver Rifle"!	『銀玉鉄砲』を手にいれた！
+Temple of the Ancients	古代種の神殿
 …phew… We did it!	ふぅ～～やったね！
 Everyone all right? That was rough.	だいじょうぶか？さすがに、こたえたな
 Oh no…CLOUD. Come quick!!	あっ……CLOUD。たいへん！！
@@ -101,24 +118,42 @@ Temple of the Ancients	壁画の間
 What's going on?	……どうなってる？
 Wait! Look! It's showing us!	まって！ほら、見て…はじまるよ
 Test Play is up to here.	テストプレイはここまでです。
+Elena	イリーナ
 Tseng, what's this? Can we find the Promised Land with this?	ツォンさん、これは？これで約束の地がわかるんですか？
+Tseng	ツォン
 …I wonder. Anyway, we have to report to the President.	……どうかな。とにかく社長に報告だ
+Elena	イリーナ
 Be careful, Tseng.	気をつけてくださいね。ツォンさん
+Tseng	ツォン
+Yeah…	ああ……
 Hey Elena, how 'bout dinner after this job's over?	イリーナ、この仕事が終わったらめしでもどうだ？
+Elena	イリーナ
 Th…Thank you very much.	あ、ありがとうございます
 If I may be excused…	それじゃおさきにしつれいします
+Tseng	ツォン
 Is this the Promised Land? No, it can't be…	ここが約束の地？いや、まさかな……
+Tseng	ツォン
 Sephiroth!!	セフィロス！！
+Sephiroth	セフィロス
 So you opened the door. Well done.	おまえが扉を開いたのか。ごくろうだった
+Tseng	ツォン
 This place…what is it?	ここは……なんだ？
+Sephiroth	セフィロス
 A lost treasure house of knowledge. The wisdom of the Ancients….	失われた知の宝庫。古代種の知恵……知識
+Sephiroth	セフィロス
 I am becoming one with the Planet.	私は星とひとつになるのだ
+Tseng	ツォン
 One with the Planet?	星とひとつに？
+Sephiroth	セフィロス
 You stupid fools. You have never even thought about it.	愚かなる者ども。考えたこともあるまい
+Sephiroth	セフィロス
 All the spirit energy of this Planet. All its wisdom…knowledge…	この星のすべての精神エネルギー。この星のすべての知恵……知識……
 I will meld with it all. I will become one with it… it will become one with me.	私はすべてと同化する。私がすべて……すべては私となる
+Tseng	ツォン
 …You can do that?	……そんなことができるというのか？
+Sephiroth	セフィロス
 The way…lies here.	その方法が……ここに
+Sephiroth	セフィロス
 Only death awaits you all. But do not fear.	おまえたちには死あるのみ。しかし、悲しむことはない
 For it is through death that a new spirit energy is born. Soon, you will live again as a part of me.	死によって生まれる新たな精神エネルギー。やがて私の一部として生きることができる
 Did you see it?	見えた？
@@ -139,11 +174,16 @@ We're here too, you know.	私たちだっているわ
 Don't forget about us!	オイラを忘れるなよ！
 I wonder if he'll go down that easy?	簡単に倒せんのやろか……
 I have nothing to do with it. But, I guess I'll lend a hand.	アタシは関係ないけどね。でも、ま、手をかしてやるよ
+…	…………
 All right! Guess you youngsters gotta be enthusiastic like that!	おっ、いいねえ！若いやつはそうじゃなきゃいけねえ
+Received "Morph" Materia!	『へんか』のマテリアを手にいれた！
 Cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
 …nyum…nyum…	ねむねむ……
 Rest	休む
 Save	記録
+Forget it	用はない
+HP/MP Restored!	ＨＰ／ＭＰが回復した！
 Temple of the Ancients	時の大穴
 I am the Time Guardian. Ye who seek the knowledge of the Ancients. I control the time, select your path.	我、時の番人なり。古代種の知識を求めるものよ。我が時を制し、道をきずけ
 What is it you wish, seeker of knowledge?	知識求めるものよ、何をねがう？
@@ -160,8 +200,12 @@ Cancel	とりけし
 [CANCEL]: Proceed now!	×ボタン：いまを進む！
 [OK]: Stop!	○ボタン：ストップ！
 [MENU]: Move it myself	△ボタン：自分で動かす
+[OK]: Spin	○ボタン：ルーレット回転
+[CANCEL]: Proceed now!	×ボタン：いまを進む！
 [MENU]: Go back in time	△ボタン：時をさかのぼる
 [OK]: Speed up time	○ボタン：時を進める
+[CANCEL]: Proceed now!	×ボタン：いまを進む！
+Temple of the Ancients	古代種の神殿
 This atmosphere…	このふんいきは……
 Feels like a battle!	バトルだな！
 Here it comes!	くるわ！
@@ -171,15 +215,26 @@ Oh man! I should've stayed at home.	あ～あ！くるんじゃなかったよ
 I'm tingling with excitement.	オイラ、ムシャぶるい
 Let's do it!	やったるでい！
 Received "Nail Bat"!	『釘バット』を手にいれた！
+Temple of the Ancients	古代種の神殿
 Received "Princess Guard"!	『プリンセスガード』を手にいれた！
 Received "Trumpet Shell"!	『法螺貝』を手にいれた！
 Received "Megalixir"!	『ラストエリクサー』を手にいれた！
+Temple of the Ancients	古代種の神殿
+Temple of the Ancients	古代種の神殿
+Temple of the Ancients	古代種の神殿
 Hey! It's locked.	あ！鍵かかってる
 No good. We have to catch it!	だめね。つかまえなきゃ！
 You must be tired.	いろいろ大変ね
+Yeah	そうだな
 I want to go home	帰りたいな
 Just hang in there. Someday we'll look back on these hard times and laugh.	がまんがまん。こんな苦労話、笑って話せる時がくるよだから、がんばろ！
 Yeah. But it'll all be over soon!	そうだね。でも、もうすぐだから！
+Nyum, nyum…	ねむねむ……
+Nyum, nyum…	ねむねむ……
+Rest	休む
+Save	記録
+Forget it	用はない
+HP/MP Restored!	ＨＰ／ＭＰが回復した！
 Received "Work Glove"!	『軍手』を手にいれた！
 Door Unlocked!!	扉の鍵が開いた！！
 The Guard that escaped with the key to the door moves on a set course.	扉の鍵を持ち逃げした番人は一定のルートを移動しています
@@ -191,16 +246,24 @@ Don't do it	やめとく
 Jump to the lower level with [OK]!	【○ボタン】で下の段へジャンプ！
 This is the room with the murals…	ここが壁画の間……
 Where are you!? Sephiroth!!	どこだ！？セフィロス！！
+Sephiroth	セフィロス
 So cold.	つめたいな
 I am always by your side.	私はいつでもおまえのそばにいる
+Sephiroth	セフィロス
 Come.	くるがいい
+Sephiroth	セフィロス
 Splendid.	まったく、素晴らしい
+Sephiroth	セフィロス
 A treasure house of knowledge…	知の宝庫……
 I don't understand what you're saying!	おまえが言ってることは意味不明なんだよ！
+Sephiroth	セフィロス
 Look well.	よく見ておくがいい
 At what!?	なにを！！
+Sephiroth	セフィロス
 At that which adds to the knowledge of…	古代種の知のあたえるもの
+Sephiroth	セフィロス
 …Mother… …it's almost time.	……かあさん…。…もうすぐだよ
+CLOUD!!	CLOUD！！
 Hey!! CLOUD!!	おい！！CLOUD！！
 Hey, CLOUD!	ねえ、CLOUD！
 CLOUD!	CLOUDっ！
@@ -210,32 +273,49 @@ What the hell is going on?	どうなっちまってんだよ！
 What are you doing?	なにをしているのだ？
 Ha ha ha… Black Materia	クックックッ……黒マテリア
 CLOUD!! Get a hold of yourself!	CLOUD！！しっかりしなさい！
+CLOUD…	CLOUD……
 I… CLOUD…	俺……CLOUD……
 Is this Meteor?	これがメテオか？
 Looks like we're locked in.	閉じこめられたようだ
+Sephiroth	セフィロス
 Soon… we will become one.	もうすぐ……ひとつになれる
 How do you intend to become one with the Planet?	星とひとつになるってどうするつもり？
+Sephiroth	セフィロス
 It's simple.	簡単なことだ
 Once the Planet is hurt, it gathers Spirit Energy to heal the injury.	星は傷ができると治療のために傷口に精神エネルギーを集める
+Sephiroth	セフィロス
 The amount of energy gathered depends on the size of the injury.	傷の大きさに比例して集まるエネルギーの大きさが決まる
+Sephiroth	セフィロス
 …What would happen if there was an injury that threatened the very life of the Planet?	……星が破壊されるほどの傷ができたらどうなる？
 Think how much energy would be gathered!	……どれほどのエネルギーが集まる？
+Sephiroth	セフィロス
 Ha ha ha. And at the center of that injury, will be me.	フッフッフッ。その傷の中心にいるのが私だ。
 All that boundless energy will be mine.	エネルギーはすべて私のものだ
+Sephiroth	セフィロス
 By merging with all the energy of the Planet, I will become a new life form, a new existence.	星のすべてのエネルギーとひとつになり私は新たなる生命、新たなる存在となる
 Melding with the Planet… I will cease to exist as I am now…	星とまじわり……私は…… 今は失われ、かつて人の心を支配した存在……
 Only to be reborn as a 'God' to rule over every soul.	『神』として生まれ変わるのだ
 An injury powerful enough to destroy the Planet?	星が破壊されるほどの傷？
 Injure…the Planet?	傷つける？　星を？
+Sephiroth	セフィロス
 Behold that mural. The Ultimate Destructive Magic…Meteor.	壁画を見るがいい。最高の破壊魔法……メテオ
 That'll never happen!	そうはいかない！
 Wake up!!	目をさませ！！
 Where are you!? Sephiroth!!	どこだ！　セフィロス！-
+Wait, CLOUD!	待って、CLOUD！
+Temple of the Ancients	壁画の間
+CLOUD!!	CLOUD！！
+Hey!! CLOUD!!	おい！！CLOUD！！
+Hey, CLOUD!	ねえ、CLOUD！
 CLOUD! What's wrong!	CLOUDっ！どうしたんだよぅ！
+CLOUD! What are you doing?	CLOUD！なにやってんだ？
 CLOUD! What's wrong with you!?	CLOUDさん！どないしたんや！
 What the hell is going on!	どうなっちまってんだよ！
+What are you doing?	なにをしているのだ？
 Ha ha ha… Black Materia.	クックックッ……黒マテリア
 Ha ha ha… Call Meteor.	クックックッ……メテオよぶ
+CLOUD!! Get a hold of yourself!	CLOUD！！しっかりしなさい！
+CLOUD…	CLOUD……
 I'm… CLOUD…	俺……CLOUD……
 How should I?	どうやるんだ…
 …I remember! I remember my way.	……思い出した！俺のやりかた
@@ -261,18 +341,28 @@ The Ultimate Destructive Magic, Meteor.	究極の破壊魔法メテオ
 It finds small drifting planets with its magic.	宇宙をただよっている小さな星を魔法の力で呼びよせるの
 And then collides with them. This Planet might get wiped out entirely…	そして……衝突。この星、完全に壊れちゃうかも……
 Sephiroth!?	セフィロスか！！
+Sephiroth	セフィロス
 Ha ha ha… It is not me.	クックックッ……私ではない
+Sephiroth	セフィロス
 During the time when the Ancients prospered there existed beings that grew up bathed in abundant Mako.	かつて古代種がさかえたころ豊富な魔晄の光をあびて育った種族がいた
+Sephiroth	セフィロス
 They were pure creatures of natural shape. Several remain even now.	自然な形の純すいなモンスターたちだ。いまでもいくつかの種族は残っている
+Sephiroth	セフィロス
 These beings sealed their consciousness within materia, altering their lives for eternity.	ある種族は、マテリアのなかに自らの命を封じこめ、生を永遠に変えた
 The summon materia…	召喚のマテリア……
+Sephiroth	セフィロス
 Correct. Such a clever girl.	然り。理解のはやい娘だ
+Sephiroth	セフィロス
 The creatures that protect this temple have lived long, relics from the age of the Ancients.	この神殿を守るものは古代種の時代から時をこえ生きながらえてきたモンスター
+Sephiroth	セフィロス
 They belong to this planet even more than you do.	おまえたちよりもこの星にふさわしい種族たちだ-
+Sephiroth	セフィロス
 Heh heh heh… Keep that in mind.	クックックッ……思い知るがいい
 Any sign of Sephiroth?	セフィロスの気配は？
 He disappeared.	消えちゃったね
 Received "Bahamut" Materia!	『バハムート』のマテリアを手にいれた！
+You cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
 We're locked in.	閉じこめられたようだ
 What is this?	これはなんだ？
 …There's something written on it.	……何かかいてある
@@ -286,6 +376,7 @@ Take it	とる
 Leave it	ほうっておく
 Wait a minute. I'll ask!	ちょっと待って。わたし、聞いてみる！
 I don't understand…	わからない……
+What?	えっ？
 Really!?	そうなの！？
 They said that the Temple itself is the Black Materia.	この神殿そのものが黒マテリアだって
 If we could only move this, we could take the Black Materia.	これを動かせば黒マテリアを持ち出せる
@@ -343,6 +434,7 @@ Yes, but there's one thing…	そう、でもね……
 You can only answer the puzzles inside the Temple.	パズルを解くのは、この場所でしかできないの
 So, anyone who solves the puzzle will be crushed by the Temple.	だから、パズルを解くと、その人はこの神殿、いいえ、黒マテリア自体に押しつぶされちゃうの
 I see… the Ancients didn't want dangerous magic to be taken out of the Temple so easily…	なるほど……危険な魔法を簡単に持ち出させないための古代種の知恵か……
+Temple of the Ancients	古代種の神殿
 I guess there's no way we can open it… We'll come back later.	開くわけないか…。あとまわしだな
 It's warm…	なまあたたかい…
 This isn't good…	やばいな……
@@ -350,6 +442,7 @@ CLOUD… …behind you.	CLOUD…………うしろ
 Sorry to keep you waiting!! It's Me!!	おまちどうさん！！CAIT SITHです～！
 I'll handle the rest!	あとのことはまかせてもらいましょ！
 Well, everyone… Take care of yourselves!	ほんな、みなさんお元気で！
+CAIT SITH…	CAIT SITH……
 Come on, CLOUD… Say something.	ほら、CLOUD…。なにかいってあげなきゃ
 I'm not good at this.	……にがてなんだ
 Mmm, I understand. I feel the same too.	ん～、ようわかりますわ～ボクも同じような気持ちですわ
@@ -378,6 +471,8 @@ What happened?	どないなったんやろ？
 I can still move more.	まだ動けるようやな
 The Ancients went out of their way to make this great machine.	古代種さんたちこんなシカケよう作りはったなぁ～
 I'm saving this Planet too! I'm a little embarrassed…	ボクも、この星を守るんや！なんや、照れるなぁ……
+This must be it!	これやな！
+Temple of the Ancients	古代種の神殿
 That's the Black Materia…	あれが、黒マテリア……
 Hey! I'll keep watch here!	おう！オレはここでみはってるぜ！
 I'll wait here.	私、ここでまってるね
@@ -388,6 +483,7 @@ Ahhh!! It's really something, having a smoke at a place like this.	クッ～！�
 I'll be looking around here.	私はここで見物していよう
 Got Key Item "Black Materia!"	キーアイテム『黒マテリア』を手にいれた！
 As long as we have this, Sephiroth won't be able to use Meteor.	これを俺たちが持ってるかぎりセフィロスはメテオを使えないってわけだ
+Mmm?	ん？
 Can you guys use it?	俺たちは使えるのか？
 Nope, we can't use it right now. You need great spiritual power to use it.	ダメ、今は使えない。とっても大きな精神の力が必要なの
 You mean lots of spiritual energy?	たくさんの精神エネルギーってことか？
@@ -400,13 +496,17 @@ The Promised Land!!	約束の地だな！！
 No, but…	いや、しかし……
 Sephiroth is different. He's not an Ancient.	セフィロスは、ちがう。古代種じゃない
 He shouldn't be able to find the Promised Land.	約束の地は見つけられないはずだ
+Sephiroth	セフィロス
 …Ah, but I have.	……が、私は見つけたのだ
+Sephiroth	セフィロス
 I'm far superior to the Ancients.	私は古代種以上の存在なのだ
 I became a traveler of the Lifestream and gained the knowledge and wisdom of the Ancients.	ライフストリームの旅人となり古代の知識と知恵を手に入れた
 I also gained the knowledge and wisdom of those after the extinction of the Ancients.	古代種滅びし後の時代の知恵と知識をも手に入れた
 And soon, I will create the future.	そしてまもなく未来を創り出す
 I won't let you do it! The future is not just yours!	そんなこと、させない！未来はあなただけのものじゃない！
+Sephiroth	セフィロス
 Ha, ha, ha…I wonder?	クックックッ……どうかな？
+Sephiroth	セフィロス
 Wake up!	さあ、目をさませ！
 Sh…shut up!	だ、だまれ！
 The…noise…	う……うるさ……い……
@@ -414,9 +514,11 @@ No!	『だ～めだよぅ！』
 Don't be afraid--!	『こわがっちゃだめー！』
 Waaaa~!!	『うわ～ん！！』
 What are you doing!?	『なにすんだよぅ～！！』
+Sephiroth	セフィロス
 There, CLOUD…good boy.	さあ、CLOUD……良い子だ
 Wa…aaaa…aaa…	う……あ……ぁ……
 Gave "Black Materia" to Sephiroth!	『黒マテリア』をセフィロスに手わたした！
+Sephiroth	セフィロス
 …Well done.	……ごくろう
 CLOUD, are you all right?	CLOUD、だいじょぶ？
 …I gave the Black Materia to Sephiroth?	……俺はセフィロスに黒マテリアを……？
@@ -435,26 +537,93 @@ AERIS, are you all right!?	AERIS、だいじょうぶ！？
 What!? CLOUD!	おろっ！？CLOUD！
 AERIS! CLOUD, what're you doing!?	AERIS！CLOUD、なにやってんだよっ！
 …!!	……！！
+CLOUD!	CLOUD！
 Hey, EY!!	おいおいっ！！
 CLOUD! What the hell are you doing!?	こらっ、CLOUD！なんてことしてんだよ、てめえは！
 Oops! This looks like a bad time!	こりゃあかん！えらいときにきてしもた！
 I'm CAIT SITH No. 2. Right pleased to meet you all!	ボク、CAIT SITH２号機です～。よろしゅうたのんます～！
+Oops! This looks like a bad time!	こりゃあかん！えらいときにきてしもた！
 I'm CAIT SITH No. 2. Pleased to meet you all!	ボク、CAIT SITH２号機です～。なかようしてください～！
 CLOUD!! What are you doin'!!	CLOUDさん！！なにしとんや！！
 Everything is white…	まっしろだ……
 What did I do? I don't remember anything…	俺はなにをした？おぼえていない…
 My memory…since when? If everything's a dream, don't wake me.	記憶…いつからなのか…？すべてが夢ならさめないでくれ
+Temple of the Ancients	古代種の神殿
+That's the Black Materia…	あれが、黒マテリア……
+Hey! I'll keep watch here!	おう！オレはここでみはってるぜ！
+I'll wait here.	私、ここでまってるね
+I'll be sittin' out here.	おいら、ここでおすわりしてるよ
+Heh heh…this looks majorly boring, so I'll stay here.	エヘヘ……興味ないからここにいるよ
+I'm gonna have a smoke out here!	ここでいっぷくしてるぜ！
 Ahhh!! It's great‚having a smoke at a place like this.	クッ～！！こういうとこでいっぷくすんのはたまんねえ～！
+I'll be looking around here.	私はここで見物していよう
+Got Key Item "Black Materia!"	キーアイテム『黒マテリア』を手にいれた！
+As long as we have this, Sephiroth won't be able to use Meteor.	これを俺たちが持ってるかぎりセフィロスはメテオを使えないってわけだ
+Mmm?	ん？
+Can you guys use it?	俺たちは使えるのか？
 We can't use it right now. You need great spiritual power to use it.	ダメ、今は使えない。とっても大きな精神の力が必要なの
+You mean lots of spiritual energy?	たくさんの精神エネルギーってことか？
+That's right.	そう、ね
+One person's power alone won't do it.	ひとりの人間が持ってるような精神エネルギーじゃダメ
+Somewhere special. Where there's plenty of the Planet's energy…	どこか特別な場所。星のエネルギーが豊富で……
+Oh yeah!	あっ！
+The Promised Land!!	約束の地！！
+The Promised Land!!	約束の地だな！！
+No, but…	いや、しかし……
+Sephiroth is different. He's not an Ancient.	セフィロスは、ちがう。古代種じゃない
+He shouldn't be able to find the Promised Land.	約束の地は見つけられないはずだ
+Sephiroth	セフィロス
+…Ah, but I have.	……が、私は見つけたのだ
+Sephiroth	セフィロス
 I'm far superior to the Ancients.	私は古代種以上の存在なのだ。
+I became a traveler of the Lifestream and gained the knowledge and wisdom of the Ancients.	ライフストリームの旅人となり古代の知識と知恵を手に入れた
+I also gained the knowledge and wisdom of those after the extinction of the Ancients.	古代種滅びし後の時代の知恵と知識をも手に入れた
+And soon, I will create the future.	そしてまもなく未来を創り出す
+I won't let you do it! The future is not just yours!	そんなこと、させない！未来はあなただけのものじゃない！
+Sephiroth	セフィロス
+Ha, ha, ha…I wonder?	クックックッ……どうかな？
+Sephiroth	セフィロス
+Wake up!	さあ、目をさませ！
+Sh…shut up!	だ、だまれ！
+The…noise…	う……うるさ……い……
+No!	『だ～めだよぅ！』
+Don't be afraid--!	『こわがっちゃだめー！』
+Waaaa~!!	『うわ～ん！！』
+What are you doing!?	『なにすんだよぅ～！！』
+Sephiroth	セフィロス
+There, CLOUD…good boy.	さあ、CLOUD……良い子だ
+Wa…aaaa…aaa…	う……あ……ぁ……
+Gave "Black Materia" to Sephiroth!	『黒マテリア』をセフィロスに手わたした！
+Sephiroth	セフィロス
+…Well done.	……ごくろう
+CLOUD, are you all right?	CLOUD、だいじょぶ？
 …I gave the Black Materia to Sephiroth…?	……俺はセフィロスに黒マテリアを……？
+Wha…what did I do? Tell me, AERIS.	お、俺はなにをしたんだ……AERIS、教えてくれ
+CLOUD…be strong, OK?	CLOUD……しっかり、ね？
 Urrrrrrgh… What have I done!	ウヘヘヘヘ……俺はなにをした！
 CLOUD… you haven't done anything.	CLOUD…… あなた、なにもしていない。
+It's not your fault.	あなたのせいじゃない
+I…I'm---!	俺は！　俺はーーーっ！
 CLOUD--!!	CLOUDー！！
+CLOUD, what are you doing!?	CLOUD、何してるの！？
+Urrggggggh!!!! CLOUD!!	んがーー！！！CLOUD！！
+HEY! CLOUD, you #$#&@!	おい！　CLOUDてめえ！
+CLOUD!!	CLOUDっ！！
+AERIS, are you all right!?	AERIS、だいじょうぶ！？
+What!? CLOUD!	おろっ！？CLOUD！
+AERIS! CLOUD, what're you doing!?	AERIS！CLOUD、なにやってんだよっ！
+…!!	……！！
+CLOUD!	CLOUD！
+Hey, EY!!	おいおいっ！！
+CLOUD! What the hell are you doing!?	こらっ、CLOUD！なんてことしてんだよ、てめえは！
 Oops! This looks like a bad time!	あかん！　こりゃ たいへんなときにきてしもたわ！
 I'm CAIT SITH No. 2. Pleased to meet you all!	ボク、CAIT SITH>２号機です～。ほな、よろしゅうたのむわ～！
+Oops! This looks like a bad time!	あかん！　こりゃ たいへんなときにきてしもたわ！
 I'm CAIT SITH No. 2. Pleased to meet you all!	ボク、CAIT SITH２号機です～。なかよくしてな～！！
 CLOUD!! What are you doin'!!	CLOUDさん！！なにしてまんねん！！
+Everything is white…	まっしろだ……
+What did I do? I don't remember anything…	俺はなにをした？おぼえていない…
+My memory…since when? If everything's a dream, don't wake me.	記憶…いつからなのか…？すべてが夢ならさめないでくれ
 CLOUD, can you hear me?	CLOUD、わかる？
 Yeah, I hear you. Sorry for what happened.	ああ、わかるよ。さっきはすまなかったな
 Don't worry about it.	気にしないほうがいいよ
@@ -472,8 +641,11 @@ The secret is just up here.	その秘密、この先にあるの
 At least it should be. …I feel it. It feels like I'm being led by something.	ううん……あるはず。そう、感じるの。何かに導かれている感じ、するの
 Then, I'll be going now. I'll come back when it's all over.	じゃ、わたし、行くね。全部終わったらまた、ね？
 AERIS?	AERIS？
+Sephiroth	セフィロス
 Hmm… So she's going to interfere? She'll be a difficult one, don't you think?	おやおや……私たちの邪魔をする気のようだ。困った娘だと思わないか？
+Sephiroth	セフィロス
 We must stop that girl soon.	そろそろあの娘にも…
+…CLOUD.	……CLOUD
 [Empty Entry]	万年前の地層
 [Empty Entry]	ルナハープゲット
 You look like you was havin' a nightmare.	うなされていたみたいだな
@@ -493,6 +665,7 @@ Only the Ancients, only AERIS can save us from Meteor…	メテオを防ぐこ�
 Then we must go. What'll we do if something happens to AERIS? If Sephiroth finds her, she's in trouble.	それならなおさらよ。AERISにもしものことがあったらどうするの？セフィロスが気づいたら大変よ
 Sephiroth…already knows.	セフィロスは……もう、知っている
 Hey! Why are you still sittin' around?	おい！おまえ、なんだってチンタラしてるんだ？
+Let's go, CLOUD.	行きましょ、CLOUD
 No.	いやだ
 I might lose it again.	俺、またおかしくなるかもしれない
 If Sephiroth comes near me I might…	セフィロスがそばに来ると俺はまた……
@@ -514,11 +687,13 @@ Just pull out of here?	ここから引き返す？
 To where?	引き返す？　……どこへ？
 Wait a minute, TIFA. give him a little time.	待ちな、TIFA。しばらく時間をやろうぜ
 He has to decide this on his own.	これは、あいつが自分自身で決着をつけなきゃならねえことだ
+CLOUD…	CLOUD……
 You believe in CLOUD… right?	信じてるんだろ、CLOUDを
 You awake?	気がついたのかい？
 Those people were so worried that they stayed by your side until you woke up.	あの人たち、えらく心配してあんたが気づくまで、ずっとそばにいたよ
 You sure do have good friends.	いい友人を持ったね
 Hey, how are you?	よう、どうだ？
+CLOUD…	CLOUD……
 I just wanna know, which is it gonna be?	ちょっと、聞いときたいんだけどよおまえはどっちなんだ？
 You wanna find out about yourself? Or are you afraid to find out?	自分のこと、もっと知りたいのか？それとも、知るのが怖いのか？
 Either way, if you stay around here all you're gonna do is worry about it.	ま、どっちにしても、ここにいたってなやんで頭かかえてるしかねえぞ

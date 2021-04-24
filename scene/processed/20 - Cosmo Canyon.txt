@@ -1,4 +1,5 @@
 Cosmo Canyon	コスモキャニオン
+Cosmo Canyon	コスモキャニオン
 I am home! It is I, Nanaki!	ただいま～！ナナキ、帰りました～
 Hey, Nanaki! You're safe!	おお、ナナキ！無事だったか！
 Come on, and say hello to Bugenhagen!	さあ、ブーゲンハーゲンさまにごあいさつを！
@@ -86,6 +87,7 @@ Bugenhagen	ブーゲンハーゲン
 CLOUD. Please look after Nanaki.	CLOUDよ。ナナキをよろしくたのむ
 What happened?	どうしたんだ？
 I think I grew up a little. That's what happened!	オイラ、少しだけ大人になった。そういうこと！
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. Come back whenever you need my knowledge.	ホーホーホウ。わしの知識が必要になったらいつでも歓迎じゃ
 Tasty Cocktails!	おいしいカクテル！
 Pub "Starlet"	パブ『スターレット』
@@ -98,6 +100,7 @@ I finally made it… So this is…Cosmo Canyon!	ついに来たぜ……ここ�
 RED XIII seems different, doesn't he?	RED XIII、なんだか様子がヘンじゃない？
 Hmmm… Any Materia? Any Materia around?	ムフフ……あるかなマテリア？マテリアあるかな？
 Hmmm…So this is Cosmo Canyon.	ハア……これがコスモキャニオンですか
+Cosmo Canyon	コスモキャニオン
 Oh, welcome.	あら、いらっしゃい
 The people of this canyon hate to compete. So almost everything here are replicas.	この谷の人間は、あらそいをきらうからね。ここにあるのも、ほとんどレプリカなのさ
 But that's all right. Some of them you really can use.	でもだいじょうぶ。ちゃんと使えるものもあるからね
@@ -110,6 +113,7 @@ Looking for someone who	タイクツにたえられる
 can stand long hours of boredom!	ガマンづよい方求む！
 For details, contact	くわしいお間い合わせは
 the "Turtle's Paradise"!!	居酒屋『かめ道楽』まで！！
+Now hiring!	アルバイトぼしゅう！
 No experience necessary.	経験は間いません。
 Looking for emotionally stable people	武器を見てもこうふんしない
 who don't get excited at the sight of weapons!	おだやかな性格の方求む！
@@ -118,11 +122,14 @@ working environment!	明るいしょくばです！
 Elder's Room	長老の部屋
 Elder Hargo	長老ハーゴ
 Where did I put it? I know it's around here…	どこへやったかいの……たしかこのへんに……
+Elder Hargo	長老ハーゴ
 Mmm? Oh, we have guests.  Good, good.	ん？おお、これまたお客さんか。いいともいいとも
+Elder Hargo	長老ハーゴ
 I know, I know.	わかっとる、わかっとる
 You came to ask me something, right? Am I right?	ワシになにかききにきたんじゃろ？　そうじゃろ？
 It's about the Promised Land	約束の地の話
 Not really	そういうわけじゃない
+Elder Hargo	長老ハーゴ
 …The Promised Land. So what do you want to know?	……約束の地。そうか、知りたいか
 There is no one place called the Promised Land. That's what I believe.	約束の地というのはなはっきり言って存在しない。ワシはそう考えておる
 No, no, it does exist. Hmmm…you can say that.	いやいや、存在する。ふむふむ……そうとも言える
@@ -133,6 +140,7 @@ Their harsh journey continued throughout their lives…	彼らのつらい旅は
 The place they returned to after their long journey… Their burial land is the Promised Land.	その旅を終え、星に帰る場所……つまり死に場所が約束の地
 Huh? Supreme Happiness? I believe that, for the Ancients, it was the moment that they were able to return to their Planet, That moment when they were released from their fate, and gained their supreme happiness…	あん？　至上の幸福？古代種にとっては星に帰る瞬間運命から解き放たれる瞬間それは至上の幸福ではなかったか……と
 At least that's what I believe. I really don't know whether or not it's true.	ワシはそう考えておるんじゃ。今となっては真実はわからんがの
+Elder Hargo	長老ハーゴ
 Oh, that's not what you're here for?	なんじゃ、ちがったのか。
 I'd appreciate it if you didn't talk about such foolish things as legends and old wives tales.	悪いんじゃが、伝説とか昔話とかワシにはそんな話しかしてやれんよ
 There was this guy who studied Planetary Life' here.	ここで星命学を学んだ男がいたんだ
@@ -146,19 +154,25 @@ A lot's happened…	いろいろ……あったぜ……
 And then?	つづきは？
 Yeah, whatever…	興味ないな
 And then…? I don't know what's going to happen, now that there is no AVALANCHE…	つづき……？これからのことはわからねえ。アバランチはもうねえんだ……
+What?	なんだ？
 By the way, those that came with you are all at the Cosmo Candle.	そういえば、おまえさんといっしょに来た連中がコスモキャンドルの前に集まっとったよ
 Are you leaving?	もう出発するんかい？
+Elder Hargo	長老ハーゴ
 Ahh, here it is.	おお、あったあった
 My job is to gather all the legends and the knowledge of the Planet and to make a book.	ワシの仕事はこの谷につたわる伝説や星の知識を本にすること
 Then, even when I return to the Planet, the children may still be taught about many things…	こうすればワシが星にかえっても子供たちにいろいろなコトを教えてやれる……
+Elder Hargo	長老ハーゴ
 Mm…oh, this? This is the Book of Stars. I'm just finishing it.	ん……ああ、これかね。これは星の本。もう少しで書き終わるところだよ
 Nothing is meaningless. If I do this then, someday, someone will run across it.	無意味なことなんかないとも。こうしておけば、いつかかならず誰かの目にふれるもんさ
 The Ancients did the same. That is how we know about them, right? Maybe even my book also…	古代種だってそうしたんだ。だからワシたちは、彼らを知ることができただろ？ワシのこの本だって、きっと……
+Elder Hargo	長老ハーゴ
 I think Bugenhagen has foreseen things.	ブーゲンハーゲン様にはすべてお見とおしかもしれんよ
 About the Planet… About Nanaki… And, about himself…	この星のこと……ナナキのこと……そしてご自分のこと……
 But, Bugenhagen would never say that. All he says is 'Ho Ho Hoooo'…	でも、ブーゲン様のことだからそんなこと言わんじゃろな。いつも『ホーホーホウ』……
+Pub "Starlet"	パブ『スターレット』
 Welcome to 'Shildra Inn'.	ようこそ『シルドラ・イン』へ
 It'll be 100 gil a night. Would you like to stay?	一泊１００ギルになりますがお休みになりますか？
+Yes	ああ
 No thanks	やめておく
 Welcome to 'Shindra Inn'. It's times like this when a nice soft bed will do you good.	ようこそ『シルドラ・イン』へ。このような時にこそ人にはやわらかなベッドが必要なのです
 It's 100 Gil a night. Would you like to stay?	一泊１００ギルになりますがお休みになりますか？
@@ -167,10 +181,18 @@ No thank you	今はけっこうです
 Welcome to 'Shildra Inn'	ようこそ『シルドラ・イン』へ。
 As long as there are guests, our lights will always be on.	この地をおとずれる旅人がいるかぎりこの宿の明かりが消えることはありません
 It will be 100 Gil a night, Like a room?	一泊１００ギルになりますがお休みになりますか？
+Yeah	そうだな
 No, thanks	やめとくぜ
+Welcome to 'Shildra Inn'	ようこそ『シルドラ・イン』へ。
 It's times like this when a nice soft bed will do you good.	このような時にこそ人にはやわらかなベッドが必要なのです
 It will be 100 Gil a night. Would you like a room?	一泊１００ギルになりますがお休みになりますか？
+Yes	ああ
+No, thanks	やめておく
+Welcome to 'Shildra Inn'	ようこそ『シルドラ・イン』へ。
+As long as there are guests, our lights will always be on.	この地をおとずれる旅人がいるかぎりこの宿の明かりが消えることはありません
 It is 100 Gil a night. Would you like to stay?	一泊１００ギルになりますがお休みになりますか？
+Yes	ああ
+No thanks	やめておく
 I'm sorry, but you don't seem to have enough for a room…	まことにもうしわけありませんがお客様、宿泊料のほうが……
 Have a great dream of the stars…	すてきな星の夢を……
 Well then, please come again.	では、またのおこしをおまちしております
@@ -182,9 +204,13 @@ You should forget your troubles with a drink. We humans sure are weak creatures�
 That reminds me. I heard that someone here in Cosmo Canyon is selling some Healing Materia.	そういえば、このコスモキャニオンのどこかに、いやしのマテリアがあるという話を聞いたことがありますが
 Elder Bughe	長老ブーガ
 Mmm…	ほいほい
+Elder Bughe	長老ブーガ
 What is it?	なんじゃなんじゃ？
 The story of the Ancients	古代種の話を……
+Nothing	なんでもない
+Elder Bughe	長老ブーガ
 …Hmm. That's no fun… I wanna tell a story.	……チェッ。つまらんのう。長話をしたいのう
+Elder Bughe	長老ブーガ
 You can't talk of the Ancients, without mentioning Professor Gast. He used to come here sometimes.	古代種といえばガスト博士なのじゃ。時々ここにも来ておった
 He was a Shinra scholar who spent his life studying the Ancients.	博士は古代種のナゾを追い続けた 神羅の学者だったのじゃ。
 He was a serious person, you never would have thought he'd be in Shinra.	神羅っぽくない生真面目な人じゃ
@@ -196,26 +222,33 @@ He's been missing since then. I heard that he never went back to Shinra	それ�
 So, if you ever see Professor Gast, I want you to tell him…	というわけでなガスト博士に会うことがあったら伝えてほしいんじゃ
 That the old man that likes to drink in Cosmo Canyon, wants to hear about the Ancients.	コスモキャニオンの酒好きジイさんが古代種の話を聞きたがっているとな
 Well, there's lots to talk about, but most things about the Ancients are all legend and folk tales, and no one knows the truth.	ま、話したいのはやまやまじゃが古代種のことは言い伝えや伝説ばかりで真実はもうだ～れにもわからんのじゃ
+Elder Bughe	長老ブーガ
 Mmm. I'm starting to feel good now. That bartender's cocktails always hit the spot.	ん～ええ気分じゃ。マスターのつくるカクテルはいつも最高じゃの
+Elder Bughe	長老ブーガ
 Is that so? You brought Nanaki back here?	そうかそうか。おまえさんたちがナナキをつれてきてくれたのか
 Yeah, thanks.	ウンウン、ありがとうよ
+Elder Bughe	長老ブーガ
 By the way, your friends are all in front of the 'Cosmo Candle'	そういえば、おまえさんといっしょに来た連中がコスモキャンドルの前に集まっとったよ
 Are you all leaving now?	もう出発するんかい？
 Maybe there are some people here that know about the Promised Land and the Ancients.	ここなら約束の地とか古代種とかくわしい人、いるかもね
 RED XIII… I wonder what's happened to RED XIII…? He's as excited as a little boy.	RED XIII……どうしたのかな？子供みたいにはしゃいで
 Are you going somewhere?	どこかへ行くの？
 Hmm?	な～に？
+Elder Bughe	長老ブーガ
 Live with the Planet, die with the Planet.	星とともに生き星とともに死ぬ
 Maybe this is the way it should be. Who knows? I'm full of booze…	これはこれでいいのかもしれん。酒もたらふく飲めたしの……
 It's when I think about the children. I wonder if we can just save our own children.	でも、子供たちのことを考えるとなあ。あの子らだけでもなんとかならんもんかのぅ
+Elder Bughe	長老ブーガ
 Where is the Promised Land…? Maybe Bugenhagen knows.	約束の地はどこにあるのか……ブーゲンハーゲン様はごぞんじなのかもしれんなあ
 Isn't Nanaki starting to notice? The reason why Bugenhagen sent him away from the canyon…	ナナキもなんとなくわかりはじめておるんとちがうかい？ブーゲンハーゲン様がナナキをこの谷から出した理由が……
+[Turtle's Paradise]	【かめ道楽　通信】
 No. 5	ナンバー５
 Our cocktails are good but our wine is the best! Please stop in the Turtle's Paradise!!	カクテルもいいけどやっぱり地酒がいちばん！ぜひいちど居酒屋『かめ道楽』へ！！
 Materia Shop	マテリアショップ
 …num…yawn…Sir… You…forgot…your… …change.	ムニャムニャ……お客さん……おつり……おつりわすれてます……
 …num…Yes, I'm coming…	ンニャ……は～い……ただいま……
 Are you here to shop?	お買いもの……ですふぁ？
+That's right	そうだ
 No, what's your problem?	そうじゃない
 Oh…is that so… then let me…yawn…sleep…	ああ……そうですか……ならほっといて……ムニャ
 Oh…is that so…  You're here to shop?	ああ……そうですか……お買い……もの……お買いもの！？
@@ -227,6 +260,7 @@ Welcome! Oh, it's nothing. Now, please make yourselves comfortable!	いらっし
 Thank you very much!	ありがとうございました！
 Oh man! This place looks like a real drag. And their Materia sucks, too.	あ～あ！たいくつそうなところだよ。たいしたマテリアもないしね
 God. I HATE studying!	う～。勉強はキライだよっ！
+Cosmo Canyon	コスモキャニオン
 Oh, welcome home. You want dinner first? Or…	あら、おかえりなさい。ね、すぐディナーにする？それとも……
 Dinner	ディナー
 Or…	それとも……
@@ -258,10 +292,13 @@ Sorry…I'm really sorry. But now, I have…	ゴメン……ゴメンよ。で�
 He's finally come home, but Bugenhagen doesn't seem well…	やっと帰ってきてくれたのにブーゲンハーゲン様、元気ないです……
 I want to hear Bugenhagen talk with Nanaki like we used to do…	はやく前みたいにナナキといっしょにブーゲンハーゲン様のおはなしききたいです……
 Nanaki, is it true that Bugenhagen left on a journey? Then that means he's better, right? He IS going to come back soon, right?	ナナキ、ブーゲンハーゲン様たびにでたって本当なの？なら、元気になったんだよね？またすぐに帰ってくるよね？
+…	…………
 …Don't worry. Grandpa will come back floating, saying 'Ho Ho Hoooo' again…	……だいじょうぶ。じっちゃんのことだからまたすぐにプカプカやってくるさ。『ホーホーホウ』って……
 Yea, that's right! Ho Ho Hoooo'!	ウン、そうなのです！『ホーホーホウ』なのです！
 It's Ho Ho Hoooo! Ho Ho Hoooo!	ホーホーホウです！ホーホーホウ！
 Shildra Inn	シルドラ・イン
+Received "Elixir"!	『エリクサー』を手にいれた！
+Item Store	道具屋
 Hello. Looking for anything in particular?	やあ、どうも。何をお探しかな？
 Hi. Of course, our store's open.	おや、どうも。もちろん、店は開いてますよ
 No need to fear. I have the Study of Planet Life' right here.	怖くはありません。私には『星命学』がありますから
@@ -271,6 +308,7 @@ Received "Telpostone"!	『テレポストーン』を手にいれた！
 Received "Magic Source"!	『マジックアップ』を手にいれた！
 Received "Full Cure" Materia!	『フルケア』のマテリアを手にいれた！
 You can not take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
 Gate of Naught	『無用の扉』前
 Bugenhagen sealed this door shut.	このトビラってさあ。ブーゲンハーゲンさまがフーインしてるからあかないんだ
 How'd he do that? With super glue?	フーインて、なんだろ？きょうりょくせっちゃくざいのことかな？
@@ -281,52 +319,75 @@ Observatory	天文台
 Bugen Research Center	ブーゲンの研究所
 CLOUD, this is my grandfather, Bugen.	CLOUD、この人がブーゲンのじっちゃん
 He is incredible. He knows everything.	なんでも知ってるすごいじっちゃんさ
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. I hear that you looked after Nanaki. 	ホーホーホウ。ナナキがちょっとだけ世話になったようじゃの
+Bugenhagen	ブーゲンハーゲン
 Nanaki is still a child you see.	ナナキはまだまだ子供だからのう
 Please stop, Grandfather. I'm 48.	やめてくれよ、じっちゃん！オイラはもう４８歳だよ
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. Nanaki's tribe has incredible longevity.	ホーホーホウ。ナナキの一族は長命じゃ
 So you see his 48 years would only be equivalent to say that of a 15 or 16 year old in human reckoning.	４８歳といっても人間の年で考えればまだ１５、６歳くらいのものじゃ
 15 or 16!?	１５、６歳！？
+Bugenhagen	ブーゲンハーゲン
 He's quiet and very deep. You thought he was an adult?	無口で考え深い。あんたはナナキのことを立派な大人だと思っていたのかな？
 …Grandfather. I want to be an adult.	……じっちゃん。オイラはやく大人になりたいんだよ
 I want to grow up to be able to protect you and the village.	はやくじっちゃんたちを守れるようになりたかったんだよ
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. No Nanaki. You can't stand on your own yet.	ホーホーホウ。いかんな、ナナキ。せのびしてはいかん
+Bugenhagen	ブーゲンハーゲン
 To do that now would destroy you in the long run.	せのびをするといつかは身をほろぼす
+Bugenhagen	ブーゲンハーゲン
 Reaching up into the heavens, threatening to snatch the very stars from the great city of Midgar. You've seen it, haven't you?	天にとどけ、星をもつかめとばかりにつくられた魔晄都市。あれを見たのであろう？
+Bugenhagen	ブーゲンハーゲン
 Well, that's a bad example. Looking up too much makes you lose perspective.	あれが悪い見本じゃ。上ばかり見ていて自分の身のほどを忘れておる
+Bugenhagen	ブーゲンハーゲン
 When it's time for the Planet to die, you'll understand that you know absolutely nothing.	この星が死ぬときになってやっと気づくのじゃ。自分が何も知らないことにな
 …When the Planet dies?	……星が死ぬ？
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. It may be tomorrow, or 100 years from now… But it's not long off.	ホーホーホウ。明日か１００年後か……それほど遠くはない
 How do you know this?	どうしてそんなことがわかるんだ？
+Bugenhagen	ブーゲンハーゲン
 I hear the cries of the Planet.	星の悲鳴が聞こえるのじゃ
 What's that?	これは？
+Bugenhagen	ブーゲンハーゲン
 The sounds of the stars in the heavens. While this goes on, planets are born, and die.	天に輝く星の音。こうしているうちにも星は生まれ、死ぬ
 What was that?	今のは？
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. That was a scream from the Planet.	ホーホーホウ。この星のさけびじゃ
 Didn't you hear it? As if to say… I hurt, I suffer…	痛い、苦しい……そんなふうに聞こえるじゃろ？
 They have come here on a journey to save the planet.	CLOUDたちは星の命を救うために旅をしているんだ
 Why don't you show them your apparatus?	じっちゃんのじまんのアレを見せてやったらどうかな
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. To save the planet? Ho Ho Hoooo!	ホーホーホウ！星を救う！　ホーホーホウ！
 Impossible. What can humans do?	そんなことは不可能じゃ。人間なんぞに何ができる
+Bugenhagen	ブーゲンハーゲン
 But, then again, I guess it wouldn't hurt to show him.	しかし、なんじゃ。わしのじまんのアレを見るのはけしてムダではなかろう
 He brought friends, too. I'll go get them.	ああ、その人たちもCLOUDの仲間だ。オイラが行くよ
 CLOUD, please call one of them.	そうだCLOUD。誰かつれておいでよ
 Only three people can fit in Grandfather's machine.	じっちゃんのアレは定員３名だからね
 Bugenhagen!	ブーゲンハーゲンさま～！
 Several odd looking people are here.	またヘンテコな人たちがいっぱいきましたです～
+Bugenhagen	ブーゲンハーゲン
 The whole place has gotten busy all of a sudden.	なんじゃ、急にさわがしくなったな
+Bugenhagen	ブーゲンハーゲン
 Don't worry. My machine won't run away. Go and invite your friends.	そうあわてんでもわしのアレはにげたりせんよ。仲間もさそってくるといい
+Bugenhagen	ブーゲンハーゲン
 Here, over here. The door's unlocked, come in.	お～い、こっちじゃ。とびらのカギは開いとるから入ってくるがいい
+Elder Hargo	長老ハーゴ
 I hope great Bugenhagen will take care and not overexert himself.	ブーゲンハーゲン様のことどうかよろしく。あまりムリはさせないように
 'Ho Ho Hoooo.' I may be light, But I'm not as young as Nanaki.	『ホーホーホウ』なんてフワフワしてても、ナナキのように若くはないからして……
 Oops. That will only get you angry. You're just like me.  Ho ho ho.	おっと。そんなコト言ってると怒られるかの。ワシも似たようなもんだしの。ホッホッホ
+Observatory	天文台
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. It looks like you have them all together. Then let's begin.	ホーホーホウ。そろったようじゃな？それじゃ、はじめようかの
 I'll stand there.	ホレ、そこにたつんじゃよ
+Observatory	天文台
 So pretty…It's just like the real thing!	きれい……ホントの宇宙みたい。ね、CLOUD？
 Wow! It's just like the real thing!	うわ～！　本物の宇宙みたい！
 This is really somethin'!	こいつはすげえ！
 Whew! Just like the real thing!	ひゃぁ～！ほんまもんみたいや～！
 Woa! Wooooah! Pretty good, surprisin' me!	おっ！　おおっ！アタシを驚かせるなんてやるじゃないか！
+Bugenhagen	ブーゲンハーゲン
 Hmm, yes pretty good. This is my laboratory.	ほほ、そうじゃろう。これがワシのじまんの実験室じゃ
 All the workings of space are entered into this 3D Holographic System.	この宇宙の仕組みが全てこの立体ホログラフィシステムにインプットされておる
 Hey! A shooting star!	あっ！　流れ星！
@@ -339,10 +400,13 @@ Oh! This is amazing!!	スゴイ、スゴイ、スゴイスゴ～イ！！
 I'm so overwhelmed!	感激もんですわ～！
 This's really somethin'!	こいつはすごいぜ！
 Whew!!	ヒュ～！！
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. Yes, it is something, isn't it?	ホーホーホウ。そうじゃろ、すごいじゃろ
 Well, let's get to the subject.	さて、そろそろ本題に入ろうかの
+Bugenhagen	ブーゲンハーゲン
 Eventually…all humans die. What happens to them after they die?	人間は……いつか死ぬ。死んだらどうなる？
 The body decomposes, and returns to the Planet. That much everyone knows. What about their consciousness, their hearts and their souls?	身体は朽ち、星に帰る。これは広く知られているな。では、意識、心、精神はどうじゃ？
+Bugenhagen	ブーゲンハーゲン
 The soul too returns to the Planet.	じつは精神も同じく星に帰るのじゃな
 And not only those of humans, but everything on this Planet. In fact, all living things in the universe, are the same.	人間だけではない。この星、いや宇宙に生きるものすべてひとしく
 The spirits that return to the Planet, merge with one another and roam the Planet.	星に帰った精神はまざりあい、星をかけめぐる
@@ -361,32 +425,44 @@ to form Planets.	精神エネルギーが必要なんじゃ。
 And if that Spirit Energy	その精神エネルギーが
 were to disappear…	なくなったらどうなる？
 It would be the end of life as we know it.	……終わりじゃ
+Bugenhagen	ブーゲンハーゲン
 …These are the basics of the Study of Planet Life.	……これが星命学の基本じゃな
 If Spirit Energy disappears, our Planet will die.	精神エネルギーが失われると星が滅びる……
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. Spirit Energy is efficient BECAUSE it exists within nature.	ホーホーホウ。精神エネルギーは自然の流れの中でこそその役割を果たすのじゃ
 When Spirit Energy is forcefully extracted, and manufactured, it can't accomplish its true purpose.	むりやり吸い上げられ加工された精神エネルギーは本来の役割を果たさん
 You're talking about Mako energy, right?	魔晄エネルギーのことを言ってるのか？
+Bugenhagen	ブーゲンハーゲン
 Everyday Mako reactors suck up Spirit Energy, diminishing it.	魔晄炉に吸い上げられずんずん減っていく精神エネルギー
 Spirit Energy is compressed in reactors and processed into Mako energy. All living things are being used up and thrown away.	魔晄炉によって過度に凝縮される精神エネルギー。魔晄エネルギーなどと名づけられ使いすてられているのは、すべて星の命じゃ
 In other words, Mako energy will only destroy the Planet…	すなわち魔晄エネルギーはこの星を滅ぼすのみ……じゃ
+Bugenhagen	ブーゲンハーゲン
 The story of the planets… and those who lived with them…	星の話……星とともに生きた者の話……
 If you want to know more, then you must listen to the words of the elders.	もっと知りたいかの？それなら長老たちの話を聞くとよかろう
+Bugenhagen	ブーゲンハーゲン
 Nanaki? His father a coward?	ナナキが？父親をふぬけと？
 So that's it…Nanaki's been thinking that all this time…	そうか……ナナキがそんなことを……
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. You people.	ホーホーホウ。あんたたちか
 Where is Nanaki? I hope he wasn't a burden.	ナナキはどうしてるかの？メイワクかけとらんかの？
 Ho Ho Hoooo. I'm glad you're back, Nanaki.	ホーホーホウ。よく帰ったな、ナナキ
 I hate to trouble you, but please look after Nanaki.	すまんが、これからもナナキのことをよろしくな
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. That's a machine only I can use.	ホーホーホウ。それはわしにしかあつかえんキカイじゃよ
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo.	ホーホーホウ
 …no time for humming now. The Planet is nearing imminent death.	……と言ってられる場合じゃないんじゃの。まさに星の死が近づいておる
 But is this perhaps, what the Planet wanted? Did the Planet actually want to end like this?	しかし、これが星の望んだことかの？星はこんな終わりかたをねがったのかの？
 I don't believe so. Were it not so, you people would still have much to do.	そんなはずはないじゃろう。だとすれば、まだあんたたちにもやれることはあるはずじゃ
 And myself, too. Come back whenever you are in need of my knowledge.	もちろんわしにもじゃ。わしの知識が必要になったらいつでもきてくれい
+Bugenhagen	ブーゲンハーゲン
+Ho Ho Hoooo.	ホーホーホウ
+…no time for humming now. The Planet is nearing imminent death.	……と言ってられる場合じゃないんじゃの。まさに星の死が近づいておる
 Where is CLOUD? Wasn't he with you?	ところでCLOUDは？いっしょじゃないのかの？
 Cosmo Candle	コスモキャンドル
 Cosmo Canyon… This's where AVALANCHE was born…	コスモキャニオン……アバランチの生まれた場所……
 I promised my guys someday… when we saved the Planet from the Shinra, that we'd all go to Cosmo Canyon and celebrate…	あいつらと約束してた。いつか……神羅からこの星をすくったその時にはコスモキャニオンへ行って祝杯をあげよう……
+Biggs… Wedge… Jessie…	ビッグス……ウェッジ……ジェシー……
 Now they're all gone… died for the Planet.	みんな……みんないなくなっちまった……この星を守るために
 …Really? To save the Planet?	……本当に？この星の命を守るため？
 We all… we all hate the Shinra…	オレたちは……オレは……神羅が憎かっただけ……
@@ -401,6 +477,7 @@ CLOUD…	ねえ、CLOUD
 Bonfires are funny, aren't they?	たき火って不思議ね
 They make you remember all sorts of things.	なんだかいろんなこと思い出しちゃうね
 You know, CLOUD. five years ago…	あのねえ、CLOUD。５年前……
+…?	……？
 …It's nothing.	……ううん
 No, forget it. I'm afraid to ask…	やっぱりやめる。聞くのが……怖い
 What is it?	なんだよ
@@ -418,110 +495,177 @@ I wonder how many years it's been… Gosh, it brings back memories……	こん�
 …Long ago.	……ずっとむかし
 …When I was still very small. We were all around this flame…	オイラが本当に子どものころだ。あの日も、やっぱりみんなでこの火をかこんで……
 No, never mind…	やっぱり話すのや～めた
+What happened?	どうしたんだ？
 It's about my parents.	オイラの両親のことだからさ
 When I talk about my Mother, I am full of pride and joy…	母さんの話をするとオイラの胸はほこらしい気持ちではちきれそうになる
 And that's fine. …But when I think of my father, my heart is full of anger…	それはいいんだ。でも、父親のことを思い出すとオイラの胸は怒りで……
+Bugenhagen	ブーゲンハーゲン
 …You really can't forgive your father?	……やはり父親が許せないか
 Of course. He…left Mother for dead.	当たりまえだよ。あいつは……母さんを見殺しにしたんだ
 When the Gi tribe attacked, he ran off by himself, leaving Mother and the people of the Canyon!	ギ族が攻めてきたときあいつは１人で逃げ出した。母さんと谷の人たちを放り出してさ！
+Bugenhagen	ブーゲンハーゲン
 …Come, Nanaki. There's something you should see.	……来るがよい、ナナキ。おまえにみせたいものがある
+…?	……？
+Bugenhagen	ブーゲンハーゲン
 The place may be dangerous.	ちょっとばかり危険な場所だ
 CLOUD. Will you and one other person come with us?	CLOUDよ。おまえと、あと１人いっしょに来てくれんか
+…	…………
 …Where're they going?	……どこ行こうってんだ？
 Can I go too?	私も行っていいの？
 I wonder what he wants to show RED XIII?	何かしらね、RED XIIIに見せたいものって……
 Dangerous? Count me out…	キケンなんやったらエンリョしますわ……
 I wonder what he wants to show him? Hmm, maybe it's Materia that's been passed down for generations?	見せたいものって、アレかな？ホラ、この谷に代々つたわるマテリアとかさ！
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo	ホーホーホウ
 Are we all set?	用意はいいかの？
+Yeah	ああ……
 Just a minute	ちょっと待った
+Bugenhagen	ブーゲンハーゲン
 Not ready yet? Tell me when you are ready.	なんじゃ、まだか。用意ができたら教えておくれ
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. Shall we go?	ホーホーホウ。なら、行くとするかの
+Bugenhagen	ブーゲンハーゲン
 All right. Come in, come in.	これでよし。さあ、入った入った
 Okay. You lead the way, Grandpa…	あれ？じっちゃんが案内してくれるんじゃないの？
+Bugenhagen	ブーゲンハーゲン
 What, are you crazy? It's dangerous in there. I told you that!	な～に言うとるんじゃ。ちょっとばかり危険だと言うたじゃろ
 You want an old man like me to go first? I'll be right behind you.	年寄りに先を行かせるのか？わしは後ろからついていくよ
 Sealed Cave	封印の洞窟
+Bugenhagen	ブーゲンハーゲン
 What is it? You're going back? I'll be waiting here for you when you're ready.	なんじゃ、もどるのか？わしはここで待ってるから用意ができたらすぐくるんじゃぞ
 I can't leave this door open forever.	この扉、いつまでも開けておくわけにもいかんのでな
+Bugenhagen	ブーゲンハーゲン
 Good. Then we shall proceed.	よしよし。それじゃ行くとしよう
 Cave of the Gi	ギ族の洞窟
+Bugenhagen	ブーゲンハーゲン
+Ho Ho Hoooo.	ホーホーホウ
 Everyone here's a Ghost of the Gi tribe, killed in a certain battle.	ここにいるのはみなギ族の亡霊じゃ。ある戦士に倒された、な
  A certain battle?	ある戦士……？
+Bugenhagen	ブーゲンハーゲン
 The vengeful spirits of the Gi didn't disappear, and couldn't return to the Lifestream…	しかし、死してなおギ族の憎悪の精神は消えず、ライフストリームに帰ることすらこばんでいるのじゃ……
 We still have far to go. Ho Ho Hoooo.	先はまだ長いぞ、ホーホーホウ
+Bugenhagen	ブーゲンハーゲン
 This cave leads to the back of Cosmo Canyon.	この洞窟はコスモキャニオンの裏へとつづいておる
+Bugenhagen	ブーゲンハーゲン
 If we had been attacked by the Gi here, we wouldn't have stood a chance.	ここからギ族に攻め入られたらひとたまりもなかったじゃろう
+…	…………
 This is a strange looking rock…	不思議な形をした石だ……
 Break it open	くずしてみる
 Leave it alone	そっとしておく
 Funny looking rock…	おかしな形をした石だ……
+Break it open	くずしてみる
 Leave it as is	そっとしておく
 An odd shaped rock…	きみょうな形をした石だ……
+Break it open	くずしてみる
+Leave it as is	そっとしておく
 A strange shaped rock…	変わった形をした石だ……
+Break it open	くずしてみる
+Leave it as is	そっとしておく
 Received "Added Effect" Materia!	『ついかこうか』のマテリアを手にいれた！
+You cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+Cave of the Gi	ギ族の洞窟
+Bugenhagen	ブーゲンハーゲン
 As you can see, this cave leads to the back of Cosmo Canyon.	みてのとおり、この洞窟はコスモキャニオンの裏へとつづいておる
 Even though the Gi outnumbered us, they could not attack through here because the passage is too narrow.	ギ族はわしらより体も大きくなにより残忍じゃ。ここから攻め入られたらひとたまりもなかったじゃろう
+…	…………
+Bugenhagen	ブーゲンハーゲン
 Let's move on.	さあ、先へ進もうかの
 Received "Black M-phone"!	『ブラックメガホン』を手にいれた！
+Received "Ether"!	『エーテル』を手にいれた！
+Cave of the Gi	ギ族の洞窟
+Bugenhagen	ブーゲンハーゲン
 This warrior went through the cave all alone.	その戦士はこの洞窟を１人で走りぬけた
+Bugenhagen	ブーゲンハーゲン
 Fighting attackers one after another…	次から次へと襲いかかってくるギ族と戦いながら……
 Grandpa… That warrior…	じっちゃん……その戦士って……
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo… We're almost there.	ホーホーホウ……あと少し、じゃな
 Received "Fairy Ring"!	『フェアリーリング』を手にいれた！
+Received "X-Potion"!	『エクスポーション』を手にいれた！
+Received "Turbo Ether"!	『エーテルターボ』を手にいれた！
+Cave of the Gi	ギ族の洞窟
+Bugenhagen	ブーゲンハーゲン
 What is this?	なんということじゃ……
 Grandpa, is he?	じっちゃん、こいつは……！？
+Bugenhagen	ブーゲンハーゲン
 After death… The ghosts of the Gi. Like stagnant air…	死してなお……ギ族の亡霊が……よどんだ大気のように……
 This…can't be!!	これは……いかん！！
+Bugenhagen	ブーゲンハーゲン
 …Thank you, CLOUD. because of you, we survived.	……ありがとう、CLOUD。あんたたちのおかげでなんとか助かったよ
 Nanaki, you have grown strong, too.	ナナキもいつのまにか、ずいぶん強くなっていたんじゃな
 …Oh yeah?	へへへ……そうかな？
+Bugenhagen	ブーゲンハーゲン
 Now I know that it wasn't a mistake bringing you here…	やはりお前を連れてきたのは間違いではなかったようじゃ……
 Come, I have something I want to show you. Right over here.	さ、お前に見せたいものはすぐそこじゃよ
+You cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
 Received "Gravity" Materia!	『じゅうりょく』のマテリアを手にいれた！
 Cet Wall	セトの壁
 This is…	ここは……
+Bugenhagen	ブーゲンハーゲン
 …The warrior who fought against the Gi.	……その戦士はここでギ族と戦った
 He kept them from taking even one step into Cosmo Canyon.	ギ族が一歩たりともコスモキャニオンに入りこめないようにな
+Bugenhagen	ブーゲンハーゲン
 But he was never able to return to town…	そして自分は二度と村へもどることは
+Bugenhagen	ブーゲンハーゲン
 Look, Nanaki. Look at your father, at the warrior, Seto.	見るがいいナナキ。おまえの父、戦士セトの姿を
 …That… That's…Seto?	……あれが……あれが……セト……？
+Bugenhagen	ブーゲンハーゲン
 Seto continued to fight the Gi tribe here. …To protect this Canyon.	セトはあそこでギ族と戦いつづけた。この谷を守りつづけた
+Bugenhagen	ブーゲンハーゲン
 Even after the Gi's poisonous arrows turned his body to stone…… Even after they all ran away… Seto, continued to protect us.	ギ族の毒矢で体を石にされても……ギ族がすべて逃げだしたあとも……戦士セトはここを守りつづけた
 And he continues to protect us, even now.	いまもこうして守りつづけている
 Even now…	いまも……
+Bugenhagen	ブーゲンハーゲン
 You thought that he was a coward and ran away. But he, alone risked his life to protect Cosmo Canyon.	たとえ、逃げだしたひきょうものと思われても、たった１人、命をかけてコスモキャニオンを守ったんじゃ
 That is your father, Seto.	それがおまえの父親セトじゃ
 That…is Seto? …!? Did Mother know?	あれが……あれがセト？……！？母さんはこのことを？
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo…She knew. The two of them made me promise to keep this cave shut.	ホーホーホウ……知っておったよ。２人はあの時、わしに頼んだんじゃ。この洞窟は封印してくれとな
+Bugenhagen	ブーゲンハーゲン
 They asked me to seal it myself and not to tell a soul.	わし１人で封印しそのことは誰にも話してはいけない
 They said we should forget about this cave.	こんな洞窟のことは忘れた方が良いから、と言ってな
+…	…………
+Bugenhagen	ブーゲンハーゲン
 CLOUD… Would you mind leaving the two of us alone?	……CLOUD。勝手を言ってすまないがわしら、２人きりにしてくれんかの
+Bugenhagen	ブーゲンハーゲン
 Nanaki. I want you to continue your journey with CLOUD and the others.	ナナキよ。CLOUDたちと旅をつづけるのじゃ
 Grandpa!?	じっちゃん！？
+Bugenhagen	ブーゲンハーゲン
 Listen, Nanaki.	聞くのじゃ、ナナキ
+Bugenhagen	ブーゲンハーゲン
 CLOUD says they are trying to save the Planet.	CLOUDたちは星を救うなどと言っておるな
 Honestly, I don't think it can be done.	正直なところ、そんなことができるとは、わしには思えん
 For even if they stop every reactor on the Planet, it's only going to postpone the inevitable.	この星のすべての魔晄炉を止めても星の死は、ほんの少しのびるだけじゃ。
 Even if they stop Sephiroth, everything will perish.	セフィロスとやらを倒しても同じこと。かたちあるものは必ず滅す、じゃ
+Bugenhagen	ブーゲンハーゲン
 But, Nanaki. I've been thinking lately.	だがな、ナナキ。わしは最近考えるんじゃ
 I've been thinking if there was anything WE could do, as a part of the Planet, something to help a Planet already in misery…	こんなにも星が苦しんでいるのに星の一員、いや、星の一部であるわしらにできることは本当に何もないのか、とな
+Bugenhagen	ブーゲンハーゲン
 No matter what happens, isn't it important to try?	結果はどうなろうと何かやることが大切なのではないか？
 Am I just wishing against fate?	わしは運命を受け入れすぎるのではないか？
+Bugenhagen	ブーゲンハーゲン
 I am too old to do anything about it…	だが、何かをするにはわしは年をとりすぎた……
 This year, I'll be 130. Ho Ho Hoooo.	ことしで１３０歳じゃよ。ホーホーホウ、じゃ
+Bugenhagen	ブーゲンハーゲン
 That is why, Nanaki, you must go with them! For my sake.	だからナナキよ、行けい！わしの代わりにすべてを見とどけるんじゃ
 Grandpa…	じっちゃん……
+Bugenhagen	ブーゲンハーゲン
 I wanted to show you your real father before you left…	おまえがここを離れる前にどうしても父親の真実の姿を見せておきたかったんじゃ……
+Bugenhagen	ブーゲンハーゲン
 I'm so glad that you came back while I was still alive to show you.	わしが生きてるうちにおまえが帰ってきてよかったわい
 Grandpa…don't talk like that. I don't want to think of life… without you…	じっちゃん……さみしいこと言うなよ。じっちゃんがいなくなるなんてオイラ……
+Bugenhagen	ブーゲンハーゲン
 Ho Ho Hoooo. Well, I've had a long life.	ホーホーホウ。わしはもうじゅうぶん生きたよ
 Grandpa! You must live!	じっちゃん！生きててくれなくちゃダメだ！
 I'll see to it.	オイラは見とどける
 I'll see to what's happening to the Planet. And I'll come back to tell you.	星がどうなるのかを見とどけてそして帰ってくる。じっちゃんに報告するために
+Bugenhagen	ブーゲンハーゲン
 Nanaki…	ナナキ……
 I am Nanaki of Cosmo Canyon! The son of the warrior, Seto!	オイラはコスモキャニオンのナナキ。戦士セトの息子だ！
 I'll come back a warrior true to that noble name! So please, Grandpa…	その名にはじない戦士になって帰ってくる！だから、じっちゃん！
+Bugenhagen	ブーゲンハーゲン
 That's…Seto's… Seto…	あれは……セトの……おお……セト……
 Seto… Fa…Father…	セト……父……さん……
 Shall we get going?	そろそろ出発しようか

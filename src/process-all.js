@@ -34,8 +34,8 @@ fs.readdir(formatted, function(err, files){
 		let lines = [];
 		for(let entry of result) {
 			let line = `${entry.source}\t${entry.target}`;
-			if(allLines.contains(line)) continue; // don't add duplicates
-			allLines.push(line);
+//			if(allLines.contains(line)) continue; // don't add duplicates
+//			allLines.push(line);
 			lines.push(line);
 		}
 		newLines += lines.length;

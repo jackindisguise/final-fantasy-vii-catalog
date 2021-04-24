@@ -13,6 +13,7 @@ Damn, this's somethin'. It's gathered all that energy to try an' heal itself.	�
 It's trying to heal its wound by gathering all that energy here.	その傷を治そうとしてこんなにたくさんのエネルギーが集まってるわけでんな
 It's amassed a vast amount of energy to heal itself.	傷をいやすためにエネルギーが大量に集まってきたわけか
 …bback…to…Sep… …i…roth…	……セ…セフィ…ロスのも…と……へ…
+Crater	クレーター
 OK, let's go…	しかたない……
 The rest is up to you!	あとは、まかせたぜ！
 CLOUD, wait for me!!	CLOUDまって～！！
@@ -32,23 +33,38 @@ That's…!!!	あれは！！
 Rufus is coming here, too?	ルーファウスもここに来るのか？
 Received "Neo Bahamut" Materia!	『バハムート改』のマテリアを手にいれた！
 You cannot take on any more Materia. Please discard some Materia.	これいじょうマテリアは持てません。なにかマテリアをすててください
+Rufus	ルーファウス
 So, I finally found you.	ついに見つけたな
+Scarlet	スカーレット
 Kyaa haa hah.	キャハハハハ！
+Scarlet	スカーレット
 Kyaa haa hah.	キャハハ……
 haa hah	ハハハ……
 haa…hah	ハァ……ハァ……
 This is incredible…	ほんと、すっごいわね……
+Heidegger	ハイデッカー
 This is the Promised Land the President had been searching for!!	まさにプレジデントがさがしもとめた約束の地！！
+Rufus	ルーファウス
 But, I'll be the one who gets it.	だが、手にいれるのは私だ
+Rufus	ルーファウス
 Sorry, old man.	悪いな、おやじ
+Hojo	宝条
 Heh heh heh…	クックックッ……
+Hojo	宝条
 That land is no one's.	あの場所は誰のものにもならん
+Hojo	宝条
 It's where the Reunion will take place… They will all gather here…	……リユニオンの終着点。……みんな集まれ、か
+Hojo	宝条
 I wonder if we'll see…Sephiroth?	セフィロス……会えるのかな？
+Whirlwind Maze	竜巻の迷宮
 We need to cross when the wind is calm, or we'll get swept off!	気流がおさまるタイミングを見て渡らないとはじき飛ばされちゃうわ！
 Wh…who---a	うっ、うわ～っ
 Uph…Se…phi…roth…	…グ……フ……ッ……セフィ…ロ…ス…
+Received "Ether"!	『エーテル』を手にいれた！
+Received "Hi-Potion"!	『ハイポーション』を手にいれた！
+Whirlwind Maze	竜巻の迷宮
 Received "Kaiser Knuckle"!	『カイザーナックル』を手にいれた！
+Whirlwind Maze	竜巻の迷宮
 Sephiroth!!!	セフィローーース！！
 This is the end!	ここまでだ！
 Jenova's cells…	ジェノバ細胞……
@@ -78,6 +94,7 @@ Received "Black Materia"!	『黒マテリア』を手にいれた！
 Received "Poison Ring"!	『ポイズンリング』を手にいれた！
 Received "MP Turbo" Materia!	『ＭＰターボ』のマテリアを手にいれた！
 You cannot take on anymore Materia. Please discard some Materia.	これいじょうマテリアは持てません。なにかマテリアをすててください
+Whirlwind Maze	竜巻の迷宮
 BARRET	クラウド
 Are CLOUD and the others alright?	竜巻の内部１
 Are CLOUD and the others alright?	CLOUDたちだいじょうぶなのかよぅ？
@@ -87,6 +104,7 @@ The hell was that?	おめえら、今の何だよ！
 H, huh!?	あ、あれっ！？
 Hey…guys!	み、みんなっ！！
 Where are we? Where did we end up?	ここ、どこなんだよっ！どこ行っちまったんだよっ！
+TIFA!!	TIFA！！
 Something's weird here! It got pitch black all of a sudden, and everyone disappeared!	なんか様子が変なんだよ！真っ暗になっちまってみんないなくなっちまった！
 Yea…yeah!	お、おう！
 I don't know what's goin' on, but let's just get on with it.	なんだかわからねえがとにかく行けばいいんだな！
@@ -103,10 +121,12 @@ Is everyone all right?	みんな、だいじょうぶ！？
 What's going on?	どうなっちゃったの？
 Everyone!!	み、みんなっ！！
 Where am I!? Don't leave me alone!	ここはどこなんだ！？オイラを１人にしないでよっ！
+TIFA!!	TIFA！！
 Something is strange… Why was it dark all of a sudden and where is everybody?	なんか様子が変なんだ……真っ暗になっちゃってみんないなくなっちゃうし……
 R, right!	う、うん！
 I'm not sure I understand… but I'll go if you want me to.	よくわかんないけどとにかくそっちへ行けばいいんだね！
 Received Key Item "Black Materia"!	『黒マテリア』を手にいれた！
+Jenova's cells…	ジェノバ細胞……
 …hmm. So that's what this is all about.	……なるほどな。そういうわけか
 The Jenova Reunion…	ジェノバはリユニオンする、か
 I'll explain later. Right now, the only thing I'm thinking about is beating Sephiroth.	説明はあとだ。今はセフィロスを倒すことだけを考えるんだ
@@ -132,6 +152,7 @@ We'd better not take the Black Materia any further. Why don't you give it to som
 Let's find Sephiroth!!	セフィロスを追いかけましょう！！
 What's happening, CLOUD? That wasn't Sephiroth!	どうなってんの、CLOUD？セフィロスじゃなかったよ！
 CLOUD, be careful!	気をつけてよCLOUD！
+Give the Black Materia to...	黒マテリアを
 Give to RED XIII.	RED XIIIにあずける
 Don't give to RED XIII.	RED XIIIにあずけない
 You want me to take the Black Materia? All right, I understand.	オ、オイラが黒マテリアを？……うん、わかったよ
@@ -148,6 +169,7 @@ So it wasn't Sephiroth…?	セフィロスではなかったのか…？
 You never know when Sephiroth may show up… so don't let your guard down.	セフィロスはいつ現れるのかわからない。気をぬくんじゃないぞ
 How about if you hold on to the Black Materia?	黒マテリア……おまえが持っていてはどうだ？
 You mean… we weren't in pursuit of Sephiroth?	私たちが追ってきたのはセフィロスではなかったのか…？
+Whirlwind Maze	竜巻の迷宮
 Hmm…I see,	……なるほど
 Guess I shouldn't have worried about it.	悩むことなんかなかったな
 TIFA, you'll be alright now.	TIFA、もうだいじょうぶだ
@@ -157,6 +179,7 @@ Sure, OK.	そ、そうよね
 I think I overdid it a little, too.	私もちょっと大騒ぎしすぎちゃった
 Really?	ほ、ほんと？
 What…do you mean?	ど、どういうことなの？
+Nibelheim…	ニブルヘイム……
 Why Nibelheim!? Are you high on Mako or something?	なんでニブルヘイムなんだよ！魔晄に酔っちまったのかぁ？
 But, how!? A dream?  An illusion?	でも、どうして！？夢？　まぼろし？
 But TIFA! Isn't this an illusion?	でも、TIFAさん！これ、まぼろしとちゃいますか？
@@ -185,6 +208,7 @@ Now, how can we get out of here?	さて……どうやったらここから抜�
 Hey, CLOUD. Let's get back to the real world, OK?	CLOUDよぅ。早く元の世界にもどろうじゃねえか
 CLOUD… It's just an illusion.	CLOUD……これは幻覚なんだから
 Don't worry about it…	気にしちゃダメなんだから……
+Sephiroth	セフィロス
 Ha, ha, ha, ha!	クハハハハ！
 What is this? What happened?	なにこれ？　どうしたの？
 Calm down, TIFA.	おちつくんだ、TIFA
@@ -205,27 +229,35 @@ Damn! This was all made up.	いけね！こりゃ全部、つくりもんだっ�
 Sephiroth! I know you're listening! I know what you want to say!	セフィロス！　聞こえてるんだろ！おまえが言いたいことはわかった！
 That I wasn't in Nibelheim five years ago.	５年前、ニブルヘイム。そこに俺はいなかった
 That's it, isn't it?	おまえが言いたいのはそういうことなんだろ？
+Sephiroth	セフィロス
 I see you finally understand.	理解してもらえたようだな
 What you are trying to say is that you want to confuse me, right?	おまえが言いたいことはな。俺を混乱させたいんだろう？
 But…even making me see those things won't affect me.	しかし……こんなものを見せられても俺はなんとも思わない
 I remember it all. The heat of the fire…the pain in my body…and in my heart!	なぜなら俺は覚えている。この炎の熱さを……身体の……心の痛みを！
+Sephiroth	セフィロス
 Oh, is that so?	さて、それはどうかな？
 You are just a puppet… You have no heart…and cannot feel any pain…	おまえは人形……心など持たない……痛みなど感じない……
 How can there be any meaning in the memory of such a being?	そんなおまえの記憶にどれほどの意味がある？
 What I have shown you is reality. What you remember, that is the illusion.	私が見せた世界が真実の過去。幻想をつくりだしたのは……おまえだ
+Sephiroth	セフィロス
 …Do you understand?	……理解できたかな？
 I don't want to understand.	理解する気なんかない
 But, I want to ask you one thing. Why…why are you doing this?	が、ひとつ聞きたい。なぜ……こんなことをする？
+Sephiroth	セフィロス
 Ha, ha, ha…	クックックッ……
 I want to take you back to your real self.	おまえには本来の自分を取りもどしてもらいたいのだ
 The one who gave me the Black Materia that day…	そしていつかそうしたように黒マテリアを私に……
+Sephiroth	セフィロス
 Who would have ever thought a failed experiment would prove so useful?	それにしても失敗作だと思われたおまえが一番役に立つとは……
 Hojo would die if he knew.	宝条が知ったら悔しがるだろうな
 Hojo!? What does he have to do with me!?	宝条！？俺と何の関係がある！
+Sephiroth	セフィロス
 Five years ago you were…	おまえは……そう、５年前だ
 …constructed by Hojo, piece by piece, right after Nibelheim was burnt.	ニブルヘイムが炎につつまれたその後に宝条の手で創り出されたのだ
 A puppet made up of vibrant Jenova cells, her knowledge, and the power of the Mako.	ジェノバ細胞のおどろくべき生命力、能力と魔晄の力が創り出した人形
 An incomplete Sephiroth-clone. Not even given a number. …That is your reality.	セフィロス・コピー・インコンプリート。ナンバリング無し。それがおまえの真実
+Sephiroth	セフィロス
+Ha, ha, ha…	クックックッ……
 CLOUD… Don't listen to him…	CLOUD……相手しちゃだめよ……
 Cover your ears! Close your eyes!	耳をふさぐの！　目を閉じるの！
 All that talk of Hojo constructing you is a lie.	宝条に創り出された？そんなのウソに決まってるわ
@@ -233,11 +265,14 @@ Don't we have our memories together?	だって、私たちにはあの思い出�
 Being kids together, starlit nights…	子供のころ、星がきれいな夜……
 What's wrong, TIFA? I'm not affected by it.	どうしたんだ、TIFA？俺は全然気にしてない
 …I wasn't paying attention to him.	……というか途中から聞いていなかった
+Sephiroth	セフィロス
 Ha, ha, ha…TIFA…	クックックッ……TIFAよ
 Why are you so worried and scared by those words?	その言葉とはうらはらにおまえは何をおびえている？
 Hmm…Shall I show everyone here what's in your heart?	フム……おまえの心をここにうつし出して見ようか？
+Sephiroth	セフィロス
 Ha, ha, ha… You don't look well.	クックックッ……都合が悪いそうだ
 …TIFA? Is Sephiroth right?	……TIFA？セフィロスが正しいのか？
+CLOUD…	CLOUD……
 What's wrong, TIFA?	どうしたんだ、TIFA？
 Why are you so scared? Don't worry about me. I'm all right.	何をそんなに恐れているんだ？俺のことならだいじょうぶ
 No matter how confused I am, I'll never believe a word that Sephiroth says.	俺はどんなに混乱していてもセフィロスの言葉なんて信じない
@@ -254,22 +289,35 @@ No, that's not true, CLOUD…	ち、ちがうの、CLOUD……
 What's not? I'm the same CLOUD you grew up with, aren't I?	何がちがうんだ？俺は……TIFAの幼なじみのCLOUDじゃないのか？
 That's not what I mean… I don't know how to say it…	そういう意味じゃない……でも、うまく言葉にできない……
 CLOUD, I need some time… Just give me a little time…	CLOUD、ほんの少しでいいの。時間を……時間をちょうだい
+Sephiroth	セフィロス
 CLOUD… Don't blame TIFA.	CLOUD……TIFAを責めるな
 I'll explain.	私が説明してやろう
+Sephiroth	セフィロス
 The ability to change one's looks, voice, and words, is the power of Jenova.	他人の記憶にあわせて自分の姿、声、言動を変化させるのはジェノバの能力だ
 Inside of you, Jenova has merged with TIFA's memories, creating you.	おまえの中のジェノバがTIFAの記憶にあわせておまえをつくりだした
+Sephiroth	セフィロス
 Out of TIFA's memory…	TIFAの記憶に登場する少年たち……
+Sephiroth	セフィロス
 A boy named CLOUD might've just been a part of them.	その中にはCLOUDという名の少年がいたのかもしれないな
+CLOUD…	CLOUD……
 Please…don't think right now.	今は何も考えないで。おねがい……
+Sephiroth	セフィロス
 Ha, ha, ha… Think, CLOUD!	クックックッ……考えろ、CLOUD
 …CLOUD? Ha, ha, ha…Oh, excuse me. You never had a name…	……CLOUD？クックックッ……これは失礼。おまえには名前などなかったな
 Shut up…Sephiroth.	だまれ……セフィロス
+Sephiroth	セフィロス
 You still don't understand? Then…	まだわからないのか？ならば……
+Sephiroth	セフィロス
 Do you remember the picture that we took before we headed for Mt. Nibel?	村からニブル山へ出発するとき写真をとったのを覚えているか？
+Sephiroth	セフィロス
 …TIFA, you remember, right?	……TIFA、覚えているな？
+Sephiroth	セフィロス
 But there is no way he would know.	……CLOUDは……知るはずもないか
+Sephiroth	セフィロス
 Now…what happened to that picture?	さて……写真はどうしたかな？
+Sephiroth	セフィロス
 …Is this it?	……これか
+Sephiroth	セフィロス
 …Do you want to see it? It turned out pretty good.	……見るか？なかなか良くとれている
 CLOUD…Don't…	CLOUD……だめ……
 I…should be in the picture.	俺は……写っているはずだ
@@ -296,11 +344,21 @@ I looked in the drawers!	タンスをしらべた！
 I read the letter addressed to TIFA!	TIFAに来た手紙をよんだ！
 I spent the night and went to the reactor in Mt. Nibel. I was excited about it.	一泊してからニブル山の魔晄炉へ行った。俺ははりきっていた
 Because that was my first mission after becoming First Class in SOLDIER.	なぜなら、その任務はソルジャー・クラス１ＳＴになって初めての仕事で……
+CLOUD…	CLOUD……
+CLOUD…	CLOUD……
+CLOUD…	CLOUD……
+CLOUD…	CLOUD……
+CLOUD…	CLOUD……
+CLOUD…	CLOUD……
 He---y! Is anyone here?	お～い！誰かいるのか！？
 Give me a hand!	手をかしてくれっ！
+Zangan	ザンガン
 Hey it's you! You're still sane, right?	おっ、あんたか！あんたは正気なんだろうな？
+Zangan	ザンガン
 Then come over here and help me!	それならこっちに来て手伝ってくれ！
+Zangan	ザンガン
 I'll check this house. You check that one over there!	俺はこの家を見てくる。あんたはそっちの家を！
+Zangan	ザンガン
 Hey! What about the other houses?	おい！ほかの家の様子はどうだ？
 …Sephi…roth	……セフィロ……ス
 …Hey, ummm… Am I going to die?	……な、なぁ……おれ、死んじゃうの？
@@ -323,29 +381,47 @@ I don't want to…watch this. CLOUD…Don't watch.	こんなの……見たく�
 …What's wrong, TIFA? I told you before, right?	……どうしたんだ、TIFA？さっきも言っただろ？
 As long as we know that it's just an illusion, there's no need to be scared.	幻だとわかっていれば何も恐くない
 Inside Northern Cave	大空洞
+Scarlet	スカーレット
 Wow!! That's amazing!	すっご～い！
+Scarlet	スカーレット
 It's all Materia!!	これ、ぜ～んぶマテリアだわ！
+Rufus	ルーファウス
 The outside is rich with Mako energy. The inside is a treasure trove of Materia. This truly is the Promised Land.	外は豊富な魔晄。そして中心部はマテリアの宝庫。これぞまさに約束の地だな
+Hojo	宝条
 There is no such thing as the Promised Land. It's a legend…an old wives tale… …It's utterly ridiculous.	約束の地など存在しない。伝説……言い伝え……ばかばかしい
+Rufus	ルーファウス
 Everything's as I imagined it to be. Isn't it splendid?	想像していたとおりのものがここにある。それで良いではないか？
 It is that kind of dullness that makes you a second-rate scientist.	そのカタさが二流科学者の限界だな
+Rufus	ルーファウス
 What's happening?	どうした！？
+Scarlet	スカーレット
 It's coming from within the wall! Something's in there! It's moving!	壁の中よ！何か入ってる！　動いてる！
+Hojo	宝条
 Weapon…	ウェポン……
+Hojo	宝条
 Then it really does exist… I didn't believe in it.	……本当にいたのか。信じてはいなかった
+Rufus	ルーファウス
 What does this mean?	なんだというのだ？
+Hojo	宝条
 …Weapon. A monster created by the Planet.	……ウェポン。星が生み出すモンスター
 They appear when the Planet's in danger and destroy everything.	星の危機にあらわれてすべてを無にする……
 That's what was stated in Professor Gast's report.	ガスト博士のレポートにはそう記されていたな
+Rufus	ルーファウス
 I never saw that report… Where is it?	そんなレポートは見たことがない。……どこにある？
+Hojo	宝条
 Here, right here.	ここだ、ここ
+Rufus	ルーファウス
 You keep a lot of things to yourself.	君は隠し事が多いな
+Scarlet	スカーレット
 Mr. President… I've got a bad feeling about this place…	社長……なんだかイヤ～な予感がするわ
+Rufus	ルーファウス
 Hmm…maybe we should go back to our ship now. We need to prepare for the inspection anyway.	フム……一度飛空艇に帰ろうか。本格的な調査の準備も必要だしな
+Scarlet	スカーレット
 Hey!!! Where did you come from?	ちょっと！！どこから来たのよっ！
 …Don't know…	……さあ
 This place is going to get rough.	ここはあんたたちの手には負えない
 Better leave things to me and get out of here while you still can!!	あとは俺にまかせてさっさと出て行け
+Rufus	ルーファウス
 Leave things to you? Hmph…I don't know what you mean.	……おまえにまかせる？フッ……良くわからないな
 This is where the Reunion is happening. Where everything begins and ends.	ここはリユニオンの最終地点。すべてが終わり、また始まる場所
 CLOUD?	CLOUD……？
@@ -356,12 +432,14 @@ Thanks…RED XIII. Where's the Black Materia?	ありがとう……RED XIII。�
 It's safe. I have it.	だいじょうぶだ。ちゃんと持ってるぜ
 It's safe. I'm holding on to it.	だいじょうぶ。しっかり持ってるよ
 I'll take it from here. Give me the…Black Materia.	ここからは俺がやる。黒マテリアを……俺に
+You alright?	だいじょうぶか？
 Are you all right, CLOUD?	だいじょうぶ？　CLOUD
 Okay then, here. Had a lot of pressure holding this thing.	じゃあ、これ。すげえプレッシャーだったぜ
 Then…here you go. I was a little apprehensive holding this thing.	それじゃあ、はい。これ持ってるの恐かったんだ
 Thanks. Leave the rest to me.	ありがとう。あとは俺が…………やります
 Sorry to make you worry, but I'm all right now.	心配かけたけどもうだいじょうぶです
 I'll make sure that the Black Materia is delivered.	黒マテリアは俺がちゃんととどけますから
+CLOUD!!	CLOUD！！
 Come on. The Black Materia…	『さあ、黒マテリアを……』
 Please wait! Just a little longer!!	待ってください！　もう少しだけ！
 Everyone, thanks for everything. And…I'm sorry.	みんな、今までありがとう。それに……ごめんなさい
@@ -372,47 +450,68 @@ You've been so good to me… I don't know what to say…	いろいろ良くし�
 I never lived up to being 'CLOUD'.	俺、CLOUDにはなりきれませんでした
 TIFA… Maybe one day you'll meet the real 'CLOUD'.	TIFAさん……いつかどこかで本当のCLOUDくんに会えるといいですね
 Professor Hojo…	宝条博士……
+Hojo	宝条
 Ha,ha,ha… this is perfect!!!	クックックッ……素晴らしい……
 It means that my experiment was a complete success.	私の実験がパーフェクトに成功したわけだな
+Hojo	宝条
 What number were you? Huh?  Where is your tattoo?	おまえ、ナンバーはいくつだ？ん？イレズミはどこだ？
 Professor Hojo… I don't have a number.	宝条博士……俺、ナンバー、ありません
 You didn't give me one because you said I was a failed experiment.	俺、失敗作だから博士がナンバーをくれませんでした
+Hojo	宝条
 What?	なんだと！？
+Hojo	宝条
 What the--? You mean only a failure made it here?	なんということだ……失敗作だけがここまでたどりついたというのか……
 I didn't know the 'Reunion' already started.	リユニオンが始まってること俺、ずっと知りませんでした
 But, here I am. And I brought the Black Materia with me Just as Sephiroth wanted.	でも、ここまで来たんです。セフィロスの望みどおりに黒マテリアも持ってきました
+Hojo	宝条
 Shut up, miserable failure…	だまれ、失敗作め……
 Professor…please give me a number. Please, Professor…	博士……ナンバー、ください。俺にもナンバーをください……
 Won't you give me one? …Professor?	ダメですか……博士？
+Hojo	宝条
 I never dreamed what I thought was a success…was actually a failure, and that which I considered a failure was my greatest success…	私が成功とみなした個体が失敗……失敗と判定したおまえが最も優れていたとは……
+Rufus	ルーファウス
 What are you guys talking about?	おまえたちは何の話をしているのだ？
 You can't hear my voice?	私の声、聞こえないの！？
 No, don't!!! Please! Stop CLOUD!	だめ、だめよ！CLOUDを止めて！
+CLOUD!!	CLOUD！！
+Hojo	宝条
 Did you see it!! It's Sephiroth! So he IS here!	見たか！！　セフィロスだぞ！やはり、ここにいたのだ！
+Hojo	宝条
 This is perfect! Both Jenova's Reunion and Sephiroth's  will!	素晴らしい！ジェノバのリユニオンとセフィロスの意志のちから！
 They won't be diffused into the Lifestream, but gathered here!	ライフストリームに拡散することなくここに結集したのだ！
 Mwa, haa, ha…	クァックァックァッ！
 What are you so happy about, Professor? You know what this means, don't you?	宝条博士……何がそんなにうれしいの？どういうことかわかってるの……？
 CLOUD has the Black Materia!	CLOUDは黒マテリアを持っているのよ！
 Sephiroth is going to summon Meteor! Every single person is going to die!	セフィロスはメテオを呼んでしまうのよ！みんな、みんな、死んじゃうのよ！
+Rufus	ルーファウス
 Whatever I say now is too little… too late. We must evacuate.	もう、何を言っても遅い……そろそろ、ここから出た方が良さそうだ
+Rufus	ルーファウス
 I want you all to come with me. There's still much more I want to know.	君たちも一練に来てもらおうか。いろいろと話が聞きたい
 Yo!   CLOUD! Stop! Don't do it!	おい！　CLOUD！やめろっ！　やめてくれ！
 CLOUD, NO! Stop!  Please!	CLOUD！　やめて！　やめてよ！
 CLOUD!!	CLOUDーーーーー！！
+Rufus	ルーファウス
 Who…was that?	あいつは……何者だ？
+Hojo	宝条
 …He's a Sephiroth-clone I created after the real Sephiroth died five years ago.	……５年前、セフィロスが死んだ直後に私が創ったセフィロス・コピーのひとつ
 Jenova cells and Mako, with my knowledge and skills, have been combined with science and nature to bring him to life.	ジェノバ細胞と魔晄、それにくわえて私の知識、技術、ひらめきが生み出した科学と神秘の生命、セフィロス・コピー
+Hojo	宝条
 …I'm not wild about the failure part, but the Jenova Reunion Theory has now been proven.	……失敗作だというのが気に入らないがジェノバのリユニオン仮説は証明された
+Hojo	宝条
 You see, even if Jenova's body is dismembered, it will eventually become one again. That's what is meant by Jenova's Reunion.	ジェノバは身体をバラバラにされてもやがてひとつの場所に集結し再生する。これがジェノバの『リユニオン』だ
+Hojo	宝条
 I have been waiting for the Reunion to start. Five years have passed, and now the clones have begun to return.	リユニオンの始まりを私は待った。５年がすぎ……コピーたちは動き出した
+Hojo	宝条
 I thought the clones would begin to gather at Midgar where Jenova is stored.	ミッドガルに保管していたジェノバのところにコピーたちは集まってくるはず……
 But my predictions were not entirely correct. Jenova itself began to move away from the Shinra Building.	しかし、私のこの予想ははずれた。そればかりか神羅ビルのジェノバも移動を始めた
+Hojo	宝条
 But being the genius that I am, I soon figured it out. You see it was all Sephiroth's doing.	……私は天才だ、すぐにわかった。セフィロスの仕業だ
 Sephiroth is not just content to diffuse his will into the Lifestream. He wants to manipulate the Clones himself.	セフィロスの意志はライフストリームで拡散することなく、セフィロス自身としてコピーをあやつりはじめたのだ……
 Yes, that was how it got started.	そうです、それが始まりでした
+Hojo	宝条
 I wondered where the clones were going, but I was never able to figure it out.	コピーたちはどこへ行くのだろう……私にはわからなかった
 I couldn't figure it out either.	俺自身にもわかりませんでした
+Hojo	宝条
 The one thing that I did know was that Sephiroth was at their final destination.	ただ、わかっていたのは目的地にはセフィロスがいるはず、ということだ
 I wasn't pursuing Sephiroth.	俺、セフィロスを追っていたんじゃなかったんです
 I was being summoned by Sephiroth.	セフィロスに呼ばれていたんです
@@ -422,6 +521,7 @@ Show yourself to me. Where are you?	姿を……見せてください。どこ�
 Sephiroth… So we finally meet again.	ああ……セフィロス……やっと会えましたね
 Great Cave	大空洞
 North Cave 5 -3	北の大空洞５～３
+CLOUD…	CLOUD…
 CLOUD…	CLOUD…
 I didn't know what to do. I was always like that…	………どうしたらいいかわからなかった。いつだってそうだった…
 What's the matter?	どうしたね？
@@ -433,6 +533,7 @@ Are you all right?	大丈夫ですか？
 Uh…uh…TIFA?	あ……ぁ……TIFA……？
 TIFA?	TIFA……？
 TIFA!	TIFA！
+…?	……………？
 Oh, CLOUD!	あ、CLOUD！
 That's right. I'm CLOUD.	その通り。俺はCLOUDだ
 Is it really you, CLOUD? I never thought I'd find you here!	ほんとにCLOUDなのね！こんなところで会えるなんて！
@@ -441,11 +542,13 @@ What happened to you? You don't look well.	でも、どうしたの？具合悪�
 Yeah? It's nothing. I'm okay.	……そうか？いや、そんなことはない。普通だ
 How long has it been?	何年ぶりかな？
 Five years.	５年ぶりだ
+…	…………
 What is it?	どうした？
 …it's really been a long time.	……ほんとうに久しぶりね
 Actually, it's been seven years.	ほんとうは７年ぶりだった
 You joined SOLDIER but quit after the Sephiroth incident, and now you're a mercenary…	希望どおりにソルジャーになったことセフィロスの事件をきっかけにやめてしまったこと、何でも屋をやっていること……
 You told me a lot about what happened after you left Nibelheim… 	ニブルヘイムを出てからのこといろいろ話してくれたけど……
+But…	でも……
 …Something was wrong. I felt there was something strange about the things you talked about.	……ちょっと変だな。CLOUDの話してること少しずつ変だなと思ったの
 All the things you didn't know that you should, And other things you shouldn't know that you did.	知ってるはずのこと知らなかったり知らないはずのこと知ってたり……
 I wanted to make sure…	私はいろいろ確かめたかった

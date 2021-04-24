@@ -1,0 +1,519 @@
+Guard	兵士
+“You guys are…”	「きさまたちは！」
+CID	CID
+“Guess we're safe for now…”	「間一髪
+	セーフってトコか！」
+BARRET	BARRET
+“Da---mn!”	「おわ～ッ！」
+RED XIII	RED XIII
+“Ohh!”	「あ、あ～っ！」
+YUFFIE	YUFFIE
+“Wa…wait!”	「ちょ、ちょっと！」
+CAIT SITH	CAIT SITH
+“Wha…what is it,	「な、なんや
+what is it?”	なんなんや！」
+VINCENT	VINCENT
+“!!”	「！！」
+CID	CID
+“Looks like they're takin' off	「ほ～お！
+with the Huge Materia in that train!”	列車でヒュージマテリアを
+	持ち逃げってすんぽうかい」
+BARRET	BARRET
+“NO!	「ええい！
+You damn boneheads!”	くそったれが！」
+RED XIII	RED XIII
+“Did the Shinra beat us!?”	「オイラたち、神羅に先を
+	こされちゃったの！？」
+YUFFIE	YUFFIE
+“What are ya gonna do!?	「ど～すんだよ～！
+Huge Materia!?”	ヒュージマテリア！」
+CAIT SITH	CAIT SITH
+“Wha…you're not	「ま、まさか
+thinking about giving up…”	あきらめるんや
+	ないですよね……」
+VINCENT	VINCENT
+“…shall we go after them?”	「……追うか？」
+CID	CID
+“Hey, do you know who I am?”	「おいおい、オレ様を
+	誰だと思ってんだ？」
+“I'm CID - that's who	「天下のCID様だぜ！
+the hell I am!	ま、オレ様にまかしとけって！」
+Now just let me handle it!”	
+CID	CID
+“Hey, hey, hey, hey---!”	「おらおらおら～ッ！」
+BARRET	BARRET
+“How can they even drive this?”	「しかし、こんなものまで
+	よく運転出来るな」
+RED XIII	RED XIII
+“It sure helped having CID here.	「CIDがいて
+I had no idea he could drive a train…”	助かったね。
+	機関車も運転できるなんて」
+YUFFIE	YUFFIE
+“Pretty good for an old guy.	「オジさん、やるじゃん。
+I'm impressed you can move this thing!”	こんなモンまで動かすなんて！」
+CAIT SITH	CAIT SITH
+“Way to go, Mister!	「ようやりますなぁ。
+You used to drivin' this thing too?”	これの運転もできるんですか？」
+VINCENT	VINCENT
+“I'm impressed.	「さすがだな。
+You can drive this too?”	こんなものまで
+	運転できるとは……」
+CID	CID
+“Don't ask me…	「いや！　よくは、わからねえ！」
+I don't know!”	
+BARRET	BARRET
+“What!?”	「何いッ！？」
+RED XIII	RED XIII
+“Wa…What!?”	「え、え～っ！？」
+YUFFIE	YUFFIE
+“What!?	「え～ッ！？
+For serious!?”	マジで～！？」
+CAIT SITH	CAIT SITH
+“Huh?  What'd you just say!?”	「はぁ？　いまなにゆうた！？」
+VINCENT	VINCENT
+“Wha…what…!?”	「な、なに……！？」
+CID	CID
+“Don't worry!	「心配いらね～って！
+I can handle this!”	この手のモンは気合いだ！」
+“Two levers; one on the right	「レバーは左右に２本か……」
+and one on the left…”	
+Left lever Right lever	左レバー　　　　　　右レバー
+(Directional button up) ([MENU])	【方向キー上】　　【△ボタン】
+CID	CID
+“I see, just alternate the two levers	「なるほど、左右交互に
+up and down, right!?”	レバーを上下すりゃいいんだな！」
+“Judging from the enemy's speed,	「敵さんのスピードじゃ
+I'd say it'll take about 10 minutes.”	北コレルまで１０分ってとこだな」
+“We're gonna fly!!	「とばすぜ！
+Hold on tight!!”	しっかり、つかまってな！！」
+CID	CID
+“All right!	「おっしゃ！
+We're gonna jump!!”	とびうつるぜ！！」
+CID	CID
+“DAMN!”	「ちっきしょう！」
+“Sorry!	「すまねえ！
+I couldn't catch them!”	追い付けなかったぜ！」
+CID	CID
+“Oh ^%$#&$!	「や、やべえ！
+We're gonna crash into North Corel!”	北コレルに突っこんじまう！」
+Guard	兵士
+“What the?	「ゲッ！
+You…you guys!”	き、きさまら！」
+CID	CID
+“All right---	「さ～てと、おとなしく
+Hand over the Huge Materia!”	ヒュージマテリアを
+	わたしな！」
+Guard	兵士
+“Sh…”	「クッ……」
+“Whooooa----!”	「うおお～！」
+CID	CID
+“You got guts comin' after me!”	「このCID様に
+	向かって来るたあ
+	いい度胸だ！」
+“I'll never forget you!”	「おまえのことは忘れないぜ……」
+BARRET	BARRET
+“No time for that now!”	「そんな場合じゃねえぞ！」
+RED XIII	RED XIII
+“We got it going,	「加速はできたけど
+but how do we stop it?”	どうやって止めるの？」
+YUFFIE	YUFFIE
+“Forget the Huge Materia,	「ヒュージマテリアどころか
+WE'RE the ones in deep trouble!”	アタシたちも、ヤバいって！」
+CAIT SITH	CAIT SITH
+“What are we gonna do,	「運転手殺してしもて
+kill the engineer!?”	どないすんねんな！」
+VINCENT	VINCENT
+“Hit the brakes, Chief.”	「ブレーキをたのむ。
+	リーダーさん」
+CID	CID
+“I KNOW, already!	「わ～かってらあ！
+Just shut up and sit tight!	やいのやいの、さわぐなって！
+If we keep this up, we'll	このままじゃ、北コレルに
+crash right into North Corel!”	つっこんじまう！！」
+CID	CID
+“Let's see…	「さ～てと……
+If we use the levers alternately	交互に入れると加速なら……」
+to accelerate…”	
+Left lever Right lever	左レバー　　　　　右レバー
+(Directional button up) ([MENU])	上【方向キー上】　　【△ボタン】
+(Directional button down) ([CANCEL])	下【方向キー下】　　【×ボタン】
+CID	CID
+“It should stop if we move the levers	「両方のレバーを同時に
+up or down simultaneously!”	上か下に入れりゃ
+	ブレーキだな！」
+BARRET	BARRET
+“Hey, it's not working!”	「ダ、ダメじゃねえか！」
+RED XIII	RED XIII
+“We're gaining speed!”	「スピードが
+	上がってるよ！」
+CAIT SITH	CAIT SITH
+“Hey-------WAIT!	「ちょ～待って～や！
+…other way, other way, other way!”	逆や、逆！」
+VINCENT	VINCENT
+“Isn't it…the other way?”	「ぎゃ、逆じゃないか？」
+YUFFIE	YUFFIE
+“What are you doin', accelerating!?”	「加速して
+	ど～すんのよ～ッ！」
+CID	CID
+“^%#@! The other way!?	「チッ！　反対かよ！
+Just watch, I'll…”	見てろ、今度こそ！」
+BARRET	BARRET
+“Hey…HEY HEY!!”	「お、おいおい！！」
+RED XIII	RED XIII
+“WHOOOOOO----A!!”	「うわ～ッ！！」
+YUFFIE	YUFFIE
+“Get serious, you OLD MAN!!”	「ふざけろ！
+	オヤジ～ッ！！」
+CAIT SITH	CAIT SITH
+“No…DON'T----!!”	「あ、あかんて～！！」
+VINCENT	VINCENT
+“…!!”	「……！！」
+CID	CID
+“SH--------!!”	「ク……ソったれえ！！」
+North Corel	北コレル
+BARRET	BARRET
+“Of…of course!	「あ…あたりめぇじゃねぇか！
+We're all born and raised	オレたちゃ炭坑生まれの炭坑育ち！！」
+in the coal mines!!”	
+“No matter how tough it gets,	「どんなにつらい時でも
+our hearts burn bright red like coal!”	ハートだけは石炭のように
+	真っ赤に燃え続けているんだ！」
+“Aren't you the ones that stopped	「あんたたちだろ
+the Shinra Train?”	神羅の列車を止めてくれたのは？」
+“The Shinra was just about to destroy	「また神羅の手でオレたちの生活が
+our lives again…”	ぶち壊されるところだったぜ……」
+“That's it!”	「おっ、そうだ！」
+“Hey, kid!	「お～い、ボウズ！
+How about givin' somethin'	神羅と戦う正義の味方に
+to these guys fighting'	渡すものがあるんだろ？」
+the Shinra?”	
+“To you it may be a junk yard,	「ガラクタだらけでも
+but to us its home.”	この土地はオレたちの大切な故郷なんだ」
+“It might be full of junk,	「ガラクタだらけでもこの土地は
+but this is the only home we got,	オレたちの大切な故郷なんだよな
+BARRET!!”	BARRETさんよ！！」
+“Must've been a horrific battle.	「そうとうキツイ戦いだったんだろ？
+You have scars all over your body.”	体じゅう傷だらけじゃねぇか」
+“I already talked to the Inn's owner.	「宿屋のオヤジに言っておいたから
+Today you can rest for free.”	今日はタダで休んでいきな」
+“To hell with Meteor!	「メテオがなんだってんだい！
+We're Coal Miners, ain't we?”	オレたちゃ炭坑夫なんだぜ」
+“We'll dig a deep tunnel	「長～いトンネルをほって
+and hide from the Meteor!”	メテオから逃げのびてやらあ！」
+“You guys are really something!”	「あんたたち
+	たまげたもんだぜ！」
+“You sure are brave.	「勇気があるねぇ。
+I'm impressed!”	たいしたもんだよ！」
+Weapon Shop	武器屋
+“You'll need weapons from our store,	「生き抜いていくには
+if you want to survive.”	この店の武器が必要だぜ」
+Accessory Shop	道具屋
+“Please buy something.	「何でもイイ
+Anything!”	買ってちょうだい！」
+“If you see anything you like, buy it.”	「気に入ったたら買ってくれ」
+“I got it out of the well.	「イドの中からひろい上げたんだ。
+Isn't it an amazing rock!!”	きっとスゴ～イ石だよ！！」
+“Whoops…	「あれれ、おじさん？
+You can't hold any more.”	それじゃ、持ちきれないよ」
+“Here, I'll keep some in my pocket	「ポケットにしまっておくから
+and you can come by later and	また、あとで取りにきてね！」
+get it, OK?”	
+Received "Ultima" Materia!	『アルテマ』のマテリアを手にいれた！
+Received Key Item "Huge Materia"!	キーアイテム『ヒュージマテリア』を手にいれた！
+North Corel	北コレル
+“We've lost everything…	「もう何もかも失ってしまったな…
+Now we have to start again	１から……
+from ' 1'…no, from ' 0'.”	いや０から、やり直すとするか」
+“God, what have we done?”	「オレたちが何をしたっていうんだ…
+	神さまよぅ……」
+“Well, no use just sitting around	「なんて言ってもしかたねぇか。
+talking about it.	なぁ、どうすりゃ立ち直れるかな？」
+What can we do to	
+get things back to normal?”	
+“While you guys were relaxing,	「オマエらがのびている間に
+Shinra troops took the Huge Materia.”	神羅兵がヒュージマテリアを
+	持っていったぜ」
+The train's crashing in	列車がつっこんで来るで～
+Thank you, God, the train stopped.	神さまアリガトウ、列車が止まった
+It didn't do any damage.”	なんにもしなかった」
+“I heard that kid found	「あのボウズが何か光るものを
+something that glows.”	ひろったって言ってたぜ」
+“Hey,	「よぉ、世の中は今
+what's this world coming to …?”	どうなってんだい……」
+“Even the Gold Saucer is closing.	「ゴールドーソーサーが閉園に
+So does that mean	なるんだから、遊ぶ気分じゃない
+there's no time to be playing around?”	ってところなのか？」
+“Hey,	「よぉ、ゴールドソーサーが
+the Golden Saucer reopened!”	再開したんだぜ！」
+“I guess that means	「メテオのことを頭から消すには
+we should play hard to forget about Meteor.”	遊んで忘れるしか無いってことか」
+Weapon Shop	武器屋
+“My store was all right!”	「オレの店はブジだったぜ！」
+Accessory Shop	道具屋
+“I have a tool shop,	「せっかく道具屋やってんのに
+but I don't have any tools	店をなおす道具がナイんだ…」
+to fix my store…”	
+“Yay!	「ワーイ！
+My house is finished!!”	ボクのおうちができたー！！」
+“Um…	「えっと、次の駅はどこじゃったかな？」
+where was the next train station?”	
+CID	CID
+“^$#@%$ !	「ちきしょう！　なんてこった……
+We couldn't stop the train…”	列車を止められなかったばかりに……」
+CID	CID
+“The Huge Materia that Shinra is after…	「神羅の狙う、ヒュージマテリア……
+The last one left is	残るはジュノンの海底魔晄炉のみだな」
+at the Junon Underwater reactor.”	
+CID	CID
+“Even if they are the Shinra,	「いくら神羅でも、ことごとくオレ様たちの
+they should have a hard time	邪魔が入って、しん重になっているはずだ」
+with us getting in their way.”	
+“I don't think we have to hurry that much…	「そんなに急がなくてもいいと思うぜ……
+…I just can't get that guy out of my head.”	……それよりオレ様は
+	あいつが気がかりで、しょうがねえんだ！」
+CID	CID
+“Yeah, and I'm worried	「ああ、それにTIFAも
+how TIFA's doing, too.”	どうしてるか心配だしな。」
+“Maybe we should go to Mideel	「ちょっと様子を見に戻ってみるか
+to see how they are doing…”	【ミディール】へ……」
+TIFA	TIFA
+“We have to do something about Shinra!	「神羅をなんとかしなくちゃ！
+Sick of hearin'	もうこんな悲しいことはたくさんよ！」
+about sad things like this!”	
+BARRET	BARRET
+“I did it again…	「また、やっちまった……
+I can't keep up with this.”	こんなの……つぐないきれねぇよ」
+BARRET	BARRET
+“We'll get there before 'em!”	「先まわりしてやるぜ！」
+BARRET	BARRET
+“CLOUD…”	「CLOUD……」
+RED XIII	RED XIII
+“I could never forgive Shinra!”	「オ、オイラ神羅をゆるせない！」
+RED XIII	RED XIII
+“We HAVE to stop them!!”	「絶対に止めなきゃ！！」
+RED XIII	RED XIII
+“You must be talking about CLOUD…”	「CLOUDのことだね……」
+YUFFIE	YUFFIE
+“I'd be sad	「アタシの故郷がこんなことになったら
+if this place was my hometown…”	悲しいだろな……」
+YUFFIE	YUFFIE
+“We've got to hurry and stop them!!”	「急いで、止めなきゃ！！」
+YUFFIE	YUFFIE
+“You must mean CLOUD…”	「CLOUDのことだろ……」
+CAIT SITH	CAIT SITH
+“We got into this situation	「ボクらがミスったばっかりに
+because we goofed…”	こんなことになるやなんて……」
+CAIT SITH	CAIT SITH
+“Are we heading out to	「海底魔晄炉に行くんでっか？」
+the Underwater reactor?”	
+CAIT SITH	CAIT SITH
+“CLOUD…”	「CLOUDさん……」
+VINCENT	VINCENT
+“A spectacular sight…”	「すさまじい光景だな……」
+VINCENT	VINCENT
+“Are we going to	「海底魔晄炉に行くのか？」
+the Underwater reactor?”	
+VINCENT	VINCENT
+“CLOUD…”	「CLOUDか……」
+Received "Ultima" Materia!	『アルテマ』のマテリアを手にいれた！
+“I got a glowing rock from the well.”	「イドから光る石を
+	ひろったんだ」
+“I'll sell it to you for	「５００００ギルでなら
+50000 gil!”	売ってあげてもイイよ！」
+Buy it	買う
+Don't buy it	買わない
+“You don't have enough money!	「お金が足りないじゃないか！
+Don't try to take advantage of me	子供だからってバカにするない！！」
+just because I'm a kid!!”	
+“I wish someone would	「だれか、この石を
+buy this rock off of me…”	買ってくれないかなぁ～」
+“Huh?	「あれれ？
+You have lots of 'em!”	いっぱい、もってるじゃないか！」
+“You can't carry all of 'em.	「それじゃ、持ちきれないよ。
+So I'm gonna keep it in my pocket…”	ポケットにしまっておこ～っと」
+CID	CID
+“It's Huge Materia that the Shinra's after…	「神羅が狙う、ヒュージマテリア……
+The only one left is	あとはジュノンの海底魔晄炉のみ、ってか？」
+in the underwater reactor in Junon.”	
+BARRET	BARRET
+“We gotta get there first	「先まわりして絶対に止めるんだ！」
+and protect it!!”	
+RED XIII	RED XIII
+“We must get there first	「先まわりして絶対に止めなきゃ」
+and stop them.”	
+YUFFIE	YUFFIE
+“We got to get there first	「先まわりして止めなきゃ…」
+and stop them…”	
+VINCENT	VINCENT
+“We've got to get there first	「先まわりして絶対に止めないとな」
+and stop them.”	
+CID	CID
+“Yeah, but since we got in their way	「でもよ、いちいちオレ様たちが
+the last time, they should've gotten	ジャマするからよ、神羅だって
+a little more cautious.”	少しは警戒してるはずだぜ」
+“I doubt they'll fly right into action.	「ここは、ちっとばかり間をおいて
+I'm more concerned about him	そのあいだに、アイツのところへ
+than anything else.”	行ってみねえか？」
+BARRET	BARRET
+“CLOUD, it's you.”	「CLOUDだな……」
+RED XIII	RED XIII
+“Yes, it's you CLOUD.”	「CLOUDだね……」
+YUFFIE	YUFFIE
+“It is you CLOUD.”	「CLOUDだよね……」
+CAIT SITH	CAIT SITH
+“CLOUD…”	「CLOUDさん……」
+VINCENT	VINCENT
+“CLOUD, it's you.”	「CLOUDだな……」
+CID	CID
+“Yeah, and I'm worried that	「ああ、それにTIFAも
+even TIFA's gonna fall over	ぶっ倒れちまってんじゃ
+on her butt.”	ねえかと心配でな」
+“Let's go back and	「ちょっと様子を見に戻ってみるか……
+see what's happening…	【ミディール】へ……」
+to Mideel…”	
+“Th, that light just now…	「い、今の光は……
+The Condor…	コンドルが……
+The egg…”	タマゴが……」
+“What!?	「は！
+Would you go outside	す、すまないが
+and see what it was?”	そこの扉から出て
+	確認してきてくれないか」
+“Would you go check on it immediately?”	「直接見にいってくれないか？」
+“Gone…”	「行ってしまったな」
+“Oh, it's you.	「ああ、君たちか。
+Thanks a lot.”	本当にありがとう」
+“Be sure and report	「親父にも
+to my father, too.”	報告しておいてくれよ」
+“Oh, yeah. I found this just now	「そうそう、さっき戦場で
+on the battlefield.	いいものをみつけたんだよ。
+Maybe it'll come in handy	君たちの役にたてばいいな」
+for you guys.”	
+	
+Received "Magic Comb"!	『マジックコーム』を手にいれた！
+Received "Peace Ring"!	『安らぎの指輪』を手にいれた！
+Received "Megalixir"!	『ラストエリクサー』を手にいれた！
+Received "Super Ball"!	『スーパーボール』を手にいれた！
+Received three "Tincture"!	『エーテル』を３個手にいれた！
+Received five "Potion"!	『ハイポーション』を５個手にいれた！
+Received three "Turbo Ether"!	『エーテルターボ』を３個手にいれた！
+Received three "Elixir"!	『エクスポーション』を５個手にいれた！
+Received three "Elixir"!	『エリクサー』を３個手にいれた！
+top of the mountain	山の上
+Received "Phoenix" Materia!	『フェニックス』のマテリアを手にいれた！
+Cannot take on anymore Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+“Everyone, thanks.	「みなさん、ありがとう。
+I really mean it. Thanks.”	本当にありがとう」
+“Although there isn't anything	「差し上げられるものは、何もないのだが
+we can give you,	いつでも泊まれるようにしておくから
+we'll make sure you can stop	使ってくれ」
+in and stay any time.	
+So be sure to drop by.”	
+“Yes, yes, and there's one thing	「そうそう、それと
+I forgot to tell you…”	言い忘れていたことが少し……」
+CLOUD	CLOUD
+“This…is…”	「これは……」
+AERIS	AERIS
+“What is this?”	「な～に？
+	これは」
+BARRET	BARRET
+“Damn man, it's Huge Materia.”	「おお、でっかいマテリアだ」
+TIFA	TIFA
+“This Materia is really	「このマテリア、すごい……」
+out-of-this-world!”	
+RED XIII	RED XIII
+“Wow, it's something!”	「これは、すごいよ！」
+CID	CID
+“Huh?	「あん？
+What's this?”	これがどうした？」
+YUFFIE	YUFFIE
+“Gotta have that Materia!”	「お～っし！
+	マテリアだ」
+CAIT SITH	CAIT SITH
+“Hmm, you mean this?”	「ふんふん
+	これかいな」
+VINCENT	VINCENT
+“This is…”	「これは……」
+“The truth is, this is the Materia	「実は、これがあの魔晄炉の中にあった
+inside the reactor.”	マテリアなのですよ」
+CLOUD	CLOUD
+“Then you're telling me	「じゃあ、俺たちはマテリアのない
+we protected a reactor that	魔晄炉を守っていたわけか……」
+didn't have any Materia inside?”	
+TIFA	TIFA
+“If that's the case,	「それならそうと言ってくれなくちゃ。
+then you should have told us.	
+There may have been	別な戦い方があったかもしれないわ」
+another way to fight Shinra.”	
+CID	CID
+“What the hell	「つうことはよ
+did we fight for?”	オレ様たちゃ、何のために戦ったんだ？」
+“We weren't protectin' the reactor,	「私たちが守っていただいたのは
+we were protectin' the Condor.”	魔晄炉などではなく
+	コンドルの生命の営みですよ」
+“When that reactor was built,	「あの魔晄炉を建設する時には
+they forced us to help.	私たちも手伝わされたのです。
+That's how we knew what was	ですから、魔晄炉内のことは知っていました」
+inside the reactor.”	
+“I knew this day would come,	「いつかこういう時がくると思って
+so after the Shinra left,	神羅がいなくなったあと
+I sneaked in and	忍びこんで、マテリアを持ち出しておいたのです」
+took the Materia.”	
+“I didn't mean to fool you, but	「だますつもりでは、なかったのですが
+I guess that's how it ended up.	結果的にはそうなってしまいましたね。
+I'm really sorry.”	申し訳ありません」
+CLOUD	CLOUD
+“Well…	「いや……
+Maybe it was for the best.”	それで良かったのかもしれない」
+“Besides, there was no guarantee	「俺たちだって
+we'd defeat Shinra.”	絶対に勝てる保証はなかった」
+TIFA	TIFA
+“No, I think what happened is good.	「いいえ、それで良かったと思います。
+Cause we didn't know	私たちも、勝てるかどうか
+if we'd win.”	わかりませんでしたから」
+CID	CID
+“Just forget about it.	「そんなこたぁ、もういいよ。
+Anyway, we're still alive.”	とりあえずは、生きてるからな」
+“I see.	「そうですか。
+If you put it that way…	そう言ってもらると……
+we're really grateful.”	本当にありがとうございます」
+CID	CID
+“So the last Huge Materia	「神羅が狙う、ヒュージマテリア……
+that Shinra's after's in the	あとはジュノンの海底魔晄炉のみ、ってか？」
+underwater reactor in Junon?”	
+BARRET	BARRET
+“We gotta get there first and	「先まわりして絶対に止めるんだ！」
+beat 'em no matter what!”	
+RED XIII	RED XIII
+“We must get there before them	「先まわりして絶対に止めなきゃ」
+and stop them!”	
+YUFFIE	YUFFIE
+“We gotta get there and stop 'em…”	「先まわりして止めなきゃ……」
+VINCENT	VINCENT
+“Getting to the reactor before them…”	「先まわり……か」
+CID	CID
+“But ya know, Shinra's probably	「でもよ、いちいちオレ様たちが
+on high alert	ジャマするからよ、神羅だって
+since we always mess with 'em.”	少しは警戒してるはずだぜ」
+“How 'bout we take a break and go	「ここは、ちっとばかり間をおいて
+see that little fella for a bit?”	そのあいだに、アイツのところへ
+	行ってみねえか？」
+BARRET	BARRET
+“You mus' mean	「CLOUDだな……」
+CLOUD.”	
+RED XIII	RED XIII
+“You mean, CLOUD?”	「CLOUDだね……」
+YUFFIE	YUFFIE
+“CLOUD, right?”	「CLOUDだよね……」
+CAIT SITH	CAIT SITH
+“You must mean	「CLOUDさん……」
+CLOUD.”	
+VINCENT	VINCENT
+“You mean CLOUD?”	「CLOUDだな……」
+CID	CID
+“Yeah, I'm worried 'bout	「ああ、それにTIFAも
+TIFA.	ぶっ倒れちまってんじゃねえかと
+She may've collapsed	心配だしよ」
+takin' care of the guy.”	
+“How 'bout checkin' in on 'em?	「で、様子を見に行ってみねえか？
+Down to Mideel!”	【ミディール】へよ！」

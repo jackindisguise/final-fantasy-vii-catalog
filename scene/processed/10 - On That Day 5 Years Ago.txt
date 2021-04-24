@@ -11,6 +11,7 @@ You call that a friend?	親友ってやつか？
 Yeah, well…	どうかな……
 He was older than me, and hardly ever talked about himself.	年もはなれていたしセフィロスは自分のことをほとんど話さなかった
 So I guess you'd call us war buddies… We trusted each other. Until one day…	戦友……かな。俺たちは信頼しあっていた。あのときまでは……
+…	………
 …One day?	あのとき？
 After the war it was SOLDIER's duty to put down any resistance against the Shinra.	戦争終結後のソルジャーの任務は神羅に反抗する人たちを……。ゆううつな仕事が多かったな
 …that was five years ago.	……あれは５年前
@@ -23,43 +24,60 @@ I've never had motion sickness.	よくわからないんだ
 Everything okay?	準備はＯＫ？
 Sephiroth	セフィロス
 Hey.	おい、おまえ
+Sephiroth	セフィロス
 Settle down.	もうすこしおちつけ-
 They gave me some new Materia.	新しいマテリア、支給されたんだ
 I can't wait to use it.	早く使ってみたくておちつかなくてさ
+Sephiroth	セフィロス
 …Just like a kid.	……子供か、おまえは
 You going to brief us about this mission?	なあ、そろそろ今回の仕事教えてくれよ
+Sephiroth	セフィロス
 This isn't a typical mission.	……今回の任務はいつもとはちがう
 Good!	それはうれしいね！
+Sephiroth	セフィロス
 Why do you say that?	どうしてだ？
 I joined SOLDIER to be like you.	俺はあんたみたいになりたくてソルジャーになったんだ
 But by the time I made First Class, the war was already over.	それなのにクラス１ＳＴに昇格したのと同時に戦争が終わってしまった
 My big hopes of becoming a hero like you ended with the war.	俺がヒーローになるチャンスが減ってしまったわけさ
 That's why I always sign up whenever there's a big mission. Kind of a way to prove myself.	だから、そういうチャンスがあるなら俺は絶対にモノにしてみせる
 Say, how do you feel, MISTER Sephiroth?	な、どんな気分だ？英雄セフィロスさん？
+Sephiroth	セフィロス
 …I thought you wanted a briefing?	……おまえ、今回の任務が知りたかったんじゃないのか？
+Sephiroth	セフィロス
 Our mission is to investigate an old Mako reactor.	今回の任務は老朽化した魔晄炉の調査だ
+Sephiroth	セフィロス
 There have been reports of it malfunctioning, and producing brutal creatures.	異常動作を起こしているうえに凶暴な動物が発生している
 First, we will dispose of those creatures. Then, we'll locate the problem and neutralize it.	そいつらを始末しつつ原因を見つけだし、排除する
 Brutal creatures? Where?	凶暴な動物……場所はどこだ？
+Sephiroth	セフィロス
 The Mako Reactor at Nibelheim.	ニブルヘイムの魔晄炉だ
 Nibelheim…	ニブルヘイム……
 That's where I'm from.	ニブルヘイムは俺の生まれ故郷なんだ
+Sephiroth	セフィロス
 Hmm…hometown…	そうか……故郷か
 Sir…s, something strange just crashed into the truck!	へ、へんな動物が！！トラックに突っこんで来ました！
+Sephiroth	セフィロス
 That would be our Monster…	モンスターのお出ましか
+Sephiroth	セフィロス
 Come on, let's go to work.	さあ、仕事だぞ
 Sephiroth's strength is incredible. He is far stronger in reality than any stories you may have heard about him.	セフィロスの強さは普通じゃない。世間で知られているどんな話よりも……すごかった
 So… Where do you come in?	あれ～？CLOUDの活躍は？
 Me? I was mesmerized by the way Sephiroth fought.	俺か？　俺はセフィロスの戦いぶりにみとれていたな
 …and then we reached Nibelheim.	……そして俺たちはニブルヘイムについたんだ
 Nibelheim	ニブルヘイム
+Sephiroth	セフィロス
 How does it feel?	どんな気分なんだ？
+Sephiroth	セフィロス
 It's your first time back to your hometown in a long time, right?	ひさしぶりの故郷なんだろ？
+Sephiroth	セフィロス
 So how does it feel?	どんな気分がするものなんだ？
 I wouldn't know because I don't have a hometown…	オレには故郷がないからわからないんだ……
 Ummm…how 'bout your parents?	ええと……両親は？
+Sephiroth	セフィロス
 My mother is Jenova. She died right after she gave birth to me. My father…	母の名はジェノバ。オレを生んですぐに死んだ。父は……
+Sephiroth	セフィロス
 What does it matter?	オレは何を話してるんだ……
+Sephiroth	セフィロス
 All right, let's go.	さあ、行こうか
 Yo wait a minute!!	ちょっと待った！！
 Isn't that, uh…?	な、あれじゃねえか？
@@ -71,6 +89,7 @@ TIFA, I was only…	でもよぉ、TIFA……
 Ok CLOUD, continue.	さあCLOUD、つづけて
 The childhood friends are reunited!	幼なじみの再会ね！
 …I was really surprised with TIFA.	……TIFAにはおどろかされたな
+Sephiroth	セフィロス
 The Mako smells pretty bad here.	魔晄のにおいがするな
 Psst… (You keep wandering around here and you'll get in trouble.)	ヒソヒソ……（ウロチョロしてるとしかられるぞ）
 Being on watch is so boring.	たいくつなんだよな、見張りって
@@ -84,12 +103,17 @@ How did it go?	……どうだっけ？
 …Was it like this?	……こうか？
 Good job!	うまくなったな！
 I really don't want to be in SOLDIER.	俺、ソルジャーなんかになりたくないんだよねえ
+Nibelheim	ニブルヘイム
 …The town was quiet.	……村はひっそりしていた
 Everyone must be in their houses, afraid to come out because of the monsters.	みんな、モンスターを恐れて家に閉じこもっていたのかな？
 No, maybe they're afraid of us…	いや、俺たちを恐れていたのか……
+Sephiroth	セフィロス
 We leave for the reactor at dawn. Make sure you get to sleep early.	魔晄炉への出発は明朝。今日は早めに眠っておけ
+Sephiroth	セフィロス
 All we need is one lookout, so you others, get some rest.	見張りはひとりでいいからおまえたちも休んでおけよ
+Sephiroth	セフィロス
 Oh, and…	そうだったな……
+Sephiroth	セフィロス
 You may visit your family and friends.	家族や知り合いと会ってきてもかまわないぞ
 Man… I'm so nervous.	はぁ……ドキドキするなぁ
 How come?	どうしてだ？
@@ -109,10 +133,14 @@ Right. I'm TIFA's father.	そう。TIFAの父親だ
 …Long time no see, sir.	……ひさしぶりです
 TIFA's father	TIFAパパ
 …Stay away from my daughter.	……娘には近づかないでもらいたいものだな
+TIFA's father	TIFAパパ
 We don't need the Shinra's help to protect our town!	神羅にたよらなくても自分の村ぐらい守ってみせる！
+TIFA's father	TIFAパパ
 If I knew this was going to happen, I would've made mountain climbing off limits…	こんなことなら山歩きなんて禁止しておけばよかった……
+TIFA's father	TIFAパパ
 I hate myself for asking you this, but…	おまえにこんなことをたのむのは腹が立つが……
 Don't take your eyes off of TIFA! Hurry up and go back to her side!	TIFAのそばから離れるな！さっさと娘のそばにもどってくれ！
+TIFA's father	TIFAパパ
 Until we know that there's no danger, we're not moving.	危険がないことがわかるまで私たちはここを動かないからな
 I heard Sephiroth was coming so I brought my camera.	英雄セフィロスが来るってんでカメラの用意して待ってたんですよ
 I want a shot of Sephiroth and a monster.	セフィロスとモンスターのツーショットが欲しいんです
@@ -130,8 +158,11 @@ Let's do this, CLOUD. Let me take a picture of you with Sephiroth.	こうしよ�
 OK, OK… Fat-head… You're just his assistant.	ほいほい……（えらそうにさ……）（セフィロスのおとものくせにさ）
 Think they'd let me take a picture?	写真とらせてくれるかなぁ
 What's Sephiroth doing?	セフィロス、何してる？
+Sephiroth	セフィロス
 Once the guide gets here, we're heading out.	ガイドが来たら出発だ
+TIFA's father	TIFAパパ
 Listen to me, Sephiroth. In case something happens…	セフィロス、聞いてくれ。もしものことがあったら……
+Sephiroth	セフィロス
 …Trust me.	……安心してくれ
 I'll be all right, Dad!	だいじょうぶだから、パパ！
 I have two men from SOLDIER with me.	つよ～いソルジャーがふたりもいるのよ
@@ -140,7 +171,9 @@ TIFA! You're the guide?	TIFA！あんたがガイド！？
 That's right.	そういうこと
 It so happens I'm the number one guide in this town.	この村で一番のガイドといえば私のことでしょうね
 It's too dangerous! I can't get you involved in this!	でも、危険すぎる！そんなことにあんたを巻きこむわけにはいかない！
+Sephiroth	セフィロス
 There's no problem if you protect her.	おまえが守ってやれば間題はなかろう
+Sephiroth	セフィロス
 …Let's go.	……では、行こうか
 Umm…	あの……
 Mr. Sephiroth! Please let me take one picture for a memento!	セフィロスさん！記念に写真を１枚
@@ -150,9 +183,11 @@ I'll give each of you a copy once I get it developed!	写真できたらみな�
 Cheeeeese!	いきますよ～！
 This Mansion…	この屋敷は……
 …No, I'll come here later.	……いや、後にしよう
+Sephiroth	セフィロス
 Hey, stay over here!	おい、こっちに来ていろ！
 Up ahead is…Mt. Nibel.	この先は……ニブル山だ
 I'll tell you about the time I went into the mountains.	山へ行ったときのことはあとで話すよ
+Sephiroth	セフィロス
 Hey, calm down! Wait over here.	おい、落ちつけ！こっちで待ってろ
 …Late again.	……また遅刻だな
 I was so nervous. I couldn't get any sleep…	なんか緊張してさあ。眠れなかったんだよね、俺
@@ -162,8 +197,10 @@ Why?	どうして……？
 No way!	そんなことはない！
 …Why do you ask?	……そんなことを聞く？
 It's Sephiroth. He would never do that.	セフィロスにかぎってそんなことはしないさ
+Zangan	ザンガン
 The Shinra showed up to eliminate any information that could be embarrassing to the company.	会社に不利な情報を消すために神羅がやってきたこと……
 You pick these things up when you travel as much as I do.	各地を旅しているといろんな話を聞くからな
+Zangan	ザンガン
 …Oh my. You sure do have faith.	……おやおや。ずいぶん信頼してるんだな
 Is that you, CLOUD?	CLOUDかい？
 …Yeah	……ああ
@@ -174,6 +211,7 @@ Don't tell anyone in town!	村のみんなにはナイショだからね！
 Received "Homemade Potion!”	『手づくりポーション』を手にいれた！
 Nibelheim Inn	ニブルヘイムの宿
 The, uh… The whole inn's booked up by Shinra for the night.	あ……本日は神羅会社の皆さんの貸し切りになってましてねぇ
+…?	……？
 CLOUD?	……CLOUDちゃん？
 Is it you, CLOUD?	CLOUDちゃんかい？
 It must've been two years.	２年ぶりかねえ
@@ -214,23 +252,33 @@ Hmmmm	……ふむふむ
 Is Shinra here to get rid of the monsters?	モンスター退治にやってきた神羅の人間だな？
 And who are you?	あんたは？
 I'm Zangan. I travel around the world teaching children martial arts.	私はザンガン。世界中の子供たちに武術を教える旅をしている
+Zangan	ザンガン
 I have 128 students all over the world!	弟子は世界中に１２８人！
 In this town, a girl named TIFA is my student.	この村ではTIFAという女の子が私の弟子になった
 Did you say TIFA?	TIFAだって？
+Zangan	ザンガン
 TIFA has good sense. She'll be a powerful fighter.	TIFAはセンスが良いな。彼女は強くなるぞ
+Zangan	ザンガン
 I want to see some Shinra techniques.	神羅の人間の戦いぶりしっかり見せてもらうよ
 And if you see anything you can use, you might want to incorporate some of my techniques.	使えるようだったらザンガン流格闘術に取り入れるのもいいな
 Well, good luck.	ま、しっかりやってくれ
 Will we be able to use this place, too?”	俺たちも、ここ、使えるのかな？
+Zangan	ザンガン
 Oh? Did you come crying home?	おっ？泣きながら帰ってきたのかな？
 I think you probably know better than I do, but…	……あんたの方が良く知ってると思うけどねぇ
 Nibelheim Inn	ニブルヘイムの宿２階
+Sephiroth	セフィロス
+…	…………
+Sephiroth	セフィロス
 …We have an early start tomorrow. You should get some sleep soon.	……明日は早いぞ。そろそろ眠ったほうがいいな
 It's still early.	まだ早いよ
 Yeah, let's get some sleep.	ああ、そうしよう
+Sephiroth	セフィロス
 …I'm not going to wake you up tomorrow.	……明日は起こさないからな
 What are you looking at?	何を見ている？
+Sephiroth	セフィロス
 …This scenery… I feel like I know this place.	……この風景オレは知ってるような気がする
+Sephiroth	セフィロス
 I've hired a guide to the Mako reactor.	魔晄炉へのガイドは手配しておいた
 I've heard she's young, I hope we can rely on her…	若い娘らしいがたよりにしていいものか……
 It was the morning after that, right TIFA?	そのよく朝だったな、TIFA
@@ -256,6 +304,7 @@ But a few days later, she died…	その何日かあとには死んでしまっ�
 But when I saw her, she looked fine.	あの時は……本当に元気だった
 Uh?	あの……
 Yes?	は～い？
+CLOUD!?	CLOUD！？
 Welcome home, CLOUD!	おかえりなさい、CLOUD！
 Hi, Mom.	ただいま、母さん
 Come, come… Let me take a look at you!	どれどれ……晴れ姿、母さんにもよ～く見せておくれ
@@ -276,6 +325,7 @@ I'll always be your mother…	母さんはね、いつだって、あんたの
 TIFA's House	TIFAの家
 CLOUD?	ねえ、CLOUD……
 Did you go in my house?	私の家にもはいったの？
+Yeah…	ああ……
 No…	い、いや……
 I thought you might be home.	TIFA、いるかなと思って
 I remember you weren't there.	そういえば行かなかったな
@@ -293,6 +343,7 @@ We're talking about something really important here.	今はすごく真面目な
 The letter…	手紙だ……
 Did you read it? My letter?	もしかして読んだの？私あての手紙
 I'd never do that!	そんなことはしない！
+Yeah…	ああ……
 Of course!	そうよね！
 You remember what it said?	内容もおぼえているとか……
 I don't remember	おぼえてない……
@@ -358,72 +409,101 @@ It gets harder from here! Follow me!	さ、ここからが大変よ！ついて�
 I'm all right. You be careful too, Guide.	俺はだいじょうぶ。ガイドさんこそ、気をつけて
 Let's hurry.	早く行こうぜ
 Uh…the bridge!!	は、橋が！！
+Sephiroth	セフィロス
 Everyone seems to be all right. Will we be able to get back?	無事のようだな。もとの場所までもどれるのか？
 These caves are intertwined, like an ant farm…	このへんの洞窟はアリのすみたいに入り組んでいるから……
 Oh, and Sephiroth… One person seems to be missing…	それにセフィロスさん。１人、姿が見えないけど……
+Sephiroth	セフィロス
 It may sound cruel, but we've no time to search for him. We can't go back, so we must go on. We'll travel together from here.	冷たいようだが、さがしている時間はない。さあ、もどれないなら、先へ進むぞ。これからは一練に行動する
 What's this?	これは？
 A mysteriously colored cave…	不思議な色の洞窟ね……
+Sephiroth	セフィロス
 It must be the Mako energy. This mountain is especially abundant in it. That's why the Mako Reactor was built here.	魔晄エネルギーだな。この山は特にエネルギーが豊富なのだ。だから魔晄炉がつくられた
 …And what's this?	……これは？
+Sephiroth	セフィロス
 A Mako fountain. It's a miracle of nature.	魔晄の泉。自然の驚異というやつだな
 It's so beautiful…	こんなにきれいなのに……
 If the Mako Reactor continues to suck up the energy, this fountain will dry up too…	このまま魔晄炉がエネルギーを吸い上げ続けたらこの泉も消えてしまうのね
+Sephiroth	セフィロス
 Materia. When you condense Mako energy, Materia is produced.	マテリアだ。魔晄エネルギーが凝縮されるとマテリアができる
 It's very rare to see Materia in its natural state.	天然のマテリアを見るなんてめったにない機会だ
 By the way… Why is it that when you use Materia you can also use magic, too?	そういえば……どうしてマテリアを使うと魔法を使うことができるんだ？
+Sephiroth	セフィロス
 You were in SOLDIER and didn't even know that?	そんなことも知らずにソルジャーをやってるのか？
+Sephiroth	セフィロス
 …the knowledge and wisdom of the Ancients is held in the Materia.	……マテリアの中にはいわゆる古代種の知識が封じこまれている
+Sephiroth	セフィロス
 Anyone with this knowledge can freely use the powers of the land and the Planet. That knowledge interacts between ourselves and the Planet calling up magic…or so they say.	大地、星の力を自在に操る知識。その知識が星と我々をむすびつけ魔法を呼び出す……といわれている
 Magic…a mysterious power…	魔法……不思議な力だ……
+Sephiroth	セフィロス
 Ha, ha, ha !	ハハハハハ！
 Did I say somethin' funny?	なにか変なこと言ったか？
+Sephiroth	セフィロス
 A man once told me never to use unscientific terms like 'mysterious power'! It shouldn't even be called 'magic'!	ある男がな、不思議な力なんて非科学的な言い方は許さん！魔法なんて呼び方もダメだ！
 I still remember how angry he was.	そう言って怒っていたのを思い出しただけだ
 Who was that?	誰だ、それ？
+Sephiroth	セフィロス
 Hojo of Shinra, Inc…. An inexperienced man assigned to take over the work of a great scientist.	神羅カンパニーの宝条。偉大な科学者の仕事を引き継いだみじゅくな男だ
 He was a walking mass of complexes.	コンプレックスのかたまりのような男だな
 A Mako fountain… So this is where the knowledge of the Ancients is.	魔晄の泉……この中には古代種の知識が入っているのね
 We finally made it. We sure took the long way though.	ついたわ。ずいぶん遠回りしちゃったけどね
 TIFA, you wait here.	TIFAはここで待っていてくれ
 I'm going inside, too! I wanna see!	私も中へ行く！見たい！
+Sephiroth	セフィロス
 Only authorized people are allowed in. This place is full of Shinra's industrial secrets.	この中は一般人立入禁止だ。神羅の企業秘密でいっぱいだからな
 But!	でも！
+Sephiroth	セフィロス
 Take care of the lady.	おじょうさんを守ってやりな
 Mm, man!	ん、もう！
 Better take real good care of me, then!	しっかり守ってね！
 Yeah, I remember.	うん、おぼえてる
 Hmm…so it was you?	そっか……CLOUDだったんだ
 This is…Jenova, right? It won't open…	ＪＥＮＯＶＡ……なんだろう。ロックは……あかないか……-
+Sephiroth	セフィロス
 This is the reason for the malfunction. This part is broken.	動作異常の原因はこれだな。この部分が壊れているんだ
 CLOUD, close the valve.	CLOUD、バルブを閉じてくれ
+Sephiroth	セフィロス
 Did you close the valve?	バルブは閉じたのか？
+Sephiroth	セフィロス
 Why did it break?	なぜ壊れた……？
+Sephiroth	セフィロス
 …Now I see, Hojo.	……わかったよ、宝条
 But doing this will never put you on the same level as Professor Gast.	でもな、こんなことしたってあんたはガスト博士にはかなわないのさ
+Sephiroth	セフィロス
 This is a system that condenses and freezes the Mako energy… that is, when it's working correctly.	これは魔晄エネルギーを凝縮してさらに冷やすシステムだ………本来はな
 Now…what does Mako energy become when it's further condensed?	さて……さらに凝縮すると魔晄エネルギーはどうなる？
 Uh, umm…Oh yeah!  It becomes a Materia.	え、ええと……そうだった！マテリアができるんだな
+Sephiroth	セフィロス
 Right, normally. But Hojo put something else in there. …Take a look.	そう、普通ならな。でも宝条はこの中にあるものを入れた。……見ろ
+Sephiroth	セフィロス
 Look through the window.	マドから中をのぞいて見ろ
 Wh…what is this!?	こ、これは！？
+Sephiroth	セフィロス
 Normal members of SOLDIER are humans that have been showered with Mako.	おまえたち普通のソルジャーは魔晄を浴びた人間だ
 You're different from the others but still human.	一般人とはちがうがそれでも人間なんだ
 But, what are they? They've been exposed to a far higher degree of Mako than you.	しかし、こいつらはなんだ？おまえたちとは比べものにならないほど高密度の魔晄に浸されている
 …Is this some kind of monster?	……これがモンスター？
+Sephiroth	セフィロス
 Exactly. And it's Hojo of Shinra that produced these monsters.	そうだ。モンスターを生み出したのは神羅カンパニーの宝条だ
 Mutated living organisms produced by Mako energy. That's what these monsters really are.	魔晄エネルギーが創り出す異形の生物。それがモンスターの正体
 Normal members of SOLDIER? You mean you're different?	普通のソルジャーって？あんたは違うのか？
 H…hey, Sephiroth!	お、おい、セフィロス！
+Sephiroth	セフィロス
 No…	ま、まさか……
+Sephiroth	セフィロス
 …Was I?	……オレも？
+Sephiroth	セフィロス
 …Was I created this way, too?	……オレはこうして生み出されたのか？
 …Sephiroth.	……セフィロス
+Sephiroth	セフィロス
 Am I the same as all these monsters?	オレはモンスターと同じだというのか……
+Sephiroth	セフィロス
 You saw it! All of them…were humans…	お前も見ただろう！こいつらの中にいるのは……まさしく人間だ……
 Human!? No way!	人間！？　まさか！--
+Sephiroth	セフィロス
 …Ever since I was small I've felt…	……子供のころからオレは感じていた
 …that I was different from the others. Special, in some way.	オレは他のやつらとはちがう。オレは特別な存在なんだと思っていた
+Sephiroth	セフィロス
 But… not like this…	しかし、それは……それはこんな意味じゃない
 Am I…human?	オレは……人間なのか？
 I didn't really understand what Sephiroth meant then.	セフィロスが何を言っているのかその時の俺にはよくわからなかった
@@ -460,6 +540,7 @@ Do Mi So  (C)Directional button Down	方向キー下　ドミソ（Ｃ）
 Do Fa La  (F)Directional button Left	方向キー左　ドファラ（Ｆ）
 Re So Ti  (G)Directional button Up	方向キー上　レソシ（Ｇ）
 Mi So Do  (C)Directional button Right	方向キー右　ミソ高いド（Ｃ）
+End[START]	スタートボタン　終了
 End[START]	スタートボタン　終了
 Information concerning Materia/Hojo	『マテリア関係資料／宝条』
 Read it	読んでみる

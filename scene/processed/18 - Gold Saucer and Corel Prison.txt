@@ -1,3 +1,4 @@
+Ropeway Station	ロープウェイ乗り場
 Welcome to the Gold Saucer.	ようこそゴールドソーサーへ
 Are you together? A single pass is 3000 gil, or you can purchase a lifetime pass for 30000 gil.	団体様ですね？　入園チケットは１回３０００ギルです何回でも入園できるゴールドチケットは３００００ギルになります
 Pay 3000 gil	３０００ギル払う
@@ -14,27 +15,36 @@ Just think of 'GP' as money that you can only use at the Gold Saucer.	『ＧＰ�
 GP can only be redeemed at the games in Wonder Square and at the Chocobo Races.	ＧＰはワンダースクェアの各種ゲームとチョコボレース場でのみお求めいただけます
 Your GP limit is 10000, so please be careful.	それとＧＰの個人の所有は１００００までとなっておりますのでお気をつけ下さい
 Would you like to change gil into GP? 1 GP is 100 gil.	ギルをＧＰに換金しますか？１ＧＰは１００ギルです
+Yeah	ああ
 No	いや
 GP	ＧＰ
 gil	ギル
 Is this okay?	ギルだがいいな？
+Yeah	ああ
+No	いや
 Hey, how 'bout it, change your gil into GP?	おっ、兄ちゃんたちどうだい、俺がギルをＧＰに変えてやろうか？
+Yeah	ああ
 Not interested	興味無いな
 Hey, thanks 1 GP is 100 gil.	へへっ、毎度１ＧＰ１００ギルでいいぜ
 Hey, you don't have enough.	なんだよ、兄ちゃん金がたりねぇぞ
 No, no. It's suspicious if you have more than 10000 GP.	ダメダメ１００００以上もっててもあやしまれるだけだ
 If you want some more later, I'll be around now and then.	また欲しくなったら来なおりゃあ、たまにここにいるからよ
+[Save Point]	【セーブポイント】
 Access the Menu and select [SAVE] to save your game…but, each transaction will cost 5 GP here.	メニューを開いて【セーブ】を選ぶとゲームの状態を保存できます……、がここでは　５ＧＰかかります。
 No way!	払わない！
 I guess I'm stuck. I'll pay	しょーがないから払う
 Not enough GP…	ＧＰがたりません…
 Current GP	現在の持ちＧＰ
+GP	ＧＰ
 Dio	ディオ
 This way.	こっちだ、君たち
+Dio	ディオ
 I'm sorry, I'm gonna close this for awhile.	すまないが、しばらくは営業をひかえさせてもらう
 I'm just debating if I should be in business at a time like this.	こんな時でも、経営を続けるかどうかを考えている所だ
+Dio	ディオ
 I thought about it, but there was only one solution.	考えぬいたが、結論は１つだった
 I believed that because of the way things are, there's a need for a place like this.	こんなときだからこそこのような場所が必要なのかも知れんそう考えたよ
+Dio	ディオ
 Enjoy yourselves… Ha ha ha ha…	楽しんでいってくれたまえはははははっはははっ
 Info Board	案内板
 Event Square	『イベントスクェア』
@@ -78,8 +88,18 @@ We'd better be careful, Sephiroth might be around.	セフィロスが来てる�
 Go together	いっしょに行く
 Don't go together	いっしょに行かない
 I wish we could just forget everything and have fun!	いろ～んなこと忘れて楽しめると、いいね
+Go together	いっしょに行く
+Don't go together	いっしょに行かない
 …You want to go with me?	……私と行くのか？
+Go together	いっしょに行く
+Don't go together	いっしょに行かない
 With me!?	アタシと！？
+Go together	いっしょに行く
+Don't go together	いっしょに行かない
+CLOUD!	CLOUD！
+CLOUD!	CLOUD！
+CLOUD!	CLOUD！
+CLOUD!	CLOUD！
 I'll go with you.	いっしょに行くわ
 Don't go alone, go with me!	１人で行かないで私と行きましょ！
 Let's go together, CLOUD!	アタシといっしょに行こうよ！
@@ -87,10 +107,25 @@ Don't go by yourself…	１人ではなんだろう……
 Speed Square	スピードスクェア
 Chocobo Square	チョコボスクェア
 Event Square	イベントスクェア
+Speed Square	スピードスクェア
+Event Square	イベントスクェア
+Chocobo Square	チョコボスクェア
+Event Square	イベントスクェア
+Event Square	イベントスクェア
+Speed Square	スピードスクェア
+Chocobo Square	チョコボスクェア
+Round Square	ラウンドスクェア
+Speed Square	スピードスクェア
+Round Square	ラウンドスクェア
+Chocobo Square	チョコボスクェア
+Round Square	ラウンドスクェア
 Round Square	ラウンドスクェア
 Uh… It's not time for the Event yet…	はイベントがまだでーーーーす。
+Chocobo Square	チョコボスクェア
+Speed Square	スピードスクェア
 Battle Square	バトルスクェア
 Wonder Square	ワンダースクェア
+Round Square	ラウンドスクェア
 Sorry it's out of order.	もうしわけございませんがこちらはただいま故障中です
 Who should I ride with?	どっちと乗るか…
 Welcome. This attraction is 3 GP.  	いらっしゃいませ こちらのアトラクションの お値段は３ＧＰに なっておりますが
@@ -130,26 +165,39 @@ Phew…	ふう……
 Man	男
 Hey boy.	そこの少年
 Boy…	少年……
+Man	男
 How is it? You having fun?	どうだね？　楽しんでいるかね？
 Mmm, so, you ARE having fun. Well, good, good for you boy.	ん、そうか、楽しんでいるかよかった、よかった、な少年よ
 My name's CLOUD. And stop calling me boy.	俺は、CLOUDだ。少年というのはやめてくれ
+Dio	ディオ
 Mmm? Me? I'm the owner of the Gold Saucer. The name's Dio.	ん？　私か？私は、ここゴールドソーサーの園長ディオという
 Just call me 'Dio'.	気軽に『ディオちゃん』と呼んでくれ
 (He's not even listening)	………（聞いちゃいないな）
+Dio	ディオ
 By the way, boy, do you know what a 'Black Materia' is?	そうだ、少年。『黒マテリア』を知っているか？
+Yeah, I know	知っている
 What is it?	知らない
+Dio	ディオ
 Ha ha ha…that, I say, that's a good one, boy! But it's not good to lie. You can't fool me.	ははははははは、少年！ウソはいけない。　この私の目はごまかせないぞ
+Dio	ディオ
 Oh, so you do know?	おお、やはり知っているか
 Why d'you ask me?	なぜ俺に聞いた？
+Dio	ディオ
 Well, a while back, a boy your age came in and asked me if I had Black Materia.'	少し前に、少年くらいの少年が来て『黒マテリア』はないかと聞いていったのでな
+Dio	ディオ
 I thought you might know who he was, seein' as how you're both about the same age.	同じくらいの少年なら知っているのかと思ってな
 Did he happen to have…a black cape?	その男は黒いマントの……
+Dio	ディオ
 Why yes, yes indeed. And a tattoo on his hand that said '1'.	その通りだ。それに手の甲に『１』のタトゥーをしていたぞ
 Where did he go!?	その男、どこへ行った！？
+Dio	ディオ
 Ha ha ha, I have no idea.	はははははは、そんなことはさすがの私も知らんよ
+Dio	ディオ
 Well then.	では
+Dio	ディオ
 I say, stop by the Battle Arena if you like, boy.	おお、そうだ少年よ。よかったら、闘技場によってみてくれ
 You'll probably like it. Many of my collections are on display there.	君なら気に入ってくれると思うよ。私のコレクションの数々もかざってあることだし
+Dio	ディオ
 Ha, ha ha.	はははははは
 Speed square	スピードスクェア
 This way, Sir, to register.	お客さまお申しこみはこちらでおねがいします
@@ -162,6 +210,7 @@ Later, just a second.	後、ほんの少～し、まって
 … You don't have enough GP	…………お客さん、ＧＰがたりません
 Hear the rules for this attraction?	は～い、このアトラクションのルールを知りたい？
 Yes	ああ
+Not interested	興味ない
 This attraction is the Shooting Coaster.	このアトラクション『シューティングコースター』はね
 While your ride's going ZOOM, you're going BANG BANG, and things are going PHEW PHEW and you destroy them with a big BOOM. Pretty simple, isn't it?	ゴーッと走る中にピュンピュンと出てくる物をバンバンと撃ってドッカーンとやっつけるの。どう、簡単でしょ？
 Oh, to shoot, hit [OK]. The bar on the left side of the screen is your Power Meter.	あっ撃つのは○ボタンよ。それから～、画面左についてるバーはパワーメーターなの
@@ -170,10 +219,14 @@ If you make it to the Top 3, you'll get on the Wall of Fame.	あとね、お客�
 It's currently under repair…	ただいま、故障中でして…
 I'm sorry, please come again.	ごめんなさい、また来てね
 Platform	プラットホーム
+Current GP	現在の持ちＧＰ
+GP	ＧＰ
 Wait just a little longer please.	もうチョットまって
 You had points.	あなたの得点は点でした
 Your score is points.	あなたの得点は点です
 Would you like to see the Wall of Fame?	あなたのスコア記録を見ますか？
+Yes	ああ
+Not interested	興味ない
 You'll receive a prize if you get more than 3000 Points. So good luck.	３０００点以上取ったら景品があります、ガンバッテください
 HighScore CLOUD	ハイスコア　CLOUD
 Ugh…	うっ…
@@ -191,11 +244,15 @@ No thanks	えんりょしておく
 Ugh, ugh, ugh, ugh! Enjoy, ugh, your stay.	ひょっひょひょよい、夜を　ひょっひょひょ
 Ugh, ugh, ugh You don't have enough GP.	ひょひょひょＧＰがありませんな
 Hotel Lobby	ホテルロビー
+Current GP	現在の持ちＧＰ
+GP	ＧＰ
+Mr. Hangman	首つり君
 Sir…Please register at the counter!!	お客さんお部屋のご予約はカウンターでどうぞ！！
 [Turtle's Paradise]	【かめ道楽　通信】
 No. 3	ナンバー３
 Forget the bad times with a nice drink… Only thing missing in the Gold Saucer is… A pub with good drinks and a great atmosphere! Stop in the Turtle's Paradise!	ゴールドソーサーにただひとつ、たりないもの……それはおいしいお酒とムードのある居酒屋！ぜひいちど居酒屋『かめ道楽』へ！！
 Hotel Shop	ホテルショップ
+Mr. Hangman	首つり君
 Welcome.	いらっしゃい
 Arena Lobby	闘技場ロビー
 Whenever you come to the Gold Saucer, I recommend you visit the owner's museum at least once.	ゴールドソーサーに来たらここの園長ディオ様の数々のコレクションを１度はのぞいていくことをおすすめしますよ
@@ -208,6 +265,7 @@ Hmm, pretty good.	ほう、たいしたもんだ
 Ha ha ha! Well, good luck.	ハハハッ！まぁ、がんばんな
 Mmm? You're new here, aren't you? Then, you want an explanation of the Battle Arena?	ん？　あんた新顔だな？なら、おれ様がこの闘技場のことを教えてやろうか？
 Yeah	たのむ
+Not interested	興味ないね
 What, you too? With the way things are in the world, It makes you wonder what we're doin' here?	なんだ、あんたもかい？まったく、こんな世の中だってのになにやってんかね、オレらは
 Well, it's a little late for me to run around now, so I do what I love, it works best for me.	ま、いまさらジタバタしてもしゃ～ないしこうして、スキなことをやってるのが１番だねオレは
 Oh, by the way, did you know? I heard that there's going to be a battle and only the strongest will be allowed to participate.	そうそう、あんた知ってるかい？ここにはよ、最強と認められたもののみが参加をゆるされるバトルがあるって話だぜ
@@ -226,6 +284,7 @@ Um, I'm sorry, that's only for registered participants. You can't enter there un
 I'm sorry to announce that our prizes have changed. Your previous battle points are no longer valid.	もうしわけございませんが商品が変わりましたので前回までのバトルポイントは無効になりました
 Welcome. You currently have battle points.	ようこそ、あなたのバトルポイントはポイントです
 Would you like to exchange them?	商品と交換いたしますか？
+Yeah	ああ
 No, thanks	やめておく
 Thank you very much. Please remember, your battle points become invalid once you leave the Battle Arena.	ありがとうございましたバトルポイントは闘技場内より外に出ますと無効となりますのでご注意ください
 Man, I knew I should've stopped. But it's so hard to stop…	やっぱり、あそこでやめておけばなぁヤメ時がむずかしいんだ…
@@ -245,16 +304,22 @@ Probably strong enough to take on the top 1 or 2 fighters?	たぶん、歴代フ
 Maybe you'll be good enough for the big match…	あなたなら、あれに挑戦できるかも知れないわね……
 How 'bout it? There's a private battle only for the strongest. Wanna try?	どう？　とっておきの裏バトルがあるんだけどやってみる？
 Let's do it	やってやるぜ
+Not interested	興味ない
 Register for battle? The entrance fee is 10 GP.	バトルに登録しますか？登録料は１０ＧＰです
 Try the special battle	裏バトルをやる
 Try the regular battle	普通のバトルをやる
+Not interested	興味ない
 Register for battle? The registration fee is 10 GP.	バトルに登録しますか？登録料は１０ＧＰです
+Let's do it	やってやるぜ
+Not interested	興味ない
 This is a one-on-one battle. Which one of you will participate?	バトルへの参加は１人となっておりますどなたが参加いたしますか？
 You can fight up to eight battles. But the more battles you fight, the greater your handicap, and stronger the monsters will become.	バトルは連続して８回まですることができます。数をますごとにハンデやモンスターが強くなりますのでご注意ください
 Well, good luck.	では、お気をつけて
 Seems like you do not have enough GP.	ＧＰが足りないようですね
 Gained  Battle Points	バトルポイントをポイント獲得
 Total  BP	合計　　ＢＰ
+Current GP	現在の持ちＧＰ
+GP	ＧＰ
 Well, I guess I'll enjoy a few battles.	さて、たまには戦いを楽しむか
 All right, I'll show 'em.	よし、ガンバルぞ
 I'm gonna bust the place up!	あばれまくってやるぜ！
@@ -265,6 +330,7 @@ Let ol' CID show ya how it's done!	このCID様にまかせとけ！
 I'll show you my moves!	アタシのカレイな舞をみせてやる！
 Hmph…I'll show them what real fighting is.	フッ……戦いと言うものを教えてやろう
 Then, I'm off!	ほな、行くで～！-
+Changed my mind	やっぱりやめた
 Current BP	所持ＢＰ
 Potion = 80	ポーション　　　８０
 Phoenix Down = 160	フェニックスの尾　　　　１６０
@@ -296,9 +362,13 @@ Stardust = 8000	星の砂　　　　　　　　　８０００
 Championship Belt = 16000	チャンピオンベルト　　１６０００
 Omnislash (Limit 1) = 32000	超究武神覇斬（限定１）３２０００
 W-Summon (Limit 1) = 64000	Ｗしょうかん（限定１）６４０００
+Changed my mind	やっぱりやめた
 You do not have enough battle points.	『バトルポイントがたりません』
 We are currently out of this prize.	『こちらの商品は品切れです』
+Received "Potion"!	『ポーション』を手にいれた！
+Received "Phoenix Down"!	『フェニックスの尾』を手にいれた！
 Received "Shrapnel"!	『ボムのかけら』を手にいれた！
+Received "Ether"!	『エーテル』を手にいれた！
 Received "Memmet Greens"!	『ミメットの野菜』を手にいれた！
 Received "Fury Ring"!	『怒りの指輪』を手にいれた！
 Received "Enemy lure"!	『てきよせ』のマテリアを手にいれた！
@@ -328,10 +398,12 @@ I…I lost…	ま、まけた…
 Yeahh! This is why I can't seem to quit.	やった！これが、あるからやめられないんだよな
 You can only buy up to 3 tickets Think before you buy. For example, you could select half of the Chocobos and buy 3 boxes.	チョコボ券は３点までしか買えないよ～く、考えて買うんだな例えば、チョコボを半分にしぼって３点をボックスで買うとかな
 Boxes?	ボックス？
+Not interested	興味ないな
 A box is buying 3 combinations of 2 Chocobos.	ボックスってのは３匹のチョコボの組みあわせで買う方法さ
 For example, if you select Chocobo 1, 3, and 5, you can purchase combinations, such as 1 - 3, 1 - 5, 3 - 5.	例えば、１番と３番と５番のチョコボだったら１―３、１―５、３―５みたいにね
 You can also play the limited wheel by selecting a Chocobo.	他にも、１匹のチョコボから流し買いって手もあるな
 Limited wheel?	流し？
+Not interested	興味ないな
 Playing a 'Limited wheel' means you select a Chocobo and use it in all of your combinations.	流しってのは言葉どおりに  
 For example, if you have Chocobo 1, then you buy 1 - 2, 1 - 3, 1 - 4.	例えば１番のチョコボから１―２、１―３、１―４って買うことさ
 No matter how you make your bet, you win some and you lose some. It all comes down to skill and luck.	まぁ、どんな買い方しても当たる時は当たるし、外れる時は外れるけっきょく最後は自分のカンがもの言うってわけかな
@@ -342,11 +414,13 @@ Well, not as easy as you think. It's not just a matter of the Chocobo's strength
 If these are bad, the Chocobo may use too much stamina.	これが悪いと、スタミナを使いすぎてゴールまでもたなかったりといろんな要素がからんでくるからね
 One usually buys tickets for the B and C rank races, right?	俺らが普段買っているチョコボ券ってＢランクとＣランクレースだろ
 Rank?	ランク？
+Not interested	興味ないな
 Oh, that's right.	あっ、そう
 In other words, the 'rank' is the Chocobo's 'strength'.  A is highest and C the lowest.	ランクっていうのは、簡単に言うとチョコボの強ささ。Ｃの上がＢ、Ｂの上がＡってわけさ
 You can buy A rank tickets if you become a freelance Chocobo jockey.	フリーのチョコボレーサーになればＡランクレースのチョコボ券を買えるようになるんだよ
 Of course, the higher the rank, the better your item ticket. Hey, maybe I'll become a Chocobo jockey!?	もちろん、ランクが上の方がアイテム券がいいんだ。あ～、俺もチョコボレーサーになろうかな
 How DO you become one?	どうやってなる？
+Not interested	興味ないな
 You can become one if you own a Chocobo …and have some connections. But Chocobo's are pretty hard to catch and I don't have any connections.	コネと自分のチョコボがあればなれるんだけど…チョコボ捕まえるのは大変だしコネも持ってないからなぁ
 What?	なんだ？
 What?	なに？
@@ -356,7 +430,9 @@ Welcome Please purchase your Chocobo tickets here.	ようこそここでは、�
 If your ticket is a winner, you will receive an item ticket good for items on the panel.	お買いになったチョコボ券が的中した場合はパネルに振り分けられたアイテム券をもらえます
 Your item ticket may be exchanged for an item or GP at the exchange counter to the right of the entrance.	アイテム券は入口右の交換所でアイテムかアイテムに応じたＧＰに変えることが出来ます
 Welcome. Would you like to buy some Chocobo tickets?	いらっしゃいませ。チョコボ券をお買い求めですか？
+Yeah	ああ
 Explain it to me	話が聞きたい
+Not interested	興味ないね
 Registration fees are 200 gil. Is that all right?	レース投票の登録に２００ギルかかりますがよろしいですか？
 Yeahhh!	ああ
 No way!	イヤ！
@@ -368,9 +444,15 @@ I lost…	はずれた……
 C(1BET 100gil)	Ｃ（１ＢＥＴ　１００ギル）
 B(1BET 200gil)	Ｂ（１ＢＥＴ　２００ギル）
 Quit	やっぱりやめた
+C(1BET 100gil)	Ｃ（１ＢＥＴ　１００ギル）
+B(1BET 200gil)	Ｂ（１ＢＥＴ　２００ギル）
 A(1BET 300gil)	Ａ（１ＢＥＴ　３００ギル）
 Forget it	やっぱりやめた
+C(1BET 100gil)	Ｃ（１ＢＥＴ　１００ギル）
+B(1BET 200gil)	Ｂ（１ＢＥＴ　２００ギル）
+A(1BET 300gil)	Ａ（１ＢＥＴ　３００ギル）
 S(1BET 500gil)	Ｓ（１ＢＥＴ　５００ギル）
+Never mind	やっぱりやめた
 This Chocobo Race is run on a virtual course.	このチョコボレースはコースの上に設置されたバーチャル装置によって
 The natural scenery you see in the race doesn't really exist.	実際には存在しない自然の中でダイナミックなレースを展開します
 You pick which Chocobo will finish first and second here,	お客様はこちらでどのチョコボが１着と２着になるか予想をいたしまして
@@ -423,45 +505,65 @@ I won!!	勝った！！
 I'm sorry We can't play yet…	ごめんなさいまだ、遊べないの…
 Ester	エスト
 Do you want to ride?	どう、乗ってく？
+Ester	エスト
 Hey, long time no see… How have you been?	あっ、ひさしぶり～元気だった？
+Ester	エスト
 There's a lot going on in the world outside.	なんか外はスゴイことになってるじゃない
 It's little lonely around here, but you can't keep a jockey from doing what he loves.	ここも、さびしくなっちゃったけどレーサーたちの燃えるタマシイは止められないわ
+Ester	エスト
 How 'bout it, you want to ride again? You have your own Chocobo, right?	どう、ひさしぶりに乗ってみる？自分のチョコボもってるんでしょ？
+Ester	エスト
 Yeahh, but jockeys can't buy tickets.	そうそうレーサーは券を買えないけど
 If you win, you'll get an item ticket, so try it!	勝てば、その組み合わせのアイテム券がもらえるのよガンバッテね
 Let me register	登録をたのむ
 Tell me how to ride it	乗り方を聞く
 Don't do it	やめる
+Ester	エスト
 Hmm, it seems that no Chocobos can be registered…	あら、いま登録できるチョコボっていないみたい…
 Which one?	どれをだそうか？
+Ester	エスト
 Congratulations! You're first!	おめでとう１着よ
+Ester	エスト
 And your Chocobo moved up a rank.	それと、チョコボのランクがあがったわよ
+Ester	エスト
 From the next race, that Chocobo will be in B rank.	次からそのチョコボはＢ　ランクよ
+Ester	エスト
 From the next race, that Chocobo will be in A rank.	次からそのチョコボはＡ　ランクよ
+Ester	エスト
 Wow! From the next race, that Chocobo will be in S rank.	スゴイわね次からそのチョコボもＳ　ランクよ
+Ester	エスト
 Wow, that's great.	すごいじゃない
 Looks like you don't have any rivals in the A rank anymore.	もうＡランクでも敵はいないって感じかしら？
 But you know, there's a rank that's full of those Chocobos.	ふふ、でもねじつは、そういうチョコボが集まっているランクがあるのよ
 Ahem!! From the next race, that Chocobo is…	オホン！次からそのチョコボは…
 S rank! Joe's usually in that group, too. So good luck.	Ｓ　ランク！ジョーも大抵はここで活躍しているのガンバッテね
+Ester	エスト
 Amazing…	すごいわ…
 This is the winningest jockey in S rank ever since Joe.	Ｓランクでそんなに勝ってる人ってジョー以外では始めて見たわ
 Good job. Here's a little something from me!	ごほうびに、私からプレゼントあげちゃう
 Received "Exp Plus" Materia!!	『経験値アップ』のマテリアを手にいれた！！
 Never mind	やめる
+Ester	エスト
 I'll register this C rank Chocobo.	じゃあ、そのランクＣのチョコボを登録するわね
+Ester	エスト
 Then I'll register this B rank Chocobo.	じゃあ、そのランクＢのチョコボを登録するわね
+Ester	エスト
 Then I'll register this A rank Chocobo.	じゃあ、そのランクＡのチョコボを登録するわね
+Ester	エスト
 Then I'll register this S rank Chocobo.	じゃあ、そのランクＳのチョコボを登録するわね
+Yeah	ああ
 I changed my mind, don't do it	やっぱりやめ
+Ester	エスト
 Which do you want, the long course or the short one?	コースはロングとショートがあるけど、どっちにする？
 Short	ショート
 Long	ロング
+Ester	エスト
 Good Luck! Take care!	がんばっていってらっしゃ～い
 Hey, CLOUD. Let me ride once in a while.	ねぇ、CLOUDたまには、私にも乗らせて
 Hey, CLOUD. Let me hop on sometime.	おう、CLOUDたまには、おれ様にも乗らせてくれよ
 Sure	いいよ
 Nope	ダメ
+Ester	エスト
 Oh, you forgot? It's all right. Ahem!	あら、忘れちゃったの？まぁ、いいわ。オホン！
 First use [ASSIST] to choose either AUTO or MANUAL.	まず『ＳＥＬＥＣＴ』ボタンでオートとマニュアルを切り替えるの
 This lets you control the Chocobo yourself or let it run on its own.	簡単に言うと、自分で命令するかチョコボの好きに走らせるかね
@@ -485,17 +587,24 @@ Arm Wrestling	アームレスリング
 Mega Sumo	メガずもう
 1 game 100 gil	１プレイ　１００ギル
 Try it	やる
+Not interested	興味ない
 Not enough gil…	ギルがたりない…
 Push [OK] consecutively.	『○ボタンを連打してください』
 Please select opponent.	『対戦レベルを選んでください』
 Sumo Wrestler	すもう
 Wrestler	レスラー
 Wonder Catcher	『ワンダーキャッチャー』
+1 game 100 gil	１プレイ　１００ギル
 Didn't get a thing…	何も取れなかった…
+Received "Potion"!!	『ポーション』を手にいれた！！
 Received 1 GP!!	ＧＰを１点手にいれた！！
+Received "Elixir"!!	『エリクサー』を手にいれた！！
 Received 3 GP!!	ＧＰを３点手にいれた！！
 Received 100 GP!!	ＧＰを１００点手にいれた！！
 Received 80 GP!!	ＧＰを８０点手にいれた！！
+Received "Phoenix Down"!!	『フェニックスの尾』を手にいれた！！
+Received "Ether"!!	『エーテル』を手にいれた！！
+Received "Megalixir"!!	『ラストエリクサー』を手にいれた！！
 Basketball Game	『バスケットゲーム』
 1 game 200 gil	１プレイ　２００ギル
 Hold down [OK] to gain strength.	○ボタンを押している間だけ
@@ -504,6 +613,7 @@ Received  GP!!	ＧＰを点手に入れた！！
 DOUBLE CHANCE!	『ダブルアップチャンス！』
 Double your GP for the game, but if you lose, your GP will be 1.	『現在獲得のＧＰを倍に出来ます失敗すると１点になります』
 You may continue after you successfully double your GP. Want to try 'DOUBLE CHANCE'?	『成功するとダブルアップ後もゲームを続けることが出来ます。ダブルアップに挑戦しますか？』
+Yes	ああ
 No	やめとく
 NOW PLAYING DOUBLE CHANCE	『ダブルアップ挑戦中』
 Double Up!!	『ダブルアップ！！』
@@ -524,25 +634,45 @@ Gold Ticket  300GP	ゴールドチケット　　３００ＧＰ
 ??????????? 1000GP	？？？？？？？？　１０００ＧＰ
 ??????????? 2000GP	？？？？？？？？　２０００ＧＰ
 Don't want to exchange	やっぱり取りかえない
+Potion 1GP	ポーション　　　　　　　１ＧＰ
+Ether 20GP	エーテル　　　　　　　２０ＧＰ
+X-Potion  80GP	エクスポーション　　　８０ＧＰ
+Turbo Ether  100GP	エーテルターボ　　　１００ＧＰ
+Gold Ticket  300GP	ゴールドチケット　　３００ＧＰ
+???????????  500GP	？？？？？？？？　　５００ＧＰ
+??????????? 2000GP	？？？？？？？？　２０００ＧＰ
+Don't want to exchange	やっぱり取りかえない
+Potion 1GP	ポーション　　　　　　　１ＧＰ
+Ether 20GP	エーテル　　　　　　　２０ＧＰ
+X-Potion  80GP	エクスポーション　　　８０ＧＰ
+Turbo Ether  100GP	エーテルターボ　　　１００ＧＰ
+Gold Ticket  300GP	ゴールドチケット　　３００ＧＰ
+???????????  500GP	？？？？？？？？　　５００ＧＰ
+??????????? 1000GP	？？？？？？？？　１０００ＧＰ
+Don't want to exchange	やっぱり取りかえない
 Potion 1GP	ポーション　　　　　　１ＧＰ
 Ether 20GP	エーテル　　　　　　２０ＧＰ
 X-Potion  80GP	エクスポーション　　８０ＧＰ
 Turbo Ether  100GP	エーテルターボ　　１００ＧＰ
 Gold Ticket  300GP	ゴールドチケット　３００ＧＰ
 ???????????  500GP	？？？？？？？？　５００ＧＰ
+Don't want to exchange	やっぱり取りかえない
 Not enough GP	ポイントが足りません
 I'm gonna let you in on something… Y'see, this is Materia. But you can't seem to carry any more of it.	バラしちゃうけどこれ、マテリアなのよけど、あなたいっぱいで持てないわよ
+Received "Ether"!!	『エーテル』を手にいれた！！
 Received "X-Potion"!!	『エクスポーション』を手にいれた！！
 Received "Gold Ticket"!!	『ゴールドチケット』を手にいれた！！
 Received "Gil Plus" Materia!!	『ギルアップ』のマテリアを手にいれた！！
 Received "Carob Nut"!!	『カラブの実』を手にいれた！！
 Received "EXP Plus" Materia!!	『経験値アップ』のマテリアを手にいれた！！
+Received "Turbo Ether"!!	『エーテルターボ』を手にいれた！！
 You already have a 'Gold Ticket'…	『ゴールドチケット』はすでにお持ちのようですが…
 I can't get that…	あれが、取れないんだよな…
 I can't stop because they have good stuff in 'em.	中には、いいのも入ってるからやめられないんだよな
 Almost…	もう、ちょっと……
 Crap!	あっ！
 No cigar…	だめだった…
+Almost…	もう、ちょっと……
 Arrrgh!	あっ！
 Got it!!!	やった！！！
 I can't stop, no matter what's going on outside…	世界がこんなんなってもやめられない僕って…
@@ -550,8 +680,11 @@ I'm just gonna spend all my money and play until I drop!!	もう、こうなっ�
 Please…don't… talk to me…right now.	いま、チョット話しかけないでもらえます
 You sure do need a lot of money here.	ここってほ～んと金がかかるね
 Building 2f.	建物２Ｆ
+Try it	やる
+Not interested	興味ない
 Don't have enough gil…	ギルがたりない…
 3D Battler	『３Ｄバトラー』
+1 game 200 gil	１プレイ　２００ギル
 [MENU]       Hi attack	△ボタンで上段攻撃
 [SWITCH]   Mid attack	□ボタンで中段攻撃
 [CANCEL]   Low attack	×ボタンで下段攻撃
@@ -559,11 +692,13 @@ The first one with 10 points wins.	１０ポイント先取したほうの勝ち
 Back there…	あの奥の方のが…
 I get so caught up in these…	わたし、こういうのすぐムキになっちゃうのよね～
 You sure are an unusual one. Staying here with all that's going on outside…guess that makes, uh, two of us, huh?	あんたも物好きね外があんなだってのにこんな所に来て…ってアタシもか？
+Received  GP!!	ＧＰを点手にいれた！！
 Out of Order	故障中
 This place sure gets expensive… To play, or not to play'…	まったく、ここは金がかかるなぁ…遊ぶべきか、遊ばざるべきか…
 …Don't worry 'bout me. Go ahead and play.	………気にしないでやってくれよ
 Hmm, I'm impressed… Thanks for the show.	うう……感動したよ…。いいもの見せてくれてありがとう
 Here, take this.	これ、やるよ
+Hmm, I'm impressed… Thanks for the show.	うう……感動したよ…。いいもの見せてくれてありがとう
 Use caution in relationships	対人関係に注意
 Your lucky color is red.	ラッキーカラーは赤です
 You may meet someone new.	新しい出会いがあるかも
@@ -576,6 +711,7 @@ A great turning point is near.	大きな転機がおとずれます
 Never give up.	あきらめずにがんばろう
 Your lucky number is .	あなたのラッキーナンバーは
 G Bike	Ｇバイク
+1 game 200 gil	１プレイ　２００ギル
 Use [Directional button] to move	『方向キー』で移動
 [SWITCH] to attack left	□ボタンで左攻撃
 [OK] to attack right	○ボタンで右攻撃
@@ -590,6 +726,7 @@ Snow Game	スノーゲーム
 [PAGEDOWN] + Directional button Right/Left] to edge	『Ｒ１ボタン＋方向キー左右』でそれぞれの方向にエッジをきかせます
 You receive points for hitting the balloons that appear on the course.	コースにでてくるバルーンを取るとポイントになります。
 Submarine Game	潜水監ゲーム
+1 Play 200 gil	１プレイ　２００ギル
 Directional button Left for Left Turn	『方向キー左』で左に旋回
 Directional button Right for Right Turn	『方向キー右』で右に旋回
 Directional button Up to Dive	『方向キー上』で下降
@@ -601,6 +738,7 @@ Find and avoid mines by using the Sonar, and destroy the Enemy Submarines.	ソ�
 Fortune Telling	『うらない』
 1 fortune 50 gil	１プレイ　５０ギル
 Mog House	『モグ・はうす』
+1 game 100 gil	１プレイ　１００ギル
 Out of Order	調整中
 Hyuuuuu, BAM, BAM, BAM…	ギュオーン、ギュオーンキュー、バリバリバリ
 Oh man, I gotta scream.	ああ、つい声をだしてしまう
@@ -609,11 +747,13 @@ I'm gonna be the wind again today!	私は今日も風になる！
 Nope, I'm not quitting until I clear this!	ダメダメ、クリアするまでやめないよ
 Received "Safety Bit"!	『セーフティビット』を手にいれた！
 Received "Crystal Bangle"!	『クリスタルバンクル』を手にいれた！
+Received "All" Materia!	『ぜんたいか』のマテリアを手にいれた！
 Received "Ink"!	『イカスミ』を手にいれた！
 Received "T/S Bomb"!	『時空弾』を手にいれた！
 Received "Dragon Fang"!	『双龍の牙』を手にいれた！
 Received "Dragon Scales"!	『海龍のウロコ』を手にいれた！
 Received "Caldron"!	『魔女の大釜』を手にいれた！
+Received "Speed Source"!	『スピードアップ』を手にいれた！
 Please select your mission.	ミッションを選んで下さい。
 Undersea Mako Reactor Battle	海底魔晄炉戦
 Level 1	レベル１
@@ -623,6 +763,8 @@ Level 4	レベル４
 Not interested.	興味ない
 Hey, CLOUD. Let me ride sometime.	ねぇ、CLOUDたまには、私にも乗らせて
 Hey, CLOUD. Let me get on sometime.	おう、CLOUDたまには、おれ様にも乗らせてくれよ
+Sure	いいよ
+Nope	ダメ
 This is Mog's house. It's in Mog Forest on Mt. Mog.	ここはモーグリ山の モーグリ森のモグの家。
 The beginning of another day in the life of a Mog.	今日もモグの一日が 始まります。
 This year, Mog is pipapopupo years old. …that's 28 in human years.	モグは今年でクピパポプポさい。 人間でいうと２８さい。
@@ -675,6 +817,7 @@ Be careful of forgetfulness. Your lucky color is…blue?	忘れ物に注意。�
 Wait, wait give me another chance!	待って～な、もっぺんやらして！
 What the?	……なんだと！？
 What does it say?	何てかいてあるの？
+What?	な～に？
 Read it out loud, CLOUD	読んでみろ、CLOUD
 What is it? Tell us!	なんだよう！教えろよう！
 What you pursue will be yours. But you will lose something dear.	求めれば必ず会えます。しかし最も大切なものを失います
@@ -693,18 +836,22 @@ CLOUD, it's all right with you?	CLOUD、いいのか？
 He's weird! CLOUD, don't let him come!	へんなやつ！CLOUD、やめなよ
 I'm comin' with you no matter WHAT you say!	どないに言われてもついてきます！
 H…hey!	お、おい！
+Yaaay!!	わ～い！！
 Eaayyyyyyh!	キャッキャ！
 Come now, no running!	これこれ、走るんじゃないよ
 Let's get lotsa GP at Wonder Square and have some fun!	ワンダースクェアでＧＰをためてたくさん遊ぼう！
 Now, be careful of Meteor.	これこれ、メテオには気をつけるんだよ
 Let's get lotsa GP at Wonder Square and have a blast!	わんだ～すくぇあでＧＰをためてたくさん遊ぼうでちゅ
 I'll hang in there, even if I'm alone!	ひとりになってもガンバルでちゅ
+Wonder Square	ワンダースクェア
 They probably told you at the entrance, but most of the attractions at Gold Saucer only take 'GP'.	入口で聞いたと思うけどよゴールドソーサーのアトラクションのほとんどは『ＧＰ』っていうゴールドソーサーでのお金がいるんだよ
 They don't sell GP. You can only get 'em from the Wonder Square games or at the Chocobo Races.	これが、普通に売ってなくてよこのワンダースクェアのゲームかチョコボレースでしか手に入れられねぇんだ
 Attention! Dismissed!!	よし、ちれ！！
 Shinra soldiers… Even here…	神羅兵…こんなところまで…
 What happened?	どうしたの？
+What?	なに？
 What happened?	どうした？
+What is it?	なんだ？
 Sh…!	シッ！
 I'm sorry, we're currently renovating. Please come again.	すいません、今は改装中なんですまた、出直してください
 …	……………
@@ -719,6 +866,7 @@ Wa…wait CLOUD!	ちょ、ちょっとCLOUD！
 CLOUD!? Where are you going?	CLOUD！？どこ、いくの？
 Hey, CLOUD!	おい、CLOUD！
 Don't, don't just leave me!	ア、アタシを置いていくな！
+Battle Square	バトルスクェア
 I heard that this is the curator's favorite attraction. He even has his collection displayed in the arena.	ここのアトラクションが園長は１番好きらしいね。闘技場内に自分のコレクションを展示してるくらいだからなぁ
 Yeee-----ah!!	わ～い！！
 Ea…ggha…!	キャッキャ！
@@ -730,6 +878,7 @@ Not interested	そんな気はない
 Is that so.	ふ～ん
 I like fighters, but hate ones who're all talk.	わたし、ファイターって好きよ。けど、口だけの人ってキライなの
 I watched you win eight battles. I want you to have this!	見てたわ、あなたが８戦勝ち抜くところ。これ、受け取って下さい！
+Received "Sprint Shoes"!	『エルメスのくつ』を手にいれた！！
 Good luck in the future too!	これからもガンバってくださいね
 Did Sephiroth do this!?	セフィロスがやったのか！
 No…it's not him… They're all shot… Sephiroth would never use a gun…	これは……ちがう………銃で撃たれている……セフィロスは銃など使わない…
@@ -742,27 +891,39 @@ A gun on his arm!?	片腕が銃！？
 …did he!?	……あいつが！？
 Wow, no way!!	へぇ、やるぅ！！
 Hold it right there! And stay quiet!!	そこまでだ！おとなしくしろ！！
+Dio	ディオ
 Did you guys do this!?	お前らがやったのか！？
 N…no, it wasn't us!	ち、ちがう、俺たちじゃない！
+Dio	ディオ
 I must've been wrong…	私の見こみ違いというわけか…
+Dio	ディオ
 Stop them!!	捕らえろ！！
 Hurry and run, it's gonna get ugly.	はよ逃げな、やばいで
 He…hey!	お、おい！
+Arena Lobby	闘技場ロビー
+Dio	ディオ
+That's as far as you go.	ここまでだな
 Wait, listen to…	まて、話を…
 CLOUD…	CLOUDさん…
 Arena	闘技場
 doing it.	してる
+Dio	ディオ
 One more to go.	あと、１人だな
+Yes	はい
 Hey! Pay attention!!	おい！少しは、こっちの話を聞け！！
+Dio	ディオ
 I don't need to hear it. Pay for your crime below!!	聞くことはない。下で、罪をつぐなうのだ！！
+Dio	ディオ
 Do it!	やれ！
 Corel Prison	コレルプリズン
 Wo-ho! Welcome to Corel Prison.	ひゃあ、はっはっは！ようこそコレルプリズンへ
 Hold---it. If you wanna pass, you're gonna need the boss's permission.	おっと、こっから先はボスの許可が無ければダメだ
+…	………
 You all right?	だいじょぶ？
 CLOUD, you all right?	CLOUDだいじょうぶ？
 Are you all right?	だいじょうぶか？
 Hey, you okay?	おい、だいじょうぶ？
+Where are we?	ここは？
 A desert prison… Corel Prison…	サバクのかんごく……コレルプリズンやな
 A desert prison?	サバクのかんごく？
 Yup, a natural prison in the middle of the desert… surrounded entirely by quicksand.	そや、サバクの流砂にかこまれた自然のかんごくや
@@ -772,10 +933,12 @@ Hey!! BARRET!!	あっ！！BARRET！！
 BARRET!?	BARRET！？
 Mmm!? Isn't that BARRET?	ん！？あれは、BARRETではないのか？
 Hey? Isn't that BARRET?	あれ？あいつ、BARRETじゃないのか？
+BARRET…	BARRET……
 Did you…	あんたまさか本当に……
 Stay back! This's something I gotta deal with.	来るな！　これはオレの……オレがカタをつけなくちゃならねえことなんだ
 Jus' leave me alone…	ほっといてくれ……
 Whew! That's one of your friends? He sure looks dangerous…	ヒョーッ！あの人も、みなさんのお知り合い？なんやアブなそうな人やなぁ～
+BARRET…	BARRET……
 CLOUD, what should we do? BARRET's not his normal self.	CLOUD、どうしよう？BARRET、いつもとちがうよ
 …BARRET…	そんな……BARRET……
 Hey, CLOUD! Just leave him alone.	おい、CLOUD！あんなヤツほっとこうよ
@@ -784,6 +947,7 @@ This one's been shot, too…	これも銃で撃たれあとだ…
 We should find BARRET before we go out into the desert.	サバクに出る前にBARRETを追ったほうがいいな
 Basement	地下室
 Empty…	からっぽ……
+Corel Prison	コレルプリズン
 You new? Then go and pay your respects to Mr. Coates.	新入りか？なら、コーツ様にあいさつをしておくんだな
 Mr. Coates' Henchmen	コーツの部下の２人
 More respects again? You sure are formal, go ahead…	また、あいさつか？ いい心がけだ、入んな』
@@ -794,11 +958,13 @@ Ha ha ha	へっへっへ
 This elevator will take you to the top…	このエレベーターに乗りゃあ上に行けるんだぜぇ
 But, you gotta be picked as a Chocobo Racer, first.	けど、これに乗れるのは　チョコボレーサーに選ばれたやつだけなんだぜぇ
 Want to enter the Chocobo Race?	チョコボレースに出たいのか？
+Not interested	興味ないね
 Yeah, I want to enter	ぜひ、出たい
 You thinkin' of livin' here forever? Then live a long life!	一生ここでくらす気か？せいぜい長生きするんだな！
 Then go get permission with the boss of this place.	それならよ、許可をとってこいよ。ここのボスのさ
 Who's the boss?	ボスは誰だ？
 You don't even know that? Oh man.	あ～らら！知らないの？ダメだな、こりゃ
+Empty…	からっぽ……
 This place is heaven.	ここは天国だぜ
 Man with a gun on his arm?	片腕が銃の男？
 Never heard of him.	知らねぇぜ
@@ -810,6 +976,7 @@ Don't walk.	歩いちゃいけねぇ
 There's no way you'll ever see a mysterious Chocobo carriage. No way.	いつか、不思議なチョコボ車に会えるなんて事はぜってぇ、ねぇ
 No way.	ぜってぇ、ねぇ
 Those guys only tell lies. Only lies. Not one of 'em will tell you the truth. Just talk with 'em a couple of times, and you'll get sick of 'em.	そこの奴らはウソしか言わねぇんだウソだけだ、本当のことなんて何ひとつ言わねぇよ。　何回か話を聞いてみな、あきれてくるぜ
+Corel Prison	コレルプリズン
 If you get lost in the desert, just keep going Northeast. If you're lucky, you'll make it back here.	サバクに迷いこんじまったらひたすら北東に進むんだな。運がよければもどってこられるぜ
 Man, the Boss was REALLY in a bad mood today… Or was it one of his better days?	今日のボスはすげぇキゲンが悪ぃや…いや、ありゃあキゲンがいいのか？
 Prison Pub	プリズンパブ
@@ -817,16 +984,24 @@ A rookie? Then you gotta buy something. Yup, that's the rule here.	新入りか�
 Container	コーツのコンテナ
 Mr.Coates	コーツ
 Never seen your face 'round here before. Goin' up?	見ねえ顔だな。ん？　上へ行きてえのか？
+Not interested	興味ないね
 Yeah, up	行きたい
+Mr.Coates	コーツ
 Heh heh! You sure got guts!	ヘッヘッヘッ！いいこころがけだ
+Mr.Coates	コーツ
 You don't seem to understand how things work down here. This is the Gold Saucer's garbage dump. And that makes alluv ya scrubs.	おめえ、ここがわかってねえな。ここはゴールドソーサーのゴミすて場てめえらもクズなんだよ
+Mr.Coates	コーツ
 The only way to get back up there is to win the Chocobo Race.	シャバへもどりてえんならチョコボレースで優勝するしかねえ
+Mr.Coates	コーツ
 But, it's not as easy as you rookies think.	だがな、てめえらみたいな新顔がすぐ出られるほど甘かねえよ
 Of course, if you got the boss's permission it'd be a different story, but YOU'll never get that!	ま、ボスの許可でも取れたら別だがなとれるわきゃあねえか？
+Mr.Coates	コーツ
 Ha ha ha ha.	はははっははっ
 Mayor's Old House	旧村長の家
+BARRET!	BARRET！
 Didn't I tell you not to come here!?	来るなと言ったじゃねえか！
 Ju…just hold on for a second! We just want to talk! You'll understand if you just hear us out!	ちょ、ちょっとタンマ！話し、しましょ！な、話せばわかるって！
+BARRET!!	BARRET！！
 Didn't want none of ya to get involved…	おまえたちをまきこみたくなかった……
 Hey that's CLOUD's line! …It's too dangerous, I can't let you get involved…' blah, blah, blah…	それ、CLOUDのセリフ！『危険だ、まきこむわけにはいかない』とかなんとか、ね
 Yeah. We're already involved in this.	そうそう。それに私たち、もう思いっきりまきこまれちゃってるんだから
@@ -836,7 +1011,9 @@ You guys…	おまえたち……
 I heard that the murders at the Battle Arena were done by a man with a gun-arm…was that you?	闘技場の事件は片腕が銃の男のしわざだと聞いた。……あんたか？
 There's another… another man that got a gun grafted inta one of his arms. It was four years ago…	もう１人いるんだ……片腕に銃をもつ男。４年前、あの日から……
 What the hell happened?	なんてこった……
+Dyne	ダイン
 What's done is done.	とりかえしがつかねえ…
+Dyne	ダイン
 Hey, BARRET! It's not over yet!	おい、BARRET！まだ終わっちゃいねえ！
 Everyone's waiting! Let's go back to the village!	みんなが、待ってる！！俺たちの村へ帰るぞ！
 I remember…	あの日……
@@ -844,19 +1021,26 @@ I was on my way home from visiting	建設中の魔晄炉を見物にいった
 a Mako Reactor being built.	帰り道だった……
 BARRET! Dyne! Come quick! The village's being attacked! It's Shinra soldiers!	BARRET！　ダイン！大変だ！　村が襲われた！神羅の兵だ！
 What!!!?	なにっ！！！
+Dyne	ダイン
 C'mon, BARRET! We gotta hurry!	おい、BARRET！急ぐんだ！
 BARRET! Dyne! Protect the village!	BARRET！　ダイン！村をたのんだぞ…
 Hmp!! Old man!!	チッ！！おやっさん！！
 Krggh!!	クッ……！！
+Dyne	ダイン
 BARRET!! You stay here!!	BARRET！！ここはこらえろ！！
 Shu' up!!	うるせえ！！
+Dyne	ダイン
 Watch out!!	あぶねえ！！
+Scarlet	スカーレット
 Kyaa, haa, ha!!	キャハハハハハ！！
 You can shoot all day and never hit them with aim like that.	下手な鉄砲はいくら撃ってもあたんないんだよ！！
+Scarlet	スカーレット
 Kya, ha, ha!!! Looks like one hit you!!	キャハハハハ！！！ちゃんと当たるじゃないか！！
+Scarlet	スカーレット
 Kya, ha, ha!! Stop playing around and cover me!!	キャハハハハハ！！！ほら、遊んでないで援護しな！！
 Dyne!! Hang on!!	ダイン！！離すんじゃねえぞ！！
 Listen to me!! You're comin' back to the village, hear!!?	いいか！！村へ帰るんだろ！！
+Dyne	ダイン
 Yeah… I ain't lettin' go…	ああ……。離すわけねえ……
 You're comin' back… Everyone's waitin' for ya…	俺たちの村に帰るんだ………みんなが待ってる…
 Eleanor… and Marlene… They all waitin' on us…	エレノアが…マリンが……俺たちの帰りを……
@@ -867,6 +1051,7 @@ But then I threw away my artificial arm and got this gun grafted in.	オレは�
 Got a new right arm to get revenge on the Shinra, who took everything away…	オレからすべてを奪っていった神羅に復讐するための新しい右腕……
 Back then, I heard the doc say there was another man who got the same operation as me.	そのときの医者から聞いたのさ。オレと同じ手術を望んだ男がもう１人いるってことをな
 But, his was the left arm.	ただし、そいつは左腕が銃になっている
+…	…………
 But…Dyne's injury was the same as yours, right?	でも……それならダインもあなたと同じ、でしょ？
 Yeah, that's right. He was deceived by the Shinra too.	そうよね。神羅にだまされたんだもの
 He'll probably join us to fight against the Shinra.	きっと、いっしょに神羅と戦ってくれるわ
@@ -892,89 +1077,147 @@ Corel Desert	コレルサバク
 Wanna ride?	乗るかい……？
 Get on	乗る
 Don't get on	乗りたくない
+Corel Desert	コレルサバク
+Corel Prison	コレルプリズン
+Dyne	ダイン
 …Dyne …is that you?	……ダイン……おまえなのか？
+Dyne	ダイン
 Now that's a voice I haven't heard in years…	なつかしい声だな……
+Dyne	ダイン
 A voice I'll never forget…	忘れようにも忘れられない声だ……
 I always hoped I'd be able to see you again someday… I knew you were alive somewhere… we had the same operation.	いつか会えると信じていた……オレと同じ手術を受けどこかで生きていると……
 Listen Dyne, I want to…	聞いてくれダイン。おまえに……
+Dyne	ダイン
 I can hear her voice. What's that?	声が……聞こえるんだ
+…?	……？
+Dyne	ダイン
 It's Eleanor's voice. Begging me… not to hate your rotten guts.	聞こえるんだよ、エレノアの声が。おねがいだから……BARRETをうらまないでってさ
+Dyne	ダイン
 That's why I never hunted you down…	だから、あんたを追っかけるのはやめといた……
 …I know I was stupid. I'm not asking you to forgive me.	……自分の愚かさは知っている。許してくれとは言わない
 But…what're you doin' in a place like this?	でもよ……こんなところで何をしてるんだ？
 Why ya wanna kill people who ain't even involved? Why?	関係ない人間を殺してどうなる？なぜだ？
+Dyne	ダイン
 Why!? The hell do you care!?	……なぜ！？理由を聞いてどうする！？
+Dyne	ダイン
 You think the dead understand why's? Is hearin' Shinra's excuses gonna make people in Corel understand anything?	それで殺された人間はなっとくするのか？神羅の言い分を聞けばコレル村の人間は了解するのか！？
+Dyne	ダイン
 I don't CARE about reasons!	理由なんてどうでもいい！
+Dyne	ダイン
 All they give us is artillery and stupid excuses… What's left is a world of despair and emptiness…	与えられるのは銃弾と不条理…残されるのは絶望と無の世界…それだけだ！！
+…	…………
+Dyne	ダイン
 You still want to hear 'why'? …All right, I'll tell you.	それでも聞きたいか？……なら教えてやろう
+Dyne	ダイン
 'Cause I want to destroy everything.	俺はな、壊してしまいたいんだよ
+Dyne	ダイン
 The people in this city.	この街の人間を
+Dyne	ダイン
 This city itself.	この街のすべてを
+Dyne	ダイン
 The whole world!	この世界のすべてを！
+Dyne	ダイン
 I got nothing left in this world. Corel, Eleanor… Marlene…	この世界にはもう何もない。コレル村、エレノア……マリン……
 Dyne, Marlene… Marlene's still alive.	マリンは……マリンは生きている
+Dyne	ダイン
+…?	……？
 I went back into town. I thought she was gone for sure.	あのあと、オレは村にもどった。もう逃げられない…そう思った
 I wandered around town for awhile…	だからせめて、最後はミーナのそばにいたいと思った
 That's when I found her… …found Marlene.	そこであの子を……おまえの娘、マリンを見つけた
+Dyne	ダイン
+…	……
 She's in Midgar. Let's go see her together, all right?	マリンはミッドガルにいるんだ。一練に会いに行こう、な？
+Dyne	ダイン
 So…she's still alive?	そうか……生きているのか……
+Dyne	ダイン
 All right, BARRET. Then I guess you and me gotta fight.	わかったよ、BARRET。やはりおまえと戦わなくてはならないな
 What!?	なんだと！？
+Dyne	ダイン
 Eleanor's all by herself. I gotta take Marlene to her.	エレノアが１人でさみしがってる。マリンも連れて行ってやらないとな
 Dyne…are you crazy!?	ダイン……正気か！？
+Dyne	ダイン
 Marlene wants to see her mom, don't she?	マリンだって母さんに会いたがってるだろ？
 Stop, Dyne! I can't die yet!	やめろ、ダイン！オレはここで死ぬわけにはいかねえんだ！
+Dyne	ダイン
 Oh yeah? Well my life's been over ever since then.	そうかい。俺はあの日から命はすててるぜ
 Stop it! I don't wanna fight you!	やめてくれ！おまえとはやりたくねえ！
+BARRET!	BARRET！
 CLOUD, you stay the hell out of it! This is MY problem!!	CLOUD、手を出すな！これは、オレの間題だ！！
+Dyne	ダイン
 …BARRET…	……BARRET……
 Dyne!!	ダイン！！
+Dyne	ダイン
 Back!!	来るな！！
+Dyne	ダイン
 …I didn't just lose an arm back then…	……俺はあの時片腕と……いっしょに
 I lost something irreplaceable. I don't know where it went wrong…	かけがえのないものを失った……どこで……くいちがっちまったのかな……
 Dyne…I don't know either, man.	ダイン……わからねえよ
 Is this the only way… we can resolve this?	オレたち……こういうやりかたでしか決着をつけられなかったのか？
+Dyne	ダイン
 I told you… I… I wanna destroy everything…	言ったはずだ……俺は……壊してしまいたかったんだよ……
+Dyne	ダイン
 Everything… This crazy world… Even me…	何もかも……このくるった世界も……俺自身も……
 An' what 'bout Marlene? What's gonna happen to her!?	マリンは！マリンはどうなるんだ！
+Dyne	ダイン
 …Think about it…BARRET… How old was Marlene back then?	……考えてみろ……BARRET……あのときマリンはいくつだった……？
+Dyne	ダイン
 Even if I did go see her… she wouldn't even know me…	いまさら……いまさら俺が出ていったところであの子には……わかるはずもない……
+Dyne	ダイン
 And what's more…BARRET…	それにな……BARRET……
+Dyne	ダイン
 My hands are too stained to carry her anymore…	マリンを抱いてやるには俺の手は……少々汚れすぎちまったのさ……
+…	……
+Dyne	ダイン
 BARRET…	BARRET…
+Dyne	ダイン
 Give that pendant to Marlene… It was…Eleanor's… my wife's…a memento…	そのペンダントをマリンに…エレ…ノアの……女房の……かたみ……
 All right…	わかった……
+Dyne	ダイン
 …so…Marlene's… already…4…	……そうか……マリンが……もう……４つ…か……
 Dyne…?	ダイン……？
+Dyne	ダイン
 BARRET… Don't…you… …Don't ever make her…cry…	BARRET……マリンを…………泣かせる…な…よ……
 Dyne!	ダイン！
 Dy------ne!!	ダイーーーン！！
 …Dyne. Me an' you were the same…	……ダイン。おまえと同じなんだ……
 My hands ain't any cleaner… I shouldn't carry Marlene either…	オレだって……オレの手だって……汚れちまってる……
 Uuuurrrrrrgh!!!	うおぉぉーーーー！！！
+Mr.Coates	コーツ
 You want somethin'?	何か用か？
 I want to go up.	上へ行きてえ
+Mr.Coates	コーツ
 Like I told you before, you gotta get the boss's permission, then win the Chocobo…	だからよ、ボスの許可をとってチョコボレースに……
 Dyne's got his reasons an' can't speak.	ダインはワケがあって話ができなくなった
 So, I got this, instead.	そのかわり、これをもらってきたぜ
+Mr.Coates	コーツ
 Yeah, bull--!!	ゲッ……
+Mr.Coates	コーツ
 R, right.	わ、わかったよ
+Mr.Coates	コーツ
 Did you kill Dyne?	……ダインをやったのか？
+Mr.Coates	コーツ
 You must've. Or you'd never be holding that thing.	いや、そうなんだろうな。そんなもの持ってるんだからな
 …So Dyne's dead… Maybe now, the place'll calm down a little.	そうか……ダインが死んだかこれで、ここも少しは落ちついた土地になるぜ
+Mr.Coates	コーツ
 Dyne didn't care who anyone was…	なにしろダインはだれかれかまわず……
 The hell do YOU know!!	てめえに何がわかるってんだ！！
+Mr.Coates	コーツ
 R…ight! I mean, no, I DON'T know anything. S…sorry.	わわわ、わかった！いや、なんにもわかってないです。す、すいません
 Then, will you get us outta here?	それじゃあ、ここから出してもらおうか？
+Mr.Coates	コーツ
 Huh? Oh man, you guys are mistaken.	ん？　あんたたちなんか、かんちがいしてないか？
+Mr.Coates	コーツ
 I already told you, there's only one way to get outta here.	前に、少し言ったと思うがここからでる手段は、ただひとつ
+Mr.Coates	コーツ
 That's to win the Chocobo Race and that's held up there, in the Gold Saucer.	ゴールドソーサーで行なわれているチョコボレースで優勝するしかねぇ
+Mr.Coates	コーツ
 And, only one racer can go up at a time.	それに、一度に上に行けるレーサーはたった１人だ
 Say what!?	なんだと！
+Mr.Coates	コーツ
 Noooo! Really, even if you threaten me!!	だーーっ！いくら、おどしてもダメだ！！
 A rule's a rule. I can't change it.	このルールだけは変えるわけにはいかねぇ
 If I do, the whole system down here'll get messed up!! An' I can't do that!	ここの規律がメチャクチャになっちまう！！これは、ゆずれねぇ！
+Mr.Coates	コーツ
 OK, OK, I'll let one go up there. After that, he's gotta deal with Dio.	ひ、１人は上に送ってやる。後は、そいつがディオと取り引きするなり、なんなりしな
 Alright then.	ちっ！　しょうがねぇ
 CLOUD, you go.	CLOUD、おまえ行ってこい
@@ -985,82 +1228,143 @@ Yes, good luck, CLOUD.	うん、CLOUDがんばってね
 Right, CLOUD. We'll be waiting and rooting for you.	そうね、CLOUD私たち待ってるからたのむわよ
 Well, CLOUD go get 'em!	じゃ、CLOUDたのんだよ
 OK CLOUD, knock 'em dead!	ほんな、CLOUDさんガンバッテなぁ～
+Mr.Coates	コーツ
 Have you decided?	は、話は、まとまったか？
+Mr.Coates	コーツ
 All you need now is a manager…	じゃあ、あとはマネージャーか
 To register and get a Chocobo…	チョコボレースの登録やちょうたつをする役目なんだが……
 Hi. I happened to hear your story.	は～い、話、聞かせてもらっちゃった
+Mr.Coates	コーツ
 Ester?	エストか？
+Ester	エスト
 I'll be your manager.	あたしがマネージャーやるわ
+Mr.Coates	コーツ
 Well, I have nothing against it, but…	まぁ、もんくはねぇが……
+Mr.Coates	コーツ
 This is Ester. She may look kinda funny…	こいつはエスト。　見た目は変だろ？
 But there's no better manager in the races…	でも、チョコボレースのマネージメントで右に出るやつはいねぇ
+Ester	エスト
 That's so rude…	しっつれいな言い方ね
+Ester	エスト
 Yeah, well. Nice to meet you, CLOUD.	まぁ、いいわ。よろしくCLOUDさん
+Mr.Coates	コーツ
 All right then, CLOUD.	よし、CLOUDさんとやら
 I'll send you up the elevator. Ester'll fill you in on the details.	柱のエレベーターから上に送ってやる。くわしいことはエストから聞きな
+Ester	エスト
 Hmm, so that's what happened. I'll talk to Dio directly. 	そう、そんなことがあったのわかったわ、ディオ園長には私から話をしておくわ
 You just concentrate on the race.	あなたは、取りあえずレースに集中して
 Oh yeah, getting back to the other thing, there are many different types of Chocobo jockeys. It's not only for criminals.	そうそう、さっきの話の続きだけどチョコボレーサーにはいろんな人がいるの。犯罪者だけのレースってわけじゃないのよ
 Some people compete for the fame, some people compete for the money, some only for glory… And then there're people like you.	名声のために戦い続けている人お金のために戦う人レースにのみ生き場所を感じている人…あなた、みたいな人をふくめてね
 Oh yeah, I'll teach you how to ride a Chocobo.	あっ、そうだチョコボの騎乗方法教えておくわね
 All right	ああ
+Not interested	興味ない
+Ester	エスト
 Ummm… First use [ASSIST] to choose either AUTO or MANUAL.	え～とまず『ＳＥＬＥＣＴ』ボタンでオートとマニュアルを切り替えるの
 This lets you control the Chocobo yourself or lets it run on its own.	簡単に言うと、自分で命令するかチョコボの好きに走らせるかね
+But it's pretty hard to make the Chocobo run the way you want it to. If the Chocobo doesn't like you, it won't listen.	でも、自分の思うとおりには中々走らせられないわよ。チョコボとの仲が良くないと言うことを聞いてくれないから
 Then, you're stuck…	こればっかりは今回はしょうがないわね
 But, most of the Chocobos I have are mellow and you should be able to handle them.	けど、私の用意するチョコボはおとなしい子が多いからけっこう、うまくやれると思うわ
 When you're riding, use [SWITCH] to Speed Up and [CANCEL] to Slow Down.	それから、自分で命令してる時に□ボタンでスピードアップ×ボタンでスピードダウン
 But, if you go faster than the Chocobo can handle, it will quickly lose its stamina.	ただし、チョコボが本来持っている能力以上のスピードをだすとどんどんスタミナが減ってくの
+Use the Directional button to move the Chocobo left and right, use [OK] to get a boost of speed.	それと方向キーの左右でチョコボを左右に○ボタンでムチを入れていっきにスピードを上げられるわ
+But this makes your stamina run out faster.	もちろんスタミナの消費は激しくなるけどね
+Some Chocobos are bad-tempered and can't pace themselves. They'll lose their stamina quickly.	あと、気性の悪いチョコボは自分のペースがわからなくてすぐスタミナを使いきっちゃうの
+Those Chocobos should be set on Manual to slow them down.	そういうチョコボは、すぐにマニュアル（自分で動かす）操作にしてスピードを落としてやるといいわ
 Finally, some advice for the restless. Once the first and second Chocobo cross the goal line,	最後にね、セッカチな人におすすめなんだけど１、２着のチョコボがゴールした後に
 push [START] to end the race.	『ＳＴＡＲＴ』ボタンを押すと途中でレースを見るのをやめることができるわ
 Waiting Room	ひかえ室
+Man	男
 You new?	新入りかい？
+Ester	エスト
 Hi, Joe.	こんにちは、ジョー
 Joe	ジョー
 Hey, Ester you're looking pretty as usual.	やぁ、エスト今日も美しいね
+Ester	エスト
 Thanks.	ふふ、ありがと
+Ester	エスト
 Let me introduce you, CLOUD.	しょうかいするわ、CLOUD
 This is Joe, one of the top Chocobo Jockeys.	彼はジョー、現役チョコボレーサーのトップをいく人よ
+Joe	ジョー
 Nice to meet you, CLOUD.	以後お見知りおきをCLOUD君
+Joe	ジョー
 If you're with Ester, then…	しかし、エストがじかについているということは……
+Ester	エスト
 Right! He's an up and coming jockey.	そ！　期待の新人ってところかしら
 He'd only been down there a day and already he made it up here!!	なんてったって、下に来てたった１日でここにいるんだから！！
 What!?	『なに！！』
+Joe	ジョー
 Oh, I see…	なるほどな……
+Joe	ジョー
 So why did you get put down?	いったい、下で何をした？
 Sorry…we're not supposed to ask about the past here.	いや……ここで過去を聞くのはタブーだったな…
+Joe	ジョー
 Hmm.	フッ
+Joe	ジョー
 Pretty interesting… I have a feeling that we'll meet again.	おもしろいよ……君とはまた、会えそうな気がする
+Joe	ジョー
 Then, until we meet again, CLOUD.	では、また会おう、CLOUD君
+Ester	エスト
 I'm going to check on the Chocobo. You just wait here for a while.	じゃあ私はチョコボの手配をしてくるわ。しばらくここで待っててね
+Ester	エスト
 I'll be right back.	すぐ、もどってくるから
 ……	………
 I got nothing to say.	話すことはねぇ
 Don't get cocky. Skills don't matter once you get in the race…	あんまし、いい気になるんじゃねぇぞ。腕っぷしなんてレースになりゃあ関係ねぇからな
 The race will start in a few moments. Will the jockeys for the next race please proceed to the paddock.	まもなく、レースがスタートします次のレースに出場のチョコボレーサーはパドックまでおこしください
 I repeat…	くりかえします……
+Ester	エスト
 CLOUD.	CLOUD
+Ester	エスト
 Thanks for waiting. I registered you in the next race.	はい、おまたせCLOUDも次のレースに登録しておいたわ
+Ester	エスト
 This is a Chocobo I prepared myself. He should do well.	まぁ、私が用意したチョコボなんだから、簡単には負けないわよ
+Ester	エスト
 So… Remember how to ride?	そうそうもう一度、乗り方を聞いておく？
 Uh, how was it again?	そうだな
 Yeah, I got it	いや、いい
+Ester	エスト
 Then, good luck.	それじゃあ、がんばってきてね
+Ester	エスト
 Let's see First use [ASSIST] to choose either AUTO or MANUAL.	え～とまず『ＳＥＬＥＣＴ』ボタンでオートとマニュアルを切り替えるの
+This lets you control the Chocobo yourself or let it run on its own.	簡単に言うと、自分で命令するかチョコボの好きに走らせるかね
 But it's pretty hard to make the Chocobo run the way you want it to. If the Chocobo doesn't like you, it won't listen.	でも、自分の思うとおりにはなかなか走らせられないわよ。チョコボとの仲が良くないと言うことを聞いてくれないから
+Then, you're stuck…	こればっかりは今回はしょうがないわね
+But, most of the Chocobos I have are mellow and you should be able to handle them.	けど、私の用意するチョコボはおとなしい子が多いからけっこう、うまくやれると思うわ
+Ester	エスト
+When you're riding, use [SWITCH] to Speed Up and [CANCEL] to Slow Down.	それから、自分で命令してる時に□ボタンでスピードアップ×ボタンでスピードダウン
+Ester	エスト
 If you go faster than the Chocobo can handle, it'll quickly lose its stamina.	ただし、チョコボが本来持っている能力以上のスピードをだすとどんどんスタミナが減ってくの
+Ester	エスト
 Use the Directional buttons to move the Chocobo left and right. Use [OK] to get a boost of speed.	それと方向キーの左右でチョコボを左右に○ボタンでムチを入れていっきにスピードを上げられるわ
+But this makes your stamina run out faster.	もちろんスタミナの消費は激しくなるけどね
+Ester	エスト
+Some Chocobos are bad-tempered and can't pace themselves. They'll lose their stamina quickly.	あと、気性の悪いチョコボは自分のペースがわからなくてすぐスタミナを使いきっちゃうの
+Those Chocobos should be set on Manual to slow them down.	そういうチョコボは、すぐにマニュアル（自分で動かす）操作にしてスピードを落としてやるといいわ
+Finally, some advice for the restless, once the first and second Chocobo cross the goal line,	最後にね、セッカチな人におすすめなんだけど１、２着のチョコボがゴールした後に
 Push [START] to end the race.	『ＳＴＡＲＴ』ボタンを押すと途中でレースを見るのをやめることができるのよ
+Ester	エスト
 Too bad.	残念だったわね
+Ester	エスト
 You were so close.	もうチョットだったんだけどね
+Ester	エスト
 I expected more from you.	もう少し期待したんだけどな
+Ester	エスト
 That was a tough break.	けど、内容が悪すぎるわ
+Ester	エスト
 Let me find a better Chocobo for you.  Wait here for a while, OK?	じゃあ、もう少しいいチョコボを探してくるわ。しばらく待っててね
+Ester	エスト
 If you couldn't win with that last Chocobo…	けどさっきのチョコボで勝てないとなると…
+Ester	エスト
 All right, I'll go get the best Chocobo there is!	わかったわ、もう最っ高のチョコボを探してくるわ
+Ester	エスト
 You gotta be kidding me!? There aren't any other Chocobos better than the last one!	うそでしょ！？今のチョコボ以上なんてもう、いないわよ
+Ester	エスト
 Well, if you really want to win, just push [ASSIST] and try the 'AUTO' mode.	もう、本当に勝ちたいのなら『ＳＥＬＥＣＴ』ボタンでオートモードにして走ってみてよ
+Ester	エスト
 Congratulations!! Now you're home free!	おめでとう！！これで晴れて自由の身よ
+Ester	エスト
 Oh yeah, the owner told me to give this letter to you if you won.	あっ、そうだこれ園長から手紙勝ったら渡すようにって
+Dio	ディオ
 Boy, if you're reading this letter, then you must've won. I know you earned it.	少年なら自らの力で、勝利を手にいれこの手紙を読んでくれていると信じている
 I heard about Dyne from Ester. Now that you won, I'm granting you and your friends a full pardon, and setting you all free.	ダインのことはエスト君から聞いた。少年が勝つことができたなら私の権限で、君の仲間の自由も約束しよう
 And by way of apology, I have a little gift for you to use on your journey.	それと、おわびと言ってはなんだが、プレゼントを用意した。旅のやくにたててくれたまえ
@@ -1072,7 +1376,11 @@ OK, CLOUD. I'll be waiting outside.	じゃ、CLOUD。外でまってるね
 (Hmm? The letter continues…)	（ん？　手紙に続きがある）
 P.S. I recently met Sephiroth. I'll bet he's pretty popular with boys your age.	Ｐ．Ｓ．この間、私はセフィロスにあったぞ少年たちの年代では、彼のファンもいるだろう
 Why don't you get his autograph? He was heading toward Gongaga, south of the river.	サインでももらったらどうだ？彼は、ここから【南の川を越えてゴンガガエリア】に向かったようだぞ
+Sephiroth…	セフィロス……
+Ester	エスト
 I guess this is goodbye.	じゃあ、お別れね
 Yeah. Well, if you ever get your own Chocobo, come back again.	そうだ。いつか、自分のレースチョコボを持てるようになったらもう一度ここに来るといいわ
 I'll take care of your registration and everything. I'll see you again.	また私が、登録とかいろんなことして、あ・げ・るまた、会いましょうね
 Received "Ramuh" Materia!	『ラムウ』のマテリアを手にいれた！
+You cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。

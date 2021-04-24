@@ -1,3 +1,4 @@
+Nibelheim	ニブルヘイム
 What!?	え～っ！！
 This was all burnt down, wasn't it?	燃えちゃったはず、だよね？
 …I thought so.	……そのはずだ
@@ -14,6 +15,7 @@ This is Nibelheim? I heard it burnt down.	ここがニブルヘイム？燃え�
 The whole town was destroyed by Sephiroth. At least that's what I heard…	セフィロスのせいで村は全滅。そう聞いてましたけど……
 Didn't you say that your hometown burned down?	おめえ、故郷は燃えてなくなったとか言ってなかったか？
 I thought someone said this town burnt down!	村、なくなったって誰かから聞いたよ！
+…Yeah.	……ああ
 You tryin' to fool us?	おまえ、オレたちをだましやがったのか！？
 Hey, what's going on?	ね、どうなってんのかな？
 CLOUD… Did you lie to us?	CLOUD……オイラたちにウソついた？
@@ -94,6 +96,7 @@ Do Mi So (C)Directional key Down	方向キー下　ドミソ（Ｃ）
 Do Fa La (F)Directional key Left	方向キー左　ドファラ（Ｆ）
 Re So Ti (G)Directional key Up	方向キー上　レソシ（Ｇ）
 Mi So Do (C)Directional key Right	方向キー右　ミソ高いド（Ｃ）
+End[START]	スタートボタン　終了
 Use [START] to end.	スタートボタン　終了
 But…I definitely remember playing the piano then. So why wasn't it burnt down?	あのとき……確かにこのピアノを弾いた。でも、なぜ焼けなかったんだ
 A man in a black cape?	黒マントの男！？
@@ -139,6 +142,7 @@ Re…union.	……リュ……ニヨン
 ….	………………
 Re…union.	………………ヨン
 …The Black Cape…	黒マントの……
+Received "Luck Source!"	『ラックアップ』を手にいれた！
 Nice town, huh?	ここはいい村でしょ？
 We've been in business here for a long time…	あたしらは昔っからここで商売してますけどね……
 …You're lying.	……ウソだ
@@ -165,11 +169,14 @@ Something is written on the back of the lid.	ふたのウラに文字がきざ�
 (1)Right 36	【１】　…　右　３６
 Something is written on the floor.	ゆかに文字がきざまれている
 (2)Left 10	【２】　…　左　１０
+Something is written on the floor.	ゆかに文字がきざまれている
 (3)Right 59	【３】　…　右　５９
+Something is written on the back of the lid.	ふたのウラに文字がきざまれている
 (4)Right 97	【４】　…　右　９７
 I have a bad feeling about this…	いやな予感が……
 Open the safe	それでも金庫をあける
 Don't open it	やめる
+[Empty Entry]	メモリ
 [Empty Entry]	メモリ
 Success	せいこう
 Fail	失敗
@@ -177,6 +184,7 @@ Received Key Item "Key to the Basement"!	キーアイテム『地下室のカギ
 C project	ＣーＰＲＯＪ
 specimen(B)  codeC	サンプル　ー　Ｂ（コードＣ）
 A scratch left by a fingernail inside the beaker… Let's get out of here…'.	ビーカーの内がわにツメでキズつけたあとが……『ここから逃げよう……』
+C project	ＣーＰＲＯＪ
 specimen(A)  codeZ	サンプル　ー　Ａ（コードＺ）
 A scratch left by a fingernail inside the beaker… Feeding Time'…that's our chance…!	ビーカーの内がわにツメでキズつけたあとが……『エサの時間が…チャンスだ……』
 Escapee Report no. 1 X Month X Day Two escapees were located near Midgar.	逃亡者に関する報告書　１ Ｘ月Ｘ日 当施設から逃亡した２名を ミッドガル近辺で発見しました]
@@ -189,11 +197,15 @@ B  Escaped during A's resistance.	Ｂ　Ａが抵抗する間に逃亡
 Escapee Report no. 4 Other	逃亡者に関する報告書　４ ：その他
 B's whereabouts is currently unknown. But pursuit is unnecessary due to his diminishing consciousness. Awaiting further instructions.	現在、Ｂの行方は不明です。しかし、Ｂは意識の乱れがかなり進行している様子でしたのでこのまま放置しておいても間題は無いというのが我々の見解です。今後に関する指示をおねがいします
 Sephiroth!	セフィロス！
+Sephiroth	セフィロス
 Being here brings back memories.	なつかしいな、ここは
+Sephiroth	セフィロス
 Are you going to participate in the Reunion?	ところで、おまえはリユニオンに参加しないのか？
 I don't even know what a Reunion is!	俺はリユニオンなんて知らない！
+Sephiroth	セフィロス
 Jenova will be at the Reunion. Jenova will join the Reunion, becoming a calamity from the skies.	ジェノバはリユニオンするものだ。ジェノバはリユニオンして空から来た厄災となる
 Jenova, a calamity from the skies? You mean she wasn't an Ancient!?	ジェノバが空から来た厄災？古代種じゃなかったのか！？
+Sephiroth	セフィロス
 …I see. I don't think you have the right to participate.	……なるほど。おまえには参加資格はなさそうだ
 I will go North past Mt. Nibel. If you wish to know…then follow…	わたしは【ニブル山をこえて北】へいく。もしお前が自覚するならば……わたしを追ってくるがよい
 …Reunion? Calamity from the skies?	……リユニオン？空から来た厄災？
@@ -221,7 +233,11 @@ Look, this letter could be in invisible ink.	よく見るとこの手紙はあ�
 Read it	あぶりだしてみよう
 Ignore it	無視しよう
 There are four things in this mansion… Check more closely.	この屋敷の中で４つあるもの……それをもっとよく調べてみてくれ
+Something is written on the back of the lid.	ふたのウラに文字がきざまれている
 (1)   Right 36	【１】　…　右　３６
 There's a carving in the floor.	ゆかに文字がきざまれている
 (2)   Left 10	【２】　…　左　１０
+There's a carving in the floor.	ゆかに文字がきざまれている
+(3)Right 59	【３】　…　右　５９
+Something is written on the back of the lid.	ふたのウラに文字がきざまれている
 (4)  Right 97	【４】　…　右　９７

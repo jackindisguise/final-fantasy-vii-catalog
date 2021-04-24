@@ -1,18 +1,28 @@
+President Shinra	プレジデント神羅
 How are the preparations going?	準備のほうは？
 Heidegger	ハイデッカー
 Gya, haa, haa!!  Smoothly, very smoothly! I assigned the Turks to this.	ガハハ！！　順調順調！実行部隊はタークスです
 Reeve	リーブ
 President!! Are we really going to do this? Simply destroy a group with only a few members…	プレジデント！本当にやるのですか？たかだか数人の組織をつぶすのに……
+President Shinra	プレジデント神羅
 What's the problem, Reeve? You want out?	いまさらナニかね、リーブ君
+Reeve	リーブ
 …No.	……いいえ
 But, as head of the Urban Development Department, I have been involved in the building and running of Midgar. That's why…	しかし、私は都市開発責任者としてミッドガルの建造、運営のすべてにかかわってきました。ですから……
+Heidegger	ハイデッカー
 Reeve, flush your personal problems with the rest of your crap!	リーブ、そういう個人的な間題は朝のうちにトイレで流しちまうんだな！
+Reeve	リーブ
 The Mayor's against this anyway…	市長も反対しているわけであり……
+Heidegger	ハイデッカー
 Mayor?	市長！？
 He just sits in this building all day feeding his face! You still call that a Mayor?	このビルの中でボソボソとメシをくってるあいつか！？あいつを、まだ市長と呼ぶのか？
+Heidegger	ハイデッカー
 Now if you'll excuse me sir!	それでは失礼します！
+President Shinra	プレジデント神羅
 You're tired. Why don't you take a couple of days off and go somewhere.	君はつかれているんだよ。休暇をとって旅行でも行ってなさい
+President Shinra	プレジデント神羅
 We'll destroy Sector 7 and report that AVALANCHE did it. Then we'll send in the rescue operation, care of Shinra, Inc…. Heh, heh, heh…this is perfect.	７番街を破壊する。アバランチの仕業として報道する。神羅カンパニーによる救助活動。フフフ……かんぺきだ
+Heidegger	ハイデッカー
 Gya, haaa, haa!	ガハハハ！
 Sewer	地下下水道
 Man! This is terrible.	もう！サイテーね、これ
@@ -29,7 +39,9 @@ Train Graveyard	列車基場
 AERIS, I got you mixed up in this…	AERIS。すっかり巻きこんでしまって……
 Don't tell me to go home.	ここから帰れ！な～んて言わないでね
 If we can just get past the trains that are lit up, we should be able to get out of here.	え～と……明かりのついている車両を抜けて行けば出られそうね
+[Save Point]	【セーブポイント】
 Received "Hi-Potion"!	『ハイポーション』を手にいれた！
+Received "Ether"!	『エーテル』を手にいれた！
 Received "Potion"!	『ポーション』を手にいれた！
 Received "Echo Screen"!	『やまびこえんまく』を手にいれた！
 We made it! The pillar's standing!	まにあった！柱が立ってる！
@@ -45,9 +57,13 @@ Don't worry. I'll put her somewhere safe.	わかった。安全な場所へ、�
 It's dangerous here! Everyone get away from the pillar, quickly!	ここは危険です！みんな早く柱からはなれて！
 Everyone get out of Sector 7!	７番街から離れて！
 Wedge!! You all right!?	だいじょうぶか？……ウェッジ！！
+Wedge	ウェッジ
 …CLOUD. You remembered…my name.	……CLOUDさん…。俺の名前…覚えてくれたっすね
+Wedge	ウェッジ
 BARRET's up top. …Help him…	BARRETさんが…上で戦ってるっす。手をかしてやって……
+Wedge	ウェッジ
 An' CLOUD… Sorry, I wasn't any help.	CLOUDさん……めいわくかけて、すいません…っす
+Wedge	ウェッジ
 CLOUD… It hurts…	CLOUDさん……い、痛いです……
 CLOUD!! You've gotta go now, or BARRET's…	CLOUD！！早くしなきゃ、BARRETが…
 Hey now!! Oops!!	おっ！！おっおっと！！
@@ -82,6 +98,7 @@ Hey shut up for a minute and let me get back to work!	すこしはだまって�
 What are you more scared of AVALANCHE or me?	アバランチと先輩……どっちがこわいんだろ？
 Oh, you, of course.	きっと、先輩だな
 HALT!! No one is allowed to pass!!	おう！！ここから先は立入禁止だ！！
+[Save Point]	【セーブポイント】
 Don't worry. You let me handle this.	だいじょうぶ。ここはまかせて
 Uh oh… There goes the pillar.	オロオロ…柱壊れちゃうんですか
 I'm scared, but it's for your own good.	こわいんですけどあんたたちのためにね
@@ -93,13 +110,16 @@ B, but… What happens if AVALANCHE shows up?	あ、あの……アバランチ�
 Umm…you're shaking. You're so gentle…I think I'm in love.	うん…あなた、ふるえてるのね？やさしい人…好きよ
 Doh! And this was supposed to be my last job! Do something!!	おう！　これが俺の最後の仕事だ！登ってけ！！
 I never thought this would ever happen to me! Great… I'm quitting tomorrow!	こんなことになるなんてな！いい気分じゃねえ！明日、じひょうだ！
+Jessie	ジェシー
 …CLOUD… I'm glad……I could talk with you…one last time.	あ……CLOUD…… 最後に……話せて良かった……
 Don't say 'last'……	最後だなんて……
 Is that so…	そうか……
+Jessie	ジェシー
 That's…all right…	もう、いい……いいの……
 Because…of our actions…many……people died…… this probably……is our punishment…	私たち……私たちの作戦でたくさん……人、死んじゃったし…… きっと……そのむくい……ね
 …Is…that so……?	……そうか……ですって……？
 Ha……cool……as usual… ex-…SOLDIER. …always…I liked that…in you…	フフ…………相変わらず……クールな……元ソルジャーさん。……そこが……いいんだけどね……
+Biggs	ビッグス
 CLOUD… so you don't care…what happens… to the…Planet?	CLOUD ……やっぱり……星の命なんて……どうなろうと……興味ないか？
 Nope, not interested	悪いけど興味ない
 You're wounded……	それよりケガが……
@@ -110,13 +130,17 @@ Be careful! They're attacking from the helicopter.	気をつけろ！　やつ�
 Better equip ourselves before they attack in full force!	本格的にくる敵に 装備を整えておいたほうがいいわ！さっそく来たわ！
 Press the (MENU) button to access the Menu.	【メニューボタン】でメニューをひらく
 Press the (OK)button when finished.	【決定ボタン】で終了
+Press the (MENU) button to access the Menu.	【メニューボタン】でメニューをひらく
 Press the (CANCEL) button for Change Party.	【カンセルボタン】Change Partyをはずす
 Press the (OK) button when finished.	【決定ボタン】で終了
 Here they come!	さっそく来だわ！
+Reno	レノ
 You're too late. Once I push this button…	おそかった、とこのスイッチを押すと……
+Reno	レノ
 That's all, folks! Mission accomplished.	はい、おしまい！　作業終了
 DAMN! It's a time bomb!	“くっ！時間爆弾か！
 We have to disarm it! CLOUD! BARRET! Please!	解除しなくちゃ！ CLOUD！　BARRET！　おねがい！
+Reno	レノ
 I can't have you do that. No one get in the way of Reno and the Turks…	そういうわけにはいかないぞ、と タークスのレノさまの邪魔は 誰にもさせないぞっ……と
 CLOUD! I don't know how to stop this. Try it!	CLOUD！ 止めかたがわからないの。やってみて！
 …It's not a normal time bomb.	……ただの時限爆弾じゃない 
@@ -124,18 +148,25 @@ Tseng	ツォン
 That's right. You'll have a hard time disarming that one.	そのとおり。それを操作するのは難しい
 It'll blow the second some stupid jerk touches it.	どこかのバカ者が勝手にふれると困るからな”
 Please, stop it!	おねがい、とめて！
+Tseng	ツォン
 Ha ha ha……	クックックッ……
 Only a Shinra Executive can set up or disarm the Emergency Plate Release System.	緊急用プレート解除システムの設定と解除は神羅役員会の決定なしではできないのだ
 Shut yer hole!	ゴチャゴチャうるせえ！
+Tseng	ツォン
 I wouldn't try that…… You just might make me injure our special guest.	そんなことされると大切なゲストがケガするじゃないか
+Tseng	ツォン
 Oh, you know each other?	おや、知り合いなのか？
+Tseng	ツォン
 How nice you could see each other one last time. You should thank me.	最後に会えて良かったな。私に感謝してくれ
 What are you gonna do with AERIS!?	AERISをどうする気だ
+Tseng	ツォン
 I haven't decided.	さあな
 Our orders were to find and catch the last remaining Ancient.	われわれタークスにあたえられた命令は『古代種』の生き残りをつかまえろ、ということだけだ
+Tseng	ツォン
 It's taken us a long time, but now I can finally report this to the President.	ずいぶんと長い時間がかかったが やっとプレジデントに報告できる
 TIFA, don't worry! She's all right!	TIFA、だいじょうぶだから！ あの子、だいじょうぶだから！
 Hurry and get out!	だからはやく逃げて！
+Tseng	ツォン
 Ha, ha, ha… Well, it should be starting right about now. Think you can escape in time?	クックックッ！ そろそろ始まるぞ。逃げきれるかな？
 We're not going to make it!	???
 Yo, we can use this wire to get out!	おい、このワイヤーを使って 脱出できるぜ！
@@ -163,6 +194,7 @@ Marlene is… I think Marlene is safe.	マリンは、マリンはだいじょ�
 …huh?	……え？
 Right before they took AERIS, she said, 'Don't worry, she's all right.' She was probably talking about Marlene.	AERISが言ってたわ。『あの子、だいじょうぶだから』って、マリンのことよ、きっと
 Rrr, really!?	ほ、本当か！！
+But…	でも……
 Biggs… Wedge… Jessie…	ビッグス……ウェッジ……ジェシー……
 All three of them were in the pillar.	……あの３人は柱の中にいた
 Think I don't know that?	わかってる……
@@ -181,6 +213,7 @@ Our fight ain't never gonna be over until we get rid of them!!	神羅を倒す�
 What don't you know!? You don't believe me?	オレが言ってることわからねえのか！？
 It's not that. I'm not sure about…me. My feelings.	ちがう……わからないのは自分の……気持ち
 An' what about you?	おまえはどうなんだ？
+…	……
 Yo!	おい！
 Where's he think he's goin'?	あいつ、どこへ？
 Oh! AERIS!	あっ！　AERISのこと！
@@ -191,6 +224,7 @@ AERIS said that Marlene was safe.	マリンはだいじょうぶってAERISは�
 TIFA. There ain't no turnin' back now.	TIFA。もう、あともどりはできねえんだ
 Sector 6 park	６番街公園
 You may not take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
 Received "Sense" Materia!	『みやぶる』のマテリアを手にいれた！
 CLOUD!	CLOUD！
 Take me to Marlene!	マリンのところへ連れてってくれ！

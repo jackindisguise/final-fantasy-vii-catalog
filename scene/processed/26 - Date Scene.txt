@@ -1,10 +1,13 @@
+CLOUD…	CLOUD……
 What's wrong?	どうしたんだ？
+……	…………
 I thought about what I was going to say, but, it's kinda embarrassing…	セリフ、考えてきたんだけどなんだかてれちゃうな……
 Hey, CLOUD! Why don't the two of us sneak out of here and spend some time together?	ね、CLOUD！ふたりでこっそり遊びにいかない？
 Come on, let's go!	ね、行きましょ！
 Hey.	お、おい
 Hee, hee!	エヘヘ！
 Let's go on a date!	デート、しない？
+What?	はぁ？
 A D-A-T-E! Or haven't you ever gone on one?	デ・ー・ト！したことないの？
 Don't take me for a fool	バカにするな
 Well, not a real one…	正式には、ない
@@ -42,14 +45,21 @@ Princess Rosa was kidnapped by the Evil Dragon King, Valvados. What will become 
 Just then, the legendary hero, Alfred, appears!!	しかし、その時！伝説の勇者アルフリードがガルディア王国にあらわれたのであります！！
 Knight	兵士
 Oh……You must be the legendary hero…Alfred!	おお～、あな～たこそ～伝説の勇者～、アルフリ～ド！
+Knight	兵士
 Hey, it's your line.	ちょっと、アンタだよ
+Knight	兵士
 Yeah, you.	そう、アンタ
+Knight	兵士
 Ahem!	オホン！
+Knight	兵士
 By my soul, please…please save Princess Rosa!	なぜかわかりま～す、わかるので～す。どうか～、どうか、ルーザ姫をお救い、くださ～～～い
+Knight	兵士
 Now…please talk… to the King!!	さあ～、王様に～おはな～しを～～！！
 King	王様
 Oh…legendary hero, Alfred. You have come to save my beloved Rosa…	おお～、勇者アルフリ～ド私の愛しいル～ザを救うために～やってきた～
+King	王様
 On the peak of a dangerous mountain… dwells the Evil Dragon King, Valvados… who's kidnapped Princess Rosa…	悪竜王ヴァルヴァドスのすみかは～はるか険しい山の上～。あわれル～ザは捕われの身～
+King	王様
 But… you can't beat the Evil Dragon King now! Talk to one who can help you…	しか～し今のお前では悪竜王には勝て～ん！お前の力とな～る者に語りかけよ～
 Who will you talk to?	どっちに話しかけようかな？
 The knight	兵士
@@ -58,45 +68,69 @@ Wizard	魔法使い
 I am the great wizard, Vorman. What do you wish to know?	わた～しは大魔法使いボーマン～。お前～は何を知りたいの～？
 The Evil Dragon King's weakness	悪竜王～の～弱点
 The Princess' measurements	ル～ザ姫の～スリ～サイズ
+Knight	兵士
 I am…a lowly…knight. How…can I help you?	わたし～は名もなき～兵士～。わたし～に何のごようでしょ～う？
 Defeat the Evil Dragon King	悪竜王～を～倒せ～
 Defeat the King	王様を～倒せ～
+Wizard	魔法使い
 Ahh, the weakness of the Evil Dragon King. It must be, it must be…	ああ～悪竜王の弱点それは～、それは～
+Wizard	魔法使い
 Yes, it must be… True love!	そう！それは真実の～愛！
+Wizard	魔法使い
 The power of love… Is the only weapon that can withstand the fangs of the Evil Dragon King…!	愛しあ～う２人の力こそが～悪竜王の邪悪な～る牙に打ち勝つただひとつの武器～！
+Narration	ナレーション
 Oh what is going to happen next? Oh…legendary hero…look!	なんということで～ありましょう～！おお！勇者よ～、あれを見よ～！
 EDK	悪竜王
 Gaaaaaaaah!	ガハハハハ～！
+EDK	悪竜王
 I am the Evil Dragon King…Valvados! I have not harmed the Princess… I have been expecting…you!	我こそは～、悪竜王ヴァルヴァドス～！さらった姫に～何もしないで待っていたぞ～！
 Princess	姫
 Please help me… legendary hero!	お助け～ください～勇者さま～！
+Princess	姫
 How was that?	……こんな感じ？
+Princess	姫
 How was that?	……こんな感じかな？
+Princess	姫
 …Was that good?	……これでいいのか？
+EDK	悪竜王
 Gaaaaaah! Here I come, legendary hero…Alfred!	ガハハハハ～！いくぞ勇者アルフリ～ド～！
+EDK	悪竜王
 I already know… your name!	なんで～名前を知っているかは気にするな～！
+Wizard	魔法使い
 And now…legendary hero…! Here is what will happen…to your beloved…	さあ～勇者よ～！今こそなんじの～愛するものに～
+Wizard	魔法使い
 A kiss! The power of True Love!!	口づけを～！真実の愛の～力を～！！
 Kiss the Princess	姫にする～
 Kiss the King	王様～にする～
 Kiss the Evil Dragon King	悪竜～王にする～
+EDK	悪竜王
 What ho! You dare ignore the Evil Dragon King!?	コラァ～！この悪竜王様を無視するな～！
+EDK	悪竜王
 Gaaaaaaahh! Prepare yourself…legendary hero Alfred!	ガハハハハ～！いいか勇者アルフリ～ド～！
+EDK	悪竜王
 Who is your enemy…? Say it!	お前の敵は誰ださあ～言ってみろ～！
 The Evil…Dragon King…	悪～竜王～～
 The King	王～様～
 That Knight	兵～士～
+Knight	兵士
 Uuuuuurrrrrgh!	ウ、ウワ～アアア～！
+EDK	悪竜王
 Gaaaaaaaaaaahh! What now…legendary hero!?	ガハハハハ～！さあ～どう～する勇者よ～！
 To the Princess	姫のもと～へ
 To the King	王様のもと～へ
 To home	スタコ～ラ逃げ～る
+Knight	兵士
 … Someone…help…	……………だれか、助けて……
+King	王様
 Oh…Alfred…! In truth…I too…	おお～アルフリ～ド～！じつはワシも～お前のことがあ～
+EDK	悪竜王
 Arrggaahhh!! Curses… The power of…love!!	ウギャアア～俺は～愛の力に弱～いんだあ～！！
+King	王様
 Oh…behold! Love has…triumphed!	おお見よ～！２人の愛の～勝利～だ～！
+King	王様
 Now let's all return… and celebrate.	さあみなのもの～もどって～いわいのうたげを～
 Yes let's…yes let's…!	そうしよ～　そうしよ～
+Narration	ナレーション
 Oh, how profound the power of love… And so the legendary hero Alfred and our story live on happily ever after.	ああ、何と強い愛の力でありましょう……伝説の勇者アルフリードの物語はこうしてめでたく棊を閉じるのであります
 Wh, what?	ちょ、ちょっと何これ
 You must be kidding!	こんなのイヤー！
@@ -104,7 +138,9 @@ H, hey, what is this?	ちょ、ちょっとなんなの？
 That can't be the end!!	こ、これで、終わりなんていやーー！！
 What…?	な、なんだ？
 …That's it?	終わり？
+Princess	姫
 CLOUD… I mean, Alfred…	CLOUD……じゃなかった、アルフリ～ド～
+King	王様
 Come on! No more!	ヒ～エ～！もうダメ～だ～！
 Stop it CLOUD!  What are you doing!?	コォ～ラ～！CLOUD～！さっきからなにやってんのよぉ！
 The play's a disaster! Now I'm getting mad!	おしばい、だいなしじゃない！もう怒ったんだから！
@@ -112,12 +148,16 @@ CLOUD!! Be serious!! You really don't want to be in the play that much, do you?	
 Now I'm mad!	もう怒ったわよ！
 Come on, CLOUD!! I'm tryin' to be serious here and you…	コラ！　CLOUD！！せっかく、アタイがまじめにやってるのに…
 Ok, now I'm pissed!	もう、怒った！
+EDK	悪竜王
 Gaaaaaahh! You dare ignore me!!	ガハハハハ～！俺を～無視するとは～いい度胸だ～！
 Why don't you shut up, blabbermouth!!	何よアンタゴチャゴチャうるさいのよ！！
 Shut up!!	うっるさいわね！！
 Just shut up!!	うるっさい！！
+Narration	ナレーション
 Oh my…what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.	あ……ああ、何と強い……姫の力！伝説の勇者ルーザの物語はこうしてめでたく棊を閉じるのであります
+EDK	悪竜王
 What…?	なにを…
+EDK	悪竜王
 Urrrrrgh	うぎゃああ
 Beautiful Girl	美女性
 Thank…you. You've released me…from the spell and I am my normal self again…	ありがとう～ございます～。おかげで～のろいがとけて～元の姿にもどれま～した～
@@ -146,6 +186,7 @@ Oh! Look, CLOUD.	あっ！　CLOUD見て
 It's so pretty.	わあ、きれ～
 Wow!	あっ！
 Geez!!	わあ！！
+CLOUD!	CLOUD！
 Wait a minute.	もうちょっとまって。
 …it's really pretty, isn't it?	……きれいね
 Ok, I'm going to just go ahead and say it…	……言っちゃおうかな
@@ -193,6 +234,7 @@ Damn fireworks anyways.	うるせえ花火だ
 Shut up!!	うるせ～～～！！
 CLOUD…?	CLOUD……
 No I, uh…	いや、なんかさ～
+…	…………
 I just felt like doing that.	そういうフンイキかなって思ったワケよ
 That's all.	ん、そんだけ
 H, hey!! Say something, why don't you!	お、おい！なんとか言いなよ！
@@ -220,11 +262,13 @@ Oh, look at the time. We'd better get going.	あっ、もうこんな時間そ�
 Oh man I'm beat. Let's head back.	やれやれなんか、つかれちまった。そろそろもどろうぜ
 I should sleep really well tonight.	アタイ今日はよく眠れそうだよ
 Thanks… for coming with me.	つきあってくれてありがとな
+Yeah.	ああ
 You wanna go back, CLOUD?	じゃあそろそろもどろっかCLOUD
 Hey? What's CAIT SITH doing?	あれっ？CAIT SITH、なにしてるのかな？
 That's…CAIT SITH. He's acting strange.	あれ……CAIT SITHよね。なんだか様子がおかしいわよ
 …it's CAIT SITH. What's he doin' so quietly?	……CAIT SITHだぜ。なにコソコソしてやがるんだ？
 Hey, isn't that CAIT SITH? What's he doing?	あっ、CAIT SITHじゃないか？なにやってんだ？
+!!	！！
 Is that the…Keystone?	あいつが持ってるのはキーストーンじゃないのか？
 Hey! CAIT SITH!	おい！　CAIT SITH！
 Oh oh!	やばやば！
@@ -252,10 +296,17 @@ We don't have time for this! We've got to go after CAIT SITH.	そんな、場合
 There's no time for this. Let's hurry after CAIT SITH!	ゆっくり乗ってるヒマは無いわよはやくCAIT SITHを追いましょ！
 Should we be doing this? I thought we were after CAIT SITH?	そんな、ゆっくりしてていいのか？CAIT SITHを追うんじゃないのか？
 The hell you doin'!? We gotta go after CAIT SITH!	何してんだ！はやくCAIT SITHを追うぞ
+Round Square	ラウンドスクェア
+Current GP	現在の持ちＧＰ
+GP	ＧＰ
+Sorry it's out of order.	もうしわけございませんがこちらはただいま故障中です
+Yaaay!!	わ～い！！
 Yaay Yaay!	キャッキャ！
 Come on now‚no running.	これこれ、走るんじゃないよ
 Hey! Look here! The Key Materia!	ほら！　これや！キー・マテリアや！
+Tseng	ツォン
 Well done.	ごくろうさまです
+Hey!	おい！
 W, w, wait a second. I won't run or hide.	ちょちょ、ちょっと待って～や。逃げも隠れもしませんから
 Yes‚I was a spy. I was hired by the Shinra.	確かにボクは、スパイしてました。神羅のまわしモンです
 Don't mess with us!	ふざけないでよ！
@@ -295,9 +346,13 @@ Marlene!	マリン！
 Hey! That's Marlene!	あっ！　マリンの声！
 Ma…Marlene!?	マ、マリン！？
 …Marlene?	……マリン？
+Marlene	マリン
 Hey! It's dad! Dad! It's me‚Marlene!	あ！　とうちゃんの声だ！とうちゃん！　マリンね！
+Marlene	マリン
 Hey! It's TIFA! TIFA! You know what!	あ！　TIFAの声だ！TIFA！　あのね！
+Marlene	マリン
 Hey! It's the flower lady! Flower lady…	あ！　お花のお姉ちゃん！お姉ちゃん…
+Marlene	マリン
 Hey! It's CLOUD!	あ！　CLOUDの声だ！
 …So‚there's no other way but to listen to me.	……というわけです、みなさんはボクの言うとおりにするしかあらへんのですわ
 You're the lowest…	……最低だ
@@ -310,22 +365,38 @@ Of course we'll get there after the Shinra‚ but you'll have to deal with that.
 I wonder if Marlene is all right… I wonder what happened to Mom?	マリン、だいじょぶかな……お母さん、どうしたのかな
 Sorry‚CLOUD.	すまねえ、CLOUD
 Uh‚yup.	う、うん
+Chocobo Square	チョコボスクェア
 Hey! Over here! The Keystone!	ほら！　これや！キーストーンや！
+Tseng	ツォン
+Well done.	ごくろうさまです
+Hey!	おい！
 W, wait a second. I won't run or hide.	ちょちょ、ちょっと待って～や。逃げも隠れもしませんから
 Yes, I was a spy. I was hired by the Shinra.	確かにボクは、スパイしてました。神羅のまわしモンです
+Don't mess with us!	ふざけないでよ！
+…I trusted you. I can't believe you!	……信じてたのにがっかり！
+Ya dirty &*$*%$!	うすぎたねえ野郎だぜ！
 You think I'm jokin'!?	ふざけるな！！
 I couldn't help it.	しゃあないんです。すんでしもたことはどないしょうもあらへん
+How 'bout if we go on like nothing ever happened?	なぁ～んもなかったようにしませんか？
 No way, cat! You gotta lot of guts acting like a friend but being a spy!	ずうずうしいぞ、CAIT SITH！スパイだとわかってていっしょにいられるわけないだろ！
 Then, what are you goin' to do? Kill me?	ほな、どないするんですか？ボクを壊すんですか？
+You'd just be wastin' your time if you tried. This body's just a toy anyway.	そんなんしても、ムダですよ。この身体、もともとオモチャやから
+My real body's at Shinra Headquarters in Midgar. I'm controlin' this toy cat from there.	本体はミッドガルの神羅本社におるんですわ。そっから、このネコのおもちゃ操っとるわけなんです
+So you're from Shinra. Who are you?	それじゃあ正体は神羅の人間なのね。だれなのよ？
+So you're from Shinra. Who? Who are you! Tell me!	正体は神羅の人、ね？だ～れ？　あなた！言いなさい！
 The hell are ya!? What's your real name!?	だれだ、てめえ！本当の名前を教えろ！
+Part of the Shinra! Who the *&$# are you!?	神羅の人間！おまえ、だれだ！？
 Whoa, I can't tell you my name.	おっと、名前は教えられへん
+We're not gettin' anywhere.	話にならないな
 See? I told you! Talking won't do any good, so can't we just continue our journey?	な？　そうやろ？話なんてどうでもええからこのまま旅、続けませんか？
 …Alright, yes, I am a Shinra employee.	……確かにボクは、神羅の社員や
 But we're not entirely enemies.	それでも、完全にみなさんの敵っちゅうわけでもないんですよ
 …Something bothers me.  I think it's your way of life.	……ど～も、気になるんや。みなさんのその、生き方っちゅうか？
 You don't get paid. You don't get praised. Yet, you still risk your lives and continue on your journey. Seeing that makes me…	誰か給料はろてくれるわけやないしだぁれも、ほめてくれへん。そやのに、命かけて旅しとる。そんなん見とるとなぁ……
 It just makes me think about my life. I don't think I'd feel too good if things ended the way they are now.	自分の人生、考えてまうんや。なんや、このまま終わってしもたらアカンのとちゃうかってな
+You're lying again.	またウソついてる
 …And so on, and so on…	～とかなんとか言ってぇ
+Hmph! You ain't foolin' us this time!	へっ！　だまされないぜ！
 Sounds fishy…	あやしい～
 He'll never tell the truth. Once a spy, always a spy.	正体はあかさない。スパイはやめない
 We can't go on with someone like that. C'mon get real!!	そんなヤツといっしょに旅なんてできないからな。冗談はやめてくれ
@@ -333,10 +404,20 @@ We can't go on with someone like that. C'mon get real!!	そんなヤツといっ
 But I prepared something in case this happened.	ま、こうなんのとちゃうかとおもて準備だけはしといたんですわ
 Why don't you listen to this?	これ、聞いてもらいましょか
 Papa! TIFA!	父ちゃん！　TIFA！
+Marlene!	マリン！
+Hey! That's Marlene!	あっ！　マリンの声！
+Ma…Marlene!?	マ、マリン！？
+…Marlene?	……マリン？
+Marlene	マリン
 Hey! It's dad! Dad! It's me, Marlene!	あ！　とうちゃんの声だ！とうちゃん！　マリンね！
+Marlene	マリン
 Hey! It's TIFA! TIFA! Help, I'm-	あ！　TIFAの声だ！TIFA！　あのね！
+Marlene	マリン
+Hey! It's the flower lady! Flower lady…	あ！　お花のお姉ちゃん！お姉ちゃん…
+Marlene	マリン
 Hey! It's CLOUD!	あ！　CLOUDの声だ！CLOUD！　あ…
 …So, you have to do as I say.	……というわけです、みなさんはボクの言うとおりにするしかあらへんのですわ
+You're the lowest…	……最低だ
 I didn't want to do this… using dirty tricks and taking hostages…	そりゃ、ボクかってこんなことやりたない。人質とかヒレツなやりかたは……
 But this is how it is…no compromises. So why don't we go on as we did?	まぁ、こういうわけなんですわ。話し合いの余地はないですな。今までどおり、仲ようしてください。
 Tomorrow is the Temple of the Ancients, right? I know where it is so I'll tell you later.	明日は古代種の神殿でしたな？場所知ってますからあとで、教えますわ
@@ -346,6 +427,8 @@ The Keystone is the key to the Temple of the Ancients. Even so, you're all going
 I know where it is, so I'll show you later.	場所知ってますからあとで、教えますわ
 The Shinra have already been there, but I guess you have to deal with that.	神羅のあとになりますけどまぁ、そんくらいはガマンしてくださいな
 …Well, we're stuck… We'll have to do what he says.	……仕方ないな。言うとおりにしよう
+…Marlene.	……マリン
 I wonder if Marlene is all right… I wonder what happened to Mom?	マリン、だいじょうぶかな……お母さん、どうしたのかな
 Sorry, CLOUD.	すまねえ、CLOUD
 Uh, yup.	う、うん
+Chocobo Square	チョコボスクェア

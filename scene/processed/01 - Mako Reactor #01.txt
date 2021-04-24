@@ -4,11 +4,15 @@ Biggs	ビッグス
 Wow! You used to be in SOLDIER all right! …Not everyday ya find one in a group like AVALANCHE.	さすが、ソルジャー！でもよ、反神羅（しんら）グループ【アバランチ】にソルジャーが参加するなんてスゲエよな！
 Jessie	ジェシー
 SOLDIER? Aren't they the enemy?	その話って本当だったの？ソルジャーって言ったら私たちの敵でしょ？
+Jessie	ジェシー
 What's he doing with us in AVALANCHE?	どうして、そのソルジャーが私たちアバランチに協力するわけ？
+Biggs	ビッグス
 He WAS in SOLDIER, Jessie.	早とちりするな、ジェシー。元、ソルジャーなんだってさ
 But he quit and is with us now.	今はもう神羅（しんら）をやめちまって俺たちの仲間ってわけさ
+Biggs	ビッグス
 Didn't catch your name…	まだ名前聞いてなかったよな。教えてくれ
 …CLOUD.	……CLOUDだ
+Biggs	ビッグス
 CLOUD, eh? I'm…	CLOUDか、おれは……
 I don't care what your names are. Once this job's over…I'm outta here.	あんたたちの名前なんて興味ないね。どうせこの仕事が終わったらお別れだ
 The hell you all doin'!? I thought I told you never to move in a group!	なにやってんだオマエたち！かたまって行動するなって言ってんだろ！
@@ -17,8 +21,10 @@ Ex-SOLDIER, huh? I don't trust ya!	元ソルジャー……。チッ、信用で
 Press the Directional buttons while pushing [CANCEL] to run.	【キャンセル】ボタン（初期状態では×）を押しながら方向ボタンを押せば速く走ることができる。遅れずについてこい！
 Wedge	ウェッジ
 I'll secure our escape passage. You concentrate on the mission, CLOUD.	俺は脱出口を確保しておくっす！
+Wedge	ウェッジ
 Geez, we're really gonna blow this huge furnace up? This'll be somethin' to see!	しっかし、この大きな魔晄炉（まこうろ）を爆破するなんて……みものっすね！
 Switch On.	スイッチオン
+Jessie	ジェシー
 Push that button over there!	さ、そこのボタンを押して！
 Now let's go into the reactor! From here on out, you stick with me.	さあ、魔晄炉（まこうろ）の中へ！ここからはオレのそばにいてもらうぜ
 Leave this to me!	ここはまかせとき！
@@ -37,19 +43,32 @@ The planet's dyin', CLOUD!	星が死んじまうんだぞ。えっ、CLOUDさん
 It's not my problem.	悪いけど興味がないな
 The only thing I care about is finishin' this job before security and the Roboguards come.	俺が考えてるのは、さっさと仕事を終わらせたいってことだけだ。警備兵やガードロボットが来ないうちにな
 …	…………
+Jessie	ジェシー
+Code deciphered	コード解除
+Biggs	ビッグス
 Code deciphered	コード解除
 Can't decipher code without Biggs	ビッグスがいないとコード解除できない
 Can't decipher code without Jessie	ジェシーがいないとコード解除できない
 You all right?	だいじょうぶか？
+Jessie	ジェシー
 My leg got stuck.	うかつ！！　足がはさまって……
+Jessie	ジェシー
 Thanks!	サンキュー！
+Biggs	ビッグス
 I only let my guard down for a minute… And someone got behind me…	敵に後ろをとられて……油断しちまった
+Jessie	ジェシー
 Biggs and I got the code for this door.	私とビッグスがここのドアロックの暗号を手にいれたの
+Biggs	ビッグス
 Think how many of our people risked their lives, just for this code…	ここの暗号を入手するために何人の仲間が犠牲になったことか……
+Jessie	ジェシー
 Push [OK] in front of a ladder to grab on to it. Then use the [Directional button] to climb up and down.	はしごの前では【決定ボタン】を押して。そうすればはしごにつかまるわ。後は【方向キー】の上下で、のぼりおりするの
+Jessie	ジェシー
 There you go!	そう、その調子！
+Biggs	ビッグス
 Let's go!	行くぞ！
+Jessie	ジェシー
 Alright, be careful.	さ、あせらないで
+Biggs	ビッグス
 Jessie still isn't back yet!	ジェシーがまだあがって来てないんだ！
 When we blow this place, this ain't gonna be nothin' more than a hunka junk.	ここもブッ壊しちまえばただのガラクタだぜ
 CLOUD, you set the bomb.	CLOUDさんよこの爆弾をセットしてくれ
@@ -85,35 +104,50 @@ CLOUD	CLOUD
 I know. You're my chaperon‚ right?	わかってるさ。あんたは俺の見張りだろ？
 BARRET	BARRET
 Damn straight.	そういうことだ
+BARRET	BARRET
 TIFA's old friend… That ain't good enough.	TIFAの幼なじみ……それだけじゃ不安なんでな
 Let's hurry‚CLOUD.	急ぎましょう、CLOUD
+Biggs	ビッグス
 That should keep the planet going… at least a little longer.	星の命……ちょっとはのびたかな
+Wedge	ウェッジ
 Yeah.	そうっすね
+…	…………
+Jessie	ジェシー
 OK! Now everyone get back.	出来た！下がって
 Sector 8	８番街
 Alright, now let's get out of here.	さあ、引き上げるぞ
 Rendezvous at Sector 8 station! Split up and get on the train!	ランデブー地点は８番街ステーション！各自単独行動、列車に乗りこむんだ！
 H, hey!	お、おい！
 If it's about your money, wait 'til we get back.	金の話なら無事にアジトに帰ってからだ
+Sector 8	８番街
 Flower girl	花売り
 Excuse me.	ねえ
+Flower girl	花売り
 What happened?	何があったの？
 You'd better get out of here	逃げたほうがいい
 Nothing…hey…	気にするな……それより
+Flower girl	花売り
 Really? I don't know what's going on, but all right.	そうなの！？なんだかわからないけどそうするわね
 …	……
 Don't see many flowers around here	花なんて、めずらしいな
 Never mind	いや、なんでもないんだ
+Flower girl	花売り
 What! Tell me!	もうっ！気になるなあ
+Flower girl	花売り
 Oh, these? Do you like them? They're only one gil.	あっ、これね。気に入ってくれた？１ギルなんだけど、どう？
 Buy one	もらおう
 Forget it	やめとくよ
+Flower girl	花売り
 Uh, excuse me, would you like to buy some flowers? They're only one gil.	あっ、ねぇ、お花はいらない？たった１ギルよ
+Flower girl	花売り
 Oh, thank you!	わあ、ありがとう！
+Flower girl	花売り
 Here you are!	はい！
+Flower girl	花売り
 Ahh…not again.	……ちょっとがっかり、かな
 What an explosion!	しっかし、スゲェ爆発だったな
 Think it's another Mako reactor accident?	ああ、また魔晄炉の事故じゃねぇのか？
+Sector 8	８番街
 Just what the hell's going on!?	いったい何がおこったって言うのよ
 Wonder what that is on the wall over there. Let's see…	何か壁に書いてあるな？なに、なに…
 Don't be fooled by Shinra!	神羅にだまされるな！
@@ -122,17 +156,26 @@ Mako is the Planet's life source!	魔晄は星の命！
 The end is in sight!	いつか終わりがやってくる！
 Protectors of the Planet: AVALANCHE	星の救世主：アバランチ
 Received "Potion"!	ポーションを手にいれた！
+Sector 8	８番街
 Soldier	兵士
 Hey! You there!!	おい！　そこの男！！
+Soldier	兵士
 That's him!!	いたぞ！！
+Soldier	兵士
 Halt!!	まて！！
+Soldier	兵士
 Over here!!	こっちだ！！
 What a pain…	めんどうだな…
+Soldier	兵士
 That's as far as you go.	ここまでだな
 I don't have time to mess around  with you guys.	残念だが、おまえらの相手をしてるほどヒマじゃないんでな
+Soldier	兵士
 Enough babbling… Grab him!!	たわごとを……よし捕らえろ！！
+Sector 8	８番街
 What the?	なにごとだ！
 Shinra Soldiers…	神羅兵か……
 Fight them!	やってやる！
 Later!	めんどくさいから逃げる
 Hmph!	チッ！
+Fight them!	やってやる！
+Later!	めんどくさいから逃げる

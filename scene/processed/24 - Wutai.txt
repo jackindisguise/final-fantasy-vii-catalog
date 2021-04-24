@@ -22,6 +22,7 @@ Are you trying to con us again?	また私たちをダマそうとしてるんじ
 Are you going to trick us again?	ひょっとして私たちをダマそうとしてるとか……
 Hmm… Smells fishy.	クンクン……ウサンクサイにおいがするよ
 Are you going to trick us again?	まさか、またオイラたちをだしぬこうとか……
+Hmm… Smells fishy.	クンクン……ウサンクサイにおいがするよ
 My nose never lies!	オイラのハナはウソをつかないからね！
 You serious? I can't trust you.	ホンマか～？この人なんや信用でけんのや
 But then again, I guess I shouldn't talk.	ま、それはボクもいっしょやけどね
@@ -31,6 +32,7 @@ Further down? I don't see any signs of danger…	ここから先が？そんな�
 There's something unnatural in the way YUFFIE's acting…	それにYUFFIEの態度にもどこか不自然なものが……
 No! It's REALLY tough…	ちちちがうって！ホントのホントに大変なん……
 There they are, catch 'em!!	いたぞ、つかまえろ！！
+Shinra!?	神羅ッ！？
 Shinra!?	神羅ッ！？
 The Shinra!?	あっ、神羅の……！？
 The Shinra!!	神羅かっ！！
@@ -63,7 +65,9 @@ So you WERE planning some crooked $%*&!!	おめえ、やっぱり何かたくら
 What do you mean, 'This one'?	これ『は』？『は』とはどういうことだ？
 You had something else in mind?	ほかのことなら心当たりがあるというのか？
 No, umm, uh…	い、いや、あの……
+Shinra Soldier	神羅兵
 What should we do!?	ど、どうする！？
+Shinra Soldier	神羅兵
 Uh…Get them! Grab them and ask questions later!!	い……や、やれ！いいからやってしまえ！！
 What's going on!?	これ、どういうこと！？
 I thought something was missing… my Materia's all gone!!	なにかたりないと思ったらマテリア、マテリアなくなっちゃってる！！
@@ -83,6 +87,7 @@ Hey…where's YUFFIE?	おい……YUFFIEは……？
 Hey…where's YUFFIE?	ね……YUFFIE……は？
 Hey…where's YUFFIE?	ねえ……YUFFIEは……？
 Yo…where's that $#@^% YUFFIE?	おい……YUFFIEは……？
+Hey…where's YUFFIE?	ねえ……YUFFIEは……？
 Now…where's YUFFIE?	はて……YUFFIEさんは……？
 Ey…where the hell's that damn kid?	オイ……YUFFIEのやつは……？
 …	おい……YUFFIEは……？
@@ -182,21 +187,33 @@ What are we going to do, Gramps? Some strange-looking girl came in here a minute
 Oh no! More weirdos!	おじじ、たいへん！また、ヘンな人たちがきちゃった！
 No, these aren't like the one from a while ago, but these ones look weird, too!	ううん、さっききた人とはちがうの！　でもこの人たちもヘンなカッコ！
 Bar [Turtle Paradise]	のみどころかめ道楽
+Elena	イリーナ
 Yy, you!? How did you get here?	お、お前たち！？なんでこんなところへ……
 Never mind that. I guess it's fate that brought us together.	そ、そんなことどうでもいいわ。私たちタークスに会ったのが運のつき
 Get ready to die!!	さあ、かくごしなさいっ！！
+Reno	レノ
 Elena, you talk too much.	……イリーナ、うるさいぞ、と
+Elena	イリーナ
 Ww, what?	せ、先輩！？
+Reno	レノ
 What are we doing way out here in the middle of nowhere?	俺たちがこんないなかに来てるのは、何のためだ？
+Elena	イリーナ
 We're taking a vacation and resting up from our work.	そ、それは、休暇をとってひごろのつかれをいやすため……です
+Reno	レノ
 Now our vacation is ruined.	せっかくの休暇がつぶれちまうぞ、と
+Elena	イリーナ
 B, but…	で、でも……
+Rude	ルード
 Even the booze tastes bad now.	……せっかくの酒もマズくなる
+Elena	イリーナ
 …Sorry…	……はい……
+Reno	レノ
 Drink, Rude! How long have we been a team?	もっと飲めよ、ルード、と。お前とくんでもう何年になる……？
 Being a Turk's been hard at times, but all in all, I'm glad I did it.	タークスの仕事はツライこともあるけど、ま、俺はやってきてよかったと思ってるぜ
 After all, I got to meet a bunch of wing nuts like you.	お前みたいなヘンなやつにもであえたぞ、と
+Rude	ルード
 To the Turks… To Reno…cheers!	タークスに……レノに……かんぱい
+Elena	イリーナ
 Hmm, you're lucky all right. Now get out of my sight!	フン、運がよかったわね。さっさと消えなさい！
 The next time we meet I won't be so nice.	この次に会った時はようしゃしないからね！
 Hey, hey, welcome! You on a trip? Well, just relax and make yourself at home.	はいはい、いらっしゃい。お客さんも旅の人だね？ゆっくりしてっておくれナ
@@ -214,21 +231,35 @@ Running around like a fool won't help matters any. So, we all might as well sit 
 Shinra soldier	神羅兵
 So our reports were right! He IS here on vacation!	おお、やはり休暇でこちらにきているという情報は本当だったか！
 We've finally found him! Get the Turks here for back-up!	ついにヤツを発見したのだ！タークスにも協力をたのみたい！
+Reno	レノ
 …What a drag.	……やなこった、と
+Shinra soldier	神羅兵
 Ww, what was that?	い、今なんと……？
+Reno	レノ
 We're off duty now and can't save your butts.	俺たちは休暇中につきあんたらのおもりはできないぞ、と
+Shinra soldier	神羅兵
 We know you're off duty, but…	き、君たちが休暇中なのは我々も知っている。しかし……
 If you knew, then don't bother us! Lookin' at you is makin' me sober.	知ってるなら消えてくれ、と。あんたらのカッコを見てると酔いがさめちまう
+Shinra soldier	神羅兵
 But you all have orders from headquarters to look for him too!	しかし、ヤツを探せという指令が本社から君たちにも出されているはず……！
 All right, fine! We'll get him without any help from the Turks, just you see!	ええい、もういい！タークスの力などかりなくてもヤツをつかまえてみせる！
+Shinra soldier	神羅兵
 And don't think that headquarters isn't going to hear about this!!	このことは本社に報告しておくからな！！
+Elena	イリーナ
 Reno, do you think that was really such a good idea!?	レノ先輩！本当にそれでいいんですか！？
 I mean is that the way a professional, a Turk, would act!?	これがプロフェッショナルのタークスなんですか！？
+Reno	レノ
 Elena. Don't misunderstand.	イリーナ。かんちがいするなよ、と
 Those who sacrifice themselves for their job aren't pros… …just fools.	仕事のためにすべてを犠牲にするのがプロじゃない。そんなのはただの仕事バカだ、と
+Elena	イリーナ
 Rude?	ルード先輩……
+Rude	ルード
+…	…………
+Elena	イリーナ
 Well, I don't buy that! Goodbye!!	私にはわかりません！……失礼します！！
+Reno	レノ
 Relax. She's not a child. Let her have her way.	ほうっておけよ。こどもじゃないんだ。好きにさせるさ、と……
+Reno	レノ
 … It's just that we're off duty!	…………休暇だから手を出さないだけだ
 I don't feel like drinking with you. And don't talk to me.	お前らと酒を飲む気はない。気安くはなしかけるなよ、と
 Hey. Did you hear? There used to be a Water God here in Wutai.	ウーイ。旅の人、知ってるかい？このウータイにはむかし水神様がいたんだナ
@@ -248,10 +279,15 @@ But, in the last battle, we didn't fare so well… I guess our beliefs were only
 Have you ever heard of the Water God's scales?	水神様のうろこの話を聞いたことがありますか？
 They're not just regular scales. They have special hidden powers. They're impervious to the strongest flames.	なんでも不思議な力をひめたうろこでそれを前にするとどんな炎でも消えてしまうとか
 But, of course, I don't think they'd stand up to the fire that huge eerie-lookin' Meteor's gonna make when it crashes down.	とは言え、そんなものがあってもさすがにあの、不気味に燃える星の炎までは消せそうもありませんが……
+Reno	レノ
 Hmm… Corneo's good at escaping…	フン、コルネオのやつ、あいかわらず逃げ足だけはたいしたものだ、と
+Rude	ルード
 …Elena.	……イリーナ
+Reno	レノ
 Let's go, Rude. We'll give them a taste of what the Turks can do.	行こうぜ、ルード。タークスの仕事やつにじっくり見せてやろう
+Reno	レノ
 That sounded okay.	……と、言いたいところだが
+Reno	レノ
 If he has Elena, that's going to make things a little difficult.	イリーナが向こうの手にわたったとなるとちょっとやっかいだぞ、と
 And uh…	そこで……と
 …OK. Corneo took YUFFIE from us.	……いいだろう。こちらもYUFFIEをコルネオにさらわれた
@@ -260,6 +296,7 @@ And without YUFFIE, there's no way we'll get our Materia back.	YUFFIEがいな�
 And without her, there's no way we'll get our Materia back.	あのコがいないとマテリアも取りもどせないもの
 That's just beautiful! And now that *#$^@'s walked off with YUFFIE too!	……ケッ、しかたねえか。こっちもYUFFIEのやつをあのヤロウに持ってかれちまったからな
 And without that brat, we can't get our hands on our Materia!	あのガキがいねえとマテリアも取りもどせねえってこった
+Reno	レノ
 Don't misunderstand.	かんちがいするなよ、と
 We have no intention of joining you. We're only agreeing not to fight each other…for now.	お前らと手を組む気などない。ただ、たがいのジャマはしない。それだけのことだぞ、と
 That's fine. We have no intention of cooperating with you, either.	けっこうだ。俺たちもタークスと協力するつもりはサラサラない
@@ -268,42 +305,61 @@ The same goes for us. We don't want to make friends with the Turks.	ええ、私
 Now, which direction did Corneo run off?	ところで、コルネオはいったいどこへ逃げたのかしら？
 Of course! There ain't no way we'd wanna work with the Turks anyway!	あったりめえじゃねえか！タークスと手を組むなんざ、こっちからねがいさげでえ
 Anyhow, which direction did that %^$*& run off?	にしてもよ、あのヤロウいったいどこへ逃げやがった？
+Reno	レノ
 Hmm, nice attitude. Here's a clue, it's the most obvious place.	フン、あの性格だ。だいたい想像つくぞ。ここらで一番めだつのは……と
 Wutai‚Main Mtn.	ウータイ総本山
 Godo	ゴドー
 GOOGAH…what do you want?	グガーなにか用かな？
+Godo	ゴドー
 Don't have…GAH…anything much but, you should be able to…GOO…rest yourselves here. GOGAH…make yourselves at home.	なにもンガーないが、旅のつかれをいやすことぐらいはグーできるだろう。ゴガーゆっくりしていきなさい
+Godo	ゴドー
 …YUFFIE? …Nope, never heard of her. …GOOGO…	……YUFFIE？…………知らぬな、そんな名は。グーゴー
+Godo	ゴドー
 …You again? I said it once, and I'll say it again, I don't know her.	……くどいな。知らぬものは、知らぬ
+Godo	ゴドー
 Listen, I said I didn't know her! There isn't anyone named YUFFIE here in Wutai!	知らぬと言ったら知らぬ！YUFFIEなどという者はこのウータイにはおらん！
+Godo	ゴドー
 …Never seen you around here before…	……見かけない顔だな……
 Lately, I've been seeing a lot of Shinra soldiers around here…You wouldn't know anything about that, would you?	このところ、この近くで神羅の兵をよく見かけるが……おぬしたちと関係があるのか
+Godo	ゴドー
 I don't care about who you are.	おぬしたちが何者か。そんなことに興味はない
 But, if you're in trouble with the Shinra, I'm going to have to ask you to leave.	ただ、神羅ともめごとを起こそうというのなら早々に出ていってくれ
 I don't want the Shinra hanging around here looking over my shoulder.	神羅ににらまれたくはないのでな……
 What's with you, you coward?	なんだい、このいくじなし！
+Godo	ゴドー
 YUFFIE!	YUFFIE……！
 You scared of the Shinra?	そんなに神羅がこわいの？
 Then why don't you just bow down and obey them like all the other towns?	だったら他の町みたいにさっさと神羅にしたがったらいいじゃないか！
 Those guys are the ones who are really fighting the Shinra!	そこにいる連中の方が神羅とまともにたたかってるよ！
+Godo	ゴドー
 Shut up! What would you know about this?	う、うるさい！お前のようなやつになにがわかる！
 You got beat once, so what? That's it? What happened to the mighty Wutai I used to know?	いちど戦にまけたらそれっきり？強いウータイはどうしたのさ！
+Godo	ゴドー
 No kid like you's going to talk to me like that!	これはお前のような子供が口を出す間題ではない！
 You keep acting like that! You ought to be ashamed of yourself!	まだそんな格好をしおって！はずかしくないのか！
 That's my style! And it's my business, not yours! Don't try and dictate what I should do!	アタシのセンスだもんそんなの勝手だろ！人のポリシーに口ださないでよ！
+Godo	ゴドー
 Style? Dictate?	セ、センス……？ポリーシー……？
 Why all those fancy words? You're a rotten daughter!	そんなヨコ文字までつかいおって！この……この不良ムスメが！
 Hmph! You're a sad excuse for a father!!	フンだ、このグータラ親父！！
+Godo	ゴドー
 …Take your things and get out of here now.	……やはり、早々にここから出ていってくれ
 For the good of Wutai, we cannot stand up to Shinra.	ウータイを守るには神羅にさからうわけにはいかないのだ
+Shinra soldier	神羅兵
 Now listen up! They must be in the area! Find them no matter what!	いいか！　ヤツはかならずこのあたりにいるはずだ！なんとしても探しだせ！
+Yes, sir!!	ハッ！！
 Hidden Passage	かくし通路
 Received "Magic Shuriken"!	『風魔手裏剣』を手にいれた！
+Hidden Passage	かくし通路
 Received "Hairpin"!	『かんざし』を手にいれた！
+Hidden Passage	かくし通路
 Received "HP Absorb" Materia!	『ＨＰきゅうしゅう』のマテリアを手にいれた！
+You cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
 Item/Accessory Store	武器・アクセサリー屋
 Hey yo! Welcome!	アイヨ、らっしゃい！
 We got some of the best blades right out of the furnace! So strike while the iron's hot!	鉄は熱いうちに打てってな！できたてのキレモノがそろってるぜ！
+Hey yo! Welcome!	アイヨ、らっしゃい！
 You aren't tired of my rambling?	あんたらもまだあきらめてないクチかい？
 Great! Then come on in and start buying!	うれしいねえ！さあ、買った買った！
 Sorry, but we're entirely sold out now.	すまないが、ウチの商品いまみんな売りきれなんだ
@@ -313,6 +369,7 @@ Listen, I'm sorry about last time. YUFFIE told me not to sell anything to you.	�
 [DOESN'T EXIST]	でももう解決したんだよな？さあ、買った買った！
 This is a weapon store of hard cores, by hard cores, and for the hard cores! Come on and take a look, why doncha!?	ここは、あきらめない人間によるあきらめない人間のための武器屋！さあ、見てってくれ！
 Sorry, listen I… No, nothing…never mind.	すまないね。じつのところ……いや、なんでもない。また今度きてくれよ
+Item Store	道具屋
 Stole "MP Absorb" Materia!	『ＭＰきゅうしゅう』のマテリアを盗まれた！
 Received "MP Absorb" Materia!	『ＭＰきゅうしゅう』のマテリアを手にいれた！
 We got a lot of different stuff here. Take what you want.	イロイロそろってるよ。自由にえらんでおくれ
@@ -327,6 +384,7 @@ Huh? What? You DID?	え？なに？何かあったの？
 Oh, no, no, no! I'm just replacing these goods! You come back later.	ああ、ダメダメ。今、商品のいれかえをしているところなんだよ。あとでまた、来ておくれ
 YUFFIE's House	YUFFIEの家
 I know, the Materia, right? I have it stored in a safe place. …Follow me.	わかってるよ、マテリアだろ？ちゃんとしまってあるよ。……こっちきて
+YUFFIE's House	YUFFIEの家
 …I've been hearing that ever since I was little.	……小さいころから聞かされてた
 Before I was born, Wutai was a lot more crowded and more impressive.	アタシが生まれる前のウータイはもっとにぎやかでもっと強かったって……
 You see what it looks like now, right? …Just a tourist trap…	見たでしょ、今のウータイを。これじゃただの観光地だよ……
@@ -352,6 +410,7 @@ Hmmph… I dunno.	ケッ……オレ様は知らねえよ
 There was nothing else to do.	やむをえないな
 Wh…what the hell is this?	な、なんだコリャ！？
 Eyaaaaah!	キャッ！！
+Eyaaaaah!	キャッ！！
 Wh, what are you doing?	な、何するんだ！？
 Wh, what is this?	な、なんやねんなコレ！？
 Whoa!	オオッ！？
@@ -372,6 +431,7 @@ Hey! Help me first!	おい！オレ様を助けるのが先だろうが！
 Wait, don't go by yourself!	待て、ひとりで追うな！
 Flip the Left Lever	左のレバーをさげる
 Flip the Right Lever	右のレバーをさげる
+[Turtle's Paradise]	【かめ道楽　通信】
 No. 6	ナンバー６
 Drink at the "Turtle's Paradise" and talk about Wutai! To find "Turtle's Paradise", look for the big pot outside!!	『かめ道楽』で飲まずしてウータイを語るなかれ！居酒屋『かめ道楽』はでっかいツボが目印です！！
 Hidden Room	かくし部屋
@@ -390,10 +450,16 @@ Hohi!	ほひ～！
 I've finally got a new chicky!	やっと新しいおなごが手にはいったぞ～！
 Two for one, in fact! Heh, heh!	いちどにふたりも！ほひ～ほひ～！
 Two!?	ふたり！？
+Two!?	ふたり！？
 Two!?	ふたりだと！？
+Elena	イリーナ
 H…hey! Let go of me! You're gonna regret this!!	コ……コラ、離しなさい！後でこうかいするわよ！！
 Received "Swift Bolt"!	『雷迅』を手にいれた！
+Received "Elixir"!	『エリクサー』を手にいれた！
+Wutai‚Main Mtn.	ウータイ総本山
+Shinra soldier	神羅兵
 There he is! It's Corneo! Don't let him get away!	いたぞ、ヤツだ！コルネオだ！絶対に逃がすな！
+Shinra soldier	神羅兵
 Attaaaack!	突撃ーーーッ！！
 Num, num…	ムニャムニャムニャ……
 Help me. Help me. Help me…	どうかお助けください。どうかお助けください。どうかお助けください……
@@ -402,12 +468,16 @@ Oh, Great Da-chao… Please grant us your strength…	あ～ダチャオ様…�
 He's in the pagoda next to Lord Godo. Lord Godo says we're stuck…	ゴドー様はとなりにある五強の塔にこもりっきりじゃ。ゴドー様でもあんなものはどうにもならんて……
 Wutai‚Da-chao Statue	ウータイ　ダチャオ像
 Wutai‚Godo's Pagoda	ウータイ　五強の塔
+Reno	レノ
 You're finally here. We're gonna split up.	やっと来たな。俺たちは二手に別れるぞ、と
 You do whatever you want. But don't endanger Elena.	お前たちは、勝手に行動しろ。ただし、イリーナに危害は加えるなよ、と
 Don't worry. We won't do anything to that girl, YUFFIE.	心配するな。俺たちも、YUFFIEとかいう小娘には何もしやしない、と
 For now…	今のところはな、と
+Rude	ルード
 ……	……
+Reno	レノ
 Stop fooling around. The enemy's not gonna wait for us, you know!	チンタラやってるヒマはねえ。敵さんは待っちゃくれないぜ、と
+Reno	レノ
 You all thought they might be here too, huh?  We were way off.	お前たちも、ここがクサイと思ったか。あいにく、大ハズレ、と
 There's no way they could get this far.	そんなに遠くへは行けないはずだぜ、と
 Whoa!!	うわっ！
@@ -418,59 +488,82 @@ Damn, that's hot!	うあっちい！
 I like hot baths, but this is TOO hot!	フロは熱いにかぎるがこいつは、ちいとばかり熱すぎんぜ！
 "The Scale of the Sea God" shines!	『水神様のうろこ』がきらめいた！
 LET…ME……GO!!!!	は～な～せ～よ～！
+Corneo	コルネオ
 Hmm! Delicious…scrumptious! I think I've just found a new HOBBY!	ほひ～！いいの～、いいの～！新たなシュミになりそ～じゃの～！
+Corneo	コルネオ
 Which shall it be? Hmm…Hmm…	どっちのおなごにしようかな？ほひ～ほひ～！
+Corneo	コルネオ
 Should I take…HER?	このコにしようかな～？
+Elena	イリーナ
 He…hey, I'm a 'Turk'! Don't think you can get away with this!!	あ、あんた、私はタークスよ！こんな事をしてすむと思ってるの！？
+Corneo	コルネオ
 Or…maybe…HER?	それともこのコかな～？
 Oh GAWD! If I knew this was gonna happen, I would've taken those rope lessons more seriously!!	あ～ッ！こんなことなら、ナワ抜けの修行マジにやっとくんだったよ～！
+Corneo	コルネオ
 Hmm!!! I've made my choice! My companion for the night will be…	ほひ～！！決めた決～めた！今夜の相手は……
+Corneo	コルネオ
 …the cheerful one!	この元気そうなおなごだ！
 GROSS-NESS!	ゲゲッ！
 Don't mess with me old man! You don't even have any Materia!	ざけんな、ジジイ～！マテリアも持ってないクセによ！
+Corneo	コルネオ
 Oooooh! And she's saucy, too! Wheee! Wheee!	ほひ～！そのこばむしぐさがういの～、うぶいの～
 All right, that's it!!	そこまでだ！
 Hold it right there!	待ちなさい！
 Hey, hey, hey! That's as far as you go!	おうおうおう！そのヘンにしときな！
+Corneo	コルネオ
 Hee-haw. What…what's goin' on!? Who's there?	ほひ～。なんだ、なんだ！　何者だ！
 Oh man! CLOUD……!	ゲッ！CLOUD……！
 Oh man! TIFA……!	ゲッ！TIFA……！
 Oh man! That old fart, CID!	ゲッ！CIDのオヤジ……！
+Corneo	コルネオ
 Wheeel…long time no see.	ほひひ、ひさしぶりだな
 Don't tell me you forgot…	忘れたとは言わせないぞ
 That fall into the trap really hurt!	痛かったんだから！あの落とし穴……！
 You just don't get it, do you…!?	こりない人ねこんなマネして……！
+Corneo	コルネオ
 Hmm…Who are you guys!?	ほひひ、なんだ、お前たちは！？
 Maybe God'd forgive an ugly ^#@# like you, but I won't!	てめーみてえな、ゲスやろう神さんが許しても、このオレ様が許さねえ！
  You damn Midgar hyena…!	このミッドガルのハイエナ野郎……！
 Hurry and let the two go!	早くふたりを放せ！
 I don't care what you're doing, so much as the idiotic way you're doing it…	どうでもいいが、やり方がスマートではないな……
 Listen you stupid, slimy, sleazy old scab bag! If you want to get women, there's such a thing as the RIGHT way!	オッサン女にもてたいんやったらやり方ちゅうもんがあるやろ
+Corneo	コルネオ
 Be quiet! None of you know how much I've suffered since then…	だまらっしゃ～い！あれから、俺がどんなに苦労したかお前らにはわかるまい……
+Corneo	コルネオ
 It's a long story, but……	そう、話せば長くなるけれど……
 We don't want to hear it! Just let them go!	話さなくていーの！早くふたりを降ろしなさい！
 I don't really give a damn! You're gonna let them go, or else I'm gonna break your arm!	んなこた、どーでもいーんだよ！ネエちゃんたちを、返してもらうぜ。腕ずくでもな！
 I don't really care! Let YUFFIE and Elena go!	興味ないね！YUFFIEたちを、返せ！
+Corneo	コルネオ
 Hmm…You guys are serious. …Good, good.	ほひ……おまえら……本気だな。……えらいえらい
 …this time I'm not fooling around either…	……俺もふざけてる場合じゃねえな
+Corneo	コルネオ
 Why did you kill my little Aps?	あの時は俺の可愛いアプスをよくも殺ってくれたな……
 I'm gonna make you PLAY with my new pet, so you won't interfere in my search for a bride!	これ以上、俺の花ヨメ探しのジャマをさせんためにも、俺の新しいペットと遊んでもらうぜ！
+Corneo	コルネオ
 RAPPS---come here!!	ラプス　カムヒア！！
+Corneo	コルネオ
 Wait…	ちょ……
 Just wait a second!	ちょっと待った！
 SHUT UP!	だまれ！
 You better say your prayers!	さあ、かんねんしなさい！
 Don't be such a poor loser, old man!	おうじょうぎわが、わりーぜ！とっつぁん！！
+Corneo	コルネオ
 Just listen to me - it won't take long.	すぐ終わるから聞いてくれ
 Why do you think a bad guy like me would swallow his pride and plead for his life?	俺たちみたいな悪堂がこうやってプライドをすててまで命ごいするのは、どんなときだと思う？
 1  Because he's ready to die	１　死をかくごしたとき
 2  Because he's sure to win	２　勝利を確信しているとき
 3  Because he's clueless	３　なにがなんだかわからないとき
+Corneo	コルネオ
 Hmm…WRONG!	ほひ～！　はっずれ～！
+Corneo	コルネオ
 Hmm…RIGHT!	ほひ～！　あったり～！
+Corneo	コルネオ
 Hmm…Close, but no!	ほひ～！　おっし～！
+Elena	イリーナ
 Eyaaaah…	キャアーッ！
 It makes me so MAD!	あ、頭に血がのぼる～ッ！
+Corneo	コルネオ
 Once I push this button, they'll fall and we'll have SQUASHED TOMATOES!	このスイッチを押すと、このまま下に真っ逆さま……つぶれたトマトのでき上がり！
 Damn!	クッ……！
 Coward!	ひきょうよ！
@@ -480,31 +573,49 @@ All right…	わ、わかった……
 Grrrrrgh…	グルル……！
 You sure are vulgar!	えぐいことすんの～！
 ……!	……！
+Corneo	コルネオ
 Now, give me your women too!	では、そっちのおなごもわたしてもらおうか！
+Corneo	コルネオ
 Ha, ha, ha, ha! I guess I have the last laugh!	ほっひっひっひ！最後に笑うのは、俺だったな！
 No, that would be us.	いや、俺たちだ、と
+Corneo	コルネオ
 …The Turks!	タ、タークス！
+Reno	レノ
 You knew this was gonna happen ever since you leaked that secret.	お前が秘密をもらした時から決まっていたのだ
 We're going to take care of you… personally.	俺たちの手でほうむり去られるとな、と
+Corneo	コルネオ
 DAMMIT! Then they're all comin' with me!	え、ええ～い！こうなれば、道づれだ！
+Corneo	コルネオ
 Ugh…!	グワッ……！
+Reno	レノ
 Good timing, Rude.	いいタイミングだぜ。ルード、と
+Rude	ルード
 …Let's get to work.	……仕事だ
+Reno	レノ
 All right, Corneo. This'll be over quick, so listen up.	さーて、コルネオさんよ。すぐ終わるから聞いてくれ、と
 Why do you think we went to all the trouble of teaming up with those guys to get you…?	俺たちが、ヤツらと組んでまできさまを追いつめるのはなぜだと思う……？、と
 1.  Because we're ready to die	１　死をかくごしたとき
 2.  Because we're sure of victory	２　勝利を確信しているとき
 3.  Because we're clueless	３　なにがなんだかわからないとき
+Corneo	コルネオ
 Two…Number two?	２……２番ですか？
+Reno	レノ
 All wrong.	どれも不正解、と
+Corneo	コルネオ
 No! Wait, st…	や！　やめ……！
+Corneo	コルネオ
 Aaaaaaaaaa……p	ほひいいいぃぃぃぃぃ……
+Reno	レノ
 The correct answer was…	正解は、と
+Rude	ルード
 …because it's our job.	……仕事だからだ
+Elena	イリーナ
 Oh, thank you very much…!	あ、ありがとうございます。先輩……！
 I never thought you'd come…	まさか、助けに来てくれるなんて……
+Reno	レノ
 Elena, don't act so weak.	イリーナ。あまえるなよ、と
 You're a Turk!	お前もタークスの一員なんだぜ、と
+Elena	イリーナ
 Y…Yes, sir!	は……はい！
 Th…Thanks.	あ……ありがとう
 Thanks for your help.	ありがと、助かっちゃった
@@ -513,13 +624,19 @@ Never thought you'd ever help us…	お前らに救われるとはな……
 You guys have some good in you.	あんたらもええトコあるやないか
 It would appear thanks are in order…	礼を言わねばならないのか……
 I'll just say you…helped.	助かった……と言っておくよ
+Reno	レノ
 Yes…this is Reno.	はい……レノです、と
 Yes…Yes… I'll get on it right away.	はい……はい……ただちに、かかります、と
+Elena	イリーナ
 Was that the company?	か、会社からですか？先輩……
+Reno	レノ
 Yeah, they want us to find CLOUD…	そう、CLOUDたちを探せとな、と……
+Rude	ルード
 Are we on?	仕事か……？
+Reno	レノ
 No, today's our day off.	いや、今日は非番だ、と
 Hey---who cares about that!? Get----me-----down----!	ど～でもい～けどお～ろ～し～て～～ッ！
+…	……
 Freeze!	待たれいッ！
 You aren't from Wutai, are you?	それがしたち、ウータイの者ではござらぬな？
 No	はい
@@ -535,118 +652,185 @@ Miss YUFFIE! You cannot go on to the second floor unless you defeat me!	YUFFIE�
 Yo! They call me Shake! I'll be watchin' your fight with Gorky!	いよ！　オラ、シェイクってんだ！ゴーリキーと、あんたの手合わせはオラが見届けさしてもらうよ！
 Gorky	ゴーリキー
 Then, begin!	では、参る！
+Gorky	ゴーリキー
 Power Change!	力変化招来！
+Gorky	ゴーリキー
 Here I am, Miss YUFFIE!	参りましたぞ、YUFFIE様！
 Shake	シェイク
 Hmm, I thought you were just a girl, but you handled that pretty good!	へー、ただのはねッ返り娘かと思ってたけど、その程度は出来んじゃん！
 Let's see how you do on next one…	ま、次はどーかな？
+Gorky	ゴーリキー
 In my opinion, you need more training! Gorky is disappointed!	お言葉ですが、修行が足りませんぞ！このゴーリキー、がっかりしましたぞ！
+Shake	シェイク
 No good! You have to beat Gorky! Are you mocking this Pagoda?	だ～めだって！ゴーリキーをやらなきゃ！五強の塔、ナメてんじゃない？
 Of course!	と～ぜ～ん！
 Shut up! Shut up! SHADDUP!	るさい！　るさい！　るさ～い！
 Who's next?	次は誰よ？
+Shake	シェイク
 Are you blind? I'm right here!	あんたの目はふし穴か？ここに、いんじゃん！
 What? I gotta fight a punk?	は～？ガキが相手～？
+Shake	シェイク
 Heh! Punk. I'm more of an adult than some bimbo girl!	ヘン、何を言うかね！どこぞのバカ娘よりはオラの方が、よっぽど大人よ！
 Wh, what did you say!?	な、なんだって～！？
+Shake	シェイク
 See what I mean? That kind of anger's what makes you so immature!	ヘッヘ！　そうやってムキになるのがガキたるゆえんよ！
 Don't pat yourself on the back until you beat me!	のうがきは、速の強聖のオラに勝ってからにしな！
 Now watch…!	見てなよ……！
+Shake	シェイク
 'bout the only thing you do really good is breathe! Are you sure you wanna fight?	ハナいきだけは一人前だね！ホントにやる根性あんの？
 Stop yappin'!	おしゃべりは、もういい！
 I'll forgive you	許してやるよ
 Hm, so someone finally got past Gorky.	ほう、ついにゴーリキーを倒した者が出たようじゃの
 I guess it's Chekhov's turn…	では、このチェホフが立ち合いましょうぞ……
+Shake	シェイク
 Here I go, brat! Speed Change!	行くぜ、ガキんちょ！速変化招来！
+Shake	シェイク
 URRGRAAAAGH! So you CAN fight a bit!	うわっちゃ～！ちったーやるみたいじゃん！
+Shake	シェイク
 HYAAAAAAH! BRATBRATBRATBRAT!!	ひゃ～っはっは！ガキガキガキガキ～！
+Shake	シェイク
 You don't belong here! This is the Wutai Temple of Martial Arts!	あんたらじゃダ～メ！ここはウータイ武闘術五強聖の塔だぜ！
+Shake	シェイク
 Hey, you there! Don't ignore me!	コラコラ、そこの～！オラをムシすんなって！
+Shake	シェイク
 So you're just talk after all. Brat!	あ～らら、いざとなると口だけなんて、ガキもガキ大～ガキ～！
 Chekhov	チェホフ
 You can't go to the next floor unless you beat Shake.	シェイクを倒さずして階上に上がることあいなりませんぞ……
+Chekhov	チェホフ
 Ho, ho, ho… It's been a while since I felt pain…	ホッホッホ……ひさかたぶりに、うずきますぞ……
 So even Shake's been defeated. It's been a while since you had to fight, eh Chekhov?	なんとシェイクまで、敗れたか。チェホフ、そなたの出番もひさしぶりだな
+Chekhov	チェホフ
 Unfortunately, this is as far as it goes.  Staniv, you watch over there.	残念ながら、わらわでおしまいじゃ。スタニフ、そなたは、そこで見ているがいい
 That ain't going to happen! I'll teach you about the strength of youth!	そんなワケにはいかないのよね～！若さが強さってとこ教えたげるよ
+Chekhov	チェホフ
 Keep mouthing off like that, little girl, and you're going to get burned.	小娘が、いきがっておるとやけどくらいですまぬぞえ
 I got insurance.	あいにく火遊びは大好きなの
 Let's get this over, ya' old geez.	オバさんは相手にしてらんない
+Chekhov	チェホフ
 Ho, ho, ho. We'll see if you still talk like that after you taste some of my Sacred Magic…	ホッホッホ。魔の強聖のわらわと試合った後でも、そのへらず口きけるといいが……
+Chekhov	チェホフ
 Ho, ho, ho. What do you expect from a child barely out of diapers!?	ホッホホ。ケツの青い小娘ならではのへらず口だこと
+Chekhov	チェホフ
 Magic Change!	魔変化招来！
+Chekhov	チェホフ
 I can't believe…you beat me.	わ、わらわの術を破るとは……
 Staniv	スタニフ
 This should be interesting! It's been too long since I've had a chance to use my full power…	面白い……！ひさびさに我が腕、ぞんぶんにふるえそうだな……
+Chekhov	チェホフ
 Ho, ho, ho! What does a immature child know…?	ホッホッホ！年はもいかぬ子娘に何がわかろうて……
+Staniv	スタニフ
 This is the average person's limit?	やはり常人では、ここまでが限度か……
+Chekhov	チェホフ
 That being the case, we have nothing further to discuss.	そなたらでは、話にならぬぞえ
+Chekhov	チェホフ
 How dare they mock us, thinking they could sneak past us.	ここを素通りしようとはわらわも、なめられたものよ
+Staniv	スタニフ
 First, Chekhov will keep you company…	まずは、そちらのチェホフがお相手いたす……
+Staniv	スタニフ
 So you're here…	来ましたな……
 Huh? Who am I supposed to beat?	あれ？　立ち合い人ってのは？
+Staniv	スタニフ
 HAAAAH!	はあーッ！
+Staniv	スタニフ
 The rule is the best fighter on each floor will be your opponent… This is a five-storied pagoda,but the fourth floor is the highest…	ここ、４階までは階上の者が立ち合うのが、ならわし……。しかし、ここは五強の塔４階にして最上階の意味を持つ……
 In other words, no one has ever defeated me--Master of Weaponry!	すなわち！武の強聖の、私を敗った者はかつてないということだ
 You still want to try…?	それでも、戦うかね……？
 Just come on!!	もっちろん！
 I'll pass!	パス、パ～ス！
+Staniv	スタニフ
 I like you! Now watch…	気にいった！見るがいい……
+Staniv	スタニフ
 Weapon Change!	武変化招来！
+Staniv	スタニフ
 How unfortunate! It was over before I could even put all my strength into it…	無念！今回も力をすべて出せずに終わってしまった……
+Staniv	スタニフ
 Wh, what…!?	な、何だと……！？
+Gorky	ゴーリキー
 Splendid! You have definitely improved…	お見事！かくも腕を上げられたとは……
+Shake	シェイク
 Oh, ho! You might not be as much of a child as we thought you were!	おっほ！思ったよりガキじゃないみたいじゃん！
+Chekhov	チェホフ
 Of course. If WE lost to her…	当然であろう。わらわが敗れた者なれば……
+Staniv	スタニフ
 You have defeated four of our best, but now you will have to face HIM!	最上階の立ち合いは我ら４人！あの方と相まみえていただきましょうぞ……！
+Staniv	スタニフ
 If it were not for Miss YUFFIE, I wouldn't be facing him…	YUFFIE殿でなければ私が相まみえるわけには参りませぬな……
+Staniv	スタニフ
 You didn't seem like someone who could get to the fourth floor so easily…	労せずして実をえようとはこの４階まで来た者とも思えん所業……
 D,…Dad!?	お、オヤジイ！？
+Godo	ゴドー
 I'm glad you made it this far, YUFFIE!	よくぞ来た、YUFFIE！
 Why, why are you……	な、なんでアンタが……
+Godo	ゴドー
 I'll answer you by having you try your skills against me!	聞きたい事は、ワシの体におのれの技で聞くが良い！
 Hold nothing back. Come as if you're trying to kill me! If you don't…then I'll have to kill you!	手をぬくなよ。　ワシを殺すつもりで、来い！でなければ、私がお前を殺す！
 Dammit……	ち、ちっくしょ～……
+Godo	ゴドー
 Ohhh! And what was that!? Come back when you get more training!	ええい！　なんたるざまだ！腕をみがいて、出直して来い！
 I'll show you this time, you old Fart-meister!	今度こそ見てなよ。この、なまぐさボウズ！
+Godo	ゴドー
 Hmm? A slight improvement.	ほう、少しは腕を上げたか？
+Godo	ゴドー
 Come at me with all you have! OMNI-Change!!	全力で来い！総！　変！　化！　招！　来……ッ！！
 H…hey!	ちょ、ちょっと！
+Godo	ゴドー
 What are you doing! OMNI-Change!!	何をしておる！総！　変！　化！　招！　来……ッ！！
 …heave…heave…	ハッ……　ハッ……
+Godo	ゴドー
 …huff…puff…	ゼエ……　ゼェ……
 O…old coot… not…bad…	おっ……　オヤジ……やるじゃ……ねーか……
+Godo	ゴドー
 You've…also…improved…	お前も……　腕を……あげたな……
 Hah…Ha, ha…	ハ……　ハハッ……
+Godo	ゴドー
 …Heh, heh…	……ふ　ふッ……
 Ha ha haaaaaa!	アハハハハハ……ッ！
+Godo	ゴドー
 Waha haaaaa!	うわっはっはっは……！
+Godo	ゴドー
 It's time I gave this to you, YUFFIE…	やるようになったなYUFFIE……
 This is Leviathan Materia. Take it.	この水神様のマテリアを持って行くがいい
+Godo	ゴドー
 …I thought I'd give it to you, but you have no room for it.	と、思ったら、持ちきれんほどマテリアを持っているな
 Then, come back for it later. And don't forget!	ならば、後ほど受け取れい。忘れぬようにな！
+Godo	ゴドー
 Leviathan Materia? Oh! So you DID remember.	水神様のマテリアか？ぬうッ！　きっちり覚えておったか
 Well it's yours, go ahead and take it!	やむをえん、受け取るがよい！
 You have too much Materia!	そなたら、おびただしいほどのマテリアを持っておるではないか！
+Staniv	スタニフ
 But, Lord Godo. Leviathan Materia should only be given to the person who conquers and takes over this Pagoda. That is our custom…	しかし、ゴドー様。水神様のマテリアは、五強の塔を制覇し、新たに五強聖をおさめる者が持つのが、ならわし……
 CUSTOM, CUSTOM, CUSTOM… I'm so sick of hearing that!	ならわし、ならわしってもー聞きあきたよ！
 It's so stupid!	バッカじゃない！？
+Gorky	ゴーリキー
 Silence, Miss YUFFIE!	口がすぎますぞ！YUFFIE様！
 Then what 'bout all of you? With all your power…	じゃ、あんたらは、い～の？ それだけの力があって……
 Are you satisfied being cooped up in this tower?	こんな塔にこもってるだけで満足なのかよ！？
+Godo	ゴドー
+YUFFIE!	YUFFIE……！
 You too, Dad! Just because you lost the war,	オヤジもそーさ……！ 前に戦に負けたからって！
 You turned Wutai into a place like this!	このウータイを、こんなにしちまってさ！
+Chekhov	チェホフ
 What do you mean?	……何が言いたいんだい？
 You turned Wutai into a cheesy resort town peddling to tourists…	ウータイを、こんな、ひなびた観光地にして、ヨソ者にこびて……
 How dare you!? Da-chao Statue and Leviathan are ashamed!!	そんなんで、いーのかよ！ダチャオ像も、水神様も泣いてるよ！！
+Godo	ゴドー
+…	……
+Shake	シェイク
 She IS a kid.	やれやれ、やっぱガキだな
 Wh, what did you say?	な、何だと……！？
+Godo	ゴドー
 YUFFIE!!	YUFFIEッ！！
+Godo	ゴドー
 Forgive me… It's all my fault…	許してくれ……すべてワシの責任だ……
+Gorky	ゴーリキー
 What are you saying, Lord Godo!	何をおっしゃいます！ゴドー様！
+Godo	ゴドー
 Losing the war…turning Wutai into this. It was all my fault…	戦に負け……ウータイをこのようにしてしまったのは、ワシなのだ……
+Chekhov	チェホフ
 Lord Godo!	ゴドー様！
+Godo	ゴドー
 Silence!!	お前たちは黙っておれ！！
+Godo	ゴドー
 YUFFIE……	YUFFIE……
 I am the same now as I was before when I wanted war.	かつて、戦にのぞむ前のワシも今のお前と同じじゃった
 But, after losing, I began to think…	だが戦に負け、考えた……
@@ -654,11 +838,15 @@ Is strength for beating enemies	強さとは、相手をたおすためのもの
 …or just something to show-off?	他者に対し見せつけるものなのかとな……
 Might begets might.	力を見せつける強者は、強者を呼ぶ。それが戦になる……
 The same as Shinra.	それでは神羅と同じではないか……
+……	……
+Godo	ゴドー
 I knew you were looking for Materia for the good of Wutai.	お前がウータイのため、マテリアを探しているのは、わかっていた
 But, the reason I hide my strength now, is also for the good of Wutai…	だが、ワシが、力を封じているのもまたウータイのためなのだ……
 And now, I realize both are necessary…	今、わかったぞ。必要なものは両方なのだ……
 Strength without determination means nothing. And determination without strength is equally useless…!	志のない力では、意味がない。力のない志では、それもかなわぬ……！
+Staniv	スタニフ
 Lord Godo…	ゴドー様……
+Godo	ゴドー
 You there, please take YUFFIE with you!	そなたたち、YUFFIEを同行させてやってくれい！
 I perceive that you all have both determination and strength!	そなたたちは、志と力その２つを持っている！
 Well, just tell yourself you're on a big ship, and leave the rest to ol' CID!	ま、大船に乗ったつもりでこのCID様にまかせときなって！
@@ -669,43 +857,77 @@ All right. We'll take her with us.	わかりました。娘さん、おあずか
 Hmm… You may come if you want to …	フッ……勝手について来るがいい……
 Jus' don't do nothin' funny to our Materia…!	もうマテリアに、みょうなマネしねえならな……！
 All right, I don't mind.	ということさ。俺はかまわないよ
+Godo	ゴドー
 Go, YUFFIE!	行けい、YUFFIE！
 For the sake of Wutai!	ウータイに真の強さを根づかせるためにもな！
 Dad…	オヤジ……
+Godo	ゴドー
 I'll take care of the Five Sacred Gods until you return!	お前がもどるまでは、ワシが五強聖をおさめる！
 Go! And come back alive!	行ってこい！そして生きて帰って来い！
 Duh!	と～ぜんだよ！
+Godo	ゴドー
 YUFFIE, wait a minute.	YUFFIE、ちょっと待て
+Godo	ゴドー
 After their battle is over…	あの連中の持っているマテリアな……
 Do you think they'll still want all their Materia?	戦いが終われば、たぶん用ずみになるんではないかな？
 Dad…!	オヤジ……！
+Godo	ゴドー
 Go! Fight till the end! But come back!	行ってこい！ 最後まで生き残れ！ そして帰って来るのだ！
 With the Materia!	マテリアを持ってな！
 Heh, heh…you bet!	ヘヘ……あったりまえよ！
+Staniv	スタニフ
 Miss YUFFIE. Your feelings for Wutai are the same as Lord Godo's. Always remember that…	YUFFIE殿。ウータイを思う気持ちはそなたもゴドー様もいっしょ。それだけはお忘れなきよう……
+Staniv	スタニフ
 Please take care of Miss YUFFIE.	YUFFIE殿を、なにとぞよろしくおたのもうしますぞ
+Chekhov	チェホフ
 Never bring shame on Wutai.	ウータイの名にはじぬ戦をしてまいれ
+Chekhov	チェホフ
 She's always like this. It'll be rougher on you.	あの小娘はあいかわらずじゃろうて。そなたらも大変じゃのう
+Shake	シェイク
 You say there's some unusual Materia where the underground pipe is!?	海底パイプってとこにめずらしいマテリアがあるって！
 But, first you gotta get if from a monster and unless you use your head, you won't be able to do it.	モンスターが持っているらしいけどちょっと頭をつかわないとゲットできないってさ。
+Shake	シェイク
 Did that kid mature at all?	あのガキ、ちっとは成長したかい？
+Gorky	ゴーリキー
 Miss YUFFIE. We pray for your success!	YUFFIE様。ご武運を、おいのりしております！
+Gorky	ゴーリキー
 Oh, you there! How is Miss YUFFIE doing?	おお、そなたら！YUFFIE様は、お元気ですかな？
+Gorky	ゴーリキー
 Winning Miss YUFFIE's heart must mean you have tremendous skill.	YUFFIE様に見そめられるとはそれがしたちも、かなり腕にはおぼえがあられますな
+Shake	シェイク
 Compared to me, all of you are nothin' but a buncha babies.	あんたらも、オラにくらべりゃまだまだヒヨッコだね
+Chekhov	チェホフ
 Managing that girl must be exceedingly rough on you.	そなたらも、あの小娘相手にたいぎなことじゃのう
+Staniv	スタニフ
 I would like to fight you, however the Five Sacred Gods can only compete with those from Wutai…	そなたらとも、お手合わせねがいたいところだが、五強聖はウータイの者としか、試合うことはゆるされない……
+Shake	シェイク
 Sh…	しー……ッ！
+Staniv	スタニフ
+…	……
+Chekhov	チェホフ
+…	……
+Gorky	ゴーリキー
+…	……
+Godo	ゴドー
 …Hm. You can do it…	……ほう。出来るな、そなたら……
+Godo	ゴドー
+Go! Fight till the end! But come back!	行ってこい！ 最後まで生き残れ！ そして帰って来るのだ！
 Mat-…	マテ……
 Take care of the Materia!!	マテリアを大事になッ！！
+Godo	ゴドー
 Your Mat-…	そなたら、マテ……
 I mean, please look after YUFFIE…!	いや、YUFFIEをよろしく頼みますぞ……！
 Received "Dragoon Lance"!	『ドラグーンランス』を手にいれた！
 Received "Oritsuru"!	『折り鶴』を手にいれた！
+You can not take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+Received "MP Absorb" Materia!	『ＭＰきゅうしゅう』のマテリアを手にいれた！
 Received "Leviathan" Materia!	『リヴァイアサン』のマテリアを手にいれた！
 Received "Steal As Well" Materia!	『ついでにぬすむ』のマテリアを手にいれた！
+Wutai‚Main Mtn.	ウータイ総本山
+…	…………
 Wanna rest?	休んでいくか
+Let's move on	先を急ごう
 Phew…	フウ……
 Yeah, let's get some rest	休んでいこうかな
 I'm all right	今はつかれてないわね
@@ -730,8 +952,10 @@ Oh, all right. Here, I'll give this to you guys.	わ、わかったよ、ホラ�
 …No, forget it. Besides, they have lots of Materia anyway.	……いや、やっぱりやめとこ。あいつら、いっぱいマテリア持ってるしな
 Here, look, look!	ホラ、見て見て！ジャジャーン！！
 Received "MP Absorb" Materia!	『ＭＰきゅうしゅう』のマテリアを手にいれたー！
+…	…………
 Come on, wait!	あ～もう、待ってよ～！
 No matter what you think, I'm going with you!	誰が何と言おうとアタシはアンタたちについてくからね～！
 …Next time…	……そんでもってつぎこそかならず……
 You cannot take on anymore Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
 Received "MP Absorption" Materia!	『ＭＰきゅうしゅう』のマテリアを手にいれた！
