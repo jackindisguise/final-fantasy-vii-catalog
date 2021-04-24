@@ -6,6 +6,7 @@ const http = require("http");
 const {mecabSync} = require("./mecab-wrapper");
 const {lookupSync} = require("./jsdict-lookup");
 const symbols = require("./mecab-symbols.json");
+const { stdin } = require("process");
 
 // safe array handling
 function __array(data){
@@ -54,6 +55,24 @@ const outputFolderUnique = "../vocabulary/unique/";
 const lookupWords = []; // words that have been searched for (don't repeat these)
 const wordsFound = []; // jsdict entries that we've chosen go here
 
+async function _read(callback){
+	return new Promise(function(resolve){
+		process.stdin.once("data", function(data){
+			callback(data);
+			resolve();
+		});
+	});
+}
+
+async function readLine(){
+	let line;
+	await _read(function(data){
+		line = data;
+	});
+
+	return line;
+}
+
 fs.readdir(inputFolder, async function(err, files){
 	if(err) {
 		console.log(err);
@@ -77,17 +96,31 @@ fs.readdir(inputFolder, async function(err, files){
 				else if(tokenIsNaAdj(token)) spec = symbols.pos2.na_adj;
 				else if(tokenIsAdverb(token)) spec = symbols.pos.adverb;
 				else continue;
-				console.log(token.word, spec);
+				console.log("Disambiguate:");
+				console.log(`\tWord:\t\t${token.word} (spec: ${spec})`);
+				console.log(`\tEnglish:\t${english}`);
+				console.log(`\tJapanese:\t${japanese}`);
+				console.log("");
+				console.log("Options:");
 				let search = await lookupSync(`${token.root}/${spec}`);
 				if(search){
 					let json = __array(JSON.parse(search));
-					let first = json[0];
-					let word = formatWord(first);
-					let def = formatSense(first);
-					console.log(word.kana, word.kanji, def.pos, def.gloss);
+					for(let i=0;i<json.length;i++){
+						let entry = json[i];
+						let word = formatWord(entry);
+						let def = formatSense(entry);
+						let display = word.kanji ? `${word.kanji}[${word.kana}]` : word.kana;
+						console.log(`\t${i}) ${display} (${def.pos}) ${def.gloss}`);
+					}
+
+					console.log("\t* Press Enter to Skip *");
+					console.log("");
+					process.stdout.write("Make a choice: ");
+					let choice = await readLine();
+					console.log("");
 				}
 			}
-			return;
+
 		}
 	}
 });
