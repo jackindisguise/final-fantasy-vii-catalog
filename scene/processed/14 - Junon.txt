@@ -31,19 +31,13 @@ Aren't you going to follow her?	あの子について行かないのか？
 What's this loud music? It's giving me a headache!	なんだい、この音楽は？うるさくて頭にくるよ！
 Priscilla	プリシラ
 Umm…thanks for helping…	あのぅ……助けてくれてありがとう……
-Priscilla	プリシラ
 I'm sorry, I mistook you for one of those Shinra, Inc….	神羅のやつらとまちがえちゃってごめんね……
-Priscilla	プリシラ
 I heard they're rehearsing the reception for the new Shinra president.	これは神羅の新しい社長の歓迎式のリハーサルだと思う
-Priscilla	プリシラ
 Grandpa and Grandma told me this beach was beautiful when they were small.	ここはね、じいちゃんばあちゃんが子供のころにはとてもきれいな海岸だったって
 But after the Shinra built that city above, the sun stopped shining here, and the water got polluted…	でも神羅が上の街をつくってから日も当たらなくなったし海も汚れちゃって……
 I was raised on that story and hate Shinra so much, I could die!	そんな話を聞いて育ったからわたし、神羅がにくらしくてしょうがないの
-Priscilla	プリシラ
 No! No! There's a high voltage current running underneath the tower. Don't wander near it, it's dangerous!	ダメダメ！柱の下は高圧電流が流れてるのむやみに近づいたらキケンよ
-Priscilla	プリシラ
 But…you might be able to if Mr. Dolphin helps you. Follow me!	でも……イルカさんの力をかりればなんとかなるかな。ちょっと来て
-Priscilla	プリシラ
 I'll give you something SPECIAL!	おにいちゃんにイイものあげる！
 It's an amulet. Take good care of it, OK?	海のお守りなのよだいじにしてね
 It's at my house, so come by later to pick it up, OK?	家の中においてあるから取りにきてね！
@@ -91,7 +85,6 @@ I've noticed there's been a lot of Shinra ships recently. I think they're going 
 Isn't Shinra trying to transport the Reactor's Huge Materia?	神羅は、魔晄炉のヒュージマテリアを運び出そうとしているんじゃないかね？
 I heard a war's about to start! And that's why they're moving the big cannon!	戦争が、おっぱじまるのかい！？上では、大砲を移動させていたそうじゃよ！
 Could be the end of the world…	もうこの世は終わってしまうんじゃろうか……
-Weapon Store	武器屋
 Hmm, what?	ワシが、ほしいのかい？
 If you see a weapon you want, you'd better buy it.	ほしい武器があったら買っていっておくれ
 Dolphin Offing	イルカの入りえ
@@ -114,15 +107,10 @@ Hey! It's a monster!	おい、モンスターだ
 Hey watch your mouth! We hate the Shinra!	しつれいなこと言うんじゃないよ！神羅なんかだいっきらいさ
 Whoa, Gawd!	おわっ、大変だ！
 He-y! Mr.Dolphin!	ねぇ～！イルカさ～ん！！
-Priscilla	プリシラ
 Who are you guys? Are you members of Shinra, Inc.?	あなたたち誰なの？もしかして神羅の人間！？
-Priscilla	プリシラ
 I don't believe you! Get out of here!	信用できないわ！ここから出ていって
-Priscilla	プリシラ
 Be careful, Mr.Dolphin!	イルカさんが、あぶない！
-Priscilla	プリシラ
 Wait a minute.	おにいちゃんちょっと見ていて
-Priscilla	プリシラ
 Pretty cool, huh? When I blow this whistle, Mr. Dolphin jumps for me.	すごいでしょ！このホイッスルを吹くとイルカさんがジャンプしてくれるの
 Here!! This is for you, CLOUD!	ハイ！　ホイッスルをおにいちゃんにプレゼント
 Just go into the water, blow this whistle, and Mr. Dolphin'll jump you to the top of the pole!	海に入ってホイッスルを吹くとイルカさんが柱の上までジャンプさせてくれるわ！
@@ -131,17 +119,12 @@ You wanna jump with Mr. Dolphin?	イルカさんとジャンプしてみる？
 Explain it to me again	もう１回説明してくれ
 Sure	やってみる
 I'll pass	やめておく
-Priscilla	プリシラ
 Come back whenever you want to see Mr. Dolphin!	イルカさんに会いたくなったらまた、来てね
-Priscilla	プリシラ
 There's high voltage running through the bottom of the tower. Don't go near it…	柱には高圧電流が流れているの近よっちゃダメよ
 My name is… Pri-scil-la! Now you say it.	わたしの名前はねプ～リ～シ～ラ！ハイ、言ってみて
-Priscilla	プリシラ
 Did you drown? It gets deeper the farther you go out.	おぼれちゃったのね？遠くの方は深くなってるの
 [SWITCH]  Blow the whistle to call the dolphin.	□ボタン　ホイッスルを吹いてイルカを呼ぶ
 Jump up to the cargo ship on the dolphin?	イルカに運搬船までつれていってもらいますか？
-Yes	はい
-No	いいえ
 Dolphin Offing	イルカのいりえ
 This is bad… You don't think she's dead, do you?	まいったな…もしかして死んでしまったのか？
 Mouth to mouth!?	人工呼吸って！？
@@ -152,7 +135,6 @@ CLOUD, what are you going to do?	CLOUD、どうするの？
 CLOUD, hurry!	CLOUD、はやくっ！
 You know I can't.	私にはムリだな
 Do it, CLOUD!	CLOUD、やれ～っ！
-Priscilla	プリシラ
 Uh…ugh…	う、う～ん
 Priscilla!!	プリシラ！！
 Nope…she's not breathing…	ダメだわい……呼吸しとらん……
@@ -162,7 +144,6 @@ What? You don't know how? Come over here, I'll show you.	なんだ？　知ら�
 Just take a deep breath, hold it in. Then breathe into her.	とにかく息を大きく吸いこんで限界までに息を止める。そして、その息を口うつしするのじゃ
 Understand?	わかったか？
 Once more	もう一回
-Got it	わかった
 Hurry up and do it!	早くするんじゃ！
 Hey hey! Priscilla, are you alright?	ほほっ！だいじょうぶかプリシラ？
 That's still not enough!	まだ、たりん！
@@ -170,10 +151,8 @@ What are you doing? Hurry up! Breath deeply and give her mouth to mouth!	何を�
 Push [SWITCH] once to start the CPR gauge.	□ボタン１回目　呼吸ゲージスタート
 Push it again to stop the gauge.	□ボタン２回目　呼吸ゲージストップ
 Grandma's House	おばあさんの家
-Yeah…	そうだな……
 We'll try later	やっぱりあとにしよう
 Let's rest	ひと休みしよう
-TIFA…	TIFA……
 When Sephiroth and I went to Nibelheim, where were you?	俺とセフィロスがニブルヘイムに行ったときTIFAはどこにいた？
 The other time.	それ以外の時間だ
 Hmmm…	う～ん……
@@ -213,35 +192,25 @@ Priscilla's House	プリシラの家
 No…that tickles…	あぁ～んくすぐったぁぃ……
 No…Stop…	いや～ん、だめぇ……
 Mr. Dolphin…	イルカさぁん……
-Priscilla	プリシラ
 Who are you?	だれなの～？
 At least knock when you enter a lady's room!	レディの部屋に入る時はノックぐらいしてよね！
-Priscilla	プリシラ
 Lifestream?	ライフストリーム？
 Yeah, I know! It's Mr. Dolphin's playground.	知ってるわよ！イルカさんの遊び場所だもん
 There's a Three-taloned island south of the continent. I heard the Lifestream runs below that island.	この【大陸の南に３本ツメの島】があるの。その島の下をライフストリームが流れているらしいのよ
 But why are you asking about the Lifestream?	でも、どうしてライフストリームのことなんか？
-Priscilla	プリシラ
 Huh, CLOUD!?	えっ、CLOUDおにいちゃんがっ！？
 Hurry up and help him!! He's very important to me.	早く、おにいちゃんを助けて！！おにいちゃんは、わたしの大事な人だもの
-Priscilla	プリシラ
 CLOUD!!	おにいちゃん！！
 Stupid jerk! Look how much you made me worry!! Were you at the Lifestream?	バカバカ！　心配したのよ！！やっぱりライフストリームに？
-Priscilla	プリシラ
 You've gotta be more careful! Because you're going to marry me one day.	もう、気をつけなきゃだめよ！わたしのおムコさんになる人なんだから
-Priscilla	プリシラ
 I'm so happy!! Someday I'm going to be CLOUD's wife.	よかった～！！わたし、CLOUDおにいちゃんのおヨメさんになるって決めてるの
-Priscilla	プリシラ
 I've decided I'm gonna be CLOUD's wife.	わたし、CLOUDおにいちゃんのおヨメさんになるって決めてるの
 Yeah, that's right.	ああ、そうなんだ
 CLOUD fell into the Lifestream at the North Cave, and has been missing ever since.	CLOUDが北の大空洞からライフストリームに落ちて行方不明になっているの……
 We found CLOUD!	CLOUDが見つかったぜ！
 Received "Shiva" Materia!	『シヴァ』のマテリアを手に入れた！
 You cannot take on any more Materia. Please discard some Materia.	これいじょうマテリアは持てません。なにかマテリアをすててください。
-Dolphin Offing	イルカの入りえ
 Get out of the water?	海から出ますか？
-Yes	はい
-No	いいえ
 Junon Airport Path	ジュノン空港通路
 Eh! Ho!	エホッ！エホッ！
 Hurry! Hurry!!	いそげっ！いそげっ！！
@@ -274,7 +243,6 @@ All right! Show 'em!!	おうっ！見せてやれぃ！！
 Then I'll sing along with you!	ではっ！自分のうたごえにあわせるであります！
 Now, march!! This's the Welcoming March!	まずは行進！！歓迎パレードであります！
 Quietly--!!	せいしゅくに～！！
-Aaaaah!	ア～ッ～！
 Aaaaah!	ア～ッ～！
 Hey, come on now.	こりゃこりゃ！
 Dum, tada! Dum, tada!!	ズンチャカ！ズンチャッ！！
@@ -353,7 +321,6 @@ Left/Right: Left/Right Turn	方向キーの左／右：レフト／ライトタ�
 Someday I'll get to use my special pose in a real battle!	いつか実戦でこのスペシャルポーズを決めるであります！
 Same here!! I'll keep practicing until then!	おなじくであります！！そのときまでくんれんであります！
 Upper Junon	アルジュノン
-Upper Junon	アルジュノン
 Let the Welcome Parade begin!	歓迎パレード開始します！！
 Oh…no!! No one's here!	いか～ん！！誰もおら～ん
 Late!?	遅刻した～！？
@@ -367,7 +334,6 @@ All right! You first!	よしっ！さきいけっ！
 Thanks!!	毎度あり！！
 Come on, forget about your job! Step right up!!	さ、仕事なんて忘れて！入って入って！！
 Come on in!	さ、どうぞどうぞ！
-Upper Junon	アルジュノン
 Now!! !	それっ！！……！
 Just GO! Then you just nonchalantly sneak in from the back! Make sure no one sees you!	いっちゃれ！さりげな～く、【後ろ】から！ばれないようにしのびこむのだ！
 Now listen up! This parade's gonna be broadcast live on Shinra TV around the world!	いいか！このパレードは全世界の神羅ＴＶに生中継されておる！
@@ -386,57 +352,39 @@ TV Producer	ＴＶ番組プロデューサー
 What the hell was that soldier doing?	なんだったんだ！？あの兵士は？
 AD	ＡＤ
 I don't know.	さあ？
-TV Producer	ＴＶ番組プロデューサー
 Are the points up?	数字はあがったのか？
-AD	ＡＤ
 So-so.	まずまずです
-AD	ＡＤ
 They just shot up!!	最高です！！
-AD	ＡＤ
 This's terrible! Am…am I fired?	ズタボロです！ボク…クビですかねえ？
-TV Producer	ＴＶ番組プロデューサー
 Really.	そうか
 I want somebody to send that soldier an expensive gift.	あの兵士あてに高級そしなでもおくっとけ
-TV Producer	ＴＶ番組プロデューサー
 We did it!	でかした！
 Send that soldier something special.	あの兵士あてにこころづけでもおくっとけ
-TV Producer	ＴＶ番組プロデューサー
 What!? You're FIRED!!	なぬ！！おまえはクビ～！！
 Send that soldier a bomb or something!	あの兵士には爆弾でもおくっとけ～！
 Received 6 "Ether"	『エーテル』６個手にいれた！
 Received 5000 gil!	５０００ギル手にいれた！
 Received "Grenade"!	『手榴弾』を手にいれた！
 Received 6 "Potion"!	『ポーション』６個手にいれた！
-TV Producer	ＴＶ番組プロデューサー
 Hmm…	そうか
 Better send that soldier something.	あの兵士あてにそしなでもおくっとけ
-AD	ＡＤ
 Well, it's so-so.	まあそこそこってとこです
-Upper Junon	アルジュノン
 Good! We made it.	うっし！まにあった
 Oh! President Rufus!	おっおっ！ルーファウス様！
 Hey! Line up and shut up!	ほれ！しずかにならんどれ！
 Don't make a move!	１歩たりとも動くなよ！
 Hey!	こらっ！
-Rufus	ルーファウス
 How's the job?	ごくろう
-Rufus	ルーファウス
 What happened to the Airship?	飛空艇はどうしたんだ？
-Heidegger	ハイデッカー
 The long range airship is still being prepared.	大陸間移動可能な飛空艇はまだ準備中なんですよ
 It should be ready in about three more days.	もう３日待っていただければ。ガハハハハハ！
 It should be ready in about three more days. Rufus	ルーファウス
 Even the Air Force's Gelnika?	空軍のゲルニカもか？
-Heidegger	ハイデッカー
 Gya haa haa!	……ガハハハハハ！
-Rufus	ルーファウス
 Stop that stupid horse laugh.	その笑いかたはやめろ
 Things are different than when Father was in charge.	もうオヤジのときのようにはいかないからな
-Heidegger	ハイデッカー
 Gya…	ガハ……
-Rufus	ルーファウス
 Is the ship ready?	船の準備はいいのか？
-Heidegger	ハイデッカー
 Yes Sir, we'll get it ready quickly.	それはすぐに、はい
 What a disaster.	災難だったな
 Heidegger was really irritated…	ハイデッカーはイライラしてるからな
@@ -460,8 +408,6 @@ Nap while on duty?	勤務時間中におひるね？
 Forget it	用はない
 Welcome to 'Inn'd of the line' in Junon. Wait, I shouldn't be sayin' stuff like that.	ジュノン場末の安宿へようこそ！あっ、こんなこと自分で言うことないか……
 Wanna spend the night?	お泊まりですか？
-30 gil	３０ギル
-Forget it	用はない
 Come again.	またきてよね
 Aw, knock it off already! You don't have enough moolah! No, you 'forget it'!	やだな～！　お客さん！お金ないんじゃない！こっちが用なしですよ
 Enjoy your stay.	ぐっすりおやすみなさい
@@ -470,8 +416,6 @@ Looking forward to seeing you again.	またの御利用おまちしてます
 Our rates are the same as the 1st class hotels.	値段だけは高級ホテルなみにランクアップですよ
 Would you like to stay?	お泊まりですか？
 400 gil	４００ギル
-Forget it	用はない
-Item Store	道具屋
 Oh, a Soldier! Welcome!	あら、兵隊さん！いっらっしゃい
 Oh, welcome!	あら、いらっしゃい！
 They're not going to get me down! Not me!! Weapon, Meteor, even bad customers, aren't going to get me!	まけないわ、まけないのよ！！ウェポン、メテオ、こわい客！！なんといわれたって、まけないんだから！
@@ -489,18 +433,14 @@ I hired more girls after hearing that the world's coming to an end, but I wonder
 I keep getting more and more in debt. I've got to get out from under it somehow. Maybe I'll have Weapon help me.	ますます借金かさんじゃうなあ。なんとかふみたおしたいなあ。ウェポンだのみかなあ
 Look, why not forget about Meteor and Weapon for now and do a little impulse shopping!?	メテオもウェポンもわすれてこんなときこそ衝動買いなのよ！
 Why don't you surround yourself with young girls and have some fun…maybe for the last time.	ピチピチの若い子にまじって最後にひとはなさかせたいもんじゃ
-Materia Store	マテリアショップ
-Welcome!	いらっしゃい！
 I was just starting to get worried… You see our sales were pretty bad today.	今日は商売あがったりでまいってたとこさ
 Welcome!!	いらっしゃい！！
 I just can't believe it. I never thought a monster like Weapon really existed.	いやはや信じられません。ウェポンなんて化け物がほんとにいたなんてね～
-Weapon Store	武器屋
 I've got nothing to sell to you! Come back later!	あんたに売るもんはないぜ！出直してきな！
 Hey! Yo! You want weapons?	ヘイ！　ヨ！武器がほしいのか？
 Hey! Yo! Our weapons are the best!	ヘイ！　ヨ！うちの武器は上質だぜ！
 Hey! Yo! Wanna buy the whole store?	ヘイ！　ヨ！お店ごと買ってくれない？
 This machine hasn't been working right ever since Weapon got to it!	ウェポンにやられてからヨ！機械の調子が悪くてまいるヨ！
-Weapon Store	武器屋
 Oh! Welcome! We don't have much of anything now. I forgot to order enough the last time but feel free to look around!	おう！　いらっしゃい！仕入れに失敗しちゃってろくなもん売ってないんだけど見てってくんな！
 Weapon was really something. No one can compare with his strength. But with a selection like this, our weapons could beat him.	ウェポンすごかったな～。強さじゃ、かなわないけど品ぞろえじゃ、うちの武器の勝ちだぜ
 Item Store	アクセサリー屋
@@ -510,11 +450,8 @@ I used to be in SOLDIER. Lately, I've felt like dressing up like this…	わし�
 I know it's out of season, but…	どうしてかの～きせつはずれじゃの～
 Shinra Member's Bar	神羅会員制ＢＡＲ
 Hey G.I. Joe, aren't you still on duty?	だめね、兵隊さん。勤務中でしょ
-Tseng	ツォン
 Stay outta this.	じゃまするな
-Reno	レノ
 The President is safe because we're here.	オレたちが来たからには社長の警備は万全だ、と
-Elena	イリーナ
 Just when I think the job's boring, you guys start messing around.	先輩たち、つまらない仕事だとすぐさぼるんだから
 I'm sorry. The bar is only for Shinra employees.	ごめんなさいね。うちは神羅社員の会員制ＢＡＲなの
 Mommy… My mommy…	ママぁ……ぼくのママぁ……
@@ -523,13 +460,11 @@ Booze, booze! Ain't nothing like booze when you're on the clock.	お酒、お酒
 I'm sorry. I'm closing this place down.	ごめんなさいね。お店閉めることにしたのよ
 All my regular customers were killed by Weapon.	ウェポンにやられて常連さん、みんな死んじゃったの
 Most of them were pretty weird, but I had good memories of them.	変な人ばっかりだったけど思い出が多くてね
-Bar	酒場
 Looks like something's going on outside, but we're too smashed to do anything…	なんだか外は騒がしいけどおれたちゃ、ひるまっから酒びたり…
 Ooh, oohh… Oh man, my head's burning up…	ゲホッゲホッ……なんだか、あたまあつい心地
 I'm sorry! It's all rented out today!	すんません！今日は貸し切りなんですよ！
 The Shinra people are having a party tonight, and we're all booked up.	今夜は神羅の人の打ち上げパーティで店がいっぱいになるんですよ。どうです、あなたもいらしてみたら？
 Seems like you're all a little too young to be in here.	まだみなさん年期がたりんようですな
-Rude	ルード
 Hmm? You too?	ん……？おまえもそうなのか？
 Then, take your mask off and come here. That's our rule.	そうなら、マスクとってこいよ。それがオレたちのルールだ
 Seaweed… Seaweed…	わかめ……わかめ……
@@ -554,11 +489,8 @@ Hmmm? Back again, Mr. Know-it-all!?	むっ？帰ってきたな、物知りじ�
 All right! You can enter!!	よしっ！！はいってよろしい！！
 I'm starting to feel like I can't stop anymore.	なんとなくやめられなくなってしまったでありま～す！！
 I've been had!! I want to get in a real battle, too!	まいったでありま～す！自分も実戦にでたいでありま～す！
-Barracks	兵舎
-Received "Mind Source"!	『マインドアップ』を手にいれた！
 Received "Luck Source"!	『ラックアップ』を手にいれた！
 Received "1/35 soldier"!	『１／３５神羅兵』を手にいれた！
-Barracks	兵舎
 Mmm? I'm not going to the parade.	ん？自分はパレードなんていきませんよ
 The road to becoming SOLDIER First Class is very difficult.	ソルジャークラス１ＳＴへの道はきびしいですからね
 Don't mind me.	かまわんでください
@@ -573,8 +505,6 @@ That coveted green officer's uniform is almost in my reach.	幻のみどり色�
 Then I'll be on the newspapers as a plain clothed First Class officer in SOLDIER…	そのあとは、私服組のソルジャークラス１ＳＴで新聞に名前をのせて……
 Then make a triumphant return to my homeland!! Tons of fan letters… My future's peachy!	故郷へがいせん帰国！！ファンレターの山……自分の未来はモモ色だなあ
 Received "Power Source"!	『パワーアップ』を手にいれた！
-Received "Guard Source"!	『ガードアップ』を手にいれた！
-Barracks	兵舎
 Hey! Aren't you still on duty!?	おい！おまえ、勤務中だろ！
 Look, I shouldn't talk, but…	もっともオレも人のこと言えたぎりじゃねえけどな
 Don't become a bad worker like me.	オレみたいな不良社員になっちまうなよ
@@ -583,12 +513,8 @@ All the real soldiers died fighting Weapon.	ウェポン戦でまじめな兵士
 Kind of ironic that losers like me are still alive. But that's the reality of it.	オレみたいな不良社員が生き残るなんてひにくなもんだが、これが現実ってやつだ
 I'm trying to be a bad soldier!!	不良社員見習いであります！！
 I just can't get the hang of it! This just isn't going right!!	なれないものでおちつかんであります！うまくいかんであります！！
-Received "Speed Source"!	『スピードアップ』を手にいれた！
-Barracks	兵舎
-Shinra Manager	神羅課長
 This is so embarassing!	まったくけしからんよ！
 …and they told me I would be staying at five star hotels on these trips…	出張先はごうかホテルだって聞いてたのに…
-Shinra Manager	神羅課長
 How can you guys sleep in a place like this?	君たち、こんなところでよく眠れるねえ
 Shinra Manager	まどきわ神羅課長
 I only came to help transport the Sister Ray from Junon…	ジュノンの大砲シスターレイを運ぶとかで出張にきたのはいいけど……
@@ -597,7 +523,6 @@ Is this what happens to a loyal Shinra man?	ワタシのサラリーマン神羅
 Shinra Manager	もえつき神羅課長
 Hee Haaaw…	イヒヒヒヒヒ……
 If Weapon killed all the upper management… then I'll be President!!	上層部がウェポンに殺されちまえばワタシが社長に……！！
-Received "1/35 soldier"!	『１／３５神羅兵』を手にいれた！
 Respectable Inn	上級者の館
 This is a Respectable Inn… guests only!	ここは選ばれたもののみが入ることのゆるされる上級者の館
 You should absorb all the wisdom until it is a part of you.	どうぞ心ゆくまでもてる知識をひろうするがよい
@@ -669,14 +594,6 @@ Changed Status can be changed with magic and items, so always double check it wh
 Elementals are special Materia that come with magic and weapons.	【属性】は魔法や武器などについてくる特別な効果のことだ
 You have to use this to your advantage in battle. Only once you start thinking in terms of Elementals can you truly be called an intermediate player.	有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな
 Here are some examples. Remember, they're just examples. You don't have to memorize them.	代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな
-Fire Fire effect. Works best on animals and water monsters.	炎　　火の効果。けもの、氷のモンスターにきく。
-Ice Ice effect. Works best on fire monsters and things that hate the cold.	冷　　氷の効果。寒がり、火のモンスターにきく。
-Lightning Lightning effect. Works best on mechanical things.	雷　　電撃の効果。機械でできたヤツにきく。
-Earth Attacks using the earth's power. Doesn't work on flying enemies.	土　　大地の力の攻撃。飛んでるヤツにはきかない。
-Poison Poisons enemies. Doesn't work on any poison-based enemies.	毒　　毒状態にする。もともと毒のヤツにはきかない。
-Gravity Gravity-based attack. These hurt if they hit.	重　　重力を使った攻撃。当たるといたいな。
-Water Calls on the earth's water. Works well on fire monsters.	水　　大地の恵みの水を呼ぶ。火のモンスターにきく。
-Wind Calls up the winds. Works well on flying enemies.	風　　大気の風をよびおこす。飛んでるヤツにきく。
 Holy Summons the Planet's power. Works well on dark monsters.	聖　　星の力をよびおこす。暗黒のモンスターにきく。
 Using opposite Elementals often is effective in battle.	相反する【属性】を攻撃に使用することで大きな効果を得られる
 Using the same Elementals usually increases Defense. But, the reverse is also true. Watch out for it.	また、同じ属性なら防御の効率があがる。だが……逆もまた真なり。気をつけることだな
@@ -684,8 +601,6 @@ To find out what Elementals an enemy has, you need Sense Materia. Once you get i
 This is the Beginner's Hall (Intermediate)!	まいどおなじみ初心者の館（復活編）だよ～ん！
 Your explanations were so complicated I couldn't return to the Planet.	あんたの説明が、むずかしすぎて星に帰れなかったよ
 So, I have a right to ask you again.	もういちど、たのむ権利がオレにはあるよな
-What do you want to know?	なにが知りたいんだ？
-How to save?	記録を残すには？
 How do I cure party members?	傷ついた味方を回復するには？
 Curative Magic	魔法を使った回復
 Weapons and armor	武器、防具の使い方
@@ -776,8 +691,6 @@ Since the type and growth for each limit techniques is different, that's about a
 A long time ago I heard extreme techniques exist within the Limit techniques.	昔の話だが、うわさを聞いたことがある。リミット技には、究極の技が存在するという
 But, if that's true you wouldn't be able to get it in any normal way. That's about all I know about it.	だが、これはふつうの方法では使えるようにならない。俺の知っているのは、そこまでだ
 Received "Enemy Skill" Materia!	『てきのわざ』のマテリアを手にいれた！
-You cannot take on any more Materia.	これいじょうマテリアは持てません。
-Please discard some Materia.	なにかマテリアをすててください。
 Junon Path	ジュノン・通路
 What is it? The elevator's out of order for an inspection.	なんだい？いま、定期点検中なんでエレベーターは動かせないよ
 You know, right under us is a Submarine Dock and the Underwater Mako Reactor.	ちなみに……この下には潜水監ドッグと海底魔晄炉があるんだけどね
@@ -792,11 +705,9 @@ Our forces are in the process of gathering the Huge Materia from the Corel and t
 Once these two missions are completed, the Underwater Reactor will be our next target!	その２つのミッションが終われば次はここの地下の海底魔晄炉が大作戦の対象にな～る
 Till then, we do nothing but train, train, train!	それまでは、いっしょうけんめいくんれん、くんれん、くんれんだ！
 Lower Junon	エルジュノン
-Lower Junon	エルジュノン
 Oh! How's it going!? If you're looking for Junon dock, it's over there!	よう！　おつかれさん！ジュノンドックならあっちだぜ！
 This lift goes to the Shinra section.	このリフトは上の神羅カンパニー区画につながってんだが……
 Ever since that Black-caped murderer… But we can't use it because we're all on red alert.	例の黒マント男の殺人事件があったからな。いまは警戒中で自由には使えないんだ
-Lower Junon	エルジュノン
 Need a heli-taxi? Only in Junon!	ジュノン名物！！スキッフタクシーはいかが？
 Free to Air Force personnel!	空軍のサービス事業なんでお代はいらないよ！
 Sure	タクシーよぶ
@@ -824,32 +735,21 @@ SPECIAL!!	スペシャ～ル！！
 Right: Right Face!	右：ライトターン！
 Left: Left Face!	左：レフトターン！
 President's Mood Gauge	社長好感度
-Rufus	ルーファウス
 Very entertaining. Keep up the good work.	楽しませてもらった。今後もがんばってくれたまえ
-Rufus	ルーファウス
 Looks like you need more practice.	くんれんがたりんようだな
 With things looking this bad, you better get ready for cutbacks.	このせいせきでは、減給もありうると思ってくれたまえ
-Rufus	ルーファウス
 Well done.	上出来だ
 Keep up the good work for Shinra, Inc.	今後も我が神羅カンパニーのため全力をつくしてもらいたい
-Heidegger	ハイデッカー
 Gya haa ha!! Here's a special bonus for you!!	ガハハハハハ！！特別ボーナスだぞ、おまえら！！
 A token of the President's kindness! Don't forget it!	ルーファウス社長のご好意だ！きもに命じとけ！
 Received "Force Stealer"!	『フォースイーター』を手にいれた！
 Received "HP Plus" Materia!	『ＨＰアップ』のマテリアを手にいれた！
 Received "Silver Glasses"!	『銀縁メガネ』を手にいれた！
-Rufus	ルーファウス
 Once the word gets out that Sephiroth's here, CLOUD and his friends will show up, too.	セフィロスがここに来たというウワサがひろまればCLOUDたちもあらわれるはずだ
-Heidegger	ハイデッカー
 We'll crush them as soon as we find them!	みつけしだいヒネリつぶします！
-Rufus	ルーファウス
 We can't have them get in our way.	邪魔をされてはかなわんからな
-Heidegger	ハイデッカー
 Leave it up to me, sir! Gya haa ha!	おまかせ下さい！ガハハハハハハ！
-Rufus	ルーファウス
 I thought I told you to stop that stupid laugh.	やめろと言ったはずだが……
-Heidegger	ハイデッカー
-Gya…	ガハ……
 All right! Dismissed!	よーしっ！　解散！
 That was close.	あぶなかったな
 Heidegger's been really edgy lately.	ハイデッカーはイライラしてるからな
@@ -866,7 +766,6 @@ We'll cross the ocean, to the new continent.	俺たちは新たな大陸に向�
 Lately the economy seems to be improving. Must be the 'Rufus' effect.	最近、ルーファウス効果ってやつで景気がよくなってね
 Cargo ships are always coming and going from Costa del Sol.	運搬船はいつでもコスタ・デル・ソルに出航してるんだ
 I'll forget you're being stowaways, if you help with the cargo.	密航者もおおめに見てやるけどにもつ運びぐらいは手伝えよな
-Junon Dock	ジュノン港
 Everyday there's no ship coming in, I always come here to watch the sun go down.	船が港にない日にはいつもここで海に沈む太陽を見てるんだ
 The sun disappears like it's being swallowed up by the big horizon.	大きな海原につつまれるように消えていく太陽
 And somewhere out there is a big unknown continent with another port city.	その先に広がる未知の大陸。そして、そこにもまた港街さ

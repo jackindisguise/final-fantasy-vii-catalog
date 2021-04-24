@@ -1,6 +1,5 @@
 The hell are you? What're you doin' around here?	なんだお前は？こんなところで何をしている？
 Where's AERIS?	AERISはどこだ！
-…	…………
 AERIS? How did you know that name? You must be…	AERIS？その名を知っているとはお前まさか！？
 AERIS, you mean that kid. The receptionist? I was startin' to worry about her, too.	AERISってあのコだろ。受付の。じつはオレもあのコ気になってるんだよね
 And so another rival appears on the scene, eh?	ウーン、はやくもライバル出現……
@@ -34,11 +33,8 @@ It's a security system worthy of Shinra. After all, they control everything in M
 Oh, I have to go. Gotta get back to work!	あらやだ、長くなっちゃったわ。それじゃおたがい、お仕事がんばりましょうね♥
 Shinra, Inc.	神羅カンパニー
 Urban Dev. Research Library	都市開発部門資料室
-Shinra, Inc.	神羅カンパニー
 Space Dev. Research Library	宇宙開発部門資料室
-Shinra, Inc.	神羅カンパニー
 Peace Preservation/ Weapon Dev. Research Library	治安維持部門・兵器開発部門資料室
-Shinra, Inc.	神羅カンパニー
 Scientific Research Library	科学部門資料室
 Hart	ハット
 How do you do?	あ、これはどうも
@@ -53,7 +49,6 @@ Me! The Mayor! A librarian! Ohh…	ミッドガルの市長が！神羅の資料
 You want to get upstairs? I tell you what, if you can guess the password, I'll give you my keycard.	キミら、上へ行きたいんだろ？いいとも、私のカードキーをやろう。合言葉を言えたらな
 Yes, that's it. Guess the password and I'll give you my keycard!	そう、合言葉だ。それを言えたら、カードをやろう
 Get it on the first try and I'll even throw in a special item!	おまけに１回で当てたらナイスなおみやげもつけてやるぞ？
-Domino	ドミノ
 Got it? Then tell me.	合言葉がわかったのか？では言ってみたまえ
 So, what's the password?	合言葉は？
 BEST	市長最高！！
@@ -63,35 +58,24 @@ BOMB	市長爆発！！
 MAKO	魔晄爆発！！
 HOJO	神羅爆発！！
 Wait a second	ちょっと待ってくれ
-Domino	ドミノ
 Nope! You're ALL wrong! It's a much better word than that! Try again!	ぜんぜん違う！もっとすばらしい言葉だ！やり直し！
-Domino	ドミノ
 BEST!!	市　　長　　最　　高　　！！
 God, I love the sound of that! BEST!! I AM the best…ME!! No matter what anyone else says, you'd better believe it.	なんとすばらしいひびき！そのとおり！ミッドガルの市長は最高！誰が何と言おうと最高！
 …hmm. Well, OK. Here, take it.	……フン、まあいいだろう。ホラ、持っていけ
-Domino	ドミノ
 KING!!	神　　羅　　最　　低　　！！
 God, I love the sound of that! KING!! President Shinra sucks! I should be King of Midgar!	なんとすばらしいひびき！そのとおり！プレジデント神羅は最低！私こそミッドガルの主！
-…hmm. Well, OK. Here, take it.	……フン、まあいいだろう。ホラ、持っていけ
-Domino	ドミノ
 BOMB!!	市　　長　　爆　　発　　！！
 God, I love the sound of that! BOMB!! I'm so angry, I'm like a walking time bomb waiting to explode!	なんとすばらしいひびき！そのとおり！私の怒りは最高レベルに！もう爆発しそうだ！
-…hmm. Well, OK. Here, take it.	……フン、まあいいだろう。ホラ、持っていけ
-Domino	ドミノ
 MAKO!!	魔　　晄　　爆　　発　　！！
 God, I love the sound of that! MAKO! If I had a lot more of it, I would be a real Mayor!	なんとすばらしいひびき！そのとおり！魔晄エネルギーを爆発させろ！そして私を真の市長に！
-…hmm. Well, OK. Here, take it.	……フン、まあいいだろう。ホラ、持っていけ
 Received "Keycard 65"!	キーアイテム『カードキー６５』を手に入れた！
-Domino	ドミノ
 Why would I do something like this, you ask?	なんでこんなコトするか？
 Revenge, of course!	きまってるじゃないか。イヤガラセだよ。イヤガラセ
 Shinra's been torturing me forever.	いいか、神羅はずっと私を苦しめてきたんだぞ
 That's why I was a little rough on you all just now. Now go up there and really make them suffer.	だから私はここでキミたちをなやませ今度はキミたちが上へ行って神羅のやつらを困らせる
 This ought to teach them! Heh heh heh…	どうだ、これでおあいこだろ。ヒ、ヒヒ、ヒヒヒ……
-Domino	ドミノ
 But my card will only get you to the 65th floor.	言っておくが、私のカードでは６５階までしかのぼれんよ
 Can you believe how they treat me? …ME! Like some common employee…	神羅め、この私を……この私を一般社員とおなじあつかいに……
-Hart	ハット
 Did you speak with the Mayor?	市長の話はお聞きになりました？
 What? A password? Oh, I get it…	は？合言葉？ははあ、なるほど……
 He's got way too much time on his hands. But you can't really blame him, Everything in Midgar is controlled by President Shinra.	あの人もヒマなんですよ。なんせミッドガルの全権はほとんどプレジデント神羅のものですからね
@@ -100,7 +84,6 @@ What do you want to know?	なんでもお答えしますよ？
 The password…duh!	合言葉を教えて
 How about a hint?	ヒントをくれ
 Get out of my face	助けなどいらない
-Hart	ハット
 …I see. Then, I guess that's that.	ハア、そうですか。ではしかたありませんね
 Good luck finding it on your own.	がんばってご自分で見つけてください
 If you decide you want help. I'll just be right over here. Ready to tell you anytime…	どうしてもわからなかったらまたどうぞ。いつでもお教えしますよ……
@@ -108,7 +91,6 @@ What can I do for you?	ハイハイ。何がお望みで？
 Give me the hint again	さっきのヒントをもう１度
 Give me the next hint	次のヒントを
 Uh, nothing	なんでもない
-Hart	ハット
 Sure, sure. All right.	ええ、いいですとも。いいですとも
 As a public servant, it's my job to serve the needs of the people.	市民のみなさんにサービスすることこそわたくしたち役人のよろこび
 So here's a hint…	こころよくヒントを お教えしましょう！
@@ -116,29 +98,16 @@ So here's a hint…	こころよくヒントを お教えしましょう！
 Give him the money	金をだそう
 Forget it!	ふざけるな！
 …for 1000 gil.	……１０００ギルで
-Give him the money	金をだそう
-Forget it!	ふざけるな！
 …for 2000 gil.	……２０００ギルで
-Give him the money	金をだそう
-Forget it!	ふざけるな！
 …for 5000 gil.	……５０００ギルで
-Give him the money	金をだそう
-Forget it!	ふざけるな！
 …for 15000 gil.	……１５０００ギルで
-Give him the money	金をだそう
-Forget it!	ふざけるな！
-Hart	ハット
-What do you want to know?	なんでもお答えしますよ？
 HELP	助けてくれ
 Forget it	助けなどいらない
-Hart	ハット
 Hey now! You're a bit short.	おやおや。お金がたりないようですが？
 No one works on credit nowadays… not even stores in the slums.	今どきスラムの道具屋だってツケはききませんよ……
-Hart	ハット
 I can't believe it! I gave you all these hints, and you STILL don't get it?	しかし、これだけのヒントでもわからないとは……
 You guys are amazing! Really, amazing…	あなたがた、やっぱりスゴイ人だ。いろんなイミで
 Well, seeing as things have come to this, I might as well just tell you.	こうなったらもうズバリ合言葉をお教えします！
-Hart	ハット
 Oh, my…well, Thank you very much.	これはこれは…… ありがとうございます。
 Now listen. On this floor are four research libraries for four different sections of Shinra, Inc….	いいですか。このフロアには神羅カンパニーの４つの部門の資料室があります
 Parts of the password are hidden in each of the libraries.	合言葉はその４つの資料室にかくされています
@@ -149,30 +118,19 @@ Look carefully at the numbers on each file.	その資料の数字とファイル
 There is a number at the beginning of each file name.	いいですか。すべての資料には数字がついています
 Look at the number on the files that don't belong in that library. Match the number with the letters in the title of the file.	各部屋にまぎれこんでいる資料の名前を、その数字と見くらべてください
 If the file starts with a 4, then check the fourth letter and… well, you get the idea.	『４』と書いてある資料なら名前の４文字目を……もう、おわかりでしょ？
-Hart	ハット
 What do you mean the next hint? I've practically told you, didn't I?	次のヒントって……もう、ズバリ答えを言っちゃったじゃないですか！
 …all right. Since this seems like a special case, I'll give you MY key card!	……わかりました。特別にわたくしのカードキーをさしあげましょう！
-Hart	ハット
 If you run into President Shinra, please don't tell him about this.	もしプレジデント神羅に会っても、わたくしのことは言わないでくださいよ
 I can't be a partner to anymore trouble for Shinra.	これ以上神羅にイジメられるのはゴメンですからね……
-Domino	ドミノ
 I never thought you'd get it on the first try…	なんと、１回でズバリあてるとは……
 Just goes to show you can't judge a book by its cover. Oh well, a promise is a promise. Take this, too.	ひとは見かけによらないものだ。まあいい、約束は約束だ。これもやろう
 Received "Elemental" Materia!	『ぞくせい』のマテリアを手にいれた！
-You cannot take on any more Materia.	これいじょうマテリアは持てません。
-Please discard some Materia.	なにかマテリアをすててください。
-Domino	ドミノ
 What…full already? Come back again when it's empty.	……なんだ、アレはいっぱいか。アレに空きができたら、またきたまえ
-Received "Elixir"!	『エリクサー』を手にいれた！
-Received "Ether"!	『エーテル』を手にいれた！
 Received "Potion"!	『ポーション』を手にいれた！-
-Domino	ドミノ
 Hmm. It appears you're not completely stupid.	フン、そこそこ頭ははたらくようだ
 Fine then, take this.	いいだろう、これをうけとりたまえ
-Domino	ドミノ
 I see… For you…this might be best.	なるほど……ま、キミらならこんなものかな
 Then, this is for all of you.	それでは、キミたちにあげるのもこんなものだ
-Domino	ドミノ
 Hoo boy! You finally got it?	やれやれ、やっとあてたか……
 You all really don't use your heads much, do you?	やはり頭を使うのは苦手かね？
 ……What the hey. Here, just take it anyway.	……まあいい。とっておきたまえ
@@ -268,15 +226,12 @@ Naw	やめておく
 …bing…bing… Start again from the beginning?	ピピッ……もう一度ハジメからやりなおしまスか？
 The information and materials you received on this floor will all be cleared.	ただしこのフロアで手にいれタ記録、資料などもすべてクリアされまス
 Clear them?	クリアしまスか？
-Yeah…	ああ……
-No	やめておく
 ……… Cleared.	………………クリア完了
 You are permitted to open any door on this floor up to three times.	アナタは、このフロアのドアを３回まで開けルことが許可されましタ
 Bi, bing… You have opened three doors.	ピピッ……アナタはすでに３回ドアをあけていまス
 If you access the computer, You can begin this process one more time.	コンピュータにアクセスすればもう１度ハジメからやりなおすことができまス
 Received "Star Pendant"!	『星のペンダント』を手にいれた！
 Received "Hourglass"!	『きんのすなどけい』を手にいれた！
-Received "All" Materia!	『ぜんたいか』のマテリアを手にいれた！
 Received "Four Slot"!	『フォウスロット』を手にいれた！
 Received "Glow Lance"!	『グローランス』を手にいれた！
 An air-duct… It doesn't look like I can climb in here.	通気ダクトか……こちらからはもぐりこめそうにないな
@@ -299,8 +254,6 @@ A nap room…	仮眠室か……
 Let's get some rest	休んでいこう
 Let's move on	先を急ごう
 …zzz… Please…let me… get some…rest…	グーゴー……たのむ……からゆっくりねかせてくれ……
-Received "Phoenix Down"!	『フェニックスの尾』を手にいれた！
-Received "Ether"!	『エーテル』を手にいれた！
 Received "HP Shout"!	『マーベラスチアー』を手にいれた！
 What is this…a Megaphone?	何だこれ……メガホン？
 Hanging on to this won't do any good…	こんなもの持っていってもしょうがないな
@@ -314,7 +267,6 @@ Only 250 gil!!	２５０ギルにて発売中！！
 Try it out	買ってみるか
 Don't try it	やめておこう
 …Nothing…	……何もでてこないな
-…	…………
 …Is it broken?'	……こわれているのか？
 BANG on it	ガンガンたたく
 Give up	あきらめよう
@@ -332,7 +284,6 @@ Locked…	カギがかかっている……
 A model of Midgar…a city born from the earth's Mako.	ミッドガル……魔晄エネルギーを吸い出し生きつづける都市の模型か……
 Some parts are missing…	模型が価けている……
 Insert the Midgar parts	ミッドガルパーツをはめよう
-Leave it alone	ほうっておこう
 …Sounds like something opened up…	……なにかが開いたような音がしたな……
 Received Key Item "Keycard 66"!	キーアイテム『カードキー６６』を手にいれた！
 Midgar…a city born from the earth's Mako. A model of the city…	ミッドガル……魔晄エネルギーを吸い出し生きつづける都市の模型か……
@@ -347,47 +298,30 @@ Come on, we're building the future of Mako!	さあ、私たちで魔晄の未来
 Geez--! That's a lotta suits!	ヒュ～！ そうそうたる顔ぶれだぜ
 We have the damage estimates for Sector 7.	７番街の被害報告が出ました　
 Considering those factories we already set up and all the investments, the damage is estimated at approximately 10 Billion gil…	すでに稼動していた工場部分と現在までの投資額を考えると我が社の損害は100億ギルはくだらないかと……
-Reeve	リーブ
 The estimated cost to rebuild Sector 7 is…	また７番プレートの再建にかかる費用は……
-President Shinra	プレジデント神羅
 We're not rebuilding.	再建はしない”
-Reeve	リーブ
 What?	は？
-President Shinra	プレジデント神羅
 We're leaving Sector 7 as it is.	７番プレートはこのまま放っておく
 And restarting the Neo-Midgar plan.	そのかわりに ネオ・ミッドガル計画を再開する
-Reeve	リーブ
 …then the Ancients?	……では、古代種が？
-President Shinra	プレジデント神羅
 The Promised Land will soon be ours.	約束の地はまもなく我々のものになるだろう
-President Shinra	プレジデント神羅
 I want you to raise the Mako rates 15% in every area.	それから各地の魔晄料金を15％値上げしたまえ
 Palmer	パルマー
 Rate hike! Rate hike! Tra, la, la! And please include our Space Program in the budget!	値上げ値上げ！うひょひょひょひょ！ ぜひ我が宇宙開発部にも予算を！
-President Shinra	プレジデント神羅
 Reeve and Scarlet will divide the extra income from the rate increase.	魔晄料金値上げによる差益はリーブくんとスカーレットくんで分配したまえ
-Palmer	パルマー
 Oh man!	いいないいな！
-Reeve	リーブ
 Sir. If you raise the rates, the people will lose confidence…	プレジデント。これ以上の魔晄料金の値上げは住民の不満をまねき……
-President Shinra	プレジデント神羅
 It'll be all right.	だいじょうぶだ
 The ignorant citizens won't lose confidence, they'll trust Shinra, Inc. even more.	おろかな住民たちは不満をどころかますます神羅カンパニーに信頼をよせることになる
-Heidegger	ハイデッカー
 Ha ha ha!	ガハハハハ！
 After all, we're the ones who saved Sector 7 from AVALANCHE!	テロリストどもから７番街の市民を救ったのは神羅カンパニーですからな！
 That dirty #$*$^	汚ねえ……
-President Shinra	プレジデント神羅
 Hojo. How's the girl?	おお、宝条くん。あの娘はどうかね
 Hojo	宝条
 As a specimen, she is inferior to her mother. I'm still in the process of comparing her to her mother, Ifalna, but for now the difference is 18 %.	サンプルとしては母親におとる。母親イファルナとの比較中だが初期段階で相違が18％
-President Shinra	プレジデント神羅
 How long will the research take?	その検査にはどれくらいかかる？
-Hojo	宝条
 Probably 120 years. It's probably impossible to finish in our lifetime. Or in the lifetime of the specimen too, for that matter.	ざっと、120年。我々が生きてるあいだは無理だろう。もちろんあのサンプルもな
-Hojo	宝条
 That's why we're thinking of breeding her. Then we could create one that could withstand our research for a long time.	だから古代種を繁殖させようと思うのだ。しかも、長命で実験に耐えうる強さを持たせることができる
-President Shinra	プレジデント神羅
 What about the Promised Land? Won't it hinder our plans?	約束はどうなる？ 計画に支障はでないのか？
 That's what I need to plan. The mother is strong… and yet has her weaknesses.	……そのつもりだ。母は強く……そして弱みを持つ
 They were talking about AERIS…right?	いまのはAERISの話……だよな
@@ -406,9 +340,7 @@ I remember him.	思い出したぜ
 That Hojo guy. He's in charge of the Shinra's Science Department. CLOUD, don't you know him?	あの宝条ってやつ。神羅の科学部門の責任者だ。CLOUD、知らねえのか？
 This is the first time I've actually ever seen him. So…that's what he looks like…	じっさい見るのは初めてだ。そうか……あいつが……
 Is this today's specimen?	今日の実験サンプルはそいつですか？
-Hojo	宝条
 Yes. We're starting right away. Raise it to the upper level.	そうだ。すぐ実験にとりかかる。上の階をあげてくれ
-Hojo	宝条
 My precious specimen…	かわいいサンプルよ……
 Precious specimen…?	かわいいサンプルよ…か
 Is it going to be used for a biological experiment?	生物実験に使われるのかな？
@@ -421,37 +353,25 @@ It's moving……still alive?	動いてる……生きてる？
 Where's its $#&*&@ head? This whole thing's stupid. Let's keep goin'.	何だい、この首なしは？ けっ、バカバカしい。さっさと行こうぜ
 Let's see… The specimen Hojo asked me for is…	さて……と 宝条さんに頼まれた サンプルわ……と
 That elevator back there is only to transport Specimens. You can't use it. It would be a lot easier if it led to the 68 Floor Research Lab.	奥のサンプル運搬用エレベーターは使用禁止だよ。６８階の研究室に直結しているから便利なんだけどね
-Hojo	宝条
 AERIS? Oh, is that her name? What do you want?	AERIS？ ああ、この娘の名前だったな。何か用か？
 We're taking AERIS back.	AERISを返してもらおう
-Hojo	宝条
 Outsiders……	…………部外者だな
 Shoulda noticed it earlier, you…	最初に気づけよ
-Hojo	宝条
 There's so many frivolous things in this world.	世の中にはどうでもいいことが多いのでな
-Hojo	宝条
 Are you going to kill me? I don't think you should.	私を殺そうというのか？ それはやめた方がいいな
 The equipment here is extremely delicate. Without me, who could operate it? Hmm?	ここの装置はデリケートだ。私がいなくなったら操作できまい？　ん？
 Ugh.	くっ
-Hojo	宝条
 That's right. I recommend you think things out logically before you make any rash moves.	そうそう。こういう時こそ論理的思考によって 行動することをおすすめするよ
-Hojo	宝条
 Now, bring in the Specimen!	さあ、サンプルを投入しろ！
 What do you think you're doin'?	何をする気だ！
-Hojo	宝条
 Lending a helping hand to an endangered species… Both of them are on the brink of extinction…	滅びゆく種族に愛の手を…… どちらも絶滅まぢかだ
-Hojo	宝条
 If I don't help, all these animals will disappear.	私が手を貸さないと この種の生物は滅んでしまうからな
 …animal? That's terrible! AERIS is a human being!	……生物？　ひどいわ！ AERISは人間なのよ！
 You're gonna pay!	許せねえ！
-CLOUD, help!	CLOUD、助けて！
 BARRET! Can't you do anything?	BARRET！ 何とかならないのか？
 Awright!! Step back!	ええい！！ さがってろ！
-Hojo	宝条
 Stop!!	やめろ！！
-Hojo	宝条
 Wh…what are you do-- Oh! My precious specimens…	な、なんていうことだ。大事なサンプルが……
-Hojo	宝条
 This is no ordinary specimen. This is a very ferocious specimen!	今度はこんなハンパな奴ではないぞ。もっと凶暴なサンプルだ！
 Now's our chance to get AERIS!	今のうちにAERISを！
 Thanks, CLOUD.	ありがと、CLOUD
@@ -490,56 +410,32 @@ H, hey! What is it?	お、おい！　何だ？
 Rude	ルード
 Would you press 'Up' please?	上を押してもらおうか？
 Turks! Must be a trap…	タークス？ワナ……か
-Tseng	ツォン
 This must've been a real thrill for you… Did you enjoy it?	スリリングな気分をあじわえたと思うが……楽しんでもらえたかな？
 Ggh…	くっ……
 They got you, too?	みんなもつかまったのか………………？
 Where is AERIS!?	AERISはどこだ！
-President Shinra	プレジデント神羅
 In a safe place.	安全な場所にいる
-President Shinra	プレジデント神羅
 She's the last surviving Ancient…	あれは貴重な古代種の生き残りだからな
-President Shinra	プレジデント神羅
 Don't you know? They called themselves the Cetra, and lived thousands of years ago. Now they are just a forgotten page in history.	知らんのか？自らをセトラと呼び、数千年の昔に生き今は歴史の中に埋もれてしまった種族
 Cetra…that girl is a survivor of the Cetra?	セトラ……あの娘がセトラの生き残り？
-President Shinra	プレジデント神羅
 Cetra, or the Ancients, will show us the way to the 'Promised Land'. I'm expecting a lot out of her.	セトラ、すなわち古代種は我らに『約束の地』を教えてくれる。彼女には期待しているのだ
 The Promised Land? Isn't that just a legend?	約束の地？それは言い伝えではないか？
-President Shinra	プレジデント神羅
 Even so, it's far too appealing not to pursue.	だからといって放っておくにはあまりにも魅力的だ
 It's been said the Promised Land is very fertile.	約束の地は途方もなく豊かな土地と言われているからな
 …If the land is fertile…	……土地が豊かだということは
 then there's gotta be Mako!	魔晄エネルギーだな！
-President Shinra	プレジデント神羅
 Exactly. That is why our money making Mako Reactor is necessary.	そのとおり。そこでは金喰い虫の魔晄炉など必要ないのだ
 The abundant Mako will flow out on its own.	豊富な魔晄エネルギーが勝手に吹き出してくる
-President Shinra	プレジデント神羅
 That is where Neo-Midgar will be built. Shinra's new glory…	そこに建設されるネオ・ミッドガル。我が神羅カンパニーのさらなる栄光……
 @$#*^%! Quit dreamin'!	ケッ！夢みてんじゃねえよ！
-President Shinra	プレジデント神羅
 Oh really, don't you know? These days all it takes for your dreams to come true is money and power.	おやおや、知らないのか？最近では金と力さえあれば夢はかなうのだ
-President Shinra	プレジデント神羅
 Well, that is all for our meeting.	さて、会見はこれで終わりだ
 Hold it! I got a lot to say to you!	待ちやがれ！テメエには言いたいことが山ほどあるんだ！
-President Shinra	プレジデント神羅
 If there's anything else… talk to my secretary.	何かあるなら……秘書をとおしてくれたまえ
-Rude	ルード
 Come on! Outta his way!	さあ！　さがれ！
 I wonder how BARRET is doing	BARRETはどうしてるかな
 I wonder how RED XIII is doing	RED XIIIはどうしてるかな
 I wonder how AERIS is doing	AERISはどうしてるかな
-I wonder how RED XIII is doing	RED XIIIはどうしてるかな
-I wonder how AERIS is doing	AERISはどうしてるかな
-I wonder how BARRET is doing	BARRETはどうしてるかな
-I wonder how AERIS is doing	AERISはどうしてるかな
-I wonder how AERIS is doing	AERISはどうしてるかな
-I wonder how BARRET is doing	BARRETはどうしてるかな
-I wonder how RED XIII is doing	RED XIIIはどうしてるかな
-Let's just get some sleep	とりあえず眠っておこう
-I wonder how RED XIII is doing	RED XIIIはどうしてるかな
-Let's just get some sleep	とりあえず眠っておこう
-I wonder how BARRET is doing	BARRETはどうしてるかな
-Let's just get some sleep	とりあえず眠っておこう
 Let's just get some sleep	とりあえず眠っておこう
 Psst (Can we get out?)	ヒソヒソ（逃げられるかな？）
 Psst (CLOUD, you're so brave!)	ヒソヒソ（CLOUD、たのもしい！）
@@ -572,7 +468,6 @@ EXCUSE me.	すいませんねえ
 You know, AERIS. I have a question.	あのね、AERIS。質問があるんだけど
 What?	な～に？
 Does the Promised Land really exist?	約束の地って本当にあるの？
-…I don't know.	……わからない
 All I know is…	わたし、知ってるのは……
 The Cetra were born from the Planet, speak with the Planet, and unlock the Planet.	『セトラの民、星より生まれ 星と語り、星を開く』
 And……then…	えっと……それから……
@@ -590,7 +485,6 @@ I thought I would stop hearing her voice as I grew up, but…	大人になった
 What's happened?	どうしたんだ？
 The door's open… When did it open?	ドアが開いている…… いつの間に？
 TIFA… Wake up!	TIFA……起きろ！
-What's wrong?	どうしたの？
 Something's wrong. Look outside.	ようすがおかしい。外を見てみろ
 This's kinda eerie…	一体何があったのかしら……
 I wonder what happened…	なんだか恐いわ……
@@ -613,18 +507,13 @@ Sephiroth's!!	セフィロスのものだ！！
 …Looks like it. Only Sephiroth can use that sword.	……そうみたいだな。この刀を使えるのはセフィロスしかいないはずだ
 Who cares who did it!? This is the end of the Shinra!	誰がやったっていいじゃねえか！これで神羅も終わりだぜ！
 Uh!	うひょ！
-Palmer	パルマー
 P, p, p, please, don't kill me!	こここここころさないでくれ！
 What happened?	何があったんだ？
-Palmer	パルマー
 Se…Sephiroth. Sephiroth came.	セ、セフィロス。セフィロスが来た
 Did you see him? Did you see Sephiroth?	見たのか？　セフィロスを見たのか？
-Palmer	パルマー
 Yeah, I saw him! With my own eyes!	ああ、見た！　この目で見た！
 You really saw him?	本当に見たんだな？
-Palmer	パルマー
 Uh! Would I lie at a time like this!? I heard his voice, too!	うひょっ！こんな時にウソなんか言わない！それに声も聞いたんだ、うひょっ！
-Palmer	パルマー
 Um, he said something about not letting us have the Promised Land.	えっと『約束の地は渡さない』ってブツブツ言ってた
 Then does that mean	それじゃあ、なに？
 the Promised Land really does exist and that Sephiroth's here to save it from Shinra?	約束の地っていうのは本当にあってセフィロスは約束の地を神羅から守るためにこんなことを？
@@ -640,31 +529,22 @@ I wonder what sort of person he is?	どんな人なのかしら……
 I've heard that no one's ever seen him bleed or cry.	血も涙もない、そう聞いたこと、あるけど
 Rufus	ルーファウス
 So… So Sephiroth was actually here. …By the way,	そうか……やはりセフィロスは生きていたか。……ところで
-Rufus	ルーファウス
 just who are you?	おまえたちはなんだ？
 I'm CLOUD, ex-SOLDIER, First Class!	元ソルジャー・クラス１ＳＴ。CLOUDだ！
 I'm from AVALANCHE!	アバランチだ！
 Me too!	同じく！
 A flower girl from the slums.	……スラムの花売り
 A Research Specimen.	……実験サンプル
-Rufus	ルーファウス
 What a crew.	おかしな組み合わせだ
-Rufus	ルーファウス
 Well, I'm Rufus. The President of Shinra, Inc.	さて、私はルーファウス。この神羅カンパニーの社長だ
 You're only President 'cause yer old man died!	オヤジが死んだらさっそく社長か！
-Rufus	ルーファウス
 Correct. I'll let you hear my inauguration speech.	そうだ、社長就任のあいさつでも聞かせてやろうか
-Rufus	ルーファウス
 …Father tried to control the world with money and that worked for him.	……オヤジは金の力で世界を支配しようとした。なるほどうまくいっていたようだ
-Rufus	ルーファウス
 The people believed that Shinra would protect them.	民衆は神羅に保護されていると思っているからな
-Rufus	ルーファウス
 Work at Shinra, get your pay. If terrorists attack, the Shinra army will help you.	神羅で働き、給料をもらいテロリストがあらわれれば神羅の軍隊が助けてくれる
 It looked perfect on the outside.	一見完璧だ
-Rufus	ルーファウス
 But, I do things differently.	だが私のやりかたはちがう
 I'll control the world with fear. It's too much to do it like my old man.	私は世界を恐怖で支配する。オヤジのやりかたでは金がかかりすぎるからな
-Rufus	ルーファウス
 A little fear will control the minds of the common people. There's no reason to waste good money on them.	恐怖はほんの少しで人の心を支配する。おろかな民衆のために金を使う必要はない
 He likes to make speeches just like his father.	私はオヤジとはちがうのだ
 Get AERIS outta the building!	演説好きなところはそっくりね
@@ -717,7 +597,6 @@ If you are through talking, may I suggest that we think of a way to get out of h
 Huh? Oh, oh yeah… You're cold, man. Just like someone else 'round here I know.	ん？あ、ああ……チェッ、いやに冷静なやつだな。どこかの誰かさんみたいだぜ
 Did you say something?	なにか？
 Notta thing. So what're we gonna do?	いや、なんでもねえよ。さて、どうするか……
-BARRET!!	BARRET！！
 TIFA! Where's CLOUD?	TIFA！CLOUDは！？
 Everyone! Over here!	みんな、こっち！
 Huh? What's up? Where's CLOUD?	ええ！？どうしたんだよ？CLOUDは？
@@ -730,7 +609,6 @@ Nope. Have to find another way up, I guess…	反応がない……他のルー�
 [Shinra S-510]	『　神羅　　Ｓー５１０式　』
 [Shinra SA-37]	『　神羅　　ＳＡー３７式　』
 Turtle's Paradise Newsletter No. 2 The end of another hard day. Wouldn't you like to sit back with a tall cool one? You can at the Turtle's Paradise!! Stop in today! There's nothing like a smooth one after work!	【かめ道楽　通信】ナンバー２きびしい仕事でおつかれのアナタ……ぜひいちど居酒屋『かめ道楽』へ！！仕事の後の一杯は最高ですよ！
-Shinra, Inc.	神羅カンパニー
 Our slogan is: Shinra's Future Is The World's Future!! Mako Energy For A Brighter World!!	今週の標語神羅の未来は世界の未来！！魔晄の光で明るい世の中！！
 Until instructed, please don't open the disc holder.	指示があるまで、ディスクホルダーを開けないで下さい
 Control the bike with the [Directional buttons] and save your friends in the truck from the Shinra pursuit troops.	バイクを【方向キー】で操作して神羅の追撃隊から仲間の乗るトラックを守って下さい

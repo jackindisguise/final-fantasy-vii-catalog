@@ -8,6 +8,15 @@ const processed = "../scene/processed/";
 // read all formatted texts and process them
 let originalLines = 0;
 let newLines = 0;
+
+// safe array handling
+Array.prototype.contains = function(item){
+	return this.indexOf(item) !== -1;
+}
+
+// all lines get stored here to remove duplicates
+let allLines = [];
+
 console.log("Processing all scene files.");
 console.log("");
 console.log("File\t\t\t\t  Original Line Count\t  New Line Count\t  Text %");
@@ -23,7 +32,12 @@ fs.readdir(formatted, function(err, files){
 		originalLines += original.length;
 		let result = process(data);
 		let lines = [];
-		for(let entry of result) lines.push(`${entry.source}\t${entry.target}`);
+		for(let entry of result) {
+			let line = `${entry.source}\t${entry.target}`;
+			if(allLines.contains(line)) continue; // don't add duplicates
+			allLines.push(line);
+			lines.push(line);
+		}
 		newLines += lines.length;
 		fs.writeFileSync(target, lines.join("\r\n"), "utf8");
 		let width = 31;

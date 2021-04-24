@@ -6,16 +6,9 @@ This Sephiroth guy's pretty strong, I'd say.	とんでもねえ強さだな。�
 It's a power that we should respect…	恐るべき力……だな
 Geeeeez, Louise!	ウヒャ～！
 Mythril Mine	ミスリルマイン
-Received "Hi-Potion"!	『ハイポーション』を手にいれた！
 Received "Tent"!	『テント』を手にいれた！
 Received "Long Range" Materia!	『えんきょりこうげき』のマテリアを手にいれた！
-Received "Ether"!	『エーテル』を手にいれた！
-Cannot take on anymore Materia.	これいじょうマテリアは持てません。
-Please discard some Materia.	なにかマテリアをすててください。
-Received "Mind Source"!	『マインドアップ』を手にいれた！
-Received "Elixir"!	『エリクサー』を手にいれた！
 Hey CLOUD. If we keep going, we'll never get to Kalm.	おいおい、CLOUDさんよぉ。このまま行くと、カームの町とは似ても似つかぬ場所に着く事になるぜ
-CLOUD!	CLOUD！
 If we continue this way, we'll get farther and farther away from Kalm.	このまま進むと、カームの町からどんどんはなれるだけ、よ
 Hey, CLOUD. Wasn't Kalm right before this cavern?	ねぇ、CLOUD。カームの町は、この洞窟の手前にあるんじゃなかったかしら？
 …We won't get to Kalm if we go through these caverns.	……この洞窟を通り抜けてもカームの町には着かないぞ
@@ -23,63 +16,36 @@ Yo, wassup? Can't SOLDIER-man even lead the way?	おいおい、しっかりし�
 CLOUD! Are you lost!?	もう、CLOUD！道に迷っちゃったの！？
 Kalm should be closer to Midgar.	カームの町は、もっとミッドガル寄りの位置にあるはずよ
 If we're planning to meet at Kalm, we should go back and look again.	カームの町でおちあうつもりならもどって探し直すべきだな
-Rude	ルード
-Just a second!	ちょっと待った！
-Rude	ルード
 …	………………
-Rude	ルード
 Do you know who I am?	おれが、だれだかわかるか？
 The Turks, right?	タークスだろ？
-Not interested	興味ないね
-Rude	ルード
 …I'm from the Turks. And don't you forget it.	…………タークスだ。覚えておいてくれ
-Rude	ルード
 Well if you know, then this won't take long.	知っているのなら話は早い……
-Rude	ルード
 It's difficult to explain what the Turks do…	おれたちタークスの仕事を説明するのは難しい……
 Kidnapping, right?	人さらいだろ？
-Rude	ルード
 To put it negatively… you could say that.	悪意に満ちた言い方をするとそうなる……
-Rude	ルード
 …But, that's not all there is to it anymore.	……しかしいまはそれだけではない
 Elena	イリーナ
 It's all right, Rude! I know you don't like speeches, so don't force it!	ルード先輩！しゃべるの苦手なんだからムリしないで下さい
-Rude	ルード
 Then explain, Elena.	……イリーナ、たのむ
-Elena	イリーナ
 I'm the newest member of the Turks, Elena. Thanks to what you did to Reno, we're short-handed.	私、タークスの新人のイリーナ。レノがあんたたちにやられてタークスは人手不足
-Elena	イリーナ
 …But, because of that, I got promoted to the Turks…	……おかげで私、タークスになれたんだけどね……
-Elena	イリーナ
 Anyhow, our job is to find out where Sephiroth is headed.	ま、それはともかく私たちの任務はセフィロスの行方をつきとめること
 And to try and stop you every step of the way.	それからあんたたちの邪魔をすること
-Elena	イリーナ
 Wait a minute, it's the other way around… You're the ones that are getting in our way.	あ、逆だったか。私たちの邪魔してるのはあんたたちだもんね
-Tseng	ツォン
 …Elena. You talk too much.	……イリーナ。しゃべりすぎだぞ
-Elena	イリーナ
 Sorry…Tseng.	すいません……ツォンさん
-Tseng	ツォン
 I thought I gave your orders.	お前たちには、別の任務を与えてあったはずだ
 Now go. Don't forget to file your report.	行け。定時連絡を価かすなよ
-Rude	ルード
 …Reno said he wanted to see you after the injuries you gave him healed.	……レノが言ってた。きみたちに負わされたケガが治ったらあいさつしたいと
 He wants to show his affection for you all… with a new weapon.	親愛なるきみたちに新しい武器を見せたいそうだ
-Tseng	ツォン
 Well, then…	さて……
-Tseng	ツォン
 Where's AERIS? Isn't she with you?	……AERISは？一練ではないのか？
-Tseng	ツォン
 Oh… Then give her my regards.	そうか……よろしく伝えておいてくれ
-Tseng	ツォン
 AERIS… Long time no see.	AERIS……久しぶりだな
-Tseng	ツォン
 Looks like you're safe from the Shinra for a while, now that Sephiroth reappeared.	しばらくの間、君は神羅からは自由の身だ。セフィロスが現れたからな
 What are you saying? That I should be grateful to Sephiroth?	……なに、言いたいの？セフィロスに感謝しろって？
-Tseng	ツォン
-No…	いや……
 I won't be seeing much of you, so take care.	あまり会えなくなるが元気でな
-Tseng	ツォン
 Well then, stay out of Shinra's way.	では、諸君。できれば神羅の邪魔はしないでもらいたいものだな
 AERIS isn't with us. She's with the others.	AERISはここにはいない。別行動をとっている
 Wh, who are you!?	き、キサマは！？
@@ -87,22 +53,15 @@ By any chance, are you…?	あなた、もしかして？
 Who are you?	あなたは？
 … I hoped I'd never see you again…	……見たくもない顔に会ったな
 Sir!	先輩！
-Elena	イリーナ
 Mr. Tseng!?	ツォンさん！？
-Tseng	ツォン
 No need to tell them about our orders.	我々の任務を、彼らに教えてやる必要はない
 Rude/Elena	ルード＆イリーナ
 Yes sir!	はっ！
 …Strange, hearing that from you.	……あなたに、そんなこと言われるなんて、不思議
-Elena	イリーナ
 Oh! Right!	あっ！　そうでした！
-Tseng	ツォン
 …Elena. You don't seem to understand.	……イリーナ。私の言葉の意味がわからなかったようだな
-Elena	イリーナ
 Oh!> I'm, I'm sorry…	あっ！す、すいません……
-Tseng	ツォン
 …Go. Don't let Sephiroth get away.	……行け。セフィロスを逃がすなよ
-Elena	イリーナ
 Very well, Rude and I will go after Sephiroth, who's heading for Junon Harbor!	それでは、私とルード先輩は【ジュノンの港】へ向かったセフィロスを追いかけます！
 Base of Fort Condor	コンドルフォートふもと
 We've been fighting the Shinra on this battlefield for a long time.	ここは長い長いあいだ神羅軍と闘ってきた戦場
@@ -111,10 +70,8 @@ Could you spare some time, and help us fight them?	もしあんたらの旅に�
 We don't want to sound pushy, so if you're busy with something, why don't you finish that first?	でも無理にとはいわん。急ぎの用があるのならそちらをすましてからのほうがよいだろう
 Where is Junon?	ジュノンの街はどこにある？
 We'll help you	協力してもいいが
-We don't want to sound pushy, so if you're busy with something, why don't you finish that first?	でも無理にとはいわん。急ぎの用があるのならそちらをすましてからのほうがよいだろう
 Like to help but…	残念だが
 I guess we'll help	協力してもいいが
-We don't want to sound pushy, so if you're busy with something, why don't you finish that first?	でも無理にとはいわん。急ぎの用があるのならそちらをすましてからのほうがよいだろう
 I'm sorry…really	残念だけど
 All right, we'll help	協力してもいいけど
 Let's see…head north along the coast, keep going a ways and you'll run into Junon.	そうか…　ジュノンの街はここを海ぞいに北へ、ずっと行ったところだ。
@@ -155,7 +112,6 @@ Yeah.	そうだな
 They've had their fun, but it's over as of now! There isn't gonna be any more suffering.	これ以上、やつらの思い通りにはさせない。もう、悲しみは増やさない
 CLOUD… What should I do?	CLOUD、私……どうしたらいいの？
 TIFA…	TIFA……
-…	……
 CLOUD I wonder what's going to happen?	CLOUDかどうなっちゃうんだろ
 Y'know, worryin' only tires you out. Why don't you take it easy?	気にしすぎたらしんどいだけやで。もうちょい楽にしいや
 You've got no choice but to take it for now.	今は耐えるほかはないな
@@ -182,12 +138,10 @@ What do you mean, a battlefield'?	どういうこと？戦場って
 The Shinra…	神羅か……
 Shinra again.	また、神羅だよ
 The Shinra? Here too?	ここも、神羅かよ
-…	……
 What do you mean by that?	どういうことだ？
 A battlefield? We can't overlook that.	戦場たあ、聞きずてならねえな
 It appears you have a problem with Shinra, too. After all, you climbed up here.	あなたがたも、神羅とは何かあるらしいな。せっかく、ここまで登ってきたんだ。
 Why not listen to what I have to say for a moment?	ちょっとだけ話を聞いていかないか？
-…	……
 I guess so	いいだろう
 Not interested	やめておこう
 Oh, by all means.	ええ、ぜひ
@@ -243,9 +197,7 @@ Unfortunately, we don't have the ability to fight Shinra ourselves.	残念なが
 That's why we have hired soldiers to help us.	兵を雇って、いっしょに戦ってもらっている
 As our sponsor, you can help us with a contribution or by fighting alongside of us…	スポンサーとして、ギルの援助でもいいいっしょに戦ってくれるのでもいい…
 What do you think? You want to join us in our fight?	どうだろういっしょに戦ってもらえないか？
-…	……
 What's there to think about? We gotta do it!	なにを迷う！オレたちがやるんだよ！
-CLOUD…	CLOUD……
 CLOUD, why are you still worrying about it?	CLOUD何、迷ってるの？
 You decide what we're going to do.	どうするかは君が決めたまえ
 What are we going to do?	どうするの？
@@ -253,9 +205,7 @@ If things go right, we might even be able to pray to that special Materia.	う�
 I'll leave it up to you so please do as you see fit.	まかしますから好いたようにどうぞ
 It's difficult to get back what you've lost…	失ってしまったものを取りもどすのは難しい……
 Don't be so wishy-washy. Hurry and make up your mind.	グジャグジャ言ってねぇでさっさと決めちまえよ
-…	……
 All right	わかった
-Not interested	興味ないな
 What's wrong with you? And you call yourself a human!?	なに考えてんだ、おまえはそれでも人間か！
 Well…	そう……
 What a jerk. I'm disappointed in you.	なーんだ。ガッカリ
@@ -276,7 +226,6 @@ Well then, let's do our best.	ほんな、がんばりましょ
 That's the right decision.	いい決断だ
 I see… Come back if you should change your mind.	そうか……気が変わったら来てくれ
 Have you by chance changed your mind?	気が変わったかな？
-…	……
 Well, let's do it	ああ、やってみよう
 My position hasn't changed	変わらないな
 Whew, we'll be saved.	ふぅ、助かるよ
@@ -322,12 +271,10 @@ So, shall I let you in on our strategy?	一発勝負になってしまったが�
 The enemy has targeted our mountain reactor and will be climbing to reach it.	じゃあさっそく戦術の説明をしようか
 We must set a trap and hire soldiers to protect the place.	敵は、この山の魔晄炉を目指して登ってくる。それにたいして、ワナを置き兵を雇って守るのだ
 Well, this is all we have… this village doesn't have any money. Even if we wanted to fight, we can't because we're broke.	まあ、これだけなのだが……この村は、お金がない。戦おうにも、お金がなくて何もできない
-We need 400 gil to hire one soldier. So, if we hire 20 soldiers, we need 8000 gil.	なにせ、兵を雇うと４００ギルも必要になる。２０部隊雇うと、８０００ギルにもなってしまう
 We need to ask you to use your own money to hire these soldiers, buy the equipment, set it up and give the commands.	つまり、君たちにおねがいするのは時間があるのであれば君たちのお金で兵を雇い、ワナを買って配置し、指示してもらいたい
 If you don't have time could you help us with a donation?	時間がないのであれば資金援助をおねがいしたい
 If you donate the money, we can hire the soldiers and block Shinra's attack.	資金援助してもらえばその資金で兵を雇い神羅の攻撃を防げる
 We know what we're asking is selfish. We sent our wives and children to another village, But, we're resigned to stay.	ものすごく勝手なことを言っているのはじゅうぶん承知している
-Let's get back to basics. If the enemy reaches this shed, you'll have to fight them off immediately.	母親たちと子どもたちは、別の村へ移した。私たちも、かくごはできている
 It's not the end of the world, but if you lose repeatedly, it could be dangerous.	話を元へもどそう。もしこの小屋に敵が進入したときには君たちが直接戦わなければならなくなる
 Now then, is there anything you wish to ask?	まあ、１回負けたからといってそれで、終わりにはならないけど何度も負けてしまうと、危険だね
 Conditions for victory	さて、何か聞きたいことはあるかい？
@@ -340,7 +287,6 @@ You can win by wiping out the enemy or killing the enemy commander.	もうじゅ
 If the enemy reaches the shed, they'll attack, and you'll have no choice but to battle immediately.	敵を全滅させる、もしくは敵にはコマンダーと呼ばれる司令官がいるからそいつを倒せば、勝利だ
 If you lose, the Condor's life and ours…are over.	敵が、小屋に接触したならばここへ乗りこまれてしまうから直接戦わなくてはならなくなる
 You can win by wiping out the enemy or killing the enemy commander.	もし直接戦って負けてしまったらコンドルの命も、わたしたちの命も消えてしまうだろう
-If the enemy reaches the shed, they'll attack, and you'll have no choice but to battle immediately.	敵を全滅させる、もしくは敵にはコマンダーと呼ばれる司令官がいるからそいつを倒せば、勝利だ
 If you lose during direct contact, and even if the enemy gets to the reactor, there's still a chance to win.	敵が、小屋に接触したならばここへ乗りこまれてしまうから直接戦わなくてはならなくなる
 But, it's only a slight chance, and we have no idea how much the reactor can endure in an attack.	もし直接戦って負けてしまい魔晄炉に取り付かれてもある程度までならなんとかなる
 When we can't defend against the attack any longer, the Shinra will take our lives, the Condor and all the Materia in the reactor.	ある程度といったが、どれくらい耐えられるかは実際にやってみなくてはわからないと思う
@@ -365,7 +311,6 @@ Whew, that was good. But, Shinra's troops will be back.	ふう、うまくいっ
 Be sure and scout the area well… We don't know when they'll attack again.	次は、いつ攻めてくるかわからないからときどき、見てきてくれよ
 My God! They're attacking! We're counting on you.	しまった！入りこんできたぞ！君たち、たのんだよ
 We made it through that one somehow. But, Shinra'll be back.	なんとかしのいだな。しかし、神羅はかならずまたやってくる
-Be sure and scout the area well… We don't know when they'll attack again.	次は、いつ攻めてくるかわからないからときどき、見てきてくれよ
 Are you all right? Looks like a few got through.	大丈夫か？何匹か入りこまれたな
 We have  allies left, so here's  gil.	味方は、体残ったからギル返すよ
 We have 20 allies left, so we'll return 4000 gil to you.	味方は、２０体残ったから４０００ギル返すよ
@@ -379,15 +324,7 @@ Contribute gil	資金援助をする
 Let them handle it	今回はまかせる
 Hear more	説明を聞きたい
 Preparations ready?	もう準備はいいかい？
-Wait	まだ準備ができていない
-OK, ready	準備はできている
-Contribute gil	資金援助をする
-Let them handle it	今回はまかせる
-Hear more	説明を聞きたい
 Ready?	もう準備はいいかい？
-Wait	まだ準備ができていない
-OK, ready	準備はできている
-Hear more	説明を聞きたい
 I see, very well then. Maybe, we'll fight together again sometime.	そうか、わかった。次は、いっしょに戦ってくれよな
 Sorry. We only have  gil. We have to beg for your help.	すまない。資金が、ギルしかないんだ。君たちにおねがいするしかないのだよ
 We have  gil right now.	現在資金はギル残っている
@@ -426,20 +363,16 @@ Which do you want to hear about?	どれについて説明しよう？
 Mobile types	移動できるタイプについて
 Immobile types	移動できないタイプについて
 Anything else	別のことを聞きたい
-Which do you want to hear about?	どれについて説明しよう？
 Fighters	ファイターについて
 Attackers	アタッカーについて
 Defenders	ディフェンダーについて
 Shooters	シューターについて
 Repairers	リペアラーについて
 Workers	ワーカーについて
-Anything else	別のことを聞きたい
-Which do you want to hear about?	どれについて説明しよう？
 Stoners	岩落機について
 Tristoners	３連岩落機について
 Catapults	投石機について
 Fire Catapult	爆弾投機について
-Anything else	別のことを聞きたい
 Fighters are good at defending and attacking, but aren't especially effective or deficient for any enemy.	ファイターは、攻守にバランスがよいが得意な相手、苦手な相手もいない
 Attackers move extremely fast and are best for expanding the front line.	アタッカーは、移動速度が速く 前線を広げるのに向いている。 
 They work good against enemy Beasts, but not enemy Barbarians.	敵ビーストにたいして強く敵バーバリアンが苦手だ
@@ -467,7 +400,6 @@ Looks like the enemy numbers 40. Don't let your guard down.	どうやら、敵�
 I think you don't need my advice. The rest is up to you.	もう、アドバイスも必要ないだろう。たよりにしているよ
 This is the deciding battle. The enemy numbers more than ever before.	これで、全ての決着がつく。敵も、いままでにない数だ
 Let's give them all the gil we have.	私たちの持っているギルを全て渡そう
-This is the deciding battle. The enemy numbers more than ever before.	これで、全ての決着がつく。敵も、いままでにない数だ
 Received " gil"!	『ギル』をもらった！
 Received "40,000 gil"!	『４００００ギル』をもらった！
 Looks like there's a special Materia up in the Mako reactor.	どうやら、この上に魔晄炉の中にはなにか、特別なマテリアがあるらしい
@@ -475,7 +407,6 @@ Then came the Condor, so Shinra dispatched the troops to get rid of it.	そこ�
 Their plan is to get rid of the Condor and the people on this mountain and to get the Materia from the Mako Reactor.	軍の目的は、コンドルとこの山に住むわたしたちを排除し魔晄炉からマテリアを取り出すことだ
 Oh, it's you guys? How are things going?	ああ、あなたがたですか。どうです、調子は？
 Up to now, you've lost  times. If you lose too many times, you won't be able to come back.	これまでに回負けてしまいましたね。あまり、負けてしまうと取り返しがつかないことになってしまいますよ
-…	……
 We'll get some rest	そうだな休むか
 Let's move on	いや、やめておこう
 Yeah…	そうね

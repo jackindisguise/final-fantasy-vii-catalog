@@ -17,19 +17,15 @@ Did you see a man in a black cape?	黒マントを着た男を見なかったか
 Did you meet the Captain already? He's really the town's representative, so you should really talk with him.	艇長には、もう会ったかい？この村の顔とも言える男だから一度会っておくといいよ
 Welcome to the Shanghai Inn!	上海亭に、ようこそっす！
 It's 100 gil a night. Would you like to spend the night?	一泊１００ギルですけど、とまるっすか？
-Yes	はい
-No	いいえ
 Yes sir. Thank you!	へいっ、まいどっす！
 Well then, come by again sometime.	ん～、また来てくださいっす
 Excuse me. Please don't come in here. Our books and the room keys are in here, so I'll have to ask you to please stay out.	お客さん、困るっすよ。こっちには台帳や部屋の鍵とかが置いてあるんで、入ってこないでほしいんすけど
 The books… Maybe we could find out who's been here?	台帳……宿泊客の名前がわかるかもな
 Was there a man in a black cape?	黒マントの男はいないか？
-Not interested	興味ないね
 Look, we're all adults here, so I'd appreciate it if you used some discretion.	そうそう、お客さんもオトナなんすからフンベツってものをもってほしいっす
 A man with a black cape? No, no one like that has ever stayed here.	黒マントの男っすか？そんな人は泊まってないっす
 Would you like something to drink?	何か飲んでいかれますか？
 Let me hear your story	話を聞かせてくれ
-Not interested	興味ないね
 CID's had some bad breaks. It's really no one's fault he couldn't go into space.	CIDもかわいそうにな。あいつが宇宙に行けなかったのは誰が悪いのでもない
 Just bad luck, I guess…	ただ、ツキがなかっただけさ……
 If he keeps up like that, he's gonna collapse someday. Y'know what I mean? I'm talkin' heart attack.	そんなふうに心の余裕がないのではいつか倒れてしまいますよ。心の重圧にたえかねて、ね
@@ -72,7 +68,6 @@ Guard Captain	警備隊長
 Don't let them get any further! Everyone, ATTACK---!	ここより一歩も進ませるな！総員、突撃ィ～～！
 Oh, I'm getting excited.	わくわくしちゃう
 Mmm, a SPECTACLE.	ん～、スペクタクル～
-Guard Captain	警備隊長
 Urrrgh, you're not going anywhere!" Uh un, nowhere!	ぬうう、行かせはせん！行かせはせんよ！
 Goddammit, what the hell do they think they're gonna do to my rocket!?	チクショウ、あいつら！オレ様のロケットに何しやがる気だ！
 I'm outta here, CLOUD! I'm gonna kick those $^%$# Shinra right out of my rocket!	行くぜ、CLOUD！神羅のクソッタレ野郎どもをオレ様のロケットから、たたきだしてやる！
@@ -80,13 +75,9 @@ Wait, CLOUD!	待ってくれ、CLOUD！
 If you're gonna kick those *#$% Shinra out of my rocket, then take me with you!	オレ様のロケットから神羅のクソッタレ野郎どもをたたきだすんだろ？オレも連れてってくれ！
 ALL RIGHT! Let's show those &$!@& Shinra!	よっしゃ！神羅どもに目にもの見せてやろうぜ！
 CLOUD, what are you doin'!? They're gonna launch the rocket!!	CLOUD、何してる！ロケットが発射されちまうぞ！！
-Rude	ルード
 You again?	……おまえたちか
-Rude	ルード
 We will eliminate everyone who gets in Shinra's way.	……神羅の計画を邪魔するものは、排除する
-Rude	ルード
 …They got us.	……やられた
-Rude	ルード
 …Hmm.	……ふむな
 What? You guys are terrorists? Wow, that's kinda exciting!	なに、なに？あなたたち、テロリストなの？わくわくしちゃう
 Mmm, here comes some hard action!	ん～、ハードアクション～
@@ -109,8 +100,6 @@ Because those Shinra creeps locked us up in our houses, we couldn't even watch t
 I never thought that my only hobby would be destroyed by that arrogant young Rufus!	ルーファウスごとき若造のせいでわしのコウショウなシュミが。邪魔されるとは……！
 Mmm. You know that Shinra sports car at CID's house? It might be fun to try and restore that thing…	う～む。CIDの家にある神羅のスポーツカー……あいつをレストアしてみるのもおもしろいかもしれんな……
 Welcome to the Shanghai Inn! Only 300 gil a night?	上海亭に、ようこそっす！一泊３００ギルですけど、とまるっすか？
-Yes	はい
-No	いいえ
 Y'know, I heard Rufus rushed back to headquarters in Midgar…	そういえば、ルーファウスさんはあわててミッドガルの本社ビルに帰ったようでしたが……
 Even though they failed to blow up Meteor with the rocket, the Shinra haven't given up yet…	ロケットによるメテオ爆破が失敗におわっても、神羅はまだあきらめてはいないようですね
 Looks like they're gathering all the weapons from all their bases and are preparing for a final showdown.	各地の施設からいろいろな兵器を集めて、最後の抵抗をしようとしているようです
@@ -129,9 +118,7 @@ Mmm, I'm so bored. Isn't there anything that can excite me?	うーん、ヒマ�
 Even the rocket launch wasn't all THAT great.	ロケット打ち上げも、終わってしまえばたいしたことでもなかったなぁ
 Shera	シエラ
 I'll take care of everything at home. But please take care of the Captain.	この家のことはわたしにまかせておいてください。……艇長をよろしくおねがいします
-Shera	シエラ
 What's going to happen?	……この世界はどうなってしまうのでしょう？
-Shera	シエラ
 Now all we have to take care of is Meteor, right? You should be able…	あとは、あのメテオをなんとかすればいいのですね。あなたたちなら、きっと……
 Excuse me… …Please take care of the Captain.	あの…………艇長をよろしくおねがいします
 There're tons of what look	こっとう品と言ってもいいような
@@ -156,7 +143,6 @@ Sorry, 'bout that, now lesse…	いらん邪魔が入ったが……
 Looks like that *&%$#^$ Rufus wants to use my rocket for somethin'.	ルーファウスのボンボン野郎がオレさまのロケットを使って何かやらかすつもりらしいな
 Let's go to the launching pad!	ロケットの発射台の方に行ってみるとすっか！
 (A fearful sense of humor…)	（お、恐るべしギャグセンス……）
-(A fearful sense of humor…)	（お、恐るべしギャグセンス……）
 …??	……？？
 Ugh… Nice kick.	ぐぅ……ナイスキック
 I got to learn more… Devotion, devotion.	もっと、修行せねば……精進、精進
@@ -165,22 +151,17 @@ And?	で？
 (The problem starts way before his sense of humor.)	（センス以前の間題さ……）
 Would you like a drink?	何か飲んでいかれますか？
 Let's hear your story	話を聞く
-No thanks	えんりょしておく
 Shinra's trying to gather the Huge Materia from Corel and Fort Condor. There are four left, and they're transporting them here.	神羅は【コレル】、【コンドルフォート】のヒュージマテリアを回収しようとしちょる。最終的には４つ集めてこの村に運んでくるらしいわい
 I can't stand the thought of them using my rocket for something like this.	わしの大事なロケットをこんな事に使おうとするとは……たまらんのぉ
 Shinra's trying to gather the Huge Materia from the Junon Underwater Reactor. There are four left, and they're transporting them here.	神羅は【ジュノンの海底魔晄炉】のヒュージマテリアを回収しようとしちょる。最終的には４つ集めてこの村に運んでくるらしいわい
 I can't stand them using my precious rocket for a thing like this.	わしの大事なロケットをこんな事に使おうとするとは……つらいのぉ
 Authorized personnel only.	えっと、ここは関係者以外立入禁止っす
-Shera	シエラ
 Excuse me…CLOUD?	あ……CLOUDさん
-Shera	シエラ
 Did the Captain say anything?	艇長、何か言ってました？
 Nope…	いや……
-Shera	シエラ
 Welcome home.	おかえりなさい
 ^%$#! Shera. What are you, blind!?	ケッ！　シエラよう。どうしてテメエはそんなにどんくせえんだよ！
 We got guests!! GET SOME TEA! ^%$#!	客が来たら茶くらい出せよな、このウスノロ！
-Shera	シエラ
 I…I'm sorry.	ご、ごめんなさい
 Really, don't mind us.	俺たちのことは気にしないでくれ
 Shut up! Sit your butts down in those chairs and drink your goddamn TEA!	うるせぇ！　ウダウダ言うな！客は、イスにすわっておとなしくしてろ！
@@ -191,11 +172,8 @@ Poor Shera.	シエラさん、かわいそう
 Who does he think he is?	なんてヤツだよ……！
 Man, this sucks!	なんか、ヤなかんじ～！
 Man, he sure seems wound up tight.	なんや、ごっつうキツい人やなぁ～
-…	…………
 Sorry. It's our fault.	悪かったな。俺たちのせいで
-Shera	シエラ
 No, no. He's always like this.	とんでもない。いつものことです
-Shera	シエラ
 Oh?	そうですか……
 Shera! I'll be in the backyard tunin' up Tiny Bronco!	おい、シエラ！オレ様はタイニー・ブロンコを整備しに裏庭に行ってるからな！
 An' make sure to serve them some tea! All right!?	客に茶ぁ、出しとけよ！！わかったな！
@@ -207,57 +185,40 @@ I think it's a bit too harsh.	それはひどすぎると思う
 Is he like this all the time? Bitin' your head off like that? I could never stand it…	いっつも～？いっつもあんなにガーガー言われてますんか？たまらんなぁ……
 What's his prob!? I'm gonna go clean that guy's clock!!	なんだよ、それ！？アタシならぶんなぐってやるよ！
 …It's amazing that you can live with it.	……よくたえてるな
-Shera	シエラ
 No… It's because of my stupid mistake.	いいえ……私がドジだからしょうがないんです
 I was the one who destroyed his dream…	私があの人の夢をつぶしてしまったから……
 What happened?	なにがあったんだ？
-Shera	シエラ
 He pushed the Emergency Engine Shut Down switch, aborting the mission, to save my life.	あの人は、私を助けるためにエンジンの緊急停止スイッチを押したのです
 After that, the Space Program was cut back and the launch was canceled.	それ以後、宇宙計画縮小が決まってロケット発射は中止になりました
 It's my fault his dream was destroyed…	私のせいで、あの人の夢が逃げていったんです……
-Shera	シエラ
 That's why…it's all right. I don't care what the Captain says, I'll live my life for him.	だから……いいんです。艇長がどう思おうと、私はあの人につぐなわなくてはなりません
 Shera! You still haven't served 'em tea!	シーエラッ！ま～だ茶をだしてねえな！
 Hurry up and sit down! Or ain't my hospitality good enough for you!?	ほれ、とっととすわれ！オレ様のもてなしが受けられねえってのか！
 They're late… Where is Rufus?	おそいな……ルーファウスはよ
-Palmer	パルマー
 Hey-HEY! Long time no see! So CID, how ya been?	うひょ！　ひさしぶり！CIDちゃん、元気してた？
 Well, if it ain't fat man, Palmer. How long were you figurin' on keepin' me waitin'!?	よう、ふとっちょパルマー。待ってたぜ！
-Palmer	パルマー
 Hey-hey!  I don't know. The President's outside, so why don't you ask him?	うひょひょ！　わし、知らないな～。外に社長がいるから聞いてみれば？
 ^$#&! Good for nothing, fat &$#$^@!	ケッ！あいかわらずの役立たずふとっちょめ
-Palmer	パルマー
 Don't say 'fat'!	ふとっちょって言うな～！
-Palmer	パルマー
 Hey-hey! Tea!	うひょ！　お茶だ！
 Can I have some too? With lotsa sugar and honey and… oh yeah, don't forget the lard!	わしにもちょうだい。サトウとハチミツたっぷりでラードも入れてね
-Palmer	パルマー
 Hey-hey? Have we met before?	うひょひょ？どこかで会ったかな？
 So? When's the Space Program gonna start up again?	で、いつなんだ？宇宙開発計画の再開はよぉ？
-Shera	シエラ
 Is President Rufus here to announce that he's going to restart the Space Program?	ルーファウス社長が来たのは宇宙開発を再開するためなのでしょうか？
-Palmer	パルマー
 Hey-hey! Is the tea ready yet?	うひょ！お茶はまだかな～？
 With plenty of sugar and honey. Oh yeah, and don't forget the lard, too.	サトウとハチミツたっぷりでラードもどっさり入れてね。うひょひょ！
 What the!? You got me all excited for nothing!?	な、な、な、なんでい！期待させやがって！
 Then, what'd you come here for?	そんなら今日は何の用で来た？
-Rufus	ルーファウス
 I want to borrow the Tiny Bronco.	タイニー・ブロンコを返してもらおうと思ってな
 &^#^%! First the Airship, then the Rocket, and now, the Tiny Bronco.	ケッ！最初は飛空艇、次はロケットこんどはタイニー・ブロンコか
 Shinra took outer space away from me and now you want to take the sky away from me too!?	神羅カンパニーはオレ様から宇宙を奪っただけでは足りずに今度は空まで奪う気だな！
-Rufus	ルーファウス
 Oh my…	おやおや……
 You seem to forget it was because of Shinra, Inc. that you were able to fly in the first place.	いままで、君が空を飛べたのは神羅カンパニーのおかげだ。それを忘れないでくれたまえ
 What!?	なんだと！
-Shera	シエラ
 Uh, excuse me…	あ、あの、あなたたち……
-Shera	シエラ
 This way…	こちらへ……
-Shera	シエラ
 You wanted to use the Tiny Bronco, right?	あなたたちタイニー・ブロンコを使いたがっていましたよね
-Shera	シエラ
 I believe Palmer's going to take it. Why don't you talk to him?	パルマーが持っていくそうです。お話ししてみたら？
-Rufus	ルーファウス
 We're going after Sephiroth. But seems like we've been going in the wrong direction.	我々はセフィロスを追っている。ただ、どうやら今まで見当違いの方向を探していたようだ
 But now, we think we know where he's headed. But, we have to cross the ocean. That's why we want your plane…	だが今はだいたい行く先がつかめてきたのでな。我々は海を越えなくてはならないんだ。それでお前の飛行機を……
 What're you guys doin' here?	おまえたち、なんだ？
@@ -292,54 +253,40 @@ Ummm… Just look around.	ん～、そのへん適当に見て回ってな
 My last hope is to talk to the President.	今回の、若社長が来るって話だけがオレ様に残された最後の望みさ……
 Hey! Get your ass in gear! You work like a snail!	おら、そんなカメみたいにちんたら仕事してるんじゃねえよ
 Even the moon'd get tired waitin' around for your ass!	お月さんがまちくたびれてそっぽ向いちまうぜ！
-Shera	シエラ
 I'm…I'm sorry.	す、すみません
 Don't take so much time checkin' that *%$^# oxygen tank!	そんな酸素ボンベなんかをいつまでもガチャガチャチェックしてんじゃねえよ！
 Shera, bein' careful's good, but no matter how many times you check that oxygen tank, it won't matter.	おいシエラよう、お前がマジメなのはいいんだけどよ、そんな酸素ボンベいくらチェックしてもムダだぜ
 That thing wouldn't break even if hell froze over.	そんなもん、天地がひっくり返ったって壊れやしねえんだから
-Shera	シエラ
 But…	え……でも
 No buts!!	でももヘチマもねえ！！
 You're not stupid, so be more efficient!	おめぇはバカじゃねぇんだからもちっと、手ぎわよくやれよ
-Shera	シエラ
 I'm sorry…	ごめんなさい……
 Instrument panel…all clear. Shinra No. 26, ready for launch.	計器オールクリア。神羅２６号、発射準備よし
 Control	管制官
 Engine pressure rising. Shinra No. 26, 3 minutes to launch. Beginning countdown.	エンジン圧力上昇中。神羅２６号、発射３分前。カウントダウン開始
 …Finally.	……いよいよだな
 What the? What happened!?	な、なんだ？　何が起った！？
-Control	管制官
 CID! We have an emergency situation!	パイロット・CID緊急事態です！
 A mechanic is still in the engine section of the rocket!	まだ船内のエンジン部にメカニックが残っています！
 What!? Who is the little ^%$@!?	何だって！？どこのバカやろうだ？
-Control	管制官
 I don't know. Activating the intercom in the engine section.	わかりません。エンジン部と音声つなぎます！
 Hey goddammit!! Who the &%$#'s still in there?	おい、コラ！！そんなところにいるのはどこのバカやろうだ！？
-Shera	シエラ
 It's Shera, Captain. Don't mind me, go ahead with the launch.	艇長、私です、シエラです。私にかまわず、打ち上げを行なって下さい
 Shera!? What are you still doin' in there!?	シエラぁ！？いまごろ、なにしてやがんだ！
-Shera	シエラ
 I was still concerned. The results of the oxygen tank test weren't satisfactory.	どうしても心配だったんです。酸素ボンベのテストで満足いく結果がえられなくて
 You stupid little $#^%!	バカやろう！
 It's gonna get so hot in there that there ain't gonna be #$!% left when we blast off!	そこはなあ、打ち上げのときうんこッカスも残んねぇほどバカ熱くなるんだ！
 You're gonna be burnt to a crisp! You're gonna die! You know that, doncha!?	そんなとこにいたら一瞬で黒コゲだぞ！おまえ、死んじまうんだぞ。わかってんのか！
-Shera	シエラ
 I don't mind.	いいんです
 If I can just fix this, the launch will be a success. I'm almost done.	これさえ直ればロケットは打ち上げできるんです。もう少しで終わりますから
 Almost done!? You're gonna die!	何がもう少しだ！おまえ、死んじまうんだぞ！
-Control	管制官
 CID, We must start the countdown. We won't make it if we don't!	CID、カウントダウン開始だ。もう、間に合わない！
-Control	管制官
 What are you going to do, CID? If we cancel now, it'll be another six months until the next launch!	どうするCID？ここで中止すれば、次の打ち上げまで６ケ月もかかっちまうぞ！
-Control	管制官
 Starting engine!	エンジン始動する！
 GODDAMMIT, Shera… you wanna make me a murderer?	くっ……シエラのヤロウめ……オレ様を人殺しにする気か？
-Shera	シエラ
 Tank Number 7 check is complete. Once I complete Tank Number 8, it's all clear.	７番ボンベまでチェック終わりました。８番ボンベが終わればオールクリアです
 Oh man, the moon…outer space… my dreams…	ああ、月が……宇宙が……オレ様の夢が……
-Control	管制官
 Ignite Engine!	エンジン点火！
-Control	管制官
 15 seconds until ignition. Internal temperature rising.	エンジン点火まで１５秒。船内温度上昇中
 SH-------#%!!	ンガーーーーーーッ！！
 Captain! Our dreams are finally coming true!	艇長！いよいよ私たちの夢がかないますね！
@@ -350,12 +297,9 @@ We're praying for your safety!	ご無事をおいのりしています！
 Captain, preparations are complete! All that's left is lift off!	艇長、整備はカンペキです！あとは、ゆくだけです！
 Thanks, guys!	ありがとうよ、おめぇら！
 Hey, wait a minute! Shera's still in here!	お、おい、ちょっと待て！まだシエラが残ってるんだぞ！
-Shera	シエラ
 Captain!	艇長！
 Shera!?	シエラか！？
-Control	管制官
 30 seconds until ignition. Beginning countdown.	エンジン点火３０秒前。カウントダウンを開始する
-Control	管制官
 CID! Forget about her. We won't make it in time!	CID！シエラの事はあきらめろ。もう、まにあわない！
 Come on, Shera…hurry up… You're gonna die…	シエラ……はやくしろ……このままじゃ死んじまうんだぞ……
 What…what am I… What am I supposed to do?	オレは……オレ様は……オレはどうしたらいい……？
@@ -379,21 +323,15 @@ Nanaki, otherwise known as RED XIII.	ナナキ、またの名をRED XIII
 Fortune telling machine CAIT SITH, here.	占い屋、CAIT SITHいいます
 VINCENT. I am…nevermind.	VINCENT。仕事は……まあ、いいだろう
 I'm YUFFIE!	アタシ、YUFFIE！
-Shera	シエラ
 Hmm… So you're not with the Shinra?	はぁ……神羅の人たちじゃないんですね
 I thought you were bringing approval for the Space Program.	私、宇宙開発再開の知らせがきたのかと思って
 …!?	……！？
-Shera	シエラ
 President Rufus is scheduled to come here. The Captain's been so restless all morning.	新社長のルーファウスさんがここへいらっしゃるそうなんです。艇長は朝からそわそわしてますわ
 Rufus!!?	ルーファウスが！！
-Palmer	パルマー
 Hmm… Why do I have to do this…? I'm the head of the Space Program…	うひょ……なんでわしがこんなこと……わし、宇宙開発部門統括……
-Palmer	パルマー
 I've seen you somewhere before…	お前らどこかで見たな……
-Palmer	パルマー
 I know! The Shinra building! When the President was killed! Ulp!	そうだ！　神羅ビル！プレジデントが殺されたときだ！うひょ！
 We'll be taking the Tiny Bronco.	そのタイニー・ブロンコは俺たちがもらう
-Palmer	パルマー
 Se…se…security!!	け、け、け、警備兵！！
 I can't stop it!	とまらねえぜ！
 I can't stop it!	とまらないの！
@@ -413,7 +351,6 @@ Let me be the pilot!	アタシにパイロットやらせて！
 I'll do it.	私の出番だな
 CID! Get on!	CID！　乗ってくれ！
 Godammit! What are you amateurs doing!	バカやろう！シロウトが何やってんだよ！
-Rufus	ルーファウス
 CLOUD!? Don't let 'em get away! Shoot 'em down!	CLOUD！？逃がすな！　撃ちおとせ！
 %#^@!! The tail's been hit!	シィィーット！！尾翼がやられてるじゃねえか！
 Emergency landing…	不時着か……

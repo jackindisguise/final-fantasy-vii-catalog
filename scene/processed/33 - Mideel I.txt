@@ -78,7 +78,6 @@ And what have Shinra and SOLDIER done about it? Tell me! They're useless!!	そ�
 Actually, I'm a beautiful maid. I only work in this accessory store part-time.	あたしゃ美人のメイドだけどねないしょくで、アクセサリーの売り買いもしてるのさ
 Our goods compare with the best goods anywhere. So, how about one?	どこ出したってはずかしくない極上の品ばっかだよ。どうだい、ひとつ？
 Thank you. Stop by again.	どうも、ありがとさん。また、よっておくれよ
-Mideel Residence	ミディール　民家
 I gotta feelin' something bad's gonna happen. Is everything gonna be okay?	なにやらよくないことがおこっとるというじゃないか？だいじょうぶなのかのう
 I'm all right. I've lived a long, full life.	わしは、いいんじゃ。もうじゅうぶん長く生きさせてもろうたからね
 But I'm worried about my son and his family living in that far-off town…	ただ、遠くの町でくらしとる息子ふうふや孫たちのことが気がかりでなあ……
@@ -156,7 +155,6 @@ Mmm…sorry! I twisted the ^%$#^ and it broke.	むむ……、すまねえ！む
 Huh? Key? You mean the one to that door?	え？カギって、そのドアの……？
 Hah, hah, hah! That's a good one!	アハハハ！そいつはいいや！
 ???	？？？
-???	？？？
 Of course there's no key. It's a wall. We just painted a door on it.	カギがあかなくて当然ですよ。だって、そいつは壁にかかれたただの「えなんだから」
 What!? It's not a real door?	えーっ！？本物じゃないの、このドア？
 Say what? You drew that door on the wall?	なんだってえ？壁にかかれたドアだあ？
@@ -167,7 +165,6 @@ TIFA and the others	TIFAたちは、呪いの指輪を
 received "Cursed Ring"!	もらってしまった！
 Oh, uh…well Thanks.	おう、まあ……、そんじゃありがとうよ
 CID and the others	CIDたちは、呪いの指輪を
-received "Cursed Ring"!	もらってしまった！
 We're hoping to pass through a door like that one into another world.	できることなら、ボクらはみんなそこにあるような夢のドアをぬけて別の世界へ行ってみたいとねがってるんじゃないでしょうか？
 I feel that you all might be able to make my dreams come true. Weird, isn't it?	なんだかあなた方はぼくのかわりにそのねがいをかなえてくれるような気がします。ヘンですね……
 What is it? You're being awful friendly all of a sudden.	どうしたの、おまえ？やけに、ひとなつっこいわね？
@@ -207,15 +204,9 @@ Chocobos ignore humans who	チョコボは、好物の野菜を
 don't look like they'll give them greens.	くれそうにない人間にはつめたかった。
 Mideel Item Store	ミディール　アイテム屋
 So that overgrown moon's gonna fall on us, huh?	なんでももうすぐあの巨大なお月さんが、降ってくるっていうじゃない？
-This's no joke! We've got to start stocking up on supplies before they're all gone!	じょうだんじゃないわ！とりあえず必要なものは買いだめしとかなくっちゃ！
-Outta the way! Hey, move it, move it!	ジャマよ、あんたたち。ほら、どいた、どいた！
-You again! You aren't hoarding up goods too, are you?	あら、また会ったわね！まさか、あんたたちも買いだめしてるっての！？
-Don't reach in front of me! Everything in this store is mine!	横取りなんかしないでよ！このお店にあるのは、みんなわたしのなんだから！
-I've got money to burn! I've been saving like mad just for a time like this!	お金なら、山ほどあるわよ！こんな日もあろうかと必死でためこんだんだもの！
 C'mon, outta the way! Move, will you? Move!	ジャマよ、あんたたち。ほら、どいた、どいた！
 Ohh…not much time left!! You never know when that moon's gonna come crashing down!!	ああ……、時間が足りないわ！！いつ、あの月が降ってくるかも知れないってのに！！
 When it all comes down to it, this world's about money and material things! If you got 'em, you can get by whenever, wherever!	けっきょく世の中、お金と物よ！それさえあれば、いつだって……どこでだって、やってける！
-Gotta buy!! Gotta buy, buy, buy!! I'm gonna shop till I drop!!	買わなくちゃ！！とにかく、買って、買って買いまくるのよ！！
 Welcome! Cash is welcome here! How may I help you?	いらっしゃい、アルね。やすらぎといこいのショップ。今日、どんなようアルか？
 Thank you! Come again!	まいどあり、のことね！また来てちょー、アルね
 Welcome! We always welcome cash! Now, about where you want to go…	へい、らっしゃい！いつもニコニコ現金払い！と、行きたいとこなんだが……
@@ -223,41 +214,29 @@ I'm afraid other customers have already booked it up. There's nothing left.	い�
 …just kidding! Just a little joke.	……なんちゃってえ！じょうだんですよ、お客さん。さてそれじゃ、どんなごようで？
 Mideel Materia Store	ミディール　マテリア屋
 So that overgrown moon's gonna fall on us‚huh?	なんでももうすぐあの巨大なお月さんが、降ってくるっていうじゃない？
-This's no joke! We've got to start stocking up on supplies before they're all gone!	じょうだんじゃないわ！とりあえず必要なものは買いだめしとかなくっちゃ！
 Outta the way! Hey‚move it‚move it!	ジャマよ、あんたたち。ほら、どいた、どいた！
 You again! You aren't hoarding up goods too‚are you?	あら、また会ったわね！まさか、あんたたちも買いだめしてるっての！？
-Don't reach in front of me! Everything in this store is mine!	横取りなんかしないでよ！このお店にあるのは、みんなわたしのなんだから！
-I've got money to burn! I've been saving like mad just for a time like this!	お金なら、山ほどあるわよ！こんな日もあろうかと必死でためこんだんだもの！
 C'mon‚outta the way! Move‚will you? Move!	ジャマよ、あんたたち。ほら、どいた、どいた！
-Ohh…not much time left!! You never know when that moon's gonna come crashing down!!	ああ……、時間が足りないわ！！いつ、あの月が降ってくるかも知れないってのに！！
 When it all comes down to it, this world's about money and material things! If you got 'em‚you can get by whenever‚wherever!	けっきょく世の中、お金と物よ！それさえあれば、いつだって……どこでだって、やってける！
 Gotta buy!! Gotta buy‚buy‚buy!! I'm gonna shop till I drop!!	買わなくちゃ！！とにかく、買って、買って買いまくるのよ！！
-Welcome! Cash is welcome here! How may I help you?	いらっしゃい、アルね。やすらぎといこいのショップ。今日、どんなようアルか？
-Thank you! Come again!	まいどあり、のことね！また来てちょー、アルね
 Welcome! We always welcome cash! Now‚about where you want to go…	いらっしゃいアルね。やすらぎといこいのショップね。と、行きたいとこアルが……
 I'm afraid other customers have already booked it up. There's nothing left.	あいや、そこのお客さん、みな予約しちゃったんで、もうなにも残ってないよ、お店
 …just kidding! Just a little joke. Now what can I do for you?	……というのは、じょうだんアル。エヘヘ！さて、それじゃ、どんなごようね？
 Mideel Clinic	ミディール　治療所
-CLOUD!?	CLOUD！？
 Doctor	ドクター
 Hey! You barged in here like Meteor was crashing down or something.	おやおや。そんなにあわててメテオでも降って来たかねおじょうさん？
 I'm sorry…but I heard a friend of mine was here…	すみません、どうやら友人がこちらでお世話になってるらしいと聞いたもので……
-Doctor	ドクター
 A friend?	友人……？
-Doctor	ドクター
 Oh…that young fellow!?	ああ……！　あの若者のことか！？
 Don't worry. He's next door. But his condition isn't good.	安心なさい。君の友人なら、となりの部屋だよ。ただ、まだ具合が……
 Here?	こちらですか？
 Over here.	失礼します！
 CLOUD!?	CLOUD……！？
 Oh…CLOUD!! I'm so glad you're safe!?	ああ……CLOUD！！よかった、無事だったのね！？
-…!?	……！？
-CLOUD?	CLOUD……？
 Uh…aaa…?	う……ああ……？
 Wh…what's wrong… CLOUD?	ど……どうしたの……CLOUD……？
 Aaa..gurk..	あ……。ぐげ……？
 CLOUD! What happened to you?	CLOUD！どうしちゃったの……！？
-Doctor	ドクター
 Mako poisoning… Quite an advanced case.	魔晄中毒だよ……。それも、かなり重度の、ね……
 It appears this young man's been exposed to high levels of Mako energy for an extended period of time.	どうもこの若者は強烈な魔晄エネルギーに長時間さらされたようだな
 He probably has no idea who or where he is now…	おそらく、自分が誰なのか自分がいまどこにいるのかすら理解していないだろう……
@@ -269,13 +248,8 @@ How horrible…	なんて、むごい……
 That's terrible…	あんまりやなぁ……
 Damn, that's evil.	チ……ひでえ話だ
 You lyin' or what!?	ウソでしょ！？
-…	………
-CLOUD…	CLOUD……
-Doctor	ドクター
 Ahem! Let's excuse ourselves.	コホン！　わたしたちはちょっと席をはずすとしようか
-Doctor	ドクター
 Listen, would you all mind… waiting outside?	さあ、君たちも、一練に……。外で待っていよう
-…	…………
 Why? What do you want me to do?	どうして……？どうして、こんなことに……！
 Please, CLOUD… Talk to me…	おねがい、CLOUD……。こたえてよ……
 Tell me you see me, that you can hear me… Tell me, please…	ちゃんと私のこと見てるって私の声が聞こえるって……言ってよ、ねえ……
@@ -316,7 +290,6 @@ We should be getting back to the Highwind.	よし、それじゃオイラたち�
 Hey, shouldn't we be gettin' back to the Highwind?	よし、それじゃアタシたちはハイウインドにもどろうよ！
 Well, I guess we'd better go back to the Highwind.	ほな、ハイウインドにもどりましょか
 Very well then, we should return to the Highwind.	……それでは、私たちはハイウインドにもどるぞ
-Mideel	海流の村　ミディール
 So what about him?	なあ、お医者の先生。ほんとうのとこを聞かせてくれないか？
 You know… CLOUD?	あいつは……、CLOUDはどうなんだ？なおるみこみはあるのかい？
 Listen Doc, why don't you tell us the truth.	なあ、先生さんよ。ほんとうのところを教えてくれよ
@@ -324,7 +297,6 @@ What about CLOUD? Is he all right?	CLOUDのヤツはどうなんだ？ちゃん�
 Tell me doctor, is CLOUD all right? I mean will he heal?	ねえ先生、CLOUDはだいじょうぶなのかな？ちゃんと、なおるの？
 Hey Doc, is he okay? Is he gonna heal?	ね、先生、CLOUDはほんとにオッケーなの？ちゃんとなおるの？
 Hey doctor, is CLOUD all right? Is he gonna get better? Come on, tell us the truth	なぁ先生、ほんまはどうなんです？CLOUDさんは、だいじょうぶなんですか？ほんま、どないなっとるんやろ
-Doctor	ドクター
 I'll say it again, he's got Mako poisoning. I've never seen a case this bad…	くりかえすが彼は重度の魔晄中毒だ。あそこまでひどいのは、わたしも見たことがない……
 An immense amount of Mako-drenched knowledge was infused into his brain.	魔晄エネルギー内に潜むぼうだいな知識の量……。それがいっぺんに彼の頭の中に流れこんだんだろう……
 It's a miracle he survived! No normal human could have.	ふつうの人間にはたえきれるものじゃない……。生きてるだけでも、きせきだ！
@@ -333,13 +305,11 @@ No wonder… After all, he fell into the Lifestream and was carried down here.	�
 No wonder. He fell into the Lifestream and washed up here…	ムリないよ。生身でライフストリームにどっぷりつかっちゃったんだから……
 No lie. After fallin' head first into the Lifestream.	あったりきだよねえ。ライフストリームに、頭から飛びこんじゃったんだもんね
 No wonder. After falling into the Lifestream…	しゃあないよな。ようさんライフストリームにつかってしもたからなぁ……
-Doctor	ドクター
 But remember, the light of hope can be found anywhere.	しかし、どんなところにも希望の光はある。あきらめては、いけない
 If you give up hope… What will happen to him?	いいかい、君たちが希望をすててしまったら……いったい彼はどこへ帰ればいいというのかね？
 …hope…	……希望か……
 Hey, but honestly, man… Do I really want him to come back?	でもよ、正直な話……オレはあいつに帰ってきて欲しいとホントにねがってるんだろうか？
 What did he do for the world? What can he do for us from here on out? He may be nothing more than Sephiroth's shadow…	ヤツがこの世界に何をした？この先、オレたちに何をもたらす？セフィロスの影でしかないのかもしれねえんだぞ……
-Doctor	ドクター
 Is something wrong?	どうかしたかね？
 No, nothin'. Nothin' at all, Doc.	いや……。何でもねえよ
 …Hope…	……。希望か……
@@ -348,9 +318,7 @@ Hmm, I know he'll recover! CLOUD was a strong member of SOLDIER.	うん、きっ
 Yeah, that's right. Besides, WE'RE here for him. He's gotta get better!	そうだよね。アタシたちがついてんだもん。きっと元気になるよね！
 Yeah! I know CLOUD'll get better!	ほんま、そうや。CLOUDさん、元気になるわ！ほんまに……
 With friends like us worrying about him He'll pull through.	こないに心配してくれはるおともだちが、ようさんおるんやおちおちねとられへんて
-…	………
 You okay?	もういいのか？
-You okay?	だいじょうぶか？
 Are you all right, TIFA?	だいじょうぶ、TIFA？
 You okay, TIFA?	オッケーなの、TIFA？
 You all right?	だいじょうぶなんですか？
@@ -390,11 +358,9 @@ As soon as we're ready, we'll head for the Corel reactor.	準備ができしだ�
 Hurry, CID!	急げ、CID！
 Pilot in training (LV5)	見習いパイロット（ＬＶ５）
 Eaggggghh! Congrats' on becoming our leader, Cap'n!	あわわわわ！艇長、リーダー就任おめでとうさんです！
-Pilot in training (LV5)	見習いパイロット（ＬＶ５）
 Yaaah! Are we taking off?	あわわ！　いくですか？
 Yes	いく
 No	いかない
-Pilot in training (LV5)	見習いパイロット（ＬＶ５）
 Eagggggh! We're taking off now!	あわわ！　いくで～す！
 Hey…	あのよぅ
 It's tough being the leader.	リーダーってのはつかれるよなぁ
@@ -409,9 +375,6 @@ Where shall we go next? Shall we head for the Corel reactor?	お次はなんだ�
 What's next? Shall we head for Fort Condor?	お次はなんだ？コンドルフォートだったかぁ？
 Pilot in training (LV6)	見習いパイロット（ＬＶ６）
 Yaah! Shall we take off?	あわ！　いくですか？
-Yes	いく
-No	いかない
-Pilot in training (LV6)	見習いパイロット（ＬＶ６）
 Yaah! We're taking off!	あわ！　いきま～す！
 What's that sad face for?	な～にシケた顔してるんだぁ？
 What? Does CLOUD always gotta be around? We did fine without him in the beginning…	CLOUDがいなくちゃダメかよ……最初はあいつ無しでやってきたじゃねえか……
@@ -471,5 +434,4 @@ Pilot in Training (LV7)	見習いパイロット（ＬＶ７）
 Yaaah!  Shall we take off?	わ！　いくですか？
 Roger	いく
 Negative	いかない
-Pilot in Training (LV7)	見習いパイロット（ＬＶ７）
 Man!  We're taking off!	わ！　いきます！

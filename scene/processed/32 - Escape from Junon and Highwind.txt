@@ -28,59 +28,37 @@ Time…	時間……
 … Hey! How about Meteor?	……そう！　メテオは？
 Do we have to give up?	あきらめなくちゃならないのかな？
 …Dunno.	……さあな
-Rufus	ルーファウス
 I thought CLOUD would show up to save you all…	おまえを助けるためにCLOUDがあらわれると思っていたが……
 Professor Hojo wanted to check up on CLOUD, too.	宝条博士もCLOUDを調べたがっていてな
 What are you going to do to CLOUD?	CLOUDをどうするつもり！
-Rufus	ルーファウス
 Sephiroth's alter ego…	セフィロスの分身……か
-Rufus	ルーファウス
 Meteor has been summoned… Essentially, it's all but over now.	メテオを呼んでしまった今となってはおはらいばこのようだな
-Rufus	ルーファウス
 So, there's no need for you now.	というわけで、おまえたちにももう用はない
-Rufus	ルーファウス
 No, maybe there is an important task for you…	いや、大切な仕事が残っている……かな
-Heidegger	ハイデッカー
 President! Preparations for the public execution are complete.	社長！処刑の準備がととのいました
 Execution!?	処刑だぁ！？
-Rufus	ルーファウス
 You are to be executed for causing this situation.	おまえたちはこの事態を引き起こした者として処刑される
 I take back the good things I said bout this damn jackass!	この野郎をチラッとでもほめたのは取り消すぜ
-Rufus	ルーファウス
 Well, enjoy your last moments together.	ま、最後のひとときを楽しむが良い
-Heidegger	ハイデッカー
 I'll tie your arms now.	腕をしばらせてもらおうか
-Heidegger	ハイデッカー
 Hey! Walk straight!	こら！　まっすぐ進め！
-Scarlet	スカーレット
 Is everyone here? These are the ones who brought this madness to the world!	みなさんお集まりになった？この者たちが世界をこんな混乱に落としめた張本人たちよ！
 The hell are these people?	何だこいつらは？
-Scarlet	スカーレット
 We will be broadcasting your miserable deaths live on national television.	あなたたちのぶざまな死にざまをテレビで全国中継するのよ
 Scarlet, why a public execution in this day and age?	スカーレットさん。なぜ今回はこのような公開処刑を？
-Scarlet	スカーレット
 With the chaos resulting from the Meteor reports, we desperately need to rally public support… it's better that we punish somebody, anybody.	メテオで混乱した民衆をまとめるには誰か一人、悪者をつくるのがベストなのよね
 You make me sick…	悪趣味……
-Scarlet	スカーレット
 Ha, ha, ha, ha !	キャハハハハハ！
 They'll never admit it, but everyone loves this stuff!	口には出さないけどみんな本当はこういうのが大好きなのよ！
-Scarlet	スカーレット
 We'll start with this girl.	さ、まずはこの娘からよ
 If you've gotta do it…take me first!	やるんならまずオレからやれ！
-Scarlet	スカーレット
 Camera, this way! Make sure you get this, the audience just eats up tearful goodbyes!	ほらほら、カメラさん、こっち！こういうお涙ちょうだいしばいが最高にウケるのよね！
-Scarlet	スカーレット
 This is my special gas chamber. Take your time and enjoy a slow painful death.	私の特製ガスルームよ。じっくり時間をかけて思う存分苦しんでちょうだいね
-“”	「」
-Scarlet	スカーレット
 Stuck up ^%$#&!!	なまいきね！！
 What are you doing!?	何するのよ！
-Scarlet	スカーレット
 What'd you do? Hey! Open it!	どうしたの？こら！　あけなさい！
 First you lock me in this weird place, and now you're telling me to come out? Make up your mind!	自分でこんな変な場所入れておいて今度は出てこいですって？勝手なこといわないでよ！
-Scarlet	スカーレット
 Don't make me pry it open!	こじあけてやるわ！
-Gas!!	ガス！！
 Gas!!	ガス！！
 BARRET, help!!	BARRET助けて！！
 Hold your breath! Hold on as long as you can!	息をとめてろ！少しでも長くガマンするんだ！
@@ -94,20 +72,15 @@ Try different patterns.	ワンパターンではだめ
 Try and combine two movements at once.	２つの行動を同時に組み合わせろ
 Which button stops the gas?	ガスをとめるボタンは……？
 Open it---	開いてぇぇぇーーーーー……
-Scarlet	スカーレット
 Well now, the show's about to begin. Ha, ha, ha !	さ、楽しいショウが始まるわよ。キャハハハハ！
 Emergency! Emergency!	緊急警報！緊急警報！
 Weapon's approaching! Attention all military personnel: take your positions!	ウェポン襲来！総員戦闘配備！
 Oh no! It's Weapon!	うわぁ！ウェポンだ！
 Run!	逃げろ！
-Scarlet	スカーレット
 Hey, hey, all of you!	ちょ、ちょっとあなたたち！
-Scarlet	スカーレット
 Damn! Why now?	ちっくしょう～こんないい時に！
 How does it feel now, Scarlet?	スカーレットさん、今のお気持ちは？
-Scarlet	スカーレット
 Hmm, so you didn't run? I'm impressed. How do I feel? Right now…	おや、お前は逃げないでいたの？感心感心……なに？　気持ち？今の気持ちねえ……
-Scarlet	スカーレット
 Nngaaaaaahhhh!	ンガーーーッ！
 Huh!? Sleeping gas?	なにっ？！　さいみんガス？
 Weirdo!!	くせもの！！
@@ -123,14 +96,11 @@ TIFA! I'll help you, I promise!	TIFA！かならず助けてやっからな！
 Let's run to the airport!	エアポートまで走るで！
 The airport?	エアポートだぁ？
 Trust me, trust me.	ええから、ええから
-Scarlet	スカーレット
 …Fools… I've already pushed the switch…	……ばか……め……もうスイッチは……押しちゃったわよ……
 You can't pass.	ここから先は立入禁止だ
 Where you goin'? The airport's the other way.	どこいくねん？エアポートは逆やで
 No! They locked this too!	しまった！ここのカギも閉められた！
-Scarlet	スカーレット
 Fools. Now, you can't save the girl.	おバカさんたちね。これでもう、この娘は助けられないわよ
-Scarlet	スカーレット
 Ha, ha, ha, ha !!	キャハハハハハハハ
 Goddammit!!	チックしょーー！！
 OK, OK time for Plan B. Let's run to the airport!	むむぅ～、またまた作戦チェンジですな。エアポートまで走るで！
@@ -143,37 +113,24 @@ Kiiiiin…	きぃぃーーーーーーーーん……
 Don't make so much noise. It's me, ME! YUFFIE!	大きな声ださないでよ……アタシよ、アタシ！　YUFFIEよ！
 The hell you doin' here!?	なんでこんなところに！？
 I'll explain later! Now we gotta get to the airport!	説明はあと！さ、エアポートへ急いで！
-Heidegger	ハイデッカー
 It's Weapon.	ウェポンです
-Rufus	ルーファウス
 There's been so many attacks lately. Can we handle it?	最近やけに多いな。防げるか？
-Heidegger	ハイデッカー
 I believe so. Your orders?	なんとか。攻撃の許可は？
-Rufus	ルーファウス
 No need to ask.	聞くまでもない
-Heidegger	ハイデッカー
 We'll give it a shot from our big cannon.	じまんの大砲を一発くらわせます
-Heidegger	ハイデッカー
 Open cannon doors!! Activate cannon. Target: Weapon!!	全砲門ひらけ！！キャノン砲修正、目標ウェポン！！
 The cannon…	キャノン砲……
 Fire----!!!	発射ーーーーーーーーーーーーーーーーー！！！
 Ready!	準備ととのいました！
-Rufus	ルーファウス
 Did we get 'em?	やったか？
-Heidegger	ハイデッカー
 Seems so…	おそらく……
 Weapon approaching!	ウェポン接近！
 Speed, 50 Knots!	速度５０ノット！
 It's heading right toward us!	まっすぐこちらに向かってきます！
-Heidegger	ハイデッカー
 It can't be! We hit it dead on!	ばかな！　確かに命中したはず！
-Rufus	ルーファウス
 How about the cannon?	キャノン砲は？
-Heidegger	ハイデッカー
 It'll take time to reload.	準備に時間がかかります
-Rufus	ルーファウス
 Then use regular fire power in the meantime!	それまで通常兵器で時間をかせげ！
-Heidegger	ハイデッカー
 Yes sir! Open all artillery doors! Target: Weapon! Don't let it land!	は！　全砲門開け！目標ウェポン！　陸にあげるなよ！
 Speed, 70 Knots!	速度７０ノット！
 Weapon, closing in!!	ウェポン、なお接近中！！
@@ -182,35 +139,23 @@ Yo! You sure this is the right way? It's a dead end!	おい！　本当にこっ
 Uh oh? Did I make a wrong turn?	あれぇ？道、まちごうたかな？
 You damn cat! What the hell're we gonna do now? They all be comin' soon!	ばっかやろーーー！どうすんだい？もうすぐ大勢やってきちまうぜ！
 Yo, better watch my back till the end…partner!	最後までもってくれよ……あいぼう！
-Scarlet	スカーレット
 Our little game of hide and seek ends here.	オニごっこはここまでよ
-Scarlet	スカーレット
 The execution may have been unsuccessful, but your death by falling and crashing into the water below might still be pretty exciting.	ガス処刑は無理だったけどここから落ちて水面にたたきつけられて死ぬってのもス・テ・キ、かもしれないわね
-Scarlet	スカーレット
 Stuck up to the end!	最後までなまいきね！
-Scarlet	スカーレット
 How can you!?	やったわね！
 What!?	なによ！
-Scarlet	スカーレット
 You!!	こいつ！！
 Pay back!!	お返し！！
-Scarlet	スカーレット
 That hurts!	いたいわね
 Stop it!	やめてよ！
-Scarlet	スカーレット
 That's enough!	いいかげんにしなさい！
 Same to you!!	そっちこそ！！
 [OK]…Slap	○ボタン　和手うち
 Quit slapping me! You old $*&^%!!! (Push [OK]!)	さっきからパンパンいたいのよ！この年増女！！！！（○ボタンを押せ！）
-Scarlet	スカーレット
 Take her away.	さ、連れていきなさい
-Scarlet	スカーレット
 God! I can't stand it!	キ～～～ッ！くやしい！
-Scarlet	スカーレット
 Why are you still standing there!? Catch her and take her away!	何をぼやぼやしているの？！つかまえて連れていきなさい！
-Scarlet	スカーレット
 Now it's time to pay up. Calm down or I'll drop you!	さあ、ねんぐのおさめどきよていこうすると本当に落とすからね
-Scarlet	スカーレット
 Kya, ha, ha, ha !	キャハハハハハハ！
 Run…	はしれ……
 Run to the end of the Cannon!!	砲の先に向かって走れ！！
@@ -225,7 +170,6 @@ Well…I'm glad you're safe.	ハァ……無事で良かったね
 I'm going to stay up here a little longer.	アタシ……もすこし、ここにいるから
 …Urk…I get sick on ships either in the air or water.	……ウップ……海でも空でも船はダメなんだよ、アタシ--
 I wonder where you're taking me?	どこへ連れていってくれるのかな？
-Highwind	ハイウインド
 Dammit! Why didn't ya tell me you could fly an airship!?	てめえ、飛空艇が使えるんなら最初っから言えよな！
 I thought… TIFA was gone for good.	オレはよ……TIFAともサヨナラかと思ったぜ
 Sorry, but I had to do something to trick the enemy.	すんませんな～でも、敵をあざむくにはなんとやら、ですわ
@@ -235,7 +179,6 @@ Yo, CID!	おい！　CID！
 When you're ready, we're headin' for the Corel Reactor. C'mon Leader-man, let's hurry.	準備ができしだい【コレル魔晄炉】へ出発だ！急げよ、リーダーさん！
 CID????	CID……パシリ？
 …Urk… …I'm not down yet.	……ウップ…………負けないぞォ
-Highwind	ハイウインド
 Sorry!! Go speak to Captain CID!	す、すいません！一度CID艇長とお話を！
 TIFA, thank you for a job well done!	TIFAさんごくろうさまです！
 CID, thank you for a job well done!	CIDさんごくろうさまです！
@@ -305,7 +248,6 @@ Tell him YUFFIE says if he pilots the plane smoothly, I'll give him my autograph
 Headed for…Midgar?	ミッドガル……行くの？
 Uh, a, anywhere's fine…I don't care. Just hurry up and land this thing.	あ、アタシ、どこでもいい。早くおろして
 CLOUD…sign this.	CLOUD……この書類にサインして
-What is it?	なんだ？
 It's a contract that says when the war is over, all the Materia will belong to me.	戦いが終わったら、マテリアはぜ～んぶ、YUFFIEさんのものです
 It's all in there. Read it carefully and then sign it, all right?	そう書いてある書類。よく読んで、サイン、たのむよ
 Forget it, I'm not even gonna read it.	……だめだ。書類は読まない
@@ -330,12 +272,10 @@ That sucked!	あれは最悪だった……
 And there's one thing you mustn't do when riding.	ああ、それから絶対に乗り物の中でしてはいけないことがある
 And that is…	それは……
 Read!	字を読むこと！
-Read!	字を読むこと！
 Once you get sick, there's nothing anyone can do.	まあ、一度酔ってしまったら何をやってもどうしようもない……
 I know it's tough…	つらいところだよな……
 …So you’re a little better off than me.	あ、でも仲間がいるからちょっとだけ、元気でたよ
 But I don't feel…well.	気分は……はぅ……だけどね
-Highwind	ハイウインド
 That's a good Chocobo.	良いチョコボですね～
 I'm bored… I want to ride a Chocobo.	さびしいです……チョコボのせてください……
 How do I?	どうやって？
@@ -349,7 +289,6 @@ If you want to know about raising Chocobo, there's a Chocobo ranch near Midgar. 
 Anyhow, to the world map...	とりあえずワールドマップへ
 I'm going.	いくです
 I'm not goin'.	いかないです
-Highwind	ハイウインド
 Welcome to my airship-the Highwind!	ようこそ、オレ様の飛空艇ハイウインドへ！
 What's wrong!? You should be more excited than that!	どうしたい！もちっと感激しろい！
 CID…	CID……
@@ -391,7 +330,6 @@ Maybe, just maybe CLOUD's…	もし、もし、もしかしたらCLOUDも……
 Pilot in training (LV3)	見習いパイロット（ＬＶ３）
 Yaaaaahh! Don't talk to me right now!	あわわわわ！話しかけないでくださいっ！
 Get a hold of yourself!	しっかりしろい！
-Pilot in training (LV3)	見習いパイロット（ＬＶ３）
 Waaaaah! Captain CID!	あわわわわ！CID艇長～！
 TIFA, sorry, but I've gotta show this moron how to land the ship.	ネエちゃん、すまねえがオレ様はコイツに着陸の仕方をしこまなくちゃなんねえんだ
 Don't worry, it'll be done in a minute.	な～に、すぐに終わっからよ
@@ -404,7 +342,6 @@ Pilot in training (LV4)	見習いパイロット（ＬＶ４）
 Eagggghh! Are we going?	あわわわ！　いくですか？
 We're going	いく
 We're staying put	いかない
-Pilot in training (LV4)	見習いパイロット（ＬＶ４）
 Eagggggh! We're off!	あわわわ！　いくで～す！
 Well, it takes all kinds.	ま、人生いろいろだ～なぁ
 What're we gonna do now! What can WE do?	さ～て、どうするよっ！オレたちに出来ることはなんだ？
@@ -416,44 +353,34 @@ Yeah… I've already told you I was.	はぁ……もう、開きなおりまし�
 Both Gya ha ha and Kya ha ha are up to something.	ガハハハとキャハハのふたりがなんや、やらかすようです
 Wanna eavesdrop?	盗み聞きでも、しましょか
 Conference Room	会議室
-Rufus	ルーファウス
 Now then… We're faced with two issues.	さて……我々はふたつの課題を抱えている
 1 Destroy Meteor. 2 Remove the barrier around North Cave and defeat Sephiroth.	１　メテオの破壊２　北の大空洞のバリアを取り除きセフィロスを倒す　　　　　　
 Any ideas?	何か作戦は？
-Rufus	ルーファウス
 What?	ほう……
-Rufus	ルーファウス
 You're going to ram Meteor?	メテオにぶつける？
 Do you think we have the technology to do it?	我々の技術で可能なのか？
-Heidegger	ハイデッカー
 Gya haah hah hah! The first problem's already solved!	ガハハハハハ！すでに最初の課題はクリアも同然！
 Meteor will soon be smashed to bits!	メテオはまもなくコッパミジンですな！
 The plan is already in motion. We are collecting Huge Materia from each region.	そのための作戦はすでに実行に移しておるのです。それは各地のヒュージマテリアの回収なのです
 Gyaa haa ha ha!	ガハハハハハ！
-Heidegger	ハイデッカー
 We've already collected Materia from Nibelheim. All that's left are Corel and Fort Condor.	すでにニブルヘイムは回収終了。残るはコレルとコンドルフォート
 I've already dispatched troops to Corel.	コレルにはすでに軍隊を向かわせております
-Scarlet	スカーレット
 Huge Materia is a high-density, special type of Materia made through a special compression process in Mako reactors.	ヒュージマテリアは魔晄炉内で圧縮されて生成される高度に集積された特別なマテリア
 The energy extracted from it is 330 times the strength of normal Materia.	そこから引き出されるエネルギーは通常のマテリアの３３０超倍！
 Kya, ha, ha! How about that!?	キャハハハ！すごいでしょ！
 We will gather all the Huge Materia together and ram it into Meteor.	そのヒュージマテリアを一同に集めてメテオにぶつけるの
 That will cause a huge explosion, reducing Meteor literally to bits!!	そりゃあもう大爆発！！メテオなんか文字どおり打ちくだいちゃうってわけよ
-Scarlet	スカーレット
 First things first!	それはご心配なく！
 Right now, we've got to collect Huge Materia from each area.	それよりも、まずは各地のヒュージマテリアを回収すること
 That's why we're here… CLOUD… CLOUD has…	……それでここへ来たんです。CLOUD……CLOUDは……
-Bugenhagen	ブーゲンハーゲン
 I see… CLOUD has…	……そうか。CLOUDが……
 It's true that there are several places on the planet where the Lifestream is gathered.	たしかにライフストリームが集まっている場所は世界にいくつかある
 But most of those places are below the surface where humans cannot reach them.	ただそのほとんどははるか地の底で、とても人間の手のとどく場所ではないんじゃ
 There's only one place An island in the Southern Sea… 	ただひとつ例外は……ずーっと　【南の海にうかぶ島】　が……あるとかないとか……
 What did you say? I haven't left here in years… No good. I can't remember.	なんて言ったかの。もう何年もここから出とらんから……ダメじゃ、思いだせん
-Bugenhagen	ブーゲンハーゲン
 In the Southern Seas I think there was an island where the Lifestream is.	ずーっと　【南の海】　にライフストリームの集まる島があるとかないとか……
 But even if you find CLOUD there…	しかしの……もしそこでCLOUDが見つかったとしても……
 The Lifestream is a mass of spiritual energy,	ライフストリームはいわば精神エネルギーのかたまり
 and one person alone couldn't stand against such an incredible spiritual current…	言いにくいことじゃがひとりの人間の精神がそのすさまじい流れにたえられるとは、とても……
-Bugenhagen	ブーゲンハーゲン
 Listening to you and Nanaki speak has made me feel young again.	ナナキとあんたたちの話をきいておると、わしまで若くなったような気がするよ
 Ho Ho Hoooo. Might sound a little sarcastic.	ホーホーホウ。こんな時にヒニクなことじゃが、な
