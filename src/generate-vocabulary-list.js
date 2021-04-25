@@ -1,40 +1,22 @@
-/**
- * This shit is disgusting.
- * I have like 9 asynchronous things going on.
- * I don't know of a good way to do this.
- */
-
 // node packages
 const fs = require("fs");
 const http = require("http");
 
 // local packages
-const {mecab} = require("./mecab-wrapper");
+const {mecabSync} = require("./mecab-wrapper");
+const {lookup} = require("./jsdict-lookup");
 const symbols = require("./mecab-symbols.json");
 
-// local consts
-const inputFolder = "../scene/split/japanese/";
-const outputFolderNew = "../vocabulary/new/";
-const outputFolderUnique = "../vocabulary/unique/";
-const searchedWords = [];
-const foundWords = [];
-const usedDictEntries = [];
-const sceneWords = [];
-const sceneUsedDictEntries = [];
-
 // safe array handling
+Array.prototype.contains = function(item){
+	return this.indexOf(item) !== -1;
+}
+
 function __array(data){
 	if(Array.isArray(data)) return data;
 	if(!data) return [];
 	return [data];
 }
-
-// token analyzers
-function tokenIsNoun(token){ return token.pos === symbols.pos.noun; }
-function tokenIsVerb(token){ return token.pos === symbols.pos.verb; }
-function tokenIsAdjective(token){ return (token.pos === symbols.pos.i_adj) || (token.pos2 === symbols.pos.na_adj); }
-function tokenIsAdverb(token){ return token.pos === symbols.pos.adverb; }
-function tokenIsBasic(token){ return tokenIsNoun(token) || tokenIsVerb(token) || tokenIsAdjective(token) || tokenIsAdverb(token); }
 
 // jsdict formatters
 function formatSense(word){
@@ -58,149 +40,160 @@ function formatWord(word){
 	return formatted;
 }
 
-// read all processed texts and scrape vocabulary
-console.log(`Scraping scenes for vocabulary:`);
-function finish(){
-	console.log("DONE.");
+// token analyzers
+function tokenIsNoun(token){ return token.pos === symbols.pos.noun; }
+function tokenIsVerb(token){ return token.pos === symbols.pos.verb; }
+function tokenIsIAdj(token){ return token.pos === symbols.pos.i_adj; }
+function tokenIsNaAdj(token){ return token.pos2 === symbols.pos2.na_adj; }
+function tokenIsAdjective(token){ return tokenIsIAdj(token) || tokenIsNaAdj(token); }
+function tokenIsAdverb(token){ return token.pos === symbols.pos.adverb; }
+function tokenIsBasic(token){ return tokenIsNoun(token) || tokenIsVerb(token) || tokenIsAdjective(token) || tokenIsAdverb(token); }
+
+async function _read_stdin(callback){
+	return new Promise(function(resolve){
+		process.stdin.once("data", function(data){
+			callback(data);
+			resolve();
+		});
+	});
 }
 
-// read from stdin
-process.stdin.resume();
+async function readLine(){
+	let line;
+	await _read_stdin(function(data){
+		line = data;
+	});
 
-fs.readdir(inputFolder, function(err, files){
-	let j = -1;
+	return line;
+}
 
-	// file iterator
-	function nextFile(){
-		j++;
-		if(j >= files.length) {
-			finish();
-			return;
-		}
-		let file = files[j];
-		let sceneWords = [];
-		let sceneRoots = [];
-		let data = fs.readFileSync(inputFolder+file, "utf8");
-		let lines = data.split("\r\n");
-		let i = -1;
+async function sleep(time){
+	return new Promise(function(resolve){
+		setTimeout(resolve, time);
+	});
+}
 
-		// line iterator
-		function nextLine(){
-			i++;
-			if(i>=lines.length) {
-				// unique lines
-/*				let uLines = [];
-				sceneWords.forEach(function(value){ uLines.push(`${value.word}\t${value.line}`); });
-				fs.writeFileSync(outputFolderUnique+file, uLines.join("\r\n"), "utf8");*/
+const COLOR = {
+	HIGHLIGHT: "\u001b[33;1m\u001b[44m",
+	RESET: "\u001b[0m"
+}
 
-				// new lines
-				let nLines = [];
-				sceneWords.forEach(function(value){
-					let word = formatWord(value.definition);
-					let sense = formatSense(value.definition);
-					nLines.push(`${word.kanji}\t${word.kana}\t${sense.pos}\t${sense.gloss}\t${value.line}`);
-				});
-				fs.writeFileSync(outputFolderNew+file, nLines.join("\r\n"), "utf8");
+// local consts
+const inputFolder = "../scene/processed/";
+const outputFolderNew = "../vocabulary/new/";
+//const outputFolderUnique = "../vocabulary/unique/";
 
-				nextFile();
-				return;
-			}
+// local data
+const lookupWords = []; // token roots (words) that have been searched for (don't repeat these)
+const wordsFound = []; // jsdict entries that we've chosen go here (just the text sequence of the entry)
 
-			let line = lines[i];
-
-			// process through mecab
-			mecab(line, function(err, tokens){
-				let k = -1;
-				function nextToken(){
-					k++;
-					if(k>=tokens.length){
-						nextLine();
-						return;
-					}
-
-					let token = tokens[k];
-					if(!token.root) return nextToken();
-					if(searchedWords.indexOf(token.root) !== -1) return nextToken();
-					if(!tokenIsBasic(token)) return nextToken();
-					console.log(file, i+1, line, `'${token.root}'`);
-					searchedWords.push(token.root);
-					let word = {word: token.root, scene: file, line: line, definition:null};
-
-					// lookup definitions
-					http.get(`http://localhost:666/lookup/${encodeURI(token.root)}`, function(res){
-						let data = "";
-						res.on("data", function(chunk){ data += chunk; });
-						res.on("end", function(){
-							let json = JSON.parse(data);
-							function listOptions(){
-								console.log(`Choose a disambiguation for '${token.root}':`);
-								for(let z=0;z<json.length;z++) {
-									let _word = formatWord(json[z]);
-									let _definition = formatSense(json[z]);
-									let used = (usedDictEntries.indexOf(json[z].ent_seq) !== -1);
-									console.log(`${z+1})${used?"***":""} ${_word.kana}${_word.kanji ? " "+_word.kanji : ""}: (${_definition.pos}) ${_definition.gloss}`);
-								}
-							}
-
-							function askForNumber(){
-								process.stdout.write("Your choice: ")
-								process.stdin.once("data", function(chunk){
-									let num = new Number(chunk);
-									if(chunk == "\r\n") { console.log("Skipped."); console.log(""); return nextToken(); }
-									if(num > 0 && num <= json.length) {
-										let choice = json[num-1];
-										let used = (usedDictEntries.indexOf(choice.ent_seq) !== -1);
-										if(!used){
-											word.definition = choice;
-											usedDictEntries.push(choice.ent_seq);
-											foundWords.push(word);
-											sceneWords.push(word);
-										}
-									} else {
-										console.log("Not an option. Try again.");
-										console.log("");
-										listOptions();
-										askForNumber();
-										return;
-									}
-									process.stdin.removeAllListeners();
-									console.log("");
-									nextToken();
-								});
-
-							}
-
-							if(!json || !json.length) { console.log(`No results for ${token.root}.`); return nextToken(); }
-							if(json.length>1){
-								listOptions();
-								askForNumber();
-							} else {
-								let choice = json[0];
-								let _word = formatWord(choice);
-								let _definition = formatSense(choice);
-								console.log(`Automatically chose definition for '${token.root}':`);
-								console.log(`${(_word.kanji ? `${_word.kanji} ` : "")}${_word.kana} (${_definition.pos}) ${_definition.gloss}`);
-								console.log("");
-								let used = (usedDictEntries.indexOf(choice.ent_seq) !== -1);
-								if(!used){
-									usedDictEntries.push(choice.ent_seq);
-									foundWords.push(word);
-									sceneWords.push(word);
-								}
-								nextToken()
-							}
-						});
-					});
-				}
-
-				nextToken();
-			});
-		}
-
-		// start processing lines
-		nextLine();
+// scroll through files
+fs.readdir(inputFolder, async function(err, files){
+	if(err) {
+		console.log(err);
+		return;
 	}
 
-	// start processing files
-	nextFile();
+	console.log(`Scraping scenes for vocabulary...`);
+	for(let file of files){
+		console.log(`\t${file}`)
+		let sceneLines = [];
+		let text = fs.readFileSync(inputFolder+file, "utf8");
+		let lines = text.split("\r\n");
+		for(let i=0;i<lines.length;i++){
+			let line = lines[i];
+			let split = line.split("\t");
+			let english = split[0];
+			let japanese = split[1];
+			let tokens = await mecabSync(japanese);
+			for(let j=0;j<tokens.length;j++){
+				let reconstructed = [];
+				for(let k=0;k<tokens.length;k++) {
+					if(k===j) reconstructed.push(`${COLOR.HIGHLIGHT}${tokens[k].word}${COLOR.RESET}`);
+					else reconstructed.push(tokens[k].word);
+				}
+				let token = tokens[j];
+				if(!token.root) continue; // fake words
+				if(lookupWords.contains(token.root)) continue; // ignore past searches
+				lookupWords.push(token.root);
+				let spec;
+				if(tokenIsNoun(token)) spec = symbols.pos.noun;
+				else if(tokenIsVerb(token)) spec = symbols.pos.verb;
+				else if(tokenIsIAdj(token)) spec = symbols.pos.i_adj;
+				else if(tokenIsNaAdj(token)) spec = symbols.pos2.na_adj;
+				else if(tokenIsAdverb(token)) spec = symbols.pos.adverb;
+				else continue;
+				let search = lookup(`${token.root}`);
+				console.log(`\tDisambiguating line ${i+1}/${lines.length}...`);
+				console.log(`\t\tEnglish:\t${english}`);
+				console.log(`\t\tJapanese:\t${reconstructed.join("")}`);
+				console.log(`\t\tWord:\t\t${token.word} ('${token.root}' ${token.pos})`);
+				console.log("");
+				if(search){
+					if(!search.length) {
+						console.log("\t\tNo results.");
+						console.log("");
+						continue;
+					}
+
+					console.log("\t\tOptions");
+					console.log("\t\t-------")
+					for(let k=0;k<search.length;k++){
+						let entry = search[k];
+						let word = formatWord(entry);
+						let def = formatSense(entry);
+						let display = word.kanji ? `${word.kanji}[${word.kana}]` : word.kana;
+						console.log(`\t\t${k}) ${display} (${def.pos}) ${def.gloss}`);
+					}
+
+					console.log("\t\tPress enter or type 'skip' to skip this word.")
+					console.log("\t\t-------");
+					let choice;
+/*					if(json.length === 1) {
+						console.log("\t\tAutomatically choosing first result.")
+						await sleep(500);
+						choice = json[0];
+					} else {*/
+					if(1){
+						while(true){
+							process.stdout.write("\t\tYour choice: "); // add line without break
+							let input = await readLine(); // read line from stdin
+							if(input == "skip\r\n" || input == "\r\n"){
+								break;
+							}
+							let num = new Number(input);
+							if(num<0 || num >= search.length || isNaN(num)) {
+								console.log(`\t\t${num} is out of bounds.`);
+								continue;
+							}
+
+							choice = search[num];
+							break;
+						}
+					}
+
+					if(!choice){
+						console.log("\t\tNo choice made. Skipping word.");
+						console.log("");
+						continue;
+					}
+
+					if(wordsFound.contains(choice.ent_seq)) { // ignore
+						console.log("\t\tIgnoring duplicate.");
+						console.log("");
+						continue;
+					}
+
+					wordsFound.push(choice.ent_seq);
+					let word = formatWord(choice);
+					let def = formatSense(choice);
+					sceneLines.push(`${word.kana}\t${word.kanji?word.kanji:""}\t${def.pos}\t${def.gloss}\t${english}\t${japanese}`)
+					console.log("");
+				}
+			}
+
+		}
+
+		fs.writeFileSync(outputFolderNew+file, sceneLines.join("\r\n"), "utf8");
+	}
 });
