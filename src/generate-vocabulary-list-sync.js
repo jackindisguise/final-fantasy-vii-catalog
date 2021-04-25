@@ -4,9 +4,8 @@ const http = require("http");
 
 // local packages
 const {mecabSync} = require("./mecab-wrapper");
-const {lookupSync} = require("./jsdict-lookup");
+const {lookup} = require("./jsdict-lookup");
 const symbols = require("./mecab-symbols.json");
-const { stdin } = require("process");
 
 // safe array handling
 Array.prototype.contains = function(item){
@@ -124,15 +123,14 @@ fs.readdir(inputFolder, async function(err, files){
 				else if(tokenIsNaAdj(token)) spec = symbols.pos2.na_adj;
 				else if(tokenIsAdverb(token)) spec = symbols.pos.adverb;
 				else continue;
-				let search = await lookupSync(`${token.root}`);
+				let search = lookup(`${token.root}`);
 				console.log(`\tDisambiguating line ${i+1}/${lines.length}...`);
 				console.log(`\t\tEnglish:\t${english}`);
 				console.log(`\t\tJapanese:\t${reconstructed.join("")}`);
 				console.log(`\t\tWord:\t\t${token.word} ('${token.root}' ${token.pos})`);
 				console.log("");
 				if(search){
-					let json = __array(JSON.parse(search));
-					if(!json.length) {
+					if(!search.length) {
 						console.log("\t\tNo results.");
 						console.log("");
 						continue;
@@ -140,8 +138,8 @@ fs.readdir(inputFolder, async function(err, files){
 
 					console.log("\t\tOptions");
 					console.log("\t\t-------")
-					for(let k=0;k<json.length;k++){
-						let entry = json[k];
+					for(let k=0;k<search.length;k++){
+						let entry = search[k];
 						let word = formatWord(entry);
 						let def = formatSense(entry);
 						let display = word.kanji ? `${word.kanji}[${word.kana}]` : word.kana;
@@ -164,12 +162,12 @@ fs.readdir(inputFolder, async function(err, files){
 								break;
 							}
 							let num = new Number(input);
-							if(num<0 || num >= json.length || isNaN(num)) {
+							if(num<0 || num >= search.length || isNaN(num)) {
 								console.log(`\t\t${num} is out of bounds.`);
 								continue;
 							}
 
-							choice = json[num];
+							choice = search[num];
 							break;
 						}
 					}
