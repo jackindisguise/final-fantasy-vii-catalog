@@ -1,0 +1,949 @@
+Dolphin Shores	イルカの海辺
+CLOUD	CLOUD
+“Old man…”	「ジジイ……」
+BARRET	BARRET
+“Yo!! Junon airport?”	「おう！！
+	ジュノンエアポートだろ！」
+TIFA	TIFA
+“Just in time!”	「助かったね！」
+“Come on! Let's go to the airport!”	「さ！
+	エアポートにいきましょ！」
+RED XIII	RED XIII
+“Ugh. It's salty!	「しょっぱいよう！
+Let's go to the airport!”	エアポートにいこうよ！」
+CID	CID
+“God!! I'm drenched!”	「クソッ！
+	ずぶぬれだぃ！」
+“Hurry up! Let's get to the airport!”	「いそげぃ！
+	エアポートだっ！」
+YUFFIE	YUFFIE
+“Phew…	「ふぅっ～！！
+The air up here's great!”	地上の空気はおいしいよ！」
+“Hey!	「ほらっ！
+Let's go to the airport!”	エアポートにいこう！」
+CAIT SITH	CAIT SITH
+“Let's go to the airport!”	「エアポートに
+	いきましょか！」
+Vincent	VINCENT
+“Looks like we made it.	「たすかったようだな。
+You'll probably head for the airport, right?”	エアポートへむかうのだろ」
+CLOUD	CLOUD
+“Hmm…Junon.”	「ジュノンか……」
+“I'd love to get my hands on a submarine	「なんとか、潜水監も
+right now.”	手に入れておきたいところだな」
+BARRET	BARRET
+“Yeah! I could go for that!	「おう！！　おもしれえ！
+Let's go to the submarine dock	ジュノン地下の【潜水監ドック】にもよってくか！」
+under Junon!”	
+TIFA	TIFA
+“There should only be a few guards now.”	「いまなら警備もうすいわ」
+“It might be safe to go to	「ジュノン地下の【潜水監ドック】に
+the submarine dock under Junon.”	よってくのもいいかもね」
+RED XIII	RED XIII
+“I would like to ride it!	「オイラ、のりたいな！
+Let's get one from the submarine dock	ジュノン地下の【潜水監ドック】！
+beneath Junon!”	とりにいこうよ！」
+CID	CID
+“You want it? Then you got it!	「ほしいならしかたねぇ！
+They're down at the submarine dock	ジュノン地下の【潜水監ドック】！
+underneath Junon!	とれるときにとっとけ！」
+You gotta get what you want while you can!”	
+YUFFIE	YUFFIE
+“…Yeah!!”	「ええっ～！！
+“The submarine dock underneath Junon!	ジュノン地下の【潜水監ドック】！
+	ぬすむのはいいけどさ！」
+I can steal a sub easy enough,	「乗るのは
+but I can't pilot it!”	えんりょしとくよ」
+CAIT SITH	CAIT SITH
+“Security's pretty light now!	「潜水監はジュノン地下の【潜水監ドック】に
+The submarine's at the submarine dock!”	ありますんや！」
+VINCENT	VINCENT
+“It should be alright.”	「悪くなかろう」
+CLOUD	CLOUD
+“Let's go…”	「いくか……」
+“I sure was scared when Weapon attacked.	「ウェポンの襲撃にはビビッタよな。
+It gives me the creeps knowing there's	あんなヤツがまだあと２匹いるかと
+still two of them left.”	思うとゾッとするよ」
+“Oh yeah? Well, I'm ready to fight	「そうかい？俺は人類最大の敵を
+mankind's worst enemy	目の前にして武者ぶるいしている。
+like a real warrior.	惑星規模の闘いなんてめったに
+It's not everyday you get to fight	経験できないぜ」
+in an inter-planetary war.”	
+“The President is gathering up	「社長はこの星に存在するヒュージマテリアを
+all the Huge Materia on the planet.	全てあつめ、ロケットでメテオにぶつける
+He wants to shoot it at Meteor	つもりだ。たいした社長だよ」
+in the rocket.”	
+“President Rufus is different	「ルーファウス社長は先代と違う。
+from the older generation.	神羅の持つ科学力を総動員して
+He'll protect the planet with	この星を守っている」
+all of Shinra's	
+state of the art technology.”	
+“Protect it? No, I don't think so.	「守る？いや、違うな。
+The President isn't the type to do	そんなきれいな使命感は社長にはない。
+anything so heroic.	社長にとってはただの勝ち負けの間題。
+It's all just a game to him	ゲームと同じさ……」
+a question of winning or losing.”	
+“They've finally started collecting	「とうとう、ここジュノン【海底魔晄炉】の
+the Huge Materia	ヒュージマテリアも回収作業に入ったか」
+from the Junon Underwater Reactor.”	
+“After they get it, they'll take it	「回収後、このエアポートにヒュージマテリアが
+to the airport and will transport	集められ、ゲルニカでロケット村へ送られる
+it to Rocket Town by Gelnika.	てはずになってる。気をぬくな！」
+Don't let your guard down!”	
+“Whew…I hope everything goes all right	「ふう……無事に【ロケット村】まで到着してくれよ。
+until we get to Rocket Town.	これでミッションもひと段落だな」
+Then, our mission is nearly complete.”	
+“Not so fast. We still have one major task…	「まだまだ。もうひとつ大仕事が残ってるぜ。
+we still have to transport the stuff…”	アレを運ぶミッションがな……」
+“The stuff…”	「アレか……」
+CLOUD	CLOUD
+“Oh no!	「しまった！
+The Huge Materia…”	ヒュージマテリアを……」
+CLOUD	CLOUD
+“Oh no!	「しまった！
+The Huge Materia…”	ヒュージマテリアを……」
+BARRET	BARRET
+“Let's go after it!”	「追いかけるぞ！」
+TIFA	TIFA
+“Can't we go after it?”	「後を追えないの？」
+RED XIII	RED XIII
+“Can we get there	「あれの目的地に先回りできるかな？」
+before they do?”	
+CID	CID
+“Grrrrgh!	「ぐぅわぁぁ！
+Just barely!	タッチのさだ！
+We're goin' after it!”	おいかけるぞ！」
+VINCENT	VINCENT
+“Let's go after it.”	「追いかけよう」
+CAIT SITH	CAIT SITH
+“How 'bout us getting there beforehand	「先回りして奪い返しませんか？」
+and stealing it back?”	
+YUFFIE	YUFFIE
+“Let's get there before they do	「先回りしてとっつかまえちゃおうよ！」
+and catch 'em!”	
+BARRET	BARRET
+“But where to?”	「でもいったいどこに？」
+TIFA	TIFA
+“Where are they headed?”	「どこへ向かったのかな？」
+RED XIII	RED XIII
+“Where's their destination?”	「行き先はどこかな？」
+CID	CID
+“Where's that thing headed?”	「あれの行き先は……」
+VINCENT	VINCENT
+“Where is their destination…?”	「あれは……どこへ向かっている？」
+CAIT SITH	CAIT SITH
+“Where is it flying to?”	「どこ飛んでくんやろ？」
+YUFFIE	YUFFIE
+“Hey, where? Where? Where are they headed?”	「ね、どこどこ？　行き先は？」
+CLOUD	CLOUD
+“Rocket Town, of course.”	「決まってるさ。
+	ロケット村だ」
+CLOUD	CLOUD
+“I may be mistaken, but…	「気のせいかもしれないけど……
+doesn't it feel like we're missing	何かものたりなくないか？」
+something?”	
+“All I wanted was to become a pilot!	「オレ、むかしはパイロット志望でさ！
+I used to be speechless watching the	ゆうやみに浮かぶハイウィンド！
+Highwind in the sunset!”	いつ見てもしびれちゃうやね！」
+“Finished loading the Huge Materia!	「ヒュージマテリアの積みこみは完了！
+All we have to do now is to ready	後はエアポートでゆそうきのゲルニカの離陸を
+the cargo ship,	見送れば、任務は終わりさ」
+Gelnika', for departure and we're done!”	
+“It's kinda lonely at the airport	「ハイウインドなしのエアポートは
+without the Highwind, isn't it?”	さびしいもんやね！」
+“I miss that bikini girl	「オレ、あの機体の水着の女の子の
+on the side of the plane.”	ファンだったのに」
+“Right now the Shinra's using it to gather the	「今、神羅軍は【コレル魔晄炉】と
+Huge Materia from the Corel Reactor	【コンドルフォート魔晄炉】の
+and from the Fort Condor Reactor.”	ヒュージマテリア回収ミッションにかりだされてんだ」
+“The Gelnika's flying all over the place!	「ゲルニカもいそがしく飛び回ってるよ！
+The only one that's not busy, is probably me!”	ひまなのは、オレひとりぐらいさ！」
+“The Shinra's collecting Huge Materia	「今、神羅軍は、ここ、ジュノン海底魔晄炉の
+at the Junon Underwater Reactor!	ヒュージマテリア回収ミッション中でさ！
+When they're done,	無事回収したらこの空港に運びこまれるんだ」
+they'll bring it to this airport.”	
+“Get out of here before you get in the way!”	「じゃまにならないうちにはやく立ちさりなよ！」
+“What…me?	「えっ……オレ？
+I'm gonna be watching from here,	オレもじゃまにならないように
+so that I don't get in their way either!”	ここで見物ですよ！」
+“I'm glad we got Gelnika to	「無事ロケット村まで
+Rocket Town safely.”	ゲルニカを送り出してほっと一安心」
+“But they sure think big.	「でも、スケールのでかいこと考えるよな～。
+Looks like they're going to use	ヒュージマテリアの破壊力を利用して
+the Huge Materia to break up Meteor…”	メテオを壊そうだなんて……」
+“The Shinra Army's gathered at Midgar.	「神羅軍の軍事力はすべてミッドガルに集中した。
+Now it's just a matter of time	もはやセフィロスでさえも死ぬのは時間の間題…」
+Sephiroth's dead.”	
+“What…me? I don't mind.	「えっ……オレ？
+I'll just wait here.	オレはいいよぅ。
+My life is important to me.”	ここで待機してますよ、命おしいですからねえ」
+“I finally got orders to join	「ついにオレにもセフィロス大作戦への
+the Great Sephiroth Plan.	参加命令がくだっちまいましたよ。
+I even get to go on the Gelnika too…”	あこがれのゲルニカにも乗れるんだけど……」
+“But, I'm just gonna ignore them.	「けどね、てっていして無視してやりますよ。
+I wanna live to see	オレはしぶとく生き抜いて
+the end of the world.”	世界の最後をみとどけてやります」
+“If I'm lucky…	「もし運がよけりゃね……
+There'll be a good place for me	新しい世界がオレを必要としてくれるかも
+in the New World.”	しれないしね」
+“Doesn't it bother you?	「いやじゃないですか？
+Flying around knowing that	死ぬかもしれないって不安な気持ちで
+you could die at any moment?”	空を飛ぶなんて」
+“If that's the case,	「どうせなら
+might as well live on the edge, I say.	スカーッと生きてるよろこびに興奮しながらね。
+But before I can do that,	でも、その前に運転めんきょですけど」
+I gotta get a license first.”	
+Junon Path	海底魔晄炉への通路
+“Only authorized personnel are allowed past	「この先は、関係者以外立入禁止！」
+this point!”	
+“You know too, right?	「あんたも知ってるだろう？
+About Junon Navy's important	ジュノン海軍の重要機密」
+classified information.”	
+“A new submarine has almost been completed	「神羅技術のすいを集めた
+using Shinra's top technology.”	新型潜水監がもうじき完成するんだ」
+“A new version of submarine.	「新型の潜水監。
+I'll be sailing on it.	俺も乗船することになってんだ。
+Man, I can't wait!”	うっ～、まちどおしいぜ！」
+“Man…	「ふぁぁぁぁ……
+Keeping watch is so boring	海底魔晄炉の見張りはたいくつだよ」
+at the Underwater Reactor.”	
+“OK! Back to work!!	「さぁっ！　お仕事っ！！
+Back to work!!”	お仕事っ！！」
+“Yawn…I'm sleepy!!”	「ふぅぁ～……ねぶそく！！」
+“For Junon!!”	「ジュノン万歳～！！」
+CLOUD	CLOUD
+“Damn, Shinra dogs!!”	「神羅のイヌめ！！」
+“We'll take that submarine!!	「潜水監は俺たちがいただく！！
+Out of our way!!”	そこをどけ！！」
+“This is the Junon Submarine Dock!”	「こちら、【ジュノン潜水監ドック】に
+	なっとります！」
+“If you want to enter,	「はいりたければ
+please talk to my dog.”	ぼくらのワン公（ガードハウンドちゃん）に
+	話しかけてください」
+“That's all the instructions you're going to get!	「道案内は終わりだ！
+Let's go!!”	いくぞ！！」
+Junon Path	ジュノン・通路
+“What is it?	「なんだい？
+The elevator's out of order	いま、定期点検中なんで
+for an inspection.”	エレベーターは動かせないよ」
+“You know, right under us	「ちなみに……この下には
+is a Submarine Dock	潜水監ドッグと海底魔晄炉が
+and the Underwater Mako Reactor.”	あるんだけどね」
+“Mako energy puts a lot of wear and tear	「魔晄エネルギーは機械のしょうもうが
+on the machinery.”	はげしいからね」
+“A lot of problems can pop up.	「あちこちガタがくるのがはやいんだ。
+So it's necessary for close inspections	まめな点検と整備がかかせないのさ」
+and maintenance.”	
+“Hey!! Civilian!!	「こりゃ！！　一般人！！
+Stay out of our training!!”	くんれんのじゃまをすな～！！」
+“Go around them!	「はしっこを
+And stay out of their way!!”	ちいさくなって進め～！！」
+“All right!!	「うっし！！
+Let's see how hard you trained!”	くんれんの成果をみせちゃれ！」
+“Attention! Charge!!”	「全員、とっつげき～！！」
+“He…hey!!	「こ、こりゃ～！！
+That's the Underwater Reactor!!	そっちは、海底魔晄炉！！
+Come back!!”	逃げんな～！！」
+“Our forces are in the process of gathering	「我が友軍は～　現在【コレル魔晄炉】と～
+the Huge Materia from the Corel and the	【コンドルフォート魔晄炉】の～
+Fort Condor Reactors!”	ヒュージマテリア回収大作戦を実行中だ！」
+“Once these two missions are completed,	「その２つのミッションが終われば
+the Underwater Reactor will be	次はここの地下の海底魔晄炉が
+our next target!”	大作戦の対象にな～る」
+“Till then, we do nothing but train, train, train!”	「それまでは、いっしょうけんめい
+	くんれん、くんれん、くんれんだ！」
+Elevator	エレベーター
+“…gulp…	「ドキドキ……
+Going do---wn.”	したへまいりま～す」
+“This floor is the Submarine Dock…”	「こちらには
+	潜水監ドックがございま～す」
+“Those of you visiting the Underwater Reactor,	「海底魔晄炉へおこしのお客様は
+please proceed through	ここから先、連絡通路を
+the connecting tunnel.”	お通りください」
+“…gulp…	「ドキドキ……
+Going u---p.”	うえでございま～す」
+“Returning to Junon.”	「ジュノンの街にもどりま～す」
+“…gulp…	「ドキドキ……
+	あの……
+We're here…”	つきましたでございま～す」
+“…gulp…	「ドキドキ……
+(Great…there went two	（キッ～～！　よくも……
+perfectly good men!)”	わたしのファンを減らしたわね！）」
+“How 'bout, whoever stays alive,	「生き残ったほうが
+gets to take her out?”	彼女とデートできるってのはどうだ？」
+“All right, you're on!!”	「よし、のった！！」
+“But…	「でもよ……
+What if both of us…”	二人ともやられた場合は…」
+“Whoa!!	「おっと！！
+Don't even talk about that!”	そりゃいいっこなしってやつだ！」
+Junon Path	海底魔晄炉への通路
+Junon Path	海底魔晄炉への通路
+Elevator	エレベーター
+“Locked”	ロックされている
+“You, you're CLOUD!!”	「き、きさまはCLOUD！！」
+“You are NOT getting this Huge Materia!!”	「ヒュージマテリアは
+	渡さん！」
+“So you WERE after the Huge Materia!”	「やはり
+	ヒュージマテリアを
+	ねらって来たか！」
+CLOUD	CLOUD
+“!?	「！？
+The Huge Materia!”	ヒュージマテリアが！」
+YUFFIE	YUFFIE
+“Hey!	「あ～！
+A Crane Game!”	ゲーセン・キャッチャー！」
+BARRET	BARRET
+“Damn, just missed it!”	「ひとあし遅かったか！」
+TIFA	TIFA
+“They're gonna take it on that submarine!”	「さっきの潜水監で
+	運ぶつもりよ！」
+CID	CID
+“That's what you think!	「そうはトンヤが
+^%$@#&$#!”	おろすかってんだ！
+	このヤロウ！」
+VINCENT	VINCENT
+“We were too late…”	「出遅れたな……」
+CAIT SITH	CAIT SITH
+“There's the submarine dock just ahead.”	「ちょっと先に潜水監のドックが
+	あるんですわ」
+RED XIII	RED XIII
+“If we take a short cut,	「先回りすれば
+we might just make it!”	間に合うかも……！」
+CLOUD	CLOUD
+“Did we make it!?”	「間に合ったか！？」
+Reno	レノ
+“What are you doing?	「何してる、と。
+Help load.”	お前も積みこみを……」
+Reno	レノ
+“CLOUD!?”	「CLOUD！？」-
+BARRET	BARRET
+“We're gonna help transport	「ヒュージマテリアの
+the Huge Materia…Reno!”	運搬なら、オレたちが
+	やらせてもらうぜ。
+	レノさんよ」
+RED XIII	RED XIII
+“Help?”	「手伝えって？」
+VINCENT	VINCENT
+“I refuse…”	「断わる……」
+CID	CID
+“You know I don't work cheap!”	「オレ様のギャラは
+	ち～とばかり高いぜ」
+TIFA	TIFA
+“Looks like we barely made it.”	「ギリギリ
+	間に合ったってとこね」
+YUFFIE	YUFFIE
+“I'm SURE! You want me to do manual labor?”	「アタシ、肉体労働なんか
+	や～だ～」
+CLOUD	CLOUD
+“Either give it to us or else.”	「俺たちに渡すか、ルーファウスに
+	届けるか……」
+CLOUD	CLOUD
+“…which is it gonna be?”	「どうする？」
+Reno	レノ
+“Unfortunately, I don't have	「あいにく、きさまらと
+time to deal with you.”	遊んでいるヒマはない、と」
+Reno	レノ
+“My priority is the Huge Materia!”	「今はヒュージマテリアが
+	最優先だ、と！」
+CLOUD	CLOUD
+“Damn! The submarine!”	「し、しまった！　潜水監が！」
+CAIT SITH	CAIT SITH
+“Oh no! It left the dock…”	「あぁ～あ
+	行ってしもた～……」
+BARRET	BARRET
+“Damn!	「チッ！
+So they was just buyin' time!?”	時間かせぎだったのか！？」
+YUFFIE	YUFFIE
+“Huge Materia…! Wait…!”	「ヒュージマテリア～！」
+TIFA	TIFA
+“We have to go after it!”	「は、早く追わないと！」
+RED XIII	RED XIII
+“But it's already in the water!”	「でも、相手は
+	もう海の中だよ」
+VINCENT	VINCENT
+“There is a way…”	「手段は……
+	なくもないな……」
+CID	CID
+“Hold on to your horses!	「あわてなさんなって！
+Let's take it from 'em!!”	あいつを、ちょうだいしちまおうぜ！」
+神羅兵	神羅兵
+“Y, you!”	「お、おのれ……！」
+神羅兵	神羅兵
+“You're not taking over this ship!”	「監はわたさんぞ！」
+CID	CID
+“Hey, hey, hey!	「おいおいおい！
+Where do you think you're goin'?”	どこ行こ～ってんだよ！」
+YUFFIE	YUFFIE
+“Wait a sec!	「ちょ～っと～！
+What about the Huge Materia---?”	ヒュージマテリアは
+	ど～すんのよ～！」
+CAIT SITH	CAIT SITH
+“Hey you!	「ちょっと、あんた！
+Where ya goin'?”	どこいくんや！？」
+TIFA	TIFA
+“CLOUD--!	「CLOUDー！
+We have to go after Rude!”	ルードを追わなくちゃ！」
+BARRET	BARRET
+“We ain't jus' gonna let them take the	「まさか、ヒュージマテリアを
+Huge Materia, are we?”	やつらに、わたしちまうんじゃ
+	ねーだろうな」
+RED XIII	RED XIII
+“Aren't we going after the	「ヒュージマテリアを
+Huge Materia?”	追うんじゃないのかい？」
+Submarine Dock	ジュノン潜水監ドック
+CLOUD	CLOUD
+“Shinra dog!!”	「神羅のイヌ……！！」
+Ignore it	無視する
+Dognap it!	イヌ質にする
+CLOUD	CLOUD
+“Feelin' lonely!?	「さびしがりやさん！
+Better get back to your master.”	主人のもとにかえるんだな」
+CLOUD	CLOUD
+“Shinra dog!!	「神羅のイヌめ！！
+I'm gonna dognap you!!”	おまえをイヌ質にしてやる！！」
+CLOUD	CLOUD
+“Those attackers won't bother us now.”	「これで戦闘員も手をだせまい…」
+Inside Submarine	潜水監内部
+“P…Please!!	「はっ！！
+Spare me!!”	命だけはおたすけ！！」
+CLOUD	CLOUD
+“Hmm…”	「そうだな……」
+Take them all hostage	まとめて人質にする
+Fight them	バトルだな
+CLOUD	CLOUD
+“Be grateful.	「感謝しろよ。
+I'm taking you prisoner.”	ほりょにしてやる」
+CLOUD	CLOUD
+“Don't think we're weak.”	「あまくみるな」
+CLOUD	CLOUD
+“We can't go back after	「ここまできて
+coming this far.”	もどるわけにはいかないな」
+“Thank you!”	「ありがとうございやす！」
+“You're pretty nice!”	「やさしいでやんすね！」
+Inside Submarine	潜水監内部
+“You want the Sub?	「潜水監がほしけりゃ
+Just try an' take it!”	力ずくで奪ってみな！」
+“Um…sir!	「ああ……先輩！
+Maybe we shouldn't piss them off…”	そんな強気な発言は…」
+BARRET	BARRET
+“Come on, CLOUD!	「いくぞ、CLOUD！
+Follow me!”	オレにつづけ」
+BARRET	BARRET
+“Damn, man!!	「ケッ！！
+…What the?”	……なんてな」
+“Hey yo!	「覚えてるか？
+Remember I was the leader first, man!”	最初はオレがリーダーでよ！」
+BARRET	BARRET
+“Yo! We come a long ways	「なあ！　あの列車に乗ってからよ
+since we got on this train!”	ずいぶん遠くにきたもんだ！」
+“Lotsa things changed!	「かわっちまったぜ！
+This and that.”	あれやこれやとよ」
+Inside Submarine	潜水監内部
+CLOUD	CLOUD
+“We're breakin' out of here!”	「ここから
+	脱出だ！」
+TIFA	TIFA
+“But how?	「でも……
+We're at the bottom of the sea!!”	ここ海の底なのよ！」
+BARRET	BARRET
+“Whatcha gonna do!?”	「どうすんだよ！！」
+RED XIII	RED XIII
+“I can't swim…”	「オイラ、およげないんだけど…」
+CID	CID
+“Damn!	「クソッ！
+What are we gonna do?”	どうすんだ！」
+YUFFIE	YUFFIE
+“I wanna get outta here, now!”	「はやく、でたいよっ！」
+CAIT SITH	CAIT SITH
+“What we gonna do?”	「どないすんねんな？」
+VINCENT	VINCENT
+“We're at the bottom of the sea.”	「ここは深海だぞ」
+CLOUD	CLOUD
+“We're gonna hop on a	「ギョライに乗って
+torpedo and blast outta here!”	飛びだす！」
+CLOUD	CLOUD
+“Don't worry!	「心配するな！
+I won't miss!”	ねらいははずさない！」
+“We don't even have a target.	「標的はなにもない
+We're just aiming at the sky.”	ただの空だからな」
+Submarine Bridge	潜水監・ブリッジ
+“NO, NO!!	「こりゃ！！
+This is terrible!”	こりゃ、いかん！」
+“We don't have much time left!	「もうあとがないであります！
+I don't want to die!”	自分は死にたくないであります！」
+“There's still so much more I've got to do!”	「自分はくいがのこるであります！」
+“I never even got to do my special	「一度も実戦でスペシャルポーズ
+victory dance in battle!”	やったことないであります！」
+“All right!!	「うっっし！！
+Then make this your first victory!!”	この戦いに初勝利し～！！」
+“Go on, show 'em!!”	「見せつけちゃれ！！」
+“Yes, sir!!”	「はっ！！」
+“Remember your last training. Begin!!”	「最後のくんれんはじめ～！！」
+“I'm back!	「待たせたなっ！
+An' now I got no regrets!!”	思い残すことはないっ！！」
+“ATT----ACK!!”	「とっつげき～！！」
+CLOUD	CLOUD
+“Someone…please.	「だれか、すまない……。
+I'm sorry I can't take it anymore.”	俺、もうげんかいなんだ」
+“The lack of space, the shaking,	「このせまさ、ゆれ、エンジン音……」
+the roar of the engine…”	
+BARRET	BARRET
+“Stop your blubberin'!!	「ピコピコしやがって！！
+How we gonna move this without you?”	どうやって動かすんだ？」
+CID	CID
+“DAMN!	「クッソ～イ！
+I've GOT to get back in the air!”	オレ様は空飛ばねえとだめなんでぃ！」
+RED XIII	RED XIII
+“I can't budge it.”	「オイラの足じゃ動かせないよぅ～」
+YUFFIE	YUFFIE
+“I…I can't…	「あたしも、もぅダメ～。
+I'm history.”	あきらめちゃおうよ」
+TIFA	TIFA
+“What are we going to do?	「どうしよう……。
+We stole a submarine but can't pilot it.”	潜水監うばっても、動かせない」
+VINCENT	VINCENT
+“Better hurry.	「いそがねば。
+Reno's getting away.”	レノをとりのがすことになる」
+CAIT SITH	CAIT SITH
+“I can't fit in this seat..."	「あかん！
+No good!”	シートにすわられへん！」
+TIFA	TIFA
+“See!?”	「ほら！！」
+“Just fiddle with the controls,	「てきとうにさわってれば
+and we'll get somewhere!”	なんとかなるよ」
+TIFA	TIFA
+“Hey CLOUD?	「ねえ、CLOUD？
+Why don't you try piloting it?”	そうじゅうしてみたら」
+“They say you don't get motion sickness	「ほら、運転すると酔わないって
+if you're driving.”	いうでしょ」
+TIFA	TIFA
+“You can do it, CLOUD!”	「がんばって、CLOUD！」
+BARRET	BARRET
+“Arrrrrrrgh!!”	「んが～！！」
+BARRET	BARRET
+“EY!! Looks likes we're almost on our way!	「おっ！！　いけそうだぜ！
+Just keep on fiddlin' with it!!”	このピコピコ！！」
+“It's all up to you!”	「あとはおまえさんにまかせるぜ！」
+BARRET	BARRET
+“Don't worry!”	「心配すんな！」
+“If it breaks down,	「止まっちまったら
+I'll smack it one. That'll fix it!”	オレがぶったたいて直すからよ！」
+RED XIII	RED XIII
+“It moved!”	「動いたよ！」
+RED XIII	RED XIII
+“CLOUD!!	「CLOUD！！
+Try it!”	やってみてよ」
+CID	CID
+“Hunka junk…just gotta do this!”	「こんなもんはこうすりゃ！」
+CID	CID
+“SEE!	「ほぅれ～見ろぃ！
+Now you take over!”	あとはたのんだぜぃ！」
+CID	CID
+“I'll be watchin' from here!”	「オレ様はここで見物してらい！」
+YUFFIE	YUFFIE
+“HEY---!	「あっ～！
+It's movin'!”	動いちゃった！！」
+YUFFIE	YUFFIE
+“Oh man, this sucks!!	「こりゃ、さいて～！
+CLOUD, do something!”	CLOUDっ、なんとかして」
+YUFFIE	YUFFIE
+“I'll hold my breath,	「息止めてるから
+so HURRY!”	はやくはやく～」
+CAIT SITH	CAIT SITH
+“It's movin'---	「動いたようやなぁ～！
+Keep it up, CLOUD!”	CLOUDさん、あとはたのんますわ」
+CAIT SITH	CAIT SITH
+“Oh please drive safely, CLOUD!”	「CLOUDさん
+	安全運転してや～」
+VINCENT	VINCENT
+“I'm not very mechanical, but	「どうやら、動きはじめたようだな。
+it seems like we're starting to move.”	私は機械に弱い」
+“Hang in there.”	「よろしくたのんだぞ」
+VINCENT	VINCENT
+“Shinra's technology	「神羅の技術は
+is really something.”	たいしたものだな」
+CLOUD	CLOUD
+“Hey, you're right…	「そうだな……
+I DO feel a little better driving.”	動かしてるほうが気がまぎれる」
+“No sweat. Just leave everything to me.”	「ここは俺にまかせてくれ」
+CLOUD	CLOUD
+“Well, now what?”	「さて、どうするか？」
+Read the manual	操作説明を見る
+Sit in the seat	席にすわる
+Leave it alone	そっとしておく
+CLOUD	CLOUD
+“Everything seems set…”	「準備は完了だな……」
+Read the manual	操作説明を見る
+Start the mission!	ミッション開始！！
+CLOUD	CLOUD
+“This switch?”	「このスイッチか…？」
+“Main screen: ON”	『メインビューアー・スクリーンオン』
+Change the screen mode.	画面モードを切り替えます。
+“Submarine Operation Manual	『潜水監の操作マニュアル・初心者編』
+- Beginner's Edition”	
+“Button Placements”	『ボタン配置』
+“Controls”	【ボタン】
+[MENU]: Speed Up	△：前進（シフトアップ）
+[SWITCH]: Fire!	□：ギョライ発射！
+[CANCEL]: Speed Dn	×：後退（シフトダウン）
+“Directional controls”	【方向キー】
+Up: Descend	上：下降
+“Left: Left rotation	左：左旋回　　　　右：右旋回
+Right: Right rotation”	
+Down: Ascend	下：上昇
+“Mission Orders”	『ミッション指令』
+“Presently on the ocean floor near Junon,	「現在、ジュノン海底には、ヒュージマテリアを積んだ
+a Red Leader Submarine carrying	赤いボス潜水監を護衛するため
+Huge Materia is being escorted	神羅海軍潜水監隊が潜行している模様。」
+by covert Shinra Submarine Units.	
+“Furthermore, it has been confirmed that	「また、海底には機雷が多数
+several mines have been dispersed	配置されていることを確認。」
+onto the ocean floor.	
+	
+“The ocean floor can only be monitored with	「海底の様子は、神羅特製ソナーレーダー画面を
+Shinra's Sonar Radar Screen.	通じてしか知ることはできない。
+“Enemy subs can only be detected	「潜行している敵潜水監は、ソナーはんい内に
+within the Sonar area.	とらえないかぎり、認識不可能だ。
+“Get in front of the detected enemy sub	「発見した敵潜水監を正面にとらえ【ロックオン！】
+and "Lock On"!!	
+“Push [SWITCH] to fire the torpedo!	「□ボタンでギョライを撃ちこめ！
+The mines are found on the radar screen	レーダー画面上、のびちぢみする光の柱の上に
+at the top of the indicators.	表示されるのが、機雷だ。
+“The mines inflict great damage,	「機雷への接触は大きなダメージとなるので注意！」
+so be careful!	
+“Objective”	『クリア条件』
+“Sink the Red Leader Submarine	「ヒュージマテリアを積んだ赤いボス潜水監の撃破！」
+carrying the Huge Materia!”	
+Time Limit: 10 minutes!	タイムリミットは、１０分！
+“Advice”	『ワンポイントアドバイス』
+1. Get the enemy submarine in front of you!	１．敵潜水監を正面にとらえよ！
+“2. When the lock-on marker flashes red,	２．ロックオンマークが赤く点滅したらギョライ発射！
+launch torpedos!”	
+“3. Concentrate attack	３．赤いボス潜水監を集中攻撃せよ！
+on the Red Leader Submarine!”	
+“4. If you lose track of the enemy,	４．敵を見失ったらＲ１ボタンの全体レーダーで探索！
+push [PAGEDOWN] and use your radar!”	
+“Submarine Operation Manual	『潜水監の操作マニュアル・中級者編』
+- Intermediate Edition”	
+“Radar Screen”	『レーダー画面の見方』
+“The mines are found at the top of	「レーダー画面上、のびちぢみする光の柱は
+the indicators on the screen.”	柱の上に機雷がひそんでいることをあらわしている。」
+“The basic strategies are	「柱をさけつつ、敵潜水監を背後からとらえ
+to 1) avoid the indicators,	確実にロックオンするのが基本戦術となる。」
+and 2) "Lock On" to enemies from behind.	
+“The lower gauge shows	画面下のよこゲージは潜水監の耐久力をしめす。
+the sub's remaining power.	
+“The right gauge shows the sub's speed.	画面右のたてゲージは潜水監のスピード。
+“Other warnings are as follows…”	「その他、各種警告の意味は以下の通り……」
+WARNING…Enemy submarine detected nearby!	ＷＡＲＮＩＮＧ…近くに敵潜水監発見！
+ALERT…Approaching torpedo detected!	ＡＬＥＲＴ…接近するギョライ発見！
+MINE…Mine detected nearby!	ＭＩＮＥ…近くに機雷発見！
+CONFLICT…Collision with the ocean floor!	ＣＯＮＦＬＩＣＴ…海底に衝突（バックまたは転回せよ）
+“Loading torpedoes”	『ギョライの装填』
+“Preparation time is needed before	「ギョライは一発撃つと次の発射までに
+the next torpedo can be fired.	時間がかかる。
+“Take your time, and don't waste your shots!”	「むだ撃ちはせず、確実にねらっていけ！」
+“Submarine Operation Manual	『潜水監の操作マニュアル・マスター編』
+- Advanced Edition”	
+“How to release the "Lock On" mode”	『ロックオンのはずしかた』
+“If the sub leaves the center of	「ソナーはんい内にとらえた潜水監を
+the sonar screen,	画面中心部からはずすと
+the "Lock On" mode will reset.	ロックオンがリセットされる。」
+“Other Controls”	『ＬＲボタン／スタートボタン』
+[PAGEUP]: Climb	Ｌ１：水和上昇
+[PAGEDOWN]: Sight	Ｒ１：全体レーダーサイト
+[CAMERA]: Dive	Ｌ２：水和下降
+[TARGET]: View	Ｒ２：視点切りかえ
+[START]: Help & Pause	スタートボタン：キー操作ヘルプ＆ＰＡＵＳＥ
+“When Locked On by an enemy torpedo”	『敵のギョライに追われたとき』
+“Shift up to maximum speed by pressing	「最高速までシフトアップし、△ボタンを押し続ければ
+[MENU] repeatedly.	さらに限界値までスピードアップ！
+This will enable you to speed up	ギョライをかわすことが可能！」
+past the maximum speed	
+and outrun the torpedo!”	
+…That is all.	「……以上。
+	では、健闘をいのる！」
+“I guess…”	『とりあえず……』
+Victorious in Mini-game	ミニゲーム勝利
+Defeat in Mini-game	ミニゲーム敗北
+CLOUD	CLOUD
+“Phew! We did it!!”	「ふぅ～！　やったな！！」
+“The Huge Materia should be at the bottom	「ヒュージマテリアは
+of the sea by now.	海底に沈んだはずだ。
+Let's continue the search…”	このまま、探索を続けるか…」
+“…All Shinra Submarine Units, do you read…?”	『……神羅潜水監部隊全機、応答せよ……』
+CLOUD	CLOUD
+“Hmm…?	「ん……？
+…Must be from Shinra.”	……神羅の通信か」
+“…Report, No. 2…”	『……どうした、２号機応答せよ……』
+TIFA	TIFA
+“No. 2…”	「２号機……」
+“…I saw that written at the dock!	「……通路に書いてあった！
+They must mean this sub.”	この潜水監のことよ」
+BARRET	BARRET
+“Is it us?”	「オレたちじゃねえのか？」
+RED XIII	RED XIII
+“We're Submarine No. 2”	「オイラたちだよ、２号機って」
+CID	CID
+“Make 'em shut up!	「うっせいってんだ！
+Just answer somethin'!”	適当に返事しろぃ！」
+YUFFIE	YUFFIE
+“Oh my god!	「ゲロゲロ……！
+They mean us.”	あたしたちのことだよぉ」
+CAIT SITH	CAIT SITH
+“We need to respond!”	「応答するしかないやろ！」
+VINCENT	VINCENT
+“We've no choice but to respond.”	「こたえるしかあるまい」
+CLOUD	CLOUD
+“All right, I'll do it.”	「わかった、やってみる」
+CLOUD	CLOUD
+“This is Shinra No. 2…	「こちら神羅２号機……。
+Everything's normal.”	異常なし」
+“…Roger…”	『……了解』
+“…Your next mission is…”	『………次のミッションを伝える……』
+“…Return to Junon Dock…”	『……すみやかにジュノンドックに帰航せよ……』
+“…We will transport the Huge Materia	『…ヒュージマテリアをエアポートより搬出する…』
+from the airport…”	
+“…Those without other assignments	『……作業のないものは警備にあたること……』
+will report for guard duty…”	
+“That is all. Over and out…”	『……以上、通信終了……』
+CLOUD	CLOUD
+“Junon Airport…	「【ジュノンエアポート】…。
+We should make it if we hurry.”	急げばまにあうか」
+CLOUD	CLOUD
+“Forget about the Huge Materia for now.”	「海底のヒュージマテリアは
+	あとまわしだ」
+“We're climbing!”	「浮上するぞ！」
+TIFA	TIFA
+“Aye, aye…	「はいはい……
+CAPTAIN!”	監長さん！」
+BARRET	BARRET
+“#%$@! What's all this 'Climbing!' crap?	「チッ！　なにが浮上だっ！
+Gimme a break!”	調子のいい野郎だぜ！」
+RED XIII	RED XIII
+“Take o-ff!”	「発進～！」
+CID	CID
+“The airport?	「エアポートだろっ！
+No sweat!”	まかせときぃ！」
+YUFFIE	YUFFIE
+“Climbing…arrrgh…my ears…!	「浮上……みみみみ耳がツーン…
+LET ME OUT--I HATE THIS!”	おろして～もうだめえ～」
+CAIT SITH	CAIT SITH
+“We gotta hurry!”	「ほんな、急ぎましょ！」
+VINCENT	VINCENT
+“First the ocean, now the air…	「海から空か…
+What a busy day.”	いそがしいな」
+Received "Shinra Sub"!	『神羅の最新潜水監』を手にいれた！
+CLOUD	CLOUD
+“…We lost.	「……負けてしまった。
+I guess I'm just not cut out for all this.”	俺にはむいてないようだ」
+CLOUD	CLOUD
+“We're gettin' outta here!”	「脱出するぞ！」
+CLOUD	CLOUD
+“Hear that?	「聞いたか？
+Junon Airport!”	【ジュノンエアポート】！」
+“We can still get the Huge Materia back!	「ヒュージマテリアを取り返せる！
+Let's hurry!”	急ぐぞ！」
+CLOUD	CLOUD
+“It seems like a key to somewhere…”	「どこかのカギみたいだ……」
+CLOUD	CLOUD
+“Do you think it's…?”	「これがそうなのか……」
+CLOUD	CLOUD
+“It seems really old.”	「おそろしく古いな」
+“…Analysis completed…”	『……分析結果……』
+“…Exact date of origin: undetermined…”	『……取得物の生成年代は特定不能……』
+“…Estimated to be several thousand years old…”	『……数千年前のものと判別……』
+CLOUD	CLOUD
+“Key of the Ancients…”	「古代種の鍵……」
+CLOUD	CLOUD
+“Several thousand years…	「数千年……
+……Ancients?”	……古代種？」
+Received Key Item "Key to Ancients"!	キーアイテム『古代種の鍵』を手にいれた！
+“Anyhow…”	『とりあえず……』
+CLOUD	CLOUD
+“So this is the Leader Sub…”	「これが俺たちの撃沈した
+	ボス潜水監か……」
+CLOUD	CLOUD
+“Damn…makes me sick just thinking about it…”	「ウップ…………思い出したら
+	気持ちが悪くなってきた」
+“…Huge Materia recovered…”	『……ヒュージマテリア回収完了……』
+“…No damage appears to have been sustained…”	『……損傷はない模様……』
+CLOUD	CLOUD
+“…phew…	「……ふぅ……。
+That's good to hear.”	ひとまず、よかったな」
+Received Key Item "Huge Materia"!	キーアイテム『ヒュージマテリア』を手にいれた！
+CLOUD	CLOUD
+“Hmmmm…”	「う～ん……」
+Fight them	バトル
+Take them prisoner	ほりょにしとく
+“Piloting a submarine is very difficult!	「潜水監の操作はむずかしいでありますよ！
+I am completely clueless!”	自分はチンプンカンプンであります！」
+“I thank you!	「ありがとであります！
+I am happy to be a hostage!”	ほりょにしてくれて
+	自分はしあわせであります！」
+“Hey!	「こりゃ！
+Who am I to know?”	き、きやすく話かけんな！」
+Submarine Bridge	潜水監・ブリッジ
+CLOUD	CLOUD
+“An unconditional surrender, huh?”	「無条件こうふくというやつだな」
+We're your prisoners	人質だな
+Don't bet on it…	あまいな…
+Received "Shinra Sub"!	『神羅の最新潜水監』を手にいれた！
+CLOUD	CLOUD
+“We'll hide it somewhere secluded.”	「めだたない場所へ
+	うつしておくぞ」
+CLOUD	CLOUD
+“It looks like a key to something.”	「どこかのカギみたいだ……」
+CLOUD	CLOUD
+“You think it could be…?”	「これがそうなのか……」
+CLOUD	CLOUD
+“It seems really old.”	「おそろしく古いな」
+“…Analysis completed…”	『……分析結果……』
+“…Exact date of origin undetermined…”	『……取得物の生成年代は特定不能……』
+“…Estimated to be several thousand years…”	『……数千年前のものと判別……』
+CLOUD	CLOUD
+“The Key of the Ancients…”	「古代種の鍵……」
+CLOUD	CLOUD
+“Several thousand years…	「数千年……
+…Ancients?”	……古代種？」
+Received Key Item "Key to Ancients"!	キーアイテム『古代種の鍵』を手にいれた！
+“For now…”	『とりあえず……』
+Received Key Item "Huge Materia"!	キーアイテム『ヒュージマテリア』を手にいれた！
+Hallway	神羅飛空艇・通路
+Research Room	神羅飛空艇・研究室
+Cargo Room	神羅飛空艇・カーゴルーム
+Received "Hades" Materia!	『ハーデス』のマテリアを手にいれた！
+Cannot take on anymore Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+Received "Outsider"!	『アウトサイダー』を手にいれた！
+Received "Escort Guard"!	『エスコードガード』を手にいれた！
+Received "Heaven's Cloud"!	『天の叢雲』を手にいれた！
+Received "Conformer"!	『不倶戴天』を手にいれた！
+Received "Spirit Lance"!	『ロンギヌス』を手にいれた！
+Received "Megalixir"!	『ラストエリクサー』を手にいれた！
+Received "Double Cut" Materia!	『れんぞくぎり』のマテリアを手にいれた！
+Received "Highwind"!	『ハイウインド』を手にいれた！
+CLOUD	CLOUD
+“This is the Shinra's Gelnika type airplane…	「これは、神羅のゲルニカ型飛空艇……
+I wonder why it went down here?”	なぜこんなところに沈んでいるんだ？」
+CLOUD	CLOUD
+“What is this place?	「なんだ、ここは……
+Must be some kind of a Research Establishment	魔晄ジェネレータがあるという事は
+because there's a Mako generator.”	なにかの研究施設なのか？」
+CLOUD	CLOUD
+“This is terrible…	「ひどいな……
+It's all messed up…”	メチャメチャだ」
+CLOUD	CLOUD
+“This must be the Cargo Room…”	「ここはカーゴルームか……」
+CLOUD	CLOUD
+“Turks!?”	「タークス！？」
+Rude	ルード
+“Again?”	「……またか」
+Reno	レノ
+“We just seem to keep running into	「どうも最近
+each other lately!”	いろいろと縁があるな、と」
+Reno	レノ
+“There were weapons and	「この飛空艇には、セフィロスに
+Materia developed solely	対抗するために開発された武器や
+to destroy Sephiroth.”	マテリアが積んであった」
+Rude	ルード
+“But, it was attacked	「……しかし、ウェポンに襲われて
+by Weapon and sunk to	海の底に沈んでしまった」
+the bottom of the sea.”	
+Reno	レノ
+“I can't give you what's here.	「ここにあるものは渡せない。
+We'll take out Sephiroth.”	セフィロスは、我々が倒す」
+“I guess this is	「ゆえに、おまえたちとは
+our last meeting.”	ここで永遠のお別れになる、と」
+Rude	ルード
+“I won't let you	「邪魔は、させない」
+get in our way.”	
+CLOUD	CLOUD
+“So Shinra's new, secret	「この飛空艇には、神羅の新兵器が
+weapon was on this Airship…”	積んであったのか……」
+???	？？？
+Sephiroth…	「セフィロス…」
+VINCENT…	「VINCENT……」
+VINCENT	VINCENT
+!!!	「！！！」
+VINCENT	VINCENT
+“That voice?	「この声は！？　まさか…」
+It can't be…”	
+VINCENT	VINCENT
+“Lucrecia?”	「ルクレッツィア…
+“VINCENT?”	なのか…？」
+	「VINCENT……？」
+VINCENT	VINCENT
+“Lucrecia!!”	「ルクレッツィア！！」
+Lucrecia	ルクレッツィア
+“Stay back!!”	「こないで！！！」
+VINCENT	VINCENT
+“Lucrecia…	「ルクレッツィア…
+You're alive…”	生きていたのか…」
+VINCENT	VINCENT
+“Lucrecia…	「ルクレッツィア…
+You're alive…”	生きていたのか…」
+Lucrecia	ルクレッツィア
+“I wanted to disappear…	「消えてしまいたかった…
+I couldn't be with anyone…	みんなのそばにいられなかった…
+I wanted to die…”	死にたかった……」
+“But the Jenova inside me	「でも、私の中のジェノバが
+wouldn't let me die…”	私を死なせてくれない……」
+Lucrecia	ルクレッツィア
+“Lately, I dream a lot of Sephiroth…	「最近、セフィロスの夢を見るの…
+My dear, dear child.”	私のかわいい子供……」
+“Ever since he was born	「でも、あの子が生まれてから
+I never got to hold him…”	私は一度も抱いてない……」
+“Not even once.	「子供も抱けない…、母親だと
+You can't call me his mother…	言う事もできない……
+That…is my sin…”	それが、私の罪………」
+VINCENT	VINCENT
+“Lucrecia…”	「ルクレッツィア…」
+Lucrecia	ルクレッツィア
+“Back!!	「ダメ！！
+Stay back!”	きちゃダメ！」
+Lucrecia	ルクレッツィア
+“VINCENT…	「VINCENT…
+Won't you please tell me?”	教えて？」
+VINCENT	VINCENT
+“What?”	「なにを…」
+Lucrecia	ルクレッツィア
+“If Sephiroth is still alive?”	「セフィロス…
+	あの子は生きているの？」
+“I heard that he died five years ago.	「５年前に死んだと聞いたわ
+But I see him in my dreams so often…”	でも、最近よく夢を見るの…」
+“And I know that physically, like myself,	「それに、あの子も私と同じ
+he can't die so easily.”	簡単に死ねない体……」
+“Please, VINCENT	「ねぇ、VINCENT
+tell me…”	あの子は……」
+VINCENT	VINCENT
+“Lucrecia…	「セフィロスは……
+Sephiroth is dead…”	死んでしまったよルクレッツィア…」
+Received "Death Penalty"!	『デスペナルティ』を手にいれた…
+Received "Chaos"!	『カオス』を手にいれた…
+VINCENT	VINCENT
+“Lucrecia…”	「ルクレッツィア……」
+“If she is happy then…	「彼女が、幸せなら私は…
+I don't mind.	かまわない……
+“After that, a child was born	「しばらくした後
+to Lucrecia…	ルクレッツィアに赤ん坊が
+	生まれる…
+“That child's name was…	「赤ん坊の名は…
+Sephiroth…	セフィロス……
+“I'm against it!!	「そんな人体実験をなぜ！」
+Why experiment on humans!?”	
+She and I are both scientists!!	私も、彼女も科学者だ！！
+Urrrrrrrrgh!!	うわああああーーーーー！！！
+VINCENT	VINCENT
+“This body is…	「この身体は……
+the punishment that's been given to me…”	私に与えられた罰……」
+VINCENT	VINCENT
+“I was unable…	「私は……
+to stop Professor Gast and Hojo…”	ガスト博士や宝条……」
+VINCENT	VINCENT
+“And Lucrecia…I was	「そして、ルクレッツィアを
+unable to stop them…”	止める事が出来なかった……」
+VINCENT	VINCENT
+“All that I was able to do	「見ていることしか
+was watch…	出来なかった……
+That is my punishment…”	それが、私の罪……」
