@@ -75,7 +75,7 @@ async function sleep(time){
 }
 
 const COLOR = {
-	YELLOW: "\u001b[33m",
+	HIGHLIGHT: "\u001b[33;1m\u001b[44m",
 	RESET: "\u001b[0m"
 }
 
@@ -110,7 +110,7 @@ fs.readdir(inputFolder, async function(err, files){
 			for(let j=0;j<tokens.length;j++){
 				let reconstructed = [];
 				for(let k=0;k<tokens.length;k++) {
-					if(k===j) reconstructed.push(`${COLOR.YELLOW}${tokens[k].word}${COLOR.RESET}`);
+					if(k===j) reconstructed.push(`${COLOR.HIGHLIGHT}${tokens[k].word}${COLOR.RESET}`);
 					else reconstructed.push(tokens[k].word);
 				}
 				let token = tokens[j];
@@ -124,11 +124,11 @@ fs.readdir(inputFolder, async function(err, files){
 				else if(tokenIsNaAdj(token)) spec = symbols.pos2.na_adj;
 				else if(tokenIsAdverb(token)) spec = symbols.pos.adverb;
 				else continue;
-				let search = await lookupSync(`${token.root}/${spec}`);
-				console.log("\tDisambiguating...");
+				let search = await lookupSync(`${token.root}`);
+				console.log(`\tDisambiguating line ${i+1}/${lines.length}...`);
 				console.log(`\t\tEnglish:\t${english}`);
 				console.log(`\t\tJapanese:\t${reconstructed.join("")}`);
-				console.log(`\t\tWord:\t\t${token.word} (spec: ${spec})`);
+				console.log(`\t\tWord:\t\t${token.word} ('${token.root}' ${token.pos})`);
 				console.log("");
 				if(search){
 					let json = __array(JSON.parse(search));
@@ -148,19 +148,23 @@ fs.readdir(inputFolder, async function(err, files){
 						console.log(`\t\t${k}) ${display} (${def.pos}) ${def.gloss}`);
 					}
 
+					console.log("\t\tPress enter or type 'skip' to skip this word.")
 					console.log("\t\t-------");
 					let choice;
-					if(json.length === 1) {
+/*					if(json.length === 1) {
 						console.log("\t\tAutomatically choosing first result.")
 						await sleep(500);
 						choice = json[0];
-					} else {
+					} else {*/
+					if(1){
 						while(true){
 							process.stdout.write("\t\tYour choice: "); // add line without break
 							let input = await readLine(); // read line from stdin
-//							input = input.split("\r\n").unshift(); // get first line sent
-							let num = new Number(input); // convert to number
-							if(num<0 || num >= json.length) {
+							if(input == "skip\r\n" || input == "\r\n"){
+								break;
+							}
+							let num = new Number(input);
+							if(num<0 || num >= json.length || isNaN(num)) {
 								console.log(`\t\t${num} is out of bounds.`);
 								continue;
 							}
@@ -168,6 +172,12 @@ fs.readdir(inputFolder, async function(err, files){
 							choice = json[num];
 							break;
 						}
+					}
+
+					if(!choice){
+						console.log("\t\tNo choice made. Skipping word.");
+						console.log("");
+						continue;
 					}
 
 					if(wordsFound.contains(choice.ent_seq)) { // ignore
