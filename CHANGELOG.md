@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.14.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.13.0...v1.14.0) (2021-04-25)
+
+
+### Features
+
+* Added scene 38: Rocket Town II and Space. ([227b977](https://github.com/nowotato/final-fantasy-vii-catalog/commit/227b977dd18600e5e257412e06971878b0ed93ea)), closes [#41](https://github.com/nowotato/final-fantasy-vii-catalog/issues/41)
+* Added scene 39: Bugenhagen and City of the Ancient II. ([ad041ae](https://github.com/nowotato/final-fantasy-vii-catalog/commit/ad041ae4bf94bd277762edcee785874448fdf669)), closes [#42](https://github.com/nowotato/final-fantasy-vii-catalog/issues/42)
+
 ## [1.13.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.12.0...v1.13.0) (2021-04-25)
 
 
