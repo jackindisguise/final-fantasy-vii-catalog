@@ -5,9 +5,9 @@ About This Project:
 ---
 I started this project because Final Fantasy VII is one of my favorite stories of all time, and I want to be able to read it in its entirety in Japanese. I also want to share the information with others so they can also read Final Fantasy VII in its original language for themselves.
 
-This project is only possible due to ***Jason Maltz*** and his efforts to compare the Japanese and English scripts of Final Fantasy VII. I don't know how he did it exactly, but my guess is that English script is scraped from the English PC edition (from the 90s), and the Japanese script was scraped from the Japanese PS1 edition, based on the button prompts. It's also possible he got the Japanese script off one of those old Japanese Geocities pages, but I'm sure nobody knows but him at this point.
+This project is only possible due to the script files compiled by ***Jason Maltz***.
 
-In any case, there's a serious lack of consistency in the formatting of the script. In order to solve this problem, my goal was to edit the texts such that each line of dialogue in the English script had 1 corresponding line of dialogue in the Japanese script. This way the spreadsheet-style format works exactly as it's intended, and you can quickly and easily associate the original and the translation.
+Unfortunately, there's a serious lack of consistency in the formatting of the script. In order to solve this problem, my goal was to edit the texts such that each line of dialogue in the English script had 1 corresponding line of dialogue in the Japanese script. This way the spreadsheet-style format works exactly as it's intended, and you can quickly and easily associate the original and the translation.
 
 The Goal of This Project:
 ---
@@ -16,16 +16,44 @@ The Goal of This Project:
 ##### For easy importation into a spaced-repetition software, like Anki.
 
 
-Navigation:
+**Navigation**:
 ---
-The Anki deck and related files are stored in `/deck`.
+`/deck`
+---
+The Anki deck and related files (notes, cards, etc...) go here.
 
-The Javascript written to process the script is stored in `/src`.
+`/src`
+---
+Javascript files go here.
 
-The spreadsheets that are being used to handle everything are stored in `/spreadsheets`.
+`/spreadsheets`
+---
+The spreadsheets that are the source of all the text in this project go here.
 
-Formatted scripts are stored in `/scene/formatted`.
+`/scene`
+---
+Scene files go here.
 
-Processed scripts are stored in `/scene/processed`.
+`/scene/formatted`
+---
+Contains the formatted text of the scenes, ready to be processed for insertion into an Anki deck.
 
-Data regarding kanji is stored in `/kanji`.
+`/scene/processed`
+---
+Contains the processed text of the scenes, ready to be inserted into an Anki deck.
+
+`/scene/split/<language>`
+---
+Contains the isolated text from the given scene in the given language.
+
+`/scene/tabulated`
+---
+Contains markdown tables of all the text in the scenes. Easier to read.
+
+`/vocabulary`
+---
+Metadata regarding vocabulary find in the scenes is kept here.
+
+`/kanji`
+---
+Metadata regarding kanji found in the scenes is kept here.
