@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.13.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.12.0...v1.13.0) (2021-04-25)
+
+
+### Features
+
+* Added Scene 34: Corel and Condor (Huge Materia). ([15ae2bc](https://github.com/nowotato/final-fantasy-vii-catalog/commit/15ae2bc2fb4c323f983808e0942f0f7c2d0fe393)), closes [#37](https://github.com/nowotato/final-fantasy-vii-catalog/issues/37)
+* Added Scene 35: Mideel II and Lifestream. ([adc65b8](https://github.com/nowotato/final-fantasy-vii-catalog/commit/adc65b8e4dcb6ec224f54baf419e1daa0a171efd)), closes [#38](https://github.com/nowotato/final-fantasy-vii-catalog/issues/38)
+* Added scene 36: Chocobo Sage and World Map Caves. ([8931ca5](https://github.com/nowotato/final-fantasy-vii-catalog/commit/8931ca59ed12e3438ad69d95e6842d9f3ebde593)), closes [#39](https://github.com/nowotato/final-fantasy-vii-catalog/issues/39)
+* Added scene 37: Underwater Reactor. ([f1aebd4](https://github.com/nowotato/final-fantasy-vii-catalog/commit/f1aebd4473fac9c42ae15618e30f8685a54fe8a2)), closes [#40](https://github.com/nowotato/final-fantasy-vii-catalog/issues/40)
+* Vocabulary scraper and disambiguator probably in its final-ish version. ([a38661d](https://github.com/nowotato/final-fantasy-vii-catalog/commit/a38661de1c96b951535a1ca9478388ac889befed))
+
+
+### Bug Fixes
+
+* Duplicate lines completely removed from processing script. ([5a81f3c](https://github.com/nowotato/final-fantasy-vii-catalog/commit/5a81f3c897b16bb0ae55194074af243d7d48b8cd)), closes [#59](https://github.com/nowotato/final-fantasy-vii-catalog/issues/59)
+
 ## [1.12.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.11.0...v1.12.0) (2021-04-24)
 
 
