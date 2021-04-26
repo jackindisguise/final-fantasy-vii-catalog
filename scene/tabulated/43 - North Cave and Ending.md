@@ -424,4 +424,4 @@
 | 422 | What the hell IS that…….? | なんなんだ……？ |
 | 423 | …….. Lifestream. | ……ライフストリームだ |
 | 424 | It's coming. | 来る |
-| 425 | Five hundred years later… | Five hundred years later |
+| 425 | Five hundred years later… | 500年後… |

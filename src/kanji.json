@@ -1,6 +1,6 @@
 {
 	"unique": 980,
-	"total": 42536,
+	"total": 42538,
 	"table": [
 		{
 			"kanji": "行",
@@ -480,7 +480,7 @@
 		{
 			"kanji": "後",
 			"order": 96,
-			"occurrences": 130
+			"occurrences": 131
 		},
 		{
 			"kanji": "油",
@@ -1510,7 +1510,7 @@
 		{
 			"kanji": "年",
 			"order": 302,
-			"occurrences": 127
+			"occurrences": 128
 		},
 		{
 			"kanji": "親",
