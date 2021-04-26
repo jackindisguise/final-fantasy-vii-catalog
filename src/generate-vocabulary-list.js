@@ -109,7 +109,7 @@ fs.readdir(inputFolder, async function(err, files){
 			for(let j=0;j<tokens.length;j++){
 				let reconstructed = [];
 				for(let k=0;k<tokens.length;k++) {
-					if(k===j) reconstructed.push(`${COLOR.HIGHLIGHT}${tokens[k].word}${COLOR.RESET}`);
+					if(k===j) reconstructed.push(`[${tokens[k].word}]`);
 					else reconstructed.push(tokens[k].word);
 				}
 				let token = tokens[j];
@@ -142,7 +142,7 @@ fs.readdir(inputFolder, async function(err, files){
 						//console.log(`\t\t${display} (${def.pos}) ${def.gloss}`);
 					}
 
-					sceneLines.push({word:token.word, root:token.root, definitions:definitions, english:english, japanese:japanese});
+					sceneLines.push({word:token.word, root:token.root, definitions:definitions, english:english, japanese:reconstructed.join("")});
 
 					//console.log("\t\tPress enter or type 'skip' to skip this word.")
 					//console.log("\t\t-------");

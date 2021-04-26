@@ -80,12 +80,13 @@ app.post("/disambiguated/:scene", function(req,res){
 	fs.readdir(inputFolder, function(err, files){
 		for(let file of files){
 			let _scene = file.substring(0,2);
+			let name = file.substring(0,file.length-5);
 			if(scene === _scene){
 				fs.readFile(inputFolder+file, function(err, data){
 					let json = JSON.parse(data);
 					let readable = [];
 					for(let i=0;i<json.length;i++){
-						if(smart[i] === -1) continue; // remove unnecessary lines
+						if(smart[i] == -1) continue; // remove unnecessary lines
 						let line = json[i];
 						let chosenDefNum = smart[i];
 						let chosenDef = line.definitions[smart[i]];
@@ -94,7 +95,7 @@ app.post("/disambiguated/:scene", function(req,res){
 						readable.push(`${line.word}\t${line.root}\t${chosenDef}\t${line.english}\t${line.japanese}`);
 					}
 
-					fs.writeFileSync(outputFolder+file, readable.join("\r\n"), "utf8");
+					fs.writeFileSync(outputFolder+name+".txt", readable.join("\r\n"), "utf8");
 					res.redirect("/index");
 				});	
 				return;

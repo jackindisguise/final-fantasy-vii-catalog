@@ -14,7 +14,7 @@ body{
 	padding:0px;
 	font-family:Reactor7;
 	font-size:30px;
-	background-color:rgba(0,0,0,1);
+	background-color:rgba(0,0,25, 1);
 	margin-bottom:100px;
 	color:#fff;
 }
@@ -173,9 +173,7 @@ a:visited{
 	text-shadow: 2px 2px #212421,
 				 1px 1px #212021;
 	font-family: Reactor7;
-	font-size: 20px;
 	font-weight: normal;
-	margin: 5px 0;
   }
 
   .submit{
@@ -185,3 +183,8 @@ a:visited{
   .submit:hover{
 	  opacity:100%;
   }
+
+.highlight{
+	font-size:125%;
+	color:#FF0;
+}

@@ -43,6 +43,10 @@ block content
 						td(class='english')
 							div.ff7=line.english
 						td(class='japanese')
-							div.ff7=line.japanese
+							- let split = line.japanese.split(/[\[\]]/);
+							div.ff7.
+								#{split[0]}
+								<span class='highlight'>#{split[1]}</span>
+								#{split[2]}
 					- i++;
 			input(type='submit', class='submit ff7')
