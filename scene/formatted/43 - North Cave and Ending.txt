@@ -1,0 +1,796 @@
+Highwind‚on deck	ハイウインド・甲板
+Northern Cave Crater	大空洞火口
+Inside Northern Cave	大空洞内部
+Received "Elixir"!	『エリクサー』を手にいれた！
+Received "Mystile"!	『ミスティール』を手にいれた！
+Received "Speed Source"!	『スピードアップ』を手にいれた！
+Received "Tetra Elemental"!	『テトラエレメンタル』を手にいれた！
+Received "Megalixir"!	『ラストエリクサー』を手にいれた！
+Received "Power Source"!	『パワーアップ』を手にいれた！
+Received "Elixir"!	『エリクサー』を手にいれた！
+Received "Guard Source"!	『ガードアップ』を手にいれた！
+Received "Mind Source"!	『マインドアップ』を手にいれた！
+Received "Magic Source"!	『マジックアップ』を手にいれた！
+Received "Save Crystal"!	『セーブクリスタル』を手にいれた！
+Received "HP Absorb" Materia!	『ＨＰきゅうしゅう』のマテリアを手にいれた！
+Cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+“Take care!”	「お気をつけて！」
+Jump down	飛び降りる
+Don't do it	やめる
+Jump across	飛びうつる
+Don't do it	やめる
+Climb up	よじ登る
+Don't do it	やめる
+Go down	下におりる
+Don't do it	やめる
+Push [OK] to jump down.	「【決定ボタン】で
+	飛び降ります」
+Push [OK] to climb up.	「【決定ボタン】で
+	よじ登ります」
+“Welcome!	「おつれさまです！
+Everyone's waiting for you.”	皆さんが、中でお待ちです」
+Northern Cave	大空洞
+Received "Potion"!	『ポーション』を手にいれた！
+Received "Hi-Potion"!	『ハイポーション』を手にいれた！
+Received "Ether"!	『エーテル』を手にいれた！
+Received "Turbo Ether"!	『エーテルターボ』を手にいれた！
+Received "Phoenix Down"!	『フェニックスの尾』を手にいれた！
+CLOUD	CLOUD
+“Looks like we can only slide down.”	「すべり降りるしかなさそうだな」
+Alright, let's go!	よし、行くぞ！
+Let's get ready first	準備をしてからにしよう
+CLOUD	CLOUD
+“Looks like we can get back to the Highwind.”	「ハイウインドへ戻れそうだな」
+Let's go back to the Highwind	ハイウインドへ戻ろう
+Let's get off again	もう一度降りてみよう
+Inside Northern Cave	大空洞内部
+You cannot take on any more Materia.	これいじょうマテリアは持てません。
+Please discard some Materia.	なにかマテリアをすててください。
+Received "Shield" Materia!	『シールド』のマテリアを手にいれた！
+Received "Counter" Materia!	『コマンドカウンター』のマテリアを手にいれた！
+Received "W-magic" Materia!	『Ｗまほう』のマテリアを手にいれた！
+Received "Megalixir"!	『ラストエリクサー』を手にいれた！
+Received "Power Source"!	『パワーアップ』を手にいれた！
+Received "Guard Source"!	『ガードアップ』を手にいれた！
+Received "Magic Source"!	『マジックアップ』を手にいれた！
+Received "Remedy"!	『万能薬』を手にいれた！
+Received "Hero Drink"!	『英雄の薬』を手にいれた！
+Received "Vaccine"!	『ワクチン』を手にいれた！
+Received "Imperial Guard"!	『インペリアルガード』を手にいれた！
+Received "Mind Source"!	『マインドアップ』を手にいれた！
+Received "Hero Drink"!	『英雄の薬』を手にいれた！
+Received "X-Potion"!	『エクスポーション』を手にいれた！
+Received "Turbo Ether"!	『エーテルターボ』を手にいれた！
+Received "Elixir"!	『エリクサー』を手にいれた！
+Push [OK] to jump down.	「【決定ボタン】で
+	飛び降ります」
+Push [OK] to jump.	「【決定ボタン】で
+	ジャンプします」
+CLOUD	CLOUD
+“The road splits into two.	「道が別れているな。
+We'll split into two groups.”	ここは二手に別れるか」
+CLOUD	CLOUD
+“Another fork in the road…”	「また、別れ道か……」
+CLOUD	CLOUD
+“Well,	「さて
+which way?”	どっちに行こう……」
+Left	左
+Right	右
+BARRET	BARRET
+“CLOUD,	「CLOUD
+which way you goin'?”	おまえは、どっちを選ぶんだ？」
+Left	左
+Right	右
+TIFA	TIFA
+“CLOUD,	「CLOUD
+which way should we go?”	どっちに行く？」
+Left	左
+Right	右
+RED XIII	RED XIII
+“Which way are we going,	「どっちに行くんだい
+CLOUD?”	CLOUD？」
+Left	左
+Right	右
+YUFFIE	YUFFIE
+“CLOUD,	「CLOUD、あんたは
+which way are you goin'?”	どっち行くの？」
+Left	左
+Right	右
+CAIT SITH	CAIT SITH
+“What do we do now,	「CLOUDさん
+CLOUD?”	どないします？」
+Left	左
+Right	右
+VINCENT	VINCENT
+“What are you going to do,	「どうするんだ
+CLOUD?”	CLOUD……？」
+Left	左
+Right	右
+CID	CID
+“Which you gonna choose,	「どっちにすんだい
+CLOUD?”	CLOUD？」
+Left	左
+Right	右
+BARRET	BARRET
+“All right, then I'll go…”	「そうか。　それじゃ、オレは……」
+Left	左
+Right	右
+TIFA	TIFA
+“Then, I'm going…”	「じゃあ、私は……」
+Left	左
+Right	右
+RED XIII	RED XIII
+“All right, then I'll go…”	「よし、オイラは……」
+Left	左
+Right	右
+YUFFIE	YUFFIE
+“I'm going…”	「アタシはね～……」
+Left	左
+Right	右
+CAIT SITH	CAIT SITH
+“Then, I'll head…”	「ほんなら、ボクは……」
+Left	左
+Right	右
+VINCENT	VINCENT
+“Then, I will go…”	「ならば、私は……」
+Left	左
+Right	右
+CID	CID
+“All right! I'm headin'…”	「よっしゃ！　オレ様は……」
+Left	左
+Right	右
+CLOUD	CLOUD
+“Well…	「さて……
+which way should I go…?”	どっちに行こう……」
+Up	上
+Down	下
+BARRET	BARRET
+“CLOUD	「CLOUD
+which way you gonna choose?”	おまえは、どっちを選ぶんだ？」
+Up	上
+Down	下
+TIFA	TIFA
+“CLOUD	「CLOUD
+which way should we go?”	どっちに行く？」
+Up	上
+Down	下
+RED XIII	RED XIII
+“Which way are we headed,	「どっちに行くんだい？
+CLOUD?”	CLOUD」
+Up	上
+Down	下
+YUFFIE	YUFFIE
+“CLOUD,	「CLOUD、あんたは
+which way you goin'?”	どっち行くの？」
+Up	上
+Down	下
+CAIT SITH	CAIT SITH
+“CLOUD,	「CLOUDさん
+what shall we do?”	どないします？」
+Up	上
+Down	下
+VINCENT	VINCENT
+“What now,	「どうする
+CLOUD?”	CLOUD……？」
+Up	上
+Down	下
+CID	CID
+“Which way you gonna go	「どっちにすんだい
+CLOUD?”	CLOUD？」
+Up	上
+Down	下
+BARRET	BARRET
+“All right, I'm goin'…”	「そうか。　それじゃ、オレは……」
+Up	上
+Down	下
+TIFA	TIFA
+“Then, I'll go…”	「じゃあ、私は……」
+Up	上
+Down	下
+RED XIII	RED XIII
+“All right, then I'm going…”	「よし、オイラは……」
+Up	上
+Down	下
+YUFFIE	YUFFIE
+“I'm goin'…”	「アタシはね～……」
+Up	上
+Down	下
+CAIT SITH	CAIT SITH
+“Then, I'll be heading…”	「ほんなら、ボクは……」
+Up	上
+Down	下
+VINCENT	VINCENT
+“If so, I will go…”	「ならば、私は……」
+Up	上
+Down	下
+CID	CID
+“All right! I'm heading…”	「よっしゃ！　オレ様は……」
+Up	上
+Down	下
+CLOUD	CLOUD
+“Now don't any of you die on me.	「死ぬなよ、みんな。
+…”	ヤツの……」
+“Gotta get through to Sephiroth!”	「セフィロスのもとに
+	たどりつくまで……！」
+CLOUD	CLOUD
+“This will be the end of it!”	「これで……
+	これで終わりにするんだ！」
+BARRET	BARRET
+“Well…looks like this	「さーて、BARRETさん
+is our last big job!”	最後の大仕事だぜ！」
+TIFA	TIFA
+“Let's all go back alive, okay?”	「生きて帰ろうね……
+	絶対に！」
+RED XIII	RED XIII
+“All life on this Planet,	「この星のあらゆる生命
+indeed the very life of this Planet,	いや、この星すべての命運は
+is in our hands…”	オイラたちに、かかってるんだね」
+YUFFIE	YUFFIE
+“Oh man…	「あ～あ～。
+Materia Hunter YUFFIE'	『マテリア・ハンター　YUFFIE』
+sounds like the last chapter of	最終回『マテリアよ永遠に……』って
+Materia Forever.'”	カンジ」
+CAIT SITH	CAIT SITH
+“I'm so happy to have met you all, really!	「みなさんに、あえて
+…sniff…”	ほんまによかったわ……！」
+VINCENT	VINCENT
+“It's all over now.	「終わるのだな。
+With this…”	これで……」
+CID	CID
+“I'll destroy that Sephiroth before	「ひとあしお先に、オレ様が
+anyone gets to him!”	セフィロスのヤロウを
+	ぶっちめてやるぜ！」
+BARRET	BARRET
+“Ain't no way I'm gonna die until	「こいつを、ヤツにブチこむまで
+I stick this into that guy.”	死んでたまるかよ」
+TIFA	TIFA
+“After this, we can go home.	「帰れるよね。
+All of us…”	私たち……」
+RED XIII	RED XIII
+“We're not the only ones fighting.”	「戦っているのは
+“The Planet's fighting too!”	オイラたちだけじゃない」
+	「この星も戦っているんだ！」
+YUFFIE	YUFFIE
+“If I knew THIS was gonna happen,	「こんな事なら、も少し早いトコで
+I'd have bailed out sooner!”	抜け出しとくんだったな～」
+CAIT SITH	CAIT SITH
+“There's nothing to worry about.	「コワいことなんかあらへん。
+We're all in this together!”	みぃ～んな、おるんやから」
+VINCENT	VINCENT
+“Let's go…”	「行くぞ……」
+CID	CID
+“Sephiroth's probably crapping his pants	「ヘッ！
+right about now…”	今ごろセフィロスのヤロウ
+	ビビりまくってんじゃねーか？」
+CLOUD	CLOUD
+“Wait!	「待っていろ。
+Sephiroth…”	セフィロス……」
+CLOUD	CLOUD
+“We'll leave this to BARRET.”	「こっちは、BARRETに
+	まかせるか」
+CLOUD	CLOUD
+“We'll leave this to CID.”	「こっちは、CIDに
+	まかせるか」
+CLOUD	CLOUD
+“We'll leave this to RED XIII.”	「こっちは、RED XIIIに
+	まかせるか」
+CLOUD	CLOUD
+“We'll leave this to CAIT SITH.”	「こっちは、CAIT SITHに
+	まかせるか」
+CLOUD	CLOUD
+“We'll leave this to VINCENT.”	「こっちは、VINCENTに
+	まかせるか」
+CLOUD	CLOUD
+“We'll leave this to YUFFIE.”	「こっちは、YUFFIEに
+	まかせるか」
+CLOUD	CLOUD
+“We'll leave this to TIFA.”	「こっちは、TIFAに
+	まかせるか」
+CLOUD	CLOUD
+“We'll try to go down from the other side.”	「向こうがわから
+	降りてみるか」
+Inside Northern Cave	大空洞内部
+	
+Received "X-Potion"!	『エクスポーション』を手にいれた！
+Received "Elixir"!	『エリクサー』を手にいれた！
+Received "Remedy"!	『万能薬』を手にいれた！
+Empty!	からっぽ！
+Inside Northern Cave	大空洞内部
+	
+Received "Turbo Ether"!	『エーテルターボ』を手にいれた！
+Received "Vaccine"!	『ワクチン』を手にいれた！
+Received "Magic Counter" Materia!	「『まほうカウンター』のマテリアを
+	手にいれた！」
+Inside Northern Cave	大空洞内部
+	
+Received "Speed Source"!	『スピードアップ』を手にいれた！
+Received "Turbo Ether"!	『エーテルターボ』を手にいれた！
+Received "X-Potion"!	『エクスポーション』を手にいれた！
+Received "MegaAll"!	『すべてぜんたいか』を手にいれた！
+Bottom of Northern Cave	大空洞内部
+	
+Received "Luck Source"!	『ラックアップ』を手にいれた！
+	
+TIFA	TIFA
+“Hey, were you thinking of leaving me?”	「ちょっと、私をおいてくつもり？」
+BARRET	BARRET
+“Yo, we're a bit late?”	「よう、チト遅れちまったか？」
+RED XIII	RED XIII
+“Don't leave us, CLOUD.”	「おいてかないでよ、CLOUD」
+CID	CID
+“I can't let you guys go by yourselves,	「おまえたちだけじゃ
+you'll make me worry.”	心配で行かせられねぇな」
+YUFFIE	YUFFIE
+“I finally got here, so I'm not leaving…”	「せっかく、ここまで来たんだから
+	先はこさせないよ」
+VINCENT	VINCENT
+“You sure are hasty.”	「せっかちなヤツだ」
+CAIT SITH	CAIT SITH
+“You're so cruel, CLOUD.”	「はくじょうやなぁ、CLOUDさん」
+CLOUD	CLOUD
+“Where's TIFA?”	「TIFAは……？」
+CLOUD	CLOUD
+“Where's BARRET?”	「BARRETは……？」
+CLOUD	CLOUD
+“Where's CID?”	「CIDは……？」
+CLOUD	CLOUD
+“Where's RED XIII?”	「RED XIIIは……？」
+CLOUD	CLOUD
+“Where's CAIT SITH?”	「CAIT SITHは……？」
+CLOUD	CLOUD
+“Where's YUFFIE?”	「YUFFIEは……？」
+CLOUD	CLOUD
+“Where's VINCENT?”	「VINCENTは……？」
+CLOUD	CLOUD
+“Where're TIFA and the others?”	「TIFAたちは……？」
+CLOUD	CLOUD
+“Where's BARRET and the others?”	「BARRETたちは……？」
+CLOUD	CLOUD
+“Where's CID and the others?”	「CIDたちは……？」
+CLOUD	CLOUD
+“Where's RED XIII and the others?”	「RED XIIIたちは……？」
+CLOUD	CLOUD
+“Where's CAIT SITH and the others?”	「CAIT SITHたちは……？」
+CLOUD	CLOUD
+“Where's YUFFIE and the others?”	「YUFFIEたちは……？」
+CLOUD	CLOUD
+“Where's VINCENT and the others?”	「VINCENTたちは……？」
+Bottom of Northern Cave	大空洞最下部
+	
+CLOUD	CLOUD
+“This is the center of the Planet?”	「ここが、星の中心……？」
+TIFA	TIFA
+“Sephiroth is beyond here?'”	「この先にセフィロスが？」
+TIFA	TIFA
+“CLOUD, look.”	「あっ、CLOUD、これ」
+Received "Megalixir"!	『ラストエリクサー』を手にいれた！
+Received "Hero Drink"!	『えいゆうのくすり』を手にいれた！
+Received "Turbo Ether"!	『エーテルターボ』を手にいれた！
+	
+TIFA	TIFA
+“This is it.”	「いよいよね」
+BARRET	BARRET
+“Here, CLOUD.”	「ほらよ、CLOUD」
+Received "Guard Source"!	『ガードアップ』を手にいれた
+Received "Vaccine"!	『ワクチン』を手にいれた！
+Received "Remedy"!	『万能薬』を手にいれた！
+	
+BARRET	BARRET
+“Alright, this's the last dance!”	「よし、最後の大暴れだ！」
+RED XIII	RED XIII
+“CLOUD, I found this…”	「CLOUD、オイラ
+	こんなもの見つけたんだけど」
+Received "Mind Source"!	『マインドアップ』を手にいれた！
+Received "Shield" Materia!	『シールド』のマテリアを手にいれた！
+	
+RED XIII	RED XIII
+“CLOUD…	「CLOUD……
+“CLOUD…	
+Seems like you got too much Materia.”	マテリアがいっぱいみたいだよ」
+Received "Speed Source"!	『スピードアップ』を手にいれた！
+	
+RED XIII	RED XIII
+“We finally made it here.”	「ついにここまで来たね」
+CID	CID
+“Hey, CLOUD,	「おう、CLOUD。
+I found this on the way.”	途中でひろったぜ」
+Received "Speed Source"!	『スピードアップ』を手にいれた！
+Received "Imperial Guard"!	『インペリアルガード』を手にいれた！
+Received "Elixir"!	『エリクサー』を手にいれた！
+	
+CID	CID
+“Let's just get this over with!”	「ウダウダしてねぇで
+	さっさと行こうぜ！」
+CAIT SITH	CAIT SITH
+“Hey, CLOUD,	「ほれ、CLOUDさん
+I found this.”	こんなん見つけましたわ」
+Received "Elixir"!	『エリクサー』を手にいれた！
+Received "Remedy"!	『万能薬』を手にいれた！
+Received "X-Potion"!	『エクスポーション』を手にいれた！
+	
+CAIT SITH	CAIT SITH
+“Well, shall we get goin'?”	「ほな、チャッチャッと
+	いきましょか」
+VINCENT	VINCENT
+“Hold on to this.”	「とっておけ」
+	手にいれた！
+Received "Mythril"!	『ミスティール』を手にいれた！
+Received "Magic Source"!	『マジックアップ』を手にいれた！
+Received "MegaAll" Materia!	「『すべてぜんたいか』のマテリアを
+	手にいれた！」
+	
+VINCENT	VINCENT
+“No, first organize your Materia.	「いや、そのまえにマテリアを整理しろ。
+You have too much.”	持ちすぎだ」
+VINCENT	VINCENT
+“Hmm…	「フッ……おまえたちにつきあうのも
+Being with you all isn't so bad.”	悪くはないな」
+YUFFIE	YUFFIE
+“…	「…………
+Wh…what?”	な、なんだよ」
+TIFA	TIFA
+“By the way YUFFIE,	「そういえばYUFFIE
+didn't you find something?”	何か見つけてなかった？」
+BARRET	BARRET
+“Oh yeah, YUFFIE,	「そういえばよ、YUFFIE。
+didn't you find somethin'?”	おまえ、何か見つけてなかったか？」
+RED XIII	RED XIII
+“By the way YUFFIE,	「そういえば、YUFFIEさあ。
+didn't you find something on the way?”	途中で何かひろってなかった？」
+CID	CID
+“Yeah, YUFFIE,	「そういや、YUFFIEよ。
+didn't you pick up something on the way?”	おめぇ何かひろってなかったか？」
+CAIT SITH	CAIT SITH
+“By the way, YUFFIE,	「そういや、YUFFIEさん
+didn't you pick up something?”	なんかひろとったような…」
+VINCENT	VINCENT
+“YUFFIE,	「YUFFIE、いいから
+just let CLOUD have it.”	CLOUDにあずけるのだ」
+YUFFIE	YUFFIE
+“Oh, all right.”	「わ、わかったよ」
+YUFFIE	YUFFIE
+“Here, CLOUD.”	「ほらよ、CLOUD」
+YUFFIE	YUFFIE
+“But I'm the one who found it,	「けど、それアタシが
+so you better give it back to me	見つけたんだから
+when you're done with it!”	終わったら返しなよ」
+	
+Received "Megalixir"!	『ラストエリクサー』を手にいれた！
+Received "W Magic" Materia!	『Ｗまほう』のマテリアを手にいれた！
+Received "Counter" Materia!	「『コマンドカウンター』のマテリアを
+	手にいれた！」
+	
+YUFFIE	YUFFIE
+“Hey!?	「おっ！？
+But you have lots of Materia!	マテリアがいっぱいじゃん！
+Then you won't need it.”	じゃあ、いらないね」
+Received "Vaccine"!	『ワクチン』を手にいれた！
+	
+YUFFIE	YUFFIE
+“It feels like we made	「ついに、来るとこまで
+it as far as we can.”	来たって感じ？」
+	
+CLOUD	CLOUD
+Let's get going	そろそろ行こう
+(No, not yet…)	（まだ、やめておこう…）
+CLOUD	CLOUD
+“All right, everyone, let's mosey.”	「よし、行こうよ、みんな」
+CID	CID
+“Damn! Again!”	「カーーッ！　またかよっ！」New
+	「やめてくれよ
+“Stop sayin' it like a wimp!”	その気の抜けた言い方」New
+“Can't you say	「『行くぜ！！』くらい
+Move out!' or somethin'?”	言えねぇのかよ」
+CLOUD	CLOUD
+“Move out!!”	「行くぜ！！」
+BARRET	BARRET
+“What?”	「なんだ？」
+RED XIII	RED XIII
+“Look at the number…”	「すごい数だ……」
+CID	CID
+“%#@^! They're comin'	「チッ！　みなさん
+out in full force!”	総出でおでむかえかよ！」
+BARRET	BARRET
+“CLOUD!	「CLOUD！
+You go first!”	おめぇは先に行け！」
+CLOUD	CLOUD
+“OK, I'm going alone.”	「俺もここで戦う」
+BARRET	BARRET
+“Shu'up! It won't	「バ～カ！　こんなところで
+do us no good wit'	全員グダグダしてても
+everyone back here!”	しょーがねぇだろ」
+CID	CID
+“BARRET's right.”	「だな、BARRETの言うことも
+	もっともだぜ」New
+“You take two of us with	「CLOUD、おまえさんは
+you and go first. The rest'll	あと２人くれぇ連れて先に行ってろ。
+catch up with ya later.”	残ったこっちもスグおいつくからよ！」
+TIFA	TIFA
+“Is this like a practice run	「ま、本番前の
+before the final battle?”	準備運動ってところかしら？」
+CAIT SITH	CAIT SITH
+“Yeah, a major practice run…”	「なんやえらい準備運動やなぁ…」
+YUFFIE	YUFFIE
+“I'm fine with that.	「へへ、アタシはへっちゃらだよ。
+(It's probably more fun than	（下でセフィロス相手にするより
+meeting Sephiroth down there.)”	楽かもしれないし）」
+VINCENT	VINCENT
+“Hmm, this might be	「フッ、ヒマつぶしには
+fun to pass time.”	もってこいだな」
+RED XIII	RED XIII
+“They're coming!	「来る！
+They're already on the floor next to us!”	もう、となりのフロアまで来てる！」
+BARRET	BARRET
+“CLOUD!	「CLOUD！
+Hurry up and	はやく決めろ！」
+make up your mind!”	
+CLOUD	CLOUD
+“All of you!”	「みんな！」
+CLOUD	CLOUD
+“Later!”	「あとでまた！」
+BARRET	BARRET
+“Yeah, later.”	「ああ、あとでな」
+CID	CID
+“Yup! Later!”	「ヘッ！　あとでな」
+TIFA	TIFA
+“We'll meet up later.”	「うん、あとで
+	また会いましょう」
+Inside the Planet	星の体内
+	
+CLOUD	CLOUD
+“Where are we?”	「ここは……？」
+BARRET	BARRET
+“What's that!?”	「なんだ！？」
+TIFA	TIFA
+“What?”	「なに！？」
+CID	CID
+“What the hell?”	「なんだ、なんだ！」
+RED XIII	RED XIII
+“Wha…what?”	「な、なんだ！？」
+CAIT SITH	CAIT SITH
+“What?”	「な、なんや！」
+YUFFIE	YUFFIE
+“What? What?”	「なに！　なに！」
+VINCENT	VINCENT
+“What's this?”	「これは！？」
+CLOUD	CLOUD
+“Jenova?”	「ジェノバ…！？」
+CLOUD	CLOUD
+“It's coming!!”	「来る！！」
+????	？？？？
+	
+Li…ght…	ひ……かり……
+A light…	光だ……
+Is this…	これが……
+Is this light…Holy?	この光が……ホーリー？
+CLOUD	CLOUD
+“CID!?”	「CID！？」
+CLOUD	CLOUD
+“BARRET!?”	「BARRET！？」
+CLOUD	CLOUD
+“TIFA!?”	「TIFA！？」
+CID	CID
+“Owww…”	「イテテテ……」
+CID	CID
+“Goddammit…	「なんだコンチクショウ……
+So we're all here?”	けっきょく全員集合かよ……」
+BARRET	BARRET
+“Oww…damn, man!”	「イテテテ……」
+BARRET	BARRET
+“What?	「なんだオイ……
+So everyone's together again?”	けっきょくみんな
+	そろっちまったのか……」
+TIFA	TIFA
+“Owwww…”	「アイタタタ……」
+TIFA	TIFA
+“CLOUD…	「CLOUD……
+So are we all together?”	やっぱりいっしょに
+	なっちゃったね……」
+BARRET	BARRET
+“…And, where the hell's that?”	「……それで、いったい
+	どこにいやがるんだ？
+	あの……」
+“Uuuugh!!”	「ウグッ……！！」
+CLOUD	CLOUD
+“Sephiroth!!”	「……セフィロスッ！！」
+BARRET	BARRET
+“Ugh!	「グッ……！
+Is this…	これが……本当の
+Sephiroth's power?”	セフィロスの力だってのか！？」
+CID	CID
+“My…my body…	「か、体が……
+I can't control my body…	言うことをききやがらねえ……
+Uuugh!?”	ウオッ！？」
+CLOUD	CLOUD
+“Sephi…roth!	「セフィ……ロス……！
+Not yet…	まだだ……
+I'm not…Uuuuraagh!”	まだ俺は……ウァァアア！」
+RED XIII	RED XIII
+“My front legs…my hind legs…	「前足が……後ろ足が……
+my tail's about to rip off!!”	シッポがちぎれそうだ！！」
+CAIT SITH	CAIT SITH
+“This is definitely not good…	「アカン……
+He's way outta our league…”	やっぱりケタちがいや……」
+YUFFIE	YUFFIE
+“I, I don't know if I can…go on.”	「ア、アタシもうダメ……かも……」
+TIFA	TIFA
+“CLOUD…	「CLOUD……
+CLOUD…”	CLOUD……」
+CLOUD	CLOUD
+“Ugh…ugh…”	「ウ……ウ……」
+CLOUD	CLOUD
+“…There…”	「……こに……ある……」
+“It's…there…”	「そこに……あるんだ……」
+TIFA	TIFA
+“CLOUD?”	「CLOUD……？」
+CLOUD	CLOUD
+“…Holy…Holy…	「……ホーリーが……ホーリーが
+is there…”	そこにある……」
+“Holy Materia is shining…	「ホーリーが輝いてる……
+AERIS's prayer is shining!”	AERISのいのりが
+	輝いてる……！」
+TIFA	TIFA
+“Holy…	「ホーリー……
+AERIS…”	AERIS……」
+CLOUD	CLOUD
+“It's not over yet…	「まだ終わりじゃない……
+This isn't the end yet!!”	終わりじゃないんだ！！」
+“Uuuuuaaaaagh!!”	「ウワアァーッ！！」
+“Eeeyaaaa!!”	「キャアアァーッ！！」
+Let's go, everyone!	いくぞ、みんな……！
+Just a moment!	もう１度だけ……！
+CLOUD	CLOUD
+“AERIS's memories…	「AERISの想い……
+Our memories…”	俺たちの想い……」
+“We came…to tell you…our memories…	「その想い伝えるために……
+Come Planet! Show us your answer!”	俺たちは……来た……
+	さあ、星よ！　答えを見せろ！」
+“And Sephiroth!!	「そしてセフィロス！！
+To the settling of everything!!”	すべての決着を！！」
+BARRET	BARRET
+“Not only AERIS…”	「AERISだけじゃねえ……」
+“Holy is the prayer of AVALANCHE…	「ホーリーはアバランチの……
+Of Marlene and Dyne…	マリンやダインの……
+And everyone on the Planet!”	この星の人間のいのりだ！」
+TIFA	TIFA
+“AERIS is here…	「AERISがいる……
+everyone is here…	みんながいる……
+CLOUD is here with us!”	CLOUDがいてくれる！」
+“There's still a lot for us to do…	「私たちにはまだ
+I'm not giving up!!”	できることがある……！
+	私、あきらめない！！」
+RED XIII	RED XIII
+“I'm going to see it through to the end.	「オイラはみとどける。
+For our future…	みんなのこれから……
+And that of the Planet…	この星のこれから……」
+“I understand now, Grandpa.	「今ならわかるよ、じっちゃん。
+This is my mission!”	それがオイラの使命だ！」
+“I won't let the Lifestream…	「ライフストリームを……
+or the Planet wither away!!”	星の命を、かれさせはしない！！」
+CID	CID
+“Hoo-ok!	「ヘッ……！
+I can't be foolin' around	こんな穴ぐらの底でいつまでも
+in this hell hole…”	はいつくばってられるかよ……」
+“I still have lots of stuff	「オレ様はよ……オレ様にはよ！
+to do with my life!”	まだまだ、やりてえことがあるんだよ！」
+CAIT SITH	CAIT SITH
+“We noticed a little late the	「まちがいにきづくんが
+trouble we were getting in…”	ちぃ～と
+	遅かったんかもしれん……」
+“But, there's still time…	「それでも、まだ……
+We can still get out of it!	まだやり直せるはずや！
+Even if we can't get EVERYTHING	ぜんぶ元にはもどせんかも
+back to normal!”	しれんけどな！」
+“We should be able to protect	「いちばんだいじなモンを
+what's most important!!”	守ることは
+	できるはずや！！」
+YUFFIE	YUFFIE
+“Maybe…maybe I shouldn't have come…”	「や……やっぱりくるんじゃ
+	なかったかも……」
+“I don't need…Materia……any…”	「もう、マテリアなんか……
+	マテリアなんか……」
+“Nope, I still want it!!	「やっぱり欲しいッ！！
+This an' that an' everything…MINE!	アレもコレも、みんなみんな
+And I'm never gonna give any up!!”	アタシのもの！
+	アンタなんかにやるもんか！！」
+VINCENT	VINCENT
+“I was frozen in time…	「あの時に凍りついた
+But now I feel as though my time	私の時間が、今ふたたび
+is finally beginning!”	動きはじめる……！」
+“Sephiroth, now it's your time to	「セフィロス、今度はおまえが
+sleep for the ages!!”	時のはざまで眠りにつく番だ！！」
+CLOUD	CLOUD
+“G…ugh…”	「クッ……」
+BARRET	BARRET
+“Urrrrrgh!!”	「ウオオォッ！！」
+TIFA	TIFA
+“…We're not gonna lose!!”	「……負けないっ！！」
+RED XIII	RED XIII
+“…No way we're gonna lose!!”	「……負けるもんか！！」
+CID	CID
+“This ain't nothin'!!”	「ケッ、へでもねえぜっ！！」
+CAIT SITH	CAIT SITH
+“We're not losin'!!”	「負けへんでェ！！」
+YUFFIE	YUFFIE
+“I don't like it!!”	「もうイヤ～ッ！！」
+VINCENT	VINCENT
+“Damn…!”	「クッ……！」
+…over…	……終わった……
+It's all over…	終わったんだ……
+…everything…	……なにもかも……
+Everyone…everything…	なにも……かも……
+all finished…	終わりをつげ……
+Now everything	そしてこの私から
+will begin anew…with me!!	すべてがはじまる！！
+CLOUD	CLOUD
+“This is all we could do.”	「俺たちにできるのは
+	ここまでだな」
+BARRET	BARRET
+“Wait! What about Holy?	「ちょっと待てよ！
+What's gonna happen	ホーリーは！？
+to the Planet?”	星はどうなる？」
+CLOUD	CLOUD
+“That…I don't know.	「それは……わからない。
+Isn't the rest up to the Planet?”	あとは星が決めることだろ？」
+TIFA	TIFA
+“…You're right.”	「……そうね」New
+“We've done all that we could do.”	「私たち、できることは
+	ぜんぶやったものね」
+CLOUD	CLOUD
+“All right, everyone.”	「さあ、みんな」
+CLOUD	CLOUD
+“We did our best.”	「もう、考えてもしようがない」New
+“That's it.”	「不安やなんかはここに
+	置きざりにしてさ」
+CLOUD	CLOUD
+“Let's go home proud.”	「胸を張って帰ろう」
+TIFA	TIFA
+“What happened?”	「どうしたの？」
+CLOUD	CLOUD
+“…I feel it…”	「……感じる……」
+TIFA	TIFA
+“What…”	「えっ……」
+CLOUD	CLOUD
+“He is still…here.”	「あいつは……まだいる」
+CLOUD	CLOUD
+“Still…”	「まだ……」
+TIFA	TIFA
+“CLOUD!?”	「CLOUD！？」
+CLOUD	CLOUD
+“He's…laughing…”	「わ、笑ってる……」
+TIFA	TIFA
+“CLOUD!”	「CLOUD！」
+……..Lifestream?	……ライフストリム？
+…. I think I'm beginning to understand.	….わかったような気がする
+What?	えっ？
+“An answer from the planet…	星からの容え….約束の地….
+the Promised Land…”	
+I think I can meet her … there	「そこで….会えると思うんだ」
+Yeah, let's go meet her.	「うん、会いに行こう」
+Hey, where is everyone?	「そうだ、みんなは？」
+Heeeey!	「おーーーーい！」
+I'm glad you're all safe!	「良かった！みんな無事みたい」
+They all seem to be safe, too.	「どうやら向こうも無事らしいな」
+But… now what're we going to do?	「でもよ、これからどうするんだ？」
+Holy should be moving soon,	「もうじきホーリーが動き出すんだろ？」
+and that means this place will…	「そうなったら、ここは……」
+Oh, Lady Luck don't fail me now…	「あ～あ、、　運命の女神さんよぉ、、」
+	「何とかなんねェのかよ～」
+Shit!!	「ちくしょー！！」
+The flower girl?	「お花のおねえちゃん？」
+Wait a damn minute!	「おいおいおい！ミッドガルどうなるんだ？」
+What's gonna happen to Midgar?	
+We can't let that happen!	「まずいんじゃねえのか？」
+I had everyone take refuge in the slums,	「みんなスラムに非難してもろたんやけど」
+but the way things are now…	「このままやったら、もう……」
+It's too late for Holy.	「きっとホーリーが遅すぎたんだ」
+Meteor is approaching the Planet.	「メテオが星に近づきすぎてる」
+Holy is having the opposite effect.	「これじゃせっかくのホーリーも逆効果だ」
+Forget Midgar, we've gotta worry about the Planet,	「ミッドガルどころか星そのものが……」
+What's that!?	「あれは！？」
+What the hell IS that…….?	「なんなんだ……？」
+…….. Lifestream.	「……ライフストリームだ」
+It's coming.	「来る」
+Five hundred years later…	Five hundred years later
+	500年後…
