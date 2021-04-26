@@ -31,9 +31,6 @@ body{
 	padding:15px;
 }
 
-#template{
-}
-
 #navigation{
 	background-color:rgba(0,0,255,0.25);
 	padding:15px;
@@ -62,18 +59,8 @@ body{
 	padding:20px;
 }
 
-.page{
-}
-
-#vocabulary tr:nth-child(odd){
-/*	background-color:rgba(0,0,0,0.1);*/
-}
-
 #vocabulary tr td tr:nth-child(odd){
 	background-color:rgba(255,255,0,0.1);
-}
-
-#vocabulary{
 }
 
 #vocabulary td{

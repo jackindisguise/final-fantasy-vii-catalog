@@ -16,7 +16,7 @@ const session = require("express-session")({
 var app = express();
 app.use(session);
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.urlencoded({ extended: true, parameterLimit: 50000 }));
 app.use(express.static(path.join(__dirname, 'www/public')));
 app.use(cookie());
 app.set("view engine", "pug");
@@ -72,12 +72,13 @@ app.post("/disambiguated/:scene", function(req,res){
 	let scene = req.params.scene
 	let body = req.body;
 	let smart = []
-	for(let line in body){
-		let num = new Number(body[line]);
+	for(let entry in body){
+		let num = new Number(body[entry]);
 		smart.push(num);
 	}
 
 	fs.readdir(inputFolder, function(err, files){
+		let usedDefinitions = [];
 		for(let file of files){
 			let _scene = file.substring(0,2);
 			let name = file.substring(0,file.length-5);
@@ -86,17 +87,17 @@ app.post("/disambiguated/:scene", function(req,res){
 					let json = JSON.parse(data);
 					let readable = [];
 					for(let i=0;i<json.length;i++){
-						if(smart[i] == -1) continue; // remove unnecessary lines
-						let line = json[i];
-						let chosenDefNum = smart[i];
-						let chosenDef = line.definitions[smart[i]];
-						delete line.definitions;
-						line.definition = chosenDef;
-						readable.push(`${line.word}\t${line.root}\t${chosenDef}\t${line.english}\t${line.japanese}`);
+						if(smart[i] == -1) continue; // remove words marked for removal
+						let entry = json[i];
+						let chosenDef = entry.definitions[smart[i]];
+						if(usedDefinitions.indexOf(chosenDef) != -1) continue; // remove duplicates
+						delete entry.definitions;
+						entry.definition = chosenDef;
+						readable.push(`${entry.word}\t${entry.root}\t${chosenDef}\t${entry.english}\t${entry.japanese}`);
 					}
 
 					fs.writeFileSync(outputFolder+name+".txt", readable.join("\r\n"), "utf8");
-					res.redirect("/index");
+					res.render("disambiguated", {scene:name, lines:json});
 				});	
 				return;
 			}
