@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.0.0...v2.0.1) (2021-04-26)
+
+
+### Bug Fixes
+
+* Wrong ending line in scene 43. Fixed. ([d5217e2](https://github.com/nowotato/final-fantasy-vii-catalog/commit/d5217e205cb2d3410c154d852fb69f4133a09f9a))
+
 ## [2.0.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.14.0...v2.0.0) (2021-04-26)
 
 
