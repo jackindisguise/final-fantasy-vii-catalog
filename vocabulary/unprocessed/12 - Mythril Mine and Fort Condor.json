@@ -1,0 +1,1100 @@
+[
+	{
+		"word": "とんでも",
+		"root": "とんでも",
+		"definitions": [
+			"トンデモ (n-pref, n) unthinkable, unexpected, outrageous, offensive"
+		],
+		"english": "This Sephiroth guy's pretty strong, I'd say.",
+		"japanese": "とんでもねえ強さだな。セフィロスってやつは"
+	},
+	{
+		"word": "似",
+		"root": "似る",
+		"definitions": [
+			"似る[にる] (v1, vi) to resemble, to look like, to take after,to be similar (in status, condition, etc.), to be close, to be alike, to be like"
+		],
+		"english": "Hey CLOUD. If we keep going, we'll never get to Kalm.",
+		"japanese": "おいおい、CLOUDさんよぉ。このまま行くと、カームの町とは似ても似つかぬ場所に着く事になるぜ"
+	},
+	{
+		"word": "似つか",
+		"root": "似つく",
+		"definitions": [
+			"似つく[につく] (v5k, vi) to closely resemble,to suit well, to match well, to go well with"
+		],
+		"english": "Hey CLOUD. If we keep going, we'll never get to Kalm.",
+		"japanese": "おいおい、CLOUDさんよぉ。このまま行くと、カームの町とは似ても似つかぬ場所に着く事になるぜ"
+	},
+	{
+		"word": "通り抜け",
+		"root": "通り抜ける",
+		"definitions": [
+			"通り抜ける[とおりぬける] (v1, vi) to go through, to pass through, to get through, to cut across"
+		],
+		"english": "…We won't get to Kalm if we go through these caverns.",
+		"japanese": "……この洞窟を通り抜けてもカームの町には着かないぞ"
+	},
+	{
+		"word": "天下",
+		"root": "天下",
+		"definitions": [
+			"天下[てんか] (n) the whole world,the whole country,society, the public,supremacy over a nation, government of a country, the ruling power,having one's own way, doing as one pleases,peerless, incomparable, superlative, world-famous,shogun (Edo period)"
+		],
+		"english": "Yo, wassup? Can't SOLDIER-man even lead the way?",
+		"japanese": "おいおい、しっかりしてくれよ。天下のソルジャーさまが道案内ひとつできねぇのか？"
+	},
+	{
+		"word": "寄り",
+		"root": "寄り",
+		"definitions": [
+			"寄り[より] (suf) pushing back one's opponent while locked in close quarters,having a tendency towards, being close to"
+		],
+		"english": "Kalm should be closer to Midgar.",
+		"japanese": "カームの町は、もっとミッドガル寄りの位置にあるはずよ"
+	},
+	{
+		"word": "悪意",
+		"root": "悪意",
+		"definitions": [
+			"悪意[あくい] (n) ill will, spite, evil intention, malice,bad meaning,mala fides, bad faith, criminal intent to deceive,malice"
+		],
+		"english": "To put it negatively… you could say that.",
+		"japanese": "悪意に満ちた言い方をするとそうなる……"
+	},
+	{
+		"word": "ルー",
+		"root": "ルー",
+		"definitions": [
+			"ルー (n) roux (mixture of butter and flour used to make sauces), sauce made from such a mixture,(Japanese) curry powder, curry sauce made from this powder"
+		],
+		"english": "It's all right, Rude! I know you don't like speeches, so don't force it!",
+		"japanese": "ルード先輩！しゃべるの苦手なんだからムリしないで下さい"
+	},
+	{
+		"word": "不足",
+		"root": "不足",
+		"definitions": [
+			"不足[ふそく] (adj-na, n, vs) insufficiency, shortage, deficiency, lack, dearth"
+		],
+		"english": "I'm the newest member of the Turks, Elena. Thanks to what you did to Reno, we're short-handed.",
+		"japanese": "私、タークスの新人のイリーナ。レノがあんたたちにやられてタークスは人手不足"
+	},
+	{
+		"word": "つきとめる",
+		"root": "つきとめる",
+		"definitions": [
+			"突き止める[つきとめる] (v1, vt) to determine (esp. a culprit or underlying cause), to pin down, to ascertain, to locate, to identify,to stab to death"
+		],
+		"english": "Anyhow, our job is to find out where Sephiroth is headed.",
+		"japanese": "ま、それはともかく私たちの任務はセフィロスの行方をつきとめること"
+	},
+	{
+		"word": "定時",
+		"root": "定時",
+		"definitions": [
+			"定時[ていじ] (n, adj-no) regular time, stated period"
+		],
+		"english": "Now go. Don't forget to file your report.",
+		"japanese": "行け。定時連絡を価かすなよ"
+	},
+	{
+		"word": "負わさ",
+		"root": "負わす",
+		"definitions": [
+			"負わす[おわす] (v5s, vt) to impose, to visit upon, to inflict"
+		],
+		"english": "…Reno said he wanted to see you after the injuries you gave him healed.",
+		"japanese": "……レノが言ってた。きみたちに負わされたケガが治ったらあいさつしたいと"
+	},
+	{
+		"word": "治っ",
+		"root": "治る",
+		"definitions": [
+			"治る[なおる] (v5r, vi) to be cured, to get well, to be healed,to get mended, to be repaired, to be fixed"
+		],
+		"english": "…Reno said he wanted to see you after the injuries you gave him healed.",
+		"japanese": "……レノが言ってた。きみたちに負わされたケガが治ったらあいさつしたいと"
+	},
+	{
+		"word": "親愛",
+		"root": "親愛",
+		"definitions": [
+			"親愛[しんあい] (adj-na) deep affection,dear, beloved"
+		],
+		"english": "He wants to show his affection for you all… with a new weapon.",
+		"japanese": "親愛なるきみたちに新しい武器を見せたいそうだ"
+	},
+	{
+		"word": "諸君",
+		"root": "諸君",
+		"definitions": [
+			"諸君[しょくん] (int) you (people),gentlemen, ladies and gentlemen, my friends, everyone"
+		],
+		"english": "Well then, stay out of Shinra's way.",
+		"japanese": "では、諸君。できれば神羅の邪魔はしないでもらいたいものだな"
+	},
+	{
+		"word": "彼ら",
+		"root": "彼ら",
+		"definitions": [
+			"彼ら[かれら] (pn) they, them",
+			"彼等[あれら] (n, adj-no) those (indicating something distant from both speaker and listener, or something understood without naming it directly),they (of people)"
+		],
+		"english": "No need to tell them about our orders.",
+		"japanese": "我々の任務を、彼らに教えてやる必要はない"
+	},
+	{
+		"word": "追いかけ",
+		"root": "追いかける",
+		"definitions": [
+			"追いかける[おいかける] (v1, vt) to chase, to run after, to pursue"
+		],
+		"english": "Very well, Rude and I will go after Sephiroth, who's heading for Junon Harbor!",
+		"japanese": "それでは、私とルード先輩は【ジュノンの港】へ向かったセフィロスを追いかけます！"
+	},
+	{
+		"word": "ふもと",
+		"root": "ふもと",
+		"definitions": [
+			"麓[ふもと] (n) foot (of a mountain or hill), bottom, base"
+		],
+		"english": "Base of Fort Condor",
+		"japanese": "コンドルフォートふもと"
+	},
+	{
+		"word": "闘っ",
+		"root": "闘う",
+		"definitions": [
+			"戦う[たたかう] (v5u, vi) to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against),to compete (against),to struggle (against adversities, etc.), to fight, to contend, to resist"
+		],
+		"english": "We've been fighting the Shinra on this battlefield for a long time.",
+		"japanese": "ここは長い長いあいだ神羅軍と闘ってきた戦場"
+	},
+	{
+		"word": "戦場",
+		"root": "戦場",
+		"definitions": [
+			"戦場[せんじょう] (n) battlefield, battleground"
+		],
+		"english": "We've been fighting the Shinra on this battlefield for a long time.",
+		"japanese": "ここは長い長いあいだ神羅軍と闘ってきた戦場"
+	},
+	{
+		"word": "すえ",
+		"root": "すえる",
+		"definitions": [
+			"据える[すえる] (v1, vt) to place (in position), to fix, to set (e.g. table), to lay (foundation),to install, to seat (someone),to settle (upon something), to fix (e.g. one's gaze),to apply (moxa)",
+			"饐える[すえる] (v1, vi) to go bad, to turn sour"
+		],
+		"english": "We've still settled in for a long war with them.",
+		"japanese": "いまもじっくりとコシをすえて彼らと闘っている"
+	},
+	{
+		"word": "余裕",
+		"root": "余裕",
+		"definitions": [
+			"余裕[よゆう] (n) surplus, margin, leeway, room, space, time, allowance, flexibility, scope,composure, placidity, complacency, calm"
+		],
+		"english": "Could you spare some time, and help us fight them?",
+		"japanese": "もしあんたらの旅に余裕があるならば我々に協力してくれ"
+	},
+	{
+		"word": "すまし",
+		"root": "すます",
+		"definitions": [
+			"済ます[すます] (v5s, vt) to finish, to get it over with, to conclude,to settle, to pay back,to get along (without something), to make do with (without)",
+			"澄ます[すます] (v5s, vt) to clear, to make clear,to be unruffled, to look unconcerned, to feign indifference,to look demure, to look prim, to put on airs,to strain (one's ears), to listen carefully"
+		],
+		"english": "We don't want to sound pushy, so if you're busy with something, why don't you finish that first?",
+		"japanese": "でも無理にとはいわん。急ぎの用があるのならそちらをすましてからのほうがよいだろう"
+	},
+	{
+		"word": "ぞい",
+		"root": "ぞい",
+		"definitions": [
+			"沿い[ぞい] (suf) along",
+			"ぞい (prt) (at sentence-end) indicates mild emphasis"
+		],
+		"english": "Let's see…head north along the coast, keep going a ways and you'll run into Junon.",
+		"japanese": "そうか…　ジュノンの街はここを海ぞいに北へ、ずっと行ったところだ。"
+	},
+	{
+		"word": "小高い",
+		"root": "小高い",
+		"definitions": [
+			"小高い[こだかい] (adj-i) slightly elevated"
+		],
+		"english": "But be alert because it sits in the shadows of a small hill.",
+		"japanese": "小高い丘の影になっているから気をつけてな"
+	},
+	{
+		"word": "丘",
+		"root": "丘",
+		"definitions": [
+			"丘[おか] (n) hill, height, knoll, rising ground,bonus points awarded to the winner at the end of a game",
+			"阜[つかさ] (n) mound, hill"
+		],
+		"english": "But be alert because it sits in the shadows of a small hill.",
+		"japanese": "小高い丘の影になっているから気をつけてな"
+	},
+	{
+		"word": "影",
+		"root": "影",
+		"definitions": [
+			"影[かげ] (n) shadow, silhouette, figure, shape,reflection, image,ominous sign,light (stars, moon),trace, shadow (of one's former self)"
+		],
+		"english": "But be alert because it sits in the shadows of a small hill.",
+		"japanese": "小高い丘の影になっているから気をつけてな"
+	},
+	{
+		"word": "生き残っ",
+		"root": "生き残る",
+		"definitions": [
+			"生き残る[いきのこる] (v5r, vi) to survive"
+		],
+		"english": "It seems we survived.",
+		"japanese": "私たちは生き残ったようだな"
+	},
+	{
+		"word": "程度",
+		"root": "程度",
+		"definitions": [
+			"程度[ていど] (n, n-adv, n-suf) degree, amount, grade, standard, of the order of (following a number), about, approximately"
+		],
+		"english": "You mean to tell me that's the extent of my powers? So that's as good as it gets? At this rate I'll never beat the Shinra…let alone Sephiroth…",
+		"japanese": "俺の力はこんなものだったのか？この程度なのか……これじゃ神羅にも……セフィロスにも……"
+	},
+	{
+		"word": "もうしわけ",
+		"root": "もうしわけ",
+		"definitions": [
+			"申し訳[もうしわけ] (n, vs) apology, excuse"
+		],
+		"english": "But if we give up now, what's gonna happen to Fort Condor?",
+		"japanese": "でもよ、このままやめちまったらコンドルフォートの連中にもうしわけねえぜ"
+	},
+	{
+		"word": "責め",
+		"root": "責める",
+		"definitions": [
+			"責める[せめる] (v1, vt) to condemn, to blame, to criticize, to criticise, to reproach, to accuse,to urge, to press, to pester,to torture, to torment, to persecute,to break in (a horse)"
+		],
+		"english": "CLOUD… You won't find the answer by blaming yourself.",
+		"japanese": "CLOUD……自分責めても、答え、見つからないよ"
+	},
+	{
+		"word": "悩ま",
+		"root": "悩む",
+		"definitions": [
+			"悩む[なやむ] (v5m) to be worried, to be troubled"
+		],
+		"english": "Don't be too hard on yourself, CLOUD. Let's think about what we should do next.",
+		"japanese": "あんまり悩まないで、CLOUD。先のこと、考えようよ"
+	},
+	{
+		"word": "増やさ",
+		"root": "増やす",
+		"definitions": [
+			"増やす[ふやす] (v5s, vt) to increase, to add to, to augment"
+		],
+		"english": "We have to fight to avoid any more casualties.",
+		"japanese": "これ以上、犠牲を増やさぬため戦わなければならないのではないか？"
+	},
+	{
+		"word": "しす",
+		"root": "しす",
+		"definitions": [
+			"シス (n) cis,sister",
+			"資す[しす] (v5s, vi) to contribute, to play a part in, to have a hand in,to finance",
+			"死す[しす] (vs-c, vi) to die",
+			"ＳＩＳ[シス] (n) strategic information system (SIS)"
+		],
+		"english": "Y'know, worryin' only tires you out. Why don't you take it easy?",
+		"japanese": "気にしすぎたらしんどいだけやで。もうちょい楽にしいや"
+	},
+	{
+		"word": "珍しい",
+		"root": "珍しい",
+		"definitions": [
+			"珍しい[めずらしい] (adj-i) unusual, rare, curious,new, novel,fine (e.g. gift)"
+		],
+		"english": "Hmmn, now this is something, I never thought anyone would ever climb up here.",
+		"japanese": "ほう、珍しいなこんなところまで登ってくるとはな"
+	},
+	{
+		"word": "まき",
+		"root": "まき",
+		"definitions": [
+			"巻[まき] (n) roll (e.g. of cloth),winding,volume (of book)",
+			"薪[まき] (n) firewood, kindling, fuel,piece(s) of firewood",
+			"槙[まき] (n) yew plum pine (Podocarpus macrophyllus)",
+			"牧[まき] (n) pasture, grazing land",
+			"魔器[まき] (n) magical focus, magical foci"
+		],
+		"english": "You'd better get down before you get involved.",
+		"japanese": "まきぞえにならないうちに、降りなさい"
+	},
+	{
+		"word": "お宝",
+		"root": "お宝",
+		"definitions": [
+			"お宝[おたから] (n, adj-no) treasure,picture of a treasure ship,money, cash"
+		],
+		"english": "Is this about the jewels?",
+		"japanese": "お宝の話かい？"
+	},
+	{
+		"word": "人情",
+		"root": "人情",
+		"definitions": [
+			"人情[にんじょう] (n) humanity, empathy, kindness, sympathy,human nature, common sense, customs and manners"
+		],
+		"english": "Man, she sure's cold.",
+		"japanese": "ほんと、人情のねえ奴だぜ"
+	},
+	{
+		"word": "鳥",
+		"root": "鳥",
+		"definitions": [
+			"鳥[とり] (n) bird,bird meat (esp. chicken meat), fowl, poultry"
+		],
+		"english": "A huge bird.",
+		"japanese": "おっきな、鳥さん"
+	},
+	{
+		"word": "コンドル",
+		"root": "コンドル",
+		"definitions": [
+			"コンドル (n) condor (incl. other New World vultures of family Cathartidae),Andean condor (Vultur gryphus)"
+		],
+		"english": "The reactor and the Condor.",
+		"japanese": "魔晄炉と、コンドルだな"
+	},
+	{
+		"word": "武力",
+		"root": "武力",
+		"definitions": [
+			"武力[ぶりょく] (n) armed might, military power, the sword, force"
+		],
+		"english": "Damn, that's one big bird! But why are they trying to get rid of it with weapons?",
+		"japanese": "ちょっと大きな鳥だろ？なんでまた武力まで使って排除しようとするんだ？"
+	},
+	{
+		"word": "おおげさ",
+		"root": "おおげさ",
+		"definitions": [
+			"大げさ[おおげさ] (adj-na, n) grandiose, exaggerated"
+		],
+		"english": "…That's too much.",
+		"japanese": "……おおげさすぎるな"
+	},
+	{
+		"word": "なにやら",
+		"root": "なにやら",
+		"definitions": [
+			"何やら[なにやら] (adv) something, for some reason, some kind of"
+		],
+		"english": "It seems there's some type of special Materia in the reactor above us.",
+		"japanese": "どうやら、この上の魔晄炉にはなにやら、特別なマテリアがあるらしい"
+	},
+	{
+		"word": "あわて",
+		"root": "あわてる",
+		"definitions": [
+			"慌てる[あわてる] (v1, vi) to become confused (disconcerted, disorganized, disorganised), to be flustered, to panic,to be in a hurry, to rush"
+		],
+		"english": "And because the Condor came, the Shinra rushed troops here.",
+		"japanese": "そこへコンドルがきたので神羅は、あわてて軍を送ってきた"
+	},
+	{
+		"word": "温め",
+		"root": "温める",
+		"definitions": [
+			"温める[あたためる] (v1, vt) to warm, to heat",
+			"温める[ぬるめる] (v1, vt) to cool something down (e.g. by adding water)"
+		],
+		"english": "The Condor is now warming its egg, which hatches only once every few years.",
+		"japanese": "今、コンドルは、数年に一度しか生まないタマゴを温めている"
+	},
+	{
+		"word": "営み",
+		"root": "営み",
+		"definitions": [
+			"営み[いとなみ] (n) activity, action, performance, execution, occupation, business, work, sexual intercourse, sex"
+		],
+		"english": "We would like to protect the Condor from being harmed.",
+		"japanese": "わたしたちは、神羅の手からコンドルの営みを守ってやりたい"
+	},
+	{
+		"word": "まかし",
+		"root": "まかす",
+		"definitions": [
+			"負かす[まかす] (v5s, vt) to defeat",
+			"任す[まかす] (v5s, vt) to entrust, to leave to a person"
+		],
+		"english": "I'm gonna leave it up to you all.",
+		"japanese": "どないするかはみなさんにまかしますわ"
+	},
+	{
+		"word": "雇っ",
+		"root": "雇う",
+		"definitions": [
+			"雇う[やとう] (v5u, vt) to employ,to hire, to charter"
+		],
+		"english": "That's why we have hired soldiers to help us.",
+		"japanese": "兵を雇って、いっしょに戦ってもらっている"
+	},
+	{
+		"word": "スポンサー",
+		"root": "スポンサー",
+		"definitions": [
+			"スポンサー (n) sponsor"
+		],
+		"english": "As our sponsor, you can help us with a contribution or by fighting alongside of us…",
+		"japanese": "スポンサーとして、ギルの援助でもいいいっしょに戦ってくれるのでもいい…"
+	},
+	{
+		"word": "援助",
+		"root": "援助",
+		"definitions": [
+			"援助[えんじょ] (n, vs) assistance, aid, support"
+		],
+		"english": "As our sponsor, you can help us with a contribution or by fighting alongside of us…",
+		"japanese": "スポンサーとして、ギルの援助でもいいいっしょに戦ってくれるのでもいい…"
+	},
+	{
+		"word": "好い",
+		"root": "好く",
+		"definitions": [
+			"良く[よく] (adv) nicely, properly, well, skillfully, skilfully,frequently, often",
+			"好く[すく] (v5k, vt) to like, to love, to be fond of"
+		],
+		"english": "I'll leave it up to you so please do as you see fit.",
+		"japanese": "まかしますから好いたようにどうぞ"
+	},
+	{
+		"word": "失っ",
+		"root": "失う",
+		"definitions": [
+			"失う[うしなう] (v5u, vt) to lose, to part with"
+		],
+		"english": "It's difficult to get back what you've lost…",
+		"japanese": "失ってしまったものを取りもどすのは難しい……"
+	},
+	{
+		"word": "決断",
+		"root": "決断",
+		"definitions": [
+			"決断[けつだん] (n, vs) decision, determination"
+		],
+		"english": "That's the right decision.",
+		"japanese": "いい決断だ"
+	},
+	{
+		"word": "戦術",
+		"root": "戦術",
+		"definitions": [
+			"戦術[せんじゅつ] (n, adj-no) tactics"
+		],
+		"english": "Ask my son, who's standing guard at the shed, about the details of our military tactics. We're depending on you.",
+		"japanese": "戦術に関するくわしいことは見張り小屋にいる、私の息子に聞いてくれ。よろしく頼んだよ"
+	},
+	{
+		"word": "やり方",
+		"root": "やり方",
+		"definitions": [
+			"やり方[やりかた] (n) manner of doing, way, method, means"
+		],
+		"english": "You've come at a good time. Shinra's changing its strategy now.",
+		"japanese": "いいところへ来てくれた。神羅がやり方を変えてくるぞ"
+	},
+	{
+		"word": "取り出す",
+		"root": "取り出す",
+		"definitions": [
+			"取り出す[とりだす] (v5s, vt) to take out, to produce, to pick out,to fetch, to retrieve"
+		],
+		"english": "It seems that Shinra will destroy the reactor and then take out the Materia that's inside.",
+		"japanese": "どうやら、魔晄炉を破壊して中からマテリアを取り出すつもりらしい"
+	},
+	{
+		"word": "都合",
+		"root": "都合",
+		"definitions": [
+			"都合[つごう] (adv) circumstances, condition, convenience,to arrange, to manage,to lend money, to raise money,in all, in total, all told"
+		],
+		"english": "They're gigantic birds and so striking. We simply can't let them be killed by man's selfishness.",
+		"japanese": "でかいし、かっこいいよな。あいつらを人間の勝手な都合で殺しちまっていいのか？"
+	},
+	{
+		"word": "いいわけ",
+		"root": "いいわけ",
+		"definitions": [
+			"言い訳[いいわけ] (n, vs) excuse,explanation"
+		],
+		"english": "Of course not. There's no way, especially by the Shinra.",
+		"japanese": "いいわけないよな。特に神羅の都合で、なんて絶対に許しちゃだめだ"
+	},
+	{
+		"word": "イス",
+		"root": "イス",
+		"definitions": [
+			"椅子[いす] (n) chair, stool,post, office, position"
+		],
+		"english": "If you want to see them, get on that chair over there.",
+		"japanese": "見るんだったらそっちのイスの上に乗りなよ。気のすむまで見てくれよ"
+	},
+	{
+		"word": "目指し",
+		"root": "目指す",
+		"definitions": [
+			"目指す[めざす] (v5s, vt) to aim at, to have an eye on,to go toward, to head for"
+		],
+		"english": "The enemy has targeted our mountain reactor and will be climbing to reach it.",
+		"japanese": "敵は、この山の魔晄炉を目指して登ってくる。"
+	},
+	{
+		"word": "なにせ",
+		"root": "なにせ",
+		"definitions": [
+			"何せ[なにせ] (adv) at any rate, anyhow"
+		],
+		"english": "We need 400 gil to hire one soldier. So, if we hire 20 soldiers, we need 8000 gil.",
+		"japanese": "なにせ、兵を雇うと４００ギルも必要になる。２０部隊雇うと、８０００ギルにもなってしまう"
+	},
+	{
+		"word": "配置",
+		"root": "配置",
+		"definitions": [
+			"配置[はいち] (n, vs) arrangement (of resources), deployment, stationing, posting, disposition, configuration, layout"
+		],
+		"english": "We need to ask you to use your own money to hire these soldiers, buy the equipment, set it up and give the commands.",
+		"japanese": "つまり、君たちにおねがいするのは君たちのお金で兵を雇い、ワナを買って配置し、指示してもらいたい"
+	},
+	{
+		"word": "ものすごく",
+		"root": "ものすごい",
+		"definitions": [
+			"物凄い[ものすごい] (adj-i) earth-shattering, staggering, to a very great extent,terrible, frightful, horrible, ghastly"
+		],
+		"english": "We know what we're asking is selfish.  We sent our wives and children to another village, But, we're resigned to stay.",
+		"japanese": "ものすごく勝手なことを言っているのはじゅうぶん承知している"
+	},
+	{
+		"word": "じゅうぶん",
+		"root": "じゅうぶん",
+		"definitions": [
+			"十分[じゅうぶん] (n, vs) enough, sufficient, plenty, adequate, satisfactory,sufficiently, fully, thoroughly, well, perfectly,division into ten",
+			"重文[じゅうぶん] (n, adj-no) compound sentence, [object Object],important cultural property, important cultural asset"
+		],
+		"english": "We know what we're asking is selfish.  We sent our wives and children to another village, But, we're resigned to stay.",
+		"japanese": "ものすごく勝手なことを言っているのはじゅうぶん承知している"
+	},
+	{
+		"word": "承知",
+		"root": "承知",
+		"definitions": [
+			"承知[しょうち] (n, vs) knowledge, awareness,consent, acceptance, assent, admitting, compliance, agreement, acknowledgment, acknowledgement,forgiving, pardoning, excusing"
+		],
+		"english": "We know what we're asking is selfish.  We sent our wives and children to another village, But, we're resigned to stay.",
+		"japanese": "ものすごく勝手なことを言っているのはじゅうぶん承知している"
+	},
+	{
+		"word": "子ども",
+		"root": "子ども",
+		"definitions": [
+			"子供[こども] (n) child"
+		],
+		"english": "Let's get back to basics. If the enemy reaches this shed, you'll have to fight them off immediately.",
+		"japanese": "母親たちと子どもたちは、別の村へ移した。私たちも、かくごはできている"
+	},
+	{
+		"word": "移し",
+		"root": "移す",
+		"definitions": [
+			"移す[うつす] (v5s, vt) to change, to swap, to substitute, to transfer,to change the object of one's interest or focus,to spend or take time,to infect,to permeate something with the smell or colour of something,to move on to the next or different stage of (a plan, etc.)"
+		],
+		"english": "Let's get back to basics. If the enemy reaches this shed, you'll have to fight them off immediately.",
+		"japanese": "母親たちと子どもたちは、別の村へ移した。私たちも、かくごはできている"
+	},
+	{
+		"word": "進入",
+		"root": "進入",
+		"definitions": [
+			"進入[しんにゅう] (n, vs, adj-no) entry, approach, penetration"
+		],
+		"english": "It's a one shot gamble but we're asking for your help.",
+		"japanese": "話を元へもどそう。もしこの小屋に敵が進入したときには君たちが直接戦わなければならなくなる"
+	},
+	{
+		"word": "資金",
+		"root": "資金",
+		"definitions": [
+			"資金[しきん] (n) funds, capital"
+		],
+		"english": "If you don't have time could you help us with a donation?",
+		"japanese": "時間がないのであれば資金援助をおねがいしたい"
+	},
+	{
+		"word": "司令",
+		"root": "司令",
+		"definitions": [
+			"司令[しれい] (n, vs) command, control, commander"
+		],
+		"english": "If the enemy reaches the shed, they'll attack, and you'll have no choice but to battle immediately.",
+		"japanese": "敵を全滅させる、もしくは敵にはコマンダーと呼ばれる司令官がいるからそいつを倒せば、勝利だ"
+	},
+	{
+		"word": "官",
+		"root": "官",
+		"definitions": [
+			"官[かん] (n) government service, the bureaucracy",
+			"官[つかさ] (n) office, official,chief, head,(Yaeyama Islands in Okinawa) person (usually a woman) whose duty it is to officiate at religions ceremonies"
+		],
+		"english": "If the enemy reaches the shed, they'll attack, and you'll have no choice but to battle immediately.",
+		"japanese": "敵を全滅させる、もしくは敵にはコマンダーと呼ばれる司令官がいるからそいつを倒せば、勝利だ"
+	},
+	{
+		"word": "接触",
+		"root": "接触",
+		"definitions": [
+			"接触[せっしょく] (n, vs, adj-no) touch, contact"
+		],
+		"english": "If you lose, the Condor's life and ours…are over.",
+		"japanese": "敵が、小屋に接触したならばここへ乗りこまれてしまうから直接戦わなくてはならなくなる"
+	},
+	{
+		"word": "取り付か",
+		"root": "取り付く",
+		"definitions": [
+			"取り付く[とりつく] (v5k, vi) to cling to, to hold on to, to hold fast to,to grapple,to set about doing, to begin, to commence, to undertake,to take hold of, to possess, to haunt,to obtain a clue, to get a lead"
+		],
+		"english": "But, it's only a slight chance, and we have no idea how much the reactor can endure in an attack.",
+		"japanese": "もし直接戦って負けてしまい魔晄炉に取り付かれてもある程度までならなんとかなる"
+	},
+	{
+		"word": "ある程度",
+		"root": "ある程度",
+		"definitions": [
+			"ある程度[あるていど] (exp, adj-no, adv) to some extent, to a certain extent"
+		],
+		"english": "But, it's only a slight chance, and we have no idea how much the reactor can endure in an attack.",
+		"japanese": "もし直接戦って負けてしまい魔晄炉に取り付かれてもある程度までならなんとかなる"
+	},
+	{
+		"word": "実際",
+		"root": "実際",
+		"definitions": [
+			"実際[じっさい] (adj-no, adv, n) practicality, practical,reality, actuality, actual conditions,bhutakoti (limit of reality)"
+		],
+		"english": "When we can't defend against the attack any longer, the Shinra will take our lives, the Condor and all the Materia in the reactor.",
+		"japanese": "ある程度といったが、どれくらい耐えられるかは実際にやってみなくてはわからないと思う"
+	},
+	{
+		"word": "奪わ",
+		"root": "奪う",
+		"definitions": [
+			"奪う[うばう] (v5u, vt) to snatch away, to dispossess, to steal"
+		],
+		"english": "We can't use the Tristoner or Fire Catapult, because they are still not ready.",
+		"japanese": "耐え切れなくなったときコンドルの命も、私たちの命も魔晄炉内部のマテリアも、神羅に奪われてしまう"
+	},
+	{
+		"word": "連",
+		"root": "連",
+		"definitions": [
+			"連[れん] (ctr) two reams (of paper), 1000 sheets of paper,stanza, verse,tribe (in taxonomy),quinella, quiniela,party, company, group, set,counter for things strung in a line, e.g. pearls, dried fish, spans of a bridge, etc.,counter for falcons",
+			"連[むらじ] (n) Muraji (hereditary title; orig. one of the two highest such titles, later demoted to seventh highest of eight)"
+		],
+		"english": "The Fire Catapult is ready now, so we can set it up.",
+		"japanese": "それと、３連岩落機、爆弾投機はまだ開発中なので設置はできない"
+	},
+	{
+		"word": "岩",
+		"root": "岩",
+		"definitions": [
+			"岩[いわ] (n) rock, boulder,crag, cliff,anchor"
+		],
+		"english": "The Fire Catapult is ready now, so we can set it up.",
+		"japanese": "それと、３連岩落機、爆弾投機はまだ開発中なので設置はできない"
+	},
+	{
+		"word": "投機",
+		"root": "投機",
+		"definitions": [
+			"投機[とうき] (n) speculation, venture, stockjobbing, gambling (on stocks)"
+		],
+		"english": "The Fire Catapult is ready now, so we can set it up.",
+		"japanese": "それと、３連岩落機、爆弾投機はまだ開発中なので設置はできない"
+	},
+	{
+		"word": "バツ",
+		"root": "バツ",
+		"definitions": [
+			"罰[ばつ] (n, n-suf) punishment, penalty",
+			"閥[ばつ] (n, n-suf) clique, clan, faction",
+			"ばつ (n) x-mark,impossibility, futility, uselessness",
+			"ばつ (n, adj-no) one's circumstances or condition, esp. compared to that of another,coherence (e.g. of a conversation)",
+			"跋[ばつ] (n) epilogue, postscript, envoi"
+		],
+		"english": "After all positions are in place, press [CANCEL]. This starts the battle.",
+		"japanese": "カーソルを動かしてバツ印がでないところで○ボタンを押すと配置決定となる"
+	},
+	{
+		"word": "印",
+		"root": "印",
+		"definitions": [
+			"印[しるし] (n) mark, sign,symbol, emblem,badge, crest, flag,evidence, proof,token (of gratitude, affection, etc.)",
+			"印[いん] (n, n-suf, n-pref) stamp, seal, chop,seal impression, seal, sealing, stamp, mark, print,mudra (symbolic hand gesture),ninja hand sign,India"
+		],
+		"english": "After all positions are in place, press [CANCEL]. This starts the battle.",
+		"japanese": "カーソルを動かしてバツ印がでないところで○ボタンを押すと配置決定となる"
+	},
+	{
+		"word": "ライン",
+		"root": "ライン",
+		"definitions": [
+			"ライン (n) line"
+		],
+		"english": "You can only put soldiers above the horizontal line at the very bottom.",
+		"japanese": "兵を配置できるのはいちばん下にいる兵の横ラインまでだ"
+	},
+	{
+		"word": "定期",
+		"root": "定期",
+		"definitions": [
+			"定期[ていき] (n) fixed period, fixed term,regular, periodic, periodical,fixed-term commutation pass,fixed-term deposit,futures contracts"
+		],
+		"english": "And you can bet Shinra will send platoons at you on a regular basis.",
+		"japanese": "それから、神羅は定期的に部隊を送ってくる"
+	},
+	{
+		"word": "手始め",
+		"root": "手始め",
+		"definitions": [
+			"手始め[てはじめ] (n) outset, start, beginning"
+		],
+		"english": "Hey, looks like they're getting ready to attack right now! Please, any help is appreciated…",
+		"japanese": "お、ちょうどいいのが登ってきたぞ。手始めには、ちょうどいい数だ。それじゃあいっちょ、おねがいしますか"
+	},
+	{
+		"word": "かならず",
+		"root": "かならず",
+		"definitions": [
+			"必ず[かならず] (adv) always, without exception, necessarily, certainly, without fail, positively, invariably"
+		],
+		"english": "Whew, that was good. But, Shinra's troops will be back.",
+		"japanese": "ふう、うまくいったな。しかし、神羅はかならずまたやってくる"
+	},
+	{
+		"word": "攻め",
+		"root": "攻める",
+		"definitions": [
+			"攻める[せめる] (v1, vt) to attack, to assault, to assail"
+		],
+		"english": "Be sure and scout the area well… We don't know when they'll attack again.",
+		"japanese": "次は、いつ攻めてくるかわからないからときどき、見てきてくれよ"
+	},
+	{
+		"word": "入りこん",
+		"root": "入りこむ",
+		"definitions": [
+			"入り込む[はいりこむ] (v5m, vi) to go into, to come into, to penetrate, to get in, to step in (a house),to become complicated"
+		],
+		"english": "My God! They're attacking! We're counting on you.",
+		"japanese": "しまった！入りこんできたぞ！君たち、たのんだよ"
+	},
+	{
+		"word": "しのい",
+		"root": "しのぐ",
+		"definitions": [
+			"凌ぐ[しのぐ] (v5g, vt) to endure, to keep out (e.g. rain), to stave off (e.g. starvation),to pull through, to get over, to survive,to surpass, to outdo, to excel, to eclipse, to defy, to slight"
+		],
+		"english": "We made it through that one somehow. But, Shinra'll be back.",
+		"japanese": "なんとかしのいだな。しかし、神羅はかならずまたやってくる"
+	},
+	{
+		"word": "所持",
+		"root": "所持",
+		"definitions": [
+			"所持[しょじ] (n, vs) possession, owning"
+		],
+		"english": "Hey we're a little short on money… so could you at least make it  gil?",
+		"japanese": "おいおい、所持金がちょっと少なすぎないか？せめて、ギルはないとな"
+	},
+	{
+		"word": "先ほど",
+		"root": "先ほど",
+		"definitions": [
+			"先ほど[さきほど] (n-adv, n-t) some time ago, not long ago, just now"
+		],
+		"english": "So we're getting a little short on funds.",
+		"japanese": "ちょっと、遅かったな。つい先ほど神羅に攻めこまれてしまったよ"
+	},
+	{
+		"word": "奴ら",
+		"root": "奴ら",
+		"definitions": [
+			"奴ら[やつら] (pn) they, those guys"
+		],
+		"english": "The situation has changed. Looks like the enemy is set to attack. If we lose here, it's over.",
+		"japanese": "どうやら事態が変わったらしい。奴らこれで終わりにする気らしい。これに負けるとやばいぞ"
+	},
+	{
+		"word": "たくす",
+		"root": "たくす",
+		"definitions": [
+			"託す[たくす] (v5s, vs-c, vt) to entrust (someone) with, to leave (a matter) with someone, to place under someone's care,to have someone deliver (a message, parcel, etc.), to send (through someone), to leave (a message) with someone,to use (something) to express (one's feelings, opinion, etc.), to express in the form of (something),to use as a pretext",
+			"托子[たくす] (n) saucer (for a teacup)"
+		],
+		"english": "Our lives are in your hands. We're counting on you.",
+		"japanese": "おれたちの明日は君たちにたくす。たのんだぞ"
+	},
+	{
+		"word": "ワイ",
+		"root": "ワイ",
+		"definitions": [
+			"わい (prt) [object Object]",
+			"私[わい] (pn) I, me,you",
+			"Ｙ[ワイ] (n) Y, y"
+		],
+		"english": "Wyverns",
+		"japanese": "ワイバーンについて"
+	},
+	{
+		"word": "バーン",
+		"root": "バーン",
+		"definitions": [
+			"バーン (adv-to) barn,road,bang, bam, wham"
+		],
+		"english": "Wyverns",
+		"japanese": "ワイバーンについて"
+	},
+	{
+		"word": "速度",
+		"root": "速度",
+		"definitions": [
+			"速度[そくど] (n) speed, velocity, rate"
+		],
+		"english": "Wyverns are flying types that can move at high speed. Stoner and Tristoner aren't effective against them.",
+		"japanese": "ワイバーンは、飛行タイプで移動速度が速い。したがって、岩落機や、３連岩落機はあまり、効果がない"
+	},
+	{
+		"word": "獣",
+		"root": "獣",
+		"definitions": [
+			"獣[けもの] (n) beast, brute, animal",
+			"獣[しし] (n) beast (esp. one used for its meat, such as a boar or a deer),hunting (of animals such as boar, deer, etc.)"
+		],
+		"english": "Beasts are monster types that do not move quickly, but have explosive attacking power.",
+		"japanese": "ビーストは、獣タイプで移動速度がおそい。そのかわりに、攻撃力が高い"
+	},
+	{
+		"word": "型",
+		"root": "型",
+		"definitions": [
+			"型[かた] (n) model, type (e.g. of machine, goods, etc.),type, style, pattern,mold (mould), template, model,kata (standard form of a movement, posture, etc. in martial arts, sport, etc.),form (i.e. customary procedure),size (i.e. clothing, shoes),inch (in diagonal display size),(taxonomical) form"
+		],
+		"english": "Barbarians are human types. They attack from a distance, so you've got to be on your toes.",
+		"japanese": "バーバリアンは、人型タイプだ。間接攻撃をしてくるので、注意が必要だ"
+	},
+	{
+		"word": "間接",
+		"root": "間接",
+		"definitions": [
+			"間接[かんせつ] (n, adj-no) indirection, indirectness"
+		],
+		"english": "Barbarians are human types. They attack from a distance, so you've got to be on your toes.",
+		"japanese": "バーバリアンは、人型タイプだ。間接攻撃をしてくるので、注意が必要だ"
+	},
+	{
+		"word": "ファイター",
+		"root": "ファイター",
+		"definitions": [
+			"ファイター (n) fighter"
+		],
+		"english": "Your mobile allies are: Fighters, Attackers, Defenders, Shooters, Repairers and Workers.",
+		"japanese": "味方には、移動できるタイプとしてファイター、アタッカー、ディフェンダーシューター、リペアラー、ワーカー、がいる"
+	},
+	{
+		"word": "アタッカー",
+		"root": "アタッカー",
+		"definitions": [
+			"アタッカー (n) attacker (esp. in volleyball)"
+		],
+		"english": "Your mobile allies are: Fighters, Attackers, Defenders, Shooters, Repairers and Workers.",
+		"japanese": "味方には、移動できるタイプとしてファイター、アタッカー、ディフェンダーシューター、リペアラー、ワーカー、がいる"
+	},
+	{
+		"word": "投石",
+		"root": "投石",
+		"definitions": [
+			"投石[とうせき] (n, vs) stone throwing"
+		],
+		"english": "Your immobile allies are: Stoner, Tristoner, Catapult, and Fire Catapult.",
+		"japanese": "移動できないタイプとして岩落機、３連岩落機、投石機爆弾投機、がある"
+	},
+	{
+		"word": "ディフェンダー",
+		"root": "ディフェンダー",
+		"definitions": [
+			"ディフェンダー (n) defender"
+		],
+		"english": "Defenders",
+		"japanese": "ディフェンダーについて"
+	},
+	{
+		"word": "攻守",
+		"root": "攻守",
+		"definitions": [
+			"攻守[こうしゅ] (n) offense and defense, offence and defence, batting and fielding"
+		],
+		"english": "Fighters are good at defending and attacking, but aren't especially effective or deficient for any enemy.",
+		"japanese": "ファイターは、攻守にバランスがよいが得意な相手、苦手な相手もいない"
+	},
+	{
+		"word": "バランス",
+		"root": "バランス",
+		"definitions": [
+			"バランス (n, vs) balance"
+		],
+		"english": "Fighters are good at defending and attacking, but aren't especially effective or deficient for any enemy.",
+		"japanese": "ファイターは、攻守にバランスがよいが得意な相手、苦手な相手もいない"
+	},
+	{
+		"word": "得意",
+		"root": "得意",
+		"definitions": [
+			"得意[とくい] (n, adj-no, adj-na) triumph, prosperity,pride,one's strong point, one's forte, one's specialty,frequent customer (client, etc.)"
+		],
+		"english": "Fighters are good at defending and attacking, but aren't especially effective or deficient for any enemy.",
+		"japanese": "ファイターは、攻守にバランスがよいが得意な相手、苦手な相手もいない"
+	},
+	{
+		"word": "前線",
+		"root": "前線",
+		"definitions": [
+			"前線[ぜんせん] (n, adj-no) (weather) front,front line, forward area, action zone"
+		],
+		"english": "Attackers move extremely fast and are best for expanding the front line.",
+		"japanese": "アタッカーは、移動速度が速く 前線を広げるのに向いている。 "
+	},
+	{
+		"word": "広げる",
+		"root": "広げる",
+		"definitions": [
+			"広げる[ひろげる] (v1, vt) to spread, to extend, to expand, to enlarge, to widen, to broaden,to unfold, to open, to unroll, to unwrap,to scatter about, to spread around,to make flourish, to cause to prosper"
+		],
+		"english": "Attackers move extremely fast and are best for expanding the front line.",
+		"japanese": "アタッカーは、移動速度が速く 前線を広げるのに向いている。 "
+	},
+	{
+		"word": "拠点",
+		"root": "拠点",
+		"definitions": [
+			"拠点[きょてん] (n) position, location, base, point, site"
+		],
+		"english": "Defenders have high endurance, but move slowly. They're best suited for defense.",
+		"japanese": "ディフェンダーは、体力が高いが移動速度が遅い、拠点防御に向いている。"
+	},
+	{
+		"word": "低い",
+		"root": "低い",
+		"definitions": [
+			"低い[ひくい] (adj-i) low (rank, degree, value, content, quality, etc.),low (position), close to the ground,short (height),deep (voice), in a low key, low (volume)"
+		],
+		"english": "Shooters attack from a distance, but have low endurance.",
+		"japanese": "シューターは、間接攻撃ができる。しかし、体力が低い。"
+	},
+	{
+		"word": "地雷",
+		"root": "地雷",
+		"definitions": [
+			"地雷[じらい] (n) land mine, [object Object],topic that sets one off (esp. based on previous experience), sensitive topic, taboo topic"
+		],
+		"english": "Workers set mines. Mines have strong attacking power, but Workers don't.",
+		"japanese": "ワーカーは、地雷を置くことができる。地雷の攻撃力は高くても自分の攻撃力は低い"
+	},
+	{
+		"word": "投げる",
+		"root": "投げる",
+		"definitions": [
+			"投げる[なげる] (v1, vt) to throw, to hurl, to fling, to toss, to cast,to give up, to abandon, to throw away,to cast (a glance, shadow, doubt, etc.)"
+		],
+		"english": "Catapults shoot rocks a great distance, causing extensive damage to every enemy they hit.",
+		"japanese": "投石機は、石を遠くへ投げることができる落下地点にいる敵にダメージを与えられる"
+	},
+	{
+		"word": "落下",
+		"root": "落下",
+		"definitions": [
+			"落下[らっか] (n, vs) fall, drop, descent, coming down"
+		],
+		"english": "Catapults shoot rocks a great distance, causing extensive damage to every enemy they hit.",
+		"japanese": "投石機は、石を遠くへ投げることができる落下地点にいる敵にダメージを与えられる"
+	},
+	{
+		"word": "てっきょ",
+		"root": "てっきょ",
+		"definitions": [
+			"撤去[てっきょ] (n, vs) withdrawal, revocation, repeal,demolition, removal"
+		],
+		"english": "You must pay for every weapon you set up. Even if you decide to move it later, you can only get back half of the gil you spent.",
+		"japanese": "一度設置したものを、てっきょしても設置するために使った費用があるので設置に要したギルの半分しか返ってこないぞ"
+	},
+	{
+		"word": "要し",
+		"root": "要す",
+		"definitions": [
+			"要す[ようす] (v5s, vs-c, vt) to need, to require, to take, to demand"
+		],
+		"english": "You must pay for every weapon you set up. Even if you decide to move it later, you can only get back half of the gil you spent.",
+		"japanese": "一度設置したものを、てっきょしても設置するために使った費用があるので設置に要したギルの半分しか返ってこないぞ"
+	},
+	{
+		"word": "返っ",
+		"root": "返る",
+		"definitions": [
+			"返る[かえる] (suf, v5r) to return, to come back, to go back,to turn over,to become extremely, to become completely"
+		],
+		"english": "You must pay for every weapon you set up. Even if you decide to move it later, you can only get back half of the gil you spent.",
+		"japanese": "一度設置したものを、てっきょしても設置するために使った費用があるので設置に要したギルの半分しか返ってこないぞ"
+	},
+	{
+		"word": "多め",
+		"root": "多め",
+		"definitions": [
+			"多め[おおめ] (n, adj-na) somewhat larger quantity, larger portion"
+		],
+		"english": "You have 10 enemies. There appear to be many Beasts, so you may want to deploy more Attackers.",
+		"japanese": "今回の敵は、１０匹程度だ。ビーストの数が多いようなのでアタッカーを多めに配置した方がいいかもしれないな"
+	},
+	{
+		"word": "混ざっ",
+		"root": "混ざる",
+		"definitions": [
+			"混ざる[まざる] (v5r, vi) to be mixed, to be blended with, to associate with, to mingle with, to join"
+		],
+		"english": "The Barbarians are mixed during this attack.",
+		"japanese": "今回はバーバリアンが混ざっているようだ"
+	},
+	{
+		"word": "取り返し",
+		"root": "取り返し",
+		"definitions": [
+			"取り返し[とりかえし] (n) recovery, undoing, recall"
+		],
+		"english": "Up to now, you've lost  times. If you lose too many times, you won't be able to come back.",
+		"japanese": "これまでに回負けてしまいましたね。あまり、負けてしまうと取り返しがつかないことになってしまいますよ"
+	},
+	{
+		"word": "やすみやすみ",
+		"root": "やすみやすみ",
+		"definitions": [
+			"休み休み[やすみやすみ] (adv) resting at times,with careful thought, after proper consideration"
+		],
+		"english": "Come on… break time, break time!",
+		"japanese": "さ、やすみやすみ"
+	}
+]

@@ -1,0 +1,563 @@
+[
+	{
+		"word": "つきっきり",
+		"root": "つきっきり",
+		"definitions": [
+			"付きっきり[つきっきり] (n) constant attendance, uninterrupted supervision, staying with someone all the time"
+		],
+		"english": "She's always there right by his side. She must really love him.",
+		"japanese": "あら、こんにちわ。彼女、いつも彼につきっきりよ。よっぽど大切な人なのね"
+	},
+	{
+		"word": "つぶやく",
+		"root": "つぶやく",
+		"definitions": [
+			"呟く[つぶやく] (v5k) to mutter, to murmur, to grumble,to tweet (Twitter)"
+		],
+		"english": "Sometimes he mumbles about numbers… I wonder what it means?",
+		"japanese": "そうそう、彼、時々ナンバーがどうのってつぶやくんだけど……なんのことなのかしら？"
+	},
+	{
+		"word": "みえ",
+		"root": "みえる",
+		"definitions": [
+			"見える[みえる] (v1, vi) to be seen, to be in sight,to look, to seem, to appear,to come"
+		],
+		"english": "She's finally beginning to look a little tired… I hope she's all right.",
+		"japanese": "彼女、最近さすがにつかれがみえてきたみたいだけど……だいじょうぶかしら？"
+	},
+	{
+		"word": "しんどい",
+		"root": "しんどい",
+		"definitions": [
+			"しんどい (adj-i) tired, frazzled,tiresome, worrisome, bothersome"
+		],
+		"english": "No change in his condition, yet she stays right by his side. It must be tough on her.",
+		"japanese": "ぜんぜん変化がないなかでそれでもがんばりつづけるのってけっこうしんどいのよね"
+	},
+	{
+		"word": "容体",
+		"root": "容体",
+		"definitions": [
+			"容態[ようだい] (n) condition, state (of health), appearance"
+		],
+		"english": "I'm sorry… But your friend's condition remains unchanged…",
+		"japanese": "やあ、君たちか……。残念だが、友人の容体は相変わらずだよ……"
+	},
+	{
+		"word": "かんじん",
+		"root": "かんじん",
+		"definitions": [
+			"肝心[かんじん] (adj-na, n, adj-no) essential, important, crucial, vital, main",
+			"暇人[ひまじん] (n) person with a lot of free time on their hands, person of leisure, idler",
+			"勧進[かんじん] (n, vs) temple solicitation",
+			"姦人[かんじん] (n) villain, scoundrel",
+			"韓人[かんじん] (n) Korean person",
+			"函人[かんじん] (n) armorer, armourer",
+			"漢人[かんじん] (n) Chinese person (esp. Han Chinese)",
+			"寛仁[かんじん] (adj-na, n) magnanimous",
+			"官人[かんにん] (n) government official (esp. one of low to medium rank), public servant",
+			"観心[かんじん] (n) introspection"
+		],
+		"english": "You'll have to be patient and wait this out. These things take time. Just like fine wine, time is of the essence.",
+		"japanese": "あきらめずに気長に待つんだ。こういうことは、時間がかんじんだよ、時間が……。うまいワインとおんなじでな"
+	},
+	{
+		"word": "ワイン",
+		"root": "ワイン",
+		"definitions": [
+			"ワイン (n) wine"
+		],
+		"english": "You'll have to be patient and wait this out. These things take time. Just like fine wine, time is of the essence.",
+		"japanese": "あきらめずに気長に待つんだ。こういうことは、時間がかんじんだよ、時間が……。うまいワインとおんなじでな"
+	},
+	{
+		"word": "鏡",
+		"root": "鏡",
+		"definitions": [
+			"鏡[かがみ] (n) mirror, looking-glass,barrel head"
+		],
+		"english": "A billion mirror fragments… small…light…",
+		"japanese": "百億の……鏡のかけら……小さな……ともしび……"
+	},
+	{
+		"word": "ともし",
+		"root": "ともす",
+		"definitions": [
+			"灯す[ともす] (v5s, vt) to light (a candle, lamp, etc.), to turn on (a light)"
+		],
+		"english": "A billion mirror fragments… small…light…",
+		"japanese": "百億の……鏡のかけら……小さな……ともしび……"
+	},
+	{
+		"word": "とらわれ",
+		"root": "とらわれる",
+		"definitions": [
+			"捕らわれる[とらわれる] (v1, vi) to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended,to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+		],
+		"english": "taken…angel's… singing voices… …Xeno…gears…",
+		"japanese": "とらわれた……天使の……うた声……。……ゼノ……ギアス……"
+	},
+	{
+		"word": "ちく",
+		"root": "ちく",
+		"definitions": [
+			"地区[ちく] (n, adj-no) district, section, sector",
+			"馳駆[ちく] (n, vs) dashing around on a horse, running around, exerting oneself (for another)",
+			"築[ちく] (suf) ... years since construction, ... years old (of a building),built in ..."
+		],
+		"english": "Damn. What the hell's goin' on!?",
+		"japanese": "ちくしょー。いったいどーなってやがんだ！？"
+	},
+	{
+		"word": "避難",
+		"root": "避難",
+		"definitions": [
+			"避難[ひなん] (n, vs) taking refuge, finding shelter, evacuation, escape, seeking safe haven"
+		],
+		"english": "Hmm…It might be safer to move to an open area.",
+		"japanese": "うむ……。開けた場所へ避難した方が安全かも知れんな"
+	},
+	{
+		"word": "よりによって",
+		"root": "よりによって",
+		"definitions": [
+			"選りに選って[よりによって] (exp) of all things, [object Object]"
+		],
+		"english": "Of all the times to show up!",
+		"japanese": "よりによって、こんな時にあらわれやがって……！"
+	},
+	{
+		"word": "本流",
+		"root": "本流",
+		"definitions": [
+			"本流[ほんりゅう] (n, adj-no) main course (of a river),mainstream, main current (e.g. of thought)"
+		],
+		"english": "Th, this's bad! The main stream is kickin' up!!",
+		"japanese": "こ、こりゃ、やべえ……！ストリーム本流の吹き上げか！？"
+	},
+	{
+		"word": "吹き上げ",
+		"root": "吹き上げ",
+		"definitions": [
+			"吹き上げ[ふきあげ] (n) place exposed to winds which blow up from below (usu. a beach), beach exposed to sea winds,fountain"
+		],
+		"english": "Th, this's bad! The main stream is kickin' up!!",
+		"japanese": "こ、こりゃ、やべえ……！ストリーム本流の吹き上げか！？"
+	},
+	{
+		"word": "だれ",
+		"root": "だれる",
+		"definitions": [
+			"だれる (v1, vi) to lose interest, to weaken, to slacken,to lose value after a peak (e.g. stock)"
+		],
+		"english": "Huh…what? Who…?",
+		"japanese": "え……なに……？だれ……？"
+	},
+	{
+		"word": "とりもどす",
+		"root": "とりもどす",
+		"definitions": [
+			"取り戻す[とりもどす] (v5s, vt) to take back, to regain, to get back, to recover"
+		],
+		"english": "I can help, too. We'll work together to try and get the real you back!",
+		"japanese": "……手伝うよ、私も。本当のあなたをとりもどすためいっしょに、がんばろ！"
+	},
+	{
+		"word": "通じ",
+		"root": "通じる",
+		"definitions": [
+			"通じる[つうじる] (v1, vi) to be open (to traffic), to lead to, to communicate (with),to flow (liquid, current), to pass, to get through to,to be understood, to be comprehended,to be honored, to be good,to be well versed in, to be well-informed,to communicate clandestinely, to keep in touch (e.g. with the enemy),to form a liaison, to be intimate,to spread widely, to disseminate"
+		],
+		"english": "It connects… to Nibelheim?",
+		"japanese": "通じているの……ニブルヘイムに……？"
+	},
+	{
+		"word": "門",
+		"root": "門",
+		"definitions": [
+			"戸[と] (n) door (esp. Japanese-style),shutter, window shutter,entrance (to a home),narrows",
+			"門[もん] (ctr) gate,branch of learning based on the teachings of a single master,division, phylum,counter for cannons"
+		],
+		"english": "The gates of Nibelheim… Five years ago, Sephiroth passed through these gates…",
+		"japanese": "ニブルヘイムの門……５年前、セフィロスとともにこの門をくぐり……"
+	},
+	{
+		"word": "くぐり",
+		"root": "くぐる",
+		"definitions": [
+			"潜る[くぐる] (v5r, vi) to go under, to pass under, to go through, to pass through,to dive (into or under the water),to evade, to get around, to slip past,to survive, to surmount"
+		],
+		"english": "The gates of Nibelheim… Five years ago, Sephiroth passed through these gates…",
+		"japanese": "ニブルヘイムの門……５年前、セフィロスとともにこの門をくぐり……"
+	},
+	{
+		"word": "ふうじこめ",
+		"root": "ふうじこめる",
+		"definitions": [
+			"封じ込める[ふうじこめる] (v1, vt) to shut in, to confine, to contain"
+		],
+		"english": "…A sealed up secret…wish…",
+		"japanese": "………ふうじこめられたひそかな……ねがい……"
+	},
+	{
+		"word": "想い",
+		"root": "想い",
+		"definitions": [
+			"思い[おもい] (n) thought,imagination, mind, heart,desire, wish, hope, expectation,love, affection,feelings, emotion, sentiment, experience"
+		],
+		"english": "Tender feelings… that no one can ever know…",
+		"japanese": "大切な想いは……だれにも知られることなく……"
+	},
+	{
+		"word": "才",
+		"root": "才",
+		"definitions": [
+			"歳[さい] (suf, ctr) -years-old",
+			"才[さい] (n) ability, gift, talent, aptitude, genius,sai, [object Object]"
+		],
+		"english": "But, I remember back when we were eight!",
+		"japanese": "でも、あれは、たしか……私たちが８才の時よね！"
+	},
+	{
+		"word": "幼い",
+		"root": "幼い",
+		"definitions": [
+			"幼い[おさない] (adj-i) very young,childish, immature"
+		],
+		"english": "My childhood memories weren't all made up!",
+		"japanese": "幼い日の、その思い出はつくりものなんかじゃないもの！"
+	},
+	{
+		"word": "出向い",
+		"root": "出向く",
+		"definitions": [
+			"出向く[でむく] (v5k, vi) to go to, to proceed to, to leave for"
+		],
+		"english": "You mean that member of SOLDIER who came with Sephiroth wasn't…CLOUD?",
+		"japanese": "セフィロスとともにニブルヘイムに出向いたソルジャーはCLOUDでは……なかった……？"
+	},
+	{
+		"word": "満天",
+		"root": "満天",
+		"definitions": [
+			"満天[まんてん] (n) the whole sky"
+		],
+		"english": "Right…like the sky that night… the heavens were filled with stars…",
+		"japanese": "そう……たとえば、あの夜空の満天の星たち……"
+	},
+	{
+		"word": "うみださ",
+		"root": "うみだす",
+		"definitions": [
+			"生み出す[うみだす] (v5s, vt) to create, to bring forth, to produce,to invent, to think up and bring into being,to give birth to, to bear"
+		],
+		"english": "A promise under a starry sky… But what if that was just a memory TIFA imagined?",
+		"japanese": "星空の約束……。しかしそれさえもTIFAの想いによってうみだされた幻想なのだとしたら……？"
+	},
+	{
+		"word": "無理矢理",
+		"root": "無理矢理",
+		"definitions": [
+			"無理やり[むりやり] (adv, n) forcibly, against one's will"
+		],
+		"english": "A memory is something that is consciously recalled, right?",
+		"japanese": "記憶って、頭の中から無理矢理ひっぱりださなくちゃならないでしょ？"
+	},
+	{
+		"word": "ひっぱり",
+		"root": "ひっぱる",
+		"definitions": [
+			"引っ張る[ひっぱる] (v5r, vt) to pull, to draw, to pull tight,to string (lines), to run (cable), to stretch,to pull towards oneself (e.g. someone's sleeve),to drag, to haul, to tow,to lead (e.g. one's followers),to take someone somewhere (e.g. a suspect to the police),to tempt into joining, to strongly invite to join,to delay, to prolong,to lengthen the pronunciation (of a word),to quote, to cite, to reference,to pull the ball,to wear, to put on"
+		],
+		"english": "A memory is something that is consciously recalled, right?",
+		"japanese": "記憶って、頭の中から無理矢理ひっぱりださなくちゃならないでしょ？"
+	},
+	{
+		"word": "間違っ",
+		"root": "間違う",
+		"definitions": [
+			"間違う[まちがう] (v5u) to make a mistake, to be incorrect, to be mistaken"
+		],
+		"english": "That's why sometimes it can be mistaken or wrong.",
+		"japanese": "だから間違ってたり、カタチが変わっていたり……"
+	},
+	{
+		"word": "にせもの",
+		"root": "にせもの",
+		"definitions": [
+			"偽物[にせもの] (n, adj-no) spurious article, forgery, counterfeit, imitation, sham",
+			"偽者[にせもの] (n) impostor, imposter, pretender, liar"
+		],
+		"english": "That's why it must be a fake. If he could recall up that memory…",
+		"japanese": "きっとそれは、にせものなんかじゃない。もしそんな思い出を、よびさますことができれば……"
+	},
+	{
+		"word": "よびさます",
+		"root": "よびさます",
+		"definitions": [
+			"呼び覚ます[よびさます] (v5s, vt) to wake up (someone; by calling out), to awaken,to bring back (e.g. memories), to evoke, to recall"
+		],
+		"english": "That's why it must be a fake. If he could recall up that memory…",
+		"japanese": "きっとそれは、にせものなんかじゃない。もしそんな思い出を、よびさますことができれば……"
+	},
+	{
+		"word": "決心",
+		"root": "決心",
+		"definitions": [
+			"決心[けっしん] (n, vs) determination, resolution"
+		],
+		"english": "I always thought it was a sudden decision.",
+		"japanese": "私には、あなたが突然決心したように思えたんだけど……"
+	},
+	{
+		"word": "手一杯",
+		"root": "手一杯",
+		"definitions": [
+			"手一杯[ていっぱい] (adj-na, n) having one's hands full, not having any room to do more, at the limit"
+		],
+		"english": "You were so busy with your own things, it's only natural you don't remember me then.",
+		"japanese": "自分のことで手一杯だったからあの時のおれのことなんかおぼえてなくて当たり前だよ"
+	},
+	{
+		"word": "当たり前",
+		"root": "当たり前",
+		"definitions": [
+			"当たり前[あたりまえ] (adj-na, n, adj-no) natural, reasonable, obvious,usual, common, ordinary, commonplace, the norm"
+		],
+		"english": "You were so busy with your own things, it's only natural you don't remember me then.",
+		"japanese": "自分のことで手一杯だったからあの時のおれのことなんかおぼえてなくて当たり前だよ"
+	},
+	{
+		"word": "陽気",
+		"root": "陽気",
+		"definitions": [
+			"陽気[ようき] (n) cheerful, jovial, merry, lively,weather, season,spirit of yang"
+		],
+		"english": "Sephiroth and… a young and vibrant soldier.",
+		"japanese": "セフィロスと……若くて陽気なソルジャー"
+	},
+	{
+		"word": "派遣",
+		"root": "派遣",
+		"definitions": [
+			"派遣[はけん] (n) dispatch, despatch, deployment,temporary employee (esp. from an agency), temporary worker, agency temp"
+		],
+		"english": "The two that were ordered here were Sephiroth and another person…",
+		"japanese": "あの時派遣されてきたのはセフィロスともう１人……"
+	},
+	{
+		"word": "何人",
+		"root": "何人",
+		"definitions": [
+			"何人[なにびと] (pn) anyone, any person, whoever",
+			"何人[なんにん] (n) how many people, a number of people",
+			"何人[なにじん] (n) what nationality"
+		],
+		"english": "Mt. Nibel is scary. Many people have died there.",
+		"japanese": "ニブル山はこわいよ。何人も人が死んでるからね"
+	},
+	{
+		"word": "外し",
+		"root": "外す",
+		"definitions": [
+			"外す[はずす] (v5s, vt) to remove, to take off, to detach, to unfasten, to undo,to drop (e.g. from a team), to remove (from a position), to exclude, to expel,to leave (e.g. one's seat), to go away from, to step out, to slip away,to dodge (a question, blow, etc.), to evade, to sidestep, to avoid (e.g. peak season),to miss (a target, chance, punch, etc.)"
+		],
+		"english": "TIFA missed her step. I ran to her…but didn't make it in time.",
+		"japanese": "『TIFAが足をふみ外して俺はあわててかけ寄ってでも間に合わなかった』"
+	},
+	{
+		"word": "寄っ",
+		"root": "寄る",
+		"definitions": [
+			"寄る[よる] (v5r, vi) to approach, to draw near, to come near, to be close to,to gather (in one place), to come together, to meet,to stop by (while on one's way to another place), to drop by, to make a short visit,to grow old, to grow high (number, etc.),to grow (wrinkly),to lean against, to recline on,to push one's opponent while holding their belt,to decide on a price and come to a deal,to be swayed by (a person), to yield to"
+		],
+		"english": "TIFA missed her step. I ran to her…but didn't make it in time.",
+		"japanese": "『TIFAが足をふみ外して俺はあわててかけ寄ってでも間に合わなかった』"
+	},
+	{
+		"word": "荒れ",
+		"root": "荒れる",
+		"definitions": [
+			"荒れる[あれる] (v1, vi) to be stormy, to be rough,to be ruined, to fall into ruin,to be in a bad temper, to lose one's temper"
+		],
+		"english": "I went out of control… I'd get into fights with anyone.",
+		"japanese": "『俺は荒れていった……誰かれかまわずケンカをしかけて……』"
+	},
+	{
+		"word": "近所",
+		"root": "近所",
+		"definitions": [
+			"近所[きんじょ] (n, adj-no) neighbourhood, neighborhood"
+		],
+		"english": "We lived next to each other. But I really didn't know you that well.",
+		"japanese": "家は近所なのに、私……CLOUDのことあまり知らなかったんだよね"
+	},
+	{
+		"word": "仲良く",
+		"root": "仲良い",
+		"definitions": [
+			"仲良い[なかよい] (exp, adj-i) close, intimate, on good terms"
+		],
+		"english": "I've known you since we were children and always thought we were close…",
+		"japanese": "ずーっと小さなころから仲良くしてたと思ってたのに……"
+	},
+	{
+		"word": "記事",
+		"root": "記事",
+		"definitions": [
+			"記事[きじ] (n) article, news story, report, account"
+		],
+		"english": "I even started reading the newspaper, just to see if CLOUD was in any of the articles.",
+		"japanese": "CLOUDの記事、あるかと思って新聞だって読むようになったのよ"
+	},
+	{
+		"word": "仲良し",
+		"root": "仲良し",
+		"definitions": [
+			"仲良し[なかよし] (n, adj-na) intimate friend, close friend, bosom buddy, chum"
+		],
+		"english": "TIFA always used to have her own group.",
+		"japanese": "TIFAはね、いつでもこの仲良し３人組といっしょだった"
+	},
+	{
+		"word": "ケラ",
+		"root": "ケラ",
+		"definitions": [
+			"啄木鳥[きつつき] (n) woodpecker",
+			"螻蛄[けら] (n) mole cricket (esp. the Oriental mole cricket, Gryllotalpa orientalis),being penniless, being broke"
+		],
+		"english": "You were all childish, laughing at every little stupid thing.",
+		"japanese": "いつもどうでもいいようなことでケラケラ笑っててさ、子供っぽかった"
+	},
+	{
+		"word": "ザック",
+		"root": "ザック",
+		"definitions": [
+			"ザック (n) rucksack, sack"
+		],
+		"english": "Za…ck…Zac…k. Zack…",
+		"japanese": "ザッ……クス……ザック……ス。ザックス……"
+	},
+	{
+		"word": "しぶとい",
+		"root": "しぶとい",
+		"definitions": [
+			"しぶとい (adj-i) tenacious, tough, enduring, dogged, headstrong, stubborn, obstinate, unyielding"
+		],
+		"english": "Don't worry about him. He's a tough one.",
+		"japanese": "ああ、心配いらねえ。しぶとい野郎だぜ、まったく"
+	},
+	{
+		"word": "見栄",
+		"root": "見栄",
+		"definitions": [
+			"見栄[みえ] (n) airs, pretensions, show, ostentation, display, appearance, vanity, charm"
+		],
+		"english": "I left my village looking for glory, but never made it into SOLDIER…",
+		"japanese": "大見栄きって村を出たのにソルジャーになれなかった俺……"
+	},
+	{
+		"word": "まぜあわせ",
+		"root": "まぜあわせる",
+		"definitions": [
+			"交ぜ合せる[まぜあわせる] (v1, vt) to mix, to blend, to combine"
+		],
+		"english": "And I created an illusion of myself made up of what I had seen in my life…",
+		"japanese": "さらに自分で見たことをまぜあわせて幻想の自分を創り出した……"
+	},
+	{
+		"word": "体内",
+		"root": "体内",
+		"definitions": [
+			"体内[たいない] (n, adj-no) interior of the body"
+		],
+		"english": "Their bodies are actually injected with Jenova cells…",
+		"japanese": "実は、体内にジェノバ細胞をうめこまれた人間なんだ……"
+	},
+	{
+		"word": "うめこま",
+		"root": "うめこむ",
+		"definitions": [
+			"埋め込む[うめこむ] (v5m) to bury, to embed, to implant"
+		],
+		"english": "Their bodies are actually injected with Jenova cells…",
+		"japanese": "実は、体内にジェノバ細胞をうめこまれた人間なんだ……"
+	},
+	{
+		"word": "有り様",
+		"root": "有り様",
+		"definitions": [
+			"有様[ありさま] (n) state, condition, circumstances, sight, spectacle,the way things should be, ideal state,truth"
+		],
+		"english": "I'm sorry. Our stock isn't so great now… But that's just the way it is here.",
+		"japanese": "すいませんねえ。ろくな品がなくて……。なにしろ、この有り様なんで"
+	},
+	{
+		"word": "品物",
+		"root": "品物",
+		"definitions": [
+			"品物[しなもの] (n) goods, article, thing"
+		],
+		"english": "If you're looking for other items, why don't you check out the other stores?",
+		"japanese": "まあ、ほかの品物をさがしてるっていうならよそをあたってみてくださいよ"
+	},
+	{
+		"word": "よそ",
+		"root": "よそ",
+		"definitions": [
+			"余所[よそ] (n) another place, somewhere else, strange parts,outside (one's family or group), those people,unrelated matter",
+			"四十[よんじゅう] (n) forty"
+		],
+		"english": "If you're looking for other items, why don't you check out the other stores?",
+		"japanese": "まあ、ほかの品物をさがしてるっていうならよそをあたってみてくださいよ"
+	},
+	{
+		"word": "割",
+		"root": "割",
+		"definitions": [
+			"割[わり] (n-suf) rate, ratio, proportion, percentage,profit,assignment,10%, unit of ten percent,match, schedule of matches,diluted with (of drinks), mixed with"
+		],
+		"english": "Do we have items and weapons!? Well, I should say so. And here's a bargain! What would you say to 50% off everything?",
+		"japanese": "え、アイテムや武器もないかって？しかたないわね。出血大サービス！５割増しってとこで、どう？"
+	},
+	{
+		"word": "増し",
+		"root": "増し",
+		"definitions": [
+			"増し[まし] (n) better, less objectionable, preferable,more, increase, extra,increase, growth"
+		],
+		"english": "Do we have items and weapons!? Well, I should say so. And here's a bargain! What would you say to 50% off everything?",
+		"japanese": "え、アイテムや武器もないかって？しかたないわね。出血大サービス！５割増しってとこで、どう？"
+	},
+	{
+		"word": "こぎ",
+		"root": "こぎ",
+		"definitions": [
+			"虚偽[きょぎ] (n) falsehood, untruth, lie, misinformation,fallacy (logic)",
+			"古儀[こぎ] (n) ancient rites",
+			"古義[こぎ] (n) old meaning, old interpretation",
+			"狐疑[こぎ] (n, vs) indecision"
+		],
+		"english": "Just kidding. Even I wouldn't do something like that. Now what can I do for you today?",
+		"japanese": "冗談よ。いくらあたしでもそこまであこぎじゃないわ。それじゃ、どんな用なの、今日は？"
+	},
+	{
+		"word": "ぬくもり",
+		"root": "ぬくもり",
+		"definitions": [
+			"温もり[ぬくもり] (n) warmth"
+		],
+		"english": "When I die, I wonder if I'll float along in the middle of a warm gentle stream like this?",
+		"japanese": "わしらも死んだらこのやさしいぬくもりのなかへ帰ってゆくんじゃろうかのう……"
+	},
+	{
+		"word": "さも",
+		"root": "さも",
+		"definitions": [
+			"然も[さも] (adv) really, extremely,in that way"
+		],
+		"english": "You'd better be good to her. If you don't, you'll be sorry. Believe me!",
+		"japanese": "大切にしてあげなさいよ。さもないと、バチがあたるから。ほんとのほんとよ！"
+	}
+]

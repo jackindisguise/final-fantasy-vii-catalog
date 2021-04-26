@@ -1,0 +1,18 @@
+extends ../widget/template.pug
+
+block content
+	#index.page
+		form(method='POST', action="/disambiguated/"+scene)
+			table(id='vocabulary', cellspacing=0, cellpadding=0)
+				- let i = 0;
+				while i < lines.length
+					- let line = lines[i];
+					tr(class='entry')
+						td(class='line')=i
+						td(class='english')=line.english
+						td(class='japanese')=line.japanese
+						td(class='word')=line.word
+						td(class='root')=line.root
+						td(class='definition')=line.definition
+					- i++;
+			input(type='submit', class='submit')

@@ -1,0 +1,436 @@
+[
+	{
+		"word": "にがい",
+		"root": "にがい",
+		"definitions": [
+			"苦い[にがい] (adj-i) bitter"
+		],
+		"english": "Thanks… Gross…this is bitter.",
+		"japanese": "ありがと……うえ～、にがい"
+	},
+	{
+		"word": "のれん",
+		"root": "のれん",
+		"definitions": [
+			"暖簾[のれん] (n) (short) curtain hung at shop entrance, split curtain used to divide spaces in a house,reputation (of a store), good name, credit,goodwill"
+		],
+		"english": "Where are the others?",
+		"japanese": "他のれんちゅう？"
+	},
+	{
+		"word": "かくれ",
+		"root": "かくれる",
+		"definitions": [
+			"隠れる[かくれる] (v1, vi) to hide, to be hidden, to conceal oneself, to disappear"
+		],
+		"english": "I dunno. Aren't they hiding somewhere around here?",
+		"japanese": "さあ、そのへんにかくれてんじゃないの？"
+	},
+	{
+		"word": "機関",
+		"root": "機関",
+		"definitions": [
+			"機関[きかん] (n) engine,agency, organisation, organization, institution, organ, body,system, facility, facilities",
+			"絡繰り[からくり] (n) mechanism, machinery, contrivance, device,trick, dodge,mechanical doll, string puppet"
+		],
+		"english": "…the Engine Room… …a suspicious…character…",
+		"japanese": "……機関室に……不審……人物……"
+	},
+	{
+		"word": "キリキリ",
+		"root": "キリキリ",
+		"definitions": [
+			"キリキリ (adv) chafing, grinding (e.g. teeth),binding tightly, pulling tight (e.g. a bow),rotating quickly,hurting sharply,briskly, quickly, promptly, at once, right away"
+		],
+		"english": "Hey, get to work!",
+		"japanese": "コラ、きさまもキリキリはたらかんか！"
+	},
+	{
+		"word": "統括",
+		"root": "統括",
+		"definitions": [
+			"統括[とうかつ] (n, vs) unification, bringing together, generalization,control, supervision"
+		],
+		"english": "Both the new President Rufus and Heidegger are aboard this ship!",
+		"japanese": "いま、この船にはルーファウス新社長と本社のハイデッガー統括が乗船されている！"
+	},
+	{
+		"word": "乗船",
+		"root": "乗船",
+		"definitions": [
+			"乗船[じょうせん] (n) embarking (a ship), embarkation, boarding,ship (carrying someone)"
+		],
+		"english": "Both the new President Rufus and Heidegger are aboard this ship!",
+		"japanese": "いま、この船にはルーファウス新社長と本社のハイデッガー統括が乗船されている！"
+	},
+	{
+		"word": "昇進",
+		"root": "昇進",
+		"definitions": [
+			"昇進[しょうしん] (n, vs, adj-no) promotion, advancement, rising in rank"
+		],
+		"english": "If we do good, we could get promoted!",
+		"japanese": "うまくすれば昇進のチャンスだぞ！"
+	},
+	{
+		"word": "のろう",
+		"root": "のろう",
+		"definitions": [
+			"呪う[のろう] (v5u, vt) to curse, to put a curse on, to detest intensely"
+		],
+		"english": "Let's ride the Airship together, OK? Promise, promise me!",
+		"japanese": "一練にのろうね、飛空艇。約束、約束！"
+	},
+	{
+		"word": "トク",
+		"root": "トク",
+		"definitions": [
+			"得[とく] (adj-na, n) profit, advantage, benefit, gain,rebirth in paradise, entering nirvana",
+			"解く[とく] (v5k, vt) to untie, to unfasten, to unwrap, to undo, to unbind, to unpack,to unsew, to unstitch,to solve, to work out, to answer,to dispel (misunderstanding, etc.), to clear up, to remove (suspicion), to appease,to dissolve (a contract), to cancel, to remove (a prohibition), to lift (a ban), to raise (a siege),to release (from duty), to relieve, to dismiss,to comb (out), to card, to untangle (hair)",
+			"説く[とく] (v5k) to explain, to advocate, to preach, to persuade",
+			"溶く[とく] (v5k, vt) to dissolve (paint), to scramble (eggs), to melt (metal, etc.), to mix (water with flour, etc.)",
+			"匿[とく] (n) shelter, shield, hide",
+			"梳く[すく] (v5k, vt) to comb (out), to card, to untangle (hair)",
+			"徳[とく] (n) virtue,benevolence,profit, benefit, advantage",
+			"とく (aux-v, v5k) to do something in readiness for, to get something (needful) done",
+			"疾く[とく] (n, adj-no) quickly, swiftly,already, before,long time ago"
+		],
+		"english": "The only one who's gonna benefit from this is the Chief, anyway.",
+		"japanese": "どうせトクするのはあそこのチーフだけ"
+	},
+	{
+		"word": "チーフ",
+		"root": "チーフ",
+		"definitions": [
+			"チーフ (n) chief"
+		],
+		"english": "The only one who's gonna benefit from this is the Chief, anyway.",
+		"japanese": "どうせトクするのはあそこのチーフだけ"
+	},
+	{
+		"word": "のんき",
+		"root": "のんき",
+		"definitions": [
+			"呑気[のんき] (adj-na, n) carefree, optimistic, careless, reckless, heedless, happy-go-lucky, easygoing, thoughtless"
+		],
+		"english": "How can he… Goin' off laughin' like that?",
+		"japanese": "なんだあのヤロ……のんきにガハガハガハガハ笑いやがって……"
+	},
+	{
+		"word": "いっそ",
+		"root": "いっそ",
+		"definitions": [
+			"いっそ (adv) rather, sooner, preferably"
+		],
+		"english": "I'm gonna settle things here and now!",
+		"japanese": "いっそのこと、ここで一気にカタをつけ……"
+	},
+	{
+		"word": "つけ",
+		"root": "つけ",
+		"definitions": [
+			"付け[つけ] (n) bill, bill of sale, payment invoice,tab (for later payment), credit,contact move (in go), direct attack to an enemy stone,sound effect produced by striking with clappers a wooden board in kabuki,letter,reason, motive, pretext,one's fortune, one's luck"
+		],
+		"english": "I'm gonna settle things here and now!",
+		"japanese": "いっそのこと、ここで一気にカタをつけ……"
+	},
+	{
+		"word": "各員",
+		"root": "各員",
+		"definitions": [
+			"各員[かくいん] (n-adv, n-t) each one"
+		],
+		"english": "Emergency alert! Reports of a stowaway found! Those not on detail, search the ship. Report when found!",
+		"japanese": "緊急連絡！不審人物を発見の報告アリ！作業のない各員は監内を調査。発見しだい通報のこと！"
+	},
+	{
+		"word": "通報",
+		"root": "通報",
+		"definitions": [
+			"通報[つうほう] (n, vs) report, notification, tip, bulletin,message (in information and communication theory)"
+		],
+		"english": "Emergency alert! Reports of a stowaway found! Those not on detail, search the ship. Report when found!",
+		"japanese": "緊急連絡！不審人物を発見の報告アリ！作業のない各員は監内を調査。発見しだい通報のこと！"
+	},
+	{
+		"word": "うばっ",
+		"root": "うばう",
+		"definitions": [
+			"奪う[うばう] (v5u, vt) to snatch away, to dispossess, to steal"
+		],
+		"english": "They take away all the things and people you love…",
+		"japanese": "大切なものを、大切な人をみんなからうばってしまうから……"
+	},
+	{
+		"word": "はりきっ",
+		"root": "はりきる",
+		"definitions": [
+			"張り切る[はりきる] (v5r) to be in high spirits, to be full of vigor (vigour), to be enthusiastic, to be eager, to stretch to breaking point"
+		],
+		"english": "Uh, yes sir, I'll continue my watch sir!  Hee hee…",
+		"japanese": "それでは、はりきって見張りをつづけるであります！フフフ……"
+	},
+	{
+		"word": "ガッツ",
+		"root": "ガッツ",
+		"definitions": [
+			"ガッツ (n) guts"
+		],
+		"english": "A seaman's gotta have umph!",
+		"japanese": "海の男はガッツだ、ガッツ！"
+	},
+	{
+		"word": "物足りない",
+		"root": "物足りない",
+		"definitions": [
+			"物足りない[ものたりない] (adj-i) unsatisfied, unsatisfactory, insufficient"
+		],
+		"english": "Something's missing",
+		"japanese": "なにか物足りないんだ"
+	},
+	{
+		"word": "クルー",
+		"root": "クルー",
+		"definitions": [
+			"クルー (n) crew"
+		],
+		"english": "Say, who are you? You're not a part of the crew.",
+		"japanese": "ん、何だお前？この船のクルーじゃねえな？"
+	},
+	{
+		"word": "こまかい",
+		"root": "こまかい",
+		"definitions": [
+			"細かい[こまかい] (adj-i) small,fine, minute,minor, trivial,sensitive, attentive"
+		],
+		"english": "Oh well, seamen never bother with details!",
+		"japanese": "まあいいか、海の男はこまかいことを気にしねえのよ！"
+	},
+	{
+		"word": "スーパー",
+		"root": "スーパー",
+		"definitions": [
+			"スーパー (adj-f) supermarket,subtitles, telop,superheterodyne,super"
+		],
+		"english": "I got just the perfect thing! Invisible Alpha'-- A super drink for seamen!!",
+		"japanese": "そういう時はコイツ！海の男のスーパードリンク『インビンシブルα』！！"
+	},
+	{
+		"word": "船乗り",
+		"root": "船乗り",
+		"definitions": [
+			"船乗り[ふなのり] (n) getting on board,sailor, seaman"
+		],
+		"english": "Thanks! This is a necessity for a sailor.",
+		"japanese": "まいど！コイツは船乗りにかかせねえ品だぜ"
+	},
+	{
+		"word": "品",
+		"root": "品",
+		"definitions": [
+			"品[しな] (n) article, item, thing, goods, stock,quality,flirtatiousness, coquetry",
+			"品[ひん] (suf, ctr) elegance, grace, refinement, class, dignity,article, item,counter for items (of food, etc.), counter for dishes or courses (at a restaurant)",
+			"品[ほん] (suf) court rank,level, grade,chapter, section, volume"
+		],
+		"english": "Thanks! This is a necessity for a sailor.",
+		"japanese": "まいど！コイツは船乗りにかかせねえ品だぜ"
+	},
+	{
+		"word": "マスト",
+		"root": "マスト",
+		"definitions": [
+			"マスト (n) mast,necessary, mandatory, indispensable,must, [object Object]"
+		],
+		"english": "This is a must item for a sailor! Ha ha ha !",
+		"japanese": "船乗りだけにこれがホントのマストアイテム！ワッハッハッハ！"
+	},
+	{
+		"word": "つきすすも",
+		"root": "つきすすむ",
+		"definitions": [
+			"突き進む[つきすすむ] (v5m, vi) to push on, to plunge forward, to push one's way to"
+		],
+		"english": "Thanks! Now let's get on with it!",
+		"japanese": "まいど！コイツでガンガンつきすすもうぜ"
+	},
+	{
+		"word": "ケチケチ",
+		"root": "ケチケチ",
+		"definitions": [
+			"ケチケチ (adv, vs) stingy, tightfisted, miserly"
+		],
+		"english": "Hey! Seamen shouldn't be so stingy!",
+		"japanese": "オウオウ！海の男がケチケチすんない！"
+	},
+	{
+		"word": "サボっ",
+		"root": "サボる",
+		"definitions": [
+			"サボる (v5r, vi) to be truant, to play hooky, to skip school, to skip out, to be idle, to sabotage by slowness"
+		],
+		"english": "President Rufus and his men are in the Bridge of the Ship. If they see you slacking, they'll bust you one!",
+		"japanese": "ルーファウス社長たちは監橋にいるらしい。サボってるとドヤされるぜ！"
+	},
+	{
+		"word": "たいてい",
+		"root": "たいてい",
+		"definitions": [
+			"大抵[たいてい] (adj-na) mostly, ordinarily, usually, generally,probably,most, almost all,ordinary,proper, appropriate, moderate",
+			"退廷[たいてい] (n, vs) leaving a court",
+			"大帝[たいてい] (n) great emperor, ... the Great"
+		],
+		"english": "Humans only look at appearances anyway.",
+		"japanese": "人間というものはたいてい、ものごとのそとがわしか見ないからな"
+	},
+	{
+		"word": "ビーチ",
+		"root": "ビーチ",
+		"definitions": [
+			"ビーチ (n) beach"
+		],
+		"english": "When I get there, I'm going to take a long overdue vacation. Maybe I'll go down to the beach and get a tan…",
+		"japanese": "向こうについたらひさしぶりの休みだ。ビーチで体をやこうかな……"
+	},
+	{
+		"word": "てこ",
+		"root": "てこ",
+		"definitions": [
+			"梃子[てこ] (n) lever"
+		],
+		"english": "You don't think that suspicious stowaway is…",
+		"japanese": "てことは不審人物ってのはまさか……"
+	},
+	{
+		"word": "くつ",
+		"root": "くつ",
+		"definitions": [
+			"靴[くつ] (n) shoe, shoes, boots, footwear, footgear"
+		],
+		"english": "These clothes are too tight on me. Can I switch with you?",
+		"japanese": "この服はきゅうくつだ。できればそっちに加わりたい"
+	},
+	{
+		"word": "加わり",
+		"root": "加わる",
+		"definitions": [
+			"加わる[くわわる] (v5r, vi) to be added to, to be appended,to join in (e.g. a group of friends), to participate,to increase (e.g. heat), to gain in (e.g. influence), to grow, to gather (speed),to be applied (e.g. heat, pressure), to be exerted"
+		],
+		"english": "These clothes are too tight on me. Can I switch with you?",
+		"japanese": "この服はきゅうくつだ。できればそっちに加わりたい"
+	},
+	{
+		"word": "斬り",
+		"root": "斬る",
+		"definitions": [
+			"斬る[きる] (v5r, vt) to kill (a human) using a blade (sword, machete, knife, etc.), to slice (off), to lop (off), to cut (off)"
+		],
+		"english": "Received \"Wind Slash\"!",
+		"japanese": "『風斬り』を手にいれた！"
+	},
+	{
+		"word": "眠り",
+		"root": "眠り",
+		"definitions": [
+			"眠り[ねむり] (n) sleep, sleeping,inactivity,death"
+		],
+		"english": "…After a long sleep…",
+		"japanese": "……長き眠りをへて……"
+	},
+	{
+		"word": "接岸",
+		"root": "接岸",
+		"definitions": [
+			"接岸[せつがん] (n, vs) coming alongside a pier, quay, etc., reaching land (of a boat)"
+		],
+		"english": "Dock workers--We will be docking in Costa del Sol in 5 minutes. Prepare for docking.",
+		"japanese": "接岸作業員コスタ・デル・ソル入港５分前接岸準備を開始せよ"
+	},
+	{
+		"word": "員",
+		"root": "員",
+		"definitions": [
+			"員[いん] (n, n-suf) member"
+		],
+		"english": "Dock workers--We will be docking in Costa del Sol in 5 minutes. Prepare for docking.",
+		"japanese": "接岸作業員コスタ・デル・ソル入港５分前接岸準備を開始せよ"
+	},
+	{
+		"word": "入港",
+		"root": "入港",
+		"definitions": [
+			"入港[にゅうこう] (n, vs) entry into port, arriving in harbor"
+		],
+		"english": "Dock workers--We will be docking in Costa del Sol in 5 minutes. Prepare for docking.",
+		"japanese": "接岸作業員コスタ・デル・ソル入港５分前接岸準備を開始せよ"
+	},
+	{
+		"word": "整理",
+		"root": "整理",
+		"definitions": [
+			"整理[せいり] (n, vs) sorting, arrangement, organization, putting in order, adjustment, regulation,liquidation, settlement, consolidation, clearance (e.g. debt), paying off,retrenchment, curtailment, cutting down, disposal"
+		],
+		"english": "CLOUD, why don't you explain to me what's happened so far?",
+		"japanese": "CLOUD、ちょっとここまでを整理してくれねえか？"
+	},
+	{
+		"word": "めんどうくさい",
+		"root": "めんどうくさい",
+		"definitions": [
+			"面倒くさい[めんどくさい] (adj-i) bothersome, tiresome, bother to do"
+		],
+		"english": "Too much trouble",
+		"japanese": "めんどうくさい"
+	},
+	{
+		"word": "こんがらがっ",
+		"root": "こんがらがる",
+		"definitions": [
+			"こんがらがる (v5r, vi) to become entangled, to become complicated, to get mixed up, to screw up, to get caught up in"
+		],
+		"english": "I'm getting so confused…",
+		"japanese": "こんがらがってきちゃった……"
+	},
+	{
+		"word": "さほど",
+		"root": "さほど",
+		"definitions": [
+			"然程[さほど] (adv, conj) not so, not particularly, not very, not that much"
+		],
+		"english": "Hmm… The story's not that simple.",
+		"japanese": "フム……話はさほど単純ではなさそうだ。"
+	},
+	{
+		"word": "はさま",
+		"root": "はさむ",
+		"definitions": [
+			"挟む[はさむ] (v5m, vt) to hold between (e.g. one's fingers, chopsticks), to grip (from both sides),to put between, to sandwich between, to insert, to interpose,to catch (e.g. a finger in a door), to trap, to pinch,to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke),to be on either side of (a road, table, etc.), to have between each other, to be across (a street, river, etc.),to harbour (feelings), to cast (e.g. doubt)",
+			"剪む[はさむ] (v5m, vt) to clip, to snip"
+		],
+		"english": "…I'll try, but don't interrupt me while I'm explaining.",
+		"japanese": "……やってみるから途中で口をはさまないでくれよ"
+	},
+	{
+		"word": "いとこ",
+		"root": "いとこ",
+		"definitions": [
+			"従兄弟[いとこ] (n) cousin (male)",
+			"従兄[じゅうけい] (n) cousin (elder male)",
+			"従姉[じゅうし] (n) cousin (elder female)",
+			"従姉妹[いとこ] (n) cousin (female)",
+			"従弟[じゅうてい] (n) cousin (younger male)",
+			"従妹[じゅうまい] (n) cousin (younger female)"
+		],
+		"english": "Whoa! We'd best hurry and hide somewhere.",
+		"japanese": "おおっと！はやいとこ隠れたほうがよさそうだぜ"
+	},
+	{
+		"word": "隠れ",
+		"root": "隠る",
+		"definitions": [
+			"籠もる[こもる] (v5r, vi) to shut oneself in (e.g. one's room), to be confined in, to seclude oneself, to hide away, to stay inside (one's shell),to be filled with (emotion, enthusiasm, etc.),to fill the room (of a gas, smell, etc.), to be heavy with (e.g. smoke), to be stuffy, to be dense,to be muffled (e.g. voice),to hold (a castle, fortress, etc.),to confine oneself in a temple to pray",
+			"隠る[なまる] (v5r, vi) to hide, to be hidden, to conceal oneself, to disappear"
+		],
+		"english": "Phew… We're finally here… Now we gotta hide.",
+		"japanese": "ホッ……やっとついた……はやく隠れ……ウップ"
+	}
+]

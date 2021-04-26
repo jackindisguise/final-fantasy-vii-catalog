@@ -1,0 +1,1320 @@
+[
+	{
+		"word": "仕切っ",
+		"root": "仕切る",
+		"definitions": [
+			"仕切る[しきる] (v5r, vt) to partition, to divide, to mark off, to itemize,to direct, to take control, to manage, to take responsibility,to settle accounts,to toe the mark"
+		],
+		"english": "Better ask the Captain about this town. He's the one in charge of it.",
+		"japanese": "この村のことなら艇長に聞いてくれ。ここを仕切ってるのはアイツだからな"
+	},
+	{
+		"word": "パイロット",
+		"root": "パイロット",
+		"definitions": [
+			"パイロット (n) pilot"
+		],
+		"english": "The Captain was a pilot when Shinra was still interested in their Space Program.",
+		"japanese": "艇長は神羅カンパニーがまだ宇宙開発に手を出していたころのパイロットさ"
+	},
+	{
+		"word": "士",
+		"root": "士",
+		"definitions": [
+			"侍[さむらい] (n) warrior (esp. of military retainers of daimyos in the Edo period), samurai,man in attendance (on a person of high standing), retainer",
+			"士[し] (n-suf) man (esp. one who is well-respected),samurai,person (in a certain profession, esp. licensed), member"
+		],
+		"english": "He was going to be the world's first astronaut, but there was an accident…",
+		"japanese": "世界初の宇宙飛行士になる予定だったのだがま、ちょっとした事故があってな"
+	},
+	{
+		"word": "飛び立つ",
+		"root": "飛び立つ",
+		"definitions": [
+			"飛び立つ[とびたつ] (v5t, vi) to jump up, to start up, to leap to one's feet, to fly away, to take off"
+		],
+		"english": "Ever since then, he's been wasting his life away here dreaming about going into outer space.",
+		"japanese": "で、まあ、それ以来ここで宇宙に飛び立つ夢を見ながらくすぶってるってわけよ"
+	},
+	{
+		"word": "くすぶっ",
+		"root": "くすぶる",
+		"definitions": [
+			"燻る[くすぶる] (v5r, vi) to smoke, to smoulder, to smolder, to sputter,to be sooty, to be smoke-stained,to smoulder (e.g. a dispute), to smolder,to seclude oneself,to live in obscurity, to stay in the same level (of social position, circumstances, etc.)"
+		],
+		"english": "Ever since then, he's been wasting his life away here dreaming about going into outer space.",
+		"japanese": "で、まあ、それ以来ここで宇宙に飛び立つ夢を見ながらくすぶってるってわけよ"
+	},
+	{
+		"word": "元々",
+		"root": "元々",
+		"definitions": [
+			"元々[もともと] (adv, adj-no) originally, by nature, from the start"
+		],
+		"english": "This used to be a Shinra base where they used to launch rockets.",
+		"japanese": "ここは元々神羅のロケット打ち上げ基地だったのじゃ"
+	},
+	{
+		"word": "基地",
+		"root": "基地",
+		"definitions": [
+			"基地[きち] (n) base (military, expedition, etc.)"
+		],
+		"english": "This used to be a Shinra base where they used to launch rockets.",
+		"japanese": "ここは元々神羅のロケット打ち上げ基地だったのじゃ"
+	},
+	{
+		"word": "かたむい",
+		"root": "かたむく",
+		"definitions": [
+			"傾く[かたむく] (v5k, vi) to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to,to go down (sun), to wane, to sink, to decline"
+		],
+		"english": "You saw the leaning rocket, right? That's Shinra No. 26. It never got off the ground though.",
+		"japanese": "かたむいたロケットを見たじゃろ？あれが神羅２６号じゃ。一度も飛んだことはないんじゃが"
+	},
+	{
+		"word": "号",
+		"root": "号",
+		"definitions": [
+			"号[ごう] (suf) number, edition, make, model, issue, part of that group,sobriquet, pen-name,suffix attached to names of ships, trains, airplanes, etc."
+		],
+		"english": "You saw the leaning rocket, right? That's Shinra No. 26. It never got off the ground though.",
+		"japanese": "かたむいたロケットを見たじゃろ？あれが神羅２６号じゃ。一度も飛んだことはないんじゃが"
+	},
+	{
+		"word": "メカニック",
+		"root": "メカニック",
+		"definitions": [
+			"メカニック (adj-na, n) mechanic"
+		],
+		"english": "Everyone in this town was a mechanic back when they were planning to launch the rocket.",
+		"japanese": "ここの住人はみんなロケット打ち上げ計画のときのメカニック仲間なんだ"
+	},
+	{
+		"word": "主導",
+		"root": "主導",
+		"definitions": [
+			"主導[しゅどう] (n, vs) leadership, initiative, spearhead"
+		],
+		"english": "There was a plan to send a man into outer space. It was headed up by the leader of the Shinra Space Program, Palmer.",
+		"japanese": "神羅の宇宙開発部門の長であるパルマーの主導で、人間を宇宙におくろうとした計画があったのさ"
+	},
+	{
+		"word": "なごり",
+		"root": "なごり",
+		"definitions": [
+			"名残[なごり] (n) remains, traces, vestiges, relics,(the sorrow of) parting,end",
+			"余波[よは] (n) waves that remain after the wind has subsided,after-effect, aftermath"
+		],
+		"english": "This town is the result of the plan, but the plan got cut…",
+		"japanese": "でも、その計画も中断しちゃってね……この村は、その計画のなごりなのさ"
+	},
+	{
+		"word": "上海",
+		"root": "上海",
+		"definitions": [
+			"上海[シャンハイ] (n) Shanghai (China)"
+		],
+		"english": "Welcome to the Shanghai Inn!",
+		"japanese": "上海亭に、ようこそっす！"
+	},
+	{
+		"word": "亭",
+		"root": "亭",
+		"definitions": [
+			"亭[てい] (suf) arbor, arbour, bower, pavilion,suffix forming the final part of the pseudonyms of some writers and performers,suffix forming the final part of the name of a restaurant"
+		],
+		"english": "Welcome to the Shanghai Inn!",
+		"japanese": "上海亭に、ようこそっす！"
+	},
+	{
+		"word": "台帳",
+		"root": "台帳",
+		"definitions": [
+			"台帳[だいちょう] (n) account book, ledger, register"
+		],
+		"english": "Excuse me. Please don't come in here. Our books and the room keys are in here, so I'll have to ask you to please stay out.",
+		"japanese": "お客さん、困るっすよ。こっちには台帳や部屋の鍵とかが置いてあるんで、入ってこないでほしいんすけど"
+	},
+	{
+		"word": "鍵",
+		"root": "鍵",
+		"definitions": [
+			"鍵[かぎ] (n) key,lock",
+			"鍵[けん] (n) key (of a piano, etc.)"
+		],
+		"english": "Excuse me. Please don't come in here. Our books and the room keys are in here, so I'll have to ask you to please stay out.",
+		"japanese": "お客さん、困るっすよ。こっちには台帳や部屋の鍵とかが置いてあるんで、入ってこないでほしいんすけど"
+	},
+	{
+		"word": "ツキ",
+		"root": "ツキ",
+		"definitions": [
+			"机[つくえ] (n) desk",
+			"月[つき] (n-t) moon,month",
+			"突き[つき] (n) thrust, stab, lunge, pass (in fencing),tsuki, [object Object],tsuki, [object Object]",
+			"付き[つき] (n, n-suf) furnished with, including,attached to,impression, appearance,luck,sociality,under, assistant (e.g. to a manager),soup base",
+			"鴇[とき] (n) Japanese crested ibis (Nipponia nippon), crested ibis",
+			"欅[けやき] (n) Japanese zelkova (species of elm-like tree, Zelkowa serrata)",
+			"就き[つき] (exp) concerning, per, on account of",
+			"坏[つき] (n) shallow bowl"
+		],
+		"english": "Just bad luck, I guess…",
+		"japanese": "ただ、ツキがなかっただけさ……"
+	},
+	{
+		"word": "重圧",
+		"root": "重圧",
+		"definitions": [
+			"重圧[じゅうあつ] (n) strong pressure, heavy pressure"
+		],
+		"english": "If he keeps up like that, he's gonna collapse someday. Y'know what I mean? I'm talkin' heart attack.",
+		"japanese": "そんなふうに心の余裕がないのではいつか倒れてしまいますよ。心の重圧にたえかねて、ね"
+	},
+	{
+		"word": "安らぎ",
+		"root": "安らぎ",
+		"definitions": [
+			"安らぎ[やすらぎ] (n, adj-no) peace (of mind), tranquility, tranquillity, serenity"
+		],
+		"english": "A drink will ease your heart…",
+		"japanese": "１杯の酒はこころの安らぎ……"
+	},
+	{
+		"word": "サビ",
+		"root": "サビ",
+		"definitions": [
+			"錆[さび] (n) rust",
+			"寂[さび] (n) patina, antique look,elegant simplicity,well-trained voice",
+			"皺[しぼ] (n) bumpy texture of a material (esp. woven fabric),creases in an eboshi hat",
+			"サビ (n) hook (high point of a song),(at a sushi shop) wasabi"
+		],
+		"english": "A rusty old rocket… Wonder why they made something so huge?",
+		"japanese": "サビついたロケット……何のために、こんな巨大なものが……？"
+	},
+	{
+		"word": "あすこ",
+		"root": "あすこ",
+		"definitions": [
+			"彼処[あそこ] (n) there (place physically distant from both speaker and listener), over there, that place, yonder, you-know-where,genitals, private parts, nether regions,that far (something psychologically distant from both speaker and listener), that much, that point"
+		],
+		"english": "It just looms there. That's how the town got its name… Shinra No. 26'.",
+		"japanese": "あすこにそびえるがこの村の名前の由来宇宙ロケット『神羅２６号』じゃ"
+	},
+	{
+		"word": "そびえる",
+		"root": "そびえる",
+		"definitions": [
+			"聳える[そびえる] (v1, vi) to rise, to tower, to soar"
+		],
+		"english": "It just looms there. That's how the town got its name… Shinra No. 26'.",
+		"japanese": "あすこにそびえるがこの村の名前の由来宇宙ロケット『神羅２６号』じゃ"
+	},
+	{
+		"word": "由来",
+		"root": "由来",
+		"definitions": [
+			"由来[ゆらい] (n, vs, adv) origin, source, history, derivation, reason, destiny"
+		],
+		"english": "It just looms there. That's how the town got its name… Shinra No. 26'.",
+		"japanese": "あすこにそびえるがこの村の名前の由来宇宙ロケット『神羅２６号』じゃ"
+	},
+	{
+		"word": "一日中",
+		"root": "一日中",
+		"definitions": [
+			"一日中[いちにちじゅう] (n, n-adv) all day long, all the day, throughout the day"
+		],
+		"english": "All gramps does is gaze at that rocket all day long.",
+		"japanese": "ウチのじいさんったら一日中ロケットばかりながめておるのぉ"
+	},
+	{
+		"word": "げんか",
+		"root": "げんか",
+		"definitions": [
+			"原価[げんか] (n) cost price",
+			"厳科[げんか] (n) severe punishment, rigorous measures",
+			"減価[げんか] (n) price reduction, depreciation, abatement",
+			"現価[げんか] (n) current price",
+			"現下[げんか] (adj-no) the present time,current",
+			"言下[げんか] (n) promptly",
+			"弦歌[げんか] (n) singing and (string) music"
+		],
+		"english": "How 'bout it? Want to look at the rocket with me?",
+		"japanese": "どうじゃ、あんた？わしと一練にロケット見上げんか？"
+	},
+	{
+		"word": "愛しい",
+		"root": "愛しい",
+		"definitions": [
+			"愛しい[いとしい] (adj-i) lovely, dear, beloved, darling, dearest,pitiable, pitiful"
+		],
+		"english": "My, my precious rocket… It's gone.",
+		"japanese": "わ、わしの愛しいロケットが……行ってしもうた"
+	},
+	{
+		"word": "老人",
+		"root": "老人",
+		"definitions": [
+			"老人[ろうじん] (n) old person, senior citizen, the aged, the elderly"
+		],
+		"english": "But I just can't stop it. Just call it an old man's folly if you will.",
+		"japanese": "しかし、あきらめきれんのじゃよ。老人のグチと思うて笑ろうてくれ"
+	},
+	{
+		"word": "笑",
+		"root": "笑",
+		"definitions": [
+			"ｗ[わら] (n) LOL, haha"
+		],
+		"english": "But I just can't stop it. Just call it an old man's folly if you will.",
+		"japanese": "しかし、あきらめきれんのじゃよ。老人のグチと思うて笑ろうてくれ"
+	},
+	{
+		"word": "総員",
+		"root": "総員",
+		"definitions": [
+			"総員[そういん] (n) the entire strength, all hands, all the members"
+		],
+		"english": "Don't let them get any further! Everyone, ATTACK---!",
+		"japanese": "ここより一歩も進ませるな！総員、突撃ィ～～！"
+	},
+	{
+		"word": "突撃",
+		"root": "突撃",
+		"definitions": [
+			"突撃[とつげき] (n, vs) assault, charge, attack"
+		],
+		"english": "Don't let them get any further! Everyone, ATTACK---!",
+		"japanese": "ここより一歩も進ませるな！総員、突撃ィ～～！"
+	},
+	{
+		"word": "わくわく",
+		"root": "わくわく",
+		"definitions": [
+			"わくわく (adv, adv-to, vs) trembling, getting nervous, excited, thrilled"
+		],
+		"english": "Oh, I'm getting excited.",
+		"japanese": "わくわくしちゃう"
+	},
+	{
+		"word": "スペクタクル",
+		"root": "スペクタクル",
+		"definitions": [
+			"スペクタクル (n) spectacle"
+		],
+		"english": "Mmm, a SPECTACLE.",
+		"japanese": "ん～、スペクタクル～"
+	},
+	{
+		"word": "たたきだし",
+		"root": "たたきだす",
+		"definitions": [
+			"叩き出す[たたきだす] (v5s, vt) to begin to strike,to kick out, to forcefully expel, to fire (someone),to hammer (pattern, etc.) into metal"
+		],
+		"english": "I'm outta here, CLOUD! I'm gonna kick those $^%$# Shinra right out of my rocket!",
+		"japanese": "行くぜ、CLOUD！神羅のクソッタレ野郎どもをオレ様のロケットから、たたきだしてやる！"
+	},
+	{
+		"word": "アクション",
+		"root": "アクション",
+		"definitions": [
+			"アクション (n) action"
+		],
+		"english": "Mmm, here comes some hard action!",
+		"japanese": "ん～、ハードアクション～"
+	},
+	{
+		"word": "組ん",
+		"root": "組む",
+		"definitions": [
+			"組む[くむ] (v5m) to cross (legs or arms), to link (arms),to put together, to construct, to assemble, to produce (e.g. TV program),to braid, to plait,to grapple, to wrestle,to unite, to join, to link up, to form an alliance,to set (e.g. type),to issue (e.g. money order)"
+		],
+		"english": "Oh, it's you? I heard you and the Captain really made a BANG!",
+		"japanese": "ああ、あんたたちか。艇長と組んで、ハデにやったようだね"
+	},
+	{
+		"word": "カンカン",
+		"root": "カンカン",
+		"definitions": [
+			"カンカン (n) can-can",
+			"看貫[かんかん] (n) weighing, platform scales",
+			"感官[かんかん] (n) sense organ",
+			"カンカン (n, adj-no) extreme anger, fury, rage,intense heat,clanging noise",
+			"閑々[かんかん] (adv-to, adj-t) quietly, self-composed",
+			"寛緩[かんかん] (adv, adj-t) looking cool and collect, with an air of perfect composure",
+			"肝管[かんかん] (n) hepatic duct",
+			"漢奸[かんかん] (n) Chinese traitor (esp. a collaborator with the Japanese)",
+			"完完[かんかん] (exp) confirmed as completed,everything must go (e.g. in a sale)"
+		],
+		"english": "I also heard that Rufus was so pissed off he went on a rampage and that no one's been able to get near him!",
+		"japanese": "あの後、ルーファウスはカンカンで手がつけられなかったそうだよ。ふふふ、久々にスッとしたよ"
+	},
+	{
+		"word": "久々",
+		"root": "久々",
+		"definitions": [
+			"久々[ひさびさ] (adj-na, adj-no, adv, n) (in a) long time, long time (ago), while (ago), long ago, long while (ago), (in a) long while"
+		],
+		"english": "I also heard that Rufus was so pissed off he went on a rampage and that no one's been able to get near him!",
+		"japanese": "あの後、ルーファウスはカンカンで手がつけられなかったそうだよ。ふふふ、久々にスッとしたよ"
+	},
+	{
+		"word": "落ち着か",
+		"root": "落ち着く",
+		"definitions": [
+			"落ち着く[おちつく] (v5k, vi) to calm down, to compose oneself, to regain presence of mind,to calm down, to settle down, to die down, to become stable, to abate,to settle down (in a location, job, etc.), to settle in,to be settled, to be fixed, to have been reached,to harmonize with, to harmonise with, to match, to suit, to fit,to be unobtrusive, to be quiet, to be subdued"
+		],
+		"english": "I get so restless with the rocket gone. And now that we can see Meteor clearly, …I can't stand it.",
+		"japanese": "ロケットがなくなってしまったからどうも落ち着かないんだよね。前よりもメテオがはっきりと見えるようになったし……たまんないね"
+	},
+	{
+		"word": "ひそか",
+		"root": "ひそか",
+		"definitions": [
+			"密か[ひそか] (adj-na, n) secret, private, surreptitious"
+		],
+		"english": "That sucks. I was secretly eyeing that thing. Broke, huh? What a drag.",
+		"japanese": "困っちゃうなぁ。ひそかに僕が狙っていたのになぁ。壊れちゃったのかぁ。残念"
+	},
+	{
+		"word": "ボロっちい",
+		"root": "ボロっちい",
+		"definitions": [
+			"ぼろっちい (adj-i) worn-out, crumbling"
+		],
+		"english": "I still can't believe that piece of crap rocket actually made it into space…",
+		"japanese": "しかし、信じられないよ。あのボロっちいロケットが宇宙に行ったとはねぇ……"
+	},
+	{
+		"word": "おしこめ",
+		"root": "おしこめる",
+		"definitions": [
+			"押し込める[おしこめる] (v1, vt) to shut up, to imprison"
+		],
+		"english": "Because those Shinra creeps locked us up in our houses, we couldn't even watch the rocket lift off.",
+		"japanese": "この前、神羅のヤツらが来たときにわしらを家におしこめてくれたおかげであの日はロケットを見上げられなかったわい"
+	},
+	{
+		"word": "スポーツカー",
+		"root": "スポーツカー",
+		"definitions": [
+			"スポーツカー (n) sports car"
+		],
+		"english": "Mmm. You know that Shinra sports car at CID's house? It might be fun to try and restore that thing…",
+		"japanese": "う～む。CIDの家にある神羅のスポーツカー……あいつをレストアしてみるのもおもしろいかもしれんな……"
+	},
+	{
+		"word": "ストア",
+		"root": "ストア",
+		"definitions": [
+			"ストア (n) store, shop,stoa (classical Greek colonnade or portico),store,Stoic"
+		],
+		"english": "Mmm. You know that Shinra sports car at CID's house? It might be fun to try and restore that thing…",
+		"japanese": "う～む。CIDの家にある神羅のスポーツカー……あいつをレストアしてみるのもおもしろいかもしれんな……"
+	},
+	{
+		"word": "向かい",
+		"root": "向かい",
+		"definitions": [
+			"向い[むかい] (n, adj-no) facing, opposite, across the street, other side"
+		],
+		"english": "How long's that guy gonna be in the bathroom? I need to go, too…",
+		"japanese": "向かいの席にすわっていたヤツいつまでトイレに入っているのかな？オレも使いたいのによぉ……"
+	},
+	{
+		"word": "引き連れ",
+		"root": "引き連れる",
+		"definitions": [
+			"引き連れる[ひきつれる] (v1, vt) to take someone along, to be accompanied (by)"
+		],
+		"english": "Seems like Palmer of Shinra, Inc. ordered soldiers to restore the rocket…",
+		"japanese": "神羅のパルマーさんが兵士を引き連れてロケットを整備しているようですが……"
+	},
+	{
+		"word": "一大",
+		"root": "一大",
+		"definitions": [
+			"一大[いちだい] (n) one large ..., a great ..."
+		],
+		"english": "Now that one of Shinra's greatest events is over, I guess it's back to the same old boring life again…",
+		"japanese": "神羅の一大イベントも終わってしまったしまた、つまらない毎日が始まるのね……"
+	},
+	{
+		"word": "こっとう",
+		"root": "こっとう",
+		"definitions": [
+			"骨董[こっとう] (n) antique, curio",
+			"兀頭[こっとう] (n) bald head,baldness"
+		],
+		"english": "There're tons of what look",
+		"japanese": "こっとう品と言ってもいいような"
+	},
+	{
+		"word": "オーナー",
+		"root": "オーナー",
+		"definitions": [
+			"オーナー (n) owner"
+		],
+		"english": "…I bet the owner of this store",
+		"japanese": "……きっと、この店のオーナーは"
+	},
+	{
+		"word": "マニア",
+		"root": "マニア",
+		"definitions": [
+			"マニア (n) enthusiast,mania, enthusiasm"
+		],
+		"english": "was a real gun fanatic.",
+		"japanese": "かなりのガンマニアなのだろう。"
+	},
+	{
+		"word": "考えつい",
+		"root": "考えつく",
+		"definitions": [
+			"考えつく[かんがえつく] (v5k, vt) to think of, to come up with"
+		],
+		"english": "Hey CID! I just thought of the best joke! Listen to this one.",
+		"japanese": "おっ、CID！ついに究極のシャレを考えついたんだ！ぜひ聞いてくれよ"
+	},
+	{
+		"word": "ダジャレ",
+		"root": "ダジャレ",
+		"definitions": [
+			"駄洒落[だじゃれ] (n) feeble joke, bad pun"
+		],
+		"english": "I'm so sick of hearing these dumb puns, but okay…let's get it over with. Go on…let me hear it.",
+		"japanese": "おまえのダジャレは聞きあきたがしかたないから聞いてやる。ホレ、言ってみろ"
+	},
+	{
+		"word": "のたうち回っ",
+		"root": "のたうち回る",
+		"definitions": [
+			"のた打ち回る[のたうちまわる] (v5r, vi) to writhe (in pain)"
+		],
+		"english": "…'He's crude an' a jerk'… I mean, He's 'Rude of the Turks'!",
+		"japanese": "『みんな、のたうち回ってるど』じゃなくて『神羅のタークスのルード』って奴がきてるぜ"
+	},
+	{
+		"word": "ブランケット",
+		"root": "ブランケット",
+		"definitions": [
+			"ブランケット (n) blanket"
+		],
+		"english": "'Raunchy meat, a pocket full, at the cafeteria'. Uh, I mean… Launch a beat up rocket full of Materia'.",
+		"japanese": "『あんたのブランケットにまったりとしたハム』じゃなくてあんたのボロロケットにマテリアボムを積んで打ち上げるつもりらしいぜ"
+	},
+	{
+		"word": "まったり",
+		"root": "まったり",
+		"definitions": [
+			"まったり (adv, adv-to, vs) rich (taste), full-bodied (flavour, flavor), mellow(ness),laid-back (lifestyle), relaxed, comfortable"
+		],
+		"english": "'Raunchy meat, a pocket full, at the cafeteria'. Uh, I mean… Launch a beat up rocket full of Materia'.",
+		"japanese": "『あんたのブランケットにまったりとしたハム』じゃなくてあんたのボロロケットにマテリアボムを積んで打ち上げるつもりらしいぜ"
+	},
+	{
+		"word": "ハム",
+		"root": "ハム",
+		"definitions": [
+			"ハム (n) ham (cured pig meat),ham (amateur radio enthusiast),hum",
+			"鱧[はも] (n) daggertooth pike conger (Muraenesox cinereus),(in Northern Japan) conger eel, garden eel",
+			"食む[はむ] (v5m, vt) to eat (fodder, grass, etc.),to receive (a salary), to receive a stipend from one's lord"
+		],
+		"english": "'Raunchy meat, a pocket full, at the cafeteria'. Uh, I mean… Launch a beat up rocket full of Materia'.",
+		"japanese": "『あんたのブランケットにまったりとしたハム』じゃなくてあんたのボロロケットにマテリアボムを積んで打ち上げるつもりらしいぜ"
+	},
+	{
+		"word": "積ん",
+		"root": "積む",
+		"definitions": [
+			"積む[つむ] (v5m, vt) to pile up, to stack,to load (car, ship, etc.), to pack,to acquire, to accumulate"
+		],
+		"english": "'Raunchy meat, a pocket full, at the cafeteria'. Uh, I mean… Launch a beat up rocket full of Materia'.",
+		"japanese": "『あんたのブランケットにまったりとしたハム』じゃなくてあんたのボロロケットにマテリアボムを積んで打ち上げるつもりらしいぜ"
+	},
+	{
+		"word": "ていちょう",
+		"root": "ていちょう",
+		"definitions": [
+			"低調[ていちょう] (adj-na, n) inactive, slow, sluggish, slack, low tone, undertone, dullness, (market) weakness",
+			"丁重[ていちょう] (adj-na, n) polite, courteous, hospitable",
+			"低潮[ていちょう] (n) low tide, low water",
+			"艇長[ていちょう] (n) skipper (of a boat), coxwain",
+			"啼鳥[ていちょう] (n) chirping bird, singing bird",
+			"堤頂[ていちょう] (n) crest of dam, top of dam"
+		],
+		"english": "Oh, 'crap-again'(oh, captain).",
+		"japanese": "いやいやそんなていちょう（艇長）にほめるなよ～"
+	},
+	{
+		"word": "やらかす",
+		"root": "やらかす",
+		"definitions": [
+			"遣らかす[やらかす] (v5s, vt) to fail, to blunder, to make a mess, to perpetrate, to do,to drink up, to eat up"
+		],
+		"english": "Looks like that *&%$#^$ Rufus wants to use my rocket for somethin'.",
+		"japanese": "ルーファウスのボンボン野郎がオレさまのロケットを使って何かやらかすつもりらしいな"
+	},
+	{
+		"word": "恐る",
+		"root": "恐る",
+		"definitions": [
+			"恐る[おそる] (v2r-k, v4r, v2r-s, vi) to fear, to be afraid"
+		],
+		"english": "(A fearful sense of humor…)",
+		"japanese": "（お、恐るべしギャグセンス……）"
+	},
+	{
+		"word": "ギャグ",
+		"root": "ギャグ",
+		"definitions": [
+			"ギャグ (n) joke, gag"
+		],
+		"english": "(A fearful sense of humor…)",
+		"japanese": "（お、恐るべしギャグセンス……）"
+	},
+	{
+		"word": "キック",
+		"root": "キック",
+		"definitions": [
+			"キック (n, vs) kick"
+		],
+		"english": "Ugh… Nice kick.",
+		"japanese": "ぐぅ……ナイスキック"
+	},
+	{
+		"word": "精進",
+		"root": "精進",
+		"definitions": [
+			"精進[しょうじん] (n, vs) concentration, diligence, devotion,asceticism, zeal in one's quest for enlightenment,adherence to a vegetarian diet"
+		],
+		"english": "I got to learn more… Devotion, devotion.",
+		"japanese": "もっと、修行せねば……精進、精進"
+	},
+	{
+		"word": "エラ",
+		"root": "エラ",
+		"definitions": [
+			"鰓[えら] (n) gills, branchia,angle of the mandible, gonial angle",
+			"偉[えら] (pref) tremendous, huge"
+		],
+		"english": "^%$#! Shera. What are you, blind!?",
+		"japanese": "ケッ！　シエラよう。どうしてテメエはそんなにどんくせえんだよ！"
+	},
+	{
+		"word": "茶",
+		"root": "茶",
+		"definitions": [
+			"茶[ちゃ] (n, adj-na) tea,tea plant (Camellia sinensis),tea preparation, making tea,brown,mockery"
+		],
+		"english": "We got guests!! GET SOME TEA! ^%$#!",
+		"japanese": "客が来たら茶くらい出せよな、このウスノロ！"
+	},
+	{
+		"word": "たい",
+		"root": "たく",
+		"definitions": [
+			"炊く[たく] (v5k, vt) to cook (grains, e.g. rice),to boil, to simmer, to stew, to seethe",
+			"焚く[たく] (v5k, vt) to burn, to kindle, to light (a fire), to make (a fire),to heat (a bath), to light (a stove), to stoke (a boiler),to use (a camera flash)",
+			"卓[たく] (n) table, desk,counter for tables, desks, etc.,offering table before an altar (sometimes used in tea ceremony),tabletop incense burner",
+			"宅[たく] (n) house, home,one's husband",
+			"柝[たく] (n) wooden clappers (signalling the beginning or end of a performance)",
+			"栲[たく] (n) paper mulberry",
+			"鐸[たく] (n) duo (ancient Chinese bell with a clapper and a long handle),large wind bell",
+			"薫く[たく] (v5k, vt) to burn (usu. incense)",
+			"択[たく] (ctr) counter for choices, options, etc.",
+			"タク (n) taxi"
+		],
+		"english": "Sheesh!! What bad manners!",
+		"japanese": "むっか～～！！たいど、悪いわよ"
+	},
+	{
+		"word": "キツ",
+		"root": "キツ",
+		"definitions": [
+			"狐[きつね] (n) fox (esp. the red fox, Vulpes vulpes),fox (i.e. a sly person),soba or udon topped with deep-fried tofu,light brown, golden brown",
+			"吉[きち] (n, adj-no) good fortune (esp. omikuji fortune-telling result), good luck, auspiciousness"
+		],
+		"english": "Man, he sure seems wound up tight.",
+		"japanese": "なんや、ごっつうキツい人やなぁ～"
+	},
+	{
+		"word": "裏庭",
+		"root": "裏庭",
+		"definitions": [
+			"裏庭[うらにわ] (n) rear garden, back yard"
+		],
+		"english": "Shera! I'll be in the backyard tunin' up Tiny Bronco!",
+		"japanese": "おい、シエラ！オレ様はタイニー・ブロンコを整備しに裏庭に行ってるからな！"
+	},
+	{
+		"word": "えな",
+		"root": "えな",
+		"definitions": [
+			"胞衣[えな] (n) afterbirth, placenta"
+		],
+		"english": "He always like this? That's pretty bad!",
+		"japanese": "いつもだって？そりゃ、ひでえな！"
+	},
+	{
+		"word": "ぶんなぐっ",
+		"root": "ぶんなぐる",
+		"definitions": [
+			"ぶん殴る[ぶんなぐる] (v5r, vt) to knock, to hit hard, to give a hard blow, to wallop, to sock"
+		],
+		"english": "What's his prob!? I'm gonna go clean that guy's clock!!",
+		"japanese": "なんだよ、それ！？アタシならぶんなぐってやるよ！"
+	},
+	{
+		"word": "縮小",
+		"root": "縮小",
+		"definitions": [
+			"縮小[しゅくしょう] (n, vs, adj-no) reduction, curtailment"
+		],
+		"english": "After that, the Space Program was cut back and the launch was canceled.",
+		"japanese": "それ以後、宇宙計画縮小が決まってロケット発射は中止になりました"
+	},
+	{
+		"word": "ふとっちょ",
+		"root": "ふとっちょ",
+		"definitions": [
+			"太っちょ[ふとっちょ] (n) fat person"
+		],
+		"english": "Well, if it ain't fat man, Palmer. How long were you figurin' on keepin' me waitin'!?",
+		"japanese": "よう、ふとっちょパルマー。待ってたぜ！"
+	},
+	{
+		"word": "お茶",
+		"root": "お茶",
+		"definitions": [
+			"お茶[おちゃ] (n) tea (usu. green),tea break (at work),tea ceremony"
+		],
+		"english": "Hey-hey! Tea!",
+		"japanese": "うひょ！　お茶だ！"
+	},
+	{
+		"word": "サトウ",
+		"root": "サトウ",
+		"definitions": [
+			"砂糖[さとう] (n) sugar",
+			"左党[さとう] (n) drinker, wine lover,left (wing), leftist",
+			"差等[さとう] (n) gradation"
+		],
+		"english": "Can I have some too? With lotsa sugar and honey and… oh yeah, don't forget the lard!",
+		"japanese": "わしにもちょうだい。サトウとハチミツたっぷりでラードも入れてね"
+	},
+	{
+		"word": "ハチミツ",
+		"root": "ハチミツ",
+		"definitions": [
+			"蜂蜜[はちみつ] (n) honey"
+		],
+		"english": "Can I have some too? With lotsa sugar and honey and… oh yeah, don't forget the lard!",
+		"japanese": "わしにもちょうだい。サトウとハチミツたっぷりでラードも入れてね"
+	},
+	{
+		"word": "ラード",
+		"root": "ラード",
+		"definitions": [
+			"ラード (n) lard"
+		],
+		"english": "Can I have some too? With lotsa sugar and honey and… oh yeah, don't forget the lard!",
+		"japanese": "わしにもちょうだい。サトウとハチミツたっぷりでラードも入れてね"
+	},
+	{
+		"word": "どっさり",
+		"root": "どっさり",
+		"definitions": [
+			"どっさり (adv, adv-to) heaps, a lot, plenty,with a thud"
+		],
+		"english": "With plenty of sugar and honey. Oh yeah, and don't forget the lard, too.",
+		"japanese": "サトウとハチミツたっぷりでラードもどっさり入れてね。うひょひょ！"
+	},
+	{
+		"word": "お話し",
+		"root": "お話し",
+		"definitions": [
+			"お話[おはなし] (n) story, tale"
+		],
+		"english": "I believe Palmer's going to take it. Why don't you talk to him?",
+		"japanese": "パルマーが持っていくそうです。お話ししてみたら？"
+	},
+	{
+		"word": "見当",
+		"root": "見当",
+		"definitions": [
+			"見当[けんとう] (n-suf) estimate, guess, conjecture, aim,direction, bearings,registration mark (printing),approximately, about, around"
+		],
+		"english": "We're going after Sephiroth. But seems like we've been going in the wrong direction.",
+		"japanese": "我々はセフィロスを追っている。ただ、どうやら今まで見当違いの方向を探していたようだ"
+	},
+	{
+		"word": "行く先",
+		"root": "行く先",
+		"definitions": [
+			"行く先[ゆくさき] (n) destination,whereabouts,future, prospects"
+		],
+		"english": "But now, we think we know where he's headed. But, we have to cross the ocean. That's why we want your plane…",
+		"japanese": "だが今はだいたい行く先がつかめてきたのでな。我々は海を越えなくてはならないんだ。それでお前の飛行機を……"
+	},
+	{
+		"word": "なんの",
+		"root": "なんの",
+		"definitions": [
+			"何の[なんの] (adj-f) what kind, what sort"
+		],
+		"english": "What d'ya want?",
+		"japanese": "で、なんの用でい？"
+	},
+	{
+		"word": "モン",
+		"root": "モン",
+		"definitions": [
+			"門[もん] (ctr) gate,branch of learning based on the teachings of a single master,division, phylum,counter for cannons",
+			"者[もの] (n) person",
+			"物[もの] (pref) thing, object, article, stuff, substance,one's things, possessions, property, belongings,things, something, anything, everything, nothing,quality,reason, the way of things,used to emphasize emotion, judgment, etc., used to indicate a common occurrence in the past (after a verb in past tense), used to indicate a general tendency, used to indicate something that should happen,item classified as ..., item related to ..., work of ...,cause of ..., cause for ...,somehow, somewhat, for some reason,really, truly",
+			"問[もん] (suf, ctr) counter for questions",
+			"紋[もん] (n) (family) crest, coat of arms",
+			"文[もん] (n) mon, [object Object],2.4 cm (traditional unit used to measure shoe sizes),letter, character, sentence,scripture, incantation",
+			"もの (prt) indicates reason or excuse,indicates dissatisfaction, indicates desire to be pampered or indulged"
+		],
+		"english": "Wow! Not bad for a kid.",
+		"japanese": "おっ！　若いモンにしちゃなかなか感心じゃねえか"
+	},
+	{
+		"word": "技術",
+		"root": "技術",
+		"definitions": [
+			"技術[ぎじゅつ] (n) technology, engineering,technique, skill,art, craft"
+		],
+		"english": "You know Shinra developed a lot of technological gadgets during the meaningless war, right?",
+		"japanese": "長くてくだらない戦争中に神羅カンパニーがいろんな技術を開発したのは知ってんだろ？"
+	},
+	{
+		"word": "スカ",
+		"root": "スカ",
+		"definitions": [
+			"スカ (n) ska (type of Jamaican music)",
+			"すか (n) nonsense,loss (on scratch lottery tickets, etc.)"
+		],
+		"english": "They put a major budget into it and made prototype after prototype! Finally, they completed Shinra No. 26.",
+		"japanese": "予算もバカスカつぎこんで試作、試作、また試作！で、完成したのが、この神羅２６号"
+	},
+	{
+		"word": "つぎこん",
+		"root": "つぎこむ",
+		"definitions": [
+			"注ぎ込む[つぎこむ] (v5m, vt) to invest in, to sink money into, to put into, to lay out (funds), to inject, to impregnate, to infuse, to instill, to implant, to imbue, to focus (attention, efforts)"
+		],
+		"english": "They put a major budget into it and made prototype after prototype! Finally, they completed Shinra No. 26.",
+		"japanese": "予算もバカスカつぎこんで試作、試作、また試作！で、完成したのが、この神羅２６号"
+	},
+	{
+		"word": "世界一",
+		"root": "世界一",
+		"definitions": [
+			"世界一[せかいいち] (n-adv, n-t) best in the world"
+		],
+		"english": "They chose the best pilot in Shinra… no, in the world--me. I mean, come on.",
+		"japanese": "パイロットには神羅一、いや世界一のウデを持つオレ様が選ばれた。ま、当然と言えば当然だわな"
+	},
+	{
+		"word": "いよいよ",
+		"root": "いよいよ",
+		"definitions": [
+			"愈[いよいよ] (adv) more and more, all the more, increasingly,at last, finally, beyond doubt,(at the) last moment, worst possible time"
+		],
+		"english": "And finally we get to the day of the launch. Everything was goin' well…",
+		"japanese": "いよいよ迎えた打ち上げの日。何もかも上手くいってた"
+	},
+	{
+		"word": "はお",
+		"root": "はう",
+		"definitions": [
+			"這う[はう] (v5u, vi) to creep, to crawl",
+			"ハウ (n) how"
+		],
+		"english": "But, because of that dumb-ass Shera, the launch got messed up. That's why they became so anal!",
+		"japanese": "ところがあのノロマのシエラのせいで打ち上げはおじゃん。それがケチのつきはじめよ"
+	},
+	{
+		"word": "見向き",
+		"root": "見向く",
+		"definitions": [
+			"見向く[みむく] (v5k, vi) to look around, to look towards (us)"
+		],
+		"english": "Then, it was all over once they found out Mako energy was profitable. They didn't even so much as look at space exploration.",
+		"japanese": "魔晄エネルギーが金になるとわかったらもう終わりだ。宇宙計画なんて誰も見向きもしねえ"
+	},
+	{
+		"word": "カネ",
+		"root": "カネ",
+		"definitions": [
+			"鐘[かね] (n) bell (often a large hanging bell), chime",
+			"金[かね] (n) money,metal",
+			"お歯黒[おはぐろ] (n) tooth blackening,tooth-blackening dye",
+			"鉦[かね] (n) gong, handbell",
+			"かね (prt) interrogative sentence-ending particle expressing doubt",
+			"矩[かね] (n) carpenter's square,perpendicularity, straightness,model, standard",
+			"カネ (n) money (esp. dirty money), loot, hardtack, dough"
+		],
+		"english": "Money, moola, dinero! My dream was just a financial number for them!",
+		"japanese": "かね、金、カネだぁ？オレ様の夢をソロバンかんじょうだけでぼうにふるない！"
+	},
+	{
+		"word": "ソロバン",
+		"root": "ソロバン",
+		"definitions": [
+			"算盤[そろばん] (n) abacus"
+		],
+		"english": "Money, moola, dinero! My dream was just a financial number for them!",
+		"japanese": "かね、金、カネだぁ？オレ様の夢をソロバンかんじょうだけでぼうにふるない！"
+	},
+	{
+		"word": "日にち",
+		"root": "日にち",
+		"definitions": [
+			"日日[ひにち] (n) the number of days, date"
+		],
+		"english": "Everyday, it tilts a little bit more.",
+		"japanese": "いまじゃ、毎日にちょこっとずつかたむいてらあ"
+	},
+	{
+		"word": "ちぬ",
+		"root": "ちぬる",
+		"definitions": [
+			"血塗る[ちぬる] (v5r, vi) to smear with blood, to kill"
+		],
+		"english": "At this rate, I don't know which'll be first, this thing falling over or me gettin' outta here.",
+		"japanese": "このぶんだとコイツが倒れるのが先かオレ様がおっちぬのが先かってくらいだ……"
+	},
+	{
+		"word": "ちげ",
+		"root": "ちげ",
+		"definitions": [
+			"チゲ (n) Korean stew, Korean hot pot"
+		],
+		"english": "Yeah! It must be news about restarting the Space Program.",
+		"japanese": "おう！　きっとよ、宇宙計画が再開されるって話にちげえねえ"
+	},
+	{
+		"word": "適当",
+		"root": "適当",
+		"definitions": [
+			"適当[てきとう] (adj-na, n) suitable, proper, appropriate, adequate, fit,noncommittal, vague, equivocal, unserious, irresponsible"
+		],
+		"english": "Ummm… Just look around.",
+		"japanese": "ん～、そのへん適当に見て回ってな"
+	},
+	{
+		"word": "カメ",
+		"root": "カメ",
+		"definitions": [
+			"亀[かめ] (n) tortoise, turtle,heavy drinker,turtle crest, turtle mon",
+			"甕[かめ] (n) earthenware pot",
+			"カメヤ (n) Western dog"
+		],
+		"english": "Hey! Get your ass in gear! You work like a snail!",
+		"japanese": "おら、そんなカメみたいにちんたら仕事してるんじゃねえよ"
+	},
+	{
+		"word": "まちくたびれ",
+		"root": "まちくたびれる",
+		"definitions": [
+			"待ちくたびれる[まちくたびれる] (v1) to get tired of waiting"
+		],
+		"english": "Even the moon'd get tired waitin' around for your ass!",
+		"japanese": "お月さんがまちくたびれてそっぽ向いちまうぜ！"
+	},
+	{
+		"word": "そっぽ",
+		"root": "そっぽ",
+		"definitions": [
+			"外方[そっぽ] (n) the other way"
+		],
+		"english": "Even the moon'd get tired waitin' around for your ass!",
+		"japanese": "お月さんがまちくたびれてそっぽ向いちまうぜ！"
+	},
+	{
+		"word": "ボンベ",
+		"root": "ボンベ",
+		"definitions": [
+			"ボンベ (n) compressed gas cylinder"
+		],
+		"english": "Don't take so much time checkin' that *%$^# oxygen tank!",
+		"japanese": "そんな酸素ボンベなんかをいつまでもガチャガチャチェックしてんじゃねえよ！"
+	},
+	{
+		"word": "ガチャガチャ",
+		"root": "ガチャガチャ",
+		"definitions": [
+			"ガチャガチャ (n) clatter, clank, rattling,capsule toy vending machine"
+		],
+		"english": "Don't take so much time checkin' that *%$^# oxygen tank!",
+		"japanese": "そんな酸素ボンベなんかをいつまでもガチャガチャチェックしてんじゃねえよ！"
+	},
+	{
+		"word": "天地",
+		"root": "天地",
+		"definitions": [
+			"天地[てんち] (n) heaven and earth, the universe, nature, top and bottom, realm, sphere, world,top and bottom,gods of heaven and earth"
+		],
+		"english": "That thing wouldn't break even if hell froze over.",
+		"japanese": "そんなもん、天地がひっくり返ったって壊れやしねえんだから"
+	},
+	{
+		"word": "ひっくり返っ",
+		"root": "ひっくり返る",
+		"definitions": [
+			"ひっくり返る[ひっくりかえる] (v5r, vi) to be overturned, to be reversed, to turn over, to capsize,to fall down, to tumble down, to topple over, to lie on one's back"
+		],
+		"english": "That thing wouldn't break even if hell froze over.",
+		"japanese": "そんなもん、天地がひっくり返ったって壊れやしねえんだから"
+	},
+	{
+		"word": "ヘチマ",
+		"root": "ヘチマ",
+		"definitions": [
+			"糸瓜[へちま] (n) sponge gourd (Luffa aegyptiaca), Egyptian cucumber, Vietnamese luffa, dishrag gourd,loofah, loofa, vegetable sponge,something useless"
+		],
+		"english": "No buts!!",
+		"japanese": "でももヘチマもねえ！！"
+	},
+	{
+		"word": "手ぎわ",
+		"root": "手ぎわ",
+		"definitions": [
+			"手際[てぎわ] (n) performance, execution, skill, dexterity, tact"
+		],
+		"english": "You're not stupid, so be more efficient!",
+		"japanese": "おめぇはバカじゃねぇんだからもちっと、手ぎわよくやれよ"
+	},
+	{
+		"word": "計器",
+		"root": "計器",
+		"definitions": [
+			"計器[けいき] (n) meter, gauge"
+		],
+		"english": "Instrument panel…all clear. Shinra No. 26, ready for launch.",
+		"japanese": "計器オールクリア。神羅２６号、発射準備よし"
+	},
+	{
+		"word": "管制",
+		"root": "管制",
+		"definitions": [
+			"管制[かんせい] (n, vs) control"
+		],
+		"english": "Control",
+		"japanese": "管制官"
+	},
+	{
+		"word": "カウントダウン",
+		"root": "カウントダウン",
+		"definitions": [
+			"カウントダウン (n) countdown"
+		],
+		"english": "Engine pressure rising. Shinra No. 26, 3 minutes to launch. Beginning countdown.",
+		"japanese": "エンジン圧力上昇中。神羅２６号、発射３分前。カウントダウン開始"
+	},
+	{
+		"word": "起っ",
+		"root": "起る",
+		"definitions": [
+			"起こる[おこる] (v5r, vi) to occur, to happen"
+		],
+		"english": "What the? What happened!?",
+		"japanese": "な、なんだ？　何が起った！？"
+	},
+	{
+		"word": "船内",
+		"root": "船内",
+		"definitions": [
+			"船内[せんない] (n, adj-no) on-board ship, inboard"
+		],
+		"english": "A mechanic is still in the engine section of the rocket!",
+		"japanese": "まだ船内のエンジン部にメカニックが残っています！"
+	},
+	{
+		"word": "音声",
+		"root": "音声",
+		"definitions": [
+			"音声[おんせい] (n) voice, speech, sound of a voice,sound (e.g. of a TV)"
+		],
+		"english": "I don't know. Activating the intercom in the engine section.",
+		"japanese": "わかりません。エンジン部と音声つなぎます！"
+	},
+	{
+		"word": "つなぎ",
+		"root": "つなぐ",
+		"definitions": [
+			"繋ぐ[つなぐ] (v5g, vt) to connect, to link together,to tie, to fasten, to restrain,to maintain, to preserve, to keep,to transfer (phone call), to put a person through,to hedge, to buy or sell forward",
+			"綱具[つなぐ] (n) rigging"
+		],
+		"english": "I don't know. Activating the intercom in the engine section.",
+		"japanese": "わかりません。エンジン部と音声つなぎます！"
+	},
+	{
+		"word": "満足",
+		"root": "満足",
+		"definitions": [
+			"満足[まんぞく] (adj-na, n) satisfaction, contentment, complacency,sufficient, enough, adequate, proper"
+		],
+		"english": "I was still concerned. The results of the oxygen tank test weren't satisfactory.",
+		"japanese": "どうしても心配だったんです。酸素ボンベのテストで満足いく結果がえられなくて"
+	},
+	{
+		"word": "うんこ",
+		"root": "うんこ",
+		"definitions": [
+			"うんこ (n, vs) poop, faeces, feces"
+		],
+		"english": "It's gonna get so hot in there that there ain't gonna be #$!% left when we blast off!",
+		"japanese": "そこはなあ、打ち上げのときうんこッカスも残んねぇほどバカ熱くなるんだ！"
+	},
+	{
+		"word": "一瞬",
+		"root": "一瞬",
+		"definitions": [
+			"一瞬[いっしゅん] (n, n-adv, n-t) instant, moment, for an instant"
+		],
+		"english": "You're gonna be burnt to a crisp! You're gonna die! You know that, doncha!?",
+		"japanese": "そんなとこにいたら一瞬で黒コゲだぞ！おまえ、死んじまうんだぞ。わかってんのか！"
+	},
+	{
+		"word": "直れ",
+		"root": "直る",
+		"definitions": [
+			"治る[なおる] (v5r, vi) to be cured, to get well, to be healed,to get mended, to be repaired, to be fixed"
+		],
+		"english": "If I can just fix this, the launch will be a success. I'm almost done.",
+		"japanese": "これさえ直ればロケットは打ち上げできるんです。もう少しで終わりますから"
+	},
+	{
+		"word": "間に合わ",
+		"root": "間に合う",
+		"definitions": [
+			"間に合う[まにあう] (v5u, vi) to be in time for,to serve (suit, meet) the purpose, to be good enough, to be enough"
+		],
+		"english": "CID, We must start the countdown. We won't make it if we don't!",
+		"japanese": "CID、カウントダウン開始だ。もう、間に合わない！"
+	},
+	{
+		"word": "ケ月",
+		"root": "ケ月",
+		"definitions": [
+			"ヶ月[かげつ] (ctr) months (period of)"
+		],
+		"english": "What are you going to do, CID? If we cancel now, it'll be another six months until the next launch!",
+		"japanese": "どうするCID？ここで中止すれば、次の打ち上げまで６ケ月もかかっちまうぞ！"
+	},
+	{
+		"word": "始動",
+		"root": "始動",
+		"definitions": [
+			"始動[しどう] (n, vs) starting (machine, engine, car, etc.), activation"
+		],
+		"english": "Starting engine!",
+		"japanese": "エンジン始動する！"
+	},
+	{
+		"word": "点火",
+		"root": "点火",
+		"definitions": [
+			"点火[てんか] (n, vs) ignition, lighting, firing, setting off",
+			"点火[とぼし] (n) light, lamp"
+		],
+		"english": "Ignite Engine!",
+		"japanese": "エンジン点火！"
+	},
+	{
+		"word": "温度",
+		"root": "温度",
+		"definitions": [
+			"温度[おんど] (n) temperature"
+		],
+		"english": "15 seconds until ignition. Internal temperature rising.",
+		"japanese": "エンジン点火まで１５秒。船内温度上昇中"
+	},
+	{
+		"word": "ハナ",
+		"root": "ハナ",
+		"definitions": [
+			"花[はな] (adj-no) flower, blossom, bloom, petal,cherry blossom,beauty,blooming (esp. of cherry blossoms),ikebana,hanafuda,(the) best,glorious, lovely",
+			"鼻[はな] (n) nose",
+			"端[はし] (n) end (e.g. of street), tip, point, edge, margin,beginning, start, first,odds and ends, scrap, odd bit, least",
+			"洟[はな] (n) snivel, nasal mucus, snot"
+		],
+		"english": "We are so proud to be a part of the launch of Shinra No. 26.",
+		"japanese": "ボクたちもハナが高いですよ。この神羅２６号の打ち上げに関われたなんて"
+	},
+	{
+		"word": "のり",
+		"root": "のり",
+		"definitions": [
+			"海苔[のり] (n) nori, laver, [object Object]",
+			"糊[のり] (n) paste, glue,clothing starch",
+			"乗り[のり] (n) riding, ride,spread (of paints),-seater (e.g. two-seater),(getting into the) mood, (entering into the) spirit, energy, enthusiasm, rhythm, feeling",
+			"典[のり] (n) rule, law"
+		],
+		"english": "We're praying for your safety!",
+		"japanese": "ご無事をおいのりしています！"
+	},
+	{
+		"word": "やくしろ",
+		"root": "やくする",
+		"definitions": [
+			"訳する[やくする] (vs-s, vt) to translate, to interpret",
+			"約する[やくする] (vs-s, vt) to promise,to abridge, to simplify, to shorten,to reduce"
+		],
+		"english": "Come on, Shera…hurry up… You're gonna die…",
+		"japanese": "シエラ……はやくしろ……このままじゃ死んじまうんだぞ……"
+	},
+	{
+		"word": "マーク",
+		"root": "マーク",
+		"definitions": [
+			"マーク (n) mark, symbol, insignia, logo, label, emblem,to mark, to put a mark on,trademark,paying attention to, focusing on, watching, guarding, marking,registering a record (in sport, etc.),Mach (OS kernel)"
+		],
+		"english": "There's a Shinra logo on it. Tiny Bronco… This is cool.",
+		"japanese": "神羅のマークがついている。タイニー・ブロンコか……いいな、これ"
+	},
+	{
+		"word": "独り占め",
+		"root": "独り占め",
+		"definitions": [
+			"独り占め[ひとりじめ] (n, vs) monopolising, monopolizing, hogging, having all to oneself"
+		],
+		"english": "Shinra always keeps the best things for themselves. Let's take it!",
+		"japanese": "神羅はよ、こういう便利な物は絶対に独り占めしちまうんだよな。いただいちまおうぜ！"
+	},
+	{
+		"word": "またの名",
+		"root": "またの名",
+		"definitions": [
+			"またの名[またのな] (exp, n) alias, another name"
+		],
+		"english": "Nanaki, otherwise known as RED XIII.",
+		"japanese": "ナナキ、またの名をRED XIII"
+	},
+	{
+		"word": "そわそわ",
+		"root": "そわそわ",
+		"definitions": [
+			"そわそわ (adv, adv-to, vs) restlessly, nervously, uneasily, in a fidget"
+		],
+		"english": "President Rufus is scheduled to come here. The Captain's been so restless all morning.",
+		"japanese": "新社長のルーファウスさんがここへいらっしゃるそうなんです。艇長は朝からそわそわしてますわ"
+	},
+	{
+		"word": "とびあがっ",
+		"root": "とびあがる",
+		"definitions": [
+			"跳び上がる[とびあがる] (v5r, vi) to spring, to jump up, to fly up, to skip"
+		],
+		"english": "It's taking off.",
+		"japanese": "とびあがっちゃうよ"
+	},
+	{
+		"word": "おとせ",
+		"root": "おとす",
+		"definitions": [
+			"落とす[おとす] (v5s, vt) to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind,to clean off (dirt, makeup, paint, etc.), to remove (e.g. stains or facial hair), to lose, to spend money at a certain place, to omit, to leave out, to secretly let escape,to lose (a match), to reject (an applicant), to fail (a course), to defeat (in an election),to lower (e.g. shoulders or voice), to lessen (e.g. production or body weight), to worsen (quality), to reduce (e.g. rank or popularity), to speak badly of, to make light of, to fall into straitened circumstances,to fall into (e.g. a dilemma or sin), to make one's own, to have one's bid accepted, to force surrender, to take (e.g. an enemy camp or castle), to forcefully convince, to press for a confession, to deal with,to download, to copy from a computer to another medium,to make someone swoon (judo),to finish a story (e.g. with the punch line),to finish (a period, e.g. of fasting)"
+		],
+		"english": "CLOUD!? Don't let 'em get away! Shoot 'em down!",
+		"japanese": "CLOUD！？逃がすな！　撃ちおとせ！"
+	},
+	{
+		"word": "尾翼",
+		"root": "尾翼",
+		"definitions": [
+			"尾翼[びよく] (n) tail (of an aircraft), empennage, tail assembly"
+		],
+		"english": "%#^@!! The tail's been hit!",
+		"japanese": "シィィーット！！尾翼がやられてるじゃねえか！"
+	},
+	{
+		"word": "不時着",
+		"root": "不時着",
+		"definitions": [
+			"不時着[ふじちゃく] (n, vs) emergency landing, forced landing"
+		],
+		"english": "Emergency landing…",
+		"japanese": "不時着か……"
+	},
+	{
+		"word": "衝撃",
+		"root": "衝撃",
+		"definitions": [
+			"衝撃[しょうげき] (n, vs, adj-no) shock, impact, crash"
+		],
+		"english": "This's gonna be a big splash. Hold on to your drawers and don't piss in 'em!",
+		"japanese": "さあ、でっけぇ衝撃がくるぜ。チビらねえようにパンツをしっかりおさえてな！"
+	},
+	{
+		"word": "おさえ",
+		"root": "おさえる",
+		"definitions": [
+			"押さえる[おさえる] (v1, vt) to pin down, to hold down, to press down,to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part),to get a hold of, to obtain, to seize, to catch, to arrest,to grasp (a point), to comprehend,to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain",
+			"抑える[おさえる] (v1, vt) to keep within limits (e.g. spending), to restrain (e.g. emotions), to control, to curb, to hold in check,to hold back (e.g. an enemy), to check, to curb, to contain, to quell, to subdue, to suppress, to repress"
+		],
+		"english": "This's gonna be a big splash. Hold on to your drawers and don't piss in 'em!",
+		"japanese": "さあ、でっけぇ衝撃がくるぜ。チビらねえようにパンツをしっかりおさえてな！"
+	},
+	{
+		"word": "ボート",
+		"root": "ボート",
+		"definitions": [
+			"ボート (n) boat, rowing boat"
+		],
+		"english": "Can't we use it as a boat?",
+		"japanese": "ボートのかわりに使えるんじゃないか？"
+	},
+	{
+		"word": "さんせ",
+		"root": "さんする",
+		"definitions": [
+			"産する[さんする] (vs-s, vi, vt) to bear (a child), to be born,to produce, to yield, to be produced, to be yielded",
+			"賛する[さんする] (vs-s) to approve, to agree, to assent, to endorse, to support, to back,to inscribe,to praise, to laud",
+			"参する[さんする] (vs-s, vi) to participate, to take part, to engage in, to be involved"
+		],
+		"english": "I'm all for it.",
+		"japanese": "さんせい、よ"
+	},
+	{
+		"word": "神殿",
+		"root": "神殿",
+		"definitions": [
+			"神殿[しんでん] (n) temple, sacred place, shrine, sanctuary, tabernacle"
+		],
+		"english": "Rufus was goin' after Sephiroth to the Temple of the Ancients.",
+		"japanese": "ルーファウスのヤツはセフィロスを追って【古代種の神殿】に行くってほざいていたが"
+	},
+	{
+		"word": "ほざい",
+		"root": "ほざく",
+		"definitions": [
+			"ほざく (v5k, vt) to say, to spatter, to prate, to prattle, to babble"
+		],
+		"english": "Rufus was goin' after Sephiroth to the Temple of the Ancients.",
+		"japanese": "ルーファウスのヤツはセフィロスを追って【古代種の神殿】に行くってほざいていたが"
+	},
+	{
+		"word": "むすこ",
+		"root": "むすこ",
+		"definitions": [
+			"息子[むすこ] (n) son,penis"
+		],
+		"english": "Dunno. That numbskull kid was tellin' me he was headin 'The wrong direction'… so maybe it's off this way?",
+		"japanese": "さあな。あのクソむすこは『見当違いの方向』って言ってたからここからかなり離れた所じゃないのか？"
+	},
+	{
+		"word": "陸地",
+		"root": "陸地",
+		"definitions": [
+			"陸地[りくち] (n, adj-no) land"
+		],
+		"english": "Let's just head for land and get some information. Temple of the Ancients… that name bothers me.",
+		"japanese": "情報をとるためにとにかく陸地をさがそう。【古代種の神殿】……気になる名前だな……"
+	}
+]

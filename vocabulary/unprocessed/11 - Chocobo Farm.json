@@ -1,0 +1,992 @@
+[
+	{
+		"word": "よせ",
+		"root": "よせ",
+		"definitions": [
+			"寄せ[よせ] (n-suf) last moves (in go, shogi, or chess), endgame,gathering, collecting, coming together",
+			"寄席[よせ] (n) entertainment hall (for rakugo, manzai, magic, music, etc.), vaudeville theater (theatre), music hall"
+		],
+		"english": "Received \"Chocobo Lure\" Materia!",
+		"japanese": "『チョコボよせ』のマテリアを手にいれた！"
+	},
+	{
+		"word": "湿地",
+		"root": "湿地",
+		"definitions": [
+			"湿地[しっち] (n) damp ground, wetland, bog, marsh",
+			"占地[しめじ] (n) Lyophyllum shimeji (species of edible mushroom),euagaric fungus (in grocery stores, usu. refers to cultivated field mushrooms, etc.)"
+		],
+		"english": "Thinking of crossing the marshes?",
+		"japanese": "お客さんたち、この先の湿地帯をこえるつもりですか？"
+	},
+	{
+		"word": "たけ",
+		"root": "たけ",
+		"definitions": [
+			"竹[たけ] (n) bamboo (any grass of subfamily Bambusoideae),middle (of a three-tier ranking system)",
+			"茸[きのこ] (n) mushroom",
+			"岳[たけ] (n, suf) peak,mountain",
+			"丈[たけ] (n) height, stature,length (esp. of clothing),all (one has), everything,magnificence (of a waka poem, etc.)",
+			"他家[たけ] (n) another family, another house"
+		],
+		"english": "It's a serpent-like creature over 30 feet tall!!",
+		"japanese": "身のたけ１０メートルにならんとするヘビのバケモノ！！"
+	},
+	{
+		"word": "ヘビ",
+		"root": "ヘビ",
+		"definitions": [
+			"蛇[へび] (n) snake,serpent, large snake"
+		],
+		"english": "It's a serpent-like creature over 30 feet tall!!",
+		"japanese": "身のたけ１０メートルにならんとするヘビのバケモノ！！"
+	},
+	{
+		"word": "聞きつけ",
+		"root": "聞きつける",
+		"definitions": [
+			"聞きつける[ききつける] (v1, vt) to hear, to catch (the sound of something),to hear about (rumour, etc.), to overhear, to learn of (something),to get used to hearing"
+		],
+		"english": "It detects the footsteps of anyone in the marshes.",
+		"japanese": "湿地帯を進むズボズボ音を聞きつけ…"
+	},
+	{
+		"word": "おそいかかる",
+		"root": "おそいかかる",
+		"definitions": [
+			"襲いかかる[おそいかかる] (v5r, vi) to rush on, to attack, to swoop down on"
+		],
+		"english": "And then, BAM!! It attacks!!!",
+		"japanese": "ウギャーッとおそいかかる！！！"
+	},
+	{
+		"word": "牧場",
+		"root": "牧場",
+		"definitions": [
+			"牧場[ぼくじょう] (n) farm (livestock), ranch (US), station (Aus, NZ),pasture land, meadow, grazing land"
+		],
+		"english": "To avoid that, buy a Chocobo at me and Choco Billy's Chocobo Farm.",
+		"japanese": "そうならないためにも！グリン＆グリングリン牧場のチョコボをお買い上げください"
+	},
+	{
+		"word": "買い上げ",
+		"root": "買い上げる",
+		"definitions": [
+			"買い上げる[かいあげる] (v1, vt) to buy (of a government, public agency, etc. from a private citizen), to purchase,to buy up (all of something)"
+		],
+		"english": "To avoid that, buy a Chocobo at me and Choco Billy's Chocobo Farm.",
+		"japanese": "そうならないためにも！グリン＆グリングリン牧場のチョコボをお買い上げください"
+	},
+	{
+		"word": "買い上げ",
+		"root": "買い上げ",
+		"definitions": [
+			"買い上げ[かいあげ] (n) buying, purchasing, procurement"
+		],
+		"english": "To purchase a Chocobo, please talk to my grandson. He's in the Chocobo stables at the far right end of the farm.",
+		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります孫にお申し付け下さい"
+	},
+	{
+		"word": "小屋",
+		"root": "小屋",
+		"definitions": [
+			"小屋[こや] (n) hut, cabin, shed, (animal) pen,small theatre (theater), temporary playhouse, circus tent, booth,one's own house"
+		],
+		"english": "To purchase a Chocobo, please talk to my grandson. He's in the Chocobo stables at the far right end of the farm.",
+		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります孫にお申し付け下さい"
+	},
+	{
+		"word": "孫",
+		"root": "孫",
+		"definitions": [
+			"孫[まご] (n) grandchild"
+		],
+		"english": "To purchase a Chocobo, please talk to my grandson. He's in the Chocobo stables at the far right end of the farm.",
+		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります孫にお申し付け下さい"
+	},
+	{
+		"word": "申し付け",
+		"root": "申し付ける",
+		"definitions": [
+			"申し付ける[もうしつける] (v1, vt) to order, to instruct"
+		],
+		"english": "To purchase a Chocobo, please talk to my grandson. He's in the Chocobo stables at the far right end of the farm.",
+		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります孫にお申し付け下さい"
+	},
+	{
+		"word": "真っ黒",
+		"root": "真っ黒",
+		"definitions": [
+			"真っ黒[まっくろ] (adj-na, n) pitch black"
+		],
+		"english": "Without a Chocobo, the Midgar Zolom probably got him. It was a man in a black cape.",
+		"japanese": "チョコボなしで湿地帯なんてきっとミドガルズオルムにやられちまったでしょうな。真っ黒なマントの人でしたがね"
+	},
+	{
+		"word": "やすく",
+		"root": "やすい",
+		"definitions": [
+			"安い[やすい] (adj-i) cheap, inexpensive,calm, peaceful, quiet",
+			"易い[やすい] (aux-adj, adj-i) easy,likely to ..., have a tendency to ...,easy to ..."
+		],
+		"english": "Each level it increases, makes it easier for you to find a Chocobo.",
+		"japanese": "あの、マテリアはレベルがあがるほどチョコボに会いやすくなるんですよ"
+	},
+	{
+		"word": "足り",
+		"root": "足る",
+		"definitions": [
+			"足る[たる] (v5r, vi) to be sufficient, to be enough,to be worth doing, to be worthy of, to deserve,to do (the job), to serve, to answer"
+		],
+		"english": "… Ummm, you don't have enough…",
+		"japanese": "…………あの～、お金が足りませんが…"
+	},
+	{
+		"word": "商",
+		"root": "商",
+		"definitions": [
+			"商[しょう] (n, n-suf) quotient,dealing, dealer, store,second degree (of the Japanese amp Chinese pentatonic scale),Shang (dynasty of China)"
+		],
+		"english": "No, I'm not trying to persuade you for money. It's just because of the way things are in the world.",
+		"japanese": "いえいえ、商売っ気をだしているんではなくてですな。こういう時だからこそ！"
+	},
+	{
+		"word": "ぐうぜん",
+		"root": "ぐうぜん",
+		"definitions": [
+			"偶然[ぐうぜん] (n) coincidence, chance, accident, fortuity,by chance, unexpectedly, accidentally,contingency (philosophy)"
+		],
+		"english": "It just so happens that we aren't taking care of any Chocobos for anyone else, so…",
+		"japanese": "今はぐうぜんにも、うちの牧場には他のお客様からおあずかりしているチョコボもいませんし"
+	},
+	{
+		"word": "育成",
+		"root": "育成",
+		"definitions": [
+			"育成[いくせい] (n, vs) rearing, training, nurture, cultivation, promotion"
+		],
+		"english": "How do you raise them?",
+		"japanese": "育成の話が聞きたい"
+	},
+	{
+		"word": "育て",
+		"root": "育て",
+		"definitions": [
+			"育て[そだて] (n) bringing up, raising"
+		],
+		"english": "To raise a Chocobo, you'll need a Chocobo Stable'.",
+		"japanese": "チョコボをお育てになるには『チョコぼう』と呼ばれる部屋みたいなものが必要となりまして"
+	},
+	{
+		"word": "そちら",
+		"root": "そちら",
+		"definitions": [
+			"其方[そちら] (pn) that way (direction distant from the speaker, close to the listener),there (place distant from the speaker, close to the listener),that one (something close to the listener),you, your family, your company,that person (someone close to the listener)"
+		],
+		"english": "And they rent for 10000 gil. Currently, I can rent out up to 6 Chocobo Stables'.",
+		"japanese": "そちらを１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます"
+	},
+	{
+		"word": "貸し",
+		"root": "貸し",
+		"definitions": [
+			"貸し[かし] (n) loan, lending,favor, favour, debt, obligation,creditor, method of lending, credit side"
+		],
+		"english": "And they rent for 10000 gil. Currently, I can rent out up to 6 Chocobo Stables'.",
+		"japanese": "そちらを１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます"
+	},
+	{
+		"word": "６つ",
+		"root": "６つ",
+		"definitions": [
+			"六つ[むっつ] (num) six"
+		],
+		"english": "And they rent for 10000 gil. Currently, I can rent out up to 6 Chocobo Stables'.",
+		"japanese": "そちらを１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます"
+	},
+	{
+		"word": "借り",
+		"root": "借りる",
+		"definitions": [
+			"借りる[かりる] (v1, vt) to borrow, to have a loan,to rent, to hire"
+		],
+		"english": "If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.",
+		"japanese": "こちら、お借りいただきますとお客様が捕まえになられましたチョコボを一時的に外のサクの中に４匹までおあずかりいたしまして"
+	},
+	{
+		"word": "一時",
+		"root": "一時",
+		"definitions": [
+			"一時[いちじ] (n) one o'clock,once, at one time, formerly, before,for a time, for a while, for the time being, for the present, for the moment, temporarily,a time, one time, once",
+			"一時[ひととき] (n-t, n-adv) moment, a (short) time, a while,former times,two-hour period"
+		],
+		"english": "If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.",
+		"japanese": "こちら、お借りいただきますとお客様が捕まえになられましたチョコボを一時的に外のサクの中に４匹までおあずかりいたしまして"
+	},
+	{
+		"word": "サク",
+		"root": "サク",
+		"definitions": [
+			"裂く[さく] (v5k, vt) to tear, to rip up,to cut up, to cleave, to cut open (esp. the abdomen),to forcibly separate (e.g. two lovers),to spare (time, money, etc.), to use part of something,to have a tattoo in the corner of one's eye",
+			"作[さく] (n) work (e.g. of art), production,harvest, cultivation, farming, crop, yield,technique",
+			"策[さく] (n, n-suf) plan, policy, means, measure, stratagem, scheme",
+			"咲く[さく] (v5k, vi) to bloom",
+			"昨[さく] (pref) last (year), yesterday",
+			"柵[さく] (n) fence, paling, railing",
+			"さく (n) block (usu. of fish for sashimi)",
+			"削[さく] (n) plane, sharpen, whittle, pare, shave (leather), scrape off, crossout, reduce, curtail",
+			"避く[さく] (v5k, vt) to avoid",
+			"朔[さく] (n) new moon,first day of the lunar month,(in ancient China) next year's calendar and decrees (distributed by the Emperor at year's end)",
+			"爵[しゃく] (n) jue (ancient 3-legged Chinese wine pitcher, usu. made of bronze),peerage (hereditary title bestowed by the emperor)",
+			"蒴[さく] (n) capsule (moss sporangium),capsule (type of dehiscent fruit)",
+			"簀[す] (n) mat (made of pieces of split bamboo or reeds tied together)",
+			"冊[さく] (n) imperial edict to confer nobility titles (in ancient China)",
+			"索[さく] (n) rope, cord"
+		],
+		"english": "If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.",
+		"japanese": "こちら、お借りいただきますとお客様が捕まえになられましたチョコボを一時的に外のサクの中に４匹までおあずかりいたしまして"
+	},
+	{
+		"word": "後日",
+		"root": "後日",
+		"definitions": [
+			"後日[ごじつ] (n-adv, n-t) in the future, another day, later"
+		],
+		"english": "At a later date, you can select the Chocobo that you would like to put in your Chocobo Stable'.",
+		"japanese": "後日、お客様が『チョコぼう』に選んで、お入れになる形になります"
+	},
+	{
+		"word": "入れ",
+		"root": "入れ",
+		"definitions": [
+			"入れ[いれ] (n-suf) container, receptacle"
+		],
+		"english": "At a later date, you can select the Chocobo that you would like to put in your Chocobo Stable'.",
+		"japanese": "後日、お客様が『チョコぼう』に選んで、お入れになる形になります"
+	},
+	{
+		"word": "ゆう",
+		"root": "ゆう",
+		"definitions": [
+			"言う[いう] (v5u) to say, to utter, to declare,to name, to call,to go (e.g. \"the alarm went ping\"), to make a noise",
+			"結う[ゆう] (v5u, vt) to do up (hair), to dress, to arrange,to tie, to bind, to fasten, to make (a fence)",
+			"有[ゆう] (n, n-pref) existence,possession, having,limited company",
+			"夕[ゆう] (n-adv, n-t) evening",
+			"優[ゆう] (n) gentle,elegant, classy,superior, skilled,excellent (in marking, grading, etc.),actor",
+			"勇[ゆう] (n) bravery, courage, heroism",
+			"柚子[ゆず] (n) yuzu (Citrus ichangensis x C. reticulata)",
+			"木綿[ゆう] (n) string made of cut steamed, soaked mulberry bark fibers",
+			"尤[ゆう] (adj-nari) superb, outstanding",
+			"雄[ゆう] (n) male, man,excellence, greatness, best (of), great person, leading figure"
+		],
+		"english": "We don't have enough room to rent out more than 6 here…",
+		"japanese": "こちらも、６つ以上お貸しするよゆうがありませんので…"
+	},
+	{
+		"word": "ねこ",
+		"root": "ねこ",
+		"definitions": [
+			"猫[ねこ] (n) cat,shamisen,geisha,wheelbarrow,clay bed-warmer,bottom, [object Object]"
+		],
+		"english": "Someone once told me there is a Chocobo Sage'…somewhere.",
+		"japanese": "人から聞いた話なんですがねこの世界のどこかにチョコボせんにんなんて呼ばれてる人が"
+	},
+	{
+		"word": "わずらわす",
+		"root": "わずらわす",
+		"definitions": [
+			"煩わす[わずらわす] (v5s) to trouble, to bother, to annoy, to give trouble"
+		],
+		"english": "Chocobos aren't hard to take care of.",
+		"japanese": "チョコボを育てるのに、お客様の手をわずらわす事はありません"
+	},
+	{
+		"word": "普段",
+		"root": "普段",
+		"definitions": [
+			"普段[ふだん] (n-t) usual, normal, everyday, habitual, ordinary,usually, normally, generally, habitually, always"
+		],
+		"english": "The day-to-day care will all be done here.",
+		"japanese": "普段の世話はこちらがしっかりやりますので"
+	},
+	{
+		"word": "エサ",
+		"root": "エサ",
+		"definitions": [
+			"餌[えさ] (n) (animal) feed, fodder, pet food,bait, lure, enticement"
+		],
+		"english": "But, please buy the food for the Chocobo, and feed them yourselves.",
+		"japanese": "ただ、チョコボにあたえるエサはお客様がお買いになるかして直接おあたえください"
+	},
+	{
+		"word": "買い",
+		"root": "買い",
+		"definitions": [
+			"買い[かい] (n) buying, shopping,buyer,purchase"
+		],
+		"english": "But, please buy the food for the Chocobo, and feed them yourselves.",
+		"japanese": "ただ、チョコボにあたえるエサはお客様がお買いになるかして直接おあたえください"
+	},
+	{
+		"word": "オス",
+		"root": "オス",
+		"definitions": [
+			"押す[おす] (v5s, vt) to push, to press,to apply pressure from above, to press down,to stamp (i.e. a passport), to apply a seal,to affix (e.g. gold leaf),to press (someone for something), to urge, to compel, to influence,to overwhelm, to overpower, to repress,to push (events along), to advance (a plan),to do in spite of ..., to do even though ..., to force,to make sure,to be pressed for time,to advance troops, to attack,(of light) to be diffused across an entire surface",
+			"雄[おす] (n, adj-no) male (animal, plant)",
+			"推す[おす] (v5s, vt) to recommend, to endorse (e.g. a candidate), to nominate,to infer, to conclude, to conjecture, to surmise,to think something through, to ponder deeply",
+			"押忍[おっす] (int) Hi!, Yo!, Hey man!, Hey dude!, [object Object]",
+			"おす (exp) to be"
+		],
+		"english": "Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.",
+		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
+	},
+	{
+		"word": "メス",
+		"root": "メス",
+		"definitions": [
+			"雌[めす] (n, adj-no) female (animal, plant)",
+			"メス (n) scalpel, surgical knife",
+			"召す[めす] (v5s, vt) to call, to invite, to send for, to summon,to eat, to drink,to put on, to wear,to ride,to catch (a cold), to take (a bath), to tickle (one's fancy), to put on (years), to commit (seppuku),to do,[object Object]",
+			"見す[めす] (v5s, vt) to see, to look, to watch,to rule, to govern"
+		],
+		"english": "Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.",
+		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
+	},
+	{
+		"word": "カップル",
+		"root": "カップル",
+		"definitions": [
+			"カップル (n) couple"
+		],
+		"english": "Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.",
+		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
+	},
+	{
+		"word": "実",
+		"root": "実",
+		"definitions": [
+			"実[み] (n) fruit, nut,seed,(in broth) pieces of meat, vegetable, etc.,content, substance",
+			"誠[まこと] (adv, n) truth, reality,sincerity, honesty, integrity, fidelity,that's right",
+			"実[じつ] (n, adj-no) truth, reality,sincerity, honesty, fidelity,content, substance,(good) result",
+			"実[さね] (n) pit (of a fruit), stone,core,tongue (piece of wood used to connect two boards),clitoris",
+			"正身[そうじみ] (n) the real person, said person,real thing, genuine article"
+		],
+		"english": "Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.",
+		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
+	},
+	{
+		"word": "タマゴ",
+		"root": "タマゴ",
+		"definitions": [
+			"卵[たまご] (n) eggs, egg, spawn, roe,hen egg,(an expert) in the making,beginning, origin, infancy"
+		],
+		"english": "Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.",
+		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
+	},
+	{
+		"word": "大抵",
+		"root": "大抵",
+		"definitions": [
+			"大抵[たいてい] (adj-na) mostly, ordinarily, usually, generally,probably,most, almost all,ordinary,proper, appropriate, moderate"
+		],
+		"english": "New Chocobos inherit the abilities of their parents.",
+		"japanese": "タマゴから生まれた子チョコボは大抵父と母の能力を引き継いだチョコボになりますが"
+	},
+	{
+		"word": "まれ",
+		"root": "まれ",
+		"definitions": [
+			"稀[まれ] (adj-na) rare, seldom"
+		],
+		"english": "I've heard that sometimes new breeds of Chocobo are born with special abilities. I've never actually seen it before, though.",
+		"japanese": "まれに、特異な能力を持ったチョコボになることがあるようです。私もほとんど見たことがないんですがね"
+	},
+	{
+		"word": "特異",
+		"root": "特異",
+		"definitions": [
+			"特異[とくい] (adj-na, n) unique, peculiar, singular"
+		],
+		"english": "I've heard that sometimes new breeds of Chocobo are born with special abilities. I've never actually seen it before, though.",
+		"japanese": "まれに、特異な能力を持ったチョコボになることがあるようです。私もほとんど見たことがないんですがね"
+	},
+	{
+		"word": "だいぶ",
+		"root": "だいぶ",
+		"definitions": [
+			"大分[だいぶ] (adv) considerably, greatly, a lot",
+			"大部[たいぶ] (n-adv) lengthy (of a book, etc.), voluminous,most (e.g. most part), greater, fairly, a good deal, much",
+			"大夫[だいぶ] (n) high steward, grand master",
+			"ダイブ (n, vs) dive (e.g. into water),(underwater) diving,dive (of an aircraft)"
+		],
+		"english": "Wasn't it really expensive?",
+		"japanese": "お兄ちゃんたちだいぶ、お金取られたでしょ？"
+	},
+	{
+		"word": "取ら",
+		"root": "取る",
+		"definitions": [
+			"取る[とる] (v5r, vt) to take, to pick up, to harvest, to earn, to win, to choose,to steal,to eat, to have (a meal),to remove (one's glasses, etc.),to compete (in sumo, cards, etc.), to play"
+		],
+		"english": "Wasn't it really expensive?",
+		"japanese": "お兄ちゃんたちだいぶ、お金取られたでしょ？"
+	},
+	{
+		"word": "おじいちゃん",
+		"root": "おじいちゃん",
+		"definitions": [
+			"お祖父ちゃん[おじいちゃん] (n) grandpa, granddad"
+		],
+		"english": "But don't be mad at my brother or Grandpa.",
+		"japanese": "でも、グリングリンお兄ちゃんやグリンおじいちゃんを怒らないでね"
+	},
+	{
+		"word": "ママ",
+		"root": "ママ",
+		"definitions": [
+			"儘[まま] (n) as it is, as one likes, because, as,condition, state,sic, sic erat scriptum, [object Object]",
+			"ママ (n) mama, mamma, mom, mommy, mum, mummy, mother,female proprietress (of a bar, etc.)",
+			"乳母[うば] (n) wet nurse, nursing mother",
+			"間々[まま] (adv) occasionally, now and then, sometimes",
+			"飯[まんま] (n) cooked rice"
+		],
+		"english": "Ever since Mom and Dad died, it's been like this…",
+		"japanese": "パパとママが死んでからずっとそうなの……"
+	},
+	{
+		"word": "白い",
+		"root": "白い",
+		"definitions": [
+			"白い[しろい] (adj-i) white"
+		],
+		"english": "The white Chocobo likes it when you scratch behind its ears.",
+		"japanese": "白い子チョコボはね、耳の裏をこちょこちょしてあげるとすっごくよろこぶのよ"
+	},
+	{
+		"word": "こちょこちょ",
+		"root": "こちょこちょ",
+		"definitions": [
+			"こちょこちょ (adv, adv-to, vs) coochy-coo, hitchy-koo, kitchy-koo (tickling sound)"
+		],
+		"english": "The white Chocobo likes it when you scratch behind its ears.",
+		"japanese": "白い子チョコボはね、耳の裏をこちょこちょしてあげるとすっごくよろこぶのよ"
+	},
+	{
+		"word": "すっごく",
+		"root": "すっごい",
+		"definitions": [
+			"すっごい (adj-i) terrible, dreadful,amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific,to a great extent, vast (in numbers)"
+		],
+		"english": "The white Chocobo likes it when you scratch behind its ears.",
+		"japanese": "白い子チョコボはね、耳の裏をこちょこちょしてあげるとすっごくよろこぶのよ"
+	},
+	{
+		"word": "くすぐる",
+		"root": "くすぐる",
+		"definitions": [
+			"擽る[くすぐる] (v5r, vt) to tickle,to tickle (one's curiosity, vanity, etc.), to arouse, to appeal to, to flatter,to make laugh, to amuse, to entertain"
+		],
+		"english": "But if you scratch it someplace that it doesn't like, it'll get mad, so be careful.",
+		"japanese": "でも、へんなとこくすぐるときげんわるくしちゃうから気をつけないとダメよ"
+	},
+	{
+		"word": "げん",
+		"root": "げん",
+		"definitions": [
+			"言[げん] (n) word, remark, statement",
+			"現[げん] (pref) present (e.g. government, administration), current, existing",
+			"厳[げん] (adj-t, adv-to) strict, stern",
+			"ゲン (n) gene",
+			"源[げん] (suf) source, origin",
+			"絃[げん] (n) string (of a shamisen, etc.),stringed instrument",
+			"原[げん] (pref) original, primitive, primary, fundamental, raw",
+			"減[げん] (suf) reduction",
+			"元[げん] (n) unknown (e.g. in an equation),element (of a set),yuan (monetary unit of China),Yuan dynasty (China)",
+			"弦[げん] (n) bowstring,string (of a shamisen, etc.), stringed instrument,chord,hypotenuse",
+			"監[げん] (n) special Nara-period administrative division for areas containing a detached palace (Yoshino and Izumi),secretary, [object Object]",
+			"験[げん] (n) effect, efficacy,omen",
+			"舷[げん] (n) side of a boat, gunwale"
+		],
+		"english": "But if you scratch it someplace that it doesn't like, it'll get mad, so be careful.",
+		"japanese": "でも、へんなとこくすぐるときげんわるくしちゃうから気をつけないとダメよ"
+	},
+	{
+		"word": "売り切れ",
+		"root": "売り切れる",
+		"definitions": [
+			"売り切れる[うりきれる] (v1, vi) to be sold out"
+		],
+		"english": "We're all out of Chocobos. I'm taking care of the ones out there for someone else.",
+		"japanese": "チョコボは売り切れちゃったんだ外にいるのは、あずかり物なんでね"
+	},
+	{
+		"word": "野生",
+		"root": "野生",
+		"definitions": [
+			"野生[やせい] (pn) wild, growing wild, living in the wild,I"
+		],
+		"english": "You know, if you really want a Chocobo, you should go out and catch one.",
+		"japanese": "そうだ、チョコボがほしいなら野生のをつかまえるといいよ"
+	},
+	{
+		"word": "ツメ",
+		"root": "ツメ",
+		"definitions": [
+			"爪[つめ] (n) nail (e.g. fingernail, toenail), claw, talon, hoof,plectrum, pick,hook, clasp",
+			"詰め[つめ] (n-suf) stuffing, packing,end (esp. the foot of a bridge),lowest-ranking guest at tea ceremony,tea master,endgame (esp. in shogi or used figuratively),sweet eel sauce,middle-aged woman,appointment to a particular workplace,using as the sole ground of judgement (judgment),continuing, keep doing for period of time",
+			"ツメ (n) to close up (editing mark)"
+		],
+		"english": "You see those claw prints out there? Wild Chocobo's will appear in those areas.",
+		"japanese": "外で３本のツメあとを見ただろ？あれがあるところには野生のチョコボが必ずいるよ"
+	},
+	{
+		"word": "無い",
+		"root": "無い",
+		"definitions": [
+			"無い[ない] (aux-adj) nonexistent, not being (there),unpossessed, unowned, not had,unique,not, impossible, won't happen,not ...,to not be..., to have not ..."
+		],
+		"english": "But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.",
+		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね"
+	},
+	{
+		"word": "現れ",
+		"root": "現れる",
+		"definitions": [
+			"現れる[あらわれる] (v1, vi) to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise,to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)"
+		],
+		"english": "But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.",
+		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね"
+	},
+	{
+		"word": "用心深い",
+		"root": "用心深い",
+		"definitions": [
+			"用心深い[ようじんぶかい] (adj-i) careful, cautious, wary, watchful, vigilant, prudent"
+		],
+		"english": "But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.",
+		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね"
+	},
+	{
+		"word": "生き物",
+		"root": "生き物",
+		"definitions": [
+			"生き物[いきもの] (n) living thing, animal"
+		],
+		"english": "But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.",
+		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね"
+	},
+	{
+		"word": "だし",
+		"root": "だし",
+		"definitions": [
+			"出し[だし] (n) dashi (Japanese soup stock made from fish and kelp),pretext, excuse, pretense (pretence), dupe, front man",
+			"山車[だし] (n) parade float, festival float"
+		],
+		"english": "But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.",
+		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね"
+	},
+	{
+		"word": "おびきだす",
+		"root": "おびきだす",
+		"definitions": [
+			"おびき出す[おびきだす] (v5s, vt) to lure out of, to decoy out of,to drive to (tears, sleep, etc.), to evoke (sympathy, etc.),to abduct, to entice out of"
+		],
+		"english": "'Chocobo Lure' is a type of Materia which attracts Chocobos.",
+		"japanese": "『チョコボよせ』はチョコボをおびきだすマテリアさ"
+	},
+	{
+		"word": "まわり",
+		"root": "まわり",
+		"definitions": [
+			"周り[まわり] (n) circumference, girth,surroundings, neighbourhood, neighborhood, vicinity",
+			"回り[まわり] (suf, ctr) rotation,making the rounds,spreading,effect, efficacy,by way of, via,round, turn,size,12-year period, 12-year age difference"
+		],
+		"english": "That is why you must defeat the monsters first before you catch the Chocobo.",
+		"japanese": "だから、まずチョコボのまわりにいるモンスターを倒す必要があるんだ"
+	},
+	{
+		"word": "野菜",
+		"root": "野菜",
+		"definitions": [
+			"野菜[やさい] (n, adj-no) vegetable"
+		],
+		"english": "But, if you use 'Greens' they'll focus on them and won't run away.",
+		"japanese": "けど、『野菜』を使うと食べるのに夢中になって逃げにくくなるのさ"
+	},
+	{
+		"word": "夢中",
+		"root": "夢中",
+		"definitions": [
+			"夢中[むちゅう] (n) absorbed in, immersed in, crazy about, obsessed with, devoted to,forgetting oneself, daze, trance, ecstasy, delirium,within a dream, while dreaming"
+		],
+		"english": "But, if you use 'Greens' they'll focus on them and won't run away.",
+		"japanese": "けど、『野菜』を使うと食べるのに夢中になって逃げにくくなるのさ"
+	},
+	{
+		"word": "一目散",
+		"root": "一目散",
+		"definitions": [
+			"一目散[いちもくさん] (n) running at full speed, going as fast as one can go"
+		],
+		"english": "Oh, and remember, once you get off a Chocobo, it'll escape.",
+		"japanese": "あっ、それと捕まえたチョコボは一度チョコボからおりたら一目散に逃げてしまうよ"
+	},
+	{
+		"word": "商談",
+		"root": "商談",
+		"definitions": [
+			"商談[しょうだん] (n, vs) business discussion, negotiation"
+		],
+		"english": "Well then, shall we get down to business?",
+		"japanese": "じゃあ、そろそろ商談に入ろうかな"
+	},
+	{
+		"word": "あり",
+		"root": "あり",
+		"definitions": [
+			"蟻[あり] (n) ant",
+			"在り[あり] (vr, vi) existing (at the present moment),alright, acceptable, passable,to be (usu. of inanimate objects), to have"
+		],
+		"english": "Thanks!",
+		"japanese": "まいどあり！"
+	},
+	{
+		"word": "チョット",
+		"root": "チョット",
+		"definitions": [
+			"一寸[ちょっと] (int) a little, a bit, slightly,just a minute, for a moment, briefly,somewhat, rather, fairly, pretty, quite,(not) easily, (not) readily,hey!, excuse me"
+		],
+		"english": "Get some information",
+		"japanese": "チョット話を聞く"
+	},
+	{
+		"word": "カップリング",
+		"root": "カップリング",
+		"definitions": [
+			"カップリング (n) coupling,shipping, [object Object]"
+		],
+		"english": "Mating Chocobos",
+		"japanese": "チョコボをカップリングする"
+	},
+	{
+		"word": "逃がす",
+		"root": "逃がす",
+		"definitions": [
+			"逃がす[にがす] (v5s, vt) to set free, to let go, to release,to miss (e.g. a chance), to lose, to let get away, to fail to catch"
+		],
+		"english": "Releasing Chocobos",
+		"japanese": "チョコボを逃がす"
+	},
+	{
+		"word": "戻し",
+		"root": "戻す",
+		"definitions": [
+			"戻す[もどす] (v5s, vt) to put back, to return, to give back, to restore (to a previous state, e.g. defrosting, reconstituting, reconciling), to turn back (e.g. clock hand),to vomit, to throw up,to recover (of a market price)"
+		],
+		"english": "You must return the Chocobo that's out, if you want to take out a different one.",
+		"japanese": "他のチョコボで外に出たいなら今、外に出してるチョコボを戻してからにしてよ"
+	},
+	{
+		"word": "おじいさん",
+		"root": "おじいさん",
+		"definitions": [
+			"お祖父さん[おじいさん] (n) grandfather,male senior-citizen"
+		],
+		"english": "If you want to raise Chocobos, go talk to Grandpa.",
+		"japanese": "チョコボを育てたいならおじいさんに会ってきてよ"
+	},
+	{
+		"word": "もちだし",
+		"root": "もちだす",
+		"definitions": [
+			"持ち出す[もちだす] (v5s, vt) to take out, to carry out, to bring out from where it belongs,to mention something, to broach a topic, to bring up (a subject), to raise (an issue), to mention"
+		],
+		"english": "And even if you take it outside, this Chocobo won't run away when you get off of it.",
+		"japanese": "それに、ここから外にもちだした、チョコボはおりても逃げださなくなるよ"
+	},
+	{
+		"word": "させ",
+		"root": "させる",
+		"definitions": [
+			"為せる[させる] (v1, vt) to make (someone) do,to allow (someone) to",
+			"然せる[させる] (adj-pn) worth special consideration",
+			"せる (aux-v, v1) [object Object],[object Object],[object Object]"
+		],
+		"english": "Chocobos will mature differently depending on which 'Greens' they eat. Certain 'Greens' will boost their stamina.",
+		"japanese": "それとね、チョコボは食べる『野菜』によって、育ち方が違ったりするんだよ。ある『野菜』を食べさせてるとスタミナモリモリになったりとかね"
+	},
+	{
+		"word": "そこら",
+		"root": "そこら",
+		"definitions": [
+			"其処ら[そこら] (n) everywhere, somewhere, approximately, that area, around there"
+		],
+		"english": "You'll have to figure out which kinds have what effects for yourselves.",
+		"japanese": "そこらへんの、効果は自分で覚えていくのがいいね"
+	},
+	{
+		"word": "もって",
+		"root": "もって",
+		"definitions": [
+			"以て[もって] (exp, conj) with, by, by means of,because of, on account of, for, due to,on (a day, date), at (a time), as of (e.g. today),adds emphasis to preceding word,in addition (to being), moreover, as well as, and,therefore, and so, hence"
+		],
+		"english": "Oh, and Chocobos are born with certain natural abilities. So, no matter how much they mature, they can't get more abilities than what they're born with.",
+		"japanese": "それと、チョコボにはもって生まれた能力があってね自分の持っている能力以上は育たないんだ"
+	},
+	{
+		"word": "限界",
+		"root": "限界",
+		"definitions": [
+			"限界[げんかい] (n, adj-no) limit, bound"
+		],
+		"english": "If a Chocobo's abilities don't increase even when you feed it, that means it's reached its limit.",
+		"japanese": "エサをあげても、能力が上がらなくなったらそのチョコボの限界がきてると思っていいよ"
+	},
+	{
+		"word": "ストック",
+		"root": "ストック",
+		"definitions": [
+			"ストック (n) stock,ski pole"
+		],
+		"english": "The Chocobo out there is part of the stock that you caught.",
+		"japanese": "外のチョコボは、お客さんが捕まえたチョコボのストックさ"
+	},
+	{
+		"word": "余地",
+		"root": "余地",
+		"definitions": [
+			"余地[よち] (n) place, room, margin, scope"
+		],
+		"english": "There's still lots of room to grow.",
+		"japanese": "まだまだ成長の余地はありそうだね"
+	},
+	{
+		"word": "タンタル",
+		"root": "タンタル",
+		"definitions": [
+			"タンタル (n, adj-no) tantalum (Ta)"
+		],
+		"english": "Tantal Greens =",
+		"japanese": "タンタルの野菜"
+	},
+	{
+		"word": "ゲン",
+		"root": "ゲン",
+		"definitions": [
+			"言[げん] (n) word, remark, statement",
+			"現[げん] (pref) present (e.g. government, administration), current, existing",
+			"厳[げん] (adj-t, adv-to) strict, stern",
+			"ゲン (n) gene",
+			"源[げん] (suf) source, origin",
+			"絃[げん] (n) string (of a shamisen, etc.),stringed instrument",
+			"原[げん] (pref) original, primitive, primary, fundamental, raw",
+			"減[げん] (suf) reduction",
+			"元[げん] (n) unknown (e.g. in an equation),element (of a set),yuan (monetary unit of China),Yuan dynasty (China)",
+			"弦[げん] (n) bowstring,string (of a shamisen, etc.), stringed instrument,chord,hypotenuse",
+			"監[げん] (n) special Nara-period administrative division for areas containing a detached palace (Yoshino and Izumi),secretary, [object Object]",
+			"験[げん] (n) effect, efficacy,omen",
+			"舷[げん] (n) side of a boat, gunwale"
+		],
+		"english": "Reagan Greens =",
+		"japanese": "レイゲンの野菜"
+	},
+	{
+		"word": "シル",
+		"root": "シル",
+		"definitions": [
+			"汁[しる] (n) juice, sap,soup, broth,(dipping) sauce",
+			"知る[しる] (v5r, vt) to be aware of, to know, to be conscious of, to cognize, to cognise,to notice, to feel,to understand, to comprehend, to grasp,to remember, to be acquainted with (a procedure),to experience, to go through, to learn,to be acquainted with (a person), to get to know,to concern"
+		],
+		"english": "Sylkis Greens =",
+		"japanese": "シルキスの野菜"
+	},
+	{
+		"word": "キス",
+		"root": "キス",
+		"definitions": [
+			"記す[しるす] (v5s) to write down, to note, to jot down,to remember",
+			"キス (n, vs) kiss",
+			"鱚[きす] (n) sillago (any fish of genus Sillago, esp. the Japanese whiting, Sillago japonica)",
+			"期す[きす] (v5s, vs-c, vi) to fix (a time, date, etc.), to set,to expect, to hope for, to look forward to, to foresee, to anticipate,to resolve (to do), to decide upon, to prepare for, to promise, to pledge",
+			"帰す[きす] (v5s, vs-c) to come to (in the end), to end in,to attribute, to blame"
+		],
+		"english": "Sylkis Greens =",
+		"japanese": "シルキスの野菜"
+	},
+	{
+		"word": "パ",
+		"root": "パ",
+		"definitions": [
+			"羽[わ] (ctr) counter for birds and rabbits",
+			"把[わ] (ctr) counter for bundles",
+			"パ (n) pas (dancing step),Pakistan,Pacific League (Japanese baseball league)",
+			"ぱ (suf) apiece, each"
+		],
+		"english": "Param Nut =",
+		"japanese": "パラムの実"
+	},
+	{
+		"word": "ラム",
+		"root": "ラム",
+		"definitions": [
+			"ラム (n) lamb (meat),rum,ram,rump",
+			"ＲＡＭ[ラム] (n) random-access memory, RAM"
+		],
+		"english": "Param Nut =",
+		"japanese": "パラムの実"
+	},
+	{
+		"word": "かしこ",
+		"root": "かしこい",
+		"definitions": [
+			"賢い[かしこい] (adj-i) wise, clever, smart"
+		],
+		"english": "Intelligence Plus!",
+		"japanese": "かしこさアップ！"
+	},
+	{
+		"word": "性格",
+		"root": "性格",
+		"definitions": [
+			"性格[せいかく] (n) character, personality, disposition, nature"
+		],
+		"english": "Their personalities improved!",
+		"japanese": "性格がよくなった！"
+	},
+	{
+		"word": "メモ",
+		"root": "メモ",
+		"definitions": [
+			"メモ (n, vs) memo, note, memorandum"
+		],
+		"english": "Wow, that's amazing! …Let me take some notes.",
+		"japanese": "へぇ、おもしろ～いメモっとこ"
+	},
+	{
+		"word": "面白い",
+		"root": "面白い",
+		"definitions": [
+			"面白い[おもしろい] (adj-i) interesting, fascinating, intriguing, enthralling,amusing, funny, comical,pleasant, enjoyable, agreeable, fun"
+		],
+		"english": "For telling me that story, I'll tell you about each Chocobo's abilities.",
+		"japanese": "面白い話聞かせてくれたお礼にクリンがチョコボの能力を見抜いてあげる"
+	},
+	{
+		"word": "クリ",
+		"root": "クリ",
+		"definitions": [
+			"栗[くり] (n) Japanese chestnut (Castanea crenata)",
+			"庫裏[くり] (n) temple kitchen, monastery kitchen,quarters of a head priest (and his family)",
+			"刳り[くり] (n) hollow, scoop",
+			"クリ (n) clitoris"
+		],
+		"english": "For telling me that story, I'll tell you about each Chocobo's abilities.",
+		"japanese": "面白い話聞かせてくれたお礼にクリンがチョコボの能力を見抜いてあげる"
+	},
+	{
+		"word": "見抜い",
+		"root": "見抜く",
+		"definitions": [
+			"見抜く[みぬく] (v5k, vt) to see through, to see into (someone's heart, mind, etc.), to perceive, to find out, to detect"
+		],
+		"english": "For telling me that story, I'll tell you about each Chocobo's abilities.",
+		"japanese": "面白い話聞かせてくれたお礼にクリンがチョコボの能力を見抜いてあげる"
+	},
+	{
+		"word": "速",
+		"root": "速",
+		"definitions": [
+			"速[そく] (suf, ctr) gear, speed (e.g. 4-speed transmission)"
+		],
+		"english": "From what I see, the fastest sprinter is…",
+		"japanese": "クリンが見たところダッシュが１番速そうなのは…"
+	},
+	{
+		"word": "かしこ",
+		"root": "かしこ",
+		"definitions": [
+			"彼処[あそこ] (n) there (place physically distant from both speaker and listener), over there, that place, yonder, you-know-where,genitals, private parts, nether regions,that far (something psychologically distant from both speaker and listener), that much, that point",
+			"樫粉[かしご] (n) oak flour (esp. as animal food), acorn flour",
+			"畏[かしこ] (exp) yours sincerely (used to sign off on letters), respectfully yours"
+		],
+		"english": "Finally, the most intelligent one is…",
+		"japanese": "最後に、クリンが見たところ１番かしこそうなのは…"
+	},
+	{
+		"word": "川",
+		"root": "川",
+		"definitions": [
+			"川[かわ] (suf) river, stream,River, the ... river"
+		],
+		"english": "Other than regular Chocobo, there are Mountain Chocobo' and 'River-Chocobo'.",
+		"japanese": "チョコボには普通のチョコボ以外に『山チョコボ』と『川チョコボ』がいるんだって。"
+	},
+	{
+		"word": "南東",
+		"root": "南東",
+		"definitions": [
+			"南東[なんとう] (n, adj-no) southeast"
+		],
+		"english": "A 'Great Chocobo' and a 'Good Chocobo' are found… on an island southeast of the Chocobo Sage's dwelling at Corel and in the area west of Corel. The 'Carob Nut' can be found south of the Chocobo Sage's dwelling. Monsters carry them. Let's see, is Bone Village just south of there?",
+		"japanese": "『すごくいいチョコボ』と『いい感じのチョコボ』はチョコボせんにんがいる所から南東の島とコレル。それとコレルの西の方でとれるんだって。それから『カラブの実』はチョコボせんにんのいる所から南にいるモンスターがよく持ってるんだってさ。あそこから南って言うとボーンビレッジあたりかしら？"
+	},
+	{
+		"word": "とれる",
+		"root": "とれる",
+		"definitions": [
+			"取れる[とれる] (v1, vi, vt) to come off, to be removed,(of pain, a fever, etc.) to disappear,to be caught, to be harvested,to be interpreted (as), to be taken as,(of balance, etc.) to be attained,to be obtainable",
+			"撮れる[とれる] (v1) to be photographed,to be able to photograph",
+			"録れる[とれる] (v1) to be recorded (sound, etc.),to be able to record",
+			"採れる[とれる] (v1) to be collected, to be gathered (e.g. mushrooms, etc.), to be harvested, to be mined,to be able to collect, to be able to mine",
+			"捕れる[とれる] (v1) to be caught, to be captured,to be able to catch, to be able to capture",
+			"獲れる[とれる] (v1) to be harvested, to be reaped, to be yielded,to be able to harvest, to be able to reap, to be able to yield"
+		],
+		"english": "A 'Great Chocobo' and a 'Good Chocobo' are found… on an island southeast of the Chocobo Sage's dwelling at Corel and in the area west of Corel. The 'Carob Nut' can be found south of the Chocobo Sage's dwelling. Monsters carry them. Let's see, is Bone Village just south of there?",
+		"japanese": "『すごくいいチョコボ』と『いい感じのチョコボ』はチョコボせんにんがいる所から南東の島とコレル。それとコレルの西の方でとれるんだって。それから『カラブの実』はチョコボせんにんのいる所から南にいるモンスターがよく持ってるんだってさ。あそこから南って言うとボーンビレッジあたりかしら？"
+	},
+	{
+		"word": "ビックリ",
+		"root": "ビックリ",
+		"definitions": [
+			"吃驚[びっくり] (adj-f) to be surprised, to be amazed, to be frightened, to be astonished, to get startled, to jump,surprise (e.g. surprise party)"
+		],
+		"english": "One surprise: If you get the \"Mountain Chocobo\" and the \"River Chocobo\" to produce an egg, You'll get a Chocobo that can cross mountains and rivers. I bet that the right nut for that is the \"Carob Nut.\"",
+		"japanese": "ちょっとビックリ『山チョコボ』と『川チョコボ』にタマゴを生ませると山も川も越えられるチョコボが出来るんだって。きっと、実は『カラブの実』がいいと思うな。"
+	},
+	{
+		"word": "越え",
+		"root": "越える",
+		"definitions": [
+			"越える[こえる] (v1, vt) to cross over, to cross, to pass through, to pass over (out of), to go beyond, to go past,to exceed, to surpass, to be more (than)"
+		],
+		"english": "One surprise: If you get the \"Mountain Chocobo\" and the \"River Chocobo\" to produce an egg, You'll get a Chocobo that can cross mountains and rivers. I bet that the right nut for that is the \"Carob Nut.\"",
+		"japanese": "ちょっとビックリ『山チョコボ』と『川チョコボ』にタマゴを生ませると山も川も越えられるチョコボが出来るんだって。きっと、実は『カラブの実』がいいと思うな。"
+	},
+	{
+		"word": "小島",
+		"root": "小島",
+		"definitions": [
+			"小島[こじま] (n) small island, islet"
+		],
+		"english": "Zeio Nuts are found on a little island east of the Chocobo Sage. Goblins' have them. With this, you can produce an 'Ocean Chocobo'.",
+		"japanese": "『ゼイオの実』はチョコボせんにんがいる所から東の小さな小島にいる『ゴブリン』がもってるんだってこれで『海チョコボ』も生ませられるね。"
+	},
+	{
+		"word": "レース",
+		"root": "レース",
+		"definitions": [
+			"レース (n) race,lace,lathe"
+		],
+		"english": "According to my research, Mountain, River, and Ocean Chocobos are hard to produce. But, if you take the right care of the Chocobo and increase their Class ranking by winning at the races, it'll increase your chances of getting one.",
+		"japanese": "クリンの研究によると山、川、海チョコボはメモの条件だけだとチョット、生まれにくいみたい。けど、うまく育ててレースにだしてクラスをあげてやるととっても生まれやすくなるみたいね."
+	},
+	{
+		"word": "とっても",
+		"root": "とっても",
+		"definitions": [
+			"迚も[とても] (adv) very, awfully, exceedingly,(not) at all, by no means, simply (cannot)"
+		],
+		"english": "According to my research, Mountain, River, and Ocean Chocobos are hard to produce. But, if you take the right care of the Chocobo and increase their Class ranking by winning at the races, it'll increase your chances of getting one.",
+		"japanese": "クリンの研究によると山、川、海チョコボはメモの条件だけだとチョット、生まれにくいみたい。けど、うまく育ててレースにだしてクラスをあげてやるととっても生まれやすくなるみたいね."
+	}
+]

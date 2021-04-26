@@ -1,0 +1,633 @@
+[
+	{
+		"word": "量",
+		"root": "量",
+		"definitions": [
+			"量[りょう] (n, n-suf) quantity, amount, volume, portion (of food)",
+			"捗[はか] (n) progress"
+		],
+		"english": "So all this energy's gathered here for the Planet to heal itself?",
+		"japanese": "ここのスゲエ量のエネルギーは星の傷を治すために集まってるわけか"
+	},
+	{
+		"word": "はれ",
+		"root": "はれる",
+		"definitions": [
+			"腫れる[はれる] (v1, vi) to swell (from inflammation), to become swollen",
+			"晴れる[はれる] (v1, vi) to clear up, to clear away, to be sunny, to stop raining,to refresh (e.g. spirits),to be cleared (e.g. of a suspicion),to be dispelled, to be banished"
+		],
+		"english": "I'll gather everybody, so you go on ahead.",
+		"japanese": "みんなを呼びに行きますよって先に行っとくんなはれ"
+	},
+	{
+		"word": "竜巻",
+		"root": "竜巻",
+		"definitions": [
+			"竜巻[たつまき] (n, adj-no) tornado, waterspout"
+		],
+		"english": "Whirlwind Maze",
+		"japanese": "竜巻の迷宮"
+	},
+	{
+		"word": "迷宮",
+		"root": "迷宮",
+		"definitions": [
+			"迷宮[めいきゅう] (n) labyrinth, maze,mystery"
+		],
+		"english": "Whirlwind Maze",
+		"japanese": "竜巻の迷宮"
+	},
+	{
+		"word": "改",
+		"root": "改",
+		"definitions": [
+			"改[かい] (n-suf) revision"
+		],
+		"english": "Received \"Neo Bahamut\" Materia!",
+		"japanese": "『バハムート改』のマテリアを手にいれた！"
+	},
+	{
+		"word": "さがしもとめ",
+		"root": "さがしもとめる",
+		"definitions": [
+			"捜し求める[さがしもとめる] (v1, vt) to search for, to seek for, to look for"
+		],
+		"english": "This is the Promised Land the President had been searching for!!",
+		"japanese": "まさにプレジデントがさがしもとめた約束の地！！"
+	},
+	{
+		"word": "終着",
+		"root": "終着",
+		"definitions": [
+			"終着[しゅうちゃく] (n) arriving at the final stop (of a bus, train, etc.), reaching the end of the line"
+		],
+		"english": "It's where the Reunion will take place… They will all gather here…",
+		"japanese": "……リユニオンの終着点。……みんな集まれ、か"
+	},
+	{
+		"word": "気流",
+		"root": "気流",
+		"definitions": [
+			"気流[きりゅう] (n) atmospheric current, air current, airflow"
+		],
+		"english": "We need to cross when the wind is calm, or we'll get swept off!",
+		"japanese": "気流がおさまるタイミングを見て渡らないとはじき飛ばされちゃうわ！"
+	},
+	{
+		"word": "はじき飛ばさ",
+		"root": "はじき飛ばす",
+		"definitions": [
+			"はじき飛ばす[はじきとばす] (v5s, vt) to flick off, to give ... the flick, to send something flying, to hit (a person), to knock down"
+		],
+		"english": "We need to cross when the wind is calm, or we'll get swept off!",
+		"japanese": "気流がおさまるタイミングを見て渡らないとはじき飛ばされちゃうわ！"
+	},
+	{
+		"word": "ロ",
+		"root": "ロ",
+		"definitions": [
+			"露[ロ] (n) Russia",
+			"兎馬[うさぎうま] (n) donkey",
+			"櫓[ろ] (n) Japanese scull (oar attached to the rear of the boat by a traditional peg-in-hole oarlock)",
+			"ロ (n) 2nd in a sequence denoted by the iroha system, 2nd note in the diatonic scale (used in key names, etc.)",
+			"炉[ろ] (n) hearth, fireplace,furnace, kiln",
+			"絽[ろ] (n, adj-no) silk gauze (esp. used in light clothing for high summer)",
+			"ろ (n) six"
+		],
+		"english": "Uph…Se…phi…roth…",
+		"japanese": "…グ……フ……ッ……セフィ…ロ…ス…"
+	},
+	{
+		"word": "細胞",
+		"root": "細胞",
+		"definitions": [
+			"細胞[さいぼう] (n, adj-no) cell"
+		],
+		"english": "Jenova's cells…",
+		"japanese": "ジェノバ細胞……"
+	},
+	{
+		"word": "殺気",
+		"root": "殺気",
+		"definitions": [
+			"殺気[さっき] (n) thirst for blood, bloodlust, determination to kill"
+		],
+		"english": "I feel something…danger?",
+		"japanese": "殺気？　何か感じるよ……"
+	},
+	{
+		"word": "きえ",
+		"root": "きえる",
+		"definitions": [
+			"消える[きえる] (v1, vi) to go out, to vanish, to disappear"
+		],
+		"english": "Vanished? That can't be!",
+		"japanese": "き、きえてしまうなんて…そんなアホな！"
+	},
+	{
+		"word": "アホ",
+		"root": "アホ",
+		"definitions": [
+			"阿呆[あほ] (n, adj-na) fool, idiot, simpleton"
+		],
+		"english": "Vanished? That can't be!",
+		"japanese": "き、きえてしまうなんて…そんなアホな！"
+	},
+	{
+		"word": "肉体",
+		"root": "肉体",
+		"definitions": [
+			"肉体[にくたい] (n, adj-no) the body, the flesh"
+		],
+		"english": "What I wanted was a body. A seeing, hearing, moving body. Soon it will be…over.",
+		"japanese": "……欲しかったのは身体見、聞き、話し、移動する肉体。まもなく……終わる"
+	},
+	{
+		"word": "ウド",
+		"root": "ウド",
+		"definitions": [
+			"独活[うど] (n) udo (plant related to ginseng, used in medicine and cooking) (Aralia cordata)"
+		],
+		"english": "BARRET",
+		"japanese": "クラウド"
+	},
+	{
+		"word": "真っ暗",
+		"root": "真っ暗",
+		"definitions": [
+			"真っ暗[まっくら] (adj-na, n) total darkness, pitch dark,bleak future, poor prospects"
+		],
+		"english": "Something's weird here! It got pitch black all of a sudden, and everyone disappeared!",
+		"japanese": "なんか様子が変なんだよ！真っ暗になっちまってみんないなくなっちまった！"
+	},
+	{
+		"word": "奥底",
+		"root": "奥底",
+		"definitions": [
+			"奥底[おくそこ] (n) depths, bottom (of one's heart)"
+		],
+		"english": "But it's releasing a powerfully strong will from deep within the Planet's wound.",
+		"japanese": "しかし、とほうもなく強い意志をこの星の傷の奥底から放っている"
+	},
+	{
+		"word": "待機",
+		"root": "待機",
+		"definitions": [
+			"待機[たいき] (n, vs) standing by, awaiting an opportunity, being on alert"
+		],
+		"english": "We're going in first! You guys stay and keep watch.",
+		"japanese": "オレたちは先に行く！みんなは待機していてくれ"
+	},
+	{
+		"word": "重大",
+		"root": "重大",
+		"definitions": [
+			"重大[じゅうだい] (adj-na, n) serious, important, significant, grave, weighty"
+		],
+		"english": "Damn! The pressure's on now.",
+		"japanese": "おっと！　責任重大だぜ"
+	},
+	{
+		"word": "謎",
+		"root": "謎",
+		"definitions": [
+			"謎[なぞ] (adj-no) riddle, puzzle, enigma, mystery,enigmatic, mysterious"
+		],
+		"english": "Yeah, sorry I made you worry. I solved the mystery.",
+		"japanese": "ああ、心配かけたな。謎は解けた"
+	},
+	{
+		"word": "解け",
+		"root": "解ける",
+		"definitions": [
+			"解ける[とける] (v1, vi) to be solved,to loosen, to come untied,to be removed (e.g. restrictions), to be cleared (e.g. misunderstandings), to be broken (e.g. spells, curses),to melt",
+			"解ける[ほどける] (v1, vi) to come lose, to come untied, to come undone, to unravel,to loosen up (e.g. tension)"
+		],
+		"english": "Yeah, sorry I made you worry. I solved the mystery.",
+		"japanese": "ああ、心配かけたな。謎は解けた"
+	},
+	{
+		"word": "幻覚",
+		"root": "幻覚",
+		"definitions": [
+			"幻覚[げんかく] (n) hallucination, illusion"
+		],
+		"english": "Why, is it an illusion?",
+		"japanese": "……なぜだ……幻覚か？"
+	},
+	{
+		"word": "抜け出す",
+		"root": "抜け出す",
+		"definitions": [
+			"抜け出す[ぬけだす] (v5s, vi) to slip out, to sneak away, to break free, to get through (a difficult situation),to break into the lead, to get ahead,to begin to fall out (e.g. hair),to break out (of a loop)"
+		],
+		"english": "Is this illusion going to continue forever? How do we get out of it?",
+		"japanese": "この幻はず～っと続くの？どうやって抜け出すの？"
+	},
+	{
+		"word": "幻想",
+		"root": "幻想",
+		"definitions": [
+			"幻想[げんそう] (n) fantasy, illusion, vision, dream"
+		],
+		"english": "We were in an illusion…",
+		"japanese": "あ、幻想の中だった……"
+	},
+	{
+		"word": "生々しい",
+		"root": "生々しい",
+		"definitions": [
+			"生々しい[なまなましい] (adj-i) lively, green, fresh, raw, vivid, graphic"
+		],
+		"english": "Oh, a dream! But it felt so real…",
+		"japanese": "あ、マボロシかぁ！でも、ちょっと生々しいなぁ"
+	},
+	{
+		"word": "かよっ",
+		"root": "かよう",
+		"definitions": [
+			"通う[かよう] (v5u, vi) to go to and from (a place), to go back and forth between, to run between (e.g. bus, train, etc.), to ply between,to go to (school, work, etc.), to attend, to commute, to frequent,to circulate (e.g. blood, electricity), to be communicated (e.g. thought),to resemble",
+			"火曜[かよう] (n-adv, n) Tuesday",
+			"歌謡[かよう] (n) song, ballad",
+			"可用[かよう] (n) available, in service",
+			"佳容[かよう] (n) comely face",
+			"可溶[かよう] (adj-na, n) soluble, solubilizing, solubilising",
+			"加養[かよう] (n, vs) caring for the sick, taking care of oneself",
+			"荷葉[かよう] (n) lotus leaf",
+			"斯様[かよう] (adj-na, n) in such a manner, like this",
+			"花葉[かよう] (n) floral leaf",
+			"家用[かよう] (n, adj-no) domestic uses",
+			"下葉[かよう] (n) lower lobe (of lung), inferior lobe"
+		],
+		"english": "He…hey you! You alright!?",
+		"japanese": "お、おい、おまえ！だいじょうぶかよっ！"
+	},
+	{
+		"word": "つくりだし",
+		"root": "つくりだす",
+		"definitions": [
+			"作り出す[つくりだす] (v5s, vt) to manufacture, to produce, to raise (crops),to invent, to dream up, to create"
+		],
+		"english": "What I have shown you is reality. What you remember, that is the illusion.",
+		"japanese": "私が見せた世界が真実の過去。幻想をつくりだしたのは……おまえだ"
+	},
+	{
+		"word": "作",
+		"root": "作",
+		"definitions": [
+			"作[さく] (n) work (e.g. of art), production,harvest, cultivation, farming, crop, yield,technique"
+		],
+		"english": "Who would have ever thought a failed experiment would prove so useful?",
+		"japanese": "それにしても失敗作だと思われたおまえが一番役に立つとは……"
+	},
+	{
+		"word": "悔し",
+		"root": "悔しい",
+		"definitions": [
+			"悔しい[くやしい] (adj-i) vexing, annoying, frustrating, regrettable, mortifying"
+		],
+		"english": "Hojo would die if he knew.",
+		"japanese": "宝条が知ったら悔しがるだろうな"
+	},
+	{
+		"word": "ナンバリング",
+		"root": "ナンバリング",
+		"definitions": [
+			"ナンバリング (n) numbering,numbering machine"
+		],
+		"english": "An incomplete Sephiroth-clone. Not even given a number. …That is your reality.",
+		"japanese": "セフィロス・コピー・インコンプリート。ナンバリング無し。それがおまえの真実"
+	},
+	{
+		"word": "無し",
+		"root": "無し",
+		"definitions": [
+			"無し[なし] (n) without,unacceptable, not alright, unsatisfactory"
+		],
+		"english": "An incomplete Sephiroth-clone. Not even given a number. …That is your reality.",
+		"japanese": "セフィロス・コピー・インコンプリート。ナンバリング無し。それがおまえの真実"
+	},
+	{
+		"word": "うらはら",
+		"root": "うらはら",
+		"definitions": [
+			"裏腹[うらはら] (adj-na, n) opposite, reverse, contrary"
+		],
+		"english": "Why are you so worried and scared by those words?",
+		"japanese": "その言葉とはうらはらにおまえは何をおびえている？"
+	},
+	{
+		"word": "あやふや",
+		"root": "あやふや",
+		"definitions": [
+			"あやふや (adj-na, n) uncertain, vague, ambiguous"
+		],
+		"english": "There's a lot of things muddled up in my memories.",
+		"japanese": "記憶だってあやふやな部分がたくさんあるんだ"
+	},
+	{
+		"word": "ささえ",
+		"root": "ささえる",
+		"definitions": [
+			"支える[ささえる] (v1, vt) to support, to prop, to sustain, to underlay, to hold up, to defend,to hold at bay, to stem, to check"
+		],
+		"english": "Those words will always support me.",
+		"japanese": "TIFAのその言葉がいつでも俺をささえてくれる"
+	},
+	{
+		"word": "言動",
+		"root": "言動",
+		"definitions": [
+			"言動[げんどう] (n) speech and conduct, words and deeds"
+		],
+		"english": "The ability to change one's looks, voice, and words, is the power of Jenova.",
+		"japanese": "他人の記憶にあわせて自分の姿、声、言動を変化させるのはジェノバの能力だ"
+	},
+	{
+		"word": "写っ",
+		"root": "写る",
+		"definitions": [
+			"写る[うつる] (v5r, vi) to be photographed, to be projected"
+		],
+		"english": "I…should be in the picture.",
+		"japanese": "俺は……写っているはずだ"
+	},
+	{
+		"word": "タンス",
+		"root": "タンス",
+		"definitions": [
+			"箪笥[たんす] (n) chest of drawers, bureau, cabinet, tansu, dresser"
+		],
+		"english": "I looked in the drawers!",
+		"japanese": "タンスをしらべた！"
+	},
+	{
+		"word": "しらべ",
+		"root": "しらべる",
+		"definitions": [
+			"調べる[しらべる] (v1, vt) to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search"
+		],
+		"english": "I looked in the drawers!",
+		"japanese": "タンスをしらべた！"
+	},
+	{
+		"word": "これぞ",
+		"root": "これぞ",
+		"definitions": [
+			"これぞ (exp) this (emphatic)"
+		],
+		"english": "The outside is rich with Mako energy. The inside is a treasure trove of Materia. This truly is the Promised Land.",
+		"japanese": "外は豊富な魔晄。そして中心部はマテリアの宝庫。これぞまさに約束の地だな"
+	},
+	{
+		"word": "ばかばかしい",
+		"root": "ばかばかしい",
+		"definitions": [
+			"馬鹿馬鹿しい[ばかばかしい] (adj-i) absurd, ridiculous, silly, ludicrous, nonsensical, asinine, foolish"
+		],
+		"english": "There is no such thing as the Promised Land. It's a legend…an old wives tale… …It's utterly ridiculous.",
+		"japanese": "約束の地など存在しない。伝説……言い伝え……ばかばかしい"
+	},
+	{
+		"word": "二流",
+		"root": "二流",
+		"definitions": [
+			"二流[にりゅう] (n, adj-no) second-rate, inferior"
+		],
+		"english": "It is that kind of dullness that makes you a second-rate scientist.",
+		"japanese": "そのカタさが二流科学者の限界だな"
+	},
+	{
+		"word": "レポート",
+		"root": "レポート",
+		"definitions": [
+			"レポート (n, vs) report, paper"
+		],
+		"english": "That's what was stated in Professor Gast's report.",
+		"japanese": "ガスト博士のレポートにはそう記されていたな"
+	},
+	{
+		"word": "記さ",
+		"root": "記す",
+		"definitions": [
+			"記す[しるす] (v5s) to write down, to note, to jot down,to remember"
+		],
+		"english": "That's what was stated in Professor Gast's report.",
+		"japanese": "ガスト博士のレポートにはそう記されていたな"
+	},
+	{
+		"word": "隠し事",
+		"root": "隠し事",
+		"definitions": [
+			"隠し事[かくしごと] (n) secret"
+		],
+		"english": "You keep a lot of things to yourself.",
+		"japanese": "君は隠し事が多いな"
+	},
+	{
+		"word": "負え",
+		"root": "負える",
+		"definitions": [
+			"負える[おえる] (v1) to be able to bear,to be able to manage"
+		],
+		"english": "This place is going to get rough.",
+		"japanese": "ここはあんたたちの手には負えない"
+	},
+	{
+		"word": "プレッシャー",
+		"root": "プレッシャー",
+		"definitions": [
+			"プレッシャー (n) pressure"
+		],
+		"english": "Okay then, here. Had a lot of pressure holding this thing.",
+		"japanese": "じゃあ、これ。すげえプレッシャーだったぜ"
+	},
+	{
+		"word": "パーフェクト",
+		"root": "パーフェクト",
+		"definitions": [
+			"パーフェクト (n) perfect, perfection,perfect game"
+		],
+		"english": "It means that my experiment was a complete success.",
+		"japanese": "私の実験がパーフェクトに成功したわけだな"
+	},
+	{
+		"word": "たどりつい",
+		"root": "たどりつく",
+		"definitions": [
+			"たどり着く[たどりつく] (v5k, vi) to arrive at (after a struggle), to finally reach, to find one's way to, to finally hit on (e.g. an idea)"
+		],
+		"english": "What the--? You mean only a failure made it here?",
+		"japanese": "なんということだ……失敗作だけがここまでたどりついたというのか……"
+	},
+	{
+		"word": "個体",
+		"root": "個体",
+		"definitions": [
+			"個体[こたい] (n, adj-no) individual, specimen"
+		],
+		"english": "I never dreamed what I thought was a success…was actually a failure, and that which I considered a failure was my greatest success…",
+		"japanese": "私が成功とみなした個体が失敗……失敗と判定したおまえが最も優れていたとは……"
+	},
+	{
+		"word": "判定",
+		"root": "判定",
+		"definitions": [
+			"判定[はんてい] (n, vs) judgement, judgment, decision, adjudication, award, verdict, determination"
+		],
+		"english": "I never dreamed what I thought was a success…was actually a failure, and that which I considered a failure was my greatest success…",
+		"japanese": "私が成功とみなした個体が失敗……失敗と判定したおまえが最も優れていたとは……"
+	},
+	{
+		"word": "優れ",
+		"root": "優れる",
+		"definitions": [
+			"優れる[すぐれる] (v1, vi) to surpass, to outstrip, to excel"
+		],
+		"english": "I never dreamed what I thought was a success…was actually a failure, and that which I considered a failure was my greatest success…",
+		"japanese": "私が成功とみなした個体が失敗……失敗と判定したおまえが最も優れていたとは……"
+	},
+	{
+		"word": "のち",
+		"root": "のち",
+		"definitions": [
+			"後[のち] (n, adj-no) later, afterwards, since,future,after one's death,descendant"
+		],
+		"english": "This is perfect! Both Jenova's Reunion and Sephiroth's  will!",
+		"japanese": "素晴らしい！ジェノバのリユニオンとセフィロスの意志のちから！"
+	},
+	{
+		"word": "拡散",
+		"root": "拡散",
+		"definitions": [
+			"拡散[かくさん] (n, vs, adj-no) scattering, diffusion, spread (e.g. signal across the spectrum)"
+		],
+		"english": "They won't be diffused into the Lifestream, but gathered here!",
+		"japanese": "ライフストリームに拡散することなくここに結集したのだ！"
+	},
+	{
+		"word": "結集",
+		"root": "結集",
+		"definitions": [
+			"結集[けっしゅう] (n, vs) concentration (of efforts, forces, etc.), gathering together, regimentation, marshalling, mobilization"
+		],
+		"english": "They won't be diffused into the Lifestream, but gathered here!",
+		"japanese": "ライフストリームに拡散することなくここに結集したのだ！"
+	},
+	{
+		"word": "直後",
+		"root": "直後",
+		"definitions": [
+			"直後[ちょくご] (n-adv, n-t) immediately following"
+		],
+		"english": "…He's a Sephiroth-clone I created after the real Sephiroth died five years ago.",
+		"japanese": "……５年前、セフィロスが死んだ直後に私が創ったセフィロス・コピーのひとつ"
+	},
+	{
+		"word": "ひらめき",
+		"root": "ひらめく",
+		"definitions": [
+			"閃く[ひらめく] (v5k, vi) to flash (e.g. lightning), to flicker, to glitter, to sparkle, to gleam,to flutter (e.g. flag), to wave, to undulate,to flash into one's mind (e.g. an idea), to come to one suddenly"
+		],
+		"english": "Jenova cells and Mako, with my knowledge and skills, have been combined with science and nature to bring him to life.",
+		"japanese": "ジェノバ細胞と魔晄、それにくわえて私の知識、技術、ひらめきが生み出した科学と神秘の生命、セフィロス・コピー"
+	},
+	{
+		"word": "証明",
+		"root": "証明",
+		"definitions": [
+			"証明[しょうめい] (n, vs, adj-no) proof, verification, certification"
+		],
+		"english": "…I'm not wild about the failure part, but the Jenova Reunion Theory has now been proven.",
+		"japanese": "……失敗作だというのが気に入らないがジェノバのリユニオン仮説は証明された"
+	},
+	{
+		"word": "バラバラ",
+		"root": "バラバラ",
+		"definitions": [
+			"バラバラ (adj-na, adj-no, adv, vs) scattered, disperse, loose, disconnected, in pieces, in drops, rustling"
+		],
+		"english": "You see, even if Jenova's body is dismembered, it will eventually become one again. That's what is meant by Jenova's Reunion.",
+		"japanese": "ジェノバは身体をバラバラにされてもやがてひとつの場所に集結し再生する。これがジェノバの『リユニオン』だ"
+	},
+	{
+		"word": "集結",
+		"root": "集結",
+		"definitions": [
+			"集結[しゅうけつ] (n, vs) massing (of troops), gathering"
+		],
+		"english": "You see, even if Jenova's body is dismembered, it will eventually become one again. That's what is meant by Jenova's Reunion.",
+		"japanese": "ジェノバは身体をバラバラにされてもやがてひとつの場所に集結し再生する。これがジェノバの『リユニオン』だ"
+	},
+	{
+		"word": "動き出し",
+		"root": "動き出す",
+		"definitions": [
+			"動き出す[うごきだす] (v5s) to come alive, to get going, to start to move"
+		],
+		"english": "I have been waiting for the Reunion to start. Five years have passed, and now the clones have begun to return.",
+		"japanese": "リユニオンの始まりを私は待った。５年がすぎ……コピーたちは動き出した"
+	},
+	{
+		"word": "天才",
+		"root": "天才",
+		"definitions": [
+			"天才[てんさい] (n) genius, prodigy, natural gift"
+		],
+		"english": "But being the genius that I am, I soon figured it out. You see it was all Sephiroth's doing.",
+		"japanese": "……私は天才だ、すぐにわかった。セフィロスの仕業だ"
+	},
+	{
+		"word": "あやつり",
+		"root": "あやつる",
+		"definitions": [
+			"操る[あやつる] (v5r, vt) to operate (e.g. a machine), to handle, to manage, to control, to maneuver, to steer,to have a good command of (a language), to play proficiently (of a musical instrument),to work (a puppet), to pull the strings of a puppet,to manipulate (a person, public opinion, etc.), to pull the strings, to control from the shadows, to mastermind"
+		],
+		"english": "Sephiroth is not just content to diffuse his will into the Lifestream. He wants to manipulate the Clones himself.",
+		"japanese": "セフィロスの意志はライフストリームで拡散することなく、セフィロス自身としてコピーをあやつりはじめたのだ……"
+	},
+	{
+		"word": "憎しみ",
+		"root": "憎しみ",
+		"definitions": [
+			"憎しみ[にくしみ] (n) hatred"
+		],
+		"english": "All the anger and hatred I bore him, made it impossible for me to ever forget him. That and what he gave me.",
+		"japanese": "セフィロスへの怒りと憎しみ。それは俺がセフィロスのこと、忘れないようにとセフィロスがくれたおくりもの……"
+	},
+	{
+		"word": "くり",
+		"root": "くり",
+		"definitions": [
+			"栗[くり] (n) Japanese chestnut (Castanea crenata)",
+			"庫裏[くり] (n) temple kitchen, monastery kitchen,quarters of a head priest (and his family)",
+			"刳り[くり] (n) hollow, scoop",
+			"クリ (n) clitoris"
+		],
+		"english": "All the anger and hatred I bore him, made it impossible for me to ever forget him. That and what he gave me.",
+		"japanese": "セフィロスへの怒りと憎しみ。それは俺がセフィロスのこと、忘れないようにとセフィロスがくれたおくりもの……"
+	},
+	{
+		"word": "ほんとう",
+		"root": "ほんとう",
+		"definitions": [
+			"本当[ほんとう] (adj-no, adj-na, adv) truth, reality, actuality, fact,proper, right, correct, official,genuine, authentic, natural, veritable",
+			"本島[ほんとう] (n) main island,this island",
+			"本盗[ほんとう] (n) stealing home",
+			"翻倒[ほんとう] (n, vs) turning upside-down",
+			"奔騰[ほんとう] (n, vs) soar (e.g. in price), jump, boom, sudden ride",
+			"本統[ほんとう] (n) main branch of a family,truth, reality"
+		],
+		"english": "…it's really been a long time.",
+		"japanese": "……ほんとうに久しぶりね"
+	},
+	{
+		"word": "きっかけ",
+		"root": "きっかけ",
+		"definitions": [
+			"切っ掛け[きっかけ] (n) chance, start, cue, excuse, motive, impetus, occasion"
+		],
+		"english": "You joined SOLDIER but quit after the Sephiroth incident, and now you're a mercenary…",
+		"japanese": "希望どおりにソルジャーになったことセフィロスの事件をきっかけにやめてしまったこと、何でも屋をやっていること……"
+	}
+]

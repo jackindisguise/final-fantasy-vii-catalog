@@ -80,7 +80,7 @@ const COLOR = {
 
 // local consts
 const inputFolder = "../scene/processed/";
-const outputFolderNew = "../vocabulary/new/";
+const outputFolder = "../vocabulary/unprocessed/";
 //const outputFolderUnique = "../vocabulary/unique/";
 
 // local data
@@ -116,44 +116,38 @@ fs.readdir(inputFolder, async function(err, files){
 				if(!token.root) continue; // fake words
 				if(lookupWords.contains(token.root)) continue; // ignore past searches
 				lookupWords.push(token.root);
-				let spec;
-				if(tokenIsNoun(token)) spec = symbols.pos.noun;
-				else if(tokenIsVerb(token)) spec = symbols.pos.verb;
-				else if(tokenIsIAdj(token)) spec = symbols.pos.i_adj;
-				else if(tokenIsNaAdj(token)) spec = symbols.pos2.na_adj;
-				else if(tokenIsAdverb(token)) spec = symbols.pos.adverb;
-				else continue;
+				if(!tokenIsBasic(token)) continue;
 				let search = lookup(`${token.root}`);
-				console.log(`\tDisambiguating line ${i+1}/${lines.length}...`);
-				console.log(`\t\tEnglish:\t${english}`);
-				console.log(`\t\tJapanese:\t${reconstructed.join("")}`);
-				console.log(`\t\tWord:\t\t${token.word} ('${token.root}' ${token.pos})`);
-				console.log("");
+				//console.log(`\tDisambiguating line ${i+1}/${lines.length}...`);
+				//console.log(`\t\tEnglish:\t${english}`);
+				//console.log(`\t\tJapanese:\t${reconstructed.join("")}`);
+				//console.log(`\t\tWord:\t\t${token.word} ('${token.root}' ${token.pos})`);
+				//console.log("");
 				if(search){
 					if(!search.length) {
-						console.log("\t\tNo results.");
-						console.log("");
+						//console.log("\t\tNo results.");
+						//console.log("");
 						continue;
 					}
 
-					console.log("\t\tOptions");
-					console.log("\t\t-------")
+					//console.log("\t\tOptions");
+					//console.log("\t\t-------")
+					let definitions = [];
 					for(let k=0;k<search.length;k++){
 						let entry = search[k];
 						let word = formatWord(entry);
 						let def = formatSense(entry);
 						let display = word.kanji ? `${word.kanji}[${word.kana}]` : word.kana;
-						console.log(`\t\t${k}) ${display} (${def.pos}) ${def.gloss}`);
+						definitions.push(`${display} (${def.pos}) ${def.gloss}`);
+						//console.log(`\t\t${display} (${def.pos}) ${def.gloss}`);
 					}
 
-					console.log("\t\tPress enter or type 'skip' to skip this word.")
-					console.log("\t\t-------");
-					let choice;
-/*					if(json.length === 1) {
-						console.log("\t\tAutomatically choosing first result.")
-						await sleep(500);
-						choice = json[0];
-					} else {*/
+					sceneLines.push({word:token.word, root:token.root, definitions:definitions, english:english, japanese:japanese});
+
+					//console.log("\t\tPress enter or type 'skip' to skip this word.")
+					//console.log("\t\t-------");
+/*					let choice;
+
 					if(1){
 						while(true){
 							process.stdout.write("\t\tYour choice: "); // add line without break
@@ -188,12 +182,13 @@ fs.readdir(inputFolder, async function(err, files){
 					let word = formatWord(choice);
 					let def = formatSense(choice);
 					sceneLines.push(`${word.kana}\t${word.kanji?word.kanji:""}\t${def.pos}\t${def.gloss}\t${english}\t${japanese}`)
-					console.log("");
+					console.log("");*/
 				}
 			}
 
 		}
 
-		fs.writeFileSync(outputFolderNew+file, sceneLines.join("\r\n"), "utf8");
+		let fName = file.substring(0,file.length-4);
+		fs.writeFileSync(outputFolder+fName+".json", JSON.stringify(sceneLines, null, "\t"), "utf8");
 	}
 });

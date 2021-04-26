@@ -1,0 +1,857 @@
+[
+	{
+		"word": "海流",
+		"root": "海流",
+		"definitions": [
+			"海流[かいりゅう] (n) ocean current"
+		],
+		"english": "Mideel",
+		"japanese": "海流の村　ミディール"
+	},
+	{
+		"word": "うってつけ",
+		"root": "うってつけ",
+		"definitions": [
+			"打ってつけ[うってつけ] (adj-no, adj-na, n) ideal, most suitable"
+		],
+		"english": "Just the perfect place for old folks like us to live out our lives.",
+		"japanese": "わしらのような年寄りがのんびりくらすにはうってつけの場所じゃて"
+	},
+	{
+		"word": "しんきくさい",
+		"root": "しんきくさい",
+		"definitions": [
+			"辛気くさい[しんきくさい] (adj-i) irritating (e.g. tone of voice), fretful, boring (e.g. work), tedious (chore, person), depressing, dark (e.g. story)"
+		],
+		"english": "Oh, how depressing! What a miserable world this is…",
+		"japanese": "ああ、しんきくさい！イヤな世の中だよまったく……"
+	},
+	{
+		"word": "カーン",
+		"root": "カーン",
+		"definitions": [
+			"カーン (n) kern,Kahn"
+		],
+		"english": "I hope it doesn't blow and cause a panic like it did before. That was really bad, I tell ya.",
+		"japanese": "またドカーンとあふれたりして大騒ぎにならなきゃいいけどねえ。シャレになんないよ、まったく"
+	},
+	{
+		"word": "緑色",
+		"root": "緑色",
+		"definitions": [
+			"緑色[みどりいろ] (adj-na, n, adj-no) green, emerald green, green color of new foliage, verdure"
+		],
+		"english": "Everybody goes sometime or another. And everyone gets left too. It's just fate…",
+		"japanese": "あのドケチ女の、子チョコボがはねの下に、緑色のきれいな石をしまいこむのを……"
+	},
+	{
+		"word": "宝石",
+		"root": "宝石",
+		"definitions": [
+			"宝石[ほうせき] (n, adj-no) gem, jewel, precious stone"
+		],
+		"english": "It's sad, but there's nothing that can be done about it. So that's why I'm prayin' for all of you.",
+		"japanese": "ええ、あれはまちがいなくすごい宝石かなにかですわよ！チョコボには、もったいないわ"
+	},
+	{
+		"word": "もったいない",
+		"root": "もったいない",
+		"definitions": [
+			"勿体ない[もったいない] (adj-i) impious, profane, sacrilegious,too good, more than one deserves, unworthy of,wasteful"
+		],
+		"english": "It's sad, but there's nothing that can be done about it. So that's why I'm prayin' for all of you.",
+		"japanese": "ええ、あれはまちがいなくすごい宝石かなにかですわよ！チョコボには、もったいないわ"
+	},
+	{
+		"word": "ぽ",
+		"root": "ぽい",
+		"definitions": [
+			"っぽい (n) -ish, -like,tossing something out, throwing something away",
+			"ポイ (n) paper scoop used in goldfish scooping"
+		],
+		"english": "What's the matter? Are you all alone?",
+		"japanese": "どうしたの、おまえ？ひとりぽっちなの？"
+	},
+	{
+		"word": "見失っ",
+		"root": "見失う",
+		"definitions": [
+			"見失う[みうしなう] (v5u, vt) to lose sight of, to miss"
+		],
+		"english": "You got lost didn't you? Separated from someone you love? Silly thing…",
+		"japanese": "見失っちゃったのね大切なだれかを……？バカだね……"
+	},
+	{
+		"word": "週間",
+		"root": "週間",
+		"definitions": [
+			"週間[しゅうかん] (n) week"
+		],
+		"english": "I guess it's been about a week now since he washed up here on the shore… Poor pokey-headed young thing…",
+		"japanese": "……もう一週間にもなるかの海岸にうちあげられた……あの、ツンツン頭の若いの……"
+	},
+	{
+		"word": "うちあげ",
+		"root": "うちあげる",
+		"definitions": [
+			"打ち上げる[うちあげる] (v1, vt) to launch, to shoot up,(of waves) to dash, to wash up (ashore),to finish (e.g. a theater run, sumo tournament), to close,to report (to boss, etc.)"
+		],
+		"english": "I guess it's been about a week now since he washed up here on the shore… Poor pokey-headed young thing…",
+		"japanese": "……もう一週間にもなるかの海岸にうちあげられた……あの、ツンツン頭の若いの……"
+	},
+	{
+		"word": "長剣",
+		"root": "長剣",
+		"definitions": [
+			"長剣[ちょうけん] (n) long sword,minute hand (of a clock)",
+			"長太刀[ながだち] (n) ancient longsword"
+		],
+		"english": "It was really sad…but weird. He was holding this really long sword.",
+		"japanese": "ああ、ムゴイこっちゃが……でも、ありゃどうも変だで……どでかい長剣、にぎりしめて……"
+	},
+	{
+		"word": "にぎりしめ",
+		"root": "にぎりしめる",
+		"definitions": [
+			"握り締める[にぎりしめる] (v1, vt) to grasp tightly"
+		],
+		"english": "It was really sad…but weird. He was holding this really long sword.",
+		"japanese": "ああ、ムゴイこっちゃが……でも、ありゃどうも変だで……どでかい長剣、にぎりしめて……"
+	},
+	{
+		"word": "ふしぎ",
+		"root": "ふしぎ",
+		"definitions": [
+			"不思議[ふしぎ] (adj-na, n) wonderful, marvelous, strange, incredible, amazing, curious, miraculous, mysterious"
+		],
+		"english": "I dunno. The whole thing feels unlucky to me. But the amazing thing was those weird blue eyes…",
+		"japanese": "なんや不吉な気がするんや。なんちゅうても、ほれ……あの、ふしぎな青い目……"
+	},
+	{
+		"word": "大当たり",
+		"root": "大当たり",
+		"definitions": [
+			"大当たり[おおあたり] (n, vs, adj-no) big hit, big prize, bumper crop, striking it rich, right on the mark, bonanza, bull's eye, bullseye"
+		],
+		"english": "Jackpot!",
+		"japanese": "よっしゃ、大当たりや！"
+	},
+	{
+		"word": "よほど",
+		"root": "よほど",
+		"definitions": [
+			"余程[よほど] (adv) very, greatly, much, to a large extent, quite,just about to"
+		],
+		"english": "So how is the boy? Poor kid. He sure got the worst of whatever it was…",
+		"japanese": "どうじゃ、兄ちゃんのぐあいは？かわいそうにのう。よほどつらいめにおうたんじゃろうなあ……"
+	},
+	{
+		"word": "ごま",
+		"root": "ごま",
+		"definitions": [
+			"胡麻[ごま] (n) sesame seeds,sesame (Sesamum indicum)",
+			"護摩[ごま] (n) homa, [object Object]"
+		],
+		"english": "Sure hope he gets better soon. Right now is when he really needs to hold on and not give up.",
+		"japanese": "はやくようなると、ええのう。こんな時だからこそ、さいごまであきらめずになあ"
+	},
+	{
+		"word": "はこびこま",
+		"root": "はこびこむ",
+		"definitions": [
+			"運び込む[はこびこむ] (v5m, vt) to carry in, to bring in"
+		],
+		"english": "It's amazing he recovered. When they carried him here after they first discovered him, I thought for sure he was a goner.",
+		"japanese": "しかし、よう助かったもんじゃ。はこびこまれてきたのを見たときはこりゃあかんと思うたのに"
+	},
+	{
+		"word": "守り神",
+		"root": "守り神",
+		"definitions": [
+			"守り神[まもりがみ] (n) guardian deity"
+		],
+		"english": "That boy must have one powerful guardian angel watchin' over him.",
+		"japanese": "きっとあの兄ちゃんにはごっつう強い守り神はんがついとってくだはるんちゃうか"
+	},
+	{
+		"word": "はん",
+		"root": "はん",
+		"definitions": [
+			"反[はん] (n) anti-,antithesis,fanqie, [object Object]",
+			"版[はん] (ctr) edition, version, printing, impression, implementation (e.g. software),plate, block, cast,editions of a publication",
+			"半[はん] (n) half, semi-,half-past,odd number,unit of land area (595.8 m^2)",
+			"判[はん] (n, n-suf) seal, stamp, monogram signature,judgment, judgement,size (of paper or books)",
+			"班[はん] (n, n-suf) group, party, team,squad, section",
+			"藩[はん] (n, n-suf) feudal domain (Edo and early Meiji periods, precursor to current prefectures), fiefdom, province, clan",
+			"範[はん] (n) example, model",
+			"汎[はん] (n, pref) pan-",
+			"斑[ぶち] (n) spots, speckles, mottles",
+			"煩[はん] (n) trouble",
+			"犯[はん] (suf) perpetrators of (some) crime, (some type of) crime",
+			"はん (suf) Mr, Mrs, Ms, -san",
+			"ハン (n) khan (medieval ruler of a Tatary tribe)",
+			"翻[ハン] (ctr) double, unit used in calculation of a hand's score"
+		],
+		"english": "That boy must have one powerful guardian angel watchin' over him.",
+		"japanese": "きっとあの兄ちゃんにはごっつう強い守り神はんがついとってくだはるんちゃうか"
+	},
+	{
+		"word": "づらい",
+		"root": "づらい",
+		"definitions": [
+			"辛い[づらい] (aux-adj, adj-i) difficult to ..., hard to ..."
+		],
+		"english": "There's something stuck deep inside that looks like a key… It's hard to get out.",
+		"japanese": "なにか、カギみたいなものが奥にはさまってるけれど……。ちょっと取りづらいわね"
+	},
+	{
+		"word": "ずらし",
+		"root": "ずらす",
+		"definitions": [
+			"滑らす[ずらす] (v5s, vt) to shift, to slide (e.g. something away from something else), to move (e.g. something out of the way),to put off, to delay, to postpone, to stagger (e.g. working hours)"
+		],
+		"english": "If I just move this… And push that… Okay! I got it out!",
+		"japanese": "ここを、こうずらして……。そっちを、こう押して……。オッケー！　はずれたわ！"
+	},
+	{
+		"word": "ぜったい",
+		"root": "ぜったい",
+		"definitions": [
+			"絶対[ぜったい] (n) absolutely, unconditionally,absolute, unconditional, unmistakable,absoluteness",
+			"舌苔[ぜったい] (n) fur (on one's tongue)",
+			"絶待[ぜつだい] (n) absoluteness, incomparability, supremacy"
+		],
+		"english": "Received \"Beat-up Useless Old Key\"!",
+		"japanese": "『ぜったいに、まったく、何の役にもたちそうにない、ボロボロのカギ』をひろった！！"
+	},
+	{
+		"word": "ボロボロ",
+		"root": "ボロボロ",
+		"definitions": [
+			"ぼろぼろ (adv, adv-to) worn-out, ragged, tattered, battered, scruffy,crumbling, dry and crumbly,falling (in drops or clumps), scattering,(physically or mentally) worn-out, exhausted,(coming to light) one after another"
+		],
+		"english": "Received \"Beat-up Useless Old Key\"!",
+		"japanese": "『ぜったいに、まったく、何の役にもたちそうにない、ボロボロのカギ』をひろった！！"
+	},
+	{
+		"word": "出血",
+		"root": "出血",
+		"definitions": [
+			"出血[しゅっけつ] (n, vs) bleeding, haemorrhage, hemorrhage,bleeding money, red ink, selling below cost"
+		],
+		"english": "Gather 'round, gather 'round, this is a bargain!! We've got the best armor and weapons, the likes of which you won't find anywhere else. But it's first come, first served, so get yours now!",
+		"japanese": "さあ、さあ、出血大サービス！！ほかじゃぜったい手に入らない最高の武器や防具がせいぞろい。はやい者勝ちだよ、チクショー！"
+	},
+	{
+		"word": "うちの人",
+		"root": "うちの人",
+		"definitions": [
+			"内の人[うちのひと] (exp, n) my husband, one's family"
+		],
+		"english": "I'll never know why he wanted to open a store in a dead town like this. What's with him? …sigh…",
+		"japanese": "しかし、なんだってまたこんなのんきな村なんかに店を出そうと思いついたんだろうねうちの人は……？　はあ……"
+	},
+	{
+		"word": "地表",
+		"root": "地表",
+		"definitions": [
+			"地表[ちひょう] (n, adj-no) surface of the earth, ground surface"
+		],
+		"english": "The Lifestream is gushing up from below the surface of the earth!",
+		"japanese": "地下のライフストリームが地表に吹き出すってえのか！？"
+	},
+	{
+		"word": "くたばっ",
+		"root": "くたばる",
+		"definitions": [
+			"くたばる (v5r, vi) to kick the bucket, to drop dead, to die, to croak,to be pooped, to be exhausted, to be knackered"
+		],
+		"english": "Hey, don't worry about a thing. I ain't about to die that easily.",
+		"japanese": "ヘッ、心配すんねえ。このオレ様が、そう簡単にくたばってたまるかってんだ"
+	},
+	{
+		"word": "メイド",
+		"root": "メイド",
+		"definitions": [
+			"メイド (n) maid",
+			"冥土[めいど] (n) Hades, the underworld, the other world, realm of the dead",
+			"明度[めいど] (n) brightness, lightness"
+		],
+		"english": "Actually, I'm a beautiful maid. I only work in this accessory store part-time.",
+		"japanese": "あたしゃ美人のメイドだけどねないしょくで、アクセサリーの売り買いもしてるのさ"
+	},
+	{
+		"word": "しょく",
+		"root": "しょく",
+		"definitions": [
+			"職[しょく] (n, n-suf) job, work, employment, occupation, position,duties,trade, skill",
+			"卓[たく] (n) table, desk,counter for tables, desks, etc.,offering table before an altar (sometimes used in tea ceremony),tabletop incense burner",
+			"食[しょく] (n) meal, (one's) diet, food, foodstuff, foodstuffs,eclipse (solar, lunar, etc.)",
+			"俗[ぞく] (adj-na, adj-no) layman (esp. as opposed to a Buddhist monk), laity, man of the world, the world,local manners, modern customs,common, popular,vulgar, low",
+			"色[しょく] (ctr) counter for colours",
+			"続[ぞく] (n, n-pref) continuation, sequel",
+			"燭[しょく] (n, n-suf) light, lamp,obsolete unit of luminous intensity (approx. 1.0067 candela)",
+			"蜀[しょく] (n) Sichuan (province in China),Shu, Shu Han, [object Object],Shu, [object Object]",
+			"初句[しょく] (n) first five syllables (of a tanka), first line (of a poem)"
+		],
+		"english": "Actually, I'm a beautiful maid. I only work in this accessory store part-time.",
+		"japanese": "あたしゃ美人のメイドだけどねないしょくで、アクセサリーの売り買いもしてるのさ"
+	},
+	{
+		"word": "売り買い",
+		"root": "売り買い",
+		"definitions": [
+			"売り買い[うりかい] (n, vs) trade, buying and selling"
+		],
+		"english": "Actually, I'm a beautiful maid. I only work in this accessory store part-time.",
+		"japanese": "あたしゃ美人のメイドだけどねないしょくで、アクセサリーの売り買いもしてるのさ"
+	},
+	{
+		"word": "極上",
+		"root": "極上",
+		"definitions": [
+			"極上[ごくじょう] (adj-no, n, adj-na) first-rate, finest quality, the best"
+		],
+		"english": "Our goods compare with the best goods anywhere. So, how about one?",
+		"japanese": "どこ出したってはずかしくない極上の品ばっかだよ。どうだい、ひとつ？"
+	},
+	{
+		"word": "もろう",
+		"root": "もろい",
+		"definitions": [
+			"脆い[もろい] (adj-i) brittle, fragile, weak, frail,tender-hearted, sentimental, easily moved"
+		],
+		"english": "I'm all right. I've lived a long, full life.",
+		"japanese": "わしは、いいんじゃ。もうじゅうぶん長く生きさせてもろうたからね"
+	},
+	{
+		"word": "買いだめ",
+		"root": "買いだめ",
+		"definitions": [
+			"買いだめ[かいだめ] (n, vs) stocking up on, hoarding"
+		],
+		"english": "This's no joke! We've got to start stocking up on supplies before they're all gone!",
+		"japanese": "じょうだんじゃないわ！とりあえず必要なものは買いだめしとかなくっちゃ！"
+	},
+	{
+		"word": "横取り",
+		"root": "横取り",
+		"definitions": [
+			"横取り[よこどり] (n, vs) snatching, stealing, seizure, usurpation"
+		],
+		"english": "Don't reach in front of me! Everything in this store is mine!",
+		"japanese": "横取りなんかしないでよ！このお店にあるのは、みんなわたしのなんだから！"
+	},
+	{
+		"word": "博愛",
+		"root": "博愛",
+		"definitions": [
+			"博愛[はくあい] (n, adj-no) charity, benevolence, philanthropy, (love for) humanity, fraternity, brotherhood, brotherly love, love of fellow man"
+		],
+		"english": "Welcome to the charity store, a store of love and courage! What can I get you today?",
+		"japanese": "いらっしゃい！愛と勇気の、博愛ショップ！今日は、どんなごようですか？"
+	},
+	{
+		"word": "折れ",
+		"root": "折れる",
+		"definitions": [
+			"折れる[おれる] (v1, vi) to break, to be broken, to snap, to fracture,to be folded,to give in, to back down, to yield, to submit,to turn (a corner)"
+		],
+		"english": "…The key broke off inside, and I can't get to it…",
+		"japanese": "……。折れたカギが中につまって取れないよ、これ……"
+	},
+	{
+		"word": "かんな",
+		"root": "かんな",
+		"definitions": [
+			"鉋[かんな] (n) plane (for working with wood)",
+			"寛和[かんな] (n) Kanna era (985.4.27-987.4.5), Kanwa era"
+		],
+		"english": "… I don't know a thing about it…",
+		"japanese": "………。し、知らねえかんな、おれは……"
+	},
+	{
+		"word": "ためし",
+		"root": "ためす",
+		"definitions": [
+			"試す[ためす] (v5s, vt) to attempt, to test, to try out"
+		],
+		"english": "Oh yeah, shall I try that old beat up key?",
+		"japanese": "そうだ、あのボロボロのカギ……ためしてみようかな？"
+	},
+	{
+		"word": "ばり",
+		"root": "ばる",
+		"definitions": [
+			"バル (n) balcony,Spanish bar, Spanish-style restaurant with a counter, serving food, alcoholic drinks, and coffee",
+			"張る[ばる] (suf, v5r) to be prominently ..., to be persistently ..."
+		],
+		"english": "I'd better not. It doesn't look like it fits.",
+		"japanese": "やっばり、やめとこ。どうも、これじゃ合いそうにないし"
+	},
+	{
+		"word": "合い",
+		"root": "合う",
+		"definitions": [
+			"合う[あう] (aux-v, v5u) to come together, to merge, to unite, to meet,to fit, to match, to suit, to agree with, to be correct,to be profitable, to be equitable,to do ... to each other, to do ... together"
+		],
+		"english": "I'd better not. It doesn't look like it fits.",
+		"japanese": "やっばり、やめとこ。どうも、これじゃ合いそうにないし"
+	},
+	{
+		"word": "ごまかし",
+		"root": "ごまかし",
+		"definitions": [
+			"誤魔化し[ごまかし] (n, adj-no) hanky-panky, juggling, cheating, deception, smoke and mirrors"
+		],
+		"english": "What the hell…lie!",
+		"japanese": "ええい、ごまかしちめえ！"
+	},
+	{
+		"word": "あやまっ",
+		"root": "あやまつ",
+		"definitions": [
+			"過つ[あやまつ] (v5t, vi) to err"
+		],
+		"english": "Just apologize and get it over with!",
+		"japanese": "正直にあやまっちめえ！"
+	},
+	{
+		"word": "あじ",
+		"root": "あじ",
+		"definitions": [
+			"味[あじ] (adj-na) flavor, flavour, taste,charm, style,experience,smart, clever, witty, strange",
+			"鯵[あじ] (n) horse mackerel (Carangidae spp., esp. the Japanese horse mackerel, Trachurus japonicus), jack mackerel, pompano, scad",
+			"アジ (n) agitation",
+			"阿字[あじ] (n) the letter a (in esoteric Buddhism)",
+			"按司[あじ] (n) chieftain (of the Ryukyu Kingdom)"
+		],
+		"english": "Whew…that was close. But I feel bad…",
+		"japanese": "ホッ……助かった。でも、ちょっと、あとあじわるいな……"
+	},
+	{
+		"word": "ひける",
+		"root": "ひける",
+		"definitions": [
+			"引ける[ひける] (v1, vi) to close, to be over, to break up (e.g. school),to lose one's nerve, to feel daunted"
+		],
+		"english": "Phew…that was a close one. But I kinda feel a little bad about it.",
+		"japanese": "ひゅう……、助かったぜ。だが、ちょいとばっかし気がひけるな……"
+	},
+	{
+		"word": "かなえ",
+		"root": "かなえる",
+		"definitions": [
+			"叶える[かなえる] (v1, vt) to grant (request, wish), to answer (prayer),to fulfill (conditions), to meet (requirements)"
+		],
+		"english": "I feel that you all might be able to make my dreams come true. Weird, isn't it?",
+		"japanese": "なんだかあなた方はぼくのかわりにそのねがいをかなえてくれるような気がします。ヘンですね……"
+	},
+	{
+		"word": "ひとなつっこい",
+		"root": "ひとなつっこい",
+		"definitions": [
+			"人懐っこい[ひとなつっこい] (adj-i) friendly, affable, amiable, sociable, loving company, (animals) taking kindly to men"
+		],
+		"english": "What is it? You're being awful friendly all of a sudden.",
+		"japanese": "どうしたの、おまえ？やけに、ひとなつっこいわね？"
+	},
+	{
+		"word": "好物",
+		"root": "好物",
+		"definitions": [
+			"好物[こうぶつ] (n) favourite dish (favorite), favourite food"
+		],
+		"english": "Oh, so that's it. You want the Mimmet Greens…don't you?",
+		"japanese": "ははぁ、さてはこれか。ミメットの野菜が好物なんだな……おめえ？"
+	},
+	{
+		"word": "助",
+		"root": "助",
+		"definitions": [
+			"助[じょ] (pref) help, rescue, assistant",
+			"助[すけ] (n) assistance, help, helper,babe, chick, broad"
+		],
+		"english": "Sorry, shorty. But I can't give ya any.",
+		"japanese": "おっと、残念だけどよ。野菜はやれねえな、チビ助"
+	},
+	{
+		"word": "案外",
+		"root": "案外",
+		"definitions": [
+			"案外[あんがい] (adj-na) unexpectedly, surprisingly,unexpected, unanticipated, unforeseen, surprising"
+		],
+		"english": "Heh heh, hey he's kinda cute. Aw, maybe I'll just tickle him a little.",
+		"japanese": "へへっ、案外かわいいな。どれ、そいじゃついでにひとつこちょこちょでもしてやっか？"
+	},
+	{
+		"word": "のど",
+		"root": "のど",
+		"definitions": [
+			"喉[のど] (n) throat,singing voice",
+			"閑[のど] (adj-nari) tranquil, calm, quiet, peaceful"
+		],
+		"english": "Tickle his neck",
+		"japanese": "のどをこちょこちょ"
+	},
+	{
+		"word": "へそ",
+		"root": "へそ",
+		"definitions": [
+			"臍[へそ] (n) navel, belly button,protrusion or depression in the middle of an object,center, centre, most important part, main point"
+		],
+		"english": "Tickle his belly button",
+		"japanese": "おへそをこちょこちょ"
+	},
+	{
+		"word": "わきの下",
+		"root": "わきの下",
+		"definitions": [
+			"脇の下[わきのした] (n) armpit, axilla"
+		],
+		"english": "Tickle under his arms",
+		"japanese": "わきの下をこちょこちょ"
+	},
+	{
+		"word": "くすぐったい",
+		"root": "くすぐったい",
+		"definitions": [
+			"擽ったい[くすぐったい] (adj-i) ticklish,embarrassing"
+		],
+		"english": "The chocobo looks a little ticklish.",
+		"japanese": "チョコボは、くすぐったいようだ。"
+	},
+	{
+		"word": "食い",
+		"root": "食い",
+		"definitions": [
+			"食い[くい] (n) eating,bite (in fishing)"
+		],
+		"english": "Dined and dashed.",
+		"japanese": "タダ食いだった。"
+	},
+	{
+		"word": "驚かし",
+		"root": "驚かす",
+		"definitions": [
+			"驚かす[おどろかす] (v5s, vt) to surprise, to frighten, to create a stir"
+		],
+		"english": "Sheesh, you scared me. I thought you croaked!!",
+		"japanese": "ひゅ～、驚かしやがって。死んだかと思っちまったぜ！！"
+	},
+	{
+		"word": "ニコニコ",
+		"root": "ニコニコ",
+		"definitions": [
+			"ニコニコ (adv, adv-to, vs) with a friendly grin, smilingly"
+		],
+		"english": "Welcome! We always welcome cash! Now, about where you want to go…",
+		"japanese": "へい、らっしゃい！いつもニコニコ現金払い！と、行きたいとこなんだが……"
+	},
+	{
+		"word": "現金",
+		"root": "現金",
+		"definitions": [
+			"現金[げんきん] (adj-na) cash, ready money, money on hand, currency,mercenary, self-interested, calculating"
+		],
+		"english": "Welcome! We always welcome cash! Now, about where you want to go…",
+		"japanese": "へい、らっしゃい！いつもニコニコ現金払い！と、行きたいとこなんだが……"
+	},
+	{
+		"word": "ドクター",
+		"root": "ドクター",
+		"definitions": [
+			"ドクター (n) doctor"
+		],
+		"english": "Doctor",
+		"japanese": "ドクター"
+	},
+	{
+		"word": "中毒",
+		"root": "中毒",
+		"definitions": [
+			"中毒[ちゅうどく] (n-suf) poisoning,addiction"
+		],
+		"english": "Mako poisoning… Quite an advanced case.",
+		"japanese": "魔晄中毒だよ……。それも、かなり重度の、ね……"
+	},
+	{
+		"word": "重度",
+		"root": "重度",
+		"definitions": [
+			"重度[じゅうど] (adj-no, n) severe (injury, handicap, etc.), serious"
+		],
+		"english": "Mako poisoning… Quite an advanced case.",
+		"japanese": "魔晄中毒だよ……。それも、かなり重度の、ね……"
+	},
+	{
+		"word": "強烈",
+		"root": "強烈",
+		"definitions": [
+			"強烈[きょうれつ] (adj-na, n) strong, intense, severe"
+		],
+		"english": "It appears this young man's been exposed to high levels of Mako energy for an extended period of time.",
+		"japanese": "どうもこの若者は強烈な魔晄エネルギーに長時間さらされたようだな"
+	},
+	{
+		"word": "むごい",
+		"root": "むごい",
+		"definitions": [
+			"惨い[むごい] (adj-i) cruel, merciless, pitiless, brutal, atrocious, inhuman,tragic, horrible, terrible, dreadful, miserable"
+		],
+		"english": "How horrible…",
+		"japanese": "なんて、むごい……"
+	},
+	{
+		"word": "代わっ",
+		"root": "代わる",
+		"definitions": [
+			"替わる[かわる] (v5r, vi) to succeed, to relieve, to replace,to take the place of, to substitute for, to take over for, to represent, to hand over (telephone),to be exchanged, to change (places with), to switch"
+		],
+		"english": "If TIFA were my nurse, I'd switch places with CLOUD any day!",
+		"japanese": "TIFAさんがかんびょうしてくれるんやったら、CLOUDさんと代わってほしいくらいですわ"
+	},
+	{
+		"word": "みずくさい",
+		"root": "みずくさい",
+		"definitions": [
+			"水臭い[みずくさい] (adj-i) stand-offish, distant, not frank, reserved,watery (alcohol, coffee, etc.)"
+		],
+		"english": "What're you talkin' about? We'll stop in again.",
+		"japanese": "ええって、みずくさいなぁ。また顔みせにきますわ"
+	},
+	{
+		"word": "みこみ",
+		"root": "みこむ",
+		"definitions": [
+			"見込む[みこむ] (v5m, vt) to anticipate, to estimate, to expect,to count on"
+		],
+		"english": "You know… CLOUD?",
+		"japanese": "あいつは……、CLOUDはどうなんだ？なおるみこみはあるのかい？"
+	},
+	{
+		"word": "生身",
+		"root": "生身",
+		"definitions": [
+			"生身[なまみ] (n, adj-no) living flesh, flesh and blood,physical body of Buddha or a bodhisattva"
+		],
+		"english": "No wonder. He fell into the Lifestream and washed up here…",
+		"japanese": "ムリないよ。生身でライフストリームにどっぷりつかっちゃったんだから……"
+	},
+	{
+		"word": "どっぷり",
+		"root": "どっぷり",
+		"definitions": [
+			"どっぷり (adj-na, adv, adv-to) totally (immersed in something, e.g. liquid, work), addicted"
+		],
+		"english": "No wonder. He fell into the Lifestream and washed up here…",
+		"japanese": "ムリないよ。生身でライフストリームにどっぷりつかっちゃったんだから……"
+	},
+	{
+		"word": "りき",
+		"root": "りき",
+		"definitions": [
+			"力[りき] (n-suf) strength, power, proficiency, ability,the strength of ... people, the strength of ... men",
+			"利器[りき] (n) convenience,sharp-edged tool"
+		],
+		"english": "No lie. After fallin' head first into the Lifestream.",
+		"japanese": "あったりきだよねえ。ライフストリームに、頭から飛びこんじゃったんだもんね"
+	},
+	{
+		"word": "飛びこん",
+		"root": "飛びこむ",
+		"definitions": [
+			"飛び込む[とびこむ] (v5m, vi) to jump in, to leap in, to plunge into, to dive,to burst in, to barge in"
+		],
+		"english": "No lie. After fallin' head first into the Lifestream.",
+		"japanese": "あったりきだよねえ。ライフストリームに、頭から飛びこんじゃったんだもんね"
+	},
+	{
+		"word": "もたらす",
+		"root": "もたらす",
+		"definitions": [
+			"齎す[もたらす] (v5s, vt) to bring, to take, to bring about"
+		],
+		"english": "What did he do for the world? What can he do for us from here on out? He may be nothing more than Sephiroth's shadow…",
+		"japanese": "ヤツがこの世界に何をした？この先、オレたちに何をもたらす？セフィロスの影でしかないのかもしれねえんだぞ……"
+	},
+	{
+		"word": "おちおち",
+		"root": "おちおち",
+		"definitions": [
+			"落ち落ち[おちおち] (adv) quietly, calmly, comfortably, peacefully"
+		],
+		"english": "With friends like us worrying about him He'll pull through.",
+		"japanese": "こないに心配してくれはるおともだちが、ようさんおるんやおちおちねとられへんて"
+	},
+	{
+		"word": "近づける",
+		"root": "近づける",
+		"definitions": [
+			"近づける[ちかづける] (v1, vt) to bring near, to bring close, to let go near,to associate with, to bring (people) together, to let come near (of a person)"
+		],
+		"english": "When our small Materia nears the larger one, there should be some reaction.",
+		"japanese": "えっと、オイラたちの小さなマテリアを大きなマテリアに近づけると何かがおこるはずだよ、きっと"
+	},
+	{
+		"word": "やかん",
+		"root": "やかん",
+		"definitions": [
+			"夜間[やかん] (n-adv, n-t) night, nighttime",
+			"薬缶[やかん] (n) kettle"
+		],
+		"english": "Even though you're always knocking him, you really want CLOUD to return.",
+		"japanese": "なんやかんや、言うてもCLOUDさんが帰ってきはったらええなと思ってはるんや"
+	},
+	{
+		"word": "オペレーション",
+		"root": "オペレーション",
+		"definitions": [
+			"オペレーション (n) operation"
+		],
+		"english": "The Operation Room's waiting for you!",
+		"japanese": "オペレーション・ルームがあんたを待ってるぜ！"
+	},
+	{
+		"word": "看病",
+		"root": "看病",
+		"definitions": [
+			"看病[かんびょう] (n, vs) nursing (a patient)"
+		],
+		"english": "I could look after him instead.",
+		"japanese": "オイラ、看病かわってもいいな"
+	},
+	{
+		"word": "お次",
+		"root": "お次",
+		"definitions": [
+			"お次[おつぎ] (n, adj-no) next, next person,room adjoining a noble's parlor"
+		],
+		"english": "Where shall we go next? Shall we head for the Corel reactor?",
+		"japanese": "お次はなんだ？コレルの魔晄炉だったかぁ？"
+	},
+	{
+		"word": "あわ",
+		"root": "あわ",
+		"definitions": [
+			"泡[あわ] (n) bubble, foam, froth, head on beer",
+			"粟[あわ] (n) foxtail millet (Setaria italica), Italian millet (also Hungarian, German)"
+		],
+		"english": "Yaah! Shall we take off?",
+		"japanese": "あわ！　いくですか？"
+	},
+	{
+		"word": "シケ",
+		"root": "シケ",
+		"definitions": [
+			"時化[しけ] (n) stormy weather (at sea),poor catch of fish (due to stormy seas),poor turn-out, recession",
+			"師家[しけ] (n) Zen master"
+		],
+		"english": "What's that sad face for?",
+		"japanese": "な～にシケた顔してるんだぁ？"
+	},
+	{
+		"word": "ちらっと",
+		"root": "ちらっと",
+		"definitions": [
+			"ちらっと (adv) at a glance, by accident"
+		],
+		"english": "Yo, wanna see what TIFA and the gang are doing?",
+		"japanese": "おい、ちらっとTIFAたちの様子でも見にいかねえか？"
+	},
+	{
+		"word": "ふきだし",
+		"root": "ふきだす",
+		"definitions": [
+			"吹き出す[ふきだす] (v5s, vt) to spout out, to spurt out, to gush out, to jet out,to sprout, to bud,to burst into laughter,to blow (smoke, etc.),to send out shoots (of a tree)"
+		],
+		"english": "They said the Lifestream sometimes suddenly gushes out at the Southern island.",
+		"japanese": "南の島で、ときどきライフストリームがブワーッてふきだしたりするんだって"
+	},
+	{
+		"word": "ほっぺた",
+		"root": "ほっぺた",
+		"definitions": [
+			"頬っぺた[ほっぺた] (n) cheek"
+		],
+		"english": "You saw him slapping Scarlet around?",
+		"japanese": "スカーレットのほっぺたバシバシしばいてましたやろ？"
+	},
+	{
+		"word": "しば",
+		"root": "しば",
+		"definitions": [
+			"芝[しば] (n) lawn, sod, turf",
+			"柴[しば] (n) brushwood, firewood",
+			"司馬[しば] (n) Minister of War (Zhou-dynasty China)",
+			"駟馬[しば] (n) four horse carriage",
+			"死馬[しば] (n) dead horse"
+		],
+		"english": "You saw him slapping Scarlet around?",
+		"japanese": "スカーレットのほっぺたバシバシしばいてましたやろ？"
+	},
+	{
+		"word": "要注意",
+		"root": "要注意",
+		"definitions": [
+			"要注意[ようちゅうい] (n) attention (care) required, needs special attention"
+		],
+		"english": "Now we've got to be careful. I know Heidegger and his gang are plotting something.",
+		"japanese": "でも、こういう時は要注意ですのや。ハイデッカーたちがなんか考えてるにちがいまへんわ"
+	},
+	{
+		"word": "ふくらみ",
+		"root": "ふくらむ",
+		"definitions": [
+			"膨らむ[ふくらむ] (v5m, vi) to expand, to swell (out), to get big, to become inflated"
+		],
+		"english": "Too much hope is the opposite of despair.",
+		"japanese": "ふくらみすぎた希望は絶望の裏返し"
+	},
+	{
+		"word": "裏返し",
+		"root": "裏返し",
+		"definitions": [
+			"裏返し[うらがえし] (n) inside out, upside down,flip side, opposite, contrary, reverse"
+		],
+		"english": "Too much hope is the opposite of despair.",
+		"japanese": "ふくらみすぎた希望は絶望の裏返し"
+	},
+	{
+		"word": "打ちのめす",
+		"root": "打ちのめす",
+		"definitions": [
+			"打ちのめす[うちのめす] (v5s, vt) to knock down, to beat (someone) up,to injure (someone) so badly they cannot recover (esp. emotionally), to overwhelm (with mental anguish, etc.)"
+		],
+		"english": "An overpowering love may consume you in the end.",
+		"japanese": "大きすぎる愛はおまえを打ちのめすことになるかもしれない……"
+	},
+	{
+		"word": "ねぎらい",
+		"root": "ねぎらい",
+		"definitions": [
+			"労い[ねぎらい] (n) appreciation, thanks, gratitude"
+		],
+		"english": "I have no words of comfort. Of course, I don't believe you're the type who needs the kindness from others…",
+		"japanese": "ねぎらいの言葉すら、私は知らない。もっとも、あんたは他人の優しさにすがるような人間ではなさそうだが……"
+	},
+	{
+		"word": "優し",
+		"root": "優しい",
+		"definitions": [
+			"優しい[やさしい] (adj-i) tender, kind, gentle, graceful, affectionate, amiable"
+		],
+		"english": "I have no words of comfort. Of course, I don't believe you're the type who needs the kindness from others…",
+		"japanese": "ねぎらいの言葉すら、私は知らない。もっとも、あんたは他人の優しさにすがるような人間ではなさそうだが……"
+	},
+	{
+		"word": "すがる",
+		"root": "すがる",
+		"definitions": [
+			"縋る[すがる] (v5r) to cling to, to hang onto,to rely on, to depend on,to implore, to entreat",
+			"蜾蠃[すがる] (n) red-banded sand wasp (Ammophila sabulosa),deer"
+		],
+		"english": "I have no words of comfort. Of course, I don't believe you're the type who needs the kindness from others…",
+		"japanese": "ねぎらいの言葉すら、私は知らない。もっとも、あんたは他人の優しさにすがるような人間ではなさそうだが……"
+	}
+]

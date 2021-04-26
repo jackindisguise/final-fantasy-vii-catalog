@@ -1,0 +1,607 @@
+[
+	{
+		"word": "ジャングル",
+		"root": "ジャングル",
+		"definitions": [
+			"ジャングル (n) jungle"
+		],
+		"english": "Jungle",
+		"japanese": "ジャングル"
+	},
+	{
+		"word": "ホワイト",
+		"root": "ホワイト",
+		"definitions": [
+			"ホワイト (n) white,correction fluid, white-out"
+		],
+		"english": "Received \"White M-phone\"!",
+		"japanese": "『ホワイトメガホン』を手にいれた！"
+	},
+	{
+		"word": "あらあら",
+		"root": "あらあら",
+		"definitions": [
+			"粗粗[あらあら] (adv) roughly",
+			"あらあら (int) tsk tsk, oh-oh, huh, what's that?"
+		],
+		"english": "Oh, you're right! Don't you know anything about our son?",
+		"japanese": "あらあらホントだよ！あんたウチの息子を知らないかい？"
+	},
+	{
+		"word": "ウチ",
+		"root": "ウチ",
+		"definitions": [
+			"内[うち] (pn) inside, within,while,among, amongst, between,we, our,my spouse,imperial palace grounds,emperor,I, me",
+			"家[うち] (pn) house, home (one's own),(one's) family, (one's) household"
+		],
+		"english": "Oh, you're right! Don't you know anything about our son?",
+		"japanese": "あらあらホントだよ！あんたウチの息子を知らないかい？"
+	},
+	{
+		"word": "イナカ",
+		"root": "イナカ",
+		"definitions": [
+			"田舎[いなか] (n, adj-no) rural area, countryside, the sticks,hometown"
+		],
+		"english": "It's been close to 10 years since he left for the city, saying that he didn't want to live in the country…",
+		"japanese": "こんなイナカじゃくらせないとか言い残して都会へいったままもう、かれこれ１０年近く……"
+	},
+	{
+		"word": "かれこれ",
+		"root": "かれこれ",
+		"definitions": [
+			"彼此[あれこれ] (adv) this and that, this or that, one thing or another, this way and that,around, about, round about, roughly, nearly, almost"
+		],
+		"english": "It's been close to 10 years since he left for the city, saying that he didn't want to live in the country…",
+		"japanese": "こんなイナカじゃくらせないとか言い残して都会へいったままもう、かれこれ１０年近く……"
+	},
+	{
+		"word": "ガールフレンド",
+		"root": "ガールフレンド",
+		"definitions": [
+			"ガールフレンド (n) girl friend, girlfriend"
+		],
+		"english": "I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you?",
+		"japanese": "そういえば６、７年前に手紙がきてガールフレンドができましたって書いてあったけど、あんたかい？"
+	},
+	{
+		"word": "びっくり",
+		"root": "びっくり",
+		"definitions": [
+			"吃驚[びっくり] (adj-f) to be surprised, to be amazed, to be frightened, to be astonished, to get startled, to jump,surprise (e.g. surprise party)"
+		],
+		"english": "What a shock… I didn't know Zack was from this town.",
+		"japanese": "……この村にザックスの家があるなんて知らなかったからびっくりしちゃった"
+	},
+	{
+		"word": "ヤツ",
+		"root": "ヤツ",
+		"definitions": [
+			"奴[やつ] (pn) fellow, guy, chap,thing, object,he, she, him, her",
+			"八つ[やっつ] (num) eight"
+		],
+		"english": "You know him?",
+		"japanese": "知ってるヤツか？"
+	},
+	{
+		"word": "しっと",
+		"root": "しっと",
+		"definitions": [
+			"嫉妬[しっと] (n, vs) jealousy, envy"
+		],
+		"english": "(…jealous…envious…)",
+		"japanese": "（やきもち……しっと……）"
+	},
+	{
+		"word": "いてる",
+		"root": "いてる",
+		"definitions": [
+			"凍てる[いてる] (v1, vi) to freeze, to be frozen over, to congeal"
+		],
+		"english": "Are you…jealous? Hmm?  Hmmm? Are you, CLOUD?",
+		"japanese": "もしかして……やきもちやいてる？ん？　んん？どうなのかな、CLOUDくん？"
+	},
+	{
+		"word": "いかにも",
+		"root": "いかにも",
+		"definitions": [
+			"如何にも[いかにも] (adv, int) indeed, really, [object Object]"
+		],
+		"english": "Your face tells me differently.",
+		"japanese": "いかにも知ってるって顔してるぞ"
+	},
+	{
+		"word": "けんそん",
+		"root": "けんそん",
+		"definitions": [
+			"謙遜[けんそん] (n, vs, adj-na, adj-no) modesty, humility, being humble"
+		],
+		"english": "Don't be so humble!",
+		"japanese": "けんそんしちゃってぇ！"
+	},
+	{
+		"word": "努力",
+		"root": "努力",
+		"definitions": [
+			"努力[どりょく] (n, vs) effort, exertion, endeavour, endeavor, hard work, striving"
+		],
+		"english": "Hard work pays off, huh.",
+		"japanese": "努力はむくわれるってわけね"
+	},
+	{
+		"word": "むくわ",
+		"root": "むくう",
+		"definitions": [
+			"報う[むくう] (v5u) to reward, to recompense, to repay,to retaliate, to get revenge"
+		],
+		"english": "Hard work pays off, huh.",
+		"japanese": "努力はむくわれるってわけね"
+	},
+	{
+		"word": "はたして",
+		"root": "はたして",
+		"definitions": [
+			"果たして[はたして] (adv) as was expected, just as one thought, sure enough,really, actually, ever"
+		],
+		"english": "Do people really need reactors to live?",
+		"japanese": "はたして、人が生きていくのに魔晄炉が必要なのでしょうか？"
+	},
+	{
+		"word": "ほお",
+		"root": "ほお",
+		"definitions": [
+			"頬[ほお] (n) cheek (of face)",
+			"朴[ほお] (n) Japanese bigleaf magnolia (Magnolia obovata)"
+		],
+		"english": "You want something?",
+		"japanese": "ほお……何か用かい？"
+	},
+	{
+		"word": "宿泊",
+		"root": "宿泊",
+		"definitions": [
+			"宿泊[しゅくはく] (n, vs) lodging"
+		],
+		"english": "Need a room?",
+		"japanese": "宿泊したい"
+	},
+	{
+		"word": "結果",
+		"root": "結果",
+		"definitions": [
+			"結果[けっか] (n, vs) result, consequence, outcome, effect,coming to fruition, bearing fruit"
+		],
+		"english": "Shinra built the reactor, without even thinking about the town's safety. And, this is the result.",
+		"japanese": "神羅のやつらは、村の安全など考えずに、魔晄炉を建設した。その結果が、これさ"
+	},
+	{
+		"word": "つめ",
+		"root": "つめ",
+		"definitions": [
+			"爪[つめ] (n) nail (e.g. fingernail, toenail), claw, talon, hoof,plectrum, pick,hook, clasp",
+			"詰め[つめ] (n-suf) stuffing, packing,end (esp. the foot of a bridge),lowest-ranking guest at tea ceremony,tea master,endgame (esp. in shogi or used figuratively),sweet eel sauce,middle-aged woman,appointment to a particular workplace,using as the sole ground of judgement (judgment),continuing, keep doing for period of time",
+			"ツメ (n) to close up (editing mark)"
+		],
+		"english": "It's been a while since the explosion, but you can still find the pieces it left all over town.",
+		"japanese": "魔晄炉の爆発事故が起こってからずいぶんたつが、そのつめあとはいまだに村のあちこちに残っている"
+	},
+	{
+		"word": "いまだに",
+		"root": "いまだに",
+		"definitions": [
+			"未だに[いまだに] (adv) still, even now, until this very day"
+		],
+		"english": "It's been a while since the explosion, but you can still find the pieces it left all over town.",
+		"japanese": "魔晄炉の爆発事故が起こってからずいぶんたつが、そのつめあとはいまだに村のあちこちに残っている"
+	},
+	{
+		"word": "住人",
+		"root": "住人",
+		"definitions": [
+			"住人[じゅうにん] (n) dweller, inhabitant, resident"
+		],
+		"english": "We voted to outlaw the use of Mako energy and live with nature, ever since the explosion.",
+		"japanese": "わたしたちゴンガガ村の住人は魔晄炉の爆発事故があってからは魔晄エネルギーの利用を止めて自然とともに生きることを選んだの"
+	},
+	{
+		"word": "のばし",
+		"root": "のばす",
+		"definitions": [
+			"伸ばす[のばす] (v5s, vt) to grow long (e.g. hair, nails),to lengthen, to extend, to stretch,to reach out, to hold out,to straighten, to smooth out,to spread evenly (dough, cream, etc.),to dilute, to thin out,to postpone,to prolong,to strengthen, to develop, to expand"
+		],
+		"english": "Reach for it",
+		"japanese": "手をのばしてみる"
+	},
+	{
+		"word": "聞き覚え",
+		"root": "聞き覚え",
+		"definitions": [
+			"聞き覚え[ききおぼえ] (n) learning by ear,memory of having heard something before"
+		],
+		"english": "…But That name sounds familiar…",
+		"japanese": "しかし……その名前には、聞き覚えがある……"
+	},
+	{
+		"word": "よこさ",
+		"root": "よこす",
+		"definitions": [
+			"寄越す[よこす] (v5s, vt) to send, to forward,to hand over (e.g. money)"
+		],
+		"english": "I can't believe he hasn't contacted us in 10 years…! …After all, we're his parents.",
+		"japanese": "１０年も連絡もよこさんとは……なんちゅう息子じゃ"
+	},
+	{
+		"word": "行商",
+		"root": "行商",
+		"definitions": [
+			"行商[ぎょうしょう] (n, vs, adj-no) monger, peddling"
+		],
+		"english": "I am a traveling salesman, going around the world.",
+		"japanese": "わたしは、世界を旅する行商人。"
+	},
+	{
+		"word": "むしょうに",
+		"root": "むしょうに",
+		"definitions": [
+			"無性に[むしょうに] (adv) excessively, very much"
+		],
+		"english": "Even I get homesick and want to see my family.",
+		"japanese": "そんなわたしだが、むしょうに家族に会いたくなることがある"
+	},
+	{
+		"word": "愛する",
+		"root": "愛する",
+		"definitions": [
+			"愛する[あいする] (vs-s, vt) to love"
+		],
+		"english": "I have a favor to ask of you. Can you get this letter to my lovely wife?",
+		"japanese": "そこであなたに、たのみがある。どうかわたしの愛する奥さんにこの手紙をとどけてもらいたい"
+	},
+	{
+		"word": "とどけ",
+		"root": "とどける",
+		"definitions": [
+			"届ける[とどける] (v1, vt) to deliver, to forward, to send,to report, to notify, to file notice (to the authorities), to give notice, to register"
+		],
+		"english": "I have a favor to ask of you. Can you get this letter to my lovely wife?",
+		"japanese": "そこであなたに、たのみがある。どうかわたしの愛する奥さんにこの手紙をとどけてもらいたい"
+	},
+	{
+		"word": "目前",
+		"root": "目前",
+		"definitions": [
+			"目前[もくぜん] (n, adj-no) before one's very eyes, under one's nose, imminence, close at hand",
+			"目先[めさき] (n) before one's eyes, under one's nose,immediate (e.g. interests), present, at hand, short-run,foresight, near future,appearance"
+		],
+		"english": "What's going on in a world about to end? Is kindness the first to vanish?",
+		"japanese": "なんということだ……死が目前に迫っているこの世界ではもはや人情もかれはてたか……"
+	},
+	{
+		"word": "迫っ",
+		"root": "迫る",
+		"definitions": [
+			"迫る[せまる] (v5r, vt) to approach, to draw near, to be imminent,to press (someone for something), to urge, to compel"
+		],
+		"english": "What's going on in a world about to end? Is kindness the first to vanish?",
+		"japanese": "なんということだ……死が目前に迫っているこの世界ではもはや人情もかれはてたか……"
+	},
+	{
+		"word": "はて",
+		"root": "はてる",
+		"definitions": [
+			"果てる[はてる] (v1, aux-v) to end, to be finished, to be exhausted,to die, to perish,to do utterly, to do completely"
+		],
+		"english": "What's going on in a world about to end? Is kindness the first to vanish?",
+		"japanese": "なんということだ……死が目前に迫っているこの世界ではもはや人情もかれはてたか……"
+	},
+	{
+		"word": "しくみ",
+		"root": "しくむ",
+		"definitions": [
+			"仕組む[しくむ] (v5m, vt) to devise, to arrange, to plan, to plot"
+		],
+		"english": "Planet structure? …Who cares about that?",
+		"japanese": "星のしくみ？……どうでもいいわ、そんなこと"
+	},
+	{
+		"word": "こむずかしい",
+		"root": "こむずかしい",
+		"definitions": [
+			"小難しい[こむずかしい] (adj-i) slightly difficult, somewhat bothersome, troublesome, peevish, querulous"
+		],
+		"english": "Why don't you go ask Bugenhagen of Cosmo Canyon hard questions like that?",
+		"japanese": "そういうこむずかしい事はコスモキャニオンのブーゲンハーゲンという人に聞けば？"
+	},
+	{
+		"word": "コスモ",
+		"root": "コスモ",
+		"definitions": [
+			"コスモ (n) cosmos"
+		],
+		"english": "Why don't you go ask Bugenhagen of Cosmo Canyon hard questions like that?",
+		"japanese": "そういうこむずかしい事はコスモキャニオンのブーゲンハーゲンという人に聞けば？"
+	},
+	{
+		"word": "キャニオン",
+		"root": "キャニオン",
+		"definitions": [
+			"キャニオン (n) canyon"
+		],
+		"english": "Why don't you go ask Bugenhagen of Cosmo Canyon hard questions like that?",
+		"japanese": "そういうこむずかしい事はコスモキャニオンのブーゲンハーゲンという人に聞けば？"
+	},
+	{
+		"word": "まよっ",
+		"root": "まよう",
+		"definitions": [
+			"迷う[まよう] (v5u, vi) to lose one's way,to waver, to hesitate, to be of two minds over, to be puzzled, to be perplexed,to give into temptation, to lose control of oneself,to turn in one's grave"
+		],
+		"english": "You lost? When that happens the only ones you can count on are your friends.",
+		"japanese": "道にまよったのじゃな？そういう時に一番たよりになるのは友、じゃよ"
+	},
+	{
+		"word": "友",
+		"root": "友",
+		"definitions": [
+			"友[とも] (n) friend, companion, comrade, pal"
+		],
+		"english": "You lost? When that happens the only ones you can count on are your friends.",
+		"japanese": "道にまよったのじゃな？そういう時に一番たよりになるのは友、じゃよ"
+	},
+	{
+		"word": "先決",
+		"root": "先決",
+		"definitions": [
+			"先決[せんけつ] (n, vs) deciding first, settling (a matter) first, first priority"
+		],
+		"english": "The first thing you gotta do is find your best friend.",
+		"japanese": "もっとも大切な友を探すこと。それが先決じゃて"
+	},
+	{
+		"word": "ならん",
+		"root": "ならぶ",
+		"definitions": [
+			"並ぶ[ならぶ] (v5b, vi) to line up, to stand in a line,to rival, to match, to equal"
+		],
+		"english": "This reactor's useless, but I hear there's still Huge Materia at the Corel, Fort Condor, and the Junon reactors.",
+		"japanese": "ここの魔晄炉はもう使い物にならんが【コレル】、【コンドルフォート】、【ジュノン】の魔晄炉の中には、大きなマテリアが残っているそうじゃ"
+	},
+	{
+		"word": "しょせん",
+		"root": "しょせん",
+		"definitions": [
+			"初戦[しょせん] (n) first match (in a series)",
+			"所詮[しょせん] (adv) after all",
+			"緒戦[しょせん] (n) beginning of hostilities, beginning of competition"
+		],
+		"english": "Shinra's tried a lot of things, but it's only HUMAN. It's fate that Meteor will kill the people.",
+		"japanese": "神羅もいろんな手をつくしたがしょせん、ちっぽけな人間のやること。メテオによって人が滅びるのは運命なのじゃよ"
+	},
+	{
+		"word": "若者",
+		"root": "若者",
+		"definitions": [
+			"若者[わかもの] (n, adj-no) young man, young woman, young people, youth, youngsters"
+		],
+		"english": "Tell me, young man.",
+		"japanese": "おしえてくれ、若者よ"
+	},
+	{
+		"word": "知らせ",
+		"root": "知らせる",
+		"definitions": [
+			"知らせる[しらせる] (v1, vt) to notify, to advise, to inform"
+		],
+		"english": "…You'd think someone told the Shinra about us?",
+		"japanese": "……だれかが、オイラたちのことを神羅に知らせているのかな"
+	},
+	{
+		"word": "赤く",
+		"root": "赤い",
+		"definitions": [
+			"赤い[あかい] (adj-i) red, crimson, scarlet, vermilion, vermillion,Red, communist,beautiful"
+		],
+		"english": "What are you getting so embarrassed about? Come on? Who do you like?",
+		"japanese": "なに赤くなってるのかな、と。ん？　誰がいいのかな？"
+	},
+	{
+		"word": "出番",
+		"root": "出番",
+		"definitions": [
+			"出番[でばん] (n) one's turn, one's shift,one's turn on stage, screen time, screentime"
+		],
+		"english": "Hmm… Then it's time…",
+		"japanese": "そうか……出番だな、と"
+	},
+	{
+		"word": "いきま",
+		"root": "いきむ",
+		"definitions": [
+			"息む[いきむ] (v5m, vi) to strain (one's stomach), to bear down (during childbirth), to push down"
+		],
+		"english": "Then, we're counting on you. I'll report to Tseng!",
+		"japanese": "じゃ、先輩たち。あとはよろしくおねがいします。私はツォンさんに報告にいきま～す！"
+	},
+	{
+		"word": "借り",
+		"root": "借り",
+		"definitions": [
+			"借り[かり] (n) borrowing, debt, loan"
+		],
+		"english": "Payback time for what you did in Sector 7.",
+		"japanese": "７番街の借りを返すぞ、と"
+	},
+	{
+		"word": "嫌い",
+		"root": "嫌い",
+		"definitions": [
+			"嫌い[きらい] (n) disliked, hated, disagreeable,tendency, smack (of), touch (of),distinction, discrimination",
+			"嫌い[ぎらい] (n-suf) dislike, hatred, fear"
+		],
+		"english": "I don't like being taken for a fool.",
+		"japanese": "なめられるのは嫌いだな、と"
+	},
+	{
+		"word": "気にいら",
+		"root": "気にいる",
+		"definitions": [
+			"気に入る[きにいる] (exp, v5r) to like, to be pleased with, to be delighted with, to take a liking to, to suit one's fancy"
+		],
+		"english": "I don't like it. How'd they find out where we were?",
+		"japanese": "気にいらねえぜ。どうしてオレたちの居場所がわかったんだ？"
+	},
+	{
+		"word": "居場所",
+		"root": "居場所",
+		"definitions": [
+			"居場所[いばしょ] (n) whereabouts, place, location,place where one belongs, where one fits in, place where one can be oneself"
+		],
+		"english": "I don't like it. How'd they find out where we were?",
+		"japanese": "気にいらねえぜ。どうしてオレたちの居場所がわかったんだ？"
+	},
+	{
+		"word": "あきらか",
+		"root": "あきらか",
+		"definitions": [
+			"明らか[あきらか] (adj-na, n) obvious, evident, clear, plain"
+		],
+		"english": "Interesting… They were definitely waiting for us.",
+		"japanese": "興味深い……やつらはあきらかにまちぶせしていたようだが"
+	},
+	{
+		"word": "かんじ",
+		"root": "かんじる",
+		"definitions": [
+			"感じる[かんじる] (v1) to feel, to sense, to experience",
+			"観じる[かんじる] (v1) to view, to contemplate"
+		],
+		"english": "I don't like this! It's like the whole world knows where we're going.",
+		"japanese": "なんかイヤなかんじ！アタシたちの行き先ってバレバレみたいだよ"
+	},
+	{
+		"word": "何故",
+		"root": "何故",
+		"definitions": [
+			"何故[なぜ] (adv) why, how"
+		],
+		"english": "How did they know that we were here?",
+		"japanese": "何故、わたしたちがここにいることがわかったのだ……"
+	},
+	{
+		"word": "尾行",
+		"root": "尾行",
+		"definitions": [
+			"尾行[びこう] (n, vs) shadow, tail, following"
+		],
+		"english": "They followed us… But there weren't any signs of it. Then, that means…",
+		"japanese": "尾行されたか……いや、そんな気配はなかった。ということは……"
+	},
+	{
+		"word": "気配",
+		"root": "気配",
+		"definitions": [
+			"気配[けはい] (n) indication, sign, hint, presence, trend,quotation (esp. stock market)"
+		],
+		"english": "They followed us… But there weren't any signs of it. Then, that means…",
+		"japanese": "尾行されたか……いや、そんな気配はなかった。ということは……"
+	},
+	{
+		"word": "内通",
+		"root": "内通",
+		"definitions": [
+			"内通[ないつう] (n, vs) secret understanding, collusion"
+		],
+		"english": "…someone's been informing them.",
+		"japanese": "……だれかが内通しているのか"
+	},
+	{
+		"word": "うたがわ",
+		"root": "うたがう",
+		"definitions": [
+			"疑う[うたがう] (v5u, vt) to doubt, to distrust, to be suspicious of, to suspect"
+		],
+		"english": "I hate this. Now everyone's gonna blame me because I'm new.",
+		"japanese": "たまらんなぁ～。そんなん、新入りのボクがうたがわれるんに決まってますやん"
+	},
+	{
+		"word": "手先",
+		"root": "手先",
+		"definitions": [
+			"手先[てさき] (n) fingers, fingertips,underling, stooge, tool, pawn, minion"
+		],
+		"english": "It means there's a Shinra spy…",
+		"japanese": "神羅の手先がいる……ということか？"
+	},
+	{
+		"word": "先回り",
+		"root": "先回り",
+		"definitions": [
+			"先回り[さきまわり] (n, vs) going on ahead, forestalling, anticipating, arrival before another"
+		],
+		"english": "Man, looks like they've taken a short cut.",
+		"japanese": "気にくわねぇな。先回りされてるみてぇだ"
+	},
+	{
+		"word": "金もうけ",
+		"root": "金もうけ",
+		"definitions": [
+			"金儲け[かねもうけ] (n, vs) money-making"
+		],
+		"english": "The Shinra build reactors to make money. And this is what happens.",
+		"japanese": "神羅のやつらは、金もうけのために魔晄炉をつくる。そして、その結果がこれだ"
+	},
+	{
+		"word": "横暴",
+		"root": "横暴",
+		"definitions": [
+			"横暴[おうぼう] (adj-na, n) violence, oppression, high-handedness, tyranny, despotism"
+		],
+		"english": "You saw that village. It's always the powerless that suffer from tyrants like Shinra.",
+		"japanese": "見ただろう、あの村を。神羅の横暴でよ、被害にあうのはいつでも力を持たない人間だぜ"
+	},
+	{
+		"word": "結成",
+		"root": "結成",
+		"definitions": [
+			"結成[けっせい] (n, vs) formation, combination"
+		],
+		"english": "But I can't let 'em do that. That's why I formed AVALANCHE to fight 'em.",
+		"japanese": "オレは、そんなことは許せねぇ。『アバランチ』を結成して神羅カンパニーと戦ってるのもそんな世界を変えてえからだ"
+	},
+	{
+		"word": "失格",
+		"root": "失格",
+		"definitions": [
+			"失格[しっかく] (n, vs) disqualification, elimination, incapacity (legal)"
+		],
+		"english": "This reactor's a failure.",
+		"japanese": "ここの魔晄炉は失格ねえ"
+	},
+	{
+		"word": "存じ",
+		"root": "存じる",
+		"definitions": [
+			"存じる[ぞんじる] (v1) to think, feel, consider, know, etc."
+		],
+		"english": "…No I haven't seen it. I'll get on it right away.",
+		"japanese": "……存じません。さっそく調査します"
+	},
+	{
+		"word": "上司",
+		"root": "上司",
+		"definitions": [
+			"上司[じょうし] (n) (one's) superior, (one's) boss, the higher-ups"
+		],
+		"english": "Oh…sorry! I forgot Heidegger was your boss! Ha ha ha!",
+		"japanese": "あら、ごめんなさい！ハイデッカーはあなたの上司だったわね！キャハハハハ！"
+	},
+	{
+		"word": "始める",
+		"root": "始める",
+		"definitions": [
+			"始める[はじめる] (aux-v, v1) to start, to begin, to commence, to initiate, to originate,to open (e.g. a store), to start up, to establish (business. etc.),to start ..., to begin to ..."
+		],
+		"english": "Just what are the Shinra up to?",
+		"japanese": "神羅め、今度は何を始めるつもりなんだ……"
+	}
+]

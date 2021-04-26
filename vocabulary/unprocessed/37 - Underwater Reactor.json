@@ -1,0 +1,1020 @@
+[
+	{
+		"word": "海辺",
+		"root": "海辺",
+		"definitions": [
+			"海辺[うみべ] (n, adj-no) beach, seashore, seaside, coast"
+		],
+		"english": "Dolphin Shores",
+		"japanese": "イルカの海辺"
+	},
+	{
+		"word": "しょっぱい",
+		"root": "しょっぱい",
+		"definitions": [
+			"塩っぱい[しょっぱい] (adj-i) salty,calculating, stingy,scowling, grimacing, frowning,hoarse,inferior, poor, boring, dull"
+		],
+		"english": "Ugh. It's salty! Let's go to the airport!",
+		"japanese": "しょっぱいよう！エアポートにいこうよ！"
+	},
+	{
+		"word": "ずぶ",
+		"root": "ずぶ",
+		"definitions": [
+			"ずぶ (adv) completely, entirely, totally"
+		],
+		"english": "God!! I'm drenched!",
+		"japanese": "クソッ！ずぶぬれだぃ！"
+	},
+	{
+		"word": "ドック",
+		"root": "ドック",
+		"definitions": [
+			"ドック (n) dock,thorough physical examination"
+		],
+		"english": "Yeah! I could go for that! Let's go to the submarine dock under Junon!",
+		"japanese": "おう！！　おもしれえ！ジュノン地下の【潜水監ドック】にもよってくか！"
+	},
+	{
+		"word": "人類",
+		"root": "人類",
+		"definitions": [
+			"人類[じんるい] (n) mankind, humanity"
+		],
+		"english": "Oh yeah? Well, I'm ready to fight mankind's worst enemy like a real warrior. It's not everyday you get to fight in an inter-planetary war.",
+		"japanese": "そうかい？俺は人類最大の敵を目の前にして武者ぶるいしている。惑星規模の闘いなんてめったに経験できないぜ"
+	},
+	{
+		"word": "最大",
+		"root": "最大",
+		"definitions": [
+			"最大[さいだい] (n, adj-no) biggest, greatest, largest, maximum"
+		],
+		"english": "Oh yeah? Well, I'm ready to fight mankind's worst enemy like a real warrior. It's not everyday you get to fight in an inter-planetary war.",
+		"japanese": "そうかい？俺は人類最大の敵を目の前にして武者ぶるいしている。惑星規模の闘いなんてめったに経験できないぜ"
+	},
+	{
+		"word": "武者",
+		"root": "武者",
+		"definitions": [
+			"武者[むしゃ] (n) warrior"
+		],
+		"english": "Oh yeah? Well, I'm ready to fight mankind's worst enemy like a real warrior. It's not everyday you get to fight in an inter-planetary war.",
+		"japanese": "そうかい？俺は人類最大の敵を目の前にして武者ぶるいしている。惑星規模の闘いなんてめったに経験できないぜ"
+	},
+	{
+		"word": "規模",
+		"root": "規模",
+		"definitions": [
+			"規模[きぼ] (n) scale, scope, plan, structure"
+		],
+		"english": "Oh yeah? Well, I'm ready to fight mankind's worst enemy like a real warrior. It's not everyday you get to fight in an inter-planetary war.",
+		"japanese": "そうかい？俺は人類最大の敵を目の前にして武者ぶるいしている。惑星規模の闘いなんてめったに経験できないぜ"
+	},
+	{
+		"word": "闘い",
+		"root": "闘い",
+		"definitions": [
+			"戦い[たたかい] (n) battle, fight, struggle, conflict"
+		],
+		"english": "Oh yeah? Well, I'm ready to fight mankind's worst enemy like a real warrior. It's not everyday you get to fight in an inter-planetary war.",
+		"japanese": "そうかい？俺は人類最大の敵を目の前にして武者ぶるいしている。惑星規模の闘いなんてめったに経験できないぜ"
+	},
+	{
+		"word": "あつめ",
+		"root": "あつめる",
+		"definitions": [
+			"集める[あつめる] (v1, vt) to collect, to assemble, to gather"
+		],
+		"english": "The President is gathering up all the Huge Materia on the planet. He wants to shoot it at Meteor in the rocket.",
+		"japanese": "社長はこの星に存在するヒュージマテリアを全てあつめ、ロケットでメテオにぶつけるつもりだ。たいした社長だよ"
+	},
+	{
+		"word": "先代",
+		"root": "先代",
+		"definitions": [
+			"先代[せんだい] (n) previous generation (e.g. one's parents), family predecessor,predecessor,previous age"
+		],
+		"english": "President Rufus is different from the older generation. He'll protect the planet with all of Shinra's state of the art technology.",
+		"japanese": "ルーファウス社長は先代と違う。神羅の持つ科学力を総動員してこの星を守っている"
+	},
+	{
+		"word": "総動員",
+		"root": "総動員",
+		"definitions": [
+			"総動員[そうどういん] (n, vs) general mobilization, general mobilisation"
+		],
+		"english": "President Rufus is different from the older generation. He'll protect the planet with all of Shinra's state of the art technology.",
+		"japanese": "ルーファウス社長は先代と違う。神羅の持つ科学力を総動員してこの星を守っている"
+	},
+	{
+		"word": "勝ち負け",
+		"root": "勝ち負け",
+		"definitions": [
+			"勝ち負け[かちまけ] (n) victory or defeat"
+		],
+		"english": "Protect it? No, I don't think so. The President isn't the type to do anything so heroic. It's all just a game to him a question of winning or losing.",
+		"japanese": "守る？いや、違うな。そんなきれいな使命感は社長にはない。社長にとってはただの勝ち負けの間題。ゲームと同じさ……"
+	},
+	{
+		"word": "とうとう",
+		"root": "とうとう",
+		"definitions": [
+			"到頭[とうとう] (adv) finally, at last, ultimately, in the end",
+			"等々[とうとう] (suf) etc., et cetera, and so on",
+			"丁々[ちょうちょう] (adv, n) clashing of swords, felling of trees, ringing of an ax",
+			"滔々[とうとう] (adv-to, adj-t) torrentially, swiftly flowing (water, esp. river), voluminously flowing,(speak) eloquently, fluently, spout forth (a torrent of speech),flood of the times (moving strongly in one direction), current of the times",
+			"蕩蕩[とうとう] (adj-t, adv-to) vast, calm",
+			"鼕々[とうとう] (adj-t, adv-to) sound of bells or drums reverberating,sound of water or waves resounding"
+		],
+		"english": "They've finally started collecting the Huge Materia from the Junon Underwater Reactor.",
+		"japanese": "とうとう、ここジュノン【海底魔晄炉】のヒュージマテリアも回収作業に入ったか"
+	},
+	{
+		"word": "段落",
+		"root": "段落",
+		"definitions": [
+			"段落[だんらく] (n) paragraph,end, stopping place, conclusion"
+		],
+		"english": "Whew…I hope everything goes all right until we get to Rocket Town. Then, our mission is nearly complete.",
+		"japanese": "ふう……無事に【ロケット村】まで到着してくれよ。これでミッションもひと段落だな"
+	},
+	{
+		"word": "タッチ",
+		"root": "タッチ",
+		"definitions": [
+			"タッチ (n, vs) touch,being involved in"
+		],
+		"english": "Grrrrgh! Just barely! We're goin' after it!",
+		"japanese": "ぐぅわぁぁ！タッチのさだ！おいかけるぞ！"
+	},
+	{
+		"word": "さだ",
+		"root": "さだ",
+		"definitions": [
+			"定[さだ] (adv) certainly, truly"
+		],
+		"english": "Grrrrgh! Just barely! We're goin' after it!",
+		"japanese": "ぐぅわぁぁ！タッチのさだ！おいかけるぞ！"
+	},
+	{
+		"word": "おいかける",
+		"root": "おいかける",
+		"definitions": [
+			"追いかける[おいかける] (v1, vt) to chase, to run after, to pursue"
+		],
+		"english": "Grrrrgh! Just barely! We're goin' after it!",
+		"japanese": "ぐぅわぁぁ！タッチのさだ！おいかけるぞ！"
+	},
+	{
+		"word": "奪い返し",
+		"root": "奪い返す",
+		"definitions": [
+			"奪い返す[うばいかえす] (v5s) to take back, to recapture"
+		],
+		"english": "How 'bout us getting there beforehand and stealing it back?",
+		"japanese": "先回りして奪い返しませんか？"
+	},
+	{
+		"word": "ものたりなく",
+		"root": "ものたりない",
+		"definitions": [
+			"物足りない[ものたりない] (adj-i) unsatisfied, unsatisfactory, insufficient"
+		],
+		"english": "I may be mistaken, but… doesn't it feel like we're missing something?",
+		"japanese": "気のせいかもしれないけど……何かものたりなくないか？"
+	},
+	{
+		"word": "志望",
+		"root": "志望",
+		"definitions": [
+			"志望[しぼう] (n, vs) wish, desire, ambition"
+		],
+		"english": "All I wanted was to become a pilot! I used to be speechless watching the Highwind in the sunset!",
+		"japanese": "オレ、むかしはパイロット志望でさ！ゆうやみに浮かぶハイウィンド！いつ見てもしびれちゃうやね！"
+	},
+	{
+		"word": "ウィンド",
+		"root": "ウィンド",
+		"definitions": [
+			"ウインド (n) wind"
+		],
+		"english": "All I wanted was to become a pilot! I used to be speechless watching the Highwind in the sunset!",
+		"japanese": "オレ、むかしはパイロット志望でさ！ゆうやみに浮かぶハイウィンド！いつ見てもしびれちゃうやね！"
+	},
+	{
+		"word": "離陸",
+		"root": "離陸",
+		"definitions": [
+			"離陸[りりく] (n, vs) takeoff"
+		],
+		"english": "Finished loading the Huge Materia! All we have to do now is to ready the cargo ship, Gelnika', for departure and we're done!",
+		"japanese": "ヒュージマテリアの積みこみは完了！後はエアポートでゆそうきのゲルニカの離陸を見送れば、任務は終わりさ"
+	},
+	{
+		"word": "見送れ",
+		"root": "見送る",
+		"definitions": [
+			"見送る[みおくる] (v5r, vt) to see someone off (at a station, an airport, etc.), to escort (e.g. home),to follow something with one's eyes until it is out of sight,to let pass, to pass up (an opportunity etc.), to let a pitch go by (baseball), to watch a batted ball go into the stands,to shelve (a plan, deliberation on a bill, etc.), to postpone,to have someone related or close to you die, to bury someone,to take care of somebody until he dies,to wait and see, to continue (e.g. in legal contexts)"
+		],
+		"english": "Finished loading the Huge Materia! All we have to do now is to ready the cargo ship, Gelnika', for departure and we're done!",
+		"japanese": "ヒュージマテリアの積みこみは完了！後はエアポートでゆそうきのゲルニカの離陸を見送れば、任務は終わりさ"
+	},
+	{
+		"word": "機体",
+		"root": "機体",
+		"definitions": [
+			"機体[きたい] (n) fuselage, airframe"
+		],
+		"english": "I miss that bikini girl on the side of the plane.",
+		"japanese": "オレ、あの機体の水着の女の子のファンだったのに"
+	},
+	{
+		"word": "かりださ",
+		"root": "かりだす",
+		"definitions": [
+			"借り出す[かりだす] (v5s, vt) to borrow, to take out",
+			"狩り出す[かりだす] (v5s, vt) to hunt out, to flush out, to round up,to impress, to recruit"
+		],
+		"english": "Right now the Shinra's using it to gather the Huge Materia from the Corel Reactor and from the Fort Condor Reactor.",
+		"japanese": "今、神羅軍は【コレル魔晄炉】と【コンドルフォート魔晄炉】のヒュージマテリア回収ミッションにかりだされてんだ"
+	},
+	{
+		"word": "飛び回っ",
+		"root": "飛び回る",
+		"definitions": [
+			"飛び回る[とびまわる] (v5r, vi) to fly about, to skip about, to bustle about"
+		],
+		"english": "The Gelnika's flying all over the place! The only one that's not busy, is probably me!",
+		"japanese": "ゲルニカもいそがしく飛び回ってるよ！ひまなのは、オレひとりぐらいさ！"
+	},
+	{
+		"word": "空港",
+		"root": "空港",
+		"definitions": [
+			"空港[くうこう] (n) airport"
+		],
+		"english": "The Shinra's collecting Huge Materia at the Junon Underwater Reactor! When they're done, they'll bring it to this airport.",
+		"japanese": "今、神羅軍は、ここ、ジュノン海底魔晄炉のヒュージマテリア回収ミッション中でさ！無事回収したらこの空港に運びこまれるんだ"
+	},
+	{
+		"word": "送り出し",
+		"root": "送り出す",
+		"definitions": [
+			"送り出す[おくりだす] (v5s, vt) to send out, to forward, to show (a person) out"
+		],
+		"english": "I'm glad we got Gelnika to Rocket Town safely.",
+		"japanese": "無事ロケット村までゲルニカを送り出してほっと一安心"
+	},
+	{
+		"word": "一安心",
+		"root": "一安心",
+		"definitions": [
+			"一安心[ひとあんしん] (n, vs) feeling of relief (for the time being), peace of mind (for now)"
+		],
+		"english": "I'm glad we got Gelnika to Rocket Town safely.",
+		"japanese": "無事ロケット村までゲルニカを送り出してほっと一安心"
+	},
+	{
+		"word": "おしい",
+		"root": "おしい",
+		"definitions": [
+			"惜しい[おしい] (adj-i) regrettable, disappointing, unfortunate,precious, dear, valuable,too good for, deserving better,almost (but not quite), close (but no cigar)"
+		],
+		"english": "What…me? I don't mind. I'll just wait here. My life is important to me.",
+		"japanese": "えっ……オレ？オレはいいよぅ。ここで待機してますよ、命おしいですからねえ"
+	},
+	{
+		"word": "てってい",
+		"root": "てってい",
+		"definitions": [
+			"徹底[てってい] (n, vs) thoroughness, completeness, consistency,thorough enforcement, seeing to it that a policy, etc. is carried out without exception"
+		],
+		"english": "But, I'm just gonna ignore them. I wanna live to see the end of the world.",
+		"japanese": "けどね、てっていして無視してやりますよ。オレはしぶとく生き抜いて世界の最後をみとどけてやります"
+	},
+	{
+		"word": "みとどけ",
+		"root": "みとどける",
+		"definitions": [
+			"見届ける[みとどける] (v1, vt) to make sure of, to assure oneself of, to see with one's own eyes, to ascertain"
+		],
+		"english": "But, I'm just gonna ignore them. I wanna live to see the end of the world.",
+		"japanese": "けどね、てっていして無視してやりますよ。オレはしぶとく生き抜いて世界の最後をみとどけてやります"
+	},
+	{
+		"word": "めん",
+		"root": "めん",
+		"definitions": [
+			"綿[めん] (n) cotton",
+			"面[めん] (ctr) face,mask, face guard,(in kendo) striking the head,surface (esp. a geometrical surface),page,aspect, facet, side,chamfer,counter for broad, flat objects, levels or stages, e.g. in a video game",
+			"免[めん] (n) dismissal",
+			"麺[めん] (n) noodles,flour",
+			"メン (n-suf) man, men"
+		],
+		"english": "If that's the case, might as well live on the edge, I say. But before I can do that, I gotta get a license first.",
+		"japanese": "どうせならスカーッと生きてるよろこびに興奮しながらね。でも、その前に運転めんきょですけど"
+	},
+	{
+		"word": "海軍",
+		"root": "海軍",
+		"definitions": [
+			"海軍[かいぐん] (n, adj-no) navy"
+		],
+		"english": "You know too, right? About Junon Navy's important classified information.",
+		"japanese": "あんたも知ってるだろう？ジュノン海軍の重要機密"
+	},
+	{
+		"word": "新型",
+		"root": "新型",
+		"definitions": [
+			"新型[しんがた] (n, adj-no) new type, new style, new model, new strain (e.g. infectious disease)"
+		],
+		"english": "A new submarine has almost been completed using Shinra's top technology.",
+		"japanese": "神羅技術のすいを集めた新型潜水監がもうじき完成するんだ"
+	},
+	{
+		"word": "まちどおしい",
+		"root": "まちどおしい",
+		"definitions": [
+			"待ち遠しい[まちどおしい] (adj-i) looking forward to, anxiously awaited"
+		],
+		"english": "A new version of submarine. I'll be sailing on it. Man, I can't wait!",
+		"japanese": "新型の潜水監。俺も乗船することになってんだ。うっ～、まちどおしいぜ！"
+	},
+	{
+		"word": "どけ",
+		"root": "どける",
+		"definitions": [
+			"退ける[のける] (v1, aux-v) to put something out of the way, to move (something, someone) aside,to remove, to exclude, to take away,to set aside, to keep apart,to remove (someone) from the group, to shun,to do well despite difficulties, to accomplish despite adversity,to do resolutely, to do boldly"
+		],
+		"english": "We'll take that submarine!! Out of our way!!",
+		"japanese": "潜水監は俺たちがいただく！！そこをどけ！！"
+	},
+	{
+		"word": "ワン",
+		"root": "ワン",
+		"definitions": [
+			"湾[わん] (n, n-suf) bay, gulf, inlet",
+			"椀[わん] (n) bowl (wooden)",
+			"ワン (n) one,woof, bark",
+			"碗[わん] (n) bowl (ceramic, porcelain)",
+			"ＷＡＮ[ワン] (n) wide area network, WAN",
+			"萬[ワン] (ctr) counter for character tiles"
+		],
+		"english": "If you want to enter, please talk to my dog.",
+		"japanese": "はいりたければぼくらのワン公（ガードハウンドちゃん）に話しかけてください"
+	},
+	{
+		"word": "公",
+		"root": "公",
+		"definitions": [
+			"君[きみ] (n) you, buddy, pal,monarch, ruler, sovereign, (one's) master",
+			"公[おおやけ] (adj-no, n) official, governmental, formal,public (use, facility, etc.), common,public (matter, place, etc.), (out in the) open",
+			"公[こう] (n-suf) public matter, governmental matter,prince, duke,lord, sir,familiar or derogatory suffix"
+		],
+		"english": "If you want to enter, please talk to my dog.",
+		"japanese": "はいりたければぼくらのワン公（ガードハウンドちゃん）に話しかけてください"
+	},
+	{
+		"word": "した",
+		"root": "した",
+		"definitions": [
+			"舌[した] (n) tongue,tongue-like object, clapper (of a bell), talon (of a lock)",
+			"下[した] (n-pref) below, down, under, younger (e.g. daughter),bottom,beneath, underneath,just after, right after,inferiority, one's inferior (i.e. one's junior),trade-in,preliminary, preparatory",
+			"簧[した] (n) reed (of a woodwind, etc.)"
+		],
+		"english": "…gulp… Going do---wn.",
+		"japanese": "ドキドキ……したへまいりま～す"
+	},
+	{
+		"word": "減らし",
+		"root": "減らす",
+		"definitions": [
+			"減らす[へらす] (v5s, vt) to abate, to decrease, to diminish, to shorten"
+		],
+		"english": "…gulp… (Great…there went two perfectly good men!)",
+		"japanese": "ドキドキ……（キッ～～！　よくも……わたしのファンを減らしたわね！）"
+	},
+	{
+		"word": "あし",
+		"root": "あし",
+		"definitions": [
+			"足[あし] (n) foot,leg,gait,pace,bottom structural component (i.e. radical) of a kanji,means of transportation,money, coin",
+			"悪し[あし] (n) evil",
+			"葦[あし] (n, adj-no) common reed (Phragmites australis)",
+			"アシ (n, vs) assistant"
+		],
+		"english": "Damn, just missed it!",
+		"japanese": "ひとあし遅かったか！"
+	},
+	{
+		"word": "出遅れ",
+		"root": "出遅れる",
+		"definitions": [
+			"出遅れる[でおくれる] (v1, vi) to get a late start"
+		],
+		"english": "We were too late…",
+		"japanese": "出遅れたな……"
+	},
+	{
+		"word": "断わる",
+		"root": "断わる",
+		"definitions": [
+			"断る[ことわる] (v5r, vt) to refuse, to reject, to dismiss, to turn down, to decline,to inform, to give notice, to tell in advance,to ask leave, to excuse oneself (from)"
+		],
+		"english": "I refuse…",
+		"japanese": "断わる……"
+	},
+	{
+		"word": "ギャラ",
+		"root": "ギャラ",
+		"definitions": [
+			"ギャラ (n) fee paid to performing artists, etc."
+		],
+		"english": "You know I don't work cheap!",
+		"japanese": "オレ様のギャラはち～とばかり高いぜ"
+	},
+	{
+		"word": "届ける",
+		"root": "届ける",
+		"definitions": [
+			"届ける[とどける] (v1, vt) to deliver, to forward, to send,to report, to notify, to file notice (to the authorities), to give notice, to register"
+		],
+		"english": "Either give it to us or else.",
+		"japanese": "俺たちに渡すか、ルーファウスに届けるか……"
+	},
+	{
+		"word": "優先",
+		"root": "優先",
+		"definitions": [
+			"優先[ゆうせん] (n, vs, adj-no) preference, priority, precedence"
+		],
+		"english": "My priority is the Huge Materia!",
+		"japanese": "今はヒュージマテリアが最優先だ、と！"
+	},
+	{
+		"word": "早く",
+		"root": "早く",
+		"definitions": [
+			"早く[はやく] (adv) early, soon,quickly, swiftly, rapidly, fast"
+		],
+		"english": "We have to go after it!",
+		"japanese": "は、早く追わないと！"
+	},
+	{
+		"word": "たすけ",
+		"root": "たすける",
+		"definitions": [
+			"助ける[たすける] (v1, vt) to save, to rescue,to help, to assist,to support (financially), to contribute (to), to provide aid,to facilitate, to stimulate, to promote, to contribute to"
+		],
+		"english": "P…Please!! Spare me!!",
+		"japanese": "はっ！！命だけはおたすけ！！"
+	},
+	{
+		"word": "ほり",
+		"root": "ほり",
+		"definitions": [
+			"堀[ほり] (n) moat, fosse,canal, ditch",
+			"捕吏[ほり] (n) constable, policeman",
+			"彫り[ほり] (n) carving, engraving,chiselled features"
+		],
+		"english": "Be grateful. I'm taking you prisoner.",
+		"japanese": "感謝しろよ。ほりょにしてやる"
+	},
+	{
+		"word": "すね",
+		"root": "すね",
+		"definitions": [
+			"脛[すね] (n) shin, shank, lower leg"
+		],
+		"english": "You're pretty nice!",
+		"japanese": "やさしいでやんすね！"
+	},
+	{
+		"word": "力ずく",
+		"root": "力ずく",
+		"definitions": [
+			"力ずく[ちからずく] (n, adj-no) (brute) force, using all one's might"
+		],
+		"english": "You want the Sub? Just try an' take it!",
+		"japanese": "潜水監がほしけりゃ力ずくで奪ってみな！"
+	},
+	{
+		"word": "強気",
+		"root": "強気",
+		"definitions": [
+			"強気[つよき] (adj-na, adj-no, n) confident, assured, self-assured, firm, strong, cocksure,bullish (e.g. market)",
+			"豪儀[ごうぎ] (adj-na, adj-no) great, grand,obstinate, stubborn"
+		],
+		"english": "Um…sir! Maybe we shouldn't piss them off…",
+		"japanese": "ああ……先輩！そんな強気な発言は…"
+	},
+	{
+		"word": "発言",
+		"root": "発言",
+		"definitions": [
+			"発言[はつげん] (n, vs) statement, remark, observation, utterance, speech, proposal"
+		],
+		"english": "Um…sir! Maybe we shouldn't piss them off…",
+		"japanese": "ああ……先輩！そんな強気な発言は…"
+	},
+	{
+		"word": "深海",
+		"root": "深海",
+		"definitions": [
+			"深海[しんかい] (n, adj-no) deep sea, depths of the sea, ocean depths"
+		],
+		"english": "We're at the bottom of the sea.",
+		"japanese": "ここは深海だぞ"
+	},
+	{
+		"word": "思い残す",
+		"root": "思い残す",
+		"definitions": [
+			"思い残す[おもいのこす] (v5s, vt) to regret"
+		],
+		"english": "I'm back! An' now I got no regrets!!",
+		"japanese": "待たせたなっ！思い残すことはないっ！！"
+	},
+	{
+		"word": "いなん",
+		"root": "いなむ",
+		"definitions": [
+			"否む[いなむ] (v5m, vt) to refuse, to decline,to deny"
+		],
+		"english": "Someone…please. I'm sorry I can't take it anymore.",
+		"japanese": "だれか、すまない……。俺、もうげんかいなんだ"
+	},
+	{
+		"word": "ピコピコ",
+		"root": "ピコピコ",
+		"definitions": [
+			"ピコピコ (adv, adv-to) blip blop (i.e. video game sounds)"
+		],
+		"english": "Stop your blubberin'!! How we gonna move this without you?",
+		"japanese": "ピコピコしやがって！！どうやって動かすんだ？"
+	},
+	{
+		"word": "シート",
+		"root": "シート",
+		"definitions": [
+			"シート (n) seat,sheet"
+		],
+		"english": "I can't fit in this seat...\" No good!",
+		"japanese": "あかん！シートにすわられへん！"
+	},
+	{
+		"word": "ピコ",
+		"root": "ピコ",
+		"definitions": [
+			"ピコ (pref) pico-, 10^-12"
+		],
+		"english": "EY!! Looks likes we're almost on our way! Just keep on fiddlin' with it!!",
+		"japanese": "おっ！！　いけそうだぜ！このピコピコ！！"
+	},
+	{
+		"word": "護衛",
+		"root": "護衛",
+		"definitions": [
+			"護衛[ごえい] (n, vs) guard, convoy, escort"
+		],
+		"english": "Presently on the ocean floor near Junon, a Red Leader Submarine carrying Huge Materia is being escorted by covert Shinra Submarine Units.",
+		"japanese": "現在、ジュノン海底には、ヒュージマテリアを積んだ赤いボス潜水監を護衛するため神羅海軍潜水監隊が潜行している模様。"
+	},
+	{
+		"word": "模様",
+		"root": "模様",
+		"definitions": [
+			"模様[もよう] (n) pattern, figure, design,state, condition,conjecture of the current situation, the way it seems,model, pattern, example,indicates that something seems likely (e.g. rain or storm),framework (in go), territorial framework, moyo"
+		],
+		"english": "Presently on the ocean floor near Junon, a Red Leader Submarine carrying Huge Materia is being escorted by covert Shinra Submarine Units.",
+		"japanese": "現在、ジュノン海底には、ヒュージマテリアを積んだ赤いボス潜水監を護衛するため神羅海軍潜水監隊が潜行している模様。"
+	},
+	{
+		"word": "とらえ",
+		"root": "とらえる",
+		"definitions": [
+			"捉える[とらえる] (v1, vt) to catch, to capture, to seize, to arrest, to grab, to catch hold of,to grasp (e.g. meaning), to perceive, to capture (e.g. features),to captivate, to move (one's heart)"
+		],
+		"english": "Enemy subs can only be detected within the Sonar area.",
+		"japanese": "潜行している敵潜水監は、ソナーはんい内に とらえないかぎり、認識不可能だ。"
+	},
+	{
+		"word": "認識",
+		"root": "認識",
+		"definitions": [
+			"認識[にんしき] (n, vs) recognition, awareness, perception, understanding, knowledge, cognition, cognizance, cognisance"
+		],
+		"english": "Enemy subs can only be detected within the Sonar area.",
+		"japanese": "潜行している敵潜水監は、ソナーはんい内に とらえないかぎり、認識不可能だ。"
+	},
+	{
+		"word": "こめ",
+		"root": "こめ",
+		"definitions": [
+			"米[こめ] (n) (husked grains of) rice,88 years old",
+			"コメ (n, vs) comment,(blog) comment",
+			"小女[こめ] (n) small girl",
+			"個目[こめ] (ctr) the n-th"
+		],
+		"english": "Push [SWITCH] to fire the torpedo! The mines are found on the radar screen at the top of the indicators.",
+		"japanese": "□ボタンでギョライを撃ちこめ！ レーダー画面上、のびちぢみする光の柱の上に 表示されるのが、機雷だ。"
+	},
+	{
+		"word": "レーダー",
+		"root": "レーダー",
+		"definitions": [
+			"レーダー (n) radar"
+		],
+		"english": "Push [SWITCH] to fire the torpedo! The mines are found on the radar screen at the top of the indicators.",
+		"japanese": "□ボタンでギョライを撃ちこめ！ レーダー画面上、のびちぢみする光の柱の上に 表示されるのが、機雷だ。"
+	},
+	{
+		"word": "撃破",
+		"root": "撃破",
+		"definitions": [
+			"撃破[げきは] (n, vs) crushing"
+		],
+		"english": "Sink the Red Leader Submarine carrying the Huge Materia!",
+		"japanese": "ヒュージマテリアを積んだ赤いボス潜水監の撃破！"
+	},
+	{
+		"word": "タイムリミット",
+		"root": "タイムリミット",
+		"definitions": [
+			"タイムリミット (n) time limit"
+		],
+		"english": "Time Limit: 10 minutes!",
+		"japanese": "タイムリミットは、１０分！"
+	},
+	{
+		"word": "ワンポイント",
+		"root": "ワンポイント",
+		"definitions": [
+			"ワンポイント (n) one point,stitched ornament, small needlepoint design,relief pitcher brought in to face one batter"
+		],
+		"english": "Advice",
+		"japanese": "『ワンポイントアドバイス』"
+	},
+	{
+		"word": "点滅",
+		"root": "点滅",
+		"definitions": [
+			"点滅[てんめつ] (n, vs) switching on and off (of a light), flashing, blinking, flickering"
+		],
+		"english": "2. When the lock-on marker flashes red, launch torpedos!",
+		"japanese": "２．ロックオンマークが赤く点滅したらギョライ発射！"
+	},
+	{
+		"word": "探索",
+		"root": "探索",
+		"definitions": [
+			"探索[たんさく] (n, vs) search, lookup, hunt, (item of) research, exploration, investigation"
+		],
+		"english": "4. If you lose track of the enemy, push [PAGEDOWN] and use your radar!",
+		"japanese": "４．敵を見失ったらＲ１ボタンの全体レーダーで探索！"
+	},
+	{
+		"word": "見方",
+		"root": "見方",
+		"definitions": [
+			"見方[みかた] (n) viewpoint, point of view,way of understanding, way of appreciating, how to look at something (e.g. noh, train schedule)"
+		],
+		"english": "Radar Screen",
+		"japanese": "『レーダー画面の見方』"
+	},
+	{
+		"word": "背後",
+		"root": "背後",
+		"definitions": [
+			"背後[はいご] (n, adj-no) back, rear,background, behind the scenes"
+		],
+		"english": "The basic strategies are to 1) avoid the indicators, and 2) \"Lock On\" to enemies from behind.",
+		"japanese": "柱をさけつつ、敵潜水監を背後からとらえ確実にロックオンするのが基本戦術となる。"
+	},
+	{
+		"word": "耐久",
+		"root": "耐久",
+		"definitions": [
+			"耐久[たいきゅう] (n) endurance, persistence"
+		],
+		"english": "The lower gauge shows the sub's remaining power.",
+		"japanese": "画面下のよこゲージは潜水監の耐久力をしめす。"
+	},
+	{
+		"word": "しめす",
+		"root": "しめす",
+		"definitions": [
+			"示す[しめす] (v5s, vt) to (take out and) show, to demonstrate, to tell, to exemplify, to make apparent,to point out (finger, clock hand, needle, etc.),to indicate, to show, to represent, to signify, to display",
+			"湿す[しめす] (v5s, vt) to wet, to moisten, to dampen"
+		],
+		"english": "The lower gauge shows the sub's remaining power.",
+		"japanese": "画面下のよこゲージは潜水監の耐久力をしめす。"
+	},
+	{
+		"word": "警告",
+		"root": "警告",
+		"definitions": [
+			"警告[けいこく] (n, vs, adj-no) warning, advice"
+		],
+		"english": "Other warnings are as follows…",
+		"japanese": "その他、各種警告の意味は以下の通り……"
+	},
+	{
+		"word": "以下",
+		"root": "以下",
+		"definitions": [
+			"以下[いか] (n) not exceeding, and downward, ... and below,below (e.g. standard), under (e.g. a level),the below-mentioned, the following, the rest"
+		],
+		"english": "Other warnings are as follows…",
+		"japanese": "その他、各種警告の意味は以下の通り……"
+	},
+	{
+		"word": "バック",
+		"root": "バック",
+		"definitions": [
+			"バック (n) back,backing, going backwards, reversing,background, background colour (color),backhand,backer, supporter,refunding,backstroke (swimming),doggy style (sexual position)",
+			"バッグ (n) bag"
+		],
+		"english": "CONFLICT…Collision with the ocean floor!",
+		"japanese": "ＣＯＮＦＬＩＣＴ…海底に衝突（バックまたは転回せよ）"
+	},
+	{
+		"word": "転回",
+		"root": "転回",
+		"definitions": [
+			"転回[てんかい] (n, vs) revolution, rotation"
+		],
+		"english": "CONFLICT…Collision with the ocean floor!",
+		"japanese": "ＣＯＮＦＬＩＣＴ…海底に衝突（バックまたは転回せよ）"
+	},
+	{
+		"word": "装填",
+		"root": "装填",
+		"definitions": [
+			"装填[そうてん] (n, vs) loading, charging, filling"
+		],
+		"english": "Loading torpedoes",
+		"japanese": "『ギョライの装填』"
+	},
+	{
+		"word": "サイト",
+		"root": "サイト",
+		"definitions": [
+			"サイト (n) site (usu. website),sight,payable on sight"
+		],
+		"english": "[PAGEDOWN]: Sight",
+		"japanese": "Ｒ１：全体レーダーサイト"
+	},
+	{
+		"word": "高速",
+		"root": "高速",
+		"definitions": [
+			"高速[こうそく] (n) high-speed, rapid, express,highway, freeway, expressway, motorway"
+		],
+		"english": "Shift up to maximum speed by pressing [MENU] repeatedly. This will enable you to speed up past the maximum speed and outrun the torpedo!",
+		"japanese": "最高速までシフトアップし、△ボタンを押し続ければさらに限界値までスピードアップ！ギョライをかわすことが可能！"
+	},
+	{
+		"word": "シフト",
+		"root": "シフト",
+		"definitions": [
+			"シフト (n, vs) shift"
+		],
+		"english": "Shift up to maximum speed by pressing [MENU] repeatedly. This will enable you to speed up past the maximum speed and outrun the torpedo!",
+		"japanese": "最高速までシフトアップし、△ボタンを押し続ければさらに限界値までスピードアップ！ギョライをかわすことが可能！"
+	},
+	{
+		"word": "健闘",
+		"root": "健闘",
+		"definitions": [
+			"健闘[けんとう] (n, vs) fighting bravely, strenuous efforts"
+		],
+		"english": "…That is all.",
+		"japanese": "……以上。では、健闘をいのる！"
+	},
+	{
+		"word": "ミニゲーム",
+		"root": "ミニゲーム",
+		"definitions": [
+			"ミニゲーム (n) minigame, mini game, subgame, microgame, [object Object],practice game, usu. with reduced players"
+		],
+		"english": "Victorious in Mini-game",
+		"japanese": "ミニゲーム勝利"
+	},
+	{
+		"word": "敗北",
+		"root": "敗北",
+		"definitions": [
+			"敗北[はいぼく] (vs, vi) defeat,to be defeated"
+		],
+		"english": "Defeat in Mini-game",
+		"japanese": "ミニゲーム敗北"
+	},
+	{
+		"word": "応答",
+		"root": "応答",
+		"definitions": [
+			"応答[おうとう] (n, vs) reply, answer, response"
+		],
+		"english": "…All Shinra Submarine Units, do you read…?",
+		"japanese": "『……神羅潜水監部隊全機、応答せよ……』"
+	},
+	{
+		"word": "いってん",
+		"root": "いってん",
+		"definitions": [
+			"一点[いってん] (n) speck, dot, point, only a little, particle, only one",
+			"一天[いってん] (n) the whole sky, firmament",
+			"一転[いってん] (n, vs, n-adv) one turn, spinning around,complete change, reversal, (an) about-face, sudden transformation"
+		],
+		"english": "Make 'em shut up! Just answer somethin'!",
+		"japanese": "うっせいってんだ！適当に返事しろぃ！"
+	},
+	{
+		"word": "帰航",
+		"root": "帰航",
+		"definitions": [
+			"帰航[きこう] (n, vs, adj-no) homeward voyage or flight"
+		],
+		"english": "…Return to Junon Dock…",
+		"japanese": "『……すみやかにジュノンドックに帰航せよ……』"
+	},
+	{
+		"word": "搬出",
+		"root": "搬出",
+		"definitions": [
+			"搬出[はんしゅつ] (n, vs) carrying out (esp. heavy objects, artwork, furniture), taking out"
+		],
+		"english": "…We will transport the Huge Materia from the airport…",
+		"japanese": "『…ヒュージマテリアをエアポートより搬出する…』"
+	},
+	{
+		"word": "分析",
+		"root": "分析",
+		"definitions": [
+			"分析[ぶんせき] (n, vs) analysis"
+		],
+		"english": "…Analysis completed…",
+		"japanese": "『……分析結果……』"
+	},
+	{
+		"word": "取得",
+		"root": "取得",
+		"definitions": [
+			"取得[しゅとく] (n, vs) acquisition, obtaining, gaining possession, purchase",
+			"取り柄[とりえ] (n) worth, merit, value, good point, redeeming feature, saving grace"
+		],
+		"english": "…Exact date of origin: undetermined…",
+		"japanese": "『……取得物の生成年代は特定不能……』"
+	},
+	{
+		"word": "不能",
+		"root": "不能",
+		"definitions": [
+			"不能[ふのう] (n) impossible, incapable (of doing), unable (to do),incompetence, inability,impotence,having no solution (of an equation)"
+		],
+		"english": "…Exact date of origin: undetermined…",
+		"japanese": "『……取得物の生成年代は特定不能……』"
+	},
+	{
+		"word": "判別",
+		"root": "判別",
+		"definitions": [
+			"判別[はんべつ] (n, vs) distinction, discrimination, distinguishing, discernment"
+		],
+		"english": "…Estimated to be several thousand years old…",
+		"japanese": "『……数千年前のものと判別……』"
+	},
+	{
+		"word": "撃沈",
+		"root": "撃沈",
+		"definitions": [
+			"撃沈[げきちん] (vs) sending a ship to the bottom, sinking (a ship),to sink a ship"
+		],
+		"english": "So this is the Leader Sub…",
+		"japanese": "これが俺たちの撃沈したボス潜水監か……"
+	},
+	{
+		"word": "損傷",
+		"root": "損傷",
+		"definitions": [
+			"損傷[そんしょう] (n, vs) damage, injury"
+		],
+		"english": "…No damage appears to have been sustained…",
+		"japanese": "『……損傷はない模様……』"
+	},
+	{
+		"word": "ひとまず",
+		"root": "ひとまず",
+		"definitions": [
+			"一まず[ひとまず] (adv) for the present, once, in outline"
+		],
+		"english": "…phew… That's good to hear.",
+		"japanese": "……ふぅ……。ひとまず、よかったな"
+	},
+	{
+		"word": "きやすく",
+		"root": "きやすい",
+		"definitions": [
+			"気安い[きやすい] (adj-i) relaxed, familiar, easy to access, friendly"
+		],
+		"english": "Hey! Who am I to know?",
+		"japanese": "こりゃ！き、きやすく話かけんな！"
+	},
+	{
+		"word": "無条件",
+		"root": "無条件",
+		"definitions": [
+			"無条件[むじょうけん] (adj-no, n) unconditional"
+		],
+		"english": "An unconditional surrender, huh?",
+		"japanese": "無条件こうふくというやつだな"
+	},
+	{
+		"word": "こうふく",
+		"root": "こうふく",
+		"definitions": [
+			"幸福[こうふく] (n, adj-na) happiness, well-being, joy, welfare, blessedness",
+			"降伏[こうふく] (n) capitulation, surrender, submission,yield",
+			"口腹[こうふく] (n) appetite,distinction between what is thought and what is said",
+			"校服[こうふく] (n) school uniform"
+		],
+		"english": "An unconditional surrender, huh?",
+		"japanese": "無条件こうふくというやつだな"
+	},
+	{
+		"word": "アウトサイダー",
+		"root": "アウトサイダー",
+		"definitions": [
+			"アウトサイダー (n) outsider"
+		],
+		"english": "Received \"Outsider\"!",
+		"japanese": "『アウトサイダー』を手にいれた！"
+	},
+	{
+		"word": "叢雲",
+		"root": "叢雲",
+		"definitions": [
+			"群雲[むらくも] (n) gathering clouds, group of clouds"
+		],
+		"english": "Received \"Heaven's Cloud\"!",
+		"japanese": "『天の叢雲』を手にいれた！"
+	},
+	{
+		"word": "不倶戴天",
+		"root": "不倶戴天",
+		"definitions": [
+			"不倶戴天[ふぐたいてん] (n) cannot allow (oneself) to live (with someone) under the canopy of heaven, cannot allow (the sworn enemy) to live in this world, irreconcilable (enemy)"
+		],
+		"english": "Received \"Conformer\"!",
+		"japanese": "『不倶戴天』を手にいれた！"
+	},
+	{
+		"word": "くぎり",
+		"root": "くぎる",
+		"definitions": [
+			"区切る[くぎる] (v5r, vt) to demarcate, to delimit, to divide (an area), to mark off, to cut off,to punctuate, to put an end to (e.g. a sentence), to insert pauses or breaks (e.g. when reading aloud)"
+		],
+		"english": "Received \"Double Cut\" Materia!",
+		"japanese": "『れんぞくぎり』のマテリアを手にいれた！"
+	},
+	{
+		"word": "メチャメチャ",
+		"root": "メチャメチャ",
+		"definitions": [
+			"目茶目茶[めちゃめちゃ] (adv) disorderly, messy, ruined,absurd, unreasonable, excessive, rash,very, extremely"
+		],
+		"english": "This is terrible… It's all messed up…",
+		"japanese": "ひどいな……メチャメチャだ"
+	},
+	{
+		"word": "カオス",
+		"root": "カオス",
+		"definitions": [
+			"カオス (n) chaos"
+		],
+		"english": "Received \"Chaos\"!",
+		"japanese": "『カオス』を手にいれた…"
+	},
+	{
+		"word": "赤ん坊",
+		"root": "赤ん坊",
+		"definitions": [
+			"赤ん坊[あかんぼう] (n) baby, infant"
+		],
+		"english": "After that, a child was born to Lucrecia… ",
+		"japanese": "しばらくした後 ルクレッツィアに赤ん坊が 生まれる…"
+	},
+	{
+		"word": "罰",
+		"root": "罰",
+		"definitions": [
+			"罰[ばち] (n) (divine) punishment, curse, retribution",
+			"罰[ばつ] (n, n-suf) punishment, penalty"
+		],
+		"english": "This body is… the punishment that's been given to me…",
+		"japanese": "この身体は……私に与えられた罰……"
+	}
+]

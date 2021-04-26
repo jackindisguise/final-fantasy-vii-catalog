@@ -1,0 +1,591 @@
+[
+	{
+		"word": "おのおの",
+		"root": "おのおの",
+		"definitions": [
+			"各々[おのおの] (pn) each,you (plural)"
+		],
+		"english": "What to do? Have you lost your way? When that happens, we each have to take a good long look at ourselves.",
+		"japanese": "どうしたらよいか……道を見失ったか？そういう時はおのおの自分を静かにみつめるのじゃ"
+	},
+	{
+		"word": "みつめる",
+		"root": "みつめる",
+		"definitions": [
+			"見つめる[みつめる] (v1, vt) to stare at, to gaze at, to look hard at, to watch intently, to fix one's eyes on"
+		],
+		"english": "What to do? Have you lost your way? When that happens, we each have to take a good long look at ourselves.",
+		"japanese": "どうしたらよいか……道を見失ったか？そういう時はおのおの自分を静かにみつめるのじゃ"
+	},
+	{
+		"word": "ひっかかっ",
+		"root": "ひっかかる",
+		"definitions": [
+			"引っかかる[ひっかかる] (v5r, vi) to be caught in, to be stuck in,to stop by, to drop in for a short visit, to be delayed, to take time,to get mixed up in (trouble), to get entangled in (a problem), to be involved with,to fall for (a trick), to be deceived, to be cheated,to be on one's mind, to worry one, to be bothered by, to feel uneasy,to be obstructed, to be hindered,to splash"
+		],
+		"english": "There's always something in the deepest reaches of our hearts. Something buried, or something forgotten.",
+		"japanese": "何か忘れているものが……何か心の奥にひっかかっているものがあるはずじゃ"
+	},
+	{
+		"word": "手元",
+		"root": "手元",
+		"definitions": [
+			"手元[てもと] (n) at hand, on hand, nearby, close at hand,way of moving one's arms, skill,money at hand, pocket money,grip, handle"
+		],
+		"english": "We're carrying around Huge Materia. This is pretty delicate stuff and we would like to keep it in a safe place…",
+		"japanese": "俺たちの手元にヒュージマテリアってのがあるんだ。デリケートなものだからどこか静かな場所に……"
+	},
+	{
+		"word": "いのち",
+		"root": "いのち",
+		"definitions": [
+			"命[いのち] (n) life, life force,lifetime, lifespan,most important thing, foundation, core,paired tattoos of the \"life\" kanji on the upper arms of a man and woman (indicating unwavering love),fate, destiny, karma"
+		],
+		"english": "Materia is highly dense spiritual energy. A shred of the Planet's life. It should not be used as a weapon.",
+		"japanese": "マテリアは高密度な精神エネルギー。星のいのちのかけらじゃ。武器になどするものではない"
+	},
+	{
+		"word": "弱っ",
+		"root": "弱る",
+		"definitions": [
+			"弱る[よわる] (v5r, vi) to weaken, to grow weak, to wane, to decline (of one's health),to be downcast, to be dejected, to be dispirited,to be troubled, to be at a loss, to be perplexed, to be annoyed"
+		],
+		"english": "We must stop using it… or the Planet will be weakened.",
+		"japanese": "なんとかやめさせなければ……ただでさえ星が弱っているのに……"
+	},
+	{
+		"word": "なげる",
+		"root": "なげる",
+		"definitions": [
+			"投げる[なげる] (v1, vt) to throw, to hurl, to fling, to toss, to cast,to give up, to abandon, to throw away,to cast (a glance, shadow, doubt, etc.)"
+		],
+		"english": "Maximum level command Materia blends with Steal Sense  Throw Morph   Deathblow   Manipulate Mime",
+		"japanese": "ＭＡＸレベルのコマンドマテリア【ぬすむ】【みやぶる】【なげる】【へんか】【ひっさつ】【あやつる】【ものまね】をゆうごうします。"
+	},
+	{
+		"word": "ごうし",
+		"root": "ごうし",
+		"definitions": [
+			"合資[ごうし] (n, vs) joint stocks, entering into partnership",
+			"合祀[ごうし] (n, vs) enshrining together",
+			"郷士[ごうし] (n) country samurai"
+		],
+		"english": "Maximum level command Materia blends with Steal Sense  Throw Morph   Deathblow   Manipulate Mime",
+		"japanese": "ＭＡＸレベルのコマンドマテリア【ぬすむ】【みやぶる】【なげる】【へんか】【ひっさつ】【あやつる】【ものまね】をゆうごうします。"
+	},
+	{
+		"word": "うしなわ",
+		"root": "うしなう",
+		"definitions": [
+			"失う[うしなう] (v5u, vt) to lose, to part with"
+		],
+		"english": "Maximum level Materia has been lost.",
+		"japanese": "ＭＡＸレベルのコマンドマテリアはうしなわれ、"
+	},
+	{
+		"word": "おこない",
+		"root": "おこなう",
+		"definitions": [
+			"行う[おこなう] (v5u, vt) to perform, to do, to conduct oneself, to carry out"
+		],
+		"english": "Perform Materia Blend?",
+		"japanese": "【マテリアゆうごう】をおこないますか？"
+	},
+	{
+		"word": "零",
+		"root": "零",
+		"definitions": [
+			"零[れい] (n, adj-no) zero, nought"
+		],
+		"english": "Received \"Bahamut ZERO\" Materia!",
+		"japanese": "バハムート零式のマテリアを手にいれた！"
+	},
+	{
+		"word": "よじっ",
+		"root": "よじる",
+		"definitions": [
+			"捩る[ねじる] (v5r, vt) to screw, to twist,to distort, to parody, to make a pun,to torture, to wrest",
+			"攀じる[よじる] (v1) to clamber (up), to scale"
+		],
+		"english": "Just be patient, old man.",
+		"japanese": "少しの間、ガマンしてよじっちゃん"
+	},
+	{
+		"word": "甲板",
+		"root": "甲板",
+		"definitions": [
+			"甲板[かんぱん] (n) deck (of a ship)",
+			"甲板[こういた] (n) top board (of a table, counter, etc.), surface"
+		],
+		"english": "Hmm? The deck's up there?",
+		"japanese": "ん？　上は甲板かな？"
+	},
+	{
+		"word": "いとなみ",
+		"root": "いとなむ",
+		"definitions": [
+			"営む[いとなむ] (v5m, vt) to run (a business), to operate, to conduct, to practice (law, medicine, etc.),to carry out, to perform, to lead (a life),to hold (a Buddhist or Shinto ceremony)"
+		],
+		"english": "I can feel the workings of the Planet in the smell of the wind. I also feel the greatness of Man's wisdom and the knowledge in the smell of machinery…",
+		"japanese": "風のニオイに星のいとなみを感じ機械のニオイに人間の知恵と知識の素晴らしさを感じる……"
+	},
+	{
+		"word": "うずまい",
+		"root": "うずまく",
+		"definitions": [
+			"渦巻く[うずまく] (v5k, vi) to whirl, to eddy, to swirl, to curl (smoke),to be all jumbled together (feelings, thoughts, etc.),to surge, to sweep"
+		],
+		"english": "Bugenhagen",
+		"japanese": "この部屋にうずまいている古代種の意識はたったひとつのことをうったえているのじゃ"
+	},
+	{
+		"word": "うったえ",
+		"root": "うったえる",
+		"definitions": [
+			"訴える[うったえる] (v1, vt) to raise, to bring to (someone's attention),to appeal to (reason, emotions, etc.), to work on (one's emotions), to play on (one's sympathies),to complain,to sue (a person), to take someone to court,to resort to (e.g. arms, violence)"
+		],
+		"english": "Bugenhagen",
+		"japanese": "この部屋にうずまいている古代種の意識はたったひとつのことをうったえているのじゃ"
+	},
+	{
+		"word": "白魔",
+		"root": "白魔",
+		"definitions": [
+			"白魔[はくま] (n) heavy snowfall, white devil"
+		],
+		"english": "Bugenhagen",
+		"japanese": "究極の白魔法ホーリー……メテオと対をなす魔法じゃ。メテオから星を救い出す最後の望み"
+	},
+	{
+		"word": "対",
+		"root": "対",
+		"definitions": [
+			"対[たい] (n, conj) opposite, opposition,versus, vs., v.,to (e.g. \"winning a game five to three\"),equal footing, equal terms,against ..., anti-, toward ..., to ...",
+			"対[つい] (ctr) pair, couple, set,antithesis,counter for items that come in pairs,counter for sets (of clothes, small furniture, utensils, etc.)"
+		],
+		"english": "Bugenhagen",
+		"japanese": "究極の白魔法ホーリー……メテオと対をなす魔法じゃ。メテオから星を救い出す最後の望み"
+	},
+	{
+		"word": "救い出す",
+		"root": "救い出す",
+		"definitions": [
+			"救い出す[すくいだす] (v5s, vt) to rescue, to free"
+		],
+		"english": "Bugenhagen",
+		"japanese": "究極の白魔法ホーリー……メテオと対をなす魔法じゃ。メテオから星を救い出す最後の望み"
+	},
+	{
+		"word": "無くなる",
+		"root": "無くなる",
+		"definitions": [
+			"無くなる[なくなる] (v5r, vi) to be lost (e.g. luggage), to be missing,to be used up, to be run out, to be exhausted, to be consumed, to be reduced to zero, to not occur any more,to disappear (e.g. pain), to be lost (e.g. a dream, confidence)"
+		],
+		"english": "Bugenhagen",
+		"japanese": "悪しきものは消えて無くなる。それだけのことじゃ"
+	},
+	{
+		"word": "グリーン",
+		"root": "グリーン",
+		"definitions": [
+			"グリーン (adj-na, n) green, environmentally friendly"
+		],
+		"english": "…This is the end.",
+		"japanese": "ねがいが星にとどくと白マテリアがあわ～いグリーンに輝くらしいのじゃ"
+	},
+	{
+		"word": "なじっ",
+		"root": "なじる",
+		"definitions": [
+			"詰る[なじる] (v5r, vt) to rebuke, to scold, to tell off, to find fault, to harp on, to reprove,to question persistently (in order to criticize or find fault with somebody)"
+		],
+		"english": "Wow!",
+		"japanese": "すごいなじっちゃん！"
+	},
+	{
+		"word": "だて",
+		"root": "だて",
+		"definitions": [
+			"伊達[だて] (n, adj-na) elegance, dandyism, sophistication, having style,affectation, showing off, putting on an air, appearances, doing something just for show",
+			"建て[だて] (suf) indicates storeys, structures, or materials used in a building,indicates denomination (after a currency)",
+			"立て[だて] (suf) particularly, especially,indicates the number of horses or oxen drawing a carriage, indicates the number of oars on a boat,indicates the number of movies, plays, etc. comprising a single program, indicates the number of items or methods used"
+		],
+		"english": "I never expected to find a person who could read and understand this difficult writing nowadays.",
+		"japanese": "やるなジジイ！だてに歳くってねえぜ！"
+	},
+	{
+		"word": "難解",
+		"root": "難解",
+		"definitions": [
+			"難解[なんかい] (adj-na, n) difficult to understand, unintelligible, abstruse"
+		],
+		"english": "Really?",
+		"japanese": "この難解な文字を解読できる者が今の時代にいるとはな"
+	},
+	{
+		"word": "解読",
+		"root": "解読",
+		"definitions": [
+			"解読[かいどく] (n, vs) deciphering, decoding"
+		],
+		"english": "Really?",
+		"japanese": "この難解な文字を解読できる者が今の時代にいるとはな"
+	},
+	{
+		"word": "おいぼれ",
+		"root": "おいぼれる",
+		"definitions": [
+			"老いぼれる[おいぼれる] (v1, vi) to become decrepit, to become senile"
+		],
+		"english": "There's something written in chalk… …(even sunlight can't reach)…(Key)",
+		"japanese": "でもな、こんなおいぼれでも目は悪くなっておらん。よ～くその文字の下を見てみろい"
+	},
+	{
+		"word": "チョーク",
+		"root": "チョーク",
+		"definitions": [
+			"チョーク (n, adj-no) chalk,choke,chock"
+		],
+		"english": "Bugenhagen",
+		"japanese": "チョークでメモがかきなぐってある…………【日の光もとどかぬ】……【カギ】"
+	},
+	{
+		"word": "かきなぐっ",
+		"root": "かきなぐる",
+		"definitions": [
+			"書きなぐる[かきなぐる] (v5r, vt) to scribble (write quickly), to dash off"
+		],
+		"english": "Bugenhagen",
+		"japanese": "チョークでメモがかきなぐってある…………【日の光もとどかぬ】……【カギ】"
+	},
+	{
+		"word": "試み",
+		"root": "試みる",
+		"definitions": [
+			"試みる[こころみる] (v1, vt) to try, to attempt, to have a go (at something)"
+		],
+		"english": "So this note points to where the key is?",
+		"japanese": "きっとここを発見した学者が解読を試みたあとじゃ……たった二つの単語を解読して力つきたのじゃろう"
+	},
+	{
+		"word": "二つ",
+		"root": "二つ",
+		"definitions": [
+			"二つ[ふたつ] (num) two"
+		],
+		"english": "So this note points to where the key is?",
+		"japanese": "きっとここを発見した学者が解読を試みたあとじゃ……たった二つの単語を解読して力つきたのじゃろう"
+	},
+	{
+		"word": "単語",
+		"root": "単語",
+		"definitions": [
+			"単語[たんご] (n, adj-no) word, vocabulary, (usually) single-character word"
+		],
+		"english": "So this note points to where the key is?",
+		"japanese": "きっとここを発見した学者が解読を試みたあとじゃ……たった二つの単語を解読して力つきたのじゃろう"
+	},
+	{
+		"word": "オルゴール",
+		"root": "オルゴール",
+		"definitions": [
+			"オルゴール (n) music box"
+		],
+		"english": "What does it mean?",
+		"japanese": "チョークでメモがかきなぐってある…………【カギを】……【オルゴールに】"
+	},
+	{
+		"word": "いきづまっ",
+		"root": "いきづまる",
+		"definitions": [
+			"行き詰まる[いきづまる] (v5r) to reach the limits, to come to the end of one's tether",
+			"息詰まる[いきづまる] (v5r) to be breathtaking, to be stifling"
+		],
+		"english": "Maybe I'll understand more from the writing and get some new information for you.",
+		"japanese": "カギが見つかった時、あるいはどうしてもいきづまった時にはここにもどってこい"
+	},
+	{
+		"word": "すすみ",
+		"root": "すすむ",
+		"definitions": [
+			"進む[すすむ] (v5m, vi) to advance, to go forward,to precede, to go ahead (of),to make progress, to improve,to deepen, to heighten,to be fast (of a clock), to be ahead,to do of one's own free will"
+		],
+		"english": "Bugenhagen",
+		"japanese": "解読がすすみ新しい事実が判明しているかもしれんからのう"
+	},
+	{
+		"word": "事実",
+		"root": "事実",
+		"definitions": [
+			"事実[じじつ] (n-adv, n) fact, truth, reality"
+		],
+		"english": "Bugenhagen",
+		"japanese": "解読がすすみ新しい事実が判明しているかもしれんからのう"
+	},
+	{
+		"word": "判明",
+		"root": "判明",
+		"definitions": [
+			"判明[はんめい] (n, vs) establishing, proving, ascertaining, identifying, confirming"
+		],
+		"english": "Bugenhagen",
+		"japanese": "解読がすすみ新しい事実が判明しているかもしれんからのう"
+	},
+	{
+		"word": "しかと",
+		"root": "しかと",
+		"definitions": [
+			"シカト (n, vs) ignoring (somebody), ostracizing, leaving (someone) out",
+			"確と[しかと] (adv) certainly, for sure,distinctly, clearly, exactly,firmly, tightly"
+		],
+		"english": "Bugenhagen",
+		"japanese": "そして何が起こるのかをしかと見ておくんじゃ"
+	},
+	{
+		"word": "投影",
+		"root": "投影",
+		"definitions": [
+			"投影[とうえい] (n, vs) projection"
+		],
+		"english": "Look! Look at the image projected on the screen of the water!",
+		"japanese": "ここはイメージを投影するスクリーンだったのじゃ！"
+	},
+	{
+		"word": "スクリーン",
+		"root": "スクリーン",
+		"definitions": [
+			"スクリーン (n) screen"
+		],
+		"english": "Look! Look at the image projected on the screen of the water!",
+		"japanese": "ここはイメージを投影するスクリーンだったのじゃ！"
+	},
+	{
+		"word": "ひきかえ",
+		"root": "ひきかえる",
+		"definitions": [
+			"引き換える[ひきかえる] (v1, vt) to exchange (things), to convert"
+		],
+		"english": "I'm sorry…AERIS. I should have figured this out sooner.",
+		"japanese": "AERISは俺たちに大きな希望を残してくれた。けれども、それはAERISの命……AERIS自身の未来とひきかえに……"
+	},
+	{
+		"word": "一言",
+		"root": "一言",
+		"definitions": [
+			"一言[ひとこと] (n, vs) single word, a few words, brief comment"
+		],
+		"english": "That's why it took so long for me to find out… But, AERIS…I understand now.",
+		"japanese": "……一言も言葉をかわすことなく俺たちの前からいなくなってしまったから……突然だったから、俺は何も考えられなくて……"
+	},
+	{
+		"word": "はぐくむ",
+		"root": "はぐくむ",
+		"definitions": [
+			"育む[はぐくむ] (v5m, vt) to raise, to bring up, to rear,to cultivate, to foster, to nurture"
+		],
+		"english": "We've gotta take a chance on the hope she left us!",
+		"japanese": "大切な人が残してくれた希望……それをはぐくむのが、私たちにできるせいいっぱいのこと……"
+	},
+	{
+		"word": "最大限",
+		"root": "最大限",
+		"definitions": [
+			"最大限[さいだいげん] (n-adv) maximum,to the maximum degree"
+		],
+		"english": "And, where is that!?",
+		"japanese": "マテリアの……いや魔晄の力が最大限に集中できる場所に……"
+	},
+	{
+		"word": "ノイズ",
+		"root": "ノイズ",
+		"definitions": [
+			"ノイズ (n) noise"
+		],
+		"english": "…The noise doesn't go through your ears but directly into your head.",
+		"japanese": "……いろいろなノイズ"
+	},
+	{
+		"word": "もどかし",
+		"root": "もどかしい",
+		"definitions": [
+			"もどかしい (adj-i) irritating, irritated, frustrating, vexing, (feeling things are) not quick enough, (feeling) too slow-going, (feeling) impatient, tantalizing, tantalising"
+		],
+		"english": "That's what this is similar to.",
+		"japanese": "意味があるようで……何もわからない。何もわからないもどかしさ"
+	},
+	{
+		"word": "パンク",
+		"root": "パンク",
+		"definitions": [
+			"パンク (n) puncture, flat tyre (tire), bursting,punk"
+		],
+		"english": "My head feels like it's gettin' crushed!",
+		"japanese": "頭がパンクしそうなかんじ"
+	},
+	{
+		"word": "怪",
+		"root": "怪",
+		"definitions": [
+			"怪[かい] (n) mystery, wonder"
+		],
+		"english": "It's a strange signal!",
+		"japanese": "怪電波です！"
+	},
+	{
+		"word": "電波",
+		"root": "電波",
+		"definitions": [
+			"電波[でんぱ] (n, adj-na) radio wave, reception, signal,saying strange things"
+		],
+		"english": "It's a strange signal!",
+		"japanese": "怪電波です！"
+	},
+	{
+		"word": "コントロール",
+		"root": "コントロール",
+		"definitions": [
+			"コントロール (n, vs) control"
+		],
+		"english": "That was a surprise, the controls went crazy.",
+		"japanese": "ちょっと驚いてコントロールが乱れてしまいました"
+	},
+	{
+		"word": "乱れ",
+		"root": "乱れる",
+		"definitions": [
+			"乱れる[みだれる] (v1, vi) to be disordered, to be disarranged, to be disarrayed, to be disheveled, to be dishevelled,to be discomposed, to be upset, to get confused, to be disturbed,to lapse into chaos (due to war, etc.)"
+		],
+		"english": "That was a surprise, the controls went crazy.",
+		"japanese": "ちょっと驚いてコントロールが乱れてしまいました"
+	},
+	{
+		"word": "しも",
+		"root": "しむ",
+		"definitions": [
+			"占む[しむ] (v5m, vt) to occupy, to hold, to command, to account for",
+			"使む[しむ] (v5m, aux-v) to make happen (old causative verbal ending)",
+			"シム (n) shim"
+		],
+		"english": "This ain't good…",
+		"japanese": "しもたなぁ～……"
+	},
+	{
+		"word": "ポリポリ",
+		"root": "ポリポリ",
+		"definitions": [
+			"ぼりぼり (adv, adv-to) munching, crunching,scratching (an itch)"
+		],
+		"english": "What was that scratching just now!?",
+		"japanese": "なんですか、今の『ポリポリ』ってのは！"
+	},
+	{
+		"word": "多少",
+		"root": "多少",
+		"definitions": [
+			"多少[たしょう] (n) more or less, somewhat, a little, a few, some,amount, quantity"
+		],
+		"english": "…that was for the life of the Planet. Ya gotta expect a few casualties.",
+		"japanese": "……星の命のためだったんだ。多少の犠牲は仕方なかった"
+	},
+	{
+		"word": "出力",
+		"root": "出力",
+		"definitions": [
+			"出力[しゅつりょく] (n, vs) output (electrical, signal, etc.)"
+		],
+		"english": "…Reeve. It's your job to adjust the reactor's output.",
+		"japanese": "……というわけでリーブ君。魔晄炉の出力調整は君の仕事だ"
+	},
+	{
+		"word": "全開",
+		"root": "全開",
+		"definitions": [
+			"全開[ぜんかい] (n, vs, adj-no) opening fully,full throttle, full power"
+		],
+		"english": "Once you open it up all the way everything will go full speed!",
+		"japanese": "出力全開でガーーーーッと行くのよ！"
+	},
+	{
+		"word": "つけどころ",
+		"root": "つけどころ",
+		"definitions": [
+			"付け所[つけどころ] (n) focus of one's attention, what one is looking for"
+		],
+		"english": "The whole idea that Meteor will disappear if we defeat Sephiroth is all wrong!",
+		"japanese": "セフィロスを倒せばメテオも消えるとは目のつけどころが違いますな！"
+	},
+	{
+		"word": "砲弾",
+		"root": "砲弾",
+		"definitions": [
+			"砲弾[ほうだん] (n) shell, cannonball"
+		],
+		"english": "It was my idea to fire Mako powered shells.",
+		"japanese": "ミッドガルの魔晄炉の力で砲弾を飛ばすのは私のアイディアなんだから"
+	},
+	{
+		"word": "アイディア",
+		"root": "アイディア",
+		"definitions": [
+			"アイデア (n) idea"
+		],
+		"english": "It was my idea to fire Mako powered shells.",
+		"japanese": "ミッドガルの魔晄炉の力で砲弾を飛ばすのは私のアイディアなんだから"
+	},
+	{
+		"word": "新兵",
+		"root": "新兵",
+		"definitions": [
+			"新兵[しんぺい] (n) new recruit, conscript"
+		],
+		"english": "This new weapon is called…",
+		"japanese": "この新兵器の名前は……"
+	},
+	{
+		"word": "器",
+		"root": "器",
+		"definitions": [
+			"器[うつわ] (n) bowl, vessel, container,ability, capacity, calibre, caliber",
+			"器[き] (suf) device, instrument,vessel, container"
+		],
+		"english": "This new weapon is called…",
+		"japanese": "この新兵器の名前は……"
+	},
+	{
+		"word": "木々",
+		"root": "木々",
+		"definitions": [
+			"木々[きぎ] (n) (many) trees, every tree, all kinds of trees"
+		],
+		"english": "Look at the withering mountain grass. Listen to the warble of the new born chocobo's.",
+		"japanese": "枯れてゆく山の木々を見ること。うまれくるチョコボのうぶごえを聞くこと"
+	},
+	{
+		"word": "うけつが",
+		"root": "うけつぐ",
+		"definitions": [
+			"受け継ぐ[うけつぐ] (v5g, vt) to inherit, to succeed, to take over"
+		],
+		"english": "What you will see will eventually become a part of the Lifestream.",
+		"japanese": "そして、おまえの見たものはやがてライフストリームの一部となりうけつがれていくんじゃ"
+	},
+	{
+		"word": "ホー",
+		"root": "ホー",
+		"definitions": [
+			"河[ホー] (n) discarded tiles, discards",
+			"ほう (exp) oh, ho, [object Object],hoo (owl call), toot (sound of a flute)"
+		],
+		"english": "Ho Ho…",
+		"japanese": "ホーホー……"
+	},
+	{
+		"word": "とびだし",
+		"root": "とびだす",
+		"definitions": [
+			"飛び出す[とびだす] (v5s, vi) to jump out, to rush out, to fly out,to appear (suddenly),to protrude, to project,to butt in"
+		],
+		"english": "He told me he couldn't stay still and just zipped out of here!",
+		"japanese": "じっとしてられないってとびだしていっちゃったよ！"
+	}
+]

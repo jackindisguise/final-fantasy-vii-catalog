@@ -81,7 +81,7 @@ async function lookupSync(query){
 function lookup(word, spec){
 	let varHira = kata2hira(word);
 	let varKata = hira2kata(word);
-	console.log(word, varHira, varKata);
+	//console.log(word, varHira, varKata);
 	let results = [];
 	for(let entry of jsdict.dictionary){
 		let r_ele = __array(entry.r_ele);
@@ -120,6 +120,7 @@ function lookup(word, spec){
 		results.push(entry);
 	}
 
+	sortByPriority(results);
 	return results;
 }
 

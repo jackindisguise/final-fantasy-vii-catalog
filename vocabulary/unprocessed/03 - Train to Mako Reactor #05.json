@@ -1,0 +1,2235 @@
+[
+	{
+		"word": "終点",
+		"root": "終点",
+		"definitions": [
+			"終点[しゅうてん] (n) terminus, last stop (e.g. train)"
+		],
+		"english": "Last stop is Sector 7, Train Graveyard.",
+		"japanese": "終点、スラム７番街列車基場駅～"
+	},
+	{
+		"word": "到着",
+		"root": "到着",
+		"definitions": [
+			"到着[とうちゃく] (n, vs, adj-no) arrival"
+		],
+		"english": "Expected time of arrival is 12:23AM,",
+		"japanese": "到着予定時刻はミッドガル時０時２３分……"
+	},
+	{
+		"word": "予定",
+		"root": "予定",
+		"definitions": [
+			"予定[よてい] (n, vs) plans, arrangement, schedule, program, programme, expectation, estimate"
+		],
+		"english": "Expected time of arrival is 12:23AM,",
+		"japanese": "到着予定時刻はミッドガル時０時２３分……"
+	},
+	{
+		"word": "騒ぎ",
+		"root": "騒ぎ",
+		"definitions": [
+			"騒ぎ[さわぎ] (n, n-suf) uproar, disturbance"
+		],
+		"english": "Please don't make any trouble.",
+		"japanese": "騒ぎはおこさないでくださいよぅ"
+	},
+	{
+		"word": "おこさ",
+		"root": "おこす",
+		"definitions": [
+			"起こす[おこす] (v5s, vt) to raise, to raise up, to set up, to pick up,to wake, to wake up, to waken, to awaken,to cause, to bring about, to lead to, to trigger, to give rise to, to create, to generate (e.g. heat, electricity), to produce,to start, to begin, to launch, to establish, to found, to set up, to open,to plough, to plow, to till,to fall ill with,to transcribe, to write down (what is spoken),to turn over (a card)",
+			"興す[おこす] (v5s, vt) to vitalize (e.g. an industry), to invigorate, to energize, to revive, to promote, to make prosperous,to establish (e.g. a company), to build up, to set up, to launch, to commence",
+			"熾す[おこす] (v5s, vt) to build (a fire), to make, to start, to light"
+		],
+		"english": "Please don't make any trouble.",
+		"japanese": "騒ぎはおこさないでくださいよぅ"
+	},
+	{
+		"word": "ブツブツ",
+		"root": "ブツブツ",
+		"definitions": [
+			"ぶつぶつ (n, adv, adv-to) grunt, grumble, complaint, mutter,pimples, spots, eruption, rash,cutting into small pieces,simmering"
+		],
+		"english": "…mumble…grumble… (…Reactor's blown to bits… …Bad things one after another… …What a day!)",
+		"japanese": "ブツブツ……（はあ、悪いことは続くもんだ。今夜は魔晄炉事故のダイヤの乱れで大変な一日だったのに）"
+	},
+	{
+		"word": "続く",
+		"root": "続く",
+		"definitions": [
+			"続く[つづく] (v5k, vi) to continue, to last, to go on,to continue (without a break), to be unbroken,to occur again and again,to lead to, to connect to, to adjoin,to come after, to follow, to succeed, to rank next to,to hold out, to keep, to last"
+		],
+		"english": "…mumble…grumble… (…Reactor's blown to bits… …Bad things one after another… …What a day!)",
+		"japanese": "ブツブツ……（はあ、悪いことは続くもんだ。今夜は魔晄炉事故のダイヤの乱れで大変な一日だったのに）"
+	},
+	{
+		"word": "ダイヤ",
+		"root": "ダイヤ",
+		"definitions": [
+			"ダイヤ (n) diamond,(railway) schedule, timetable,diagram",
+			"台屋[だいや] (n) caterer in a red-light district"
+		],
+		"english": "…mumble…grumble… (…Reactor's blown to bits… …Bad things one after another… …What a day!)",
+		"japanese": "ブツブツ……（はあ、悪いことは続くもんだ。今夜は魔晄炉事故のダイヤの乱れで大変な一日だったのに）"
+	},
+	{
+		"word": "乱れ",
+		"root": "乱れ",
+		"definitions": [
+			"乱れ[みだれ] (n) disorder, disturbance, unrest"
+		],
+		"english": "…mumble…grumble… (…Reactor's blown to bits… …Bad things one after another… …What a day!)",
+		"japanese": "ブツブツ……（はあ、悪いことは続くもんだ。今夜は魔晄炉事故のダイヤの乱れで大変な一日だったのに）"
+	},
+	{
+		"word": "迷惑",
+		"root": "迷惑",
+		"definitions": [
+			"迷惑[めいわく] (vs) trouble, bother, annoyance, nuisance, inconvenience,to be troubled (by), to be bothered (by), to be inconvenienced (by)"
+		],
+		"english": "Please!! Don't bother the other passengers.",
+		"japanese": "たのみますよぅ！！他のお客さんの迷惑になりますから…"
+	},
+	{
+		"word": "終電",
+		"root": "終電",
+		"definitions": [
+			"終電[しゅうでん] (n) last train"
+		],
+		"english": "This is why I hate the last train. Hoo-boy…",
+		"japanese": "これだから終電はまいるよ…。はあ……"
+	},
+	{
+		"word": "号外",
+		"root": "号外",
+		"definitions": [
+			"号外[ごうがい] (n) newspaper extra"
+		],
+		"english": "You see the headlines in the Shinra Times?",
+		"japanese": "神羅新聞の号外見たかい？"
+	},
+	{
+		"word": "テロリスト",
+		"root": "テロリスト",
+		"definitions": [
+			"テロリスト (n) terrorist"
+		],
+		"english": "The terrorists that bombed the No. 1 Reactor are based somewhere in the slums.",
+		"japanese": "壱番魔晄炉爆破のテロリストはスラムにひそんでるらしいぞ"
+	},
+	{
+		"word": "ひそん",
+		"root": "ひそむ",
+		"definitions": [
+			"潜む[ひそむ] (v5m, vi) to lurk, to be hidden, to be concealed, to lie dormant, to be latent"
+		],
+		"english": "The terrorists that bombed the No. 1 Reactor are based somewhere in the slums.",
+		"japanese": "壱番魔晄炉爆破のテロリストはスラムにひそんでるらしいぞ"
+	},
+	{
+		"word": "リーダー",
+		"root": "リーダー",
+		"definitions": [
+			"リーダー (n) leader,reader, reading book,reader (i.e. someone who reads),microreader,dotted line (in printing), leaders, ellipsis mark"
+		],
+		"english": "…Blowing up a Reactor… they sure put some thought into this one.",
+		"japanese": "しかし、魔晄炉爆破とは考えたよな。リーダーはさしずめ頭の切れるヤツだな。次は、何やるんだろな？"
+	},
+	{
+		"word": "さしずめ",
+		"root": "さしずめ",
+		"definitions": [
+			"差し詰め[さしずめ] (adv) after all, in the end, when all's said and done,for the time being, at present"
+		],
+		"english": "…Blowing up a Reactor… they sure put some thought into this one.",
+		"japanese": "しかし、魔晄炉爆破とは考えたよな。リーダーはさしずめ頭の切れるヤツだな。次は、何やるんだろな？"
+	},
+	{
+		"word": "切れる",
+		"root": "切れる",
+		"definitions": [
+			"切れる[きれる] (aux-v, v1) to break, to snap, to be cut, to split, to crack,to be injured,to wear out, to be worn out,to break, to burst, to collapse,to wear off, to stop working, to go dead,to expire (time limit, etc.), to run out, to become due,to run out (of stock, etc.), to be exhausted, to be used up, to be sold out, to be out of,to be broken off (e.g. of a relationship), to break up, to have severed ties, to be cut off, to be disconnected,to cut well, to be sharp,to be sharp-minded, to be keen, to be shrewd, to be quick-witted, to be able,to be short of, to drop under (a certain figure), to beat (e.g. a record time),to dry off,to curve, to veer,to shuffle (cards),to get angry, to snap, to blow one's top, to lose one's temper, to flip,to be able to do completely"
+		],
+		"english": "…Blowing up a Reactor… they sure put some thought into this one.",
+		"japanese": "しかし、魔晄炉爆破とは考えたよな。リーダーはさしずめ頭の切れるヤツだな。次は、何やるんだろな？"
+	},
+	{
+		"word": "食っ",
+		"root": "食う",
+		"definitions": [
+			"食う[くう] (v5u, vt) to eat,to live, to make a living, to survive,to bite, to sting (as insects do),to tease, to torment, to taunt, to make light of, to make fun of,to encroach on, to eat into, to consume,to defeat a superior, to threaten a position,to consume time and-or resources,to receive something (usu. an unfavourable event),to have sexual relations with a woman, esp. for the first time"
+		],
+		"english": "They must have a real calculating leader. I wonder what they'll do next?",
+		"japanese": "ごめんよ……ちょっと気分が…変なもん食ったからなあ。あのミッドガル名物のプレートピザ…"
+	},
+	{
+		"word": "こいつ",
+		"root": "こいつ",
+		"definitions": [
+			"此奴[こいつ] (int) he, she, this fellow, this guy, this person,this, this one, this thing,Hey, you!, You bastard!, Damn you!"
+		],
+		"english": "This ain't no private car!! So split up!!",
+		"japanese": "こいつぁ、貸し切り列車じゃねえぞ！！散れ散れ！！"
+	},
+	{
+		"word": "貸し切り",
+		"root": "貸し切り",
+		"definitions": [
+			"貸し切り[かしきり] (n, adj-no) reserving, chartering, engaging, reservation"
+		],
+		"english": "This ain't no private car!! So split up!!",
+		"japanese": "こいつぁ、貸し切り列車じゃねえぞ！！散れ散れ！！"
+	},
+	{
+		"word": "散れ",
+		"root": "散る",
+		"definitions": [
+			"散る[ちる] (v5r, vi) to fall (e.g. blossoms, leaves),to scatter, to be dispersed,to disappear, to dissolve, to break up,to spread, to run, to blur,to die a noble death"
+		],
+		"english": "This ain't no private car!! So split up!!",
+		"japanese": "こいつぁ、貸し切り列車じゃねえぞ！！散れ散れ！！"
+	},
+	{
+		"word": "つくづく",
+		"root": "つくづく",
+		"definitions": [
+			"熟[つくづく] (adv, adv-to) deeply, keenly, severely, completely, utterly,intently, carefully, closely, attentively"
+		],
+		"english": "…Hoodlums again. God, don't I just have all the luck?",
+		"japanese": "また危ない人たちといっしょか。私もつくづく運がないな"
+	},
+	{
+		"word": "運",
+		"root": "運",
+		"definitions": [
+			"運[うん] (n) fortune, luck"
+		],
+		"english": "…Hoodlums again. God, don't I just have all the luck?",
+		"japanese": "また危ない人たちといっしょか。私もつくづく運がないな"
+	},
+	{
+		"word": "すい",
+		"root": "すく",
+		"definitions": [
+			"空く[すく] (v5k, vi) to become less crowded, to thin out, to get empty,to be hungry",
+			"好く[すく] (v5k, vt) to like, to love, to be fond of",
+			"透く[すく] (v5k, vi) to be transparent, to leave a gap",
+			"梳く[すく] (v5k, vt) to comb (out), to card, to untangle (hair)",
+			"漉く[すく] (v5k, vt) to make something (e.g. paper) from wet, pulpy material by spreading it thin and drying it",
+			"鋤く[すく] (v5k, vt) to plough, to plow, to hoe, to till",
+			"結く[すく] (v5k, vt) to make a net, to knit a net"
+		],
+		"english": "Now look at that!! It got empty alluva sudden.",
+		"japanese": "おいっ！！ずいぶんすいてやがるな"
+	},
+	{
+		"word": "出かける",
+		"root": "出かける",
+		"definitions": [
+			"出かける[でかける] (v1, vi) to go out (e.g. on an excursion or outing), to leave, to depart, to start, to set out,to be about to leave, to be just going out"
+		],
+		"english": "Only devoted employees like me would go to Midgar on a day like today.",
+		"japanese": "こんな日にミッドガルに出かけるのは仕事熱心な私たちサラリーマン神羅ぐらいさ"
+	},
+	{
+		"word": "熱心",
+		"root": "熱心",
+		"definitions": [
+			"熱心[ねっしん] (adj-na, n) zealous, enthusiastic, ardent, fervent, keen, eager"
+		],
+		"english": "Only devoted employees like me would go to Midgar on a day like today.",
+		"japanese": "こんな日にミッドガルに出かけるのは仕事熱心な私たちサラリーマン神羅ぐらいさ"
+	},
+	{
+		"word": "サラリーマン",
+		"root": "サラリーマン",
+		"definitions": [
+			"サラリーマン (n) office worker, company employee, company man"
+		],
+		"english": "Only devoted employees like me would go to Midgar on a day like today.",
+		"japanese": "こんな日にミッドガルに出かけるのは仕事熱心な私たちサラリーマン神羅ぐらいさ"
+	},
+	{
+		"word": "きっ",
+		"root": "きる",
+		"definitions": [
+			"切る[きる] (aux-v, v5r) to cut, to cut through, to perform (surgery),to sever (connections, ties),to turn off (e.g. the light),to terminate (e.g. a conversation), to hang up (the phone), to disconnect,to punch (a ticket), to tear off (a stub),to open (something sealed),to start,to set (a limit), to do (something) in less or within a certain time, to issue (stamps, vouchers, etc.),to reduce, to decrease, to discount,to shake off (water, etc.), to let drip-dry, to let drain,to cross, to traverse,to criticize sharply,to act decisively, to do (something noticeable), to go first, to make (certain facial expressions, in kabuki),to turn (vehicle, steering wheel, etc.),to curl (a ball), to bend, to cut,to shuffle (cards),to discard a tile,to dismiss, to sack, to let go, to expulse, to excommunicate,to dig (a groove), to cut (a stencil, on a mimeograph),to trump,to cut (the connection between two groups) (in go),to start a fire (with wood-wood friction or by striking a metal against stone),to draw (a shape) in the air (with a sword, etc.),to finish, to complete",
+			"着る[きる] (v1, vt) to wear (in modern Japanese, from the shoulders down), to put on,to bear (guilt, etc.)",
+			"キル (n) kill",
+			"斬る[きる] (v5r, vt) to kill (a human) using a blade (sword, machete, knife, etc.), to slice (off), to lop (off), to cut (off)",
+			"剪る[きる] (v5r) to cut, to prune, to trim (branches, leaves, flowers, etc.)",
+			"截る[きる] (v5r) to cut (e.g. cloth)",
+			"伐る[きる] (v5r, vt) to cut down (e.g. trees)",
+			"鑽る[きる] (v5r, vt) to start a fire (with wood-wood friction or by striking metal against stone)"
+		],
+		"english": "You work for Shinra?",
+		"japanese": "きっさま、神羅のもんか？"
+	},
+	{
+		"word": "課長",
+		"root": "課長",
+		"definitions": [
+			"課長[かちょう] (n) section manager, section chief"
+		],
+		"english": "Shinra Manager",
+		"japanese": "神羅課長"
+	},
+	{
+		"word": "くっし",
+		"root": "くっする",
+		"definitions": [
+			"屈する[くっする] (vs-s, vi) to yield, to give in, to be daunted, to shrink,to bend (knee, etc.),to subdue, to overpower,to feel down"
+		],
+		"english": "I won't give in to violence… and I'm not giving you my seat either!",
+		"japanese": "わ、私は暴力にはくっしないぞ～。こ、この席だって、ゆずらない"
+	},
+	{
+		"word": "席",
+		"root": "席",
+		"definitions": [
+			"席[せき] (n) seat,location (of a gathering, etc.), place,position, post",
+			"筵[むしろ] (n) woven mat (esp. one made of straw),seat"
+		],
+		"english": "I won't give in to violence… and I'm not giving you my seat either!",
+		"japanese": "わ、私は暴力にはくっしないぞ～。こ、この席だって、ゆずらない"
+	},
+	{
+		"word": "ゆずら",
+		"root": "ゆずる",
+		"definitions": [
+			"譲る[ゆずる] (v5r, vt) to hand over, to transfer, to turn over, to assign, to convey, to bequeath,to give up (e.g. one's seat), to give way,to yield, to concede, to give ground, to surrender,to sell,to postpone, to put off, to defer"
+		],
+		"english": "I won't give in to violence… and I'm not giving you my seat either!",
+		"japanese": "わ、私は暴力にはくっしないぞ～。こ、この席だって、ゆずらない"
+	},
+	{
+		"word": "ついてる",
+		"root": "ついてる",
+		"definitions": [
+			"付いてる[ついてる] (exp, v1) to be lucky, to be in luck,to be attached, to have, to be included, to come with, to contain, to be in a state"
+		],
+		"english": "&$#%!! You lucky ^$#^$.!",
+		"japanese": "チッ！！あんた、ついてるぜ"
+	},
+	{
+		"word": "ペース",
+		"root": "ペース",
+		"definitions": [
+			"ペース (n) pace"
+		],
+		"english": "@#$%! The hell you so calm? You're bustin' up my rhythm!",
+		"japanese": "ケッ！　落ちついた野郎だぜ！こっちのペースがくるっちまう…"
+	},
+	{
+		"word": "くるっ",
+		"root": "くるう",
+		"definitions": [
+			"狂う[くるう] (v5u, vi) to go mad,to get out of order, to go amiss"
+		],
+		"english": "@#$%! The hell you so calm? You're bustin' up my rhythm!",
+		"japanese": "ケッ！　落ちついた野郎だぜ！こっちのペースがくるっちまう…"
+	},
+	{
+		"word": "いまや",
+		"root": "いまや",
+		"definitions": [
+			"今や[いまや] (adv) now (esp. in contrast to the past), now at last, at present, right now"
+		],
+		"english": "What are you talking about? Right about now, AVALANCHE is famous.",
+		"japanese": "なにいってるのよ！アバランチはいまや有名なのよ"
+	},
+	{
+		"word": "接続",
+		"root": "接続",
+		"definitions": [
+			"接続[せつぞく] (n, vs) connection, attachment, union, join, joint, link,changing trains,conjunction"
+		],
+		"english": "Looks like they just finished connecting the cars. We're finally leaving.",
+		"japanese": "列車の接続がすんだみたい。出発するわ"
+	},
+	{
+		"word": "境界",
+		"root": "境界",
+		"definitions": [
+			"境界[きょうかい] (n) boundary"
+		],
+		"english": "Jessie's probably already told you, but there's a security check point at the top plate.",
+		"japanese": "ジェシーから聞いただろうが上のプレートとの境界には検間がある。列車ごとＩＤスキャンするシステムだ"
+	},
+	{
+		"word": "スキャン",
+		"root": "スキャン",
+		"definitions": [
+			"スキャン (n, vs) scan"
+		],
+		"english": "Jessie's probably already told you, but there's a security check point at the top plate.",
+		"japanese": "ジェシーから聞いただろうが上のプレートとの境界には検間がある。列車ごとＩＤスキャンするシステムだ"
+	},
+	{
+		"word": "じまん",
+		"root": "じまん",
+		"definitions": [
+			"自慢[じまん] (n, vs, adj-no) pride, boast"
+		],
+		"english": "It's an ID scan system checkin' all the trains.",
+		"japanese": "神羅じまんのね"
+	},
+	{
+		"word": "たっ",
+		"root": "たつ",
+		"definitions": [
+			"断つ[たつ] (v5t, vt) to sever, to cut off,to suppress, to eradicate, to exterminate,to abstain (from), to give up",
+			"立つ[たつ] (v5t, vi) to stand, to rise, to stand up,to find oneself (e.g. in a difficult position),to depart (on a plane, train, etc.)",
+			"建つ[たつ] (v5t, vi) to be erected, to be built",
+			"経つ[たつ] (v5t, vi) to pass (of time), to elapse",
+			"裁つ[たつ] (v5t, vt) to cut (cloth)",
+			"辰[たつ] (n) fifth sign of the Chinese zodiac (The Dragon, 7am-9am, east-southeast, March)",
+			"竜[りゅう] (n) dragon (esp. a Chinese dragon),naga, [object Object],promoted rook",
+			"起つ[たつ] (v5t, vi) to rise up, to initiate (political) action",
+			"勃つ[たつ] (v5t) to have an erection"
+		],
+		"english": "Alright, in three minutes, we're jumpin' off this train.",
+		"japanese": "よし、あと３分たったら列車から飛び降りる"
+	},
+	{
+		"word": "飛び降りる",
+		"root": "飛び降りる",
+		"definitions": [
+			"飛び下りる[とびおりる] (v1, vi) to jump down, to jump off, to jump from, to jump out of"
+		],
+		"english": "Alright, in three minutes, we're jumpin' off this train.",
+		"japanese": "よし、あと３分たったら列車から飛び降りる"
+	},
+	{
+		"word": "どうも",
+		"root": "どうも",
+		"definitions": [
+			"どうも (int) thank you, thanks,much (thanks), very (sorry), quite (regret),quite, really, mostly,somehow,in spite of oneself, try as one might, no matter how hard one may try (to, not to),greetings, hello, goodbye"
+		],
+		"english": "The hell do I care whatcha do? Just siddown an' shu'up.",
+		"japanese": "どうもこうもねえ。そのへん、すわってろ"
+	},
+	{
+		"word": "へん",
+		"root": "へん",
+		"definitions": [
+			"変[へん] (n-pref) strange, odd, peculiar, weird, curious, queer, eccentric, funny, suspicious, fishy,unexpected,change,incident, disturbance, disaster, accident,flat",
+			"辺[へん] (n) area, vicinity, region,side, edge,circumstances",
+			"編[へん] (n, n-suf, ctr) compilation (of a text), editing,volume (of a text),completed literary work",
+			"偏[へん] (n) left-hand radical of a character",
+			"遍[へん] (ctr) number of times",
+			"へん (int) suffix used to negate a verb in the non-past tense,humph, hmph",
+			"片[へん] (suf) piece, chip, flake"
+		],
+		"english": "The hell do I care whatcha do? Just siddown an' shu'up.",
+		"japanese": "どうもこうもねえ。そのへん、すわってろ"
+	},
+	{
+		"word": "あいにく",
+		"root": "あいにく",
+		"definitions": [
+			"生憎[あいにく] (adj-na, adv, n, adj-no) unfortunately, Sorry, but ..."
+		],
+		"english": "Sorry, but I have a thing against sitting down in trains.",
+		"japanese": "あいにく、列車ではすわらない主義でね"
+	},
+	{
+		"word": "主義",
+		"root": "主義",
+		"definitions": [
+			"主義[しゅぎ] (n) doctrine, rule, principle, -ism"
+		],
+		"english": "Sorry, but I have a thing against sitting down in trains.",
+		"japanese": "あいにく、列車ではすわらない主義でね"
+	},
+	{
+		"word": "知ったかぶり",
+		"root": "知ったかぶり",
+		"definitions": [
+			"知ったかぶり[しったかぶり] (n, vs) pretending to know"
+		],
+		"english": "So let's hear YOUR explanation!",
+		"japanese": "おまえさんの知ったかぶり説明が聞きてえもんだな！"
+	},
+	{
+		"word": "手伝う",
+		"root": "手伝う",
+		"definitions": [
+			"手伝う[てつだう] (v5u, vt) to help, to assist, to aid,to contribute to, to be a factor in"
+		],
+		"english": "I'll help, too.",
+		"japanese": "私も手伝うね"
+	},
+	{
+		"word": "おかしい",
+		"root": "おかしい",
+		"definitions": [
+			"可笑しい[おかしい] (adj-i) funny, amusing, comical, laughable, ridiculous,strange, odd, funny, peculiar, weird, unusual, eccentric,improper, unsuitable, unbecoming,suspicious"
+		],
+		"english": "That's odd. The ID Check Point was supposed to be further down.",
+		"japanese": "おかしいわね。ＩＤ検知エリアはもっと先なのに"
+	},
+	{
+		"word": "式",
+		"root": "式",
+		"definitions": [
+			"式[しき] (n, n-suf) equation, formula, expression,ceremony,style,enforcement regulations (of the ritsuryo)"
+		],
+		"english": "Type A Security Alert!!",
+		"japanese": "Ａ式非常警戒体制を発動"
+	},
+	{
+		"word": "警戒",
+		"root": "警戒",
+		"definitions": [
+			"警戒[けいかい] (n, vs) vigilance, caution, alertness, precaution, being on guard"
+		],
+		"english": "Type A Security Alert!!",
+		"japanese": "Ａ式非常警戒体制を発動"
+	},
+	{
+		"word": "発動",
+		"root": "発動",
+		"definitions": [
+			"発動[はつどう] (n, vs) putting into operation,invocation"
+		],
+		"english": "Type A Security Alert!!",
+		"japanese": "Ａ式非常警戒体制を発動"
+	},
+	{
+		"word": "車両",
+		"root": "車両",
+		"definitions": [
+			"車両[しゃりょう] (n) rolling stock, railroad cars, wheeled vehicles"
+		],
+		"english": "A search of all cars will be conducted!",
+		"japanese": "各車両緊急チェックに入ります　　"
+	},
+	{
+		"word": "緊急",
+		"root": "緊急",
+		"definitions": [
+			"緊急[きんきゅう] (n, adj-no, adj-na) urgency, emergency"
+		],
+		"english": "A search of all cars will be conducted!",
+		"japanese": "各車両緊急チェックに入ります　　"
+	},
+	{
+		"word": "くりかえし",
+		"root": "くりかえす",
+		"definitions": [
+			"繰り返す[くりかえす] (v5s, vt, vi) to repeat, to do something over again"
+		],
+		"english": "Repeat!!",
+		"japanese": "くりかえします"
+	},
+	{
+		"word": "ずい",
+		"root": "ずい",
+		"definitions": [
+			"隋[ずい] (n) Sui (dynasty of China, 581-619 CE)",
+			"瑞[みず] (n, n-pref, n-suf) youth, freshness, purity, luster (lustre), beauty,good omen,Sweden,Switzerland",
+			"ずい (adv-to) straightforwardly, readily, without hesitation",
+			"蕊[ずい] (n) pistil (of a flower),stamen",
+			"髄[ずい] (n) medulla, marrow, pith"
+		],
+		"english": "We're in trouble.",
+		"japanese": "まっずいことになっちゃったわ"
+	},
+	{
+		"word": "しくじり",
+		"root": "しくじる",
+		"definitions": [
+			"しくじる (v5r, vi) to fail, to blunder, to mess up, to screw up,to be dismissed, to be fired"
+		],
+		"english": "@#$%! Someone blew it…",
+		"japanese": "チッ！しくじりやがったな…"
+	},
+	{
+		"word": "モタモタ",
+		"root": "モタモタ",
+		"definitions": [
+			"もたもた (adv, adv-to, vs) slowly, inefficiently, tardily, dawdling"
+		],
+		"english": "Let's go! Keep it up!",
+		"japanese": "いくぜ！モタモタすんな！"
+	},
+	{
+		"word": "たいへん",
+		"root": "たいへん",
+		"definitions": [
+			"大変[たいへん] (n) very, greatly, terribly, awfully,immense, enormous, great,serious, grave, dreadful, terrible,difficult, hard,major incident, disaster",
+			"対辺[たいへん] (n) opposite side"
+		],
+		"english": "We got a lot of battles ahead of us. This's going to be tough.",
+		"japanese": "ああ～　たくさんバトルね。たいへんよ、きっと"
+	},
+	{
+		"word": "家来",
+		"root": "家来",
+		"definitions": [
+			"家来[けらい] (n) retainer, retinue, servant"
+		],
+		"english": "Hmmm? You're the only ones that'll talk to me or come to my house.",
+		"japanese": "ん……？俺ん家来て、あいさつするのはあんただけ"
+	},
+	{
+		"word": "あいさつ",
+		"root": "あいさつ",
+		"definitions": [
+			"挨拶[あいさつ] (n) greeting, greetings, salutation, salute, polite set phrase used when meeting or parting from somebody,polite set phrase used to express apology, sympathy, congratulations, etc.,speech (congratulatory or appreciative), address,reply, response,revenge, retaliation,a fine thing to say,dialoging (with another Zen practitioner to ascertain their level of enlightenment),relationship (between people), connection,intervention, mediation, mediator"
+		],
+		"english": "Hmmm? You're the only ones that'll talk to me or come to my house.",
+		"japanese": "ん……？俺ん家来て、あいさつするのはあんただけ"
+	},
+	{
+		"word": "感心",
+		"root": "感心",
+		"definitions": [
+			"感心[かんしん] (n, vs) admiration, being impressed,admirable, praiseworthy,astonishment, being appalled"
+		],
+		"english": "I'm impressed.",
+		"japanese": "感心、感心"
+	},
+	{
+		"word": "ほうび",
+		"root": "ほうび",
+		"definitions": [
+			"褒美[ほうび] (n) reward, prize"
+		],
+		"english": "I'm really impressed. Here's a little something as a reward.",
+		"japanese": "これまた、感心、感心。ごほうびに、いいものをあげよ"
+	},
+	{
+		"word": "フェニックス",
+		"root": "フェニックス",
+		"definitions": [
+			"フェニックス (n) phoenix (bird of Egyptian mythology),phoenix (any palm tree of genus Phoenix, incl. the date palm)"
+		],
+		"english": "Received \"Phoenix Down\"!",
+		"japanese": "フェニックスの尾を手にいれた！"
+	},
+	{
+		"word": "尾",
+		"root": "尾",
+		"definitions": [
+			"尾[お] (n) tail (animal, kite, comet, etc.), tail end,slope at the foot of a mountain",
+			"尾[び] (suf, ctr) Chinese \"Tail\" constellation (one of the 28 mansions),counter for fish, shrimp, etc."
+		],
+		"english": "Received \"Phoenix Down\"!",
+		"japanese": "フェニックスの尾を手にいれた！"
+	},
+	{
+		"word": "たれ",
+		"root": "たれる",
+		"definitions": [
+			"垂れる[たれる] (v1, vi) to hang, to droop, to dangle, to sag, to lower, to pull down,to leave behind (at death), to give, to confer,to drip, to ooze, to trickle, to drop"
+		],
+		"english": "If I die in the gutter, use that to revive me, okay?",
+		"japanese": "俺がのたれ死んだらそいつでたのむよ"
+	},
+	{
+		"word": "かまわ",
+		"root": "かまう",
+		"definitions": [
+			"構う[かまう] (v5u, vt) to mind, to care about, to be concerned about, to have a regard for,to be an issue, to matter, to create inconvenience,to keep company, to care for, to look after, to entertain, to pay attention to, to spend time with,to interfere with, to meddle in,to tease,to banish, to prohibit"
+		],
+		"english": "Don't…don't worry about me. (oh man, oh man, oh man…!! I'm gonna brag to everyone at work about this…)",
+		"japanese": "わ、私にはかまわないでくれたまえ。（ヒッヒッ……会社のみんなにじまんしちゃおう…）"
+	},
+	{
+		"word": "完了",
+		"root": "完了",
+		"definitions": [
+			"完了[かんりょう] (n) completion, conclusion,perfect (tense, form, aspect)",
+			"完了[ワンラ] (n) end, completion"
+		],
+		"english": "Car #1: Locked Down",
+		"japanese": "車両１ドアロック完了"
+	},
+	{
+		"word": "護送",
+		"root": "護送",
+		"definitions": [
+			"護送[ごそう] (n, vs) escort (e.g. under guard), convoy"
+		],
+		"english": "Car being sent to the station",
+		"japanese": "未確認ＩＤを駅まで護送します　　"
+	},
+	{
+		"word": "レベル",
+		"root": "レベル",
+		"definitions": [
+			"レベル (n) level, standard, amount, degree, grade, rank, class,level (plane), floor, storey (story), layer, stratum,spirit level, (surveyor's) level,minor release sequence number (software versioning),rebel"
+		],
+		"english": "Level 1 Warning",
+		"japanese": "警戒レベル１"
+	},
+	{
+		"word": "いそい",
+		"root": "いそぐ",
+		"definitions": [
+			"急ぐ[いそぐ] (v5g, vi, vt) to hurry, to rush, to hasten, to make something happen sooner"
+		],
+		"english": "Let's  hurry!!",
+		"japanese": "さ、いそいで！！"
+	},
+	{
+		"word": "まちがえ",
+		"root": "まちがえる",
+		"definitions": [
+			"間違える[まちがえる] (v1, vt) to make a mistake (in), to commit an error (e.g. in calculation),to confuse, to mistake something for something else"
+		],
+		"english": "Sorry!! I've made a mistake…",
+		"japanese": "ごめん！！まちがえちゃったの…"
+	},
+	{
+		"word": "いえ",
+		"root": "いえる",
+		"definitions": [
+			"言える[いえる] (v1) to be possible to say, to be able to say",
+			"癒える[いえる] (v1, vi) to recover, to be healed"
+		],
+		"english": "Ugh! I'm not sure…",
+		"japanese": "え……！いえない"
+	},
+	{
+		"word": "あそび",
+		"root": "あそぶ",
+		"definitions": [
+			"遊ぶ[あそぶ] (v5b, vi) to play, to enjoy oneself, to have a good time,to mess about (with alcohol, gambling, philandery, etc.),to be idle, to do nothing, to be unused,to go to (for pleasure or for study),to intentionally throw a ball to lower the batter's concentration"
+		],
+		"english": "C'mon, this ain't no joke!",
+		"japanese": "あそびじゃねえんだぞ"
+	},
+	{
+		"word": "扉",
+		"root": "扉",
+		"definitions": [
+			"扉[とびら] (n) door, gate, opening,title page"
+		],
+		"english": "They're locking the door, sir!",
+		"japanese": "扉ロックされるっす！"
+	},
+	{
+		"word": "実行",
+		"root": "実行",
+		"definitions": [
+			"実行[じっこう] (n, vs) execution (e.g. of a plan), carrying out, practice, action, implementation, fulfillment, realization"
+		],
+		"english": "We'll execute it just as we planned it.",
+		"japanese": "おれたちは予定通り例のアレを実行する"
+	},
+	{
+		"word": "うつる",
+		"root": "うつる",
+		"definitions": [
+			"写る[うつる] (v5r, vi) to be photographed, to be projected",
+			"移る[うつる] (v5r, vi) to move (house), to transfer (department),to change the target of interest or concern,to elapse (passage of time),to be permeated by a colour or scent,to be infected, to be contagious, to spread (as in fire)",
+			"映る[うつる] (v5r, vi) to be reflected, to harmonize with (harmonise), to come out (photo), to be projected, to be displayed (on a screen)",
+			"伝染る[うつる] (v5r, vi) to be infected, to be contagious"
+		],
+		"english": "I'm goin' first, sir! Let's switch to Plan 2!",
+		"japanese": "先、行くっす！作戦その２にうつるっす"
+	},
+	{
+		"word": "おしまい",
+		"root": "おしまい",
+		"definitions": [
+			"お仕舞い[おしまい] (int) the end, closing, being done for,that's it, that's enough, that's all"
+		],
+		"english": "What!? That's it!?",
+		"japanese": "チッ！！もうおしまいかよ！"
+	},
+	{
+		"word": "高給",
+		"root": "高給",
+		"definitions": [
+			"高給[こうきゅう] (n) high salary"
+		],
+		"english": "We'll jump from here!! Follow me, you 'spensive leech!!",
+		"japanese": "こっから飛び降りるぞ！！オレに続け、高給取り！！"
+	},
+	{
+		"word": "取り",
+		"root": "取り",
+		"definitions": [
+			"取り[とり] (pref) taking, taker, collecting, collector, remover, removal,last performer of the day (usu. the star performer), last performance of the day,active partner (e.g. in judo demonstration),emphatic or formal prefix",
+			"取り[どり] (n-suf) samurai receiving this much rice as a fee,offering of rice cake containing this much rice,person receiving this amount of money as a salary"
+		],
+		"english": "We'll jump from here!! Follow me, you 'spensive leech!!",
+		"japanese": "こっから飛び降りるぞ！！オレに続け、高給取り！！"
+	},
+	{
+		"word": "そうぞうしい",
+		"root": "そうぞうしい",
+		"definitions": [
+			"騒々しい[そうぞうしい] (adj-i) noisy, loud, boisterous, clamorous, raucous,turbulent, unsettled, restless"
+		],
+		"english": "Hey… You guys are too rowdy.",
+		"japanese": "やぁ……あんたたち、そうぞうしいねえ"
+	},
+	{
+		"word": "ひょっと",
+		"root": "ひょっと",
+		"definitions": [
+			"ひょっと (adv, vs) possibly, perhaps, perchance,unintentionally, accidentally"
+		],
+		"english": "Does this mean that we're in a major bind?",
+		"japanese": "ひょっとしてこれボクら、大ピンチってやつかい？"
+	},
+	{
+		"word": "大人",
+		"root": "大人",
+		"definitions": [
+			"大人[おとな] (n, adj-no) adult",
+			"大人[たいじん] (n) man of substance or virtue, gentleman,giant,adult"
+		],
+		"english": "Gosh!! You're adults, but you're acting like kids.",
+		"japanese": "もぅ！！いい大人がドタドタと"
+	},
+	{
+		"word": "なか",
+		"root": "なか",
+		"definitions": [
+			"仲[なか] (n) relation, relationship",
+			"中[なか] (n) inside, in,among, within,center (centre), middle,during, while"
+		],
+		"english": "Please behave while you're in the train.",
+		"japanese": "列車のなかではおぎょうぎよくしてね"
+	},
+	{
+		"word": "まちがい",
+		"root": "まちがい",
+		"definitions": [
+			"間違い[まちがい] (n) mistake, error, blunder,accident, mishap, trouble,improper conduct (e.g. between man and woman), indiscretion"
+		],
+		"english": "My mistake",
+		"japanese": "まちがいだ"
+	},
+	{
+		"word": "ほうし",
+		"root": "ほうし",
+		"definitions": [
+			"奉仕[ほうし] (n, vs) service, ministry, attendance, church work,offering goods at a reduced price, providing a service for free",
+			"法師[ほうし] (n) Buddhist priest, bonze",
+			"奉伺[ほうし] (n, vs) inquiring about (one's health)",
+			"奉祀[ほうし] (n, vs) enshrine",
+			"胞子[ほうし] (n, adj-no) spore",
+			"芳志[ほうし] (n) (your) kindness",
+			"放恣[ほうし] (adj-na) licentious, self-indulgent",
+			"芳枝[ほうし] (n) fragrant branch of flowers",
+			"褒詞[ほうし] (n) praise, eulogy",
+			"方士[ほうし] (n) sorcerer (in ancient China), (hermit) wizard"
+		],
+		"english": "Wow! I won't even charge you…",
+		"japanese": "ホゥ！無料ほうしにしとくぜ"
+	},
+	{
+		"word": "がめつい",
+		"root": "がめつい",
+		"definitions": [
+			"がめつい (adj-i) greedy, grasping, tightfisted, predatory (e.g. business), calculating, avaricious"
+		],
+		"english": "Wha-t? You sure are greedy.",
+		"japanese": "あ～ん？あんた、がめついねえ"
+	},
+	{
+		"word": "前半",
+		"root": "前半",
+		"definitions": [
+			"前半[ぜんはん] (n) first half"
+		],
+		"english": "Unidentified Passengers:",
+		"japanese": "未確認ＩＤは列車前半部に移動中"
+	},
+	{
+		"word": "部",
+		"root": "部",
+		"definitions": [
+			"部[ぶ] (ctr) department (in an organization), division, bureau,club,part, component, element,category,counter for copies of a newspaper or magazine",
+			"部[べ] (n) hereditary occupational group (Yamato period)"
+		],
+		"english": "Unidentified Passengers:",
+		"japanese": "未確認ＩＤは列車前半部に移動中"
+	},
+	{
+		"word": "移動",
+		"root": "移動",
+		"definitions": [
+			"移動[いどう] (adj-f) movement, transfer, migration, removal, travel,mobile, moving, traveling, travelling, roving"
+		],
+		"english": "Unidentified Passengers:",
+		"japanese": "未確認ＩＤは列車前半部に移動中"
+	},
+	{
+		"word": "位置",
+		"root": "位置",
+		"definitions": [
+			"位置[いち] (n, vs) place, situation, position, location"
+		],
+		"english": "Currently tracking location",
+		"japanese": "現在位置の再確認に入ります"
+	},
+	{
+		"word": "バレ",
+		"root": "バレる",
+		"definitions": [
+			"バレル (n) barrel",
+			"ばれる (v1, vi) to leak out (a secret), to be exposed (a lie, improper behaviour, etc.) (behavior),to get away (fish)"
+		],
+		"english": "Not yet. They're starting another check. If we're caught, we're done for!",
+		"japanese": "まだよ、すぐ次の検知がはじまるわ。バレたらアウトよ！"
+	},
+	{
+		"word": "アウト",
+		"root": "アウト",
+		"definitions": [
+			"アウト (exp) out (in baseball, tennis, etc.),outer, external, outside,no good, out of line, unacceptable, failure"
+		],
+		"english": "Not yet. They're starting another check. If we're caught, we're done for!",
+		"japanese": "まだよ、すぐ次の検知がはじまるわ。バレたらアウトよ！"
+	},
+	{
+		"word": "順々",
+		"root": "順々",
+		"definitions": [
+			"順々[じゅんじゅん] (adv, n) in order, in turn"
+		],
+		"english": "But, don't worry. If we move up the train, car by car, we should get past it!",
+		"japanese": "でも、心配しないで。前の車両に順々にうつっていけばやりすごせるわ！"
+	},
+	{
+		"word": "かせ",
+		"root": "かせる",
+		"definitions": [
+			"痂せる[かせる] (v1, vi) to dry up, to scab, to slough,to be poisoned (with lacquer),to waste away"
+		],
+		"english": "You want an explanation? OK!! Let me.",
+		"japanese": "説明？　いいの？ＯＫ！！　まっかせといて"
+	},
+	{
+		"word": "装置",
+		"root": "装置",
+		"definitions": [
+			"装置[そうち] (n) equipment, device, installation, apparatus,stage setting"
+		],
+		"english": "This train's security system is the old Shinra A system.",
+		"japanese": "この列車の警戒装置は、旧型の神羅Ａ式"
+	},
+	{
+		"word": "旧型",
+		"root": "旧型",
+		"definitions": [
+			"旧型[きゅうがた] (n) old style, old type"
+		],
+		"english": "This train's security system is the old Shinra A system.",
+		"japanese": "この列車の警戒装置は、旧型の神羅Ａ式"
+	},
+	{
+		"word": "かこま",
+		"root": "かこむ",
+		"definitions": [
+			"囲む[かこむ] (v5m, vt) to surround, to encircle, to enclose, to fence, to wall in,to besiege, to lay siege to,to play (go, shogi, etc.)"
+		],
+		"english": "It'll stay locked until it gets to the station, where Shinra guards will be waiting.",
+		"japanese": "そのまま、駅に護送されて神羅警備兵にかこまれちゃうってわけよ"
+	},
+	{
+		"word": "旧式",
+		"root": "旧式",
+		"definitions": [
+			"旧式[きゅうしき] (adj-na, adj-no) old type, old style"
+		],
+		"english": "But it's an old system, we can get past it.",
+		"japanese": "でも、旧式だけにちょろいもんよ"
+	},
+	{
+		"word": "ちょろい",
+		"root": "ちょろい",
+		"definitions": [
+			"ちょろい (adj-i) easy, simple,soft, lax, slack"
+		],
+		"english": "But it's an old system, we can get past it.",
+		"japanese": "でも、旧式だけにちょろいもんよ"
+	},
+	{
+		"word": "波",
+		"root": "波",
+		"definitions": [
+			"波[なみ] (n) wave",
+			"波[ぽ] (n, n-suf, n-pref) Poland"
+		],
+		"english": "The second detection scan should be coming up pretty soon. Let's go to the next car!",
+		"japanese": "もうすぐ、２波のパルスが来るわ。さ、次の車両へ！"
+	},
+	{
+		"word": "パルス",
+		"root": "パルス",
+		"definitions": [
+			"パルス (n) pulse"
+		],
+		"english": "The second detection scan should be coming up pretty soon. Let's go to the next car!",
+		"japanese": "もうすぐ、２波のパルスが来るわ。さ、次の車両へ！"
+	},
+	{
+		"word": "ミス",
+		"root": "ミス",
+		"definitions": [
+			"ミス (n) mistake, error, failure,Miss,myth",
+			"御簾[みす] (n) bamboo blind",
+			"ＭＩＳ[ミス] (n) management information system (MIS)"
+		],
+		"english": "It's my fault that we didn't clear the ID scan.",
+		"japanese": "列車のＩＤスキャンのミス私のせいなの"
+	},
+	{
+		"word": "カード",
+		"root": "カード",
+		"definitions": [
+			"カード (n) card,curd,match, game, [object Object]"
+		],
+		"english": "I modified the ID card for CLOUD and that's what made the sensors go off.",
+		"japanese": "CLOUDのＩＤカード。私の特別製にしたから…あんなことに"
+	},
+	{
+		"word": "製",
+		"root": "製",
+		"definitions": [
+			"製[せい] (n, n-suf) -made, make"
+		],
+		"english": "I modified the ID card for CLOUD and that's what made the sensors go off.",
+		"japanese": "CLOUDのＩＤカード。私の特別製にしたから…あんなことに"
+	},
+	{
+		"word": "こめ",
+		"root": "こめる",
+		"definitions": [
+			"込める[こめる] (v1, vi) to load (a gun, etc.), to charge,to put into (e.g. emotion, effort),to include (e.g. tax in a sales price),to hang over, to shroud, to enshroud, to envelop, to screen"
+		],
+		"english": "I did my best, but it just didn't work.",
+		"japanese": "心をこめたつもりだったんだけどね。失敗しちゃった"
+	},
+	{
+		"word": "つもり",
+		"root": "つもり",
+		"definitions": [
+			"積もり[つもり] (n) intention, plan,conviction, belief",
+			"心算[しんさん] (n) intention, purpose"
+		],
+		"english": "I did my best, but it just didn't work.",
+		"japanese": "心をこめたつもりだったんだけどね。失敗しちゃった"
+	},
+	{
+		"word": "まし",
+		"root": "まし",
+		"definitions": [
+			"増し[まし] (n) better, less objectionable, preferable,more, increase, extra,increase, growth",
+			"汝[なむち] (pn) you",
+			"ませ (aux) please,used to increase the politeness of a greeting, apology, etc.",
+			"猿[ましら] (n) monkey (esp. the Japanese macaque, Macaca fuscata), ape, non-human primate"
+		],
+		"english": "I'll make a better one next time.",
+		"japanese": "こんどはもっとましなものプレゼントするわ。"
+	},
+	{
+		"word": "研究",
+		"root": "研究",
+		"definitions": [
+			"研究[けんきゅう] (n, vs) study, research, investigation"
+		],
+		"english": "I'll head back to the hideout first and work on research and development.",
+		"japanese": "先にアジトに帰って研究開発にはげんでるからね"
+	},
+	{
+		"word": "開発",
+		"root": "開発",
+		"definitions": [
+			"開発[かいはつ] (n, adj-no, vs) development, exploitation"
+		],
+		"english": "I'll head back to the hideout first and work on research and development.",
+		"japanese": "先にアジトに帰って研究開発にはげんでるからね"
+	},
+	{
+		"word": "はげん",
+		"root": "はげむ",
+		"definitions": [
+			"励む[はげむ] (v5m) to strive, to endeavour, to endeavor, to make an effort, to be zealous"
+		],
+		"english": "I'll head back to the hideout first and work on research and development.",
+		"japanese": "先にアジトに帰って研究開発にはげんでるからね"
+	},
+	{
+		"word": "どん",
+		"root": "どん",
+		"definitions": [
+			"丼[どんぶり] (n) porcelain bowl,donburi, bowl of meat, fish, etc. served over rice",
+			"ドン (n) Don (Spanish honorific),dong (Vietnamese currency)",
+			"貪[たん] (n) coveting,raga (desire)",
+			"鈍[どん] (adj-na, n) dull, slow, stupid, dull-brained",
+			"どん (suf) bang, bam, boom, thud, thump, crash,noontime signal gun (early Meiji to early Showa), noontime signal shot,precisely, exactly, plumb, totally, very,Mr., Mrs., Miss, Ms., -san"
+		],
+		"english": "Don't worry! Don't worry!",
+		"japanese": "どんまい！どんまい！"
+	},
+	{
+		"word": "バイ",
+		"root": "バイ",
+		"definitions": [
+			"倍[ばい] (suf) twice, double,times, -fold",
+			"バイ (n) by,bye,bisexual",
+			"貝[ばい] (n) Japanese babylon (species of shelled mollusk, Babylonia japonica), Japanese ivory shell,spinning top (traditionally made from a Japanese babylon shell)",
+			"ばい (prt) [object Object]",
+			"霾[ばい] (n) loess, yellow sand, bai, dust from the Yellow River region (China)"
+		],
+		"english": "Later…Goodbye…Adios, Midgar!!",
+		"japanese": "さらば、グッバイ、アディオス！ミッドガル！！"
+	},
+	{
+		"word": "むぎ",
+		"root": "むぎ",
+		"definitions": [
+			"麦[むぎ] (n) wheat, barley, oat (oats)",
+			"無愧[むぎ] (n, adj-na) shameless"
+		],
+		"english": "urrrrrrrg",
+		"japanese": "むぎゅ～～"
+	},
+	{
+		"word": "逃げ場",
+		"root": "逃げ場",
+		"definitions": [
+			"逃げ場[にげば] (n) refuge, escape"
+		],
+		"english": "…Nowhere to run…",
+		"japanese": "に、逃げ場がない……"
+	},
+	{
+		"word": "ばれ",
+		"root": "ばれる",
+		"definitions": [
+			"バレル (n) barrel",
+			"ばれる (v1, vi) to leak out (a secret), to be exposed (a lie, improper behaviour, etc.) (behavior),to get away (fish)"
+		],
+		"english": "Busted?",
+		"japanese": "ばれてます？"
+	},
+	{
+		"word": "返し",
+		"root": "返し",
+		"definitions": [
+			"返し[かえし] (n) reversal, return,return gift, return favour (favor),barb (on a fishing hook),mixture of soy sauce, sugar and mirin"
+		],
+		"english": "I'm SO sorry. I'll give it back…",
+		"japanese": "すいましぇ～ん。返しま～しゅ"
+	},
+	{
+		"word": "すっぱ",
+		"root": "すっぱい",
+		"definitions": [
+			"酸っぱい[すっぱい] (adj-i) sour, acid"
+		],
+		"english": "All I know is, when I woke up, the 3 of us were butt-naked!",
+		"japanese": "目が覚めたら、すっぱだかで男３人だった気分！"
+	},
+	{
+		"word": "年上",
+		"root": "年上",
+		"definitions": [
+			"年上[としうえ] (n, adj-no) older, senior"
+		],
+		"english": "That scary broad made me take the bomb.",
+		"japanese": "こわい年上の女性がわたしに爆弾をつきつけて……"
+	},
+	{
+		"word": "女性",
+		"root": "女性",
+		"definitions": [
+			"女性[じょせい] (n, adj-no) woman, female,feminine gender"
+		],
+		"english": "That scary broad made me take the bomb.",
+		"japanese": "こわい年上の女性がわたしに爆弾をつきつけて……"
+	},
+	{
+		"word": "つきつけ",
+		"root": "つきつける",
+		"definitions": [
+			"突き付ける[つきつける] (v1, vt) to thrust before, to thrust at"
+		],
+		"english": "That scary broad made me take the bomb.",
+		"japanese": "こわい年上の女性がわたしに爆弾をつきつけて……"
+	},
+	{
+		"word": "ハイ",
+		"root": "ハイ",
+		"definitions": [
+			"肺[はい] (n) lung",
+			"灰[はい] (n) ash, ashes",
+			"ハイ (adj-na, n) high",
+			"敗[はい] (suf, ctr) loss, defeat,counter for losses",
+			"佩[はい] (suf, ctr) ancient oriental belt decoration,counter for swords",
+			"鮠[はや] (n) minnow, shinner",
+			"拝[はい] (n-suf) bowing one's head (in respect or worship), worship,respectfully yours",
+			"はい (int) yes, that is correct,understood, I see, OK, okay,present, here,pardon?, what's that?, come again?,now, here, here you go,giddy-up, giddap",
+			"杯[はい] (suf, ctr) sake cup, cup for alcoholic beverages,counter for cupfuls,counter for ships, octopuses and squid",
+			"胚[はい] (n) embryo, germ (e.g. wheat germ)",
+			"輩[はい] (n) group, gang, bunch",
+			"蔤[はい] (n) lotus root",
+			"牌[はい] (n) medal, shield, badge,card on which dharani (etc.) are written,notice board (in a Zen temple),tile (mahjong, dominos, etc.)",
+			"排[はい] (pref) anti-"
+		],
+		"english": "Of course I couldn't very well refuse her!",
+		"japanese": "ことわれませんでした、ハイ"
+	},
+	{
+		"word": "ブルブル",
+		"root": "ブルブル",
+		"definitions": [
+			"ぶるぶる (adv, adv-to, vs) trembling (with fear, anger, etc.), shivering (with cold), shaking, quivering"
+		],
+		"english": "Brrrrrr…",
+		"japanese": "ブルブルブル……"
+	},
+	{
+		"word": "ブル",
+		"root": "ブル",
+		"definitions": [
+			"ブル (n, adj-no) bull,bulldog,bulldozer,bourgeois, bourgeoisie",
+			"振る[ぶる] (v5r) to assume the air of ..., to behave like ...,to put on airs, to be self-important"
+		],
+		"english": "Brrrrrr…",
+		"japanese": "ブルブルブル……"
+	},
+	{
+		"word": "いまどき",
+		"root": "いまどき",
+		"definitions": [
+			"今時[いまどき] (n-adv, n-t) these days, nowadays, present day, modern times,at this time (of the day)"
+		],
+		"english": "It's terrible. Who'd expect underwear bandits in this day and age?",
+		"japanese": "ひどいんです。いまどき、おいはぎ。みぐるみはぐんですから"
+	},
+	{
+		"word": "はぎ",
+		"root": "はぐ",
+		"definitions": [
+			"剥ぐ[はぐ] (v5g, vt) to tear off, to peel off, to rip off, to strip off, to skin, to flay, to bark,to strip of (clothes, rank, etc.), to deprive of, to divest of",
+			"ハグ (n, vs) hug",
+			"矧ぐ[はぐ] (v5g, vt) to fletch",
+			"接ぐ[はぐ] (v5g, vt) to join (cloth, wood, etc.)"
+		],
+		"english": "It's terrible. Who'd expect underwear bandits in this day and age?",
+		"japanese": "ひどいんです。いまどき、おいはぎ。みぐるみはぐんですから"
+	},
+	{
+		"word": "ぐるみ",
+		"root": "ぐるみ",
+		"definitions": [
+			"ぐるみ (suf) (together) with, -wide, including"
+		],
+		"english": "It's terrible. Who'd expect underwear bandits in this day and age?",
+		"japanese": "ひどいんです。いまどき、おいはぎ。みぐるみはぐんですから"
+	},
+	{
+		"word": "いまさら",
+		"root": "いまさら",
+		"definitions": [
+			"今更[いまさら] (adv) now (after such a long time), at this late hour (i.e. it is too late for something), at this point of time,afresh, anew, again"
+		],
+		"english": "Too late for that now. Why'd you come along anyway?",
+		"japanese": "いまさらなんだよ。だいたい、どうして来たんだ？"
+	},
+	{
+		"word": "ふたり",
+		"root": "ふたり",
+		"definitions": [
+			"二人[ふたり] (n) two persons, two people, pair, couple"
+		],
+		"english": "Hey you two! There ain't no time for that!",
+		"japanese": "おふたりさん時間がないぞ！"
+	},
+	{
+		"word": "決め",
+		"root": "決める",
+		"definitions": [
+			"決める[きめる] (v1, vt) to decide, to choose, to determine, to make up one's mind, to resolve, to set one's heart on, to settle, to arrange, to set, to appoint, to fix,to clinch (a victory), to decide (the outcome of a match),to persist in doing, to go through with,to always do, to have made a habit of,to take for granted, to assume,to dress up, to dress to kill, to dress to the nines,to carry out successfully (a move in sports, a pose in dance, etc.), to succeed in doing,to immobilize with a double-arm lock (in sumo, judo, etc.),to eat or drink something, to take illegal drugs"
+		],
+		"english": "Yeah!! I've made up my mind!",
+		"japanese": "うん！！決めた！"
+	},
+	{
+		"word": "さき",
+		"root": "さき",
+		"definitions": [
+			"先[さき] (n, adj-no, n-suf, pref) previous, prior, former, first, earlier, some time ago, preceding,point (e.g. pencil), tip, end, nozzle,head (of a line), front,ahead, the other side,the future, hereafter,destination,the other party",
+			"左記[さき] (n) undermentioned (statement), the following, at left",
+			"崎[さき] (n) small peninsula",
+			"幸[さち] (n) good luck, fortune, happiness,harvest, yield"
+		],
+		"english": "You don't care if I go first?",
+		"japanese": "さきにいくがかまわないな？"
+	},
+	{
+		"word": "残る",
+		"root": "残る",
+		"definitions": [
+			"残る[のこる] (v5r, vi) to remain, to be left"
+		],
+		"english": "A leader always stays till the end.",
+		"japanese": "リーダーは最後まで残るもんだ"
+	},
+	{
+		"word": "けがす",
+		"root": "けがす",
+		"definitions": [
+			"汚す[よごす] (v5s, vt) to pollute, to contaminate, to soil, to make dirty, to stain,to disgrace, to dishonour, to dishonor, to defile"
+		],
+		"english": "Yo! Don't go gettin' your spikey-ass hurt!",
+		"japanese": "おう！けがすんなよ！"
+	},
+	{
+		"word": "ばっち",
+		"root": "ばっちい",
+		"definitions": [
+			"ばっちい (adj-i) dirty, unclean"
+		],
+		"english": "Looks like things were a success.",
+		"japanese": "作戦ばっちり成功っすね"
+	},
+	{
+		"word": "すけ",
+		"root": "すける",
+		"definitions": [
+			"透ける[すける] (v1, vi) to be transparent, to show through"
+		],
+		"english": "I look just like my little brother in these clothes…",
+		"japanese": "関係ないすけどこのかっこう……俺の弟にそっくりなんすよ"
+	},
+	{
+		"word": "かっこう",
+		"root": "かっこう",
+		"definitions": [
+			"格好[かっこう] (n-suf) shape, form, figure, posture, pose,appearance,state, situation,suitable, fit, reasonable,about",
+			"滑降[かっこう] (n, vs) descent (esp. in skiing), sliding down",
+			"各校[かくこう] (n) each school",
+			"各行[かくぎょう] (n) each line",
+			"郭公[かっこう] (n) common cuckoo (Cuculus canorus)",
+			"各項[かくこう] (n) each item, each clause",
+			"角行[かくぎょう] (n) bishop",
+			"割腔[かっこう] (n) blastocoel, blastocoele, segmentation cavity"
+		],
+		"english": "I look just like my little brother in these clothes…",
+		"japanese": "関係ないすけどこのかっこう……俺の弟にそっくりなんすよ"
+	},
+	{
+		"word": "弟",
+		"root": "弟",
+		"definitions": [
+			"弟[おとうと] (n) younger brother, little brother, kid brother,pupil, apprentice"
+		],
+		"english": "I look just like my little brother in these clothes…",
+		"japanese": "関係ないすけどこのかっこう……俺の弟にそっくりなんすよ"
+	},
+	{
+		"word": "そっくり",
+		"root": "そっくり",
+		"definitions": [
+			"そっくり (adj-na) all, altogether, entirely, completely,exactly like, just like"
+		],
+		"english": "I look just like my little brother in these clothes…",
+		"japanese": "関係ないすけどこのかっこう……俺の弟にそっくりなんすよ"
+	},
+	{
+		"word": "制服",
+		"root": "制服",
+		"definitions": [
+			"制服[せいふく] (n) uniform"
+		],
+		"english": "Do I look good in a Shinra uniform?",
+		"japanese": "神羅の制服、似合ってるかな？"
+	},
+	{
+		"word": "それどころ",
+		"root": "それどころ",
+		"definitions": [
+			"其れ処[それどころ] (exp, adj-no) (not) so much, (not) that much"
+		],
+		"english": "Not now",
+		"japanese": "いまはそれどころじゃない"
+	},
+	{
+		"word": "すてき",
+		"root": "すてき",
+		"definitions": [
+			"素敵[すてき] (adj-na) lovely, wonderful, nice, great, fantastic, superb, cool"
+		],
+		"english": "…You look great, just like a man.",
+		"japanese": "……すてきだよ、男勝りで"
+	},
+	{
+		"word": "男勝り",
+		"root": "男勝り",
+		"definitions": [
+			"男勝り[おとこまさり] (adj-na, adj-no, n) (of a woman) strong-minded, spirited, mannish"
+		],
+		"english": "…You look great, just like a man.",
+		"japanese": "……すてきだよ、男勝りで"
+	},
+	{
+		"word": "集中",
+		"root": "集中",
+		"definitions": [
+			"集中[しゅうちゅう] (n) concentration, focusing, convergence, centralization, integration, gathering together,within a collection of works"
+		],
+		"english": "Just concentrate on our plan.",
+		"japanese": "今は作戦に集中しろ"
+	},
+	{
+		"word": "格好",
+		"root": "格好",
+		"definitions": [
+			"格好[かっこう] (n-suf) shape, form, figure, posture, pose,appearance,state, situation,suitable, fit, reasonable,about"
+		],
+		"english": "I always wanted to dress up like this.",
+		"japanese": "おれ、一度でいいからこんな格好してみたかったんだ"
+	},
+	{
+		"word": "トンネル",
+		"root": "トンネル",
+		"definitions": [
+			"トンネル (n, vs) tunnel,to tunnel (through a potential barrier),letting a grounder go through one's legs"
+		],
+		"english": "Winding Tunnel",
+		"japanese": "螺旋トンネル"
+	},
+	{
+		"word": "内部",
+		"root": "内部",
+		"definitions": [
+			"内部[ないぶ] (n, adj-no) interior, inside, internal"
+		],
+		"english": "4th Street Plate Int.",
+		"japanese": "４番街プレート内部"
+	},
+	{
+		"word": "下部",
+		"root": "下部",
+		"definitions": [
+			"下部[かぶ] (n) lower part, substructure,subordinate (office), good and faithful servant",
+			"僕[しもべ] (n) servant, manservant, menial"
+		],
+		"english": "Lower Sector 4 Plate",
+		"japanese": "４番街プレート下部"
+	},
+	{
+		"word": "帯",
+		"root": "帯",
+		"definitions": [
+			"帯[おび] (n) obi, [object Object],paper wrapper on books, CDs, etc.",
+			"帯[たい] (n-suf) band (e.g. conduction, valence), belt (e.g. Van-Allen, asteroid, etc.)"
+		],
+		"english": "Those light beams are the Shinra's security sensors. We can't go any further.",
+		"japanese": "この光の帯は、神羅の警報センサー。これ以上、奥には進めないな"
+	},
+	{
+		"word": "センサー",
+		"root": "センサー",
+		"definitions": [
+			"センサー (n) sensor"
+		],
+		"english": "Those light beams are the Shinra's security sensors. We can't go any further.",
+		"japanese": "この光の帯は、神羅の警報センサー。これ以上、奥には進めないな"
+	},
+	{
+		"word": "奥",
+		"root": "奥",
+		"definitions": [
+			"奥[おく] (n) inner part, inside, interior, depths (e.g. of a forest), back (of a house, drawer, etc.), bottom (e.g. of one's heart), recesses, heart"
+		],
+		"english": "Those light beams are the Shinra's security sensors. We can't go any further.",
+		"japanese": "この光の帯は、神羅の警報センサー。これ以上、奥には進めないな"
+	},
+	{
+		"word": "襲撃",
+		"root": "襲撃",
+		"definitions": [
+			"襲撃[しゅうげき] (n, vs) attack, charge, raid"
+		],
+		"english": "A terrorist attack!",
+		"japanese": "テロリストの襲撃だ！"
+	},
+	{
+		"word": "襲っ",
+		"root": "襲う",
+		"definitions": [
+			"襲う[おそう] (v5u, vt) to attack, to assail, to make an assault, to strike, to hunt down,to succeed (someone in a post, role, etc.),to make a sudden visit"
+		],
+		"english": "AVALANCHE is attacking!",
+		"japanese": "アバランチが襲ってきたぞ！"
+	},
+	{
+		"word": "侵入",
+		"root": "侵入",
+		"definitions": [
+			"侵入[しんにゅう] (n, vs, adj-no) invasion, incursion, raid, aggression, intrusion, trespass, penetration"
+		],
+		"english": "Intruders!",
+		"japanese": "侵入者だ！"
+	},
+	{
+		"word": "増援",
+		"root": "増援",
+		"definitions": [
+			"増援[ぞうえん] (n, vs) reinforcement (e.g. of troops)"
+		],
+		"english": "More security's coming. It's dangerous to stay here.",
+		"japanese": "警備兵の増援が来るようだ。このままでは、危ない"
+	},
+	{
+		"word": "ふみ",
+		"root": "ふみ",
+		"definitions": [
+			"文[ふみ] (n) letter, writings",
+			"不味[ふみ] (adj-na, n) distaste, unsavoriness, unsavouriness"
+		],
+		"english": "Stay here",
+		"japanese": "ふみ止まる"
+	},
+	{
+		"word": "せまっ",
+		"root": "せまる",
+		"definitions": [
+			"迫る[せまる] (v5r, vt) to approach, to draw near, to be imminent,to press (someone for something), to urge, to compel"
+		],
+		"english": "That's one damn tiny hole. You tellin' me to squeeze into that to get under the Plate? No way!",
+		"japanese": "か～っ、せまっちい穴だな。ここからプレートの下にもぐれってのか？たまんねぇぜ"
+	},
+	{
+		"word": "ちい",
+		"root": "ちい",
+		"definitions": [
+			"地位[ちい] (n) (social) position, status",
+			"地衣[ちい] (n, adj-no) lichen",
+			"地異[ちい] (n) natural disaster, calamity"
+		],
+		"english": "That's one damn tiny hole. You tellin' me to squeeze into that to get under the Plate? No way!",
+		"japanese": "か～っ、せまっちい穴だな。ここからプレートの下にもぐれってのか？たまんねぇぜ"
+	},
+	{
+		"word": "もぐれ",
+		"root": "もぐる",
+		"definitions": [
+			"潜る[もぐる] (v5r, vi) to dive (into or under water),to get under, to get into, to get in, to creep into, to crawl under, to bury oneself, to burrow into, to dig oneself into, to snuggle under,to hide oneself (esp. from the government), to conceal oneself, to go underground"
+		],
+		"english": "That's one damn tiny hole. You tellin' me to squeeze into that to get under the Plate? No way!",
+		"japanese": "か～っ、せまっちい穴だな。ここからプレートの下にもぐれってのか？たまんねぇぜ"
+	},
+	{
+		"word": "おりる",
+		"root": "おりる",
+		"definitions": [
+			"降りる[おりる] (v1, vi) to descend (e.g. a mountain), to go down, to come down,to alight (e.g. from bus), to get off, to disembark, to dismount,to step down, to retire, to give up, to quit,to be granted, to be issued, to be given,to form (of frost, dew, mist, etc.),to be passed (from the body; e.g. of a roundworm)"
+		],
+		"english": "Go down",
+		"japanese": "おりる"
+	},
+	{
+		"word": "のんびり",
+		"root": "のんびり",
+		"definitions": [
+			"のんびり (adv, adv-to, vs) carefree, at leisure"
+		],
+		"english": "Don't be wastin' time. Never know when the Shinra'll find us.",
+		"japanese": "のんびりしてるヒマはないぜ。いつ神羅のやつらにおれたちの行動がばれないとも限らない"
+	},
+	{
+		"word": "限ら",
+		"root": "限る",
+		"definitions": [
+			"限る[かぎる] (v5r, vi) to restrict, to limit, to confine,to be restricted to, to be limited to, to be confined to,to be best (for), to be the best plan, to be the only way (to)"
+		],
+		"english": "Don't be wastin' time. Never know when the Shinra'll find us.",
+		"japanese": "のんびりしてるヒマはないぜ。いつ神羅のやつらにおれたちの行動がばれないとも限らない"
+	},
+	{
+		"word": "ゾッと",
+		"root": "ゾッと",
+		"definitions": [
+			"ぞっと (adv, vs) shuddering, shivering, trembling, being horrified, being disgusted"
+		],
+		"english": "But, damn man, that thing gives me the chills.",
+		"japanese": "でもよ、ゾッとしねぇな"
+	},
+	{
+		"word": "通る",
+		"root": "通る",
+		"definitions": [
+			"通る[とおる] (suf, v5r) to go by, to go past, to go along, to travel along, to pass through, to use (a road), to take (a route), to go via, to go by way of,to run (between), to operate (between), to connect,to go indoors, to go into a room, to be admitted, to be shown in, to be ushered in, to come in,to penetrate, to pierce, to skewer, to go through, to come through,to permeate, to soak into, to spread throughout,to carry (e.g. of a voice), to reach far,to be passed on (e.g. of a customer's order to the kitchen), to be relayed, to be conveyed,to pass (a test, a bill in the House, etc.), to be approved, to be accepted,to go by (a name), to be known as, to be accepted as, to have a reputation for,to be coherent, to be logical, to be reasonable, to be comprehensible, to be understandable, to make sense,to get across (e.g. of one's point), to be understood,to be straight (e.g. wood grain),to be well-informed, to be wise,to do ... completely, to do ... thoroughly"
+		],
+		"english": "Whaddya mean we're not goin' in? There ain't no other way of gettin' to the Sector 5 reactor 'cept through here.",
+		"japanese": "入らねぇのか？ここを通る以外には、五番魔晄炉にいく方法はないんだぜ"
+	},
+	{
+		"word": "以外",
+		"root": "以外",
+		"definitions": [
+			"以外[いがい] (n-adv) with the exception of, excepting"
+		],
+		"english": "Whaddya mean we're not goin' in? There ain't no other way of gettin' to the Sector 5 reactor 'cept through here.",
+		"japanese": "入らねぇのか？ここを通る以外には、五番魔晄炉にいく方法はないんだぜ"
+	},
+	{
+		"word": "ダクト",
+		"root": "ダクト",
+		"definitions": [
+			"ダクト (n) duct"
+		],
+		"english": "…Doesn't seem to be anything that'll get us stuck in this duct.",
+		"japanese": "……ダクトの中に足がかりになりそうなものはないわね"
+	},
+	{
+		"word": "足がかり",
+		"root": "足がかり",
+		"definitions": [
+			"足掛かり[あしがかり] (n) foothold"
+		],
+		"english": "…Doesn't seem to be anything that'll get us stuck in this duct.",
+		"japanese": "……ダクトの中に足がかりになりそうなものはないわね"
+	},
+	{
+		"word": "世話",
+		"root": "世話",
+		"definitions": [
+			"世話[せわ] (n, vs) looking after, help, aid, assistance"
+		],
+		"english": "After coming this far, only an amateur'd get caught by a security sensor.",
+		"japanese": "ここまで来て警報センサーの世話になるなんてのは、シロウトだけだ"
+	},
+	{
+		"word": "見つかる",
+		"root": "見つかる",
+		"definitions": [
+			"見つかる[みつかる] (v5r, vi) to be found, to be discovered"
+		],
+		"english": "That was close. I thought we were gonna get caught…",
+		"japanese": "やばかったぜ。神羅のやつらに見つかるかと思った……"
+	},
+	{
+		"word": "手前",
+		"root": "手前",
+		"definitions": [
+			"手前[てまえ] (pn) before, this side,one's standpoint, one's appearance,we,you",
+			"手前[てめえ] (pn) you,oneself"
+		],
+		"english": "Oh man…… We were forced to get this far out.",
+		"japanese": "なんてこった……こんな手前で降りるハメになっちまった"
+	},
+	{
+		"word": "たどり着く",
+		"root": "たどり着く",
+		"definitions": [
+			"たどり着く[たどりつく] (v5k, vi) to arrive at (after a struggle), to finally reach, to find one's way to, to finally hit on (e.g. an idea)"
+		],
+		"english": "Don't let your guard down till we get to the Sector 5 reactor.",
+		"japanese": "しかし、五番魔晄炉にたどり着くまでは油断は禁物だぜ"
+	},
+	{
+		"word": "禁物",
+		"root": "禁物",
+		"definitions": [
+			"禁物[きんもつ] (n) taboo, forbidden thing"
+		],
+		"english": "Don't let your guard down till we get to the Sector 5 reactor.",
+		"japanese": "しかし、五番魔晄炉にたどり着くまでは油断は禁物だぜ"
+	},
+	{
+		"word": "潜入",
+		"root": "潜入",
+		"definitions": [
+			"潜入[せんにゅう] (n, vs) infiltration, sneaking in"
+		],
+		"english": "They probably don't know we sneaked in yet. We'll be at the reactor in no time.",
+		"japanese": "まだ、オレたちが潜入したことはバレていないはずだ。五番魔晄炉まで一気に行けるぞ"
+	},
+	{
+		"word": "一気に",
+		"root": "一気に",
+		"definitions": [
+			"一気に[いっきに] (adv) in one go, in one gulp, in one breath, without stopping, without pausing, without resting, in one sitting, at a stretch, all at once,immediately, instantly, right away, straight away, straightaway"
+		],
+		"english": "They probably don't know we sneaked in yet. We'll be at the reactor in no time.",
+		"japanese": "まだ、オレたちが潜入したことはバレていないはずだ。五番魔晄炉まで一気に行けるぞ"
+	},
+	{
+		"word": "今さら",
+		"root": "今さら",
+		"definitions": [
+			"今更[いまさら] (adv) now (after such a long time), at this late hour (i.e. it is too late for something), at this point of time,afresh, anew, again"
+		],
+		"english": "We can't just go back now. We've gotta go on.",
+		"japanese": "しかし、今さらノコノコ引き返すことはできねぇ。このまま進むしかねぇ"
+	},
+	{
+		"word": "ノコノコ",
+		"root": "ノコノコ",
+		"definitions": [
+			"のこのこ (adv, adv-to) unconcernedly, nonchalantly, shamelessly, brazenly"
+		],
+		"english": "We can't just go back now. We've gotta go on.",
+		"japanese": "しかし、今さらノコノコ引き返すことはできねぇ。このまま進むしかねぇ"
+	},
+	{
+		"word": "引き返す",
+		"root": "引き返す",
+		"definitions": [
+			"引き返す[ひきかえす] (v5s, vt) to turn back, to go back, to come back, to return, to retrace one's steps"
+		],
+		"english": "We can't just go back now. We've gotta go on.",
+		"japanese": "しかし、今さらノコノコ引き返すことはできねぇ。このまま進むしかねぇ"
+	},
+	{
+		"word": "進む",
+		"root": "進む",
+		"definitions": [
+			"進む[すすむ] (v5m, vi) to advance, to go forward,to precede, to go ahead (of),to make progress, to improve,to deepen, to heighten,to be fast (of a clock), to be ahead,to do of one's own free will",
+			"荒む[すさむ] (v5m, aux-v, vi) to grow wild, to run to waste, to become degenerate,to become rough (of art, craft, etc.), to lose refinement, to deteriorate (of skill),to intensify (of wind, rain, etc.), to become more severe"
+		],
+		"english": "We can't just go back now. We've gotta go on.",
+		"japanese": "しかし、今さらノコノコ引き返すことはできねぇ。このまま進むしかねぇ"
+	},
+	{
+		"word": "先行",
+		"root": "先行",
+		"definitions": [
+			"先行[せんこう] (n, vs, adj-no) preceding, going first, leading, going ahead, taking priority"
+		],
+		"english": "Biggs, Wedge and Jessie got everything ready for us. So MOVE it.",
+		"japanese": "ビッグス、ウェッジ、ジェシーが先行している手はずになってる。行くぞ、おまえら"
+	},
+	{
+		"word": "手はず",
+		"root": "手はず",
+		"definitions": [
+			"手はず[てはず] (n) arrangement, plan, programme, program"
+		],
+		"english": "Biggs, Wedge and Jessie got everything ready for us. So MOVE it.",
+		"japanese": "ビッグス、ウェッジ、ジェシーが先行している手はずになってる。行くぞ、おまえら"
+	},
+	{
+		"word": "あいつ",
+		"root": "あいつ",
+		"definitions": [
+			"彼奴[あいつ] (pn) he, she, that guy"
+		],
+		"english": "Biggs, Wedge, and Jessie did good. Now, it's our turn!",
+		"japanese": "ビッグス、ウェッジ、ジェシーはうまくやったようだな。さぁて、あいつらに追いつくぜ！"
+	},
+	{
+		"word": "追いつく",
+		"root": "追いつく",
+		"definitions": [
+			"追いつく[おいつく] (v5k, vi) to catch up (with), to draw level, to pull even, to reach,to be compensated, to make up for one's losses"
+		],
+		"english": "Biggs, Wedge, and Jessie did good. Now, it's our turn!",
+		"japanese": "ビッグス、ウェッジ、ジェシーはうまくやったようだな。さぁて、あいつらに追いつくぜ！"
+	},
+	{
+		"word": "落ち合お",
+		"root": "落ち合う",
+		"definitions": [
+			"落ち合う[おちあう] (v5u, vi) to meet, to meet up, to rendezvous, to get together,to join (of roads, rivers, etc.), to flow together"
+		],
+		"english": "We're gonna pull out now. We'll meet up at the hideout.",
+		"japanese": "おれたちは、これで引き上げる。アジトで落ち合おうぜ"
+	},
+	{
+		"word": "パパ",
+		"root": "パパ",
+		"definitions": [
+			"パパ (n) Papa"
+		],
+		"english": "Did Sephiroth do this to you?",
+		"japanese": "パパ……"
+	},
+	{
+		"word": "ぜんぶ",
+		"root": "ぜんぶ",
+		"definitions": [
+			"全部[ぜんぶ] (n-adv, n-t, adj-no) all, entire, whole, altogether",
+			"前部[ぜんぶ] (n, adj-no) front part, fore, front",
+			"膳部[ぜんぶ] (n) food (on a table) (esp. a small Japanese table), dinner, cover (in a restaurant),cook, chef, person who prepares food"
+		],
+		"english": "Damn man, get a hold of yourself!",
+		"japanese": "セフィロス……ソルジャー……魔晄炉……神羅……ぜんぶ！"
+	},
+	{
+		"word": "ワナ",
+		"root": "ワナ",
+		"definitions": [
+			"罠[わな] (n) snare, trap (for catching wild game, etc.),trap (i.e. ruse, subterfuge, etc.)",
+			"輪奈[わな] (n) loop (of thread, string, etc.)"
+		],
+		"english": "…A trap…",
+		"japanese": "……ワナ、か"
+	},
+	{
+		"word": "ほほ",
+		"root": "ほほ",
+		"definitions": [
+			"頬[ほお] (n) cheek (of face)",
+			"おほほ (int) ho-ho"
+		],
+		"english": "Hmm… So you all must be… What was it?",
+		"japanese": "ほほう。君たちがアレかね。……なんて言ったかな？"
+	},
+	{
+		"word": "君たち",
+		"root": "君たち",
+		"definitions": [
+			"君たち[きみたち] (pn) you (plural), all of you, you all"
+		],
+		"english": "Hmm… So you all must be… What was it?",
+		"japanese": "ほほう。君たちがアレかね。……なんて言ったかな？"
+	},
+	{
+		"word": "たしかに",
+		"root": "たしかに",
+		"definitions": [
+			"確かに[たしかに] (adv) surely, certainly"
+		],
+		"english": "You're the one who quit SOLDIER and joined AVALANCHE. I knew you'd been exposed to Mako, from the look in your eyes…",
+		"japanese": "アバランチとやらに参加しているという元ソルジャー。たしかにその目の輝きは魔晄を浴びた者……"
+	},
+	{
+		"word": "輝き",
+		"root": "輝き",
+		"definitions": [
+			"輝き[かがやき] (n) brightness, brilliance, brilliancy, radiance, glitter"
+		],
+		"english": "You're the one who quit SOLDIER and joined AVALANCHE. I knew you'd been exposed to Mako, from the look in your eyes…",
+		"japanese": "アバランチとやらに参加しているという元ソルジャー。たしかにその目の輝きは魔晄を浴びた者……"
+	},
+	{
+		"word": "浴び",
+		"root": "浴びる",
+		"definitions": [
+			"浴びる[あびる] (v1, vt) to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in,to suffer (e.g. an attack), to draw (e.g. criticism, attention, praise), to have heaped upon, to be showered with"
+		],
+		"english": "You're the one who quit SOLDIER and joined AVALANCHE. I knew you'd been exposed to Mako, from the look in your eyes…",
+		"japanese": "アバランチとやらに参加しているという元ソルジャー。たしかにその目の輝きは魔晄を浴びた者……"
+	},
+	{
+		"word": "裏切り者",
+		"root": "裏切り者",
+		"definitions": [
+			"裏切り者[うらぎりもの] (n) betrayer, traitor, turncoat, informer"
+		],
+		"english": "Tell me, traitor… what was your name?",
+		"japanese": "その裏切り者の名前はなんといったかな？"
+	},
+	{
+		"word": "いちいち",
+		"root": "いちいち",
+		"definitions": [
+			"一々[いちいち] (adv, n) one-by-one, separately,every single, each and every, without omission, fully, in detail"
+		],
+		"english": "Forgive me for asking, but I can't be expected to remember everyone's name.",
+		"japanese": "すまないがソルジャーの名前なんていちいち覚えとらんのでな"
+	},
+	{
+		"word": "せめて",
+		"root": "せめて",
+		"definitions": [
+			"せめて (adv) at least, at most",
+			"攻め手[せめて] (n) offense, offence, method of attack"
+		],
+		"english": "Unless you become another Sephiroth.",
+		"japanese": "せめてセフィロスぐらいにはなってもらわんと"
+	},
+	{
+		"word": "優秀",
+		"root": "優秀",
+		"definitions": [
+			"優秀[ゆうしゅう] (adj-na, n) superiority, excellence"
+		],
+		"english": "Aah, Sephiroth… He was brilliant. Perhaps too brilliant.",
+		"japanese": "そう、セフィロス……。優秀なソルジャーであった。そう、優秀すぎる……な"
+	},
+	{
+		"word": "すぎる",
+		"root": "すぎる",
+		"definitions": [
+			"過ぎる[すぎる] (v1, vi, suf) to pass through, to pass by, to go beyond,to pass (i.e. of time), to elapse,to have expired, to have ended, to be over,to exceed, to surpass, to be above,to be no more than ...,to be excessive, to be too much, to be too ..."
+		],
+		"english": "Aah, Sephiroth… He was brilliant. Perhaps too brilliant.",
+		"japanese": "そう、セフィロス……。優秀なソルジャーであった。そう、優秀すぎる……な"
+	},
+	{
+		"word": "なこ",
+		"root": "なく",
+		"definitions": [
+			"泣く[なく] (v5k) to cry, to weep, to sob, to howl",
+			"鳴く[なく] (v5k, vi) to sing (bird),to make sound (animal), to call, to cry, to chirp,to make a meld call (e.g. pung, kong)",
+			"ＮａＫ[ナック] (n) NaK (sodium-potassium alloy)"
+		],
+		"english": "Don't give a damn 'bout none of that! This place's goin' up with a big BANG soon! Serves y'all right!",
+		"japanese": "んなこたぁ、どうでもいい！もうすぐここはドッカン！！だぜ！ざまあみやがれ！"
+	},
+	{
+		"word": "ざま",
+		"root": "ざま",
+		"definitions": [
+			"様[ざま] (suf) mess, sorry state, plight, sad sight,-ways, -wards,in the act of ..., just as one is ...,manner of ..., way of ..."
+		],
+		"english": "Don't give a damn 'bout none of that! This place's goin' up with a big BANG soon! Serves y'all right!",
+		"japanese": "んなこたぁ、どうでもいい！もうすぐここはドッカン！！だぜ！ざまあみやがれ！"
+	},
+	{
+		"word": "あみ",
+		"root": "あみ",
+		"definitions": [
+			"網[あみ] (n) net, netting,web",
+			"アミ (n) friend,AMI",
+			"醤蝦[あみ] (n) opossum shrimp (Mysida spp.), mysid"
+		],
+		"english": "Don't give a damn 'bout none of that! This place's goin' up with a big BANG soon! Serves y'all right!",
+		"japanese": "んなこたぁ、どうでもいい！もうすぐここはドッカン！！だぜ！ざまあみやがれ！"
+	},
+	{
+		"word": "がれ",
+		"root": "がれ",
+		"definitions": [
+			"がれ (n) scree"
+		],
+		"english": "Don't give a damn 'bout none of that! This place's goin' up with a big BANG soon! Serves y'all right!",
+		"japanese": "んなこたぁ、どうでもいい！もうすぐここはドッカン！！だぜ！ざまあみやがれ！"
+	},
+	{
+		"word": "キミ",
+		"root": "キミ",
+		"definitions": [
+			"気味[きみ] (n) sensation, feeling,tendency, propensity",
+			"君[きみ] (n) you, buddy, pal,monarch, ruler, sovereign, (one's) master",
+			"黄身[きみ] (n) egg yolk",
+			"黍[きび] (n) (common) millet (Panicum miliaceium), proso millet",
+			"黄み[きみ] (n, adj-no) yellow, yellowish"
+		],
+		"english": "And such a waste of good fireworks, just to get rid of vermin like you…",
+		"japanese": "そうだな。キミたちウジ虫を始末するには高物すぎる花火ではあるが……"
+	},
+	{
+		"word": "ウジ",
+		"root": "ウジ",
+		"definitions": [
+			"氏[うじ] (n, suf) family name, lineage, birth,clan",
+			"蛆[うじ] (n) maggot, larva, grub"
+		],
+		"english": "And such a waste of good fireworks, just to get rid of vermin like you…",
+		"japanese": "そうだな。キミたちウジ虫を始末するには高物すぎる花火ではあるが……"
+	},
+	{
+		"word": "虫",
+		"root": "虫",
+		"definitions": [
+			"虫[むし] (n) insect, bug, cricket, moth, worm"
+		],
+		"english": "And such a waste of good fireworks, just to get rid of vermin like you…",
+		"japanese": "そうだな。キミたちウジ虫を始末するには高物すぎる花火ではあるが……"
+	},
+	{
+		"word": "始末",
+		"root": "始末",
+		"definitions": [
+			"始末[しまつ] (n, vs, adj-na) management, dealing with, settlement, cleaning up, disposal,course of events, circumstances, particulars,end result (usu. bad), outcome,economizing, economising, frugality, being thrifty"
+		],
+		"english": "And such a waste of good fireworks, just to get rid of vermin like you…",
+		"japanese": "そうだな。キミたちウジ虫を始末するには高物すぎる花火ではあるが……"
+	},
+	{
+		"word": "高",
+		"root": "高",
+		"definitions": [
+			"高[たか] (n, n-suf) quantity, amount, volume, number, amount of money",
+			"高[こう] (pref) high school,high-"
+		],
+		"english": "And such a waste of good fireworks, just to get rid of vermin like you…",
+		"japanese": "そうだな。キミたちウジ虫を始末するには高物すぎる花火ではあるが……"
+	},
+	{
+		"word": "花火",
+		"root": "花火",
+		"definitions": [
+			"花火[はなび] (n) fireworks"
+		],
+		"english": "And such a waste of good fireworks, just to get rid of vermin like you…",
+		"japanese": "そうだな。キミたちウジ虫を始末するには高物すぎる花火ではあるが……"
+	},
+	{
+		"word": "事",
+		"root": "事",
+		"definitions": [
+			"事[こと] (n, n-suf) thing, matter,incident, occurrence, event, something serious, trouble, crisis,circumstances, situation, state of affairs,work, business, affair,after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to,nominalizing suffix,pretending to ..., playing make-believe ...,alias, aka, nickname, alternative name, also known as",
+			"事[じ] (n) individual concrete phenomenon (as opposed to a general principle)",
+			"事[ごと] (suf) nominalizing suffix,pretending to ..., playing make-believe ..."
+		],
+		"english": "VERMIN!? That's all you can say? VERMIN!?",
+		"japanese": "ウジ虫だと！？言うに事価いて、ウジ虫だと！"
+	},
+	{
+		"word": "追いやろ",
+		"root": "追いやる",
+		"definitions": [
+			"追いやる[おいやる] (v5r, vt) to drive away, to order off, to chase away,to force into an unpleasant situation (bankruptcy, prostitution, suicide, etc.)"
+		],
+		"english": "Shinra're the VERMIN for killing the Planet! Guess that'd make you King VERMIN! So shu'up jackass!",
+		"japanese": "キサマら神羅は、この星を死に追いやろうとする寄生虫じゃねぇか！その親玉であるキサマが何をえらそうにホザく！"
+	},
+	{
+		"word": "寄生虫",
+		"root": "寄生虫",
+		"definitions": [
+			"寄生虫[きせいちゅう] (n) parasite"
+		],
+		"english": "Shinra're the VERMIN for killing the Planet! Guess that'd make you King VERMIN! So shu'up jackass!",
+		"japanese": "キサマら神羅は、この星を死に追いやろうとする寄生虫じゃねぇか！その親玉であるキサマが何をえらそうにホザく！"
+	},
+	{
+		"word": "親玉",
+		"root": "親玉",
+		"definitions": [
+			"親玉[おやだま] (n) boss, chief, head"
+		],
+		"english": "Shinra're the VERMIN for killing the Planet! Guess that'd make you King VERMIN! So shu'up jackass!",
+		"japanese": "キサマら神羅は、この星を死に追いやろうとする寄生虫じゃねぇか！その親玉であるキサマが何をえらそうにホザく！"
+	},
+	{
+		"word": "あき",
+		"root": "あきる",
+		"definitions": [
+			"飽きる[あきる] (v1, aux-v, vi) to get tired of, to lose interest in, to be fed up with, to have enough"
+		],
+		"english": "…You are beginning to bore me.",
+		"japanese": "……そろそろキミたちの相手をするのにもあきたよ"
+	},
+	{
+		"word": "わし",
+		"root": "わし",
+		"definitions": [
+			"和紙[わし] (n) washi, Japanese paper",
+			"鷲[わし] (n) eagle (Accipitridae family)",
+			"儂[わし] (pn) I, me"
+		],
+		"english": "I'm a very busy man, so if you'll excuse me… I have a dinner I must attend.",
+		"japanese": "わしは多忙な身なのでな。もう、失礼させてもらうか。今日は、会食の予定があるものでな"
+	},
+	{
+		"word": "多忙",
+		"root": "多忙",
+		"definitions": [
+			"多忙[たぼう] (n, adj-na, adj-no) being very busy, busyness"
+		],
+		"english": "I'm a very busy man, so if you'll excuse me… I have a dinner I must attend.",
+		"japanese": "わしは多忙な身なのでな。もう、失礼させてもらうか。今日は、会食の予定があるものでな"
+	},
+	{
+		"word": "会食",
+		"root": "会食",
+		"definitions": [
+			"会食[かいしょく] (n, vs) dining together, mess"
+		],
+		"english": "I'm a very busy man, so if you'll excuse me… I have a dinner I must attend.",
+		"japanese": "わしは多忙な身なのでな。もう、失礼させてもらうか。今日は、会食の予定があるものでな"
+	},
+	{
+		"word": "ふざけ",
+		"root": "ふざける",
+		"definitions": [
+			"巫山戯る[ふざける] (v1, vi) to joke, to jest, to kid, to josh,to make fun of, to laugh at, to play a prank,to romp, to gambol, to frolic, to frisk, to mess around, to fool around, to screw around,to neck, to make out"
+		],
+		"english": "Dinner!? Don't gimme that! I ain't even started wit' you yet!",
+		"japanese": "会食だと！？　ふざけやがって！おまえには言いたいことがまだまだあるんだ！"
+	},
+	{
+		"word": "まだまだ",
+		"root": "まだまだ",
+		"definitions": [
+			"未だ未だ[まだまだ] (adv) still some way to go before the goal, still more to come, much more, not yet"
+		],
+		"english": "Dinner!? Don't gimme that! I ain't even started wit' you yet!",
+		"japanese": "会食だと！？　ふざけやがって！おまえには言いたいことがまだまだあるんだ！"
+	},
+	{
+		"word": "遊び",
+		"root": "遊び",
+		"definitions": [
+			"遊び[あそび] (n, n-suf) playing,play (margin between on and off, gap before pressing button or lever has an effect)"
+		],
+		"english": "But, I've made arrangements for a playmate for you all.",
+		"japanese": "キミたちの遊び相手は別に用意させてもらった"
+	},
+	{
+		"word": "別に",
+		"root": "別に",
+		"definitions": [
+			"別に[べつに] (adv) (not) particularly, (not) especially, (not) specially,separately, apart, additionally, extra"
+		],
+		"english": "But, I've made arrangements for a playmate for you all.",
+		"japanese": "キミたちの遊び相手は別に用意させてもらった"
+	},
+	{
+		"word": "用意",
+		"root": "用意",
+		"definitions": [
+			"用意[ようい] (n, vs) preparation, arrangements, provision, getting ready, laying out (e.g. a meal)"
+		],
+		"english": "But, I've made arrangements for a playmate for you all.",
+		"japanese": "キミたちの遊び相手は別に用意させてもらった"
+	},
+	{
+		"word": "音",
+		"root": "音",
+		"definitions": [
+			"音[おと] (n, n-suf) sound, noise, report,note,fame,Chinese-derived character reading"
+		],
+		"english": "What's that noise?!",
+		"japanese": "！？　何の音？"
+	},
+	{
+		"word": "社",
+		"root": "社",
+		"definitions": [
+			"社[やしろ] (n) shrine (usually Shinto)",
+			"社[しゃ] (ctr, suf) company, association, society,regional Chinese god of the earth (or a village built in its honour),counter for companies, shrines, etc."
+		],
+		"english": "Meet 'Airbuster', a techno-soldier. Our Weapon Development Department created him.",
+		"japanese": "我が社の兵器開発部が試作した機動兵「エアバスターだ」"
+	},
+	{
+		"word": "兵器",
+		"root": "兵器",
+		"definitions": [
+			"兵器[へいき] (n) arms, weapon, ordnance"
+		],
+		"english": "Meet 'Airbuster', a techno-soldier. Our Weapon Development Department created him.",
+		"japanese": "我が社の兵器開発部が試作した機動兵「エアバスターだ」"
+	},
+	{
+		"word": "試作",
+		"root": "試作",
+		"definitions": [
+			"試作[しさく] (n, vs) trial manufacture, experiment, test piece, prototype"
+		],
+		"english": "Meet 'Airbuster', a techno-soldier. Our Weapon Development Department created him.",
+		"japanese": "我が社の兵器開発部が試作した機動兵「エアバスターだ」"
+	},
+	{
+		"word": "機動",
+		"root": "機動",
+		"definitions": [
+			"機動[きどう] (adj-f) maneuver (usu. of military force), manoeuvre,mobile, nimble, agile, quick to respond"
+		],
+		"english": "Meet 'Airbuster', a techno-soldier. Our Weapon Development Department created him.",
+		"japanese": "我が社の兵器開発部が試作した機動兵「エアバスターだ」"
+	},
+	{
+		"word": "データ",
+		"root": "データ",
+		"definitions": [
+			"データ (n) data, datum"
+		],
+		"english": "I'm sure the data he'll extract from your dead bodies will be of great use to us in future experiments.",
+		"japanese": "君たちとの戦闘データは今後の開発の貴重なサンプルとして利用させてもらうよ"
+	},
+	{
+		"word": "貴重",
+		"root": "貴重",
+		"definitions": [
+			"貴重[きちょう] (adj-na, n) precious, valuable"
+		],
+		"english": "I'm sure the data he'll extract from your dead bodies will be of great use to us in future experiments.",
+		"japanese": "君たちとの戦闘データは今後の開発の貴重なサンプルとして利用させてもらうよ"
+	},
+	{
+		"word": "サンプル",
+		"root": "サンプル",
+		"definitions": [
+			"サンプル (n) sample, example, specimen,display model (e.g. plastic food models used by restaurants)"
+		],
+		"english": "I'm sure the data he'll extract from your dead bodies will be of great use to us in future experiments.",
+		"japanese": "君たちとの戦闘データは今後の開発の貴重なサンプルとして利用させてもらうよ"
+	},
+	{
+		"word": "利用",
+		"root": "利用",
+		"definitions": [
+			"利用[りよう] (n, vs) use, utilization, utilisation, application"
+		],
+		"english": "I'm sure the data he'll extract from your dead bodies will be of great use to us in future experiments.",
+		"japanese": "君たちとの戦闘データは今後の開発の貴重なサンプルとして利用させてもらうよ"
+	},
+	{
+		"word": "とりあえず",
+		"root": "とりあえず",
+		"definitions": [
+			"取りあえず[とりあえず] (adv) first of all, at once, right away,for now, for the time being"
+		],
+		"english": "Yo, CLOUD! We've gotta do somethin' 'bout him!",
+		"japanese": "おい、CLOUD！とりあえずコイツをなんとかするぞ！"
+	},
+	{
+		"word": "何とか",
+		"root": "何とか",
+		"definitions": [
+			"何とか[なんとか] (adv) something, something or other, so-and-so,somehow, anyhow, one way or another"
+		],
+		"english": "BARRET! Can't you do something?",
+		"japanese": "BARRET！何とかならないの？"
+	},
+	{
+		"word": "しよう",
+		"root": "しよう",
+		"definitions": [
+			"使用[しよう] (n, vs) use, application, employment, utilization, utilisation",
+			"私用[しよう] (n, adj-no, vs) personal use,private business",
+			"枝葉[しよう] (n, adj-no) branches and leaves, foliage,unimportant details, nonessentials, side issue, digression",
+			"仕様[しよう] (n) way, method, means, resource, remedy,(technical) specification",
+			"試用[しよう] (n, vs) trial, experimental use",
+			"飼養[しよう] (n, vs) breeding, raising",
+			"子葉[しよう] (n) cotyledon, seed leaf (i.e. the first leaves to emerge when a seed sprouts)",
+			"至要[しよう] (n) extremely important",
+			"止揚[しよう] (n, vs) sublation (philosophy)"
+		],
+		"english": "Not a damn thing.",
+		"japanese": "どうしようもねえな"
+	},
+	{
+		"word": "情けない",
+		"root": "情けない",
+		"definitions": [
+			"情けない[なさけない] (adj-i) miserable, pitiable, shameful, deplorable, pathetic"
+		],
+		"english": "Don't go cryin' like a woman. There ain't nothin' I can do for ya. Ya gotta do it on your own.",
+		"japanese": "情けない声だすんじゃねえよ。悪いが何もしてやれそうにない。自分でなんとかしてくれ"
+	},
+	{
+		"word": "声",
+		"root": "声",
+		"definitions": [
+			"声[こえ] (n) voice,singing (of a bird), chirping (of an insect), hoot,voice, opinion (as expressed in words), view, wish, attitude, will,sound,sense (of something's arrival), feeling,voice, voiced sound"
+		],
+		"english": "Don't go cryin' like a woman. There ain't nothin' I can do for ya. Ya gotta do it on your own.",
+		"japanese": "情けない声だすんじゃねえよ。悪いが何もしてやれそうにない。自分でなんとかしてくれ"
+	},
+	{
+		"word": "だす",
+		"root": "だす",
+		"definitions": [
+			"出す[だす] (suf, v5s) to take out, to get out,to put out, to reveal, to show,to submit (e.g. thesis), to turn in,to publish, to make public,to send (e.g. letter),to produce (a sound), to start (fire),to serve (food),to begin ..., to start to ..., to burst into ...",
+			"堕す[だす] (v5s, vi) to degenerate, to lapse into"
+		],
+		"english": "Don't go cryin' like a woman. There ain't nothin' I can do for ya. Ya gotta do it on your own.",
+		"japanese": "情けない声だすんじゃねえよ。悪いが何もしてやれそうにない。自分でなんとかしてくれ"
+	}
+]

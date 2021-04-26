@@ -1,0 +1,190 @@
+[
+	{
+		"word": "すばやい",
+		"root": "すばやい",
+		"definitions": [
+			"素早い[すばやい] (adj-i) fast, quick, prompt, nimble, agile,quick (to understand), sharp (judgement)"
+		],
+		"english": "Hmm? Pretty fast.",
+		"japanese": "おや……？なるほど……すばやいな"
+	},
+	{
+		"word": "盗ま",
+		"root": "盗む",
+		"definitions": [
+			"盗む[ぬすむ] (v5m, vt) to steal"
+		],
+		"english": "200 Gil Stolen!",
+		"japanese": "２００ギル盗まれた！"
+	},
+	{
+		"word": "かえせ",
+		"root": "かえす",
+		"definitions": [
+			"返す[かえす] (suf, v5s) to return (something), to restore, to put back,to turn over, to turn upside down, to overturn,to pay back, to retaliate, to reciprocate,to repeat ..., to do ... back",
+			"帰す[かえす] (v5s, vt) to send (someone) back, to send (someone) home",
+			"孵す[かえす] (v5s, vt) to hatch, to incubate"
+		],
+		"english": "&^%$!! Gimme back my money!!",
+		"japanese": "チクショ～！！オレの金、かえせ～！！"
+	},
+	{
+		"word": "くらむ",
+		"root": "くらむ",
+		"definitions": [
+			"眩む[くらむ] (v5m, vi) to be dazzled by, to be dizzied by, to be disoriented by,to be lost in (greed, lust, etc.),to become dark",
+			"クラム (n) clam,crumb"
+		],
+		"english": "Greed…A perfect example of human nature.",
+		"japanese": "金に目がくらむ……じつに人間らしい行動だな"
+	},
+	{
+		"word": "じつに",
+		"root": "じつに",
+		"definitions": [
+			"実に[じつに] (adv) indeed, really, absolutely, truly, actually, very, quite"
+		],
+		"english": "Greed…A perfect example of human nature.",
+		"japanese": "金に目がくらむ……じつに人間らしい行動だな"
+	},
+	{
+		"word": "人間らしい",
+		"root": "人間らしい",
+		"definitions": [
+			"人間らしい[にんげんらしい] (adj-i) human, humane"
+		],
+		"english": "Greed…A perfect example of human nature.",
+		"japanese": "金に目がくらむ……じつに人間らしい行動だな"
+	},
+	{
+		"word": "くすねる",
+		"root": "くすねる",
+		"definitions": [
+			"くすねる (v1, vt) to pilfer, to filch, to swipe"
+		],
+		"english": "Steal MY money, will ya? You got a lot of #&^%$ nerve!!",
+		"japanese": "オレ様から金をくすねるたあいい度胸じゃねえか！！"
+	},
+	{
+		"word": "度胸",
+		"root": "度胸",
+		"definitions": [
+			"度胸[どきょう] (n) courage, bravery, pluck, nerve, grit, guts"
+		],
+		"english": "Steal MY money, will ya? You got a lot of #&^%$ nerve!!",
+		"japanese": "オレ様から金をくすねるたあいい度胸じゃねえか！！"
+	},
+	{
+		"word": "みなれ",
+		"root": "みなれる",
+		"definitions": [
+			"見慣れる[みなれる] (v1, vi) to become used to seeing, to be familiar with"
+		],
+		"english": "You don't see one like that everyday…",
+		"japanese": "……みなれない格好をしているな……"
+	},
+	{
+		"word": "知らん顔",
+		"root": "知らん顔",
+		"definitions": [
+			"知らん顔[しらんかお] (n, vs) feigned ignorance, pretending not to recognize (somebody),unconcerned air, indifference"
+		],
+		"english": "Who do you think she is? I don't recognize her face.",
+		"japanese": "なんやろ、アレ。知らん顔ですなぁ"
+	},
+	{
+		"word": "オッパイ",
+		"root": "オッパイ",
+		"definitions": [
+			"おっぱい (n) breasts, boobies, tits,breast milk"
+		],
+		"english": "Hey, boobs! Try that again! Just one more time!",
+		"japanese": "やい、このオッパイ女！もう１回、もう１回勝負しろ！"
+	},
+	{
+		"word": "しな",
+		"root": "しな",
+		"definitions": [
+			"品[しな] (n) article, item, thing, goods, stock,quality,flirtatiousness, coquetry",
+			"支那[しな] (n) China",
+			"しな (suf) having just started...",
+			"科[しな] (n) Japanese linden (Tilia japonica)"
+		],
+		"english": "I won't lose this time! Take your time and get ready. Holler when you're ready!",
+		"japanese": "今度は負けないからね！時間をやるから、用意しなよ。カクゴができたらかかってきな！"
+	},
+	{
+		"word": "たたかう",
+		"root": "たたかう",
+		"definitions": [
+			"戦う[たたかう] (v5u, vi) to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against),to compete (against),to struggle (against adversities, etc.), to fight, to contend, to resist"
+		],
+		"english": "No way I'm going to fight with a punk like you more than once!",
+		"japanese": "フーンだ、誰がアンタらみたいなザコと何度もたたかうもんか！"
+	},
+	{
+		"word": "治療",
+		"root": "治療",
+		"definitions": [
+			"治療[ちりょう] (n, vs, adj-no) medical treatment, cure"
+		],
+		"english": "I'll save enough for the doctor bill! Next time, you won't be as lucky!",
+		"japanese": "ケガの治療費はいただいとくよ！次はようしゃしないからなー！"
+	},
+	{
+		"word": "費",
+		"root": "費",
+		"definitions": [
+			"費[ひ] (n-suf) cost, expense",
+			"直[あたい] (n) Atai (post-Taika hereditary title often given to regional administrators)"
+		],
+		"english": "I'll save enough for the doctor bill! Next time, you won't be as lucky!",
+		"japanese": "ケガの治療費はいただいとくよ！次はようしゃしないからなー！"
+	},
+	{
+		"word": "しゃし",
+		"root": "しゃする",
+		"definitions": [
+			"謝する[しゃする] (vs-s) to thank,to apologize, to apologise,to say farewell, to retreat, to retire,to refuse,to pay back, to settle old scores",
+			"瀉する[しゃする] (vs-s) to have diarrhea,to vomit"
+		],
+		"english": "I'll save enough for the doctor bill! Next time, you won't be as lucky!",
+		"japanese": "ケガの治療費はいただいとくよ！次はようしゃしないからなー！"
+	},
+	{
+		"word": "ったらし",
+		"root": "ったらしい",
+		"definitions": [
+			"たらしい (suf, adj-i) (after a noun or the stem of an adjective) seeming very... (usu. with a negative connotation)"
+		],
+		"english": "Thinkin' of running away? Stay and fight! FIGHT, I said!",
+		"japanese": "ム、逃げる気？ちゃんと勝負しろ！しろったらしろ！"
+	},
+	{
+		"word": "ムダ",
+		"root": "ムダ",
+		"definitions": [
+			"無駄[むだ] (n, adj-na) futility, waste, uselessness, pointlessness, idleness"
+		],
+		"english": "You're wasting your time",
+		"japanese": "やるだけムダだぜ"
+	},
+	{
+		"word": "実力",
+		"root": "実力",
+		"definitions": [
+			"実力[じつりょく] (n) (real) ability, true strength, merit, efficiency, competency,arms, force"
+		],
+		"english": "Hmm, just as I thought. What do you expect with my skills?",
+		"japanese": "ヘヘ、や～っぱりそうか。ま、アタシの実力からいえばそれも当然だネ"
+	},
+	{
+		"word": "なのる",
+		"root": "なのる",
+		"definitions": [
+			"名乗る[なのる] (v5r, vi) to give one's name (as), to introduce oneself (as),to claim to be, to call oneself, to wear the title of,to reveal oneself (as), to admit to being,to adopt as one's name, to take (a name),to call out the goods one is selling"
+		],
+		"english": "What are you talking about!? You're the one who should go first!",
+		"japanese": "ヘン、何言ってんだい！そっちが先になのるのがマナーってもんだろ！"
+	}
+]

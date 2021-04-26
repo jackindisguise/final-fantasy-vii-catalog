@@ -1,0 +1,116 @@
+[
+	{
+		"word": "きい",
+		"root": "きい",
+		"definitions": [
+			"奇異[きい] (adj-na, adj-no, n) odd, strange, queer, peculiar",
+			"忌諱[きき] (n, vs) displeasure, offense, offence, disliking",
+			"貴意[きい] (n) your will, your wishes, your request",
+			"機位[きい] (n) position of aircraft"
+		],
+		"english": "Large Materia needs high level Materia…  …zzzzzz….zzzzzzz…",
+		"japanese": "大っきいマテリアはレベルが高～いマテリアが欲しいのかぁ……ぐー、ぐー"
+	},
+	{
+		"word": "ふかし",
+		"root": "ふかす",
+		"definitions": [
+			"蒸かす[ふかす] (v5s, vt) to steam (food)",
+			"吹かす[ふかす] (v5s, vt) to smoke (a cigarette),to behave as ...,to accelerate, to rev up",
+			"更かす[ふかす] (v5s, vt) to sit up late"
+		],
+		"english": "What're you flappin' about? There's one right there!",
+		"japanese": "ふかしこいてんじゃねぇよいるじゃねぇか、そこに"
+	},
+	{
+		"word": "実っ",
+		"root": "実る",
+		"definitions": [
+			"実る[みのる] (v5r, vi) to bear fruit, to ripen"
+		],
+		"english": "And what about those nut things?",
+		"japanese": "それと、その実ってのはどこにあるんだ？"
+	},
+	{
+		"word": "スグ",
+		"root": "スグ",
+		"definitions": [
+			"直ぐ[すぐ] (adj-na) immediately, at once, right away, directly,soon, before long, shortly,easily, readily, without difficulty,right (near), nearby, just (handy),honest, upright, frank, straightforward",
+			"過ぐ[すぐ] (v2g-k, vi) to pass through, to pass by, to go beyond,to pass (i.e. of time), to elapse,to have expired, to have ended, to be over,to exceed, to surpass, to be above"
+		],
+		"english": "Mate it with a 'Wonderful Chocobo' you can catch right around here… And you'll get…",
+		"japanese": "このスグそばで取れるそれはいいチョコボとタマゴを生ませるとのぉ"
+	},
+	{
+		"word": "経",
+		"root": "経る",
+		"definitions": [
+			"経る[へる] (v1, vi) to pass, to elapse, to go by,to pass through, to go through,to experience, to go through, to undergo"
+		],
+		"english": "Over the course of many years, Mako energy will crystallize into Materia…",
+		"japanese": "長い年月を経て魔晄エネルギーがマテリアの結晶になっている……"
+	},
+	{
+		"word": "艦",
+		"root": "艦",
+		"definitions": [
+			"艦[かん] (n, n-suf) warship"
+		],
+		"english": "How to drive the submarine",
+		"japanese": "潜水艦の移動"
+	},
+	{
+		"word": "潜行",
+		"root": "潜行",
+		"definitions": [
+			"潜行[せんこう] (n, vs) underwater navigation,going underground, going into hiding, travelling incognito, traveling incognito, travelling in disguise, traveling in disguise"
+		],
+		"english": "press the [Cancel] button to get off",
+		"japanese": "【キャンセルボタン】降りる・潜行＆浮上"
+	},
+	{
+		"word": "浮上",
+		"root": "浮上",
+		"definitions": [
+			"浮上[ふじょう] (n, vs) surfacing, rising to the surface,emerging, leaping into prominence,rising (of rank)"
+		],
+		"english": "press the [Cancel] button to get off",
+		"japanese": "【キャンセルボタン】降りる・潜行＆浮上"
+	},
+	{
+		"word": "プレイヤー",
+		"root": "プレイヤー",
+		"definitions": [
+			"プレイヤー (n) player,prayer"
+		],
+		"english": "Players can get on and off at bays like this one",
+		"japanese": "このような入りえでプレイヤーの乗り降りができます。"
+	},
+	{
+		"word": "乗り降り",
+		"root": "乗り降り",
+		"definitions": [
+			"乗り降り[のりおり] (n, vs) getting on and off (a vehicle), boarding and alighting"
+		],
+		"english": "Players can get on and off at bays like this one",
+		"japanese": "このような入りえでプレイヤーの乗り降りができます。"
+	},
+	{
+		"word": "迎え撃と",
+		"root": "迎え撃つ",
+		"definitions": [
+			"迎え撃つ[むかえうつ] (v5t, vt) to ambush, to attack, to assault, to meet the enemy"
+		],
+		"english": "What're you tryin to do? Break the Highwind? Let's fight on the ground",
+		"japanese": "お、おい！ハイウインドを壊す気か？地上で迎え撃とうぜ！！"
+	},
+	{
+		"word": "勢い",
+		"root": "勢い",
+		"definitions": [
+			"勢い[いきおい] (adv) force, vigor, vigour, energy, spirit, life,influence, authority, power, might,impetus, momentum, course (of events),naturally, necessarily"
+		],
+		"english": "What the hell was that! That came Buzzin past here like a powerhorse",
+		"japanese": "な、なんだ今のは！？スゲエ勢いではしかれたぜ！"
+	}
+]
