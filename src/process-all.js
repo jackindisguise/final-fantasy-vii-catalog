@@ -17,15 +17,13 @@ Array.prototype.contains = function(item){
 // all lines get stored here to remove duplicates
 let allLines = [];
 
-console.log("Processing all scene files.");
-console.log("");
-console.log("File\t\t\t\t  Original Line Count\t  New Line Count\t  Text %");
-console.log("----------------------------------------------------------------------------------------------------")
+console.log("Processing all scene files:");
 fs.readdir(formatted, function(err, files){
 	if(err) return;
 	for(let file of files){
 		let source = formatted+file;
 		if(source.indexOf(".txt") === -1) continue;
+		let name = file.substring(0,file.length-4);
 		let target = processed+file;
 		let data = fs.readFileSync(source, "utf8");
 		let original = data.split("\r\n");
@@ -40,11 +38,10 @@ fs.readdir(formatted, function(err, files){
 		}
 		newLines += lines.length;
 		fs.writeFileSync(target, lines.join("\r\n"), "utf8");
-		let width = 31;
-		let safe = file;
-		safe = safe.length > width ? safe.substring(0,width-3)+"..." : safe.length < width ? safe + " ".repeat(width-safe.length) : safe;
-		console.log(`${safe}\t| ${original.length} lines\t\t| ${lines.length} lines\t\t| ${((lines.length / original.length * 100)).toFixed(2)}%`)
+		console.log(`\t${name}`);
+		console.log(`\t\t${original.length} lines > ${lines.length} lines (${((lines.length / original.length * 100)).toFixed(2)}% used)`)
+		console.log("");
 	}
-	console.log("----------------------------------------------------------------------------------------------------")
-	console.log(`\t\t\tTotal:\t  ${originalLines} lines\t\t  ${newLines} lines\t\t  ${(newLines/originalLines*100).toFixed(2)}%`);
+	console.log(`Original Lines: ${originalLines}`);
+	console.log(`New Lines: ${newLines} (${(newLines/originalLines*100).toFixed(2)}% used)`);
 });

@@ -93,8 +93,8 @@ Weapon's attacking!”	ウェポンの攻撃だ！」
 CLOUD	CLOUD
 “What happened to Sephiroth?”	「セフィロス……どうなったんだ？」
 CLOUD	CLOUD
-“Northern Cave…”	「大空洞……
-“Let's go see what	あの場所がどうなったか見に行こう」
+“Northern Cave…”	「大空洞……」
+“Let's go see what	「あの場所がどうなったか見に行こう」
 happened to it.”	
 Heidegger	ハイデッカー
 “Strange.	「わからねえ。
@@ -146,7 +146,7 @@ Reeve	リーブ
 Sorry…”	すまん……」
 Reeve	リーブ
 “But!!”	「でも！！」
-Heidegger	
+Heidegger	ハイデッカー
 “Don't be foolish!	「バカなことを言うな！
 I don't remember anyone	おまえに命令される
 putting you in charge!”	覚えなどないわ！」
@@ -363,9 +363,9 @@ RED XIII	RED XIII
 Focus on Hojo!”	狙いは宝条だけ！」
 CID	CID
 “Which way?”	「どっちだ……！？」
-	CID
-	「え～い！
-“Goddamn, piece of $#@^% cannon!!”	くそキャノンが～っ！！」-
+CID	CID
+“Goddamn, piece of $#@^% cannon!!”	「え～い！
+	くそキャノンが～っ！！」-
 YUFFIE	YUFFIE
 “C'mon, c'mon, c'mon, c'mon---!”	「早く早く早く早く～っ！」
 VINCENT	VINCENT
@@ -407,7 +407,7 @@ Believe it!”	受け取りなさい！」
 CLOUD	CLOUD
 “…”	「……」
 Elena	イリーナ
-“What are you doing? Let's go!"	「な、何をしている！　行くわよ！」
+“What are you doing? Let's go!”	「な、何をしている！　行くわよ！」
 Okay, let's end this	わかった、ケリをつけよう
 No, let's not	やめておこう
 Reno	レノ
@@ -614,7 +614,8 @@ BARRET	BARRET
 	これでキャノンは
 	止まったわけだ……」
 BARRET	BARRET
-Hey! This is…” 「おっ！　こいつは……」 Received Missing Score"!	『ミッシングスコア』を手にいれた！
+“Hey! This is…”	「おっ！ こいつは……」
+Received Missing Score!	『ミッシングスコア』を手にいれた！
 BARRET	BARRET
 “This is great.	「こりゃあいいぜ。
 Hold on, Hojo!”	待ってろよ、宝条……！」
@@ -640,8 +641,8 @@ BARRET	BARRET
 CLOUD	CLOUD
 “We'll beat Sephiroth…”	「俺たちがセフィロスを倒して……」
 “Then, if we don't release	「そしてホーリーを解き放たないと
-the power of Holy in seven days…”	７日後にはこの星そのものが死んでしまう」
-“There won't be	
+the power of Holy in seven days…	７日後にはこの星そのものが死んでしまう」
+There won't be	
 a Planet left to protect.”	
 CLOUD	CLOUD
 “If we can't beat Sephiroth…”	「俺たちがセフィロスを倒せない……」
@@ -678,10 +679,10 @@ CLOUD	CLOUD
 fighting for ourselves.”	戦っているんだ」
 “For ourselves…and that someone…	「自分と……自分が大切にしている
 something…whatever	誰か？　何か？　そのために戦う」
-it is, that's important to us.”	
-“That's what we're fighting for.”	「そのために星を救う戦いを
-“That's why we keep up this	続けているんだ」
-battle for the Planet.”	
+it is, that's important to us.	
+That's what we're fighting for.	
+“That's why we keep up this	「そのために星を救う戦いを
+battle for the Planet.”	続けているんだ」
 BARRET	BARRET
 “You're right…”	「たしかに……」
 “It sounds cool sayin' it's	「星を救うってのは、なんとなく
@@ -716,20 +717,20 @@ CID	CID
 “Meteor's gonna kill us all anyway.	「メテオでどうせ死んじまう。
 Let's just forget any useless struggling!”	ムダなあがきはやめようってよ！」
 CLOUD	CLOUD
-“I know why I'm fighting.”	「俺は自分が戦う理由を知っている。
-“I'm fighting to save the Planet,	まぎれもなく、星を救うために戦う」
+“I know why I'm fighting.	「俺は自分が戦う理由を知っている。
+I'm fighting to save the Planet,	まぎれもなく、星を救うために戦う」
 and that's that.”	
 “But besides that, there's	「でも、その中には個人的な……
-something personal, too…”	とても個人的な俺の想いがあるんだ」
-“A very personal memory that I have.”	
-“What about you all?”	「みんなは……どうだ？
-“I want all of you to find	俺はみんなにも、そういうものを
+something personal, too…	とても個人的な俺の想いがあるんだ」
+A very personal memory that I have.”	
+“What about you all?	「みんなは……どうだ？
+I want all of you to find	俺はみんなにも、そういうものを
 that something within yourselves.”	見つけてほしいんだ」
-“If you don't find it,	
-then that's okay, too.”	
-“You can't fight without	「見つからなかったら仕方がない。
-a reason, right?”	理由なしでは戦えないだろ？
-“So, I won't hold it against you	だから、帰ってこなくても……仕方がないよ」
+“If you don't find it,	「見つからなかったら仕方がない。
+then that's okay, too.	理由なしでは戦えないだろ？」
+You can't fight without	
+a reason, right?”	
+“So, I won't hold it against you	「だから、帰ってこなくても……仕方がないよ」
 if you don't come back.”	
 CLOUD	CLOUD
 “What are you going to do, TIFA?”	「TIFAはどうする？」
@@ -777,7 +778,7 @@ TIFA	TIFA
 “…sniff…you probably don't remember this…”	「クスッ……。CLOUDは知らないって
 	言うかもしれないけど……」
 “But deep in my heart	「でも、胸のずっと奥の方で
-I heard you calling my name…4	あなたの声が私の名を呼んでる……。
+I heard you calling my name…	あなたの声が私の名を呼んでる……。
 Or at least I thought I did…”	そんな気がしたんだ……」
 CLOUD	CLOUD
 “Yeah…	「ああ……。あのとき俺にも
@@ -803,14 +804,14 @@ But…”	でも……」
 to do what we can.	とにかく、できることをやるだけさ。
 And believe in ourselves…”	自分自身を信じて……」
 CLOUD	CLOUD
-“Someday we'll find the answer.4	「ライフストリームのなかで
-Right, TIFA?”	TIFAにそう教えられたよ」
-“That's what I learned from you	
+“Someday we'll find the answer.	「ライフストリームのなかで
+Right, TIFA?	TIFAにそう教えられたよ」
+That's what I learned from you	
 when I was in the Lifestream.”	
 TIFA	TIFA
 “Yes…that's right…”	「うん……そうだね……」
 CLOUD	CLOUD
-“Hey TIFA…I…*	「なあ、TIFA……。俺……。
+“Hey TIFA… I…	「なあ、TIFA……。俺……。
 There were so many things I	TIFAに話したいことが
 wanted to say to you.”	たくさんあったんだ……」
 CLOUD	CLOUD
@@ -823,7 +824,7 @@ that tell people what you're thinking…”	言葉だけじゃないよ……」
 CLOUD	CLOUD
 “…”	「TIFA………」
 CLOUD	CLOUD
-“I'll find the answer someday.4	「答えは、いつかきっと見つかるさ。
+“I'll find the answer someday.	「答えは、いつかきっと見つかるさ。
 As long as I keep trying.”	あきらめさえしなければ」
 CLOUD	CLOUD
 “We've got a big battle tomorrow,	「明日の戦いにそなえて
@@ -834,8 +835,8 @@ I guess you're right…”	………」
 CLOUD	CLOUD
 “I see…”	「そうか……」
 CLOUD	CLOUD
-“I think I've heard it, too.”	「俺も、聞いたような気がするな。
-“Then,	あの時、TIFAの声を……」
+“I think I've heard it, too.	「俺も、聞いたような気がするな。
+Then,	あの時、TIFAの声を……」
 it was TIFA's voice…”	
 Highwind – Before the Decisive Battle	決戦前　ハイウインド
 CLOUD	CLOUD
@@ -847,8 +848,8 @@ CLOUD	CLOUD
 “Sorry. Did I wake you?	「ゴメン。おこしちゃったか……。
 It's almost dawn, TIFA.”	もうすぐ夜が明けるよ、TIFA」
 TIFA	TIFA
-“Umm…4	「うん……。あの……
-G, good morning…CLOUD.”	お、おはよう……CLOUD」
+“Umm…	「うん……。あの……
+G, good morning… CLOUD.”	お、おはよう……CLOUD」
 TIFA	TIFA
 “Just a little longer…	「もうすこしだけ……
 A little bit longer…”	このままでいさせて……」
@@ -904,7 +905,7 @@ TIFA	TIFA
 “CLOUD!	「ね、CLOUD！
 Say everything'll be fine!”	だいじょうぶって言って！」
 CLOUD	CLOUD
-“Say everything'll be fine!”	「だいじょうぶだよ、TIFA」
+“Everything'll be fine!”	「だいじょうぶだよ、TIFA」
 TIFA	TIFA
 “Wow!”	「うわ～！」
 TIFA	TIFA
@@ -1023,10 +1024,10 @@ CID	CID
 “We can't let it go like this.”	「このままってわけにゃ
 	いかねえよな」
 CLOUD	CLOUD
-“…AERIS.”	「……AERIS、最後にほほえんだんだ」
-“She was smiling to the end.”	「その笑顔、俺たちがなんとかしないと
-“We can't just let it end with that	はりついたまま、動かない」
-smile, we have to do something.”	
+“…AERIS.	「……AERIS、最後にほほえんだんだ」
+She was smiling to the end.”	
+“We can't just let it end with that	「その笑顔、俺たちがなんとかしないと
+smile, we have to do something.”	はりついたまま、動かない」
 CLOUD	CLOUD
 “Let's all go together.”	「みんなで行こう」
 “Memories of AERIS…”	「AERISの想い……」
@@ -1039,54 +1040,49 @@ AERIS's memory.”
 CID	CID
 “Has anyone here changed their mind?”	「気が変わったってヤツ、いねえよな？」
 BARRET	BARRET
-What the hell was up with	「なあ、結、CLOUDは
-CLOUD anyway?	なんだったんだ？」
+“What the hell was up with	「なあ、結、CLOUDは
+CLOUD anyway?”	なんだったんだ？」
 CAIT SITH	CAIT SITH
-He was a Sephiroth-clone	「宝条が創り出した
-created by Hojo.	セフィロス・コピーですわな」
+“He was a Sephiroth-clone	「宝条が創り出した
+created by Hojo.”	セフィロス・コピーですわな」
 CID	CID
 They really make those?	「そんなもん、創れるのか？」
 CAIT SITH	CAIT SITH
 Well he wasn't made from scratch.	「ゼロから創ったんとは、ちゃいますやろ」
-They implanted Jenova cells	「きっと、普通の人間にジェノバ細胞を移植して
+“They implanted Jenova cells	「きっと、普通の人間にジェノバ細胞を移植して
 into a normal human being	魔晄づけにしたんやな」
-and then infused it with Mako energy.	
+and then infused it with Mako energy.”	
 RED XIII	RED XIII
 Well then, what is CLOUD?	「じゃあ、CLOUDは？」
 RED XIII	RED XIII
 But why only CLOUD?	「でも、どうしてCLOUDだけが……」
 CLOUD	CLOUD
 You guys!!	「みんな！！」
-CAIT SITH	CAIT SITH
-	「すんませんけど、この作りモンのボディで
-	がんばらせてもらいます」
-BARRET	BARRET
-	「さて……全員そろったな」
 YUFFIE	YUFFIE
 Geez…that's pretty lame.”	「おろ～っ……ひっどいなぁ」
 YUFFIE	YUFFIE
-I stuck in there even when I was	「船酔いに負けないで
+“I stuck in there even when I was	「船酔いに負けないで
 pukin' from bein' so seasick.	ここまで来たんだよ」
-But if you think I stuck	「最後の最後に抜けちゃって
+“But if you think I stuck	「最後の最後に抜けちゃって
 through all this	おいしいところはぜ～んぶ持っていかれるなんて
 just to make off with	絶対イヤだからね！」
 everything when the time's right,	
 forget it. That's not my style.”	
 CLOUD	CLOUD
-Thanks, everyone.”	「みんな、ありがとう」
+“Thanks, everyone.”	「みんな、ありがとう」
 BARRET	BARRET
-Ain't no one wanna be thanked by you!”	「おまえに感謝されてもよう」
+Ain't no one wanna be thanked by you!	「おまえに感謝されてもよう」
 CID	CID
-So, what's next.	「じゃ、なんだ。
+“So, what's next.	「じゃ、なんだ。
 Now that everyone's here.	全員そろったところでCLOUDさんよ
 What're you going to do?”	いっちょう決めてくれ」
 CLOUD	CLOUD
-This is our last battle.	「俺たちの最後の戦いだ。
+“This is our last battle.	「俺たちの最後の戦いだ。
 Our target is Sephiroth in	目標は北の大空洞のセフィロス！
 the Northern Cave!	
 So…”	さあ……」
 CLOUD	CLOUD
-Let's do it. Come on, everyone!”	「行くぜ、みんな！」
+“Let's do it. Come on, everyone!”	「行くぜ、みんな！」
 TIFA	TIFA
 “Let's do our best, CLOUD!”	「がんばろうね、CLOUD！」
 TIFA	TIFA
@@ -1155,8 +1151,8 @@ CLOUD	CLOUD
 “…I just can't say it that easy.”	「……そんな気やすめは言えないな」
 TIFA	TIFA
 “Now I feel like things are really	「あ、本当にだいじょうぶって
-going to be all right.”	気がした……ありがと、CLOUD」
-“Thanks, CLOUD.”	
+going to be all right.	気がした……ありがと、CLOUD」
+Thanks, CLOUD.”	
 TIFA	TIFA
 “You're right, things will be all right.”	「うん、だいじょうぶだよね」
 TIFA	TIFA
@@ -1216,8 +1212,8 @@ Hold me down with everything you got!!”	オレ様をしっかり押さえや�
 CID	CID
 “Geronimo!!”	「行っくぜ～！！」
 ( End Disc 2 )	【　ディスク２が終了しました　】
-Please do not open the CD drive	
-until further instructions.	指示があるまで、ディスクホルダーを開けないで下さい
+“Please do not open the CD drive	指示があるまで、ディスクホルダーを開けないで下さい
+until further instructions.”	
 BARRET	BARRET
 “C'mon, CLOUD!	「行くぞ、CLOUD！
 Don't #&$* around!”	もたもたしてらんねえ！」
@@ -1288,8 +1284,8 @@ for what I did when we first met.”	あやまりたかったな……」
 RED XIII	RED XIII
 “If I were more of an adult, perhaps	「オイラがもっと大人だったら……
 I would have a better idea of what to do?”	何か良い考えがうかぶのかな？」
-“Whew…I wish I could grow up.”	「はぅ……大人になりたいなぁ。
-“I wonder if after all this is over,	この旅が終わったら、大人になれるかな……」
+“Whew…I wish I could grow up.	「はぅ……大人になりたいなぁ。
+I wonder if after all this is over,	この旅が終わったら、大人になれるかな……」
 will I be an adult?”	
 RED XIII	RED XIII
 “Midgar…”	「ミッドガルか……」
@@ -1346,8 +1342,8 @@ VINCENT	VINCENT
 “Kill Sephiroth…	「セフィロスを倒す……
 Killing the son of my beloved woman…”	いとしい女性の息子を倒す……」
 “Am I on the verge of committing	「私はまた罪を犯そうとしているのか……
-another sin?”	それとも、見ているだけだった
-“Or am I atoning as best	私にできる、せめてものつぐないか……」
+another sin?	それとも、見ているだけだった
+Or am I atoning as best	私にできる、せめてものつぐないか……」
 I can for only standing by?”	
 VINCENT	VINCENT
 “Hojo…what a queer fellow.”	「宝条……不幸な男」
@@ -1360,8 +1356,8 @@ I understand…but…”	わかるが……しかし……」
 VINCENT	VINCENT
 “CLOUD…take the ship to	「CLOUD……船を大空洞へ」
 the Northern Cave.”	
-“The time for flying is now past.”	「空をかけめぐる時間は終わったのだ。
-“Our battlefield is now	今は地の底が我々の戦場……」
+“The time for flying is now past.	「空をかけめぐる時間は終わったのだ。
+Our battlefield is now	今は地の底が我々の戦場……」
 beneath the earth…”	
 “The gate to tomorrow is not	「天の光ではなく、地の底のやみこそが
 the light of heaven,	明日へのとびら……」
@@ -1422,7 +1418,7 @@ to safety in the slums by now.”	避難完了しますのや」
 CAIT SITH	CAIT SITH
 “But I won't forget,	「ボク、忘れません。
 no matter what happens.”	何があっても……」
-“Not about this here trip,	この旅のこと、みなさんのこと
+“Not about this here trip,	「この旅のこと、みなさんのこと
 or them folks--none of it!”	絶対、忘れへん！」
 CID	CID
 “I know how tough it is bein' a leader,	「やってみてわかったけどよ
@@ -1492,21 +1488,21 @@ asks her lover,”	聞くんだよな」
 “Do you really have to leave?”	『どうしても行くの？』
 CID	CID
 “And the guy says,”	「そしたら男がよ」
-“I made a promise.	『約束だから。
-The people I love are waiting.”	大好きな人たちが待ってるんだ』
-“…I don't understand.	『…………わからない。
-Not at all. But, take care of yourself.”	わからないけど……でも、絶対に死なないで』
-“Of course…I'll come back to you.	『もちろん……ここに帰ってくるよ。
+“I made a promise.	「『約束だから。
+The people I love are waiting.”	大好きな人たちが待ってるんだ』」
+“…I don't understand.	「『…………わからない。
+Not at all. But, take care of yourself.”	わからないけど……でも、絶対に死なないで』」
+“Of course…I'll come back to you.	「『もちろん……ここに帰ってくるよ。
 Even if you don't promise to wait. I'll return	約束なんかなくても待っていてくれる
-knowing you'll be here.”	人がいること、俺は知ってるから』
+knowing you'll be here.”	人がいること、俺は知ってるから』」
 CID	CID
 “I remember thinking when I heard those lines,”	「オレ様はよ、そのセリフ聞いて思ったぜ」
-What the hell's he talkin' about?	「ケッ、何言ってやがんだいってな。
+“What the hell's he talkin' about?	「ケッ、何言ってやがんだいってな。
 But, you know…now I'm not so sure…”	でもよ……今はよ……」
 “I think I understand…”	「今は、よくわかるぜ……」
 CID	CID
 “When this job's done,	「オレ様はあとひと仕事終わったら
-I'm landing the ship…yeah, that's what I'll do.”	船を降りるんだ………そうするぜ」
+I'm landing the ship… yeah, that's what I'll do.”	船を降りるんだ………そうするぜ」
 “Sorry, I'm in the middle of a very	「す、すいません。
 delicate operation!”	シビアでデリケートな作業中でっス！」
 “Ahhhhh!	「あああ！
