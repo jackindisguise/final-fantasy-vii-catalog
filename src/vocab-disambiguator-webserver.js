@@ -86,6 +86,7 @@ app.post("/disambiguated/:scene", function(req,res){
 				fs.readFile(inputFolder+file, function(err, data){
 					let json = JSON.parse(data);
 					let readable = [];
+					let newLines = [];
 					for(let i=0;i<json.length;i++){
 						if(smart[i] == -1) continue; // remove words marked for removal
 						let entry = json[i];
@@ -94,10 +95,11 @@ app.post("/disambiguated/:scene", function(req,res){
 						delete entry.definitions;
 						entry.definition = chosenDef;
 						readable.push(`${entry.word}\t${entry.root}\t${chosenDef}\t${entry.english}\t${entry.japanese}`);
+						newLines.push(entry);
 					}
 
 					fs.writeFileSync(outputFolder+name+".txt", readable.join("\r\n"), "utf8");
-					res.render("disambiguated", {scene:name, lines:json});
+					res.render("disambiguated", {scene:name, lines:newLines});
 				});	
 				return;
 			}

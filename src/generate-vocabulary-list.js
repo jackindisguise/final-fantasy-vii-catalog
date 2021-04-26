@@ -96,6 +96,7 @@ fs.readdir(inputFolder, async function(err, files){
 
 	console.log(`Scraping scenes for vocabulary...`);
 	for(let file of files){
+		if(file.indexOf(".txt") == -1) continue; // not a scene file
 		console.log(`\t${file}`)
 		let sceneLines = [];
 		let text = fs.readFileSync(inputFolder+file, "utf8");
@@ -113,77 +114,25 @@ fs.readdir(inputFolder, async function(err, files){
 					else reconstructed.push(tokens[k].word);
 				}
 				let token = tokens[j];
-				if(!token.root) continue; // fake words
+				if(!token.root) continue; // fake words?
 				if(lookupWords.contains(token.root)) continue; // ignore past searches
+				// i actually think I should remove this, since it could be necessary
+				// to disambiguate 2 words with the same root. but removing this
+				// makes the files too big. too much extra work. no thanks.
 				lookupWords.push(token.root);
-				if(!tokenIsBasic(token)) continue;
+				if(!tokenIsBasic(token)) continue; // not a verb, noun, adjective, or adverb
 				let search = lookup(`${token.root}`);
-				//console.log(`\tDisambiguating line ${i+1}/${lines.length}...`);
-				//console.log(`\t\tEnglish:\t${english}`);
-				//console.log(`\t\tJapanese:\t${reconstructed.join("")}`);
-				//console.log(`\t\tWord:\t\t${token.word} ('${token.root}' ${token.pos})`);
-				//console.log("");
-				if(search){
-					if(!search.length) {
-						//console.log("\t\tNo results.");
-						//console.log("");
-						continue;
-					}
-
-					//console.log("\t\tOptions");
-					//console.log("\t\t-------")
-					let definitions = [];
-					for(let k=0;k<search.length;k++){
-						let entry = search[k];
-						let word = formatWord(entry);
-						let def = formatSense(entry);
-						let display = word.kanji ? `${word.kanji}[${word.kana}]` : word.kana;
-						definitions.push(`${display} (${def.pos}) ${def.gloss}`);
-						//console.log(`\t\t${display} (${def.pos}) ${def.gloss}`);
-					}
-
-					sceneLines.push({word:token.word, root:token.root, definitions:definitions, english:english, japanese:reconstructed.join("")});
-
-					//console.log("\t\tPress enter or type 'skip' to skip this word.")
-					//console.log("\t\t-------");
-/*					let choice;
-
-					if(1){
-						while(true){
-							process.stdout.write("\t\tYour choice: "); // add line without break
-							let input = await readLine(); // read line from stdin
-							if(input == "skip\r\n" || input == "\r\n"){
-								break;
-							}
-							let num = new Number(input);
-							if(num<0 || num >= search.length || isNaN(num)) {
-								console.log(`\t\t${num} is out of bounds.`);
-								continue;
-							}
-
-							choice = search[num];
-							break;
-						}
-					}
-
-					if(!choice){
-						console.log("\t\tNo choice made. Skipping word.");
-						console.log("");
-						continue;
-					}
-
-					if(wordsFound.contains(choice.ent_seq)) { // ignore
-						console.log("\t\tIgnoring duplicate.");
-						console.log("");
-						continue;
-					}
-
-					wordsFound.push(choice.ent_seq);
-					let word = formatWord(choice);
-					let def = formatSense(choice);
-					sceneLines.push(`${word.kana}\t${word.kanji?word.kanji:""}\t${def.pos}\t${def.gloss}\t${english}\t${japanese}`)
-					console.log("");*/
+				if(!search.length) continue;
+				let definitions = [];
+				for(let k=0;k<search.length;k++){
+					let entry = search[k];
+					let word = formatWord(entry);
+					let def = formatSense(entry);
+					let display = word.kanji ? `${word.kanji}[${word.kana}]` : word.kana;
+					definitions.push(`${display} (${def.pos}) ${def.gloss}`);
 				}
+
+				sceneLines.push({word:token.word, root:token.root, definitions:definitions, english:english, japanese:reconstructed.join("")});
 			}
 
 		}

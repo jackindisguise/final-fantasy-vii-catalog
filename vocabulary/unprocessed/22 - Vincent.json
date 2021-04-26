@@ -6,7 +6,7 @@
 			"悪夢[あくむ] (n) nightmare, bad dream"
 		],
 		"english": "…To wake me from the nightmare",
-		"japanese": "……私を悪夢から呼び起こすのは"
+		"japanese": "……私を[悪夢]から呼び起こすのは"
 	},
 	{
 		"word": "呼び起こす",
@@ -15,7 +15,7 @@
 			"呼び起こす[よびおこす] (v5s, vt) to wake (someone) up (by calling for them), to awaken,to call (to mind), to bring back (memories), to evoke, to arouse (e.g. interest)"
 		],
 		"english": "…To wake me from the nightmare",
-		"japanese": "……私を悪夢から呼び起こすのは"
+		"japanese": "……私を悪夢から[呼び起こす]のは"
 	},
 	{
 		"word": "うなされ",
@@ -24,7 +24,7 @@
 			"魘される[うなされる] (v1, vi) to have a nightmare,to make a noise during a nightmare"
 		],
 		"english": "You were having a nightmare.",
-		"japanese": "ずいぶんうなされていたようだな"
+		"japanese": "ずいぶん[うなされ]ていたようだな"
 	},
 	{
 		"word": "顔色",
@@ -33,7 +33,7 @@
 			"顔色[かおいろ] (n) complexion, one's colour, one's color,countenance, expression, one's face"
 		],
 		"english": "…You don't look good.",
-		"japanese": "……顔色、悪いよ"
+		"japanese": "……[顔色]、悪いよ"
 	},
 	{
 		"word": "始まり",
@@ -42,7 +42,7 @@
 			"始まり[はじまり] (n) origin, beginning"
 		],
 		"english": "This mansion is the beginning of your nightmare.",
-		"japanese": "この屋敷は悪夢の始まりの場所だ"
+		"japanese": "この屋敷は悪夢の[始まり]の場所だ"
 	},
 	{
 		"word": "出生",
@@ -51,7 +51,7 @@
 			"出生[しゅっしょう] (n, vs, adj-no) birth"
 		],
 		"english": "So Sephiroth knows he was created five years ago? And about the Jenova Project?",
-		"japanese": "セフィロスは５年前に自分の出生の秘密を知ったのだな？ジェノバ・プロジェクトのことを？"
+		"japanese": "セフィロスは５年前に自分の[出生]の秘密を知ったのだな？ジェノバ・プロジェクトのことを？"
 	},
 	{
 		"word": "現し",
@@ -60,7 +60,7 @@
 			"表す[あらわす] (v5s, vt) to represent, to signify, to stand for,to reveal, to show, to display,to express,to make widely known"
 		],
 		"english": "…He was missing, but has just recently reappeared.",
-		"japanese": "……以来、行方不明だったが最近姿を現した"
+		"japanese": "……以来、行方不明だったが最近姿を[現し]た"
 	},
 	{
 		"word": "製作所",
@@ -69,7 +69,7 @@
 			"製作所[せいさくしょ] (n) works, factory, plant"
 		],
 		"english": "I was with…Shinra Manufacturing in Administrative Research, also known as--the Turks.",
-		"japanese": "私は……元神羅製作所総務部調査課通称タークスの……"
+		"japanese": "私は……元神羅[製作所]総務部調査課通称タークスの……"
 	},
 	{
 		"word": "総務",
@@ -78,7 +78,7 @@
 			"総務[そうむ] (n) general affairs, general business, manager, director, adjutant general"
 		],
 		"english": "I was with…Shinra Manufacturing in Administrative Research, also known as--the Turks.",
-		"japanese": "私は……元神羅製作所総務部調査課通称タークスの……"
+		"japanese": "私は……元神羅製作所[総務]部調査課通称タークスの……"
 	},
 	{
 		"word": "通称",
@@ -87,7 +87,7 @@
 			"通称[つうしょう] (n) popular name, common name, nickname, alias"
 		],
 		"english": "I was with…Shinra Manufacturing in Administrative Research, also known as--the Turks.",
-		"japanese": "私は……元神羅製作所総務部調査課通称タークスの……"
+		"japanese": "私は……元神羅製作所総務部調査課[通称]タークスの……"
 	},
 	{
 		"word": "チーム",
@@ -96,7 +96,7 @@
 			"チーム (n) team"
 		],
 		"english": "She was an assistant to Professor Gast of the Jenova Project. Beautiful…Lucrecia.",
-		"japanese": "ジェノバ・プロジェクトチームの責任者ガスト博士の助手。美しい……ルクレツィア"
+		"japanese": "ジェノバ・プロジェクト[チーム]の責任者ガスト博士の助手。美しい……ルクレツィア"
 	},
 	{
 		"word": "助手",
@@ -105,7 +105,7 @@
 			"助手[じょしゅ] (n) assistant, helper,assistant (to a professor)"
 		],
 		"english": "She was an assistant to Professor Gast of the Jenova Project. Beautiful…Lucrecia.",
-		"japanese": "ジェノバ・プロジェクトチームの責任者ガスト博士の助手。美しい……ルクレツィア"
+		"japanese": "ジェノバ・プロジェクトチームの責任者ガスト博士の[助手]。美しい……ルクレツィア"
 	},
 	{
 		"word": "人体",
@@ -115,7 +115,7 @@
 			"人体[じんてい] (n) personal appearance, looks"
 		],
 		"english": "…A human experiment?",
-		"japanese": "…………人体実験？"
+		"japanese": "…………[人体]実験？"
 	},
 	{
 		"word": "中止",
@@ -124,7 +124,7 @@
 			"中止[ちゅうし] (n, vs) suspension, stoppage, discontinuance, interruption"
 		],
 		"english": "There was no way to cancel the experiment.",
-		"japanese": "実験を中止させることができなかった"
+		"japanese": "実験を[中止]させることができなかった"
 	},
 	{
 		"word": "思いとどまら",
@@ -133,7 +133,7 @@
 			"思いとどまる[おもいとどまる] (v5r, vt) to give up (a plan or idea), to desist from (doing)"
 		],
 		"english": "I couldn't stop her.",
-		"japanese": "彼女に思いとどまらせることができなかった"
+		"japanese": "彼女に[思いとどまら]せることができなかった"
 	},
 	{
 		"word": "犯し",
@@ -142,7 +142,7 @@
 			"犯す[おかす] (v5s, vt) to commit (e.g. crime), to perpetrate, to make (e.g. mistake),to break (e.g. rule), to violate, to transgress, to contravene,to rape, to violate, to ravish, to deflower"
 		],
 		"english": "That was my sin.",
-		"japanese": "それが私が犯した罪だ"
+		"japanese": "それが私が[犯し]た罪だ"
 	},
 	{
 		"word": "けいする",
@@ -152,7 +152,7 @@
 			"刑する[けいする] (vs-s, vt) to punish (esp. with death)"
 		],
 		"english": "I let the one I loved, the one I respected most, face the worst.",
-		"japanese": "愛する、いや、そんけいする女性を恐ろしいめにあわせてしまった"
+		"japanese": "愛する、いや、そん[けいする]女性を恐ろしいめにあわせてしまった"
 	},
 	{
 		"word": "恐ろしい",
@@ -161,7 +161,7 @@
 			"恐ろしい[おそろしい] (adj-i) terrible, dreadful, terrifying, frightening, frightened,surprising, startling, tremendous, amazing"
 		],
 		"english": "I let the one I loved, the one I respected most, face the worst.",
-		"japanese": "愛する、いや、そんけいする女性を恐ろしいめにあわせてしまった"
+		"japanese": "愛する、いや、そんけいする女性を[恐ろしい]めにあわせてしまった"
 	},
 	{
 		"word": "ねとる",
@@ -170,7 +170,7 @@
 			"寝とる[ねとる] (v5r, vt) to steal another's spouse, to steal another's lover"
 		],
 		"english": "You think that's punishing yourself? You're just sleeping.",
-		"japanese": "そんなんでつぐないのつもりかいな？ねとるだけやないか"
+		"japanese": "そんなんでつぐないのつもりかいな？[ねとる]だけやないか"
 	},
 	{
 		"word": "つま",
@@ -181,7 +181,7 @@
 			"端[つま] (n) edge, tip, end,gable wall,gable"
 		],
 		"english": "OK. Boring story no.1.",
-		"japanese": "やっぱ、つま～んない話"
+		"japanese": "やっぱ、[つま]～んない話"
 	},
 	{
 		"word": "いずれ",
@@ -190,7 +190,7 @@
 			"何れ[いずれ] (pn) where, which, who,anyway, anyhow, at any rate,sooner or later, eventually, one of these days, at some future date or time,both, either, any, all, whichever"
 		],
 		"english": "Dunno. But we're after him and Sephiroth. So, I guess sooner or later…",
-		"japanese": "さあな。でもヤツもセフィロスを追っているとなれば、いずれは……"
+		"japanese": "さあな。でもヤツもセフィロスを追っているとなれば、[いずれ]は……"
 	},
 	{
 		"word": "出くわす",
@@ -199,7 +199,7 @@
 			"出くわす[でくわす] (v5s, vi) to happen to meet, to come across"
 		],
 		"english": "Hmm, I don't know. But we're going after Hojo and Sephiroth. So, we might……",
-		"japanese": "さあ、どうかしら。でも宝条もセフィロスを追っているわ。だから、いつかは出くわすことに……"
+		"japanese": "さあ、どうかしら。でも宝条もセフィロスを追っているわ。だから、いつかは[出くわす]ことに……"
 	},
 	{
 		"word": "がわり",
@@ -208,7 +208,7 @@
 			"代わり[がわり] (suf) substitute for ..."
 		],
 		"english": "That sure was a quick change of heart.",
-		"japanese": "ずいぶん急な心がわり、ね？"
+		"japanese": "ずいぶん急な心[がわり]、ね？"
 	},
 	{
 		"word": "どな",
@@ -217,7 +217,7 @@
 			"怒鳴る[どなる] (v5r, vi) to shout (in anger), to yell"
 		],
 		"english": "What?",
-		"japanese": "どないやねん"
+		"japanese": "[どな]いやねん"
 	},
 	{
 		"word": "強引",
@@ -226,7 +226,7 @@
 			"強引[ごういん] (adj-na, n) overbearing, coercive, pushy, forcible, high-handed"
 		],
 		"english": "Hey, hold on sleepy. You're pretty damn pushy!",
-		"japanese": "オイオイ、強引だぜ！"
+		"japanese": "オイオイ、[強引]だぜ！"
 	},
 	{
 		"word": "何かと",
@@ -235,6 +235,6 @@
 			"何かと[なにかと] (adv) one way or another"
 		],
 		"english": "Being a former Turk, I may be of help…",
-		"japanese": "元タークスと言うことで何かと力にもなれると思うが……"
+		"japanese": "元タークスと言うことで[何かと]力にもなれると思うが……"
 	}
 ]

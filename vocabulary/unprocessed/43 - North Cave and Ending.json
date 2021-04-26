@@ -1,0 +1,300 @@
+[
+	{
+		"word": "火口",
+		"root": "火口",
+		"definitions": [
+			"火口[ひぐち] (n) burner, nozzle, origin of a fire",
+			"火口[かこう] (n) crater, caldera,burner (e.g. on a furnace)",
+			"火口[ほくち] (n) tinder, touchwood, charcloth"
+		],
+		"english": "Northern Cave Crater",
+		"japanese": "大空洞[火口]"
+	},
+	{
+		"word": "スティール",
+		"root": "スティール",
+		"definitions": [
+			"スチール (n) steel,steal (baseball, basketball),still (picture)"
+		],
+		"english": "Received \"Mystile\"!",
+		"japanese": "『ミ[スティール]』を手にいれた！"
+	},
+	{
+		"word": "クリスタル",
+		"root": "クリスタル",
+		"definitions": [
+			"クリスタル (n) crystal"
+		],
+		"english": "Received \"Save Crystal\"!",
+		"japanese": "『セーブ[クリスタル]』を手にいれた！"
+	},
+	{
+		"word": "よじ登る",
+		"root": "よじ登る",
+		"definitions": [
+			"よじ登る[よじのぼる] (v5r, vi) to climb, to clamber (over, up), to scramble (up), to scale, to claw one's way up"
+		],
+		"english": "Climb up",
+		"japanese": "[よじ登る]"
+	},
+	{
+		"word": "つれ",
+		"root": "つれ",
+		"definitions": [
+			"連れ[つれ] (n, vs) companion, company"
+		],
+		"english": "Welcome! Everyone's waiting for you.",
+		"japanese": "お[つれ]さまです！皆さんが、中でお待ちです"
+	},
+	{
+		"word": "シールド",
+		"root": "シールド",
+		"definitions": [
+			"シールド (n, vs) shield"
+		],
+		"english": "Received \"Shield\" Materia!",
+		"japanese": "『[シールド]』のマテリアを手にいれた！"
+	},
+	{
+		"word": "インペリアル",
+		"root": "インペリアル",
+		"definitions": [
+			"インペリアル (adj-no) imperial"
+		],
+		"english": "Received \"Imperial Guard\"!",
+		"japanese": "『[インペリアル]ガード』を手にいれた！"
+	},
+	{
+		"word": "別れ道",
+		"root": "別れ道",
+		"definitions": [
+			"分かれ道[わかれみち] (n) branch, forked road, crossroads, branch road, parting of the ways, turning point"
+		],
+		"english": "Another fork in the road…",
+		"japanese": "また、[別れ道]か……"
+	},
+	{
+		"word": "命運",
+		"root": "命運",
+		"definitions": [
+			"命運[めいうん] (n) fate, doom"
+		],
+		"english": "All life on this Planet, indeed the very life of this Planet, is in our hands…",
+		"japanese": "この星のあらゆる生命いや、この星すべての[命運]はオイラたちに、かかってるんだね"
+	},
+	{
+		"word": "あえて",
+		"root": "あえて",
+		"definitions": [
+			"敢えて[あえて] (adv) purposely (of something needless, unexpected or seemingly counterproductive, etc.), daringly (doing something), deliberately, intentionally,not necessarily, not particularly, not especially,definitely not"
+		],
+		"english": "I'm so happy to have met you all, really! …sniff…",
+		"japanese": "みなさんに、[あえて]ほんまによかったわ……！"
+	},
+	{
+		"word": "コワい",
+		"root": "コワい",
+		"definitions": [
+			"怖い[こわい] (adj-i) scary, frightening, eerie, dreadful",
+			"強い[こわい] (adj-i) tough, stiff, hard,inflexible, obstinate, stubborn"
+		],
+		"english": "There's nothing to worry about. We're all in this together!",
+		"japanese": "[コワい]ことなんかあらへん。みぃ～んな、おるんやから"
+	},
+	{
+		"word": "せっかち",
+		"root": "せっかち",
+		"definitions": [
+			"せっかち (adj-na, n) hasty, impatient"
+		],
+		"english": "You sure are hasty.",
+		"japanese": "[せっかち]なヤツだ"
+	},
+	{
+		"word": "くじ",
+		"root": "くじ",
+		"definitions": [
+			"籤[くじ] (n) lottery, lot, raffle, draw",
+			"孔子[こうし] (n) Confucius",
+			"旧事[きゅうじ] (n) past events, bygones",
+			"公事[くじ] (n) political operations, (Heian Period) political operations and ceremonies of the Imperial Court, (Edo Period) civil suit"
+		],
+		"english": "You're so cruel, CLOUD.",
+		"japanese": "は[くじ]ょうやなぁ、CLOUDさん"
+	},
+	{
+		"word": "最下",
+		"root": "最下",
+		"definitions": [
+			"最下[さいか] (adj-na, n, adj-no) the lowest, the worst"
+		],
+		"english": "Bottom of Northern Cave",
+		"japanese": "大空洞[最下]部"
+	},
+	{
+		"word": "えい",
+		"root": "えい",
+		"definitions": [
+			"酔い[よい] (n) drunkenness, intoxication,motion sickness, travel sickness",
+			"英[えい] (n, n-pref, n-suf) Britain, British",
+			"穎[えい] (n) awn, glume",
+			"鋭[えい] (n) sharpness,sharp weapon, blade,fine soldier",
+			"鱝[えい] (n) ray (any fish of superorder Batoidea)",
+			"嬰[えい] (n, pref) sharp",
+			"裔[えい] (n) descendant, scion, lineage",
+			"翳[さしは] (n) large fan-shaped object held by an attendant and used to conceal the face of a noble, etc.",
+			"纓[えい] (n) tail (of a traditional Japanese cap),chinstrap",
+			"Ａ[エー] (n) A, a",
+			"栄[えい] (n) glory, prosperity"
+		],
+		"english": "Received \"Hero Drink\"!",
+		"japanese": "『[えい]ゆうのくすり』を手にいれた！"
+	},
+	{
+		"word": "くすり",
+		"root": "くすり",
+		"definitions": [
+			"薬[くすり] (n) medicine, pharmaceuticals, (legal) drugs, pill, ointment, salve,efficacious chemical (gunpowder, pesticide, etc.),(pottery) glaze,small bribe"
+		],
+		"english": "Received \"Hero Drink\"!",
+		"japanese": "『えいゆうの[くすり]』を手にいれた！"
+	},
+	{
+		"word": "総出",
+		"root": "総出",
+		"definitions": [
+			"総出[そうで] (n) appearing all together"
+		],
+		"english": "%#@^! They're comin' out in full force!",
+		"japanese": "チッ！　みなさん[総出]でおでむかえかよ！"
+	},
+	{
+		"word": "でむかえ",
+		"root": "でむかえる",
+		"definitions": [
+			"出迎える[でむかえる] (v1, vt) to meet, to greet"
+		],
+		"english": "%#@^! They're comin' out in full force!",
+		"japanese": "チッ！　みなさん総出でお[でむかえ]かよ！"
+	},
+	{
+		"word": "おいつく",
+		"root": "おいつく",
+		"definitions": [
+			"追いつく[おいつく] (v5k, vi) to catch up (with), to draw level, to pull even, to reach,to be compensated, to make up for one's losses"
+		],
+		"english": "You take two of us with you and go first. The rest'll catch up with ya later.",
+		"japanese": "CLOUD、おまえさんはあと２人くれぇ連れて先に行ってろ。残ったこっちもスグ[おいつく]からよ！"
+	},
+	{
+		"word": "もってこい",
+		"root": "もってこい",
+		"definitions": [
+			"持って来い[もってこい] (exp) just right, ideal, perfectly suitable,fetch!, bring me ..."
+		],
+		"english": "Hmm, this might be fun to pass time.",
+		"japanese": "フッ、ヒマつぶしには[もってこい]だな"
+	},
+	{
+		"word": "前足",
+		"root": "前足",
+		"definitions": [
+			"前足[まえあし] (n) forefoot, forefeet, foreleg, forelimb"
+		],
+		"english": "My front legs…my hind legs… my tail's about to rip off!!",
+		"japanese": "[前足]が……後ろ足が……シッポがちぎれそうだ！！"
+	},
+	{
+		"word": "後ろ足",
+		"root": "後ろ足",
+		"definitions": [
+			"後ろ足[うしろあし] (n) hind foot, hind-legs"
+		],
+		"english": "My front legs…my hind legs… my tail's about to rip off!!",
+		"japanese": "前足が……[後ろ足]が……シッポがちぎれそうだ！！"
+	},
+	{
+		"word": "ちぎれ",
+		"root": "ちぎれる",
+		"definitions": [
+			"千切れる[ちぎれる] (v1, vi) to be torn off, to come off,to be torn to pieces, to be torn to shreds"
+		],
+		"english": "My front legs…my hind legs… my tail's about to rip off!!",
+		"japanese": "前足が……後ろ足が……シッポが[ちぎれ]そうだ！！"
+	},
+	{
+		"word": "はいつくばっ",
+		"root": "はいつくばう",
+		"definitions": [
+			"這いつくばう[はいつくばう] (v5u, vi) to grovel, to go down on one's hands and knees"
+		],
+		"english": "Hoo-ok! I can't be foolin' around in this hell hole…",
+		"japanese": "ヘッ……！こんな穴ぐらの底でいつまでも[はいつくばっ]てられるかよ……"
+	},
+	{
+		"word": "きづく",
+		"root": "きづく",
+		"definitions": [
+			"気づく[きづく] (v5k, vi) to notice, to recognize, to recognise, to become aware of, to perceive, to realize, to realise"
+		],
+		"english": "We noticed a little late the trouble we were getting in…",
+		"japanese": "まちがいに[きづく]んがちぃ～と遅かったんかもしれん……"
+	},
+	{
+		"word": "がち",
+		"root": "がち",
+		"definitions": [
+			"雅致[がち] (n) artistry, good taste, elegance, grace",
+			"勝ち[がち] (suf) apt to do, liable to do, tend to do",
+			"がち (adj-na) serious, diligent, honest, earnest"
+		],
+		"english": "We noticed a little late the trouble we were getting in…",
+		"japanese": "まちがいにきづくん[がち]ぃ～と遅かったんかもしれん……"
+	},
+	{
+		"word": "凍りつい",
+		"root": "凍りつく",
+		"definitions": [
+			"凍りつく[こおりつく] (v5k, vi) to freeze to, to be frozen to,to freeze in place, to be still"
+		],
+		"english": "I was frozen in time… But now I feel as though my time is finally beginning!",
+		"japanese": "あの時に[凍りつい]た私の時間が、今ふたたび動きはじめる……！"
+	},
+	{
+		"word": "ふたたび",
+		"root": "ふたたび",
+		"definitions": [
+			"再び[ふたたび] (adv) again, once more, a second time"
+		],
+		"english": "I was frozen in time… But now I feel as though my time is finally beginning!",
+		"japanese": "あの時に凍りついた私の時間が、今[ふたたび]動きはじめる……！"
+	},
+	{
+		"word": "はざま",
+		"root": "はざま",
+		"definitions": [
+			"狭間[はざま] (n) interval, space, interstice, threshold,valley, gorge, ravine,loophole (in a wall), crenel, eyelet"
+		],
+		"english": "Sephiroth, now it's your time to sleep for the ages!!",
+		"japanese": "セフィロス、今度はおまえが時の[はざま]で眠りにつく番だ！！"
+	},
+	{
+		"word": "置きざり",
+		"root": "置きざり",
+		"definitions": [
+			"置き去り[おきざり] (n) leaving behind, desertion, abandonment"
+		],
+		"english": "That's it.",
+		"japanese": "不安やなんかはここに[置きざり]にしてさ"
+	},
+	{
+		"word": "容",
+		"root": "容",
+		"definitions": [
+			"形[かたち] (n) form, shape, figure,visage",
+			"顔[かんばせ] (n) countenance, visage,face, honor (honour), dignity"
+		],
+		"english": "An answer from the planet… the Promised Land…",
+		"japanese": "星からの[容]え….約束の地…."
+	}
+]

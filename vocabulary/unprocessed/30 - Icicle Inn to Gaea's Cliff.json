@@ -7,7 +7,7 @@
 			"１０分[じっぷん] (n) 10 minutes"
 		],
 		"english": "No, I can handle him! There's no way he can avoid my punch.",
-		"japanese": "いえ、私１人で十分よ！私のパンチをよけられるはずがないわ"
+		"japanese": "いえ、私１人で[十分]よ！私のパンチをよけられるはずがないわ"
 	},
 	{
 		"word": "わざと",
@@ -16,7 +16,7 @@
 			"態と[わざと] (adv) on purpose"
 		],
 		"english": "Why? Why didn't you try to duck?",
-		"japanese": "なぜ？わざと、よけなかった……"
+		"japanese": "なぜ？[わざと]、よけなかった……"
 	},
 	{
 		"word": "氷河",
@@ -25,7 +25,7 @@
 			"氷河[ひょうが] (n) glacier"
 		],
 		"english": "There's no way they can climb the Great Glacier anyway.",
-		"japanese": "どうせ、あの大氷河を越えられるはずがないわ"
+		"japanese": "どうせ、あの大[氷河]を越えられるはずがないわ"
 	},
 	{
 		"word": "ほうりこん",
@@ -34,7 +34,7 @@
 			"放り込む[ほうりこむ] (v5m, vt) to throw into, to toss into"
 		],
 		"english": "Put them in some house in the village.",
-		"japanese": "どこかの家にほうりこんでおいて！"
+		"japanese": "どこかの家に[ほうりこん]でおいて！"
 	},
 	{
 		"word": "閉鎖",
@@ -43,7 +43,7 @@
 			"閉鎖[へいさ] (n, vs) closing, closure, shutdown, lockout"
 		],
 		"english": "This village is now under martial law!",
-		"japanese": "この村は、しばらく閉鎖だ！"
+		"japanese": "この村は、しばらく[閉鎖]だ！"
 	},
 	{
 		"word": "ぶっとばす",
@@ -52,7 +52,7 @@
 			"ぶっ飛ばす[ぶっとばす] (v5s, vt) to knock (someone) to their feet, to knock down,to send flying, to strike, to fling, to fire,to drive away (one's sorrows, worries, etc.), to dispel,to drive at terrific speed, to barrel along"
 		],
 		"english": "(Kick his butt)",
-		"japanese": "（こいつをぶっとばす）"
+		"japanese": "（こいつを[ぶっとばす]）"
 	},
 	{
 		"word": "さける",
@@ -62,7 +62,7 @@
 			"裂ける[さける] (v1, vi) to split, to tear, to burst, to be separated, to be divided"
 		],
 		"english": "The President's gonna be there. So, would you please just lay low for a while?",
-		"japanese": "本社から社長もいらっしゃる。混乱をさけるためだ。ガマンしてくれんか？"
+		"japanese": "本社から社長もいらっしゃる。混乱を[さける]ためだ。ガマンしてくれんか？"
 	},
 	{
 		"word": "下り坂",
@@ -71,7 +71,7 @@
 			"下り坂[くだりざか] (n) descent, downhill, decline, waning"
 		],
 		"english": "No, don't!! There's a steep grade, past here.",
-		"japanese": "ダメダメ！！この先は、すごい下り坂なんだ"
+		"japanese": "ダメダメ！！この先は、すごい[下り坂]なんだ"
 	},
 	{
 		"word": "スノーボード",
@@ -80,7 +80,7 @@
 			"スノーボード (n, vs) snowboard, snowboarding"
 		],
 		"english": "I guess I'm not too busy now. Do you want to learn how to ride a snowboard?",
-		"japanese": "よし、ヒマだからスノーボードの乗り方を教えてやろうか？"
+		"japanese": "よし、ヒマだから[スノーボード]の乗り方を教えてやろうか？"
 	},
 	{
 		"word": "坂",
@@ -89,7 +89,7 @@
 			"坂[さか] (n) slope, hill"
 		],
 		"english": "Anyhow, you'll need a snowboard to get down that hill. Want to learn how to ride one?",
-		"japanese": "それより、向こうの坂を下るにはスノーボードでもなければ無理だぜ。乗り方を教えてやろうか？"
+		"japanese": "それより、向こうの[坂]を下るにはスノーボードでもなければ無理だぜ。乗り方を教えてやろうか？"
 	},
 	{
 		"word": "下る",
@@ -99,7 +99,7 @@
 			"下る[くだる] (v5r, vi) to descend, to go down, to come down,to be handed down (of an order, judgment, etc.),to pass (of time),to surrender, to capitulate,to be less than, to be inferior to,to have the runs, to have diarrhea,to pass (in stool), to be discharged from the body,to depreciate oneself, to be humble"
 		],
 		"english": "Anyhow, you'll need a snowboard to get down that hill. Want to learn how to ride one?",
-		"japanese": "それより、向こうの坂を下るにはスノーボードでもなければ無理だぜ。乗り方を教えてやろうか？"
+		"japanese": "それより、向こうの坂を[下る]にはスノーボードでもなければ無理だぜ。乗り方を教えてやろうか？"
 	},
 	{
 		"word": "行き倒れ",
@@ -108,7 +108,7 @@
 			"行き倒れ[いきだおれ] (n) person collapsed and dying (dead) in the street"
 		],
 		"english": "You won't make it without a snowboard and a map!!",
-		"japanese": "スノーボードと地図がなければきっと、この先で行き倒れになってしまうぞ！！"
+		"japanese": "スノーボードと地図がなければきっと、この先で[行き倒れ]になってしまうぞ！！"
 	},
 	{
 		"word": "果て",
@@ -117,7 +117,7 @@
 			"果て[はて] (n) the end, the extremity, the limit, the limits, the result"
 		],
 		"english": "There's a barrier at the North end of the crater! You shouldn't go any further.",
-		"japanese": "北の果てのクレーターにバリアが、はられているんだ！この先は、行かないほうがいいぜ"
+		"japanese": "北の[果て]のクレーターにバリアが、はられているんだ！この先は、行かないほうがいいぜ"
 	},
 	{
 		"word": "突き破っ",
@@ -126,7 +126,7 @@
 			"突き破る[つきやぶる] (v5r, vt) to break through, to penetrate, to pierce"
 		],
 		"english": "A bright light shattered the barrier at the crater! What in the world's goin' on!?",
-		"japanese": "とっても、まぶしい光がクレーターのバリアを突き破ったんだ！いったい、何が起こっているんだ！？"
+		"japanese": "とっても、まぶしい光がクレーターのバリアを[突き破っ]たんだ！いったい、何が起こっているんだ！？"
 	},
 	{
 		"word": "雪",
@@ -135,7 +135,7 @@
 			"雪[ゆき] (n) snow"
 		],
 		"english": "It seemed strange seeing the black cape in the snowy white.",
-		"japanese": "なんだか、白い雪の中で黒いマントが動くのが不気味だったな"
+		"japanese": "なんだか、白い[雪]の中で黒いマントが動くのが不気味だったな"
 	},
 	{
 		"word": "ソリ",
@@ -146,7 +146,7 @@
 			"橇[そり] (n) sleigh, sled, sledge"
 		],
 		"english": "Sledding's fun!",
-		"japanese": "ソリすべりは、たのしいよ"
+		"japanese": "[ソリ]すべりは、たのしいよ"
 	},
 	{
 		"word": "すべり",
@@ -156,7 +156,7 @@
 			"統べる[すべる] (v1, vt) to rule over, to govern, to command, to control"
 		],
 		"english": "Sledding's fun!",
-		"japanese": "ソリすべりは、たのしいよ"
+		"japanese": "ソリ[すべり]は、たのしいよ"
 	},
 	{
 		"word": "たのしい",
@@ -165,7 +165,7 @@
 			"楽しい[たのしい] (adj-i) enjoyable, fun, pleasant, happy, delightful"
 		],
 		"english": "Sledding's fun!",
-		"japanese": "ソリすべりは、たのしいよ"
+		"japanese": "ソリすべりは、[たのしい]よ"
 	},
 	{
 		"word": "かわせ",
@@ -175,7 +175,7 @@
 			"川瀬[かわせ] (n) rapids, shallows of a river"
 		],
 		"english": "Dodge that punch!",
-		"japanese": "パンチをかわせ！"
+		"japanese": "パンチを[かわせ]！"
 	},
 	{
 		"word": "ブレーキ",
@@ -184,7 +184,7 @@
 			"ブレーキ (n) brake"
 		],
 		"english": "Directional button [down]Brake",
-		"japanese": "【方向キーの下】　　ブレーキ"
+		"japanese": "【方向キーの下】　　[ブレーキ]"
 	},
 	{
 		"word": "気温",
@@ -193,7 +193,7 @@
 			"気温[きおん] (n) atmospheric temperature"
 		],
 		"english": "I can't live in this town anymore. It gets so cold here!",
-		"japanese": "気温がとても下がってしまってもう、この町には住めそうにないの"
+		"japanese": "[気温]がとても下がってしまってもう、この町には住めそうにないの"
 	},
 	{
 		"word": "引っ越し",
@@ -202,7 +202,7 @@
 			"引っ越し[ひっこし] (n, vs) moving (dwelling, office, etc.), changing residence"
 		],
 		"english": "I have to move again… I don't know where to start.",
-		"japanese": "また、引っ越ししなくちゃ……でも、何から手をつけていいのやら？"
+		"japanese": "また、[引っ越し]しなくちゃ……でも、何から手をつけていいのやら？"
 	},
 	{
 		"word": "ドーム",
@@ -211,7 +211,7 @@
 			"ドーム (n) dome"
 		],
 		"english": "The reason for the drop in temperature must be because of that dome of light at the Northern limits…",
-		"japanese": "こんなに気温が下がったのは北の果てにできた光のドームのせいにちがいないんだ……"
+		"japanese": "こんなに気温が下がったのは北の果てにできた光の[ドーム]のせいにちがいないんだ……"
 	},
 	{
 		"word": "登山",
@@ -220,7 +220,7 @@
 			"登山[とざん] (n, vs) mountain climbing"
 		],
 		"english": "The master is an experienced climber, you know.",
-		"japanese": "この家のおじぃさんは登山家だそうなの"
+		"japanese": "この家のおじぃさんは[登山]家だそうなの"
 	},
 	{
 		"word": "おば",
@@ -231,7 +231,7 @@
 			"小母[おば] (n) old lady, ma'am"
 		],
 		"english": "Grandma, don't sleep so close to the fire!",
-		"japanese": "おばぁちゃん火の近くで眠っちゃダメよ！"
+		"japanese": "[おば]ぁちゃん火の近くで眠っちゃダメよ！"
 	},
 	{
 		"word": "カゼ",
@@ -242,7 +242,7 @@
 			"カゼ (n) casein"
 		],
 		"english": "Grandma's been sick for a while and doesn't have much energy…",
-		"japanese": "おばぁちゃん、カゼぎみでねこのごろ元気がないのよ……"
+		"japanese": "おばぁちゃん、[カゼ]ぎみでねこのごろ元気がないのよ……"
 	},
 	{
 		"word": "ぎみ",
@@ -252,7 +252,7 @@
 			"君[ぎみ] (suf) suffix appended to somebody else's family members"
 		],
 		"english": "Grandma's been sick for a while and doesn't have much energy…",
-		"japanese": "おばぁちゃん、カゼぎみでねこのごろ元気がないのよ……"
+		"japanese": "おばぁちゃん、カゼ[ぎみ]でねこのごろ元気がないのよ……"
 	},
 	{
 		"word": "ついつい",
@@ -261,7 +261,7 @@
 			"ついつい (adv) unintentionally, unconsciously, by mistake, heedlessly, against one's better judgement (judgment)"
 		],
 		"english": "I just get SO comfortable.",
-		"japanese": "ついつい、イイ気持ちになってね"
+		"japanese": "[ついつい]、イイ気持ちになってね"
 	},
 	{
 		"word": "ダンナ",
@@ -270,7 +270,7 @@
 			"旦那[だんな] (n) master (of a house, shop, etc.),husband (informal),sir, boss, master, governor, [object Object],patron of a mistress, geisha, bar or nightclub hostess, sugar daddy,alms, almsgiving, almsgiver"
 		],
 		"english": "My husband left 20 years ago and still hasn't come back.",
-		"japanese": "私のダンナは２０年前にでかけたきりでまだ帰ってこないのよ"
+		"japanese": "私の[ダンナ]は２０年前にでかけたきりでまだ帰ってこないのよ"
 	},
 	{
 		"word": "でかけ",
@@ -279,7 +279,7 @@
 			"出かける[でかける] (v1, vi) to go out (e.g. on an excursion or outing), to leave, to depart, to start, to set out,to be about to leave, to be just going out"
 		],
 		"english": "My husband left 20 years ago and still hasn't come back.",
-		"japanese": "私のダンナは２０年前にでかけたきりでまだ帰ってこないのよ"
+		"japanese": "私のダンナは２０年前に[でかけ]たきりでまだ帰ってこないのよ"
 	},
 	{
 		"word": "ペケ",
@@ -288,7 +288,7 @@
 			"ばつ (n) x-mark,impossibility, futility, uselessness"
 		],
 		"english": "He should at least be at the foot of Gaea's Cliff. It's marked with a check on the map…",
-		"japanese": "地図に書いてあるペケ印のガイアの絶壁のふもとまで行っているばずなんだけど"
+		"japanese": "地図に書いてある[ペケ]印のガイアの絶壁のふもとまで行っているばずなんだけど"
 	},
 	{
 		"word": "ガイア",
@@ -297,7 +297,7 @@
 			"ガイア (n) Gaia (Greek goddess), Gaea"
 		],
 		"english": "He should at least be at the foot of Gaea's Cliff. It's marked with a check on the map…",
-		"japanese": "地図に書いてあるペケ印のガイアの絶壁のふもとまで行っているばずなんだけど"
+		"japanese": "地図に書いてあるペケ印の[ガイア]の絶壁のふもとまで行っているばずなんだけど"
 	},
 	{
 		"word": "絶壁",
@@ -306,7 +306,7 @@
 			"絶壁[ぜっぺき] (n) precipice, cliff,flat head"
 		],
 		"english": "He should at least be at the foot of Gaea's Cliff. It's marked with a check on the map…",
-		"japanese": "地図に書いてあるペケ印のガイアの絶壁のふもとまで行っているばずなんだけど"
+		"japanese": "地図に書いてあるペケ印のガイアの[絶壁]のふもとまで行っているばずなんだけど"
 	},
 	{
 		"word": "南方",
@@ -315,7 +315,7 @@
 			"南方[なんぽう] (n) the south, southward, southern direction,countries in the south (esp. Southeast Asia and the pre-WWII South Pacific Mandate)"
 		],
 		"english": "I heard there's a doctor on a Southern island somewhere. I sure wish he'd come here…cough…cough…",
-		"japanese": "南方の島にお医者さんがいるそうなんだけどこの町にも来てくれんかねぇ……ゴホゴホ"
+		"japanese": "[南方]の島にお医者さんがいるそうなんだけどこの町にも来てくれんかねぇ……ゴホゴホ"
 	},
 	{
 		"word": "ゴホゴホ",
@@ -324,7 +324,7 @@
 			"ごほごほ (adv, adv-to) coughing, hacking cough"
 		],
 		"english": "I heard there's a doctor on a Southern island somewhere. I sure wish he'd come here…cough…cough…",
-		"japanese": "南方の島にお医者さんがいるそうなんだけどこの町にも来てくれんかねぇ……ゴホゴホ"
+		"japanese": "南方の島にお医者さんがいるそうなんだけどこの町にも来てくれんかねぇ……[ゴホゴホ]"
 	},
 	{
 		"word": "近い",
@@ -333,7 +333,7 @@
 			"近い[ちかい] (adj-i) near, close, short (distance),close (in time), soon,close (relationship), friendly, intimate,closely related,similar, likeworthy, almost the same"
 		],
 		"english": "It's nearly impossible to reach the Northern limits without a map.",
-		"japanese": "北の果てに無事たどり着くためには地図がなければ不可能に近いんだ"
+		"japanese": "北の果てに無事たどり着くためには地図がなければ不可能に[近い]んだ"
 	},
 	{
 		"word": "ちゃっかり",
@@ -342,7 +342,7 @@
 			"ちゃっかり (adv, adv-to, vs) shrewd, smart, calculating, astute, sharp, cunning"
 		],
 		"english": "What nerve! You already tore down the map.",
-		"japanese": "おっ、ちゃっかりしてるなあ！もう地図をはがしてるんだな"
+		"japanese": "おっ、[ちゃっかり]してるなあ！もう地図をはがしてるんだな"
 	},
 	{
 		"word": "はがし",
@@ -351,7 +351,7 @@
 			"剥がす[はがす] (v5s, vt) to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect"
 		],
 		"english": "What nerve! You already tore down the map.",
-		"japanese": "おっ、ちゃっかりしてるなあ！もう地図をはがしてるんだな"
+		"japanese": "おっ、ちゃっかりしてるなあ！もう地図を[はがし]てるんだな"
 	},
 	{
 		"word": "ワクチン",
@@ -360,7 +360,7 @@
 			"ワクチン (n, adj-no) vaccine"
 		],
 		"english": "Received \"Vaccine\"!",
-		"japanese": "『ワクチン』を手にいれた！"
+		"japanese": "『[ワクチン]』を手にいれた！"
 	},
 	{
 		"word": "きたん",
@@ -372,7 +372,7 @@
 			"契丹[きったん] (n) Khitan people, Khitai, Kitan, Kidan"
 		],
 		"english": "We came from Costa del Sol to snowboard, but we're just about to leave!",
-		"japanese": "あたしたちぃ～コスタ・デル・ソルから～スノボしにきたんだけどぉ～もう、帰っちゃうのよ！"
+		"japanese": "あたしたちぃ～コスタ・デル・ソルから～スノボしに[きたん]だけどぉ～もう、帰っちゃうのよ！"
 	},
 	{
 		"word": "バーテン",
@@ -381,7 +381,7 @@
 			"バーテン (n) bartender"
 		],
 		"english": "Bartender",
-		"japanese": "バーテン"
+		"japanese": "[バーテン]"
 	},
 	{
 		"word": "雪女",
@@ -390,7 +390,7 @@
 			"雪女[ゆきおんな] (n) snow woman"
 		],
 		"english": "I've heard there's a snow woman at the Great Glacier that hates hot springs…",
-		"japanese": "なんでも、この村の北の大氷河には温泉ぎらいの雪女がいるらしいとか……"
+		"japanese": "なんでも、この村の北の大氷河には温泉ぎらいの[雪女]がいるらしいとか……"
 	},
 	{
 		"word": "迷信",
@@ -399,7 +399,7 @@
 			"迷信[めいしん] (n, adj-no, vs) superstition, superstitious belief"
 		],
 		"english": "But I think it's just a myth to scare off visitors.",
-		"japanese": "いやぁ、これは旅人を驚かせるためのたんなる迷信だと思うんですがね"
+		"japanese": "いやぁ、これは旅人を驚かせるためのたんなる[迷信]だと思うんですがね"
 	},
 	{
 		"word": "つかり",
@@ -408,7 +408,7 @@
 			"浸かる[つかる] (v5r, vi) to be submerged, to be soaked,to be pickled, to be well seasoned,to be totally immersed (in a condition, e.g. laziness)"
 		],
 		"english": "What an idiot. Is he thinkin' 'bout going to that hot spring?",
-		"japanese": "バカだよな、あの温泉にでもつかりに行くつもりなのかな？"
+		"japanese": "バカだよな、あの温泉にでも[つかり]に行くつもりなのかな？"
 	},
 	{
 		"word": "大昔",
@@ -417,7 +417,7 @@
 			"大昔[おおむかし] (n-adv, n-t) great antiquity, old-fashioned, long ago"
 		],
 		"english": "Something huge must've fallen from the sky a long time ago!",
-		"japanese": "大昔に空から何かが降ってきたにちがいないよ！"
+		"japanese": "[大昔]に空から何かが降ってきたにちがいないよ！"
 	},
 	{
 		"word": "つまんない",
@@ -426,7 +426,7 @@
 			"つまんない (adj-i) dull, boring"
 		],
 		"english": "Am I boring you?",
-		"japanese": "オレの話ってつまんないのかな～？"
+		"japanese": "オレの話って[つまんない]のかな～？"
 	},
 	{
 		"word": "ビデオ",
@@ -435,7 +435,7 @@
 			"ビデオ (n) video"
 		],
 		"english": "Play the Video?",
-		"japanese": "ビデオを再生しますか？"
+		"japanese": "[ビデオ]を再生しますか？"
 	},
 	{
 		"word": "再生",
@@ -444,7 +444,7 @@
 			"再生[さいせい] (n, vs, adj-no) resuscitation, regeneration, restoration to life,reformation, rehabilitation,playback, regeneration (sound, etc.), view (of a video clip),reclamation, recovery,rebirth, reincarnation"
 		],
 		"english": "Play the Video?",
-		"japanese": "ビデオを再生しますか？"
+		"japanese": "ビデオを[再生]しますか？"
 	},
 	{
 		"word": "プライベート",
@@ -453,7 +453,7 @@
 			"プライベート (n) private,privacy"
 		],
 		"english": "Confidential",
-		"japanese": "プライベート"
+		"japanese": "[プライベート]"
 	},
 	{
 		"word": "生後",
@@ -462,7 +462,7 @@
 			"生後[せいご] (n-adv, n-t) post-natal, since birth"
 		],
 		"english": "Daughter's Record: 10th Day after birth",
-		"japanese": "娘の記録・生後１０日め"
+		"japanese": "娘の記録・[生後]１０日め"
 	},
 	{
 		"word": "読み",
@@ -471,7 +471,7 @@
 			"読み[よみ] (n) reading"
 		],
 		"english": "Ifalna, what exactly does Planet-reading entail?",
-		"japanese": "イファルナさん星読みとは、どういうことなのですか？"
+		"japanese": "イファルナさん星[読み]とは、どういうことなのですか？"
 	},
 	{
 		"word": "治す",
@@ -480,7 +480,7 @@
 			"治す[なおす] (aux-v) to cure, to heal,to fix, to correct, to repair,to do over again,to replace, to put back as it was,to convert (into a different state), to transform"
 		],
 		"english": "Do the Ancients, rather, the Cetra, have special powers to heal the Planet?",
-		"japanese": "古代種、いやセトラは星を治す特別な力を持っているのですか？"
+		"japanese": "古代種、いやセトラは星を[治す]特別な力を持っているのですか？"
 	},
 	{
 		"word": "雪どけ",
@@ -489,7 +489,7 @@
 			"雪解け[ゆきどけ] (n, vs) snow thaw, thawing"
 		],
 		"english": "Hmm, even here so close to the North Cave, the snow never melts. Is that because the Planet's energy is gathered here to heal its injury?",
-		"japanese": "ふむ、北の大空洞に近いこの地に雪どけの時期がこないのは星の傷にエネルギーが集中しているからなのか"
+		"japanese": "ふむ、北の大空洞に近いこの地に[雪どけ]の時期がこないのは星の傷にエネルギーが集中しているからなのか"
 	},
 	{
 		"word": "時期",
@@ -498,7 +498,7 @@
 			"時期[じき] (n) time, season, period, phase, stage"
 		],
 		"english": "Hmm, even here so close to the North Cave, the snow never melts. Is that because the Planet's energy is gathered here to heal its injury?",
-		"japanese": "ふむ、北の大空洞に近いこの地に雪どけの時期がこないのは星の傷にエネルギーが集中しているからなのか"
+		"japanese": "ふむ、北の大空洞に近いこの地に雪どけの[時期]がこないのは星の傷にエネルギーが集中しているからなのか"
 	},
 	{
 		"word": "およそ",
@@ -507,7 +507,7 @@
 			"凡そ[およそ] (n, adj-no) about, roughly, approximately,generally, on the whole, as a rule,completely, quite, entirely, altogether, totally, not at all (with neg. verb),outline, gist"
 		],
 		"english": "2000 years ago, our ancestors, the Cetra, heard the cries of the Planet.",
-		"japanese": "およそ２０００年前わたしたちセトラの祖先はこの星の悲鳴を聞いたそうです"
+		"japanese": "[およそ]２０００年前わたしたちセトラの祖先はこの星の悲鳴を聞いたそうです"
 	},
 	{
 		"word": "祖先",
@@ -516,7 +516,7 @@
 			"祖先[そせん] (n) ancestor"
 		],
 		"english": "2000 years ago, our ancestors, the Cetra, heard the cries of the Planet.",
-		"japanese": "およそ２０００年前わたしたちセトラの祖先はこの星の悲鳴を聞いたそうです"
+		"japanese": "およそ２０００年前わたしたちセトラの[祖先]はこの星の悲鳴を聞いたそうです"
 	},
 	{
 		"word": "表現",
@@ -525,7 +525,7 @@
 			"表現[ひょうげん] (n, vs) expression, presentation,representation, notation"
 		],
 		"english": "…I can't explain it very well, but it's like having a conversation with the Planet…",
-		"japanese": "……うまく表現できませんけど星と対話することなのです……"
+		"japanese": "……うまく[表現]できませんけど星と対話することなのです……"
 	},
 	{
 		"word": "対話",
@@ -534,7 +534,7 @@
 			"対話[たいわ] (n, vs, adj-no) dialogue, discussion, conversation, interaction"
 		],
 		"english": "…I can't explain it very well, but it's like having a conversation with the Planet…",
-		"japanese": "……うまく表現できませんけど星と対話することなのです……"
+		"japanese": "……うまく表現できませんけど星と[対話]することなのです……"
 	},
 	{
 		"word": "絶やさ",
@@ -543,7 +543,7 @@
 			"絶やす[たやす] (v5s, vt) to exterminate, to eradicate, to wipe out, to put an end to,to let (fire) go out, to let die (e.g. flowers), to run out of"
 		],
 		"english": "The Cetra tried desperately to cultivate the land so as not to diminish the needed energy…",
-		"japanese": "セトラたちは必要とされるエネルギーを絶やさぬために必死で土地を育てようとしたのですが……"
+		"japanese": "セトラたちは必要とされるエネルギーを[絶やさ]ぬために必死で土地を育てようとしたのですが……"
 	},
 	{
 		"word": "必死",
@@ -552,7 +552,7 @@
 			"必死[ひっし] (n) frantic, frenetic, desperate,inevitable death,brinkmate (inevitable checkmate)"
 		],
 		"english": "The Cetra tried desperately to cultivate the land so as not to diminish the needed energy…",
-		"japanese": "セトラたちは必要とされるエネルギーを絶やさぬために必死で土地を育てようとしたのですが……"
+		"japanese": "セトラたちは必要とされるエネルギーを絶やさぬために[必死]で土地を育てようとしたのですが……"
 	},
 	{
 		"word": "費やす",
@@ -561,7 +561,7 @@
 			"費やす[ついやす] (v5s, vt) to spend, to expend, to consume,to waste, to squander, to throw away,to devote"
 		],
 		"english": "Yes, the energy that was needed to heal the Planet withered away the land…then the Planet…",
-		"japanese": "ええ、傷の回復に費やすエネルギーは急速に土地を枯れさせ…そして星は…"
+		"japanese": "ええ、傷の回復に[費やす]エネルギーは急速に土地を枯れさせ…そして星は…"
 	},
 	{
 		"word": "急速",
@@ -570,7 +570,7 @@
 			"急速[きゅうそく] (adj-na, n) rapid (e.g. progress)"
 		],
 		"english": "Yes, the energy that was needed to heal the Planet withered away the land…then the Planet…",
-		"japanese": "ええ、傷の回復に費やすエネルギーは急速に土地を枯れさせ…そして星は…"
+		"japanese": "ええ、傷の回復に費やすエネルギーは[急速]に土地を枯れさせ…そして星は…"
 	},
 	{
 		"word": "すすめ",
@@ -580,7 +580,7 @@
 			"進める[すすめる] (v1, vt) to advance, to move forward, to put (a clock, watch) forward,to carry forward (plans, work, etc.), to proceed with, to make progress in, to further, to advance, to hasten, to speed up,to raise, to elevate, to promote, to develop, to stimulate (e.g. one's appetite)"
 		],
 		"english": "The Planet tried to persuade the Cetra to leave the Knowlespole, but…",
-		"japanese": "星はセトラにノルズポルから離れるようにすすめたそうです…でも"
+		"japanese": "星はセトラにノルズポルから離れるように[すすめ]たそうです…でも"
 	},
 	{
 		"word": "旅立ち",
@@ -589,7 +589,7 @@
 			"旅立ち[たびだち] (n, vs) setting off (on a trip)"
 		],
 		"english": "I'm all right… When the Cetra…were preparing to part with the land they loved…",
-		"japanese": "だいじょうぶです…セトラたちが…長年親しんだ土地から旅立ちの準備をしていたとき……"
+		"japanese": "だいじょうぶです…セトラたちが…長年親しんだ土地から[旅立ち]の準備をしていたとき……"
 	},
 	{
 		"word": "ウィルス",
@@ -598,7 +598,7 @@
 			"ウイルス (adj-no) virus,viral"
 		],
 		"english": "The Cetra were attacked by the virus and went mad… transforming into monsters.",
-		"japanese": "ウィルスに侵されたセトラたちは心を失い……そしてモンスターと化しました"
+		"japanese": "[ウィルス]に侵されたセトラたちは心を失い……そしてモンスターと化しました"
 	},
 	{
 		"word": "侵さ",
@@ -607,7 +607,7 @@
 			"侵す[おかす] (v5s, vt) to invade, to raid, to violate (airspace, etc.), to intrude, to trespass,to infringe, to encroach,to harm, to afflict, to affect"
 		],
 		"english": "The Cetra were attacked by the virus and went mad… transforming into monsters.",
-		"japanese": "ウィルスに侵されたセトラたちは心を失い……そしてモンスターと化しました"
+		"japanese": "ウィルスに[侵さ]れたセトラたちは心を失い……そしてモンスターと化しました"
 	},
 	{
 		"word": "化し",
@@ -616,7 +616,7 @@
 			"化す[かす] (v5s, vi) to change into, to convert to, to transform, to be reduced, to influence, to improve (someone)"
 		],
 		"english": "The Cetra were attacked by the virus and went mad… transforming into monsters.",
-		"japanese": "ウィルスに侵されたセトラたちは心を失い……そしてモンスターと化しました"
+		"japanese": "ウィルスに侵されたセトラたちは心を失い……そしてモンスターと[化し]ました"
 	},
 	{
 		"word": "兄",
@@ -628,7 +628,7 @@
 			"兄[このかみ] (n) eldest son,older brother, older sister,older person,head of a clan, head of a region,skilled craftsman"
 		],
 		"english": "That's when it appeared!",
-		"japanese": "その時、そのものは現れたのです！その姿は、亡き母の…亡き兄のものでした。それぞれに過去の幻影を見せるのです"
+		"japanese": "その時、そのものは現れたのです！その姿は、亡き母の…亡き[兄]のものでした。それぞれに過去の幻影を見せるのです"
 	},
 	{
 		"word": "あざむき",
@@ -637,7 +637,7 @@
 			"欺く[あざむく] (v5k, vt) to deceive, to delude, to trick, to fool,to be as ... as ... (e.g. \"as bright as day\", \"as beautiful as a rose\")"
 		],
 		"english": "It looked like…our…our dead mothers …and our dead brothers. Showing us specters of their past.",
-		"japanese": "その者は親しげな顔でセトラたちに近づき…あざむき…そして……ウィルスを…ウィルスを与えたのです"
+		"japanese": "その者は親しげな顔でセトラたちに近づき…[あざむき]…そして……ウィルスを…ウィルスを与えたのです"
 	},
 	{
 		"word": "部族",
@@ -646,7 +646,7 @@
 			"部族[ぶぞく] (n, adj-no) tribe, clan, house"
 		],
 		"english": "It first approached as a friend, deceived them, and finally… gave them the virus.",
-		"japanese": "その者は、ノルズポルと同じように別のセトラの部族に近づき………そしてまた…ウィルスを……"
+		"japanese": "その者は、ノルズポルと同じように別のセトラの[部族]に近づき………そしてまた…ウィルスを……"
 	},
 	{
 		"word": "生みだし",
@@ -655,7 +655,7 @@
 			"生み出す[うみだす] (v5s, vt) to create, to bring forth, to produce,to invent, to think up and bring into being,to give birth to, to bear"
 		],
 		"english": "It approached other Cetra clans… and infected them with…the virus.",
-		"japanese": "では、ウェポンとは星の意志が生みだした兵器ということですか？"
+		"japanese": "では、ウェポンとは星の意志が[生みだし]た兵器ということですか？"
 	},
 	{
 		"word": "少数",
@@ -664,7 +664,7 @@
 			"少数[しょうすう] (n, adj-no) minority, few"
 		],
 		"english": "Yes, Professor.",
-		"japanese": "少数の生き残ったセトラたちがジェノバに討ち勝ち、そして封印したのです"
+		"japanese": "[少数]の生き残ったセトラたちがジェノバに討ち勝ち、そして封印したのです"
 	},
 	{
 		"word": "討ち",
@@ -673,7 +673,7 @@
 			"撃つ[うつ] (v5t) to shoot (at),to attack, to defeat, to destroy, to avenge"
 		],
 		"english": "Yes, Professor.",
-		"japanese": "少数の生き残ったセトラたちがジェノバに討ち勝ち、そして封印したのです"
+		"japanese": "少数の生き残ったセトラたちがジェノバに[討ち]勝ち、そして封印したのです"
 	},
 	{
 		"word": "誤解",
@@ -682,7 +682,7 @@
 			"誤解[ごかい] (n, vs) misunderstanding"
 		],
 		"english": "I don't know… I can't hear the voice of the Planet well…",
-		"japanese": "博士がセトラだと誤解した者……ジェノバと名づけた者こそが……空から来た厄災なのです"
+		"japanese": "博士がセトラだと[誤解]した者……ジェノバと名づけた者こそが……空から来た厄災なのです"
 	},
 	{
 		"word": "我が家",
@@ -691,7 +691,7 @@
 			"我が家[わがや] (exp, n) one's house, one's home, one's family"
 		],
 		"english": "Who could that-? I was just about to…",
-		"japanese": "我が家のくつろぎの時間にまったく……"
+		"japanese": "[我が家]のくつろぎの時間にまったく……"
 	},
 	{
 		"word": "クス",
@@ -701,7 +701,7 @@
 			"屈す[くっす] (vs-c, vi) to yield, to give in, to be daunted, to shrink,to bend (knee, etc.),to subdue, to overpower,to feel down"
 		],
 		"english": "I feel so much better now, darling.",
-		"japanese": "クスクス……ええ、そうね"
+		"japanese": "[クス]クス……ええ、そうね"
 	},
 	{
 		"word": "とうに",
@@ -710,7 +710,7 @@
 			"疾うに[とうに] (adv) long ago, a long time ago, already"
 		],
 		"english": "Heh, heh, heh I've been searching for you, Ifalna… or should I say, Cetra!",
-		"japanese": "いやぁ、骨をおりました。あなたたちが、ここにいることぐらいとうにわかってたんですよ"
+		"japanese": "いやぁ、骨をおりました。あなたたちが、ここにいることぐらい[とうに]わかってたんですよ"
 	},
 	{
 		"word": "年間",
@@ -719,7 +719,7 @@
 			"年間[ねんかん] (n-suf) (period of) a year,during an era"
 		],
 		"english": "Long time no see, Professor Gast!",
-		"japanese": "でもね……２年間待ちました。私は新しいサンプルがほしかったんですよ……クックックッ"
+		"japanese": "でもね……２[年間]待ちました。私は新しいサンプルがほしかったんですよ……クックックッ"
 	},
 	{
 		"word": "わが子",
@@ -728,7 +728,7 @@
 			"我が子[わがこ] (exp, n) one's own child, one's own children"
 		],
 		"english": "Oh, I'm thinking of taping it on video.  But, the video's not working right…",
-		"japanese": "いえ、そんなことではないです。カワイイわが子をとるんですよ"
+		"japanese": "いえ、そんなことではないです。カワイイ[わが子]をとるんですよ"
 	},
 	{
 		"word": "テープ",
@@ -737,7 +737,7 @@
 			"テープ (n) tape"
 		],
 		"english": "I've already decided! If it's a girl, then it'll be AERIS. That's that!",
-		"japanese": "でしょ！？あっ、ビデオのテープがっ…………"
+		"japanese": "でしょ！？あっ、ビデオの[テープ]がっ…………"
 	},
 	{
 		"word": "飛び越し",
@@ -746,7 +746,7 @@
 			"飛び越す[とびこす] (v5s, vt) to leap over"
 		],
 		"english": "I guess we're still in one piece.",
-		"japanese": "なんとか、飛び越したようだな"
+		"japanese": "なんとか、[飛び越し]たようだな"
 	},
 	{
 		"word": "ずれ",
@@ -755,7 +755,7 @@
 			"ずれる (v1, vi) to slide, to slip off, to get dislocated, to be out of alignment, to get dislodged, to deviate, to shift (position), to be out of sync., to be slightly off, to be off-point"
 		],
 		"english": "I'm a little off.",
-		"japanese": "ちと、ずれたかな"
+		"japanese": "ちと、[ずれ]たかな"
 	},
 	{
 		"word": "ひろげ",
@@ -764,7 +764,7 @@
 			"広げる[ひろげる] (v1, vt) to spread, to extend, to expand, to enlarge, to widen, to broaden,to unfold, to open, to unroll, to unwrap,to scatter about, to spread around,to make flourish, to cause to prosper"
 		],
 		"english": "Then, let's look at the map. Just push [SWITCH].",
-		"japanese": "ほな、地図でも見よか。ええからはよひろげぇな。□ボタンや"
+		"japanese": "ほな、地図でも見よか。ええからはよ[ひろげ]ぇな。□ボタンや"
 	},
 	{
 		"word": "見てくれ",
@@ -773,7 +773,7 @@
 			"見てくれ[みてくれ] (n) appearance, outward show"
 		],
 		"english": "We should check it on the map. Press the [SWITCH].",
-		"japanese": "地図で確認すべきだな。□ボタンで見てくれ"
+		"japanese": "地図で確認すべきだな。□ボタンで[見てくれ]"
 	},
 	{
 		"word": "こごえ",
@@ -782,7 +782,7 @@
 			"凍える[こごえる] (v1, vi) to freeze (of one's body), to be frozen, to become numb (with cold), to be chilled"
 		],
 		"english": "It sure is cold. We'll freeze if we stay here any longer.",
-		"japanese": "それにしても、ものすごい寒さだあまり長くここにいるとこごえてしまうな"
+		"japanese": "それにしても、ものすごい寒さだあまり長くここにいると[こごえ]てしまうな"
 	},
 	{
 		"word": "凍っ",
@@ -791,7 +791,7 @@
 			"凍る[こおる] (v5r, vi) to freeze, to be frozen over, to congeal"
 		],
 		"english": "This is the only place not frozen.",
-		"japanese": "ここだけ凍っていないな"
+		"japanese": "ここだけ[凍っ]ていないな"
 	},
 	{
 		"word": "近寄ら",
@@ -800,7 +800,7 @@
 			"近寄る[ちかよる] (v5r, vi) to approach, to draw near"
 		],
 		"english": "And don't come back again.",
-		"japanese": "もう近寄らないでください"
+		"japanese": "もう[近寄ら]ないでください"
 	},
 	{
 		"word": "触れ",
@@ -809,7 +809,7 @@
 			"触れる[ふれる] (v1, vt) to touch, to feel,to experience, to come in contact with, to perceive,to touch on (a subject), to allude to, to refer to, to mention,to be in conflict with, to violate (law, copyright, etc.), to infringe,to proclaim, to make known, to spread (e.g. a rumour)"
 		],
 		"english": "Yeeew… You got a lot of nerve trying to touch me with the same dirty hands that touched that filthy hot spring!",
-		"japanese": "ああ……よくもあの汚い温泉にさわった手でこの私に触れたな"
+		"japanese": "ああ……よくもあの汚い温泉にさわった手でこの私に[触れ]たな"
 	},
 	{
 		"word": "ことに",
@@ -818,7 +818,7 @@
 			"殊に[ことに] (adv) especially, particularly, unusually, above all,additionally"
 		],
 		"english": "Why this?",
-		"japanese": "なんてことに……"
+		"japanese": "なんて[ことに]……"
 	},
 	{
 		"word": "つっぱしる",
@@ -827,7 +827,7 @@
 			"突っ走る[つっぱしる] (v5r, vi) to run swiftly, to dash, to rush, to race"
 		],
 		"english": "We're outta here!",
-		"japanese": "つっぱしる"
+		"japanese": "[つっぱしる]"
 	},
 	{
 		"word": "住みつい",
@@ -836,7 +836,7 @@
 			"住み着く[すみつく] (v5k, vi) to settle (in a place), to settle down"
 		],
 		"english": "Oh, I'm sorry, my name is Holzoff. I've lived here for 20 years.",
-		"japanese": "おっと失礼！　わたしの名は、ホルゾフ。この地に住みついて、もう２０年だ"
+		"japanese": "おっと失礼！　わたしの名は、ホルゾフ。この地に[住みつい]て、もう２０年だ"
 	},
 	{
 		"word": "山男",
@@ -845,7 +845,7 @@
 			"山男[やまおとこ] (n) giant, woodsman, alpinist"
 		],
 		"english": "Do you mind hearing some stories from a lonely climber?",
-		"japanese": "よければ、向こうの部屋でさびしい山男の独り言を聞いてくれんか？"
+		"japanese": "よければ、向こうの部屋でさびしい[山男]の独り言を聞いてくれんか？"
 	},
 	{
 		"word": "独り言",
@@ -854,7 +854,7 @@
 			"独り言[ひとりごと] (n) soliloquy, monologue, speaking to oneself"
 		],
 		"english": "Do you mind hearing some stories from a lonely climber?",
-		"japanese": "よければ、向こうの部屋でさびしい山男の独り言を聞いてくれんか？"
+		"japanese": "よければ、向こうの部屋でさびしい山男の[独り言]を聞いてくれんか？"
 	},
 	{
 		"word": "立ち話",
@@ -863,7 +863,7 @@
 			"立ち話[たちばなし] (n) talking while standing, standing around talking"
 		],
 		"english": "Why don't we go to the next room and sit down.",
-		"japanese": "立ち話もなんだから向こうの部屋に行こう"
+		"japanese": "[立ち話]もなんだから向こうの部屋に行こう"
 	},
 	{
 		"word": "体温",
@@ -872,7 +872,7 @@
 			"体温[たいおん] (n) temperature, body temperature (human, animal)"
 		],
 		"english": "…And you have to keep your body temperature normal. Don't forget these 2 things.",
-		"japanese": "下がった体温を回復させること。これらを忘れてはいけないぞ"
+		"japanese": "下がった[体温]を回復させること。これらを忘れてはいけないぞ"
 	},
 	{
 		"word": "これら",
@@ -882,7 +882,7 @@
 			"これ等[これら] (pn) these"
 		],
 		"english": "…And you have to keep your body temperature normal. Don't forget these 2 things.",
-		"japanese": "下がった体温を回復させること。これらを忘れてはいけないぞ"
+		"japanese": "下がった体温を回復させること。[これら]を忘れてはいけないぞ"
 	},
 	{
 		"word": "むちゃ",
@@ -891,7 +891,7 @@
 			"無茶[むちゃ] (adv) absurd, unreasonable, excessive, rash,very, extremely, excessively"
 		],
 		"english": "Don't overdo it.",
-		"japanese": "むちゃをしてはいけないぞ"
+		"japanese": "[むちゃ]をしてはいけないぞ"
 	},
 	{
 		"word": "挑ん",
@@ -900,7 +900,7 @@
 			"挑む[いどむ] (v5m, vi) to challenge to (a fight, game, etc.), to throw down the gauntlet, to contend for,to tackle (e.g. a problem), to attempt, to go after (a prize, record, etc.),to pressure (someone) for sex, to make advances to"
 		],
 		"english": "You ever hear about those who challenged the cliff?",
-		"japanese": "君たちは絶壁に挑んだ男たちの話を聞いたことがあるかい？"
+		"japanese": "君たちは絶壁に[挑ん]だ男たちの話を聞いたことがあるかい？"
 	},
 	{
 		"word": "ヤマ",
@@ -909,7 +909,7 @@
 			"山[やま] (n-pref) mountain, hill,mine (e.g. coal mine),heap, pile,crown (of a hat), thread (of a screw), tread (of a tire), protruding part of an object,climax, peak, critical point,guess, speculation,criminal case, crime,mountain climbing, mountaineering,festival float (esp. one mounted with a decorative halberd),wall, wall tile,temple, temple grounds,wild"
 		],
 		"english": "The first time my friend Yamski and I tried to climb the cliff was 30 years ago.",
-		"japanese": "わたしと友人ヤマスキーが初めて絶壁に挑んだのは３０年前のことだ"
+		"japanese": "わたしと友人[ヤマ]スキーが初めて絶壁に挑んだのは３０年前のことだ"
 	},
 	{
 		"word": "けわしい",
@@ -918,7 +918,7 @@
 			"険しい[けわしい] (adj-i) precipitous, rugged, inaccessible, impregnable, steep,grim, severe, stern"
 		],
 		"english": "20 Years ago, Yamski and I braved this cliff to see what was on the other side.",
-		"japanese": "３０年前、わたしは友人ヤマスキーと絶壁の向こうを見るためにあのけわしいカベに挑んだ"
+		"japanese": "３０年前、わたしは友人ヤマスキーと絶壁の向こうを見るためにあの[けわしい]カベに挑んだ"
 	},
 	{
 		"word": "カベ",
@@ -927,7 +927,7 @@
 			"壁[かべ] (n) wall, partition,barrier, obstacle,Chinese \"Wall\" constellation (one of the 28 mansions)"
 		],
 		"english": "20 Years ago, Yamski and I braved this cliff to see what was on the other side.",
-		"japanese": "３０年前、わたしは友人ヤマスキーと絶壁の向こうを見るためにあのけわしいカベに挑んだ"
+		"japanese": "３０年前、わたしは友人ヤマスキーと絶壁の向こうを見るためにあのけわしい[カベ]に挑んだ"
 	},
 	{
 		"word": "無知",
@@ -936,7 +936,7 @@
 			"無知[むち] (n, adj-na) ignorance, innocence, stupidity"
 		],
 		"english": "But, we weren't prepared for it. We never dreamed the temperature would be so low…",
-		"japanese": "しかし、わたしらは無知すぎた。ある程度の寒さは予想していたが……"
+		"japanese": "しかし、わたしらは[無知]すぎた。ある程度の寒さは予想していたが……"
 	},
 	{
 		"word": "すさまじい",
@@ -945,7 +945,7 @@
 			"凄まじい[すさまじい] (adj-i) terrific, fierce, terrible, tremendous, dreadful, awful, amazing, absurd, cutthroat, intense"
 		],
 		"english": "That cliff has a biting cold wind that lowers your body temperature.",
-		"japanese": "あの絶壁には、すさまじい寒気が嵐のようにうず巻いているんだ。寒気が体温をどんどん奪っていく"
+		"japanese": "あの絶壁には、[すさまじい]寒気が嵐のようにうず巻いているんだ。寒気が体温をどんどん奪っていく"
 	},
 	{
 		"word": "寒気",
@@ -954,7 +954,7 @@
 			"寒気[さむけ] (n) chill, the shivers, shivering fit,cold, coldness, cold air"
 		],
 		"english": "That cliff has a biting cold wind that lowers your body temperature.",
-		"japanese": "あの絶壁には、すさまじい寒気が嵐のようにうず巻いているんだ。寒気が体温をどんどん奪っていく"
+		"japanese": "あの絶壁には、すさまじい[寒気]が嵐のようにうず巻いているんだ。寒気が体温をどんどん奪っていく"
 	},
 	{
 		"word": "嵐",
@@ -963,7 +963,7 @@
 			"嵐[あらし] (n) storm, tempest,storm, hullaballoo, uproar, winds (e.g. of change)"
 		],
 		"english": "That cliff has a biting cold wind that lowers your body temperature.",
-		"japanese": "あの絶壁には、すさまじい寒気が嵐のようにうず巻いているんだ。寒気が体温をどんどん奪っていく"
+		"japanese": "あの絶壁には、すさまじい寒気が[嵐]のようにうず巻いているんだ。寒気が体温をどんどん奪っていく"
 	},
 	{
 		"word": "うず巻い",
@@ -972,7 +972,7 @@
 			"渦巻く[うずまく] (v5k, vi) to whirl, to eddy, to swirl, to curl (smoke),to be all jumbled together (feelings, thoughts, etc.),to surge, to sweep"
 		],
 		"english": "That cliff has a biting cold wind that lowers your body temperature.",
-		"japanese": "あの絶壁には、すさまじい寒気が嵐のようにうず巻いているんだ。寒気が体温をどんどん奪っていく"
+		"japanese": "あの絶壁には、すさまじい寒気が嵐のように[うず巻い]ているんだ。寒気が体温をどんどん奪っていく"
 	},
 	{
 		"word": "ザイル",
@@ -981,7 +981,7 @@
 			"ザイル (n) climbing rope (i.e. for mountaineering)"
 		],
 		"english": "Yamski was below me. He cut his own rope…",
-		"japanese": "わたしの下を登っていたヤマスキーは自分でザイルを切って……"
+		"japanese": "わたしの下を登っていたヤマスキーは自分で[ザイル]を切って……"
 	},
 	{
 		"word": "提供",
@@ -990,7 +990,7 @@
 			"提供[ていきょう] (n, vs) offer, tender, providing, supplying, making available, donating (blood, organs, etc.),sponsoring (a TV program)"
 		],
 		"english": "I've lived here ever since… challenging the cliff and providing warning and shelter to my fellow climbers.",
-		"japanese": "以来わたしは、この地に移り絶壁に挑みつづけ、同じ仲間に注意と、ほんの少しの休息を提供しているんだよ"
+		"japanese": "以来わたしは、この地に移り絶壁に挑みつづけ、同じ仲間に注意と、ほんの少しの休息を[提供]しているんだよ"
 	},
 	{
 		"word": "タナ",
@@ -1001,7 +1001,7 @@
 			"タナ (n) Tannat (wine grape variety)"
 		],
 		"english": "Second, warm yourselves up once you get to a ledge.",
-		"japanese": "２つめは絶壁の途中のタナに着いたら必ず下がった体温を回復させること"
+		"japanese": "２つめは絶壁の途中の[タナ]に着いたら必ず下がった体温を回復させること"
 	},
 	{
 		"word": "ベン",
@@ -1012,7 +1012,7 @@
 			"冕[べん] (n) crown"
 		],
 		"english": "But, if anyone ever told me to live here, I'd tell them to…well, you know…",
-		"japanese": "こんなところに住めって言われたらオレは、迷わずカンベンしてくれって答えるぜ……"
+		"japanese": "こんなところに住めって言われたらオレは、迷わずカン[ベン]してくれって答えるぜ……"
 	},
 	{
 		"word": "工夫",
@@ -1022,7 +1022,7 @@
 			"工夫[こうふ] (n) labourer, laborer, blue-collar worker"
 		],
 		"english": "I tell you one thing though, If I did have to live here I'd change things around 'n' make it better.",
-		"japanese": "でも、もし住むことになったらきっと、いろいろ工夫して居心地よくしようとすると思うんだ"
+		"japanese": "でも、もし住むことになったらきっと、いろいろ[工夫]して居心地よくしようとすると思うんだ"
 	},
 	{
 		"word": "居心地",
@@ -1031,7 +1031,7 @@
 			"居心地[いごこち] (n) comfort"
 		],
 		"english": "I tell you one thing though, If I did have to live here I'd change things around 'n' make it better.",
-		"japanese": "でも、もし住むことになったらきっと、いろいろ工夫して居心地よくしようとすると思うんだ"
+		"japanese": "でも、もし住むことになったらきっと、いろいろ工夫して[居心地]よくしようとすると思うんだ"
 	},
 	{
 		"word": "行き着い",
@@ -1040,7 +1040,7 @@
 			"行き着く[ゆきつく] (v5k, vi) to arrive at, to end up"
 		],
 		"english": "I guess Midgar is the total opposite of this place.",
-		"japanese": "そんな人間の工夫の行き着いたところが…………ミッドガルなのか"
+		"japanese": "そんな人間の工夫の[行き着い]たところが…………ミッドガルなのか"
 	},
 	{
 		"word": "吹雪",
@@ -1049,7 +1049,7 @@
 			"吹雪[ふぶき] (n) snow storm, blizzard"
 		],
 		"english": "Gotta keep telling myself this blizzard's okay…brr",
-		"japanese": "こんな吹雪なんて、へっちゃらよ！そうでも言ってないと……もう……"
+		"japanese": "こんな[吹雪]なんて、へっちゃらよ！そうでも言ってないと……もう……"
 	},
 	{
 		"word": "守り",
@@ -1059,7 +1059,7 @@
 			"守り[まもり] (n) protection, defense, defence,providence,amulet, charm, talisman"
 		],
 		"english": "Received \"Protection Ring\"!",
-		"japanese": "『守りの指輪』を手にいれた！"
+		"japanese": "『[守り]の指輪』を手にいれた！"
 	},
 	{
 		"word": "行き止まり",
@@ -1068,7 +1068,7 @@
 			"行き止まり[いきどまり] (n) dead end, cul-de-sac, blind alley, no through road (i.e. on signage),end, end of the road, end point, as far as one can go"
 		],
 		"english": "Dead end.",
-		"japanese": "行き止まりだ"
+		"japanese": "[行き止まり]だ"
 	},
 	{
 		"word": "烈火",
@@ -1077,6 +1077,6 @@
 			"烈火[れっか] (n) raging fire, conflagration"
 		],
 		"english": "Received \"Fire Armlet\"!",
-		"japanese": "『烈火の腕輪』を手にいれた！"
+		"japanese": "『[烈火]の腕輪』を手にいれた！"
 	}
 ]

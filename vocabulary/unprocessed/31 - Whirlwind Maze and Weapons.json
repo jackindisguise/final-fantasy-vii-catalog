@@ -7,7 +7,7 @@
 			"捗[はか] (n) progress"
 		],
 		"english": "So all this energy's gathered here for the Planet to heal itself?",
-		"japanese": "ここのスゲエ量のエネルギーは星の傷を治すために集まってるわけか"
+		"japanese": "ここのスゲエ[量]のエネルギーは星の傷を治すために集まってるわけか"
 	},
 	{
 		"word": "はれ",
@@ -17,7 +17,7 @@
 			"晴れる[はれる] (v1, vi) to clear up, to clear away, to be sunny, to stop raining,to refresh (e.g. spirits),to be cleared (e.g. of a suspicion),to be dispelled, to be banished"
 		],
 		"english": "I'll gather everybody, so you go on ahead.",
-		"japanese": "みんなを呼びに行きますよって先に行っとくんなはれ"
+		"japanese": "みんなを呼びに行きますよって先に行っとくんな[はれ]"
 	},
 	{
 		"word": "竜巻",
@@ -26,7 +26,7 @@
 			"竜巻[たつまき] (n, adj-no) tornado, waterspout"
 		],
 		"english": "Whirlwind Maze",
-		"japanese": "竜巻の迷宮"
+		"japanese": "[竜巻]の迷宮"
 	},
 	{
 		"word": "迷宮",
@@ -35,7 +35,7 @@
 			"迷宮[めいきゅう] (n) labyrinth, maze,mystery"
 		],
 		"english": "Whirlwind Maze",
-		"japanese": "竜巻の迷宮"
+		"japanese": "竜巻の[迷宮]"
 	},
 	{
 		"word": "改",
@@ -44,7 +44,7 @@
 			"改[かい] (n-suf) revision"
 		],
 		"english": "Received \"Neo Bahamut\" Materia!",
-		"japanese": "『バハムート改』のマテリアを手にいれた！"
+		"japanese": "『バハムート[改]』のマテリアを手にいれた！"
 	},
 	{
 		"word": "さがしもとめ",
@@ -53,7 +53,7 @@
 			"捜し求める[さがしもとめる] (v1, vt) to search for, to seek for, to look for"
 		],
 		"english": "This is the Promised Land the President had been searching for!!",
-		"japanese": "まさにプレジデントがさがしもとめた約束の地！！"
+		"japanese": "まさにプレジデントが[さがしもとめ]た約束の地！！"
 	},
 	{
 		"word": "終着",
@@ -62,7 +62,7 @@
 			"終着[しゅうちゃく] (n) arriving at the final stop (of a bus, train, etc.), reaching the end of the line"
 		],
 		"english": "It's where the Reunion will take place… They will all gather here…",
-		"japanese": "……リユニオンの終着点。……みんな集まれ、か"
+		"japanese": "……リユニオンの[終着]点。……みんな集まれ、か"
 	},
 	{
 		"word": "気流",
@@ -71,7 +71,7 @@
 			"気流[きりゅう] (n) atmospheric current, air current, airflow"
 		],
 		"english": "We need to cross when the wind is calm, or we'll get swept off!",
-		"japanese": "気流がおさまるタイミングを見て渡らないとはじき飛ばされちゃうわ！"
+		"japanese": "[気流]がおさまるタイミングを見て渡らないとはじき飛ばされちゃうわ！"
 	},
 	{
 		"word": "はじき飛ばさ",
@@ -80,7 +80,7 @@
 			"はじき飛ばす[はじきとばす] (v5s, vt) to flick off, to give ... the flick, to send something flying, to hit (a person), to knock down"
 		],
 		"english": "We need to cross when the wind is calm, or we'll get swept off!",
-		"japanese": "気流がおさまるタイミングを見て渡らないとはじき飛ばされちゃうわ！"
+		"japanese": "気流がおさまるタイミングを見て渡らないと[はじき飛ばさ]れちゃうわ！"
 	},
 	{
 		"word": "ロ",
@@ -95,7 +95,7 @@
 			"ろ (n) six"
 		],
 		"english": "Uph…Se…phi…roth…",
-		"japanese": "…グ……フ……ッ……セフィ…ロ…ス…"
+		"japanese": "…グ……フ……ッ……セフィ…[ロ]…ス…"
 	},
 	{
 		"word": "細胞",
@@ -104,7 +104,7 @@
 			"細胞[さいぼう] (n, adj-no) cell"
 		],
 		"english": "Jenova's cells…",
-		"japanese": "ジェノバ細胞……"
+		"japanese": "ジェノバ[細胞]……"
 	},
 	{
 		"word": "殺気",
@@ -113,7 +113,7 @@
 			"殺気[さっき] (n) thirst for blood, bloodlust, determination to kill"
 		],
 		"english": "I feel something…danger?",
-		"japanese": "殺気？　何か感じるよ……"
+		"japanese": "[殺気]？　何か感じるよ……"
 	},
 	{
 		"word": "きえ",
@@ -122,7 +122,7 @@
 			"消える[きえる] (v1, vi) to go out, to vanish, to disappear"
 		],
 		"english": "Vanished? That can't be!",
-		"japanese": "き、きえてしまうなんて…そんなアホな！"
+		"japanese": "き、[きえ]てしまうなんて…そんなアホな！"
 	},
 	{
 		"word": "アホ",
@@ -131,7 +131,7 @@
 			"阿呆[あほ] (n, adj-na) fool, idiot, simpleton"
 		],
 		"english": "Vanished? That can't be!",
-		"japanese": "き、きえてしまうなんて…そんなアホな！"
+		"japanese": "き、きえてしまうなんて…そんな[アホ]な！"
 	},
 	{
 		"word": "肉体",
@@ -140,7 +140,7 @@
 			"肉体[にくたい] (n, adj-no) the body, the flesh"
 		],
 		"english": "What I wanted was a body. A seeing, hearing, moving body. Soon it will be…over.",
-		"japanese": "……欲しかったのは身体見、聞き、話し、移動する肉体。まもなく……終わる"
+		"japanese": "……欲しかったのは身体見、聞き、話し、移動する[肉体]。まもなく……終わる"
 	},
 	{
 		"word": "ウド",
@@ -149,7 +149,7 @@
 			"独活[うど] (n) udo (plant related to ginseng, used in medicine and cooking) (Aralia cordata)"
 		],
 		"english": "BARRET",
-		"japanese": "クラウド"
+		"japanese": "クラ[ウド]"
 	},
 	{
 		"word": "真っ暗",
@@ -158,7 +158,7 @@
 			"真っ暗[まっくら] (adj-na, n) total darkness, pitch dark,bleak future, poor prospects"
 		],
 		"english": "Something's weird here! It got pitch black all of a sudden, and everyone disappeared!",
-		"japanese": "なんか様子が変なんだよ！真っ暗になっちまってみんないなくなっちまった！"
+		"japanese": "なんか様子が変なんだよ！[真っ暗]になっちまってみんないなくなっちまった！"
 	},
 	{
 		"word": "奥底",
@@ -167,7 +167,7 @@
 			"奥底[おくそこ] (n) depths, bottom (of one's heart)"
 		],
 		"english": "But it's releasing a powerfully strong will from deep within the Planet's wound.",
-		"japanese": "しかし、とほうもなく強い意志をこの星の傷の奥底から放っている"
+		"japanese": "しかし、とほうもなく強い意志をこの星の傷の[奥底]から放っている"
 	},
 	{
 		"word": "待機",
@@ -176,7 +176,7 @@
 			"待機[たいき] (n, vs) standing by, awaiting an opportunity, being on alert"
 		],
 		"english": "We're going in first! You guys stay and keep watch.",
-		"japanese": "オレたちは先に行く！みんなは待機していてくれ"
+		"japanese": "オレたちは先に行く！みんなは[待機]していてくれ"
 	},
 	{
 		"word": "重大",
@@ -185,7 +185,7 @@
 			"重大[じゅうだい] (adj-na, n) serious, important, significant, grave, weighty"
 		],
 		"english": "Damn! The pressure's on now.",
-		"japanese": "おっと！　責任重大だぜ"
+		"japanese": "おっと！　責任[重大]だぜ"
 	},
 	{
 		"word": "謎",
@@ -194,7 +194,7 @@
 			"謎[なぞ] (adj-no) riddle, puzzle, enigma, mystery,enigmatic, mysterious"
 		],
 		"english": "Yeah, sorry I made you worry. I solved the mystery.",
-		"japanese": "ああ、心配かけたな。謎は解けた"
+		"japanese": "ああ、心配かけたな。[謎]は解けた"
 	},
 	{
 		"word": "解け",
@@ -204,7 +204,7 @@
 			"解ける[ほどける] (v1, vi) to come lose, to come untied, to come undone, to unravel,to loosen up (e.g. tension)"
 		],
 		"english": "Yeah, sorry I made you worry. I solved the mystery.",
-		"japanese": "ああ、心配かけたな。謎は解けた"
+		"japanese": "ああ、心配かけたな。謎は[解け]た"
 	},
 	{
 		"word": "幻覚",
@@ -213,7 +213,7 @@
 			"幻覚[げんかく] (n) hallucination, illusion"
 		],
 		"english": "Why, is it an illusion?",
-		"japanese": "……なぜだ……幻覚か？"
+		"japanese": "……なぜだ……[幻覚]か？"
 	},
 	{
 		"word": "抜け出す",
@@ -222,7 +222,7 @@
 			"抜け出す[ぬけだす] (v5s, vi) to slip out, to sneak away, to break free, to get through (a difficult situation),to break into the lead, to get ahead,to begin to fall out (e.g. hair),to break out (of a loop)"
 		],
 		"english": "Is this illusion going to continue forever? How do we get out of it?",
-		"japanese": "この幻はず～っと続くの？どうやって抜け出すの？"
+		"japanese": "この幻はず～っと続くの？どうやって[抜け出す]の？"
 	},
 	{
 		"word": "幻想",
@@ -231,7 +231,7 @@
 			"幻想[げんそう] (n) fantasy, illusion, vision, dream"
 		],
 		"english": "We were in an illusion…",
-		"japanese": "あ、幻想の中だった……"
+		"japanese": "あ、[幻想]の中だった……"
 	},
 	{
 		"word": "生々しい",
@@ -240,7 +240,7 @@
 			"生々しい[なまなましい] (adj-i) lively, green, fresh, raw, vivid, graphic"
 		],
 		"english": "Oh, a dream! But it felt so real…",
-		"japanese": "あ、マボロシかぁ！でも、ちょっと生々しいなぁ"
+		"japanese": "あ、マボロシかぁ！でも、ちょっと[生々しい]なぁ"
 	},
 	{
 		"word": "かよっ",
@@ -260,7 +260,7 @@
 			"下葉[かよう] (n) lower lobe (of lung), inferior lobe"
 		],
 		"english": "He…hey you! You alright!?",
-		"japanese": "お、おい、おまえ！だいじょうぶかよっ！"
+		"japanese": "お、おい、おまえ！だいじょうぶ[かよっ]！"
 	},
 	{
 		"word": "つくりだし",
@@ -269,7 +269,7 @@
 			"作り出す[つくりだす] (v5s, vt) to manufacture, to produce, to raise (crops),to invent, to dream up, to create"
 		],
 		"english": "What I have shown you is reality. What you remember, that is the illusion.",
-		"japanese": "私が見せた世界が真実の過去。幻想をつくりだしたのは……おまえだ"
+		"japanese": "私が見せた世界が真実の過去。幻想を[つくりだし]たのは……おまえだ"
 	},
 	{
 		"word": "作",
@@ -278,7 +278,7 @@
 			"作[さく] (n) work (e.g. of art), production,harvest, cultivation, farming, crop, yield,technique"
 		],
 		"english": "Who would have ever thought a failed experiment would prove so useful?",
-		"japanese": "それにしても失敗作だと思われたおまえが一番役に立つとは……"
+		"japanese": "それにしても失敗[作]だと思われたおまえが一番役に立つとは……"
 	},
 	{
 		"word": "悔し",
@@ -287,7 +287,7 @@
 			"悔しい[くやしい] (adj-i) vexing, annoying, frustrating, regrettable, mortifying"
 		],
 		"english": "Hojo would die if he knew.",
-		"japanese": "宝条が知ったら悔しがるだろうな"
+		"japanese": "宝条が知ったら[悔し]がるだろうな"
 	},
 	{
 		"word": "ナンバリング",
@@ -296,7 +296,7 @@
 			"ナンバリング (n) numbering,numbering machine"
 		],
 		"english": "An incomplete Sephiroth-clone. Not even given a number. …That is your reality.",
-		"japanese": "セフィロス・コピー・インコンプリート。ナンバリング無し。それがおまえの真実"
+		"japanese": "セフィロス・コピー・インコンプリート。[ナンバリング]無し。それがおまえの真実"
 	},
 	{
 		"word": "無し",
@@ -305,7 +305,7 @@
 			"無し[なし] (n) without,unacceptable, not alright, unsatisfactory"
 		],
 		"english": "An incomplete Sephiroth-clone. Not even given a number. …That is your reality.",
-		"japanese": "セフィロス・コピー・インコンプリート。ナンバリング無し。それがおまえの真実"
+		"japanese": "セフィロス・コピー・インコンプリート。ナンバリング[無し]。それがおまえの真実"
 	},
 	{
 		"word": "うらはら",
@@ -314,7 +314,7 @@
 			"裏腹[うらはら] (adj-na, n) opposite, reverse, contrary"
 		],
 		"english": "Why are you so worried and scared by those words?",
-		"japanese": "その言葉とはうらはらにおまえは何をおびえている？"
+		"japanese": "その言葉とは[うらはら]におまえは何をおびえている？"
 	},
 	{
 		"word": "あやふや",
@@ -323,7 +323,7 @@
 			"あやふや (adj-na, n) uncertain, vague, ambiguous"
 		],
 		"english": "There's a lot of things muddled up in my memories.",
-		"japanese": "記憶だってあやふやな部分がたくさんあるんだ"
+		"japanese": "記憶だって[あやふや]な部分がたくさんあるんだ"
 	},
 	{
 		"word": "ささえ",
@@ -332,7 +332,7 @@
 			"支える[ささえる] (v1, vt) to support, to prop, to sustain, to underlay, to hold up, to defend,to hold at bay, to stem, to check"
 		],
 		"english": "Those words will always support me.",
-		"japanese": "TIFAのその言葉がいつでも俺をささえてくれる"
+		"japanese": "TIFAのその言葉がいつでも俺を[ささえ]てくれる"
 	},
 	{
 		"word": "言動",
@@ -341,7 +341,7 @@
 			"言動[げんどう] (n) speech and conduct, words and deeds"
 		],
 		"english": "The ability to change one's looks, voice, and words, is the power of Jenova.",
-		"japanese": "他人の記憶にあわせて自分の姿、声、言動を変化させるのはジェノバの能力だ"
+		"japanese": "他人の記憶にあわせて自分の姿、声、[言動]を変化させるのはジェノバの能力だ"
 	},
 	{
 		"word": "写っ",
@@ -350,7 +350,7 @@
 			"写る[うつる] (v5r, vi) to be photographed, to be projected"
 		],
 		"english": "I…should be in the picture.",
-		"japanese": "俺は……写っているはずだ"
+		"japanese": "俺は……[写っ]ているはずだ"
 	},
 	{
 		"word": "タンス",
@@ -359,7 +359,7 @@
 			"箪笥[たんす] (n) chest of drawers, bureau, cabinet, tansu, dresser"
 		],
 		"english": "I looked in the drawers!",
-		"japanese": "タンスをしらべた！"
+		"japanese": "[タンス]をしらべた！"
 	},
 	{
 		"word": "しらべ",
@@ -368,7 +368,7 @@
 			"調べる[しらべる] (v1, vt) to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search"
 		],
 		"english": "I looked in the drawers!",
-		"japanese": "タンスをしらべた！"
+		"japanese": "タンスを[しらべ]た！"
 	},
 	{
 		"word": "これぞ",
@@ -377,7 +377,7 @@
 			"これぞ (exp) this (emphatic)"
 		],
 		"english": "The outside is rich with Mako energy. The inside is a treasure trove of Materia. This truly is the Promised Land.",
-		"japanese": "外は豊富な魔晄。そして中心部はマテリアの宝庫。これぞまさに約束の地だな"
+		"japanese": "外は豊富な魔晄。そして中心部はマテリアの宝庫。[これぞ]まさに約束の地だな"
 	},
 	{
 		"word": "ばかばかしい",
@@ -386,7 +386,7 @@
 			"馬鹿馬鹿しい[ばかばかしい] (adj-i) absurd, ridiculous, silly, ludicrous, nonsensical, asinine, foolish"
 		],
 		"english": "There is no such thing as the Promised Land. It's a legend…an old wives tale… …It's utterly ridiculous.",
-		"japanese": "約束の地など存在しない。伝説……言い伝え……ばかばかしい"
+		"japanese": "約束の地など存在しない。伝説……言い伝え……[ばかばかしい]"
 	},
 	{
 		"word": "二流",
@@ -395,7 +395,7 @@
 			"二流[にりゅう] (n, adj-no) second-rate, inferior"
 		],
 		"english": "It is that kind of dullness that makes you a second-rate scientist.",
-		"japanese": "そのカタさが二流科学者の限界だな"
+		"japanese": "そのカタさが[二流]科学者の限界だな"
 	},
 	{
 		"word": "レポート",
@@ -404,7 +404,7 @@
 			"レポート (n, vs) report, paper"
 		],
 		"english": "That's what was stated in Professor Gast's report.",
-		"japanese": "ガスト博士のレポートにはそう記されていたな"
+		"japanese": "ガスト博士の[レポート]にはそう記されていたな"
 	},
 	{
 		"word": "記さ",
@@ -413,7 +413,7 @@
 			"記す[しるす] (v5s) to write down, to note, to jot down,to remember"
 		],
 		"english": "That's what was stated in Professor Gast's report.",
-		"japanese": "ガスト博士のレポートにはそう記されていたな"
+		"japanese": "ガスト博士のレポートにはそう[記さ]れていたな"
 	},
 	{
 		"word": "隠し事",
@@ -422,7 +422,7 @@
 			"隠し事[かくしごと] (n) secret"
 		],
 		"english": "You keep a lot of things to yourself.",
-		"japanese": "君は隠し事が多いな"
+		"japanese": "君は[隠し事]が多いな"
 	},
 	{
 		"word": "負え",
@@ -431,7 +431,7 @@
 			"負える[おえる] (v1) to be able to bear,to be able to manage"
 		],
 		"english": "This place is going to get rough.",
-		"japanese": "ここはあんたたちの手には負えない"
+		"japanese": "ここはあんたたちの手には[負え]ない"
 	},
 	{
 		"word": "プレッシャー",
@@ -440,7 +440,7 @@
 			"プレッシャー (n) pressure"
 		],
 		"english": "Okay then, here. Had a lot of pressure holding this thing.",
-		"japanese": "じゃあ、これ。すげえプレッシャーだったぜ"
+		"japanese": "じゃあ、これ。すげえ[プレッシャー]だったぜ"
 	},
 	{
 		"word": "パーフェクト",
@@ -449,7 +449,7 @@
 			"パーフェクト (n) perfect, perfection,perfect game"
 		],
 		"english": "It means that my experiment was a complete success.",
-		"japanese": "私の実験がパーフェクトに成功したわけだな"
+		"japanese": "私の実験が[パーフェクト]に成功したわけだな"
 	},
 	{
 		"word": "たどりつい",
@@ -458,7 +458,7 @@
 			"たどり着く[たどりつく] (v5k, vi) to arrive at (after a struggle), to finally reach, to find one's way to, to finally hit on (e.g. an idea)"
 		],
 		"english": "What the--? You mean only a failure made it here?",
-		"japanese": "なんということだ……失敗作だけがここまでたどりついたというのか……"
+		"japanese": "なんということだ……失敗作だけがここまで[たどりつい]たというのか……"
 	},
 	{
 		"word": "個体",
@@ -467,7 +467,7 @@
 			"個体[こたい] (n, adj-no) individual, specimen"
 		],
 		"english": "I never dreamed what I thought was a success…was actually a failure, and that which I considered a failure was my greatest success…",
-		"japanese": "私が成功とみなした個体が失敗……失敗と判定したおまえが最も優れていたとは……"
+		"japanese": "私が成功とみなした[個体]が失敗……失敗と判定したおまえが最も優れていたとは……"
 	},
 	{
 		"word": "判定",
@@ -476,7 +476,7 @@
 			"判定[はんてい] (n, vs) judgement, judgment, decision, adjudication, award, verdict, determination"
 		],
 		"english": "I never dreamed what I thought was a success…was actually a failure, and that which I considered a failure was my greatest success…",
-		"japanese": "私が成功とみなした個体が失敗……失敗と判定したおまえが最も優れていたとは……"
+		"japanese": "私が成功とみなした個体が失敗……失敗と[判定]したおまえが最も優れていたとは……"
 	},
 	{
 		"word": "優れ",
@@ -485,7 +485,7 @@
 			"優れる[すぐれる] (v1, vi) to surpass, to outstrip, to excel"
 		],
 		"english": "I never dreamed what I thought was a success…was actually a failure, and that which I considered a failure was my greatest success…",
-		"japanese": "私が成功とみなした個体が失敗……失敗と判定したおまえが最も優れていたとは……"
+		"japanese": "私が成功とみなした個体が失敗……失敗と判定したおまえが最も[優れ]ていたとは……"
 	},
 	{
 		"word": "のち",
@@ -494,7 +494,7 @@
 			"後[のち] (n, adj-no) later, afterwards, since,future,after one's death,descendant"
 		],
 		"english": "This is perfect! Both Jenova's Reunion and Sephiroth's  will!",
-		"japanese": "素晴らしい！ジェノバのリユニオンとセフィロスの意志のちから！"
+		"japanese": "素晴らしい！ジェノバのリユニオンとセフィロスの意志[のち]から！"
 	},
 	{
 		"word": "拡散",
@@ -503,7 +503,7 @@
 			"拡散[かくさん] (n, vs, adj-no) scattering, diffusion, spread (e.g. signal across the spectrum)"
 		],
 		"english": "They won't be diffused into the Lifestream, but gathered here!",
-		"japanese": "ライフストリームに拡散することなくここに結集したのだ！"
+		"japanese": "ライフストリームに[拡散]することなくここに結集したのだ！"
 	},
 	{
 		"word": "結集",
@@ -512,7 +512,7 @@
 			"結集[けっしゅう] (n, vs) concentration (of efforts, forces, etc.), gathering together, regimentation, marshalling, mobilization"
 		],
 		"english": "They won't be diffused into the Lifestream, but gathered here!",
-		"japanese": "ライフストリームに拡散することなくここに結集したのだ！"
+		"japanese": "ライフストリームに拡散することなくここに[結集]したのだ！"
 	},
 	{
 		"word": "直後",
@@ -521,7 +521,7 @@
 			"直後[ちょくご] (n-adv, n-t) immediately following"
 		],
 		"english": "…He's a Sephiroth-clone I created after the real Sephiroth died five years ago.",
-		"japanese": "……５年前、セフィロスが死んだ直後に私が創ったセフィロス・コピーのひとつ"
+		"japanese": "……５年前、セフィロスが死んだ[直後]に私が創ったセフィロス・コピーのひとつ"
 	},
 	{
 		"word": "ひらめき",
@@ -530,7 +530,7 @@
 			"閃く[ひらめく] (v5k, vi) to flash (e.g. lightning), to flicker, to glitter, to sparkle, to gleam,to flutter (e.g. flag), to wave, to undulate,to flash into one's mind (e.g. an idea), to come to one suddenly"
 		],
 		"english": "Jenova cells and Mako, with my knowledge and skills, have been combined with science and nature to bring him to life.",
-		"japanese": "ジェノバ細胞と魔晄、それにくわえて私の知識、技術、ひらめきが生み出した科学と神秘の生命、セフィロス・コピー"
+		"japanese": "ジェノバ細胞と魔晄、それにくわえて私の知識、技術、[ひらめき]が生み出した科学と神秘の生命、セフィロス・コピー"
 	},
 	{
 		"word": "証明",
@@ -539,7 +539,7 @@
 			"証明[しょうめい] (n, vs, adj-no) proof, verification, certification"
 		],
 		"english": "…I'm not wild about the failure part, but the Jenova Reunion Theory has now been proven.",
-		"japanese": "……失敗作だというのが気に入らないがジェノバのリユニオン仮説は証明された"
+		"japanese": "……失敗作だというのが気に入らないがジェノバのリユニオン仮説は[証明]された"
 	},
 	{
 		"word": "バラバラ",
@@ -548,7 +548,7 @@
 			"バラバラ (adj-na, adj-no, adv, vs) scattered, disperse, loose, disconnected, in pieces, in drops, rustling"
 		],
 		"english": "You see, even if Jenova's body is dismembered, it will eventually become one again. That's what is meant by Jenova's Reunion.",
-		"japanese": "ジェノバは身体をバラバラにされてもやがてひとつの場所に集結し再生する。これがジェノバの『リユニオン』だ"
+		"japanese": "ジェノバは身体を[バラバラ]にされてもやがてひとつの場所に集結し再生する。これがジェノバの『リユニオン』だ"
 	},
 	{
 		"word": "集結",
@@ -557,7 +557,7 @@
 			"集結[しゅうけつ] (n, vs) massing (of troops), gathering"
 		],
 		"english": "You see, even if Jenova's body is dismembered, it will eventually become one again. That's what is meant by Jenova's Reunion.",
-		"japanese": "ジェノバは身体をバラバラにされてもやがてひとつの場所に集結し再生する。これがジェノバの『リユニオン』だ"
+		"japanese": "ジェノバは身体をバラバラにされてもやがてひとつの場所に[集結]し再生する。これがジェノバの『リユニオン』だ"
 	},
 	{
 		"word": "動き出し",
@@ -566,7 +566,7 @@
 			"動き出す[うごきだす] (v5s) to come alive, to get going, to start to move"
 		],
 		"english": "I have been waiting for the Reunion to start. Five years have passed, and now the clones have begun to return.",
-		"japanese": "リユニオンの始まりを私は待った。５年がすぎ……コピーたちは動き出した"
+		"japanese": "リユニオンの始まりを私は待った。５年がすぎ……コピーたちは[動き出し]た"
 	},
 	{
 		"word": "天才",
@@ -575,7 +575,7 @@
 			"天才[てんさい] (n) genius, prodigy, natural gift"
 		],
 		"english": "But being the genius that I am, I soon figured it out. You see it was all Sephiroth's doing.",
-		"japanese": "……私は天才だ、すぐにわかった。セフィロスの仕業だ"
+		"japanese": "……私は[天才]だ、すぐにわかった。セフィロスの仕業だ"
 	},
 	{
 		"word": "あやつり",
@@ -584,7 +584,7 @@
 			"操る[あやつる] (v5r, vt) to operate (e.g. a machine), to handle, to manage, to control, to maneuver, to steer,to have a good command of (a language), to play proficiently (of a musical instrument),to work (a puppet), to pull the strings of a puppet,to manipulate (a person, public opinion, etc.), to pull the strings, to control from the shadows, to mastermind"
 		],
 		"english": "Sephiroth is not just content to diffuse his will into the Lifestream. He wants to manipulate the Clones himself.",
-		"japanese": "セフィロスの意志はライフストリームで拡散することなく、セフィロス自身としてコピーをあやつりはじめたのだ……"
+		"japanese": "セフィロスの意志はライフストリームで拡散することなく、セフィロス自身としてコピーを[あやつり]はじめたのだ……"
 	},
 	{
 		"word": "憎しみ",
@@ -593,7 +593,7 @@
 			"憎しみ[にくしみ] (n) hatred"
 		],
 		"english": "All the anger and hatred I bore him, made it impossible for me to ever forget him. That and what he gave me.",
-		"japanese": "セフィロスへの怒りと憎しみ。それは俺がセフィロスのこと、忘れないようにとセフィロスがくれたおくりもの……"
+		"japanese": "セフィロスへの怒りと[憎しみ]。それは俺がセフィロスのこと、忘れないようにとセフィロスがくれたおくりもの……"
 	},
 	{
 		"word": "くり",
@@ -605,7 +605,7 @@
 			"クリ (n) clitoris"
 		],
 		"english": "All the anger and hatred I bore him, made it impossible for me to ever forget him. That and what he gave me.",
-		"japanese": "セフィロスへの怒りと憎しみ。それは俺がセフィロスのこと、忘れないようにとセフィロスがくれたおくりもの……"
+		"japanese": "セフィロスへの怒りと憎しみ。それは俺がセフィロスのこと、忘れないようにとセフィロスがくれたお[くり]もの……"
 	},
 	{
 		"word": "ほんとう",
@@ -619,7 +619,7 @@
 			"本統[ほんとう] (n) main branch of a family,truth, reality"
 		],
 		"english": "…it's really been a long time.",
-		"japanese": "……ほんとうに久しぶりね"
+		"japanese": "……[ほんとう]に久しぶりね"
 	},
 	{
 		"word": "きっかけ",
@@ -628,6 +628,6 @@
 			"切っ掛け[きっかけ] (n) chance, start, cue, excuse, motive, impetus, occasion"
 		],
 		"english": "You joined SOLDIER but quit after the Sephiroth incident, and now you're a mercenary…",
-		"japanese": "希望どおりにソルジャーになったことセフィロスの事件をきっかけにやめてしまったこと、何でも屋をやっていること……"
+		"japanese": "希望どおりにソルジャーになったことセフィロスの事件を[きっかけ]にやめてしまったこと、何でも屋をやっていること……"
 	}
 ]

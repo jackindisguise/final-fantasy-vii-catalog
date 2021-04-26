@@ -6,7 +6,7 @@
 			"目覚め[めざめ] (n) waking"
 		],
 		"english": "We can't do a damn thing about it. We just gotta wait till he wakes up.",
-		"japanese": "オレたちには手も足も出せねえ。ただ目覚めの時を待つってだけさ"
+		"japanese": "オレたちには手も足も出せねえ。ただ[目覚め]の時を待つってだけさ"
 	},
 	{
 		"word": "あばれ",
@@ -15,7 +15,7 @@
 			"暴れる[あばれる] (v1, vi) to act violently, to rage, to struggle, to be riotous"
 		],
 		"english": "On top of that, some huge monster called Weapon's been on the rampage.",
-		"japanese": "しかもよ、ウェポンとかいう巨大モンスターがあばれてやがる"
+		"japanese": "しかもよ、ウェポンとかいう巨大モンスターが[あばれ]てやがる"
 	},
 	{
 		"word": "底",
@@ -25,7 +25,7 @@
 			"底[てい] (n) base (logarithmic, exponential, number system), radix,base (triangle, cone, cylinder, etc.),type, kind, extent, degree"
 		],
 		"english": "Remember that huge monster with Sephiroth, at the bottom of the crater?",
-		"japanese": "クレーターの底でセフィロスのまわりにいたバケモノを覚えてるか？"
+		"japanese": "クレーターの[底]でセフィロスのまわりにいたバケモノを覚えてるか？"
 	},
 	{
 		"word": "おはらい",
@@ -34,7 +34,7 @@
 			"御祓い[おはらい] (n) exorcism rite, purification"
 		],
 		"english": "Meteor has been summoned… Essentially, it's all but over now.",
-		"japanese": "メテオを呼んでしまった今となってはおはらいばこのようだな"
+		"japanese": "メテオを呼んでしまった今となっては[おはらい]ばこのようだな"
 	},
 	{
 		"word": "処刑",
@@ -43,7 +43,7 @@
 			"処刑[しょけい] (n, vs) execution"
 		],
 		"english": "President! Preparations for the public execution are complete.",
-		"japanese": "社長！処刑の準備がととのいました"
+		"japanese": "社長！[処刑]の準備がととのいました"
 	},
 	{
 		"word": "ととのい",
@@ -52,7 +52,7 @@
 			"整う[ととのう] (v5u, vi) to be ready, to be prepared, to be arranged,to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious,to be adjusted, to be regulated, to be refined (e.g. of a face),to be settled (e.g. treaty, contract), to be completed"
 		],
 		"english": "President! Preparations for the public execution are complete.",
-		"japanese": "社長！処刑の準備がととのいました"
+		"japanese": "社長！処刑の準備が[ととのい]ました"
 	},
 	{
 		"word": "引き起こし",
@@ -61,7 +61,7 @@
 			"引き起こす[ひきおこす] (v5s, vt) to cause, to induce, to bring about, to provoke,to pull upright, to help up (e.g. a fallen person)"
 		],
 		"english": "You are to be executed for causing this situation.",
-		"japanese": "おまえたちはこの事態を引き起こした者として処刑される"
+		"japanese": "おまえたちはこの事態を[引き起こし]た者として処刑される"
 	},
 	{
 		"word": "取り消す",
@@ -70,7 +70,7 @@
 			"取り消す[とりけす] (v5s, vt) to cancel, to withdraw, to retract, to take back (words, etc.), to revoke"
 		],
 		"english": "I take back the good things I said bout this damn jackass!",
-		"japanese": "この野郎をチラッとでもほめたのは取り消すぜ"
+		"japanese": "この野郎をチラッとでもほめたのは[取り消す]ぜ"
 	},
 	{
 		"word": "しばら",
@@ -79,7 +79,7 @@
 			"縛る[しばる] (v5r, vt) to tie, to bind, to fasten,to restrict (freedom), to tie down (with rules, regulations, etc.), to fetter"
 		],
 		"english": "I'll tie your arms now.",
-		"japanese": "腕をしばらせてもらおうか"
+		"japanese": "腕を[しばら]せてもらおうか"
 	},
 	{
 		"word": "まっすぐ",
@@ -88,7 +88,7 @@
 			"真っ直ぐ[まっすぐ] (adj-na, n) straight (ahead), direct, upright, erect,straightforward, honest, frank"
 		],
 		"english": "Hey! Walk straight!",
-		"japanese": "こら！　まっすぐ進め！"
+		"japanese": "こら！　[まっすぐ]進め！"
 	},
 	{
 		"word": "集まり",
@@ -97,7 +97,7 @@
 			"集まり[あつまり] (n) gathering, meeting, assembly, collection, attendance"
 		],
 		"english": "Is everyone here? These are the ones who brought this madness to the world!",
-		"japanese": "みなさんお集まりになった？この者たちが世界をこんな混乱に落としめた張本人たちよ！"
+		"japanese": "みなさんお[集まり]になった？この者たちが世界をこんな混乱に落としめた張本人たちよ！"
 	},
 	{
 		"word": "張本人",
@@ -106,7 +106,7 @@
 			"張本人[ちょうほんにん] (n) originator, ringleader, perpetrator, main culprit, person responsible"
 		],
 		"english": "Is everyone here? These are the ones who brought this madness to the world!",
-		"japanese": "みなさんお集まりになった？この者たちが世界をこんな混乱に落としめた張本人たちよ！"
+		"japanese": "みなさんお集まりになった？この者たちが世界をこんな混乱に落としめた[張本人]たちよ！"
 	},
 	{
 		"word": "のぶ",
@@ -115,7 +115,7 @@
 			"ノブ (n) knob,doorknob"
 		],
 		"english": "We will be broadcasting your miserable deaths live on national television.",
-		"japanese": "あなたたちのぶざまな死にざまをテレビで全国中継するのよ"
+		"japanese": "あなたたち[のぶ]ざまな死にざまをテレビで全国中継するのよ"
 	},
 	{
 		"word": "全国",
@@ -124,7 +124,7 @@
 			"全国[ぜんこく] (n, adj-no) countrywide, nationwide, whole country, national"
 		],
 		"english": "We will be broadcasting your miserable deaths live on national television.",
-		"japanese": "あなたたちのぶざまな死にざまをテレビで全国中継するのよ"
+		"japanese": "あなたたちのぶざまな死にざまをテレビで[全国]中継するのよ"
 	},
 	{
 		"word": "公開",
@@ -133,7 +133,7 @@
 			"公開[こうかい] (n, vs, adj-no) opening to the public, making available to the public, putting on display, exhibiting, showing (play, movie, etc.), holding (interview, etc.), open, public"
 		],
 		"english": "Scarlet, why a public execution in this day and age?",
-		"japanese": "スカーレットさん。なぜ今回はこのような公開処刑を？"
+		"japanese": "スカーレットさん。なぜ今回はこのような[公開]処刑を？"
 	},
 	{
 		"word": "ベスト",
@@ -142,7 +142,7 @@
 			"ベスト (n) best,vest"
 		],
 		"english": "With the chaos resulting from the Meteor reports, we desperately need to rally public support… it's better that we punish somebody, anybody.",
-		"japanese": "メテオで混乱した民衆をまとめるには誰か一人、悪者をつくるのがベストなのよね"
+		"japanese": "メテオで混乱した民衆をまとめるには誰か一人、悪者をつくるのが[ベスト]なのよね"
 	},
 	{
 		"word": "ウケる",
@@ -151,7 +151,7 @@
 			"受ける[うける] (v1, vi) to receive, to get,to catch (e.g. a ball),to be struck by (wind, waves, sunlight, etc.),to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence),to undergo (e.g. surgery), to take (a test), to accept (a challenge),to be given (e.g. life, talent),to find funny, to find humorous, to be amused (by),to follow, to succeed, to be descended from,to face (south, etc.),to be modified by,to obtain (a pawned item, etc.) by paying a fee,to be well-received, to become popular, to go down well"
 		],
 		"english": "Camera, this way! Make sure you get this, the audience just eats up tearful goodbyes!",
-		"japanese": "ほらほら、カメラさん、こっち！こういうお涙ちょうだいしばいが最高にウケるのよね！"
+		"japanese": "ほらほら、カメラさん、こっち！こういうお涙ちょうだいしばいが最高に[ウケる]のよね！"
 	},
 	{
 		"word": "ガス",
@@ -162,7 +162,7 @@
 			"賀す[がす] (v5s, vt) to congratulate"
 		],
 		"english": "This is my special gas chamber. Take your time and enjoy a slow painful death.",
-		"japanese": "私の特製ガスルームよ。じっくり時間をかけて思う存分苦しんでちょうだいね"
+		"japanese": "私の特製[ガス]ルームよ。じっくり時間をかけて思う存分苦しんでちょうだいね"
 	},
 	{
 		"word": "ルーム",
@@ -171,7 +171,7 @@
 			"ルーム (n) room"
 		],
 		"english": "This is my special gas chamber. Take your time and enjoy a slow painful death.",
-		"japanese": "私の特製ガスルームよ。じっくり時間をかけて思う存分苦しんでちょうだいね"
+		"japanese": "私の特製ガス[ルーム]よ。じっくり時間をかけて思う存分苦しんでちょうだいね"
 	},
 	{
 		"word": "思う存分",
@@ -180,7 +180,7 @@
 			"思う存分[おもうぞんぶん] (exp, adv) to one's heart's content"
 		],
 		"english": "This is my special gas chamber. Take your time and enjoy a slow painful death.",
-		"japanese": "私の特製ガスルームよ。じっくり時間をかけて思う存分苦しんでちょうだいね"
+		"japanese": "私の特製ガスルームよ。じっくり時間をかけて[思う存分]苦しんでちょうだいね"
 	},
 	{
 		"word": "こじあけ",
@@ -189,7 +189,7 @@
 			"抉じ開ける[こじあける] (v1, vt) to wrench open, to prize open, to pick (lock)"
 		],
 		"english": "Don't make me pry it open!",
-		"japanese": "こじあけてやるわ！"
+		"japanese": "[こじあけ]てやるわ！"
 	},
 	{
 		"word": "手足",
@@ -198,7 +198,7 @@
 			"手足[てあし] (n) hands and feet, limbs"
 		],
 		"english": "Move your feet and arms, then use your",
-		"japanese": "手足を動かし、頭を働かせて"
+		"japanese": "[手足]を動かし、頭を働かせて"
 	},
 	{
 		"word": "働かせ",
@@ -207,7 +207,7 @@
 			"働かせる[はたらかせる] (v1) to put someone to work, to make someone work,to use, to apply, to exert, to exercise (restraint, one's imagination, one's brain, etc.)"
 		],
 		"english": "Move your feet and arms, then use your",
-		"japanese": "手足を動かし、頭を働かせて"
+		"japanese": "手足を動かし、頭を[働かせ]て"
 	},
 	{
 		"word": "左手",
@@ -217,7 +217,7 @@
 			"弓手[ゆんで] (n) one's left hand, [object Object]"
 		],
 		"english": "[SWITCH]…(R Arm)[OK]…(L Arm)",
-		"japanese": "□ボタン　…　【右手】　　○ボタン　…　【左手】"
+		"japanese": "□ボタン　…　【右手】　　○ボタン　…　【[左手]】"
 	},
 	{
 		"word": "ワンパターン",
@@ -226,7 +226,7 @@
 			"ワンパターン (n, adj-no) predictable, repetitive, being in a rut, set in one's ways"
 		],
 		"english": "Try different patterns.",
-		"japanese": "ワンパターンではだめ"
+		"japanese": "[ワンパターン]ではだめ"
 	},
 	{
 		"word": "襲来",
@@ -235,7 +235,7 @@
 			"襲来[しゅうらい] (n, vs) invasion, raid, attack, visitation (of a calamity)"
 		],
 		"english": "Weapon's approaching! Attention all military personnel: take your positions!",
-		"japanese": "ウェポン襲来！総員戦闘配備！"
+		"japanese": "ウェポン[襲来]！総員戦闘配備！"
 	},
 	{
 		"word": "死刑",
@@ -244,7 +244,7 @@
 			"死刑[しけい] (n) death penalty, capital punishment"
 		],
 		"english": "Let's just say I'm against capital punishment. Besides…I hate this broad. Come on, we gotta help TIFA.",
-		"japanese": "死刑には反対なんです。この女も嫌いやし。さ、はよTIFAさん助けんと"
+		"japanese": "[死刑]には反対なんです。この女も嫌いやし。さ、はよTIFAさん助けんと"
 	},
 	{
 		"word": "あか",
@@ -258,7 +258,7 @@
 			"アカ (n) account (e.g. online service)"
 		],
 		"english": "It won't open!",
-		"japanese": "あかないぜ、こりゃ！"
+		"japanese": "[あか]ないぜ、こりゃ！"
 	},
 	{
 		"word": "多分",
@@ -267,7 +267,7 @@
 			"多分[たぶん] (adj-na, adj-no) perhaps, probably,generous, many, much, great"
 		],
 		"english": "The Gas Room's probably locked from a different room!",
-		"japanese": "多分別の部屋からガスルームのとびらをロックしてるんだ！"
+		"japanese": "[多分]別の部屋からガスルームのとびらをロックしてるんだ！"
 	},
 	{
 		"word": "いっぺん",
@@ -280,7 +280,7 @@
 			"一篇[いっぺん] (n) piece (e.g. poetry), poem, essay, book, story"
 		],
 		"english": "Hmm, we gotta go with a different plan. Let's get out of this room first.",
-		"japanese": "しゃあない、作戦チェンジですわ。いっぺんこの部屋から出ましょ"
+		"japanese": "しゃあない、作戦チェンジですわ。[いっぺん]この部屋から出ましょ"
 	},
 	{
 		"word": "ばか",
@@ -289,7 +289,7 @@
 			"馬鹿[ばか] (n) fool, idiot,trivial matter, folly, absurdity,foolish, stupid, dull, absurd, ridiculous,Mactra chinensis (species of trough shell)"
 		],
 		"english": "…Fools… I've already pushed the switch…",
-		"japanese": "……ばか……め……もうスイッチは……押しちゃったわよ……"
+		"japanese": "……[ばか]……め……もうスイッチは……押しちゃったわよ……"
 	},
 	{
 		"word": "チック",
@@ -298,7 +298,7 @@
 			"チック (suf) pomade (in stick form),tic,-tic"
 		],
 		"english": "Goddammit!!",
-		"japanese": "チックしょーー！！"
+		"japanese": "[チック]しょーー！！"
 	},
 	{
 		"word": "またまた",
@@ -308,7 +308,7 @@
 			"マタマタ (n) matamata (species of freshwater turtle, Chelus fimbriata)"
 		],
 		"english": "OK, OK time for Plan B. Let's run to the airport!",
-		"japanese": "むむぅ～、またまた作戦チェンジですな。エアポートまで走るで！"
+		"japanese": "むむぅ～、[またまた]作戦チェンジですな。エアポートまで走るで！"
 	},
 	{
 		"word": "イチ",
@@ -320,7 +320,7 @@
 			"逸[いち] (pref) very, excellent"
 		],
 		"english": "Trust me, trust me. We gotta take a chance.",
-		"japanese": "ええから、ええからこないなったらイチかバチかや"
+		"japanese": "ええから、ええからこないなったら[イチ]かバチかや"
 	},
 	{
 		"word": "かや",
@@ -332,7 +332,7 @@
 			"かや (prt) indicates emotion, admiration, etc."
 		],
 		"english": "Trust me, trust me. We gotta take a chance.",
-		"japanese": "ええから、ええからこないなったらイチかバチかや"
+		"japanese": "ええから、ええからこないなったらイチかバチ[かや]"
 	},
 	{
 		"word": "インタビュー",
@@ -341,7 +341,7 @@
 			"インタビュー (n, vs) interview (i.e. television, newspaper, etc.)"
 		],
 		"english": "I know you're in a hurry! But, may have a word…",
-		"japanese": "お急ぎのところすみません！ちょっとインタビューを……"
+		"japanese": "お急ぎのところすみません！ちょっと[インタビュー]を……"
 	},
 	{
 		"word": "やけに",
@@ -350,7 +350,7 @@
 			"やけに (adv) awfully, frightfully, desperately, violently, unduly, extremely"
 		],
 		"english": "There's been so many attacks lately. Can we handle it?",
-		"japanese": "最近やけに多いな。防げるか？"
+		"japanese": "最近[やけに]多いな。防げるか？"
 	},
 	{
 		"word": "くらわせ",
@@ -359,7 +359,7 @@
 			"食らわせる[くらわせる] (v1, vt) to make someone eat,to deal (a blow), to play (a trick)"
 		],
 		"english": "We'll give it a shot from our big cannon.",
-		"japanese": "じまんの大砲を一発くらわせます"
+		"japanese": "じまんの大砲を一発[くらわせ]ます"
 	},
 	{
 		"word": "砲門",
@@ -368,7 +368,7 @@
 			"砲門[ほうもん] (n) gunport, embrasure, muzzle"
 		],
 		"english": "Open cannon doors!! Activate cannon. Target: Weapon!!",
-		"japanese": "全砲門ひらけ！！キャノン砲修正、目標ウェポン！！"
+		"japanese": "全[砲門]ひらけ！！キャノン砲修正、目標ウェポン！！"
 	},
 	{
 		"word": "ひらけ",
@@ -377,7 +377,7 @@
 			"開ける[ひらける] (v1, vi) to open out (of a view, scenery, etc.), to spread out, to become clear (of a road, visibility, etc.), to open up,to improve (of luck, prospects, etc.), to get better,to develop (of a town, civilization, etc.), to become civilized, to modernize, to grow, to advance (of knowledge, ideas, etc.),to be sensible, to be understanding, to be enlightened,to open (of a new road, railway, etc.), to be opened to traffic,to become populous, to become densely built, to become bustling"
 		],
 		"english": "Open cannon doors!! Activate cannon. Target: Weapon!!",
-		"japanese": "全砲門ひらけ！！キャノン砲修正、目標ウェポン！！"
+		"japanese": "全砲門[ひらけ]！！キャノン砲修正、目標ウェポン！！"
 	},
 	{
 		"word": "砲",
@@ -387,7 +387,7 @@
 			"砲[ほう] (n, n-suf) gun, cannon, artillery, ordnance"
 		],
 		"english": "Open cannon doors!! Activate cannon. Target: Weapon!!",
-		"japanese": "全砲門ひらけ！！キャノン砲修正、目標ウェポン！！"
+		"japanese": "全砲門ひらけ！！キャノン[砲]修正、目標ウェポン！！"
 	},
 	{
 		"word": "修正",
@@ -396,7 +396,7 @@
 			"修正[しゅうせい] (n, vs) amendment, correction, revision, modification, alteration, retouching, update, fix"
 		],
 		"english": "Open cannon doors!! Activate cannon. Target: Weapon!!",
-		"japanese": "全砲門ひらけ！！キャノン砲修正、目標ウェポン！！"
+		"japanese": "全砲門ひらけ！！キャノン砲[修正]、目標ウェポン！！"
 	},
 	{
 		"word": "接近",
@@ -405,7 +405,7 @@
 			"接近[せっきん] (n, vs) getting closer, drawing nearer, approaching,being not much different, being near (age, skill, etc.),becoming close (i.e. friendly), becoming intimate"
 		],
 		"english": "Weapon approaching!",
-		"japanese": "ウェポン接近！"
+		"japanese": "ウェポン[接近]！"
 	},
 	{
 		"word": "ノット",
@@ -415,7 +415,7 @@
 			"節[のっと] (n) knot (nautical mile per hour)"
 		],
 		"english": "Speed, 50 Knots!",
-		"japanese": "速度５０ノット！"
+		"japanese": "速度５０[ノット]！"
 	},
 	{
 		"word": "通常",
@@ -424,7 +424,7 @@
 			"通常[つうじょう] (adj-no, n-adv, n-t) usual, ordinary, normal, regular, general, common"
 		],
 		"english": "Then use regular fire power in the meantime!",
-		"japanese": "それまで通常兵器で時間をかせげ！"
+		"japanese": "それまで[通常]兵器で時間をかせげ！"
 	},
 	{
 		"word": "かせげ",
@@ -433,7 +433,7 @@
 			"稼げる[かせげる] (v1) to work, to earn income"
 		],
 		"english": "Then use regular fire power in the meantime!",
-		"japanese": "それまで通常兵器で時間をかせげ！"
+		"japanese": "それまで通常兵器で時間を[かせげ]！"
 	},
 	{
 		"word": "陸",
@@ -444,7 +444,7 @@
 			"碌[ろく] (adj-na, n) satisfactory, decent, good, proper, worthy"
 		],
 		"english": "Yes sir! Open all artillery doors! Target: Weapon! Don't let it land!",
-		"japanese": "は！　全砲門開け！目標ウェポン！　陸にあげるなよ！"
+		"japanese": "は！　全砲門開け！目標ウェポン！　[陸]にあげるなよ！"
 	},
 	{
 		"word": "ごっこ",
@@ -453,7 +453,7 @@
 			"ごっこ (suf) playing at (something), game of make-believe, something done together"
 		],
 		"english": "Our little game of hide and seek ends here.",
-		"japanese": "オニごっこはここまでよ"
+		"japanese": "オニ[ごっこ]はここまでよ"
 	},
 	{
 		"word": "水面",
@@ -462,7 +462,7 @@
 			"水面[すいめん] (n) water's surface"
 		],
 		"english": "The execution may have been unsuccessful, but your death by falling and crashing into the water below might still be pretty exciting.",
-		"japanese": "ガス処刑は無理だったけどここから落ちて水面にたたきつけられて死ぬってのもス・テ・キ、かもしれないわね"
+		"japanese": "ガス処刑は無理だったけどここから落ちて[水面]にたたきつけられて死ぬってのもス・テ・キ、かもしれないわね"
 	},
 	{
 		"word": "お返し",
@@ -471,7 +471,7 @@
 			"お返し[おかえし] (n, vs) return gift, return favour (favor),revenge,change (in a cash transaction)"
 		],
 		"english": "Pay back!!",
-		"japanese": "お返し！！"
+		"japanese": "[お返し]！！"
 	},
 	{
 		"word": "パンパン",
@@ -480,7 +480,7 @@
 			"ぱんぱん (n) kapow, bang, slap, clap,bulging, filled to bursting,prostitute (esp. just after WWII)"
 		],
 		"english": "Quit slapping me! You old $*&^%!!! (Push [OK]!)",
-		"japanese": "さっきからパンパンいたいのよ！この年増女！！！！（○ボタンを押せ！）"
+		"japanese": "さっきから[パンパン]いたいのよ！この年増女！！！！（○ボタンを押せ！）"
 	},
 	{
 		"word": "年増",
@@ -489,7 +489,7 @@
 			"年増[としま] (n) mature woman, middle-aged woman"
 		],
 		"english": "Quit slapping me! You old $*&^%!!! (Push [OK]!)",
-		"japanese": "さっきからパンパンいたいのよ！この年増女！！！！（○ボタンを押せ！）"
+		"japanese": "さっきからパンパンいたいのよ！この[年増]女！！！！（○ボタンを押せ！）"
 	},
 	{
 		"word": "ぼやぼや",
@@ -498,7 +498,7 @@
 			"ぼやぼや (adv, adv-to) to be careless, to be inattentive, to be absentminded, to be slow,long and disheveled (e.g. hair) (dishevelled),flaring up (fire), rising (e.g. steam)"
 		],
 		"english": "Why are you still standing there!? Catch her and take her away!",
-		"japanese": "何をぼやぼやしているの？！つかまえて連れていきなさい！"
+		"japanese": "何を[ぼやぼや]しているの？！つかまえて連れていきなさい！"
 	},
 	{
 		"word": "ウインド",
@@ -507,7 +507,7 @@
 			"ウインド (n) wind"
 		],
 		"english": "Highwind",
-		"japanese": "ハイウインド"
+		"japanese": "ハイ[ウインド]"
 	},
 	{
 		"word": "サヨナラ",
@@ -516,7 +516,7 @@
 			"さよなら (adj-f) goodbye, so long, farewell,saying goodbye to (e.g. life as a bachelor), putting an end to, parting with,farewell (performance, party, etc.), final, last, game-winning (e.g. hit)"
 		],
 		"english": "I thought… TIFA was gone for good.",
-		"japanese": "オレはよ……TIFAともサヨナラかと思ったぜ"
+		"japanese": "オレはよ……TIFAとも[サヨナラ]かと思ったぜ"
 	},
 	{
 		"word": "はなせ",
@@ -525,7 +525,7 @@
 			"話せる[はなせる] (v1, vi) to be able to speak, to be able to talk,to be understanding, to be sensible"
 		],
 		"english": "My hands are full, so I'll excuse myself here!",
-		"japanese": "ごくろうさまです！手をはなせないので、このまま失礼します！"
+		"japanese": "ごくろうさまです！手を[はなせ]ないので、このまま失礼します！"
 	},
 	{
 		"word": "雑談",
@@ -534,7 +534,7 @@
 			"雑談[ざつだん] (n, vs) chatting, idle talk"
 		],
 		"english": "Chew the fat",
-		"japanese": "雑談でも"
+		"japanese": "[雑談]でも"
 	},
 	{
 		"word": "着陸",
@@ -543,7 +543,7 @@
 			"着陸[ちゃくりく] (n, vs) landing, alighting, touch down"
 		],
 		"english": "[CANCEL] to land",
-		"japanese": "【キャンセルボタン】着陸"
+		"japanese": "【キャンセルボタン】[着陸]"
 	},
 	{
 		"word": "下げる",
@@ -552,7 +552,7 @@
 			"下げる[さげる] (v1, vt) to hang, to suspend, to wear (e.g. decoration),to lower, to reduce, to bring down,to demote, to move back, to pull back,to clear (plates), to remove (food, etc. from table or altar)"
 		],
 		"english": "[Directional button:up] lower altitude",
-		"japanese": "【方向キー　上】　　高度を下げる"
+		"japanese": "【方向キー　上】　　高度を[下げる]"
 	},
 	{
 		"word": "あこがれ",
@@ -561,7 +561,7 @@
 			"憧れ[あこがれ] (n, adj-no) yearning, longing, aspiration"
 		],
 		"english": "I mean, I finally made it on the crew of the famous Highwind, and there's no way I was going to quit over him.",
-		"japanese": "あこがれのハイウインドのクルーになれたのにそんなことでやめるのは悔しいですからね"
+		"japanese": "[あこがれ]のハイウインドのクルーになれたのにそんなことでやめるのは悔しいですからね"
 	},
 	{
 		"word": "ある日",
@@ -570,7 +570,7 @@
 			"ある日[あるひ] (n, exp) one day (e.g. \"one day while studying, ..\")"
 		],
 		"english": "Let's see, it must've been a week ago…it was my shift and we were heading towards the North Cave.",
-		"japanese": "そんなある日……たしか、７日前でしたよね。北の大空洞行きの任務の時です"
+		"japanese": "そんな[ある日]……たしか、７日前でしたよね。北の大空洞行きの任務の時です"
 	},
 	{
 		"word": "大空",
@@ -579,7 +579,7 @@
 			"大空[おおぞら] (n) heavens, firmament, sky"
 		],
 		"english": "Let's see, it must've been a week ago…it was my shift and we were heading towards the North Cave.",
-		"japanese": "そんなある日……たしか、７日前でしたよね。北の大空洞行きの任務の時です"
+		"japanese": "そんなある日……たしか、７日前でしたよね。北の[大空]洞行きの任務の時です"
 	},
 	{
 		"word": "洞",
@@ -590,7 +590,7 @@
 			"虚[うろ] (n) hollow, cavity, hole"
 		],
 		"english": "Let's see, it must've been a week ago…it was my shift and we were heading towards the North Cave.",
-		"japanese": "そんなある日……たしか、７日前でしたよね。北の大空洞行きの任務の時です"
+		"japanese": "そんなある日……たしか、７日前でしたよね。北の大空[洞]行きの任務の時です"
 	},
 	{
 		"word": "火事",
@@ -599,7 +599,7 @@
 			"火事[かじ] (n) fire, conflagration"
 		],
 		"english": "After the North Cave, we went to Junon, and I started screaming 'Fire! Fire!'",
-		"japanese": "大空洞からジュノンに着いたときボクは火事だ火事だと騒ぎました"
+		"japanese": "大空洞からジュノンに着いたときボクは[火事]だ火事だと騒ぎました"
 	},
 	{
 		"word": "騒ぎ",
@@ -608,7 +608,7 @@
 			"騒ぐ[さわぐ] (v5g, vi) to make noise, to make racket, to be noisy,to rustle, to swoosh,to make merry,to clamor, to clamour, to make a fuss, to kick up a fuss,to lose one's cool, to panic, to act flustered,to feel tense, to be uneasy, to be excited"
 		],
 		"english": "After the North Cave, we went to Junon, and I started screaming 'Fire! Fire!'",
-		"japanese": "大空洞からジュノンに着いたときボクは火事だ火事だと騒ぎました"
+		"japanese": "大空洞からジュノンに着いたときボクは火事だ火事だと[騒ぎ]ました"
 	},
 	{
 		"word": "日間",
@@ -618,7 +618,7 @@
 			"日間[にっかん] (n) daytime, during the day"
 		],
 		"english": "We waited seven days for a chance to rescue you guys before we finally could.",
-		"japanese": "７日間、救出のチャンスをうかがってついに実行に移しました"
+		"japanese": "７[日間]、救出のチャンスをうかがってついに実行に移しました"
 	},
 	{
 		"word": "救出",
@@ -627,7 +627,7 @@
 			"救出[きゅうしゅつ] (n, vs) rescue, extricate, reclaim, deliverance"
 		],
 		"english": "We waited seven days for a chance to rescue you guys before we finally could.",
-		"japanese": "７日間、救出のチャンスをうかがってついに実行に移しました"
+		"japanese": "７日間、[救出]のチャンスをうかがってついに実行に移しました"
 	},
 	{
 		"word": "うかがっ",
@@ -637,7 +637,7 @@
 			"窺う[うかがう] (v5u, vt) to peep (through), to peek, to examine (esp. covertly),to await (one's chance),to guess, to infer, to gather, to surmise"
 		],
 		"english": "We waited seven days for a chance to rescue you guys before we finally could.",
-		"japanese": "７日間、救出のチャンスをうかがってついに実行に移しました"
+		"japanese": "７日間、救出のチャンスを[うかがっ]てついに実行に移しました"
 	},
 	{
 		"word": "おろし",
@@ -648,7 +648,7 @@
 			"堕ろす[おろす] (v5s, vt) to abort (a fetus)"
 		],
 		"english": "CLOUD, put me in your party, so I can get off this ship.",
-		"japanese": "それでさ、アタシをパーティーにいれて船からおろしてよ、ね、CLOUD"
+		"japanese": "それでさ、アタシをパーティーにいれて船から[おろし]てよ、ね、CLOUD"
 	},
 	{
 		"word": "につまっ",
@@ -657,7 +657,7 @@
 			"煮詰まる[につまる] (v5r, vi) to be boiled down,to come to a standstill, to reach an impasse,to approach a conclusion (of a discussion, investigation, etc.)"
 		],
 		"english": "Are you waiting for CLOUD?",
-		"japanese": "CLOUD……につまってんの？"
+		"japanese": "CLOUD……[につまっ]てんの？"
 	},
 	{
 		"word": "書類",
@@ -666,7 +666,7 @@
 			"書類[しょるい] (n) document, official papers"
 		],
 		"english": "CLOUD…sign this.",
-		"japanese": "CLOUD……この書類にサインして"
+		"japanese": "CLOUD……この[書類]にサインして"
 	},
 	{
 		"word": "ばらし",
@@ -676,7 +676,7 @@
 			"ばらす (v5s, vt) to expose, to lay open (e.g. secret),to take to pieces,to kill, to murder"
 		],
 		"english": "Damn! My plan failed. Let's pick on RED XIII later to let off steam.",
-		"japanese": "クソッ……作戦失敗。あとでRED XIII、からかって……ウサばらし、しちゃお"
+		"japanese": "クソッ……作戦失敗。あとでREDXIII、からかって……ウサ[ばらし]、しちゃお"
 	},
 	{
 		"word": "入り",
@@ -685,7 +685,7 @@
 			"入り[いり] (n, n-suf) entering,setting (of the sun),containing, content, audience,income,beginning"
 		],
 		"english": "I really do understand, YUFFIE. When I get sick on a flight, it's a real killer.",
-		"japanese": "……よくわかるよ、YUFFIE。俺の乗り物酔いもスジガネ入りだ"
+		"japanese": "……よくわかるよ、YUFFIE。俺の乗り物酔いもスジガネ[入り]だ"
 	},
 	{
 		"word": "法っ",
@@ -694,7 +694,7 @@
 			"則る[のっとる] (v5r, vi) to conform to, to be in accordance with, to follow (rule, tradition, example, etc.)"
 		],
 		"english": "Isn't there any way to prevent this?",
-		"japanese": "ね、なんとか酔わない方法ってないのかな？"
+		"japanese": "ね、なんとか酔わない方[法っ]てないのかな？"
 	},
 	{
 		"word": "動き回る",
@@ -703,7 +703,7 @@
 			"動き回る[うごきまわる] (v5r) to move around"
 		],
 		"english": "With this much space, your best bet is to move around while you're riding.",
-		"japanese": "こういう広い場所がある乗り物では動き回るのが良い方法だ"
+		"japanese": "こういう広い場所がある乗り物では[動き回る]のが良い方法だ"
 	},
 	{
 		"word": "暴れ",
@@ -712,7 +712,7 @@
 			"暴れる[あばれる] (v1, vi) to act violently, to rage, to struggle, to be riotous"
 		],
 		"english": "Meteor is coming, and Weapon is on the rampage…",
-		"japanese": "メテオがせまってきてウェポンが暴れていて……"
+		"japanese": "メテオがせまってきてウェポンが[暴れ]ていて……"
 	},
 	{
 		"word": "気取っ",
@@ -722,7 +722,7 @@
 			"気取る[けどる] (v5r, vt) to suspect, to sense"
 		],
 		"english": "…stand that cocky little way he did, and tell us what to do.",
-		"japanese": "いつもそうしていたみたいにちょっと気取ったポーズで言ってくれるの"
+		"japanese": "いつもそうしていたみたいにちょっと[気取っ]たポーズで言ってくれるの"
 	},
 	{
 		"word": "やたら",
@@ -731,7 +731,7 @@
 			"矢鱈[やたら] (adj-na) indiscriminately, blindly, at random, recklessly, thoughtlessly, excessively, profusely,indiscriminate, random, excessive"
 		],
 		"english": "Then when you thought he was smart, he'd show how stupid he was.",
-		"japanese": "やたら物知りなヤツだと思えばあたりまえのことも知らない"
+		"japanese": "[やたら]物知りなヤツだと思えばあたりまえのことも知らない"
 	},
 	{
 		"word": "話し方",
@@ -740,7 +740,7 @@
 			"話し方[はなしかた] (n) way of talking, speaking style"
 		],
 		"english": "Everything about him from his movements to his speech were kinda odd.",
-		"japanese": "動き方も話し方もなんかチグハグなんだよな"
+		"japanese": "動き方も[話し方]もなんかチグハグなんだよな"
 	},
 	{
 		"word": "チグハグ",
@@ -749,7 +749,7 @@
 			"ちぐはぐ (adj-na, n) mismatched, odd, irregular,inconsistent, incoherent, confused"
 		],
 		"english": "Everything about him from his movements to his speech were kinda odd.",
-		"japanese": "動き方も話し方もなんかチグハグなんだよな"
+		"japanese": "動き方も話し方もなんか[チグハグ]なんだよな"
 	},
 	{
 		"word": "ひとっ飛び",
@@ -758,7 +758,7 @@
 			"ひとっ飛び[ひとっとび] (n) one jump, one flight,(at) once, (in) one stroke"
 		],
 		"english": "If we can find out where he is, the Highwind'll get us there in no time.",
-		"japanese": "ツンツン頭のい場所さえわかればこのハイウインドでひとっ飛びよ"
+		"japanese": "ツンツン頭のい場所さえわかればこのハイウインドで[ひとっ飛び]よ"
 	},
 	{
 		"word": "奥深く",
@@ -767,7 +767,7 @@
 			"奥深い[おくふかい] (adj-i) profound, deep,deep (of a cave, etc.), innermost, interior"
 		],
 		"english": "Buried in the depths of the underground…",
-		"japanese": "さらに地中の奥深く……"
+		"japanese": "さらに地中の[奥深く]……"
 	},
 	{
 		"word": "スレスレ",
@@ -776,7 +776,7 @@
 			"擦れ擦れ[すれすれ] (adj-na, n) grazing, skimming, almost touching, passing within inches, being within a whisker, shaving close,barely, just, narrowly, by a slim margin"
 		],
 		"english": "The Lifestream sometimes gushes out from cracks in the ocean floor to the surface.",
-		"japanese": "そのライフストリームが海底スレスレを通っていてときどき地上に吹き出す"
+		"japanese": "そのライフストリームが海底[スレスレ]を通っていてときどき地上に吹き出す"
 	},
 	{
 		"word": "でく",
@@ -786,7 +786,7 @@
 			"てく (v5k-s, aux-v) to continue"
 		],
 		"english": "Yaaaaahh! Don't talk to me right now!",
-		"japanese": "あわわわわ！話しかけないでくださいっ！"
+		"japanese": "あわわわわ！話しかけない[でく]ださいっ！"
 	},
 	{
 		"word": "盗み聞き",
@@ -795,7 +795,7 @@
 			"盗み聞き[ぬすみぎき] (n, vs) eavesdropping, tapping"
 		],
 		"english": "Wanna eavesdrop?",
-		"japanese": "盗み聞きでも、しましょか"
+		"japanese": "[盗み聞き]でも、しましょか"
 	},
 	{
 		"word": "ふたつ",
@@ -807,7 +807,7 @@
 			"布達[ふたつ] (n) notification,pre-1886 administrative order"
 		],
 		"english": "Now then… We're faced with two issues.",
-		"japanese": "さて……我々はふたつの課題を抱えている"
+		"japanese": "さて……我々は[ふたつ]の課題を抱えている"
 	},
 	{
 		"word": "課題",
@@ -816,7 +816,7 @@
 			"課題[かだい] (n) subject, theme, issue, matter,homework, assignment,task, challenge, problem, question"
 		],
 		"english": "Now then… We're faced with two issues.",
-		"japanese": "さて……我々はふたつの課題を抱えている"
+		"japanese": "さて……我々はふたつの[課題]を抱えている"
 	},
 	{
 		"word": "ぶつける",
@@ -825,7 +825,7 @@
 			"打付ける[ぶつける] (v1, vt) to hit (e.g. one's head), to strike, to crash into,to throw (e.g. a ball, a question, a demand),to express, to vent (e.g. one's anger)"
 		],
 		"english": "You're going to ram Meteor?",
-		"japanese": "メテオにぶつける？"
+		"japanese": "メテオに[ぶつける]？"
 	},
 	{
 		"word": "同然",
@@ -834,7 +834,7 @@
 			"同然[どうぜん] (adj-na, n, adj-no) similar to, same, right, proper, just, natural"
 		],
 		"english": "Gya haah hah hah! The first problem's already solved!",
-		"japanese": "ガハハハハハ！すでに最初の課題はクリアも同然！"
+		"japanese": "ガハハハハハ！すでに最初の課題はクリアも[同然]！"
 	},
 	{
 		"word": "圧縮",
@@ -843,7 +843,7 @@
 			"圧縮[あっしゅく] (n, vs) compression, condensation, constriction, compaction"
 		],
 		"english": "Huge Materia is a high-density, special type of Materia made through a special compression process in Mako reactors.",
-		"japanese": "ヒュージマテリアは魔晄炉内で圧縮されて生成される高度に集積された特別なマテリア"
+		"japanese": "ヒュージマテリアは魔晄炉内で[圧縮]されて生成される高度に集積された特別なマテリア"
 	},
 	{
 		"word": "生成",
@@ -853,7 +853,7 @@
 			"生成り[きなり] (adj-na, adj-no) unbleached cloth, unbleached colour (color),unbleached, undyed"
 		],
 		"english": "Huge Materia is a high-density, special type of Materia made through a special compression process in Mako reactors.",
-		"japanese": "ヒュージマテリアは魔晄炉内で圧縮されて生成される高度に集積された特別なマテリア"
+		"japanese": "ヒュージマテリアは魔晄炉内で圧縮されて[生成]される高度に集積された特別なマテリア"
 	},
 	{
 		"word": "集積",
@@ -862,7 +862,7 @@
 			"集積[しゅうせき] (n, vs) accumulation"
 		],
 		"english": "Huge Materia is a high-density, special type of Materia made through a special compression process in Mako reactors.",
-		"japanese": "ヒュージマテリアは魔晄炉内で圧縮されて生成される高度に集積された特別なマテリア"
+		"japanese": "ヒュージマテリアは魔晄炉内で圧縮されて生成される高度に[集積]された特別なマテリア"
 	},
 	{
 		"word": "引き出さ",
@@ -871,7 +871,7 @@
 			"引き出す[ひきだす] (v5s, vt) to pull out, to take out, to draw out, to withdraw"
 		],
 		"english": "The energy extracted from it is 330 times the strength of normal Materia.",
-		"japanese": "そこから引き出されるエネルギーは通常のマテリアの３３０超倍！"
+		"japanese": "そこから[引き出さ]れるエネルギーは通常のマテリアの３３０超倍！"
 	},
 	{
 		"word": "一同",
@@ -880,7 +880,7 @@
 			"一同[いちどう] (n, n-suf) all present, all concerned, all of us"
 		],
 		"english": "We will gather all the Huge Materia together and ram it into Meteor.",
-		"japanese": "そのヒュージマテリアを一同に集めてメテオにぶつけるの"
+		"japanese": "そのヒュージマテリアを[一同]に集めてメテオにぶつけるの"
 	},
 	{
 		"word": "うかぶ",
@@ -889,7 +889,7 @@
 			"浮かぶ[うかぶ] (v5b) to float, to be suspended,to rise to surface,to come to mind, to have inspiration"
 		],
 		"english": "There's only one place An island in the Southern Sea… ",
-		"japanese": "ただひとつ例外は……ずーっと　【南の海にうかぶ島】　が……あるとかないとか……"
+		"japanese": "ただひとつ例外は……ずーっと　【南の海に[うかぶ]島】　が……あるとかないとか……"
 	},
 	{
 		"word": "いわば",
@@ -899,6 +899,6 @@
 			"岩場[いわば] (n) rocky area, rockface, rock wall"
 		],
 		"english": "The Lifestream is a mass of spiritual energy,",
-		"japanese": "ライフストリームはいわば精神エネルギーのかたまり"
+		"japanese": "ライフストリームは[いわば]精神エネルギーのかたまり"
 	}
 ]

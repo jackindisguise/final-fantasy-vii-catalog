@@ -6,7 +6,7 @@ function process(data){
 		let split = line.split("\t");
 		let english = split[0];
 		let japanese = split[1];
-//		if(english.toUpperCase() === japanese.toUpperCase()) continue // ignore name codes
+		if(english.toUpperCase() === japanese.toUpperCase()) continue // ignore name codes
 //		if(names.indexOf(source.toUpperCase()) !== -1 || names.indexOf(target) !== -1) continue;
 //		console.log(`Ignoring speaker line: ${source}\t${target}`)
 		englishLines.push(english);

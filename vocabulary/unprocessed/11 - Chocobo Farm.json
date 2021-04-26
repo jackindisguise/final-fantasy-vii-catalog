@@ -7,7 +7,7 @@
 			"寄席[よせ] (n) entertainment hall (for rakugo, manzai, magic, music, etc.), vaudeville theater (theatre), music hall"
 		],
 		"english": "Received \"Chocobo Lure\" Materia!",
-		"japanese": "『チョコボよせ』のマテリアを手にいれた！"
+		"japanese": "『チョコボ[よせ]』のマテリアを手にいれた！"
 	},
 	{
 		"word": "湿地",
@@ -17,7 +17,7 @@
 			"占地[しめじ] (n) Lyophyllum shimeji (species of edible mushroom),euagaric fungus (in grocery stores, usu. refers to cultivated field mushrooms, etc.)"
 		],
 		"english": "Thinking of crossing the marshes?",
-		"japanese": "お客さんたち、この先の湿地帯をこえるつもりですか？"
+		"japanese": "お客さんたち、この先の[湿地]帯をこえるつもりですか？"
 	},
 	{
 		"word": "たけ",
@@ -30,7 +30,7 @@
 			"他家[たけ] (n) another family, another house"
 		],
 		"english": "It's a serpent-like creature over 30 feet tall!!",
-		"japanese": "身のたけ１０メートルにならんとするヘビのバケモノ！！"
+		"japanese": "身の[たけ]１０メートルにならんとするヘビのバケモノ！！"
 	},
 	{
 		"word": "ヘビ",
@@ -39,7 +39,7 @@
 			"蛇[へび] (n) snake,serpent, large snake"
 		],
 		"english": "It's a serpent-like creature over 30 feet tall!!",
-		"japanese": "身のたけ１０メートルにならんとするヘビのバケモノ！！"
+		"japanese": "身のたけ１０メートルにならんとする[ヘビ]のバケモノ！！"
 	},
 	{
 		"word": "聞きつけ",
@@ -48,7 +48,7 @@
 			"聞きつける[ききつける] (v1, vt) to hear, to catch (the sound of something),to hear about (rumour, etc.), to overhear, to learn of (something),to get used to hearing"
 		],
 		"english": "It detects the footsteps of anyone in the marshes.",
-		"japanese": "湿地帯を進むズボズボ音を聞きつけ…"
+		"japanese": "湿地帯を進むズボズボ音を[聞きつけ]…"
 	},
 	{
 		"word": "おそいかかる",
@@ -57,7 +57,7 @@
 			"襲いかかる[おそいかかる] (v5r, vi) to rush on, to attack, to swoop down on"
 		],
 		"english": "And then, BAM!! It attacks!!!",
-		"japanese": "ウギャーッとおそいかかる！！！"
+		"japanese": "ウギャーッと[おそいかかる]！！！"
 	},
 	{
 		"word": "牧場",
@@ -66,7 +66,7 @@
 			"牧場[ぼくじょう] (n) farm (livestock), ranch (US), station (Aus, NZ),pasture land, meadow, grazing land"
 		],
 		"english": "To avoid that, buy a Chocobo at me and Choco Billy's Chocobo Farm.",
-		"japanese": "そうならないためにも！グリン＆グリングリン牧場のチョコボをお買い上げください"
+		"japanese": "そうならないためにも！グリン＆グリングリン[牧場]のチョコボをお買い上げください"
 	},
 	{
 		"word": "買い上げ",
@@ -75,7 +75,7 @@
 			"買い上げる[かいあげる] (v1, vt) to buy (of a government, public agency, etc. from a private citizen), to purchase,to buy up (all of something)"
 		],
 		"english": "To avoid that, buy a Chocobo at me and Choco Billy's Chocobo Farm.",
-		"japanese": "そうならないためにも！グリン＆グリングリン牧場のチョコボをお買い上げください"
+		"japanese": "そうならないためにも！グリン＆グリングリン牧場のチョコボをお[買い上げ]ください"
 	},
 	{
 		"word": "買い上げ",
@@ -84,7 +84,7 @@
 			"買い上げ[かいあげ] (n) buying, purchasing, procurement"
 		],
 		"english": "To purchase a Chocobo, please talk to my grandson. He's in the Chocobo stables at the far right end of the farm.",
-		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります孫にお申し付け下さい"
+		"japanese": "チョコボのお[買い上げ]は向かって一番右の建物チョコボ小屋におります孫にお申し付け下さい"
 	},
 	{
 		"word": "小屋",
@@ -93,7 +93,7 @@
 			"小屋[こや] (n) hut, cabin, shed, (animal) pen,small theatre (theater), temporary playhouse, circus tent, booth,one's own house"
 		],
 		"english": "To purchase a Chocobo, please talk to my grandson. He's in the Chocobo stables at the far right end of the farm.",
-		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります孫にお申し付け下さい"
+		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ[小屋]におります孫にお申し付け下さい"
 	},
 	{
 		"word": "孫",
@@ -102,7 +102,7 @@
 			"孫[まご] (n) grandchild"
 		],
 		"english": "To purchase a Chocobo, please talk to my grandson. He's in the Chocobo stables at the far right end of the farm.",
-		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります孫にお申し付け下さい"
+		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります[孫]にお申し付け下さい"
 	},
 	{
 		"word": "申し付け",
@@ -111,7 +111,7 @@
 			"申し付ける[もうしつける] (v1, vt) to order, to instruct"
 		],
 		"english": "To purchase a Chocobo, please talk to my grandson. He's in the Chocobo stables at the far right end of the farm.",
-		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります孫にお申し付け下さい"
+		"japanese": "チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります孫にお[申し付け]下さい"
 	},
 	{
 		"word": "真っ黒",
@@ -120,7 +120,7 @@
 			"真っ黒[まっくろ] (adj-na, n) pitch black"
 		],
 		"english": "Without a Chocobo, the Midgar Zolom probably got him. It was a man in a black cape.",
-		"japanese": "チョコボなしで湿地帯なんてきっとミドガルズオルムにやられちまったでしょうな。真っ黒なマントの人でしたがね"
+		"japanese": "チョコボなしで湿地帯なんてきっとミドガルズオルムにやられちまったでしょうな。[真っ黒]なマントの人でしたがね"
 	},
 	{
 		"word": "やすく",
@@ -130,7 +130,7 @@
 			"易い[やすい] (aux-adj, adj-i) easy,likely to ..., have a tendency to ...,easy to ..."
 		],
 		"english": "Each level it increases, makes it easier for you to find a Chocobo.",
-		"japanese": "あの、マテリアはレベルがあがるほどチョコボに会いやすくなるんですよ"
+		"japanese": "あの、マテリアはレベルがあがるほどチョコボに会い[やすく]なるんですよ"
 	},
 	{
 		"word": "足り",
@@ -139,7 +139,7 @@
 			"足る[たる] (v5r, vi) to be sufficient, to be enough,to be worth doing, to be worthy of, to deserve,to do (the job), to serve, to answer"
 		],
 		"english": "… Ummm, you don't have enough…",
-		"japanese": "…………あの～、お金が足りませんが…"
+		"japanese": "…………あの～、お金が[足り]ませんが…"
 	},
 	{
 		"word": "商",
@@ -148,7 +148,7 @@
 			"商[しょう] (n, n-suf) quotient,dealing, dealer, store,second degree (of the Japanese amp Chinese pentatonic scale),Shang (dynasty of China)"
 		],
 		"english": "No, I'm not trying to persuade you for money. It's just because of the way things are in the world.",
-		"japanese": "いえいえ、商売っ気をだしているんではなくてですな。こういう時だからこそ！"
+		"japanese": "いえいえ、[商]売っ気をだしているんではなくてですな。こういう時だからこそ！"
 	},
 	{
 		"word": "ぐうぜん",
@@ -157,7 +157,7 @@
 			"偶然[ぐうぜん] (n) coincidence, chance, accident, fortuity,by chance, unexpectedly, accidentally,contingency (philosophy)"
 		],
 		"english": "It just so happens that we aren't taking care of any Chocobos for anyone else, so…",
-		"japanese": "今はぐうぜんにも、うちの牧場には他のお客様からおあずかりしているチョコボもいませんし"
+		"japanese": "今は[ぐうぜん]にも、うちの牧場には他のお客様からおあずかりしているチョコボもいませんし"
 	},
 	{
 		"word": "育成",
@@ -166,7 +166,7 @@
 			"育成[いくせい] (n, vs) rearing, training, nurture, cultivation, promotion"
 		],
 		"english": "How do you raise them?",
-		"japanese": "育成の話が聞きたい"
+		"japanese": "[育成]の話が聞きたい"
 	},
 	{
 		"word": "育て",
@@ -175,7 +175,7 @@
 			"育て[そだて] (n) bringing up, raising"
 		],
 		"english": "To raise a Chocobo, you'll need a Chocobo Stable'.",
-		"japanese": "チョコボをお育てになるには『チョコぼう』と呼ばれる部屋みたいなものが必要となりまして"
+		"japanese": "チョコボをお[育て]になるには『チョコぼう』と呼ばれる部屋みたいなものが必要となりまして"
 	},
 	{
 		"word": "そちら",
@@ -184,7 +184,7 @@
 			"其方[そちら] (pn) that way (direction distant from the speaker, close to the listener),there (place distant from the speaker, close to the listener),that one (something close to the listener),you, your family, your company,that person (someone close to the listener)"
 		],
 		"english": "And they rent for 10000 gil. Currently, I can rent out up to 6 Chocobo Stables'.",
-		"japanese": "そちらを１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます"
+		"japanese": "[そちら]を１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます"
 	},
 	{
 		"word": "貸し",
@@ -193,7 +193,7 @@
 			"貸し[かし] (n) loan, lending,favor, favour, debt, obligation,creditor, method of lending, credit side"
 		],
 		"english": "And they rent for 10000 gil. Currently, I can rent out up to 6 Chocobo Stables'.",
-		"japanese": "そちらを１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます"
+		"japanese": "そちらを１つお[貸し]するのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます"
 	},
 	{
 		"word": "６つ",
@@ -202,7 +202,7 @@
 			"六つ[むっつ] (num) six"
 		],
 		"english": "And they rent for 10000 gil. Currently, I can rent out up to 6 Chocobo Stables'.",
-		"japanese": "そちらを１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます"
+		"japanese": "そちらを１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は[６つ]までお客様にお貸しできます"
 	},
 	{
 		"word": "借り",
@@ -211,7 +211,7 @@
 			"借りる[かりる] (v1, vt) to borrow, to have a loan,to rent, to hire"
 		],
 		"english": "If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.",
-		"japanese": "こちら、お借りいただきますとお客様が捕まえになられましたチョコボを一時的に外のサクの中に４匹までおあずかりいたしまして"
+		"japanese": "こちら、お[借り]いただきますとお客様が捕まえになられましたチョコボを一時的に外のサクの中に４匹までおあずかりいたしまして"
 	},
 	{
 		"word": "一時",
@@ -221,7 +221,7 @@
 			"一時[ひととき] (n-t, n-adv) moment, a (short) time, a while,former times,two-hour period"
 		],
 		"english": "If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.",
-		"japanese": "こちら、お借りいただきますとお客様が捕まえになられましたチョコボを一時的に外のサクの中に４匹までおあずかりいたしまして"
+		"japanese": "こちら、お借りいただきますとお客様が捕まえになられましたチョコボを[一時]的に外のサクの中に４匹までおあずかりいたしまして"
 	},
 	{
 		"word": "サク",
@@ -244,7 +244,7 @@
 			"索[さく] (n) rope, cord"
 		],
 		"english": "If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.",
-		"japanese": "こちら、お借りいただきますとお客様が捕まえになられましたチョコボを一時的に外のサクの中に４匹までおあずかりいたしまして"
+		"japanese": "こちら、お借りいただきますとお客様が捕まえになられましたチョコボを一時的に外の[サク]の中に４匹までおあずかりいたしまして"
 	},
 	{
 		"word": "後日",
@@ -253,7 +253,7 @@
 			"後日[ごじつ] (n-adv, n-t) in the future, another day, later"
 		],
 		"english": "At a later date, you can select the Chocobo that you would like to put in your Chocobo Stable'.",
-		"japanese": "後日、お客様が『チョコぼう』に選んで、お入れになる形になります"
+		"japanese": "[後日]、お客様が『チョコぼう』に選んで、お入れになる形になります"
 	},
 	{
 		"word": "入れ",
@@ -262,7 +262,7 @@
 			"入れ[いれ] (n-suf) container, receptacle"
 		],
 		"english": "At a later date, you can select the Chocobo that you would like to put in your Chocobo Stable'.",
-		"japanese": "後日、お客様が『チョコぼう』に選んで、お入れになる形になります"
+		"japanese": "後日、お客様が『チョコぼう』に選んで、お[入れ]になる形になります"
 	},
 	{
 		"word": "ゆう",
@@ -280,7 +280,7 @@
 			"雄[ゆう] (n) male, man,excellence, greatness, best (of), great person, leading figure"
 		],
 		"english": "We don't have enough room to rent out more than 6 here…",
-		"japanese": "こちらも、６つ以上お貸しするよゆうがありませんので…"
+		"japanese": "こちらも、６つ以上お貸しするよ[ゆう]がありませんので…"
 	},
 	{
 		"word": "ねこ",
@@ -289,7 +289,7 @@
 			"猫[ねこ] (n) cat,shamisen,geisha,wheelbarrow,clay bed-warmer,bottom, [object Object]"
 		],
 		"english": "Someone once told me there is a Chocobo Sage'…somewhere.",
-		"japanese": "人から聞いた話なんですがねこの世界のどこかにチョコボせんにんなんて呼ばれてる人が"
+		"japanese": "人から聞いた話なんですが[ねこ]の世界のどこかにチョコボせんにんなんて呼ばれてる人が"
 	},
 	{
 		"word": "わずらわす",
@@ -298,7 +298,7 @@
 			"煩わす[わずらわす] (v5s) to trouble, to bother, to annoy, to give trouble"
 		],
 		"english": "Chocobos aren't hard to take care of.",
-		"japanese": "チョコボを育てるのに、お客様の手をわずらわす事はありません"
+		"japanese": "チョコボを育てるのに、お客様の手を[わずらわす]事はありません"
 	},
 	{
 		"word": "普段",
@@ -307,7 +307,7 @@
 			"普段[ふだん] (n-t) usual, normal, everyday, habitual, ordinary,usually, normally, generally, habitually, always"
 		],
 		"english": "The day-to-day care will all be done here.",
-		"japanese": "普段の世話はこちらがしっかりやりますので"
+		"japanese": "[普段]の世話はこちらがしっかりやりますので"
 	},
 	{
 		"word": "エサ",
@@ -316,7 +316,7 @@
 			"餌[えさ] (n) (animal) feed, fodder, pet food,bait, lure, enticement"
 		],
 		"english": "But, please buy the food for the Chocobo, and feed them yourselves.",
-		"japanese": "ただ、チョコボにあたえるエサはお客様がお買いになるかして直接おあたえください"
+		"japanese": "ただ、チョコボにあたえる[エサ]はお客様がお買いになるかして直接おあたえください"
 	},
 	{
 		"word": "買い",
@@ -325,7 +325,7 @@
 			"買い[かい] (n) buying, shopping,buyer,purchase"
 		],
 		"english": "But, please buy the food for the Chocobo, and feed them yourselves.",
-		"japanese": "ただ、チョコボにあたえるエサはお客様がお買いになるかして直接おあたえください"
+		"japanese": "ただ、チョコボにあたえるエサはお客様がお[買い]になるかして直接おあたえください"
 	},
 	{
 		"word": "オス",
@@ -338,7 +338,7 @@
 			"おす (exp) to be"
 		],
 		"english": "Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.",
-		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
+		"japanese": "それから、[オス]とメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
 	},
 	{
 		"word": "メス",
@@ -350,7 +350,7 @@
 			"見す[めす] (v5s, vt) to see, to look, to watch,to rule, to govern"
 		],
 		"english": "Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.",
-		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
+		"japanese": "それから、オスと[メス]のチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
 	},
 	{
 		"word": "カップル",
@@ -359,7 +359,7 @@
 			"カップル (n) couple"
 		],
 		"english": "Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.",
-		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
+		"japanese": "それから、オスとメスのチョコボは[カップル]にすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
 	},
 	{
 		"word": "実",
@@ -372,7 +372,7 @@
 			"正身[そうじみ] (n) the real person, said person,real thing, genuine article"
 		],
 		"english": "Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.",
-		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
+		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『[実]』をあたえますとタマゴが生まれます"
 	},
 	{
 		"word": "タマゴ",
@@ -381,7 +381,7 @@
 			"卵[たまご] (n) eggs, egg, spawn, roe,hen egg,(an expert) in the making,beginning, origin, infancy"
 		],
 		"english": "Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.",
-		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますとタマゴが生まれます"
+		"japanese": "それから、オスとメスのチョコボはカップルにすることが出来ましてカップルにしたチョコボに『実』をあたえますと[タマゴ]が生まれます"
 	},
 	{
 		"word": "大抵",
@@ -390,7 +390,7 @@
 			"大抵[たいてい] (adj-na) mostly, ordinarily, usually, generally,probably,most, almost all,ordinary,proper, appropriate, moderate"
 		],
 		"english": "New Chocobos inherit the abilities of their parents.",
-		"japanese": "タマゴから生まれた子チョコボは大抵父と母の能力を引き継いだチョコボになりますが"
+		"japanese": "タマゴから生まれた子チョコボは[大抵]父と母の能力を引き継いだチョコボになりますが"
 	},
 	{
 		"word": "まれ",
@@ -399,7 +399,7 @@
 			"稀[まれ] (adj-na) rare, seldom"
 		],
 		"english": "I've heard that sometimes new breeds of Chocobo are born with special abilities. I've never actually seen it before, though.",
-		"japanese": "まれに、特異な能力を持ったチョコボになることがあるようです。私もほとんど見たことがないんですがね"
+		"japanese": "[まれ]に、特異な能力を持ったチョコボになることがあるようです。私もほとんど見たことがないんですがね"
 	},
 	{
 		"word": "特異",
@@ -408,7 +408,7 @@
 			"特異[とくい] (adj-na, n) unique, peculiar, singular"
 		],
 		"english": "I've heard that sometimes new breeds of Chocobo are born with special abilities. I've never actually seen it before, though.",
-		"japanese": "まれに、特異な能力を持ったチョコボになることがあるようです。私もほとんど見たことがないんですがね"
+		"japanese": "まれに、[特異]な能力を持ったチョコボになることがあるようです。私もほとんど見たことがないんですがね"
 	},
 	{
 		"word": "だいぶ",
@@ -420,7 +420,7 @@
 			"ダイブ (n, vs) dive (e.g. into water),(underwater) diving,dive (of an aircraft)"
 		],
 		"english": "Wasn't it really expensive?",
-		"japanese": "お兄ちゃんたちだいぶ、お金取られたでしょ？"
+		"japanese": "お兄ちゃんたち[だいぶ]、お金取られたでしょ？"
 	},
 	{
 		"word": "取ら",
@@ -429,7 +429,7 @@
 			"取る[とる] (v5r, vt) to take, to pick up, to harvest, to earn, to win, to choose,to steal,to eat, to have (a meal),to remove (one's glasses, etc.),to compete (in sumo, cards, etc.), to play"
 		],
 		"english": "Wasn't it really expensive?",
-		"japanese": "お兄ちゃんたちだいぶ、お金取られたでしょ？"
+		"japanese": "お兄ちゃんたちだいぶ、お金[取ら]れたでしょ？"
 	},
 	{
 		"word": "おじいちゃん",
@@ -438,7 +438,7 @@
 			"お祖父ちゃん[おじいちゃん] (n) grandpa, granddad"
 		],
 		"english": "But don't be mad at my brother or Grandpa.",
-		"japanese": "でも、グリングリンお兄ちゃんやグリンおじいちゃんを怒らないでね"
+		"japanese": "でも、グリングリンお兄ちゃんやグリン[おじいちゃん]を怒らないでね"
 	},
 	{
 		"word": "ママ",
@@ -451,7 +451,7 @@
 			"飯[まんま] (n) cooked rice"
 		],
 		"english": "Ever since Mom and Dad died, it's been like this…",
-		"japanese": "パパとママが死んでからずっとそうなの……"
+		"japanese": "パパと[ママ]が死んでからずっとそうなの……"
 	},
 	{
 		"word": "白い",
@@ -460,7 +460,7 @@
 			"白い[しろい] (adj-i) white"
 		],
 		"english": "The white Chocobo likes it when you scratch behind its ears.",
-		"japanese": "白い子チョコボはね、耳の裏をこちょこちょしてあげるとすっごくよろこぶのよ"
+		"japanese": "[白い]子チョコボはね、耳の裏をこちょこちょしてあげるとすっごくよろこぶのよ"
 	},
 	{
 		"word": "こちょこちょ",
@@ -469,7 +469,7 @@
 			"こちょこちょ (adv, adv-to, vs) coochy-coo, hitchy-koo, kitchy-koo (tickling sound)"
 		],
 		"english": "The white Chocobo likes it when you scratch behind its ears.",
-		"japanese": "白い子チョコボはね、耳の裏をこちょこちょしてあげるとすっごくよろこぶのよ"
+		"japanese": "白い子チョコボはね、耳の裏を[こちょこちょ]してあげるとすっごくよろこぶのよ"
 	},
 	{
 		"word": "すっごく",
@@ -478,7 +478,7 @@
 			"すっごい (adj-i) terrible, dreadful,amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific,to a great extent, vast (in numbers)"
 		],
 		"english": "The white Chocobo likes it when you scratch behind its ears.",
-		"japanese": "白い子チョコボはね、耳の裏をこちょこちょしてあげるとすっごくよろこぶのよ"
+		"japanese": "白い子チョコボはね、耳の裏をこちょこちょしてあげると[すっごく]よろこぶのよ"
 	},
 	{
 		"word": "くすぐる",
@@ -487,7 +487,7 @@
 			"擽る[くすぐる] (v5r, vt) to tickle,to tickle (one's curiosity, vanity, etc.), to arouse, to appeal to, to flatter,to make laugh, to amuse, to entertain"
 		],
 		"english": "But if you scratch it someplace that it doesn't like, it'll get mad, so be careful.",
-		"japanese": "でも、へんなとこくすぐるときげんわるくしちゃうから気をつけないとダメよ"
+		"japanese": "でも、へんなとこ[くすぐる]ときげんわるくしちゃうから気をつけないとダメよ"
 	},
 	{
 		"word": "げん",
@@ -508,7 +508,7 @@
 			"舷[げん] (n) side of a boat, gunwale"
 		],
 		"english": "But if you scratch it someplace that it doesn't like, it'll get mad, so be careful.",
-		"japanese": "でも、へんなとこくすぐるときげんわるくしちゃうから気をつけないとダメよ"
+		"japanese": "でも、へんなとこくすぐるとき[げん]わるくしちゃうから気をつけないとダメよ"
 	},
 	{
 		"word": "売り切れ",
@@ -517,7 +517,7 @@
 			"売り切れる[うりきれる] (v1, vi) to be sold out"
 		],
 		"english": "We're all out of Chocobos. I'm taking care of the ones out there for someone else.",
-		"japanese": "チョコボは売り切れちゃったんだ外にいるのは、あずかり物なんでね"
+		"japanese": "チョコボは[売り切れ]ちゃったんだ外にいるのは、あずかり物なんでね"
 	},
 	{
 		"word": "野生",
@@ -526,7 +526,7 @@
 			"野生[やせい] (pn) wild, growing wild, living in the wild,I"
 		],
 		"english": "You know, if you really want a Chocobo, you should go out and catch one.",
-		"japanese": "そうだ、チョコボがほしいなら野生のをつかまえるといいよ"
+		"japanese": "そうだ、チョコボがほしいなら[野生]のをつかまえるといいよ"
 	},
 	{
 		"word": "ツメ",
@@ -537,7 +537,7 @@
 			"ツメ (n) to close up (editing mark)"
 		],
 		"english": "You see those claw prints out there? Wild Chocobo's will appear in those areas.",
-		"japanese": "外で３本のツメあとを見ただろ？あれがあるところには野生のチョコボが必ずいるよ"
+		"japanese": "外で３本の[ツメ]あとを見ただろ？あれがあるところには野生のチョコボが必ずいるよ"
 	},
 	{
 		"word": "無い",
@@ -546,7 +546,7 @@
 			"無い[ない] (aux-adj) nonexistent, not being (there),unpossessed, unowned, not had,unique,not, impossible, won't happen,not ...,to not be..., to have not ..."
 		],
 		"english": "But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.",
-		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね"
+		"japanese": "ただし『チョコボよせ』が[無い]とチョコボが現れないんだよ。もともと用心深い生き物だしね"
 	},
 	{
 		"word": "現れ",
@@ -555,7 +555,7 @@
 			"現れる[あらわれる] (v1, vi) to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise,to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)"
 		],
 		"english": "But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.",
-		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね"
+		"japanese": "ただし『チョコボよせ』が無いとチョコボが[現れ]ないんだよ。もともと用心深い生き物だしね"
 	},
 	{
 		"word": "用心深い",
@@ -564,7 +564,7 @@
 			"用心深い[ようじんぶかい] (adj-i) careful, cautious, wary, watchful, vigilant, prudent"
 		],
 		"english": "But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.",
-		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね"
+		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと[用心深い]生き物だしね"
 	},
 	{
 		"word": "生き物",
@@ -573,7 +573,7 @@
 			"生き物[いきもの] (n) living thing, animal"
 		],
 		"english": "But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.",
-		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね"
+		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い[生き物]だしね"
 	},
 	{
 		"word": "だし",
@@ -583,7 +583,7 @@
 			"山車[だし] (n) parade float, festival float"
 		],
 		"english": "But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.",
-		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね"
+		"japanese": "ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物[だし]ね"
 	},
 	{
 		"word": "おびきだす",
@@ -592,7 +592,7 @@
 			"おびき出す[おびきだす] (v5s, vt) to lure out of, to decoy out of,to drive to (tears, sleep, etc.), to evoke (sympathy, etc.),to abduct, to entice out of"
 		],
 		"english": "'Chocobo Lure' is a type of Materia which attracts Chocobos.",
-		"japanese": "『チョコボよせ』はチョコボをおびきだすマテリアさ"
+		"japanese": "『チョコボよせ』はチョコボを[おびきだす]マテリアさ"
 	},
 	{
 		"word": "まわり",
@@ -602,7 +602,7 @@
 			"回り[まわり] (suf, ctr) rotation,making the rounds,spreading,effect, efficacy,by way of, via,round, turn,size,12-year period, 12-year age difference"
 		],
 		"english": "That is why you must defeat the monsters first before you catch the Chocobo.",
-		"japanese": "だから、まずチョコボのまわりにいるモンスターを倒す必要があるんだ"
+		"japanese": "だから、まずチョコボの[まわり]にいるモンスターを倒す必要があるんだ"
 	},
 	{
 		"word": "野菜",
@@ -611,7 +611,7 @@
 			"野菜[やさい] (n, adj-no) vegetable"
 		],
 		"english": "But, if you use 'Greens' they'll focus on them and won't run away.",
-		"japanese": "けど、『野菜』を使うと食べるのに夢中になって逃げにくくなるのさ"
+		"japanese": "けど、『[野菜]』を使うと食べるのに夢中になって逃げにくくなるのさ"
 	},
 	{
 		"word": "夢中",
@@ -620,7 +620,7 @@
 			"夢中[むちゅう] (n) absorbed in, immersed in, crazy about, obsessed with, devoted to,forgetting oneself, daze, trance, ecstasy, delirium,within a dream, while dreaming"
 		],
 		"english": "But, if you use 'Greens' they'll focus on them and won't run away.",
-		"japanese": "けど、『野菜』を使うと食べるのに夢中になって逃げにくくなるのさ"
+		"japanese": "けど、『野菜』を使うと食べるのに[夢中]になって逃げにくくなるのさ"
 	},
 	{
 		"word": "一目散",
@@ -629,7 +629,7 @@
 			"一目散[いちもくさん] (n) running at full speed, going as fast as one can go"
 		],
 		"english": "Oh, and remember, once you get off a Chocobo, it'll escape.",
-		"japanese": "あっ、それと捕まえたチョコボは一度チョコボからおりたら一目散に逃げてしまうよ"
+		"japanese": "あっ、それと捕まえたチョコボは一度チョコボからおりたら[一目散]に逃げてしまうよ"
 	},
 	{
 		"word": "商談",
@@ -638,7 +638,7 @@
 			"商談[しょうだん] (n, vs) business discussion, negotiation"
 		],
 		"english": "Well then, shall we get down to business?",
-		"japanese": "じゃあ、そろそろ商談に入ろうかな"
+		"japanese": "じゃあ、そろそろ[商談]に入ろうかな"
 	},
 	{
 		"word": "あり",
@@ -648,7 +648,7 @@
 			"在り[あり] (vr, vi) existing (at the present moment),alright, acceptable, passable,to be (usu. of inanimate objects), to have"
 		],
 		"english": "Thanks!",
-		"japanese": "まいどあり！"
+		"japanese": "まいど[あり]！"
 	},
 	{
 		"word": "チョット",
@@ -657,7 +657,7 @@
 			"一寸[ちょっと] (int) a little, a bit, slightly,just a minute, for a moment, briefly,somewhat, rather, fairly, pretty, quite,(not) easily, (not) readily,hey!, excuse me"
 		],
 		"english": "Get some information",
-		"japanese": "チョット話を聞く"
+		"japanese": "[チョット]話を聞く"
 	},
 	{
 		"word": "カップリング",
@@ -666,7 +666,7 @@
 			"カップリング (n) coupling,shipping, [object Object]"
 		],
 		"english": "Mating Chocobos",
-		"japanese": "チョコボをカップリングする"
+		"japanese": "チョコボを[カップリング]する"
 	},
 	{
 		"word": "逃がす",
@@ -675,7 +675,7 @@
 			"逃がす[にがす] (v5s, vt) to set free, to let go, to release,to miss (e.g. a chance), to lose, to let get away, to fail to catch"
 		],
 		"english": "Releasing Chocobos",
-		"japanese": "チョコボを逃がす"
+		"japanese": "チョコボを[逃がす]"
 	},
 	{
 		"word": "戻し",
@@ -684,7 +684,7 @@
 			"戻す[もどす] (v5s, vt) to put back, to return, to give back, to restore (to a previous state, e.g. defrosting, reconstituting, reconciling), to turn back (e.g. clock hand),to vomit, to throw up,to recover (of a market price)"
 		],
 		"english": "You must return the Chocobo that's out, if you want to take out a different one.",
-		"japanese": "他のチョコボで外に出たいなら今、外に出してるチョコボを戻してからにしてよ"
+		"japanese": "他のチョコボで外に出たいなら今、外に出してるチョコボを[戻し]てからにしてよ"
 	},
 	{
 		"word": "おじいさん",
@@ -693,7 +693,7 @@
 			"お祖父さん[おじいさん] (n) grandfather,male senior-citizen"
 		],
 		"english": "If you want to raise Chocobos, go talk to Grandpa.",
-		"japanese": "チョコボを育てたいならおじいさんに会ってきてよ"
+		"japanese": "チョコボを育てたいなら[おじいさん]に会ってきてよ"
 	},
 	{
 		"word": "もちだし",
@@ -702,7 +702,7 @@
 			"持ち出す[もちだす] (v5s, vt) to take out, to carry out, to bring out from where it belongs,to mention something, to broach a topic, to bring up (a subject), to raise (an issue), to mention"
 		],
 		"english": "And even if you take it outside, this Chocobo won't run away when you get off of it.",
-		"japanese": "それに、ここから外にもちだした、チョコボはおりても逃げださなくなるよ"
+		"japanese": "それに、ここから外に[もちだし]た、チョコボはおりても逃げださなくなるよ"
 	},
 	{
 		"word": "させ",
@@ -713,7 +713,7 @@
 			"せる (aux-v, v1) [object Object],[object Object],[object Object]"
 		],
 		"english": "Chocobos will mature differently depending on which 'Greens' they eat. Certain 'Greens' will boost their stamina.",
-		"japanese": "それとね、チョコボは食べる『野菜』によって、育ち方が違ったりするんだよ。ある『野菜』を食べさせてるとスタミナモリモリになったりとかね"
+		"japanese": "それとね、チョコボは食べる『野菜』によって、育ち方が違ったりするんだよ。ある『野菜』を食べ[させ]てるとスタミナモリモリになったりとかね"
 	},
 	{
 		"word": "そこら",
@@ -722,7 +722,7 @@
 			"其処ら[そこら] (n) everywhere, somewhere, approximately, that area, around there"
 		],
 		"english": "You'll have to figure out which kinds have what effects for yourselves.",
-		"japanese": "そこらへんの、効果は自分で覚えていくのがいいね"
+		"japanese": "[そこら]へんの、効果は自分で覚えていくのがいいね"
 	},
 	{
 		"word": "もって",
@@ -731,7 +731,7 @@
 			"以て[もって] (exp, conj) with, by, by means of,because of, on account of, for, due to,on (a day, date), at (a time), as of (e.g. today),adds emphasis to preceding word,in addition (to being), moreover, as well as, and,therefore, and so, hence"
 		],
 		"english": "Oh, and Chocobos are born with certain natural abilities. So, no matter how much they mature, they can't get more abilities than what they're born with.",
-		"japanese": "それと、チョコボにはもって生まれた能力があってね自分の持っている能力以上は育たないんだ"
+		"japanese": "それと、チョコボには[もって]生まれた能力があってね自分の持っている能力以上は育たないんだ"
 	},
 	{
 		"word": "限界",
@@ -740,7 +740,7 @@
 			"限界[げんかい] (n, adj-no) limit, bound"
 		],
 		"english": "If a Chocobo's abilities don't increase even when you feed it, that means it's reached its limit.",
-		"japanese": "エサをあげても、能力が上がらなくなったらそのチョコボの限界がきてると思っていいよ"
+		"japanese": "エサをあげても、能力が上がらなくなったらそのチョコボの[限界]がきてると思っていいよ"
 	},
 	{
 		"word": "ストック",
@@ -749,7 +749,7 @@
 			"ストック (n) stock,ski pole"
 		],
 		"english": "The Chocobo out there is part of the stock that you caught.",
-		"japanese": "外のチョコボは、お客さんが捕まえたチョコボのストックさ"
+		"japanese": "外のチョコボは、お客さんが捕まえたチョコボの[ストック]さ"
 	},
 	{
 		"word": "余地",
@@ -758,7 +758,7 @@
 			"余地[よち] (n) place, room, margin, scope"
 		],
 		"english": "There's still lots of room to grow.",
-		"japanese": "まだまだ成長の余地はありそうだね"
+		"japanese": "まだまだ成長の[余地]はありそうだね"
 	},
 	{
 		"word": "タンタル",
@@ -767,7 +767,7 @@
 			"タンタル (n, adj-no) tantalum (Ta)"
 		],
 		"english": "Tantal Greens =",
-		"japanese": "タンタルの野菜"
+		"japanese": "[タンタル]の野菜"
 	},
 	{
 		"word": "ゲン",
@@ -788,7 +788,7 @@
 			"舷[げん] (n) side of a boat, gunwale"
 		],
 		"english": "Reagan Greens =",
-		"japanese": "レイゲンの野菜"
+		"japanese": "レイ[ゲン]の野菜"
 	},
 	{
 		"word": "シル",
@@ -798,7 +798,7 @@
 			"知る[しる] (v5r, vt) to be aware of, to know, to be conscious of, to cognize, to cognise,to notice, to feel,to understand, to comprehend, to grasp,to remember, to be acquainted with (a procedure),to experience, to go through, to learn,to be acquainted with (a person), to get to know,to concern"
 		],
 		"english": "Sylkis Greens =",
-		"japanese": "シルキスの野菜"
+		"japanese": "[シル]キスの野菜"
 	},
 	{
 		"word": "キス",
@@ -811,7 +811,7 @@
 			"帰す[きす] (v5s, vs-c) to come to (in the end), to end in,to attribute, to blame"
 		],
 		"english": "Sylkis Greens =",
-		"japanese": "シルキスの野菜"
+		"japanese": "シル[キス]の野菜"
 	},
 	{
 		"word": "パ",
@@ -823,7 +823,7 @@
 			"ぱ (suf) apiece, each"
 		],
 		"english": "Param Nut =",
-		"japanese": "パラムの実"
+		"japanese": "[パ]ラムの実"
 	},
 	{
 		"word": "ラム",
@@ -833,7 +833,7 @@
 			"ＲＡＭ[ラム] (n) random-access memory, RAM"
 		],
 		"english": "Param Nut =",
-		"japanese": "パラムの実"
+		"japanese": "パ[ラム]の実"
 	},
 	{
 		"word": "かしこ",
@@ -842,7 +842,7 @@
 			"賢い[かしこい] (adj-i) wise, clever, smart"
 		],
 		"english": "Intelligence Plus!",
-		"japanese": "かしこさアップ！"
+		"japanese": "[かしこ]さアップ！"
 	},
 	{
 		"word": "性格",
@@ -851,7 +851,7 @@
 			"性格[せいかく] (n) character, personality, disposition, nature"
 		],
 		"english": "Their personalities improved!",
-		"japanese": "性格がよくなった！"
+		"japanese": "[性格]がよくなった！"
 	},
 	{
 		"word": "メモ",
@@ -860,7 +860,7 @@
 			"メモ (n, vs) memo, note, memorandum"
 		],
 		"english": "Wow, that's amazing! …Let me take some notes.",
-		"japanese": "へぇ、おもしろ～いメモっとこ"
+		"japanese": "へぇ、おもしろ～い[メモ]っとこ"
 	},
 	{
 		"word": "面白い",
@@ -869,7 +869,7 @@
 			"面白い[おもしろい] (adj-i) interesting, fascinating, intriguing, enthralling,amusing, funny, comical,pleasant, enjoyable, agreeable, fun"
 		],
 		"english": "For telling me that story, I'll tell you about each Chocobo's abilities.",
-		"japanese": "面白い話聞かせてくれたお礼にクリンがチョコボの能力を見抜いてあげる"
+		"japanese": "[面白い]話聞かせてくれたお礼にクリンがチョコボの能力を見抜いてあげる"
 	},
 	{
 		"word": "クリ",
@@ -881,7 +881,7 @@
 			"クリ (n) clitoris"
 		],
 		"english": "For telling me that story, I'll tell you about each Chocobo's abilities.",
-		"japanese": "面白い話聞かせてくれたお礼にクリンがチョコボの能力を見抜いてあげる"
+		"japanese": "面白い話聞かせてくれたお礼に[クリ]ンがチョコボの能力を見抜いてあげる"
 	},
 	{
 		"word": "見抜い",
@@ -890,7 +890,7 @@
 			"見抜く[みぬく] (v5k, vt) to see through, to see into (someone's heart, mind, etc.), to perceive, to find out, to detect"
 		],
 		"english": "For telling me that story, I'll tell you about each Chocobo's abilities.",
-		"japanese": "面白い話聞かせてくれたお礼にクリンがチョコボの能力を見抜いてあげる"
+		"japanese": "面白い話聞かせてくれたお礼にクリンがチョコボの能力を[見抜い]てあげる"
 	},
 	{
 		"word": "速",
@@ -899,7 +899,7 @@
 			"速[そく] (suf, ctr) gear, speed (e.g. 4-speed transmission)"
 		],
 		"english": "From what I see, the fastest sprinter is…",
-		"japanese": "クリンが見たところダッシュが１番速そうなのは…"
+		"japanese": "クリンが見たところダッシュが１番[速]そうなのは…"
 	},
 	{
 		"word": "かしこ",
@@ -910,7 +910,7 @@
 			"畏[かしこ] (exp) yours sincerely (used to sign off on letters), respectfully yours"
 		],
 		"english": "Finally, the most intelligent one is…",
-		"japanese": "最後に、クリンが見たところ１番かしこそうなのは…"
+		"japanese": "最後に、クリンが見たところ１番[かしこ]そうなのは…"
 	},
 	{
 		"word": "川",
@@ -919,7 +919,7 @@
 			"川[かわ] (suf) river, stream,River, the ... river"
 		],
 		"english": "Other than regular Chocobo, there are Mountain Chocobo' and 'River-Chocobo'.",
-		"japanese": "チョコボには普通のチョコボ以外に『山チョコボ』と『川チョコボ』がいるんだって。"
+		"japanese": "チョコボには普通のチョコボ以外に『山チョコボ』と『[川]チョコボ』がいるんだって。"
 	},
 	{
 		"word": "南東",
@@ -928,7 +928,7 @@
 			"南東[なんとう] (n, adj-no) southeast"
 		],
 		"english": "A 'Great Chocobo' and a 'Good Chocobo' are found… on an island southeast of the Chocobo Sage's dwelling at Corel and in the area west of Corel. The 'Carob Nut' can be found south of the Chocobo Sage's dwelling. Monsters carry them. Let's see, is Bone Village just south of there?",
-		"japanese": "『すごくいいチョコボ』と『いい感じのチョコボ』はチョコボせんにんがいる所から南東の島とコレル。それとコレルの西の方でとれるんだって。それから『カラブの実』はチョコボせんにんのいる所から南にいるモンスターがよく持ってるんだってさ。あそこから南って言うとボーンビレッジあたりかしら？"
+		"japanese": "『すごくいいチョコボ』と『いい感じのチョコボ』はチョコボせんにんがいる所から[南東]の島とコレル。それとコレルの西の方でとれるんだって。それから『カラブの実』はチョコボせんにんのいる所から南にいるモンスターがよく持ってるんだってさ。あそこから南って言うとボーンビレッジあたりかしら？"
 	},
 	{
 		"word": "とれる",
@@ -942,7 +942,7 @@
 			"獲れる[とれる] (v1) to be harvested, to be reaped, to be yielded,to be able to harvest, to be able to reap, to be able to yield"
 		],
 		"english": "A 'Great Chocobo' and a 'Good Chocobo' are found… on an island southeast of the Chocobo Sage's dwelling at Corel and in the area west of Corel. The 'Carob Nut' can be found south of the Chocobo Sage's dwelling. Monsters carry them. Let's see, is Bone Village just south of there?",
-		"japanese": "『すごくいいチョコボ』と『いい感じのチョコボ』はチョコボせんにんがいる所から南東の島とコレル。それとコレルの西の方でとれるんだって。それから『カラブの実』はチョコボせんにんのいる所から南にいるモンスターがよく持ってるんだってさ。あそこから南って言うとボーンビレッジあたりかしら？"
+		"japanese": "『すごくいいチョコボ』と『いい感じのチョコボ』はチョコボせんにんがいる所から南東の島とコレル。それとコレルの西の方で[とれる]んだって。それから『カラブの実』はチョコボせんにんのいる所から南にいるモンスターがよく持ってるんだってさ。あそこから南って言うとボーンビレッジあたりかしら？"
 	},
 	{
 		"word": "ビックリ",
@@ -951,7 +951,7 @@
 			"吃驚[びっくり] (adj-f) to be surprised, to be amazed, to be frightened, to be astonished, to get startled, to jump,surprise (e.g. surprise party)"
 		],
 		"english": "One surprise: If you get the \"Mountain Chocobo\" and the \"River Chocobo\" to produce an egg, You'll get a Chocobo that can cross mountains and rivers. I bet that the right nut for that is the \"Carob Nut.\"",
-		"japanese": "ちょっとビックリ『山チョコボ』と『川チョコボ』にタマゴを生ませると山も川も越えられるチョコボが出来るんだって。きっと、実は『カラブの実』がいいと思うな。"
+		"japanese": "ちょっと[ビックリ]『山チョコボ』と『川チョコボ』にタマゴを生ませると山も川も越えられるチョコボが出来るんだって。きっと、実は『カラブの実』がいいと思うな。"
 	},
 	{
 		"word": "越え",
@@ -960,7 +960,7 @@
 			"越える[こえる] (v1, vt) to cross over, to cross, to pass through, to pass over (out of), to go beyond, to go past,to exceed, to surpass, to be more (than)"
 		],
 		"english": "One surprise: If you get the \"Mountain Chocobo\" and the \"River Chocobo\" to produce an egg, You'll get a Chocobo that can cross mountains and rivers. I bet that the right nut for that is the \"Carob Nut.\"",
-		"japanese": "ちょっとビックリ『山チョコボ』と『川チョコボ』にタマゴを生ませると山も川も越えられるチョコボが出来るんだって。きっと、実は『カラブの実』がいいと思うな。"
+		"japanese": "ちょっとビックリ『山チョコボ』と『川チョコボ』にタマゴを生ませると山も川も[越え]られるチョコボが出来るんだって。きっと、実は『カラブの実』がいいと思うな。"
 	},
 	{
 		"word": "小島",
@@ -969,7 +969,7 @@
 			"小島[こじま] (n) small island, islet"
 		],
 		"english": "Zeio Nuts are found on a little island east of the Chocobo Sage. Goblins' have them. With this, you can produce an 'Ocean Chocobo'.",
-		"japanese": "『ゼイオの実』はチョコボせんにんがいる所から東の小さな小島にいる『ゴブリン』がもってるんだってこれで『海チョコボ』も生ませられるね。"
+		"japanese": "『ゼイオの実』はチョコボせんにんがいる所から東の小さな[小島]にいる『ゴブリン』がもってるんだってこれで『海チョコボ』も生ませられるね。"
 	},
 	{
 		"word": "レース",
@@ -978,7 +978,7 @@
 			"レース (n) race,lace,lathe"
 		],
 		"english": "According to my research, Mountain, River, and Ocean Chocobos are hard to produce. But, if you take the right care of the Chocobo and increase their Class ranking by winning at the races, it'll increase your chances of getting one.",
-		"japanese": "クリンの研究によると山、川、海チョコボはメモの条件だけだとチョット、生まれにくいみたい。けど、うまく育ててレースにだしてクラスをあげてやるととっても生まれやすくなるみたいね."
+		"japanese": "クリンの研究によると山、川、海チョコボはメモの条件だけだとチョット、生まれにくいみたい。けど、うまく育てて[レース]にだしてクラスをあげてやるととっても生まれやすくなるみたいね."
 	},
 	{
 		"word": "とっても",
@@ -987,6 +987,6 @@
 			"迚も[とても] (adv) very, awfully, exceedingly,(not) at all, by no means, simply (cannot)"
 		],
 		"english": "According to my research, Mountain, River, and Ocean Chocobos are hard to produce. But, if you take the right care of the Chocobo and increase their Class ranking by winning at the races, it'll increase your chances of getting one.",
-		"japanese": "クリンの研究によると山、川、海チョコボはメモの条件だけだとチョット、生まれにくいみたい。けど、うまく育ててレースにだしてクラスをあげてやるととっても生まれやすくなるみたいね."
+		"japanese": "クリンの研究によると山、川、海チョコボはメモの条件だけだとチョット、生まれにくいみたい。けど、うまく育ててレースにだしてクラスをあげてやると[とっても]生まれやすくなるみたいね."
 	}
 ]

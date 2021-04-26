@@ -21,9 +21,8 @@ body{
 
 #header{
 	background-color:rgba(0,0,255, 0.5);
-	padding:20px;
 	text-align:center;
-	font-size:300%;
+	font-size:200%;
 }
 
 #userpanel{
@@ -148,11 +147,11 @@ input[type=radio]{
 
 a{
 	text-decoration:none;
-	color:#cc0;
+	color:rgb(255, 255, 0);
 }
 
 a:visited{
-	color:#7b757b;
+	color:#616809;
 }
 
 .ff7 *{

@@ -6,7 +6,7 @@
 			"こっそり (adv, adv-to) stealthily, secretly"
 		],
 		"english": "Hey, CLOUD! Why don't the two of us sneak out of here and spend some time together?",
-		"japanese": "ね、CLOUD！ふたりでこっそり遊びにいかない？"
+		"japanese": "ね、CLOUD！ふたりで[こっそり]遊びにいかない？"
 	},
 	{
 		"word": "正式",
@@ -15,7 +15,7 @@
 			"正式[せいしき] (adj-na, adj-no, n) due form, official, formality"
 		],
 		"english": "Well, not a real one…",
-		"japanese": "正式には、ない"
+		"japanese": "[正式]には、ない"
 	},
 	{
 		"word": "青年",
@@ -24,7 +24,7 @@
 			"青年[せいねん] (n) youth, young man"
 		],
 		"english": "No, just a mixed-up kid…",
-		"japanese": "う～ん、不幸な青年、ね"
+		"japanese": "う～ん、不幸な[青年]、ね"
 	},
 	{
 		"word": "散歩",
@@ -33,7 +33,7 @@
 			"散歩[さんぽ] (n, vs) walk, stroll"
 		],
 		"english": "Uh, I was jus' thinkin' of goin' for a walk…",
-		"japanese": "いや、散歩でもしねえかと思ってよ"
+		"japanese": "いや、[散歩]でもしねえかと思ってよ"
 	},
 	{
 		"word": "付き合っ",
@@ -42,7 +42,7 @@
 			"付き合う[つきあう] (v5u, vi) to associate with, to keep company with, to go out with, to go steady with, to get on with,to go along with, to follow someone's lead, to accompany someone, to compromise"
 		],
 		"english": "Would you…keep me company for a bit.",
-		"japanese": "ちょ、ちょっとアタシに付き合ってくれよ"
+		"japanese": "ちょ、ちょっとアタシに[付き合っ]てくれよ"
 	},
 	{
 		"word": "客室",
@@ -51,7 +51,7 @@
 			"客室[きゃくしつ] (n) guest room (at a hotel), guest cabin (on a boat), passenger cabin (on a plane),drawing room"
 		],
 		"english": "Hotel",
-		"japanese": "客室"
+		"japanese": "[客室]"
 	},
 	{
 		"word": "ターミナル",
@@ -60,7 +60,7 @@
 			"ターミナル (n) terminal"
 		],
 		"english": "Terminal Floor",
-		"japanese": "ターミナルフロア"
+		"japanese": "[ターミナル]フロア"
 	},
 	{
 		"word": "主人公",
@@ -69,7 +69,7 @@
 			"主人公[しゅじんこう] (n) protagonist, main character, hero(ine) (of a story),head of household"
 		],
 		"english": "You two will play the leads in tonight's show!!",
-		"japanese": "あなた方がこれから始まるショーの主人公です！！！！"
+		"japanese": "あなた方がこれから始まるショーの[主人公]です！！！！"
 	},
 	{
 		"word": "ナレーション",
@@ -78,7 +78,7 @@
 			"ナレーション (n) narration"
 		],
 		"english": "Narration",
-		"japanese": "ナレーション"
+		"japanese": "[ナレーション]"
 	},
 	{
 		"word": "物語",
@@ -87,7 +87,7 @@
 			"物語[ものがたり] (n, vs, adj-no) tale, story, legend"
 		],
 		"english": "Long, long ago…",
-		"japanese": "むか～し、昔のそのまた昔の物語"
+		"japanese": "むか～し、昔のそのまた昔の[物語]"
 	},
 	{
 		"word": "王国",
@@ -96,7 +96,7 @@
 			"王国[おうこく] (n) kingdom, monarchy"
 		],
 		"english": "An evil shadow appeared over the peaceful kingdom of Galdia…",
-		"japanese": "和平なガルディア王国にとつじょとして襲いかかる、邪悪な影…"
+		"japanese": "和平なガルディア[王国]にとつじょとして襲いかかる、邪悪な影…"
 	},
 	{
 		"word": "とつじょ",
@@ -105,7 +105,7 @@
 			"突如[とつじょ] (adv) suddenly, all of a sudden"
 		],
 		"english": "An evil shadow appeared over the peaceful kingdom of Galdia…",
-		"japanese": "和平なガルディア王国にとつじょとして襲いかかる、邪悪な影…"
+		"japanese": "和平なガルディア王国に[とつじょ]として襲いかかる、邪悪な影…"
 	},
 	{
 		"word": "襲いかかる",
@@ -114,7 +114,7 @@
 			"襲いかかる[おそいかかる] (v5r, vi) to rush on, to attack, to swoop down on"
 		],
 		"english": "An evil shadow appeared over the peaceful kingdom of Galdia…",
-		"japanese": "和平なガルディア王国にとつじょとして襲いかかる、邪悪な影…"
+		"japanese": "和平なガルディア王国にとつじょとして[襲いかかる]、邪悪な影…"
 	},
 	{
 		"word": "邪悪",
@@ -123,7 +123,7 @@
 			"邪悪[じゃあく] (adj-na, n) wicked, evil"
 		],
 		"english": "An evil shadow appeared over the peaceful kingdom of Galdia…",
-		"japanese": "和平なガルディア王国にとつじょとして襲いかかる、邪悪な影…"
+		"japanese": "和平なガルディア王国にとつじょとして襲いかかる、[邪悪]な影…"
 	},
 	{
 		"word": "竜王",
@@ -132,7 +132,7 @@
 			"竜王[りゅうおう] (n) Dragon King,promoted rook"
 		],
 		"english": "Princess Rosa was kidnapped by the Evil Dragon King, Valvados. What will become of her?",
-		"japanese": "ああ、悪竜王ヴァルヴァドスにさらわれた姫君ルーザの運命はどうなってしまうのでありましょうか…"
+		"japanese": "ああ、悪[竜王]ヴァルヴァドスにさらわれた姫君ルーザの運命はどうなってしまうのでありましょうか…"
 	},
 	{
 		"word": "姫君",
@@ -141,7 +141,7 @@
 			"姫君[ひめぎみ] (n) daughter of a person of high rank (i.e. a king, noble, aristocrat, etc.)"
 		],
 		"english": "Princess Rosa was kidnapped by the Evil Dragon King, Valvados. What will become of her?",
-		"japanese": "ああ、悪竜王ヴァルヴァドスにさらわれた姫君ルーザの運命はどうなってしまうのでありましょうか…"
+		"japanese": "ああ、悪竜王ヴァルヴァドスにさらわれた[姫君]ルーザの運命はどうなってしまうのでありましょうか…"
 	},
 	{
 		"word": "勇者",
@@ -150,7 +150,7 @@
 			"勇者[ゆうしゃ] (n) hero, the brave, man of valour (valor)"
 		],
 		"english": "Just then, the legendary hero, Alfred, appears!!",
-		"japanese": "しかし、その時！伝説の勇者アルフリードがガルディア王国にあらわれたのであります！！"
+		"japanese": "しかし、その時！伝説の[勇者]アルフリードがガルディア王国にあらわれたのであります！！"
 	},
 	{
 		"word": "アル",
@@ -162,7 +162,7 @@
 			"アル (cop-da) be, is"
 		],
 		"english": "Oh……You must be the legendary hero…Alfred!",
-		"japanese": "おお～、あな～たこそ～伝説の勇者～、アルフリ～ド！"
+		"japanese": "おお～、あな～たこそ～伝説の勇者～、[アル]フリ～ド！"
 	},
 	{
 		"word": "フリ",
@@ -176,7 +176,7 @@
 			"浮利[ふり] (n) easy money, quick profit"
 		],
 		"english": "Oh……You must be the legendary hero…Alfred!",
-		"japanese": "おお～、あな～たこそ～伝説の勇者～、アルフリ～ド！"
+		"japanese": "おお～、あな～たこそ～伝説の勇者～、アル[フリ]～ド！"
 	},
 	{
 		"word": "姫",
@@ -185,7 +185,7 @@
 			"姫[ひめ] (n) young lady of noble birth, princess (esp. in Western contexts, tales, etc.),girl,small, cute, lesser (in names of species),prostitute"
 		],
 		"english": "By my soul, please…please save Princess Rosa!",
-		"japanese": "なぜかわかりま～す、わかるので～す。どうか～、どうか、ルーザ姫をお救い、くださ～～～い"
+		"japanese": "なぜかわかりま～す、わかるので～す。どうか～、どうか、ルーザ[姫]をお救い、くださ～～～い"
 	},
 	{
 		"word": "救い",
@@ -194,7 +194,7 @@
 			"救い[すくい] (n, adj-no) help, aid, relief, (religious) salvation, (Christian) grace, providence"
 		],
 		"english": "By my soul, please…please save Princess Rosa!",
-		"japanese": "なぜかわかりま～す、わかるので～す。どうか～、どうか、ルーザ姫をお救い、くださ～～～い"
+		"japanese": "なぜかわかりま～す、わかるので～す。どうか～、どうか、ルーザ姫をお[救い]、くださ～～～い"
 	},
 	{
 		"word": "すみか",
@@ -203,7 +203,7 @@
 			"住処[すみか] (n) dwelling, house, residence, den, habitat"
 		],
 		"english": "On the peak of a dangerous mountain… dwells the Evil Dragon King, Valvados… who's kidnapped Princess Rosa…",
-		"japanese": "悪竜王ヴァルヴァドスのすみかは～はるか険しい山の上～。あわれル～ザは捕われの身～"
+		"japanese": "悪竜王ヴァルヴァドスの[すみか]は～はるか険しい山の上～。あわれル～ザは捕われの身～"
 	},
 	{
 		"word": "はるか",
@@ -212,7 +212,7 @@
 			"遥か[はるか] (adj-na, adv, n) far, far away, distant, remote, far off"
 		],
 		"english": "On the peak of a dangerous mountain… dwells the Evil Dragon King, Valvados… who's kidnapped Princess Rosa…",
-		"japanese": "悪竜王ヴァルヴァドスのすみかは～はるか険しい山の上～。あわれル～ザは捕われの身～"
+		"japanese": "悪竜王ヴァルヴァドスのすみかは～[はるか]険しい山の上～。あわれル～ザは捕われの身～"
 	},
 	{
 		"word": "捕われ",
@@ -221,7 +221,7 @@
 			"捕らわれる[とらわれる] (v1, vi) to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended,to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
 		],
 		"english": "On the peak of a dangerous mountain… dwells the Evil Dragon King, Valvados… who's kidnapped Princess Rosa…",
-		"japanese": "悪竜王ヴァルヴァドスのすみかは～はるか険しい山の上～。あわれル～ザは捕われの身～"
+		"japanese": "悪竜王ヴァルヴァドスのすみかは～はるか険しい山の上～。あわれル～ザは[捕われ]の身～"
 	},
 	{
 		"word": "語りかけよ",
@@ -230,7 +230,7 @@
 			"語りかける[かたりかける] (v1) to make a speech, to address"
 		],
 		"english": "But… you can't beat the Evil Dragon King now! Talk to one who can help you…",
-		"japanese": "しか～し今のお前では悪竜王には勝て～ん！お前の力とな～る者に語りかけよ～"
+		"japanese": "しか～し今のお前では悪竜王には勝て～ん！お前の力とな～る者に[語りかけよ]～"
 	},
 	{
 		"word": "魔法使い",
@@ -239,7 +239,7 @@
 			"魔法使い[まほうつかい] (n) magician, wizard, sorcerer, witch"
 		],
 		"english": "The wizard",
-		"japanese": "魔法使い"
+		"japanese": "[魔法使い]"
 	},
 	{
 		"word": "マン",
@@ -251,7 +251,7 @@
 			"萬[ワン] (ctr) counter for character tiles"
 		],
 		"english": "I am the great wizard, Vorman. What do you wish to know?",
-		"japanese": "わた～しは大魔法使いボーマン～。お前～は何を知りたいの～？"
+		"japanese": "わた～しは大魔法使いボー[マン]～。お前～は何を知りたいの～？"
 	},
 	{
 		"word": "弱点",
@@ -260,7 +260,7 @@
 			"弱点[じゃくてん] (n) weak point, weakness, shortcoming, defect, flaw, sore spot, tender spot"
 		],
 		"english": "The Evil Dragon King's weakness",
-		"japanese": "悪竜王～の～弱点"
+		"japanese": "悪竜王～の～[弱点]"
 	},
 	{
 		"word": "スリ",
@@ -271,7 +271,7 @@
 			"刷り[すり] (n) printing"
 		],
 		"english": "The Princess' measurements",
-		"japanese": "ル～ザ姫の～スリ～サイズ"
+		"japanese": "ル～ザ姫の～[スリ]～サイズ"
 	},
 	{
 		"word": "サイズ",
@@ -280,7 +280,7 @@
 			"サイズ (n) size"
 		],
 		"english": "The Princess' measurements",
-		"japanese": "ル～ザ姫の～スリ～サイズ"
+		"japanese": "ル～ザ姫の～スリ～[サイズ]"
 	},
 	{
 		"word": "打ち勝つ",
@@ -289,7 +289,7 @@
 			"打ち勝つ[うちかつ] (v5t, vi) to conquer (e.g. an enemy), to defeat,to overcome (a difficulty),to out-hit"
 		],
 		"english": "The power of love… Is the only weapon that can withstand the fangs of the Evil Dragon King…!",
-		"japanese": "愛しあ～う２人の力こそが～悪竜王の邪悪な～る牙に打ち勝つただひとつの武器～！"
+		"japanese": "愛しあ～う２人の力こそが～悪竜王の邪悪な～る牙に[打ち勝つ]ただひとつの武器～！"
 	},
 	{
 		"word": "我",
@@ -300,7 +300,7 @@
 			"我[が] (n) obstinacy,atman, the self, the ego"
 		],
 		"english": "I am the Evil Dragon King…Valvados! I have not harmed the Princess… I have been expecting…you!",
-		"japanese": "我こそは～、悪竜王ヴァルヴァドス～！さらった姫に～何もしないで待っていたぞ～！"
+		"japanese": "[我]こそは～、悪竜王ヴァルヴァドス～！さらった姫に～何もしないで待っていたぞ～！"
 	},
 	{
 		"word": "口づけ",
@@ -309,7 +309,7 @@
 			"口付け[くちづけ] (n, vs) kiss"
 		],
 		"english": "A kiss! The power of True Love!!",
-		"japanese": "口づけを～！真実の愛の～力を～！！"
+		"japanese": "[口づけ]を～！真実の愛の～力を～！！"
 	},
 	{
 		"word": "竜",
@@ -318,7 +318,7 @@
 			"竜[りゅう] (n) dragon (esp. a Chinese dragon),naga, [object Object],promoted rook"
 		],
 		"english": "Kiss the Evil Dragon King",
-		"japanese": "悪竜～王にする～"
+		"japanese": "悪[竜]～王にする～"
 	},
 	{
 		"word": "王",
@@ -328,7 +328,7 @@
 			"大君[おおきみ] (n) emperor, king, prince"
 		],
 		"english": "Kiss the Evil Dragon King",
-		"japanese": "悪竜～王にする～"
+		"japanese": "悪竜～[王]にする～"
 	},
 	{
 		"word": "逃げ",
@@ -337,7 +337,7 @@
 			"逃げ[にげ] (n) escape, getaway, evasion"
 		],
 		"english": "To home",
-		"japanese": "スタコ～ラ逃げ～る"
+		"japanese": "スタコ～ラ[逃げ]～る"
 	},
 	{
 		"word": "めでたく",
@@ -346,7 +346,7 @@
 			"目出度い[めでたい] (adj-i) happy, auspicious, propitious, joyous,naive"
 		],
 		"english": "Oh, how profound the power of love… And so the legendary hero Alfred and our story live on happily ever after.",
-		"japanese": "ああ、何と強い愛の力でありましょう……伝説の勇者アルフリードの物語はこうしてめでたく棊を閉じるのであります"
+		"japanese": "ああ、何と強い愛の力でありましょう……伝説の勇者アルフリードの物語はこうして[めでたく]棊を閉じるのであります"
 	},
 	{
 		"word": "イヤー",
@@ -356,7 +356,7 @@
 			"いや (int) why, oh,no!, quit it!, stop!"
 		],
 		"english": "You must be kidding!",
-		"japanese": "こんなのイヤー！"
+		"japanese": "こんなの[イヤー]！"
 	},
 	{
 		"word": "おし",
@@ -370,7 +370,7 @@
 			"推し[おし] (n-suf) fan of ..., supporter of ..., pushing for..."
 		],
 		"english": "The play's a disaster! Now I'm getting mad!",
-		"japanese": "おしばい、だいなしじゃない！もう怒ったんだから！"
+		"japanese": "[おし]ばい、だいなしじゃない！もう怒ったんだから！"
 	},
 	{
 		"word": "ばい",
@@ -383,7 +383,7 @@
 			"霾[ばい] (n) loess, yellow sand, bai, dust from the Yellow River region (China)"
 		],
 		"english": "The play's a disaster! Now I'm getting mad!",
-		"japanese": "おしばい、だいなしじゃない！もう怒ったんだから！"
+		"japanese": "おし[ばい]、だいなしじゃない！もう怒ったんだから！"
 	},
 	{
 		"word": "美女",
@@ -393,7 +393,7 @@
 			"美女[びんじょ] (n) beautiful woman,lady attendant"
 		],
 		"english": "Beautiful Girl",
-		"japanese": "美女性"
+		"japanese": "[美女]性"
 	},
 	{
 		"word": "性",
@@ -405,7 +405,7 @@
 			"性[なりくせ] (n) disposition, nature, character"
 		],
 		"english": "Beautiful Girl",
-		"japanese": "美女性"
+		"japanese": "美女[性]"
 	},
 	{
 		"word": "のろい",
@@ -415,7 +415,7 @@
 			"呪い[のろい] (n) curse, spell, malediction"
 		],
 		"english": "Thank…you. You've released me…from the spell and I am my normal self again…",
-		"japanese": "ありがとう～ございます～。おかげで～のろいがとけて～元の姿にもどれま～した～"
+		"japanese": "ありがとう～ございます～。おかげで～[のろい]がとけて～元の姿にもどれま～した～"
 	},
 	{
 		"word": "とけ",
@@ -425,7 +425,7 @@
 			"溶ける[とける] (v1, vi) to melt, to thaw, to fuse, to dissolve"
 		],
 		"english": "Thank…you. You've released me…from the spell and I am my normal self again…",
-		"japanese": "ありがとう～ございます～。おかげで～のろいがとけて～元の姿にもどれま～した～"
+		"japanese": "ありがとう～ございます～。おかげで～のろいが[とけ]て～元の姿にもどれま～した～"
 	},
 	{
 		"word": "ゴンドラ",
@@ -434,7 +434,7 @@
 			"ゴンドラ (n) gondola (boat),gondola (of a hot-air balloon, airship, etc.), basket, cabin (of a cable car, ski lift, etc.), car (of an elevator)"
 		],
 		"english": "Oh, that was fun. Hey, let's go on the Gondola.",
-		"japanese": "あ～、おもしろかった。ね、次はゴンドラ乗ろう"
+		"japanese": "あ～、おもしろかった。ね、次は[ゴンドラ]乗ろう"
 	},
 	{
 		"word": "観",
@@ -443,7 +443,7 @@
 			"観[かん] (n-suf) look, appearance,spectacle, sight,observation meditation,outlook on ..., view of ..."
 		],
 		"english": "Inside the Ferris Wheel",
-		"japanese": "観らん車内部"
+		"japanese": "[観]らん車内部"
 	},
 	{
 		"word": "別人",
@@ -452,7 +452,7 @@
 			"別人[べつじん] (n) different person, someone else, changed man"
 		],
 		"english": "Two completely different people, but look exactly the same.",
-		"japanese": "全然別人なんだけど、そっくり"
+		"japanese": "全然[別人]なんだけど、そっくり"
 	},
 	{
 		"word": "歩き",
@@ -461,7 +461,7 @@
 			"歩き[あるき] (n) walk, walking,foot messenger (of a town, village, etc.)"
 		],
 		"english": "The way you walk, gesture…",
-		"japanese": "歩きかた、手の動かしかた……"
+		"japanese": "[歩き]かた、手の動かしかた……"
 	},
 	{
 		"word": "誘え",
@@ -470,7 +470,7 @@
 			"誘う[さそう] (v5u, vt) to invite, to ask (someone to do), to call (for), to take (someone) along,to tempt, to lure, to entice, to seduce,to induce (tears, laughter, sleepiness, etc.), to arouse (e.g. sympathy), to provoke"
 		],
 		"english": "You should've asked one of them!",
-		"japanese": "それならよ、どっちか誘えば良かっただろうが！"
+		"japanese": "それならよ、どっちか[誘え]ば良かっただろうが！"
 	},
 	{
 		"word": "宝物",
@@ -479,7 +479,7 @@
 			"宝物[たからもの] (n) treasure, treasured item, prized possession"
 		],
 		"english": "She's my baby. My prized possession.",
-		"japanese": "マリンは、オレの宝物だからな"
+		"japanese": "マリンは、オレの[宝物]だからな"
 	},
 	{
 		"word": "次に",
@@ -488,7 +488,7 @@
 			"次に[つぎに] (conj) next, then, after that"
 		],
 		"english": "Next time we come, let's take our time and go on more rides.",
-		"japanese": "次に来たときはもっとゆっくりといろ～んなものに乗ろうね"
+		"japanese": "[次に]来たときはもっとゆっくりといろ～んなものに乗ろうね"
 	},
 	{
 		"word": "コソコソ",
@@ -497,7 +497,7 @@
 			"こそこそ (adv, adv-to, vs) sneakily, secretly, stealthily"
 		],
 		"english": "…it's CAIT SITH. What's he doin' so quietly?",
-		"japanese": "……CAIT SITHだぜ。なにコソコソしてやがるんだ？"
+		"japanese": "……CAITSITHだぜ。なに[コソコソ]してやがるんだ？"
 	},
 	{
 		"word": "隠れ",
@@ -506,7 +506,7 @@
 			"隠れ[かくれ] (n) hidden, concealed, unknown, crypto-,passing away, dying, death"
 		],
 		"english": "W, w, wait a second. I won't run or hide.",
-		"japanese": "ちょちょ、ちょっと待って～や。逃げも隠れもしませんから"
+		"japanese": "ちょちょ、ちょっと待って～や。逃げも[隠れ]もしませんから"
 	},
 	{
 		"word": "ずうずうしい",
@@ -515,7 +515,7 @@
 			"図々しい[ずうずうしい] (adj-i) impudent, shameless"
 		],
 		"english": "You're pushin' it‚CAIT SITH! You gotta lot of nerve staying with us all the while being a spy!",
-		"japanese": "ずうずうしいぞ、CAIT SITH！スパイだとわかってていっしょにいられるわけないだろ！"
+		"japanese": "[ずうずうしい]ぞ、CAITSITH！スパイだとわかってていっしょにいられるわけないだろ！"
 	},
 	{
 		"word": "いする",
@@ -524,7 +524,7 @@
 			"医する[いする] (vs-s, vt) to cure, to heal"
 		],
 		"english": "Then‚what are you goin' to do? Destroy me?",
-		"japanese": "ほな、どないするんですか？ボクを壊すんですか？"
+		"japanese": "ほな、どな[いする]んですか？ボクを壊すんですか？"
 	},
 	{
 		"word": "オモチャ",
@@ -533,7 +533,7 @@
 			"玩具[おもちゃ] (n) toy, plaything"
 		],
 		"english": "You'd just be wastin' your time if you tried. This body's just a toy anyway.",
-		"japanese": "そんなんしても、ムダですよ。この身体、もともとオモチャやから"
+		"japanese": "そんなんしても、ムダですよ。この身体、もともと[オモチャ]やから"
 	},
 	{
 		"word": "本体",
@@ -542,7 +542,7 @@
 			"本体[ほんたい] (n) substance, real form,main part, main unit, body (of a machine),this machine, this appliance,object of worship (at a shrine, temple, etc.),noumenon,base price, pre-tax price"
 		],
 		"english": "My real body's at Shinra Headquarters in Midgar. I'm controlin' this toy cat from there.",
-		"japanese": "本体はミッドガルの神羅本社におるんですわ。そっから、このネコのおもちゃ操っとるわけなんです"
+		"japanese": "[本体]はミッドガルの神羅本社におるんですわ。そっから、このネコのおもちゃ操っとるわけなんです"
 	},
 	{
 		"word": "おもちゃ",
@@ -551,7 +551,7 @@
 			"玩具[おもちゃ] (n) toy, plaything"
 		],
 		"english": "My real body's at Shinra Headquarters in Midgar. I'm controlin' this toy cat from there.",
-		"japanese": "本体はミッドガルの神羅本社におるんですわ。そっから、このネコのおもちゃ操っとるわけなんです"
+		"japanese": "本体はミッドガルの神羅本社におるんですわ。そっから、このネコの[おもちゃ]操っとるわけなんです"
 	},
 	{
 		"word": "あかさ",
@@ -562,7 +562,7 @@
 			"証す[あかす] (v5s) to prove, to verify"
 		],
 		"english": "He won't come clean. And he won't quit being a spy.",
-		"japanese": "正体はあかさない。スパイはやめない"
+		"japanese": "正体は[あかさ]ない。スパイはやめない"
 	},
 	{
 		"word": "話し合い",
@@ -571,7 +571,7 @@
 			"話し合い[はなしあい] (n, vs) discussion, conference"
 		],
 		"english": "…I thought so. It won't do any good talking to you.",
-		"japanese": "……まぁそうやろなぁ。話し合いにもならんわな"
+		"japanese": "……まぁそうやろなぁ。[話し合い]にもならんわな"
 	},
 	{
 		"word": "人質",
@@ -580,7 +580,7 @@
 			"人質[ひとじち] (n) hostage"
 		],
 		"english": "I didn't want to do this either. Not by using dirty tricks and taking hostages…",
-		"japanese": "そりゃ、ボクかってこんなことやりたない。人質とかヒレツなやりかたは……"
+		"japanese": "そりゃ、ボクかってこんなことやりたない。[人質]とかヒレツなやりかたは……"
 	},
 	{
 		"word": "かたは",
@@ -589,6 +589,6 @@
 			"片刃[かたば] (n, adj-no) single edge (e.g. sword blade)"
 		],
 		"english": "I didn't want to do this either. Not by using dirty tricks and taking hostages…",
-		"japanese": "そりゃ、ボクかってこんなことやりたない。人質とかヒレツなやりかたは……"
+		"japanese": "そりゃ、ボクかってこんなことやりたない。人質とかヒレツなやり[かたは]……"
 	}
 ]

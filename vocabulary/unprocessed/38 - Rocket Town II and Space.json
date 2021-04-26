@@ -7,7 +7,7 @@
 			"斃れる[たおれる] (v1, vi) to die, to be killed"
 		],
 		"english": "Too bad. Those guys are over there.",
-		"japanese": "残念だったな。ヤツなら、そこでたおれてるぜ"
+		"japanese": "残念だったな。ヤツなら、そこで[たおれ]てるぜ"
 	},
 	{
 		"word": "あっさり",
@@ -16,7 +16,7 @@
 			"あっさり (adv, adv-to, vs) easily, readily, quickly, flatly (refuse),lightly (seasoned food, applied make-up, etc.), plainly, simply"
 		],
 		"english": "Oh man…the Turks, being done in like that…  But, I won't let you through!",
-		"japanese": "く～っ、あのタークスがあっさりやられるなんて……しかし、ここは通さんぞ！"
+		"japanese": "く～っ、あのタークスが[あっさり]やられるなんて……しかし、ここは通さんぞ！"
 	},
 	{
 		"word": "おめでたい",
@@ -25,7 +25,7 @@
 			"お目出度い[おめでたい] (n) special, auspicious, happy,naive, innocent, good-natured, gullible, foolish"
 		],
 		"english": "Oh great! What a buncha wizards you guys are! She's gonna take a 100 years!",
-		"japanese": "ケッ！　おめでたいヤツらだな！あの女に任せてた日にゃ１００年たっても終わんねぇぜ！"
+		"japanese": "ケッ！　[おめでたい]ヤツらだな！あの女に任せてた日にゃ１００年たっても終わんねぇぜ！"
 	},
 	{
 		"word": "はいずり",
@@ -34,7 +34,7 @@
 			"這いずる[はいずる] (v5r, vi) to creep, to crawl"
 		],
 		"english": "Humans only used to walk around on the ground but now they can fly!",
-		"japanese": "地ベタをはいずりまわってた人間が空を飛べるようになったんだぜ！"
+		"japanese": "地ベタを[はいずり]まわってた人間が空を飛べるようになったんだぜ！"
 	},
 	{
 		"word": "育て上げ",
@@ -43,7 +43,7 @@
 			"育て上げる[そだてあげる] (v1, vt) to raise (to maturity), to bring up, to rear, to train, to educate"
 		],
 		"english": "Science is a 'Power' created and developed by humans. And science just might be what saves this Planet.",
-		"japanese": "科学は、人間が自らの手で生み出し、育て上げた『力』だ。その科学が、この星を救うかもしれねえ"
+		"japanese": "科学は、人間が自らの手で生み出し、[育て上げ]た『力』だ。その科学が、この星を救うかもしれねえ"
 	},
 	{
 		"word": "素",
@@ -54,7 +54,7 @@
 			"素[そ] (adj-na, n, adj-no) plain, white silk,prime"
 		],
 		"english": "I was able to earn my living, thanks to science. So to me, there's nothing greater!",
-		"japanese": "科学のおかげでメシをくってきたオレ様にとってはよこれほど素晴しいことはねぇぜ！"
+		"japanese": "科学のおかげでメシをくってきたオレ様にとってはよこれほど[素]晴しいことはねぇぜ！"
 	},
 	{
 		"word": "晴",
@@ -63,7 +63,7 @@
 			"晴れ[はれ] (adj-no, n) clear weather, fine weather,formal, ceremonial, public,cleared of suspicion"
 		],
 		"english": "I was able to earn my living, thanks to science. So to me, there's nothing greater!",
-		"japanese": "科学のおかげでメシをくってきたオレ様にとってはよこれほど素晴しいことはねぇぜ！"
+		"japanese": "科学のおかげでメシをくってきたオレ様にとってはよこれほど素[晴]しいことはねぇぜ！"
 	},
 	{
 		"word": "どうのこうの",
@@ -72,7 +72,7 @@
 			"如何の斯うの[どうのこうの] (adv) this and that, one thing or another"
 		],
 		"english": "Now quit your worrying bout what Shinra's gonna do!",
-		"japanese": "いつまでも神羅がどうのこうのこだわってるんじゃねえ！"
+		"japanese": "いつまでも神羅が[どうのこうの]こだわってるんじゃねえ！"
 	},
 	{
 		"word": "こだわっ",
@@ -81,7 +81,7 @@
 			"拘る[こだわる] (v5r, vi) to fuss over, to be particular about,to be obsessive about, to be fixated on,to obstruct, to hinder"
 		],
 		"english": "Now quit your worrying bout what Shinra's gonna do!",
-		"japanese": "いつまでも神羅がどうのこうのこだわってるんじゃねえ！"
+		"japanese": "いつまでも神羅がどうのこうの[こだわっ]てるんじゃねえ！"
 	},
 	{
 		"word": "かかし",
@@ -90,7 +90,7 @@
 			"案山子[かかし] (n) scarecrow,figurehead, dummy"
 		],
 		"english": "Shut the hell up!! I don't wanna hear it!!",
-		"japanese": "だまれ！！しかしも、かかしもねぇ！！"
+		"japanese": "だまれ！！しかしも、[かかし]もねぇ！！"
 	},
 	{
 		"word": "仕事場",
@@ -99,7 +99,7 @@
 			"仕事場[しごとば] (n) place where one works, construction site, working area"
 		],
 		"english": "Alright, time to get to work! Anyone who ain't involved, get the hell outta here!",
-		"japanese": "さあ、ここはオレ様の仕事場だ！関係ねぇお前たちはとっとと出て行きやがれ！"
+		"japanese": "さあ、ここはオレ様の[仕事場]だ！関係ねぇお前たちはとっとと出て行きやがれ！"
 	},
 	{
 		"word": "秒読み",
@@ -108,7 +108,7 @@
 			"秒読み[びょうよみ] (n) countdown"
 		],
 		"english": "What the!? No countdown!? It just don't seem the same without it!",
-		"japanese": "ケッ！　秒読みはどうした！？気分がでねえぞ！"
+		"japanese": "ケッ！　[秒読み]はどうした！？気分がでねえぞ！"
 	},
 	{
 		"word": "万事休す",
@@ -117,7 +117,7 @@
 			"万事休す[ばんじきゅうす] (exp) there is nothing more that can be done"
 		],
 		"english": "We're in space now. A long rest…",
-		"japanese": "宇宙に出てしまったな。万事休す、か"
+		"japanese": "宇宙に出てしまったな。[万事休す]、か"
 	},
 	{
 		"word": "航路",
@@ -126,7 +126,7 @@
 			"航路[こうろ] (n) (air or sea) route, course, line, run"
 		],
 		"english": "That damn Palmer went outta his way to lock the Auto-Pilot device. We might not be able to change course.",
-		"japanese": "ケッ、パルマーのヤツ、ごていねいにもオートパイロット装置をロックしてやがる。こいつの航路は、変えられそうもねぇな"
+		"japanese": "ケッ、パルマーのヤツ、ごていねいにもオートパイロット装置をロックしてやがる。こいつの[航路]は、変えられそうもねぇな"
 	},
 	{
 		"word": "はなっ",
@@ -135,7 +135,7 @@
 			"放つ[はなつ] (v5t, vt) to fire (gun, arrow, questions, etc.), to shoot, to hit (e.g. baseball), to break wind,to set free, to release, to let loose,to emit (e.g. light), to give off (e.g. a scent),to send out (a person to carry out a duty),to set fire to"
 		],
 		"english": "I'm not gonna crash into Meteor.",
-		"japanese": "オレ様はよ、はなっからメテオなんかと心中するつもりはないぜ"
+		"japanese": "オレ様はよ、[はなっ]からメテオなんかと心中するつもりはないぜ"
 	},
 	{
 		"word": "心中",
@@ -145,7 +145,7 @@
 			"心中[しんちゅう] (n) one's heart, the mind, inner feelings, inmost thoughts, true motives"
 		],
 		"english": "I'm not gonna crash into Meteor.",
-		"japanese": "オレ様はよ、はなっからメテオなんかと心中するつもりはないぜ"
+		"japanese": "オレ様はよ、はなっからメテオなんかと[心中]するつもりはないぜ"
 	},
 	{
 		"word": "切り",
@@ -154,7 +154,7 @@
 			"切り[きり] (prt) end, finish, stop,bounds, limits,delivery date (of a futures contract),finale (of a noh song), end of an act (in jōruri or kabuki), final performance of the day (in vaudeville),counter for slices (esp. thick slices), counter for cuts (e.g. fish, meat),only, just,since, after,remaining (in a particular state)"
 		],
 		"english": "Hurry. I'm going to detach the escape pod.",
-		"japanese": "急いで。脱出ポッドを切りはなすわよ"
+		"japanese": "急いで。脱出ポッドを[切り]はなすわよ"
 	},
 	{
 		"word": "コンソール",
@@ -163,7 +163,7 @@
 			"コンソール (n) (computer) console,single console for multiple diving gauges"
 		],
 		"english": "It's structured so that the lock can be opened if we enter the passcode from this control panel.",
-		"japanese": "このコンソールパネルからパスコードを入力すればロックが解除される仕組みになってるぜ"
+		"japanese": "この[コンソール]パネルからパスコードを入力すればロックが解除される仕組みになってるぜ"
 	},
 	{
 		"word": "打ちこめ",
@@ -173,7 +173,7 @@
 			"ぶち込む[ぶちこむ] (v5m, vt) to throw, to toss, to cast,to hit, to strike, to smash, to hammer in, to drive in,to fire into (e.g. a crowd), to launch (e.g. missiles), to lob (e.g. grenades),to wear (sword, etc.), to carry"
 		],
 		"english": "If you punch in the right code, it'll unlock and you can get the Huge Materia!",
-		"japanese": "正しいパスコードを打ちこめばロックが外れてヒュージマテリアを回収できるぜ"
+		"japanese": "正しいパスコードを[打ちこめ]ばロックが外れてヒュージマテリアを回収できるぜ"
 	},
 	{
 		"word": "探り",
@@ -182,7 +182,7 @@
 			"探り[さぐり] (n) sounding, probing, probe, stylet, spy"
 		],
 		"english": "Whoa, pretty good! You got the passcode in a single try!",
-		"japanese": "おっ、すげぇな！一発でパスコードを探りあてやがった！"
+		"japanese": "おっ、すげぇな！一発でパスコードを[探り]あてやがった！"
 	},
 	{
 		"word": "エラー",
@@ -191,7 +191,7 @@
 			"エラー (n) error"
 		],
 		"english": "Passcode Input Error",
-		"japanese": "パスコード入力エラー"
+		"japanese": "パスコード入力[エラー]"
 	},
 	{
 		"word": "不正規",
@@ -200,7 +200,7 @@
 			"不正規[ふせいき] (n) irregularity"
 		],
 		"english": "Unauthorized User Identified",
-		"japanese": "不正規ユーザーによるアクセスと判断"
+		"japanese": "[不正規]ユーザーによるアクセスと判断"
 	},
 	{
 		"word": "ユーザー",
@@ -209,7 +209,7 @@
 			"ユーザー (n) user"
 		],
 		"english": "Unauthorized User Identified",
-		"japanese": "不正規ユーザーによるアクセスと判断"
+		"japanese": "不正規[ユーザー]によるアクセスと判断"
 	},
 	{
 		"word": "プロテクト",
@@ -218,7 +218,7 @@
 			"プロテクト (n, vs) protect"
 		],
 		"english": "Protection System will activate in 3 minutes",
-		"japanese": "３分後にプロテクトシステム作動"
+		"japanese": "３分後に[プロテクト]システム作動"
 	},
 	{
 		"word": "作動",
@@ -227,7 +227,7 @@
 			"作動[さどう] (n, vs) operation, functioning, running"
 		],
 		"english": "Protection System will activate in 3 minutes",
-		"japanese": "３分後にプロテクトシステム作動"
+		"japanese": "３分後にプロテクトシステム[作動]"
 	},
 	{
 		"word": "ばいいん",
@@ -236,7 +236,7 @@
 			"売淫[ばいいん] (n, vs) prostitution"
 		],
 		"english": "So, what order am I supposed to enter the passcode in?",
-		"japanese": "で、どういう順番で打ちこんでやればいいんだ？"
+		"japanese": "で、どういう順番で打ちこんでやれ[ばいいん]だ？"
 	},
 	{
 		"word": "えらいさん",
@@ -245,7 +245,7 @@
 			"偉いさん[えらいさん] (n) big shot, higher-ups"
 		],
 		"english": "I heard there's a passcode only the top people in Shinra know.",
-		"japanese": "聞いたことがあるぜ。神羅のえらいさんだけが知っているパスコードがあるって"
+		"japanese": "聞いたことがあるぜ。神羅の[えらいさん]だけが知っているパスコードがあるって"
 	},
 	{
 		"word": "正規",
@@ -254,7 +254,7 @@
 			"正規[せいき] (adj-no, adj-na, n) regular, normal, formal, legal, established, legitimate"
 		],
 		"english": "Identified as an Authorized User",
-		"japanese": "正規ユーザーと認め、ロックを解除する"
+		"japanese": "[正規]ユーザーと認め、ロックを解除する"
 	},
 	{
 		"word": "破片",
@@ -263,7 +263,7 @@
 			"破片[はへん] (n) fragment, broken piece, splinter, chip, shard"
 		],
 		"english": "Damn! My leg's stuck in the debris.",
-		"japanese": "ちくしょう！　足が破片にはさまれちまった……！"
+		"japanese": "ちくしょう！　足が[破片]にはさまれちまった……！"
 	},
 	{
 		"word": "コンコン",
@@ -275,7 +275,7 @@
 			"懇懇[こんこん] (adj-t, adv-to) repeated, earnest, kind"
 		],
 		"english": "You stupid &$#%!!",
-		"japanese": "ばか野郎のコンコンちき！！"
+		"japanese": "ばか野郎の[コンコン]ちき！！"
 	},
 	{
 		"word": "ラス",
@@ -285,7 +285,7 @@
 			"ＲＡＳ[ラス] (n) remote access service, RAS,reliability, availability, serviceability, RAS"
 		],
 		"english": "Last Dungeon",
-		"japanese": "ラスダン"
+		"japanese": "[ラス]ダン"
 	},
 	{
 		"word": "ダン",
@@ -301,7 +301,7 @@
 			"談[だん] (n, n-suf) talk, story, conversation"
 		],
 		"english": "Last Dungeon",
-		"japanese": "ラスダン"
+		"japanese": "ラス[ダン]"
 	},
 	{
 		"word": "人前",
@@ -311,7 +311,7 @@
 			"人前[にんまえ] (n) portion of food"
 		],
 		"english": "Full Pilot",
-		"japanese": "一人前パイロット"
+		"japanese": "一[人前]パイロット"
 	},
 	{
 		"word": "なさけ",
@@ -320,7 +320,7 @@
 			"情け[なさけ] (n) pity, sympathy, compassion, mercy,affection, love"
 		],
 		"english": "What a bust… But I kinda hoped it'd work.",
-		"japanese": "なさけねえ話だがチビ～っと期待しちまったぜ"
+		"japanese": "[なさけ]ねえ話だがチビ～っと期待しちまったぜ"
 	},
 	{
 		"word": "さんざん",
@@ -330,7 +330,7 @@
 			"三山[さんざん] (n) three mountains,three shrines (of Kumano),three kingdoms (of 14th- and 15th-century Okinawa)"
 		],
 		"english": "We been botherin' them as much as we can…",
-		"japanese": "さんざん邪魔しといてなんやけど……"
+		"japanese": "[さんざん]邪魔しといてなんやけど……"
 	},
 	{
 		"word": "キリ",
@@ -345,7 +345,7 @@
 			"キリ (n) end, ending, bottom"
 		],
 		"english": "You start worryin' and there's no stoppin' it! Things just start fallin' apart and get worse and worse.",
-		"japanese": "悩みはじめたらキリがねえぞ！どんどんどんどん悪い方へ落ちてっちまうからな"
+		"japanese": "悩みはじめたら[キリ]がねえぞ！どんどんどんどん悪い方へ落ちてっちまうからな"
 	},
 	{
 		"word": "前向き",
@@ -354,7 +354,7 @@
 			"前向き[まえむき] (adj-na, adj-no, n) front-facing,forward-looking, positive, constructive"
 		],
 		"english": "You're pretty damn optimistic ! You up to somethin'?",
-		"japanese": "ずいぶん前向きじゃねえかよ！で、何か考えたのか？"
+		"japanese": "ずいぶん[前向き]じゃねえかよ！で、何か考えたのか？"
 	},
 	{
 		"word": "ぽっかり",
@@ -363,7 +363,7 @@
 			"ぽっかり (adv, adv-to) lightly,gaping wide,suddenly, unexpectedly"
 		],
 		"english": "We're just floatin' in the dark. ……kind of makes you feel powerless.",
-		"japanese": "真っ暗な中にぽっかり浮いてやがるんだ。……とっても心ぼそそうによ"
+		"japanese": "真っ暗な中に[ぽっかり]浮いてやがるんだ。……とっても心ぼそそうによ"
 	},
 	{
 		"word": "浮い",
@@ -372,7 +372,7 @@
 			"浮く[うく] (v5k, vi) to float,to become merry, to be cheerful,to become loose, to become unsteady,to feel out of it, to be cut off (e.g. from those around you), to feel out of place,to be frivolous, to be uncertain,to have (time, money, etc.) left over, to be saved (e.g. money),to have no basis, to be unreliable"
 		],
 		"english": "We're just floatin' in the dark. ……kind of makes you feel powerless.",
-		"japanese": "真っ暗な中にぽっかり浮いてやがるんだ。……とっても心ぼそそうによ"
+		"japanese": "真っ暗な中にぽっかり[浮い]てやがるんだ。……とっても心ぼそそうによ"
 	},
 	{
 		"word": "そそう",
@@ -385,7 +385,7 @@
 			"粗鬆[そそう] (adj-na, n) rough, crude, unrefined"
 		],
 		"english": "We're just floatin' in the dark. ……kind of makes you feel powerless.",
-		"japanese": "真っ暗な中にぽっかり浮いてやがるんだ。……とっても心ぼそそうによ"
+		"japanese": "真っ暗な中にぽっかり浮いてやがるんだ。……とっても心ぼ[そそう]によ"
 	},
 	{
 		"word": "腹の中",
@@ -394,7 +394,7 @@
 			"腹の中[はらのなか] (n, exp) in the belly,in one's heart of hearts"
 		],
 		"english": "On top of that it's got Sephiroth festerin' inside it like a sickness.",
-		"japanese": "おまけに腹の中にはセフィロスっつう病気を抱えてるんだろ？"
+		"japanese": "おまけに[腹の中]にはセフィロスっつう病気を抱えてるんだろ？"
 	},
 	{
 		"word": "震え",
@@ -403,6 +403,6 @@
 			"震える[ふるえる] (v1, vi) to shiver, to shake, to quake, to tremble, to quaver, to quiver"
 		],
 		"english": "A little kid sick and trembling in the middle of this huge universe.",
-		"japanese": "でっけえ宇宙の中で病気になっちまって震えてる子供みてえなもんだぜ"
+		"japanese": "でっけえ宇宙の中で病気になっちまって[震え]てる子供みてえなもんだぜ"
 	}
 ]

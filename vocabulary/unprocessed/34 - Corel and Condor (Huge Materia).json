@@ -6,7 +6,7 @@
 			"間一髪[かんいっぱつ] (n) hair's breadth"
 		],
 		"english": "Guess we're safe for now…",
-		"japanese": "間一髪セーフってトコか！"
+		"japanese": "[間一髪]セーフってトコか！"
 	},
 	{
 		"word": "セーフ",
@@ -15,7 +15,7 @@
 			"セーフ (n) safe"
 		],
 		"english": "Guess we're safe for now…",
-		"japanese": "間一髪セーフってトコか！"
+		"japanese": "間一髪[セーフ]ってトコか！"
 	},
 	{
 		"word": "気合い",
@@ -24,7 +24,7 @@
 			"気合[きあい] (n) scream, yell, fighting spirit"
 		],
 		"english": "Don't worry! I can handle this!",
-		"japanese": "心配いらね～って！この手のモンは気合いだ！"
+		"japanese": "心配いらね～って！この手のモンは[気合い]だ！"
 	},
 	{
 		"word": "交互",
@@ -33,7 +33,7 @@
 			"交互[こうご] (n, adj-no) mutual, reciprocal, alternate"
 		],
 		"english": "I see, just alternate the two levers up and down, right!?",
-		"japanese": "なるほど、左右交互にレバーを上下すりゃいいんだな！"
+		"japanese": "なるほど、左右[交互]にレバーを上下すりゃいいんだな！"
 	},
 	{
 		"word": "とばす",
@@ -42,7 +42,7 @@
 			"飛ばす[とばす] (aux-v, v5s) to let fly, to make fly, to send flying, to blow off (e.g. in the wind), to launch, to fire, to hurl, to shoot,to skip over, to leave out, to omit, to drop (e.g. a stitch),to run fast, to drive fast, to gallop,to spray, to splash, to spatter,to say without reservation, to call out (e.g. a jeer), to rattle of (e.g. a joke),to spread (e.g. a rumour), to circulate, to send out (a message), to issue (e.g. an appeal),to transfer (to a less important post), to send away (e.g. to a provincial branch), to demote,to dispatch quickly (e.g. a reporter),to get rid of, to burn off (alcohol),to attack (e.g. with a leg manoeuvre),to do vigorously, to do roughly, to do energetically"
 		],
 		"english": "We're gonna fly!! Hold on tight!!",
-		"japanese": "とばすぜ！しっかり、つかまってな！！"
+		"japanese": "[とばす]ぜ！しっかり、つかまってな！！"
 	},
 	{
 		"word": "やいのやいの",
@@ -51,7 +51,7 @@
 			"やいのやいの (exp, adv, adv-to, adj-no) (pressing) hard, badgeringly, pesteringly, repeatedly, urgingly"
 		],
 		"english": "I KNOW, already! Just shut up and sit tight! If we keep this up, we'll crash right into North Corel!",
-		"japanese": "わ～かってらあ！やいのやいの、さわぐなって！このままじゃ、北コレルにつっこんじまう！！"
+		"japanese": "わ～かってらあ！[やいのやいの]、さわぐなって！このままじゃ、北コレルにつっこんじまう！！"
 	},
 	{
 		"word": "さわぐ",
@@ -60,7 +60,7 @@
 			"騒ぐ[さわぐ] (v5g, vi) to make noise, to make racket, to be noisy,to rustle, to swoosh,to make merry,to clamor, to clamour, to make a fuss, to kick up a fuss,to lose one's cool, to panic, to act flustered,to feel tense, to be uneasy, to be excited"
 		],
 		"english": "I KNOW, already! Just shut up and sit tight! If we keep this up, we'll crash right into North Corel!",
-		"japanese": "わ～かってらあ！やいのやいの、さわぐなって！このままじゃ、北コレルにつっこんじまう！！"
+		"japanese": "わ～かってらあ！やいのやいの、[さわぐ]なって！このままじゃ、北コレルにつっこんじまう！！"
 	},
 	{
 		"word": "そうとう",
@@ -76,7 +76,7 @@
 			"相等[そうとう] (n) equality, being equal"
 		],
 		"english": "Must've been a horrific battle. You have scars all over your body.",
-		"japanese": "そうとうキツイ戦いだったんだろ？体じゅう傷だらけじゃねぇか"
+		"japanese": "[そうとう]キツイ戦いだったんだろ？体じゅう傷だらけじゃねぇか"
 	},
 	{
 		"word": "坑夫",
@@ -85,7 +85,7 @@
 			"坑夫[こうふ] (n) miner"
 		],
 		"english": "To hell with Meteor! We're Coal Miners, ain't we?",
-		"japanese": "メテオがなんだってんだい！オレたちゃ炭坑夫なんだぜ"
+		"japanese": "メテオがなんだってんだい！オレたちゃ炭[坑夫]なんだぜ"
 	},
 	{
 		"word": "逃げのび",
@@ -94,7 +94,7 @@
 			"逃げ延びる[にげのびる] (v1, vi) to make good one's escape, to escape to a safe place, to make one's getaway, to effect one's escape"
 		],
 		"english": "We'll dig a deep tunnel and hide from the Meteor!",
-		"japanese": "長～いトンネルをほってメテオから逃げのびてやらあ！"
+		"japanese": "長～いトンネルをほってメテオから[逃げのび]てやらあ！"
 	},
 	{
 		"word": "たまげ",
@@ -103,7 +103,7 @@
 			"魂消る[たまげる] (v1, vi) to be astonished, to be flabbergasted, to be startled, to be amazed"
 		],
 		"english": "You guys are really something!",
-		"japanese": "あんたたちたまげたもんだぜ！"
+		"japanese": "あんたたち[たまげ]たもんだぜ！"
 	},
 	{
 		"word": "神さま",
@@ -112,7 +112,7 @@
 			"神様[かみさま] (n) God, god,ace, king, superior person, god (amongst men)"
 		],
 		"english": "God, what have we done?",
-		"japanese": "オレたちが何をしたっていうんだ…神さまよぅ……"
+		"japanese": "オレたちが何をしたっていうんだ…[神さま]よぅ……"
 	},
 	{
 		"word": "スっ",
@@ -125,7 +125,7 @@
 			"掏る[する] (v5r, vt) to pick someone's pocket"
 		],
 		"english": "We got into this situation because we goofed…",
-		"japanese": "ボクらがミスったばっかりにこんなことになるやなんて……"
+		"japanese": "ボクらがミ[スっ]たばっかりにこんなことになるやなんて……"
 	},
 	{
 		"word": "光景",
@@ -134,7 +134,7 @@
 			"光景[こうけい] (n) scene, spectacle, sight, view"
 		],
 		"english": "A spectacular sight…",
-		"japanese": "すさまじい光景だな……"
+		"japanese": "すさまじい[光景]だな……"
 	},
 	{
 		"word": "接見",
@@ -143,7 +143,7 @@
 			"接見[せっけん] (n, vs) interview"
 		],
 		"english": "Would you go check on it immediately?",
-		"japanese": "直接見にいってくれないか？"
+		"japanese": "直[接見]にいってくれないか？"
 	},
 	{
 		"word": "ボール",
@@ -152,7 +152,7 @@
 			"ボール (n) ball,ball (pitch that falls outside of the strike zone),bowl,board (cardboard, pasteboard, etc.)"
 		],
 		"english": "Received \"Super Ball\"!",
-		"japanese": "『スーパーボール』を手にいれた！"
+		"japanese": "『スーパー[ボール]』を手にいれた！"
 	},
 	{
 		"word": "差し上げ",
@@ -161,7 +161,7 @@
 			"差し上げる[さしあげる] (v1, vt) to give, to offer,to lift up, to hold up, to raise"
 		],
 		"english": "Although there isn't anything we can give you, we'll make sure you can stop in and stay any time. So be sure to drop by.",
-		"japanese": "差し上げられるものは、何もないのだがいつでも泊まれるようにしておくから使ってくれ"
+		"japanese": "[差し上げ]られるものは、何もないのだがいつでも泊まれるようにしておくから使ってくれ"
 	},
 	{
 		"word": "かいな",
@@ -171,7 +171,7 @@
 			"かいな (prt) expresses incredulousness, disbelief, irony, etc."
 		],
 		"english": "Hmm, you mean this?",
-		"japanese": "ふんふんこれかいな"
+		"japanese": "ふんふんこれ[かいな]"
 	},
 	{
 		"word": "忍び",
@@ -180,6 +180,6 @@
 			"忍び[しのび] (n) stealth,travelling incognito (traveling),ninjutsu,ninja,sneak theft, sneak thief,tolerance"
 		],
 		"english": "I knew this day would come, so after the Shinra left, I sneaked in and took the Materia.",
-		"japanese": "いつかこういう時がくると思って神羅がいなくなったあと忍びこんで、マテリアを持ち出しておいたのです"
+		"japanese": "いつかこういう時がくると思って神羅がいなくなったあと[忍び]こんで、マテリアを持ち出しておいたのです"
 	}
 ]

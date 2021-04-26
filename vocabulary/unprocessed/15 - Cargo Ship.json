@@ -6,7 +6,7 @@
 			"苦い[にがい] (adj-i) bitter"
 		],
 		"english": "Thanks… Gross…this is bitter.",
-		"japanese": "ありがと……うえ～、にがい"
+		"japanese": "ありがと……うえ～、[にがい]"
 	},
 	{
 		"word": "のれん",
@@ -15,7 +15,7 @@
 			"暖簾[のれん] (n) (short) curtain hung at shop entrance, split curtain used to divide spaces in a house,reputation (of a store), good name, credit,goodwill"
 		],
 		"english": "Where are the others?",
-		"japanese": "他のれんちゅう？"
+		"japanese": "他[のれん]ちゅう？"
 	},
 	{
 		"word": "かくれ",
@@ -24,7 +24,7 @@
 			"隠れる[かくれる] (v1, vi) to hide, to be hidden, to conceal oneself, to disappear"
 		],
 		"english": "I dunno. Aren't they hiding somewhere around here?",
-		"japanese": "さあ、そのへんにかくれてんじゃないの？"
+		"japanese": "さあ、そのへんに[かくれ]てんじゃないの？"
 	},
 	{
 		"word": "機関",
@@ -34,7 +34,7 @@
 			"絡繰り[からくり] (n) mechanism, machinery, contrivance, device,trick, dodge,mechanical doll, string puppet"
 		],
 		"english": "…the Engine Room… …a suspicious…character…",
-		"japanese": "……機関室に……不審……人物……"
+		"japanese": "……[機関]室に……不審……人物……"
 	},
 	{
 		"word": "キリキリ",
@@ -43,7 +43,7 @@
 			"キリキリ (adv) chafing, grinding (e.g. teeth),binding tightly, pulling tight (e.g. a bow),rotating quickly,hurting sharply,briskly, quickly, promptly, at once, right away"
 		],
 		"english": "Hey, get to work!",
-		"japanese": "コラ、きさまもキリキリはたらかんか！"
+		"japanese": "コラ、きさまも[キリキリ]はたらかんか！"
 	},
 	{
 		"word": "統括",
@@ -52,7 +52,7 @@
 			"統括[とうかつ] (n, vs) unification, bringing together, generalization,control, supervision"
 		],
 		"english": "Both the new President Rufus and Heidegger are aboard this ship!",
-		"japanese": "いま、この船にはルーファウス新社長と本社のハイデッガー統括が乗船されている！"
+		"japanese": "いま、この船にはルーファウス新社長と本社のハイデッガー[統括]が乗船されている！"
 	},
 	{
 		"word": "乗船",
@@ -61,7 +61,7 @@
 			"乗船[じょうせん] (n) embarking (a ship), embarkation, boarding,ship (carrying someone)"
 		],
 		"english": "Both the new President Rufus and Heidegger are aboard this ship!",
-		"japanese": "いま、この船にはルーファウス新社長と本社のハイデッガー統括が乗船されている！"
+		"japanese": "いま、この船にはルーファウス新社長と本社のハイデッガー統括が[乗船]されている！"
 	},
 	{
 		"word": "昇進",
@@ -70,7 +70,7 @@
 			"昇進[しょうしん] (n, vs, adj-no) promotion, advancement, rising in rank"
 		],
 		"english": "If we do good, we could get promoted!",
-		"japanese": "うまくすれば昇進のチャンスだぞ！"
+		"japanese": "うまくすれば[昇進]のチャンスだぞ！"
 	},
 	{
 		"word": "のろう",
@@ -79,7 +79,7 @@
 			"呪う[のろう] (v5u, vt) to curse, to put a curse on, to detest intensely"
 		],
 		"english": "Let's ride the Airship together, OK? Promise, promise me!",
-		"japanese": "一練にのろうね、飛空艇。約束、約束！"
+		"japanese": "一練に[のろう]ね、飛空艇。約束、約束！"
 	},
 	{
 		"word": "トク",
@@ -96,7 +96,7 @@
 			"疾く[とく] (n, adj-no) quickly, swiftly,already, before,long time ago"
 		],
 		"english": "The only one who's gonna benefit from this is the Chief, anyway.",
-		"japanese": "どうせトクするのはあそこのチーフだけ"
+		"japanese": "どうせ[トク]するのはあそこのチーフだけ"
 	},
 	{
 		"word": "チーフ",
@@ -105,7 +105,7 @@
 			"チーフ (n) chief"
 		],
 		"english": "The only one who's gonna benefit from this is the Chief, anyway.",
-		"japanese": "どうせトクするのはあそこのチーフだけ"
+		"japanese": "どうせトクするのはあそこの[チーフ]だけ"
 	},
 	{
 		"word": "のんき",
@@ -114,7 +114,7 @@
 			"呑気[のんき] (adj-na, n) carefree, optimistic, careless, reckless, heedless, happy-go-lucky, easygoing, thoughtless"
 		],
 		"english": "How can he… Goin' off laughin' like that?",
-		"japanese": "なんだあのヤロ……のんきにガハガハガハガハ笑いやがって……"
+		"japanese": "なんだあのヤロ……[のんき]にガハガハガハガハ笑いやがって……"
 	},
 	{
 		"word": "いっそ",
@@ -123,7 +123,7 @@
 			"いっそ (adv) rather, sooner, preferably"
 		],
 		"english": "I'm gonna settle things here and now!",
-		"japanese": "いっそのこと、ここで一気にカタをつけ……"
+		"japanese": "[いっそ]のこと、ここで一気にカタをつけ……"
 	},
 	{
 		"word": "つけ",
@@ -132,7 +132,7 @@
 			"付け[つけ] (n) bill, bill of sale, payment invoice,tab (for later payment), credit,contact move (in go), direct attack to an enemy stone,sound effect produced by striking with clappers a wooden board in kabuki,letter,reason, motive, pretext,one's fortune, one's luck"
 		],
 		"english": "I'm gonna settle things here and now!",
-		"japanese": "いっそのこと、ここで一気にカタをつけ……"
+		"japanese": "いっそのこと、ここで一気にカタを[つけ]……"
 	},
 	{
 		"word": "各員",
@@ -141,7 +141,7 @@
 			"各員[かくいん] (n-adv, n-t) each one"
 		],
 		"english": "Emergency alert! Reports of a stowaway found! Those not on detail, search the ship. Report when found!",
-		"japanese": "緊急連絡！不審人物を発見の報告アリ！作業のない各員は監内を調査。発見しだい通報のこと！"
+		"japanese": "緊急連絡！不審人物を発見の報告アリ！作業のない[各員]は監内を調査。発見しだい通報のこと！"
 	},
 	{
 		"word": "通報",
@@ -150,7 +150,7 @@
 			"通報[つうほう] (n, vs) report, notification, tip, bulletin,message (in information and communication theory)"
 		],
 		"english": "Emergency alert! Reports of a stowaway found! Those not on detail, search the ship. Report when found!",
-		"japanese": "緊急連絡！不審人物を発見の報告アリ！作業のない各員は監内を調査。発見しだい通報のこと！"
+		"japanese": "緊急連絡！不審人物を発見の報告アリ！作業のない各員は監内を調査。発見しだい[通報]のこと！"
 	},
 	{
 		"word": "うばっ",
@@ -159,7 +159,7 @@
 			"奪う[うばう] (v5u, vt) to snatch away, to dispossess, to steal"
 		],
 		"english": "They take away all the things and people you love…",
-		"japanese": "大切なものを、大切な人をみんなからうばってしまうから……"
+		"japanese": "大切なものを、大切な人をみんなから[うばっ]てしまうから……"
 	},
 	{
 		"word": "はりきっ",
@@ -168,7 +168,7 @@
 			"張り切る[はりきる] (v5r) to be in high spirits, to be full of vigor (vigour), to be enthusiastic, to be eager, to stretch to breaking point"
 		],
 		"english": "Uh, yes sir, I'll continue my watch sir!  Hee hee…",
-		"japanese": "それでは、はりきって見張りをつづけるであります！フフフ……"
+		"japanese": "それでは、[はりきっ]て見張りをつづけるであります！フフフ……"
 	},
 	{
 		"word": "ガッツ",
@@ -177,7 +177,7 @@
 			"ガッツ (n) guts"
 		],
 		"english": "A seaman's gotta have umph!",
-		"japanese": "海の男はガッツだ、ガッツ！"
+		"japanese": "海の男は[ガッツ]だ、ガッツ！"
 	},
 	{
 		"word": "物足りない",
@@ -186,7 +186,7 @@
 			"物足りない[ものたりない] (adj-i) unsatisfied, unsatisfactory, insufficient"
 		],
 		"english": "Something's missing",
-		"japanese": "なにか物足りないんだ"
+		"japanese": "なにか[物足りない]んだ"
 	},
 	{
 		"word": "クルー",
@@ -195,7 +195,7 @@
 			"クルー (n) crew"
 		],
 		"english": "Say, who are you? You're not a part of the crew.",
-		"japanese": "ん、何だお前？この船のクルーじゃねえな？"
+		"japanese": "ん、何だお前？この船の[クルー]じゃねえな？"
 	},
 	{
 		"word": "こまかい",
@@ -204,7 +204,7 @@
 			"細かい[こまかい] (adj-i) small,fine, minute,minor, trivial,sensitive, attentive"
 		],
 		"english": "Oh well, seamen never bother with details!",
-		"japanese": "まあいいか、海の男はこまかいことを気にしねえのよ！"
+		"japanese": "まあいいか、海の男は[こまかい]ことを気にしねえのよ！"
 	},
 	{
 		"word": "スーパー",
@@ -213,7 +213,7 @@
 			"スーパー (adj-f) supermarket,subtitles, telop,superheterodyne,super"
 		],
 		"english": "I got just the perfect thing! Invisible Alpha'-- A super drink for seamen!!",
-		"japanese": "そういう時はコイツ！海の男のスーパードリンク『インビンシブルα』！！"
+		"japanese": "そういう時はコイツ！海の男の[スーパー]ドリンク『インビンシブルα』！！"
 	},
 	{
 		"word": "船乗り",
@@ -222,7 +222,7 @@
 			"船乗り[ふなのり] (n) getting on board,sailor, seaman"
 		],
 		"english": "Thanks! This is a necessity for a sailor.",
-		"japanese": "まいど！コイツは船乗りにかかせねえ品だぜ"
+		"japanese": "まいど！コイツは[船乗り]にかかせねえ品だぜ"
 	},
 	{
 		"word": "品",
@@ -233,7 +233,7 @@
 			"品[ほん] (suf) court rank,level, grade,chapter, section, volume"
 		],
 		"english": "Thanks! This is a necessity for a sailor.",
-		"japanese": "まいど！コイツは船乗りにかかせねえ品だぜ"
+		"japanese": "まいど！コイツは船乗りにかかせねえ[品]だぜ"
 	},
 	{
 		"word": "マスト",
@@ -242,7 +242,7 @@
 			"マスト (n) mast,necessary, mandatory, indispensable,must, [object Object]"
 		],
 		"english": "This is a must item for a sailor! Ha ha ha !",
-		"japanese": "船乗りだけにこれがホントのマストアイテム！ワッハッハッハ！"
+		"japanese": "船乗りだけにこれがホントの[マスト]アイテム！ワッハッハッハ！"
 	},
 	{
 		"word": "つきすすも",
@@ -251,7 +251,7 @@
 			"突き進む[つきすすむ] (v5m, vi) to push on, to plunge forward, to push one's way to"
 		],
 		"english": "Thanks! Now let's get on with it!",
-		"japanese": "まいど！コイツでガンガンつきすすもうぜ"
+		"japanese": "まいど！コイツでガンガン[つきすすも]うぜ"
 	},
 	{
 		"word": "ケチケチ",
@@ -260,7 +260,7 @@
 			"ケチケチ (adv, vs) stingy, tightfisted, miserly"
 		],
 		"english": "Hey! Seamen shouldn't be so stingy!",
-		"japanese": "オウオウ！海の男がケチケチすんない！"
+		"japanese": "オウオウ！海の男が[ケチケチ]すんない！"
 	},
 	{
 		"word": "サボっ",
@@ -269,7 +269,7 @@
 			"サボる (v5r, vi) to be truant, to play hooky, to skip school, to skip out, to be idle, to sabotage by slowness"
 		],
 		"english": "President Rufus and his men are in the Bridge of the Ship. If they see you slacking, they'll bust you one!",
-		"japanese": "ルーファウス社長たちは監橋にいるらしい。サボってるとドヤされるぜ！"
+		"japanese": "ルーファウス社長たちは監橋にいるらしい。[サボっ]てるとドヤされるぜ！"
 	},
 	{
 		"word": "たいてい",
@@ -280,7 +280,7 @@
 			"大帝[たいてい] (n) great emperor, ... the Great"
 		],
 		"english": "Humans only look at appearances anyway.",
-		"japanese": "人間というものはたいてい、ものごとのそとがわしか見ないからな"
+		"japanese": "人間というものは[たいてい]、ものごとのそとがわしか見ないからな"
 	},
 	{
 		"word": "ビーチ",
@@ -289,7 +289,7 @@
 			"ビーチ (n) beach"
 		],
 		"english": "When I get there, I'm going to take a long overdue vacation. Maybe I'll go down to the beach and get a tan…",
-		"japanese": "向こうについたらひさしぶりの休みだ。ビーチで体をやこうかな……"
+		"japanese": "向こうについたらひさしぶりの休みだ。[ビーチ]で体をやこうかな……"
 	},
 	{
 		"word": "てこ",
@@ -298,7 +298,7 @@
 			"梃子[てこ] (n) lever"
 		],
 		"english": "You don't think that suspicious stowaway is…",
-		"japanese": "てことは不審人物ってのはまさか……"
+		"japanese": "[てこ]とは不審人物ってのはまさか……"
 	},
 	{
 		"word": "くつ",
@@ -307,7 +307,7 @@
 			"靴[くつ] (n) shoe, shoes, boots, footwear, footgear"
 		],
 		"english": "These clothes are too tight on me. Can I switch with you?",
-		"japanese": "この服はきゅうくつだ。できればそっちに加わりたい"
+		"japanese": "この服はきゅう[くつ]だ。できればそっちに加わりたい"
 	},
 	{
 		"word": "加わり",
@@ -316,7 +316,7 @@
 			"加わる[くわわる] (v5r, vi) to be added to, to be appended,to join in (e.g. a group of friends), to participate,to increase (e.g. heat), to gain in (e.g. influence), to grow, to gather (speed),to be applied (e.g. heat, pressure), to be exerted"
 		],
 		"english": "These clothes are too tight on me. Can I switch with you?",
-		"japanese": "この服はきゅうくつだ。できればそっちに加わりたい"
+		"japanese": "この服はきゅうくつだ。できればそっちに[加わり]たい"
 	},
 	{
 		"word": "斬り",
@@ -325,7 +325,7 @@
 			"斬る[きる] (v5r, vt) to kill (a human) using a blade (sword, machete, knife, etc.), to slice (off), to lop (off), to cut (off)"
 		],
 		"english": "Received \"Wind Slash\"!",
-		"japanese": "『風斬り』を手にいれた！"
+		"japanese": "『風[斬り]』を手にいれた！"
 	},
 	{
 		"word": "眠り",
@@ -334,7 +334,7 @@
 			"眠り[ねむり] (n) sleep, sleeping,inactivity,death"
 		],
 		"english": "…After a long sleep…",
-		"japanese": "……長き眠りをへて……"
+		"japanese": "……長き[眠り]をへて……"
 	},
 	{
 		"word": "接岸",
@@ -343,7 +343,7 @@
 			"接岸[せつがん] (n, vs) coming alongside a pier, quay, etc., reaching land (of a boat)"
 		],
 		"english": "Dock workers--We will be docking in Costa del Sol in 5 minutes. Prepare for docking.",
-		"japanese": "接岸作業員コスタ・デル・ソル入港５分前接岸準備を開始せよ"
+		"japanese": "[接岸]作業員コスタ・デル・ソル入港５分前接岸準備を開始せよ"
 	},
 	{
 		"word": "員",
@@ -352,7 +352,7 @@
 			"員[いん] (n, n-suf) member"
 		],
 		"english": "Dock workers--We will be docking in Costa del Sol in 5 minutes. Prepare for docking.",
-		"japanese": "接岸作業員コスタ・デル・ソル入港５分前接岸準備を開始せよ"
+		"japanese": "接岸作業[員]コスタ・デル・ソル入港５分前接岸準備を開始せよ"
 	},
 	{
 		"word": "入港",
@@ -361,7 +361,7 @@
 			"入港[にゅうこう] (n, vs) entry into port, arriving in harbor"
 		],
 		"english": "Dock workers--We will be docking in Costa del Sol in 5 minutes. Prepare for docking.",
-		"japanese": "接岸作業員コスタ・デル・ソル入港５分前接岸準備を開始せよ"
+		"japanese": "接岸作業員コスタ・デル・ソル[入港]５分前接岸準備を開始せよ"
 	},
 	{
 		"word": "整理",
@@ -370,7 +370,7 @@
 			"整理[せいり] (n, vs) sorting, arrangement, organization, putting in order, adjustment, regulation,liquidation, settlement, consolidation, clearance (e.g. debt), paying off,retrenchment, curtailment, cutting down, disposal"
 		],
 		"english": "CLOUD, why don't you explain to me what's happened so far?",
-		"japanese": "CLOUD、ちょっとここまでを整理してくれねえか？"
+		"japanese": "CLOUD、ちょっとここまでを[整理]してくれねえか？"
 	},
 	{
 		"word": "めんどうくさい",
@@ -379,7 +379,7 @@
 			"面倒くさい[めんどくさい] (adj-i) bothersome, tiresome, bother to do"
 		],
 		"english": "Too much trouble",
-		"japanese": "めんどうくさい"
+		"japanese": "[めんどうくさい]"
 	},
 	{
 		"word": "こんがらがっ",
@@ -388,7 +388,7 @@
 			"こんがらがる (v5r, vi) to become entangled, to become complicated, to get mixed up, to screw up, to get caught up in"
 		],
 		"english": "I'm getting so confused…",
-		"japanese": "こんがらがってきちゃった……"
+		"japanese": "[こんがらがっ]てきちゃった……"
 	},
 	{
 		"word": "さほど",
@@ -397,7 +397,7 @@
 			"然程[さほど] (adv, conj) not so, not particularly, not very, not that much"
 		],
 		"english": "Hmm… The story's not that simple.",
-		"japanese": "フム……話はさほど単純ではなさそうだ。"
+		"japanese": "フム……話は[さほど]単純ではなさそうだ。"
 	},
 	{
 		"word": "はさま",
@@ -407,7 +407,7 @@
 			"剪む[はさむ] (v5m, vt) to clip, to snip"
 		],
 		"english": "…I'll try, but don't interrupt me while I'm explaining.",
-		"japanese": "……やってみるから途中で口をはさまないでくれよ"
+		"japanese": "……やってみるから途中で口を[はさま]ないでくれよ"
 	},
 	{
 		"word": "いとこ",
@@ -421,7 +421,7 @@
 			"従妹[じゅうまい] (n) cousin (younger female)"
 		],
 		"english": "Whoa! We'd best hurry and hide somewhere.",
-		"japanese": "おおっと！はやいとこ隠れたほうがよさそうだぜ"
+		"japanese": "おおっと！はや[いとこ]隠れたほうがよさそうだぜ"
 	},
 	{
 		"word": "隠れ",
@@ -431,6 +431,6 @@
 			"隠る[なまる] (v5r, vi) to hide, to be hidden, to conceal oneself, to disappear"
 		],
 		"english": "Phew… We're finally here… Now we gotta hide.",
-		"japanese": "ホッ……やっとついた……はやく隠れ……ウップ"
+		"japanese": "ホッ……やっとついた……はやく[隠れ]……ウップ"
 	}
 ]

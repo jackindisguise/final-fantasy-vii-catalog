@@ -6,7 +6,7 @@
 			"素早い[すばやい] (adj-i) fast, quick, prompt, nimble, agile,quick (to understand), sharp (judgement)"
 		],
 		"english": "Hmm? Pretty fast.",
-		"japanese": "おや……？なるほど……すばやいな"
+		"japanese": "おや……？なるほど……[すばやい]な"
 	},
 	{
 		"word": "盗ま",
@@ -15,7 +15,7 @@
 			"盗む[ぬすむ] (v5m, vt) to steal"
 		],
 		"english": "200 Gil Stolen!",
-		"japanese": "２００ギル盗まれた！"
+		"japanese": "２００ギル[盗ま]れた！"
 	},
 	{
 		"word": "かえせ",
@@ -26,7 +26,7 @@
 			"孵す[かえす] (v5s, vt) to hatch, to incubate"
 		],
 		"english": "&^%$!! Gimme back my money!!",
-		"japanese": "チクショ～！！オレの金、かえせ～！！"
+		"japanese": "チクショ～！！オレの金、[かえせ]～！！"
 	},
 	{
 		"word": "くらむ",
@@ -36,7 +36,7 @@
 			"クラム (n) clam,crumb"
 		],
 		"english": "Greed…A perfect example of human nature.",
-		"japanese": "金に目がくらむ……じつに人間らしい行動だな"
+		"japanese": "金に目が[くらむ]……じつに人間らしい行動だな"
 	},
 	{
 		"word": "じつに",
@@ -45,7 +45,7 @@
 			"実に[じつに] (adv) indeed, really, absolutely, truly, actually, very, quite"
 		],
 		"english": "Greed…A perfect example of human nature.",
-		"japanese": "金に目がくらむ……じつに人間らしい行動だな"
+		"japanese": "金に目がくらむ……[じつに]人間らしい行動だな"
 	},
 	{
 		"word": "人間らしい",
@@ -54,7 +54,7 @@
 			"人間らしい[にんげんらしい] (adj-i) human, humane"
 		],
 		"english": "Greed…A perfect example of human nature.",
-		"japanese": "金に目がくらむ……じつに人間らしい行動だな"
+		"japanese": "金に目がくらむ……じつに[人間らしい]行動だな"
 	},
 	{
 		"word": "くすねる",
@@ -63,7 +63,7 @@
 			"くすねる (v1, vt) to pilfer, to filch, to swipe"
 		],
 		"english": "Steal MY money, will ya? You got a lot of #&^%$ nerve!!",
-		"japanese": "オレ様から金をくすねるたあいい度胸じゃねえか！！"
+		"japanese": "オレ様から金を[くすねる]たあいい度胸じゃねえか！！"
 	},
 	{
 		"word": "度胸",
@@ -72,7 +72,7 @@
 			"度胸[どきょう] (n) courage, bravery, pluck, nerve, grit, guts"
 		],
 		"english": "Steal MY money, will ya? You got a lot of #&^%$ nerve!!",
-		"japanese": "オレ様から金をくすねるたあいい度胸じゃねえか！！"
+		"japanese": "オレ様から金をくすねるたあいい[度胸]じゃねえか！！"
 	},
 	{
 		"word": "みなれ",
@@ -81,7 +81,7 @@
 			"見慣れる[みなれる] (v1, vi) to become used to seeing, to be familiar with"
 		],
 		"english": "You don't see one like that everyday…",
-		"japanese": "……みなれない格好をしているな……"
+		"japanese": "……[みなれ]ない格好をしているな……"
 	},
 	{
 		"word": "知らん顔",
@@ -90,7 +90,7 @@
 			"知らん顔[しらんかお] (n, vs) feigned ignorance, pretending not to recognize (somebody),unconcerned air, indifference"
 		],
 		"english": "Who do you think she is? I don't recognize her face.",
-		"japanese": "なんやろ、アレ。知らん顔ですなぁ"
+		"japanese": "なんやろ、アレ。[知らん顔]ですなぁ"
 	},
 	{
 		"word": "オッパイ",
@@ -99,7 +99,7 @@
 			"おっぱい (n) breasts, boobies, tits,breast milk"
 		],
 		"english": "Hey, boobs! Try that again! Just one more time!",
-		"japanese": "やい、このオッパイ女！もう１回、もう１回勝負しろ！"
+		"japanese": "やい、この[オッパイ]女！もう１回、もう１回勝負しろ！"
 	},
 	{
 		"word": "しな",
@@ -111,7 +111,7 @@
 			"科[しな] (n) Japanese linden (Tilia japonica)"
 		],
 		"english": "I won't lose this time! Take your time and get ready. Holler when you're ready!",
-		"japanese": "今度は負けないからね！時間をやるから、用意しなよ。カクゴができたらかかってきな！"
+		"japanese": "今度は負けないからね！時間をやるから、用意[しな]よ。カクゴができたらかかってきな！"
 	},
 	{
 		"word": "たたかう",
@@ -120,7 +120,7 @@
 			"戦う[たたかう] (v5u, vi) to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against),to compete (against),to struggle (against adversities, etc.), to fight, to contend, to resist"
 		],
 		"english": "No way I'm going to fight with a punk like you more than once!",
-		"japanese": "フーンだ、誰がアンタらみたいなザコと何度もたたかうもんか！"
+		"japanese": "フーンだ、誰がアンタらみたいなザコと何度も[たたかう]もんか！"
 	},
 	{
 		"word": "治療",
@@ -129,7 +129,7 @@
 			"治療[ちりょう] (n, vs, adj-no) medical treatment, cure"
 		],
 		"english": "I'll save enough for the doctor bill! Next time, you won't be as lucky!",
-		"japanese": "ケガの治療費はいただいとくよ！次はようしゃしないからなー！"
+		"japanese": "ケガの[治療]費はいただいとくよ！次はようしゃしないからなー！"
 	},
 	{
 		"word": "費",
@@ -139,7 +139,7 @@
 			"直[あたい] (n) Atai (post-Taika hereditary title often given to regional administrators)"
 		],
 		"english": "I'll save enough for the doctor bill! Next time, you won't be as lucky!",
-		"japanese": "ケガの治療費はいただいとくよ！次はようしゃしないからなー！"
+		"japanese": "ケガの治療[費]はいただいとくよ！次はようしゃしないからなー！"
 	},
 	{
 		"word": "しゃし",
@@ -149,7 +149,7 @@
 			"瀉する[しゃする] (vs-s) to have diarrhea,to vomit"
 		],
 		"english": "I'll save enough for the doctor bill! Next time, you won't be as lucky!",
-		"japanese": "ケガの治療費はいただいとくよ！次はようしゃしないからなー！"
+		"japanese": "ケガの治療費はいただいとくよ！次はよう[しゃし]ないからなー！"
 	},
 	{
 		"word": "ったらし",
@@ -158,7 +158,7 @@
 			"たらしい (suf, adj-i) (after a noun or the stem of an adjective) seeming very... (usu. with a negative connotation)"
 		],
 		"english": "Thinkin' of running away? Stay and fight! FIGHT, I said!",
-		"japanese": "ム、逃げる気？ちゃんと勝負しろ！しろったらしろ！"
+		"japanese": "ム、逃げる気？ちゃんと勝負しろ！しろ[ったらし]ろ！"
 	},
 	{
 		"word": "ムダ",
@@ -167,7 +167,7 @@
 			"無駄[むだ] (n, adj-na) futility, waste, uselessness, pointlessness, idleness"
 		],
 		"english": "You're wasting your time",
-		"japanese": "やるだけムダだぜ"
+		"japanese": "やるだけ[ムダ]だぜ"
 	},
 	{
 		"word": "実力",
@@ -176,7 +176,7 @@
 			"実力[じつりょく] (n) (real) ability, true strength, merit, efficiency, competency,arms, force"
 		],
 		"english": "Hmm, just as I thought. What do you expect with my skills?",
-		"japanese": "ヘヘ、や～っぱりそうか。ま、アタシの実力からいえばそれも当然だネ"
+		"japanese": "ヘヘ、や～っぱりそうか。ま、アタシの[実力]からいえばそれも当然だネ"
 	},
 	{
 		"word": "なのる",
@@ -185,6 +185,6 @@
 			"名乗る[なのる] (v5r, vi) to give one's name (as), to introduce oneself (as),to claim to be, to call oneself, to wear the title of,to reveal oneself (as), to admit to being,to adopt as one's name, to take (a name),to call out the goods one is selling"
 		],
 		"english": "What are you talking about!? You're the one who should go first!",
-		"japanese": "ヘン、何言ってんだい！そっちが先になのるのがマナーってもんだろ！"
+		"japanese": "ヘン、何言ってんだい！そっちが先に[なのる]のがマナーってもんだろ！"
 	}
 ]

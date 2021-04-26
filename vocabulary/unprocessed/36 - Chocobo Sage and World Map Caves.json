@@ -9,7 +9,7 @@
 			"機位[きい] (n) position of aircraft"
 		],
 		"english": "Large Materia needs high level Materia…  …zzzzzz….zzzzzzz…",
-		"japanese": "大っきいマテリアはレベルが高～いマテリアが欲しいのかぁ……ぐー、ぐー"
+		"japanese": "大っ[きい]マテリアはレベルが高～いマテリアが欲しいのかぁ……ぐー、ぐー"
 	},
 	{
 		"word": "ふかし",
@@ -20,7 +20,7 @@
 			"更かす[ふかす] (v5s, vt) to sit up late"
 		],
 		"english": "What're you flappin' about? There's one right there!",
-		"japanese": "ふかしこいてんじゃねぇよいるじゃねぇか、そこに"
+		"japanese": "[ふかし]こいてんじゃねぇよいるじゃねぇか、そこに"
 	},
 	{
 		"word": "実っ",
@@ -29,7 +29,7 @@
 			"実る[みのる] (v5r, vi) to bear fruit, to ripen"
 		],
 		"english": "And what about those nut things?",
-		"japanese": "それと、その実ってのはどこにあるんだ？"
+		"japanese": "それと、その[実っ]てのはどこにあるんだ？"
 	},
 	{
 		"word": "スグ",
@@ -39,7 +39,7 @@
 			"過ぐ[すぐ] (v2g-k, vi) to pass through, to pass by, to go beyond,to pass (i.e. of time), to elapse,to have expired, to have ended, to be over,to exceed, to surpass, to be above"
 		],
 		"english": "Mate it with a 'Wonderful Chocobo' you can catch right around here… And you'll get…",
-		"japanese": "このスグそばで取れるそれはいいチョコボとタマゴを生ませるとのぉ"
+		"japanese": "この[スグ]そばで取れるそれはいいチョコボとタマゴを生ませるとのぉ"
 	},
 	{
 		"word": "経",
@@ -48,7 +48,7 @@
 			"経る[へる] (v1, vi) to pass, to elapse, to go by,to pass through, to go through,to experience, to go through, to undergo"
 		],
 		"english": "Over the course of many years, Mako energy will crystallize into Materia…",
-		"japanese": "長い年月を経て魔晄エネルギーがマテリアの結晶になっている……"
+		"japanese": "長い年月を[経]て魔晄エネルギーがマテリアの結晶になっている……"
 	},
 	{
 		"word": "艦",
@@ -57,7 +57,7 @@
 			"艦[かん] (n, n-suf) warship"
 		],
 		"english": "How to drive the submarine",
-		"japanese": "潜水艦の移動"
+		"japanese": "潜水[艦]の移動"
 	},
 	{
 		"word": "潜行",
@@ -66,7 +66,7 @@
 			"潜行[せんこう] (n, vs) underwater navigation,going underground, going into hiding, travelling incognito, traveling incognito, travelling in disguise, traveling in disguise"
 		],
 		"english": "press the [Cancel] button to get off",
-		"japanese": "【キャンセルボタン】降りる・潜行＆浮上"
+		"japanese": "【キャンセルボタン】降りる・[潜行]＆浮上"
 	},
 	{
 		"word": "浮上",
@@ -75,7 +75,7 @@
 			"浮上[ふじょう] (n, vs) surfacing, rising to the surface,emerging, leaping into prominence,rising (of rank)"
 		],
 		"english": "press the [Cancel] button to get off",
-		"japanese": "【キャンセルボタン】降りる・潜行＆浮上"
+		"japanese": "【キャンセルボタン】降りる・潜行＆[浮上]"
 	},
 	{
 		"word": "プレイヤー",
@@ -84,7 +84,7 @@
 			"プレイヤー (n) player,prayer"
 		],
 		"english": "Players can get on and off at bays like this one",
-		"japanese": "このような入りえでプレイヤーの乗り降りができます。"
+		"japanese": "このような入りえで[プレイヤー]の乗り降りができます。"
 	},
 	{
 		"word": "乗り降り",
@@ -93,7 +93,7 @@
 			"乗り降り[のりおり] (n, vs) getting on and off (a vehicle), boarding and alighting"
 		],
 		"english": "Players can get on and off at bays like this one",
-		"japanese": "このような入りえでプレイヤーの乗り降りができます。"
+		"japanese": "このような入りえでプレイヤーの[乗り降り]ができます。"
 	},
 	{
 		"word": "迎え撃と",
@@ -102,7 +102,7 @@
 			"迎え撃つ[むかえうつ] (v5t, vt) to ambush, to attack, to assault, to meet the enemy"
 		],
 		"english": "What're you tryin to do? Break the Highwind? Let's fight on the ground",
-		"japanese": "お、おい！ハイウインドを壊す気か？地上で迎え撃とうぜ！！"
+		"japanese": "お、おい！ハイウインドを壊す気か？地上で[迎え撃と]うぜ！！"
 	},
 	{
 		"word": "勢い",
@@ -111,6 +111,6 @@
 			"勢い[いきおい] (adv) force, vigor, vigour, energy, spirit, life,influence, authority, power, might,impetus, momentum, course (of events),naturally, necessarily"
 		],
 		"english": "What the hell was that! That came Buzzin past here like a powerhorse",
-		"japanese": "な、なんだ今のは！？スゲエ勢いではしかれたぜ！"
+		"japanese": "な、なんだ今のは！？スゲエ[勢い]ではしかれたぜ！"
 	}
 ]

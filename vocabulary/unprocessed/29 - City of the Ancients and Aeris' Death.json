@@ -6,7 +6,7 @@
 			"内海[うちうみ] (n) inlet, bay, inland sea"
 		],
 		"english": "It's way down south. It's on the other side of this town and the inland sea.",
-		"japanese": "ずうっと南に行ったところだ。ちょうどこの村と内海をはさんで反対がわだよ"
+		"japanese": "ずうっと南に行ったところだ。ちょうどこの村と[内海]をはさんで反対がわだよ"
 	},
 	{
 		"word": "ピラミッド",
@@ -15,7 +15,7 @@
 			"ピラミッド (n) pyramid"
 		],
 		"english": "It's the pyramid rising out of the forest.",
-		"japanese": "森の中にそびえるピラミッドさ"
+		"japanese": "森の中にそびえる[ピラミッド]さ"
 	},
 	{
 		"word": "文字通り",
@@ -24,7 +24,7 @@
 			"文字通り[もじどおり] (n-adv) literal,literally"
 		],
 		"english": "Just like it sounds. A rock that's a key. I heard that some rich guy has it.",
-		"japanese": "文字通りカギとなる石さ。どこかの金持ちが持っているって話だな"
+		"japanese": "[文字通り]カギとなる石さ。どこかの金持ちが持っているって話だな"
 	},
 	{
 		"word": "化石",
@@ -33,7 +33,7 @@
 			"化石[かせき] (n, vs) fossil,petrifaction, petrification, fossilization, fossilisation"
 		],
 		"english": "Through fossils, we already know everything that happened on this Planet since the beginning.",
-		"japanese": "僕たちはこの星の始まりから今にいたるまでを化石を通して知ってきた"
+		"japanese": "僕たちはこの星の始まりから今にいたるまでを[化石]を通して知ってきた"
 	},
 	{
 		"word": "複雑",
@@ -42,7 +42,7 @@
 			"複雑[ふくざつ] (adj-na) complex, complicated, mixed (feelings)"
 		],
 		"english": "Now, we want to see the rest on to the end of the Planet… It's a mixed feeling…",
-		"japanese": "そして今、この星の終わりを見届けようとしている……なんだか複雑な気持ちだよ"
+		"japanese": "そして今、この星の終わりを見届けようとしている……なんだか[複雑]な気持ちだよ"
 	},
 	{
 		"word": "るる",
@@ -51,7 +51,7 @@
 			"縷縷[るる] (adj-t, adv-to) continuously, unbroken, at great length, in minute detail"
 		],
 		"english": "The City of the Ancients? Oh, you must mean the Forgotten City.",
-		"japanese": "古代種の都？ああ、忘らるる都のことだな"
+		"japanese": "古代種の都？ああ、忘ら[るる]都のことだな"
 	},
 	{
 		"word": "畑",
@@ -60,7 +60,7 @@
 			"畑[はたけ] (n, suf) field (for fruits, vegetables, etc.), cultivated land, vegetable plot, kitchen garden, plantation,field (of specialization), sphere, area,womb, birth, birthplace"
 		],
 		"english": "Just live. Eat, work, and sleep.",
-		"japanese": "ただ、生きる。喰って、畑仕事して、ねる"
+		"japanese": "ただ、生きる。喰って、[畑]仕事して、ねる"
 	},
 	{
 		"word": "ねむっ",
@@ -69,7 +69,7 @@
 			"眠る[ねむる] (v5r, vi) to sleep (not necessarily lying down),to die,to lie idle (e.g. of resources), to be dormant, to be unused,to close one's eyes"
 		],
 		"english": "The Lunar Harp is somewhere in the ground here. We could excavate it for you if you want us to.",
-		"japanese": "ルナ・ハープはこの土地の地下にねむっている。ハックツして欲しいのならうけおうぜ"
+		"japanese": "ルナ・ハープはこの土地の地下に[ねむっ]ている。ハックツして欲しいのならうけおうぜ"
 	},
 	{
 		"word": "うけおう",
@@ -78,7 +78,7 @@
 			"請け負う[うけおう] (v5u, vt) to contract, to undertake,to take over, to take responsibility for"
 		],
 		"english": "The Lunar Harp is somewhere in the ground here. We could excavate it for you if you want us to.",
-		"japanese": "ルナ・ハープはこの土地の地下にねむっている。ハックツして欲しいのならうけおうぜ"
+		"japanese": "ルナ・ハープはこの土地の地下にねむっている。ハックツして欲しいのなら[うけおう]ぜ"
 	},
 	{
 		"word": "かい",
@@ -93,7 +93,7 @@
 			"解囲[かいい] (n, vs) breaking the enemy siege"
 		],
 		"english": "I want to buy something",
-		"japanese": "かいものをしたい"
+		"japanese": "[かい]ものをしたい"
 	},
 	{
 		"word": "指定",
@@ -102,7 +102,7 @@
 			"指定[してい] (n, vs) designation, specification, assignment, appointment, pointing at"
 		],
 		"english": "All right! Then I'll lend you some of my staff. Show us where you want us to dig!",
-		"japanese": "よし！じゃあ、俺のスタッフをかしてやろう。ハックツポイントを指定してくれ！"
+		"japanese": "よし！じゃあ、俺のスタッフをかしてやろう。ハックツポイントを[指定]してくれ！"
 	},
 	{
 		"word": "積み重ね",
@@ -111,7 +111,7 @@
 			"積み重ねる[つみかさねる] (v1, vt) to pile up, to accumulate"
 		],
 		"english": "The memory of this planet is buried layer by layer in this geological stratum. Kind of romantic, don't you think?",
-		"japanese": "この地層に星の記憶が積み重ねられているのよ。ロマンを感じるでしょ？"
+		"japanese": "この地層に星の記憶が[積み重ね]られているのよ。ロマンを感じるでしょ？"
 	},
 	{
 		"word": "ロマン",
@@ -121,7 +121,7 @@
 			"露満[ろまん] (n) Russia and Manchuria"
 		],
 		"english": "The memory of this planet is buried layer by layer in this geological stratum. Kind of romantic, don't you think?",
-		"japanese": "この地層に星の記憶が積み重ねられているのよ。ロマンを感じるでしょ？"
+		"japanese": "この地層に星の記憶が積み重ねられているのよ。[ロマン]を感じるでしょ？"
 	},
 	{
 		"word": "まどろん",
@@ -130,7 +130,7 @@
 			"微睡む[まどろむ] (v5m, vi) to doze (off)"
 		],
 		"english": "The forest just beyond here is called the Sleeping Forest. Right now the forest is asleep. Anyone who wanders in while it's asleep, gets confused. You can go in, but you may never come out…",
-		"japanese": "この先の森は【眠りの森】とよんでる。森が眠り、まどろんでいる間はそこに迷いこんだ人間を惑わすと言われています。入ったら二度と出られないとも……"
+		"japanese": "この先の森は【眠りの森】とよんでる。森が眠り、[まどろん]でいる間はそこに迷いこんだ人間を惑わすと言われています。入ったら二度と出られないとも……"
 	},
 	{
 		"word": "惑わす",
@@ -139,7 +139,7 @@
 			"惑わす[まどわす] (v5s, vt) to bewilder, to perplex, to puzzle, to delude, to mislead, to deceive,to tempt, to seduce"
 		],
 		"english": "The forest just beyond here is called the Sleeping Forest. Right now the forest is asleep. Anyone who wanders in while it's asleep, gets confused. You can go in, but you may never come out…",
-		"japanese": "この先の森は【眠りの森】とよんでる。森が眠り、まどろんでいる間はそこに迷いこんだ人間を惑わすと言われています。入ったら二度と出られないとも……"
+		"japanese": "この先の森は【眠りの森】とよんでる。森が眠り、まどろんでいる間はそこに迷いこんだ人間を[惑わす]と言われています。入ったら二度と出られないとも……"
 	},
 	{
 		"word": "ピンク",
@@ -148,7 +148,7 @@
 			"ピンク (n, adj-no) pink,erotic (usually used in relation to the sex industry), blue, pornographic"
 		],
 		"english": "But just now, a girl in pink and a man in a black cape went in. You think they'll be all right?",
-		"japanese": "でもさっき、ピンクの女の子と黒い男の人が入っていったわ。だいじょうぶかしら？"
+		"japanese": "でもさっき、[ピンク]の女の子と黒い男の人が入っていったわ。だいじょうぶかしら？"
 	},
 	{
 		"word": "楽器",
@@ -157,7 +157,7 @@
 			"楽器[がっき] (n, adj-no) musical instrument"
 		],
 		"english": "You can awaken the Sleeping Forest if you have the Lunar Harp.",
-		"japanese": "ルナ・ハープという楽器があれば【眠りの森】は目をさますはず"
+		"japanese": "ルナ・ハープという[楽器]があれば【眠りの森】は目をさますはず"
 	},
 	{
 		"word": "最新",
@@ -166,7 +166,7 @@
 			"最新[さいしん] (n, adj-no) latest, newest, late-breaking (news)"
 		],
 		"english": "We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.",
-		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね"
+		"japanese": "私たちは[最新]のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね"
 	},
 	{
 		"word": "埋まっ",
@@ -175,7 +175,7 @@
 			"埋まる[うまる] (v5r, vi) to be buried, to be covered, to be surrounded,to overflow, to be crowded, to be filled,to be repaid (e.g. debt), to be replenished,to be filled (e.g. vacancy, schedule)"
 		],
 		"english": "We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.",
-		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね"
+		"japanese": "私たちは最新のシステムで地下に[埋まっ]ているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね"
 	},
 	{
 		"word": "地震",
@@ -184,7 +184,7 @@
 			"地震[じしん] (n) earthquake"
 		],
 		"english": "We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.",
-		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね"
+		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に[地震]をおこしその振動の反射をそくていするのね"
 	},
 	{
 		"word": "振動",
@@ -193,7 +193,7 @@
 			"振動[しんどう] (n, vs) oscillation, vibration, swing (e.g. of a pendulum)"
 		],
 		"english": "We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.",
-		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね"
+		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその[振動]の反射をそくていするのね"
 	},
 	{
 		"word": "反射",
@@ -202,7 +202,7 @@
 			"反射[はんしゃ] (n, vs) reflection, reverberation,reflex, reflexes"
 		],
 		"english": "We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.",
-		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね"
+		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の[反射]をそくていするのね"
 	},
 	{
 		"word": "そく",
@@ -219,7 +219,7 @@
 			"触[そく] (n) contact, touch,tactile object,uncleanliness"
 		],
 		"english": "We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.",
-		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね"
+		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射を[そく]ていするのね"
 	},
 	{
 		"word": "ていする",
@@ -230,7 +230,7 @@
 			"訂する[ていする] (vs-s) to correct"
 		],
 		"english": "We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.",
-		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね"
+		"japanese": "私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそく[ていする]のね"
 	},
 	{
 		"word": "地中",
@@ -239,7 +239,7 @@
 			"地中[ちちゅう] (n, adj-no) underground, subterranean"
 		],
 		"english": "Press [SWITCH] to ignite the bomb for the search.",
-		"japanese": "□ボタンを押せば調査用の爆弾が 地中で爆発します。"
+		"japanese": "□ボタンを押せば調査用の爆弾が[地中]で爆発します。"
 	},
 	{
 		"word": "反動",
@@ -248,7 +248,7 @@
 			"反動[はんどう] (n) reaction, recoil, kick, backlash"
 		],
 		"english": "The staff member will calculate the tremors and dig up the buried item.",
-		"japanese": "各スタッフは爆発の反動を計算し 目的のまいぞう物の方向を指し示します。"
+		"japanese": "各スタッフは爆発の[反動]を計算し目的のまいぞう物の方向を指し示します。"
 	},
 	{
 		"word": "指し示し",
@@ -257,7 +257,7 @@
 			"指し示す[さししめす] (v5s, vt) to indicate, to show, to point to"
 		],
 		"english": "The staff member will calculate the tremors and dig up the buried item.",
-		"japanese": "各スタッフは爆発の反動を計算し 目的のまいぞう物の方向を指し示します。"
+		"japanese": "各スタッフは爆発の反動を計算し目的のまいぞう物の方向を[指し示し]ます。"
 	},
 	{
 		"word": "視線",
@@ -266,7 +266,7 @@
 			"視線[しせん] (n) one's line of sight, one's gaze, one's eyes (looking), glance, gaze, look"
 		],
 		"english": "The dig point is where the staff's line of vision meets.",
-		"japanese": "つまりスタッフの視線が交わった ポイントがハックツポイントです。 "
+		"japanese": "つまりスタッフの[視線]が交わったポイントがハックツポイントです。"
 	},
 	{
 		"word": "交わっ",
@@ -275,7 +275,7 @@
 			"交わる[まじわる] (v5r, vi) to cross, to intersect, to join, to meet,to associate with, to mingle with, to consort with,to have a sexual relationship, to copulate"
 		],
 		"english": "The dig point is where the staff's line of vision meets.",
-		"japanese": "つまりスタッフの視線が交わった ポイントがハックツポイントです。 "
+		"japanese": "つまりスタッフの視線が[交わっ]たポイントがハックツポイントです。"
 	},
 	{
 		"word": "一晩",
@@ -284,7 +284,7 @@
 			"一晩[ひとばん] (n-adv, n-t) one night, one evening,all night, overnight"
 		],
 		"english": "Now, the staff will dig here. The result will be placed in the treasure box overnight.",
-		"japanese": "ではこの地点をほります。一晩ねれば、結果が村のたからばこに入れられます"
+		"japanese": "ではこの地点をほります。[一晩]ねれば、結果が村のたからばこに入れられます"
 	},
 	{
 		"word": "ほりおこし",
@@ -293,7 +293,7 @@
 			"掘り起こす[ほりおこす] (v5s, vt) to dig up, to unearth, to uncover"
 		],
 		"english": "Excavating is a slow process. The treasures we excavate are stored in the box next to the tent. Remember that.",
-		"japanese": "ハックツってのは地道な作業だよ。俺たちがほりおこした宝物はテントの横のハコにしまっておくんだ。おぼえておきな"
+		"japanese": "ハックツってのは地道な作業だよ。俺たちが[ほりおこし]た宝物はテントの横のハコにしまっておくんだ。おぼえておきな"
 	},
 	{
 		"word": "入り口",
@@ -302,7 +302,7 @@
 			"入口[いりぐち] (n, adj-no) entrance, entry, gate, approach, mouth"
 		],
 		"english": "Then the entrance to the forest made a funny sound, like 'Grrrrrrgh!'.",
-		"japanese": "そしたらどうだい森の入り口がガーッって開いたんだよ"
+		"japanese": "そしたらどうだい森の[入り口]がガーッって開いたんだよ"
 	},
 	{
 		"word": "めざめ",
@@ -311,7 +311,7 @@
 			"目覚める[めざめる] (v1, vi) to wake up, to awake,to awaken to (instinct, ability, perception, etc.), to become aware of, to become conscious of, to realize,to come to one's senses"
 		],
 		"english": "The Sleeping Forest awoke…",
-		"japanese": "眠りの森がめざめた……"
+		"japanese": "眠りの森が[めざめ]た……"
 	},
 	{
 		"word": "心地よ",
@@ -320,7 +320,7 @@
 			"心地良い[ここちよい] (adj-i) comfortable, pleasant"
 		],
 		"english": "Yeah, and it looks pretty comfortable.",
-		"japanese": "おっ、意外と心地よさそうなベッドじゃねぇか"
+		"japanese": "おっ、意外と[心地よ]さそうなベッドじゃねぇか"
 	},
 	{
 		"word": "一服",
@@ -329,7 +329,7 @@
 			"一服[いっぷく] (n, vs) (a) dose, (a) puff, (a) smoke, lull, short rest"
 		],
 		"english": "Yo, CLOUD. Let's take a break here.",
-		"japanese": "よぉ、CLOUD。ここいらで一服しようぜ"
+		"japanese": "よぉ、CLOUD。ここいらで[一服]しようぜ"
 	},
 	{
 		"word": "あたい",
@@ -340,7 +340,7 @@
 			"直[あたい] (n) Atai (post-Taika hereditary title often given to regional administrators)"
 		],
 		"english": "Come on--, let's rest for a while--- I don't want to walk anymore…",
-		"japanese": "ねぇ～、休もうよ～あたい、もう歩きたくな～い"
+		"japanese": "ねぇ～、休もうよ～[あたい]、もう歩きたくな～い"
 	},
 	{
 		"word": "何時",
@@ -350,7 +350,7 @@
 			"何時[なんじ] (n) what time"
 		],
 		"english": "Do you know what TIME it is!?",
-		"japanese": "おい、何時だと思ってんだよ！"
+		"japanese": "おい、[何時]だと思ってんだよ！"
 	},
 	{
 		"word": "お呼び",
@@ -359,7 +359,7 @@
 			"お呼び[および] (n, vs) call, invitation"
 		],
 		"english": "No way---! Sephiroth wasn't invited!",
-		"japanese": "うっそ～！セフィロスなんてお呼びじゃないのに～"
+		"japanese": "うっそ～！セフィロスなんて[お呼び]じゃないのに～"
 	},
 	{
 		"word": "ちょい",
@@ -369,7 +369,7 @@
 			"ちょい (adv) a little, a bit, slightly,just a minute, for a moment, briefly,somewhat, rather, fairly, pretty, quite"
 		],
 		"english": "I gotta get some more rest. Let me catch a snooze somewhere around here.",
-		"japanese": "はずかしながら、つかれちまったぜ。どっかで、ちょいと眠らせてくれや"
+		"japanese": "はずかしながら、つかれちまったぜ。どっかで、[ちょい]と眠らせてくれや"
 	},
 	{
 		"word": "嫌っ",
@@ -378,7 +378,7 @@
 			"嫌う[きらう] (v5u, vt) to hate, to dislike, to loathe"
 		],
 		"english": "Ahhh--- I can't go another step!!",
-		"japanese": "あ～、もーっ嫌っ！！"
+		"japanese": "あ～、もーっ[嫌っ]！！"
 	},
 	{
 		"word": "あたたかい",
@@ -387,7 +387,7 @@
 			"暖かい[あたたかい] (adj-i) warm, mild, (pleasantly) hot,considerate, kind, genial,warm (of a colour), mellow,having enough money"
 		],
 		"english": "I'm so----o tired! If you don't get me to a bed, I'm not taking another step!",
-		"japanese": "アタイ、つかれちゃったよ～！あたたかいベッドで眠らせてくんないともう、一歩も動かないからね！"
+		"japanese": "アタイ、つかれちゃったよ～！[あたたかい]ベッドで眠らせてくんないともう、一歩も動かないからね！"
 	},
 	{
 		"word": "雪山",
@@ -396,7 +396,7 @@
 			"雪山[ゆきやま] (n) snowy mountain, permanently snow-covered mountain,pile of snow,Himalayas"
 		],
 		"english": "You thinkin' of going skiing? If we wanna find AERIS, we go THAT way!",
-		"japanese": "雪山でスキーでもするつもりか？AERISさがすんならそっちじゃないだろ、え！"
+		"japanese": "[雪山]でスキーでもするつもりか？AERISさがすんならそっちじゃないだろ、え！"
 	},
 	{
 		"word": "スキー",
@@ -405,7 +405,7 @@
 			"スキー (n) skiing,ski, skis"
 		],
 		"english": "You thinkin' of going skiing? If we wanna find AERIS, we go THAT way!",
-		"japanese": "雪山でスキーでもするつもりか？AERISさがすんならそっちじゃないだろ、え！"
+		"japanese": "雪山で[スキー]でもするつもりか？AERISさがすんならそっちじゃないだろ、え！"
 	},
 	{
 		"word": "寄り道",
@@ -414,7 +414,7 @@
 			"寄り道[よりみち] (n, vs) dropping in on the way, stopping off at, making a side trip,going the long way round, making a detour"
 		],
 		"english": "All that is left is to go North. The 'Promised Land' waits for me over the snowy fields.",
-		"japanese": "私の寄り道はもう終わった。あとは北を目指すのみ。雪原の向こうに待っている『約束の地』"
+		"japanese": "私の[寄り道]はもう終わった。あとは北を目指すのみ。雪原の向こうに待っている『約束の地』"
 	},
 	{
 		"word": "雪原",
@@ -423,7 +423,7 @@
 			"雪原[せつげん] (n) snow field"
 		],
 		"english": "All that is left is to go North. The 'Promised Land' waits for me over the snowy fields.",
-		"japanese": "私の寄り道はもう終わった。あとは北を目指すのみ。雪原の向こうに待っている『約束の地』"
+		"japanese": "私の寄り道はもう終わった。あとは北を目指すのみ。[雪原]の向こうに待っている『約束の地』"
 	},
 	{
 		"word": "一体化",
@@ -432,7 +432,7 @@
 			"一体化[いったいか] (n, vs) unification, integration"
 		],
 		"english": "There, I will become a new being by uniting with the Planet. As will this girl…",
-		"japanese": "私はそこで新たな存在として星と一体化する。その時はその娘も…"
+		"japanese": "私はそこで新たな存在として星と[一体化]する。その時はその娘も…"
 	},
 	{
 		"word": "サイクル",
@@ -441,7 +441,7 @@
 			"サイクル (n) cycle"
 		],
 		"english": "The cycle of nature and your stupid plan don't mean a thing.",
-		"japanese": "自然のサイクルもおまえのバカげた計画も関係ない"
+		"japanese": "自然の[サイクル]もおまえのバカげた計画も関係ない"
 	},
 	{
 		"word": "バカげ",
@@ -450,7 +450,7 @@
 			"馬鹿げる[ばかげる] (v1, vi) to look foolish"
 		],
 		"english": "The cycle of nature and your stupid plan don't mean a thing.",
-		"japanese": "自然のサイクルもおまえのバカげた計画も関係ない"
+		"japanese": "自然のサイクルもおまえの[バカげ]た計画も関係ない"
 	},
 	{
 		"word": "痛み",
@@ -459,7 +459,7 @@
 			"痛み[いたみ] (n) pain, ache, soreness, grief, distress,damage, injury, wear, bruise, break"
 		],
 		"english": "What is this pain?",
-		"japanese": "この痛みはどうしたらいい？"
+		"japanese": "この[痛み]はどうしたらいい？"
 	},
 	{
 		"word": "指先",
@@ -468,7 +468,7 @@
 			"指先[ゆびさき] (n, adj-no) fingertip, finger,toe tip, toe"
 		],
 		"english": "My fingers are tingling. My mouth is dry. My eyes are burning!",
-		"japanese": "指先がチリチリする。口の中はカラカラだ。目の奥が熱いんだ！"
+		"japanese": "[指先]がチリチリする。口の中はカラカラだ。目の奥が熱いんだ！"
 	},
 	{
 		"word": "カラカラ",
@@ -478,7 +478,7 @@
 			"カラカラ (n) crested caracara (Polyborus plancus)"
 		],
 		"english": "My fingers are tingling. My mouth is dry. My eyes are burning!",
-		"japanese": "指先がチリチリする。口の中はカラカラだ。目の奥が熱いんだ！"
+		"japanese": "指先がチリチリする。口の中は[カラカラ]だ。目の奥が熱いんだ！"
 	},
 	{
 		"word": "人形",
@@ -487,7 +487,7 @@
 			"人形[にんぎょう] (n) doll, puppet, figure"
 		],
 		"english": "Because, you are…a puppet.",
-		"japanese": "なぜなら、おまえは……人形だ"
+		"japanese": "なぜなら、おまえは……[人形]だ"
 	},
 	{
 		"word": "あらたまっ",
@@ -496,7 +496,7 @@
 			"改まる[あらたまる] (v5r, vi) to be renewed, to change,to be improved, to be reformed, to be revised, to be corrected,to stand on ceremony, to be formal,to take a turn for the worse (of an illness), to take a serious turn"
 		],
 		"english": "Why're you being so formal? Is something wrong?",
-		"japanese": "なんや、いきなりあらたまって。どないしたんですか？"
+		"japanese": "なんや、いきなり[あらたまっ]て。どないしたんですか？"
 	},
 	{
 		"word": "焼き払い",
@@ -505,7 +505,7 @@
 			"焼き払う[やきはらう] (v5u, vt) to burn down (to the ground), to clear away by burning, to reduce to ashes, to burn off"
 		],
 		"english": "He destroyed my hometown five years ago, killed AERIS‚and is now trying to destroy the Planet. I'll never forgive…Sephiroth.",
-		"japanese": "５年前、俺の故郷を焼き払いたった今AERISを殺しそしてこの星を破壊しようとしているセフィロスを……俺は許さない"
+		"japanese": "５年前、俺の故郷を[焼き払い]たった今AERISを殺しそしてこの星を破壊しようとしているセフィロスを……俺は許さない"
 	},
 	{
 		"word": "メモリー",
@@ -514,6 +514,6 @@
 			"メモリー (n) memory"
 		],
 		"english": "Save the game to this point on your computer?",
-		"japanese": "ここまでのゲームの状態をメモリーカードにセーブしますか？"
+		"japanese": "ここまでのゲームの状態を[メモリー]カードにセーブしますか？"
 	}
 ]

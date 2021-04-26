@@ -6,7 +6,7 @@
 			"職人[しょくにん] (n, adj-no) worker, mechanic, artisan, craftsman"
 		],
 		"english": "Weapon seller",
-		"japanese": "武器職人の小屋"
+		"japanese": "武器[職人]の小屋"
 	},
 	{
 		"word": "ひと足",
@@ -15,7 +15,7 @@
 			"一足[ひとあし] (n) a step,short distance, short time"
 		],
 		"english": "But if it's the 'Keystone' you're looking for, you're too late. Don't have it.",
-		"japanese": "けど、ひと足遅かったな『キーストーン』ならもう、ねぇよ"
+		"japanese": "けど、[ひと足]遅かったな『キーストーン』ならもう、ねぇよ"
 	},
 	{
 		"word": "トーン",
@@ -24,7 +24,7 @@
 			"トーン (n) tone"
 		],
 		"english": "But if it's the 'Keystone' you're looking for, you're too late. Don't have it.",
-		"japanese": "けど、ひと足遅かったな『キーストーン』ならもう、ねぇよ"
+		"japanese": "けど、ひと足遅かったな『キース[トーン]』ならもう、ねぇよ"
 	},
 	{
 		"word": "目当て",
@@ -33,7 +33,7 @@
 			"目当て[めあて] (n) mark, guide, landmark,purpose, aim, goal, intention, end,sight (on a firearm)"
 		],
 		"english": "What? You didn't come here for that?",
-		"japanese": "なんだ、お前らあれ目当てで来たんじゃないのか？"
+		"japanese": "なんだ、お前らあれ[目当て]で来たんじゃないのか？"
 	},
 	{
 		"word": "古",
@@ -43,7 +43,7 @@
 			"古[ふる] (n-pref) used item, secondhand item,old, used, previous"
 		],
 		"english": "The 'Keystone' is the key that unlocks the gate to a very old temple somewhere.  “You're not going to believe your ears,",
-		"japanese": "『キーストーン』ってのはこの世界のどこかにある古～い、神殿の扉を開けるカギよ"
+		"japanese": "『キーストーン』ってのはこの世界のどこかにある[古]～い、神殿の扉を開けるカギよ"
 	},
 	{
 		"word": "言わさ",
@@ -52,7 +52,7 @@
 			"言わす[いわす] (v5s, vt) to be able to say, to get someone to say, to induce someone to say, to let someone speak out"
 		],
 		"english": "That guy had a way about him that made you feel like it may not be a good idea NOT to sell it to him…",
-		"japanese": "ど～も、あの人のウムも言わさぬ迫力に負けちまってツイ…"
+		"japanese": "ど～も、あの人のウムも[言わさ]ぬ迫力に負けちまってツイ…"
 	},
 	{
 		"word": "迫力",
@@ -61,7 +61,7 @@
 			"迫力[はくりょく] (n) impressiveness, impact, force, intensity, appeal, strength, punch, edge, vigor"
 		],
 		"english": "That guy had a way about him that made you feel like it may not be a good idea NOT to sell it to him…",
-		"japanese": "ど～も、あの人のウムも言わさぬ迫力に負けちまってツイ…"
+		"japanese": "ど～も、あの人のウムも言わさぬ[迫力]に負けちまってツイ…"
 	},
 	{
 		"word": "ツイ",
@@ -72,7 +72,7 @@
 			"終[つい] (adv) end, final,end of life, death,never, not at all"
 		],
 		"english": "That guy had a way about him that made you feel like it may not be a good idea NOT to sell it to him…",
-		"japanese": "ど～も、あの人のウムも言わさぬ迫力に負けちまってツイ…"
+		"japanese": "ど～も、あの人のウムも言わさぬ迫力に負けちまって[ツイ]…"
 	},
 	{
 		"word": "おもし",
@@ -81,7 +81,7 @@
 			"重し[おもし] (n) stone weight (as used on pickle-tub covers),weight (as used in balances)"
 		],
 		"english": "Come on…it's only a legend. But if it were true, that sure would be something, huh?",
-		"japanese": "だから、言い伝えだってまぁ、けど本当にあったらおもしれぇな"
+		"japanese": "だから、言い伝えだってまぁ、けど本当にあったら[おもし]れぇな"
 	},
 	{
 		"word": "材料",
@@ -90,7 +90,7 @@
 			"材料[ざいりょう] (n) ingredients, material,material (for a novel, experiment, etc.), subject matter, data,basis (for a decision), grounds, evidence,(market) factor"
 		],
 		"english": "All the weapons you see here I made myself. But lately I haven't been able to get materials…",
-		"japanese": "ここの武器はぜ～んぶ、オレ様の作品だ。けど、最近は材料が手に入らなくてなぁ"
+		"japanese": "ここの武器はぜ～んぶ、オレ様の作品だ。けど、最近は[材料]が手に入らなくてなぁ"
 	},
 	{
 		"word": "福音",
@@ -99,7 +99,7 @@
 			"福音[ふくいん] (n, adj-no) good news,gospel (teachings or revelations of Jesus Christ)"
 		],
 		"english": "Received \"Great Gospel\"!",
-		"japanese": "『大いなる福音』を手にいれた！"
+		"japanese": "『大いなる[福音]』を手にいれた！"
 	},
 	{
 		"word": "ベット",
@@ -108,7 +108,7 @@
 			"ベット (n) bet,vet"
 		],
 		"english": "Oh all right. You can use that bed.",
-		"japanese": "しょ～がねぇなベット使っていいぜ"
+		"japanese": "しょ～がねぇな[ベット]使っていいぜ"
 	},
 	{
 		"word": "週末",
@@ -117,7 +117,7 @@
 			"週末[しゅうまつ] (n-adv, n) weekend"
 		],
 		"english": "Weekend Clock",
-		"japanese": "『週末の時計』"
+		"japanese": "『[週末]の時計』"
 	},
 	{
 		"word": "時計",
@@ -126,7 +126,7 @@
 			"時計[とけい] (n) watch, clock, timepiece"
 		],
 		"english": "Weekend Clock",
-		"japanese": "『週末の時計』"
+		"japanese": "『週末の[時計]』"
 	},
 	{
 		"word": "チサ",
@@ -136,7 +136,7 @@
 			"萵苣[ちしゃ] (n) lettuce"
 		],
 		"english": "Chisa's Mask",
-		"japanese": "『チサのカメン』"
+		"japanese": "『[チサ]のカメン』"
 	},
 	{
 		"word": "画",
@@ -146,7 +146,7 @@
 			"画[が] (n) picture, drawing, painting, sketch"
 		],
 		"english": "Dio's Portrait",
-		"japanese": "『ディオ画』"
+		"japanese": "『ディオ[画]』"
 	},
 	{
 		"word": "クラ",
@@ -157,7 +157,7 @@
 			"競[くら] (suf) contest, match"
 		],
 		"english": "Kleine's Pot",
-		"japanese": "『クラインのつぼ』"
+		"japanese": "『[クラ]インのつぼ』"
 	},
 	{
 		"word": "呼びかける",
@@ -166,7 +166,7 @@
 			"呼びかける[よびかける] (v1, vt) to call out to, to hail, to address,to appeal"
 		],
 		"english": "Calling Gourd",
-		"japanese": "『呼びかけるひょうたん』"
+		"japanese": "『[呼びかける]ひょうたん』"
 	},
 	{
 		"word": "ひょうたん",
@@ -176,7 +176,7 @@
 			"瓢箪[ひょうたん] (n) gourd, calabash (Lagenaria siceraria var. gourda)"
 		],
 		"english": "Calling Gourd",
-		"japanese": "『呼びかけるひょうたん』"
+		"japanese": "『呼びかける[ひょうたん]』"
 	},
 	{
 		"word": "貸し出し",
@@ -185,7 +185,7 @@
 			"貸し出し[かしだし] (n, vs) lending, loaning"
 		],
 		"english": "Heh, heh, heh. Sorry, but it's not for rent.",
-		"japanese": "はっはははは残念だが、貸し出しは禁止だよ"
+		"japanese": "はっはははは残念だが、[貸し出し]は禁止だよ"
 	},
 	{
 		"word": "防弾チョッキ",
@@ -194,7 +194,7 @@
 			"防弾チョッキ[ぼうだんチョッキ] (n) bulletproof vest"
 		],
 		"english": "Received \"Protect Vest\"!",
-		"japanese": "『防弾チョッキ』を手に入れた！！"
+		"japanese": "『[防弾チョッキ]』を手に入れた！！"
 	},
 	{
 		"word": "あおう",
@@ -204,7 +204,7 @@
 			"葵[あおい] (n) mallow (any plant of family Malvaceae),Asarum caulescens (species of wild ginger),hollyhock"
 		],
 		"english": "We shall meet again! Heh, heh, heh.",
-		"japanese": "では、またあおう少年！はっはははは"
+		"japanese": "では、また[あおう]少年！はっはははは"
 	},
 	{
 		"word": "係員",
@@ -213,7 +213,7 @@
 			"係員[かかりいん] (n) official (e.g. customs), clerk in charge"
 		],
 		"english": "Staff",
-		"japanese": "係員"
+		"japanese": "[係員]"
 	},
 	{
 		"word": "しゃあない",
@@ -222,7 +222,7 @@
 			"しゃあない (exp) it can't be helped, so it goes, c'est la vie"
 		],
 		"english": "Too bad. It happens, though.",
-		"japanese": "しゃあないな～。ときどきあるんですわ"
+		"japanese": "[しゃあない]な～。ときどきあるんですわ"
 	},
 	{
 		"word": "泊り",
@@ -231,7 +231,7 @@
 			"泊まる[とまる] (v5r, vi) to stay at (e.g. hotel),to be docked, to be berthed, to be moored"
 		],
 		"english": "I know! Let's stay at the hotel! They know me here. I'll go talk to them.",
-		"japanese": "せや！　ここのホテルに泊りましょ！ちょっと、顔きくんですわ話つけてきます～"
+		"japanese": "せや！　ここのホテルに[泊り]ましょ！ちょっと、顔きくんですわ話つけてきます～"
 	},
 	{
 		"word": "めざし",
@@ -240,7 +240,7 @@
 			"目指す[めざす] (v5s, vt) to aim at, to have an eye on,to go toward, to head for"
 		],
 		"english": "Sephiroth must be in search of the Promised Land.",
-		"japanese": "セフィロスは約束の地をめざしているはずだ"
+		"japanese": "セフィロスは約束の地を[めざし]ているはずだ"
 	},
 	{
 		"word": "あふれ",
@@ -249,7 +249,7 @@
 			"溢れる[あふれる] (v1, vi) to overflow, to brim over, to flood"
 		],
 		"english": "A land full of Mako energy. …Or at least that's what the Shinra believe.",
-		"japanese": "魔晄エネルギーに満ちあふれた豊かな土地。……これは神羅の考え方だ"
+		"japanese": "魔晄エネルギーに満ち[あふれ]た豊かな土地。……これは神羅の考え方だ"
 	},
 	{
 		"word": "歩き回っ",
@@ -258,7 +258,7 @@
 			"歩き回る[あるきまわる] (v5r) to walk about, to walk to and fro, to pace around"
 		],
 		"english": "So Sephiroth is traveling the world because he's searching for the Promised Land? Is that it?",
-		"japanese": "セフィロスが世界のあちこちを歩き回ってるのは約束の地をさがしてるのね"
+		"japanese": "セフィロスが世界のあちこちを[歩き回っ]てるのは約束の地をさがしてるのね"
 	},
 	{
 		"word": "除け",
@@ -268,7 +268,7 @@
 			"避ける[さける] (v1) to avoid (physical contact with),to avoid (situation),to ward off, to avert"
 		],
 		"english": "…Hojo put it on me. The rest are just war scars, but the number was done by Hojo.",
-		"japanese": "……宝条にやられたんだ。他のは戦士の魔除けだけど数字だけは宝条がやったんだよ"
+		"japanese": "……宝条にやられたんだ。他のは戦士の魔[除け]だけど数字だけは宝条がやったんだよ"
 	},
 	{
 		"word": "本人",
@@ -277,7 +277,7 @@
 			"本人[ほんにん] (n, adj-no) the person himself"
 		],
 		"english": "That's why I think we should just go after Sephiroth himself.",
-		"japanese": "だから、セフィロス本人だけ追いかければいいんじゃないかな？"
+		"japanese": "だから、セフィロス[本人]だけ追いかければいいんじゃないかな？"
 	},
 	{
 		"word": "ややこしく",
@@ -286,7 +286,7 @@
 			"ややこしい (adj-i) puzzling, tangled, complicated, complex"
 		],
 		"english": "Yeah, me too! It's all just too damn confusin'.",
-		"japanese": "それ、賛成だぜ！ややこしくてしょうがないからな"
+		"japanese": "それ、賛成だぜ！[ややこしく]てしょうがないからな"
 	},
 	{
 		"word": "しらん",
@@ -295,6 +295,6 @@
 			"白む[しらむ] (v5m, vi) to grow light, to become white, to turn grey (gray)"
 		],
 		"english": "I don't know what's goin' on, but we're in a bad situation…",
-		"japanese": "なんやしらんけどへんなことになってしまいましたな～"
+		"japanese": "なんや[しらん]けどへんなことになってしまいましたな～"
 	}
 ]

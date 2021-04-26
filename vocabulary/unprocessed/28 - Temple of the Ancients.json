@@ -6,7 +6,7 @@
 			"探す[さがす] (v5s, vt) to search (for something desired, needed), to look for,to search (for something lost), to seek (a suspect in a crime)"
 		],
 		"english": "It's not the Promised Land… Sephiroth's searching for…",
-		"japanese": "セフィロスが……捜しているのは……約束の地じゃない……"
+		"japanese": "セフィロスが……[捜し]ているのは……約束の地じゃない……"
 	},
 	{
 		"word": "たしかめる",
@@ -15,7 +15,7 @@
 			"確かめる[たしかめる] (v1, vt) to ascertain, to check, to make sure"
 		],
 		"english": "Look… for yourself…",
-		"japanese": "自分で……たしかめるんだな……"
+		"japanese": "自分で……[たしかめる]んだな……"
 	},
 	{
 		"word": "判断",
@@ -24,7 +24,7 @@
 			"判断[はんだん] (n) judgment, judgement, decision, conclusion, adjudication,divination,judgement"
 		],
 		"english": "The President… was wrong…",
-		"japanese": "社長は……判断をあや……まった……"
+		"japanese": "社長は……[判断]をあや……まった……"
 	},
 	{
 		"word": "あや",
@@ -34,7 +34,7 @@
 			"あや (int) wow, whoa"
 		],
 		"english": "The President… was wrong…",
-		"japanese": "社長は……判断をあや……まった……"
+		"japanese": "社長は……判断を[あや]……まった……"
 	},
 	{
 		"word": "祭壇",
@@ -43,7 +43,7 @@
 			"祭壇[さいだん] (n) altar"
 		],
 		"english": "The Keystone… Place it…on…the altar…",
-		"japanese": "キーストーン……祭壇に……置いて……み……ろ"
+		"japanese": "キーストーン……[祭壇]に……置いて……み……ろ"
 	},
 	{
 		"word": "めまい",
@@ -52,7 +52,7 @@
 			"目眩[めまい] (n, vs, adj-no) dizziness, giddiness, vertigo"
 		],
 		"english": "Oh man, you gotta be kiddin'. This is makin' me dizzy!",
-		"japanese": "ウッ～　冗談じゃねえ。めまいがするぜ！"
+		"japanese": "ウッ～　冗談じゃねえ。[めまい]がするぜ！"
 	},
 	{
 		"word": "なげださ",
@@ -61,7 +61,7 @@
 			"投げ出す[なげだす] (v5s, vt) to throw down, to throw out, to stretch out (one's legs),to abandon, to resign,to give freely, to give generously, to sacrifice (e.g. one's life),to start to throw"
 		],
 		"english": "Don't give up! We can do it!",
-		"japanese": "なげださないで！がんばろう、ね！"
+		"japanese": "[なげださ]ないで！がんばろう、ね！"
 	},
 	{
 		"word": "響き",
@@ -71,7 +71,7 @@
 			"響めき[どよめき] (n) commotion, stir"
 		],
 		"english": "Sealed……? That sound brings back memories.",
-		"japanese": "封印されている……？なんだか、なつかしい響きだな"
+		"japanese": "封印されている……？なんだか、なつかしい[響き]だな"
 	},
 	{
 		"word": "パンチ",
@@ -80,7 +80,7 @@
 			"パンチ (n) punch (with the fist),punching (a hole), hole punch,punch (drink),punch (in a song, speech, etc.), impact"
 		],
 		"english": "Received \"Rocket Punch\"!",
-		"japanese": "『ロケットパンチ』を手にいれた！"
+		"japanese": "『ロケット[パンチ]』を手にいれた！"
 	},
 	{
 		"word": "ながい",
@@ -90,7 +90,7 @@
 			"長居[ながい] (n, vs) long visit, overstaying"
 		],
 		"english": "Over the many years, they've lost the ability to talk.",
-		"japanese": "ながい年月は彼らから言葉を失わせた"
+		"japanese": "[ながい]年月は彼らから言葉を失わせた"
 	},
 	{
 		"word": "年月",
@@ -99,7 +99,7 @@
 			"年月[としつき] (n) months and years"
 		],
 		"english": "Over the many years, they've lost the ability to talk.",
-		"japanese": "ながい年月は彼らから言葉を失わせた"
+		"japanese": "ながい[年月]は彼らから言葉を失わせた"
 	},
 	{
 		"word": "おびえ",
@@ -108,7 +108,7 @@
 			"怯える[おびえる] (v1, vi) to become frightened, to be frightened (of), to be scared (of)"
 		],
 		"english": "No good. I don't understand the rest. Are you afraid?",
-		"japanese": "だめ、あとはわからない。おびえているの……？"
+		"japanese": "だめ、あとはわからない。[おびえ]ているの……？"
 	},
 	{
 		"word": "モップ",
@@ -117,7 +117,7 @@
 			"モップ (n) mop"
 		],
 		"english": "Received \"Mop\"!",
-		"japanese": "『モップ』を手にいれた！"
+		"japanese": "『[モップ]』を手にいれた！"
 	},
 	{
 		"word": "銀",
@@ -127,7 +127,7 @@
 			"金[かね] (n) money,metal"
 		],
 		"english": "Received \"Silver Rifle\"!",
-		"japanese": "『銀玉鉄砲』を手にいれた！"
+		"japanese": "『[銀]玉鉄砲』を手にいれた！"
 	},
 	{
 		"word": "玉",
@@ -137,7 +137,7 @@
 			"玉[ぎょく] (n) precious stone (esp. jade),egg (sometimes esp. as a sushi topping),stock or security being traded, product being bought or sold,position (in finance, the amount of a security either owned or owed by an investor or dealer),geisha,time charge for a geisha,king (of the junior player)"
 		],
 		"english": "Received \"Silver Rifle\"!",
-		"japanese": "『銀玉鉄砲』を手にいれた！"
+		"japanese": "『銀[玉]鉄砲』を手にいれた！"
 	},
 	{
 		"word": "壁画",
@@ -146,7 +146,7 @@
 			"壁画[へきが] (n) fresco, mural, wall painting"
 		],
 		"english": "Temple of the Ancients",
-		"japanese": "壁画の間"
+		"japanese": "[壁画]の間"
 	},
 	{
 		"word": "知",
@@ -155,7 +155,7 @@
 			"知[ち] (n) wisdom,jnana (higher knowledge)"
 		],
 		"english": "A lost treasure house of knowledge. The wisdom of the Ancients….",
-		"japanese": "失われた知の宝庫。古代種の知恵……知識"
+		"japanese": "失われた[知]の宝庫。古代種の知恵……知識"
 	},
 	{
 		"word": "宝庫",
@@ -164,7 +164,7 @@
 			"宝庫[ほうこ] (n) treasury, treasure house"
 		],
 		"english": "A lost treasure house of knowledge. The wisdom of the Ancients….",
-		"japanese": "失われた知の宝庫。古代種の知恵……知識"
+		"japanese": "失われた知の[宝庫]。古代種の知恵……知識"
 	},
 	{
 		"word": "知恵",
@@ -173,7 +173,7 @@
 			"知恵[ちえ] (n) wisdom, wit, sagacity, sense, intelligence,prajna (insight leading to enlightenment)"
 		],
 		"english": "A lost treasure house of knowledge. The wisdom of the Ancients….",
-		"japanese": "失われた知の宝庫。古代種の知恵……知識"
+		"japanese": "失われた知の宝庫。古代種の[知恵]……知識"
 	},
 	{
 		"word": "同化",
@@ -182,7 +182,7 @@
 			"同化[どうか] (n, vs) assimilation, absorption,adaptation,assimilation, anabolism,assimilation (phonology)"
 		],
 		"english": "I will meld with it all. I will become one with it… it will become one with me.",
-		"japanese": "私はすべてと同化する。私がすべて……すべては私となる"
+		"japanese": "私はすべてと[同化]する。私がすべて……すべては私となる"
 	},
 	{
 		"word": "やがて",
@@ -191,7 +191,7 @@
 			"軈て[やがて] (adv) before long, soon,almost, nearly,finally, in the end, eventually"
 		],
 		"english": "For it is through death that a new spirit energy is born. Soon, you will live again as a part of me.",
-		"japanese": "死によって生まれる新たな精神エネルギー。やがて私の一部として生きることができる"
+		"japanese": "死によって生まれる新たな精神エネルギー。[やがて]私の一部として生きることができる"
 	},
 	{
 		"word": "幻影",
@@ -200,7 +200,7 @@
 			"幻影[げんえい] (n, adj-no) phantom, vision, illusion"
 		],
 		"english": "An illusion the Ancients showed.",
-		"japanese": "古代種が見せた幻影か……"
+		"japanese": "古代種が見せた[幻影]か……"
 	},
 	{
 		"word": "大穴",
@@ -209,7 +209,7 @@
 			"大穴[おおあな] (n) large hole,great deficit, heavy losses,big and unexpected winnings, a killing (e.g. on a race),dark horse (horse racing)"
 		],
 		"english": "Temple of the Ancients",
-		"japanese": "時の大穴"
+		"japanese": "時の[大穴]"
 	},
 	{
 		"word": "番人",
@@ -218,7 +218,7 @@
 			"番人[ばんにん] (n) guard, watchman"
 		],
 		"english": "I am the Time Guardian. Ye who seek the knowledge of the Ancients. I control the time, select your path.",
-		"japanese": "我、時の番人なり。古代種の知識を求めるものよ。我が時を制し、道をきずけ"
+		"japanese": "我、時の[番人]なり。古代種の知識を求めるものよ。我が時を制し、道をきずけ"
 	},
 	{
 		"word": "制し",
@@ -227,7 +227,7 @@
 			"制す[せいす] (v5s, vt) to control, to command, to get the better of"
 		],
 		"english": "I am the Time Guardian. Ye who seek the knowledge of the Ancients. I control the time, select your path.",
-		"japanese": "我、時の番人なり。古代種の知識を求めるものよ。我が時を制し、道をきずけ"
+		"japanese": "我、時の番人なり。古代種の知識を求めるものよ。我が時を[制し]、道をきずけ"
 	},
 	{
 		"word": "さかのぼる",
@@ -236,7 +236,7 @@
 			"遡る[さかのぼる] (v5r, vi) to go upstream,to go back (in time, to origin), to date back to, to trace back to, to make retroactive"
 		],
 		"english": "Go back in time",
-		"japanese": "時をさかのぼる"
+		"japanese": "時を[さかのぼる]"
 	},
 	{
 		"word": "とりけし",
@@ -245,7 +245,7 @@
 			"取り消す[とりけす] (v5s, vt) to cancel, to withdraw, to retract, to take back (words, etc.), to revoke"
 		],
 		"english": "Cancel",
-		"japanese": "とりけし"
+		"japanese": "[とりけし]"
 	},
 	{
 		"word": "ルーレット",
@@ -254,7 +254,7 @@
 			"ルーレット (n) roulette"
 		],
 		"english": "[OK]: Spin",
-		"japanese": "○ボタン：ルーレット回転"
+		"japanese": "○ボタン：[ルーレット]回転"
 	},
 	{
 		"word": "回転",
@@ -263,7 +263,7 @@
 			"回転[かいてん] (n, vs) rotation (usu. around something), revolution, turning"
 		],
 		"english": "[OK]: Spin",
-		"japanese": "○ボタン：ルーレット回転"
+		"japanese": "○ボタン：ルーレット[回転]"
 	},
 	{
 		"word": "釘",
@@ -272,7 +272,7 @@
 			"釘[くぎ] (n) nail (i.e. small metal spike)"
 		],
 		"english": "Received \"Nail Bat\"!",
-		"japanese": "『釘バット』を手にいれた！"
+		"japanese": "『[釘]バット』を手にいれた！"
 	},
 	{
 		"word": "バット",
@@ -281,7 +281,7 @@
 			"バット (n) bat (in baseball, cricket, etc.),bat (animal),vat, tray"
 		],
 		"english": "Received \"Nail Bat\"!",
-		"japanese": "『釘バット』を手にいれた！"
+		"japanese": "『釘[バット]』を手にいれた！"
 	},
 	{
 		"word": "プリンセス",
@@ -290,7 +290,7 @@
 			"プリンセス (n) princess"
 		],
 		"english": "Received \"Princess Guard\"!",
-		"japanese": "『プリンセスガード』を手にいれた！"
+		"japanese": "『[プリンセス]ガード』を手にいれた！"
 	},
 	{
 		"word": "法螺貝",
@@ -299,7 +299,7 @@
 			"ほら貝[ほらがい] (n) conch (esp. Charonia tritonis), trumpet shell"
 		],
 		"english": "Received \"Trumpet Shell\"!",
-		"japanese": "『法螺貝』を手にいれた！"
+		"japanese": "『[法螺貝]』を手にいれた！"
 	},
 	{
 		"word": "軍手",
@@ -308,7 +308,7 @@
 			"軍手[ぐんて] (n) cotton gloves, working gloves"
 		],
 		"english": "Received \"Work Glove\"!",
-		"japanese": "『軍手』を手にいれた！"
+		"japanese": "『[軍手]』を手にいれた！"
 	},
 	{
 		"word": "持ち逃げ",
@@ -317,7 +317,7 @@
 			"持ち逃げ[もちにげ] (adj-f) making off with (something), absconding,stolen, absconded (with)"
 		],
 		"english": "The Guard that escaped with the key to the door moves on a set course.",
-		"japanese": "扉の鍵を持ち逃げした番人は一定のルートを移動しています"
+		"japanese": "扉の鍵を[持ち逃げ]した番人は一定のルートを移動しています"
 	},
 	{
 		"word": "一定",
@@ -326,7 +326,7 @@
 			"一定[いってい] (n, adj-no, vs, adj-na) fixed, settled, constant, definite, uniform, regularized, regularised, defined, standardized, standardised, certain, prescribed"
 		],
 		"english": "The Guard that escaped with the key to the door moves on a set course.",
-		"japanese": "扉の鍵を持ち逃げした番人は一定のルートを移動しています"
+		"japanese": "扉の鍵を持ち逃げした番人は[一定]のルートを移動しています"
 	},
 	{
 		"word": "段差",
@@ -335,7 +335,7 @@
 			"段差[だんさ] (n) difference in grades (e.g. in go, shoji, etc.),difference in level (e.g. road, footpath), ramp, steps, bump (in road)"
 		],
 		"english": "Oh yeah, oh yeah… you can jump down to the ramp below and to the left of the screen.",
-		"japanese": "それからそれから画面左の段差からは下の段に飛びおりることができます"
+		"japanese": "それからそれから画面左の[段差]からは下の段に飛びおりることができます"
 	},
 	{
 		"word": "段",
@@ -345,7 +345,7 @@
 			"反[たん] (n) variable measure of fabric (28.8 cm in width), for kimonos: at least 10 m in length, for haori: at least 7.27 m in length, for other clothes: at least 6.06 m in length,300 tsubo (991.74 meters square, 0.24506 acres),six ken (10.91 m)"
 		],
 		"english": "Oh yeah, oh yeah… you can jump down to the ramp below and to the left of the screen.",
-		"japanese": "それからそれから画面左の段差からは下の段に飛びおりることができます"
+		"japanese": "それからそれから画面左の段差からは下の[段]に飛びおりることができます"
 	},
 	{
 		"word": "つめたい",
@@ -354,7 +354,7 @@
 			"冷たい[つめたい] (adj-i) cold (to the touch), chilly, icy, freezing,coldhearted, unfeeling, indifferent, unfriendly"
 		],
 		"english": "So cold.",
-		"japanese": "つめたいな"
+		"japanese": "[つめたい]な"
 	},
 	{
 		"word": "素晴らしい",
@@ -363,7 +363,7 @@
 			"素晴らしい[すばらしい] (adj-i) wonderful, splendid, magnificent"
 		],
 		"english": "Splendid.",
-		"japanese": "まったく、素晴らしい"
+		"japanese": "まったく、[素晴らしい]"
 	},
 	{
 		"word": "かあさん",
@@ -372,7 +372,7 @@
 			"母さん[かあさん] (n) mother,wife"
 		],
 		"english": "…Mother… …it's almost time.",
-		"japanese": "……かあさん…。…もうすぐだよ"
+		"japanese": "……[かあさん]…。…もうすぐだよ"
 	},
 	{
 		"word": "閉じこめ",
@@ -381,7 +381,7 @@
 			"閉じ込める[とじこめる] (v1, vt) to lock up, to shut up, to imprison"
 		],
 		"english": "Looks like we're locked in.",
-		"japanese": "閉じこめられたようだ"
+		"japanese": "[閉じこめ]られたようだ"
 	},
 	{
 		"word": "傷口",
@@ -390,7 +390,7 @@
 			"傷口[きずぐち] (n) (opening of) a wound, (mouth of a) wound, cut"
 		],
 		"english": "Once the Planet is hurt, it gathers Spirit Energy to heal the injury.",
-		"japanese": "星は傷ができると治療のために傷口に精神エネルギーを集める"
+		"japanese": "星は傷ができると治療のために[傷口]に精神エネルギーを集める"
 	},
 	{
 		"word": "比例",
@@ -399,7 +399,7 @@
 			"比例[ひれい] (n, vs) proportion"
 		],
 		"english": "The amount of energy gathered depends on the size of the injury.",
-		"japanese": "傷の大きさに比例して集まるエネルギーの大きさが決まる"
+		"japanese": "傷の大きさに[比例]して集まるエネルギーの大きさが決まる"
 	},
 	{
 		"word": "まじわり",
@@ -408,7 +408,7 @@
 			"交わる[まじわる] (v5r, vi) to cross, to intersect, to join, to meet,to associate with, to mingle with, to consort with,to have a sexual relationship, to copulate"
 		],
 		"english": "Melding with the Planet… I will cease to exist as I am now…",
-		"japanese": "星とまじわり……私は…… 今は失われ、かつて人の心を支配した存在……"
+		"japanese": "星と[まじわり]……私は……今は失われ、かつて人の心を支配した存在……"
 	},
 	{
 		"word": "生まれ変わる",
@@ -417,7 +417,7 @@
 			"生まれ変わる[うまれかわる] (v5r) to be born again, to make a fresh start in life"
 		],
 		"english": "Only to be reborn as a 'God' to rule over every soul.",
-		"japanese": "『神』として生まれ変わるのだ"
+		"japanese": "『神』として[生まれ変わる]のだ"
 	},
 	{
 		"word": "災害",
@@ -426,7 +426,7 @@
 			"災害[さいがい] (n) calamity, disaster, misfortune"
 		],
 		"english": "Is it some sort of a disaster?",
-		"japanese": "なんかの災害か？"
+		"japanese": "なんかの[災害]か？"
 	},
 	{
 		"word": "おち",
@@ -435,7 +435,7 @@
 			"落ちる[おちる] (v1, vi) to fall down, to drop, to fall (e.g. rain), to sink (e.g. sun or moon), to fall onto (e.g. light or one's gaze), to be used in a certain place (e.g. money),to be omitted, to be missing,to decrease, to sink,to fail (e.g. exam or class), to lose (contest, election, etc.),to crash, to degenerate, to degrade, to fall behind,to become indecent (of a conversation),to be ruined, to go under,to fade, to come out (e.g. a stain), to come off (e.g. makeup), to be removed (e.g. illness, possessing spirit, name on a list),to fall (into someone's hands), to become someone's possession,to fall (into a trap), to fall (for a trick),to give in, to give up, to confess, to flee,to fall, to be defeated, to surrender,to come to (in the end), to end in,to fall (in love, asleep, etc.),to swoon (judo),to consent, to understand,to crash, to freeze,to die,to move to the depths"
 		],
 		"english": "Something's going to fall down?",
-		"japanese": "何かおちてくるのかい？"
+		"japanese": "何か[おち]てくるのかい？"
 	},
 	{
 		"word": "ただよっ",
@@ -444,7 +444,7 @@
 			"漂う[ただよう] (v5u, vi) to drift, to float,to waft (e.g. a scent), to hang in the air,to be in the air (e.g. a feeling or mood),to wander, to walk around aimlessly,to be unsteady, to be unstable,to falter, to flinch, to wince,to live in unreliable circumstances"
 		],
 		"english": "It finds small drifting planets with its magic.",
-		"japanese": "宇宙をただよっている小さな星を魔法の力で呼びよせるの"
+		"japanese": "宇宙を[ただよっ]ている小さな星を魔法の力で呼びよせるの"
 	},
 	{
 		"word": "衝突",
@@ -453,7 +453,7 @@
 			"衝突[しょうとつ] (n, vs) collision, crash, running into,conflict, quarrel, clashing"
 		],
 		"english": "And then collides with them. This Planet might get wiped out entirely…",
-		"japanese": "そして……衝突。この星、完全に壊れちゃうかも……"
+		"japanese": "そして……[衝突]。この星、完全に壊れちゃうかも……"
 	},
 	{
 		"word": "さかえ",
@@ -462,7 +462,7 @@
 			"栄える[さかえる] (v1, vi) to prosper, to flourish"
 		],
 		"english": "During the time when the Ancients prospered there existed beings that grew up bathed in abundant Mako.",
-		"japanese": "かつて古代種がさかえたころ豊富な魔晄の光をあびて育った種族がいた"
+		"japanese": "かつて古代種が[さかえ]たころ豊富な魔晄の光をあびて育った種族がいた"
 	},
 	{
 		"word": "あび",
@@ -471,7 +471,7 @@
 			"浴びる[あびる] (v1, vt) to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in,to suffer (e.g. an attack), to draw (e.g. criticism, attention, praise), to have heaped upon, to be showered with"
 		],
 		"english": "During the time when the Ancients prospered there existed beings that grew up bathed in abundant Mako.",
-		"japanese": "かつて古代種がさかえたころ豊富な魔晄の光をあびて育った種族がいた"
+		"japanese": "かつて古代種がさかえたころ豊富な魔晄の光を[あび]て育った種族がいた"
 	},
 	{
 		"word": "純",
@@ -480,7 +480,7 @@
 			"純[じゅん] (pref) innocent, chaste, naive,pure, genuine"
 		],
 		"english": "They were pure creatures of natural shape. Several remain even now.",
-		"japanese": "自然な形の純すいなモンスターたちだ。いまでもいくつかの種族は残っている"
+		"japanese": "自然な形の[純]すいなモンスターたちだ。いまでもいくつかの種族は残っている"
 	},
 	{
 		"word": "然",
@@ -491,7 +491,7 @@
 			"然[しか] (int) like that, as such,yeah, uh-huh"
 		],
 		"english": "Correct. Such a clever girl.",
-		"japanese": "然り。理解のはやい娘だ"
+		"japanese": "[然]り。理解のはやい娘だ"
 	},
 	{
 		"word": "生きながらえ",
@@ -500,7 +500,7 @@
 			"生き長らえる[いきながらえる] (v1, vi) to live long, to survive"
 		],
 		"english": "The creatures that protect this temple have lived long, relics from the age of the Ancients.",
-		"japanese": "この神殿を守るものは古代種の時代から時をこえ生きながらえてきたモンスター"
+		"japanese": "この神殿を守るものは古代種の時代から時をこえ[生きながらえ]てきたモンスター"
 	},
 	{
 		"word": "ふさわしい",
@@ -509,7 +509,7 @@
 			"相応しい[ふさわしい] (adj-i) appropriate, adequate, suitable, fitting, worthy"
 		],
 		"english": "They belong to this planet even more than you do.",
-		"japanese": "おまえたちよりもこの星にふさわしい種族たちだ-"
+		"japanese": "おまえたちよりもこの星に[ふさわしい]種族たちだ-"
 	},
 	{
 		"word": "思い知る",
@@ -518,7 +518,7 @@
 			"思い知る[おもいしる] (v5r, vt) to realize, to realise"
 		],
 		"english": "Heh heh heh… Keep that in mind.",
-		"japanese": "クックックッ……思い知るがいい"
+		"japanese": "クックックッ……[思い知る]がいい"
 	},
 	{
 		"word": "ゆらす",
@@ -527,7 +527,7 @@
 			"揺らす[ゆらす] (v5s, vt) to rock, to shake, to swing"
 		],
 		"english": "Shake it",
-		"japanese": "ゆらす"
+		"japanese": "[ゆらす]"
 	},
 	{
 		"word": "そのもの",
@@ -536,7 +536,7 @@
 			"その物[そのもの] (exp, n, n-suf) the very thing, itself"
 		],
 		"english": "They said that the Temple itself is the Black Materia.",
-		"japanese": "この神殿そのものが黒マテリアだって"
+		"japanese": "この神殿[そのもの]が黒マテリアだって"
 	},
 	{
 		"word": "持ち出さ",
@@ -545,7 +545,7 @@
 			"持ち出す[もちだす] (v5s, vt) to take out, to carry out, to bring out from where it belongs,to mention something, to broach a topic, to bring up (a subject), to raise (an issue), to mention"
 		],
 		"english": "The Ancients were a mean bunch. This way, no one'll be able to get it.",
-		"japanese": "古代種さんも、イジワルやなぁ。まぁ、これやったらだぁれも持ち出されへんやろ"
+		"japanese": "古代種さんも、イジワルやなぁ。まぁ、これやったらだぁれも[持ち出さ]れへんやろ"
 	},
 	{
 		"word": "物騒",
@@ -554,7 +554,7 @@
 			"物騒[ぶっそう] (adj-na, n) dangerous, unsettled, troubled, disturbed, insecure"
 		],
 		"english": "Guess stuff this dangerous is best left alone?",
-		"japanese": "こんな物騒なもんはほっとくに限るってやつじゃねえのか"
+		"japanese": "こんな[物騒]なもんはほっとくに限るってやつじゃねえのか"
 	},
 	{
 		"word": "分身",
@@ -563,7 +563,7 @@
 			"分身[ぶんしん] (n, vs) parturition, delivery, one's child, branch, offshoot, one's other self"
 		],
 		"english": "Because Sephiroth has lots of different flunkies.",
-		"japanese": "だって、そうだろ？セフィロスにはたくさんの分身がいるじゃないか"
+		"japanese": "だって、そうだろ？セフィロスにはたくさんの[分身]がいるじゃないか"
 	},
 	{
 		"word": "投げ出し",
@@ -572,7 +572,7 @@
 			"投げ出す[なげだす] (v5s, vt) to throw down, to throw out, to stretch out (one's legs),to abandon, to resign,to give freely, to give generously, to sacrifice (e.g. one's life),to start to throw"
 		],
 		"english": "It's nothing to him to throw their lives away to get the Black Materia.",
-		"japanese": "あいつら、命を投げ出して黒マテリアを手に入れるくらいなんでもない"
+		"japanese": "あいつら、命を[投げ出し]て黒マテリアを手に入れるくらいなんでもない"
 	},
 	{
 		"word": "作り",
@@ -582,7 +582,7 @@
 			"作り[づくり] (suf) making, forming, cultivating, growing,form, appearance"
 		],
 		"english": "You can use my stuffed body for the future of the Planet.",
-		"japanese": "この作りモンの身体星の未来のために使わせてもらいましょ"
+		"japanese": "この[作り]モンの身体星の未来のために使わせてもらいましょ"
 	},
 	{
 		"word": "ようは",
@@ -591,7 +591,7 @@
 			"要は[ようは] (adv) in short, the point is"
 		],
 		"english": "So that means you don't trust me?",
-		"japanese": "ようは、信用でけんってことですな？"
+		"japanese": "[ようは]、信用でけんってことですな？"
 	},
 	{
 		"word": "ボディ",
@@ -600,7 +600,7 @@
 			"ボディー (n) body,body blow (in boxing)"
 		],
 		"english": "There's plenty of stuffed toys like my body around, but there's only one me!",
-		"japanese": "このおんなじボディのんがようさんおるんやけどこのボクは、ボクだけなんや！"
+		"japanese": "このおんなじ[ボディ]のんがようさんおるんやけどこのボクは、ボクだけなんや！"
 	},
 	{
 		"word": "かま",
@@ -614,7 +614,7 @@
 			"缶[かま] (n) boiler"
 		],
 		"english": "Don't forget me even if another CAIT SITH comes along.",
-		"japanese": "新しいCAIT SITHがなかまになってもわすれんといてな"
+		"japanese": "新しいCAITSITHがな[かま]になってもわすれんといてな"
 	},
 	{
 		"word": "自体",
@@ -623,7 +623,7 @@
 			"自体[じたい] (adv) itself,one's own body, oneself,originally, naturally, by nature, from the start"
 		],
 		"english": "So, this whole building is the Black Materia?",
-		"japanese": "だから、この大きな建物自体が黒マテリア、なんだって"
+		"japanese": "だから、この大きな建物[自体]が黒マテリア、なんだって"
 	},
 	{
 		"word": "しかけ",
@@ -632,7 +632,7 @@
 			"仕掛ける[しかける] (v1, vt) to start, to begin, to commence,to challenge, to pick (a fight), to make (war),to set (traps), to plant (explosives), to lay (mines),to make a meld call"
 		],
 		"english": "And inside it is a device, which gets smaller each time you solve a puzzle.",
-		"japanese": "この模型には、しかけがあってパズルをといていくとどんどん模型が小さくなるんだって"
+		"japanese": "この模型には、[しかけ]があってパズルをといていくとどんどん模型が小さくなるんだって"
 	},
 	{
 		"word": "パズル",
@@ -641,7 +641,7 @@
 			"パズル (n) puzzle"
 		],
 		"english": "And inside it is a device, which gets smaller each time you solve a puzzle.",
-		"japanese": "この模型には、しかけがあってパズルをといていくとどんどん模型が小さくなるんだって"
+		"japanese": "この模型には、しかけがあって[パズル]をといていくとどんどん模型が小さくなるんだって"
 	},
 	{
 		"word": "おりたたま",
@@ -650,7 +650,7 @@
 			"折り畳む[おりたたむ] (v5m, vt) to fold up, to fold into layers"
 		],
 		"english": "As the model becomes smaller, you become smaller too. Until it's small enough to fit in the palm of your hand.",
-		"japanese": "模型、小さくなると、神殿自体も小さくなる。どんどん、おりたたまれていって、最後には手のひらにのるくらいにまで小さくなるの"
+		"japanese": "模型、小さくなると、神殿自体も小さくなる。どんどん、[おりたたま]れていって、最後には手のひらにのるくらいにまで小さくなるの"
 	},
 	{
 		"word": "手のひら",
@@ -659,7 +659,7 @@
 			"手のひら[てのひら] (n) palm (of one's hand)"
 		],
 		"english": "As the model becomes smaller, you become smaller too. Until it's small enough to fit in the palm of your hand.",
-		"japanese": "模型、小さくなると、神殿自体も小さくなる。どんどん、おりたたまれていって、最後には手のひらにのるくらいにまで小さくなるの"
+		"japanese": "模型、小さくなると、神殿自体も小さくなる。どんどん、おりたたまれていって、最後には[手のひら]にのるくらいにまで小さくなるの"
 	},
 	{
 		"word": "解け",
@@ -669,7 +669,7 @@
 			"解く[ほどく] (v5k, vt) to undo, to untie, to unfasten, to unlace, to unravel, to loosen"
 		],
 		"english": "So, if we solve the puzzles, the Black Materia will get smaller and smaller and we can take it out?",
-		"japanese": "つまり、この模型のパズルを解けば黒マテリアは小さくなって持ち出せるようになるわけだな？"
+		"japanese": "つまり、この模型のパズルを[解け]ば黒マテリアは小さくなって持ち出せるようになるわけだな？"
 	},
 	{
 		"word": "押しつぶさ",
@@ -678,7 +678,7 @@
 			"押しつぶす[おしつぶす] (v5s, vt) to squash, to crush, to flatten"
 		],
 		"english": "So, anyone who solves the puzzle will be crushed by the Temple.",
-		"japanese": "だから、パズルを解くと、その人はこの神殿、いいえ、黒マテリア自体に押しつぶされちゃうの"
+		"japanese": "だから、パズルを解くと、その人はこの神殿、いいえ、黒マテリア自体に[押しつぶさ]れちゃうの"
 	},
 	{
 		"word": "なまあたたかい",
@@ -687,7 +687,7 @@
 			"生暖かい[なまあたたかい] (adj-i) lukewarm, tepid"
 		],
 		"english": "It's warm…",
-		"japanese": "なまあたたかい…"
+		"japanese": "[なまあたたかい]…"
 	},
 	{
 		"word": "うらなっ",
@@ -696,7 +696,7 @@
 			"占う[うらなう] (v5u, vt) to tell someone's fortune, to forecast, to predict, to divine"
 		],
 		"english": "Why don't you read our fortunes?",
-		"japanese": "そうだ！ねえ、うらなってよ"
+		"japanese": "そうだ！ねえ、[うらなっ]てよ"
 	},
 	{
 		"word": "たる",
@@ -707,7 +707,7 @@
 			"たる (aux-v) (those) who are, (that) which is, often used in relation to qualifications and requirements for a position, in the capacity of"
 		],
 		"english": "I'm so exited. Right or wrong, I'm still the same 'ol me",
-		"japanese": "わくわくしますなぁ～当たるも～CAIT SITH当たらぬも～CAIT SITH"
+		"japanese": "わくわくしますなぁ～当[たる]も～CAITSITH当たらぬも～CAITSITH"
 	},
 	{
 		"word": "司会",
@@ -716,7 +716,7 @@
 			"司会[しかい] (n) leading a meeting, presiding over a meeting, officiating at a ceremony, chairmanship,chairman, presenter, host, moderator, master of ceremonies"
 		],
 		"english": "CLOUD, I'll be your matchmaker, preacher… I'll do whatever you want me to!",
-		"japanese": "CLOUDさんボク、司会でも仲人でもスパイでもなんでもしますわ～"
+		"japanese": "CLOUDさんボク、[司会]でも仲人でもスパイでもなんでもしますわ～"
 	},
 	{
 		"word": "仲人",
@@ -726,7 +726,7 @@
 			"仲人[なかびと] (n) go-between, matchmaker"
 		],
 		"english": "CLOUD, I'll be your matchmaker, preacher… I'll do whatever you want me to!",
-		"japanese": "CLOUDさんボク、司会でも仲人でもスパイでもなんでもしますわ～"
+		"japanese": "CLOUDさんボク、司会でも[仲人]でもスパイでもなんでもしますわ～"
 	},
 	{
 		"word": "おおきに",
@@ -735,7 +735,7 @@
 			"大きに[おおきに] (int) greatly, very much,thanks a lot"
 		],
 		"english": "Thank you for believing in me, knowing that I was a spy.",
-		"japanese": "スパイのボクのこと信じてくれて、おおきに！"
+		"japanese": "スパイのボクのこと信じてくれて、[おおきに]！"
 	},
 	{
 		"word": "みはっ",
@@ -744,7 +744,7 @@
 			"見張る[みはる] (v5r, vt) to stand watch, to stand guard, to look out,to open one's eyes wide"
 		],
 		"english": "Hey! I'll keep watch here!",
-		"japanese": "おう！オレはここでみはってるぜ！"
+		"japanese": "おう！オレはここで[みはっ]てるぜ！"
 	},
 	{
 		"word": "おいら",
@@ -754,7 +754,7 @@
 			"俺ら[おれら] (pn) we, us,I, me"
 		],
 		"english": "I'll be sittin' out here.",
-		"japanese": "おいら、ここでおすわりしてるよ"
+		"japanese": "[おいら]、ここでおすわりしてるよ"
 	},
 	{
 		"word": "いっぷく",
@@ -765,7 +765,7 @@
 			"一腹[いっぷく] (n) one litter, one clutch (e.g. eggs)"
 		],
 		"english": "I'm gonna have a smoke out here!",
-		"japanese": "ここでいっぷくしてるぜ！"
+		"japanese": "ここで[いっぷく]してるぜ！"
 	},
 	{
 		"word": "まっしろ",
@@ -774,7 +774,7 @@
 			"真っ白[まっしろ] (adj-na, adj-no, n) pure white,blank (e.g. mind, paper)"
 		],
 		"english": "Everything is white…",
-		"japanese": "まっしろだ……"
+		"japanese": "[まっしろ]だ……"
 	},
 	{
 		"word": "都",
@@ -784,7 +784,7 @@
 			"都[と] (n, adj-no) metropolitan, municipal"
 		],
 		"english": "This forest leads to the City of the Ancients… and is called the Sleeping Forest.",
-		"japanese": "この森は【古代種の都】へつづく……【眠りの森】と呼ばれている"
+		"japanese": "この森は【古代種の[都]】へつづく……【眠りの森】と呼ばれている"
 	},
 	{
 		"word": "地層",
@@ -793,7 +793,7 @@
 			"地層[ちそう] (n) stratum, geological formation, layer, bed (coal, gravel, etc.)"
 		],
 		"english": "[Empty Entry]",
-		"japanese": "万年前の地層"
+		"japanese": "万年前の[地層]"
 	},
 	{
 		"word": "なおさら",
@@ -802,7 +802,7 @@
 			"尚更[なおさら] (adv) still more, even more, all the more,still less, even less"
 		],
 		"english": "Then we must go. What'll we do if something happens to AERIS? If Sephiroth finds her, she's in trouble.",
-		"japanese": "それならなおさらよ。AERISにもしものことがあったらどうするの？セフィロスが気づいたら大変よ"
+		"japanese": "それなら[なおさら]よ。AERISにもしものことがあったらどうするの？セフィロスが気づいたら大変よ"
 	},
 	{
 		"word": "抱え",
@@ -811,7 +811,7 @@
 			"抱える[かかえる] (v1, vt) to hold or carry under or in the arms,to have (esp. problems, debts, etc.),to employ, to engage, to hire"
 		],
 		"english": "I know you got problems… Hell, we all do. But you don't even understand yourself.",
-		"japanese": "おまえはよ、なるほどいろんな間題を抱えてるんだろうさ。自分のことよくわかんねえんだもんな"
+		"japanese": "おまえはよ、なるほどいろんな間題を[抱え]てるんだろうさ。自分のことよくわかんねえんだもんな"
 	},
 	{
 		"word": "下車",
@@ -820,7 +820,7 @@
 			"下車[げしゃ] (n, vs) alighting (from train, bus, etc.), getting off"
 		],
 		"english": "But you gotta understand that there ain't no gettin' offa this train we're on, till we get to the end of the line.",
-		"japanese": "でもよ、CLOUD。オレたちが乗っちまったこの列車はよ、途中下車はナシだぜ"
+		"japanese": "でもよ、CLOUD。オレたちが乗っちまったこの列車はよ、途中[下車]はナシだぜ"
 	},
 	{
 		"word": "だこ",
@@ -829,7 +829,7 @@
 			"唾壷[だこ] (n) spittoon"
 		],
 		"english": "People get depressed in life because they don't know what's up.",
-		"japanese": "誰だって、わけわかんねえからあ～だこ～だ、なやむんだろ？"
+		"japanese": "誰だって、わけわかんねえからあ～[だこ]～だ、なやむんだろ？"
 	},
 	{
 		"word": "いたっ",
@@ -838,6 +838,6 @@
 			"至る[いたる] (v5r, vi) to arrive at (e.g. a decision), to reach (a stage), to attain,to lead to (a place), to get to,in the extreme case of,to come, to arrive, to result in"
 		],
 		"english": "Either way, if you stay around here all you're gonna do is worry about it.",
-		"japanese": "ま、どっちにしても、ここにいたってなやんで頭かかえてるしかねえぞ"
+		"japanese": "ま、どっちにしても、ここに[いたっ]てなやんで頭かかえてるしかねえぞ"
 	}
 ]
