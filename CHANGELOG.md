@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.0.1...v2.0.2) (2021-04-26)
+
+
+### Bug Fixes
+
+* Brought decks up to date. Updated metadata. ([cf8fcea](https://github.com/nowotato/final-fantasy-vii-catalog/commit/cf8fceaf6c9a7cff349e4555e20a7f383d546118))
+* Generated working vocabulary files for all scenes. Updated src/README.md. Other stuff. ([a0e3ede](https://github.com/nowotato/final-fantasy-vii-catalog/commit/a0e3edeb0ece837fdf9e33bf2bb8f470cc7840f3))
+* I'm an idiot... ([c6c0d1c](https://github.com/nowotato/final-fantasy-vii-catalog/commit/c6c0d1c1d2ad92d4f3dedcb974fe5934bb1bbf00))
+
 ### [2.0.1](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.0.0...v2.0.1) (2021-04-26)
 
 
