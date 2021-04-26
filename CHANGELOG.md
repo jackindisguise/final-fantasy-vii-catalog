@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.14.0...v2.0.0) (2021-04-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* Added scene 43: North Cave and Ending.
+
+### Features
+
+* Added jsdict directly to project. ([69dc9c6](https://github.com/nowotato/final-fantasy-vii-catalog/commit/69dc9c61aca3014a325f2c3a4feef48818b2e663))
+* Added scene 40: Return to Midgar to Disc 3. ([e83ff70](https://github.com/nowotato/final-fantasy-vii-catalog/commit/e83ff700c1c8edb179075f5bada22801baa0a9e6)), closes [#43](https://github.com/nowotato/final-fantasy-vii-catalog/issues/43)
+* Added scene 41: Zack Flashback. ([dba9c00](https://github.com/nowotato/final-fantasy-vii-catalog/commit/dba9c000aa2fc75e66691bc8b691930f53eca47d)), closes [#44](https://github.com/nowotato/final-fantasy-vii-catalog/issues/44)
+* Added scene 42: Sidequests and Ultimate Weapons. ([bb71d12](https://github.com/nowotato/final-fantasy-vii-catalog/commit/bb71d12fc0321a54dd4a107b15f28401b740e371)), closes [#45](https://github.com/nowotato/final-fantasy-vii-catalog/issues/45)
+* Added scene 43: North Cave and Ending. ([ec28198](https://github.com/nowotato/final-fantasy-vii-catalog/commit/ec2819846a52ecfc2a8896428ab041a5ee7e9e02)), closes [#46](https://github.com/nowotato/final-fantasy-vii-catalog/issues/46)
+* Added web-based vocabulary disambiguator. ([6a38c06](https://github.com/nowotato/final-fantasy-vii-catalog/commit/6a38c06034ac6580561d47e2aaee0b0615b9e36b))
+
+
+### Bug Fixes
+
+* Getting close to final version for the disambiguator. ([cba4b17](https://github.com/nowotato/final-fantasy-vii-catalog/commit/cba4b177dc43a9eb9e76e3dc4156f2d50d48abd8))
+* Removed old async vocab generator. ([f182074](https://github.com/nowotato/final-fantasy-vii-catalog/commit/f18207436197dd7339418e9f8c9554a7ec35ab32))
+
 ## [1.14.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v1.13.0...v1.14.0) (2021-04-25)
 
 
