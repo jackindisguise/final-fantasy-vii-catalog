@@ -1,5 +1,5 @@
-![Version](https://img.shields.io/github/package-json/v/nowotato/final-fantasy-7-script?style=for-the-badge)
-![All Scenes](https://img.shields.io/github/milestones/progress-percent/nowotato/final-fantasy-7-script/1?label=script-completion&style=for-the-badge)
+![Version](https://img.shields.io/github/package-json/v/nowotato/final-fantasy-vii-catalog?style=for-the-badge)
+![All Scenes](https://img.shields.io/github/milestones/progress-percent/nowotato/final-fantasy-vii-catalog/1?label=script-completion&style=for-the-badge)
 
 About This Project:
 ---
