@@ -35,7 +35,7 @@ let sections = [];
 }
 
 // add scene header
-sections.push("Scenes\r\n---");
+sections.push("# Scenes");
 
 // generate scene sections
 fs.readdir(inputNewFolder, function(err, files){
@@ -51,14 +51,13 @@ fs.readdir(inputNewFolder, function(err, files){
 		let sceneNumber = file.substring(0,2);
 		let sceneName = file.substring(5, file.indexOf(".txt"));
 		let line = [];
-		line.push(`${sceneNumber}: ${sceneName}`);
-		line.push("---");
+		line.push(`## ${sceneNumber}: ${sceneName}`);
 		if(nSplit.length) {
-			line.push("**New Kanji**:")
+			line.push("### New Kanji")
 			line.push(`> ${newKanjiData}`);
 			line.push("");
 		}
-//		line.push("**About**:");
+		line.push("### Kanji Info");
 		line.push(`* There are **${count}** total kanji that appear in this scene.`);
 		line.push(`* There are **${uSplit.length}** unique kanji that appear in this scene.`);
 		line.push(`* There are **${nSplit.length}** unique kanji that appear for the first time.`);
