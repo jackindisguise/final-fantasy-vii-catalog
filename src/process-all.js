@@ -15,7 +15,7 @@ Array.prototype.contains = function(item){
 }
 
 // all lines get stored here to remove duplicates
-let allLines = [];
+let usedJapanese = [];
 
 console.log("Processing all scene files:");
 fs.readdir(formatted, function(err, files){
@@ -31,10 +31,9 @@ fs.readdir(formatted, function(err, files){
 		let result = process(data);
 		let lines = [];
 		for(let entry of result) {
-			let line = `${entry.source}\t${entry.target}`;
-//			if(allLines.contains(line)) continue; // don't add duplicates
-//			allLines.push(line);
-			lines.push(line);
+			if(usedJapanese.contains(entry.target)) continue; // don't add duplicate japanese lines
+			usedJapanese.push(entry.target); // track japanese lines
+			lines.push(`${entry.source}\t${entry.target}`);
 		}
 		newLines += lines.length;
 		fs.writeFileSync(target, lines.join("\r\n"), "utf8");
