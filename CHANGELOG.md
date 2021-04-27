@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.0.2...v2.1.0) (2021-04-27)
+
+
+### Features
+
+* Updated all scene files to most recent `process()` changes. ([dc2eab5](https://github.com/nowotato/final-fantasy-vii-catalog/commit/dc2eab52150f07f0a83787d8696022818a9f237b))
+
+
+### Bug Fixes
+
+* Added notes and cards to the deck folder. Updated to recent changes. ([b59d6b9](https://github.com/nowotato/final-fantasy-vii-catalog/commit/b59d6b974a638fd0397b600708cfaede18a42a9f))
+* process() now trims whitespace from all dialogue entries. ([d4888d4](https://github.com/nowotato/final-fantasy-vii-catalog/commit/d4888d4277fb32912a3d8d920383c45afbacf5fc))
+* Processor trims whitespace from all dialogue lines. ([6e79e24](https://github.com/nowotato/final-fantasy-vii-catalog/commit/6e79e2454a1011983ad19c1ab3da6552a71cfa25))
+
 ### [2.0.2](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.0.1...v2.0.2) (2021-04-26)
 
 
