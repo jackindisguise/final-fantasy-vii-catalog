@@ -80,7 +80,6 @@ The resulting file is stored in `../kanji/README.md`.
 Syntax: `node generate-kanji-readme`
 
 # Display the most recent version tag.
----
 Strictly for use with uploading to Ankiweb.
 
 Syntax: `node latest`

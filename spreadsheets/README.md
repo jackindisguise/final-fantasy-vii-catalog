@@ -2,7 +2,7 @@ These are the spreadsheets that are used to create this deck.
 
 `source.xlsx`
 ---
-This is the original script compiled by ***Herman1134 (Jason Maltz)***.
+This is the original script compiled by **Jason Maltz**.
 
 `uniform.xlsx`
 ---

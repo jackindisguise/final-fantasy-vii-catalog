@@ -1,1 +1,5 @@
-Each text file in this folder corresponds to a sheet in the `processed.xlsx` spreadsheet made into a table format for easier viewing on the web.
+Each text file in this folder corresponds to a sheet in the `processed.xlsx` spreadsheet.
+
+Processed scenes are ready to be imported directly into Anki.
+
+They've been converted to markdown tables for easier viewing on Github.

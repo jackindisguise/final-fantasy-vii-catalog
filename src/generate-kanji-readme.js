@@ -17,7 +17,7 @@ let sections = [];
 // generate general data
 {
 	let general = [];
-	general.push("**Unique Kanji in Order of Appearance**");
+	general.push("# Unique Kanji in Order of Appearance");
 
 	// compose text list of all unique kanji
 	let list = [];
@@ -26,12 +26,12 @@ let sections = [];
 	general.push("");
 
 	// add counts
+	general.push(`## Kanji Info`)
 	general.push(`* There are **${kanji.total}** total kanji in the script.`)
 	general.push(`* There are **${kanji.unique}** total unique kanji.`);
 
 	// add to sections
 	sections.push(general.join("\r\n"));
-	sections.push("---");
 }
 
 // add scene header
