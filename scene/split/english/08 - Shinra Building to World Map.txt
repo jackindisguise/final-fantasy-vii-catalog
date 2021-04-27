@@ -1,6 +1,5 @@
 The hell are you? What're you doin' around here?
 Where's AERIS?
-…
 AERIS? How did you know that name? You must be…
 AERIS, you mean that kid. The receptionist? I was startin' to worry about her, too.
 And so another rival appears on the scene, eh?
@@ -11,7 +10,6 @@ You know, this building looks like it's starting to fall apart.
 This door was just pushed open. You ought to fix this right away.
 Oh yeah, and take a look on the other floors, too. Here, take this.
 Received Key Item "Keycard 62"!
-This door is stuck wide open. Better fix this right away.
 This is the lounge floor. Above us are the special floors for the company big wigs.
 It's tough working under someone. It wears you out.
 I thought I heard a ruckus downstairs a minute ago. Do you know what that was all about?
@@ -34,11 +32,8 @@ It's a security system worthy of Shinra. After all, they control everything in M
 Oh, I have to go. Gotta get back to work!
 Shinra, Inc.
 Urban Dev. Research Library
-Shinra, Inc.
 Space Dev. Research Library
-Shinra, Inc.
 Peace Preservation/ Weapon Dev. Research Library
-Shinra, Inc.
 Scientific Research Library
 Hart
 How do you do?
@@ -53,7 +48,6 @@ Me! The Mayor! A librarian! Ohh…
 You want to get upstairs? I tell you what, if you can guess the password, I'll give you my keycard.
 Yes, that's it. Guess the password and I'll give you my keycard!
 Get it on the first try and I'll even throw in a special item!
-Domino
 Got it? Then tell me.
 So, what's the password?
 BEST
@@ -63,35 +57,24 @@ BOMB
 MAKO
 HOJO
 Wait a second
-Domino
 Nope! You're ALL wrong! It's a much better word than that! Try again!
-Domino
 BEST!!
 God, I love the sound of that! BEST!! I AM the best…ME!! No matter what anyone else says, you'd better believe it.
 …hmm. Well, OK. Here, take it.
-Domino
 KING!!
 God, I love the sound of that! KING!! President Shinra sucks! I should be King of Midgar!
-…hmm. Well, OK. Here, take it.
-Domino
 BOMB!!
 God, I love the sound of that! BOMB!! I'm so angry, I'm like a walking time bomb waiting to explode!
-…hmm. Well, OK. Here, take it.
-Domino
 MAKO!!
 God, I love the sound of that! MAKO! If I had a lot more of it, I would be a real Mayor!
-…hmm. Well, OK. Here, take it.
 Received "Keycard 65"!
-Domino
 Why would I do something like this, you ask?
 Revenge, of course!
 Shinra's been torturing me forever.
 That's why I was a little rough on you all just now. Now go up there and really make them suffer.
 This ought to teach them! Heh heh heh…
-Domino
 But my card will only get you to the 65th floor.
 Can you believe how they treat me? …ME! Like some common employee…
-Hart
 Did you speak with the Mayor?
 What? A password? Oh, I get it…
 He's got way too much time on his hands. But you can't really blame him, Everything in Midgar is controlled by President Shinra.
@@ -100,7 +83,6 @@ What do you want to know?
 The password…duh!
 How about a hint?
 Get out of my face
-Hart
 …I see. Then, I guess that's that.
 Good luck finding it on your own.
 If you decide you want help. I'll just be right over here. Ready to tell you anytime…
@@ -108,7 +90,6 @@ What can I do for you?
 Give me the hint again
 Give me the next hint
 Uh, nothing
-Hart
 Sure, sure. All right.
 As a public servant, it's my job to serve the needs of the people.
 So here's a hint…
@@ -116,29 +97,15 @@ So here's a hint…
 Give him the money
 Forget it!
 …for 1000 gil.
-Give him the money
-Forget it!
 …for 2000 gil.
-Give him the money
-Forget it!
 …for 5000 gil.
-Give him the money
-Forget it!
 …for 15000 gil.
-Give him the money
-Forget it!
-Hart
-What do you want to know?
 HELP
-Forget it
-Hart
 Hey now! You're a bit short.
 No one works on credit nowadays… not even stores in the slums.
-Hart
 I can't believe it! I gave you all these hints, and you STILL don't get it?
 You guys are amazing! Really, amazing…
 Well, seeing as things have come to this, I might as well just tell you.
-Hart
 Oh, my…well, Thank you very much.
 Now listen. On this floor are four research libraries for four different sections of Shinra, Inc….
 Parts of the password are hidden in each of the libraries.
@@ -149,30 +116,19 @@ Look carefully at the numbers on each file.
 There is a number at the beginning of each file name.
 Look at the number on the files that don't belong in that library. Match the number with the letters in the title of the file.
 If the file starts with a 4, then check the fourth letter and… well, you get the idea.
-Hart
 What do you mean the next hint? I've practically told you, didn't I?
 …all right. Since this seems like a special case, I'll give you MY key card!
-Hart
 If you run into President Shinra, please don't tell him about this.
 I can't be a partner to anymore trouble for Shinra.
-Domino
 I never thought you'd get it on the first try…
 Just goes to show you can't judge a book by its cover. Oh well, a promise is a promise. Take this, too.
 Received "Elemental" Materia!
-You cannot take on any more Materia.
-Please discard some Materia.
-Domino
 What…full already? Come back again when it's empty.
-Received "Elixir"!
-Received "Ether"!
 Received "Potion"!
-Domino
 Hmm. It appears you're not completely stupid.
 Fine then, take this.
-Domino
 I see… For you…this might be best.
 Then, this is for all of you.
-Domino
 Hoo boy! You finally got it?
 You all really don't use your heads much, do you?
 ……What the hey. Here, just take it anyway.
@@ -219,34 +175,15 @@ Please do not remove any Materials from this floor.
 This is the Space Dev Research Library. Click on the plate in front of each library to see which it is.
 This is the Public Order/Weapon Development Library.
 Return materials where you found them. Do not mix materials from other libraries.
-16Modern history of Midgar space program vol. 1
-17Modern history of Midgar space program vol. 2
-1Results of failed space mission YA-79
-6Shinra rocket space travel
-8Final evolutionary stages in land dwelling life
 2Economic report: Space Dev Program
-10Materia production and its military uses
 3Special peace keeping law
-14Heidegger's Shinra peace keeping law
-1Breakdown of SOLDIER members by class
-2Plan for new land weapons
 7Economic report: anti-Shinra activities
-2Construction of Midgar city plates and their problems
-5Reactor construction chart
-24Ranks and extended use of Mako weaponry
-4Ranks and extended use of Mako weaponry
-4Midgar City Map: Sectors 0 - 4
-9Midgar City Map: Sectors 5 - 8
 3An illustrated guide to city planning
-1Jenova Project
-6Data on experimental animals living near Midgar
 4File on Dr. Gast, biologist
 4File on Dr. Gast, biologist
-10New plans for urban planning
 4Report of high Mako levels in life forms
 2Mako energy and the rise in life forms
 6Biological Characteristics of the Ancients
-15Diminishing Mako energy and Planet movements
 …beep…beep… Open the door?
 Yes
 No
@@ -262,21 +199,16 @@ You can exchange your coupons for items. Here are the items you can have...
 A coupon…'Star Pendant' B coupon….'Four Slots' C coupon….'All' Materia
 Please use caution…once you have exchanged coupons for items you may not select 'All Clear'.
 Exchange coupon?
-Yeah……
-Naw
 ……… Coupon exchange complete.
 …bing…bing… Start again from the beginning?
 The information and materials you received on this floor will all be cleared.
 Clear them?
-Yeah…
-No
 ……… Cleared.
 You are permitted to open any door on this floor up to three times.
 Bi, bing… You have opened three doors.
 If you access the computer, You can begin this process one more time.
 Received "Star Pendant"!
 Received "Hourglass"!
-Received "All" Materia!
 Received "Four Slot"!
 Received "Glow Lance"!
 An air-duct… It doesn't look like I can climb in here.
@@ -288,8 +220,6 @@ Received Key Item "B Coupon "!
 Received Key Item "C Coupon "!
 …beep…beep… You do not have any coupons.
 …beep…beep… After you have exchanged coupons you may no longer use 'All Clear'.
-You cannot take on more materia.
-Please discard some materia.
 Your 'All' Materia was returned for a C Coupon.
 …huff…wheeze… I'm trying to get rid of my love-handles…
 …huff…puff… If you get tired, you can rest up in the next room.
@@ -299,8 +229,6 @@ A nap room…
 Let's get some rest
 Let's move on
 …zzz… Please…let me… get some…rest…
-Received "Phoenix Down"!
-Received "Ether"!
 Received "HP Shout"!
 What is this…a Megaphone?
 Hanging on to this won't do any good…
@@ -312,30 +240,24 @@ Shinra Company Repair Management Department
 Take one to restore your energy!! Shinra Gym Health Drink'
 Only 250 gil!!
 Try it out
-Don't try it
 …Nothing…
-…
 …Is it broken?'
 BANG on it
 Give up
 Sir, what are you doing!? No violence here, please!
 Received "Mind Source"!
 Received "Speed Source"!
-….
 Should I try it?
 This is so stupid
 Whew…
 Better quit
 Just a bit longer
 I think I feel a little lighter… Maybe just a bit…
-Locked…
 A model of Midgar…a city born from the earth's Mako.
 Some parts are missing…
 Insert the Midgar parts
-Leave it alone
 …Sounds like something opened up…
 Received Key Item "Keycard 66"!
-Midgar…a city born from the earth's Mako. A model of the city…
 When construction of Sector 6 finishes, Shinra's plan will be complete.
 That must be why he took
 Is it just me or does the Conference Room smell? There's some sort of stench coming from somewhere…
@@ -347,47 +269,30 @@ Come on, we're building the future of Mako!
 Geez--! That's a lotta suits!
 We have the damage estimates for Sector 7.
 Considering those factories we already set up and all the investments, the damage is estimated at approximately 10 Billion gil…
-Reeve
 The estimated cost to rebuild Sector 7 is…
-President Shinra
 We're not rebuilding.
-Reeve
 What?
-President Shinra
 We're leaving Sector 7 as it is.
 And restarting the Neo-Midgar plan.
-Reeve
 …then the Ancients?
-President Shinra
 The Promised Land will soon be ours.
-President Shinra
 I want you to raise the Mako rates 15% in every area.
 Palmer
 Rate hike! Rate hike! Tra, la, la! And please include our Space Program in the budget!
-President Shinra
 Reeve and Scarlet will divide the extra income from the rate increase.
-Palmer
 Oh man!
-Reeve
 Sir. If you raise the rates, the people will lose confidence…
-President Shinra
 It'll be all right.
 The ignorant citizens won't lose confidence, they'll trust Shinra, Inc. even more.
-Heidegger
 Ha ha ha!
 After all, we're the ones who saved Sector 7 from AVALANCHE!
 That dirty #$*$^
-President Shinra
 Hojo. How's the girl?
 Hojo
 As a specimen, she is inferior to her mother. I'm still in the process of comparing her to her mother, Ifalna, but for now the difference is 18 %.
-President Shinra
 How long will the research take?
-Hojo
 Probably 120 years. It's probably impossible to finish in our lifetime. Or in the lifetime of the specimen too, for that matter.
-Hojo
 That's why we're thinking of breeding her. Then we could create one that could withstand our research for a long time.
-President Shinra
 What about the Promised Land? Won't it hinder our plans?
 That's what I need to plan. The mother is strong… and yet has her weaknesses.
 They were talking about AERIS…right?
@@ -406,9 +311,7 @@ I remember him.
 That Hojo guy. He's in charge of the Shinra's Science Department. CLOUD, don't you know him?
 This is the first time I've actually ever seen him. So…that's what he looks like…
 Is this today's specimen?
-Hojo
 Yes. We're starting right away. Raise it to the upper level.
-Hojo
 My precious specimen…
 Precious specimen…?
 Is it going to be used for a biological experiment?
@@ -421,37 +324,25 @@ It's moving……still alive?
 Where's its $#&*&@ head? This whole thing's stupid. Let's keep goin'.
 Let's see… The specimen Hojo asked me for is…
 That elevator back there is only to transport Specimens. You can't use it. It would be a lot easier if it led to the 68 Floor Research Lab.
-Hojo
 AERIS? Oh, is that her name? What do you want?
 We're taking AERIS back.
-Hojo
 Outsiders……
 Shoulda noticed it earlier, you…
-Hojo
 There's so many frivolous things in this world.
-Hojo
 Are you going to kill me? I don't think you should.
 The equipment here is extremely delicate. Without me, who could operate it? Hmm?
 Ugh.
-Hojo
 That's right. I recommend you think things out logically before you make any rash moves.
-Hojo
 Now, bring in the Specimen!
 What do you think you're doin'?
-Hojo
 Lending a helping hand to an endangered species… Both of them are on the brink of extinction…
-Hojo
 If I don't help, all these animals will disappear.
 …animal? That's terrible! AERIS is a human being!
 You're gonna pay!
-CLOUD, help!
 BARRET! Can't you do anything?
 Awright!! Step back!
-Hojo
 Stop!!
-Hojo
 Wh…what are you do-- Oh! My precious specimens…
-Hojo
 This is no ordinary specimen. This is a very ferocious specimen!
 Now's our chance to get AERIS!
 Thanks, CLOUD.
@@ -462,7 +353,6 @@ He's rather strong. I'll help you all out.
 It talked!?
 I'll talk as much as you want later, Miss.
 We'll take care of that monster.
-Somebody take AERIS somewhere safe…
 What's your name?
 Hojo has named me, Red XIII. A name with no meaning whatsoever to me. Call me whatever you wish.
 Come on!
@@ -490,56 +380,31 @@ H, hey! What is it?
 Rude
 Would you press 'Up' please?
 Turks! Must be a trap…
-Tseng
 This must've been a real thrill for you… Did you enjoy it?
 Ggh…
 They got you, too?
-Where is AERIS!?
-President Shinra
 In a safe place.
-President Shinra
 She's the last surviving Ancient…
-President Shinra
 Don't you know? They called themselves the Cetra, and lived thousands of years ago. Now they are just a forgotten page in history.
 Cetra…that girl is a survivor of the Cetra?
-President Shinra
 Cetra, or the Ancients, will show us the way to the 'Promised Land'. I'm expecting a lot out of her.
 The Promised Land? Isn't that just a legend?
-President Shinra
 Even so, it's far too appealing not to pursue.
 It's been said the Promised Land is very fertile.
 …If the land is fertile…
 then there's gotta be Mako!
-President Shinra
 Exactly. That is why our money making Mako Reactor is necessary.
 The abundant Mako will flow out on its own.
-President Shinra
 That is where Neo-Midgar will be built. Shinra's new glory…
 @$#*^%! Quit dreamin'!
-President Shinra
 Oh really, don't you know? These days all it takes for your dreams to come true is money and power.
-President Shinra
 Well, that is all for our meeting.
 Hold it! I got a lot to say to you!
-President Shinra
 If there's anything else… talk to my secretary.
-Rude
 Come on! Outta his way!
 I wonder how BARRET is doing
 I wonder how RED XIII is doing
 I wonder how AERIS is doing
-I wonder how RED XIII is doing
-I wonder how AERIS is doing
-I wonder how BARRET is doing
-I wonder how AERIS is doing
-I wonder how AERIS is doing
-I wonder how BARRET is doing
-I wonder how RED XIII is doing
-Let's just get some sleep
-I wonder how RED XIII is doing
-Let's just get some sleep
-I wonder how BARRET is doing
-Let's just get some sleep
 Let's just get some sleep
 Psst (Can we get out?)
 Psst (CLOUD, you're so brave!)
@@ -572,7 +437,6 @@ EXCUSE me.
 You know, AERIS. I have a question.
 What?
 Does the Promised Land really exist?
-…I don't know.
 All I know is…
 The Cetra were born from the Planet, speak with the Planet, and unlock the Planet.
 And……then…
@@ -590,7 +454,6 @@ I thought I would stop hearing her voice as I grew up, but…
 What's happened?
 The door's open… When did it open?
 TIFA… Wake up!
-What's wrong?
 Something's wrong. Look outside.
 This's kinda eerie…
 I wonder what happened…
@@ -613,18 +476,13 @@ Sephiroth's!!
 …Looks like it. Only Sephiroth can use that sword.
 Who cares who did it!? This is the end of the Shinra!
 Uh!
-Palmer
 P, p, p, please, don't kill me!
 What happened?
-Palmer
 Se…Sephiroth. Sephiroth came.
 Did you see him? Did you see Sephiroth?
-Palmer
 Yeah, I saw him! With my own eyes!
 You really saw him?
-Palmer
 Uh! Would I lie at a time like this!? I heard his voice, too!
-Palmer
 Um, he said something about not letting us have the Promised Land.
 Then does that mean
 the Promised Land really does exist and that Sephiroth's here to save it from Shinra?
@@ -640,55 +498,39 @@ I wonder what sort of person he is?
 I've heard that no one's ever seen him bleed or cry.
 Rufus
 So… So Sephiroth was actually here. …By the way,
-Rufus
 just who are you?
 I'm CLOUD, ex-SOLDIER, First Class!
 I'm from AVALANCHE!
 Me too!
 A flower girl from the slums.
 A Research Specimen.
-Rufus
 What a crew.
-Rufus
 Well, I'm Rufus. The President of Shinra, Inc.
 You're only President 'cause yer old man died!
-Rufus
 Correct. I'll let you hear my inauguration speech.
-Rufus
 …Father tried to control the world with money and that worked for him.
-Rufus
 The people believed that Shinra would protect them.
-Rufus
 Work at Shinra, get your pay. If terrorists attack, the Shinra army will help you.
 It looked perfect on the outside.
-Rufus
 But, I do things differently.
 I'll control the world with fear. It's too much to do it like my old man.
-Rufus
 A little fear will control the minds of the common people. There's no reason to waste good money on them.
 He likes to make speeches just like his father.
 Get AERIS outta the building!
 What?
-I'll explain later! BARRET! This is the real crisis for the Planet!
 The hell's that supposed to mean?
 I'll explain later! Just take my word for now! I'll go after I take care of him!
 Alright, CLOUD!
 Rufus
-Why do you want to fight me?
 You want the Promised Land and Sephiroth.
 Rufus
-That's right.
 Rufus
-Did you know that Sephiroth is an Ancient?
 …Whatever, I can't let either you or Sephiroth have the Promised Land!
 Rufus
-I see. I guess we won't be allies.
 Access Menu with [MENU]
 Remove Materia from members with [SWITCH]
 End with [START].
 Access Menu with [MENU]
-End with [START]
-Where's Rufus?
 I couldn't finish 'em. This is gonna get complicated.
 CLOUD… I just thought of something.
 …I'll wait for CLOUD! Everyone, get to the elevator!
@@ -701,7 +543,6 @@ Shinra Bldg. 3f. Lobby
 Hardy Datona
 Quickly, we have to get out of here…
 Shinra Bldg. 2f. Lobby
-Quickly, we can escape this way…
 I'll go on ahead!
 *&^%(*… We're surrounded!
 If I was alone this wouldn't be a thing, but I gotta reputation to protect.
@@ -717,12 +558,10 @@ If you are through talking, may I suggest that we think of a way to get out of h
 Huh? Oh, oh yeah… You're cold, man. Just like someone else 'round here I know.
 Did you say something?
 Notta thing. So what're we gonna do?
-BARRET!!
 TIFA! Where's CLOUD?
 Everyone! Over here!
 Huh? What's up? Where's CLOUD?
 He's coming! Hurry, Hurry!!
-Quickly! We'll escape this way…
 Nope. Have to find another way up, I guess…
 [the movie continues]
 [Shinra S-27]
@@ -730,7 +569,6 @@ Nope. Have to find another way up, I guess…
 [Shinra S-510]
 [Shinra SA-37]
 Turtle's Paradise Newsletter No. 2 The end of another hard day. Wouldn't you like to sit back with a tall cool one? You can at the Turtle's Paradise!! Stop in today! There's nothing like a smooth one after work!
-Shinra, Inc.
 Our slogan is: Shinra's Future Is The World's Future!! Mako Energy For A Brighter World!!
 Until instructed, please don't open the disc holder.
 Control the bike with the [Directional buttons] and save your friends in the truck from the Shinra pursuit troops.
@@ -751,7 +589,6 @@ About the Ancients?
 …Many things.
 I guess it's good bye, Midgar.
 We told AERIS's mom to go somewhere safe, so Marlene should be safe, too.
-Yeah, she should be
 Hmm, I don't know
 She said she didn't want to stay in Midgar anymore. …Maybe it's for the best.
 Stop it, CLOUD! I'm worried, too.
@@ -762,11 +599,9 @@ A little…no, maybe a lot. But I have a bodyguard, right?
 I thought you'd say that!
 …I guess this is the start of our journey…
 You hate traveling?
-It's dangerous. You sure you want to go?
 …I don't know. But, I don't have anywhere else to go. So I guess it doesn't really matter whether I like to travel or not.
 …Hmm. But you know, it should be all right if you keep your promise.
 I'm going back to my hometown. I'll go with you as far as that.
-Then…
 Let's stay here for a while
 Let's go!
 To the Northeast, there's a town called Kalm.
@@ -779,9 +614,7 @@ You think so?
 I think it should be CLOUD.
 ^#$^%…alright. Go Northeast to a town called Kalm. If something happens, we'll meet up there.
 'Sides, we can't have five people strolling around out there. It's too dangerous. Let's split into two parties…
-Access Menu with [MENU],
 Change with [CANCEL],
-End with [SELECT],
 …That's an unexpected
 …combination.
 Well, have fun…boys.

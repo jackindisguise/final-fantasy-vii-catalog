@@ -3,9 +3,7 @@ What do you want?	何か用かな？
 Where is the City of the Ancients?	古代種の都はどこだ？
 Do you know where AERIS is?	AERISを知らないか？
 What are you doing?	何をしている？
-What do you want?	何か用かな？
 Have you seen Sephiroth?	セフィロスを見かけたか？
-What are you doing?	何をしている？
 Oh, the man in a black cape. He was looking for the Temple of the Ancients.	ああ、黒い服の男か。古代種の神殿をさがしていたな
 The Temple of the Ancients?	古代種の神殿？
 Thanks	ありがとう
@@ -17,9 +15,7 @@ You'll need the Keystone.	キーストーンがないとダメさ
 What's a Keystone?	キーストーンって？
 Oh, yeah, I know	ああ知っている
 Just like it sounds. A rock that's a key. I heard that some rich guy has it.	文字通りカギとなる石さ。どこかの金持ちが持っているって話だな
-You need something?	何か用かな？
 Are you going to run away??	逃げないのか？？
-What are you doing?	何をしている？
 Through fossils, we already know everything that happened on this Planet since the beginning.	僕たちはこの星の始まりから今にいたるまでを化石を通して知ってきた
 Now, we want to see the rest on to the end of the Planet… It's a mixed feeling…	そして今、この星の終わりを見届けようとしている……なんだか複雑な気持ちだよ
 The City of the Ancients? Oh, you must mean the Forgotten City.	古代種の都？ああ、忘らるる都のことだな
@@ -28,7 +24,6 @@ Excavating is great. It's like a history of the Planet told in the land.	化石�
 This town's motto is not to think about anything.	この村のルールは何も考えないこと
 Just live. Eat, work, and sleep.	ただ、生きる。喰って、畑仕事して、ねる
 It's pretty hard not to think about anything.	何も考えないのはけっこう、むずかしい
-Want to buy something?	なにか買ってくかい？
 Want to buy something?	なにか買ってくかい？
 I want the Lunar Harp	ルナ・ハープが欲しい
 Don't want anything	何もいらない
@@ -51,12 +46,10 @@ You can awaken the Sleeping Forest if you have the Lunar Harp.	ルナ・ハー�
 Once awake, they say the forest will open a road for you.	目をさませば、森は道をひらくと言われています
 The girl in pink who just went in used a Lunar Harp to get through.	さっききたピンクの女の子もルナ・ハープをつかって森を抜けたんだ
 I want a Lunar Harp	ルナ・ハープがほしい
-Not interested	興味ない
 Ask the guy in the tent below.	下のテントにいる男に聞いてな
 We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.	私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね
 Please push [SWITCH] to set staff in position.	□ボタンを押してスタッフの配置場所を決めてください。
 Order a search (100 gil)	調査を指示（１００ギル）
-Done	もういらない
 Could not position the staff, due to a lack of funds.	お金がたりないので配置しませんでした。
 Press [SWITCH] to ignite the bomb for the search.	□ボタンを押せば調査用の爆弾が 地中で爆発します。
 The staff member will calculate the tremors and dig up the buried item.	各スタッフは爆発の反動を計算し 目的のまいぞう物の方向を指し示します。
@@ -107,8 +100,6 @@ Why don't we catch some ZZZs?…	CLOUDさん、ひとねむりしませんか？
 Maybe we should take a short nap?	ひとねむり、するか？
 Here's a bed.	ベッドがある。
 Get some rest?	休んでいきますか？
-Yes	はい
-No	いいえ
 I feel it…	感じる……
 AERIS is here. …and so is Sephiroth.	ここに、AERISがいる……そしてセフィロスも
 …It's not an excuse. I feel it in my soul.	……りくつじゃない。感じるんだ、おれの心が
@@ -167,15 +158,6 @@ We're looking for AERIS, right! Then why are you heading for the mountains!? Wha
 CLOUD, uh that's the road to the Northern Mountains.	CLOUDさんそっちは北の山へ行く道やで
 AERIS is waiting, let's go find her.	AERISさんが待ってますんや。はよ、さがしにいきましょ
 This is the road to the Northern Mountains. Don't you want to find AERIS?	これは北の山へ向かう道。AERISをさがすのはもうあきらめたのか？
-AERIS?	AERIS？
-CLOUD!	CLOUD！
-CLOUD!	CLOUD！
-CLOUD!	CLOUD！
-CLOUD!	CLOUD！
-CLOUD!	CLOUD！
-CLOUD!	CLOUD！
-CLOUD!	CLOUD！
-Stop it!!	やめろ！！
 Stop!	やめて！
 Please stop that!	何をするんだ！
 What're you doing!	なにしとんや！！
@@ -186,10 +168,8 @@ Ugh…what are you making me do?	クッ……俺に何をさせる気だ
 …stay…back…	……来ない……で
 …AERIS.	……AERIS
 This can't be real!	……ウソだろ？
-Sephiroth	セフィロス
 Do not worry. Soon the girl will become part of the Planet's energy.	気にすることはない。まもなくこの娘も星をめぐるエネルギーとなる
 All that is left is to go North. The 'Promised Land' waits for me over the snowy fields.	私の寄り道はもう終わった。あとは北を目指すのみ。雪原の向こうに待っている『約束の地』
-Sephiroth	セフィロス
 There, I will become a new being by uniting with the Planet. As will this girl…	私はそこで新たな存在として星と一体化する。その時はその娘も…
 …Shut up.	……だまれ
 The cycle of nature and your stupid plan don't mean a thing.	自然のサイクルもおまえのバカげた計画も関係ない
@@ -198,29 +178,23 @@ AERIS will no longer talk, no longer laugh, cry…or get angry…	AERISは、も
 What about us…what are WE supposed to do?	俺たちは……どうしたらいい？
 What is this pain?	この痛みはどうしたらいい？
 My fingers are tingling. My mouth is dry. My eyes are burning!	指先がチリチリする。口の中はカラカラだ。目の奥が熱いんだ！
-Sephiroth	セフィロス
 What are you talking about? Are you trying to tell me you have feelings now?	何を言っているのだ？おまえに感情があるとでもいうのか？
 Of course! What do you think I am!?	あたりまえだ！俺がなんだというんだ！
-Sephiroth	セフィロス
 Ha, ha, ha…… Stop acting as if you are sad.	クックックッ……悲しむふりはやめろ
 And there's no need to act as if you're angry either.	怒りにふるえる演技も必要ない
-Sephiroth	セフィロス
 Because, CLOUD. You are…	なぜなら、CLOUD。おまえは……
 Jenova	ジェノバ
 Because, you are…a puppet.	なぜなら、おまえは……人形だ
-Jenova	ジェノバ
 You are…	おまえは……
 I'm…a puppet?	俺が……人形？
 Everyone‚listen to me.	みんな、聞いてくれ
 I'm CLOUD‚ex-SOLDIER‚ born in Nibelheim.	俺はニブルヘイムで生まれた元ソルジャーのCLOUDだ
 I came to settle up with Sephiroth.	セフィロスとの決着をつけるためにここまでやってきた
 What're ya tryin' to say?	……何が言いてえ？
-…What's going on?	……どうしたの？
 …Hmm?	……あん？
 I heard that before.	まえにも聞いたぜ
 Why now?	こんな時に、どして？
 Why're you being so formal? Is something wrong?	なんや、いきなりあらたまって。どないしたんですか？
-…You're right.	……そうだな
 I came here by my own free will… Or so I thought.	俺は自分の意志でここまでやってきた……そう思っていた
 However…	しかし……
 …To tell the truth, I'm afraid of myself.	……正直に話す。俺は自分が怖い
@@ -242,54 +216,31 @@ Will you all come with me?	みんなも来てくれ……るよな？
 Well‚ we'll face it when it happens.	ま、なんだな。そん時は、そん時だ
 Leave it to me!	アタシにまかせな！
 Watch you?…… We're all in this together!	見張るやなんて、そんな……おんなじ仲間やないですか～
-…I guess so.	……そうだな
 I don't know how AERIS tried to save the planet from the Meteor.	AERISがどうやってメテオを防ごうとしたのかはわからない
 And I guess now, we'll never know.	今となっては俺たちにはそれを知る方法もない
-But!	でも！
 We still have a chance. We must get that Black Materia back before Sephiroth uses it.	まだ、チャンスはある。セフィロスがメテオを使う前に黒マテリアを取り返すんだ
 Let's go.	行こう
 Everyone, listen to me.	みんな聞いてくれ
-I am CLOUD, born in Nibelheim and formerly of SOLDIER.	俺はニブルヘイムで生まれた元ソルジャーのCLOUDだ
-I came here to settle up with Sephiroth.	セフィロスとの決着をつけるためにここまでやってきた
-…What's wrong?	……どうしたの？
-…yeah, so?	……何が言いてえ？
-…Huh?	……あん？
 What hit you so suddenly?	どしたの、急に？
-…Yes.	……そうだな
 I've heard all this before.	前にも聞いたぜ
 I came here on my own will…… or at least that's what I thought. But…	俺は自分の意志でここまでやってきた……そう思っていた。でも……
 To be honest… I'm afraid of myself.	……正直に話す。俺は自分が恐い
 There's a part of me I don't understand.	俺の中には、俺の知らない部分がある
-Like when I gave away the Black Materia.	俺はセフィロスに黒マテリアを渡してしまった
-And if you all hadn't stopped me, …AERIS might have…	みんなが止めてくれなければAERISをこの手で……
 …It's something inside me.	……そういう自分が俺の中にいる
-That is why, maybe I shouldn't go on with this journey.	だから俺はもうこの旅をやめた方がいいのかもしれない
-I may do something terrible.	とんでもないことをしてしまうかもしれない
-But, I AM going on.	でも、俺は行く
 Five years ago, he burned down my hometown, then he took AERIS.	５年前、俺の故郷を焼き払いたった今、AERISを奪った
 And now he's trying to destroy the Planet. I won't let him get away with it.	そしてこの星を破壊しようとしているセフィロスを……俺は許さない
 …I must go on.	……俺は行かなくちゃならない
 But…I have a favor to ask of you.”	それで……頼みがあるんだ
 …Will you all still go with me?	みんなも……行ってくれるよな？
-Please watch me so I don't do anything horrible.	……俺がおかしなまねをしないように見張っていてほしいんだ
-…But, CLOUD.	……でも、CLOUD
 …But, you know…	……でもよ、なんかだよ
-…All right, CLOUD.	……わかった、CLOUD
 All right, we'll watch you.	よ～し、しっかり見張ってるよ
 …I see.	……なるほど
-Well, if somethin' happens, it happens.	ま、なんだな。そん時は、そん時だ
 I wonder how AERIS was going to save this planet from Meteor. We have no way of finding out now.	AERISがどうやってメテオを防ごうとしたのかはわからない。俺たちにはそれを知る方法もない
-But…	でも……
 We still have a chance. We need to get the Black Materia back before Sephiroth uses Meteor.	まだ、チャンスはある。セフィロスがメテオを使う前に黒マテリアを取り返せばいいんだ
 ( End of Disc 1 )	【　ディスク１が終了しました　】
-Please do not open the CD drive until further instructions.	指示があるまで、ディスクホルダーを開けないで下さい
 Save the game to this point on your computer?	ここまでのゲームの状態をメモリーカードにセーブしますか？
-Yes	はい
-No	いいえ
 Please change the disc.	ディスク交換が必要です。
 Save the game to this point on your computer?	ここまでをメモリーカードにセーブしますか？
-Yes	はい
-No	いいえ
 Please insert disc two.	ディスク２に交換してください。
 You still haven't saved your game.	現在はまだここでセーブできません。
 Continue playing?	このままゲームをつづけてください。
@@ -306,7 +257,5 @@ You all right?	だ、大丈夫？
 Ey, hey! You alright?	お、おい！大丈夫か？
 Wait! Get a hold of yourself!	ち、ちょっと！シッカリしてよ
 CLOUD! Are you all right?	CLOUDさん！大丈夫ですか？
-…you all right?	……大丈夫か？
 Sephiroth said to me… Head North…… ……past the Snow Fields……	セフィロスは言っていた……【北を目指す】……【雪原の向こう】と……
 …ugh.	……うっ
-Hmmm…	ああ……

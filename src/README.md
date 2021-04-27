@@ -17,6 +17,7 @@ Fortunately most of the multi-line dialogue boxes have opening and closing marke
 
 What I've opted to do in light of this is to just crunch all multi-line texts into 1 line. In order to accomplish this, I wrote a script that does the following:
 
+* trim all dialogue entries, removing unnecessary whitespace from the beginnings and ends.
 * collapses all quote blocks in the English script (blocks that start with opening quotations “ and end with closing quotations ”) into 1 line;
 * collapses all quote blocks in the Japanese script (blocks that start with opening brackets 「 and end with closing brackets 」) into 1 line;
 * detects the beginning of quote blocks before the end of a quote block, and assumes the previous quote block ends there;

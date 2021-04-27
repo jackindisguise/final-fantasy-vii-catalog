@@ -8,9 +8,3 @@ I started this project because Final Fantasy VII is one of my favorite stories o
 This project is only possible due to the script files compiled by ***Jason Maltz***.
 
 Unfortunately, there's a serious lack of consistency in the formatting of the script. In order to solve this problem, my goal was to edit the texts such that each line of dialogue in the English script had 1 corresponding line of dialogue in the Japanese script. This way the spreadsheet-style format works exactly as it's intended, and you can quickly and easily associate the original and the translation.
-
-The Goal of This Project:
----
-
-#### **1 line of English for 1 line of Japanese.**
-##### For easy importation into a spaced-repetition software, like Anki.

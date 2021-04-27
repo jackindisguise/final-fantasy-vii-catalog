@@ -8,80 +8,44 @@ Received "Choco/Mog" Materia!	『チョコボ＆モーグリ』のマテリア�
 They tried to give you something but you couldn't get it.	『なにかをくれようとしたのだがもらうことが出来なかった』
 Chocobo farm	チョコボファーム
 Received "Chocobo Lure" Materia!	『チョコボよせ』のマテリアを手にいれた！
-You cannot take on any more Materia.	これいじょうマテリアは持てません。
-Please discard some Materia.	なにかマテリアをすててください。
 Choco Bill	グリン
 Thinking of crossing the marshes?	お客さんたち、この先の湿地帯をこえるつもりですか？
-Yeah	ああ
-Not interested	興味ないね
-Choco Bill	グリン
 Hmm, then it'll probably be safer for you to get a Chocobo.	ふむ、それならチョコボを手に入れたほうが安全ですな
-Choco Bill	グリン
 That way you can zip through the marshes with the Chocobo.	チョコボで湿地帯をイッキにかけ抜けるわけです
 It's the only way to avoid being attacked by the Midgar Zolom.	これがミドガルズオルムに襲われない方法
-Choco Bill	グリン
 Midgar Zolom…?	ミドガルズオルムとは…
-Choco Bill	グリン
 It's a serpent-like creature over 30 feet tall!!	身のたけ１０メートルにならんとするヘビのバケモノ！！
-Choco Bill	グリン
 It detects the footsteps of anyone in the marshes.	湿地帯を進むズボズボ音を聞きつけ…
-Choco Bill	グリン
 And then, BAM!! It attacks!!!	ウギャーッとおそいかかる！！！
-Choco Bill	グリン
 To avoid that, buy a Chocobo at me and Choco Billy's Chocobo Farm.	そうならないためにも！グリン＆グリングリン牧場のチョコボをお買い上げください
 To purchase a Chocobo, please talk to my grandson. He's in the Chocobo stables at the far right end of the farm.	チョコボのお買い上げは向かって一番右の建物チョコボ小屋におります孫にお申し付け下さい
-Choco Bill	グリン
 By the way, there was another person heading towards the Marshes.	そういえば少し前に【湿地帯】に向かった人がいたんですよ
 Without a Chocobo, the Midgar Zolom probably got him. It was a man in a black cape.	チョコボなしで湿地帯なんてきっとミドガルズオルムにやられちまったでしょうな。真っ黒なマントの人でしたがね
-Choco Bill	グリン
 Welcome.	いらっしゃいませ
-Choco Bill	グリン
 How 'bout a Chocobo Lure Materia?	どうですか？チョコボよせマテリアは？
 Each level it increases, makes it easier for you to find a Chocobo.	あの、マテリアはレベルがあがるほどチョコボに会いやすくなるんですよ
-Choco Bill	グリン
 Hmm, then, I guess that's that.	ふむ、それなら、関係ないですな
-Choco Bill	グリン
 Still want to cross the Marshes?	やはり湿地帯をこえるつもりですか？
-Yeah	ああ
 No	こえない
-Choco Bill	グリン
 Looking for an Inn?	宿をお探しですか？
-Yeah	ああ
-Not interested	興味ない
-Choco Bill	グリン
-Looking for an Inn?	宿をお探しですか？
-Yup	うん
-Nope	いいえ
-Choco Bill	グリン
-Looking for a place to stay?	宿をお探しですか？
-Right	そうだ
 Nope	探してない
-Choco Bill	グリン
 How about 100 gil a night…?	どうでしょう一泊　１００ギルで…
-All right	泊まる
 I'm in a hurry	先を急ぐ
-Choco Bill	グリン
 Thank you for your patronage.	まいど、ありがとうございます
-Choco Bill	グリン
 … Ummm, you don't have enough…	…………あの～、お金が足りませんが…
 Please    for a second.	後はちょっとまってね♥
 Chocobo farm	グリン＆グリングリンの家
-Choco Bill	グリン
 Oh, what is that?	あっ、お客さん方いや、なんですな
 What has this world come to? Stars falling, what's next?	空から星が落ちてくるとかなんとか大変な世の中になってしまいましたね
-Choco Bill	グリン
 With things the way they are now, how 'bout raising a Chocobo?	こんな、ご時世です、どうでしょうチョコボなど育ててみては？
 No, I'm not trying to persuade you for money. It's just because of the way things are in the world.	いえいえ、商売っ気をだしているんではなくてですな。こういう時だからこそ！
 I thought that it would be a healthy thing for you to raise some Chocobos…	こう、建設的にですなチョコボを育てるのもお客様のためではないかと……
-Choco Bill	グリン
 Hmm…You just happen to be in luck!	テヘヘヘヘ……お客さんは運がよろしい！
 It just so happens that we aren't taking care of any Chocobos for anyone else, so…	今はぐうぜんにも、うちの牧場には他のお客様からおあずかりしているチョコボもいませんし
-Choco Bill	グリン
 I could take care of 6 Chocobos right now, for 10000 gil per Chocobo. How 'bout it?	今なら、１匹　１００００ギルで６匹までおあずかりできますがどうでしょう？
 Take care of my Chocobos	チョコボをあずかってくれ
 Tell me something else	他の話が聞きたい
 How do you raise them?	育成の話が聞きたい
-Nothing	なんでもない
 Could you take care of the Chocobos?	チョコボあずかって
 I'd like to hear about something else	他の話が聞きたいな
 Tell me how you raise them	育成の話聞かせて
@@ -90,25 +54,18 @@ Take care of my Chocobos	チョコボをあずかってくれや
 I wanna hear about something else	他の話を聞かせろよ
 How do ya raise 'em?	育成の話が聞きてぇな
 That's enough	なんでもねぇ
-Choco Bill	グリン
 To raise a Chocobo, you'll need a Chocobo Stable'.	チョコボをお育てになるには『チョコぼう』と呼ばれる部屋みたいなものが必要となりまして
 And they rent for 10000 gil. Currently, I can rent out up to 6 Chocobo Stables'.	そちらを１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます
 If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.	こちら、お借りいただきますとお客様が捕まえになられましたチョコボを一時的に外のサクの中に４匹までおあずかりいたしまして
 At a later date, you can select the Chocobo that you would like to put in your Chocobo Stable'.	後日、お客様が『チョコぼう』に選んで、お入れになる形になります
-Choco Bill	グリン
 'Chocobo Stables' cost 10000 gil…	『チョコぼう』は、お１つ１００００ギルになりますが？
 Rent it	貸して
-Don't need it	いらない
-Choco Bill	グリン
 We don't have enough room to rent out more than 6 here…	こちらも、６つ以上お貸しするよゆうがありませんので…
-Choco Bill	グリン
 Thank you.	ありがとうございます
 My grandson takes care of the Chocobos. He's in the Chocobo Stable at the far right of the farm. Please tell him what you want.	世話の方は、向かって一番右の建物チョコボ小屋におります孫がやっておりますのでそちらに、お申し付け下さい
-Choco Bill	グリン
 Someone once told me there is a Chocobo Sage'…somewhere.	人から聞いた話なんですがねこの世界のどこかにチョコボせんにんなんて呼ばれてる人が
 He seems to know how to raise some great Chocobos.	いるらしいんですわ。なんでも、その、せんにんはすんごいチョコボの育て方を知っているとかいないとか
 If he really does exist, I'd like to meet him someday.	まぁ、本当にいるのなら私も会ってみたいものですな
-Choco Bill	グリン
 Chocobos aren't hard to take care of.	チョコボを育てるのに、お客様の手をわずらわす事はありません
 The day-to-day care will all be done here.	普段の世話はこちらがしっかりやりますので
 But, please buy the food for the Chocobo, and feed them yourselves.	ただ、チョコボにあたえるエサはお客様がお買いになるかして直接おあたえください
@@ -117,14 +74,9 @@ Also, if you're able to find a male and a female Chocobo that like each other, t
 New Chocobos inherit the abilities of their parents.	タマゴから生まれた子チョコボは大抵父と母の能力を引き継いだチョコボになりますが
 I've heard that sometimes new breeds of Chocobo are born with special abilities. I've never actually seen it before, though.	まれに、特異な能力を持ったチョコボになることがあるようです。私もほとんど見たことがないんですがね
 Chole	クリン
-Welcome.	いらっしゃいませ
-Chole	クリン
 Wasn't it really expensive?	お兄ちゃんたちだいぶ、お金取られたでしょ？
-Chole	クリン
 But don't be mad at my brother or Grandpa.	でも、グリングリンお兄ちゃんやグリンおじいちゃんを怒らないでね
-Chole	クリン
 Ever since Mom and Dad died, it's been like this…	パパとママが死んでからずっとそうなの……
-Chole	クリン
 Welcome! Here's some good advice.	いらっしゃいあっそう、いいこと教えてあげるわ
 The white Chocobo likes it when you scratch behind its ears.	白い子チョコボはね、耳の裏をこちょこちょしてあげるとすっごくよろこぶのよ
 But if you scratch it someplace that it doesn't like, it'll get mad, so be careful.	でも、へんなとこくすぐるときげんわるくしちゃうから気をつけないとダメよ
@@ -132,65 +84,40 @@ Choco Billy	グリングリン
 Do you want a Chocobo?	チョコボが欲しいの？
 Mmm…	う～ん……
 Give me one	くれ
-Nope	いらない
-Choco Billy	グリングリン
 You old folks are out of luck!	おじさんたち運が悪い！
 Old folks…?	おじさん……
-Choco Billy	グリングリン
 Oh, I'm so glad!	ああ良かった！
-Choco Billy	グリングリン
 We're all out of Chocobos. I'm taking care of the ones out there for someone else.	チョコボは売り切れちゃったんだ外にいるのは、あずかり物なんでね
-Choco Billy	グリングリン
 You know, if you really want a Chocobo, you should go out and catch one.	そうだ、チョコボがほしいなら野生のをつかまえるといいよ
-Choco Billy	グリングリン
 Want to know how to catch a Chocobo?	野生のチョコボのこと何か知りたいかい？
 Where are they?	どこにいる？
 How do I catch one?	どうやって捕まえる？
 What else?	他には？
-Not interested	興味ないね
-Choco Billy	グリングリン
 You see those claw prints out there? Wild Chocobo's will appear in those areas.	外で３本のツメあとを見ただろ？あれがあるところには野生のチョコボが必ずいるよ
 But, if you don't have 'Chocobo Lure' they won't come out. They're very cautious by nature.	ただし『チョコボよせ』が無いとチョコボが現れないんだよ。もともと用心深い生き物だしね
 Chocobo Lure?	チョコボよせ？
 Go on	次の話を聞こう
-Choco Billy	グリングリン
 'Chocobo Lure' is a type of Materia which attracts Chocobos.	『チョコボよせ』はチョコボをおびきだすマテリアさ
 If you equip this, they'll come to you. But, without it, they won't appear.	これを装備しておくと野生のチョコボに会える。逆を言うとこれを装備してないとチョコボには会うことが出来ないわけさ
-Choco Billy	グリングリン
 A wild Chocobo always appears with other monsters.	野生のチョコボは他のモンスターといっしょに出てくるんだ
 But, you won't be able to catch it because of the monsters.	けど、そのままじゃ他のモンスターがジャマでチョコボを捕まえることが出来ない
 That is why you must defeat the monsters first before you catch the Chocobo.	だから、まずチョコボのまわりにいるモンスターを倒す必要があるんだ
 And then?	それから？
-Is that all you can talk about?	次の話を聞こう
-Choco Billy	グリングリン
 Wild Chocobos are really cautious. They'll run away from the smallest things.	それに、野生のチョコボは用心深いちょっとしたことで、逃げてしまう
 But, if you use 'Greens' they'll focus on them and won't run away.	けど、『野菜』を使うと食べるのに夢中になって逃げにくくなるのさ
-Choco Billy	グリングリン
 Whatever you do, don't make Chocobos angry. They're usually calm, but if you get them angry, you'll get hurt.	チョコボは怒らせない方がいいよ普段はおとなしいんだけど怒らせると痛い目にあうのはこっちさ
 Oh, and remember, once you get off a Chocobo, it'll escape.	あっ、それと捕まえたチョコボは一度チョコボからおりたら一目散に逃げてしまうよ
-Choco Billy	グリングリン
 Well then, shall we get down to business?	じゃあ、そろそろ商談に入ろうかな
-Choco Billy	グリングリン
 I'll sell you the 'Chocobo Lure' for 2000 gil, right now.	今なら『チョコボよせ』を２０００ギルで売ってあげるよ
-Choco Billy	グリングリン
 You want it?	買うかい？
 Buy it	買う
-Don't buy it	買わない
-Choco Billy	グリングリン
 Thanks!	まいどあり！
-Choco Billy	グリングリン
 Hey, you don't have enough.	ねぇ、お金がたりないよ
-Choco Billy	グリングリン
 Mmmm, if you don't have it, you'll never catch one.	う～ん、これが無いとチョコボを捕まえられないよ
-Choco Billy	グリングリン
 The 'Chocobo Lure' is 2000 gil. Buy it now?	『チョコボよせ』は２０００ギルだけど買う気になったかい
-Buy it	買う
-Don't buy it	買わない
-Choco Billy	グリングリン
 It wouldn't hurt to buy some 'Greens', either.	『野菜』も買っておいてそんはないよ
 Oh, and how fast a Chocobo'll finish eating depends on what type of 'Greens' you feed them.	あっそれから、『野菜』によってチョコボが食べ終わる長さが違うからね
 Chocobo Ranch	チョコボ小屋
-Choco Billy	グリングリン
 Welcome!	いらっしゃい！
 Buy	買い物をする
 Get some information	チョット話を聞く
@@ -200,101 +127,63 @@ Mating Chocobos	チョコボをカップリングする
 Releasing Chocobos	チョコボを逃がす
 Riding Chocobos	チョコボに乗って出かける
 Do nothing	なにもしない
-Choco Billy	グリングリン
 You can't take that many out at once.	ダメだよ一度に何匹も外にだしちゃ
 You must return the Chocobo that's out, if you want to take out a different one.	他のチョコボで外に出たいなら今、外に出してるチョコボを戻してからにしてよ
-Choco Billy	グリングリン
 Which one are you going to take?	どれに乗って出かけるんだい？
-Choco Billy	グリングリン
 Ride this one?	これに乗って出かける？
-Giddyap!	うん
 Whoa!	ダメ
-Choco Billy	グリングリン
 You have all the 'Chocobo Stables' you can carry.	今、お客さんが持ってる『チョコぼう』はいっぱいだよ
 If you want to put a Chocobo in it, first, you must let it go and open a 'Chocobo Stable.'	もし、チョコボをいれたければまず、逃がすなりなんなりして『チョコぼう』を開けなきゃ
-Choco Billy	グリングリン
 You don't even have any 'Chocobo Stables'	お客さんは『チョコぼう』を１つも持っていないよ
 If you want to raise Chocobos, go talk to Grandpa.	チョコボを育てたいならおじいさんに会ってきてよ
-Choco Billy	グリングリン
 It looks like you haven't even caught one yet…	１匹も捕まえてないみたいだけど…
-Choco Billy	グリングリン
 Which one are you going to put in the 'Chocobo Stable'?	どれを『チョコぼう』にいれるんだい？
 Use the Directional button left or right and [OK].	方向キー左右と○ボタンで選んでよ
-Choco Billy	グリングリン
 This…is a wonderful Chocobo!	す、すごいチョコボだよ、これ！
-Choco Billy	グリングリン
 This is a great Chocobo.	すごくいいチョコボだよ
-Choco Billy	グリングリン
 Mmm, this seems like a good Chocobo.	うん、いい感じのチョコボだね
-Choco Billy	グリングリン
 This Chocobo's so-so.	まあまあのチョコボだね
-Choco Billy	グリングリン
 This is a pretty average Chocobo.	普通のチョコボだと思うよ
-Choco Billy	グリングリン
 Mmm, this one's not bad.	う～ん、わるいチョコボではないけどね
-Choco Billy	グリングリン
 This one doesn't seem to be very good.	あまり、いい感じのチョコボじゃないね
-Choco Billy	グリングリン
 I really can't recommend this one.	ちょっと、おすすめ出来ないかな
-Choco Billy	グリングリン
 Want to put this Chocobo in your stable?	このチョコボをチョコぼうにいれるかい？
 Put it in	いれる
 Let it go	逃がす
 Choose a different one	他のにする
-Choco Billy	グリングリン
 Then, give Chocobo Ç#& a name.	じゃあ、このチョコボに名前をつけてあげてよ
-Choco Billy	グリングリン
 I'm really going to let him go.	本当に逃がすよ
-Choco Billy	グリングリン
 In order for the Chocobo to mate, you need a male and a female…	カップルはオスとメスがいないと…
-Choco Billy	グリングリン
 In order for them to mate, you need 'Nuts' too.	カップリングするには『実』も必要だよ
-Choco Billy	グリングリン
 You don't have any 'Greens'… It just so happens I can sell you one…	『野菜』を１つも持ってないみたいだけど……なんなら売ってあげるよ？
 Feed?	エサ？
 Mating?	カップリング？
 Chocobo by the fence?	サクのチョコボは？
 Ride it outside?	外で乗れる？
 What are "Classes"?	クラスってなに？
-Nothing	なんでもない
-Choco Billy	グリングリン
 Yeah, you can ride this one.	うん、乗れるよ
 And even if you take it outside, this Chocobo won't run away when you get off of it.	それに、ここから外にもちだした、チョコボはおりても逃げださなくなるよ
 If you want to return it to your 'Chocobo Stable', just ride it onto the farm.	それから『チョコぼう』にもどしたければ、チョコボに乗ったまま牧場に入って来てよ
 Then, you'll be able to feed it again.	そうすれば、また、エサをあげたり出来るようになるよ
-Choco Billy	グリングリン
 What the Chocobo eats are 'Greens'. The most famous one is the 'Gizzard Greens'.	チョコボのエサは『野菜』なんだ『ギザールの野菜』が一番有名だよね
 Chocobos will mature differently depending on which 'Greens' they eat. Certain 'Greens' will boost their stamina.	それとね、チョコボは食べる『野菜』によって、育ち方が違ったりするんだよ。ある『野菜』を食べさせてるとスタミナモリモリになったりとかね
 You'll have to figure out which kinds have what effects for yourselves.	そこらへんの、効果は自分で覚えていくのがいいね
 Oh, and Chocobos are born with certain natural abilities. So, no matter how much they mature, they can't get more abilities than what they're born with.	それと、チョコボにはもって生まれた能力があってね自分の持っている能力以上は育たないんだ
 If a Chocobo's abilities don't increase even when you feed it, that means it's reached its limit.	エサをあげても、能力が上がらなくなったらそのチョコボの限界がきてると思っていいよ
 It's best to let those kinds of Chocobo go or mate them to get a new Chocobo.	そういうチョコボはもう、逃がしちゃうかカップリングさせて、次の子供を育てるといいんじゃないかな
-Choco Billy	グリングリン
 A male and a female Chocobo together can produce an egg.	カップリングっていうのはオスのチョコボとメスのチョコボを
-Choco Billy	グリングリン
 The Chocobo out there is part of the stock that you caught.	外のチョコボは、お客さんが捕まえたチョコボのストックさ
 We can only keep 4 Chocobos here at once. If you get a fifth one, the first one will have to be let go.	けど、４匹までしか置いておけないから５匹目を送ってくると、最初の１匹を逃がしちゃうからね
 If you don't want that to happen, come back and put it in your own stable.	それがイヤだったら途中でもどってきて『チョコぼう』にいれるなりした方がいいね
-Choco Billy	グリン
 Chocobos' strengths are divided by 'Class'.	クラスはチョコボの強さをあらわすものさ
-Choco Billy	グリングリン
 Which Chocobo are you going to let go?	どのチョコボを逃がすんだい？
-Choco Billy	グリングリン
 There's still lots of room to grow.	まだまだ成長の余地はありそうだね
-Choco Billy	グリングリン
 It might mature a bit more.	もう少し成長するかもね
-Choco Billy	グリングリン
 Don't expect it to mature anymore.	もう、成長は望めないかも
 Class	クラス
-Choco Billy	グリングリン
 Your 'Chocobo Stable' is empty.	『チョコぼう』には１匹もいないけど…
-Choco Billy	グリングリン
 Is it all right to let this one go?	これを逃がすよ？
 Go ahead	いいよ
-No, don't	ダメ
-Go ahead	いいよ
-No, don't	ダメ
-Choco Billy	グリングリン
 Gizzard Greens =	ギザールの野菜
 Karaka Greens =	カラッカの野菜
 Tantal Greens =	タンタルの野菜
@@ -304,24 +193,12 @@ Memit Greens =	ミメットの野菜
 Reagan Greens =	レイゲンの野菜
 Sylkis Greens =	シルキスの野菜
 Don't feed it	やっぱりあげない
-Choco Billy	グリングリン
 Looks like you don't have any 'Nuts'… To get them to produce an egg, you need a 'Nut'. Do you want to buy some?	『実』を１つも持ってないみたいだけど…タマゴを生ませるには『実』も必要なんだなんなら売ってあげるよ？
-Choco Billy	グリングリン
 You better have a 'Chocobo Stable' prepared for the little ones, too.	子供をいれる『チョコぼう』を用意しておいてもらわないとダメだよ
-Choco Billy	グリングリン
 I can't give you anything I don't have.	もってないのは、あげれないよ
-Choco Billy	グリングリン
 Which 'Nut' are you going to give 'em?	どの実をあげるんだい？
-Choco Billy	グリングリン
 Which Chocobo are you going to feed it to?	どのチョコボにあげるんだい？
-Choco Billy	グリングリン
 Is this all right?	これでいいかい？
-Yeah	いいよ
-No	ダメ
-Choose another one	他のにする
-Choco Billy	グリングリン
-Is this one all right?	これでいいかい？
-Yes	いいよ
 Give it a different Nut	他の『実』にする
 Quit	やっぱりやめる
 Pipio Nut =	ピピオの実
@@ -332,21 +209,12 @@ Param Nut =	パラムの実
 Porofu Nut =	ポロフの実
 Carob Nut =	カラブの実
 Zeio Nut =	ゼイオの実
-Don't give 'em anything	やっぱりあげない
-Choco Billy	グリングリン
 They gotta be male and female.	オスとメスじゃなきゃダメだよ
-Choco Billy	グリングリン
 Which two Chocobos are you going to mate? Talk to the two you like and make your decision.	どのチョコボをカップルにするんだい？２匹に話しかけて決めてよ
 This one	これにする
-Different one	他のにする
-This one	これにする
-Different one	他のにする
 Never mind	やっぱりやめた
-Choco Billy	グリングリン
 There's only one…	１匹しかいないんだけど…
-Choco Billy	グリングリン
 So let's mate these two.	じゃあ、その２匹をカップルにするよ
-Go ahead	いいよ
 No, I changed my mind	やっぱりダメ
 Speed Plus!	スピードアップ！
 Stamina Plus!	スタミナアップ！
@@ -354,47 +222,28 @@ Intelligence Plus!	かしこさアップ！
 They're getting along better!	すこし仲良くなった！
 Their personalities improved!	性格がよくなった！
 No improvement…	なにも上がらなかった…
-Choco Billy	グリングリン
 You got yourself a new Chocobo!	チョコボが生まれたよ！
 Looks like it's got good speed.	スピードがありそうだね
 Looks like it's got good stamina.	スタミナがありそうだね
 Looks intelligent.	あたまがよさそうだね
 Too much energy?	元気ありすぎかな？
-Choco Billy	グリングリン
 You shouldn't mate those that just mated or those that were just born.	１回カップリングした後や生まれてすぐのカップリングはやめておいた方がいいよ
-Choco Billy	グリングリン
 There doesn't seem to be any others you could mate it with.	それ以外では、カップリングできそうなのはいないみたいだけど
-Chole	クリン
 Hey, do you know what a Chocobo Sage is?	ねぇ、チョコボせんにんって知ってる？
-Chole	クリン
 What!? You've actually met him!?	えっ！？会ったことあるの！？
 Wow! What did he tell you?	すご～いねぇ、どんなお話聞いたの？
-Chole	クリン
 Wow, that's amazing! …Let me take some notes.	へぇ、おもしろ～いメモっとこ
-Chole	クリン
 Hey, did you ever see the Chocobo Sage again? What did he tell you?	ねぇ、チョコボせんにんにまた会った？どんなお話聞いたの？
-Chole	クリン
-What?	な～に？
 Let me jot this down	メモをみせてもらう
 Chole's Chocobo inspection	クリンのチョコボしんだん
-Nothing	なんでもない
-Chole	クリン
 For telling me that story, I'll tell you about each Chocobo's abilities.	面白い話聞かせてくれたお礼にクリンがチョコボの能力を見抜いてあげる
-Chole	クリン
 I think it's `$& .	じゃないかなぁ？
-Chole	クリン
 That's `$& 	　ね
-Chole	クリン
 From what I see, the fastest sprinter is…	クリンが見たところダッシュが１番速そうなのは…
-Chole	クリン
 And, the fastest one is…	それから、クリンが見たところスピードが１番速そうなのは…
-Chole	クリン
 Also, from what I can tell, the one with the most stamina is…	それと、クリンが見たところスタミナが１番ありそうなのは…
-Chole	クリン
 Finally, the most intelligent one is…	最後に、クリンが見たところ１番かしこそうなのは…
-Chole	クリン
 There are no Chocobos.	ねぇ、チョコボ１匹もいないよ
-Chole	クリン
 Hey, there's only one Chocobo.	ねぇ、チョコボ１匹しかいないよ
 Chole's Memo #1	クリンのメモ１
 Other than regular Chocobo, there are Mountain Chocobo' and 'River-Chocobo'.	チョコボには普通のチョコボ以外に『山チョコボ』と『川チョコボ』がいるんだって。

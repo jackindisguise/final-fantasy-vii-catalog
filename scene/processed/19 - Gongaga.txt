@@ -1,15 +1,10 @@
 Gongaga Village	ゴンガガ
 Jungle	ジャングル
 Meltdown Reactor	メルトダウン魔晄炉
-Weapons Store	武器屋
-Item Store	アイテム屋
-Inn	宿屋
 Residence	民家
 Zack's Home	ザックスの実家
 Mayor's Home	村長の家
 Received "Titan" Materia!	『タイタン』のマテリアを手にいれた！
-Cannot take on anymore Materia.	これいじょうマテリアは持てません。
-Please discard some Materia.	なにかマテリアをすててください。
 Received "Deathblow" Materia!	『ひっさつ』のマテリアを手にいれた！
 Received "X-Potion"!	『エクスポーション』を手にいれた！
 Received "White M-phone"!	『ホワイトメガホン』を手にいれた！
@@ -18,24 +13,17 @@ Grandma	おばあさん
 Oh, you're right! Don't you know anything about our son?	あらあらホントだよ！あんたウチの息子を知らないかい？
 Grandpa	おじいさん
 His name is Zack.	ザックスっちゅう名前なんだが
-Grandma	おばあさん
 It's been close to 10 years since he left for the city, saying that he didn't want to live in the country…	こんなイナカじゃくらせないとか言い残して都会へいったままもう、かれこれ１０年近く……
-Grandpa	おじいさん
 He left saying he's going to join SOLDIER. You ever hear of a Zack in SOLDIER?	ソルジャーになるっちゅうて村を飛び出したんだあんた、知らないかい？ソルジャーのザックス
 Hmmm…I don't know.	さあ……知らないな
 Zack…	……ソルジャーのザックス……
-Grandpa	おじいさん
 Young lady, you know him?	娘さん、知ってるのかい？
-Grandma	おばあさん
 I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you?	そういえば６、７年前に手紙がきてガールフレンドができましたって書いてあったけど、あんたかい？
 …No, it wasn't.	……ちがいます
 Zack…	ザックス……
-Grandpa	おじいさん
-Do you know him, young lady?	娘さん、知ってるのかい？
 What a shock… I didn't know Zack was from this town.	……この村にザックスの家があるなんて知らなかったからびっくりしちゃった
 You know him?	知ってるヤツか？
 Didn't I tell you? He was my first love.	いつか話さなかった？わたし、初めて好きになった人
-…	…………
 Zack… SOLDIER First Class. Same as CLOUD.	ザックス……ソルジャー・クラス１ＳＴ。CLOUDと同じ
 Strange, there aren't that many who make First Class, but I've never heard of him.	クラス１ＳＴなんて何人もいないはずだ。でも俺は知らないな
 That's all right. It's all in the past now. I was just worried because I heard he's been missing.	別にかまわないの。むかしのことだしね。ただ、行方不明だから心配なだけ
@@ -51,13 +39,10 @@ I'm kidding. I'm sorry.	な～んて、ごめんね
 I was hoping maybe you were…	そうだったらうれしい……かな
 AERIS…	AERIS……
 Let's go, CLOUD.	行きましょ、CLOUD
-Zack…	ザックス……
 Do you know him?	知ってるのか？
 N, no, I don't know him!	い、いいえ、知らないわ！
 Your face tells me differently.	いかにも知ってるって顔してるぞ
 I told you, I don't!	知らないんだってば！
-All right.	わ、わかったよ
-…	…………
 That sounds just like you, leaving town, and saying I'm joining SOLDIER!'.	でもさ、ソルジャーになるっ！なんて言い残して村を出たなんてまるでCLOUDみたいね
 There were a lot of guys like that back then.	あのころは、そういうヤツがたくさんいたんだろうな
 You must really be something making it in SOLDIER out of a group like that.	そんなたくさんのなかからソルジャーになるなんてCLOUD、えらいえらい
@@ -78,21 +63,12 @@ Hear a story?	話を聞きたい
 Nothing in particular	特に用事はない
 Huh, did you want something?	え……何の用かしら？
 Buy accessories?	アクセサリーを買いたい
-Hear a story?	話を聞きたい
-Nothing in particular	特に用事はない
 Uh, need somethin'?	ああ……何か用か？
 Need a room?	宿泊したい
-Hear a story?	話を聞きたい
-Nothing in particular	特に用事はない
 Oh, you here to shop?	おお……買いものにきたのか？
 Buy items?	アイテムを買いたい
-Hear a story?	話を聞きたい
-Nothing in particular	特に用事はない
-Mayor	村長
 This is Gongaga Village. Many people died here in a Mako reactor explosion.	ここは、ゴンガガ村。魔晄炉の爆発事故のために多くの人々を失った村じゃ
-Mayor	村長
 The Shinra people told us that everyone would be happy once the reactor was built. But all it brought us was sadness…	神羅のものたちは、魔晄炉ができれば幸せになると言いおった。しかし、魔晄炉はわしらに悲しみしか与えなかった……
-…	…………
 Shinra built the reactor, without even thinking about the town's safety. And, this is the result.	神羅のやつらは、村の安全など考えずに、魔晄炉を建設した。その結果が、これさ
 One day, a huge explosion. killed many of the townspeople…	ある日、魔晄炉が大爆発を起こした。その事故に巻きこまれて多くの村人が死んでしまった……
 It's been a while since the explosion, but you can still find the pieces it left all over town.	魔晄炉の爆発事故が起こってからずいぶんたつが、そのつめあとはいまだに村のあちこちに残っている
@@ -102,12 +78,10 @@ No matter how much I pray, it won't bring our grandson back…	いくら　い�
 …You don't have enough money. Come back when you get some.	……金が足りないな。金をためてから、来るんだな
 It's 80 Gil a night.	一泊８０ギルだぜ
 Pay up	８０ギル払う
-Don't pay	払わない
 There's something shiny back there…	奥の方に、何か光るものがある……
 Don't do anything	何もしない
 Reach for it	手をのばしてみる
 A ruined reactor.	壊れた魔晄炉……
-AERIS…	AERIS……
 TIFA… What happened?	TIFA……いったい、どうしたんだ？
 What happened to you two?	ふたりとも、どうしたんだ？
 …Zack.	……ザックス
@@ -115,20 +89,16 @@ Zack. I don't know anything about that man.	ソルジャーのザックス。お
 …But That name sounds familiar…	しかし……その名前には、聞き覚えがある……
 Why?	なぜだ……！？
 That can't…	そんな……
-Grandpa	おじいさん
 Have you ever met someone in SOLDIER named Zack?	なあ、あんたザックスっちゅうソルジャーに会ったことはないかの？
-Grandma	おばあさん
 I can't believe he hasn't contacted us in 10 years…! …After all, we're his parents.	１０年も連絡もよこさんとは……なんちゅう息子じゃ
 It's 300 Gil a night.	一泊３００ギルだぜ
 Pay 300 Gil	３００ギル払う
-Don't pay	払わない
 I am a traveling salesman, going around the world.	わたしは、世界を旅する行商人。
 I came because I heard that near this village was Materia strong enough to shake the earth.	このゴンガガ村の近くに『大地をゆるがす力を持つマテリア』があると聞いて、来てみたのだが……
 Even I get homesick and want to see my family.	そんなわたしだが、むしょうに家族に会いたくなることがある
 I have a favor to ask of you. Can you get this letter to my lovely wife?	そこであなたに、たのみがある。どうかわたしの愛する奥さんにこの手紙をとどけてもらいたい
 Will you do it for me?	おねがいできるだろうか？
 Take the letter	手紙を受け取る
-Not interested	興味ないね
 My wife lives in Kalm. I really appreciate this.	わたしの愛する奥さんはカームの町に住んでいる。どうか、よろしくたのむ
 What's going on in a world about to end? Is kindness the first to vanish?	なんということだ……死が目前に迫っているこの世界ではもはや人情もかれはてたか……
 They sell the weapons on the second floor. Climb up the pole to get there.	武器は、２階で売っているわ。そこの柱をのぼってちょうだい
@@ -150,47 +120,28 @@ Can't time pass without unhappiness?	時代は、不幸なしに越えること�
 Hey, CLOUD. How did the Turks know to wait and ambush us here?	ねぇ、CLOUD。どうしてタークスは、オイラたちをまちぶせできたのかな
 …You'd think someone told the Shinra about us?	……だれかが、オイラたちのことを神羅に知らせているのかな
 …Is someone there?	……誰かいる
-Reno	レノ
 Hey, Rude. Who do you like?	なあ、ルード。あんた、誰がいいんだ？
-Reno	レノ
 What are you getting so embarrassed about? Come on? Who do you like?	なに赤くなってるのかな、と。ん？　誰がいいのかな？
-Rude	ルード
 …TIFA.	……………TIFA
-Reno	レノ
 Hmm…	な、なるほど……と
-Reno	レノ
 That's a tough one.	つらいところだな、あんたも
-Reno	レノ
 But, poor Elena. She…you…	しかし、イリーナもかわいそうにな。あいつ、あんたのこと……
-Rude	ルード
 No, she likes Tseng.	いや、あいつはツォンさんだ
-Reno	レノ
 I never knew that! But Tseng likes that Ancient…	そりゃ初耳だな、と。だってツォンさんはあの古代種……
 What are they talking about?	あいつら何の話してるんだ？
-Elena	イリーナ
 It's so stupid!	ホント、くだらない！
 They always talk about who they like or don't like. But Tseng is different.	先輩たち、いつでも誰が好きとかキライとかそんな話ばっかりなんですよ。ツォンさんは別ですけど
-Elena	イリーナ
 Ah! Oh no!	あ！　いけない！
-Elena	イリーナ
 They're here! They're really here!	先輩たち！来ました！あの人たち、ホントに来ましたよ！
-Reno	レノ
 Hmm… Then it's time…	そうか……出番だな、と
-Reno	レノ
 Rude…don't go easy on them even the girls.	ルード……あの娘がいても手を抜くなよ、と
-Rude	ルード
 …Don't worry, I'll do my job.	……仕事はちゃんとやるさ
-Elena	イリーナ
 Then, we're counting on you. I'll report to Tseng!	じゃ、先輩たち。あとはよろしくおねがいします。私はツォンさんに報告にいきま～す！
-Reno	レノ
 It's been a while.	久しぶりだな、と
-Reno	レノ
 Payback time for what you did in Sector 7.	７番街の借りを返すぞ、と
 Sector 7?	７番街……忘れたな
 Out of our way	ジャマだ……どこか行け
-Reno	レノ
 That's sad.	それはさびしいな、と
-Reno	レノ
 I don't like being taken for a fool.	なめられるのは嫌いだな、と
 Hey, something seems wrong, Like they knew we were coming.	ねえ、なんか変じゃない？待ちぶせされてたみたいよ
 …How could they know we were coming here.	……どうしてわかったのかな？わたしたち、ここに来ること
@@ -210,7 +161,6 @@ I hate this. Now everyone's gonna blame me because I'm new.	たまらんなぁ�
 It means there's a Shinra spy…	神羅の手先がいる……ということか？
 I don't even want to think about there being a spy…	スパイがいるなんて考えたくもない……
 I trust everyone.	俺はみんなを信じるよ
-Rude	ルード
 That's as far as you go.	これ以上、先には進ませない
 Man, looks like they've taken a short cut.	気にくわねぇな。先回りされてるみてぇだ
 And a couple of Shinra dogs are here too!	けっ、神羅のイヌがいるってのかよ！
@@ -221,37 +171,23 @@ But I can't let 'em do that. That's why I formed AVALANCHE to fight 'em.	オレ�
 …Yo, CLOUD You still gonna fight with us, right?	……なあ、CLOUDこれからもオレたちと一練に戦ってくんだろ？
 We need you, man.	オレたちにゃ、おまえが必要なんだ
 You got it	任せておけ
-Not interested	興味ないね
 Thanks, man.	ありがとうよ
 …!!	…………！！
 I never shoulda believed you.	おまえなんかに期待したオレがバカだったよ
-Scarlet	スカーレット
 This reactor's a failure.	ここの魔晄炉は失格ねえ
 What I'm looking for is big, large, Huge Materia. You seen any?	私が探してるのはビッグでラージでヒュージなマテリアなのよ。あなた知らない？
-Tseng	ツォン
 …No I haven't seen it. I'll get on it right away.	……存じません。さっそく調査します
-Scarlet	スカーレット
 Please. We could make the ultimate weapon if we only had some.	おねがいね。それがあれば究極の兵器がつくれそうなのよ
-Tseng	ツォン
 I just can't wait.	それは楽しみですね
-Scarlet	スカーレット
 With Hojo gone, the Weapon Development's been getting a bigger budget.	宝条がいなくなったおかげで私の兵器開発部に予算がた～っぷりまわってくるの
-Tseng	ツォン
 I envy them.	うらやましいかぎりです
-Scarlet	スカーレット
 But, even if we make the perfect weapon, could that stupid Heidegger even use it?	でもね、せっかく完璧な兵器をつくってもあのバカのハイデッカーに使いこなせるのかしら
-Tseng	ツォン
-…	…………
-Scarlet	スカーレット
 Oh…sorry! I forgot Heidegger was your boss! Ha ha ha!	あら、ごめんなさい！ハイデッカーはあなたの上司だったわね！キャハハハハ！
-Scarlet	スカーレット
 Let's go!	行きましょ！
 …Big, large, Huge Materia?	ビッグでラージでヒュージなマテリア？
 An ultimate weapon? The perfect weapon?	究極の兵器？完璧な兵器？
 Just what are the Shinra up to?	神羅め、今度は何を始めるつもりなんだ……
 It's Scarlet, Head of Shinra Weapon Development.	神羅の兵器開発部部長スカーレットのおでましか--
-Scarlet	スカーレット
 Hmph! This isn't any good either.	……フンッ！ここもダメだわ
 You only get junky Materia from junky reactors.	チンケな魔晄炉にはチンケなマテリアしかないみたいね
-Reno	レノ
 This is just part of the job. Don't take it personally.	これも仕事だ。悪く思うなよ、と

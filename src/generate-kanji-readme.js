@@ -2,7 +2,7 @@
 const fs = require("fs");
 
 // local consts
-const inputSceneFolder = "../scene/processed/";
+const inputSceneFolder = "../scene/formatted/";
 const inputNewFolder = "../kanji/new/";
 const inputUniqueFolder = "../kanji/unique/";
 const outputComprehensiveFile = "../kanji/README.md";

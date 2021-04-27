@@ -1,14 +1,8 @@
 Kalm	カーム
-Weapon Store	武器屋
-Item Store	アイテム屋
-Bar	酒場
-House: 1f	民家１階
-House: 2f	民家２階
 Rear Tower (Pagoda)	裏の塔
 Inn: 1f	宿屋１階
 Inn: 2f	宿屋２階
 CLOUD's Past	CLOUDの過去
-Received "Ether"!	『エーテル』を手にいれた！
 Received "Peacemaker"!	『ピースメーカー』を手にいれた！
 Received "Guard Source"!	『ガードアップ』を手にいれた！
 …Dropped "Megalixir"!	……『ラストエリクサー』が落ちてきた！
@@ -16,8 +10,6 @@ Received "Underwater" Materia!	『せんすい』のマテリアを手にいれ�
 Received "Master Magic" Materia!	『マスターまほう』のマテリアを手にいれた！
 Received "Master Command" Materia!	『マスターコマンド』のマテリアを手にいれた！
 Received "Master Summon" Materia!	『マスターしょうかん』のマテリアを手にいれた！
-Cannot take on anymore Materia.	これいじょうマテリアは持てません。
-Please discard some Materia.	なにかマテリアをすててください。
 Empty…	からっぽだ……
 Can't reach it…	手がとどかない……
 This is Kalm.	ここが、カームだ
@@ -50,7 +42,6 @@ Stay out of the kitchen.	ちゅうぼうに入ってこないでおくれ
 I heard President Shinra was killed. And his son Rufus, the new president, was badly hurt.	プレジデント神羅が殺されたそうだな。それに息子のルーファウス新社長も大ケガしたっていうじゃないか
 Hey, I bet that's news to you?	どうだ、初耳だろ？
 You're pretty smart!	おっ、事情通！
-Don't care…	興味ないね
 Heh, heh…Just between us… I heard it was them Ava-whaddya call-ums that got President Shinra and his son.	ふふふ……ここだけの話だが神羅親子を襲ったのはアバラなんとかいう組織だって話だぜ
 Don't care? If you're going to travel, you'd best keep an eye on what Shinra's doing.	関心なしか？旅をするなら神羅カンパニーの動きには注目したほうがいいぜ
 When I grow up I'm gonna be in SOLDIER. That's why I'm training hard now!!	ぼく、大きくなったら神羅のソルジャーになるんだ！そのために、いまからモウクンレンしてるんだ！！
@@ -68,11 +59,8 @@ Mako energy's made things a lot more convenient…	魔晄エネルギーのお�
 But a lot of plants and animals have been disappearing at a rapid pace.	でも、そのかわりに動物や植物がどんどんへっているような気がするわ
 I think the old life was better.	わたしは、むかしの方がよかったんじゃないかと思うの
 Don't you think so?	ね、そうよね？
-Yeah, maybe	そうかもしれない
-No way	そんなことはない
 Yeah, sure I'm right! You think so, don't you?	そうでしょ？　そう思うわよね
 That's just what my mom said.	お母さんとおなじことを言うのね
-Yeah, Mako energy's made life much easier. And it's all thanks to Shinra, Inc.	魔晄エネルギーのおかげで生活が色々と便利になったわ。神羅さまさまよね
 Things were better when you could play with animals…	私は、動物とあそべたころの方がよかったと思うわ……
 Listen to me! Something really big's happening in Midgar.	あっ、聞いてくれよ！なんかミッドガルにでっかい大砲がついちゃって、すごい事になっているよ
 They were just saying on TV it was Rufus' second strategy and…	テレビによると、ルーファウスの２つめの作戦だとか……
@@ -89,8 +77,6 @@ Yeah, well either way, as long as we use reactors, we can't stand up to Shinra.	
 There was a suspicious-looking man in a black cloak! He was carrying a mean-looking sword.	怪しい黒マントの男がこの町にいたんだ！ぶっそうな刀なんか持ち歩いてさ
 They say Midgar's in the middle of a war between the Shinra and some terrorists called AVALANCHE.	ミッドガルじゃ、神羅とアバランチとかいうヤツらが戦争しているそうじゃないか
 20 gil a night. What's it gonna be?	一泊、２０ギルです。とまっていかれますか？
-Stay?	はい
-Move on	いいえ
 Mr…CLOUD? Your party is waiting for you on the 2nd floor.	CLOUDさまですね。お連れさまが２階でお待ちです
 Shinra's leading the world around by the nose, and you guys are just gonna sit back and take it?	この世界は、神羅カンパニーの動きにふりまわされているのさ。あんたたちも、それを受け入れる事だな
 Me? I used to work in a mine down south called Mythril Mine	オレはよぉ、この町の南にある鉱山【ミスリルマイン】で働いていたんだ
@@ -103,7 +89,7 @@ Listen to me! Just now, some guy in a black cloak walked east towards that grass
 He's got this killer sword, and looks REAL scary…	ぶっそうな刀なんか持ち歩いてさ。なんか、おっかないヤツだったよ……
 Aw, c'mon! Listen to me! Got anything interesting to say?	あっ、聞いてくれよ！
 Locked. Can't open it…	何か、おもしろいことでもないかなぁ……？
-I gotta hurry up and get strong so I can crush Meteor to bits! But I gotta train real hard to do it.	カギがかかっていて、開かない……　
+I gotta hurry up and get strong so I can crush Meteor to bits! But I gotta train real hard to do it.	カギがかかっていて、開かない……
 Oh man, oh man!	ぼく、はやく強くなってメテオをぶっこわしてやるんだ！そのために、いまからモウクンレンするんだ！！
 Meteor's gonna fall on us, and now some huge monster like I've never seen is wandering around out there!	見たことも聞いたこともないようなでっかいモンスターはうろつきまわるしメテオは落っこってくるし……
 What's going to happen to all of us?	あ～、ボクたちはどーなってしまうんだ～～～～～！！
@@ -112,9 +98,7 @@ Listen, I work hard…and now you're tellin' me Meteor's gonna smash everything 
 Well, I ain't standin' around listenin' to fool talk like this. Makes a person lose the will to work, that's what it does!	ケッ、ばからしくて、やってられっかよ。まじめに働く気なんか失せちまったぜ
 What're ya, dense? Something like that'll never happen! It's ridiculous!	ケッ、やってらんねーよ。ばからしいったら、ありゃしねぇ
 And all of Midgar's gonna be destroyed by a falling meteor? Oh, don't make me laugh!	ミッドガルじゃ、メテオを破壊しようとおおわらわらしいぜ
-There's been a number of scary incidents lately. I hate it. Just hate it!	最近、ぶっそうな事が多いよな。やだ、やだ
 I heard the remaining members of AVALANCHE smashed the Shinra troops at Midgar.	ミッドガルじゃ、アバランチの残堂が神羅カンパニーを叩きつぶしたらしいぜ
-Lately, there's been a number of scary incidents. I hate it. Just hate it!	最近、ぶっそうな事が多いよな。やだ、やだ
 They say the remaining members of AVALANCHE broke Shinra's resistance and destroyed the Mako cannon at Midgar.	ミッドガルでは、アバランチの残堂が神羅カンパニーの抵抗をはねのけて魔晄キャノンを破壊したという話だ
 What's going to happen to the world?	これから、この世界はどうなってしまうのだろう……
 I heard Shinra's taking it's biggest artillery from Junon and other facilities and gathering it in Midgar to fight Meteor and Weapon.	神羅カンパニーは、メテオやウェポンに対抗するため、各地の施設から役にたちそうなものを、ジュノンやミッドガルに集めているという話だ
@@ -130,32 +114,17 @@ They say Meteor's going to fall, but that's okay! I'm sure Shinra'll come throug
 Dear, can you believe it? They say that Shinra's gone under!!	あなた、信じられる！？あの神羅カンパニーがつぶれちゃったんですって！！
 This world is coming to an end all because some terrorists called AVALANCHE stuck their noses in the wrong place!	アバランチなんていうテロリストが余計なことしてくれたおかげでもう、この世はおしまいよ
 I can't believe Meteor's really falling this way… What's going to happen to us?	メテオが落ちてくるなんて……わたしたちは、どうなってしまうのかしら？
-I can't believe Meteor's really falling this way… What's going to happen to us?	メテオが落ちてくるなんて……わたしたちは、どうなってしまうのかしら？
 Meteor's coming, right? Where will I stash my money? Wait, maybe I'd better take it with me and get out of here!	メテオが落ちてくるんでしょ？ヘソクリ、どこにかくそうかしら……いや、それよりもヘソクリを持ってどこかへ逃げ出した方がいいのかしら？
 One night, 300 gil. Wanna check in?	一泊、３００ギルです。とまっていかれますか？
-Yes	はい
-No	いいえ
 Tourists, huh? Here are a few things you should know that will come in handy when you travel around the world…	ん？　あんた、旅行者だね。世界を旅する時に知っておくと役立つことがあるのだけれど……
 Want to hear what they are?	教えて欲しいかい？
-Tell me	はい
-I already know	いいえ
 Then let me explain how to use the world map.	それじゃ、ワールドマップでのコントローラ操作について説明してあげるとしよう
 Well then, what do you want to know?	さて、何を教えてあげようか？
 Changing camera angles	視点の切替について
 Map indicators	地図の表示について
 Operating the buttons	ボタン操作について
 Anything else you'd like to know?	他に何か、ききたいことがあるかい？
-Map indicators	地図の表示について
-Operating the buttons	ボタン操作について
 Nope, I got it	もう、いいです
-Anything else you want to ask?	他に何か、ききたいことがあるかい？
-Changing camera angles	視点の切替について
-Operating the buttons	ボタン操作について
-No, that's all	もう、いいです
-Anything else you want to ask?	他に何か、ききたいことがあるかい？
-Changing camera angles	視点の切替について
-Map indicators	地図の表示について
-No, that's all	もう、いいです
 First press [CAMERA] to change the camera angle.	まず、ワールドマップではコントローラの【Ｌ２ボタン】を押すと視点を変えることができる
 There are 2 angles to choose from, select the one you like.	選べる視点は２種類あるから自分の好きな方を選ぶといいね
 Then rotate the camera either way by pressing [PAGEUP] or [PAGEDOWN].	そして【Ｌ１ボタン】や【Ｒ１ボタン】を押してやれば、視点を左右に回してやることができるんだ
@@ -213,14 +182,8 @@ How about it?	どうじゃ？
 Trade	交換する
 Don't trade	交換しない
 OH! It's "Desert Rose"! Wanna trade it for that Chocobo over there?	おお、それは【デザートローズ】！ワシのペットの【チョコボ】と交換せぬか？
-How about it?	どうじゃ？
-Trade	交換する
-Don't trade	交換しない
 OH! It's the Earth Harp! Wanna trade it for some Master Materia?	おお、それは【アースハープ】！ワシの持っている【マスターマテリア】と交換せぬか？
 I'm not bein' stingy either! I'll give you all three of 'em!	１個なんてケチな事は言わん！３個セットにして渡すぞ
-How about it?	どうじゃ？
-Trade	交換する
-Don't trade	交換しない
 Ok then, it's a done deal!	よし、交換成立じゃな
 I dunno…	何が不満なんじゃ……
 it's Underwater Materia. Go on, it's yours!	【潜水マテリア】じゃ。持っていってくれ

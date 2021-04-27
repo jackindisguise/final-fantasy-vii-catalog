@@ -12,7 +12,3 @@
 | 10 | I don't care what's goin' on. Let's just go! | なんでもいいからさっさと行くぞ！ |
 | 11 | The Temple of the Ancients… This might be pretty interesting… | 古代種の神殿か……非常に興味深いな |
 | 12 | I'm so excited, my tail's starting to tingle. Let's go, CLOUD! | なんか、シッポにビンビンくるよ。行こう、CLOUD！ |
-| 13 | Hotel Lobby | ホテルロビー |
-| 14 | [Turtle's Paradise] | 【かめ道楽　通信】 |
-| 15 | No. 3 | ナンバー３ |
-| 16 | Forget the bad times with a nice drink… Only thing missing in Gold Saucer is…… A pub with good drinks and a great atmosphere! Stop in the "Turtle's Paradise"! | ゴールドソーサーにただひとつ、たりないもの……それはおいしいお酒とムードのある居酒屋！ぜひいちど居酒屋『かめ道楽』へ！！ |

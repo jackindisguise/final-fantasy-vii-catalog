@@ -1,6 +1,6 @@
 {
 	"unique": 980,
-	"total": 42538,
+	"total": 42550,
 	"table": [
 		{
 			"kanji": "行",
@@ -30,12 +30,12 @@
 		{
 			"kanji": "神",
 			"order": 6,
-			"occurrences": 634
+			"occurrences": 638
 		},
 		{
 			"kanji": "羅",
 			"order": 7,
-			"occurrences": 533
+			"occurrences": 537
 		},
 		{
 			"kanji": "参",
@@ -455,7 +455,7 @@
 		{
 			"kanji": "兵",
 			"order": 91,
-			"occurrences": 131
+			"occurrences": 135
 		},
 		{
 			"kanji": "来",

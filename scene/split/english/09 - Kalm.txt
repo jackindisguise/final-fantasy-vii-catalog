@@ -1,14 +1,8 @@
 Kalm
-Weapon Store
-Item Store
-Bar
-House: 1f
-House: 2f
 Rear Tower (Pagoda)
 Inn: 1f
 Inn: 2f
 CLOUD's Past
-Received "Ether"!
 Received "Peacemaker"!
 Received "Guard Source"!
 …Dropped "Megalixir"!
@@ -16,8 +10,6 @@ Received "Underwater" Materia!
 Received "Master Magic" Materia!
 Received "Master Command" Materia!
 Received "Master Summon" Materia!
-Cannot take on anymore Materia.
-Please discard some Materia.
 Empty…
 Can't reach it…
 This is Kalm.
@@ -50,7 +42,6 @@ Stay out of the kitchen.
 I heard President Shinra was killed. And his son Rufus, the new president, was badly hurt.
 Hey, I bet that's news to you?
 You're pretty smart!
-Don't care…
 Heh, heh…Just between us… I heard it was them Ava-whaddya call-ums that got President Shinra and his son.
 Don't care? If you're going to travel, you'd best keep an eye on what Shinra's doing.
 When I grow up I'm gonna be in SOLDIER. That's why I'm training hard now!!
@@ -68,11 +59,8 @@ Mako energy's made things a lot more convenient…
 But a lot of plants and animals have been disappearing at a rapid pace.
 I think the old life was better.
 Don't you think so?
-Yeah, maybe
-No way
 Yeah, sure I'm right! You think so, don't you?
 That's just what my mom said.
-Yeah, Mako energy's made life much easier. And it's all thanks to Shinra, Inc.
 Things were better when you could play with animals…
 Listen to me! Something really big's happening in Midgar.
 They were just saying on TV it was Rufus' second strategy and…
@@ -89,8 +77,6 @@ Yeah, well either way, as long as we use reactors, we can't stand up to Shinra.
 There was a suspicious-looking man in a black cloak! He was carrying a mean-looking sword.
 They say Midgar's in the middle of a war between the Shinra and some terrorists called AVALANCHE.
 20 gil a night. What's it gonna be?
-Stay?
-Move on
 Mr…CLOUD? Your party is waiting for you on the 2nd floor.
 Shinra's leading the world around by the nose, and you guys are just gonna sit back and take it?
 Me? I used to work in a mine down south called Mythril Mine
@@ -112,9 +98,7 @@ Listen, I work hard…and now you're tellin' me Meteor's gonna smash everything 
 Well, I ain't standin' around listenin' to fool talk like this. Makes a person lose the will to work, that's what it does!
 What're ya, dense? Something like that'll never happen! It's ridiculous!
 And all of Midgar's gonna be destroyed by a falling meteor? Oh, don't make me laugh!
-There's been a number of scary incidents lately. I hate it. Just hate it!
 I heard the remaining members of AVALANCHE smashed the Shinra troops at Midgar.
-Lately, there's been a number of scary incidents. I hate it. Just hate it!
 They say the remaining members of AVALANCHE broke Shinra's resistance and destroyed the Mako cannon at Midgar.
 What's going to happen to the world?
 I heard Shinra's taking it's biggest artillery from Junon and other facilities and gathering it in Midgar to fight Meteor and Weapon.
@@ -130,32 +114,17 @@ They say Meteor's going to fall, but that's okay! I'm sure Shinra'll come throug
 Dear, can you believe it? They say that Shinra's gone under!!
 This world is coming to an end all because some terrorists called AVALANCHE stuck their noses in the wrong place!
 I can't believe Meteor's really falling this way… What's going to happen to us?
-I can't believe Meteor's really falling this way… What's going to happen to us?
 Meteor's coming, right? Where will I stash my money? Wait, maybe I'd better take it with me and get out of here!
 One night, 300 gil. Wanna check in?
-Yes
-No
 Tourists, huh? Here are a few things you should know that will come in handy when you travel around the world…
 Want to hear what they are?
-Tell me
-I already know
 Then let me explain how to use the world map.
 Well then, what do you want to know?
 Changing camera angles
 Map indicators
 Operating the buttons
 Anything else you'd like to know?
-Map indicators
-Operating the buttons
 Nope, I got it
-Anything else you want to ask?
-Changing camera angles
-Operating the buttons
-No, that's all
-Anything else you want to ask?
-Changing camera angles
-Map indicators
-No, that's all
 First press [CAMERA] to change the camera angle.
 There are 2 angles to choose from, select the one you like.
 Then rotate the camera either way by pressing [PAGEUP] or [PAGEDOWN].
@@ -213,14 +182,8 @@ How about it?
 Trade
 Don't trade
 OH! It's "Desert Rose"! Wanna trade it for that Chocobo over there?
-How about it?
-Trade
-Don't trade
 OH! It's the Earth Harp! Wanna trade it for some Master Materia?
 I'm not bein' stingy either! I'll give you all three of 'em!
-How about it?
-Trade
-Don't trade
 Ok then, it's a done deal!
 I dunno…
 it's Underwater Materia. Go on, it's yours!

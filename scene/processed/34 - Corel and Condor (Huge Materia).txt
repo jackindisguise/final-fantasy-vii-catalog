@@ -1,11 +1,8 @@
-Guard	兵士
 You guys are…	きさまたちは！
 Guess we're safe for now…	間一髪セーフってトコか！
 Da---mn!	おわ～ッ！
 Ohh!	あ、あ～っ！
-Wa…wait!	ちょ、ちょっと！
 Wha…what is it, what is it?	な、なんやなんなんや！
-!!	！！
 Looks like they're takin' off with the Huge Materia in that train!	ほ～お！列車でヒュージマテリアを持ち逃げってすんぽうかい
 NO! You damn boneheads!	ええい！くそったれが！
 Did the Shinra beat us!?	オイラたち、神羅に先をこされちゃったの！？
@@ -37,11 +34,8 @@ All right! We're gonna jump!!	おっしゃ！とびうつるぜ！！
 DAMN!	ちっきしょう！
 Sorry! I couldn't catch them!	すまねえ！追い付けなかったぜ！
 Oh ^%$#&$! We're gonna crash into North Corel!	や、やべえ！北コレルに突っこんじまう！
-Guard	兵士
 What the? You…you guys!	ゲッ！き、きさまら！
 All right--- Hand over the Huge Materia!	さ～てと、おとなしくヒュージマテリアをわたしな！
-Guard	兵士
-Sh…	クッ……
 Whooooa----!	うおお～！
 You got guts comin' after me!	このCID様に向かって来るたあいい度胸だ！
 I'll never forget you!	おまえのことは忘れないぜ……
@@ -66,9 +60,7 @@ Hey…HEY HEY!!	お、おいおい！！
 WHOOOOOO----A!!	うわ～ッ！！
 Get serious, you OLD MAN!!	ふざけろ！オヤジ～ッ！！
 No…DON'T----!!	あ、あかんて～！！
-…!!	……！！
 SH--------!!	ク……ソったれえ！！
-North Corel	北コレル
 Of…of course! We're all born and raised in the coal mines!!	あ…あたりめぇじゃねぇか！オレたちゃ炭坑生まれの炭坑育ち！！
 No matter how tough it gets, our hearts burn bright red like coal!	どんなにつらい時でもハートだけは石炭のように真っ赤に燃え続けているんだ！
 Aren't you the ones that stopped the Shinra Train?	あんたたちだろ神羅の列車を止めてくれたのは？
@@ -83,17 +75,8 @@ To hell with Meteor! We're Coal Miners, ain't we?	メテオがなんだってん
 We'll dig a deep tunnel and hide from the Meteor!	長～いトンネルをほってメテオから逃げのびてやらあ！
 You guys are really something!	あんたたちたまげたもんだぜ！
 You sure are brave. I'm impressed!	勇気があるねぇ。たいしたもんだよ！
-Weapon Shop	武器屋
-You'll need weapons from our store, if you want to survive.	生き抜いていくにはこの店の武器が必要だぜ
-Accessory Shop	道具屋
-Please buy something. Anything!	何でもイイ買ってちょうだい！
 If you see anything you like, buy it.	気に入ったたら買ってくれ
-I got it out of the well. Isn't it an amazing rock!!	イドの中からひろい上げたんだ。きっとスゴ～イ石だよ！！
-Whoops… You can't hold any more.	あれれ、おじさん？それじゃ、持ちきれないよ
-Here, I'll keep some in my pocket and you can come by later and get it, OK?	ポケットにしまっておくからまた、あとで取りにきてね！
-Received "Ultima" Materia!	『アルテマ』のマテリアを手にいれた！
 Received Key Item "Huge Materia"!	キーアイテム『ヒュージマテリア』を手にいれた！
-North Corel	北コレル
 We've lost everything… Now we have to start again from ' 1'…no, from ' 0'.	もう何もかも失ってしまったな…１から……いや０から、やり直すとするか
 God, what have we done?	オレたちが何をしたっていうんだ…神さまよぅ……
 Well, no use just sitting around talking about it. What can we do to get things back to normal?	なんて言ってもしかたねぇか。なぁ、どうすりゃ立ち直れるかな？
@@ -102,43 +85,19 @@ The train's crashing in	列車がつっこんで来るで～
 Thank you, God, the train stopped.	神さまアリガトウ、列車が止まった
 It didn't do any damage.”	なんにもしなかった」
 I heard that kid found something that glows.	あのボウズが何か光るものをひろったって言ってたぜ
-Hey, what's this world coming to …?	よぉ、世の中は今どうなってんだい……
-Even the Gold Saucer is closing. So does that mean there's no time to be playing around?	ゴールドーソーサーが閉園になるんだから、遊ぶ気分じゃないってところなのか？
-Hey, the Golden Saucer reopened!	よぉ、ゴールドソーサーが再開したんだぜ！
-I guess that means we should play hard to forget about Meteor.	メテオのことを頭から消すには遊んで忘れるしか無いってことか
-Weapon Shop	武器屋
 My store was all right!	オレの店はブジだったぜ！
-Accessory Shop	道具屋
 I have a tool shop, but I don't have any tools to fix my store…	せっかく道具屋やってんのに店をなおす道具がナイんだ…
 Yay! My house is finished!!	ワーイ！ボクのおうちができたー！！
 Um… where was the next train station?	えっと、次の駅はどこじゃったかな？
 ^$#@%$ ! We couldn't stop the train…	ちきしょう！　なんてこった……列車を止められなかったばかりに……
-The Huge Materia that Shinra is after… The last one left is at the Junon Underwater reactor.	神羅の狙う、ヒュージマテリア……残るはジュノンの海底魔晄炉のみだな
-Even if they are the Shinra, they should have a hard time with us getting in their way.	いくら神羅でも、ことごとくオレ様たちの邪魔が入って、しん重になっているはずだ
-I don't think we have to hurry that much… …I just can't get that guy out of my head.	そんなに急がなくてもいいと思うぜ…………それよりオレ様はあいつが気がかりで、しょうがねえんだ！
-Yeah, and I'm worried how TIFA's doing, too.	ああ、それにTIFAもどうしてるか心配だしな。
-Maybe we should go to Mideel to see how they are doing…	ちょっと様子を見に戻ってみるか【ミディール】へ……
 We have to do something about Shinra! Sick of hearin' about sad things like this!	神羅をなんとかしなくちゃ！もうこんな悲しいことはたくさんよ！
 I did it again… I can't keep up with this.	また、やっちまった……こんなの……つぐないきれねぇよ
-We'll get there before 'em!	先まわりしてやるぜ！
-CLOUD…	CLOUD……
 I could never forgive Shinra!	オ、オイラ神羅をゆるせない！
-We HAVE to stop them!!	絶対に止めなきゃ！！
-You must be talking about CLOUD…	CLOUDのことだね……
 I'd be sad if this place was my hometown…	アタシの故郷がこんなことになったら悲しいだろな……
-We've got to hurry and stop them!!	急いで、止めなきゃ！！
-You must mean CLOUD…	CLOUDのことだろ……
 We got into this situation because we goofed…	ボクらがミスったばっかりにこんなことになるやなんて……
-Are we heading out to the Underwater reactor?	海底魔晄炉に行くんでっか？
-CLOUD…	CLOUDさん……
 A spectacular sight…	すさまじい光景だな……
-Are we going to the Underwater reactor?	海底魔晄炉に行くのか？
-CLOUD…	CLOUDか……
-Received "Ultima" Materia!	『アルテマ』のマテリアを手にいれた！
 I got a glowing rock from the well.	イドから光る石をひろったんだ
 I'll sell it to you for 50000 gil!	５００００ギルでなら売ってあげてもイイよ！
-Buy it	買う
-Don't buy it	買わない
 You don't have enough money! Don't try to take advantage of me just because I'm a kid!!	お金が足りないじゃないか！子供だからってバカにするない！！
 I wish someone would buy this rock off of me…	だれか、この石を買ってくれないかなぁ～
 Huh? You have lots of 'em!	あれれ？いっぱい、もってるじゃないか！
@@ -153,8 +112,6 @@ I doubt they'll fly right into action. I'm more concerned about him than anythin
 CLOUD, it's you.	CLOUDだな……
 Yes, it's you CLOUD.	CLOUDだね……
 It is you CLOUD.	CLOUDだよね……
-CLOUD…	CLOUDさん……
-CLOUD, it's you.	CLOUDだな……
 Yeah, and I'm worried that even TIFA's gonna fall over on her butt.	ああ、それにTIFAもぶっ倒れちまってんじゃねえかと心配でな
 Let's go back and see what's happening… to Mideel…	ちょっと様子を見に戻ってみるか……【ミディール】へ……
 Th, that light just now… The Condor… The egg…	い、今の光は……コンドルが……タマゴが……
@@ -166,7 +123,6 @@ Be sure and report to my father, too.	親父にも報告しておいてくれよ
 Oh, yeah. I found this just now on the battlefield. Maybe it'll come in handy for you guys.	そうそう、さっき戦場でいいものをみつけたんだよ。君たちの役にたてばいいな
 Received "Magic Comb"!	『マジックコーム』を手にいれた！
 Received "Peace Ring"!	『安らぎの指輪』を手にいれた！
-Received "Megalixir"!	『ラストエリクサー』を手にいれた！
 Received "Super Ball"!	『スーパーボール』を手にいれた！
 Received three "Tincture"!	『エーテル』を３個手にいれた！
 Received five "Potion"!	『ハイポーション』を５個手にいれた！
@@ -175,12 +131,9 @@ Received three "Elixir"!	『エクスポーション』を５個手にいれた�
 Received three "Elixir"!	『エリクサー』を３個手にいれた！
 top of the mountain	山の上
 Received "Phoenix" Materia!	『フェニックス』のマテリアを手にいれた！
-Cannot take on anymore Materia.	これいじょうマテリアは持てません。
-Please discard some Materia.	なにかマテリアをすててください。
 Everyone, thanks. I really mean it. Thanks.	みなさん、ありがとう。本当にありがとう
 Although there isn't anything we can give you, we'll make sure you can stop in and stay any time. So be sure to drop by.	差し上げられるものは、何もないのだがいつでも泊まれるようにしておくから使ってくれ
 Yes, yes, and there's one thing I forgot to tell you…	そうそう、それと言い忘れていたことが少し……
-This…is…	これは……
 What is this?	な～に？これは
 Damn man, it's Huge Materia.	おお、でっかいマテリアだ
 This Materia is really out-of-this-world!	このマテリア、すごい……
@@ -188,7 +141,6 @@ Wow, it's something!	これは、すごいよ！
 Huh? What's this?	あん？これがどうした？
 Gotta have that Materia!	お～っし！マテリアだ
 Hmm, you mean this?	ふんふんこれかいな
-This is…	これは……
 The truth is, this is the Materia inside the reactor.	実は、これがあの魔晄炉の中にあったマテリアなのですよ
 Then you're telling me we protected a reactor that didn't have any Materia inside?	じゃあ、俺たちはマテリアのない魔晄炉を守っていたわけか……
 If that's the case, then you should have told us. There may have been another way to fight Shinra.	それならそうと言ってくれなくちゃ。別な戦い方があったかもしれないわ
@@ -202,17 +154,7 @@ Besides, there was no guarantee we'd defeat Shinra.	俺たちだって絶対に�
 No, I think what happened is good. Cause we didn't know if we'd win.	いいえ、それで良かったと思います。私たちも、勝てるかどうかわかりませんでしたから
 Just forget about it. Anyway, we're still alive.	そんなこたぁ、もういいよ。とりあえずは、生きてるからな
 I see. If you put it that way… we're really grateful.	そうですか。そう言ってもらると……本当にありがとうございます
-So the last Huge Materia that Shinra's after's in the underwater reactor in Junon?	神羅が狙う、ヒュージマテリア……あとはジュノンの海底魔晄炉のみ、ってか？
-We gotta get there first and beat 'em no matter what!	先まわりして絶対に止めるんだ！
-We must get there before them and stop them!	先まわりして絶対に止めなきゃ
 We gotta get there and stop 'em…	先まわりして止めなきゃ……
 Getting to the reactor before them…	先まわり……か
-But ya know, Shinra's probably on high alert since we always mess with 'em.	でもよ、いちいちオレ様たちがジャマするからよ、神羅だって少しは警戒してるはずだぜ
-How 'bout we take a break and go see that little fella for a bit?	ここは、ちっとばかり間をおいてそのあいだに、アイツのところへ行ってみねえか？
-You mus' mean CLOUD.	CLOUDだな……
-You mean, CLOUD?	CLOUDだね……
-CLOUD, right?	CLOUDだよね……
-You must mean CLOUD.	CLOUDさん……
-You mean CLOUD?	CLOUDだな……
 Yeah, I'm worried 'bout TIFA. She may've collapsed takin' care of the guy.	ああ、それにTIFAもぶっ倒れちまってんじゃねえかと心配だしよ
 How 'bout checkin' in on 'em? Down to Mideel!	で、様子を見に行ってみねえか？【ミディール】へよ！

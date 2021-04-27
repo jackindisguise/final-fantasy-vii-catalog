@@ -2,7 +2,7 @@
 const fs = require("fs");
 
 // local consts
-const inputFolder = "../scene/processed/";
+const inputFolder = "../scene/formatted/";
 const outputFolderNewKanji = "../kanji/new/";
 const outputFolderUniqueKanji = "../kanji/unique/";
 const outputFile = "kanji.json";
@@ -13,7 +13,7 @@ let kanjiArray = [];
 let kanjiCount = 0;
 
 // read all processed texts and scrape kanji data
-console.log("Scraping kanji from scenes.");
+console.log("Scraping kanji from formatted scenes.");
 console.log("");
 console.log("File\t\t\t\t| Unique Kanji\t| New Kanji");
 console.log("----------------------------------------------------------------------------------------------------")

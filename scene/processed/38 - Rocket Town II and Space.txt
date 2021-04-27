@@ -13,7 +13,6 @@ Wait a minute!	ちょっと待ってくれ！
 Shut up!! Just shut the hell up!	うるせぇぞ！！おめえは、だまってろい！
 How's the rocket?	ロケットの調子はどうなんだ？
 It's pretty much OK.	だいたいＯＫだ
-But…	でも……
 We planned to run it into Meteor on Auto-Pilot, but the most important device is broken.	ロケットをオートパイロット装置でメテオにぶつける計画なのにかんじんの装置が壊れてるんだよ
 Broken? How's the repair goin'?	壊れている、だぁ？修理は、どうなっている
 Shera's doin' it…	シエラがやってるけど……
@@ -39,17 +38,13 @@ But, CID…	しかし、CID……
 Shut the hell up!! I don't wanna hear it!!	だまれ！！しかしも、かかしもねぇ！！
 Alright, time to get to work! Anyone who ain't involved, get the hell outta here!	さあ、ここはオレ様の仕事場だ！関係ねぇお前たちはとっとと出て行きやがれ！
 What the hell? What the hell happened!?	な、なんだぁ？なにがおこった！？
-Palmer	パルマー
 Hey-hey!	うひょっ！
 Palmer! What the hell did'ya do!?	パルマー！てめぇ、何しやがった！？
-Palmer	パルマー
 They said they finished repairing the Auto-Pilot. So, I laun---ched it!	オートパイロット装置修理完了だってさ。だから打ち上げだよ～ん
 Goddamn Shera! Why'd she pick today to get fast!	くっ！　シエラのやつ今日に限って早い仕事かよっ！
 DAMN! Won't even budge! It's completely locked up!	クソったれ！　ビクともしねえ！完全にロックされちまってるぜ
-Palmer	パルマー
 Hey-hey-hey! Almost lift off!	うひょひょっ！もうすぐ発射だよ～ん
 What the!? No countdown!? It just don't seem the same without it!	ケッ！　秒読みはどうした！？気分がでねえぞ！
-Palmer	パルマー
 Hey!!!! Hey-hey!!! Blast-----off!	うひょ～～～！！！うひょうひょ！！！発射だぴょ～～ん！
 Can't we do somethin'? We can't jus' leave it.	おい、なんとかならねぇのか？このままじゃ、ヤバいぜ
 Can't we do something? If it goes on, we're…	ねぇ、なんとかならないの？このままじゃ、私たち……
@@ -82,23 +77,17 @@ I dunno…	わからねえ
 I know what I said a minute ago.	さっきはあんなこと言ったけどよ
 But maybe all that I really wanted was just to go into outer space.	オレ様は、コイツと宇宙まで行きたかった。それだけなのかもしれねえ
 So, why don't you all do whatever you think is right?	だから、お前たちもお前たちが考えているように行動すればいいんじゃねぇか？
-…	…………
 The Materia should be there after you climb that ladder.	マテリアなら、そっちのハシゴをのぼっていった先にあるはずだぜ
-Hey, CLOUD.	おい、CLOUD
 If you're goin' to get the Materia, it's this way.	マテリア取りに行くんならこっちだぜ
-Shera	シエラ
 The escape pod is this way. Please hurry.	脱出ポッドはこちらです。急いで下さい
 So this is…outer space…	これが……宇宙……
 So long, Shinra No.26…	神羅２６号……あばよ……
 Man…it's the real thing… I'm really here in outer space…	はぁ……本物の宇宙だぜ……ほんとうに来たんだな……
-Shera	シエラ
 Hurry. I'm going to detach the escape pod.	急いで。脱出ポッドを切りはなすわよ
 Hey, Shera! Does this pod really fly?	おい、シエラ！このヘッポコポッドは動くのか？
-Shera	シエラ
 It'll be OK.	だいじょうぶ
 I've checked it.	ついさっきまで私がチェックしていたから
 … Then I'm relieved.	…………それなら安心だぜ
-Shera	シエラ
 …Thanks.	……ありがとう
 I finally found the Huge Materia…	ヒュージマテリア……やっと見つけたぞ
 It's structured so that the lock can be opened if we enter the passcode from this control panel.	このコンソールパネルからパスコードを入力すればロックが解除される仕組みになってるぜ
@@ -115,8 +104,6 @@ If we don't enter the correct passcode before the protection system activates, w
 So, what order am I supposed to enter the passcode in?	で、どういう順番で打ちこんでやればいいんだ？
 There is the control panel.	コンソールパネルがある。
 Try and operate it?	操作してみますか？
-Yes	はい
-No	いいえ
 Enter Passcode	パスコードを入力せよ
 Enter Passcode 1	パスコード１を入力せよ
 Enter Passcode 2	パスコード２を入力せよ
@@ -154,10 +141,8 @@ You %#@&! No time to worry 'bout other people!	この、ばか野郎……人の
 Tank Number 8 blew up…/ So Tank Number 8…/ really was malfunctioning…	爆発したのは、８番ボンベ……８番ボンベねえ……やっぱりイカレてやがったのか……
 Shera…/ You were right.	シエラ……確かにおまえが正しかったぜ
 But, …this is the end for me.	でもよ……オレ様もこれで終わりだぁ
-Shera	シエラ
 Don't say that, CID.	なに言ってるのよ、CID
 Huh!? Shera!?	あん！？　シエラ？！
-Shera	シエラ
 I tagged along. I'm coming to help you.	ついて来ちゃった。いま、助けるから
 You stupid &$#%!!	ばか野郎のコンコンちき！！
 …Damn! …Can't lift it!	……クソッ持ちあげられねぇぜ！
@@ -168,13 +153,7 @@ What shall we do? It won't budge!	ど、どないしょ～持ちあがらへん�
 …No. I can't lift it.	……だめだ。持ちあがらない
 You're stupid. You're really $#&^%$* stupid.	お前はバカだぜ。ほんとのバカだ
 … … Sorry.	……すまねぇ
-Highwind	ハイウインド
 Head out?	行きますか？
-Yes	いくです
-No	いかないです
-Head out?	行きますか？
-Yes	いくです
-No	いかないです
 Last Dungeon	ラスダン
 Heyyy! What a minute!	あわわわわ！　ちょっと待ってください！
 Learner Pilot (L8)	見習いパイロット（ＬＶ８）
@@ -182,7 +161,6 @@ Wanna Go?	い、行くですか？
 Yes	行くです
 No	行かないです
 Learner Pilot (L9)	見習いパイロット（ＬＶ９）
-Wanna go?	行きますか？
 Go	行きます
 Don't go	行きません
 Learner Pilot (L10)	見習いパイロット（ＬＶ１０）
@@ -246,7 +224,6 @@ Now what? How're we gonna protect the Planet from Meteor?	で、どうするん�
 …I'm still thinkin' about that.	………………考え中でぃ
 Huh!?	あれっ！？
 Did you…hear something?	なんか……聞こえた？
-What is it?	これは……
 Maybe it's the Planet's scream… Or is it Meteor?	星の悲鳴……メテオの……？……この星の？
 It's the Planet's scream. I'm sure of it.	星の悲鳴だ。たしかに星の悲鳴
 Hey, how do we know that this is really the Planet's scream?	なあ、どうして俺たちはこれが悲鳴だって知ってるんだ？

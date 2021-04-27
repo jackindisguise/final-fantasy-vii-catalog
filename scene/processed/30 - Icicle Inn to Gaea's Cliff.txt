@@ -2,28 +2,18 @@ Icicle Inn	アイシクルロッジ
 What's down there?	この先に、何があるんだ？
 You mean Boss…Tseng? That wasn't us. Sephiroth did it.	ボス……ツォンのことか？あれは俺たちじゃない。セフィロスが、やったんだ
 I'm not lying… it was Sephiroth.	ウソなんかついてない……セフィロスなんだ
-Oh, man…	まいったな……
 Wa…wait! Get out of the way Stay put Elena	まっ、まて！ よける じっとしている イリーナ
 There they are, hurry!!	いたわ、いそいで！！
-Elena	イリーナ
 CLOUD…huff…wheeze.	CLOUD……ハァ、ハァ
 I won't let you go any further!	ここから先へは進ませないわよ！
-Elena	イリーナ
 It's a SE-CR-ET.	ヒ・ミ・ツ
 It really doesn't matter! You really got guts messin' my boss up like that!	そんなことは、どうでもいいの！よくも私のボスをやってくれたわね！
-Elena	イリーナ
 No! Liar! Don't think you can fool me!	いいえ、だまされるもんですか
-Elena	イリーナ
 Don't try to act innocent. I'll never forget it!!	いくら、しらをきってもムダよ。絶対、許せない！！
-Elena	イリーナ
 Looks like just talking won't do. You're going to have to feel some pain!	口で言ってもムダなんだったら体に聞いてもらおうじゃないの！
-Elena	イリーナ
 No, I can handle him! There's no way he can avoid my punch.	いえ、私１人で十分よ！私のパンチをよけられるはずがないわ
-Elena	イリーナ
 Eyaaaah!	キャー！
-Elena	イリーナ
 Why? Why didn't you try to duck?	なぜ？わざと、よけなかった……
-Elena	イリーナ
 There's no way they can climb the Great Glacier anyway.	どうせ、あの大氷河を越えられるはずがないわ
 Put them in some house in the village.	どこかの家にほうりこんでおいて！
 Yes ma'am!!	ハイッ！！
@@ -47,15 +37,11 @@ What the? Who are those people over there? Looks like trouble!	な、なんだ�
 No, no. I just did what came natural.	いやいや。当然のことをしたまでさ
 I guess I'm not too busy now. Do you want to learn how to ride a snowboard?	よし、ヒマだからスノーボードの乗り方を教えてやろうか？
 Maybe I should	たのもうかな
-Not interested	興味ないね
 Do you want me to explain again?	もう一度説明しようか？
-Yes, please	たのむ
 No thanks	えんりょする
 You're so boring!	つまんねぇヤツだな！
 Sorry I ran off a while ago… I thought there was going to be trouble.	さっきは、逃げ出してしまって……何かヤバそうな感じだったんでな
 Anyhow, you'll need a snowboard to get down that hill. Want to learn how to ride one?	それより、向こうの坂を下るにはスノーボードでもなければ無理だぜ。乗り方を教えてやろうか？
-Yeah, maybe I should	たのもうかな
-No, not interested	興味ないね
 All right, fat-head… But don't blame me if you get hurt.	わかんねぇヤツだな……ケガしてもしらねぇぜ
 What the? They sure were weak for Shinra.	なんだアイツら？神羅なのに弱かったな
 I told you, you can't!	ダメだって言っただろ！
@@ -87,7 +73,6 @@ Directional button [down]Brake	【方向キーの下】　　ブレーキ
 [CANCEL]Jump	×ボタン　　ジャンプ
 Directional button [left] + [PAGEDOWN]Edge Left	【方向キーの左＋Ｒ１ボタン】　　エッジをきかせる
 Directional button [right] + [PAGEDOWN]Edge Right	【方向キーの右＋Ｒ１ボタン】　　エッジをきかせる
-Icicle Inn	民家
 I got hurt on my snowboard, and now I can't go out for a while…	スノーボードで遊んでいたらケガをしちゃってしばらく外へ出れないんだ……グスン
 Hey, I'll give you my snowboard.	おにいちゃんにスノーボードをあげるよ
 …whimper…weep…	…グスン、グスン
@@ -101,7 +86,6 @@ I have to move again… I don't know where to start.	また、引っ越ししな
 The reason for the drop in temperature must be because of that dome of light at the Northern limits…	こんなに気温が下がったのは北の果てにできた光のドームのせいにちがいないんだ……
 You all should get away from here and go to a place like Mideel Island in the south.	きみたちも早くここから離れて【南の島ミディール】にでも行ったほうがいいと思うよ
 Received Key Item "Snowboard"!	キーアイテム『スノーボード』を手にいれた！
-Icicle Inn	民家
 The master is an experienced climber, you know.	この家のおじぃさんは登山家だそうなの
 I've heard that he knows every corner of that Great Glacier!	なんでも、あの広い大氷河を全て見てまわったそうなのよ！
 Grandma, don't sleep so close to the fire!	おばぁちゃん火の近くで眠っちゃダメよ！
@@ -122,29 +106,18 @@ Look at the Map	地図を見る
 Take the Map	地図をとる
 Received "Hero Drink"!	『英雄の薬』を手にいれた！
 Received "Vaccine"!	『ワクチン』を手にいれた！
-Weapon Store	武器屋
-Weapon Store	武器屋
 You'll have a hard time selecting from all the good things we have!	目うつりするほどイイものがそろっているゾイ！
-Weapon Store	武器屋
 …smack…mff… Oh…welcome, glad you came.	フガフガ……おお、よう来なさった
 Grandpa, wake up! We have a customer!!	じぃちゃん起きて！お客さんだよ！！
-Icicle Inn	宿屋１階
 It's colder than usual today…	今日は、いちだんと寒いねぇ
 It's 200 gil , you wanna spend the night?	２００ギルだが、泊まっていくかい？
-Yes	はい
-No	いいえ
-Icicle Inn	宿屋
 You don't have enough money.	お金がたりませんよ
-Icicle Inn	宿屋
 Enjoy your stay!	ごゆっくり
-Icicle Inn	宿屋
 Please come again.	また来て下さいね
 You heard about the gnarly hill in this town? They tell me it's off limits!	この村の先に超デンジャラスな坂があるらしいんだけどさすべらせてくれないんだ
 What luck! We came all this way…crap!	こんな遠くまで来たのについてねぇぜ、まったく！
 We came from Costa del Sol to snowboard, but we're just about to leave!	あたしたちぃ～コスタ・デル・ソルから～スノボしにきたんだけどぉ～もう、帰っちゃうのよ！
 Whew, what is it? Don't get too close, or it'll burn ya.	フゥ、なんだい？ヤケドするから近よるんじゃねぇぞ
-Icicle Inn	宿屋２階
-Received "X-Potion"!	『エクスポーション』を手にいれた！
 Icicle Inn Bar	パブ
 Bartender	バーテン
 I've heard there's a snow woman at the Great Glacier that hates hot springs…	なんでも、この村の北の大氷河には温泉ぎらいの雪女がいるらしいとか……
@@ -175,8 +148,6 @@ Something huge must've fallen from the sky a long time ago!	大昔に空から�
 Am I boring you?	オレの話ってつまんないのかな～？
 Welcome! You look like a STRONG one…	いらっしゃ～い！あなたって強そ～
 If you want, I could lend you an ear?	ねぇ、よかったら話相手になってあげようか？
-Yeah	ああ
-Not interested	興味ない
 What's with you!? You make me sick!	なによ、ツンとしちゃって感じ悪～い！
 I got bored listening to his stories.	あの人の話の相手とってもつまんなかったの
 Oh yeah?	へぇ～、そぉなの？
@@ -186,15 +157,12 @@ Eyaaaaaaaaah!!!	キャー！！！
 I'm still in here! All right!?	入ってま～す
 Gast's House	ガストの家
 Play the Video?	ビデオを再生しますか？
-Yes	はい
-No	いいえ
 The Original Crisis	（昔の）星の危機について
 What is "Weapon?"	ウェポンとは？
 Confidential	プライベート
 Don't watch	見ない
 Daughter's Record: 10th Day after birth	娘の記録・生後１０日め
 Daughter's Record: 20th Day after birth	娘の記録・生後２０日め
-Don't watch	見ない
 Then, Ifalna, please tell us about the Cetra.	では、イファルナさんセトラの話をおねがいします
 Tell us, Ifalna… Where is the land called 'Knowlespole'?	イファルナさん……ノルズポルという土地はどこにあるのです？
 Ifalna, what exactly does Planet-reading entail?	イファルナさん星読みとは、どういうことなのですか？
@@ -278,7 +246,6 @@ Mmm? What a funny looking camera. Guard! Destroy it!	な、なにをするんだ
 Be careful with her!! Ha, ha, ha…	まあいい……子供を忘れるんじゃないぞ！
 Wh…what are you doing, Professor!?	ほう、ビデオか？古代種…ウェポン！？
 Oh, and uh… don't forget the child!	クックックッ……宝の山だな！ありがとう博士……クックックッ
-Hmm, a video? The Ancients…Weapon!?	ガスト博士、わかってくれますよね。この星の運命を変えることができるんですよ！
 Heh, heh, heh…a mountain of treasure! Thank you Professor…Ha, ha, ha	あっ、ビデオをとろうと思っているんですよ
 You understand don't you, Professor Gast? We can change the future of the Planet!	でも、なんだかビデオの調子が悪くて……
 Oh, I'm thinking of taping it on video.  But, the video's not working right…	いえ、そんなことではないです。カワイイわが子をとるんですよ
@@ -290,8 +257,6 @@ What are you doing, Profes-- I mean, honey?	何をとるの？まだ、話して
 What are you going to tape? Is there still something I haven't mentioned?	もう、それならビデオより先にこの子の名前を決めなくちゃ！
 First, we have to figure out her name. We can take the video later!	もう、勝手な人ね……でも、AERISってイイ名前ね！
 You are SO selfish! But AERIS is a good name!	ウフフ……あなたのカタイ頭で考えたにしては上出来じゃないかしら
-Hee hee…it's a good name, considering it came out of that forgetful head of yours!	『エーテルターボ』を手にいれた！
-Received "Turbo Ether"!	『エーテルターボ』を手にいれた！
 Ugh…	う……
 I guess we're still in one piece.	なんとか、飛び越したようだな
 Everyone all right?	みんな大丈夫か？
@@ -319,7 +284,6 @@ Quick! The map, the map! Look at it with [SWITCH]!	地図だ、地図！□ボ�
 It sure is cold. We'll freeze if we stay here any longer.	それにしても、ものすごい寒さだあまり長くここにいるとこごえてしまうな
 This is the only place not frozen.	ここだけ凍っていないな
 Touch it	さわってみよう
-Let's go on	先を急ごう
 Hmm, a hot springs.	なるほど、温泉か
 …go.	……おかえりください
 Don't worry about me.	かまわないでください
@@ -333,8 +297,6 @@ Hah, just remember your place!	ほほほ、身のほどを知りなさい
 Still don't get it, eh?	あら、こりてないのかしら
 Why this?	なんてことに……
 Received "Alexander" Materia!	『アレクサンダー』のマテリアを手にいれた！
-Cannot take on any more Materia.	これいじょうマテリアは持てません。
-Please discard some Materia.	なにかマテリアをすててください。
 The only way is to cross…	これを渡るしかなさそうだ……
 That's the way it goes…	しかたがないな
 I don't feel like it	その気にならないな
@@ -343,9 +305,6 @@ Received "Added Cut" Materia!	『ついかぎり』のマテリアを手にい�
 Looks like trouble.	なんだかマズそうだな
 We're outta here!	つっぱしる
 Wait a minute!	ちょっと待て！
-Received "All" Materia!	『ぜんたいか』のマテリアを手にいれた！
-Received "Safety Bit"!	『セーフティビット』を手にいれた！
-Received "Mind Source"!	『マインドアップ』を手にいれた！
 Base of Gaea's Cliff	絶壁のふもと
 Now, this is a surprise!!	オオッ、これは珍しい！！
 It's been years since I last saw anyone up here.	人に会ったのは 何年ぶりだろう……
@@ -355,8 +314,6 @@ Why don't we go to the next room and sit down.	立ち話もなんだから向こ
 To climb this cliff, you must check your route	あの絶壁を登りきるには登山ルートをよく確認すること
 …And you have to keep your body temperature normal. Don't forget these 2 things.	下がった体温を回復させること。これらを忘れてはいけないぞ
 Like to rest a little?	ひと休みしていくかい？
-Oh yeah	休む
-No, thanks	休まない
 Don't overdo it.	むちゃをしてはいけないぞ
 You awake?	気がついたようだな？
 You collapsed at the Great Glacier. It's a miracle you're alive.	きみたちは、大氷河で倒れていたんだ。無事だったのはきせきだな
@@ -367,11 +324,8 @@ It's better not to go anywhere near it!!	うかつに近づかんほうがけん
 You shouldn't go near the cliff unprepared, it's dangerous!!	やはり、絶壁にはうかつに近づかんほうがけんめいだぞ！！
 [OK]Confirm route.	【決定ボタン】　　登山ルートの確認
 [SWITCH]Push repeatedly to raise body temperature.	□ボタン　　　連打で体温回復
-Base of Gaea's Cliff	絶壁のふもと
 Holzoff	ホルゾフ
 You ever hear about those who challenged the cliff?	君たちは絶壁に挑んだ男たちの話を聞いたことがあるかい？
-Yeah	はい
-No	いいえ
 The first time my friend Yamski and I tried to climb the cliff was 30 years ago.	わたしと友人ヤマスキーが初めて絶壁に挑んだのは３０年前のことだ
 There's an old legend that says something fell from the sky here a long time ago.	この地には、大昔に何かが空から降ってきたという言い伝えが残っているんだ
 It's supposed to have pushed the land up and formed this cliff.	どうやら、その時に大地がもりあがってできたのがこの絶壁らしい
@@ -386,17 +340,10 @@ First, check your route… It's hard to find because of all the snow.	１つめ�
 Second, warm yourselves up once you get to a ledge.	２つめは絶壁の途中のタナに着いたら必ず下がった体温を回復させること
 Understand?	わかったかい？
 One more time	もう１回説明してほしい
-Yes	はい
 You must be tired coming all the way up here… Better get some rest before you head out.	ここに来るまで、かなり体力を使ったんじゃないのかい？少し休んでから出発しなさい
 Want to get some rest?	ひと休みしますか？
-Rest	休む
-Don't rest	休まない
-[OK]Confirm route.	【決定ボタン】　　登山ルートの確認
-[SWITCH]Push repeatedly to raise body temperature.	□ボタン　　　連打で体温回復
-Base of Gaea's Cliff	絶壁のふもと
 We'll secure the route. You come up later.	俺たちがルートを確保する。あとから来てくれ
 You know, I've been thinkin'…	ちょっとよ、考えたんだけど聞いてくれねぇか？
-What is it?	なんだ？
 Save it for later	あとにしてくれ
 …Seein' a place like this, makes you realize how awesome nature is.	……こういう風景を見てるとよう自然ってやつはホント、すげぇんだなって思うんだ
 But, if anyone ever told me to live here, I'd tell them to…well, you know…	こんなところに住めって言われたらオレは、迷わずカンベンしてくれって答えるぜ……
@@ -416,51 +363,21 @@ I wonder what's on the other side of that cliff…	絶壁の向こうには何�
 This is secret info, but… Rufus's going to arrive here, too.	これ、ヒミツ情報ですけどな。ルーファウスさんもまもなく到着しまっせ
 Look we can't go to the cliff! So just give it up!!	もう絶壁には行けないぞ！あきらめるんだ！！
 Change members?	メンバーチェンジしますか？
-Yes	はい
-No	いいえ
 Gaea's Cliff	ガイアの絶壁
 Degrees	度
 Received "Protection Ring"!	『守りの指輪』を手にいれた！
 Inside of Gaea's Cliff	絶壁内部
 Received "Javelin"!	『ジャベリン』を手にいれた！
-Received "Ribbon"!	『リボン』を手にいれた！
 You can not take on any more Materia. Please discard some Materia.	これいじょうマテリアは持てません。なにかマテリアをすててください
-Inside of Gaea's Cliff	絶壁内部
 Push the rock over?	岩を落としますか？
 Push	落とす
-No	やめる
-Gaea's Cliff	ガイアの絶壁
 Dead end.	行き止まりだ
 Go up	上に進む
 Go down	下に進む
 Go right	右に進む
-Go right	右に進む
-Go down	下に進む
-Degrees	度
 Received "Enhance Sword"!	『エンハンスソード』を手にいれた！
-Inside of Gaea's Cliff	絶壁内部
-Received "Speed Source"!	『スピードアップ』を手にいれた！
-Received "Elixir"!	『エリクサー』を手にいれた！
-Inside of Gaea's Cliff	絶壁内部
-Received "Enhance Sword"!	『エンハンスソード』を手にいれた！
-Inside of Gaea's Cliff	絶壁内部
-Received "Megalixir"!	『ラストエリクサー』を手にいれた！
 Received "Fire Armlet"!	『烈火の腕輪』を手にいれた！
 Jump down to the room below?	下の部屋に飛びおりますか？
-No	いいえ
-Yes	はい
-Gaea's Cliff	ガイアの絶壁
-Go up	上に進む
 Go left	左に進む
-Go right	右に進む
-Go up	上に進む
-Go down	下に進む
 Go down right	右下に進む
-Degrees	度
-Received "Fire Armlet"!	『烈火の腕輪』を手にいれた！
-Received "Elixir"!	『エリクサー』を手にいれた！
-Inside of Gaea's Cliff	絶壁内部
-HP/MP restored!	ＨＰ／ＭＰが回復した！
-Inside of Gaea's Cliff	絶壁内部
 Ugh… Errgaahh!!	うっ……うわ～～っ！！
-Gaea's Cliff	ガイアの絶壁

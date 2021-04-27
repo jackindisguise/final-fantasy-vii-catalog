@@ -33,7 +33,6 @@ Whew…I hope everything goes all right until we get to Rocket Town. Then, our m
 Not so fast. We still have one major task… we still have to transport the stuff…	まだまだ。もうひとつ大仕事が残ってるぜ。アレを運ぶミッションがな……
 The stuff…	アレか……
 Oh no! The Huge Materia…	しまった！ヒュージマテリアを……
-Oh no! The Huge Materia…	しまった！ヒュージマテリアを……
 Let's go after it!	追いかけるぞ！
 Can't we go after it?	後を追えないの？
 Can we get there before they do?	あれの目的地に先回りできるかな？
@@ -82,20 +81,6 @@ We'll take that submarine!! Out of our way!!	潜水監は俺たちがいただ�
 This is the Junon Submarine Dock!	こちら、【ジュノン潜水監ドック】になっとります！
 If you want to enter, please talk to my dog.	はいりたければぼくらのワン公（ガードハウンドちゃん）に話しかけてください
 That's all the instructions you're going to get! Let's go!!	道案内は終わりだ！いくぞ！！
-Junon Path	ジュノン・通路
-What is it? The elevator's out of order for an inspection.	なんだい？いま、定期点検中なんでエレベーターは動かせないよ
-You know, right under us is a Submarine Dock and the Underwater Mako Reactor.	ちなみに……この下には潜水監ドッグと海底魔晄炉があるんだけどね
-Mako energy puts a lot of wear and tear on the machinery.	魔晄エネルギーは機械のしょうもうがはげしいからね
-A lot of problems can pop up. So it's necessary for close inspections and maintenance.	あちこちガタがくるのがはやいんだ。まめな点検と整備がかかせないのさ
-Hey!! Civilian!! Stay out of our training!!	こりゃ！！　一般人！！くんれんのじゃまをすな～！！
-Go around them! And stay out of their way!!	はしっこをちいさくなって進め～！！
-All right!! Let's see how hard you trained!	うっし！！くんれんの成果をみせちゃれ！
-Attention! Charge!!	全員、とっつげき～！！
-He…hey!! That's the Underwater Reactor!! Come back!!	こ、こりゃ～！！そっちは、海底魔晄炉！！逃げんな～！！
-Our forces are in the process of gathering the Huge Materia from the Corel and the Fort Condor Reactors!	我が友軍は～　現在【コレル魔晄炉】と～【コンドルフォート魔晄炉】の～ヒュージマテリア回収大作戦を実行中だ！
-Once these two missions are completed, the Underwater Reactor will be our next target!	その２つのミッションが終われば次はここの地下の海底魔晄炉が大作戦の対象にな～る
-Till then, we do nothing but train, train, train!	それまでは、いっしょうけんめいくんれん、くんれん、くんれんだ！
-Elevator	エレベーター
 …gulp… Going do---wn.	ドキドキ……したへまいりま～す
 This floor is the Submarine Dock…	こちらには潜水監ドックがございま～す
 Those of you visiting the Underwater Reactor, please proceed through the connecting tunnel.	海底魔晄炉へおこしのお客様はここから先、連絡通路をお通りください
@@ -107,9 +92,6 @@ How 'bout, whoever stays alive, gets to take her out?	生き残ったほうが�
 All right, you're on!!	よし、のった！！
 But… What if both of us…	でもよ……二人ともやられた場合は…
 Whoa!! Don't even talk about that!	おっと！！そりゃいいっこなしってやつだ！
-Junon Path	海底魔晄炉への通路
-Junon Path	海底魔晄炉への通路
-Elevator	エレベーター
 Locked	ロックされている
 You, you're CLOUD!!	き、きさまはCLOUD！！
 You are NOT getting this Huge Materia!!	ヒュージマテリアは渡さん！
@@ -123,9 +105,7 @@ We were too late…	出遅れたな……
 There's the submarine dock just ahead.	ちょっと先に潜水監のドックがあるんですわ
 If we take a short cut, we might just make it!	先回りすれば間に合うかも……！
 Did we make it!?	間に合ったか！？
-Reno	レノ
 What are you doing? Help load.	何してる、と。お前も積みこみを……
-Reno	レノ
 CLOUD!?	CLOUD！？-
 We're gonna help transport the Huge Materia…Reno!	ヒュージマテリアの運搬なら、オレたちがやらせてもらうぜ。レノさんよ
 Help?	手伝えって？
@@ -134,10 +114,7 @@ You know I don't work cheap!	オレ様のギャラはち～とばかり高いぜ
 Looks like we barely made it.	ギリギリ間に合ったってとこね
 I'm SURE! You want me to do manual labor?	アタシ、肉体労働なんかや～だ～
 Either give it to us or else.	俺たちに渡すか、ルーファウスに届けるか……
-…which is it gonna be?	どうする？
-Reno	レノ
 Unfortunately, I don't have time to deal with you.	あいにく、きさまらと遊んでいるヒマはない、と
-Reno	レノ
 My priority is the Huge Materia!	今はヒュージマテリアが最優先だ、と！
 Damn! The submarine!	し、しまった！　潜水監が！
 Oh no! It left the dock…	あぁ～あ行ってしもた～……
@@ -164,7 +141,6 @@ Shinra dog!! I'm gonna dognap you!!	神羅のイヌめ！！おまえをイヌ�
 Those attackers won't bother us now.	これで戦闘員も手をだせまい…
 Inside Submarine	潜水監内部
 P…Please!! Spare me!!	はっ！！命だけはおたすけ！！
-Hmm…	そうだな……
 Take them all hostage	まとめて人質にする
 Fight them	バトルだな
 Be grateful. I'm taking you prisoner.	感謝しろよ。ほりょにしてやる
@@ -172,7 +148,6 @@ Don't think we're weak.	あまくみるな
 We can't go back after coming this far.	ここまできてもどるわけにはいかないな
 Thank you!	ありがとうございやす！
 You're pretty nice!	やさしいでやんすね！
-Inside Submarine	潜水監内部
 You want the Sub? Just try an' take it!	潜水監がほしけりゃ力ずくで奪ってみな！
 Um…sir! Maybe we shouldn't piss them off…	ああ……先輩！そんな強気な発言は…
 Come on, CLOUD! Follow me!	いくぞ、CLOUD！オレにつづけ
@@ -180,7 +155,6 @@ Damn, man!! …What the?	ケッ！！……なんてな
 Hey yo! Remember I was the leader first, man!	覚えてるか？最初はオレがリーダーでよ！
 Yo! We come a long ways since we got on this train!	なあ！　あの列車に乗ってからよずいぶん遠くにきたもんだ！
 Lotsa things changed! This and that.	かわっちまったぜ！あれやこれやとよ
-Inside Submarine	潜水監内部
 We're breakin' out of here!	ここから脱出だ！
 But how? We're at the bottom of the sea!!	でも……ここ海の底なのよ！
 Whatcha gonna do!?	どうすんだよ！！
@@ -199,10 +173,8 @@ There's still so much more I've got to do!	自分はくいがのこるであり�
 I never even got to do my special victory dance in battle!	一度も実戦でスペシャルポーズやったことないであります！
 All right!! Then make this your first victory!!	うっっし！！この戦いに初勝利し～！！
 Go on, show 'em!!	見せつけちゃれ！！
-Yes, sir!!	はっ！！
 Remember your last training. Begin!!	最後のくんれんはじめ～！！
 I'm back! An' now I got no regrets!!	待たせたなっ！思い残すことはないっ！！
-ATT----ACK!!	とっつげき～！！
 Someone…please. I'm sorry I can't take it anymore.	だれか、すまない……。俺、もうげんかいなんだ
 The lack of space, the shaking, the roar of the engine…	このせまさ、ゆれ、エンジン音……
 Stop your blubberin'!! How we gonna move this without you?	ピコピコしやがって！！どうやって動かすんだ？
@@ -240,9 +212,7 @@ No sweat. Just leave everything to me.	ここは俺にまかせてくれ
 Well, now what?	さて、どうするか？
 Read the manual	操作説明を見る
 Sit in the seat	席にすわる
-Leave it alone	そっとしておく
 Everything seems set…	準備は完了だな……
-Read the manual	操作説明を見る
 Start the mission!	ミッション開始！！
 This switch?	このスイッチか…？
 Main screen: ON	『メインビューアー・スクリーンオン』
@@ -347,70 +317,43 @@ It seems really old.	おそろしく古いな
 Key of the Ancients…	古代種の鍵……
 Several thousand years… ……Ancients?	数千年…………古代種？
 Received Key Item "Key to Ancients"!	キーアイテム『古代種の鍵』を手にいれた！
-Anyhow…	『とりあえず……』
 So this is the Leader Sub…	これが俺たちの撃沈したボス潜水監か……
 Damn…makes me sick just thinking about it…	ウップ…………思い出したら気持ちが悪くなってきた
 …Huge Materia recovered…	『……ヒュージマテリア回収完了……』
 …No damage appears to have been sustained…	『……損傷はない模様……』
 …phew… That's good to hear.	……ふぅ……。ひとまず、よかったな
-Received Key Item "Huge Materia"!	キーアイテム『ヒュージマテリア』を手にいれた！
-Hmmmm…	う～ん……
 Fight them	バトル
 Take them prisoner	ほりょにしとく
 Piloting a submarine is very difficult! I am completely clueless!	潜水監の操作はむずかしいでありますよ！自分はチンプンカンプンであります！
 I thank you! I am happy to be a hostage!	ありがとであります！ほりょにしてくれて自分はしあわせであります！
 Hey! Who am I to know?	こりゃ！き、きやすく話かけんな！
-Submarine Bridge	潜水監・ブリッジ
 An unconditional surrender, huh?	無条件こうふくというやつだな
 We're your prisoners	人質だな
 Don't bet on it…	あまいな…
-Received "Shinra Sub"!	『神羅の最新潜水監』を手にいれた！
 We'll hide it somewhere secluded.	めだたない場所へうつしておくぞ
-It looks like a key to something.	どこかのカギみたいだ……
-You think it could be…?	これがそうなのか……
-It seems really old.	おそろしく古いな
-…Analysis completed…	『……分析結果……』
-…Exact date of origin undetermined…	『……取得物の生成年代は特定不能……』
-…Estimated to be several thousand years…	『……数千年前のものと判別……』
-The Key of the Ancients…	古代種の鍵……
-Several thousand years… …Ancients?	数千年…………古代種？
-Received Key Item "Key to Ancients"!	キーアイテム『古代種の鍵』を手にいれた！
-For now…	『とりあえず……』
-Received Key Item "Huge Materia"!	キーアイテム『ヒュージマテリア』を手にいれた！
 Hallway	神羅飛空艇・通路
 Research Room	神羅飛空艇・研究室
 Cargo Room	神羅飛空艇・カーゴルーム
 Received "Hades" Materia!	『ハーデス』のマテリアを手にいれた！
-Cannot take on anymore Materia.	これいじょうマテリアは持てません。
-Please discard some Materia.	なにかマテリアをすててください。
 Received "Outsider"!	『アウトサイダー』を手にいれた！
 Received "Escort Guard"!	『エスコードガード』を手にいれた！
 Received "Heaven's Cloud"!	『天の叢雲』を手にいれた！
 Received "Conformer"!	『不倶戴天』を手にいれた！
 Received "Spirit Lance"!	『ロンギヌス』を手にいれた！
-Received "Megalixir"!	『ラストエリクサー』を手にいれた！
 Received "Double Cut" Materia!	『れんぞくぎり』のマテリアを手にいれた！
 Received "Highwind"!	『ハイウインド』を手にいれた！
 This is the Shinra's Gelnika type airplane… I wonder why it went down here?	これは、神羅のゲルニカ型飛空艇……なぜこんなところに沈んでいるんだ？
 What is this place? Must be some kind of a Research Establishment because there's a Mako generator.	なんだ、ここは……魔晄ジェネレータがあるという事はなにかの研究施設なのか？
 This is terrible… It's all messed up…	ひどいな……メチャメチャだ
 This must be the Cargo Room…	ここはカーゴルームか……
-Turks!?	タークス！？
-Rude	ルード
 Again?	……またか
-Reno	レノ
 We just seem to keep running into each other lately!	どうも最近いろいろと縁があるな、と
-Reno	レノ
 There were weapons and Materia developed solely to destroy Sephiroth.	この飛空艇には、セフィロスに対抗するために開発された武器やマテリアが積んであった
-Rude	ルード
 But, it was attacked by Weapon and sunk to the bottom of the sea.	……しかし、ウェポンに襲われて海の底に沈んでしまった
-Reno	レノ
 I can't give you what's here. We'll take out Sephiroth.	ここにあるものは渡せない。セフィロスは、我々が倒す
 I guess this is our last meeting.	ゆえに、おまえたちとはここで永遠のお別れになる、と
-Rude	ルード
 I won't let you get in our way.	邪魔は、させない
 So Shinra's new, secret weapon was on this Airship…	この飛空艇には、神羅の新兵器が積んであったのか……
-???	？？？
 Sephiroth…	セフィロス…
 VINCENT…	VINCENT……
 !!!	！！！
@@ -421,21 +364,14 @@ Lucrecia!!	ルクレッツィア！！
 Lucrecia	ルクレッツィア
 Stay back!!	こないで！！！
 Lucrecia… You're alive…	ルクレッツィア…生きていたのか…
-Lucrecia… You're alive…	ルクレッツィア…生きていたのか…
-Lucrecia	ルクレッツィア
 I wanted to disappear… I couldn't be with anyone… I wanted to die…	消えてしまいたかった…みんなのそばにいられなかった…死にたかった……
 But the Jenova inside me wouldn't let me die…	でも、私の中のジェノバが私を死なせてくれない……
-Lucrecia	ルクレッツィア
 Lately, I dream a lot of Sephiroth… My dear, dear child.	最近、セフィロスの夢を見るの…私のかわいい子供……
 Ever since he was born I never got to hold him…	でも、あの子が生まれてから私は一度も抱いてない……
 Not even once. You can't call me his mother… That…is my sin…	子供も抱けない…、母親だと言う事もできない……それが、私の罪………
 Lucrecia…	ルクレッツィア…
-Lucrecia	ルクレッツィア
 Back!! Stay back!	ダメ！！きちゃダメ！
-Lucrecia	ルクレッツィア
 VINCENT… Won't you please tell me?	VINCENT…教えて？
-What?	なにを…
-Lucrecia	ルクレッツィア
 If Sephiroth is still alive?	セフィロス…あの子は生きているの？
 I heard that he died five years ago. But I see him in my dreams so often…	５年前に死んだと聞いたわでも、最近よく夢を見るの…
 And I know that physically, like myself, he can't die so easily.	それに、あの子も私と同じ簡単に死ねない体……

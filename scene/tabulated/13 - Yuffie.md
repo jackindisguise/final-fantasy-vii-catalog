@@ -32,95 +32,72 @@
 | 30 | She has a mysterious weapon. I've seen her somewhere before… | 不思議な武器を持っているな……どこかで見た記憶がある |
 | 31 | Man… I can't believe I lost. | チクショ～……このアタシが負けるなんて…… |
 | 32 | You spikey-headed jerk! One more time, let's go one more time! | やい、このツンツン頭！もう１回、もう１回勝負だ！ |
-| 33 | All right | いいだろう |
-| 34 | Not interested | 興味ないね |
-| 35 | Hey, boobs! Try that again! Just one more time! | やい、このオッパイ女！もう１回、もう１回勝負しろ！ |
-| 36 | What did you say!? | 言ったわね！ |
-| 37 | Don't fight | やめておくわ |
-| 38 | Hey, you bow-legged ol' man! Give me another chance! I'll fight ya! | やい、このガニマタオヤジ！もう１回、もう１回勝負だ！ |
-| 39 | Give her a lickin' | ボコボコにしてやる！ |
-| 40 | Forget it! | やなこった |
-| 41 | I won't lose this time! Take your time and get ready. Holler when you're ready! | 今度は負けないからね！時間をやるから、用意しなよ。カクゴができたらかかってきな！ |
-| 42 | No way I'm going to fight with a punk like you more than once! | フーンだ、誰がアンタらみたいなザコと何度もたたかうもんか！ |
-| 43 | I'll save enough for the doctor bill! Next time, you won't be as lucky! | ケガの治療費はいただいとくよ！次はようしゃしないからなー！ |
-| 44 | Thinkin' of running away? Stay and fight! FIGHT, I said! | ム、逃げる気？ちゃんと勝負しろ！しろったらしろ！ |
-| 45 | C'mon… What's the matter? | シュッシュッ……どうしたどうした！ |
-| 46 | You're pretty scared of me, huh!? | アタシの強さにビビッてんだろ！！ |
-| 47 | Petrified… | ……まあな |
-| 48 | You're gonna lose again | 何度やっても同じだ |
-| 49 | C'mon… What's the matter? | シュッシュッ……どうしたどうした！ |
-| 50 | You're pretty scared of me, huh!? | アタシの強さにビビッてんだろ！！ |
-| 51 | Petrified… | ……まあね |
-| 52 | You're outta your league! | あなたにはムリよ |
-| 53 | C'mon… What's the matter? | シュッシュッ……どうしたどうした！ |
-| 54 | You're pretty scared of me, huh!? | アタシの強さにビビッてんだろ！！ |
-| 55 | Something like that | そういうこった |
-| 56 | You're wasting your time | やるだけムダだぜ |
-| 57 | Wh…what!? | な、な、なんだと！？ |
-| 58 | Uuuuugh! Now I'm really mad! | キー！　ムキキー！！アッタマきたあ！ |
-| 59 | Make fun of me, will ya! Just watch!! | バカにしやがって……おぼえてろォ！！ |
-| 60 | Hmm, just as I thought. What do you expect with my skills? | ヘヘ、や～っぱりそうか。ま、アタシの実力からいえばそれも当然だネ |
-| 61 | Good luck to you guys, too. If you feel up to it, we can go another around. Later! | アンタらもがんばれよ。また気が向いたら相手してやるからさ、んじゃね！ |
-| 62 | She's gone… What's with her? | 行っちゃった……なんなの、あのコ…… |
-| 63 | Gone… Wassup with that? | 行っちまった……なんだったんだ、アイツ……？ |
-| 64 | She's gone… So what was that all about? | 行っちゃった……けっきょく、何だったのかな？ |
-| 65 | She's gone… So what did that prove? | 行ってしまった……いったい何がしたかったんだ？ |
-| 66 | Huh? She's gone… What is she doing? | アレレ、行っちゃったよ……あいつ、何やってんだろ？ |
-| 67 | …She disappeared… I have no clue what happened. | ……消えよった。なんや、サッパリわかりませんわ |
-| 68 | She's gone, hey… What's with that kid!? | 行っちまったよ、オイ……何なんだ、あのガキは！？ |
-| 69 | … What could her motivation have been? | …………理解に苦しむ行動だな |
-| 70 | What is it, you still have somethin' for me? | なんだよ、アタシにまだなんか用？ |
-| 71 | …Hmmm. So is that it? | ……ハハーン。さてはアレかな？ |
-| 72 | I know you want my help because I'm so good! | アタシがあんまり強いんでぜひ助けてほしいと！ |
-| 73 | You want me to go with you? | このアタシにいっしょに来てくれと！そういうこと？ |
-| 74 | That's right | ……そういうこと |
-| 75 | You kiddin'? | じょうだんじゃない |
-| 76 | What, you still want somethin'? | なんだよ、アタシにまだなんか用？ |
-| 77 | Hmm… So is that it? | ……ハハーン。さてはアレかな？ |
-| 78 | You want my help cause I'm so good! | アタシがあんまり強いんでぜひ助けてほしいと！ |
-| 79 | You want me to go with you!? Is that what you're saying? | このアタシにいっしょに来てくれと！そういうこと？ |
-| 80 | That's right | ……そういうこと |
-| 81 | No way! | そんなわけない！ |
-| 82 | What is it, you still want somethin'? | なんだよ、アタシにまだなんか用？ |
-| 83 | …Hmm. So is that it? | ……ハハーン。さてはアレかな？ |
-| 84 | You want my help cause I'm so good! | アタシがあんまり強いんでぜひ助けてほしいと！ |
-| 85 | So you want me to come with you!? Is that what you're saying? | このアタシにいっしょに来てくれと！そういうこと？ |
-| 86 | That's right | ……そういうこった |
-| 87 | What're you sayin'?” | 何言ってやがんでえ！ |
-| 88 | I'm gonna leave! I mean it! | ホントに行っちゃうからね！ホントのホントだよ！ |
-| 89 | Go ahead | ご自由に…… |
-| 90 | Wait a second! | ちょっと待った |
-| 91 | I'm really gonna leave! I mean it! | ホントに行っちゃうからね！ホントのホントだよ！ |
-| 92 | Yeah, so? | ええ、どうぞ |
-| 93 | Wait a second! | ちょっと待って！ |
-| 94 | I'm really gonna leave! I mean it! | ホントに行っちゃうからね！ホントのホントだよ！ |
-| 95 | GO, then! | とっとと消えろ！ |
-| 96 | Hold on! | ……待ちやがれ！ |
-| 97 | Oh yeah? Then do whatever you want! | あっそ！フーンだ、勝手にしろ！ |
-| 98 | Heh heh…thought so. You put me in a spot. Hmm, what should I do? | へへへ、やっぱりねえ。いや、まいったなあ。ウーン、どうしようかなあ |
-| 99 | But, if you want me that bad, I can't refuse… | でも、そこまで言われちゃこのアタシもことわれないし…… |
-| 100 | All right! I'll go with you! | よし、わかった！アンタらについてってやるよ！ |
-| 101 | What's your name? | ……名前は？ |
-| 102 | Let's hurry | ……先を急ごう |
-| 103 | Heh heh…thought so. You put me in a spot. Hmm, what should I do? | へへへ、やっぱりねえ。いや、まいったなあ。ウーン、どうしようかなあ |
-| 104 | But, if you want me that bad, I can't refuse… | でも、そこまで言われちゃこのアタシもことわれないし…… |
-| 105 | All right! I'll go with you! | よし、わかった！アンタらについてってやるよ！ |
-| 106 | What's your name? | あなた、名前は？ |
-| 107 | Come on, let's hurry!” | さ、急ぎましょ |
-| 108 | Heh heh…thought so. You put me in a spot. Hmm, what should I do? | へへへ、やっぱりねえ。いや、まいったなあ。ウーン、どうしようかなあ |
-| 109 | But, if you want me that bad, I can't refuse… | でも、そこまで言われちゃこのアタシもことわれないし…… |
-| 110 | All right! I'll go with you! | よし、わかった！アンタらについてってやるよ！ |
-| 111 | What's your name? | おめえ、名前は？ |
-| 112 | Come on, or we'll leave you! | 早くしねえとおいてくぞ！ |
-| 113 | Me? The name's… | アタシ？アタシの名前はね…… |
-| 114 | What are you talking about!? You're the one who should go first! | ヘン、何言ってんだい！そっちが先になのるのがマナーってもんだろ！ |
-| 115 | Okay forget it! I'm not going with you! | やめやめやめ！いっしょに行くのやーめた！ |
-| 116 | Remember, if you piss me off it'll cost you!! | アタシを怒らせると高くつくの！おぼえときな！！ |
-| 117 | Huh? Hey…HEY! | あれ、ちょ、ちょっと…… |
-| 118 | Wait! I haven't even told you my name… | ちょっと！アタシまだ名前…… |
-| 119 | I'm YUFFIE! Good to meetcha! | アタシ、YUFFIE！ひとつヨロシク！ |
-| 120 | Heh, heh…just as I planned. | へへへ……うまくいったよ |
-| 121 | Now all I have to do is… a little this and a little that… nyuk, nyuk, nyuk… | あとはアレをナニして……クックック…… |
-| 122 | Hey, wait up! Wait for me!! | オ～イ、待ってよ！待ってってば～！！ |
-| 123 | Here, I'll give you back the money I've stolen from you! | 盗んだお金ならホラ！ちゃんと返すからさァ！ |
-| 124 | …Or, uh, what's left of it. | ……まだ使ってないぶんは |
+| 33 | Hey, boobs! Try that again! Just one more time! | やい、このオッパイ女！もう１回、もう１回勝負しろ！ |
+| 34 | What did you say!? | 言ったわね！ |
+| 35 | Don't fight | やめておくわ |
+| 36 | Hey, you bow-legged ol' man! Give me another chance! I'll fight ya! | やい、このガニマタオヤジ！もう１回、もう１回勝負だ！ |
+| 37 | Give her a lickin' | ボコボコにしてやる！ |
+| 38 | Forget it! | やなこった |
+| 39 | I won't lose this time! Take your time and get ready. Holler when you're ready! | 今度は負けないからね！時間をやるから、用意しなよ。カクゴができたらかかってきな！ |
+| 40 | No way I'm going to fight with a punk like you more than once! | フーンだ、誰がアンタらみたいなザコと何度もたたかうもんか！ |
+| 41 | I'll save enough for the doctor bill! Next time, you won't be as lucky! | ケガの治療費はいただいとくよ！次はようしゃしないからなー！ |
+| 42 | Thinkin' of running away? Stay and fight! FIGHT, I said! | ム、逃げる気？ちゃんと勝負しろ！しろったらしろ！ |
+| 43 | C'mon… What's the matter? | シュッシュッ……どうしたどうした！ |
+| 44 | You're pretty scared of me, huh!? | アタシの強さにビビッてんだろ！！ |
+| 45 | Petrified… | ……まあな |
+| 46 | You're gonna lose again | 何度やっても同じだ |
+| 47 | Petrified… | ……まあね |
+| 48 | You're outta your league! | あなたにはムリよ |
+| 49 | Something like that | そういうこった |
+| 50 | You're wasting your time | やるだけムダだぜ |
+| 51 | Wh…what!? | な、な、なんだと！？ |
+| 52 | Uuuuugh! Now I'm really mad! | キー！　ムキキー！！アッタマきたあ！ |
+| 53 | Make fun of me, will ya! Just watch!! | バカにしやがって……おぼえてろォ！！ |
+| 54 | Hmm, just as I thought. What do you expect with my skills? | ヘヘ、や～っぱりそうか。ま、アタシの実力からいえばそれも当然だネ |
+| 55 | Good luck to you guys, too. If you feel up to it, we can go another around. Later! | アンタらもがんばれよ。また気が向いたら相手してやるからさ、んじゃね！ |
+| 56 | She's gone… What's with her? | 行っちゃった……なんなの、あのコ…… |
+| 57 | Gone… Wassup with that? | 行っちまった……なんだったんだ、アイツ……？ |
+| 58 | She's gone… So what was that all about? | 行っちゃった……けっきょく、何だったのかな？ |
+| 59 | She's gone… So what did that prove? | 行ってしまった……いったい何がしたかったんだ？ |
+| 60 | Huh? She's gone… What is she doing? | アレレ、行っちゃったよ……あいつ、何やってんだろ？ |
+| 61 | …She disappeared… I have no clue what happened. | ……消えよった。なんや、サッパリわかりませんわ |
+| 62 | She's gone, hey… What's with that kid!? | 行っちまったよ、オイ……何なんだ、あのガキは！？ |
+| 63 | … What could her motivation have been? | …………理解に苦しむ行動だな |
+| 64 | What is it, you still have somethin' for me? | なんだよ、アタシにまだなんか用？ |
+| 65 | …Hmmm. So is that it? | ……ハハーン。さてはアレかな？ |
+| 66 | I know you want my help because I'm so good! | アタシがあんまり強いんでぜひ助けてほしいと！ |
+| 67 | You want me to go with you? | このアタシにいっしょに来てくれと！そういうこと？ |
+| 68 | That's right | ……そういうこと |
+| 69 | You kiddin'? | じょうだんじゃない |
+| 70 | No way! | そんなわけない！ |
+| 71 | That's right | ……そういうこった |
+| 72 | What're you sayin'?” | 何言ってやがんでえ！ |
+| 73 | I'm gonna leave! I mean it! | ホントに行っちゃうからね！ホントのホントだよ！ |
+| 74 | Go ahead | ご自由に…… |
+| 75 | Wait a second! | ちょっと待った |
+| 76 | Yeah, so? | ええ、どうぞ |
+| 77 | Wait a second! | ちょっと待って！ |
+| 78 | GO, then! | とっとと消えろ！ |
+| 79 | Hold on! | ……待ちやがれ！ |
+| 80 | Oh yeah? Then do whatever you want! | あっそ！フーンだ、勝手にしろ！ |
+| 81 | Heh heh…thought so. You put me in a spot. Hmm, what should I do? | へへへ、やっぱりねえ。いや、まいったなあ。ウーン、どうしようかなあ |
+| 82 | But, if you want me that bad, I can't refuse… | でも、そこまで言われちゃこのアタシもことわれないし…… |
+| 83 | All right! I'll go with you! | よし、わかった！アンタらについてってやるよ！ |
+| 84 | What's your name? | ……名前は？ |
+| 85 | Let's hurry | ……先を急ごう |
+| 86 | What's your name? | あなた、名前は？ |
+| 87 | Come on, let's hurry!” | さ、急ぎましょ |
+| 88 | What's your name? | おめえ、名前は？ |
+| 89 | Come on, or we'll leave you! | 早くしねえとおいてくぞ！ |
+| 90 | Me? The name's… | アタシ？アタシの名前はね…… |
+| 91 | What are you talking about!? You're the one who should go first! | ヘン、何言ってんだい！そっちが先になのるのがマナーってもんだろ！ |
+| 92 | Okay forget it! I'm not going with you! | やめやめやめ！いっしょに行くのやーめた！ |
+| 93 | Remember, if you piss me off it'll cost you!! | アタシを怒らせると高くつくの！おぼえときな！！ |
+| 94 | Huh? Hey…HEY! | あれ、ちょ、ちょっと…… |
+| 95 | Wait! I haven't even told you my name… | ちょっと！アタシまだ名前…… |
+| 96 | I'm YUFFIE! Good to meetcha! | アタシ、YUFFIE！ひとつヨロシク！ |
+| 97 | Heh, heh…just as I planned. | へへへ……うまくいったよ |
+| 98 | Now all I have to do is… a little this and a little that… nyuk, nyuk, nyuk… | あとはアレをナニして……クックック…… |
+| 99 | Hey, wait up! Wait for me!! | オ～イ、待ってよ！待ってってば～！！ |
+| 100 | Here, I'll give you back the money I've stolen from you! | 盗んだお金ならホラ！ちゃんと返すからさァ！ |
+| 101 | …Or, uh, what's left of it. | ……まだ使ってないぶんは |
