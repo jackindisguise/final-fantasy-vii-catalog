@@ -1,5 +1,8 @@
-# `current.txt`
+# `notes.txt`
 This is a copy of the deck notes matching the current version.
+
+# `cards.txt`
+This is a copy of the deck cards matching the current version.
 
 # `current.apkg`
 This is a copy of the deck matching the current version.
