@@ -1,68 +1,22 @@
-`generate-kanji-order.js`
----
-Creates kanji lists from `kanji.JSON` and places them in `../kanji/`.
+# Process scene text.
+Scene text is in this format:
 
-`generate-kanji-readme.js`
----
-Generate data regarding kanji in each scene and places it in `../kanji/README.md`.
+>`<English line 1>` `\t` `<Japanese line 1>`
+>
+>`<English line 2>` `\t` `<Japanese line 2>`
+>
+>`...`
+>
+>`<English line n>` `\t` `<Japanese line n>`
 
-`generate_kanji_table.js`
----
-Generates a Kanji table and stores it in `kanji.JSON` for use in other scripts.
+The goal is to make it so that each line of Japanese text is accompanied by its exact English translation.
 
-`generate-scene-tables.js`
----
-Generates markdown tables with all scenes founds in `../scene/processed/` and stores them in `../scene/tabulated/`.
+While the script does keep related lines next to each other, much of the text is not consistently formatted. Linebreaks in a dialogue box are completely separated into separate lines in the source spreadsheet. Because the number of lines change between the Japanese and English text, this means not all of the meaning is preserved line-by-line.
 
-`generate-split-script.js`
----
-Split the English and Japanese entries for each line in each scene.
+Fortunately most of the multi-line dialogue boxes have opening and closing markers. However, even with this, it's not enough. Sometimes dialogue boxes are split into multiple dialogue boxes due to translation requirements. Sometimes multiple boxes get crunched into one. Sometimes, opening markers aren't present. Other times, closing markers aren't present. Sometimes it uses Japanese markers in the English text, and English markers in the Japanese text.
 
-Stores them in a separate file `../scene/split/english/` and `../scene/split/Japanese/`.
+What I've opted to do in light of this is to just crunch all multi-line texts into 1 line. In order to accomplish this, I wrote a script that does the following:
 
-`generate-vocabulary-list.js`
----
-Generates a list of all vocabulary in every scene found in `../scene/processed/`.
-
-The lists generated are JSON Files, stored in `../vocabulary/unprocessed/`, and they contain all definitions returned from a jsdict lookup.
-
-Need to be run through the `vocab-disambiguator-webserver` app to generate the final vocabulary list for each scene.
-
-`jsdict-lookup.js`
----
-Loads the jsdict dictionary into memory and then provides a function for looking up words in it.
-
-`kana-converter.json`
----
-This is a table of hiragana and katakana that aides in the process of converting hiragana to katakana and vice versa.
-
-`kanji.json`
----
-Auto-generated file with info regarding all the kanji found in the script.
-
-`latest.js`
----
-Produces a single line link to the latest update, for use with Ankiweb.
-
-`mecab-symbols.js`
----
-Shortcuts for parsing symbols in what Mecab returns.
-
-`mecab-wrapper.js`
----
-This is a quick wrapper for the commandline Mecab tool. Mecab is a Japanese tokenizer.
-It returns individuals units of language in Japanese, which allows me to pretty accurately
-scrape words from a Japanese sentence.
-
-`process_all.js`
----
-Automatically processes all formatted scenes in `../scene/formatted`
-
-`process.js`
----
-Exports the `process()` function for parsing formatted script text.
-
-This function is very simple. It accepts 1 argument (the full text of the script) and does a few things:
 * collapses all quote blocks in the English script (blocks that start with opening quotations “ and end with closing quotations ”) into 1 line;
 * collapses all quote blocks in the Japanese script (blocks that start with opening brackets 「 and end with closing brackets 」) into 1 line;
 * detects the beginning of quote blocks before the end of a quote block, and assumes the previous quote block ends there;
@@ -78,18 +32,83 @@ Due to inconsistencies in the source spreadsheet, you have to do quite a lot of 
 
 The ultimate goal is to have it so that the text in the English script has the exact same number of "lines" as the text in the Japanese script. Once all this formatting is done, each line in the English script is attached to the same line in the Japanese script. Matching lines is the only important thing.
 
-The format of the processed text should be thus:
+This function is implemented in the `process.js` file and is its sole export.
 
->`<English line>` `\t` `<Japanese line>`
+## Process all scene text automatically.
+Automatically processes all formatted scenes and stores them in the processed folder.
 
-`quick.js`
+Syntax: `node process-all`
+
+## Process a mock scene file.
+Processes the formatted script from `./formatted.txt` and pops out the processed script in `./processed.txt`.
+
+Syntax: `node quick`
+
+## Generate scene tables for easy reading on Github.
+Generates a table for each scene's dialogue using markdown.
+
+The resulting files are stored in `../scene/tabulated/`.
+
+Syntax: `node generate-scene-tables`
+
+## Split Japanese and English scene text.
+Split the English and Japanese entries for each line in each scene.
+
+English scene text is stored in `../scene/split/english/`.
+
+Japanese scene text is stored in `../scene/split/Japanese/`.
+
+Syntax: `node generate-split-script`
+
+## Extract kanji usage data from all scene files.
+Generates a kanji table and stores it in `kanji.JSON` for use in other scripts.
+
+Syntax: `node generate-kanji-table`
+
+## Create ordered kanji lists.
+Uses `kanji.JSON` to generate kanji lists in order of appearance, and in order of occurrences.
+
+The resulting files are stored in `../kanji/`.
+
+Syntax: `node generate-kanji-order`
+
+## Analyze kanji data.
+Generate a markdown file containing data about all kanji that appear in the script.
+
+The resulting file is stored in `../kanji/README.md`.
+
+Syntax: `node generate-kanji-readme`
+
+# Display the most recent version tag.
 ---
-Processes the formatted script from `formatted.txt` and pops out the processed script in `processed.txt`.
+Strictly for use with uploading to Ankiweb.
 
-`vocab-disambiguator-webserver.js`
----
-Opens an app that runs through a local webserver.
+Syntax: `node latest`
 
-This app allows you to quickly and easily disambiguate words found in each scene.
+# Use Mecab to tokenize Japanese.
+I wrote a quick wrapper for the commandline Mecab tool. It returns individuals units of language in Japanese, which allows me to pretty accurately scrape words from a Japanese sentence.
 
-Uses vocabulary files generated by `generate-vocabulary-list.js`.
+Mecab tokenizer function is exported by `mecab-wrapper.js`.
+
+# Easy dictionary lookup.
+A copy of JSdict can be loaded into memory, and you can easily look up words.
+
+The lookup function is exported by `jsdict-lookup.js`.
+
+## Generate vocabulary lists.
+Generates a list of all vocabulary found in every scene.
+
+Vocabulary lists are stored as JSON in `../vocabulary/unprocessed/`.
+
+Designed to process through the vocab disambiguator webserver.
+
+Syntax: `node generate-vocabulary-list`
+
+## Web app for disambiguating vocabulary.
+I created a web-app that allows you to quickly and easily disambiguate words found in each scene. It uses the JSON files generated by `generate-vocabulary-list` to do this.
+
+Disambiguated vocabulary files are stored in `../vocabulary/processed/`.
+
+Syntax: `node vocab-disambiguator-webserver`
+
+This starts the webserver. You'll need to visit it at `http://localhost/` to use it.
