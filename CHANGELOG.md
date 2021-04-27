@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.1.0...v2.2.0) (2021-04-27)
+
+
+### Features
+
+* Added miscellaneous text from the game. (UI elements, item names, weapon names, enemy names, etc...) ([0112e49](https://github.com/nowotato/final-fantasy-vii-catalog/commit/0112e4953d2f637337809b02ac7e8bb96abc5d2b))
+
+
+### Bug Fixes
+
+* Fixed spreadsheet name for misc. text. ([2633d45](https://github.com/nowotato/final-fantasy-vii-catalog/commit/2633d45c465b1901930442865b73ded20c2a6008))
+* Updated decks to new version. ([8906af3](https://github.com/nowotato/final-fantasy-vii-catalog/commit/8906af336bf0d2f71d5836e0522e0c88218a2f83))
+
 ## [2.1.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.0.2...v2.1.0) (2021-04-27)
 
 
