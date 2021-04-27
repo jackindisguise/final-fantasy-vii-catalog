@@ -7,10 +7,8 @@ function process(data){
 		let english = split[0];
 		let japanese = split[1];
 		if(english.toUpperCase() === japanese.toUpperCase()) continue // ignore name codes
-//		if(names.indexOf(source.toUpperCase()) !== -1 || names.indexOf(target) !== -1) continue;
-//		console.log(`Ignoring speaker line: ${source}\t${target}`)
-		englishLines.push(english);
-		japaneseLines.push(japanese);
+		englishLines.push(english.trim());
+		japaneseLines.push(japanese.trim());
 	}
 
 	let englishLinesRaster = englishLines.join("\r\n");
