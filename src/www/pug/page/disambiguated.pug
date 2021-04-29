@@ -6,26 +6,30 @@ block content
 			table(id='vocabulary', cellspacing=20, cellpadding=0)
 				tr 
 					th="Line #"
-					th="Word (Original)"
-					th="Root (Analyzed)"
-					th="Definitions"
-					th="English"
 					th="Japanese"
+					//th="Word (Original)"
+					//th="Root (Analyzed)"
+					th="Definition"
+					th="English"
 				- let i = 0;
 				while i < lines.length
 					- let line = lines[i];
 					tr(class='entry')
 						td(class='line')
 							div.ff7=i
-						td(class='word')
-							div.ff7=line.word
-						td(class='root')
-							div.ff7=line.root
-						td(class='definition')
+						//td(class='word')
+							//div.ff7=line.word
+						//td(class='root')
+							//div.ff7=line.root
+						td(class='japanese')
+							- let split = line.japanese.split(/[\[\]]/);
+							div.ff7.
+								#{split[0]}
+								<span class='highlight'>#{split[1]}</span>
+								#{split[2]}
+						td(class='definitions')
 							div.ff7=line.definition
 						td(class='english')
 							div.ff7=line.english
-						td(class='japanese')
-							div.ff7=line.japanese
 					- i++;
 			input(type='submit', class='submit')

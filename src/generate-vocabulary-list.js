@@ -3,6 +3,7 @@ const fs = require("fs");
 const http = require("http");
 
 // local packages
+const xtermColor = require("./xterm-color");
 const {mecabSync} = require("./mecab-wrapper");
 const {lookup} = require("./jsdict-lookup");
 const symbols = require("./mecab-symbols.json");
@@ -73,19 +74,14 @@ async function sleep(time){
 	});
 }
 
-const COLOR = {
-	HIGHLIGHT: "\u001b[33;1m\u001b[44m",
-	RESET: "\u001b[0m"
-}
-
 // local consts
 const inputFolder = "../scene/processed/";
 const outputFolder = "../vocabulary/unprocessed/";
 //const outputFolderUnique = "../vocabulary/unique/";
 
 // local data
-const lookupWords = []; // token roots (words) that have been searched for (don't repeat these)
-const wordsFound = []; // jsdict entries that we've chosen go here (just the text sequence of the entry)
+const lookupWords = []; // pure token words that have been searched for (don't repeat these)
+const lookupRoots = []; // token root words that have been searched for (don't repeat these)
 
 // scroll through files
 fs.readdir(inputFolder, async function(err, files){
@@ -98,9 +94,11 @@ fs.readdir(inputFolder, async function(err, files){
 	for(let file of files){
 		if(file.indexOf(".txt") == -1) continue; // not a scene file
 		console.log(`\t${file}`)
-		let sceneLines = [];
+		let start = new Date();
+		let sceneWords = [];
 		let text = fs.readFileSync(inputFolder+file, "utf8");
 		let lines = text.split("\r\n");
+		let duplicateRoots = 0;
 		for(let i=0;i<lines.length;i++){
 			let line = lines[i];
 			let split = line.split("\t");
@@ -108,18 +106,13 @@ fs.readdir(inputFolder, async function(err, files){
 			let japanese = split[1];
 			let tokens = await mecabSync(japanese);
 			for(let j=0;j<tokens.length;j++){
-				let reconstructed = [];
-				for(let k=0;k<tokens.length;k++) {
-					if(k===j) reconstructed.push(`[${tokens[k].word}]`);
-					else reconstructed.push(tokens[k].word);
-				}
 				let token = tokens[j];
 				if(!token.root) continue; // fake words?
-				if(lookupWords.contains(token.root)) continue; // ignore past searches
+				if(lookupRoots.contains(token.root)) { duplicateRoots++; continue; } // ignore past searches
 				// i actually think I should remove this, since it could be necessary
 				// to disambiguate 2 words with the same root. but removing this
 				// makes the files too big. too much extra work. no thanks.
-				lookupWords.push(token.root);
+				lookupRoots.push(token.root);
 				if(!tokenIsBasic(token)) continue; // not a verb, noun, adjective, or adverb
 				let search = lookup(`${token.root}`);
 				if(!search.length) continue;
@@ -132,12 +125,27 @@ fs.readdir(inputFolder, async function(err, files){
 					definitions.push(`${display} (${def.pos}) ${def.gloss}`);
 				}
 
-				sceneLines.push({word:token.word, root:token.root, definitions:definitions, english:english, japanese:reconstructed.join("")});
+				// reconstruct japanese phrase from tokens (for emphasis)
+				let reconstructed = [];
+				for(let k=0;k<tokens.length;k++) {
+					if(k===j) reconstructed.push(`[${tokens[k].word}]`);
+					else reconstructed.push(tokens[k].word);
+				}
+
+				// add to list of words
+				sceneWords.push({word:token.word, root:token.root, definitions:definitions, english:english, japanese:reconstructed.join("")});
 			}
 
 		}
 
+		let final = (new Date()) - start;
 		let fName = file.substring(0,file.length-4);
-		fs.writeFileSync(outputFolder+fName+".json", JSON.stringify(sceneLines, null, "\t"), "utf8");
+		fs.writeFileSync(outputFolder+fName+".json", JSON.stringify(sceneWords, null, "\t"), "utf8");
+		console.log(`\t\tScraped ${lines.length} lines in ${(final/1000).toFixed(2)} seconds.`)
+		console.log(`\t\tFound ${sceneWords.length} potential new words.`);
+		console.log(`\t\tIgnored ${duplicateRoots} potential duplicate words.`);
 	}
+
+	// save all word roots that have been searched for
+	fs.writeFileSync(outputFolder+"roots.txt", lookupRoots.join("\r\n"), "utf8");
 });

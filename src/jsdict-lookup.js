@@ -4,7 +4,6 @@ const fs = require("fs");
 const http = require("http");
 
 // local includes
-const symbols = require("./mecab-symbols");
 const convert = require("./kana-converter");
 
 // load jsdict
@@ -90,33 +89,6 @@ function lookup(word, spec){
 		for(let reading of r_ele) if(reading.reb === word || reading.reb === varHira || reading.reb === varKata) hasEntry = true;
 		for(let kanji of k_ele) if(kanji.keb === word || kanji.keb === varHira || kanji.keb === varKata) hasEntry = true;
 		if(!hasEntry) continue;
-		let entryPOS = getPOS(entry);
-		if(spec === symbols.pos.noun){
-			let isNoun = false;
-			for(let npos of nounPOS) {
-				if(entryPOS.contains(npos)) {
-					isNoun = true;
-					break;
-				}
-			}
-			if(!isNoun) continue; // not a noun
-		} else if(spec === symbols.pos.verb){
-			let isVerb = false;
-			for(let vpos of verbPOS) {
-				if(entryPOS.contains(vpos)){
-					isVerb = true;
-					break;
-				}
-			}
-			if(!isVerb) continue; // not a verb
-		} else if(spec === symbols.pos.i_adj){
-			if(!entryPOS.contains("i-adj")) continue; // not an i-adjective
-		} else if(spec === symbols.pos2.na_adj){
-			if(!entryPOS.contains("na-adj")) continue; // not a na-adjective
-		} else if(spec === symbols.pos.adverb){
-			if(!entryPOS.contains("adv")) continue; // not an adverb
-		}
-
 		results.push(entry);
 	}
 
