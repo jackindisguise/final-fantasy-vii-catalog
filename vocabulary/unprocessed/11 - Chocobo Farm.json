@@ -687,6 +687,20 @@
 		"japanese": "他のチョコボで外に出たいなら今、外に出してるチョコボを[戻し]てからにしてよ"
 	},
 	{
+		"word": "なり",
+		"root": "なり",
+		"definitions": [
+			"鳴り[なり] (n) ringing, sound",
+			"也[なり] (n, suf) to be,to be (location),sum of money",
+			"生り[なり] (n) bearing (fruit)",
+			"なり (prt) or something, for instance ... (though there are other suitable options),... or ...,as soon as, right after,while still, with previous state still in effect",
+			"形[なり] (n, adj-no) style, way, shape, form, appearance, state",
+			"成り[なり] (n) being promoted"
+		],
+		"english": "If you want to put a Chocobo in it, first, you must let it go and open a 'Chocobo Stable.'",
+		"japanese": "もし、チョコボをいれたければまず、逃がす[なり]なんなりして『チョコぼう』を開けなきゃ"
+	},
+	{
 		"word": "おじいさん",
 		"root": "おじいさん",
 		"definitions": [

@@ -357,6 +357,20 @@
 		"japanese": "ずいぶん[前向き]じゃねえかよ！で、何か考えたのか？"
 	},
 	{
+		"word": "小",
+		"root": "小",
+		"definitions": [
+			"小[しょう] (n, n-pref) smallness, small item,short month (i.e. having fewer than 31 days),elementary school,younger or inferior (of two items or people with the same name),unit of field area (approx. 400 sq m)",
+			"小[こ] (pref) small, little, slight,slightly less than, just about,somewhat, somehow,minor, petty",
+			"小[お] (pref) small, narrow,familiar prefix,slightly, a bit",
+			"細[ささ] (pref) small, little",
+			"小[ぐゎー] (suf) small, little, dear (figurative sense)",
+			"狭[さ] (pref) narrow, thin"
+		],
+		"english": "I always thought this Planet was so huge. But lookin' at it from space, I realized it's so small.",
+		"japanese": "でけえでけえと思ってたこの星も宇宙から見ると[小]せえ小せえ"
+	},
+	{
 		"word": "ぽっかり",
 		"root": "ぽっかり",
 		"definitions": [

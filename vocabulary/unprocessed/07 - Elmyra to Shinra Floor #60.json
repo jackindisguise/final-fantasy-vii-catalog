@@ -372,6 +372,16 @@
 		"japanese": "AERISの家２[Ｆ]"
 	},
 	{
+		"word": "ちゃ",
+		"root": "ちゃ",
+		"definitions": [
+			"茶[ちゃ] (n, adj-na) tea,tea plant (Camellia sinensis),tea preparation, making tea,brown,mockery",
+			"ては (exp) if (an action, etc.),since ..., if you are going to ...,one after another, [object Object],[object Object]"
+		],
+		"english": "Daddy, TIFA, CLOUD! Please bring AERIS back!",
+		"japanese": "とうちゃん、TIFA、CLOUD！[ちゃ]～んとAERIS助けてきてね"
+	},
+	{
 		"word": "本社",
 		"root": "本社",
 		"definitions": [
@@ -639,6 +649,16 @@
 		"japanese": "マリン、[父ちゃん]はもう一度お前に会いたかった……"
 	},
 	{
+		"word": "おなじ",
+		"root": "おなじ",
+		"definitions": [
+			"同じ[おなじ] (adv) same, identical, equal, uniform, equivalent, similar, common (origin), changeless, alike,anyway, anyhow, in either case",
+			"〃[おなじ] (n) ditto mark"
+		],
+		"english": "It'll take just as long to go down as it did to come up.",
+		"japanese": "今までのぼったのと[おなじ]だけ階段おりて？"
+	},
+	{
 		"word": "右腕",
 		"root": "右腕",
 		"definitions": [
@@ -705,6 +725,24 @@
 		],
 		"english": "Well what else does it look like!? I'm gonna kick some Shinra butt and…",
 		"japanese": "決まってるだろ！神羅のやつらを[けちら]して……"
+	},
+	{
+		"word": "し",
+		"root": "す",
+		"definitions": [
+			"酢[す] (n) vinegar",
+			"巣[す] (n) nest, rookery, breeding place, hive,den,haunt,(spider's) web",
+			"素[す] (pref) plain, unadorned, undecorated, unadulterated, au naturel,mere, poor,exceedingly",
+			"候[そろ] (aux) to be,to do",
+			"州[す] (n) sandbank, sandbar",
+			"為[す] (vs-c) to do",
+			"っす (aux) be, is",
+			"鬆[す] (adj-no) cavity (in old root vegetables, tofu, metal casting, etc.), pore, hollow, bubble, blowhole,porous, pithy, spongy",
+			"主[す] (suf) honorific (or familiar) suffix used after a name",
+			"簀[す] (n) mat (made of pieces of split bamboo or reeds tied together)"
+		],
+		"english": "Well what else does it look like!? I'm gonna kick some Shinra butt and…",
+		"japanese": "決まってるだろ！神羅のやつらをけちら[し]て……"
 	},
 	{
 		"word": "グズグズ",

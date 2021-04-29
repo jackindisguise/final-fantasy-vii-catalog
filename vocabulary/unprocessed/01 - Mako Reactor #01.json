@@ -374,6 +374,21 @@
 		"japanese": "今はもう神羅（しんら）をやめちまって俺たちの仲間って[わけ]さ"
 	},
 	{
+		"word": "さ",
+		"root": "さ",
+		"definitions": [
+			"差[さ] (n) difference, variation,difference",
+			"矢[や] (n) arrow,wedge, chock",
+			"さ (int) -ness,[object Object],come, come now",
+			"然[さ] (adv) so, like that, in that way",
+			"沙[しゃ] (num) one hundred-millionth",
+			"左[さ] (n, adj-no) left (esp. in vertical Japanese writing), the following",
+			"狭[さ] (pref) narrow, thin"
+		],
+		"english": "But he quit and is with us now.",
+		"japanese": "今はもう神羅（しんら）をやめちまって俺たちの仲間ってわけ[さ]"
+	},
+	{
 		"word": "まだ",
 		"root": "まだ",
 		"definitions": [
@@ -462,6 +477,19 @@
 		],
 		"english": "I don't care what your names are. Once this job's over…I'm outta here.",
 		"japanese": "あんたたちの名前なんて[興味]ないね。どうせこの仕事が終わったらお別れだ"
+	},
+	{
+		"word": "ない",
+		"root": "ない",
+		"definitions": [
+			"地震[じしん] (n) earthquake",
+			"無い[ない] (aux-adj) nonexistent, not being (there),unpossessed, unowned, not had,unique,not, impossible, won't happen,not ...,to not be..., to have not ...",
+			"亡い[ない] (adj-i) dead",
+			"内[ない] (suf) inside, within",
+			"ない (suf, adj-i) not,emphatic suffix"
+		],
+		"english": "I don't care what your names are. Once this job's over…I'm outta here.",
+		"japanese": "あんたたちの名前なんて興味[ない]ね。どうせこの仕事が終わったらお別れだ"
 	},
 	{
 		"word": "どうせ",
@@ -1420,6 +1448,19 @@
 		"japanese": "俺が[考え]てるのは、さっさと仕事を終わらせたいってことだけだ。警備兵やガードロボットが来ないうちにな"
 	},
 	{
+		"word": "の",
+		"root": "の",
+		"definitions": [
+			"野[の] (n-pref) plain, field,hidden (structural) member,wild,lacking a political post",
+			"の (prt) indicates possessive,nominalizes verbs and adjectives,substitutes for \"ga\" in subordinate phrases,(at sentence-end, falling tone) indicates a confident conclusion,(at sentence-end) indicates emotional emphasis,(at sentence-end, rising tone) indicates question",
+			"乃[の] (prt) possessive particle",
+			"箆[の] (n) shaft (of an arrow),arrow bamboo (Pseudosasa japonica)",
+			"幅[の] (n, n-suf, ctr) unit of measurement for cloth breadth (30-38 cm)"
+		],
+		"english": "The only thing I care about is finishin' this job before security and the Roboguards come.",
+		"japanese": "俺が考えてる[の]は、さっさと仕事を終わらせたいってことだけだ。警備兵やガードロボットが来ないうちにな"
+	},
+	{
 		"word": "警備",
 		"root": "警備",
 		"definitions": [
@@ -2105,6 +2146,17 @@
 		"japanese": "残り　[２]　分"
 	},
 	{
+		"word": "分",
+		"root": "分",
+		"definitions": [
+			"分[ぶん] (n, n-suf) part, segment, share, ration,rate,degree, one's lot, one's status, relation, duty, kind, lot,relationship, connection, correspondence,in proportion to, just as much as",
+			"分[ふん] (n) minute (unit of time),fun (one tenth of a monme, 5.787 grains)",
+			"分[ぶ] (n) one-tenth, one percent (one-tenth of a wari), 3 mm (one-tenth of a sun), 2.4 mm (one-tenth of a mon, a traditional unit used to measure shoe sizes), 0.1 degree (one-tenth of a do, used to measure body temperature on any temperature scale),one-quarter of a ryou (obsolete unit of currency),thickness,advantageous circumstances,one-tenth of a monme of silver"
+		],
+		"english": "Two minutes remaining",
+		"japanese": "残り　２　[分]"
+	},
+	{
 		"word": "３",
 		"root": "３",
 		"definitions": [
@@ -2333,6 +2385,18 @@
 		],
 		"english": "Rendezvous at Sector 8 station! Split up and get on the train!",
 		"japanese": "ランデブー地点は８番街ステーション！各自単独行動、列車に[乗りこむ]んだ！"
+	},
+	{
+		"word": "おい",
+		"root": "おい",
+		"definitions": [
+			"甥[おい] (n) nephew",
+			"老い[おい] (n) old age, old person, the old, the aged",
+			"おい (pn) hey!, oi!, ahoy!,I, me",
+			"笈[おい] (n) wooden box carried on one's back to store items for a pilgrimage"
+		],
+		"english": "H, hey!",
+		"japanese": "お、[おい]！"
 	},
 	{
 		"word": "金",
@@ -2628,7 +2692,7 @@
 		"definitions": [
 			"残念[ざんねん] (adj-na, n) deplorable, regrettable, disappointing, vexing, unfortunate"
 		],
-		"english": "I don't have time to mess around  with you guys.",
+		"english": "I don't have time to mess around with you guys.",
 		"japanese": "[残念]だが、おまえらの相手をしてるほどヒマじゃないんでな"
 	},
 	{
@@ -2637,7 +2701,7 @@
 		"definitions": [
 			"相手[あいて] (n) companion, partner, company,other party, addressee,opponent (sports, etc.)"
 		],
-		"english": "I don't have time to mess around  with you guys.",
+		"english": "I don't have time to mess around with you guys.",
 		"japanese": "残念だが、おまえらの[相手]をしてるほどヒマじゃないんでな"
 	},
 	{
@@ -2648,7 +2712,7 @@
 			"隙[すき] (n) gap, space,break, interlude, interval,chink (in one's armor, armour), chance, opportunity, weak spot,breach (of a relationship between people)",
 			"蓖麻[ひま] (n) castor oil plant"
 		],
-		"english": "I don't have time to mess around  with you guys.",
+		"english": "I don't have time to mess around with you guys.",
 		"japanese": "残念だが、おまえらの相手をしてるほど[ヒマ]じゃないんでな"
 	},
 	{

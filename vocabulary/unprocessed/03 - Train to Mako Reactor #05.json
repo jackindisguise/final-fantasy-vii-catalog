@@ -505,7 +505,7 @@
 			"車両[しゃりょう] (n) rolling stock, railroad cars, wheeled vehicles"
 		],
 		"english": "A search of all cars will be conducted!",
-		"japanese": "各[車両]緊急チェックに入ります　　"
+		"japanese": "各[車両]緊急チェックに入ります"
 	},
 	{
 		"word": "緊急",
@@ -514,7 +514,7 @@
 			"緊急[きんきゅう] (n, adj-no, adj-na) urgency, emergency"
 		],
 		"english": "A search of all cars will be conducted!",
-		"japanese": "各車両[緊急]チェックに入ります　　"
+		"japanese": "各車両[緊急]チェックに入ります"
 	},
 	{
 		"word": "くりかえし",
@@ -656,7 +656,7 @@
 			"護送[ごそう] (n, vs) escort (e.g. under guard), convoy"
 		],
 		"english": "Car being sent to the station",
-		"japanese": "未確認ＩＤを駅まで[護送]します　　"
+		"japanese": "未確認ＩＤを駅まで[護送]します"
 	},
 	{
 		"word": "レベル",
@@ -1231,6 +1231,18 @@
 		],
 		"english": "It's terrible. Who'd expect underwear bandits in this day and age?",
 		"japanese": "ひどいんです。いまどき、おいはぎ。み[ぐるみ]はぐんですから"
+	},
+	{
+		"word": "さっ",
+		"root": "さる",
+		"definitions": [
+			"猿[さる] (n) monkey (esp. the Japanese macaque, Macaca fuscata), ape, non-human primate,sly person,idiot, hick,sliding wooden bolt (for holding a door or window shut),clasp used to control the height of a pot-hook,bathhouse prostitute",
+			"去る[さる] (adj-pn) to leave, to go away,to pass, to elapse,to be distant,to send away, to drive off, to divorce,to (do) completely,last ... (e.g. \"last April\")",
+			"申[さる] (n) ninth sign of the Chinese zodiac (The Monkey, 3pm-5pm, west-southwest, July)",
+			"然る[さる] (adj-pn) a particular, a certain,that kind of, such a"
+		],
+		"english": "What the hell?",
+		"japanese": "なに[さっ]！"
 	},
 	{
 		"word": "いまさら",

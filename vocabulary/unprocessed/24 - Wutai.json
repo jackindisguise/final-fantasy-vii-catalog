@@ -175,6 +175,21 @@
 		"japanese": "ほっとくわけやないんですやろ？ほんな、ちゃっちゃと追いかけましょ！方角？北です、北！占いのお[つげ]や！"
 	},
 	{
+		"word": "生",
+		"root": "生",
+		"definitions": [
+			"生[なま] (n) raw, uncooked, fresh,natural, as it is, unedited, unprocessed,unprotected (i.e. not wearing a condom),live (i.e. not recorded),inexperienced, unpolished, green, crude,impudence, sauciness,unpasteurized beer, draft beer, draught beer,just a little, somehow, vaguely, partially, somewhat, half-, semi-,irresponsibly, half-baked,cash,tipsiness",
+			"生[き] (n, pref) pure, undiluted, raw, crude",
+			"初[うぶ] (n-pref) innocent, naive, unsophisticated, inexperienced, green, wet behind the ears,birth-",
+			"生[せい] (n, n-suf) life, living,I, me, myself",
+			"生[いく] (pref) vital, virile, lively",
+			"生[ふ] (n, n-suf) area of thick growth (of trees, grass, etc.)",
+			"生り[なまり] (n) boiled and half-dried bonito"
+		],
+		"english": "Life is just like a river. It flows from the large ocean of life, and eventually it returns back to it.",
+		"japanese": "人の[生]、ただ水の流れににたり。命の大海より流れいでまた大海へと帰るものなり"
+	},
+	{
 		"word": "にたり",
 		"root": "にたり",
 		"definitions": [
@@ -1440,6 +1455,24 @@
 		],
 		"english": "Power Change!",
 		"japanese": "力変化[招来]！"
+	},
+	{
+		"word": "てん",
+		"root": "てん",
+		"definitions": [
+			"天[てん] (n) sky,heaven,svarga (heaven-like realm visited as a stage of death and rebirth),deva (divine being of Buddhism)",
+			"点[てん] (ctr) spot, mark,point, dot,mark (e.g. in exam), score, points,comma,aspect, matter, respect,counter for goods, items, articles of clothing, works of art, etc.",
+			"店[てん] (n-suf) -store, -shop",
+			"佃[つくだ] (n) cultivated rice field",
+			"テン (n) 10, ten",
+			"典[てん] (n) ceremony, celebration, law code",
+			"貂[てん] (n) Japanese marten (Martes melampus),marten (any arboreal weasel-like mammal of genus Martes)",
+			"展[てん] (suf) exhibition, exhibit",
+			"恬[てん] (adj-t, adv-to) nonchalant",
+			"転[てん] (n) altering pronunciation or meaning, word with altered pronunciation or meaning,turning or twisting part of a text (in Chinese poetry)"
+		],
+		"english": "No good! You have to beat Gorky! Are you mocking this Pagoda?",
+		"japanese": "だ～めだって！ゴーリキーをやらなきゃ！五強の塔、ナメ[てん]じゃない？"
 	},
 	{
 		"word": "ふし",

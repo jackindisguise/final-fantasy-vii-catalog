@@ -511,6 +511,20 @@
 		"japanese": "……[マイナー]な人の写真はとらない主義なんですよう"
 	},
 	{
+		"word": "とも",
+		"root": "とも",
+		"definitions": [
+			"供[とも] (n, vs) companion, follower, attendant, retinue",
+			"友[とも] (n) friend, companion, comrade, pal",
+			"艫[とも] (n) stern",
+			"共[とも] (suf) together with,same,both, all, neither, none,including ...",
+			"とも (prt) certainly, of course, to be sure, surely,even if, no matter (who, what, when, where, why, how), though, although,without even, without so much as,at the (least, earliest, etc.),also (called),well",
+			"鞆[とも] (n) archer's left-wrist protector"
+		],
+		"english": "OK, OK… Fat-head… You're just his assistant.",
+		"japanese": "ほいほい……（えらそうにさ……）（セフィロスのお[とも]のくせにさ）"
+	},
+	{
 		"word": "ガイド",
 		"root": "ガイド",
 		"definitions": [
@@ -1507,6 +1521,18 @@
 		],
 		"english": "The villagers used to call it the Shinra mansion.",
 		"japanese": "村の人たちは神羅屋敷と呼んでいたわ。私たちが生まれたころにはもう[空き家]になっていて……"
+	},
+	{
+		"word": "ド",
+		"root": "ド",
+		"definitions": [
+			"度[ど] (n) degree (angle, temperature, scale, etc.),counter for occurrences,strength (of glasses), glasses prescription,alcohol content (percentage), alcohol by volume,extent, degree, limit,presence of mind, composure",
+			"ド (n) doh, do, 1st note in the tonic solfa representation of the diatonic scale",
+			"土[ど] (n, n-pref, n-suf) Saturday,earth (third of the five elements),Turkey",
+			"ど (pref) precisely, exactly, plumb, totally, very much,damn, stupid, cursed"
+		],
+		"english": "Do [CANCEL]",
+		"japanese": "×ボタン　[ド]"
 	},
 	{
 		"word": "ファ",

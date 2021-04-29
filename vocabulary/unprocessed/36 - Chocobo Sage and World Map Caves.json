@@ -42,6 +42,17 @@
 		"japanese": "この[スグ]そばで取れるそれはいいチョコボとタマゴを生ませるとのぉ"
 	},
 	{
+		"word": "はて",
+		"root": "はて",
+		"definitions": [
+			"果て[はて] (n) the end, the extremity, the limit, the limits, the result",
+			"はて (n) dear me!, good gracious!,well, let me see, now,question mark",
+			"涯[はて] (n) horizon"
+		],
+		"english": "You’ll need a certain type of nut. Just what type was it again...",
+		"japanese": "『実』が必要じゃ[はて]、なんの『実』じゃったかのぉ"
+	},
+	{
 		"word": "経",
 		"root": "経る",
 		"definitions": [

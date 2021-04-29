@@ -266,6 +266,20 @@
 		"japanese": "○ボタン：ルーレット[回転]"
 	},
 	{
+		"word": "ふん",
+		"root": "ふん",
+		"definitions": [
+			"分[ふん] (n) minute (unit of time),fun (one tenth of a monme, 5.787 grains)",
+			"ふん (pref) hmm, well ..., humph, huh, pshaw, pish,roughly, harshly, violently",
+			"匈[フン] (n) Hun",
+			"吻[ふん] (n) proboscis",
+			"芬[ふん] (adj-t, adv-to) Finland,fragrant, aromatic",
+			"糞[ふん] (n) feces (esp. animal), excrement, dung"
+		],
+		"english": "This atmosphere…",
+		"japanese": "この[ふん]いきは……"
+	},
+	{
 		"word": "釘",
 		"root": "釘",
 		"definitions": [

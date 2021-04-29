@@ -672,6 +672,15 @@
 		"japanese": "その[とおり]。それを操作するのは難しい"
 	},
 	{
+		"word": "バカ",
+		"root": "バカ",
+		"definitions": [
+			"馬鹿[ばか] (n) fool, idiot,trivial matter, folly, absurdity,foolish, stupid, dull, absurd, ridiculous,Mactra chinensis (species of trough shell)"
+		],
+		"english": "It'll blow the second some stupid jerk touches it.",
+		"japanese": "どこかの[バカ]者が勝手にふれると困るからな”"
+	},
+	{
 		"word": "ふれる",
 		"root": "ふれる",
 		"definitions": [

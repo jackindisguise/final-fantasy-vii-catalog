@@ -433,6 +433,21 @@
 		"japanese": "時々イドの中で何かが[光る]の。ひろったら、お金にかえてゴールドソーサーへ行くんだもん"
 	},
 	{
+		"word": "わ",
+		"root": "わ",
+		"definitions": [
+			"輪[わ] (n) ring, circle, loop,hoop,wheel,circle (e.g. of friends)",
+			"羽[わ] (ctr) counter for birds and rabbits",
+			"和[わ] (n, n-pref, adj-no) sum,harmony, peace,Japan, Japanese-style",
+			"把[わ] (ctr) counter for bundles",
+			"我[われ] (pref) I, me,oneself,you,prefix indicating familiarity or contempt",
+			"わ (int) indicates emotion or admiration,indicates emphasis,wah!,boo!",
+			"話[わ] (ctr) counter for stories, episodes of TV series, etc."
+		],
+		"english": "I'm gonna keep diggin' in this well till I come out on the other side of the world…",
+		"japanese": "このイドをず～っとほって世界のうらが[わ]まで行きたいな"
+	},
+	{
 		"word": "上げ",
 		"root": "上げる",
 		"definitions": [

@@ -343,6 +343,23 @@
 		"japanese": "あぶないから[閉め]とくね"
 	},
 	{
+		"word": "や",
+		"root": "や",
+		"definitions": [
+			"野[の] (n-pref) plain, field,hidden (structural) member,wild,lacking a political post",
+			"矢[や] (n) arrow,wedge, chock",
+			"八[はち] (num) eight",
+			"嫌[いや] (adj-na, n) disagreeable, detestable, unpleasant, reluctant",
+			"冶[や] (n) melting",
+			"や (prt) such things as ..., and ... and,the minute (that) ..., no sooner than ..., as soon as,be, is,o, oh,huh, what,hi,yes, what?,yes?, no?, is it?, isn't it?",
+			"屋[や] (n) (something) shop,somebody who sells (something) or works as (something),somebody with a (certain) personality trait,house,roof",
+			"輻[や] (n) spoke",
+			"夜[や] (ctr) counter for nights"
+		],
+		"english": "Oh, CLOUD!! Your face is pitch-black…",
+		"japanese": "[や]だ！　CLOUD！！顔、まっくろ……"
+	},
+	{
 		"word": "顔",
 		"root": "顔",
 		"definitions": [
@@ -1258,6 +1275,18 @@
 		],
 		"english": "Okay, then I'll put a little extra effort in and make it with a BANG.",
 		"japanese": "うん、じゃ、[腕]によりをかけてドッカ～ンと制作するわ"
+	},
+	{
+		"word": "より",
+		"root": "より",
+		"definitions": [
+			"より (adv) than,from, out of, since, at, on,except, but, other than,more",
+			"縒り[より] (n) twist, ply",
+			"寄り[より] (suf) pushing back one's opponent while locked in close quarters,having a tendency towards, being close to",
+			"選り[より] (n) selecting, choosing"
+		],
+		"english": "Okay, then I'll put a little extra effort in and make it with a BANG.",
+		"japanese": "うん、じゃ、腕に[より]をかけてドッカ～ンと制作するわ"
 	},
 	{
 		"word": "かけ",
@@ -2361,15 +2390,6 @@
 		"japanese": "みんなでお休みとって[温泉]でもいかない？"
 	},
 	{
-		"word": "束ね",
-		"root": "束ね",
-		"definitions": [
-			"束ね[たばね] (n) bundle, control, management"
-		],
-		"english": "Alrighty then! It's a date!",
-		"japanese": "うん！CLOUD、約[束ね]　"
-	},
-	{
 		"word": "誘惑",
 		"root": "誘惑",
 		"definitions": [
@@ -2923,6 +2943,17 @@
 		],
 		"english": "Back during the war, I remember there was a lot of painful scenes then.",
 		"japanese": "戦争中のことでしたね。あのころは、[つらい]場面が多かったです…"
+	},
+	{
+		"word": "また",
+		"root": "また",
+		"definitions": [
+			"又[また] (adv, conj, pref) again, and, also, still (doing something)",
+			"股[また] (n) crotch, crutch, groin, thigh,fork (in a tree, road, river, etc.), tines (of a fork)",
+			"摩多[また] (n) vowel (in the Siddham script)"
+		],
+		"english": "But, that's a story for another day…",
+		"japanese": "いや、その話は[また]の機会に……"
 	},
 	{
 		"word": "機会",
@@ -5229,6 +5260,20 @@
 		],
 		"english": "You think I'm a little too uptight?",
 		"japanese": "[もしかして]、俺、カタマってます？"
+	},
+	{
+		"word": "ます",
+		"root": "ます",
+		"definitions": [
+			"増す[ます] (v5s, vi, vt) to increase, to grow",
+			"マス (n) mass,mass (media, production, etc.),masturbation",
+			"升[ます] (n) measuring container, measure,box (seating at a theatre, etc.),square on a grid, cell of a grid,square bearing block (at the top of a pillar)",
+			"鱒[ます] (n) trout, sea trout",
+			"ます (aux-v) used to indicate respect for the listener (or reader),used to indicate respect for those affected by the action",
+			"在す[います] (v4s, vi) to be,to go, to come"
+		],
+		"english": "You think I'm a little too uptight?",
+		"japanese": "もしかして、俺、カタマって[ます]？"
 	},
 	{
 		"word": "五",

@@ -223,6 +223,16 @@
 		"japanese": "前足が……後ろ足が……シッポが[ちぎれ]そうだ！！"
 	},
 	{
+		"word": "かも",
+		"root": "かも",
+		"definitions": [
+			"鴨[かも] (n) duck,easy mark, sucker, sitting duck",
+			"かも (prt) may, might, perhaps, may be, possibly"
+		],
+		"english": "I, I don't know if I can…go on.",
+		"japanese": "ア、アタシもうダメ……[かも]……"
+	},
+	{
 		"word": "はいつくばっ",
 		"root": "はいつくばう",
 		"definitions": [

@@ -2486,6 +2486,17 @@
 		"japanese": "ヒョーッ！あの人も、みなさんのお知り合い？なんや[アブ]なそうな人やなぁ～"
 	},
 	{
+		"word": "ああ",
+		"root": "ああ",
+		"definitions": [
+			"嗚呼[ああ] (int) ah!, oh!, alas!,yes, indeed, that is correct,aah, gah, argh,hey!, yo!,uh huh, yeah yeah, right, gotcha",
+			"ああ (adv) like that (used for something or someone distant from both speaker and listener), so",
+			"唖唖[ああ] (adv) caw (cry of a crow, etc.)"
+		],
+		"english": "I mean, he told us to, didn't he? Then that's that, right?",
+		"japanese": "向こうも[ああ]言ってんだ。ここでオサラバしよ、な？"
+	},
+	{
 		"word": "すんなり",
 		"root": "すんなり",
 		"definitions": [
@@ -2801,6 +2812,16 @@
 		],
 		"english": "All they give us is artillery and stupid excuses… What's left is a world of despair and emptiness…",
 		"japanese": "与えられるのは銃弾と不条理…残されるのは[絶望]と無の世界…それだけだ！！"
+	},
+	{
+		"word": "無",
+		"root": "無",
+		"definitions": [
+			"無[む] (pref) nothing, naught, nought, nil, zero,un-, non-",
+			"無[ぶ] (pref) un-, non-,bad ..., poor ..."
+		],
+		"english": "All they give us is artillery and stupid excuses… What's left is a world of despair and emptiness…",
+		"japanese": "与えられるのは銃弾と不条理…残されるのは絶望と[無]の世界…それだけだ！！"
 	},
 	{
 		"word": "正気",

@@ -436,6 +436,16 @@
 		"japanese": "しもんつけたり、傷つけたり[へこま]せたりしたらただじゃおかないぞ"
 	},
 	{
+		"word": "・",
+		"root": "・",
+		"definitions": [
+			"中黒[なかぐろ] (n) middle dot (typographical symbol used between parallel terms, names in katakana, etc.), full-stop mark at mid- character height, interpoint (interword separation)",
+			"中ぽつ[なかぽつ] (n) middle dot (typographical symbol used between parallel terms, names in katakana, etc.), full-stop mark at mid- character height, interpoint (interword separation)"
+		],
+		"english": "Da plane, da plane!! This's something you'll never be able to do in your lifetime.",
+		"japanese": "飛[・]行・機！！君たちには、一生手のとどかないしろもの"
+	},
+	{
 		"word": "行",
 		"root": "行",
 		"definitions": [
@@ -1115,6 +1125,30 @@
 		"japanese": "そうね。[旅費]だって高かったんだし"
 	},
 	{
+		"word": "しか",
+		"root": "しか",
+		"definitions": [
+			"歯科[しか] (n) dentistry",
+			"詩歌[しいか] (n) Japanese and Chinese poetry,poetry, poems",
+			"鹿[しか] (n) deer (esp. the sika deer, Cervus nippon), cervid",
+			"史家[しか] (n) historian",
+			"紙価[しか] (n) price of paper",
+			"しか (prt) only, nothing but",
+			"市価[しか] (n) market price, current price",
+			"師家[しか] (n) the teacher's home",
+			"賜暇[しか] (n) furlough, leave of absence",
+			"私家[しか] (n) private house, one's own house",
+			"糸価[しか] (n) price of silk thread",
+			"疵瑕[しか] (n) blemish, flaw, defect",
+			"然[しか] (int) like that, as such,yeah, uh-huh",
+			"知客[しか] (n) head monk in charge of the administrative section of a zendo (Zen)",
+			"詩化[しか] (n, vs) poetization",
+			"詩家[しか] (n) poet"
+		],
+		"english": "But only your average Joes are trying to pick us up.",
+		"japanese": "でも、なんだってこのくらいの[しか]声をかけてこないの"
+	},
+	{
 		"word": "うつくし",
 		"root": "うつくしい",
 		"definitions": [
@@ -1131,6 +1165,18 @@
 		],
 		"english": "How about some 'Soft' as a memento of this wonderful trip? Made especially in Costa del Sol!",
 		"japanese": "あなたの楽しい旅の記念にコスタ・デル・ソル特製『金の[針]』はいかがですか？"
+	},
+	{
+		"word": "大",
+		"root": "大",
+		"definitions": [
+			"大[おお] (pref) big, large",
+			"大[だい] (n) the large part of,big, large, great,approximate size, no larger than,-university,large (e.g. serving size), loud (e.g. volume setting)",
+			"大き[おおき] (n, adj-na) great, grand, large,greater (of equal court ranks), upper, senior,a great deal, very much",
+			"大い[おおい] (n, adj-na) greater (of equal court ranks), upper, senior,a great deal, very much"
+		],
+		"english": "Well, we're lucky to have that cutie working for us part-time.",
+		"japanese": "いやあ、バイトでかわいい子がはいってくれたんで[大]助かりです"
 	},
 	{
 		"word": "とんずら",
@@ -1325,6 +1371,21 @@
 		],
 		"english": "I wan' learn how speak beddah.",
 		"japanese": "おキャクさん、ワタシ、[コトバ]できるよにもっとおボえたい"
+	},
+	{
+		"word": "よ",
+		"root": "よ",
+		"definitions": [
+			"四[し] (num) four",
+			"世[よ] (n) world, society, public,life, lifetime,age, era, period, epoch, generation,reign, rule,the times,world (of existence)",
+			"夜[よる] (n-adv, n-t) evening, night",
+			"余[よ] (pn) over, more than,I, me",
+			"よ (int) hey, you,hey,hey, hold on,yo, hey",
+			"節[よ] (n) space between two nodes (on bamboo, etc.)",
+			"弥[いや] (adv) more and more, increasingly,extremely, very"
+		],
+		"english": "I wan' learn how speak beddah.",
+		"japanese": "おキャクさん、ワタシ、コトバできる[よ]にもっとおボえたい"
 	},
 	{
 		"word": "えたい",

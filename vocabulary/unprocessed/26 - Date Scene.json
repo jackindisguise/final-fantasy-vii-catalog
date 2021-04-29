@@ -340,6 +340,17 @@
 		"japanese": "スタコ～ラ[逃げ]～る"
 	},
 	{
+		"word": "わい",
+		"root": "わい",
+		"definitions": [
+			"わい (prt) [object Object]",
+			"私[わい] (pn) I, me,you",
+			"Ｙ[ワイ] (n) Y, y"
+		],
+		"english": "Now let's all return… and celebrate.",
+		"japanese": "さあみなのもの～もどって～い[わい]のうたげを～"
+	},
+	{
 		"word": "めでたく",
 		"root": "めでたい",
 		"definitions": [

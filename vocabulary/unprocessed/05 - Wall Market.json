@@ -898,6 +898,20 @@
 		"japanese": "１００万ギル[つま]れてもいやだって。お花は３００ギルもするし……。意外と商売じょうずだぜ、ありゃ"
 	},
 	{
+		"word": "いや",
+		"root": "いや",
+		"definitions": [
+			"否[いいえ] (int) no, nay,well, er, why,you're welcome, not at all, don't mention it",
+			"嫌[いや] (adj-na, n) disagreeable, detestable, unpleasant, reluctant",
+			"本家[ほんけ] (n) head house (family), birthplace, originator",
+			"イヤ (n) ear,year",
+			"弥[いや] (adv) more and more, increasingly,extremely, very",
+			"いや (int) why, oh,no!, quit it!, stop!"
+		],
+		"english": "And she said not even if I paid her 1,000,000 gil. Her flowers cost 300 gil, too… She's a good business woman.",
+		"japanese": "１００万ギルつまれても[いや]だって。お花は３００ギルもするし……。意外と商売じょうずだぜ、ありゃ"
+	},
+	{
 		"word": "商売",
 		"root": "商売",
 		"definitions": [
@@ -1728,6 +1742,37 @@
 		],
 		"english": "Received Key Item \"Glass Tiara\"!",
 		"japanese": "キーアイテム『[ガラス]のティアラ』を手にいれた！"
+	},
+	{
+		"word": "かい",
+		"root": "かい",
+		"definitions": [
+			"回[かい] (n) counter for occurrences,a time, an instance,inning (baseball), round, game,episode, chapter, instalment,Hui (people),Islam",
+			"階[かい] (ctr) storey, story, floor,stairs,stage (in chronostratigraphy),counter for storeys and floors of a building",
+			"貝[かい] (n) shellfish,seashell, shell",
+			"会[かい] (n, n-suf) meeting, assembly, party,association, club",
+			"匙[さじ] (n) spoon",
+			"下位[かい] (n, adj-no) low rank, lower position, subordinate position, lower order (e.g. byte)",
+			"買い[かい] (n) buying, shopping,buyer,purchase",
+			"華夷[かい] (n) China and foreign countries (from the perspective of China), civilized land and uncivilized land",
+			"櫂[かい] (n) paddle, oar, scull",
+			"甲斐[かい] (n) effect, result, worth, use, avail",
+			"怪[かい] (n) mystery, wonder",
+			"下意[かい] (n) the feelings of the people",
+			"改[かい] (n-suf) revision",
+			"解[かい] (n) solution (of equation)",
+			"界[かい] (suf) kingdom,erathem (rock layer corresponding to the era in which it was deposited),partition of land,the world of (some category)",
+			"Χ[カイ] (n) chi",
+			"戒[かい] (n) admonition, commandment,sila (precept)",
+			"快[かい] (n) pleasure, delight, enjoyment",
+			"峡[かい] (n) gorge, ravine",
+			"卵[かい] (n) egg, eggshell",
+			"下医[かい] (n) bad physician, bad doctor",
+			"下衣[したごろも] (n) undergarment, underwear,lower garment (e.g. trousers)",
+			"かい (prt) yes?, no?, isn't it?, is it?"
+		],
+		"english": "Let's do some shoppin'.",
+		"japanese": "お[かい]ものしましょうや"
 	},
 	{
 		"word": "のし",
@@ -3011,6 +3056,15 @@
 		"japanese": "わしらにこんな立派な部屋はなぁ。まるいふとんにカクカク[ふろ]わし、どうもおちつかんのやわ"
 	},
 	{
+		"word": "ええ",
+		"root": "ええ",
+		"definitions": [
+			"ええ (adj-f) yes, that is correct, right,um, errr,huh?,grrr, gah, Must I?,good"
+		],
+		"english": "Don't worry about it. It's a high class neighborhood, in the Big City.",
+		"japanese": "[ええ]んとちゃいますか。ここらは大都会の下、高級地なんですよ。ばちがあたるちゅうもんですよ"
+	},
+	{
 		"word": "ここら",
 		"root": "ここら",
 		"definitions": [
@@ -3027,6 +3081,18 @@
 		],
 		"english": "Don't worry about it. It's a high class neighborhood, in the Big City.",
 		"japanese": "ええんとちゃいますか。ここらは大都会の下、[高級]地なんですよ。ばちがあたるちゅうもんですよ"
+	},
+	{
+		"word": "ば",
+		"root": "ば",
+		"definitions": [
+			"羽[わ] (ctr) counter for birds and rabbits",
+			"場[ば] (n) place, spot, space,field, discipline, sphere, realm,occasion, situation,scene (of a play, movie, etc.),session (of the stock market),area in which cards are laid out (in a card game),round (i.e. east, south, etc.),field,field (gestalt psychology)",
+			"把[わ] (ctr) counter for bundles",
+			"ば (prt) if ... then, when,and,why don't you...?,the more (one does something),because, since"
+		],
+		"english": "Don't worry about it. It's a high class neighborhood, in the Big City.",
+		"japanese": "ええんとちゃいますか。ここらは大都会の下、高級地なんですよ。[ば]ちがあたるちゅうもんですよ"
 	},
 	{
 		"word": "あたる",
@@ -3425,6 +3491,28 @@
 		],
 		"english": "Psst… (Oh man, not again!?)",
 		"japanese": "ひそひそ……（おいおい、また[かよ]！！）"
+	},
+	{
+		"word": "たい",
+		"root": "たい",
+		"definitions": [
+			"対[たい] (n, conj) opposite, opposition,versus, vs., v.,to (e.g. \"winning a game five to three\"),equal footing, equal terms,against ..., anti-, toward ..., to ...",
+			"鯛[たい] (n) sea bream (Sparidae), porgy,tai (species of reddish-brown Pacific sea bream, Pagrus major)",
+			"泰[タイ] (n) Thailand",
+			"帯[たい] (n-suf) band (e.g. conduction, valence), belt (e.g. Van-Allen, asteroid, etc.)",
+			"体[たい] (n, n-suf) body, physique, posture,shape, form, style,substance, identity, reality,field,counter for humanoid forms (e.g. dolls, statues, corpses, etc.),typeface, type",
+			"タイ (n) tie",
+			"隊[たい] (n, n-suf) party, group, crew, team, body,company (of troops), corps, unit, squad",
+			"他意[たい] (n) ill will, malice, another intention, secret purpose, ulterior motive, fickleness, double-mindedness",
+			"たい (suf, adj-i) want to ... do something, would like to ...,indicates emphasis,very ...",
+			"胎[たい] (n) womb",
+			"態[たい] (n, n-suf) condition, figure, appearance,voice",
+			"袋[たい] (suf, ctr) counter for things inside a bag",
+			"台[たい] (n, n-pref, n-suf) Taiwan",
+			"堆[たい] (n) bank (river, lake)"
+		],
+		"english": "Help! Someone…! Hurry!",
+		"japanese": "[たい]へ～ん！だれか～だれか、きて～♥"
 	},
 	{
 		"word": "うっ",
@@ -4420,6 +4508,16 @@
 		],
 		"english": "Ha ha. You know, you don't look bad, if ya don't look closely.",
 		"japanese": "フフフ……その[格好よく]見るとナカナカじゃない"
+	},
+	{
+		"word": "なんて",
+		"root": "なんて",
+		"definitions": [
+			"何て[なんて] (adj-f, adv) how ..!, what ..!,what (questioning)",
+			"なんて (suf) such as, (things) like,exclamation"
+		],
+		"english": "I wonder what BARRET would say if he could see you?",
+		"japanese": "BARRETが見たら[なんて]言うかな……"
 	},
 	{
 		"word": "テレ",

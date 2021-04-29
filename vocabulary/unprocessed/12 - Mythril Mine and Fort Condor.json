@@ -619,6 +619,18 @@
 		"japanese": "母親たちと子どもたちは、別の村へ[移し]た。私たちも、かくごはできている"
 	},
 	{
+		"word": "元",
+		"root": "元",
+		"definitions": [
+			"元[もと] (n) origin, source,base, basis, foundation, root,cause,ingredient, material,(somebody's) side, (somebody's) location,original cost (or capital, principal, etc.),(plant) root, (tree) trunk,first section of a waka,counter for blades of grass, tree trunks, etc., and for falcons (in falconry),handle (chopsticks, brush, etc.), grip",
+			"元[げん] (n) unknown (e.g. in an equation),element (of a set),yuan (monetary unit of China),Yuan dynasty (China)",
+			"元[もと] (n, adj-no, n-adv, n-pref) former, ex-, past, one-time",
+			"元[ユアン] (n) yuan (monetary unit of China)"
+		],
+		"english": "It's a one shot gamble but we're asking for your help.",
+		"japanese": "話を[元]へもどそう。もしこの小屋に敵が進入したときには君たちが直接戦わなければならなくなる"
+	},
+	{
 		"word": "進入",
 		"root": "進入",
 		"definitions": [

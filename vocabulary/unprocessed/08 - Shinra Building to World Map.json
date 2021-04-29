@@ -228,6 +228,18 @@
 		"japanese": "まあミッドガル、いえ、今や世界のエネルギー流通を一手にひきうける神羅カンパニーの本社としては、当然の[セキュリティ]よね"
 	},
 	{
+		"word": "あら",
+		"root": "あら",
+		"definitions": [
+			"あら (int) oh, ah",
+			"𩺊[あら] (n) saw-edged perch (Niphon spinosus)",
+			"粗[あら] (pref) remaining bony parts (of a fish after filleting),flaw (esp. of a person), fault, defect,rice chaff,rough,crude, raw, natural, wild",
+			"新[さら] (adj-na) new, unused,new,obvious, natural"
+		],
+		"english": "Oh, I have to go. Gotta get back to work!",
+		"japanese": "[あら]やだ、長くなっちゃったわ。それじゃおたがい、お仕事がんばりましょうね♥"
+	},
+	{
 		"word": "資料",
 		"root": "資料",
 		"definitions": [
@@ -1621,7 +1633,7 @@
 			"歌妓[かぎ] (n) woman who earns her living by entertaining with song, dance and playing the shamisen, geisha who sings at parties"
 		],
 		"english": "Locked…",
-		"japanese": "[カギ]がかかっている……　　"
+		"japanese": "[カギ]がかかっている……"
 	},
 	{
 		"word": "故障",
@@ -1803,7 +1815,7 @@
 			"被害[ひがい] (n) (suffering) damage, injury, harm"
 		],
 		"english": "We have the damage estimates for Sector 7.",
-		"japanese": "７番街の[被害]報告が出ました　"
+		"japanese": "７番街の[被害]報告が出ました"
 	},
 	{
 		"word": "稼動",
@@ -2943,6 +2955,15 @@
 		],
 		"english": "Get AERIS outta the building!",
 		"japanese": "[演説]好きなところはそっくりね"
+	},
+	{
+		"word": "そりゃ",
+		"root": "そりゃ",
+		"definitions": [
+			"それは (exp) very, extremely,that is"
+		],
+		"english": "I'll explain later! Just take my word for now! I'll go after I take care of him!",
+		"japanese": "なんだ[そりゃ]？"
 	},
 	{
 		"word": "とどめ",

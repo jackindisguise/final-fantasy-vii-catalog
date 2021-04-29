@@ -1567,6 +1567,15 @@
 		"japanese": "おっ[はよう]ございます！まだ眠そうな顔してますね～"
 	},
 	{
+		"word": "ござい",
+		"root": "ござる",
+		"definitions": [
+			"御座る[ござる] (v4r, vi) to be"
+		],
+		"english": "Good morning! You still seem a little sleepy.",
+		"japanese": "おっはよう[ござい]ます！まだ眠そうな顔してますね～"
+	},
+	{
 		"word": "ホテル",
 		"root": "ホテル",
 		"definitions": [

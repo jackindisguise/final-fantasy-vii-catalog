@@ -1189,6 +1189,17 @@
 		"japanese": "神羅はよ、こういう便利な物は絶対に[独り占め]しちまうんだよな。いただいちまおうぜ！"
 	},
 	{
+		"word": "なら",
+		"root": "なら",
+		"definitions": [
+			"なら (conj) if, in case, if it is the case that, if it is true that,as for, on the topic of,if that's the case, if so, that being the case,if possible, if circumstances allow",
+			"楢[なら] (n) oak (esp. Quercus serrata)",
+			"奈良[なら] (n) Nara (city)"
+		],
+		"english": "…If you would like to use it, please ask the Captain. The Captain should be in the rocket.",
+		"japanese": "……もしそれが使いたい[なら]艇長に聞いて下さい。艇長はきっとロケットのところにいると思います"
+	},
+	{
 		"word": "またの名",
 		"root": "またの名",
 		"definitions": [
