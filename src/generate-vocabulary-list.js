@@ -108,12 +108,12 @@ fs.readdir(inputFolder, async function(err, files){
 			for(let j=0;j<tokens.length;j++){
 				let token = tokens[j];
 				if(!token.root) continue; // fake words?
+				if(!tokenIsBasic(token)) continue; // not a verb, noun, adjective, or adverb
 				if(lookupRoots.contains(token.root)) { duplicateRoots++; continue; } // ignore past searches
 				// i actually think I should remove this, since it could be necessary
 				// to disambiguate 2 words with the same root. but removing this
 				// makes the files too big. too much extra work. no thanks.
 				lookupRoots.push(token.root);
-				if(!tokenIsBasic(token)) continue; // not a verb, noun, adjective, or adverb
 				let search = lookup(`${token.root}`);
 				if(!search.length) continue;
 				let definitions = [];
