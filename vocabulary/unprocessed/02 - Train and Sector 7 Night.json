@@ -5120,15 +5120,13 @@
 		"japanese": "でもな、おまえは反乱組織アバランチにやとわれてる身だ。神羅のかたを[持つ]んじゃねえ！"
 	},
 	{
-		"word": "質",
-		"root": "質",
+		"word": "質問",
+		"root": "質問",
 		"definitions": [
-			"質[しつ] (n) quality, value,nature, inherent quality, character,logical quality",
-			"質[たち] (n) nature (of a person), disposition, temperament,nature (of something), character, kind, sort",
-			"質[しち] (n) collateral, pledge, pawned article"
+			"質問[しつもん] (n, vs, adj-no) question, inquiry, enquiry"
 		],
 		"english": "Stayin' with Shinra? You asked me a question and I answered it…that's all.",
-		"japanese": "神羅のかたをもつ？俺はあんたの[質]間に答えただけだ"
+		"japanese": "神羅のかたをもつ？俺はあんたの[質問]に答えただけだ"
 	},
 	{
 		"word": "答え",
@@ -5137,7 +5135,7 @@
 			"答える[こたえる] (v1, vi) to answer, to reply"
 		],
 		"english": "Stayin' with Shinra? You asked me a question and I answered it…that's all.",
-		"japanese": "神羅のかたをもつ？俺はあんたの質間に[答え]ただけだ"
+		"japanese": "神羅のかたをもつ？俺はあんたの質問に[答え]ただけだ"
 	},
 	{
 		"word": "待っ",
@@ -10655,7 +10653,7 @@
 			"醜女[ぶす] (n) extremely ugly woman"
 		],
 		"english": "This might sound rude, but…",
-		"japanese": "ハッハッ……[ぶし]つけな質間ですが"
+		"japanese": "ハッハッ……[ぶし]つけな質問ですが"
 	},
 	{
 		"word": "健在",

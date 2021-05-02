@@ -463,6 +463,17 @@
 		"japanese": "は、[早く]追わないと！"
 	},
 	{
+		"word": "質",
+		"root": "質",
+		"definitions": [
+			"質[しつ] (n) quality, value,nature, inherent quality, character,logical quality",
+			"質[たち] (n) nature (of a person), disposition, temperament,nature (of something), character, kind, sort",
+			"質[しち] (n) collateral, pledge, pawned article"
+		],
+		"english": "Dognap it!",
+		"japanese": "イヌ[質]にする"
+	},
+	{
 		"word": "たすけ",
 		"root": "たすける",
 		"definitions": [

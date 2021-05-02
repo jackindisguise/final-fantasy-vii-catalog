@@ -2415,15 +2415,6 @@
 		"japanese": "興味深い問いだ。しかし、その問いは答え難いな。私は見てのとおり、こういう[存在]だ"
 	},
 	{
-		"word": "質問",
-		"root": "質問",
-		"definitions": [
-			"質問[しつもん] (n, vs, adj-no) question, inquiry, enquiry"
-		],
-		"english": "…You must have many questions, but first, let's get out of here. I'll lead the way.",
-		"japanese": "……いろいろ[質問]もあるだろうがとりあえずここから出ようか。道案内くらいなら付きあってやる"
-	},
-	{
 		"word": "道案内",
 		"root": "道案内",
 		"definitions": [

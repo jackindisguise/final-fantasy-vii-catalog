@@ -3,6 +3,7 @@ const fs = require("fs");
 const http = require("http");
 
 // local packages
+const timescale = require("./timescale");
 const xtermColor = require("./xterm-color");
 const {mecabSync} = require("./mecab-wrapper");
 const {lookup} = require("./jsdict-lookup");
@@ -141,7 +142,7 @@ fs.readdir(inputFolder, async function(err, files){
 		let final = (new Date()) - start;
 		let fName = file.substring(0,file.length-4);
 		fs.writeFileSync(outputFolder+fName+".json", JSON.stringify(sceneWords, null, "\t"), "utf8");
-		console.log(`\t\tScraped ${lines.length} lines in ${(final/1000).toFixed(2)} seconds.`)
+		console.log(`\t\tScraped ${lines.length} lines in ${timescale(final)}.`)
 		console.log(`\t\tFound ${sceneWords.length} potential new words.`);
 		console.log(`\t\tIgnored ${duplicateRoots} potential duplicate words.`);
 	}

@@ -26,16 +26,6 @@ function __array(data){
 }
 
 // lookup definitions
-async function _async_get(query, callback){
-	return new Promise(function(resolve){
-		http.get(`http://localhost:666/lookup/${encodeURI(query)}/`, function(res){
-			let data = "";
-			res.on("data", function(chunk){ data += chunk; });
-			res.on("end", function(){ callback(data); resolve(); });
-		});
-	});
-}
-
 function kata2hira(word){
 	return word.replace(/(.)/g, function(a,char){
 		for(let kana in convert.katakana) if(char == kana) return convert.katakana[kana];
@@ -48,33 +38,6 @@ function hira2kata(word){
 		for(let kana in convert.hiragana) if(char == kana) return convert.hiragana[kana];
 		return char;
 	});
-}
-
-function getPOS(entry){
-	let senses = __array(entry.sense);
-	let pos = [];
-	for(let sense of senses){
-		if(!sense.pos) continue;
-		let _pos = __array(sense.pos);
-		for(let entry of _pos) if(!pos.contains(entry)) pos.push(entry);
-	}
-
-	return pos;
-}
-
-const nounPOS = ["n","suf","n-pr","n-adv","n-suf","n-pref","n-t","adj-na","adj-no","adj-pn","adj-t","adj-f","pn","vs"];
-const verbPOS = [
-	"v1","v1-s","v2a-s","v4h","v4r","v5aru","v5b","v5g","v5k","v5k-s","v5m","v5n","v5r","v5r-i","v5s",
-	"v5t","v5u","v5u-s","v5uru","vz","vi","vk","vn","vr","vs","vs-c","vs-s","vs-i","aux-v","iv","vt","vi",
-	"v-unspec","v4k","v4g","v4s","v4t","v4n","v4b","v4m","v2k-k","v2g-k","v2t-k","v2d-k","v2h-k","v2b-k",
-	"v2m-k","v2y-k","v2r-k","v2k-s","v2g-s","v2s-s","v2z-s","v2t-s","v2d-s","v2n-s","v2h-s","v2b-s","v2m-s",
-	"v2y-s","v2r-s","v2w-s"
-];
-
-async function lookupSync(query){
-	let result;
-	await _async_get(query, function(data){ result = data; });
-	return result;
 }
 
 function lookup(word, spec){
@@ -133,4 +96,4 @@ function getWeight(entry){
 	return score;
 }
 
-module.exports = {lookup:lookup, lookupSync:lookupSync};
+module.exports = {lookup:lookup};
