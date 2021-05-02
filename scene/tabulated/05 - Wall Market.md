@@ -704,7 +704,7 @@
 | 702 | CLOUD!? | CLOUD！？ |
 | 703 | Why are you dressed like that!? And what are you doing here!? | その格好はどうしたの！？ここでなにしてるの！？ |
 | 704 | Never mind, what happened to you after the fall!? Are you hurt!? | あ、それよりあれからどうしたの！？身体はだいじょうぶ！？ |
-| 705 | Slow down, let me answer. | そんなにいっぺんに質間するな |
+| 705 | Slow down, let me answer. | そんなにいっぺんに質問するな |
 | 706 | I'm dressed like this because there was no other way to get in here. | この格好は……ここに入るためには仕方なかった |
 | 707 | I'm all right. AERIS helped me out. | 身体はだいじょうぶだ。AERISに助けてもらった |
 | 708 | Oh, AERIS did… | そうなの、AERISさんが…… |
@@ -832,7 +832,7 @@
 | 830 | I'm sorry, Don. | ごめんなさいね。コルネオさん |
 | 831 | You still don't get it do you, Don Corneo? | まだわからない？ドン・コルネオ |
 | 832 | What? | ほひ！？な、なにがどういうこと？ |
-| 833 | Shut up, we're asking the questions now… | 悪いけど質間するのは私たちのほうよ |
+| 833 | Shut up, we're asking the questions now… | 悪いけど質問するのは私たちのほうよ |
 | 834 | What did your assistants find out? Talk! If you don't tell us… | 手下に何をさぐらせてたの？言いなさい！　言わないと…… |
 | 835 | …I'll chop it off. | ……切り落とすぞ |
 | 836 | No! Not that! I'll talk! I'll tell you everything! | や、やめてくれ！ちゃんと話す！　なんでも話す！ |

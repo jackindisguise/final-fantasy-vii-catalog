@@ -68,7 +68,7 @@
 | 66 | The name of Sephiroth's mother… | セフィロスが言ってた母親の名前……-- |
 | 67 | I remember Jenova. That's that damn headless spook livin' in the Shinra building. | ジェノバ……覚えてるぞ！神羅ビルにいた首ナシのバケモノだな！ |
 | 68 | That's right. | そのとおりだ |
-| 69 | BARRET, would you please let us hear what CLOUD has to say? You can ask questions later. | ちょっとBARRET。CLOUDの話、ちゃんと聞かせて。質間はあとよ |
+| 69 | BARRET, would you please let us hear what CLOUD has to say? You can ask questions later. | ちょっとBARRET。CLOUDの話、ちゃんと聞かせて。質問はあとよ |
 | 70 | TIFA, I was only… | でもよぉ、TIFA…… |
 | 71 | Ok CLOUD, continue. | さあCLOUD、つづけて |
 | 72 | The childhood friends are reunited! | 幼なじみの再会ね！ |

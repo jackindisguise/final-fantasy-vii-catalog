@@ -341,7 +341,7 @@
 | 339 | Yeah, you're strong. | 確かにおまえは強い |
 | 340 | Probably all them guys in SOLDIER are. | おそらくソルジャーってのはみんな強いんだろうさ |
 | 341 | But don't forget that your skinny ass's workin' for AVALANCHE now! Don't get no ideas bout hangin' on to Shinra. | でもな、おまえは反乱組織アバランチにやとわれてる身だ。神羅のかたを持つんじゃねえ！ |
-| 342 | Stayin' with Shinra? You asked me a question and I answered it…that's all. | 神羅のかたをもつ？俺はあんたの質間に答えただけだ |
+| 342 | Stayin' with Shinra? You asked me a question and I answered it…that's all. | 神羅のかたをもつ？俺はあんたの質問に答えただけだ |
 | 343 | I'm going upstairs. I want to talk about my money. | 俺は上で待っている。報酬の話がしたい |
 | 344 | Wait, CLOUD! | 待って、CLOUD！ |
 | 345 | TIFA! Let him go! | TIFA！そんなヤツ放っておけ！ |
@@ -773,7 +773,7 @@
 | 771 | Hmm…did you say Nibelheim? Wasn't it in the news a while back? | ほう……あのニブルヘイム村ですか。ほら、何年か前にニュースになったことがありましたなあ |
 | 772 | Something to do with a reactor accident… | あのときは、たしか……魔晄炉の事故でしたか |
 | 773 | That was the first major Mako accident, I remember it was all over the news. | 当時は、最初の大きな魔晄炉事故ということですいぶん話題になりましたなあ |
-| 774 | This might sound rude, but… | ハッハッ……ぶしつけな質間ですが |
+| 774 | This might sound rude, but… | ハッハッ……ぶしつけな質問ですが |
 | 775 | Is your family still living? | ご家族は健在ですかな？ |
 | 776 | I forgot about them long ago | いたとしても忘れたな |
 | 777 | I'm just an ex-SOLDIER | 俺は孤独なソルジャーだ |
