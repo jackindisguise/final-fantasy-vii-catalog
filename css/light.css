@@ -1,0 +1,193 @@
+@font-face {
+	font-family:'Reactor7';
+	src:url('/Reactor7.ttf');
+	font-weight:normal;
+	font-style:normal;
+}
+
+@font-face {
+	font-family:'StrokeOrder';
+	src:url('/KanjiStrokeOrders_v4.004.ttf');
+	font-weight:normal;
+	font-style:normal;
+}
+
+body{
+	margin-bottom:30px;
+}
+
+#header{
+}
+
+.section{
+	background-color:rgba(255,255,255,0.9);
+	padding:10px;
+	border-radius:20px;
+}
+
+.section .section{
+	background-color:transparent !important;
+}
+
+.section .title{
+	font-size:200%;
+}
+
+.section .content{
+	padding-left:10px;
+}
+
+#title{
+	font-size:150%;
+	font-weight:bold;
+	border-bottom:1px solid #000;
+	padding-bottom:10px;
+	margin-bottom:10px;
+}
+
+#navigation{
+	text-transform:lowercase;
+}
+
+/*
+#navigation ul{
+	padding:0px;
+	margin:0px;
+}
+
+#navigation ul li{
+	display:inline;
+	text-transform:lowercase;
+}
+
+#navigation ul li:nth-child(n+2){
+	margin-left:25px;
+}
+
+#navigation ul li::before{
+}
+
+#navigation ul li::after{
+}
+*/
+#content{
+	padding:5px;
+	max-width:800px;
+}
+
+#footer{
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	background-color:rgba(255,255,255,0.95);
+	line-height:30px;
+	padding-left:5px;
+	text-align:right;
+}
+
+.highlight{
+	font-size:125%;
+	color:#FF0;
+}
+
+table#dialogue{
+	width:100%;
+	border-spacing: 0px;
+    border-collapse: separate;
+}
+
+#dialogue th{
+	text-align:left;
+}
+
+#dialogue td{
+	padding:10px;
+	vertical-align:middle;
+	margin:0px;
+}
+
+#dialogue tr:nth-child(even) td{
+	background-color:rgba(0,0,0,0.1);
+}
+
+#sceneName{
+	font-size:200%;
+}
+
+#dialogue .linenum{
+	width:100px;
+	text-align:center;
+}
+
+#dialogue .english{
+}
+
+#dialogue .japanese{
+}
+
+#dialogue tr:nth-child(odd) td{
+	/*background-color:rgba(0,0,255,0.25);*/
+}
+
+#scenes{
+	width:100%;
+}
+
+#scenes td{
+	padding:2px;
+	vertical-align:middle;
+}
+
+#scenes td.sceneNum{
+	width:10px;
+	font-size:150%;
+	text-align:right;
+}
+
+.links{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+.kanji{
+	font-size:100%;
+}
+
+table#vocabulary{
+	border-spacing: 0px;
+    border-collapse: separate;
+}
+
+#vocabulary th{
+	text-align:center;
+}
+
+#vocabulary th.def{
+	text-align:left;
+}
+
+#vocabulary td.word{
+	width:150px;
+	font-size:100%;
+	text-align:center;
+}
+
+#vocabulary .pos{
+	width:100px;
+	text-align:center;
+}
+
+#vocabulary .def{
+}
+
+#vocabulary td{
+	vertical-align:top;
+	text-align:left;
+	padding:10px;
+	margin:0px;
+}
+
+#vocabulary tr:nth-child(even) td{
+	background-color:rgba(0,0,0,0.1);
+}
