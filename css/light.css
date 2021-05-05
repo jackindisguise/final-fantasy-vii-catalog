@@ -177,3 +177,7 @@ table#vocabulary{
 #vocabulary tr:nth-child(even) td{
 	background-color:rgba(0,0,0,0.1);
 }
+
+#misc .header{
+	text-align:left;
+}
