@@ -181,3 +181,7 @@ table#vocabulary{
 #misc .header{
 	text-align:left;
 }
+
+#misc .entry{
+	font-size:125%;
+}
