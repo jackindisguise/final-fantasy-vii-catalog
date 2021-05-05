@@ -1,17 +1,3 @@
-@font-face {
-	font-family:'Reactor7';
-	src:url('/Reactor7.ttf');
-	font-weight:normal;
-	font-style:normal;
-}
-
-@font-face {
-	font-family:'StrokeOrder';
-	src:url('/KanjiStrokeOrders_v4.004.ttf');
-	font-weight:normal;
-	font-style:normal;
-}
-
 body{
 	margin-bottom:30px;
 }
