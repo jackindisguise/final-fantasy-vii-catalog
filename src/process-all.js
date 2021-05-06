@@ -1,9 +1,11 @@
+const { exec } = require("child_process");
 const fs = require("fs");
 const process = require("./process");
 
 // local consts
 const formatted = "../scene/formatted/";
 const processed = "../scene/processed/";
+let kanjiRule = /([\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A])/g;
 
 // read all formatted texts and process them
 let originalLines = 0;
@@ -31,14 +33,20 @@ fs.readdir(formatted, function(err, files){
 		let name = noext.substring("00 - ".length);
 		let target = processed+file;
 		let data = fs.readFileSync(source, "utf8");
+
+		// compile original lines
 		let original = data.split("\r\n");
 		originalLines += original.length;
+
+		// process lines
 		let result = process(data);
 		let lines = [];
 		for(let entry of result) {
+			if(!entry || !entry.target || !entry.source) continue; // ignore empty lines
 			if(usedJapanese.contains(entry.target)) continue; // don't add duplicate japanese lines
 			usedJapanese.push(entry.target); // track japanese lines
-			let line = `${entry.source}\t${entry.target}\tscene_${num.toString().padStart(2, "0")}`;
+			let kanji = entry.target.match(kanjiRule) || [];
+			let line = `${entry.source}\t${entry.target}\t${kanji.join("")}\tscene_${num.toString().padStart(2, "0")}`;
 			lines.push(line);
 			combined.push(line)
 		}
