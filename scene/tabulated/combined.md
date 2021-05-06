@@ -14425,482 +14425,482 @@
 | 14423 | Hey! | オイ！ |
 | 14424 | I'm leaving the ship in your hands! | 船は、テメェにまかせるぜ！ |
 | 14425 | I'm heading for Midgar! | ミッドガルに進路をとります！ |
-| 14426 | Even if we get there, Midgar's under martial law! | CLOUD、着いたといってもミッドガルは、げん戒体勢だ！スラムからは侵入できねえぜ |
-| 14427 | There'll be no way we could slip into the slums. | スラムからの交通機関は完全封鎖みたいよ…… |
-| 14428 | Looks like all transportation from the slums is cut off… | オイオイ、何のためのハイウインドだ？オレ様たちは、今どこにいる！？ |
-| 14429 | Hey, hey, whaddya think we have Highwind for? | あ？　どこって、ここは…… |
-| 14430 | Where are we now!? | 地上がダメでも空があるじゃねぇか！ |
-| 14431 | Huh? Where are we? | よし！　パラシュートでミッドガルに降下するぞ！！ |
-| 14432 | If land's no go… We'll go by air! | ミッドガルに到着しました！ |
-| 14433 | Okay then! We'll parachute into Midgar!! | 飛空てい内部 |
-| 14434 | We've reached Midgar! | 行くぞ！！ |
-| 14435 | Inside airship | 降下後のメンバーを決めて下さい。メンバーチェンジしますか？ |
-| 14436 | Yes | 決定しますか？ |
-| 14437 | Leave it as is? | チェンジする |
-| 14438 | Yes | ここが入口ですわ |
-| 14439 | Change | オレが言うとへんだけどよ…… |
-| 14440 | This is where we go in. | ミッドガルに来ると家に帰ってきたって気がしちまうんだよな |
-| 14441 | May sound strange comin' from me… | ケッ、だぜ |
-| 14442 | But it feels like bein' back in Midgar. | 私たち、ミッドガルの地下にはくわしくなっちゃったね |
-| 14443 | Kinda makes me sick..." | ほんま、たのんます！魔晄キャノンまで、はよう来てや！ |
-| 14444 | We sure got to know the Midgar underground. | オイラ、宝条にはいろいろウラミがあるからね！早く行こうよ！ |
-| 14445 | Please! Hurry to the Mako Cannon! | おう！　サクサクッと行こうぜ！サクサクっとよっ！ |
-| 14446 | I have an old score to settle with Hojo, so let's go! | 変なニオイするよ、この街は。早くおしまいにしちゃおうよ！ |
-| 14447 | Yeah! Let's get it over with!"  | 長き時がすぎても騒動をまきおこすのは宝条というわけか…… |
-| 14448 | This place smells gross. Let's get this over with! | ここはまかせろ！キャノンへ急げ！ |
-| 14449 | So it was Hojo who stirred up all this commotion after all these years? | 私はだいじょうぶ！早くキャノンを！ |
-| 14450 | Leave this to me! Hurry to the cannon! | こっちや！　CLOUDさん！ |
-| 14451 | I'm all right! Go to the cannon! | におうよ！キャノンは、こっちじゃない！ |
-| 14452 | This way, CLOUD! | ザコはいいからっ！狙いは宝条だけ！ |
-| 14453 | I smell it! The cannon's not this way! | どっちだ……！？ |
-| 14454 | Forget about these lackeys! Focus on Hojo! | え～い！くそキャノンが～っ！！- |
-| 14455 | Which way? | 早く早く早く早く～っ！ |
-| 14456 | Goddamn, piece of $#@^% cannon!! | クッ！宝条……！ |
-| 14457 | C'mon, c'mon, c'mon, c'mon---! | あ、来ちゃった！ |
-| 14458 | Oh no! They're here! | どうするんですか、先輩！もう、命令なんてムシしていいと思うんですけど |
-| 14459 | What are we going to do? I think you can ignore your orders now. | ……イリーナ。あまえるなよ、と |
-| 14460 | …Elena, don't act so weak. | 俺たちはタークスだ |
-| 14461 | We're Turks, Elena. | ……わかりました。そうですよね |
-| 14462 | Elena | レノ！生きていたのか…… |
-| 14463 | Reno! You're still alive… | あんなに、およいだのは初めてだったぜ、と |
-| 14464 | I've never swam so much in my life. | さて……仕事だ |
-| 14465 | Come on, we've got work to do. | あんまり気のりはしないが、と |
-| 14466 | I'm not really up for it, but… | 私たちに与えられた命令はあなたたちを発見しだい…… |
-| 14467 | Our orders were to seek you out and … | ……殺すこと |
-| 14468 | Elena | もう会社はボロボロだけど命令は命令なの |
-| 14469 | Our company may be in turmoil, but an order's an order. | タークスの意地と心意気！受け取りなさい！ |
-| 14470 | … | な、何をしている！　行くわよ！ |
-| 14471 | Elena | わかった、ケリをつけよう |
-| 14472 | No, let's not | だな。お前らとは、みょうな関係だが…… |
-| 14473 | Reno | 決着はつけねばな、と。……タークスとして！ |
-| 14474 | We have to end this… like Turks! | な、情けをかけるつもり！？タークスをなめないで！ |
-| 14475 | What is that, pity!? Don't think the Turks are fools! | 待て、イリーナ、と |
-| 14476 | Wait, Elena. | せ、先輩！まさか命令違反を……！ |
-| 14477 | Reno! You're not disobeying…are you!? | 神羅も、もうおしまいだ。こんな事態になっちまっちゃな、と |
-| 14478 | … | 先輩…… |
-| 14479 | Rude… | イリーナ、お前もりっぱにタークスだったぜ、と |
-| 14480 | … | じゃあな。おたがい生きてたら…… |
-| 14481 | Reno | 命あってのものだねだぜ、と |
-| 14482 | and our lives are spared… | おぼえておきなさい！タークスの意地と心意気……！ |
-| 14483 | Remember the spirit of the Turks! | 仕事は終わりだ…… |
-| 14484 | Our mission's over… | な、何だ？ありゃ～！！ |
-| 14485 | !? | ウ、ウソでしょ…… |
-| 14486 | What the… hell is that!!? | マ、マジで……？ |
-| 14487 | This can't be… | おいおい！そこまでするかよ…… |
-| 14488 | Hey-hey! You serious? | そ、そんなあほなできとったんかいな…… |
-| 14489 | …! | ガハハハハハハハ！！来たな来たな！ |
-| 14490 | No, no way… I didn't know they completed it… | キャハハハハハハ！！やっぱり来たよ！ |
-| 14491 | G'yaaa, Haaa, Haaa!!! So they really showed up! | よ～くも今までコケにしてくれたな！ |
-| 14492 | You sure treated us like dogs till now!! | 私のかわいい兵器たちをたっくさん壊してくれたわねえ！ |
-| 14493 | You killed many of my precious soldiers! | ガハハハハハ！だが、対ウェポン用兵器のこいつはどうかな！ |
-| 14494 | G'yaaa, Haaa, Haaa!!! But let's see how you do against anti-Weapon artillery! | お前たちでは役不足だがこの私の絶対の自信作！ |
-| 14495 | You guys are worthless, but my proud creation is great! | このプラウド・クラッドの破壊力！見せてあげるよっ！- |
-| 14496 | I'll show you the destructive power of the Proud Clod! | バカな！？このプラウド・クラッドが……！？ |
-| 14497 | Not that! This is the Proud Clod!? | うおおお……！！ |
-| 14498 | Heidegger | 時間がないんや！はよしてください！ |
-| 14499 | Whoooooa!! | 宝条！　そこまでだ！！ |
-| 14500 | Hojo!  Stop right there!! | ああ……失敗作か |
-| 14501 | Hojo | 名前くらいおぼえろ！俺はCLOUDだ！ |
-| 14502 | At least remember my name! It's CLOUD! | おまえを見ると私は…… |
-| 14503 | Hojo | 私は自分の科学的センスのなさを痛感させられる…… |
-| 14504 | It pains me that I had so little scientific sense… | 私はおまえを失敗作だと判断した |
-| 14505 | Hojo | だが、セフィロス・コピーとして機能したのはおまえだけ…… |
-| 14506 | But, you're the only one that succeeded as a Sephiroth-clone. | クックックッ……自分がイヤになるよ |
-| 14507 | Hojo | なんでもいいからこんなことはやめろ！ |
-| 14508 | None of that matters… just stop this nonsense! | ……こんなこと？ |
-| 14509 | Hojo | おお、これか？ |
-| 14510 | Hojo | セフィロスはエネルギーを必要としているようだからな |
-| 14511 | Ha, ha, ha… | 私が少しばかり力をかしてやるのだ |
-| 14512 | Sephiroth seems to be counting on the energy. | なぜだ！なぜそんなことを！ |
-| 14513 | Why!? Why do that!? | なぜなぜとうるさいやつだ |
-| 14514 | Quit asking me why, you moron. | フム……科学者にむいているのかもしれないな |
-| 14515 | Hmm…actually, you might make a good scientist. | エネルギーレベルは……８３％か。時間がかかりすぎだ |
-| 14516 | Energy level is at…83%. It's taking too long. | 息子が力を必要としている。……理由はそれだけだ |
-| 14517 | Hojo | ……息子？ |
-| 14518 | …Your son? | クックック……あいつは知らないがな |
-| 14519 | Ha, ha, ha… But he doesn't know it. | クックック……クァックァックァッ！！ |
-| 14520 | Hojo | セフィロスのやつ私が父親だと知ったらどう思うかな |
-| 14521 | Ha, ha, ha… HA, HA, HA!! | あいつは私のことを見下していたからな |
-| 14522 | What will Sephiroth think when he finds out I'm his father? | クァックァックァッ！！ |
-| 14523 | He always looks down on me. | セフィロスがあんたの息子！？ |
-| 14524 | …! | クックック…… |
-| 14525 | Hojo | 私の子を身ごもった女をガストのジェノバ・プロジェクトに提供したのだ |
-| 14526 | Ha, ha, ha… | クックッ……セフィロスがまだ母親の体内にいるころにジェノバ細胞を…… |
-| 14527 | Hojo | き、きさま……！ |
-| 14528 | HA, HA, HA!! | あんたがこんなことをしているのは…… |
-| 14529 | You! | セフィロスへの罪ほろぼし…… |
-| 14530 | … | ヒーッヒッヒッヒッ！ちがうちがう！ |
-| 14531 | Hojo | 科学者としての欲望だ！ヒーッヒッヒッヒッ！ |
-| 14532 | Heee, hee, hee! No, you're wrong! | 私は……間違っていた。眠るべきだったのは…… |
-| 14533 | It's my desire as a scientist! Heee, hee, hee! | きさまだ、宝条……！ |
-| 14534 | …You, Hojo! | 私は…ヒッ、ヒック！科学者としての欲望に負けた |
-| 14535 | Hojo | この間もな、負けてしまった |
-| 14536 | I lost the last time, too. | 自分の身体にジェノバ細胞を注入してみたのだ！ |
-| 14537 | Hojo | ヒーッヒッヒッヒッ！ |
-| 14538 | I've injected Jenova's cells into my own body! | 結果を…… |
-| 14539 | Hojo | 見せてやろう！！ |
-| 14540 | …the results!! | チッ、けったクソの悪い……！ |
-| 14541 | … | 宝条……永遠に眠れ…… |
-| 14542 |  %$#&$*&^%^ | セフィロスが……宝条の息子だったなんて…… |
-| 14543 | Hojo… Rest in peace… | 父親か…… |
-| 14544 | I can't believe Sephiroth is Hojo's son… | なんか、かわいそ…… |
-| 14545 | The father… | よう来てくれました |
-| 14546 | How sad…for him… | とにかくよう……これでキャノンは止まったわけだ…… |
-| 14547 | I'm so glad you came. | おっ！ こいつは…… |
-| 14548 | That's the end of the cannon… | 『ミッシングスコア』を手にいれた！ |
-| 14549 | Hey! This is… | こりゃあいいぜ。待ってろよ、宝条……！ |
-| 14550 | Received Missing Score! | 行き止まりか！ |
-| 14551 | This is great. Hold on, Hojo! | 神羅は…………終わりました |
-| 14552 | Dead end! | メテオが落ちてくるまであと…… |
-| 14553 | Shinra's…finished. | あと７日って、じっちゃんが言ってた |
-| 14554 | Meteor's gonna fall in about… | なあ、RED XIII |
-| 14555 | Seven more days. That's what Grandfather said. | コスモキャニオンの人たちに会いたいか？ |
-| 14556 | RED XIII… | …………うん |
-| 14557 | You want to see everyone in Cosmo Canyon again? | マリンに会いたいだろ？ |
-| 14558 | …Yes. | そんなこと聞くなよ |
-| 14559 | You want to see Marlene, right? | 俺たちがセフィロスを倒して…… |
-| 14560 | Don't ask me that. | そしてホーリーを解き放たないと７日後にはこの星そのものが死んでしまう |
-| 14561 | We'll beat Sephiroth… | 俺たちがセフィロスを倒せない…… |
-| 14562 | Then, if we don't release the power of Holy in seven days… There won't be a Planet left to protect. | それは……俺たちが死ぬということだ |
-| 14563 | If we can't beat Sephiroth… | メテオで死んでしまう人たちより何日か先に、だ |
-| 14564 | It's as good as death for us. | 戦う前から負けること考えるんじゃねえ！ |
-| 14565 | We'll just go a few days sooner than the rest who'll die from Meteor. | ちがう！ |
-| 14566 | Don't think you're gonna lose before ya even fight! | 俺は……なんていうか…… |
-| 14567 | No! | みんなが何のために戦っているのか。それをわかっていてほしいんだ |
-| 14568 | What I meant was… | 星を救う……星の未来のため……確かにそのとおりなんだと思う |
-| 14569 | What are we all fighting for? I want us all to understand that. | でも、本当は、本当はどうなんだろう？ |
-| 14570 | Save the Planet…for the future of the Planet… Sure, that's all fine. | 俺にとっては、これは個人的な戦いなんだ |
-| 14571 | But really, is that how it is? | セフィロスを倒す。過去との完全な決別 |
-| 14572 | For me, this is a personal feud. | それが星を救うことにつながっているんだ |
-| 14573 | I want to beat Sephiroth and settle my past. | 俺、考えたんだ |
-| 14574 | Saving the Planet just happens to be part of that. | やっぱり俺たちは自分のために戦っているんだ |
-| 14575 | I've been thinking. | 自分と……自分が大切にしている誰か？　何か？　そのために戦う |
-| 14576 | I think we all are fighting for ourselves. | そのために星を救う戦いを続けているんだ |
-| 14577 | For ourselves…and that someone… something…whatever it is, that's important to us. That's what we're fighting for. | たしかに…… |
-| 14578 | That's why we keep up this battle for the Planet. | 星を救うってのは、なんとなくカッコいいよな |
-| 14579 | You're right… | でも、オレにできたのはあの、魔晄炉爆破だ…… |
-| 14580 | It sounds cool sayin' it's to save the Planet. | 今となっちゃあ、あんなやりかたはいけなかったってことは良くわかる |
-| 14581 | But I was the one who blew up that Mako reactor…… | 仲間たちや関係ない大勢の人間を不幸にしちまった…… |
-| 14582 | Lookin' back on it now, I can see that wasn't the right way to do things. | ……最初は神羅への復讐だった。オレの故郷を奪ったよ |
-| 14583 | I made a lot of friends and innocent bystanders suffer… | でも、今は…… |
-| 14584 | …At first, it was revenge against Shinra. For attackin' my town. | そうだぜ。オレはマリンのために戦ってるんだ |
-| 14585 | But now… | マリンのために……マリンの未来のために…… |
-| 14586 | Yeah. I'm fightin' for Marlene. | そうか……オレはマリンのために星を救う戦いをしてるのか…… |
-| 14587 | For Marlene… For Marlene's future… | 会いに行けよ。その気持ち、たしかめてこいよ |
-| 14588 | Yeah…I guess I want to save the Planet for Marlene's sake… | みんなも、一度船を降りてそして自分の戦う理由…… |
-| 14589 | Go and see her. Make sure you're right, and come back. | それを確かめて欲しいんだ。そうしたら、帰ってきてほしい |
-| 14590 | All of you. Get off the ship and find out your reasons for yourselves. | 誰ももどって来ないかもしれねえぜ |
-| 14591 | I want you to make sure. Then I want you to come back. | メテオでどうせ死んじまう。ムダなあがきはやめようってよ！ |
-| 14592 | Maybe ain't none of us'll come back. | 俺は自分が戦う理由を知っている。まぎれもなく、星を救うために戦う |
-| 14593 | Meteor's gonna kill us all anyway. Let's just forget any useless struggling! | でも、その中には個人的な……とても個人的な俺の想いがあるんだ |
-| 14594 | I know why I'm fighting. I'm fighting to save the Planet, and that's that. | みんなは……どうだ？俺はみんなにも、そういうものを見つけてほしいんだ |
-| 14595 | But besides that, there's something personal, too… A very personal memory that I have. | 見つからなかったら仕方がない。理由なしでは戦えないだろ？ |
-| 14596 | What about you all? I want all of you to find that something within yourselves. | だから、帰ってこなくても……仕方がないよ |
-| 14597 | If you don't find it, then that's okay, too. You can't fight without a reason, right? | TIFAはどうする？ |
-| 14598 | So, I won't hold it against you if you don't come back. | 忘れちゃったの？ |
-| 14599 | What are you going to do, TIFA? | 私……ひとりなんだもん。どこにも行くところがないんだもの |
-| 14600 | Did you forget? | ゆうやみの丘 |
-| 14601 | I'm…all alone. I don't have anywhere to go. | みんな、行っちゃったね…… |
-| 14602 | Twilight Hill | ああ、俺たちには帰るところも待っていてくれる人もないからな |
-| 14603 | Everyone's gone… | そうだね…… |
-| 14604 | Yeah, we don't have anywhere or anyone to go home to. | でも……。きっと、みんな……もどって来てくれるよね？ |
-| 14605 | You're right… | さあ……。どうかな……？ |
-| 14606 | But…I'm sure someday… they'll come back, don't you think? | みんなそれぞれ、かけがえのない大切なものを抱えてるし…… |
-| 14607 | Hmm… I wonder… | それに今度ばっかりは、相手が相手だ…… |
-| 14608 | Everyone has something irreplaceable they're holding on to… | うん……。それでも私……和気だよ。たとえ、だれももどってこなくても |
-| 14609 | But this time, our opponent… | CLOUDと一練なら……CLOUDが、そばにいてくれるなら……こわくても……負けないよ、私…… |
-| 14610 | Hmm…But that's all right, if no one comes back. | …………。TIFA…… |
-| 14611 | As long as we're together. With you by my side, I'll never give up no matter how bad it gets. | 私たち……これまではずっと遠く、はなればなれだったんだね。たとえ、どんな近くにいても…… |
-| 14612 | … TIFA… | でも、ライフストリームのなかでたくさんの悲しい叫びにかこまれた時CLOUDの声が聞こえたような気がしたんだ…… |
-| 14613 | No matter how close we are now… We were far apart before. | クスッ……。CLOUDは知らないって言うかもしれないけど…… |
-| 14614 | But when we were in the Lifestream surrounded by all those screams of anguish, I thought I heard your voice… | でも、胸のずっと奥の方であなたの声が私の名を呼んでる……。そんな気がしたんだ…… |
-| 14615 | …sniff…you probably don't remember this… | ああ……。あのとき俺にもTIFAの叫ぶ声が聞こえたよ |
-| 14616 | But deep in my heart I heard you calling my name… Or at least I thought I did… | TIFAの声がライフストリームの意識の海から俺を呼びもどしてくれたんだ |
-| 14617 | Yeah… I heard you calling me. | 約束したもんな。TIFAになにかあったらかならずかけつけるって |
-| 14618 | You were calling me back from the consciousness in the Lifestream. | ねえ、CLOUD……。私たちの声を、星たちも聞いててくれると思う？ |
-| 14619 | After all, I promised that if anything ever happened to you, I'd come to help. | がんばってる私たちの姿を見ていてくれると思う？ |
-| 14620 | CLOUD…? Do you think the stars can hear us? | さあな……。でも…… |
-| 14621 | Do you think they see how hard we're fighting for them? | だれが見ていようといまいととにかく、できることをやるだけさ。自分自身を信じて…… |
-| 14622 | I dunno… But… | ライフストリームのなかでTIFAにそう教えられたよ |
-| 14623 | Whether they can or not, we still have to do what we can. And believe in ourselves… | うん……そうだね…… |
-| 14624 | Someday we'll find the answer. Right, TIFA? That's what I learned from you when I was in the Lifestream. | なあ、TIFA……。俺……。TIFAに話したいことがたくさんあったんだ…… |
-| 14625 | Yes…that's right… | でも、今こうしてふたりでいると本当はなにを話したかったのか…… |
-| 14626 | Hey TIFA… I… There were so many things I wanted to say to you. | CLOUD……。想いをつたえられるのは言葉だけじゃないよ…… |
-| 14627 | But now that we're together like this, I don't know what to say… | TIFA……… |
-| 14628 | CLOUD… Words aren't the only thing that tell people what you're thinking… | 答えは、いつかきっと見つかるさ。あきらめさえしなければ |
-| 14629 | … | 明日の戦いにそなえて今日は、はやくやすもう…… |
-| 14630 | I'll find the answer someday. As long as I keep trying. | うん……。……… |
-| 14631 | Umm. I guess you're right… | 俺も、聞いたような気がするな。あの時、TIFAの声を…… |
-| 14632 | I see… | 決戦前　ハイウインド |
-| 14633 | I think I've heard it, too. Then, it was TIFA's voice… | ………　もうすぐ、夜明けだな…… |
-| 14634 | Highwind – Before the Decisive Battle | う、うん……？ |
-| 14635 | … It's almost dawn… | ゴメン。おこしちゃったか……。もうすぐ夜が明けるよ、TIFA |
-| 14636 | H, huh? | うん……。あの……お、おはよう……CLOUD |
-| 14637 | Sorry. Did I wake you? It's almost dawn, TIFA. | もうすこしだけ……このままでいさせて…… |
-| 14638 | Umm… G, good morning… CLOUD. | 二度とこない、この日のために……。せめて、いまだけは…… |
-| 14639 | Just a little longer… A little bit longer… | ああ……いいよ |
-| 14640 | This day will never come again… So let me have this moment… | これは、俺たちふたりにゆるされたさいごの時間かもしれないから…… |
-| 14641 | This might be the last time we'll ever be together… | そろそろ時間だ |
-| 14642 | … | でも、まだ……！？ |
-| 14643 | We'd better go. | いいんだよ、TIFA。きのう、TIFAも言ってたろ？ |
-| 14644 | But, I still…!? | すくなくとも俺たちは、ひとりぽっちで行かなきゃならないってわけじゃない |
-| 14645 | It'll be all right, TIFA. You said so yourself yesterday. | うん……。そうだね！ |
-| 14646 | At least we don't have to go on alone. | よし！それじゃ、行こうか！ |
-| 14647 | Yes… That's right! | おはよう、TIFA。もうすぐ夜が明ける…… |
-| 14648 | Okay! Let's go! | うん……。おはよう、CLOUD |
-| 14649 | Mmm… Good morning, CLOUD. | みんな……帰ってこないね |
-| 14650 | … | 仕方がないよ、TIFA。みんなが選んだ結果なんだから |
-| 14651 | No one's…back yet. | CLOUDはどうするの？ |
-| 14652 | That's just the way it is TIFA. It was their choice to make. | 俺は……いくじなしだからな。ここでやめてしまう勇気がない |
-| 14653 | What are you going to do, CLOUD? | 私は……どうなのかな。やっぱり……恐いな |
-| 14654 | I'm…a coward. I don't even have the guts to call it quits here. | ね、CLOUD！だいじょうぶって言って！ |
-| 14655 | What's wrong with me? I guess…I'm scared. | だいじょうぶだよ、TIFA |
-| 14656 | CLOUD! Say everything'll be fine! | うわ～！ |
-| 14657 | Everything'll be fine! | なんだか、もう、絶対にだいじょうぶって感じ、した |
-| 14658 | Wow! | ……ふたりきりだと飛空艇、ひろすぎるね |
-| 14659 | I don't know why, but suddenly I feel like everything'll be fine. | やっぱり、ちょっとだけさびしいな |
-| 14660 | This airship is too big for just the two of us. | 心配するな。だいじょうぶだ |
-| 14661 | Yeah, it's a little lonely without everyone. | 俺がみんなのぶんも大騒ぎしてやる |
-| 14662 | Don't worry. It'll be okay. | それに、パイロットは俺だ |
-| 14663 | I'll make a big enough ruckus for everyone. | いままでみたいに安心してのっていられないからな |
-| 14664 | Besides, I'm the pilot. | さびしがっているヒマなんてないぞ、きっと |
-| 14665 | We won't have time to feel lonely. | 動き出した…… |
-| 14666 | Huh!? | 行こう、TIFA |
-| 14667 | Go. | BARRET！　CID！ |
-| 14668 | Don't go. | お、おう……もう、いいのか？ |
-| 14669 | BARRET! CID! | RED XIII！ |
-| 14670 | O, oh…is that okay with you? | どうして声、かけてくれなかったの！？ |
-| 14671 | RED XIII! | だって……ねえ、CID |
-| 14672 | Why didn't you tell me!? | なあ、RED XIIIよう |
-| 14673 | But, you know, CID. | 邪魔しちゃ、あとでな～に言われっかわかんねえもんなぁ…… |
-| 14674 | Hey, RED XIII. | …………見てたの？ |
-| 14675 | If you butt in now, you never know what they'll say later… | …………聞いてたの？ |
-| 14676 | …Were you watching? | VINCENT！ |
-| 14677 | …Were you listening? | なんだ、その驚いた顔は |
-| 14678 | VINCENT! | 私が来てはいけなかったのか？ |
-| 14679 | Why such a puzzled look? | いつもさめてたから……関係ないって顔してただろ？ |
-| 14680 | Don't you want me to come? | さめて？ |
-| 14681 | No, it's just that you're always so cool to what is happening I thought you didn't care. | フッ……私はそういう性格なのだ。悪かったな |
-| 14682 | Cool? | 帰ってきたみてえだな。神羅の部長さんがよ |
-| 14683 | Hmm… I guess that's just how I am, sorry. | あの～ |
-| 14684 | Well looky-here. The Shinra Manager's come back. | ボクも、本体で来ようと思たんですけどいろいろ、やらなあかんことがあって…… |
-| 14685 | Uh, excuse me but… | ほんで、ミッドガルの人たちですけど一応避難してもろてますのや |
-| 14686 | I wanted to come with the main group, but I couldn't get away… | すんませんけど、この作りモンのボディでがんばらせてもらいます |
-| 14687 | So some people in Midgar took me in. | さて……全員そろったな |
-| 14688 | I know I have a stuffed animal body, but I'll work really hard! | YUFFIE、いないよ |
-| 14689 | I guess that's everyone. | アイツは……来ねえだろ、きっと |
-| 14690 | No, YUFFIE's missing. | でもよ、オレたちのマテリアを盗んでいかなかった。それだけでも良かったんじゃねえのか？ |
-| 14691 | She ain't gonna show up. | ひっどいな～！！ |
-| 14692 | 'Least this time she didn't steal our Materia. Thank god for that. | 船酔いに負けないでここまで来たんだよ！ |
-| 14693 | How could you say that!? | 最後の最後に抜けちゃって、おいしいとこぜ～んぶ持ってかれるなんて絶対イヤだからね！ |
-| 14694 | After I came this far with you, even with my airsickness! | おかえり、YUFFIE |
-| 14695 | I didn't go through all that just to have you guys have the best parts all to yourselves! | おろ～……CLOUDやさしいねえ。なんかあった？ |
-| 14696 | Welcome back, YUFFIE. | ま、いいか。じゃ、アタシは通路の指定席で待機……ウッ！……ウップ！ |
-| 14697 | Gee, CLOUD…that's so nice of you to say that…You sick or somethin'? | みんな、ありがとう |
-| 14698 | Well, whatever. I'm gonna be in my reserved seat in the hall… waiting…upp…Urk! | おまえのために戻ってきたわけじゃねえ！ |
-| 14699 | Thanks everyone. | オレの大切なマリンのため。それとおんなじくらい大切なオレの……オレの気持ち……ってのか？ |
-| 14700 | We didn't come back for your spikey-headed ass! | オレはよ…………今、ここにはいねえ…… |
-| 14701 | I came back for Marlene. Guess it's jus' my… feelings or somethin'. | ……ここにはいないけどオイラたちにチャンス、残してくれた…… |
-| 14702 | I, uh I ain't got no words now… | このままってわけにゃいかねえよな |
-| 14703 | …Although she's not here, she left us a window of opportunity… | ……AERIS、最後にほほえんだんだ |
-| 14704 | We can't let it go like this. | その笑顔、俺たちがなんとかしないとはりついたまま、動かない |
-| 14705 | …AERIS. She was smiling to the end. | みんなで行こう |
-| 14706 | We can't just let it end with that smile, we have to do something. | AERISの想い…… |
-| 14707 | Let's all go together. | 星にとどいたはずなのに邪魔されて身動きできないでいる…… |
-| 14708 | Memories of AERIS… | AERISの想い、解き放つんだ！ |
-| 14709 | Although she should've returned to the Planet by now, something stopped her and now she's stuck… | 気が変わったってヤツ、いねえよな？ |
-| 14710 | We've got to let go of AERIS's memory. | なあ、結、CLOUDはなんだったんだ？ |
-| 14711 | Has anyone here changed their mind? | 宝条が創り出したセフィロス・コピーですわな |
-| 14712 | What the hell was up with CLOUD anyway? | そんなもん、創れるのか？ |
-| 14713 | He was a Sephiroth-clone created by Hojo. | ゼロから創ったんとは、ちゃいますやろ |
-| 14714 | They really make those? | きっと、普通の人間にジェノバ細胞を移植して魔晄づけにしたんやな |
-| 14715 | Well he wasn't made from scratch. | じゃあ、CLOUDは？ |
-| 14716 | They implanted Jenova cells into a normal human being and then infused it with Mako energy. | でも、どうしてCLOUDだけが…… |
-| 14717 | Well then, what is CLOUD? | みんな！！ |
-| 14718 | But why only CLOUD? | おろ～っ……ひっどいなぁ |
-| 14719 | You guys!! | 船酔いに負けないでここまで来たんだよ |
-| 14720 | Geez…that's pretty lame.” | 最後の最後に抜けちゃっておいしいところはぜ～んぶ持っていかれるなんて絶対イヤだからね！ |
-| 14721 | But if you think I stuck through all this just to make off with everything when the time's right, forget it. That's not my style. | おまえに感謝されてもよう |
-| 14722 | Thanks, everyone. | じゃ、なんだ。全員そろったところでCLOUDさんよいっちょう決めてくれ |
-| 14723 | Ain't no one wanna be thanked by you! | 俺たちの最後の戦いだ。目標は北の大空洞のセフィロス！さあ…… |
-| 14724 | So, what's next. Now that everyone's here. What're you going to do? | 行くぜ、みんな！ |
-| 14725 | Let's do it. Come on, everyone! | 気分はどう？ |
-| 14726 | Let's do our best, CLOUD! | 少しなら休んでもいいと思うけど……無理しないでね |
-| 14727 | How are you feeling? | CLOUD……どうしよう……考えなくっちゃ |
-| 14728 | You ought to rest a bit… Don't push yourself. | 星の……悲鳴 |
-| 14729 | CLOUD…what should I do? I've got to think. | ブーゲンハーゲンさん……何か教えてくれるかな？ |
-| 14730 | The Planet's…scream. | AERIS……どんな気持ちであの祭壇にいたのかしら…… |
-| 14731 | Did Bugenhagen…tell you anything? | きっと、命をかけてこの星を…… |
-| 14732 | I wonder what AERIS felt… when she was on that altar…? | そうかな？　そうなのかな？私はちがうと思うの |
-| 14733 | I'm sure she wanted to give her life for the Planet. | きっと、死ぬことなんか考えてなくてちゃんと帰ってくるつもりだったんじゃないかな？ |
-| 14734 | Really? I wonder? I don't think that was it. | だってAERIS、よく言ってたもの。また、この次は、今度は…… |
-| 14735 | I don't think she wanted to die at all, but was planning on coming back all along. | AERIS、他の誰よりも明日のこと話してた…… |
-| 14736 | She always used to talk about the 'next time'. | 私たちには言わなかったけどきっと大変な人生だったから…… |
-| 14737 | She talked about the future more than any of us… | AERISは『明日』…『未来』…誰よりも楽しみにしてたと思う…… |
-| 14738 | Although she never said anything to us about it, she must've had a rough life. | ……たくさんたくさん夢があったんだと思う…… |
-| 14739 | …she must've had many many dreams… | 好きとかキライとか…… |
-| 14740 | CLOUD… | 気持ちとは関係なくミッドガルからはなれられないわね |
-| 14741 | Whether you love it or hate it… | いよいよ、セフィロスとの対決ね |
-| 14742 | You just can't bring yourself to leave Midgar, can you? | あの大空洞の中、どうなってるんだろう。セフィロスはじっとしてメテオを待っているのかな…… |
-| 14743 | Now we're going to fight Sephiroth. | だいじょうぶだよね |
-| 14744 | I wonder what the inside of that cave looks like? You think Sephiroth is just sitting there waiting for Meteor? | CLOUDがいる……みんなもいっしょだものね |
-| 14745 | It's all right. | 私たち……なんでもできるよね。こんなにがんばってるんだもの |
-| 14746 | You're here… Everyone's all together | ね、CLOUD……『だいじょうぶ』って言って？ |
-| 14747 | Together…we can do anything. We've worked this hard already. | ちょっと気取って |
-| 14748 | Hey, CLOUD… Would you tell me 'It's all right'? | ふつうに |
-| 14749 | Say it cool | 言わない |
-| 14750 | It's all right, TIFA. | ……そんな気やすめは言えないな |
-| 14751 | …It's all right. | あ、本当にだいじょうぶって気がした……ありがと、CLOUD |
-| 14752 | …I just can't say it that easy. | うん、だいじょうぶだよね |
-| 14753 | Now I feel like things are really going to be all right. Thanks, CLOUD. | ごめん……そうだよね |
-| 14754 | You're right, things will be all right. | 私、だいじょうぶ。もう、おじけづいたりしないわ |
-| 14755 | I'm sorry…I guess you're right. | 私……だいじょうぶだから……がんばって戦うから…… |
-| 14756 | I'm all right. I'm not going to chicken out at the last minute. | ……はぁ。やっぱり……少し、こわいわ。ヒザがガクガクしてるの |
-| 14757 | I'm…all right…really… I'll fight my hardest… | たのむ、CID |
-| 14758 | ……Wow. I guess…I am a little scared. My knees are trembling. | ヘヘ…… |
-| 14759 | I'm counting on you, CID. | ここに、ずっと気になってたレバーが２本あるんだが…… |
-| 14760 | Yeah, yeah… | ちょっと試させてくれよな |
-| 14761 | These two levers have been buggin' me for a while… | まかせるよ |
-| 14762 | Let me try them out. | じゃ、なんだ |
-| 14763 | Do whatever you have to. | CLOUDさんよ、いっちょ、決めてくれ |
-| 14764 | All right, so what should I do? | 俺たちの最後の戦いだ！ |
-| 14765 | You decide, CLOUD. | 目標は北の大空洞敵は……セフィロス！！ |
-| 14766 | Our target is the North Cave. Our enemy is…Sephiroth! | もうすぐ北の大空洞だな！セフィロス！　待ってろよ！ |
-| 14767 | So let's move out! | おう！　つっこむぜい！ |
-| 14768 | We're almost to the North Cave! We're on our way, Sephiroth! | どうした、CID！ |
-| 14769 | Man, I'm going to stick it to him! | あががががが！コントロールできねえ！すげえエネルギーだ！ |
-| 14770 | What is it, CID? | CIDさん |
-| 14771 | Errrrggh! Some incredible force! Losing…control… | 艇長 |
-| 14772 | CID. | 手伝いまっす！- |
-| 14773 | Captain | なんだ、てめえら！実家へ帰れって言ったじゃねえか！ |
-| 14774 | Here, sir! | そうです！ここがボクたちの家でっす！！ |
-| 14775 | Get the hell outta here, flunkies! Didn't I tell you all to go home!? | ケッ……カッコつけやがって |
-| 14776 | Yes, sir. But, this is our home!! | わかったぜ、おめえら！オレ様をしっかり押さえやがれ！！ |
-| 14777 | Oh ma--…stop trying to act so cool. | 行っくぜ～！！ |
-| 14778 | All right, you jokers! Hold me down with everything you got!! | 【　ディスク２が終了しました　】 |
-| 14779 | ( End Disc 2 ) | 行くぞ、CLOUD！もたもたしてらんねえ！ |
-| 14780 | Please do not open the CD drive until further instructions. | ゴー！　ゴー！　ジュノンだぜ！ |
-| 14781 | C'mon, CLOUD! Don't #&$* around! | 神羅のやつらよう、どうやってメテオとヒュージマテリアを戦わせるつもりなんだぁ？ |
-| 14782 | We're goin' to Junon!! | なんだか悲しいぜ…… |
-| 14783 | Them Shinras think they're gonna fight Meteor with the Huge Materia? | ブーゲンジイさんかよ……よくわかんねえジイさんだよな |
-| 14784 | Damn, it kinda makes me sad… | 自然主義者かと思ってたら機械にかこまれてくらしてるしよう |
-| 14785 | That Bugenhagen guy… He was a weird old dude. | AERIS……死んじまったんだよな |
-| 14786 | I used to think he was a naturalist, but he was all into them machines. | 精神エネルギーになって星をめぐる……かぁ？ |
-| 14787 | And AERIS…she's dead. | だとしてもよ、やっぱりよ会えるわけじゃねえからな…… |
-| 14788 | Guess she turned into Spiritual Energy and returned to the Planet, huh? | どうするよ、CLOUDいい考え、ないのか？ |
-| 14789 | But even if she did, there's no way we'll meet her again… | ウェポンかよ……でけえよな…… |
-| 14790 | Whacha gonna do, CLOUD? Got any good ideas? | いくらミッドガルだってあぶねえだろうな |
-| 14791 | That damn Weapon… He's one big *&$*&%$… | 最初はよ、ビラはりだったぜ。アバランチの初めのころはな |
-| 14792 | Even Midgar's in trouble now. | それが、どうだよ。セフィロスと戦うだぁ？ |
-| 14793 | When AVALANCHE was startin' out, we used to put up flyers everywhere. | なんか、遠くに来ちまった。そんなカンジがするぜ |
-| 14794 | And now, we're up against Sephiroth. How about that? | 行ったり来たり……ふりまわされるよな |
-| 14795 | Feels like a long time ago. | でもよ、オレはミッドガルの連中には返しきれねえ借りがあるからよ…… |
-| 14796 | Comin' and goin'… gettin' pushed around. | ヘヘ……ヘヘヘヘ……時、せまるってやつだな？ |
-| 14797 | But I got a debt to all them back in Midgar that I can't never repay… | なんだか、体がふるえてるぜ……ヘヘ……気持ち悪いぜ…… |
-| 14798 | Heh heh heh… Time's got a way of sneakin' up on ya, huh? | やっぱり、CLOUDがいるの、いいな！ |
-| 14799 | I'm shakin' all over… Heh heh…I feel sick… | 神羅のやり方ってさ、今さえ良ければなんでもいいってことだよね |
-| 14800 | I'm glad you're back with us! | でもね、オイラは５００年くらい生きるからそれじゃ、とっても困るんだ |
-| 14801 | Shinra only cares if things are good right now. | そうだよね。なんとかしようって考えなくちゃね |
-| 14802 | But, I plan to live for 500 years and won't stand for that type of thinking. | 早く早く！じっちゃんに会いに行こうよ！ |
-| 14803 | Yes. We have to think about what to do. | AERISはね、ときどきオイラのハナをなでてくれたんだ |
-| 14804 | Hurry, hurry! We must go meet Grandfather! | 子供あつかいされてくやしかったけどでも、ついついよろこんじゃうんだ |
-| 14805 | AERIS used to pat me on the nose sometimes. | 初めて会ったときのことあやまりたかったな…… |
-| 14806 | I used to hate being treated like a child like that, but I also liked the attention. | オイラがもっと大人だったら……何か良い考えがうかぶのかな？ |
-| 14807 | I wanted to apologize to her for what I did when we first met. | はぅ……大人になりたいなぁ。この旅が終わったら、大人になれるかな…… |
-| 14808 | If I were more of an adult, perhaps I would have a better idea of what to do? | ミッドガルか…… |
-| 14809 | Whew…I wish I could grow up. I wonder if after all this is over, will I be an adult? | 宝条につかまって連れてかれていろいろ実験されてくやしかったな…… |
-| 14810 | Midgar… | でも、そのおかげでみんなと会えたんだよね…… |
-| 14811 | I hated the fact I was caught by Hojo and taken back to the lab where they did all kinds of experiments on me… | いろんな人と出会ったり出会わなかったり……不思議だね |
-| 14812 | But because of that I was able to meet you all… | セフィロスを倒せば星を救えるんだよね |
-| 14813 | People you want to meet… others you don't…strange isn't it? | こわいけど、オイラ、がんばるよ。早く行こうよ、大空洞へ！ |
-| 14814 | Will we save the world if we beat Sephiroth? | 宝条はどうしてこんなに事件ばかりおこすんだろう |
-| 14815 | I'm frightened, but I'll do my best. Let's hurry to the Northern Cave! | しずかに研究だけしてればいいのにさ |
-| 14816 | I wonder why Hojo performed so many of these experiments? | （オイラはセトの息子ナナキ……何もこわくないこわくない……） |
-| 14817 | Why couldn't he content himself with quiet research? | （だいじょうぶだいじょうぶ。オイラは勇者セトの息子ナナキ……セフィロスなんか恐くない……） |
-| 14818 | I am Nanaki, son of Seto… I am afraid of nothing… | 幻想の世界からの脱出か……フッ……どっちがしあわせなのか…… |
-| 14819 | It's all right, all right. I'm Nanaki, the son of brave Seto… I'm not afraid of Sephiroth… | ……どうかな、CLOUD。借り物ではない自分を生きるのは？ |
-| 14820 | Escape from a world of illusions… Hmph…I wonder which is better…? | ……心だけではどうにもならない。……もどかしいな、CLOUD |
-| 14821 | …how does it feel, CLOUD? living for no one but yourself? | コスモキャニオンの機械類はほとんどがガスト博士のおくりもの |
-| 14822 | …feelings alone aren't enough. …it's irritating, isn't it CLOUD? | 神羅製の機械にかこまれ星の不思議に想いをはせる…… |
-| 14823 | The machines in Cosmo Canyon were presents of Dr. Gast. | あの老人の中では科学と星がともに生きているのだ |
-| 14824 | Wrapped up in the Planet's strange notions surrounded by Shinra-made machines… | 古代種の都…… |
-| 14825 | Science and the Planet lived side by side in that old man's heart. | 古代種……我々もはるかな時を経てのちそう呼ばれる日が来るかもしれない…… |
-| 14826 | City of the Ancients… | フッ……フハハハ……我々しだいというわけだ |
-| 14827 | The Ancients…in time that is probably what later generations will call us. | ……なかなかセフィロスには近づけないな…… |
-| 14828 | Hmm…hwa ha ha ha… It's only a matter of time for us. | セフィロスを倒す……いとしい女性の息子を倒す…… |
-| 14829 | ……we still can't seem to get near Sephiroth… | 私はまた罪を犯そうとしているのか……それとも、見ているだけだった私にできる、せめてものつぐないか…… |
-| 14830 | Kill Sephiroth… Killing the son of my beloved woman… | 宝条……不幸な男 |
-| 14831 | Am I on the verge of committing another sin? Or am I atoning as best I can for only standing by? | 科学的センスのなさ……つきまとう天才ガスト博士との比較…… |
-| 14832 | Hojo…what a queer fellow. | ルクレッツアは宝条を守ろうとしてあいつを選んだ…… |
-| 14833 | Such utter lack of scientific talent… compared with the genius of Dr. Gast… | いまならわかる……わかるが……しかし…… |
-| 14834 | Lucrecia chose him in order to protect him. | CLOUD……船を大空洞へ |
-| 14835 | Now I understand… I understand…but… | 空をかけめぐる時間は終わったのだ。今は地の底が我々の戦場…… |
-| 14836 | CLOUD…take the ship to the Northern Cave. | 天の光ではなく、地の底のやみこそが明日へのとびら…… |
-| 14837 | The time for flying is now past. Our battlefield is now beneath the earth… | いきなりでナンやけどさくっと、ジュノンへ行きましょか！ |
-| 14838 | The gate to tomorrow is not the light of heaven, but the darkness of the depths of the earth. | CIDさんのロケット村に神羅が集まってますわ…… |
-| 14839 | This is kind of sudden, but shouldn't we get to Junon!? | はぁ……秘密もらすんてなんや快感なってきましたわ |
-| 14840 | The Shinra are all gathered at CID's Rocket Town… | ……社長のやり方かってわからんでもないんですわ |
-| 14841 | …I love giving out secrets more than anything. | でも、ナンや急ぎすぎとるって感じ、しとったんです…… |
-| 14842 | …That's not to say I don't know how the President feels. | 星の悲鳴ですかぁ………… |
-| 14843 | But, I can't shake the feeling he's rushin' things a bit… | この星のんか、メテオのんか……どっちの悲鳴なんやろなぁ…… |
-| 14844 | The life of the Planet… | ナイショやけども…… |
-| 14845 | Which was screaming? The Planet? Or Meteor? | ブーゲンさんは昔っから神羅のお得意さんやったんです |
-| 14846 | Just between you and me… | あ、武器と魔晄は絶対に買いはらへんかったんですけどね |
-| 14847 | That Bugenhagen used to be a Shinra worker. | AERISさん、亡くなってしもたことお母さんに伝えたんです |
-| 14848 | He never bought any weapons or Mako though… | エルミナさん、ずぅっと泣いてはりました……マリンちゃんも…… |
-| 14849 | I told AERIS's Mom about her death. | 最近、ボク……会議に呼ばれへんのです。スパイしてんの、バレバレですから |
-| 14850 | Elmyra was cried herself silly… So did little Marlene… | CLOUDさん、ほんまたのみます！ |
-| 14851 | Lately, they don't call me to meetings. Probably because you know I'm a spy. | 神羅は許せんかもしれんけどミッドガルの人たちには、何の罪もないんや！ |
-| 14852 | CLOUD, you make sure and do your best! | ……セフィロスどないしとるんやろ |
-| 14853 | I know you can't forgive the Shinra, but the people in Midgar haven't done any wrong! | 何度も何度もすんません |
-| 14854 | …Wonder what Sephiroth's up to? | も～ちょい、ボクがしっかりしとったらこんなことにはならんかったのに…… |
-| 14855 | I can't apologize to you enough. | さ、みなはん、スラムの方へ！急いで急いで！ |
-| 14856 | If I was a better person, none of this would have happened… | あっ、おばあさん、だいじょぶでっか？えっ？　息子さんとはぐれた？ |
-| 14857 | So let's get over it! We've got to hurry to the slums! | あ、CLOUDさん、すいまへん！ |
-| 14858 | Are you all right? You say you lost your son? | もうすぐ、み～んなスラムへ避難完了しますのや |
-| 14859 | Hey, CLOUD! | ……気休めかもしれまへんけどな |
-| 14860 | The people ought to just about be to safety in the slums by now. | ボク、忘れません。何があっても…… |
-| 14861 | Maybe we were all just kidding ourselves. | この旅のこと、みなさんのこと絶対、忘れへん！ |
-| 14862 | But I won't forget, no matter what happens. | やってみてわかったけどよリーダーってのは大変だよなぁ |
-| 14863 | Not about this here trip, or them folks--none of it! | 誰がどんなマテリアつけてるとかす～ぐ忘れちまったぜ、オレ様はよ |
-| 14864 | I know how tough it is bein' a leader, because I've been one. | ロケット村でなんかあるって？いまさら宇宙開発再開じゃねえよな…… |
-| 14865 | I always forget who has what Materia. | 考え中だっていってんだろ！ |
-| 14866 | You said there's somethin' goin' on at Rocket Town…? | 関係ねえけどよ、オレ様の知らねえうちにこの船、改造されてんだよな |
-| 14867 | I TOLD you I was thinkin' about it! | スイッチとかレバーが増えててよ気になってしょうがねえぜ |
-| 14868 | Maybe it's just me, but has this ship been remodeled without me knowin' it? | AERISか…… |
-| 14869 | All these switches and levers. They're kinda gettin' to me. | オレ様のハイウインドにいっぺん乗せてやりたかったぜ…… |
-| 14870 | AERIS? | はぁ……CLOUDよう。どうすんだ？ |
-| 14871 | I wanted to give her a ride in the Highwind… | いよいよ、セフィロスだぜ。腕が鳴るってか？ |
-| 14872 | Phew…CLOUD. What're we gonna do? | そういや、昔、試作ロケットが一機ミッドガルのスラム街だかに落ちたんだよな |
-| 14873 | Well, I guess it's time for Sephiroth. Are your hearts pounding? | 爆発しなかったって聞いてホッとしたの覚えてるぜ |
-| 14874 | That reminds me of a test rocket that landed in the Midgar Slums long ago. | 今度こそ、か？ |
-| 14875 | I remember how relieved I was when I heard it never blew up. | 行ったり来たり忙しいじゃねえか！ |
-| 14876 | Maybe this is the time? | こんなにコキ使われたんじゃ水着の女神さんもヒイヒイ言ってるぜ |
-| 14877 | This runnin' back and forth is tough! | おめえよ『ＬＯＶＥＬＥＳＳ』ってシバイ見たことあるか？ |
-| 14878 | Even my bikini goddess would be pantin' about now! | ない |
-| 14879 | You ever see the play 'LOVELESS'? | ある |
-| 14880 | No | ケッ、確かにおめえはシバイなんて興味ないってふうだよな |
-| 14881 | Yes | ホントかぁ？ま、いいけどよ |
-| 14882 | Yeah, I figured someone like you wouldn't be much on plays. | あのシバイはよ、オレ様がガキのころから毎年夏にやってるんだよな、たしか |
-| 14883 | Yeah? Really? Well, that's fine. | んでよ、オレ様は一回だけ見たことがあんだけどよ…… |
-| 14884 | They've been doin' that play every summer since I was a kid. | ありゃ、パイロットの面接にミッドガル行った時だったな |
-| 14885 | An' I remember seein' it just once… | ヒマつぶしに話題の『ＬＯＶＥＬＥＳＳ』でも見るかってなもんよ |
-| 14886 | That was when I was in Midgar training to be a pilot. | じまんじゃねえが、オレ様はシバイなんぞにゃ全然興味がねえ |
-| 14887 | I had some free time and thought I'd catch the play. | 自分でも予想してたけどよガーガーねちまったぜ |
-| 14888 | Now, I'm no big fan of the theater or anything. | となりにいた客にイビキうるさいって起こされたのがラストシーンでよう…… |
-| 14889 | But this thing put me to sleep, just like I thought it would. | だからオレ様はあのシバイの最後のあたりだけは覚えてるぜ…… |
-| 14890 | Finally during the last scene, the guy next to me woke me up tellin' me my snorin' was too loud. | 主人公のネエちゃんが恋人に聞くんだよな |
-| 14891 | So about all I really remember of that play is the end… | 『どうしても行くの？』 |
-| 14892 | When the sister of the lead asks her lover, | そしたら男がよ |
-| 14893 | Do you really have to leave? | 『約束だから。大好きな人たちが待ってるんだ』 |
-| 14894 | And the guy says, | 『…………わからない。わからないけど……でも、絶対に死なないで』 |
-| 14895 | I made a promise. The people I love are waiting. | 『もちろん……ここに帰ってくるよ。約束なんかなくても待っていてくれる人がいること、俺は知ってるから』 |
-| 14896 | …I don't understand. Not at all. But, take care of yourself. | オレ様はよ、そのセリフ聞いて思ったぜ |
-| 14897 | Of course…I'll come back to you. Even if you don't promise to wait. I'll return knowing you'll be here. | ケッ、何言ってやがんだいってな。でもよ……今はよ…… |
-| 14898 | I remember thinking when I heard those lines, | 今は、よくわかるぜ…… |
-| 14899 | What the hell's he talkin' about? But, you know…now I'm not so sure… | オレ様はあとひと仕事終わったら船を降りるんだ………そうするぜ |
-| 14900 | I think I understand… | す、すいません。シビアでデリケートな作業中でっス！ |
-| 14901 | When this job's done, I'm landing the ship… yeah, that's what I'll do. | あああ！こまりますこまりますこまります！ |
+| 14426 | Even if we get there, Midgar's under martial law! There'll be no way we could slip into the slums. | CLOUD、着いたといってもミッドガルは、げん戒体勢だ！スラムからは侵入できねえぜ |
+| 14427 | Looks like all transportation from the slums is cut off… | スラムからの交通機関は完全封鎖みたいよ…… |
+| 14428 | Hey, hey, whaddya think we have Highwind for? Where are we now!? | オイオイ、何のためのハイウインドだ？オレ様たちは、今どこにいる！？ |
+| 14429 | Huh? Where are we? | あ？　どこって、ここは…… |
+| 14430 | If land's no go… We'll go by air! | 地上がダメでも空があるじゃねぇか！ |
+| 14431 | Okay then! We'll parachute into Midgar!! | よし！　パラシュートでミッドガルに降下するぞ！！ |
+| 14432 | We've reached Midgar! | ミッドガルに到着しました！ |
+| 14433 | Inside airship | 飛空てい内部 |
+| 14434 | Here we go!! | 行くぞ！！ |
+| 14435 | Choose from the members below. Change your party's members? | 降下後のメンバーを決めて下さい。メンバーチェンジしますか？ |
+| 14436 | Leave it as is? | 決定しますか？ |
+| 14437 | Change | チェンジする |
+| 14438 | This is where we go in. | ここが入口ですわ |
+| 14439 | May sound strange comin' from me… | オレが言うとへんだけどよ…… |
+| 14440 | But it feels like bein' back in Midgar. | ミッドガルに来ると家に帰ってきたって気がしちまうんだよな |
+| 14441 | Kinda makes me sick... | ケッ、だぜ |
+| 14442 | We sure got to know the Midgar underground. | 私たち、ミッドガルの地下にはくわしくなっちゃったね |
+| 14443 | Please! Hurry to the Mako Cannon! | ほんま、たのんます！魔晄キャノンまで、はよう来てや！ |
+| 14444 | I have an old score to settle with Hojo, so let's go! | オイラ、宝条にはいろいろウラミがあるからね！早く行こうよ！ |
+| 14445 | Yeah! Let's get it over with! | おう！　サクサクッと行こうぜ！サクサクっとよっ！ |
+| 14446 | This place smells gross. Let's get this over with! | 変なニオイするよ、この街は。早くおしまいにしちゃおうよ！ |
+| 14447 | So it was Hojo who stirred up all this commotion after all these years? | 長き時がすぎても騒動をまきおこすのは宝条というわけか…… |
+| 14448 | Leave this to me! Hurry to the cannon! | ここはまかせろ！キャノンへ急げ！ |
+| 14449 | I'm all right! Go to the cannon! | 私はだいじょうぶ！早くキャノンを！ |
+| 14450 | This way, CLOUD! | こっちや！　CLOUDさん！ |
+| 14451 | I smell it! The cannon's not this way! | におうよ！キャノンは、こっちじゃない！ |
+| 14452 | Forget about these lackeys! Focus on Hojo! | ザコはいいからっ！狙いは宝条だけ！ |
+| 14453 | Which way? | どっちだ……！？ |
+| 14454 | Goddamn, piece of $#@^% cannon!! | え～い！くそキャノンが～っ！！- |
+| 14455 | C'mon, c'mon, c'mon, c'mon---! | 早く早く早く早く～っ！ |
+| 14456 | Damn! Hojo! | クッ！宝条……！ |
+| 14457 | Oh no! They're here! | あ、来ちゃった！ |
+| 14458 | What are we going to do? I think you can ignore your orders now. | どうするんですか、先輩！もう、命令なんてムシしていいと思うんですけど |
+| 14459 | …Elena, don't act so weak. | ……イリーナ。あまえるなよ、と |
+| 14460 | We're Turks, Elena. | 俺たちはタークスだ |
+| 14461 | …Yes, sir. You're right. | ……わかりました。そうですよね |
+| 14462 | Reno! You're still alive… | レノ！生きていたのか…… |
+| 14463 | I've never swam so much in my life. | あんなに、およいだのは初めてだったぜ、と |
+| 14464 | Come on, we've got work to do. | さて……仕事だ |
+| 14465 | I'm not really up for it, but… | あんまり気のりはしないが、と |
+| 14466 | Our orders were to seek you out and … | 私たちに与えられた命令はあなたたちを発見しだい…… |
+| 14467 | …Kill. | ……殺すこと |
+| 14468 | Our company may be in turmoil, but an order's an order. | もう会社はボロボロだけど命令は命令なの |
+| 14469 | That's the spirit of the Turks! Believe it! | タークスの意地と心意気！受け取りなさい！ |
+| 14470 | What are you doing? Let's go! | な、何をしている！　行くわよ！ |
+| 14471 | Okay, let's end this | わかった、ケリをつけよう |
+| 14472 | I know we have a weird relationship, but… | だな。お前らとは、みょうな関係だが…… |
+| 14473 | We have to end this… like Turks! | 決着はつけねばな、と。……タークスとして！ |
+| 14474 | What is that, pity!? Don't think the Turks are fools! | な、情けをかけるつもり！？タークスをなめないで！ |
+| 14475 | Wait, Elena. | 待て、イリーナ、と |
+| 14476 | Reno! You're not disobeying…are you!? | せ、先輩！まさか命令違反を……！ |
+| 14477 | Shinra's finished. It's come down to this. | 神羅も、もうおしまいだ。こんな事態になっちまっちゃな、と |
+| 14478 | Rude… | 先輩…… |
+| 14479 | Elena, you were a great Turk! | イリーナ、お前もりっぱにタークスだったぜ、と |
+| 14480 | Farewell. If we both survive… | じゃあな。おたがい生きてたら…… |
+| 14481 | and our lives are spared… | 命あってのものだねだぜ、と |
+| 14482 | Remember the spirit of the Turks! | おぼえておきなさい！タークスの意地と心意気……！ |
+| 14483 | Our mission's over… | 仕事は終わりだ…… |
+| 14484 | What the… hell is that!!? | な、何だ？ありゃ～！！ |
+| 14485 | This can't be… | ウ、ウソでしょ…… |
+| 14486 | Are you serious? | マ、マジで……？ |
+| 14487 | Hey-hey! You serious? | おいおい！そこまでするかよ…… |
+| 14488 | No, no way… I didn't know they completed it… | そ、そんなあほなできとったんかいな…… |
+| 14489 | G'yaaa, Haaa, Haaa!!! Here they come! | ガハハハハハハハ！！来たな来たな！ |
+| 14490 | G'yaaa, Haaa, Haaa!!! So they really showed up! | キャハハハハハハ！！やっぱり来たよ！ |
+| 14491 | You sure treated us like dogs till now!! | よ～くも今までコケにしてくれたな！ |
+| 14492 | You killed many of my precious soldiers! | 私のかわいい兵器たちをたっくさん壊してくれたわねえ！ |
+| 14493 | G'yaaa, Haaa, Haaa!!! But let's see how you do against anti-Weapon artillery! | ガハハハハハ！だが、対ウェポン用兵器のこいつはどうかな！ |
+| 14494 | You guys are worthless, but my proud creation is great! | お前たちでは役不足だがこの私の絶対の自信作！ |
+| 14495 | I'll show you the destructive power of the Proud Clod! | このプラウド・クラッドの破壊力！見せてあげるよっ！- |
+| 14496 | Not that! This is the Proud Clod!? | バカな！？このプラウド・クラッドが……！？ |
+| 14497 | Whoooooa!! | うおおお……！！ |
+| 14498 | We don't have any time! Please get on with it! | 時間がないんや！はよしてください！ |
+| 14499 | Hojo!  Stop right there!! | 宝条！　そこまでだ！！ |
+| 14500 | Oh…the Failure. | ああ……失敗作か |
+| 14501 | At least remember my name! It's CLOUD! | 名前くらいおぼえろ！俺はCLOUDだ！ |
+| 14502 | Every time I see you… | おまえを見ると私は…… |
+| 14503 | It pains me that I had so little scientific sense… | 私は自分の科学的センスのなさを痛感させられる…… |
+| 14504 | I saw you as a failed project. | 私はおまえを失敗作だと判断した |
+| 14505 | But, you're the only one that succeeded as a Sephiroth-clone. | だが、セフィロス・コピーとして機能したのはおまえだけ…… |
+| 14506 | Heh, heh, heh… I'm even beginning to hate myself. | クックックッ……自分がイヤになるよ |
+| 14507 | None of that matters… just stop this nonsense! | なんでもいいからこんなことはやめろ！ |
+| 14508 | …Nonsense? | ……こんなこと？ |
+| 14509 | Oh, this? | おお、これか？ |
+| 14510 | Sephiroth seems to be counting on the energy. | セフィロスはエネルギーを必要としているようだからな |
+| 14511 | So I'm going to lend him a hand. | 私が少しばかり力をかしてやるのだ |
+| 14512 | Why!? Why do that!? | なぜだ！なぜそんなことを！ |
+| 14513 | Quit asking me why, you moron. | なぜなぜとうるさいやつだ |
+| 14514 | Hmm…actually, you might make a good scientist. | フム……科学者にむいているのかもしれないな |
+| 14515 | Energy level is at…83%. It's taking too long. | エネルギーレベルは……８３％か。時間がかかりすぎだ |
+| 14516 | My son needs power and help. …That's the only reason. | 息子が力を必要としている。……理由はそれだけだ |
+| 14517 | …Your son? | ……息子？ |
+| 14518 | Ha, ha, ha… But he doesn't know it. | クックック……あいつは知らないがな |
+| 14519 | Ha, ha, ha… HA, HA, HA!! | クックック……クァックァックァッ！！ |
+| 14520 | What will Sephiroth think when he finds out I'm his father? | セフィロスのやつ私が父親だと知ったらどう思うかな |
+| 14521 | He always looks down on me. | あいつは私のことを見下していたからな |
+| 14522 | HA, HA, HA!! | クァックァックァッ！！ |
+| 14523 | Sephiroth is your son!? | セフィロスがあんたの息子！？ |
+| 14524 | Ha, ha, ha… | クックック…… |
+| 14525 | I offered the woman with my child to Professor Gast's Jenova Project. | 私の子を身ごもった女をガストのジェノバ・プロジェクトに提供したのだ |
+| 14526 | When Sephiroth was still in her womb, we took Jenova's cells… | クックッ……セフィロスがまだ母親の体内にいるころにジェノバ細胞を…… |
+| 14527 | You! | き、きさま……！ |
+| 14528 | I can't believe you're the one who did this… | あんたがこんなことをしているのは…… |
+| 14529 | Illusionary crime against Sephiroth… | セフィロスへの罪ほろぼし…… |
+| 14530 | Heee, hee, hee! No, you're wrong! | ヒーッヒッヒッヒッ！ちがうちがう！ |
+| 14531 | It's my desire as a scientist! Heee, hee, hee! | 科学者としての欲望だ！ヒーッヒッヒッヒッ！ |
+| 14532 | I was…wrong. The one that should have slept was… | 私は……間違っていた。眠るべきだったのは…… |
+| 14533 | …You, Hojo! | きさまだ、宝条……！ |
+| 14534 | I…was defeated by my drive to become a scientist. | 私は…ヒッ、ヒック！科学者としての欲望に負けた |
+| 14535 | I lost the last time, too. | この間もな、負けてしまった |
+| 14536 | I've injected Jenova's cells into my own body! | 自分の身体にジェノバ細胞を注入してみたのだ！ |
+| 14537 | Heee, hee, hee! | ヒーッヒッヒッヒッ！ |
+| 14538 | Here are… | 結果を…… |
+| 14539 | …the results!! | 見せてやろう！！ |
+| 14540 |  %$#&$*&^%^ | チッ、けったクソの悪い……！ |
+| 14541 | Hojo… Rest in peace… | 宝条……永遠に眠れ…… |
+| 14542 | I can't believe Sephiroth is Hojo's son… | セフィロスが……宝条の息子だったなんて…… |
+| 14543 | The father… | 父親か…… |
+| 14544 | How sad…for him… | なんか、かわいそ…… |
+| 14545 | I'm so glad you came. | よう来てくれました |
+| 14546 | That's the end of the cannon… | とにかくよう……これでキャノンは止まったわけだ…… |
+| 14547 | Hey! This is… | おっ！ こいつは…… |
+| 14548 | Received Missing Score! | 『ミッシングスコア』を手にいれた！ |
+| 14549 | This is great. Hold on, Hojo! | こりゃあいいぜ。待ってろよ、宝条……！ |
+| 14550 | Dead end! | 行き止まりか！ |
+| 14551 | Shinra's…finished. | 神羅は…………終わりました |
+| 14552 | Meteor's gonna fall in about… | メテオが落ちてくるまであと…… |
+| 14553 | Seven more days. That's what Grandfather said. | あと７日って、じっちゃんが言ってた |
+| 14554 | RED XIII… | なあ、RED XIII |
+| 14555 | You want to see everyone in Cosmo Canyon again? | コスモキャニオンの人たちに会いたいか？ |
+| 14556 | …Yes. | …………うん |
+| 14557 | You want to see Marlene, right? | マリンに会いたいだろ？ |
+| 14558 | Don't ask me that. | そんなこと聞くなよ |
+| 14559 | We'll beat Sephiroth… | 俺たちがセフィロスを倒して…… |
+| 14560 | Then, if we don't release the power of Holy in seven days… There won't be a Planet left to protect. | そしてホーリーを解き放たないと７日後にはこの星そのものが死んでしまう |
+| 14561 | If we can't beat Sephiroth… | 俺たちがセフィロスを倒せない…… |
+| 14562 | It's as good as death for us. | それは……俺たちが死ぬということだ |
+| 14563 | We'll just go a few days sooner than the rest who'll die from Meteor. | メテオで死んでしまう人たちより何日か先に、だ |
+| 14564 | Don't think you're gonna lose before ya even fight! | 戦う前から負けること考えるんじゃねえ！ |
+| 14565 | No! | ちがう！ |
+| 14566 | What I meant was… | 俺は……なんていうか…… |
+| 14567 | What are we all fighting for? I want us all to understand that. | みんなが何のために戦っているのか。それをわかっていてほしいんだ |
+| 14568 | Save the Planet…for the future of the Planet… Sure, that's all fine. | 星を救う……星の未来のため……確かにそのとおりなんだと思う |
+| 14569 | But really, is that how it is? | でも、本当は、本当はどうなんだろう？ |
+| 14570 | For me, this is a personal feud. | 俺にとっては、これは個人的な戦いなんだ |
+| 14571 | I want to beat Sephiroth and settle my past. | セフィロスを倒す。過去との完全な決別 |
+| 14572 | Saving the Planet just happens to be part of that. | それが星を救うことにつながっているんだ |
+| 14573 | I've been thinking. | 俺、考えたんだ |
+| 14574 | I think we all are fighting for ourselves. | やっぱり俺たちは自分のために戦っているんだ |
+| 14575 | For ourselves…and that someone… something…whatever it is, that's important to us. That's what we're fighting for. | 自分と……自分が大切にしている誰か？　何か？　そのために戦う |
+| 14576 | That's why we keep up this battle for the Planet. | そのために星を救う戦いを続けているんだ |
+| 14577 | You're right… | たしかに…… |
+| 14578 | It sounds cool sayin' it's to save the Planet. | 星を救うってのは、なんとなくカッコいいよな |
+| 14579 | But I was the one who blew up that Mako reactor…… | でも、オレにできたのはあの、魔晄炉爆破だ…… |
+| 14580 | Lookin' back on it now, I can see that wasn't the right way to do things. | 今となっちゃあ、あんなやりかたはいけなかったってことは良くわかる |
+| 14581 | I made a lot of friends and innocent bystanders suffer… | 仲間たちや関係ない大勢の人間を不幸にしちまった…… |
+| 14582 | …At first, it was revenge against Shinra. For attackin' my town. | ……最初は神羅への復讐だった。オレの故郷を奪ったよ |
+| 14583 | But now… | でも、今は…… |
+| 14584 | Yeah. I'm fightin' for Marlene. | そうだぜ。オレはマリンのために戦ってるんだ |
+| 14585 | For Marlene… For Marlene's future… | マリンのために……マリンの未来のために…… |
+| 14586 | Yeah…I guess I want to save the Planet for Marlene's sake… | そうか……オレはマリンのために星を救う戦いをしてるのか…… |
+| 14587 | Go and see her. Make sure you're right, and come back. | 会いに行けよ。その気持ち、たしかめてこいよ |
+| 14588 | All of you. Get off the ship and find out your reasons for yourselves. | みんなも、一度船を降りてそして自分の戦う理由…… |
+| 14589 | I want you to make sure. Then I want you to come back. | それを確かめて欲しいんだ。そうしたら、帰ってきてほしい |
+| 14590 | Maybe ain't none of us'll come back. | 誰ももどって来ないかもしれねえぜ |
+| 14591 | Meteor's gonna kill us all anyway. Let's just forget any useless struggling! | メテオでどうせ死んじまう。ムダなあがきはやめようってよ！ |
+| 14592 | I know why I'm fighting. I'm fighting to save the Planet, and that's that. | 俺は自分が戦う理由を知っている。まぎれもなく、星を救うために戦う |
+| 14593 | But besides that, there's something personal, too… A very personal memory that I have. | でも、その中には個人的な……とても個人的な俺の想いがあるんだ |
+| 14594 | What about you all? I want all of you to find that something within yourselves. | みんなは……どうだ？俺はみんなにも、そういうものを見つけてほしいんだ |
+| 14595 | If you don't find it, then that's okay, too. You can't fight without a reason, right? | 見つからなかったら仕方がない。理由なしでは戦えないだろ？ |
+| 14596 | So, I won't hold it against you if you don't come back. | だから、帰ってこなくても……仕方がないよ |
+| 14597 | What are you going to do, TIFA? | TIFAはどうする？ |
+| 14598 | Did you forget? | 忘れちゃったの？ |
+| 14599 | I'm…all alone. I don't have anywhere to go. | 私……ひとりなんだもん。どこにも行くところがないんだもの |
+| 14600 | Twilight Hill | ゆうやみの丘 |
+| 14601 | Everyone's gone… | みんな、行っちゃったね…… |
+| 14602 | Yeah, we don't have anywhere or anyone to go home to. | ああ、俺たちには帰るところも待っていてくれる人もないからな |
+| 14603 | You're right… | そうだね…… |
+| 14604 | But…I'm sure someday… they'll come back, don't you think? | でも……。きっと、みんな……もどって来てくれるよね？ |
+| 14605 | Hmm… I wonder… | さあ……。どうかな……？ |
+| 14606 | Everyone has something irreplaceable they're holding on to… | みんなそれぞれ、かけがえのない大切なものを抱えてるし…… |
+| 14607 | But this time, our opponent… | それに今度ばっかりは、相手が相手だ…… |
+| 14608 | Hmm…But that's all right, if no one comes back. | うん……。それでも私……和気だよ。たとえ、だれももどってこなくても |
+| 14609 | As long as we're together. With you by my side, I'll never give up no matter how bad it gets. | CLOUDと一練なら……CLOUDが、そばにいてくれるなら……こわくても……負けないよ、私…… |
+| 14610 | … TIFA… | …………。TIFA…… |
+| 14611 | No matter how close we are now… We were far apart before. | 私たち……これまではずっと遠く、はなればなれだったんだね。たとえ、どんな近くにいても…… |
+| 14612 | But when we were in the Lifestream surrounded by all those screams of anguish, I thought I heard your voice… | でも、ライフストリームのなかでたくさんの悲しい叫びにかこまれた時CLOUDの声が聞こえたような気がしたんだ…… |
+| 14613 | …sniff…you probably don't remember this… | クスッ……。CLOUDは知らないって言うかもしれないけど…… |
+| 14614 | But deep in my heart I heard you calling my name… Or at least I thought I did… | でも、胸のずっと奥の方であなたの声が私の名を呼んでる……。そんな気がしたんだ…… |
+| 14615 | Yeah… I heard you calling me. | ああ……。あのとき俺にもTIFAの叫ぶ声が聞こえたよ |
+| 14616 | You were calling me back from the consciousness in the Lifestream. | TIFAの声がライフストリームの意識の海から俺を呼びもどしてくれたんだ |
+| 14617 | After all, I promised that if anything ever happened to you, I'd come to help. | 約束したもんな。TIFAになにかあったらかならずかけつけるって |
+| 14618 | CLOUD…? Do you think the stars can hear us? | ねえ、CLOUD……。私たちの声を、星たちも聞いててくれると思う？ |
+| 14619 | Do you think they see how hard we're fighting for them? | がんばってる私たちの姿を見ていてくれると思う？ |
+| 14620 | I dunno… But… | さあな……。でも…… |
+| 14621 | Whether they can or not, we still have to do what we can. And believe in ourselves… | だれが見ていようといまいととにかく、できることをやるだけさ。自分自身を信じて…… |
+| 14622 | Someday we'll find the answer. Right, TIFA? That's what I learned from you when I was in the Lifestream. | ライフストリームのなかでTIFAにそう教えられたよ |
+| 14623 | Yes…that's right… | うん……そうだね…… |
+| 14624 | Hey TIFA… I… There were so many things I wanted to say to you. | なあ、TIFA……。俺……。TIFAに話したいことがたくさんあったんだ…… |
+| 14625 | But now that we're together like this, I don't know what to say… | でも、今こうしてふたりでいると本当はなにを話したかったのか…… |
+| 14626 | CLOUD… Words aren't the only thing that tell people what you're thinking… | CLOUD……。想いをつたえられるのは言葉だけじゃないよ…… |
+| 14627 | … | TIFA……… |
+| 14628 | I'll find the answer someday. As long as I keep trying. | 答えは、いつかきっと見つかるさ。あきらめさえしなければ |
+| 14629 | We've got a big battle tomorrow, we'd better get some sleep… | 明日の戦いにそなえて今日は、はやくやすもう…… |
+| 14630 | Umm. I guess you're right… | うん……。……… |
+| 14631 | I think I've heard it, too. Then, it was TIFA's voice… | 俺も、聞いたような気がするな。あの時、TIFAの声を…… |
+| 14632 | Highwind – Before the Decisive Battle | 決戦前　ハイウインド |
+| 14633 | … It's almost dawn… | ………　もうすぐ、夜明けだな…… |
+| 14634 | H, huh? | う、うん……？ |
+| 14635 | Sorry. Did I wake you? It's almost dawn, TIFA. | ゴメン。おこしちゃったか……。もうすぐ夜が明けるよ、TIFA |
+| 14636 | Umm… G, good morning… CLOUD. | うん……。あの……お、おはよう……CLOUD |
+| 14637 | Just a little longer… A little bit longer… | もうすこしだけ……このままでいさせて…… |
+| 14638 | This day will never come again… So let me have this moment… | 二度とこない、この日のために……。せめて、いまだけは…… |
+| 14639 | Sure… | ああ……いいよ |
+| 14640 | This might be the last time we'll ever be together… | これは、俺たちふたりにゆるされたさいごの時間かもしれないから…… |
+| 14641 | We'd better go. | そろそろ時間だ |
+| 14642 | But, I still…!? | でも、まだ……！？ |
+| 14643 | It'll be all right, TIFA. You said so yourself yesterday. | いいんだよ、TIFA。きのう、TIFAも言ってたろ？ |
+| 14644 | At least we don't have to go on alone. | すくなくとも俺たちは、ひとりぽっちで行かなきゃならないってわけじゃない |
+| 14645 | Yes… That's right! | うん……。そうだね！ |
+| 14646 | Okay! Let's go! | よし！それじゃ、行こうか！ |
+| 14647 | Morning, TIFA. It's almost dawn… | おはよう、TIFA。もうすぐ夜が明ける…… |
+| 14648 | Mmm… Good morning, CLOUD. | うん……。おはよう、CLOUD |
+| 14649 | No one's…back yet. | みんな……帰ってこないね |
+| 14650 | That's just the way it is TIFA. It was their choice to make. | 仕方がないよ、TIFA。みんなが選んだ結果なんだから |
+| 14651 | What are you going to do, CLOUD? | CLOUDはどうするの？ |
+| 14652 | I'm…a coward. I don't even have the guts to call it quits here. | 俺は……いくじなしだからな。ここでやめてしまう勇気がない |
+| 14653 | What's wrong with me? I guess…I'm scared. | 私は……どうなのかな。やっぱり……恐いな |
+| 14654 | CLOUD! Say everything'll be fine! | ね、CLOUD！だいじょうぶって言って！ |
+| 14655 | Everything'll be fine! | だいじょうぶだよ、TIFA |
+| 14656 | Wow! | うわ～！ |
+| 14657 | I don't know why, but suddenly I feel like everything'll be fine. | なんだか、もう、絶対にだいじょうぶって感じ、した |
+| 14658 | This airship is too big for just the two of us. | ……ふたりきりだと飛空艇、ひろすぎるね |
+| 14659 | Yeah, it's a little lonely without everyone. | やっぱり、ちょっとだけさびしいな |
+| 14660 | Don't worry. It'll be okay. | 心配するな。だいじょうぶだ |
+| 14661 | I'll make a big enough ruckus for everyone. | 俺がみんなのぶんも大騒ぎしてやる |
+| 14662 | Besides, I'm the pilot. | それに、パイロットは俺だ |
+| 14663 | No more flying around casually like before. | いままでみたいに安心してのっていられないからな |
+| 14664 | We won't have time to feel lonely. | さびしがっているヒマなんてないぞ、きっと |
+| 14665 | It's moving… | 動き出した…… |
+| 14666 | Let's go TIFA. | 行こう、TIFA |
+| 14667 | BARRET! CID! | BARRET！　CID！ |
+| 14668 | O, oh…is that okay with you? | お、おう……もう、いいのか？ |
+| 14669 | RED XIII! | RED XIII！ |
+| 14670 | Why didn't you tell me!? | どうして声、かけてくれなかったの！？ |
+| 14671 | But, you know, CID. | だって……ねえ、CID |
+| 14672 | Hey, RED XIII. | なあ、RED XIIIよう |
+| 14673 | If you butt in now, you never know what they'll say later… | 邪魔しちゃ、あとでな～に言われっかわかんねえもんなぁ…… |
+| 14674 | …Were you watching? | …………見てたの？ |
+| 14675 | …Were you listening? | …………聞いてたの？ |
+| 14676 | VINCENT! | VINCENT！ |
+| 14677 | Why such a puzzled look? | なんだ、その驚いた顔は |
+| 14678 | Don't you want me to come? | 私が来てはいけなかったのか？ |
+| 14679 | No, it's just that you're always so cool to what is happening I thought you didn't care. | いつもさめてたから……関係ないって顔してただろ？ |
+| 14680 | Cool? | さめて？ |
+| 14681 | Hmm… I guess that's just how I am, sorry. | フッ……私はそういう性格なのだ。悪かったな |
+| 14682 | Well looky-here. The Shinra Manager's come back. | 帰ってきたみてえだな。神羅の部長さんがよ |
+| 14683 | Uh, excuse me but… | あの～ |
+| 14684 | I wanted to come with the main group, but I couldn't get away… | ボクも、本体で来ようと思たんですけどいろいろ、やらなあかんことがあって…… |
+| 14685 | So some people in Midgar took me in. | ほんで、ミッドガルの人たちですけど一応避難してもろてますのや |
+| 14686 | I know I have a stuffed animal body, but I'll work really hard! | すんませんけど、この作りモンのボディでがんばらせてもらいます |
+| 14687 | I guess that's everyone. | さて……全員そろったな |
+| 14688 | No, YUFFIE's missing. | YUFFIE、いないよ |
+| 14689 | She ain't gonna show up. | アイツは……来ねえだろ、きっと |
+| 14690 | 'Least this time she didn't steal our Materia. Thank god for that. | でもよ、オレたちのマテリアを盗んでいかなかった。それだけでも良かったんじゃねえのか？ |
+| 14691 | How could you say that!? | ひっどいな～！！ |
+| 14692 | After I came this far with you, even with my airsickness! | 船酔いに負けないでここまで来たんだよ！ |
+| 14693 | I didn't go through all that just to have you guys have the best parts all to yourselves! | 最後の最後に抜けちゃって、おいしいとこぜ～んぶ持ってかれるなんて絶対イヤだからね！ |
+| 14694 | Welcome back, YUFFIE. | おかえり、YUFFIE |
+| 14695 | Gee, CLOUD…that's so nice of you to say that…You sick or somethin'? | おろ～……CLOUDやさしいねえ。なんかあった？ |
+| 14696 | Well, whatever. I'm gonna be in my reserved seat in the hall… waiting…upp…Urk! | ま、いいか。じゃ、アタシは通路の指定席で待機……ウッ！……ウップ！ |
+| 14697 | Thanks everyone. | みんな、ありがとう |
+| 14698 | We didn't come back for your spikey-headed ass! | おまえのために戻ってきたわけじゃねえ！ |
+| 14699 | I came back for Marlene. Guess it's jus' my… feelings or somethin'. | オレの大切なマリンのため。それとおんなじくらい大切なオレの……オレの気持ち……ってのか？ |
+| 14700 | I, uh I ain't got no words now… | オレはよ…………今、ここにはいねえ…… |
+| 14701 | …Although she's not here, she left us a window of opportunity… | ……ここにはいないけどオイラたちにチャンス、残してくれた…… |
+| 14702 | We can't let it go like this. | このままってわけにゃいかねえよな |
+| 14703 | …AERIS. She was smiling to the end. | ……AERIS、最後にほほえんだんだ |
+| 14704 | We can't just let it end with that smile, we have to do something. | その笑顔、俺たちがなんとかしないとはりついたまま、動かない |
+| 14705 | Let's all go together. | みんなで行こう |
+| 14706 | Memories of AERIS… | AERISの想い…… |
+| 14707 | Although she should've returned to the Planet by now, something stopped her and now she's stuck… | 星にとどいたはずなのに邪魔されて身動きできないでいる…… |
+| 14708 | We've got to let go of AERIS's memory. | AERISの想い、解き放つんだ！ |
+| 14709 | Has anyone here changed their mind? | 気が変わったってヤツ、いねえよな？ |
+| 14710 | What the hell was up with CLOUD anyway? | なあ、結、CLOUDはなんだったんだ？ |
+| 14711 | He was a Sephiroth-clone created by Hojo. | 宝条が創り出したセフィロス・コピーですわな |
+| 14712 | They really make those? | そんなもん、創れるのか？ |
+| 14713 | Well he wasn't made from scratch. | ゼロから創ったんとは、ちゃいますやろ |
+| 14714 | They implanted Jenova cells into a normal human being and then infused it with Mako energy. | きっと、普通の人間にジェノバ細胞を移植して魔晄づけにしたんやな |
+| 14715 | Well then, what is CLOUD? | じゃあ、CLOUDは？ |
+| 14716 | But why only CLOUD? | でも、どうしてCLOUDだけが…… |
+| 14717 | You guys!! | みんな！！ |
+| 14718 | Geez…that's pretty lame.” | おろ～っ……ひっどいなぁ |
+| 14719 | I stuck in there even when I was pukin' from bein' so seasick. | 船酔いに負けないでここまで来たんだよ |
+| 14720 | But if you think I stuck through all this just to make off with everything when the time's right, forget it. That's not my style. | 最後の最後に抜けちゃっておいしいところはぜ～んぶ持っていかれるなんて絶対イヤだからね！ |
+| 14721 | Ain't no one wanna be thanked by you! | おまえに感謝されてもよう |
+| 14722 | So, what's next. Now that everyone's here. What're you going to do? | じゃ、なんだ。全員そろったところでCLOUDさんよいっちょう決めてくれ |
+| 14723 | This is our last battle. Our target is Sephiroth in the Northern Cave! So… | 俺たちの最後の戦いだ。目標は北の大空洞のセフィロス！さあ…… |
+| 14724 | Let's do it. Come on, everyone! | 行くぜ、みんな！ |
+| 14725 | How are you feeling? | 気分はどう？ |
+| 14726 | You ought to rest a bit… Don't push yourself. | 少しなら休んでもいいと思うけど……無理しないでね |
+| 14727 | CLOUD…what should I do? I've got to think. | CLOUD……どうしよう……考えなくっちゃ |
+| 14728 | The Planet's…scream. | 星の……悲鳴 |
+| 14729 | Did Bugenhagen…tell you anything? | ブーゲンハーゲンさん……何か教えてくれるかな？ |
+| 14730 | I wonder what AERIS felt… when she was on that altar…? | AERIS……どんな気持ちであの祭壇にいたのかしら…… |
+| 14731 | I'm sure she wanted to give her life for the Planet. | きっと、命をかけてこの星を…… |
+| 14732 | Really? I wonder? I don't think that was it. | そうかな？　そうなのかな？私はちがうと思うの |
+| 14733 | I don't think she wanted to die at all, but was planning on coming back all along. | きっと、死ぬことなんか考えてなくてちゃんと帰ってくるつもりだったんじゃないかな？ |
+| 14734 | She always used to talk about the 'next time'. | だってAERIS、よく言ってたもの。また、この次は、今度は…… |
+| 14735 | She talked about the future more than any of us… | AERIS、他の誰よりも明日のこと話してた…… |
+| 14736 | Although she never said anything to us about it, she must've had a rough life. | 私たちには言わなかったけどきっと大変な人生だったから…… |
+| 14737 | I think AERIS looked forward to tomorrow and the future more than anyone… | AERISは『明日』…『未来』…誰よりも楽しみにしてたと思う…… |
+| 14738 | …she must've had many many dreams… | ……たくさんたくさん夢があったんだと思う…… |
+| 14739 | Whether you love it or hate it… | 好きとかキライとか…… |
+| 14740 | You just can't bring yourself to leave Midgar, can you? | 気持ちとは関係なくミッドガルからはなれられないわね |
+| 14741 | Now we're going to fight Sephiroth. | いよいよ、セフィロスとの対決ね |
+| 14742 | I wonder what the inside of that cave looks like? You think Sephiroth is just sitting there waiting for Meteor? | あの大空洞の中、どうなってるんだろう。セフィロスはじっとしてメテオを待っているのかな…… |
+| 14743 | It's all right. | だいじょうぶだよね |
+| 14744 | You're here… Everyone's all together | CLOUDがいる……みんなもいっしょだものね |
+| 14745 | Together…we can do anything. We've worked this hard already. | 私たち……なんでもできるよね。こんなにがんばってるんだもの |
+| 14746 | Hey, CLOUD… Would you tell me 'It's all right'? | ね、CLOUD……『だいじょうぶ』って言って？ |
+| 14747 | Say it cool | ちょっと気取って |
+| 14748 | Say it normal | ふつうに |
+| 14749 | Don't say it | 言わない |
+| 14750 | …I just can't say it that easy. | ……そんな気やすめは言えないな |
+| 14751 | Now I feel like things are really going to be all right. Thanks, CLOUD. | あ、本当にだいじょうぶって気がした……ありがと、CLOUD |
+| 14752 | You're right, things will be all right. | うん、だいじょうぶだよね |
+| 14753 | I'm sorry…I guess you're right. | ごめん……そうだよね |
+| 14754 | I'm all right. I'm not going to chicken out at the last minute. | 私、だいじょうぶ。もう、おじけづいたりしないわ |
+| 14755 | I'm…all right…really… I'll fight my hardest… | 私……だいじょうぶだから……がんばって戦うから…… |
+| 14756 | ……Wow. I guess…I am a little scared. My knees are trembling. | ……はぁ。やっぱり……少し、こわいわ。ヒザがガクガクしてるの |
+| 14757 | I'm counting on you, CID. | たのむ、CID |
+| 14758 | Yeah, yeah… | ヘヘ…… |
+| 14759 | These two levers have been buggin' me for a while… | ここに、ずっと気になってたレバーが２本あるんだが…… |
+| 14760 | Let me try them out. | ちょっと試させてくれよな |
+| 14761 | Do whatever you have to. | まかせるよ |
+| 14762 | All right, so what should I do? | じゃ、なんだ |
+| 14763 | You decide, CLOUD. | CLOUDさんよ、いっちょ、決めてくれ |
+| 14764 | This is our last battle. | 俺たちの最後の戦いだ！ |
+| 14765 | Our target is the North Cave. Our enemy is…Sephiroth! | 目標は北の大空洞敵は……セフィロス！！ |
+| 14766 | We're almost to the North Cave! We're on our way, Sephiroth! | もうすぐ北の大空洞だな！セフィロス！　待ってろよ！ |
+| 14767 | Man, I'm going to stick it to him! | おう！　つっこむぜい！ |
+| 14768 | What is it, CID? | どうした、CID！ |
+| 14769 | Errrrggh! Some incredible force! Losing…control… | あががががが！コントロールできねえ！すげえエネルギーだ！ |
+| 14770 | CID. | CIDさん |
+| 14771 | Captain | 艇長 |
+| 14772 | Here, sir! | 手伝いまっす！- |
+| 14773 | Get the hell outta here, flunkies! Didn't I tell you all to go home!? | なんだ、てめえら！実家へ帰れって言ったじゃねえか！ |
+| 14774 | Yes, sir. But, this is our home!! | そうです！ここがボクたちの家でっす！！ |
+| 14775 | Oh ma--…stop trying to act so cool. | ケッ……カッコつけやがって |
+| 14776 | All right, you jokers! Hold me down with everything you got!! | わかったぜ、おめえら！オレ様をしっかり押さえやがれ！！ |
+| 14777 | Geronimo!! | 行っくぜ～！！ |
+| 14778 | ( End Disc 2 ) | 【　ディスク２が終了しました　】 |
+| 14779 | C'mon, CLOUD! Don't #&$* around! | 行くぞ、CLOUD！もたもたしてらんねえ！ |
+| 14780 | We're goin' to Junon!! | ゴー！　ゴー！　ジュノンだぜ！ |
+| 14781 | Them Shinras think they're gonna fight Meteor with the Huge Materia? | 神羅のやつらよう、どうやってメテオとヒュージマテリアを戦わせるつもりなんだぁ？ |
+| 14782 | Damn, it kinda makes me sad… | なんだか悲しいぜ…… |
+| 14783 | That Bugenhagen guy… He was a weird old dude. | ブーゲンジイさんかよ……よくわかんねえジイさんだよな |
+| 14784 | I used to think he was a naturalist, but he was all into them machines. | 自然主義者かと思ってたら機械にかこまれてくらしてるしよう |
+| 14785 | And AERIS…she's dead. | AERIS……死んじまったんだよな |
+| 14786 | Guess she turned into Spiritual Energy and returned to the Planet, huh? | 精神エネルギーになって星をめぐる……かぁ？ |
+| 14787 | But even if she did, there's no way we'll meet her again… | だとしてもよ、やっぱりよ会えるわけじゃねえからな…… |
+| 14788 | Whacha gonna do, CLOUD? Got any good ideas? | どうするよ、CLOUDいい考え、ないのか？ |
+| 14789 | That damn Weapon… He's one big *&$*&%$… | ウェポンかよ……でけえよな…… |
+| 14790 | Even Midgar's in trouble now. | いくらミッドガルだってあぶねえだろうな |
+| 14791 | When AVALANCHE was startin' out, we used to put up flyers everywhere. | 最初はよ、ビラはりだったぜ。アバランチの初めのころはな |
+| 14792 | And now, we're up against Sephiroth. How about that? | それが、どうだよ。セフィロスと戦うだぁ？ |
+| 14793 | Feels like a long time ago. | なんか、遠くに来ちまった。そんなカンジがするぜ |
+| 14794 | Comin' and goin'… gettin' pushed around. | 行ったり来たり……ふりまわされるよな |
+| 14795 | But I got a debt to all them back in Midgar that I can't never repay… | でもよ、オレはミッドガルの連中には返しきれねえ借りがあるからよ…… |
+| 14796 | Heh heh heh… Time's got a way of sneakin' up on ya, huh? | ヘヘ……ヘヘヘヘ……時、せまるってやつだな？ |
+| 14797 | I'm shakin' all over… Heh heh…I feel sick… | なんだか、体がふるえてるぜ……ヘヘ……気持ち悪いぜ…… |
+| 14798 | I'm glad you're back with us! | やっぱり、CLOUDがいるの、いいな！ |
+| 14799 | Shinra only cares if things are good right now. | 神羅のやり方ってさ、今さえ良ければなんでもいいってことだよね |
+| 14800 | But, I plan to live for 500 years and won't stand for that type of thinking. | でもね、オイラは５００年くらい生きるからそれじゃ、とっても困るんだ |
+| 14801 | Yes. We have to think about what to do. | そうだよね。なんとかしようって考えなくちゃね |
+| 14802 | Hurry, hurry! We must go meet Grandfather! | 早く早く！じっちゃんに会いに行こうよ！ |
+| 14803 | AERIS used to pat me on the nose sometimes. | AERISはね、ときどきオイラのハナをなでてくれたんだ |
+| 14804 | I used to hate being treated like a child like that, but I also liked the attention. | 子供あつかいされてくやしかったけどでも、ついついよろこんじゃうんだ |
+| 14805 | I wanted to apologize to her for what I did when we first met. | 初めて会ったときのことあやまりたかったな…… |
+| 14806 | If I were more of an adult, perhaps I would have a better idea of what to do? | オイラがもっと大人だったら……何か良い考えがうかぶのかな？ |
+| 14807 | Whew…I wish I could grow up. I wonder if after all this is over, will I be an adult? | はぅ……大人になりたいなぁ。この旅が終わったら、大人になれるかな…… |
+| 14808 | Midgar… | ミッドガルか…… |
+| 14809 | I hated the fact I was caught by Hojo and taken back to the lab where they did all kinds of experiments on me… | 宝条につかまって連れてかれていろいろ実験されてくやしかったな…… |
+| 14810 | But because of that I was able to meet you all… | でも、そのおかげでみんなと会えたんだよね…… |
+| 14811 | People you want to meet… others you don't…strange isn't it? | いろんな人と出会ったり出会わなかったり……不思議だね |
+| 14812 | Will we save the world if we beat Sephiroth? | セフィロスを倒せば星を救えるんだよね |
+| 14813 | I'm frightened, but I'll do my best. Let's hurry to the Northern Cave! | こわいけど、オイラ、がんばるよ。早く行こうよ、大空洞へ！ |
+| 14814 | I wonder why Hojo performed so many of these experiments? | 宝条はどうしてこんなに事件ばかりおこすんだろう |
+| 14815 | Why couldn't he content himself with quiet research? | しずかに研究だけしてればいいのにさ |
+| 14816 | I am Nanaki, son of Seto… I am afraid of nothing… | （オイラはセトの息子ナナキ……何もこわくないこわくない……） |
+| 14817 | It's all right, all right. I'm Nanaki, the son of brave Seto… I'm not afraid of Sephiroth… | （だいじょうぶだいじょうぶ。オイラは勇者セトの息子ナナキ……セフィロスなんか恐くない……） |
+| 14818 | Escape from a world of illusions… Hmph…I wonder which is better…? | 幻想の世界からの脱出か……フッ……どっちがしあわせなのか…… |
+| 14819 | …how does it feel, CLOUD? living for no one but yourself? | ……どうかな、CLOUD。借り物ではない自分を生きるのは？ |
+| 14820 | …feelings alone aren't enough. …it's irritating, isn't it CLOUD? | ……心だけではどうにもならない。……もどかしいな、CLOUD |
+| 14821 | The machines in Cosmo Canyon were presents of Dr. Gast. | コスモキャニオンの機械類はほとんどがガスト博士のおくりもの |
+| 14822 | Wrapped up in the Planet's strange notions surrounded by Shinra-made machines… | 神羅製の機械にかこまれ星の不思議に想いをはせる…… |
+| 14823 | Science and the Planet lived side by side in that old man's heart. | あの老人の中では科学と星がともに生きているのだ |
+| 14824 | City of the Ancients… | 古代種の都…… |
+| 14825 | The Ancients…in time that is probably what later generations will call us. | 古代種……我々もはるかな時を経てのちそう呼ばれる日が来るかもしれない…… |
+| 14826 | Hmm…hwa ha ha ha… It's only a matter of time for us. | フッ……フハハハ……我々しだいというわけだ |
+| 14827 | ……we still can't seem to get near Sephiroth… | ……なかなかセフィロスには近づけないな…… |
+| 14828 | Kill Sephiroth… Killing the son of my beloved woman… | セフィロスを倒す……いとしい女性の息子を倒す…… |
+| 14829 | Am I on the verge of committing another sin? Or am I atoning as best I can for only standing by? | 私はまた罪を犯そうとしているのか……それとも、見ているだけだった私にできる、せめてものつぐないか…… |
+| 14830 | Hojo…what a queer fellow. | 宝条……不幸な男 |
+| 14831 | Such utter lack of scientific talent… compared with the genius of Dr. Gast… | 科学的センスのなさ……つきまとう天才ガスト博士との比較…… |
+| 14832 | Lucrecia chose him in order to protect him. | ルクレッツアは宝条を守ろうとしてあいつを選んだ…… |
+| 14833 | Now I understand… I understand…but… | いまならわかる……わかるが……しかし…… |
+| 14834 | CLOUD…take the ship to the Northern Cave. | CLOUD……船を大空洞へ |
+| 14835 | The time for flying is now past. Our battlefield is now beneath the earth… | 空をかけめぐる時間は終わったのだ。今は地の底が我々の戦場…… |
+| 14836 | The gate to tomorrow is not the light of heaven, but the darkness of the depths of the earth. | 天の光ではなく、地の底のやみこそが明日へのとびら…… |
+| 14837 | This is kind of sudden, but shouldn't we get to Junon!? | いきなりでナンやけどさくっと、ジュノンへ行きましょか！ |
+| 14838 | The Shinra are all gathered at CID's Rocket Town… | CIDさんのロケット村に神羅が集まってますわ…… |
+| 14839 | …I love giving out secrets more than anything. | はぁ……秘密もらすんてなんや快感なってきましたわ |
+| 14840 | …That's not to say I don't know how the President feels. | ……社長のやり方かってわからんでもないんですわ |
+| 14841 | But, I can't shake the feeling he's rushin' things a bit… | でも、ナンや急ぎすぎとるって感じ、しとったんです…… |
+| 14842 | The life of the Planet… | 星の悲鳴ですかぁ………… |
+| 14843 | Which was screaming? The Planet? Or Meteor? | この星のんか、メテオのんか……どっちの悲鳴なんやろなぁ…… |
+| 14844 | Just between you and me… | ナイショやけども…… |
+| 14845 | That Bugenhagen used to be a Shinra worker. | ブーゲンさんは昔っから神羅のお得意さんやったんです |
+| 14846 | He never bought any weapons or Mako though… | あ、武器と魔晄は絶対に買いはらへんかったんですけどね |
+| 14847 | I told AERIS's Mom about her death. | AERISさん、亡くなってしもたことお母さんに伝えたんです |
+| 14848 | Elmyra was cried herself silly… So did little Marlene… | エルミナさん、ずぅっと泣いてはりました……マリンちゃんも…… |
+| 14849 | Lately, they don't call me to meetings. Probably because you know I'm a spy. | 最近、ボク……会議に呼ばれへんのです。スパイしてんの、バレバレですから |
+| 14850 | CLOUD, you make sure and do your best! | CLOUDさん、ほんまたのみます！ |
+| 14851 | I know you can't forgive the Shinra, but the people in Midgar haven't done any wrong! | 神羅は許せんかもしれんけどミッドガルの人たちには、何の罪もないんや！ |
+| 14852 | …Wonder what Sephiroth's up to? | ……セフィロスどないしとるんやろ |
+| 14853 | I can't apologize to you enough. | 何度も何度もすんません |
+| 14854 | If I was a better person, none of this would have happened… | も～ちょい、ボクがしっかりしとったらこんなことにはならんかったのに…… |
+| 14855 | So let's get over it! We've got to hurry to the slums! | さ、みなはん、スラムの方へ！急いで急いで！ |
+| 14856 | Are you all right? You say you lost your son? | あっ、おばあさん、だいじょぶでっか？えっ？　息子さんとはぐれた？ |
+| 14857 | Hey, CLOUD! | あ、CLOUDさん、すいまへん！ |
+| 14858 | The people ought to just about be to safety in the slums by now. | もうすぐ、み～んなスラムへ避難完了しますのや |
+| 14859 | Maybe we were all just kidding ourselves. | ……気休めかもしれまへんけどな |
+| 14860 | But I won't forget, no matter what happens. | ボク、忘れません。何があっても…… |
+| 14861 | Not about this here trip, or them folks--none of it! | この旅のこと、みなさんのこと絶対、忘れへん！ |
+| 14862 | I know how tough it is bein' a leader, because I've been one. | やってみてわかったけどよリーダーってのは大変だよなぁ |
+| 14863 | I always forget who has what Materia. | 誰がどんなマテリアつけてるとかす～ぐ忘れちまったぜ、オレ様はよ |
+| 14864 | You said there's somethin' goin' on at Rocket Town…? | ロケット村でなんかあるって？いまさら宇宙開発再開じゃねえよな…… |
+| 14865 | I TOLD you I was thinkin' about it! | 考え中だっていってんだろ！ |
+| 14866 | Maybe it's just me, but has this ship been remodeled without me knowin' it? | 関係ねえけどよ、オレ様の知らねえうちにこの船、改造されてんだよな |
+| 14867 | All these switches and levers. They're kinda gettin' to me. | スイッチとかレバーが増えててよ気になってしょうがねえぜ |
+| 14868 | AERIS? | AERISか…… |
+| 14869 | I wanted to give her a ride in the Highwind… | オレ様のハイウインドにいっぺん乗せてやりたかったぜ…… |
+| 14870 | Phew…CLOUD. What're we gonna do? | はぁ……CLOUDよう。どうすんだ？ |
+| 14871 | Well, I guess it's time for Sephiroth. Are your hearts pounding? | いよいよ、セフィロスだぜ。腕が鳴るってか？ |
+| 14872 | That reminds me of a test rocket that landed in the Midgar Slums long ago. | そういや、昔、試作ロケットが一機ミッドガルのスラム街だかに落ちたんだよな |
+| 14873 | I remember how relieved I was when I heard it never blew up. | 爆発しなかったって聞いてホッとしたの覚えてるぜ |
+| 14874 | Maybe this is the time? | 今度こそ、か？ |
+| 14875 | This runnin' back and forth is tough! | 行ったり来たり忙しいじゃねえか！ |
+| 14876 | Even my bikini goddess would be pantin' about now! | こんなにコキ使われたんじゃ水着の女神さんもヒイヒイ言ってるぜ |
+| 14877 | You ever see the play 'LOVELESS'? | おめえよ『ＬＯＶＥＬＥＳＳ』ってシバイ見たことあるか？ |
+| 14878 | No | ない |
+| 14879 | Yes | ある |
+| 14880 | Yeah, I figured someone like you wouldn't be much on plays. | ケッ、確かにおめえはシバイなんて興味ないってふうだよな |
+| 14881 | Yeah? Really? Well, that's fine. | ホントかぁ？ま、いいけどよ |
+| 14882 | They've been doin' that play every summer since I was a kid. | あのシバイはよ、オレ様がガキのころから毎年夏にやってるんだよな、たしか |
+| 14883 | An' I remember seein' it just once… | んでよ、オレ様は一回だけ見たことがあんだけどよ…… |
+| 14884 | That was when I was in Midgar training to be a pilot. | ありゃ、パイロットの面接にミッドガル行った時だったな |
+| 14885 | I had some free time and thought I'd catch the play. | ヒマつぶしに話題の『ＬＯＶＥＬＥＳＳ』でも見るかってなもんよ |
+| 14886 | Now, I'm no big fan of the theater or anything. | じまんじゃねえが、オレ様はシバイなんぞにゃ全然興味がねえ |
+| 14887 | But this thing put me to sleep, just like I thought it would. | 自分でも予想してたけどよガーガーねちまったぜ |
+| 14888 | Finally during the last scene, the guy next to me woke me up tellin' me my snorin' was too loud. | となりにいた客にイビキうるさいって起こされたのがラストシーンでよう…… |
+| 14889 | So about all I really remember of that play is the end… | だからオレ様はあのシバイの最後のあたりだけは覚えてるぜ…… |
+| 14890 | When the sister of the lead asks her lover, | 主人公のネエちゃんが恋人に聞くんだよな |
+| 14891 | Do you really have to leave? | 『どうしても行くの？』 |
+| 14892 | And the guy says, | そしたら男がよ |
+| 14893 | I made a promise. The people I love are waiting. | 『約束だから。大好きな人たちが待ってるんだ』 |
+| 14894 | …I don't understand. Not at all. But, take care of yourself. | 『…………わからない。わからないけど……でも、絶対に死なないで』 |
+| 14895 | Of course…I'll come back to you. Even if you don't promise to wait. I'll return knowing you'll be here. | 『もちろん……ここに帰ってくるよ。約束なんかなくても待っていてくれる人がいること、俺は知ってるから』 |
+| 14896 | I remember thinking when I heard those lines, | オレ様はよ、そのセリフ聞いて思ったぜ |
+| 14897 | What the hell's he talkin' about? But, you know…now I'm not so sure… | ケッ、何言ってやがんだいってな。でもよ……今はよ…… |
+| 14898 | I think I understand… | 今は、よくわかるぜ…… |
+| 14899 | When this job's done, I'm landing the ship… yeah, that's what I'll do. | オレ様はあとひと仕事終わったら船を降りるんだ………そうするぜ |
+| 14900 | Sorry, I'm in the middle of a very delicate operation! | す、すいません。シビアでデリケートな作業中でっス！ |
+| 14901 | Ahhhhh! Oh no, oh no, oh no! | あああ！こまりますこまりますこまります！ |
 | 14902 | Oh, here!! | お！　あったあった |
 | 14903 | Put this on. | これに着替えろよ |
 | 14904 | It smells a little, but don't complain. | ちょっとにおうけど　ま、ぜいたくは言うな |
