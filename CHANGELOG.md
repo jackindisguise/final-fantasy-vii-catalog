@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.2.0...v2.3.0) (2021-05-06)
+
+
+### Features
+
+* Added field to each line for the kanji that appear in the line. Added stroke order field to scene lines. ([2f1fb8a](https://github.com/nowotato/final-fantasy-vii-catalog/commit/2f1fb8ad67e80b23172d9143148fd00d9b5d4dcf))
+* Processed lines now add tag data to the end (scene_xx). Also produces a file with all scenes combined. ([61c935e](https://github.com/nowotato/final-fantasy-vii-catalog/commit/61c935ef5fb9a69e613ac49098c9b7529cac8e42))
+
+
+### Bug Fixes
+
+* Bad formatting and missing line in scene 3. ([3a2006e](https://github.com/nowotato/final-fantasy-vii-catalog/commit/3a2006e906067798417f2a44f9d245aeddea889a))
+* Found 質間 in 5 places in the script. Should be 質問. ([dd85e90](https://github.com/nowotato/final-fantasy-vii-catalog/commit/dd85e905dbdf1929f915edcb66f3293427ecb16a))
+* Regenerated vocabulary lookup files to most recent changes. ([727da71](https://github.com/nowotato/final-fantasy-vii-catalog/commit/727da713c20b0a743f3f81491894c59c8e9b0819))
+* Removed stroke order from misc. text. Not useful. ([e7afe75](https://github.com/nowotato/final-fantasy-vii-catalog/commit/e7afe75fec6213c317c438a48b9e28a0c87854b2))
+
 ## [2.2.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.1.0...v2.2.0) (2021-04-27)
 
 
