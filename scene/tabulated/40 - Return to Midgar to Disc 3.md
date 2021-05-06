@@ -587,4 +587,3 @@
 | 585 | What the hell's he talkin' about? But, you know…now I'm not so sure… | オレ様はあとひと仕事終わったら船を降りるんだ………そうするぜ |
 | 586 | I think I understand… | す、すいません。シビアでデリケートな作業中でっス！ |
 | 587 | When this job's done, I'm landing the ship… yeah, that's what I'll do. | あああ！こまりますこまりますこまります！ |
-| 588 | Sorry, I'm in the middle of a very delicate operation! | undefined |

@@ -42,7 +42,7 @@ fs.readdir(formatted, function(err, files){
 		let result = process(data);
 		let lines = [];
 		for(let entry of result) {
-			if(!entry || !entry.target || !entry.source) continue; // ignore empty lines
+//			if(!entry || !entry.target || !entry.source) continue; // ignore empty lines
 			if(usedJapanese.contains(entry.target)) continue; // don't add duplicate japanese lines
 			usedJapanese.push(entry.target); // track japanese lines
 			let kanji = entry.target.match(kanjiRule) || [];

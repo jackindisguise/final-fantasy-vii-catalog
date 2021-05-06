@@ -12,8 +12,8 @@
 | 10 | This is why I hate the last train. Hoo-boy… | これだから終電はまいるよ…。はあ…… |
 | 11 | You see the headlines in the Shinra Times? | 神羅新聞の号外見たかい？ |
 | 12 | The terrorists that bombed the No. 1 Reactor are based somewhere in the slums. | 壱番魔晄炉爆破のテロリストはスラムにひそんでるらしいぞ |
-| 13 | …Blowing up a Reactor… they sure put some thought into this one. | しかし、魔晄炉爆破とは考えたよな。リーダーはさしずめ頭の切れるヤツだな。次は、何やるんだろな？ |
-| 14 | They must have a real calculating leader. I wonder what they'll do next? | ごめんよ……ちょっと気分が…変なもん食ったからなあ。あのミッドガル名物のプレートピザ… |
+| 13 | …Blowing up a Reactor… they sure put some thought into this one. They must have a real calculating leader. I wonder what they'll do next? | しかし、魔晄炉爆破とは考えたよな。リーダーはさしずめ頭の切れるヤツだな。次は、何やるんだろな？ |
+| 14 | Sorry… I feel a little… I must have eaten something weird. That famous Midgar plate pizza… | ごめんよ……ちょっと気分が…変なもん食ったからなあ。あのミッドガル名物のプレートピザ… |
 | 15 | YO! | おう！ |
 | 16 | This ain't no private car!! So split up!! | こいつぁ、貸し切り列車じゃねえぞ！！散れ散れ！！ |
 | 17 | …Hoodlums again. God, don't I just have all the luck? | また危ない人たちといっしょか。私もつくづく運がないな |
