@@ -608,7 +608,7 @@ Jessie	ジェシー
 “I modified your ID card…	「CLOUDのＩＤカード。
 And that's what did it…”	私の特別製にしたから……」
 Jessie	ジェシー
-“I did my best…	「あんなことに」
+“I did my best…	「あんなことに
 But I failed.”	心をこめたつもりだったんだけどね。
 	失敗しちゃった」
 BARRET	BARRET
@@ -649,8 +649,6 @@ TIFA	TIFA
 “Let's hurry, CLOUD.”	「急ぎましょう、CLOUD」
 BARRET	BARRET
 “Alright, let's go.”	「よし、行くぞ」
-Blin66_1-5, BLIN67_all, BLIN68_all, pillar_1-3, smkin_1	
-[Blin66_1 is missing, so I’ve had to piece this together as best I could]	
 TIFA	TIFA
 “Jessie said we all have to push	３人同時にボタンを押せってジェシーが言ってたわ
 the button at once.”	

@@ -273,68 +273,66 @@
 | 271 | CLOUD, we're countin' on you to blow the reactor! | CLOUD、五番魔晄炉の爆破よろしくたのむぜ！ |
 | 272 | Next time, I'll give you something better. | こんどはもっとましなものプレゼントするわ |
 | 273 | I modified your ID card… And that's what did it… | CLOUDのＩＤカード。私の特別製にしたから…… |
-| 274 | I did my best… But I failed. | あんなことに |
-| 275 | The reactor's just down this tunnel! | 心をこめたつもりだったんだけどね。 |
-| 276 | Papa… | 失敗しちゃった」 |
-| 277 | Sephiroth!? | さぁて、五番魔晄炉はこのトンネルの奥だ！ |
-| 278 | Did Sephiroth do this to you? | パパ…… |
-| 279 | Sephiroth…SOLDIER… Mako Reactors…Shinra… | セフィロスね！ |
-| 280 | I hate them all! | セフィロスがやったのね！ |
-| 281 | Damn man, get a hold of yourself! | セフィロス……ソルジャー……魔晄炉……神羅……ぜんぶ！ |
-| 282 | You all right? | ぜんぶ大キライ！ |
-| 283 | [Blin66_1 is missing, so I’ve had to piece this together as best I could] | よし、行くぞ |
-| 284 | Jessie said we all have to push the button at once. | ３人同時にボタンを押せってジェシーが言ってたわ |
-| 285 | No good. Let's try it again. | 失敗ね、もう一度 |
-| 286 | No.5 Reactor | 五番魔晄炉 |
-| 287 | This way! | こっちだ！ |
-| 288 | Shinra soldiers!? | 神羅兵！？ |
-| 289 | $#%&! What the hell's goin' on? | くそっ！どうなってんだ？ |
-| 290 | …A trap… | ……ワナ、か |
-| 291 | Pres…President Shinra? | プ、プレジデント神羅？ |
-| 292 | Why is the President here? | なぜ、プレジデントがここにいるの？ |
-| 293 | Hmm… So you all must be… What was it? | ほほう。君たちがアレかね。……なんて言ったかな？ |
-| 294 | AVALANCHE! And don't ya forget it! So you're President Shinra, huh? | アバランチだ！　覚えておけ！おまえはプレジデント神羅だな |
-| 295 | Long time no see, sir. | ひさしぶりだな、プレジデント |
-| 296 | …Long time no see? Oh…you. | ……ひさしぶり？ああ、君がアレかね |
-| 297 | You're the one who quit SOLDIER and joined AVALANCHE. I knew you'd been exposed to Mako, from the look in your eyes… | アバランチとやらに参加しているという元ソルジャー。たしかにその目の輝きは魔晄を浴びた者…… |
-| 298 | Tell me, traitor… what was your name? | その裏切り者の名前はなんといったかな？ |
-| 299 | CLOUD. | CLOUD、だ |
-| 300 | Forgive me for asking, but I can't be expected to remember everyone's name. | すまないがソルジャーの名前なんていちいち覚えとらんのでな |
-| 301 | Unless you become another Sephiroth. | せめてセフィロスぐらいにはなってもらわんと |
-| 302 | Aah, Sephiroth… He was brilliant. Perhaps too brilliant. | そう、セフィロス……。優秀なソルジャーであった。そう、優秀すぎる……な |
-| 303 | Sephiroth? | セフィロスだと……？ |
-| 304 | Don't give a damn 'bout none of that! This place's goin' up with a big BANG soon! Serves y'all right! | んなこたぁ、どうでもいい！もうすぐここはドッカン！！だぜ！ざまあみやがれ！ |
-| 305 | And such a waste of good fireworks, just to get rid of vermin like you… | そうだな。キミたちウジ虫を始末するには高物すぎる花火ではあるが…… |
-| 306 | VERMIN!? That's all you can say? VERMIN!? | ウジ虫だと！？言うに事価いて、ウジ虫だと！ |
-| 307 | Shinra're the VERMIN for killing the Planet! Guess that'd make you King VERMIN! So shu'up jackass! | キサマら神羅は、この星を死に追いやろうとする寄生虫じゃねぇか！その親玉であるキサマが何をえらそうにホザく！ |
-| 308 | …You are beginning to bore me. | ……そろそろキミたちの相手をするのにもあきたよ |
-| 309 | I'm a very busy man, so if you'll excuse me… I have a dinner I must attend. | わしは多忙な身なのでな。もう、失礼させてもらうか。今日は、会食の予定があるものでな |
-| 310 | Dinner!? Don't gimme that! I ain't even started wit' you yet! | 会食だと！？　ふざけやがって！おまえには言いたいことがまだまだあるんだ！ |
-| 311 | But, I've made arrangements for a playmate for you all. | キミたちの遊び相手は別に用意させてもらった |
-| 312 | What's that noise?! | ！？　何の音？ |
-| 313 | The hell is that!? | な、なんだコイツは！！ |
-| 314 | Now then, if you'll excuse me. | では、失礼 |
-| 315 | Wait, President! | 待て、プレジデント！ |
-| 316 | Meet 'Airbuster', a techno-soldier. Our Weapon Development Department created him. | 我が社の兵器開発部が試作した機動兵「エアバスターだ」 |
-| 317 | I'm sure the data he'll extract from your dead bodies will be of great use to us in future experiments. | 君たちとの戦闘データは今後の開発の貴重なサンプルとして利用させてもらうよ |
-| 318 | Help, CLOUD! | 助けて、CLOUD！ |
-| 319 | THIS is from SOLDIER? | これ、ソルジャーなの？ |
-| 320 | Yo, CLOUD! We've gotta do somethin' 'bout him! | おい、CLOUD！とりあえずコイツをなんとかするぞ！ |
-| 321 | No way! It's just a machine. | まさか！　ただの機械さ |
-| 322 | I don't care what it is!! I'm gonna bust him up! | なんでもいい！！ぶっこわしてやるぜ！ |
-| 323 | It's gonna blow! Let's go, TIFA! | もうすぐ爆発する！行くぞ、TIFA！ |
-| 324 | BARRET! Can't you do something? | BARRET！何とかならないの？ |
-| 325 | Not a damn thing. | どうしようもねえな |
-| 326 | CLOUD! Please don't die! You can't die! There's still so much I want to tell you! | CLOUD！なんとかして生きて！　死んじゃダメ！話したいことがたくさんあるの！ |
-| 327 | I know, TIFA… | わかってる、TIFA |
-| 328 | Hey, you gonna be alright? | おい、なんとかなりそうか？ |
-| 329 | (Be strong) | （つよがる） |
-| 330 | (I don't know if I can hold on) | （ダメかもしれない……） |
-| 331 | You worry about yourselves! I'm all right, but take care of TIFA! | 自分の心配でもしてろ！俺はいいからTIFAを！ |
-| 332 | …Alright. Sorry 'bout all this. | ……そうか。いろいろ悪かったな |
-| 333 | Stop talkin' like this is the end! | これで終わりみたいな言いかたはやめてくれ！ |
-| 334 | OK, hold on! | じゃ、あとでな |
-| 335 | Don't go cryin' like a woman. There ain't nothin' I can do for ya. Ya gotta do it on your own. | 情けない声だすんじゃねえよ。悪いが何もしてやれそうにない。自分でなんとかしてくれ |
-| 336 | BARRET… | BARRET…… |
-| 337 | &#%^! Can't hold on much longer. BARRET, hurry! | くっ！長くはもちそうにない。BARRET……は、はやく！ |
-| 338 | …Techno-soldier? | ……機動兵？ |
+| 274 | I did my best… But I failed. | あんなことに心をこめたつもりだったんだけどね。失敗しちゃった |
+| 275 | The reactor's just down this tunnel! | さぁて、五番魔晄炉はこのトンネルの奥だ！ |
+| 276 | Papa… | パパ…… |
+| 277 | Sephiroth!? | セフィロスね！ |
+| 278 | Did Sephiroth do this to you? | セフィロスがやったのね！ |
+| 279 | Sephiroth…SOLDIER… Mako Reactors…Shinra… | セフィロス……ソルジャー……魔晄炉……神羅……ぜんぶ！ |
+| 280 | I hate them all! | ぜんぶ大キライ！ |
+| 281 | Alright, let's go. | よし、行くぞ |
+| 282 | Jessie said we all have to push the button at once. | ３人同時にボタンを押せってジェシーが言ってたわ |
+| 283 | No good. Let's try it again. | 失敗ね、もう一度 |
+| 284 | No.5 Reactor | 五番魔晄炉 |
+| 285 | This way! | こっちだ！ |
+| 286 | Shinra soldiers!? | 神羅兵！？ |
+| 287 | $#%&! What the hell's goin' on? | くそっ！どうなってんだ？ |
+| 288 | …A trap… | ……ワナ、か |
+| 289 | Pres…President Shinra? | プ、プレジデント神羅？ |
+| 290 | Why is the President here? | なぜ、プレジデントがここにいるの？ |
+| 291 | Hmm… So you all must be… What was it? | ほほう。君たちがアレかね。……なんて言ったかな？ |
+| 292 | AVALANCHE! And don't ya forget it! So you're President Shinra, huh? | アバランチだ！　覚えておけ！おまえはプレジデント神羅だな |
+| 293 | Long time no see, sir. | ひさしぶりだな、プレジデント |
+| 294 | …Long time no see? Oh…you. | ……ひさしぶり？ああ、君がアレかね |
+| 295 | You're the one who quit SOLDIER and joined AVALANCHE. I knew you'd been exposed to Mako, from the look in your eyes… | アバランチとやらに参加しているという元ソルジャー。たしかにその目の輝きは魔晄を浴びた者…… |
+| 296 | Tell me, traitor… what was your name? | その裏切り者の名前はなんといったかな？ |
+| 297 | CLOUD. | CLOUD、だ |
+| 298 | Forgive me for asking, but I can't be expected to remember everyone's name. | すまないがソルジャーの名前なんていちいち覚えとらんのでな |
+| 299 | Unless you become another Sephiroth. | せめてセフィロスぐらいにはなってもらわんと |
+| 300 | Aah, Sephiroth… He was brilliant. Perhaps too brilliant. | そう、セフィロス……。優秀なソルジャーであった。そう、優秀すぎる……な |
+| 301 | Sephiroth? | セフィロスだと……？ |
+| 302 | Don't give a damn 'bout none of that! This place's goin' up with a big BANG soon! Serves y'all right! | んなこたぁ、どうでもいい！もうすぐここはドッカン！！だぜ！ざまあみやがれ！ |
+| 303 | And such a waste of good fireworks, just to get rid of vermin like you… | そうだな。キミたちウジ虫を始末するには高物すぎる花火ではあるが…… |
+| 304 | VERMIN!? That's all you can say? VERMIN!? | ウジ虫だと！？言うに事価いて、ウジ虫だと！ |
+| 305 | Shinra're the VERMIN for killing the Planet! Guess that'd make you King VERMIN! So shu'up jackass! | キサマら神羅は、この星を死に追いやろうとする寄生虫じゃねぇか！その親玉であるキサマが何をえらそうにホザく！ |
+| 306 | …You are beginning to bore me. | ……そろそろキミたちの相手をするのにもあきたよ |
+| 307 | I'm a very busy man, so if you'll excuse me… I have a dinner I must attend. | わしは多忙な身なのでな。もう、失礼させてもらうか。今日は、会食の予定があるものでな |
+| 308 | Dinner!? Don't gimme that! I ain't even started wit' you yet! | 会食だと！？　ふざけやがって！おまえには言いたいことがまだまだあるんだ！ |
+| 309 | But, I've made arrangements for a playmate for you all. | キミたちの遊び相手は別に用意させてもらった |
+| 310 | What's that noise?! | ！？　何の音？ |
+| 311 | The hell is that!? | な、なんだコイツは！！ |
+| 312 | Now then, if you'll excuse me. | では、失礼 |
+| 313 | Wait, President! | 待て、プレジデント！ |
+| 314 | Meet 'Airbuster', a techno-soldier. Our Weapon Development Department created him. | 我が社の兵器開発部が試作した機動兵「エアバスターだ」 |
+| 315 | I'm sure the data he'll extract from your dead bodies will be of great use to us in future experiments. | 君たちとの戦闘データは今後の開発の貴重なサンプルとして利用させてもらうよ |
+| 316 | Help, CLOUD! | 助けて、CLOUD！ |
+| 317 | THIS is from SOLDIER? | これ、ソルジャーなの？ |
+| 318 | Yo, CLOUD! We've gotta do somethin' 'bout him! | おい、CLOUD！とりあえずコイツをなんとかするぞ！ |
+| 319 | No way! It's just a machine. | まさか！　ただの機械さ |
+| 320 | I don't care what it is!! I'm gonna bust him up! | なんでもいい！！ぶっこわしてやるぜ！ |
+| 321 | It's gonna blow! Let's go, TIFA! | もうすぐ爆発する！行くぞ、TIFA！ |
+| 322 | BARRET! Can't you do something? | BARRET！何とかならないの？ |
+| 323 | Not a damn thing. | どうしようもねえな |
+| 324 | CLOUD! Please don't die! You can't die! There's still so much I want to tell you! | CLOUD！なんとかして生きて！　死んじゃダメ！話したいことがたくさんあるの！ |
+| 325 | I know, TIFA… | わかってる、TIFA |
+| 326 | Hey, you gonna be alright? | おい、なんとかなりそうか？ |
+| 327 | (Be strong) | （つよがる） |
+| 328 | (I don't know if I can hold on) | （ダメかもしれない……） |
+| 329 | You worry about yourselves! I'm all right, but take care of TIFA! | 自分の心配でもしてろ！俺はいいからTIFAを！ |
+| 330 | …Alright. Sorry 'bout all this. | ……そうか。いろいろ悪かったな |
+| 331 | Stop talkin' like this is the end! | これで終わりみたいな言いかたはやめてくれ！ |
+| 332 | OK, hold on! | じゃ、あとでな |
+| 333 | Don't go cryin' like a woman. There ain't nothin' I can do for ya. Ya gotta do it on your own. | 情けない声だすんじゃねえよ。悪いが何もしてやれそうにない。自分でなんとかしてくれ |
+| 334 | BARRET… | BARRET…… |
+| 335 | &#%^! Can't hold on much longer. BARRET, hurry! | くっ！長くはもちそうにない。BARRET……は、はやく！ |
+| 336 | …Techno-soldier? | ……機動兵？ |
