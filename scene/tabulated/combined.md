@@ -9881,8 +9881,8 @@
 | 9879 | But if it's the 'Keystone' you're looking for, you're too late. Don't have it. | けど、ひと足遅かったな『キーストーン』ならもう、ねぇよ |
 | 9880 | Keystone? | キーストーン？ |
 | 9881 | What? You didn't come here for that? | なんだ、お前らあれ目当てで来たんじゃないのか？ |
-| 9882 | The 'Keystone' is the key that unlocks the gate to a very old temple somewhere.  “You're not going to believe your ears, | 『キーストーン』ってのはこの世界のどこかにある古～い、神殿の扉を開けるカギよ |
-| 9883 | but I heard it was the Temple of the Ancients!! | 聞いておどろけ、その神殿とはなんと古代種の神殿だ！！ |
+| 9882 | The 'Keystone' is the key that unlocks the gate to a very old temple somewhere. | 『キーストーン』ってのはこの世界のどこかにある古～い、神殿の扉を開けるカギよ |
+| 9883 | You're not going to believe your ears, but I heard it was the Temple of the Ancients!! | 聞いておどろけ、その神殿とはなんと古代種の神殿だ！！ |
 | 9884 | The Temple of the Ancients? | 古代種の神殿…… |
 | 9885 | Ha, hah, hah, hah… | ゲラゲラゲラゲラ |
 | 9886 | Don't take it seriously. It's just a legend! | 本気にすんなよただの言い伝えなんだからよ |
