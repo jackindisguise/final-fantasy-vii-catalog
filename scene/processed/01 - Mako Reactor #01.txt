@@ -1,138 +1,138 @@
-Who goes there!?	なんだ、おまえたちは！		scene_01
-C'mon newcomer. Follow me.	行くぞ、新入り！オレに続け！	行新入続	scene_01
-Biggs	ビッグス		scene_01
-Wow! You used to be in SOLDIER all right! …Not everyday ya find one in a group like AVALANCHE.	さすが、ソルジャー！でもよ、反神羅（しんら）グループ【アバランチ】にソルジャーが参加するなんてスゲエよな！	反神羅参加	scene_01
-Jessie	ジェシー		scene_01
-SOLDIER? Aren't they the enemy?	その話って本当だったの？ソルジャーって言ったら私たちの敵でしょ？	話本当言私敵	scene_01
-What's he doing with us in AVALANCHE?	どうして、そのソルジャーが私たちアバランチに協力するわけ？	私協力	scene_01
-He WAS in SOLDIER, Jessie.	早とちりするな、ジェシー。元、ソルジャーなんだってさ	早元	scene_01
-But he quit and is with us now.	今はもう神羅（しんら）をやめちまって俺たちの仲間ってわけさ	今神羅俺仲間	scene_01
-Didn't catch your name…	まだ名前聞いてなかったよな。教えてくれ	名前聞教	scene_01
-…CLOUD.	……CLOUDだ		scene_01
-CLOUD, eh? I'm…	CLOUDか、おれは……		scene_01
-I don't care what your names are. Once this job's over…I'm outta here.	あんたたちの名前なんて興味ないね。どうせこの仕事が終わったらお別れだ	名前興味仕事終別	scene_01
-The hell you all doin'!? I thought I told you never to move in a group!	なにやってんだオマエたち！かたまって行動するなって言ってんだろ！	行動言	scene_01
-Our target's the North Mako Reactor. We'll meet on the bridge in front of it.	ターゲットは壱番魔晄炉（まこうろ）。魔晄炉前のブリッジに集合だぞ	壱番魔晄炉魔晄炉前集合	scene_01
-Ex-SOLDIER, huh? I don't trust ya!	元ソルジャー……。チッ、信用できねえな	元信用	scene_01
-Press the Directional buttons while pushing [CANCEL] to run.	【キャンセル】ボタン（初期状態では×）を押しながら方向ボタンを押せば速く走ることができる。遅れずについてこい！	初期状態押方向押速走遅	scene_01
-Wedge	ウェッジ		scene_01
-I'll secure our escape passage. You concentrate on the mission, CLOUD.	俺は脱出口を確保しておくっす！	俺脱出口確保	scene_01
-Geez, we're really gonna blow this huge furnace up? This'll be somethin' to see!	しっかし、この大きな魔晄炉（まこうろ）を爆破するなんて……みものっすね！	大魔晄炉爆破	scene_01
-Switch On.	スイッチオン		scene_01
-Push that button over there!	さ、そこのボタンを押して！	押	scene_01
-Now let's go into the reactor! From here on out, you stick with me.	さあ、魔晄炉（まこうろ）の中へ！ここからはオレのそばにいてもらうぜ	魔晄炉中	scene_01
-Leave this to me!	ここはまかせとき！		scene_01
-Don't mess up SOLDIER-boy!	たのんだぜソルジャーさんよ！		scene_01
-Bring BARRET back alive!	BARRETをよろしくな！		scene_01
-Yo! This your first time in a reactor?	……おい。おまえ魔晄炉（まこうろ）は初めてじゃないんだろ？	魔晄炉初	scene_01
-No. After all, I did work for Shinra, y'know.	まあな。ソルジャー……神羅（しんら）カンパニーの人間だったからな	神羅人間	scene_01
-The Planet's full of Mako energy. People here use it everyday.	この星は魔晄（まこう）エネルギーに満ちている。住民はその魔晄エネルギーを使って日々生活している	星魔晄満住民魔晄使日生活	scene_01
-However, nobody knows the truth about Mako. Do you know?	でも誰も魔晄の本質を知らねえんだ。おまえ、知ってるか？	誰魔晄本質知知	scene_01
-It's the life blood of this Planet. But Shinra keeps suckin' the blood out with these weird machines.	魔晄はこの星を流れる血だ。それを神羅（しんら）って会社はガンガン吸い出していやがる。このへんちくりんなスクラップでな……	魔晄星流血神羅会社吸出	scene_01
-I'm not here for a lecture. Let's just do it.	能書きはいい。先を急ごう	能書先急	scene_01
-@#&^%$!	クッ……		scene_01
-From now on you come with me.	よし、ここからはオレといっしょに行動してもらうぜ	行動	scene_01
-Little by little the reactors'll drain out all the life. Then that'll be that.	魔晄炉（まこうろ）のせいで、この星の命は毎日けずられていく。そしていつの日か……ゼロだ	魔晄炉星命毎日日	scene_01
-The planet's dyin', CLOUD!	星が死んじまうんだぞ。えっ、CLOUDさんよ！	星死	scene_01
-It's not my problem.	悪いけど興味がないな	悪興味	scene_01
-The only thing I care about is finishin' this job before security and the Roboguards come.	俺が考えてるのは、さっさと仕事を終わらせたいってことだけだ。警備兵やガードロボットが来ないうちにな	俺考仕事終警備兵来	scene_01
-…	…………		scene_01
-Code deciphered	コード解除	解除	scene_01
-Can't decipher code without Biggs	ビッグスがいないとコード解除できない	解除	scene_01
-Can't decipher code without Jessie	ジェシーがいないとコード解除できない	解除	scene_01
-You all right?	だいじょうぶか？		scene_01
-My leg got stuck.	うかつ！！　足がはさまって……	足	scene_01
-Thanks!	サンキュー！		scene_01
-I only let my guard down for a minute… And someone got behind me…	敵に後ろをとられて……油断しちまった	敵後油断	scene_01
-Biggs and I got the code for this door.	私とビッグスがここのドアロックの暗号を手にいれたの	私暗号手	scene_01
-Think how many of our people risked their lives, just for this code…	ここの暗号を入手するために何人の仲間が犠牲になったことか……	暗号入手何人仲間犠牲	scene_01
-Push [OK] in front of a ladder to grab on to it. Then use the [Directional button] to climb up and down.	はしごの前では【決定ボタン】を押して。そうすればはしごにつかまるわ。後は【方向キー】の上下で、のぼりおりするの	前決定押後方向上下	scene_01
-There you go!	そう、その調子！	調子	scene_01
-Let's go!	行くぞ！	行	scene_01
-Alright, be careful.	さ、あせらないで		scene_01
-Jessie still isn't back yet!	ジェシーがまだあがって来てないんだ！	来	scene_01
-When we blow this place, this ain't gonna be nothin' more than a hunka junk.	ここもブッ壊しちまえばただのガラクタだぜ	壊	scene_01
-CLOUD, you set the bomb.	CLOUDさんよこの爆弾をセットしてくれ	爆弾	scene_01
-Shouldn't you do it?	あんたがやったほうがいいんじゃないのか？		scene_01
-Jus' do it! I gotta watch to make sure you don't pull nothin'.	オレ？　オレは見張らせてもらう。おまえさんがおかしなマネをしないようにな	見張	scene_01
-Fine, be my guest.	……好きにしてくれ	好	scene_01
-Watch out!	目をさませ！	目	scene_01
-This isn't just a reactor!!	ここはただの発電所じゃない！！	発電所	scene_01
-What's wrong?	…………うした？		scene_01
-Huh?	え？		scene_01
-What's wrong, CLOUD? Hurry it up!	どうしたCLOUDさんよ？早くしてくれ！	早	scene_01
-…Yeah, sorry.	……ああ、すまない		scene_01
-Heads up, here they come!	本格的にやってくるぜ	本格的	scene_01
-The alarm!	警報か？	警報	scene_01
-Come on, let's get outta here!	さあ、脱出だ	脱出	scene_01
-This is… Materia…	これは……マテリア……		scene_01
-Ten minutes to detonation!	爆発　１０　分前	爆発分前	scene_01
-Two minutes remaining	残り　２　分	残分	scene_01
-One minute remaining	残り　１　分	残分	scene_01
-Thirty seconds remaining	残り　３０　秒	残秒	scene_01
-Ten seconds remaining	残り　１０　秒	残秒	scene_01
-Five seconds remaining	残り　５　秒	残秒	scene_01
-Four seconds remaining	残り　４　秒	残秒	scene_01
-Three seconds remaining	残り　３　秒	残秒	scene_01
-Two seconds remaining	残り　２　秒	残秒	scene_01
-One second remaining	残り　１　秒	残秒	scene_01
-Damn man‚get a hold of yourself!	おい、しっかりしてくれよ！		scene_01
-You all right?	だいじょうぶ？		scene_01
-…TIFA.	……TIFA		scene_01
-Mmm?	ん？		scene_01
-No…forget… Come on‚let's hurry!	い……いや……気にするな。さあ、急ごう！	気急	scene_01
-CLOUD	CLOUD		scene_01
-I know. You're my chaperon‚ right?	わかってるさ。あんたは俺の見張りだろ？	俺見張	scene_01
-BARRET	BARRET		scene_01
-Damn straight.	そういうことだ		scene_01
-TIFA's old friend… That ain't good enough.	TIFAの幼なじみ……それだけじゃ不安なんでな	幼不安	scene_01
-Let's hurry‚CLOUD.	急ぎましょう、CLOUD	急	scene_01
-That should keep the planet going… at least a little longer.	星の命……ちょっとはのびたかな	星命	scene_01
-Yeah.	そうっすね		scene_01
-OK! Now everyone get back.	出来た！下がって	出来下	scene_01
-Sector 8	８番街	番街	scene_01
-Alright, now let's get out of here.	さあ、引き上げるぞ	引上	scene_01
-Rendezvous at Sector 8 station! Split up and get on the train!	ランデブー地点は８番街ステーション！各自単独行動、列車に乗りこむんだ！	地点番街各自単独行動列車乗	scene_01
-H, hey!	お、おい！		scene_01
-If it's about your money, wait 'til we get back.	金の話なら無事にアジトに帰ってからだ	金話無事帰	scene_01
-Flower girl	花売り	花売	scene_01
-Excuse me.	ねえ		scene_01
-What happened?	何があったの？	何	scene_01
-You'd better get out of here	逃げたほうがいい	逃	scene_01
-Nothing…hey…	気にするな……それより	気	scene_01
-Really? I don't know what's going on, but all right.	そうなの！？なんだかわからないけどそうするわね		scene_01
-…	……		scene_01
-Don't see many flowers around here	花なんて、めずらしいな	花	scene_01
-Never mind	いや、なんでもないんだ		scene_01
-What! Tell me!	もうっ！気になるなあ	気	scene_01
-Oh, these? Do you like them? They're only one gil.	あっ、これね。気に入ってくれた？１ギルなんだけど、どう？	気入	scene_01
-Buy one	もらおう		scene_01
-Forget it	やめとくよ		scene_01
-Uh, excuse me, would you like to buy some flowers? They're only one gil.	あっ、ねぇ、お花はいらない？たった１ギルよ	花	scene_01
-Oh, thank you!	わあ、ありがとう！		scene_01
-Here you are!	はい！		scene_01
-Ahh…not again.	……ちょっとがっかり、かな		scene_01
-What an explosion!	しっかし、スゲェ爆発だったな	爆発	scene_01
-Think it's another Mako reactor accident?	ああ、また魔晄炉の事故じゃねぇのか？	魔晄炉事故	scene_01
-Just what the hell's going on!?	いったい何がおこったって言うのよ	何言	scene_01
-Wonder what that is on the wall over there. Let's see…	何か壁に書いてあるな？なに、なに…	何壁書	scene_01
-Don't be fooled by Shinra!	神羅にだまされるな！	神羅	scene_01
-Mako energy doesn't last forever!	魔晄エネルギーは永遠ではない！	魔晄永遠	scene_01
-Mako is the Planet's life source!	魔晄は星の命！	魔晄星命	scene_01
-The end is in sight!	いつか終わりがやってくる！	終	scene_01
-Protectors of the Planet: AVALANCHE	星の救世主：アバランチ	星救世主	scene_01
-Received "Potion"!	ポーションを手にいれた！	手	scene_01
-Soldier	兵士	兵士	scene_01
-Hey! You there!!	おい！　そこの男！！	男	scene_01
-That's him!!	いたぞ！！		scene_01
-Halt!!	まて！！		scene_01
-Over here!!	こっちだ！！		scene_01
-What a pain…	めんどうだな…		scene_01
-That's as far as you go.	ここまでだな		scene_01
-I don't have time to mess around with you guys.	残念だが、おまえらの相手をしてるほどヒマじゃないんでな	残念相手	scene_01
-Enough babbling… Grab him!!	たわごとを……よし捕らえろ！！	捕	scene_01
-What the?	なにごとだ！		scene_01
-Shinra Soldiers…	神羅兵か……	神羅兵	scene_01
-Fight them!	やってやる！		scene_01
-Later!	めんどくさいから逃げる	逃	scene_01
-Hmph!	チッ！		scene_01
+Who goes there!?	なんだ、おまえたちは！
+C'mon newcomer. Follow me.	行くぞ、新入り！オレに続け！
+Biggs	ビッグス
+Wow! You used to be in SOLDIER all right! …Not everyday ya find one in a group like AVALANCHE.	さすが、ソルジャー！でもよ、反神羅（しんら）グループ【アバランチ】にソルジャーが参加するなんてスゲエよな！
+Jessie	ジェシー
+SOLDIER? Aren't they the enemy?	その話って本当だったの？ソルジャーって言ったら私たちの敵でしょ？
+What's he doing with us in AVALANCHE?	どうして、そのソルジャーが私たちアバランチに協力するわけ？
+He WAS in SOLDIER, Jessie.	早とちりするな、ジェシー。元、ソルジャーなんだってさ
+But he quit and is with us now.	今はもう神羅（しんら）をやめちまって俺たちの仲間ってわけさ
+Didn't catch your name…	まだ名前聞いてなかったよな。教えてくれ
+…CLOUD.	……CLOUDだ
+CLOUD, eh? I'm…	CLOUDか、おれは……
+I don't care what your names are. Once this job's over…I'm outta here.	あんたたちの名前なんて興味ないね。どうせこの仕事が終わったらお別れだ
+The hell you all doin'!? I thought I told you never to move in a group!	なにやってんだオマエたち！かたまって行動するなって言ってんだろ！
+Our target's the North Mako Reactor. We'll meet on the bridge in front of it.	ターゲットは壱番魔晄炉（まこうろ）。魔晄炉前のブリッジに集合だぞ
+Ex-SOLDIER, huh? I don't trust ya!	元ソルジャー……。チッ、信用できねえな
+Press the Directional buttons while pushing [CANCEL] to run.	【キャンセル】ボタン（初期状態では×）を押しながら方向ボタンを押せば速く走ることができる。遅れずについてこい！
+Wedge	ウェッジ
+I'll secure our escape passage. You concentrate on the mission, CLOUD.	俺は脱出口を確保しておくっす！
+Geez, we're really gonna blow this huge furnace up? This'll be somethin' to see!	しっかし、この大きな魔晄炉（まこうろ）を爆破するなんて……みものっすね！
+Switch On.	スイッチオン
+Push that button over there!	さ、そこのボタンを押して！
+Now let's go into the reactor! From here on out, you stick with me.	さあ、魔晄炉（まこうろ）の中へ！ここからはオレのそばにいてもらうぜ
+Leave this to me!	ここはまかせとき！
+Don't mess up SOLDIER-boy!	たのんだぜソルジャーさんよ！
+Bring BARRET back alive!	BARRETをよろしくな！
+Yo! This your first time in a reactor?	……おい。おまえ魔晄炉（まこうろ）は初めてじゃないんだろ？
+No. After all, I did work for Shinra, y'know.	まあな。ソルジャー……神羅（しんら）カンパニーの人間だったからな
+The Planet's full of Mako energy. People here use it everyday.	この星は魔晄（まこう）エネルギーに満ちている。住民はその魔晄エネルギーを使って日々生活している
+However, nobody knows the truth about Mako. Do you know?	でも誰も魔晄の本質を知らねえんだ。おまえ、知ってるか？
+It's the life blood of this Planet. But Shinra keeps suckin' the blood out with these weird machines.	魔晄はこの星を流れる血だ。それを神羅（しんら）って会社はガンガン吸い出していやがる。このへんちくりんなスクラップでな……
+I'm not here for a lecture. Let's just do it.	能書きはいい。先を急ごう
+@#&^%$!	クッ……
+From now on you come with me.	よし、ここからはオレといっしょに行動してもらうぜ
+Little by little the reactors'll drain out all the life. Then that'll be that.	魔晄炉（まこうろ）のせいで、この星の命は毎日けずられていく。そしていつの日か……ゼロだ
+The planet's dyin', CLOUD!	星が死んじまうんだぞ。えっ、CLOUDさんよ！
+It's not my problem.	悪いけど興味がないな
+The only thing I care about is finishin' this job before security and the Roboguards come.	俺が考えてるのは、さっさと仕事を終わらせたいってことだけだ。警備兵やガードロボットが来ないうちにな
+…	…………
+Code deciphered	コード解除
+Can't decipher code without Biggs	ビッグスがいないとコード解除できない
+Can't decipher code without Jessie	ジェシーがいないとコード解除できない
+You all right?	だいじょうぶか？
+My leg got stuck.	うかつ！！　足がはさまって……
+Thanks!	サンキュー！
+I only let my guard down for a minute… And someone got behind me…	敵に後ろをとられて……油断しちまった
+Biggs and I got the code for this door.	私とビッグスがここのドアロックの暗号を手にいれたの
+Think how many of our people risked their lives, just for this code…	ここの暗号を入手するために何人の仲間が犠牲になったことか……
+Push [OK] in front of a ladder to grab on to it. Then use the [Directional button] to climb up and down.	はしごの前では【決定ボタン】を押して。そうすればはしごにつかまるわ。後は【方向キー】の上下で、のぼりおりするの
+There you go!	そう、その調子！
+Let's go!	行くぞ！
+Alright, be careful.	さ、あせらないで
+Jessie still isn't back yet!	ジェシーがまだあがって来てないんだ！
+When we blow this place, this ain't gonna be nothin' more than a hunka junk.	ここもブッ壊しちまえばただのガラクタだぜ
+CLOUD, you set the bomb.	CLOUDさんよこの爆弾をセットしてくれ
+Shouldn't you do it?	あんたがやったほうがいいんじゃないのか？
+Jus' do it! I gotta watch to make sure you don't pull nothin'.	オレ？　オレは見張らせてもらう。おまえさんがおかしなマネをしないようにな
+Fine, be my guest.	……好きにしてくれ
+Watch out!	目をさませ！
+This isn't just a reactor!!	ここはただの発電所じゃない！！
+What's wrong?	…………うした？
+Huh?	え？
+What's wrong, CLOUD? Hurry it up!	どうしたCLOUDさんよ？早くしてくれ！
+…Yeah, sorry.	……ああ、すまない
+Heads up, here they come!	本格的にやってくるぜ
+The alarm!	警報か？
+Come on, let's get outta here!	さあ、脱出だ
+This is… Materia…	これは……マテリア……
+Ten minutes to detonation!	爆発　１０　分前
+Two minutes remaining	残り　２　分
+One minute remaining	残り　１　分
+Thirty seconds remaining	残り　３０　秒
+Ten seconds remaining	残り　１０　秒
+Five seconds remaining	残り　５　秒
+Four seconds remaining	残り　４　秒
+Three seconds remaining	残り　３　秒
+Two seconds remaining	残り　２　秒
+One second remaining	残り　１　秒
+Damn man‚get a hold of yourself!	おい、しっかりしてくれよ！
+You all right?	だいじょうぶ？
+…TIFA.	……TIFA
+Mmm?	ん？
+No…forget… Come on‚let's hurry!	い……いや……気にするな。さあ、急ごう！
+CLOUD	CLOUD
+I know. You're my chaperon‚ right?	わかってるさ。あんたは俺の見張りだろ？
+BARRET	BARRET
+Damn straight.	そういうことだ
+TIFA's old friend… That ain't good enough.	TIFAの幼なじみ……それだけじゃ不安なんでな
+Let's hurry‚CLOUD.	急ぎましょう、CLOUD
+That should keep the planet going… at least a little longer.	星の命……ちょっとはのびたかな
+Yeah.	そうっすね
+OK! Now everyone get back.	出来た！下がって
+Sector 8	８番街
+Alright, now let's get out of here.	さあ、引き上げるぞ
+Rendezvous at Sector 8 station! Split up and get on the train!	ランデブー地点は８番街ステーション！各自単独行動、列車に乗りこむんだ！
+H, hey!	お、おい！
+If it's about your money, wait 'til we get back.	金の話なら無事にアジトに帰ってからだ
+Flower girl	花売り
+Excuse me.	ねえ
+What happened?	何があったの？
+You'd better get out of here	逃げたほうがいい
+Nothing…hey…	気にするな……それより
+Really? I don't know what's going on, but all right.	そうなの！？なんだかわからないけどそうするわね
+…	……
+Don't see many flowers around here	花なんて、めずらしいな
+Never mind	いや、なんでもないんだ
+What! Tell me!	もうっ！気になるなあ
+Oh, these? Do you like them? They're only one gil.	あっ、これね。気に入ってくれた？１ギルなんだけど、どう？
+Buy one	もらおう
+Forget it	やめとくよ
+Uh, excuse me, would you like to buy some flowers? They're only one gil.	あっ、ねぇ、お花はいらない？たった１ギルよ
+Oh, thank you!	わあ、ありがとう！
+Here you are!	はい！
+Ahh…not again.	……ちょっとがっかり、かな
+What an explosion!	しっかし、スゲェ爆発だったな
+Think it's another Mako reactor accident?	ああ、また魔晄炉の事故じゃねぇのか？
+Just what the hell's going on!?	いったい何がおこったって言うのよ
+Wonder what that is on the wall over there. Let's see…	何か壁に書いてあるな？なに、なに…
+Don't be fooled by Shinra!	神羅にだまされるな！
+Mako energy doesn't last forever!	魔晄エネルギーは永遠ではない！
+Mako is the Planet's life source!	魔晄は星の命！
+The end is in sight!	いつか終わりがやってくる！
+Protectors of the Planet: AVALANCHE	星の救世主：アバランチ
+Received "Potion"!	ポーションを手にいれた！
+Soldier	兵士
+Hey! You there!!	おい！　そこの男！！
+That's him!!	いたぞ！！
+Halt!!	まて！！
+Over here!!	こっちだ！！
+What a pain…	めんどうだな…
+That's as far as you go.	ここまでだな
+I don't have time to mess around with you guys.	残念だが、おまえらの相手をしてるほどヒマじゃないんでな
+Enough babbling… Grab him!!	たわごとを……よし捕らえろ！！
+What the?	なにごとだ！
+Shinra Soldiers…	神羅兵か……
+Fight them!	やってやる！
+Later!	めんどくさいから逃げる
+Hmph!	チッ！

@@ -41,10 +41,9 @@ fs.readdir(formatted, function(err, files){
 		let result = process(data);
 		let lines = [];
 		for(let entry of result) {
-//			if(!entry || !entry.target || !entry.source) continue; // ignore empty lines
 			if(usedJapanese.contains(entry.target)) continue; // don't add duplicate japanese lines
 			usedJapanese.push(entry.target); // track japanese lines
-			let line = `${entry.source}\t${entry.target}}`;
+			let line = `${entry.source}\t${entry.target}`;
 			lines.push(line);
 			combined.push(line)
 		}
