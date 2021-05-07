@@ -61,7 +61,6 @@
 そういえば、まだだった	Now that you mention it…		scene_04
 おたがい、名前、知らないね	We don't know each other's names, do we?	名前知	scene_04
 わたしは……	My name is…		scene_04
-【AERIS名前入力】	I'm AERIS‚the flower girl. Nice to meet you.	名前入力	scene_04
 わたし、花売りのAERIS。よろしくね	I'm AERIS, the flower girl. Nice to meet you.	花売	scene_04
 俺はCLOUDだ	The name's CLOUD.	俺	scene_04
 仕事は……仕事は「なんでも屋だ」	Me? I do a little bit of everything.	仕事仕事屋	scene_04
@@ -419,3 +418,8 @@ CLOUD、こっち！	CLOUD, over here!		scene_04
 いろいろ世話になったな	Thanks for all your help.	世話	scene_04
 ん？　あの後ろ………）	Huh? Hey, back there…	後	scene_04
 TIFA！？	TIFA!?		scene_04
+あれに乗っていた人がTIFAさん？どこいくのかしら？それに、様子が変だったわね……	That girl in the cart was TIFA? Where was she going? She looked kind of odd…	乗人様子変	scene_04
+まて！	Wait!		scene_04
+俺ひとりでいい！あんたは帰れ！	I'll go on alone! You go home!	俺帰	scene_04
+６番街公園	Sector 6 park	番街公園	scene_04
+６番街	Sector 6	番街	scene_04

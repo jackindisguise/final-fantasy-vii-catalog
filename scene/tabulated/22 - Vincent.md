@@ -109,23 +109,22 @@
 | 107 | You think that's punishing yourself? You're just sleeping. | そんなんでつぐないのつもりかいな？ねとるだけやないか |
 | 108 | OK. Boring story no.1. | やっぱ、つま～んない話 |
 | 109 | Let me sleep… | 眠らせてくれ…… |
-| 110 | Wait! | まて！ |
-| 111 | If I go with you, will I meet Hojo? | おまえたちについていけば宝条に会えるのか？ |
-| 112 | If I go with you, will I meet Hojo? | おまえたちについていけばセフィロスに会えるのか？ |
-| 113 | Dunno. But we're after him and Sephiroth. So, I guess sooner or later… | さあな。でもヤツもセフィロスを追っているとなれば、いずれは…… |
-| 114 | Hmm, I don't know. But we're going after Hojo and Sephiroth. So, we might…… | さあ、どうかしら。でも宝条もセフィロスを追っているわ。だから、いつかは出くわすことに…… |
-| 115 | Yeah, probably… | ああ。きっとな…… |
-| 116 | Yes, probably… | ええ。たぶん…… |
-| 117 | Yeah, probably… | おお。たぶんな…… |
-| 118 | Lucrecia… | ルクレツィア…… |
-| 119 | All right. I've decided to go with you. | よし、わかった。おまえたちについていくことにしよう |
-| 120 | W, what? | な、なんだ？ |
-| 121 | What? You're coming with us? | は？　つ…ついていくって |
-| 122 | What? | 何？ |
-| 123 | That sure was a quick change of heart. | ずいぶん急な心がわり、ね？ |
-| 124 | What? | どないやねん |
-| 125 | Hey, hold on sleepy. You're pretty damn pushy! | オイオイ、強引だぜ！ |
-| 126 | Huh? Oh great just what I needed… | はぁ？　変なやつ…… |
-| 127 | Being a former Turk, I may be of help… | 元タークスと言うことで何かと力にもなれると思うが…… |
-| 128 | All right, then. | よし、いいだろう |
-| 129 | All right, I understand. | ええ、わかったわいいわよ |
+| 110 | If I go with you, will I meet Hojo? | おまえたちについていけば宝条に会えるのか？ |
+| 111 | If I go with you, will I meet Hojo? | おまえたちについていけばセフィロスに会えるのか？ |
+| 112 | Dunno. But we're after him and Sephiroth. So, I guess sooner or later… | さあな。でもヤツもセフィロスを追っているとなれば、いずれは…… |
+| 113 | Hmm, I don't know. But we're going after Hojo and Sephiroth. So, we might…… | さあ、どうかしら。でも宝条もセフィロスを追っているわ。だから、いつかは出くわすことに…… |
+| 114 | Yeah, probably… | ああ。きっとな…… |
+| 115 | Yes, probably… | ええ。たぶん…… |
+| 116 | Yeah, probably… | おお。たぶんな…… |
+| 117 | Lucrecia… | ルクレツィア…… |
+| 118 | All right. I've decided to go with you. | よし、わかった。おまえたちについていくことにしよう |
+| 119 | W, what? | な、なんだ？ |
+| 120 | What? You're coming with us? | は？　つ…ついていくって |
+| 121 | What? | 何？ |
+| 122 | That sure was a quick change of heart. | ずいぶん急な心がわり、ね？ |
+| 123 | What? | どないやねん |
+| 124 | Hey, hold on sleepy. You're pretty damn pushy! | オイオイ、強引だぜ！ |
+| 125 | Huh? Oh great just what I needed… | はぁ？　変なやつ…… |
+| 126 | Being a former Turk, I may be of help… | 元タークスと言うことで何かと力にもなれると思うが…… |
+| 127 | All right, then. | よし、いいだろう |
+| 128 | All right, I understand. | ええ、わかったわいいわよ |

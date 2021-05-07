@@ -1318,7 +1318,6 @@ Oh!	あ！
 Now that you mention it…	そういえば、まだだった
 We don't know each other's names, do we?	おたがい、名前、知らないね
 My name is…	わたしは……
-I'm AERIS‚the flower girl. Nice to meet you.	【AERIS名前入力】
 I'm AERIS, the flower girl. Nice to meet you.	わたし、花売りのAERIS。よろしくね
 The name's CLOUD.	俺はCLOUDだ
 Me? I do a little bit of everything.	仕事は……仕事は「なんでも屋だ」
@@ -1676,6 +1675,11 @@ Okay, I guess I'll be going home now. I'm glad I met you, CLOUD.	じゃ、わた
 Thanks for all your help.	いろいろ世話になったな
 Huh? Hey, back there…	ん？　あの後ろ………）
 TIFA!?	TIFA！？
+That girl in the cart was TIFA? Where was she going? She looked kind of odd…	あれに乗っていた人がTIFAさん？どこいくのかしら？それに、様子が変だったわね……
+Wait!	まて！
+I'll go on alone! You go home!	俺ひとりでいい！あんたは帰れ！
+Sector 6 park	６番街公園
+Sector 6	６番街
 Wall Market	ウォールマーケット
 This place is scary in a lot of ways. Especially for a girl. So we've got to find TIFA fast.	ここ、いろんな意味でこわいとこよ。とくに女の子にはね。早くTIFAさん、見つけなくちゃ
 Please come in. There's a free 'Pharmacy Coupon' if you enter now.	どうぞ、よっていってください。今なら『薬屋商品クーポン』をサービスしますよ
@@ -2775,7 +2779,6 @@ Oh yeah, that girl. What's up with her?	ああ、あの姉ちゃんか。何者�
 Damn! Marlene!!	そうだ！　マリン！！
 AERIS said that Marlene was safe.	マリンはだいじょうぶってAERISは言ってたけど……
 TIFA. There ain't no turnin' back now.	TIFA。もう、あともどりはできねえんだ
-Sector 6 park	６番街公園
 Received "Sense" Materia!	『みやぶる』のマテリアを手にいれた！
 CLOUD!	CLOUD！
 Take me to Marlene!	マリンのところへ連れてってくれ！
@@ -2786,7 +2789,6 @@ What's that?	なに？
 Now listen good! The Ancients are the rightful rulers of this Planet!	よく聞け！古代種こそがこの星の正当なる支配者！
 "Sephiroth…?"	セフィロス……？
 Pull it together, man!	しっかりしてくれよ！
-Sector 6	６番街
 In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet!	われこそ古代種の血をひきし者。この星の正統なる後継者！
 CLOUD…wasn't it?	CLOUD……だったね
 Well now, make yourselves at home.	まあ、てきとうにくつろいでおくれよ
@@ -8772,7 +8774,6 @@ You shouldn't sleep just because of that. Sleep?	だからってねるこたァ�
 You think that's punishing yourself? You're just sleeping.	そんなんでつぐないのつもりかいな？ねとるだけやないか
 OK. Boring story no.1.	やっぱ、つま～んない話
 Let me sleep…	眠らせてくれ……
-Wait!	まて！
 If I go with you, will I meet Hojo?	おまえたちについていけば宝条に会えるのか？
 If I go with you, will I meet Hojo?	おまえたちについていけばセフィロスに会えるのか？
 Dunno. But we're after him and Sephiroth. So, I guess sooner or later…	さあな。でもヤツもセフィロスを追っているとなれば、いずれは……

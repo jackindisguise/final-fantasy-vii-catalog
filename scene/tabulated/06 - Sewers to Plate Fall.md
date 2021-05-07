@@ -186,16 +186,14 @@
 | 184 | Damn! Marlene!! | そうだ！　マリン！！ |
 | 185 | AERIS said that Marlene was safe. | マリンはだいじょうぶってAERISは言ってたけど…… |
 | 186 | TIFA. There ain't no turnin' back now. | TIFA。もう、あともどりはできねえんだ |
-| 187 | Sector 6 park | ６番街公園 |
-| 188 | Received "Sense" Materia! | 『みやぶる』のマテリアを手にいれた！ |
-| 189 | CLOUD! | CLOUD！ |
-| 190 | Take me to Marlene! | マリンのところへ連れてってくれ！ |
-| 191 | You're going to help AERIS? | AERISを助けにいくのね？ |
-| 192 | Yeah… But before that, there's something I want to know. | ああ……でも、その前に確かめたいことがあるんだ |
-| 193 | What's that? | なに？ |
-| 194 | …It's about the Ancients. | ……古代種 |
-| 195 | Now listen good! The Ancients are the rightful rulers of this Planet! | よく聞け！古代種こそがこの星の正当なる支配者！ |
-| 196 | "Sephiroth…?" | セフィロス……？ |
-| 197 | Pull it together, man! | しっかりしてくれよ！ |
-| 198 | Sector 6 | ６番街 |
-| 199 | In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet! | われこそ古代種の血をひきし者。この星の正統なる後継者！ |
+| 187 | Received "Sense" Materia! | 『みやぶる』のマテリアを手にいれた！ |
+| 188 | CLOUD! | CLOUD！ |
+| 189 | Take me to Marlene! | マリンのところへ連れてってくれ！ |
+| 190 | You're going to help AERIS? | AERISを助けにいくのね？ |
+| 191 | Yeah… But before that, there's something I want to know. | ああ……でも、その前に確かめたいことがあるんだ |
+| 192 | What's that? | なに？ |
+| 193 | …It's about the Ancients. | ……古代種 |
+| 194 | Now listen good! The Ancients are the rightful rulers of this Planet! | よく聞け！古代種こそがこの星の正当なる支配者！ |
+| 195 | "Sephiroth…?" | セフィロス……？ |
+| 196 | Pull it together, man! | しっかりしてくれよ！ |
+| 197 | In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet! | われこそ古代種の血をひきし者。この星の正統なる後継者！ |

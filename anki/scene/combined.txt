@@ -1318,7 +1318,6 @@ BARRET……	BARRET…		scene_03
 そういえば、まだだった	Now that you mention it…		scene_04
 おたがい、名前、知らないね	We don't know each other's names, do we?	名前知	scene_04
 わたしは……	My name is…		scene_04
-【AERIS名前入力】	I'm AERIS‚the flower girl. Nice to meet you.	名前入力	scene_04
 わたし、花売りのAERIS。よろしくね	I'm AERIS, the flower girl. Nice to meet you.	花売	scene_04
 俺はCLOUDだ	The name's CLOUD.	俺	scene_04
 仕事は……仕事は「なんでも屋だ」	Me? I do a little bit of everything.	仕事仕事屋	scene_04
@@ -1676,6 +1675,11 @@ CLOUD、こっち！	CLOUD, over here!		scene_04
 いろいろ世話になったな	Thanks for all your help.	世話	scene_04
 ん？　あの後ろ………）	Huh? Hey, back there…	後	scene_04
 TIFA！？	TIFA!?		scene_04
+あれに乗っていた人がTIFAさん？どこいくのかしら？それに、様子が変だったわね……	That girl in the cart was TIFA? Where was she going? She looked kind of odd…	乗人様子変	scene_04
+まて！	Wait!		scene_04
+俺ひとりでいい！あんたは帰れ！	I'll go on alone! You go home!	俺帰	scene_04
+６番街公園	Sector 6 park	番街公園	scene_04
+６番街	Sector 6	番街	scene_04
 ウォールマーケット	Wall Market		scene_05
 ここ、いろんな意味でこわいとこよ。とくに女の子にはね。早くTIFAさん、見つけなくちゃ	This place is scary in a lot of ways. Especially for a girl. So we've got to find TIFA fast.	意味女子早見	scene_05
 どうぞ、よっていってください。今なら『薬屋商品クーポン』をサービスしますよ	Please come in. There's a free 'Pharmacy Coupon' if you enter now.	今薬屋商品	scene_05
@@ -2775,7 +2779,6 @@ AERISが言ってたわ。『あの子、だいじょうぶだから』って、
 そうだ！　マリン！！	Damn! Marlene!!		scene_06
 マリンはだいじょうぶってAERISは言ってたけど……	AERIS said that Marlene was safe.	言	scene_06
 TIFA。もう、あともどりはできねえんだ	TIFA. There ain't no turnin' back now.		scene_06
-６番街公園	Sector 6 park	番街公園	scene_06
 『みやぶる』のマテリアを手にいれた！	Received "Sense" Materia!	手	scene_06
 CLOUD！	CLOUD!		scene_06
 マリンのところへ連れてってくれ！	Take me to Marlene!	連	scene_06
@@ -2786,7 +2789,6 @@ AERISを助けにいくのね？	You're going to help AERIS?	助	scene_06
 よく聞け！古代種こそがこの星の正当なる支配者！	Now listen good! The Ancients are the rightful rulers of this Planet!	聞古代種星正当支配者	scene_06
 セフィロス……？	"Sephiroth…?"		scene_06
 しっかりしてくれよ！	Pull it together, man!		scene_06
-６番街	Sector 6	番街	scene_06
 われこそ古代種の血をひきし者。この星の正統なる後継者！	In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet!	古代種血者星正統後継者	scene_06
 CLOUD……だったね	CLOUD…wasn't it?		scene_07
 まあ、てきとうにくつろいでおくれよ	Well now, make yourselves at home.		scene_07
@@ -8772,7 +8774,6 @@ VINCENTだ	VINCENT.		scene_22
 そんなんでつぐないのつもりかいな？ねとるだけやないか	You think that's punishing yourself? You're just sleeping.		scene_22
 やっぱ、つま～んない話	OK. Boring story no.1.	話	scene_22
 眠らせてくれ……	Let me sleep…	眠	scene_22
-まて！	Wait!		scene_22
 おまえたちについていけば宝条に会えるのか？	If I go with you, will I meet Hojo?	宝条会	scene_22
 おまえたちについていけばセフィロスに会えるのか？	If I go with you, will I meet Hojo?	会	scene_22
 さあな。でもヤツもセフィロスを追っているとなれば、いずれは……	Dunno. But we're after him and Sephiroth. So, I guess sooner or later…	追	scene_22
