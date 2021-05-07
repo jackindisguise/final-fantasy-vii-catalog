@@ -5,7 +5,6 @@ const process = require("./process");
 // local consts
 const formatted = "../scene/formatted/";
 const processed = "../scene/processed/";
-let kanjiRule = /([\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A])/g;
 
 // read all formatted texts and process them
 let originalLines = 0;
@@ -45,8 +44,7 @@ fs.readdir(formatted, function(err, files){
 //			if(!entry || !entry.target || !entry.source) continue; // ignore empty lines
 			if(usedJapanese.contains(entry.target)) continue; // don't add duplicate japanese lines
 			usedJapanese.push(entry.target); // track japanese lines
-			let kanji = entry.target.match(kanjiRule) || [];
-			let line = `${entry.source}\t${entry.target}\t${kanji.join("")}\tscene_${num.toString().padStart(2, "0")}`;
+			let line = `${entry.source}\t${entry.target}}`;
 			lines.push(line);
 			combined.push(line)
 		}
