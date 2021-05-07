@@ -1,0 +1,11 @@
+アイテム	Item	Item		menu
+魔法	Magic	Magic	魔法	menu
+マテリア	Materia	Materia		menu
+装備	Equip	Equip	装備	menu
+ステータス	Status	Status		menu
+隊形	Order	Order	隊形	menu
+リミット	Limit	Limit		menu
+コンフィグ	Config	Config		menu
+ＰＨＳ	PHS	PHS		menu
+セーブ	Save	Save		menu
+しゅうりょう	Quit	Quit		menu

@@ -1,0 +1,17 @@
+かばう	Cover	Cover		materia-independent
+カウンター	Counter Attack	Counter		materia-independent
+チョコボよせ	Chocobo Lure	Chocobo Draw		materia-independent
+えんきょりこうげき	Long Range	Long-Distance Attack		materia-independent
+せんせいこうげき	Pre-Emptive	Advance Attack		materia-independent
+ＨＰアップ	HP Plus	HP Up		materia-independent
+ＭＰアップ	MP Plus	MP Up		materia-independent
+けいけんちアップ	EXP Plus	Experience Points Up		materia-independent
+ギルアップ	Gil Plus	Gil Up		materia-independent
+マジカル	Magic Plus	Magical		materia-independent
+スピード	Speed Plus	Speed		materia-independent
+ラッキー	Luck Plus	Lucky		materia-independent
+てきよせ	Enemy Lure	Enemy Draw		materia-independent
+てきよけ	Enemy Away	Enemy Ward		materia-independent
+ＨＰＭＰいれかえ	HP<->MP	HPMP Switch		materia-independent
+すべてぜんたいか	Mega All	Entire All		materia-independent
+せんすい	Underwater	Diving		materia-independent

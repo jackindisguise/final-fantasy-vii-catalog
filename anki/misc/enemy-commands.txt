@@ -1,0 +1,550 @@
+？？？	???	???		enemy-commands
+？？？？	????	????		enemy-commands
+怪しい針	? Needle	Suspicious Needle	怪針	enemy-commands
+ハンドレッドニードル	100 Needles	100 Needles		enemy-commands
+はりせんぼん	1000 Needles	1000 Needles		enemy-commands
+２段アタック	2-stage Attack	Double Attack	段	enemy-commands
+ＡＢ砲	AB Cannon	AB Cannon	砲	enemy-commands
+異常ブレス	Abnormal Breath	Abnormality Breath	異常	enemy-commands
+ステータス異常弾	Abnormal Shell	Status Abnormality Shell	異常弾	enemy-commands
+吸収	Absorb	Absorb	吸収	enemy-commands
+アシッドシャワー	Acid Rain	Acid Shower		enemy-commands
+アドレナリン	Adrenaline	Adrenaline		enemy-commands
+エアロガ	Aero3	Aeroga		enemy-commands
+エアボンバー	Air Bomber	Air Bomber		enemy-commands
+エメラルドビッグバン	Aire Tam Storm	Emerald Big Bang		enemy-commands
+天使のささやき	Angel Whisper	Angel Whisper	天使	enemy-commands
+角突き	Angle Punch	Horn Thrust	角突	enemy-commands
+アクアブレス	Aqualung	Aqua Breath		enemy-commands
+アームアタック	Arm Attack	Arm Attack		enemy-commands
+アームキヤッチ	Arm Grab	Arm Catch		enemy-commands
+アームパンチ	Arm Punch	Arm Punch		enemy-commands
+アスピル	Aspil	Aspil		enemy-commands
+アトミックレイ	Atomic Ray	Atomic Ray		enemy-commands
+オーロラフェンス	Aurora Fence	Aurora Fence		enemy-commands
+木の葉乱舞	Autumn Leaves	Wild Leaf Dance	木葉乱舞	enemy-commands
+副砲	Aux Artillery	Auxiliary Cannon	副砲	enemy-commands
+雪崩	Avalanche	Avalanche	雪崩	enemy-commands
+臭い息	Bad Breath	Smelly Breath	臭息	enemy-commands
+ののしる	Bad mouth	Insult		enemy-commands
+暴れる	Ballistic	Rage	暴	enemy-commands
+バリア	Barrier	Barrier		enemy-commands
+クチバシ	Beak	Beak		enemy-commands
+ビームキャノン	Beam Cannon	Beam Cannon		enemy-commands
+マシンガンビーム	Beam Gun	Machine Gun Beam		enemy-commands
+ビーストソード	Beast Sword	Beast Sword		enemy-commands
+ベヒーモスホーン	Behemoth Horn	Behemoth Horn		enemy-commands
+バーサク針	Berserk Needle	Berserk Needle	針	enemy-commands
+ベータ	Beta	Beta		enemy-commands
+まどわしハート	Bewildered	Bewildering Heart		enemy-commands
+ビッグボンバー	Big Bomber	Big Bomber		enemy-commands
+大口ブレス	Big Breath	Big Mouth Breath	大口	enemy-commands
+ビッグクロウ	Big Claw	Big Claw		enemy-commands
+ビッグファング	Big Fang	Big Fang		enemy-commands
+マイティガード	Big Guard	Mighty Guard		enemy-commands
+ビッグハンドクラッシュ	Big Hand Clash	Big Hand Crush		enemy-commands
+大角	Big Horn	Big Horn	大角	enemy-commands
+大花粉	Big Pollen	Big Pollen	大花粉	enemy-commands
+ビッグパンチ	Big Punch	Big Punch		enemy-commands
+ビッグレッドクリッパー	Big Red Clipper	Big Red Clipper		enemy-commands
+大音波	Big Sound	Big Soundwave	大音波	enemy-commands
+大旋回	Big Spiral	Big Rotation	大旋回	enemy-commands
+ビッグスイング	Big Swing	Big Swing		enemy-commands
+ビッグウェーブ	Big Wave	Big Wave		enemy-commands
+バイオ	Bio	Bio		enemy-commands
+バイオラ	Bio2	Biora		enemy-commands
+バイオガス	Bio Gas	Bio Gas		enemy-commands
+鳥キック	Bird Kick	Bird Kick	鳥	enemy-commands
+かみつき	Bite	Bite		enemy-commands
+リバース・エナジー	Bizzarro Enegy	Rebirth Energy		enemy-commands
+ブラスター	Blaster	Blaster		enemy-commands
+吸血	Blood Suck	Blood Suck	吸血	enemy-commands
+ブラッドネイル	Bloody Nail	Blood Nail		enemy-commands
+ふきとばし	Blown Away	Blow Away		enemy-commands
+ブルードラゴンブレス	Blue Dragon Breath	Blue Dragon Breath		enemy-commands
+ブルーフレーム	Blue Flame	Blue Flame		enemy-commands
+ブルーインパルス	Blue Impulse	Blue Impulse		enemy-commands
+青い光	Blue Light	Blue Light	青光	enemy-commands
+全体尾	Body Tail	Whole Tail	全体尾	enemy-commands
+体当たり	Bodyblow	Body Blow	体当	enemy-commands
+サンダー	Bolt	Thunder		enemy-commands
+サンダラ	Bolt2	Thundera		enemy-commands
+サンダガ	Bolt3	Thundega		enemy-commands
+電撃球	Bolt Ball	Shock Ball	電撃球	enemy-commands
+ボム爆発	Bomb Blast	Bomb Explosion	爆発	enemy-commands
+ボーン	Bone	Bone		enemy-commands
+軟骨剣	Bonecutter	Cartilage Sword	軟骨剣	enemy-commands
+ブレイク	Break	Break		enemy-commands
+アワ	Bubble	Bubble		enemy-commands
+虫針	Bug Needle	Bug Needle	虫針	enemy-commands
+バタフライアタック	Butterfly Attack	Butterfly Attack		enemy-commands
+Ｃ砲	C Cannon	C Cannon	砲	enemy-commands
+カプセル	Capsule	Capsule		enemy-commands
+カタパルト	Catapult	Catapult		enemy-commands
+落盤	Cave-in	Cave-in	落盤	enemy-commands
+突進	Charge	Charge	突進	enemy-commands
+チョコボ、あばれる	Chocobo goes nuts	Chocobo, raging		enemy-commands
+チョコボックル	Chocobuckle	Chocobokkuru		enemy-commands
+急降下アタック	Chute Attack	Swoop Attack	急降下	enemy-commands
+ツメ	Claw	Claw		enemy-commands
+クラブ	Club	Club		enemy-commands
+ぼくさつにんじんソード	Club Sword	Fatal Carrot Sword		enemy-commands
+冷気	Cold	Cold	冷気	enemy-commands
+コールドブレス	Cold Breath	Cold Breath		enemy-commands
+指冷凍弾	Cold Snap	Freezing Finger Bullet	指冷凍弾	enemy-commands
+コンボ	Combo	Combo		enemy-commands
+コメテオ	Comet2	Cometeo		enemy-commands
+コンフュ	Confu	Confu		enemy-commands
+混乱ミサイル	Confu Missile	Confusion Missile	混乱	enemy-commands
+混乱鱗粉	Confu-scales	Confusion Scales	混乱鱗粉	enemy-commands
+連続ツメ	Continu-claw	Continuous Claw	連続	enemy-commands
+かばう	Cover	Cover		enemy-commands
+ひび	Crack	Crack		enemy-commands
+マッドクロウ	Crazy Claw	Mad Claw		enemy-commands
+不気味タッチ	Creepy Touch	Eerie Touch	不気味	enemy-commands
+クロスインパルス	Cross Impulse	Cross Impulse		enemy-commands
+クロスシザー	Cross Scissor	Cross Scissor		enemy-commands
+押し潰す	Crush	Crush	押潰	enemy-commands
+ケアル	Cure	Care		enemy-commands
+ケアルラ	Cure2	Carera		enemy-commands
+ケアルガ	Cure3	Carega		enemy-commands
+のろいの言葉	Curses	Cursed Words	言葉	enemy-commands
+きり	Cut	Slash		enemy-commands
+カッター	Cutter	Cutter		enemy-commands
+ダメージ攻撃	Damage Attack	Damage Attack	攻撃	enemy-commands
+ダンス	Dance	Dance		enemy-commands
+ダークドラゴンブレス	Dark Dragon Breath	Dark Dragon Breath		enemy-commands
+ダークニードル	Dark Needle	Dark Needle		enemy-commands
+ダークアイ	Darkeye	Dark Eye		enemy-commands
+危ない針	Deadly Needles	Dangerous Needle	危針	enemy-commands
+デッドリーホイール	Deadly Wheel	Deadly Wheel		enemy-commands
+デスクロー	Death Claw	Death Claw		enemy-commands
+デスフォース	Death Force	Death Force		enemy-commands
+死の宣告	Death Sentence	Death Sentence	死宣告	enemy-commands
+デバリア	DeBarrier	Debarrier		enemy-commands
+デイン	Deen	Deen		enemy-commands
+グラビデ	Demi	Gravide		enemy-commands
+グラビラ	Demi2	Gravira		enemy-commands
+グラビガ	Demi3	Graviga		enemy-commands
+デモンズクラッシュ	Demon Rush	Demon's Rush		enemy-commands
+デスペル	DeSpell	Despell		enemy-commands
+ダイヤ	Diamond	Diamond		enemy-commands
+ダイヤファイア	Diamond Fire	Diamond Fire		enemy-commands
+ダイヤフラッシュ	Diamond Flash	Diamond Flash		enemy-commands
+タイブキック	Dive Kick	Dive Kick		enemy-commands
+かわす	Dodge	Dodge		enemy-commands
+ヒレパンチ	Dorsal Punch	Fin Punch		enemy-commands
+ダブルブレス	Double Breath	Double Breath		enemy-commands
+タブルショット	Double Shot	Double Shot		enemy-commands
+怒龍砲	Dragon Cannon	Angry Dragon Cannon	怒龍砲	enemy-commands
+龍宮の舞	Dragon Dance	Dragon Shrine Dance	龍宮舞	enemy-commands
+ドラゴンファング	Dragon Fang	Dragon Fang		enemy-commands
+ドラゴンフォース	Dragon Force	Dragon Force		enemy-commands
+ドレイン	Drain	Drain		enemy-commands
+ドリフトターン	Drift Turn	Drift Turn		enemy-commands
+ドリルドライブ	Drilldrive	Drill Drive		enemy-commands
+ツインアタック	Dual Attack	Twin Attack		enemy-commands
+ダブルスパイク	Dual Spike	Double Spike		enemy-commands
+両翼射撃	Dual Wing Fire	Double Wing Fire	両翼射撃	enemy-commands
+アースクエイク	Earthquake	Earthquake		enemy-commands
+食べる	Eat	Eat	食	enemy-commands
+放電	Electric Burst	Electric Discharge	放電	enemy-commands
+電磁ロッド	Electro-Mag Rod	Electromagnetic Rod	電磁	enemy-commands
+磁場転換	Electromag	Reverse Polarity	磁場転換	enemy-commands
+電気ロッド	Electroprod	Electric Rod	電気	enemy-commands
+電気ロッド・マーク２	Electroprod 2	Electric Rod Mark 2	電気	enemy-commands
+エメラルドビーム	Emerald Beam	Emerald Beam		enemy-commands
+エメラルドレーザー	Emerald Laser	Emerald Laser		enemy-commands
+エメラルドシュート	Emerald Shoot	Emerald Shoot		enemy-commands
+教皇	Emperor	The Hierophant	教皇	enemy-commands
+エナジーボール	Energy Ball	Energy Ball		enemy-commands
+エネルギー吸収	Energy Siphon	Energy Absorb	吸収	enemy-commands
+射出	Erupt	Emit	射出	enemy-commands
+噴火	Eruption	Eruption	噴火	enemy-commands
+ずらかる	Escape	Escape		enemy-commands
+みんなのうらみ	Everyone's Grudge	Everyone's Grudge		enemy-commands
+イビルポイズン	Evil Poison	Evil Poison		enemy-commands
+究極逆鱗ボンバー	Extreme Bomber	Ultimate Wrath Bomber	究極逆鱗	enemy-commands
+落石	Falling Rocks	Falling Rock	落石	enemy-commands
+キバ	Fang	Fang		enemy-commands
+魅惑	Fascination	Attraction	魅惑	enemy-commands
+たたかう	Fight	Fight		enemy-commands
+フィンガーショット	Finger Shot	Finger Shot		enemy-commands
+ファイア	Fire	Fire		enemy-commands
+ファイラ	Fire2	Fira		enemy-commands
+ファイガ	Fire3	Figa		enemy-commands
+火龍の牙	Fire Fang	Firedrake Fang	火龍牙	enemy-commands
+ルーレットファイア	Fire Roulette	Roulette Fire		enemy-commands
+火弾	Fire Shell	Fire Bullet	火弾	enemy-commands
+火とん	Fire Veil	Unleashed Fire	火	enemy-commands
+ファイアボール	Fireball	Fireball		enemy-commands
+一斉射撃	Firing Line	Line Fire	一斉射撃	enemy-commands
+火炎	Flame	Blaze	火炎	enemy-commands
+炎の舞	Flame Dance	Flame Dance	炎舞	enemy-commands
+火炎放射	Flame Thrower	Flamethrower	火炎放射	enemy-commands
+百烈突き	Flaming Peck	100 Fierce Stabs	百烈突	enemy-commands
+はばたき	Flap	Flap		enemy-commands
+フレア	Flare	Flare		enemy-commands
+ふえでなぐる	Flutilizer	Flute Strike		enemy-commands
+フライングドリル	Flying Drill	Flying Drill		enemy-commands
+空中ハンマー	Flying Hammer	Aerial Hammer	空中	enemy-commands
+空中混乱ハンマー	Flying Muddle	Aerial Confusion Hammer	空中混乱	enemy-commands
+かまいたち	Flying Sickle	Whirlwind Cut		enemy-commands
+フライアッパー	Flying Upper	Fly Upper		enemy-commands
+空中いきなりハンマー	Flying Zip	Aerial Sudden Hammer	空中	enemy-commands
+空中いきなり混乱	Flying Zip Confu	Aerial Sudden Confusion	空中混乱	enemy-commands
+踏みつぶし	Foot Stamp	Trample	踏	enemy-commands
+フォーレーザー	Four Laser	Four Laser		enemy-commands
+フリーズ	Freeze	Freeze		enemy-commands
+カエルパンチ	Frog Jab	Frog Punch		enemy-commands
+カエルのうた	Frog Song	Frog Song		enemy-commands
+冷凍光線	Frozen Beam	Freezing Beam	冷凍光線	enemy-commands
+ファニーの息	Funny Breath	Funny Breath	息	enemy-commands
+いかり	Fury	Anger		enemy-commands
+ガス	Gas	Gas		enemy-commands
+切りきざみ	Gash	Mincer	切	enemy-commands
+ゲヘナガナー	Ghenghana	Gehenna Ganar		enemy-commands
+ちょうだい	Gimme	Gimme		enemy-commands
+グラスカッター	Glasscutter	Glass Cutter		enemy-commands
+ご案内	Goannai	Guidance	案内	enemy-commands
+ゴブリンパンチ	Goblin Punch	Goblin Punch		enemy-commands
+金山	Gold Mountain	Gold Mine	金山	enemy-commands
+ゴーレムレーザー	Golem Laser	Golem Laser		enemy-commands
+ゴーレムパンチ	Golem Punch	Golem Punch		enemy-commands
+グランドアタック	Grand Attack	Grand Attack		enemy-commands
+グランドパンチ	Grand Punch	Grand Punch		enemy-commands
+地走り	Grand Spark	Ground Racer	地走	enemy-commands
+グランドソード	Grand Sword	Grand Sword		enemy-commands
+グラス突き	Grass Punch	Grass Thrust	突	enemy-commands
+大旋風	Great Gale	Great Whirlwind	大旋風	enemy-commands
+グレネード	Grenade	Grenade		enemy-commands
+グリムロッド	Grim Rod	Grim Rod		enemy-commands
+スる	Grind	Pickpocket		enemy-commands
+強化戦闘員死亡	Grunt Death	Strengthened Combatant Death	強化戦闘員死亡	enemy-commands
+ギロチン	Guillotine	Guillotine		enemy-commands
+ギタービンタ	Guitar Slap	Guitar Slap		enemy-commands
+噴火	Gush	Eruption	噴火	enemy-commands
+ホールトウィップ	Halt Whip	Halt Whip		enemy-commands
+ハンマーアタック	Hammer Attack	Hammer Attack		enemy-commands
+手榴弾	Hand Grenade	Hand Grenade	手榴弾	enemy-commands
+ハンドクロウ	Handclaw	Hand Claw		enemy-commands
+ハリアー	Harrier	Harrier		enemy-commands
+ハリアービーム	Harrier Beam	Harrier Beam		enemy-commands
+モリ	Harpoon	Harpoon		enemy-commands
+ヘッドアタック	Head Attack	Head Attack		enemy-commands
+首狩り	Head Hunting	Headhunting	首狩	enemy-commands
+大首狩り	Head Hunting 2	Big Headhunting	大首狩	enemy-commands
+ハート	Heart	Heart		enemy-commands
+こころない天使	Heartless Angel	Heartless Angel	天使	enemy-commands
+ヒートウィング	Heatwing	Heat Wing		enemy-commands
+ヘビーソード	Heavy Sword	Heavy Sword		enemy-commands
+ヘルボンバー	Hell Bomber	Hell Bomber		enemy-commands
+アワ地獄	Hell Bubbles	Bubble Hell	地獄	enemy-commands
+ヘルコンボ	Hell Combo	Hell Combo		enemy-commands
+ヘルプレス	Hell Press	Hell Press		enemy-commands
+地獄のヤリ	Hell Spear	Hell Spear	地獄	enemy-commands
+副砲内隠し砲	Hidden Artillery	Cannon Hidden in the Auxiliary Cannon	副砲内隠砲	enemy-commands
+隠者	Hidden One	The Hermit	隠者	enemy-commands
+組曲ハイ＆ロウ	High/Low Suit	Musical Suite High & Low	組曲	enemy-commands
+ハイウェイ登場	Highway	Highway Entry	登場	enemy-commands
+なぐる	Hit	Hit		enemy-commands
+かつあげ	Hold-up	Shakedown		enemy-commands
+角	Horn	Horn	角	enemy-commands
+ホーンボンバー	Horn Bomber	Horn Bomber		enemy-commands
+ホーンリフト	Horn Lift	Horn Lift		enemy-commands
+温泉	Hot Springs	Hot Spring	温泉	enemy-commands
+遠吠え	Howling	Howl	遠吠	enemy-commands
+大津波	Huge Tidal Wave	Big Tsunami	大津波	enemy-commands
+ブリザド	Ice	Blizzard		enemy-commands
+ブリザラ	Ice2	Blizzara		enemy-commands
+ブリザガ	Ice3	Blizzaga		enemy-commands
+つららおとし	Icicle Drop	Icicle Drop		enemy-commands
+モズのはやにえ	Impaler	Shrike's Prey		enemy-commands
+鉄撃震	Iron Attack	Iron Attack Quake	鉄撃震	enemy-commands
+てっつい	Iron Mallet	Iron Hammer		enemy-commands
+鉄球	Ironball	Iron Ball	鉄球	enemy-commands
+イソギンスモッグ	Isogin Smog	Anemone Smog		enemy-commands
+ジョーカー	Joker	Joker		enemy-commands
+ジャンプアタック	Jump Attack	Jump Attack		enemy-commands
+ジャンプキック	Jump Kick	Jump Kick		enemy-commands
+ジャンピングブロウ	Jumping Blow	Jumping Blow		enemy-commands
+ジャンプ軟骨剣	Jumping Cutter	Jumping Cartilage Sword	軟骨剣	enemy-commands
+カギヅメ	Keyclaw	Talon		enemy-commands
+キック	Kick	Kick		enemy-commands
+キングテイル	King Teel	King Tail		enemy-commands
+ニーブレンド	Knee Blend	Knee Blend		enemy-commands
+ニーファイア	Knee Fire	Knee Fire		enemy-commands
+ほうちょう	Knife	Kitchen Knife		enemy-commands
+レベル２コンフュ	L2 Confu	Level 2 Confu		enemy-commands
+レベル３フレア	L3 Flare	Level 3 Flare		enemy-commands
+レベル４デス	L4 Death	Level 4 Death		enemy-commands
+レベル４自爆	L4 Suicide	Level 4 Self-Destruct	自爆	enemy-commands
+レベル５デス	L5 Death	Level 5 Death		enemy-commands
+ラピスレーザー	Lapis Laser	Lapis Laser		enemy-commands
+レーザー	Laser	Laser		enemy-commands
+レーザーキャノン	Laser Cannon	Laser Cannon		enemy-commands
+へばりつき	Lay Flat	Cling		enemy-commands
+レフトブレス	Left Breath	Left Breath		enemy-commands
+ラストレフトブレス	Left Breath 2	Last Left Breath		enemy-commands
+左手復活	Left Hand Revived	Left Hand Revival	左手復活	enemy-commands
+触手	Left Revenge	Tentacle	触手	enemy-commands
+怒りの触手	Left Thrust	Angry Tentacle	怒触手	enemy-commands
+水神様のうろこ	Leviathan Scales	Water God's Scales	水神様	enemy-commands
+なめる	Lick	Lick		enemy-commands
+光弾	Light Shell	Light Bullet	光弾	enemy-commands
+雷撃	Lightning	Thunder Strike	雷撃	enemy-commands
+毒液	Liquid poison	Venom	毒液	enemy-commands
+ロストブロー	Lost Blow	Lost Blow		enemy-commands
+クレージーアタック	Lunattack	Crazy Attack		enemy-commands
+マシンガン	Machine Gun	Machine Gun		enemy-commands
+マジカルブレス	Magic Breath	Magical Breath		enemy-commands
+魔吸軟骨剣	Magic Cutter	Magic-Absorbing Cartilage Sword	魔吸軟骨剣	enemy-commands
+魔法消滅	Magic Extinguish	Magic Annihilation	魔法消滅	enemy-commands
+マジックハンマー	Magic Hammer	Magic Hammer		enemy-commands
+マグマ	Magma	Magma		enemy-commands
+主砲	Main Artillery	Main Cannon	主砲	enemy-commands
+魔晄銃	Mako Gun	Mako Gun	魔晄銃	enemy-commands
+マテリアジヤマー	Materia-jammer	Materia Jammer		enemy-commands
+マトラマジック	Matra Magic	Matra Magic		enemy-commands
+マバリア	MBarrier	Mabarrier		enemy-commands
+メガトンパンチ	Megaton Punch	Megaton Punch		enemy-commands
+ミニマム	Mini	Minimum		enemy-commands
+モロトフカクテル	Molotov Cocktail	Molotov Cocktail		enemy-commands
+モノアイレーザー	Mono Laser	Monoeye Laser		enemy-commands
+ムーンストライク	Moonstrike	Moon Strike		enemy-commands
+ムーンワース	Moon Wars	Moon Wars		enemy-commands
+強奪	Mug	Pillage	強奪	enemy-commands
+コンフュハンマー	Muyddle Mallet	Confu Hammer		enemy-commands
+キック？？？？	Mystery Kick	Kick????		enemy-commands
+ナパーム弾	Napalm Bomb	Napalm Bomb	弾	enemy-commands
+針	Needle	Needle	針	enemy-commands
+ニードルガン	Needle Gun	Needle Gun		enemy-commands
+ネオタークス光線	Neo Turk Light	Neo Turks Beam	光線	enemy-commands
+通常弾	Normal Shell	Normal Shell	通常弾	enemy-commands
+ノーザンクロス	Northern Cross	Northern Cross		enemy-commands
+オイル	Oil	Oil		enemy-commands
+ペイルホース	Pale Horse	Pale Horse		enemy-commands
+なんとか？？？	Pandora's Box	What???		enemy-commands
+パラテイル	Para Tail	Para Tail		enemy-commands
+マヒレーザー	Paralaser	Paralyzing Laser		enemy-commands
+マヒ針	Paralyzer Needle	Paralyzing Needle	針	enemy-commands
+くじゃく	Peacock	Peacock		enemy-commands
+石化アイ	Petrif-Eye	Petrifying Eye	石化	enemy-commands
+カエル石化	Petrified Frog	Frog Petrification	石化	enemy-commands
+石化スモッグ	Petrify Smog	Petrifying Smog	石化	enemy-commands
+プアゾシャワー	Piazzo Shower	Poisso Shower		enemy-commands
+パイルバンカー	Pile Banger	Pilebunker		enemy-commands
+ポイゾナ	Poisona	Poisona		enemy-commands
+毒吹き	Poison Blow	Blow Poison	毒吹	enemy-commands
+毒ブレス	Poison Breath	Poison Breath	毒	enemy-commands
+毒のキバ	Poison Fang	Poisonous Fang	毒	enemy-commands
+ポイズンストーム	Poison Storm	Poison Storm		enemy-commands
+花粉	Pollen	Pollen	花粉	enemy-commands
+プロペラ	Propeller	Propellor		enemy-commands
+プロペラソード	Propeller Sword	Propellor Sword		enemy-commands
+パンチ	Punch	Punch		enemy-commands
+ピラミッド	Pyramid	Pyramid		enemy-commands
+乱れうち	Quadra-cut	Chaotic Strike	乱	enemy-commands
+クエイク	Quake	Quake		enemy-commands
+クエイラ	Quake2	Quara		enemy-commands
+クエイガ	Quake3	Quaga		enemy-commands
+乱れ突き	Rabbit Gouge	Chaotic Thrust	乱突	enemy-commands
+怒髪天ボンバー	Rage Bomber	Rage Bomber	怒髪天	enemy-commands
+復活魔法	Reanimagic	Revival Magic	復活魔法	enemy-commands
+後方マシンガン	Rear Gun	Rear Machine Gun	後方	enemy-commands
+レッドドラゴンブレス	Red Dragon Breath	Red Dragon Breath		enemy-commands
+赤い光	Red Light	Red Light	赤光	enemy-commands
+リフレク	Reflect	Reflect		enemy-commands
+廃棄汚染	Refuse	Waste Disposal	廃棄汚染	enemy-commands
+リジェネ	Regen	Regene		enemy-commands
+往復ビンタ	Repeating Slap	Round-Trip Slap	往復	enemy-commands
+反撃踏みつけ	Revenge Stamp	Counter Stomp	反撃踏	enemy-commands
+ライダーブレス	Rider Breath	Rider Breath		enemy-commands
+銃撃	Rifle	Gun Attack	銃撃	enemy-commands
+ライトブレス	Right Breath	Right Breath		enemy-commands
+ラストライトブレス	Right Breath 2	Last Right Breath		enemy-commands
+右手復活	Right Hand Revived	Right Hand Revival	右手復活	enemy-commands
+触手	Right Revenge	Tentacle	触手	enemy-commands
+怒りの触手	Right Thrust	Angry Tentacle	怒触手	enemy-commands
+ライジングダガー	Rising Dagger	Rising Dagger		enemy-commands
+石化指	Rock Finger	Petrifying Finger	石化指	enemy-commands
+投石	Rock Toss	Throw Stone	投石	enemy-commands
+石つぶて	Rockbreaker	Stoning	石	enemy-commands
+ロケットランチャー	Rocket Launcher	Rocket Launcher		enemy-commands
+ロケットパンチ	Rocket Punch	Rocket Punch		enemy-commands
+ロッド	Rod	Rod		enemy-commands
+ローラーダッシュ	Roller Dash	Roller Dash		enemy-commands
+ローラースピン	Rollerspin	Roller Spin		enemy-commands
+回転アタック	Rolling Attack	Rotation Attack	回転	enemy-commands
+ローリングクロウ	Rolling Claw	Rolling Claw		enemy-commands
+ローリングファイア	Rolling Fire	Rolling Fire		enemy-commands
+死のルーレット	Roulette	Death Roulette	死	enemy-commands
+ルビーの火炎	Ruby Flame	Ruby Blaze	火炎	enemy-commands
+ルビーレイ	Ruby Ray	Ruby Ray		enemy-commands
+Ｓマイン	S-Mine	S Mine		enemy-commands
+サドインアタック	Sadistic Attack	Sadistic Yin Attack		enemy-commands
+砂鉄砲	Sandgun	Sand Gun	砂鉄砲	enemy-commands
+サンドストーム	Sandstorm	Sandstorm		enemy-commands
+ノコギリ	Sawback	Saw		enemy-commands
+シザーの一撃	Scissor Attack	Scissor Attack	一撃	enemy-commands
+シザーキック	Scissor Kick	Scissor Kick		enemy-commands
+ハサミスパーク	Scissor Spark	Pincer Spark		enemy-commands
+シザートルネード	Scissor Tornado	Scissor Tornado		enemy-commands
+ハサミ	Scissors	Pincer		enemy-commands
+スコーピオンアタック	Scorpion Attack	Scorpion Attack		enemy-commands
+スコーピオンテイル	Scorpion Tail	Scorpion Tail		enemy-commands
+サソリの尾	Scorpion's Tail	Scorpion's Tail	尾	enemy-commands
+引っかく	Scratch	Scratch	引	enemy-commands
+サーチスコープ	Search Scope	Search Scope		enemy-commands
+シード弾	Seed Bullet	Seed Bullet	弾	enemy-commands
+シードシューティング	Seed Shot	Seed Shooting		enemy-commands
+ぶんどる	Seize	Plunder		enemy-commands
+自爆	Self-destruct	Self-Destruct	自爆	enemy-commands
+セフィロスショック	Sephiroth Shock	Sephiroth Shock		enemy-commands
+地下水	Sewer	Groundwater	地下水	enemy-commands
+下水津波	Sewer Tsunami	Sewage Tsunami	下水津波	enemy-commands
+シャドウフレア	Shadow Flare	Shadow Flare		enemy-commands
+怪しい息	Shady Breath	Suspicious Breath	怪息	enemy-commands
+シャムシール	Sham Seal	Shamshir		enemy-commands
+こうらぼうぎょ	Shell Defense	Shell Defense		enemy-commands
+シールド防御	Shield Defense	Shield Defense	防御	enemy-commands
+シールド投げ	Shield Throw	Shield Throw	投	enemy-commands
+ハンドロッド	Short Staff	Hand Rod		enemy-commands
+ショットガン	Shotgun	Shotgun		enemy-commands
+ショルダーアタック	Shoulder Attack	Shoulder Attack		enemy-commands
+シャワー	Shower	Shower		enemy-commands
+カマ	Sickle	Sickle		enemy-commands
+サイレス	Silence	Silence		enemy-commands
+糸	Silk	Thread	糸	enemy-commands
+シルバーホイール	Silver Wheel	Silver Wheel		enemy-commands
+片翼射撃	Single Wing Fire	Single Wing Fire	片翼射撃	enemy-commands
+かんぼつ	Sinking	Subsidence		enemy-commands
+スケーティング	Skating	Skating		enemy-commands
+くしざし	Skewer	Skewer		enemy-commands
+ビンタ	Slap	Slap		enemy-commands
+スリプル	Sleepel	Sleeper		enemy-commands
+眠り鱗粉	Sleep Scales	Sleep Scales	眠鱗粉	enemy-commands
+スロウ	Slow	Slow		enemy-commands
+スロウダンス	Slow Dance	Slow Dance		enemy-commands
+有害スモッグ	Smog	Harmful Smog	有害	enemy-commands
+超有害スモッグ	Smog Alert	Super Harmful Smog	超有害	enemy-commands
+スモーク弾	Smoke Bullet	Smoke Bullet	弾	enemy-commands
+スモークショット	Smoke Shot	Smoke Shot		enemy-commands
+指弾	Snap	Finger Bullet	指弾	enemy-commands
+ふぶき	Snowstorm	Blizzard		enemy-commands
+サマーソルト	Somersault	Somersault		enemy-commands
+ソニックアタック	Sonic Attack	Sonic Attack		enemy-commands
+サザンクロス	Southern Cross	Southern Cross		enemy-commands
+スペード	Spade	Spade		enemy-commands
+ヒステリックボイス	Spaz Voice	Hysteric Voice		enemy-commands
+ヤリ攻撃	Spear Attack	Spear Attack	攻撃	enemy-commands
+ダッシュパンチ	Speed Punch	Dash Punch		enemy-commands
+スピードスラッシュ	Speed Slash	Speed Slash		enemy-commands
+スパイダーアタック	Spider Attack	Spider Attack		enemy-commands
+クモの糸	Spider Web	Spider Thread	糸	enemy-commands
+針地獄	Spiky Hell	Needle Hell	針地獄	enemy-commands
+スピンアタック	Spin Attack	Spin Attack		enemy-commands
+盾回転	Spin Shield	Shield Spin	盾回転	enemy-commands
+スピニングターン	Spin Turn	Spinning Turn		enemy-commands
+回転体当たり	Spinning Bodyblow	Rotation Body Blow	回転体当	enemy-commands
+スピニングカード	Spinning Card	Spinning Card		enemy-commands
+回転斬り	Spinning Cut	Rotation Slash	回転斬	enemy-commands
+スピン	Spin	Spin		enemy-commands
+剣切り	Split	Sword Cutter	剣切	enemy-commands
+踏みつぶす	Squash	Trample	踏	enemy-commands
+セントエルモスファイアー	St. Elmos Fire	St. Elmo's Fire		enemy-commands
+つきさす	Stab	Stab		enemy-commands
+星	Star	The Star	星	enemy-commands
+スターダストマーチ	Stardust March	Stardust March		enemy-commands
+にらみ	Stare Down	Glare		enemy-commands
+ぬすむ	Steal	Steal		enemy-commands
+スティグマ	Stigma	Stigma		enemy-commands
+針	Sting	Needle	針	enemy-commands
+スティングボム	Sting Bomb	Sting Bomb		enemy-commands
+石化にらみ	Stone Stare	Petrifying Glare	石化	enemy-commands
+ストーンストライク	Stone Strike	Stone Strike		enemy-commands
+ストップ	Stop	Stop		enemy-commands
+ストップアイ	Stop Eye	Stop Eye		enemy-commands
+ストップウェブ	Stop Web	Stop Web		enemy-commands
+強力キック	Strong Kick	Strong Kick	強力	enemy-commands
+サブ主砲	Sub Artillery	Sub Cannon	主砲	enemy-commands
+ちっそくソング	Suffocation Song	Suffocation Song		enemy-commands
+自爆	Suicide	Self-Destruct	自爆	enemy-commands
+自滅ドロップ	Suicide Drop	Suicidal Drop	自滅	enemy-commands
+ヤン自爆	Suicide Yang	Yang Self-Destruct	自爆	enemy-commands
+太陽	Sun	The Sun	太陽	enemy-commands
+サンダイバー	Sun Diver	Sun Diver		enemy-commands
+スーパーノヴァ	Super Nova	Supernova		enemy-commands
+支援光線	Support Beam	Support Beam	支援光線	enemy-commands
+スワンプシュート	Swamp Shoot	Swamp Shoot		enemy-commands
+雷迅	Swift Bolt	Swift Thunder	雷迅	enemy-commands
+スイングアタック	Swing Attack	Swing Attack		enemy-commands
+剣攻撃	Sword Attack	Sword Attack	剣攻撃	enemy-commands
+必殺剣	Sword of Doom	Deathblow Sword	必殺剣	enemy-commands
+ソードラッシュ	Sword Rush	Sword Rush		enemy-commands
+ブレードソード	Swordblade	Blade Sword		enemy-commands
+しっぽ	Tail	Tail		enemy-commands
+テイルアタック	Tail Attack	Tail Attack		enemy-commands
+テイルレーザー	Tail Laser	Tail Laser		enemy-commands
+テイルビート	Tailbeat	Tail Beat		enemy-commands
+乗り移り	Take Over	Possess	乗移	enemy-commands
+なみだ	Teardrop	Tear		enemy-commands
+触手	Tentacle	Tentacle	触手	enemy-commands
+ドレイン触手	Tentacle Drain	Drain Tentacle	触手	enemy-commands
+糸	Thread	Thread	糸	enemy-commands
+投げる	Throw	Throw	投	enemy-commands
+サンダーキッス	Thunder Kiss	Thunder Kiss		enemy-commands
+サンダーボール	Thunderball	Thunder Ball		enemy-commands
+サンダーボルト	Thunderbolt	Thunderbolt		enemy-commands
+時間ダメージ	Time Damage	Time Damage	時間	enemy-commands
+カエル	Toad	Frog		enemy-commands
+トンファー	Tonfa	Tonfa		enemy-commands
+ベロ	Tongue	Tongue		enemy-commands
+トルネードウェイブ	Tornade Wave	Tornado Wave		enemy-commands
+毒吐き	Toxic Barf	Poison Vomit	毒吐	enemy-commands
+毒粉	Toxic Powder	Poison Powder	毒粉	enemy-commands
+激震	Tremor	Severe Earthquake	激震	enemy-commands
+トライアングルアタック	Triangle Attack	Triangle Attack		enemy-commands
+サッドアイ	Triclops	Sad Eye		enemy-commands
+トライン	Trine	Trine		enemy-commands
+トリプルアタック	Triple Attack	Triple Attack		enemy-commands
+熱風	Tropic Wind	Hot Wind	熱風	enemy-commands
+タークス光線	Turk Light	Turks Beam	光線	enemy-commands
+ツインバーナー	Twin Burner	Twin Burner		enemy-commands
+アルテマ	Ultima	Ultima		enemy-commands
+アルテマビーム	Ultima Beam	Ultima Beam		enemy-commands
+超音波	Ultrasound	Supersonic Wave	超音波	enemy-commands
+ソードアッパー	Upper Cutter	Sword Upper		enemy-commands
+アッパーカット	Uppercut	Uppercut		enemy-commands
+バキューム	Vacuum	Vacuum		enemy-commands
+口先アタック	Verbal Attack	Lip Attack	口先	enemy-commands
+暴れる	Violent Advance	Rage	暴	enemy-commands
+サーペントブレス	Viper Breath	Serpent Breath		enemy-commands
+ときのこえ	Voice of Ages	Voice of Time		enemy-commands
+Ｗレーザー	W-Laser	Double Laser		enemy-commands
+Ｗシールド投げ	W-Shield Throw	Double Shield Throw	投	enemy-commands
+ダブルマシンガン	W Machine Gun	Double Machine Gun		enemy-commands
+Ｗロケットパンチ	W Rocket Punch	Double Rocket Punch		enemy-commands
+ウォール	Wall	Wall		enemy-commands
+雄叫び	War Cry	War Cry	雄叫	enemy-commands
+水鉄砲	Water Gun	Water Gun	水鉄砲	enemy-commands
+水波動	Water Wave	Water Surge	水波動	enemy-commands
+水攻め	Waterball	Water Attack	水攻	enemy-commands
+波動	Wave	Surge	波動	enemy-commands
+波動砲	Wave Artillery	Surge Cannon	波動砲	enemy-commands
+ウィリー	Wheelie	Wheelie		enemy-commands
+ウイリーアタック	Wheelie Attack	Wheelie Attack		enemy-commands
+ムチ	Whip	Whip		enemy-commands
+しびれムチ	Whip Sting	Numbing Whip		enemy-commands
+アリ地獄	Whirlsand	Antlion	地獄	enemy-commands
+ホワイトウィンド	White Wind	White Wind		enemy-commands
+ワイドグレイサー	Wide Grazer	Wide Grazer		enemy-commands
+ウィングカッター	Wing Cut	Wing Cutter		enemy-commands
+ウイングカッター	Wing Cutter	Wing Cutter		enemy-commands
+ワイヤアタック	Wire Attack	Wire Attack		enemy-commands
+世界	World	The World	世界	enemy-commands
+リストレーザー	Wrist Laser	Wrist Laser		enemy-commands
+物理攻撃	x	Physical Attack	物理攻撃	enemy-commands
+インパンチ	Ying Punch	Yin Punch		enemy-commands
+いきなり混乱	Zip Confu	Sudden Confusion	混乱	enemy-commands
+いきなりハンマー	Zip Hammer	Sudden Hammer		enemy-commands

@@ -1,0 +1,24 @@
+たたかう 	Attack	Attack		battle-commands
+リミット	Limit	Limit		battle-commands
+まほう 	Magic	Magic		battle-commands
+しょうかん 	Summon	Summon		battle-commands
+アイテム	Item	Item		battle-commands
+ぬすむ 	Steal	Steal		battle-commands
+ぶんどる	Mug	Plunder		battle-commands
+みやぶる	Sense	Uncover		battle-commands
+てきのわざ 	E.Skill	Enemy Skill		battle-commands
+なげる 	Throw	Throw		battle-commands
+ぜになげ	Coin	Coin Throw		battle-commands
+あやつる	Manip.	Manipulate		battle-commands
+ひっさつ 	D.blow	Deathblow		battle-commands
+へんか	Morph	Transform		battle-commands
+れんぞくぎり 	2x-Cut	Continuous Slash		battle-commands
+みだれうち 	4x-Cut	Chaotic Strike		battle-commands
+ぜんたいぎり	Slash-All	Slash All		battle-commands
+いあいぬき	Flash	Iainuki		battle-commands
+ものまね	Mime	Mimic		battle-commands
+チェンジ	Change	Change		battle-commands
+ぼうぎょ	Defend	Defend		battle-commands
+Ｗしょうかん	W-Summon	Double Summon		battle-commands
+Ｗまほう	W-Magic	Double Magic		battle-commands
+Ｗアイテム	W-Item	Double Item		battle-commands

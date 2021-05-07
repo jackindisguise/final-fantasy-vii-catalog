@@ -1,0 +1,26 @@
+睡眠	Sleep	Sleep	睡眠	status-changes
+毒	Poison	Poison	毒	status-changes
+怒り	Fury	Anger	怒	status-changes
+悲しい	Sadness	Sorrow	悲	status-changes
+石化	Petrify	Petrification	石化	status-changes
+徐々に石化	Slow-Numb	Gradual Petrification	徐石化	status-changes
+混乱	Confuse	Confusion	混乱	status-changes
+沈黙	Silence	Silence	沈黙	status-changes
+マヒ	Paralyzed	Paralysis		status-changes
+暗闇	Darkness	Darkness	暗闇	status-changes
+蛙	Frog	Frog	蛙	status-changes
+小	Small	Minimum	小	status-changes
+瀕死	Near-death	Near Death	瀕死	status-changes
+戦闘不能（死）	Death	Unable to Fight (Death)	戦闘不能死	status-changes
+死の宣告	Death‐Sentence	Death Sentence	死宣告	status-changes
+操る	Manipulate	Manipulation	操	status-changes
+闘	Berserk	Berserk	闘	status-changes
+無敵	Peerless	Invincible	無敵	status-changes
+回復	Regen	Recovery	回復	status-changes
+速い	Haste	Fast	速	status-changes
+遅く	Slow	Slow	遅	status-changes
+停止	Stop	Stop	停止	status-changes
+バリア (物的)	Barrier	Barrier (Physical)	物的	status-changes
+バリア (魔法的)	MBarrier	Barrier (Magic)	魔法的	status-changes
+反射	Reflect	Reflection	反射	status-changes
+シールド（防衛）	Shield	Shield (Defense)	防衛	status-changes
