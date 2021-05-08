@@ -1,6 +1,9 @@
 // node packages
 const fs = require("fs");
 
+// local packages
+const xterm = require("./xterm-color");
+
 // local consts
 const inputFolder = "../scene/formatted/";
 const outputFolderNewKanji = "../kanji/new/";
@@ -13,18 +16,24 @@ let kanjiArray = [];
 let kanjiCount = 0;
 
 // read all processed texts and scrape kanji data
-console.log("Scraping kanji from formatted scenes.");
-console.log("");
-console.log("File\t\t\t\t| Unique Kanji\t| New Kanji");
-console.log("----------------------------------------------------------------------------------------------------")
+console.log("Scraping kanji from formatted scenes:");
 fs.readdir(inputFolder, function(err, files){
 	if(err) return;
 	for(let file of files){
+		if(file.indexOf(".txt") === -1) continue;
+		if(file === "combined.txt") continue;
+
+		// read file data
+		let noext = file.substring(0,file.length-4);
+		let num = new Number(noext.substring(0,2));
+		let name = noext.substring("00 - ".length);
+		let data = fs.readFileSync(inputFolder+file, "utf8");
+
+		// collect unique/new kanji
 		let uniqueKanjiInScene = [];
 		let newKanjiInScene = [];
-		let fullPath = inputFolder+file;
-		if(fullPath.indexOf(".txt") === -1) continue;
-		let data = fs.readFileSync(fullPath, "utf8");
+
+		// scrape kanji
 		let kanjiRule = /([\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A])/g;
 		let x = data.match(kanjiRule);
 		if(x) data.match(kanjiRule).forEach(function(value, index, results){
@@ -43,12 +52,9 @@ fs.readdir(inputFolder, function(err, files){
 		let newKanjiFile = outputFolderNewKanji + file;
 		fs.writeFileSync(uniqueKanjiFile, uniqueKanjiInScene.join(""), "utf8");
 		fs.writeFileSync(newKanjiFile, newKanjiInScene.join(""), "utf8");
-		let width = 31;
-		let safe = file;
-		safe = safe.length > width ? safe.substring(0,width-3)+"..." : safe.length < width ? safe + " ".repeat(width-safe.length) : safe;
-		console.log(`${safe}\t| ${uniqueKanjiInScene.length}\t\t| ${newKanjiInScene.length}`)
+		console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET} (${xterm.C.LIME}${newKanjiInScene.length} new kanji${xterm.C.RESET})`);
 	}
 
 	fs.writeFileSync(outputFile, JSON.stringify({unique:kanjiArray.length, total:kanjiCount, table:kanjiArray}, null, "\t"), "utf8");
-	console.log("Kanji table generated!")
+	console.log(`Generated ${outputFile}`);
 });

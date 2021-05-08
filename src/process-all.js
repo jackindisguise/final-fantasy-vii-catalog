@@ -1,6 +1,8 @@
-const { exec } = require("child_process");
 const fs = require("fs");
 const process = require("./process");
+
+// local packages
+const xterm = require("./xterm-color");
 
 // local consts
 const formatted = "../scene/formatted/";
@@ -49,11 +51,10 @@ fs.readdir(formatted, function(err, files){
 		}
 		newLines += lines.length;
 		fs.writeFileSync(target, lines.join("\r\n"), "utf8");
-		console.log(`\t[${num.toString().padStart(2, "0")}] ${name}: ${original.length} lines > ${lines.length} lines (${((lines.length / original.length * 100)).toFixed(2)}% used)`)
+		console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET} (${xterm.C.LIME}${lines.length} / ${original.length} lines${xterm.C.RESET})`);
 	}
+	console.log(`\t[${xterm.C.YELLOW}**${xterm.C.RESET}]: ${xterm.C.PINK}New Lines / Original Lines${xterm.C.RESET} (${xterm.C.LIME}${newLines} / ${originalLines} lines${xterm.C.RESET})`);
 
 	fs.writeFileSync(processed+"combined.txt", combined.join("\r\n"));
 	console.log(`Generated ${processed}combined.txt`);
-	console.log(`Original Lines: ${originalLines}`);
-	console.log(`New Lines: ${newLines} (${(newLines/originalLines*100).toFixed(2)}% used)`);
 });

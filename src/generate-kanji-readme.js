@@ -1,6 +1,9 @@
 // node packages
 const fs = require("fs");
 
+// local packages
+const xterm = require("./xterm-color");
+
 // local consts
 const inputSceneFolder = "../scene/formatted/";
 const inputNewFolder = "../kanji/new/";
@@ -41,17 +44,20 @@ sections.push("# Scenes");
 fs.readdir(inputNewFolder, function(err, files){
 	for(let file of files){
 		if(file.indexOf(".txt") === -1) continue;
+		let noext = file.substring(0,file.length-4);
+		let num = new Number(noext.substring(0,2));
+		let name = noext.substring("00 - ".length);
+
 		let newKanjiData = fs.readFileSync(inputNewFolder+file, "utf8");
 		let nSplit = newKanjiData.split("");
 		let uniqueKanjiData = fs.readFileSync(inputUniqueFolder+file, "utf8");
 		let uSplit = uniqueKanjiData.split("");
 		let sceneData = fs.readFileSync(inputSceneFolder+file, "utf8");
 		let count = 0;
-		sceneData.match(kanjiRule).forEach(function(){ count++; });
-		let sceneNumber = file.substring(0,2);
-		let sceneName = file.substring(5, file.indexOf(".txt"));
+
+		count += sceneData.match(kanjiRule).length;
 		let line = [];
-		line.push(`## ${sceneNumber}: ${sceneName}`);
+		line.push(`## Scene ${num}: ${name}`);
 		if(nSplit.length) {
 			line.push("### New Kanji")
 			line.push(`> ${newKanjiData}`);
@@ -66,6 +72,6 @@ fs.readdir(inputNewFolder, function(err, files){
 	}
 
 	fs.writeFileSync(outputComprehensiveFile, sections.join("\r\n\r\n"), "utf8");
-	console.log(`Kanji README.md generated.`);
+	console.log(`Generated ${outputComprehensiveFile}`);
 });
 

@@ -1,6 +1,9 @@
 // node packages
 const fs = require("fs");
 
+// local packages
+const xterm = require("./xterm-color");
+
 // local consts
 const inputFolder = "../scene/processed/";
 const outputFolder = "../scene/tabulated/";
@@ -11,10 +14,13 @@ fs.readdir(inputFolder, function(err, files){
 	if(err) return;
 	for(let file of files){
 		if(file.indexOf(".txt") === -1) continue;
+		if(file === "combined.txt") continue;
 		let table = [];
 		table.push("| ＃ | English | Japanese |");
 		table.push("|-|-|-|");		
-		let name = file.substring(0, file.length-4);
+		let noext = file.substring(0,file.length-4);
+		let num = new Number(noext.substring(0,2));
+		let name = noext.substring("00 - ".length);
 		let data = fs.readFileSync(inputFolder+file, "utf8");
 		let lines = data.split("\r\n");
 		for(let i=0;i<lines.length;i++){
@@ -27,6 +33,6 @@ fs.readdir(inputFolder, function(err, files){
 
 		let fixedFile = file.substring(0,file.length-4)+".md";
 		fs.writeFileSync(outputFolder+fixedFile, table.join("\r\n"), "utf8");
-		console.log(`\t${file}`)
+		console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET}`);
 	}
 });

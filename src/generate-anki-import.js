@@ -1,6 +1,17 @@
 // node includes
 const fs = require("fs");
 
+// local packages
+const xterm = require("./xterm-color");
+
+// convert file name to title
+function getTitle(name){
+	let split = name.split("-");
+	for(let i=0;i<split.length;i++) split[i] = split[i].substring(0,1).toUpperCase() + split[i].substring(1);
+	if(split[0] === "Materia" && split[1] !== "Categories") split = [split[1], split[0]];
+	return split.join(" ");
+}
+
 // generate scene import files
 {
 	// local consts
@@ -34,7 +45,7 @@ const fs = require("fs");
 			combined.push(format)
 		}
 		fs.writeFileSync(outputDir+file, formatted.join("\r\n"), "utf8");
-		console.log(`\t[${num.toString().padStart(2, "0")}] ${name}`)
+		console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET}`);
 	}
 
 	fs.writeFileSync(outputDir+"combined.txt", combined.join("\r\n"));
@@ -73,7 +84,7 @@ console.log("");
 			combined.push(format)
 		}
 		fs.writeFileSync(outputDir+file, formatted.join("\r\n"), "utf8");
-		console.log(`\t${file}`);
+		console.log(`\t${xterm.C.PINK}${getTitle(noext)}${xterm.C.RESET}`);
 	}
 
 	fs.writeFileSync(outputDir+"combined.txt", combined.join("\r\n"));

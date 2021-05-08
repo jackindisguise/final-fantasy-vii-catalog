@@ -11,7 +11,7 @@
 	"anki": "cd src && node generate-anki-import",
     "meta": "npm run kanji && npm run split && npm run table && npm run anki",
 	"cycle": "npm run process && npm run meta",
-    "release": "npm run meta && standard-version",
+    "release": "npm run cycle && standard-version",
     "release-dry": "standard-version --dry-run"
   },
   "author": "",

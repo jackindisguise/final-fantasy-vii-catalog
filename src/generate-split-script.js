@@ -1,6 +1,9 @@
 // node packages
 const fs = require("fs");
 
+// local packages
+const xterm = require("./xterm-color");
+
 // local consts
 const inputFolder = "../scene/processed/";
 const outputFolderEnglish = "../scene/split/english/";
@@ -18,7 +21,10 @@ fs.readdir(inputFolder, function(err, files){
 	if(err) return;
 	for(let file of files){
 		if(file.indexOf(".txt") === -1) continue;
-		let name = file.substring(0, file.length-4);
+		if(file === "combined.txt") continue;
+		let noext = file.substring(0,file.length-4);
+		let num = new Number(noext.substring(0,2));
+		let name = noext.substring("00 - ".length);
 		let data = fs.readFileSync(inputFolder+file, "utf8");
 		let sourceLines = [];
 		let targetLines = [];
@@ -28,10 +34,6 @@ fs.readdir(inputFolder, function(err, files){
 			let split = line.split("\t");
 			let source = split[0];
 			let target = split[1];
-/*			if(!fs.existsSync(`${outputFolderEnglishLines}${name}/`)) fs.mkdirSync(`${outputFolderEnglishLines}${name}/`);
-			if(!fs.existsSync(`${outputFolderJapaneseLines}${name}/`)) fs.mkdirSync(`${outputFolderJapaneseLines}${name}/`);
-			fs.writeFileSync(`${outputFolderEnglishLines}${name}/${i}.txt`, source, "utf8");
-			fs.writeFileSync(`${outputFolderJapaneseLines}${name}/${i}.txt`, target, "utf8");*/
 			sourceLines.push(source);
 			allSource.push(source);
 			targetLines.push(target);
@@ -40,7 +42,7 @@ fs.readdir(inputFolder, function(err, files){
 
 		fs.writeFileSync(outputFolderEnglish+file, sourceLines.join("\r\n"), "utf8");
 		fs.writeFileSync(outputFolderJapanese+file, targetLines.join("\r\n"), "utf8");
-		console.log(`\t${file}`)
+		console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET}`);
 	}
 
 	fs.writeFileSync(outputFolderEnglish+"combined.txt", allSource.join("\r\n"), "utf8");
