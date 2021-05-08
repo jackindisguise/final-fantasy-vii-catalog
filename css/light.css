@@ -1,13 +1,26 @@
+html{
+	min-height:100%;
+}
+
 body{
 	margin:0px;
 	padding:0px;
-	margin-bottom:50px;
+	min-height:100%;
+	font-size:125%;
+	background-color:#fff;
+}
+
+a{
+	color:rgb(40, 82, 197);
+	text-decoration:none;
+	font-weight:bold;
+}
+
+#collapsed{
 }
 
 #header{
-	background-color:#fff;
-	padding:10px;
-	padding-bottom:0px;
+	padding:5px;
 }
 
 p{
@@ -18,12 +31,16 @@ p:nth-child(n+2){
 	margin-top:10px;
 }
 
+#content{
+}
+
+
 .section{
 	display:inline-block;
-	background-color:rgba(255,255,255,0.9);
+	text-align:left;
+	background-color:rgba(255,255,255, 0.9);
 	padding:10px;
-	padding-bottom:0px;
-	border-radius:20px;
+	margin-top:10px;
 }
 
 .section .section{
@@ -41,15 +58,18 @@ p:nth-child(n+2){
 	padding-left:10px;
 }
 
+.section .content .section{
+	padding:0px;
+}
+
 #title{
 	font-size:150%;
 	font-weight:bold;
 }
 
 #navigation{
+	padding:5px;
 	text-transform:lowercase;
-	padding:10px;
-	padding-bottom:0px;
 }
 
 #content{
@@ -81,6 +101,7 @@ p:nth-child(n+2){
 }
 
 table{
+	width:100%;
 	border-spacing: 0px;
     border-collapse: separate;
 }
@@ -134,10 +155,6 @@ table{
 	margin-bottom:0px;
 }
 
-.kanji{
-	font-size:100%;
-}
-
 ul{
 	text-align:left;
 	margin:0px;
@@ -153,29 +170,25 @@ table#vocabulary{
 	text-align:center;
 }
 
-#vocabulary th.def{
-	text-align:left;
+#vocabulary td{
+	text-align:center;
+	padding:10px;
 }
 
-#vocabulary td.word{
-	width:150px;
-	font-size:100%;
-	text-align:center;
+#vocabulary td.kanji{
+	width:100px;
+}
+
+#vocabulary td.reading{
+	width:100px;
 }
 
 #vocabulary .pos{
 	width:100px;
-	text-align:center;
 }
 
 #vocabulary .def{
-}
-
-#vocabulary td{
-	vertical-align:top;
 	text-align:left;
-	padding:10px;
-	margin:0px;
 }
 
 table tr:nth-child(even) td{
@@ -186,10 +199,7 @@ table tr:nth-child(even) td{
 	padding:15px;
 }
 
-.misc .header{
-}
-
-.misc td{
+.misc td, .misc th{
 	text-align:center;
 }
 
