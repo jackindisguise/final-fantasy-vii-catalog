@@ -98,7 +98,6 @@
 ダイン	Dyne	Dyne		bosses
 エメラルドウェポン	Emerald Weapon	Emerald Weapon		bosses
 目	Eye	Eye	目	bosses
-目	Eye	Eye	目	bosses
 ギ・ナタタク	Gi Nattak	Gi Natatak		bosses
 ゴドー	Godo	Godot		bosses
 ゴーリキー	Gorkii	Gorky		bosses
@@ -112,8 +111,8 @@
 ジェノバ・ＬＩＦＥ	Jenova∙LIFE	Jenova: LIFE		bosses
 ジェノバ・ＤＥＡＴＨ	Jenova∙DEATH	Jenova: DEATH		bosses
 ジェノバ・ＳＹＮＴＨＥＳＩＳ	Jenova∙SYNTHESIS	Jenova: SYNTHESIS		bosses
-左腕	Left Arm	Left Arm	左腕	bosses
-左腕	Left Arm	Left Arm	左腕	bosses
+左腕	Left Arm (Helletic Hojo)	Left Arm	左腕	bosses
+左腕	Left Arm (Carry Armor)	Left Arm	左腕	bosses
 極限生命体宝条ＮＡ	Lifeform-Hojo N	Extreme Lifeform Hojo NA	極限生命体宝条	bosses
 ロストナンバー	Lost Number	Lost Number		bosses
 マテリアキーパー	Materia Keeper	Materia Keeper		bosses
@@ -122,8 +121,8 @@
 プラウド・クラッド	Proud Clod	Proudclad		bosses
 ラプス	Rapps	Rapsu		bosses
 レッドドラゴン	Red Dragon	Red Dragon		bosses
-右腕	Right Arm	Right Arm	右腕	bosses
-右腕	Right Arm	Right Arm	右腕	bosses
+右腕	Right Arm (Helletic Hojo)	Right Arm	右腕	bosses
+右腕	Right Arm (Carry Armor)	Right Arm	右腕	bosses
 ルビーウェポン	Ruby Weapon	Ruby Weapon		bosses
 触手	Ruby's Tentacle	Tentacle	触手	bosses
 ルーファウス	Rufus	Rufus		bosses
@@ -363,15 +362,6 @@
 スイーパー	Sweeper	Sweeper		enemies
 ソードダンス	Sword Dance	Sword Dance		enemies
 尾跳飛	Tail Vault	Tail Leap	尾跳飛	enemies
-テスト０（ガードハウンド）	êúô0(äñ)	Test 0 (Guard Hound)		enemies
-テスト１（戦闘員）	êúô1()	Test 1 (Combatant)	戦闘員	enemies
-テスト２（ディーングロウ）	êúô2(ñ)	Test 2 (Deenglow)		enemies
-テスト４（ヘッジホックパイ）	êúô4(ëöù)	Test 4 (Hedgehog Pie)		enemies
-テスト５（サーペント）	êúô5(áñô)	Test 5 (Serpent)		enemies
-テスト６（アダマンタイマイ）	êúô6(ñȃ)	Test 6 (Adamantaimai)		enemies
-テスト７（グロスパンッアーＡ）	êúô7(úñA)	Test 7 (Grosspanzer A)		enemies
-テスト８（グロスパンッアーＢ）	êúô8(úñB)	Test 8 (Grosspanzer B)		enemies
-テスト９（グロスパンッアーＣ）	êúô9(úñC)	Test 9 (Grosspanzer C)		enemies
 雷神鳥	Thunderbird	Raijin Bird	雷神鳥	enemies
 トーンアドゥ	Tonadu	Tornade		enemies
 トンベリ	Tonberry	Tonberry		enemies

@@ -410,14 +410,14 @@
 | 408 | Let's just get some sleep | とりあえず眠っておこう |
 | 409 | Psst (Can we get out?) | ヒソヒソ（逃げられるかな？） |
 | 410 | Psst (CLOUD, you're so brave!) | ヒソヒソ（CLOUD、たのもしい！） |
-| 411 | Psst (Don't give up!) | “ヒソヒソ(弱気にならないでよ！ |
+| 411 | Psst (Don't give up!) | ヒソヒソ(弱気にならないでよ！ |
 | 412 | Hey! | おい |
 | 413 | AERIS is an Ancient and the real name of the Ancients is Cetra. | AERISは古代種で 古代種の本当の呼び名はセトラ |
 | 414 | The Ancients know where the Promised Land is and the Shinra is searching for that Promised Land. | それで古代種は約束の地って場所を知っていて、神羅はその約束の地が欲しい、と |
 | 415 | I only heard stories 'bout the Promised Land. I don't know if it really exists. | でも、約束の地ってのは 言い伝えに出てくるだけで 本当にあるのかどうかはわからねえ |
 | 416 | Is that right? | これでいいのか？ |
 | 417 | The Shinra believe that the Promised Land is full of Mako energy. | 約束の地には豊富な魔晄エネルギーがあると 神羅の連中は考えてる |
-| 418 | Which means, if the Shinra get there, they'll suck up all the Mako energy. | ってえことは、神羅はそこに行ったら また魔晄エネルギーをガンガン吸い上げちまうってことだ.” |
+| 418 | Which means, if the Shinra get there, they'll suck up all the Mako energy. | ってえことは、神羅はそこに行ったら また魔晄エネルギーをガンガン吸い上げちまうってことだ. |
 | 419 | …and the land'll wither away. The Planet's gonna get weaker. | ……そこも土地が枯れちまうな。星が……病んでいくわけだ |
 | 420 | I can't just leave 'em be. I'm recruitin'new members!! | 放っちゃおけねえ！ アバランチ、メンバー募集だ |
 | 421 | Me, TIFA, CLOUD… and AERIS too. | オレ、TIFA、CLOUD…… それにAERISもだな |
@@ -517,110 +517,111 @@
 | 515 | But, I do things differently. | だが私のやりかたはちがう |
 | 516 | I'll control the world with fear. It's too much to do it like my old man. | 私は世界を恐怖で支配する。オヤジのやりかたでは金がかかりすぎるからな |
 | 517 | A little fear will control the minds of the common people. There's no reason to waste good money on them. | 恐怖はほんの少しで人の心を支配する。おろかな民衆のために金を使う必要はない |
-| 518 | He likes to make speeches just like his father. | 私はオヤジとはちがうのだ |
-| 519 | Get AERIS outta the building! | 演説好きなところはそっくりね |
-| 520 | What? | AERISを連れてビルから出てくれ！ |
-| 521 | The hell's that supposed to mean? | 説明はあとだ！BARRET！　本当の星の危機だ！ |
-| 522 | I'll explain later! Just take my word for now! I'll go after I take care of him! | なんだそりゃ？ |
-| 523 | Alright, CLOUD! | あとで話す！いまは俺を信じてくれ！俺はこいつを倒してから行く！ |
-| 524 | Rufus | わかったぜ、CLOUD！ |
-| 525 | You want the Promised Land and Sephiroth. | なぜ私と戦うのだ？ |
-| 526 | Rufus | おまえは約束の地を求めてセフィロスを追う |
-| 527 | Rufus | ふむ、その通り |
-| 528 | …Whatever, I can't let either you or Sephiroth have the Promised Land! | ん？　おまえ、セフィロスが古代種だと知っているのか？ |
-| 529 | Rufus | ……いろいろあってな。とにかく、おまえにもセフィロスにも約束の地はわたせない！ |
-| 530 | Access Menu with [MENU] | なるほど。友だちにはなれないようだな |
-| 531 | Remove Materia from members with [SWITCH] | 【△ボタン】でメニューをひらく |
-| 532 | End with [START]. | 【□ボタン】で他のメンバーのマテリアをはずす |
-| 533 | Access Menu with [MENU] | 【スタートボタン】で終了 |
-| 534 | I couldn't finish 'em. This is gonna get complicated. | ルーファウスは？ |
-| 535 | CLOUD… I just thought of something. | とどめはさせなかった。面倒なことになりそうだ |
-| 536 | …I'll wait for CLOUD! Everyone, get to the elevator! | CLOUD、なんか、思いつめてた |
-| 537 | Hmm, it's going to get pretty ugly from here on. We should check on our equipment. | ……私、CLOUDを待つわ！みんなはエレベーターで先に！ |
-| 538 | CLOUD and | さあ、この先きっとガードがきびしくなるわ。装備をととのえておいたほうがいいわね |
-| 539 | TIFA's Materia… | CLOUD、TIFAのマテリアを…… |
-| 540 | (Remove) | 【はずす】 |
-| 541 | (Leave it) | 【そのまま】 |
-| 542 | Shinra Bldg. 3f. Lobby | 神羅ビル・３階ロビー |
-| 543 | Hardy Datona | ハーディ＝デイトナ |
-| 544 | Quickly, we have to get out of here… | はやく、ここから逃げなくちゃ…… |
-| 545 | Shinra Bldg. 2f. Lobby | 神羅ビル・２階ロビー |
-| 546 | I'll go on ahead! | オレが先に行くぜ！ |
-| 547 | *&^%(*… We're surrounded! | チッ……！すっかりかこまれてやがる |
-| 548 | If I was alone this wouldn't be a thing, but I gotta reputation to protect. | オレひとりならともかくこのメンツじゃ…… |
-| 549 | You all get out while you can. | ……やっぱり、あなたたちだけ逃げて |
-| 550 | It's not you they're after… it's me. | あの人たちがねらっているのはわたし。あなたたちだけなら…… |
-| 551 | Yeah, well that ain't happenin'. | ヘッ、そうはいかねえな |
-| 552 | You got caught up in this over Marlene. Now, it's my turn to help you! | アンタはマリンを守るためにヤツらに捕まった。今度は、オレがアンタを守る番だ |
-| 553 | OK, playtime's over jackasses… | これ以上ヤツらの……神羅の好き勝手にはさせねえ |
-| 554 | …Thank you, Mr. BARRET! | ……ありがと、BARRETさん |
-| 555 | Who you callin' Mr. BARRET? That don't sound right! | へヘッ、よしてくれよ。『BARRETさん』なんてオレのガラじゃねえや |
-| 556 | Well then… | ……さて |
-| 557 | If you are through talking, may I suggest that we think of a way to get out of here. | キミたちの話が終わったならそろそろここから逃げ出す方法を考えてみないか？ |
-| 558 | Huh? Oh, oh yeah… You're cold, man. Just like someone else 'round here I know. | ん？あ、ああ……チェッ、いやに冷静なやつだな。どこかの誰かさんみたいだぜ |
-| 559 | Did you say something? | なにか？ |
-| 560 | Notta thing. So what're we gonna do? | いや、なんでもねえよ。さて、どうするか…… |
-| 561 | TIFA! Where's CLOUD? | TIFA！CLOUDは！？ |
-| 562 | Everyone! Over here! | みんな、こっち！ |
-| 563 | Huh? What's up? Where's CLOUD? | ええ！？どうしたんだよ？CLOUDは？ |
-| 564 | He's coming! Hurry, Hurry!! | 話は後！いいから早く！！ |
-| 565 | Nope. Have to find another way up, I guess… | 反応がない……他のルートを探さなければ…… |
-| 566 | [the movie continues] | ムービーへ続くのだ！ |
-| 567 | [Shinra S-27] | 『　神羅　　Ｓー２７式　』 |
-| 568 | [Shinra PA-86] | 『　神羅　　ＰＡー８６式　』 |
-| 569 | [Shinra S-510] | 『　神羅　　Ｓー５１０式　』 |
-| 570 | [Shinra SA-37] | 『　神羅　　ＳＡー３７式　』 |
-| 571 | Turtle's Paradise Newsletter No. 2 The end of another hard day. Wouldn't you like to sit back with a tall cool one? You can at the Turtle's Paradise!! Stop in today! There's nothing like a smooth one after work! | 【かめ道楽　通信】ナンバー２きびしい仕事でおつかれのアナタ……ぜひいちど居酒屋『かめ道楽』へ！！仕事の後の一杯は最高ですよ！ |
-| 572 | Our slogan is: Shinra's Future Is The World's Future!! Mako Energy For A Brighter World!! | 今週の標語神羅の未来は世界の未来！！魔晄の光で明るい世の中！！ |
-| 573 | Until instructed, please don't open the disc holder. | 指示があるまで、ディスクホルダーを開けないで下さい |
-| 574 | Control the bike with the [Directional buttons] and save your friends in the truck from the Shinra pursuit troops. | バイクを【方向キー】で操作して神羅の追撃隊から仲間の乗るトラックを守って下さい |
-| 575 | [OK] | ○ボタン |
-| 576 | Attack on right | 右の敵を攻撃する |
-| 577 | [SWITCH] | □ボタン |
-| 578 | Attack on left | 左の敵を攻撃する |
-| 579 | [MENU]Menu | △ボタン　　　メニュー |
-| 580 | [CANCEL]Form Party | ×ボタン　　　パーティ編成 |
-| 581 | [START]Start Game | スタートボタン　　ゲーム開始 |
-| 582 | Well, what do we do now? | さて、どうするよ？ |
-| 583 | Sephiroth is alive. …I have to settle the score. | セフィロスは生きている。俺は……あのときの決着をつけなくてはならない |
-| 584 | Will that save the Planet? | それが星を救うことになるんだな？ |
-| 585 | …It seems so. | ……おそらく、な |
-| 586 | Then, I'm going! | おっし、オレは行くぜ！ |
-| 587 | I'll go, too. There are things I need to know. | わたしも、行く。……知りたいこと、あるから |
-| 588 | About the Ancients? | 古代種のことか？ |
-| 589 | …Many things. | ……いろいろ、たくさん |
-| 590 | I guess it's good bye, Midgar. | さらばミッドガル、ね |
-| 591 | We told AERIS's mom to go somewhere safe, so Marlene should be safe, too. | AERISのおふくろさんには安全な場所に移るようにって言っといたからマリンも安全だな |
-| 592 | Hmm, I don't know | さ～て、どうかな |
-| 593 | She said she didn't want to stay in Midgar anymore. …Maybe it's for the best. | もう、ミッドガルはイヤだって言ってた……ちょうど良かったかな |
-| 594 | Stop it, CLOUD! I'm worried, too. | やめてよ、CLOUD！わたしだって心配なんだから |
-| 595 | You know what? This is the first time I've ever left Midgar… | そういえば、わたしミッドガル出るの、初めて…… |
-| 596 | Really? Are you worried? | そうか……不安か？ |
-| 597 | It's dangerous. Are you sure you want to go? | 危険だぞ、いいのか？ |
-| 598 | A little…no, maybe a lot. But I have a bodyguard, right? | ちょっと、う～ん、かなり、かな。でも、なんでも屋さんがいっしょだし、ね？ |
-| 599 | I thought you'd say that! | 言うと思った！ |
-| 600 | …I guess this is the start of our journey… | ……旅がはじまるのね |
-| 601 | You hate traveling? | 旅はきらいか？ |
-| 602 | …I don't know. But, I don't have anywhere else to go. So I guess it doesn't really matter whether I like to travel or not. | ……どうかな。でも、もう帰るところないもの。旅が好きとかキライとか関係ないわ |
-| 603 | …Hmm. But you know, it should be all right if you keep your promise. | ……う～ん。でもほら、CLOUDが約束守ってくれればだいじょうぶよね、きっと |
-| 604 | I'm going back to my hometown. I'll go with you as far as that. | 私は故郷に帰るつもりだ。それまではいっしょに行ってやる |
-| 605 | Let's stay here for a while | もう少しここにいよう |
-| 606 | Let's go! | 行こうか！ |
-| 607 | To the Northeast, there's a town called Kalm. | ここから北東に行くとカームって町があるんだ |
-| 608 | The food at the Inn's good. Why don't we head there first? | 宿屋のメシがうまくてなあ。とりあえずそこに行かねえか？ |
-| 609 | You're right. I've heard about that town before. CLOUD? | そうね。聞きたいこと、いろいろあるしね。CLOUD？ |
-| 610 | About Sephiroth, and about the crisis of the Planet… | セフィロスのこと、そして星の危機…… |
-| 611 | You're right. We need to know where Sephiroth went. | そうだな。セフィロスの行方の情報も必要だからな |
-| 612 | We need a leader for our journey. Course that could only be me. | ここから先団体行動にはリーダーが必要だ。リーダーといえばオレしかいねえ |
-| 613 | You think so? | そうかしら…… |
-| 614 | I think it should be CLOUD. | どう考えてもCLOUD、よね |
-| 615 | ^#$^%…alright. Go Northeast to a town called Kalm. If something happens, we'll meet up there. | チッ…………わかったよ。ここから【北東にカームって町】があるんだ。何かあったらそこを集合場所にしよう |
-| 616 | 'Sides, we can't have five people strolling around out there. It's too dangerous. Let's split into two parties… | それにしたって野っ原を５人でゾロゾロ歩くなんて危なくてしょうがねえ。おまえ、パーティーを２組に分けてみろ |
-| 617 | Change with [CANCEL], | 【キャンセルボタン】でパーティチェンジ |
-| 618 | …That's an unexpected | ……予想外の |
-| 619 | …combination. | ……組み合わせ |
-| 620 | Well, have fun…boys. | まあ、男同士、楽しくやりなさい |
-| 621 | We'll see you at Kalm! | それじゃあ、カームで！ |
-| 622 | …Thought you'd do that. | ……やると思ったぜ |
-| 623 | Later, at Kalm! | じゃあ、カームでな！ |
-| 624 | That's funny…I dropped the key to this gate…somewhere. Must've been on that excavation tour. | おっかしいな？このゲートのカギ……どこかに落としたかな？この前のハックツ・ツアーの最中かな？ |
+| 518 | (!) I'm different from my father. (!) | 私はオヤジとはちがうのだ |
+| 519 | He likes to make speeches just like his father. | 演説好きなところはそっくりね |
+| 520 | Get AERIS outta the building! | AERISを連れてビルから出てくれ！ |
+| 521 | I'll explain later! BARRET! This is the real crisis for the Planet! | 説明はあとだ！BARRET！　本当の星の危機だ！ |
+| 522 | The hell's that supposed to mean? | なんだそりゃ？ |
+| 523 | I'll explain later! Just take my word for now! I'll go after I take care of him! | あとで話す！いまは俺を信じてくれ！俺はこいつを倒してから行く！ |
+| 524 | Alright, CLOUD! | わかったぜ、CLOUD！ |
+| 525 | Why do you want to fight me? | なぜ私と戦うのだ？ |
+| 526 | You want the Promised Land and Sephiroth. | おまえは約束の地を求めてセフィロスを追う |
+| 527 | That's right. | ふむ、その通り |
+| 528 | Did you know that Sephiroth is an Ancient? | ん？　おまえ、セフィロスが古代種だと知っているのか？ |
+| 529 | …Whatever, I can't let either you or Sephiroth have the Promised Land! | ……いろいろあってな。とにかく、おまえにもセフィロスにも約束の地はわたせない！ |
+| 530 | I see. I guess we won't be allies. | なるほど。友だちにはなれないようだな |
+| 531 | Access Menu with [MENU] | 【△ボタン】でメニューをひらく |
+| 532 | Remove Materia from members with [SWITCH] | 【□ボタン】で他のメンバーのマテリアをはずす |
+| 533 | End with [START]. | 【スタートボタン】で終了 |
+| 534 | Where's Rufus? | ルーファウスは？ |
+| 535 | I couldn't finish 'em. This is gonna get complicated. | とどめはさせなかった。面倒なことになりそうだ |
+| 536 | CLOUD… I just thought of something. | CLOUD、なんか、思いつめてた |
+| 537 | …I'll wait for CLOUD! Everyone, get to the elevator! | ……私、CLOUDを待つわ！みんなはエレベーターで先に！ |
+| 538 | Hmm, it's going to get pretty ugly from here on. We should check on our equipment. | さあ、この先きっとガードがきびしくなるわ。装備をととのえておいたほうがいいわね |
+| 539 | CLOUD and | CLOUD、TIFAのマテリアを…… |
+| 540 | TIFA's Materia… | 【はずす】 |
+| 541 | (Remove) | 【そのまま】 |
+| 542 | (Leave it) | 神羅ビル・３階ロビー |
+| 543 | Shinra Bldg. 3f. Lobby | ハーディ＝デイトナ |
+| 544 | Hardy Datona | はやく、ここから逃げなくちゃ…… |
+| 545 | Quickly, we have to get out of here… | 神羅ビル・２階ロビー |
+| 546 | Quickly, we can escape this way… | オレが先に行くぜ！ |
+| 547 | I'll go on ahead! | チッ……！すっかりかこまれてやがる |
+| 548 | *&^%(*… We're surrounded! | オレひとりならともかくこのメンツじゃ…… |
+| 549 | If I was alone this wouldn't be a thing, but I gotta reputation to protect. | ……やっぱり、あなたたちだけ逃げて |
+| 550 | You all get out while you can. | あの人たちがねらっているのはわたし。あなたたちだけなら…… |
+| 551 | It's not you they're after… it's me. | ヘッ、そうはいかねえな |
+| 552 | Yeah, well that ain't happenin'. | アンタはマリンを守るためにヤツらに捕まった。今度は、オレがアンタを守る番だ |
+| 553 | You got caught up in this over Marlene. Now, it's my turn to help you! | これ以上ヤツらの……神羅の好き勝手にはさせねえ |
+| 554 | OK, playtime's over jackasses… | ……ありがと、BARRETさん |
+| 555 | …Thank you, Mr. BARRET! | へヘッ、よしてくれよ。『BARRETさん』なんてオレのガラじゃねえや |
+| 556 | Who you callin' Mr. BARRET? That don't sound right! | ……さて |
+| 557 | Well then… | キミたちの話が終わったならそろそろここから逃げ出す方法を考えてみないか？ |
+| 558 | If you are through talking, may I suggest that we think of a way to get out of here. | ん？あ、ああ……チェッ、いやに冷静なやつだな。どこかの誰かさんみたいだぜ |
+| 559 | Huh? Oh, oh yeah… You're cold, man. Just like someone else 'round here I know. | なにか？ |
+| 560 | Did you say something? | いや、なんでもねえよ。さて、どうするか…… |
+| 561 | BARRET!! | TIFA！CLOUDは！？ |
+| 562 | TIFA! Where's CLOUD? | みんな、こっち！ |
+| 563 | Everyone! Over here! | ええ！？どうしたんだよ？CLOUDは？ |
+| 564 | Huh? What's up? Where's CLOUD? | 話は後！いいから早く！！ |
+| 565 | Quickly! We'll escape this way… | 反応がない……他のルートを探さなければ…… |
+| 566 | Nope. Have to find another way up, I guess… | ムービーへ続くのだ！ |
+| 567 | [the movie continues] | 『　神羅　　Ｓー２７式　』 |
+| 568 | [Shinra S-27] | 『　神羅　　ＰＡー８６式　』 |
+| 569 | [Shinra PA-86] | 『　神羅　　Ｓー５１０式　』 |
+| 570 | [Shinra S-510] | 『　神羅　　ＳＡー３７式　』 |
+| 571 | [Shinra SA-37] | 【かめ道楽　通信】ナンバー２きびしい仕事でおつかれのアナタ……ぜひいちど居酒屋『かめ道楽』へ！！仕事の後の一杯は最高ですよ！ |
+| 572 | Shinra, Inc. | 今週の標語神羅の未来は世界の未来！！魔晄の光で明るい世の中！！ |
+| 573 | Our slogan is: Shinra's Future Is The World's Future!! Mako Energy For A Brighter World!! | 指示があるまで、ディスクホルダーを開けないで下さい |
+| 574 | Until instructed, please don't open the disc holder. | バイクを【方向キー】で操作して神羅の追撃隊から仲間の乗るトラックを守って下さい |
+| 575 | Control the bike with the [Directional buttons] and save your friends in the truck from the Shinra pursuit troops. | ○ボタン |
+| 576 | [OK] | 右の敵を攻撃する |
+| 577 | Attack on right | □ボタン |
+| 578 | [SWITCH] | 左の敵を攻撃する |
+| 579 | Attack on left | △ボタン　　　メニュー |
+| 580 | [MENU]Menu | ×ボタン　　　パーティ編成 |
+| 581 | [CANCEL]Form Party | スタートボタン　　ゲーム開始 |
+| 582 | [START]Start Game | さて、どうするよ？ |
+| 583 | Well, what do we do now? | セフィロスは生きている。俺は……あのときの決着をつけなくてはならない |
+| 584 | Sephiroth is alive. …I have to settle the score. | それが星を救うことになるんだな？ |
+| 585 | Will that save the Planet? | ……おそらく、な |
+| 586 | …It seems so. | おっし、オレは行くぜ！ |
+| 587 | Then, I'm going! | わたしも、行く。……知りたいこと、あるから |
+| 588 | I'll go, too. There are things I need to know. | 古代種のことか？ |
+| 589 | About the Ancients? | ……いろいろ、たくさん |
+| 590 | …Many things. | さらばミッドガル、ね |
+| 591 | I guess it's good bye, Midgar. | AERISのおふくろさんには安全な場所に移るようにって言っといたからマリンも安全だな |
+| 592 | Yeah, she should be | さ～て、どうかな |
+| 593 | Hmm, I don't know | もう、ミッドガルはイヤだって言ってた……ちょうど良かったかな |
+| 594 | She said she didn't want to stay in Midgar anymore. …Maybe it's for the best. | やめてよ、CLOUD！わたしだって心配なんだから |
+| 595 | Stop it, CLOUD! I'm worried, too. | そういえば、わたしミッドガル出るの、初めて…… |
+| 596 | You know what? This is the first time I've ever left Midgar… | そうか……不安か？ |
+| 597 | Really? Are you worried? | 危険だぞ、いいのか？ |
+| 598 | It's dangerous. Are you sure you want to go? | ちょっと、う～ん、かなり、かな。でも、なんでも屋さんがいっしょだし、ね？ |
+| 599 | A little…no, maybe a lot. But I have a bodyguard, right? | 言うと思った！ |
+| 600 | I thought you'd say that! | ……旅がはじまるのね |
+| 601 | …I guess this is the start of our journey… | 旅はきらいか？ |
+| 602 | It's dangerous. You sure you want to go? | ……どうかな。でも、もう帰るところないもの。旅が好きとかキライとか関係ないわ |
+| 603 | …I don't know. But, I don't have anywhere else to go. So I guess it doesn't really matter whether I like to travel or not. | ……う～ん。でもほら、CLOUDが約束守ってくれればだいじょうぶよね、きっと |
+| 604 | …Hmm. But you know, it should be all right if you keep your promise. | 私は故郷に帰るつもりだ。それまではいっしょに行ってやる |
+| 605 | Then… | もう少しここにいよう |
+| 606 | Let's stay here for a while | 行こうか！ |
+| 607 | Let's go! | ここから北東に行くとカームって町があるんだ |
+| 608 | To the Northeast, there's a town called Kalm. | 宿屋のメシがうまくてなあ。とりあえずそこに行かねえか？ |
+| 609 | The food at the Inn's good. Why don't we head there first? | そうね。聞きたいこと、いろいろあるしね。CLOUD？ |
+| 610 | You're right. I've heard about that town before. CLOUD? | セフィロスのこと、そして星の危機…… |
+| 611 | About Sephiroth, and about the crisis of the Planet… | そうだな。セフィロスの行方の情報も必要だからな |
+| 612 | You're right. We need to know where Sephiroth went. | ここから先団体行動にはリーダーが必要だ。リーダーといえばオレしかいねえ |
+| 613 | We need a leader for our journey. Course that could only be me. | そうかしら…… |
+| 614 | You think so? | どう考えてもCLOUD、よね |
+| 615 | I think it should be CLOUD. | チッ…………わかったよ。ここから【北東にカームって町】があるんだ。何かあったらそこを集合場所にしよう |
+| 616 | ^#$^%…alright. Go Northeast to a town called Kalm. If something happens, we'll meet up there. | それにしたって野っ原を５人でゾロゾロ歩くなんて危なくてしょうがねえ。おまえ、パーティーを２組に分けてみろ |
+| 617 | Access Menu with [MENU], | 【キャンセルボタン】でパーティチェンジ |
+| 618 | End with [SELECT], | ……予想外の |
+| 619 | …That's an unexpected | ……組み合わせ |
+| 620 | …combination. | まあ、男同士、楽しくやりなさい |
+| 621 | Well, have fun…boys. | それじゃあ、カームで！ |
+| 622 | We'll see you at Kalm! | ……やると思ったぜ |
+| 623 | …Thought you'd do that. | じゃあ、カームでな！ |
+| 624 | Later, at Kalm! | おっかしいな？このゲートのカギ……どこかに落としたかな？この前のハックツ・ツアーの最中かな？ |
+| 625 | That's funny…I dropped the key to this gate…somewhere. Must've been on that excavation tour. | undefined |

@@ -10,7 +10,6 @@
 ダイン	Dyne	Dyne		bosses
 エメラルドウェポン	Emerald Weapon	Emerald Weapon		bosses
 目	Eye	Eye	目	bosses
-目	Eye	Eye	目	bosses
 ギ・ナタタク	Gi Nattak	Gi Natatak		bosses
 ゴドー	Godo	Godot		bosses
 ゴーリキー	Gorkii	Gorky		bosses
@@ -24,8 +23,8 @@
 ジェノバ・ＬＩＦＥ	Jenova∙LIFE	Jenova: LIFE		bosses
 ジェノバ・ＤＥＡＴＨ	Jenova∙DEATH	Jenova: DEATH		bosses
 ジェノバ・ＳＹＮＴＨＥＳＩＳ	Jenova∙SYNTHESIS	Jenova: SYNTHESIS		bosses
-左腕	Left Arm	Left Arm	左腕	bosses
-左腕	Left Arm	Left Arm	左腕	bosses
+左腕	Left Arm (Helletic Hojo)	Left Arm	左腕	bosses
+左腕	Left Arm (Carry Armor)	Left Arm	左腕	bosses
 極限生命体宝条ＮＡ	Lifeform-Hojo N	Extreme Lifeform Hojo NA	極限生命体宝条	bosses
 ロストナンバー	Lost Number	Lost Number		bosses
 マテリアキーパー	Materia Keeper	Materia Keeper		bosses
@@ -34,8 +33,8 @@
 プラウド・クラッド	Proud Clod	Proudclad		bosses
 ラプス	Rapps	Rapsu		bosses
 レッドドラゴン	Red Dragon	Red Dragon		bosses
-右腕	Right Arm	Right Arm	右腕	bosses
-右腕	Right Arm	Right Arm	右腕	bosses
+右腕	Right Arm (Helletic Hojo)	Right Arm	右腕	bosses
+右腕	Right Arm (Carry Armor)	Right Arm	右腕	bosses
 ルビーウェポン	Ruby Weapon	Ruby Weapon		bosses
 触手	Ruby's Tentacle	Tentacle	触手	bosses
 ルーファウス	Rufus	Rufus		bosses
