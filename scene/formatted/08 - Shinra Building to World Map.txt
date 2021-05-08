@@ -584,8 +584,8 @@ CLOUD	CLOUD
 “What is this…a Megaphone?”	「何だこれ……メガホン？」
 “Hanging on to	「こんなもの持っていっても
 this won't do any good…”	しょうがないな」
-Locked…	カギがかかっている……　　
-There's nothing inside…	中にはなにもない……　　
+Locked…	カギがかかっている……
+There's nothing inside…	中にはなにもない……
 Out of Order	故障中です
 Please use a different floor	他の階をご利用下さい
 Shinra Company Repair Management Department	神羅カンパニー修理課
@@ -639,7 +639,7 @@ will be complete.”	野望も完全なものとなる」
 “That must be why he took	「その野望のために
 “Is it just me or does the	「関係ないけどよ。
 Conference Room smell?	あの会議室って、何か臭くないか？
-There's some sort of stench	どこかから臭ってくるんだよな…… 
+There's some sort of stench	どこかから臭ってくるんだよな……
 coming from somewhere…”	
 “It gives me the feeling that I AM alive.	「なんかこう、生きがいって
 The feeling of moving this world,	ものを感じるよな。
@@ -658,10 +658,10 @@ I guess that's the benefit of being a secretary!”	それがOLの特権ね！�
 ……………………	……………………
 Phew!”	………………ふう」
 BARRET	BARRET
-“Geez--!	「ヒュ～！ 
+“Geez--!	「ヒュ～！
 That's a lotta suits!”	そうそうたる顔ぶれだぜ」
 Reeve	Reeve
-“We have the damage estimates for Sector 7.”	「７番街の被害報告が出ました」　
+“We have the damage estimates for Sector 7.”	「７番街の被害報告が出ました」
 “Considering those factories we already set up	「すでに稼動していた工場部分と
 and all the investments,	現在までの投資額を考えると
 the damage is estimated	我が社の損害は
@@ -675,7 +675,7 @@ Reeve	リーブ
 “What?”	「は？」
 President Shinra	プレジデント神羅
 “We're leaving Sector 7 as it is.”	「７番プレートはこのまま放っておく」
-“And restarting the Neo-Midgar plan.”	「そのかわりに 
+“And restarting the Neo-Midgar plan.”	「そのかわりに
 	ネオ・ミッドガル計画を再開する」
 Reeve	リーブ
 “…then the Ancients?”	「……では、古代種が？」
@@ -687,7 +687,7 @@ President Shinra	プレジデント神羅
 15% in every area.”	15％値上げしたまえ」
 Palmer	パルマー
 “Rate hike! Rate hike!	「値上げ値上げ！
-Tra, la, la!	うひょひょひょひょ！ 
+Tra, la, la!	うひょひょひょひょ！
 And please include our Space Program	ぜひ我が宇宙開発部にも予算を！」
 in the budget!”	
 President Shinra	プレジデント神羅
@@ -733,7 +733,7 @@ Hojo	宝条
 Then we could create one that could withstand	しかも、長命で実験に耐えうる
 our research for a long time.”	強さを持たせることができる」
 President Shinra	プレジデント神羅
-“What about the Promised Land?	「約束はどうなる？ 
+“What about the Promised Land?	「約束はどうなる？
 Won't it hinder our plans?”	計画に支障はでないのか？」
 Hojo	Hojo
 “That's what I need to plan.	「……そのつもりだ。
@@ -880,7 +880,7 @@ TIFA	TIFA
 “I'll talk as much as you want later, Miss.”	「あとでいくらでもしゃべってやるよ、おじょうさん」
 CLOUD	CLOUD
 “We'll take care of that monster.”	「あの化け物は俺たちがかたづける」
-“Somebody take AERIS	「７番街の被害報告が出ました」　
+“Somebody take AERIS	「７番街の被害報告が出ました」
 somewhere safe…”	
 TIFA, I'm countin' on you!	TIFA, I'm countin' on you!
 BARRET, take care of her!	BARRET, take care of her!
@@ -1324,7 +1324,8 @@ Rufus	ルーファウス
 “A little fear will control	「恐怖はほんの少しで人の心を支配する。
 the minds of the common people.	おろかな民衆のために
 There's no reason to waste	金を使う必要はない」
-good money on them.”	「私はオヤジとはちがうのだ」
+good money on them.”	
+(!) I'm different from my father. (!)	「私はオヤジとはちがうのだ」
 TIFA	TIFA
 “He likes to make speeches	「演説好きなところはそっくりね」
 just like his father.”	
@@ -1388,7 +1389,7 @@ TIFA's Materia…
 (Leave it)	【そのまま】
 Shinra Bldg. 3f. Lobby	神羅ビル・３階ロビー
 	
-Hardy Datona	ハーディ＝デイトナ　　
+Hardy Datona	ハーディ＝デイトナ
 AERIS	AERIS
 “Quickly,	「はやく、ここから
 we have to get out of here…”	逃げなくちゃ……」
