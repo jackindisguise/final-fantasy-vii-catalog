@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.2](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.1...v2.3.2) (2021-05-09)
+
+
+### Bug Fixes
+
+* **misc:** Removed test enemies. Fixed names on left/right arm boss parts. ([c5076b1](https://github.com/nowotato/final-fantasy-vii-catalog/commit/c5076b1810b9b5dd52e03958817e1987c14b08a7))
+* **scene:** Added untranslated line. My translations will from now on be marked with (!) [line] (!). ([ab8bf51](https://github.com/nowotato/final-fantasy-vii-catalog/commit/ab8bf51af5df34f8c7c39fb5704e18ef444f77c6))
+* **scene:** English opening/closing markers used in Japanese script. ([bb12b30](https://github.com/nowotato/final-fantasy-vii-catalog/commit/bb12b3097bb1b0acd0fedd61885f4a0da78b45ea))
+* **scene:** Formatting issue in scene 3. ([134b586](https://github.com/nowotato/final-fantasy-vii-catalog/commit/134b586116f3cbf9746485a2bb076bc5028ec169))
+* **scene:** Removed anki-only data from processed scene files. ([10b8627](https://github.com/nowotato/final-fantasy-vii-catalog/commit/10b8627c9055ae99a59ccd57bffbcf2f92d2cb2b))
+* **scene:** Removed duplicate / merged line in Scene 4. ([e800f93](https://github.com/nowotato/final-fantasy-vii-catalog/commit/e800f93d5edf92f23cf8efd8d2c8bdee9bb16e2d))
+* **scene:** Removed translation I added to line. Not allowed. ([64c3db7](https://github.com/nowotato/final-fantasy-vii-catalog/commit/64c3db7bad4d2b35e3701d5fa53e9e342bd95480))
+* **scene:** Small formatting issue in Scene 25. ([0cbb1f5](https://github.com/nowotato/final-fantasy-vii-catalog/commit/0cbb1f5164fd6fb84e225cda428c4352c4d4be87))
+* **script:** Added auto-replace for 魔晄炉. ([cffba5c](https://github.com/nowotato/final-fantasy-vii-catalog/commit/cffba5c724df6c3ea3dee1988dd124157c278b3f))
+* **script:** Added generator for anki import files. ([19bc6f7](https://github.com/nowotato/final-fantasy-vii-catalog/commit/19bc6f7a712011f7f66e69ea675c39477ee03925))
+* **script:** Added misc. text anki import generator. ([05d1864](https://github.com/nowotato/final-fantasy-vii-catalog/commit/05d1864bf16d2942d60942ab406f87dcf48a8e13))
+* **script:** Prettier output. ([30f4361](https://github.com/nowotato/final-fantasy-vii-catalog/commit/30f4361d134baa8e05c51db2c7d6c26097e06a85))
+
 ### [2.3.1](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.0...v2.3.1) (2021-05-06)
 
 

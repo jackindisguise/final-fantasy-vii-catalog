@@ -1,6 +1,6 @@
 {
   "name": "final-fantasy-7-script",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "Processing the Japanese and English Final Fantasy 7 script for quick and easy use.",
   "main": "process.js",
   "scripts": {
@@ -8,10 +8,10 @@
     "kanji": "cd src && node generate-kanji-table && node generate-kanji-order && node generate-kanji-readme",
     "split": "cd src && node generate-split-script",
     "table": "cd src && node generate-scene-tables",
-	"anki": "cd src && node generate-anki-import",
+    "anki": "cd src && node generate-anki-import",
     "meta": "npm run kanji && npm run split && npm run table && npm run anki",
-	"cycle": "npm run process && npm run meta",
-    "release": "npm run cycle && standard-version",
+    "cycle": "npm run process && npm run meta",
+    "release": "standard-version",
     "release-dry": "standard-version --dry-run"
   },
   "author": "",
