@@ -103,8 +103,9 @@ CLOUDさんっ！！	CLOUD!!		scene_02
 それぞれの街には、名前もあったんだけどミッドガルに住む人は誰も覚えちゃいないわ	Each town used to have a name, but no one in Midgar remembers them.	街名前住人誰覚	scene_02
 名前なんかより、番号で呼ぶの。そういうところなのよ、ここは	Instead of names, we refer to them by numbered sectors. That's how things turned out.	名前番号呼	scene_02
 ふぅ…、次はこれ！ほら、見て	Phew, look what's next! Look!	次見	scene_02
-私たちがいま乗ってる列車のルートがこれよ	This is the route this train is on. The route spirals around the main pillar.	私乗列車	scene_02
-プレートを支えている大きな柱に螺旋状にレールが通っているの。いまは柱のちょうど真ん中あたりね	We should be coming around the center, right now.	支大柱螺旋状通柱真中	scene_02
+私たちがいま乗ってる列車のルートがこれよ	This is the route this train is on.	私乗列車	scene_02
+プレートを支えている大きな柱に螺旋状にレールが通っているの。	The route spirals around the main pillar.	支大柱螺旋状通	scene_02
+いまは柱のちょうど真ん中あたりね	We should be coming around the center, right now.	柱真中	scene_02
 各通過ポイントにはＩＤ検知エリアが設置されてるの	Each checkpoint has an ID sensor device.	各通過検知設置	scene_02
 乗客すべての身分やなにから全部！神羅ビルのホストコンピュータと連動してチェックされちゃうわけよ	It checks the identities and backgrounds of each passenger on the train and is linked up to the central data bank at Shinra headquarters.	乗客身分全部神羅連動	scene_02
 ひそひそ……（私たちはどう見たって不審人物だからニセのＩＤで通過してるの）	Whisper…whisper… (We definitely look suspicious, so we're using fake IDs.)	私見不審人物通過	scene_02
