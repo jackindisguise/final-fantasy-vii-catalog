@@ -16,6 +16,10 @@ a{
 	font-weight:bold;
 }
 
+a:visited{
+	color:rgb(128, 128, 128);
+}
+
 #collapsed{
 }
 
