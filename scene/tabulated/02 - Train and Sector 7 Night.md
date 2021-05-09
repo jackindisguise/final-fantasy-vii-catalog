@@ -57,7 +57,7 @@
 | 55 | All the pollution from Mako energy above falls down on the world below. | 上の世界で汚された魔晄エネルギーが下の世界に降りてくる |
 | 56 | And the city below is full of polluted air. | 下の世界は今じゃあ汚された空気のたまり場だ |
 | 57 | On top'a that, the Reactor keeps drainin' up all the energy. | おまけに魔晄炉はどんどんエネルギーをくみ上げちまう |
-| 58 | Thanks to that, the land is dying. We can't clean the air anymore. | おかげで土地は枯れる一方だ。空気をきれいにする力もなくしちまった |
+| 58 | Thanks to that, the land is dying. | おかげで土地は枯れる一方だ。空気をきれいにする力もなくしちまった |
 | 59 | Then why doesn't everyone move onto the Plate? | どうしてみんな上へ移らないんだろう…… |
 | 60 | Dunno. Probably 'cuz they ain't got no money. Or, maybe… | さあな。金がないからだろ。いや、それとも…… |
 | 61 | 'Cuz they love their land, no matter how polluted it gets. | どんなに汚れていても地ベタが好きなのかもな |
