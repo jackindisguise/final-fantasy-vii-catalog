@@ -8,7 +8,7 @@
 | 6 | going to stay on and fight for AVALANCHE!? | 最後まで、おれたち…アバランチのために戦ってくれんのか？ |
 | 7 | How the hell would I know!? Do I look like a mind reader? | さあな……知らねえよ |
 | 8 | Hmph!! If y'all weren't such screw-ups… | チッ！！おまえらがもうすこしたよりになりゃよ…… |
-| 9 | It's better if we don't hire a guy like that. | あんな野郎、やとわねえでもいいんだがな… |
+| 9 | [EMPTY LINE] | あんな野郎、やとわねえでもいいんだがな… |
 | 10 | Hey, BARRET! What about our money? | あ、BARRETさん俺たちの給料…… |
 | 11 | Uh, nothin'…sorry. | や、なんでもないっす… |
 | 12 | CLOUD!! | CLOUD！！ |
