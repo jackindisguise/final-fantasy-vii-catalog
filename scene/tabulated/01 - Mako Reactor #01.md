@@ -29,7 +29,7 @@
 | 27 | Yo! This your first time in a reactor? | ……おい。おまえ魔晄炉（まこうろ）は初めてじゃないんだろ？ |
 | 28 | No. After all, I did work for Shinra, y'know. | まあな。ソルジャー……神羅（しんら）カンパニーの人間だったからな |
 | 29 | The Planet's full of Mako energy. People here use it everyday. | この星は魔晄（まこう）エネルギーに満ちている。住民はその魔晄エネルギーを使って日々生活している |
-| 30 | However, nobody knows the truth about Mako. Do you know? | でも誰も魔晄の本質を知らねえんだ。おまえ、知ってるか？ |
+| 30 | [EMPTY LINE] | でも誰も魔晄の本質を知らねえんだ。おまえ、知ってるか？ |
 | 31 | It's the life blood of this Planet. But Shinra keeps suckin' the blood out with these weird machines. | 魔晄はこの星を流れる血だ。それを神羅（しんら）って会社はガンガン吸い出していやがる。このへんちくりんなスクラップでな…… |
 | 32 | I'm not here for a lecture. Let's just do it. | 能書きはいい。先を急ごう |
 | 33 | @#&^%$! | クッ…… |
