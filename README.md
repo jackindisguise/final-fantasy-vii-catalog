@@ -1,5 +1,6 @@
 ![Version](https://img.shields.io/github/package-json/v/nowotato/final-fantasy-vii-catalog?style=for-the-badge)
 ![All Scenes](https://img.shields.io/github/milestones/progress-percent/nowotato/final-fantasy-vii-catalog/1?label=script-completion&style=for-the-badge)
+![Proofreading](https://img.shields.io/github/milestones/progress-percent/nowotato/final-fantasy-vii-catalog/2?label=proofreading&style=for-the-badge)
 
 # About This Project:
 I started this project because Final Fantasy VII is one of my favorite stories of all time, and I want to be able to read it in its entirety in Japanese.
