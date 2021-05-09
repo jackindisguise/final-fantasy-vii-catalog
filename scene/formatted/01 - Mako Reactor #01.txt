@@ -69,8 +69,8 @@ BARRET	BARRET
 “The Planet's full of Mako energy.	「この星は魔晄（まこう）エネルギーに満ちている。
 People here use it everyday.”	住民はその魔晄エネルギーを使って
 	日々生活している」
-“However, nobody knows the truth about Mako.	「でも誰も魔晄の本質を知らねえんだ。
-Do you know?”	おまえ、知ってるか？」
+[EMPTY LINE]	「でも誰も魔晄の本質を知らねえんだ。
+	おまえ、知ってるか？」
 BARRET	BARRET
 “It's the life blood of this Planet.	「魔晄はこの星を流れる血だ。
 But Shinra keeps suckin' the blood out	それを神羅（しんら）って会社は
