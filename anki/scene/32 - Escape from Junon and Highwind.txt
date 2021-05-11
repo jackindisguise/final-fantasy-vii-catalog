@@ -11,7 +11,7 @@
 きっと……生きているよね	Is he still…alive?	生	scene_32
 私……どれくらい眠ってた？	How long…was I asleep?	私眠	scene_32
 え～と……あれから７日たってるはずだぜ	Let's see now… Must've been about 7 days.	日	scene_32
-まだ復活はしていねえみたいだな。あの大きな光は覚えているか？北の大空洞の？	It ain't over yet. Remember that huge light, in the Northern Cave?	復活大光覚北大空洞	scene_32
+まだ復活はしていねえみたいだな。あの大きな光は覚えているか？北の大空洞の？	It ain't over yet. Remember that huge light, in the Northern Cave?	復活大光覚北空洞	scene_32
 あの後、クレーターは光の大きなバリアでつつまれちまった	Well now the crater's surrounded by a huge light barrier.	後光大	scene_32
 セフィロスはバリアに守られながらあの大穴で眠ってやがるって話だ	Everyone knows Sephiroth sleeps in there protected by the barrier.	守大穴眠話	scene_32
 オレたちには手も足も出せねえ。ただ目覚めの時を待つってだけさ	We can't do a damn thing about it. We just gotta wait till he wakes up.	手足出目覚時待	scene_32
@@ -60,25 +60,25 @@ CLOUDをどうするつもり！	What are you going to do to CLOUD?		scene_32
 ガス！！	Gas!!		scene_32
 BARRET助けて！！	BARRET, help!!	助	scene_32
 息をとめてろ！少しでも長くガマンするんだ！	Hold your breath! Hold on as long as you can!	息少長	scene_32
-むちゃ言わないで！とめるって言っても限界があるわ！	Come on! I can't hold on forever!	言言限界	scene_32
+むちゃ言わないで！とめるって言っても限界があるわ！	Come on! I can't hold on forever!	言限界	scene_32
 手足を動かし、頭を働かせて	Move your feet and arms, then use your	手足動頭働	scene_32
 何とかイスから脱出しろ	head to get out of the chair.	何脱出	scene_32
 △ボタン　…　【頭】	[MENU]…(Head)	頭	scene_32
-□ボタン　…　【右手】　　○ボタン　…　【左手】	[SWITCH]…(R Arm)[OK]…(L Arm)	右手左手	scene_32
+□ボタン　…　【右手】　　○ボタン　…　【左手】	[SWITCH]…(R Arm)[OK]…(L Arm)	右手左	scene_32
 ×ボタン　…　【足】	[CANCEL]…(Legs)	足	scene_32
 ワンパターンではだめ	Try different patterns.		scene_32
 ２つの行動を同時に組み合わせろ	Try and combine two movements at once.	行動同時組合	scene_32
 ガスをとめるボタンは……？	Which button stops the gas?		scene_32
 開いてぇぇぇーーーーー……	Open it---	開	scene_32
 さ、楽しいショウが始まるわよ。キャハハハハ！	Well now, the show's about to begin. Ha, ha, ha !	楽始	scene_32
-緊急警報！緊急警報！	Emergency! Emergency!	緊急警報緊急警報	scene_32
+緊急警報！緊急警報！	Emergency! Emergency!	緊急警報	scene_32
 ウェポン襲来！総員戦闘配備！	Weapon's approaching! Attention all military personnel: take your positions!	襲来総員戦闘配備	scene_32
 うわぁ！ウェポンだ！	Oh no! It's Weapon!		scene_32
 逃げろ！	Run!	逃	scene_32
 ちょ、ちょっとあなたたち！	Hey, hey, all of you!		scene_32
 ちっくしょう～こんないい時に！	Damn! Why now?	時	scene_32
 スカーレットさん、今のお気持ちは？	How does it feel now, Scarlet?	今気持	scene_32
-おや、お前は逃げないでいたの？感心感心……なに？　気持ち？今の気持ちねえ……	Hmm, so you didn't run? I'm impressed. How do I feel? Right now…	前逃感心感心気持今気持	scene_32
+おや、お前は逃げないでいたの？感心感心……なに？　気持ち？今の気持ちねえ……	Hmm, so you didn't run? I'm impressed. How do I feel? Right now…	前逃感心気持今	scene_32
 ンガーーーッ！	Nngaaaaaahhhh!		scene_32
 なにっ？！　さいみんガス？	Huh!? Sleeping gas?		scene_32
 くせもの！！	Weirdo!!		scene_32
@@ -116,7 +116,7 @@ TIFA！かならず助けてやっからな！	TIFA! I'll help you, I promise!	�
 なんとか。攻撃の許可は？	I believe so. Your orders?	攻撃許可	scene_32
 聞くまでもない	No need to ask.	聞	scene_32
 じまんの大砲を一発くらわせます	We'll give it a shot from our big cannon.	大砲一発	scene_32
-全砲門ひらけ！！キャノン砲修正、目標ウェポン！！	Open cannon doors!! Activate cannon. Target: Weapon!!	全砲門砲修正目標	scene_32
+全砲門ひらけ！！キャノン砲修正、目標ウェポン！！	Open cannon doors!! Activate cannon. Target: Weapon!!	全砲門修正目標	scene_32
 キャノン砲……	The cannon…	砲	scene_32
 発射ーーーーーーーーーーーーーーーーー！！！	Fire----!!!	発射	scene_32
 準備ととのいました！	Ready!	準備	scene_32
@@ -187,8 +187,8 @@ CIDさんごくろうさまです！	CID, thank you for a job well done!		scene_
 【メニューボタン】　ブリッジを呼ぶ	[MENU] to call the bridge	呼	scene_32
 【方向キー　上】　　高度を下げる	[Directional button:up] lower altitude	方向上高度下	scene_32
 【方向キー　下】　　高度を上げる	[Directional button:down]  raise altitude	方向下高度上	scene_32
-【方向キー　左】　　左へ！	[Directional button:left]  move left	方向左左	scene_32
-【方向キー　右】　　右へ！	[Directional button:right]  move right	方向右右	scene_32
+【方向キー　左】　　左へ！	[Directional button:left]  move left	方向左	scene_32
+【方向キー　右】　　右へ！	[Directional button:right]  move right	方向右	scene_32
 【Ｌ１ボタン】　　　左へ！	[PAGEUP] arc Left	左	scene_32
 【Ｒ１ボタン】　　　右へ！	[PAGEDOWN] arc Right	右	scene_32
 【ＳＥＬＥＣＴ】　　地図ＯＮ／ＯＦＦ	[ASSIST] toggle map	地図	scene_32
@@ -198,22 +198,22 @@ CIDさんごくろうさまです！	CID, thank you for a job well done!		scene_
 あ、ボクたちの反乱の話をさせてください	Wanna hear why we rebelled?	反乱話	scene_32
 聞かせて	Listen	聞	scene_32
 聞きたくない	Don't care	聞	scene_32
-ボクたちハイウインドのクルーは毎日毎日ハイデッカーにコキ使われていました	Working on the Highwind, we spent every day slaving under Heidegger.	毎日毎日使	scene_32
+ボクたちハイウインドのクルーは毎日毎日ハイデッカーにコキ使われていました	Working on the Highwind, we spent every day slaving under Heidegger.	毎日使	scene_32
 あの人、社長にしかられるとすぐにクルーにやつあたりするんです	Whenever he got yelled at by the President, he'd immediately take it out on the crew.	人社長	scene_32
 ボクたちは、ず～っとガマンしてました。なぐられてもなぐられても	We put up with this all the time, even when he beat us.		scene_32
 あこがれのハイウインドのクルーになれたのにそんなことでやめるのは悔しいですからね	I mean, I finally made it on the crew of the famous Highwind, and there's no way I was going to quit over him.	悔	scene_32
-そんなある日……たしか、７日前でしたよね。北の大空洞行きの任務の時です	Let's see, it must've been a week ago…it was my shift and we were heading towards the North Cave.	日日前北大空洞行任務時	scene_32
-社長やスカーレット部長といっしょにみなさんが乗りこんできたわけです	Everyone, including the President and Scarlet, got on.	社長部長乗	scene_32
+そんなある日……たしか、７日前でしたよね。北の大空洞行きの任務の時です	Let's see, it must've been a week ago…it was my shift and we were heading towards the North Cave.	日前北大空洞行任務時	scene_32
+社長やスカーレット部長といっしょにみなさんが乗りこんできたわけです	Everyone, including the President and Scarlet, got on.	社長部乗	scene_32
 その中に伝説のパイロットCIDさんの姿が！	And with them, I saw CID, a legendary pilot!	中伝説姿	scene_32
 CIDさんはなつかしそうに船内を見てまわってまして……	And he was looking around the inside of the ship looking really, y'know, nostalgic…	船内見	scene_32
 なんとボクたちにも声をかけて下さったんです	He even talked to us.	声下	scene_32
-感激！　感激！　感激です。ウワサどおりの熱いハートの人でした	I couldn't believe it! I was so impressed! He was every bit as warm-hearted as we'd always heard.	感激感激感激熱人	scene_32
+感激！　感激！　感激です。ウワサどおりの熱いハートの人でした	I couldn't believe it! I was so impressed! He was every bit as warm-hearted as we'd always heard.	感激熱人	scene_32
 CIDさんはハイウインドがあれば旅が楽になるとおっしゃりました	CID said that if he had the Highwind, things would be a lot easier.	旅楽	scene_32
 なんと、星を救う旅だそうですね。ホント、感動しちゃいましたよ	And now here we are off to save the Planet. It's true. He really overwhelmed me.	星救旅感動	scene_32
 それで、ボクたちは協力することにしたんです	And that's why we decided to help.	協力	scene_32
-大空洞からジュノンに着いたときボクは火事だ火事だと騒ぎました	After the North Cave, we went to Junon, and I started screaming 'Fire! Fire!'	大空洞着火事火事騒	scene_32
+大空洞からジュノンに着いたときボクは火事だ火事だと騒ぎました	After the North Cave, we went to Junon, and I started screaming 'Fire! Fire!'	大空洞着火事騒	scene_32
 そのどさくさにまぎれてCIDさんとボクたちは船を神羅から盗んだんです	In the middle of all the commotion, we stole this ship from the Shinra.	船神羅盗	scene_32
-これがボクたちの反乱の話です。……上司へのささやかな反乱ですけどね	That's how it happened. Just a minor mutiny against our leaders.	反乱話上司反乱	scene_32
+これがボクたちの反乱の話です。……上司へのささやかな反乱ですけどね	That's how it happened. Just a minor mutiny against our leaders.	反乱話上司	scene_32
 でも、BARRETさん、TIFAさんがハイデッカーにつかまってしまって……	But BARRET and you were captured by Heidegger…		scene_32
 ７日間、救出のチャンスをうかがってついに実行に移しました	We waited seven days for a chance to rescue you guys before we finally could.	日間救出実行移	scene_32
 ですから、TIFAさん……作戦成功、お会いできてうれしいです！	So thanks to our successful mission, we were able to see you again.	作戦成功会	scene_32
@@ -224,7 +224,7 @@ CIDさんはハイウインドがあれば旅が楽になるとおっしゃり�
 チョコボをつんでどこかに運ぶだけなんですけどね	I mean, just loading them up and transporting them.	運	scene_32
 この戦いが終わったらみなさん、どうするんですかね	I wonder what everyone's going to do when this fight's over?	戦終	scene_32
 この船……ハイウインドはどうなってしまうんでしょうね……	I wonder what's gonna happen to the Highwind?	船	scene_32
-つぎ、どこ行くの？はやく行こう？	Where's the next stop? Can't you get there any quicker?	行行	scene_32
+つぎ、どこ行くの？はやく行こう？	Where's the next stop? Can't you get there any quicker?	行	scene_32
 それでさ、アタシをパーティーにいれて船からおろしてよ、ね、CLOUD	CLOUD, put me in your party, so I can get off this ship.	船	scene_32
 チェッ……	Hmph!		scene_32
 どうしてこんな乗り物なんかあるんだよ……	I wonder why anyone would ever make an airship like this…	乗物	scene_32
@@ -246,13 +246,13 @@ CLOUD……につまってんの？	Are you waiting for CLOUD?		scene_32
 あ、アタシ、どこでもいい。早くおろして	Uh, a, anywhere's fine…I don't care. Just hurry up and land this thing.	早	scene_32
 CLOUD……この書類にサインして	CLOUD…sign this.	書類	scene_32
 戦いが終わったら、マテリアはぜ～んぶ、YUFFIEさんのものです	It's a contract that says when the war is over, all the Materia will belong to me.	戦終	scene_32
-そう書いてある書類。よく読んで、サイン、たのむよ	It's all in there. Read it carefully and then sign it, all right?	書書類読	scene_32
+そう書いてある書類。よく読んで、サイン、たのむよ	It's all in there. Read it carefully and then sign it, all right?	書類読	scene_32
 ……だめだ。書類は読まない	Forget it, I'm not even gonna read it.	書類読	scene_32
 字を読むと気分が悪くなる。船酔いがひどくなるからな	Whenever I read, I get airsick.	字読気分悪船酔	scene_32
 はぅ……	Oh yeah?		scene_32
 それ、よくわかるから何も言えないよ……	I'm the same way, so I can't say too much.	何言	scene_32
 クソッ……作戦失敗。あとでRED XIII、からかって……ウサばらし、しちゃお	Damn! My plan failed. Let's pick on RED XIII later to let off steam.	作戦失敗	scene_32
-あんたにはわかんないだろ？この船酔い……乗り物酔いのつらさ……	How would you even know? You don't know how tough it is…getting sick on boats and rides…	船酔乗物酔	scene_32
+あんたにはわかんないだろ？この船酔い……乗り物酔いのつらさ……	How would you even know? You don't know how tough it is…getting sick on boats and rides…	船酔乗物	scene_32
 たのむから……ほっといて	So, please…just leave me alone.		scene_32
 ……よくわかるよ、YUFFIE。俺の乗り物酔いもスジガネ入りだ	I really do understand, YUFFIE. When I get sick on a flight, it's a real killer.	俺乗物酔入	scene_32
 自分がソルジャーだと思っていた時はすっかり忘れていたけどな	When I was in SOLDIER, I completely forgot about my motion sickness.	自分思時忘	scene_32
@@ -295,7 +295,7 @@ CLOUDがいないとダメかい？	Do you think we aren't strong enough without
 そんな時に何をすればいいのかなんて私にはわからない……	At a time like this, I don't know what I'm supposed to do.	時何私	scene_32
 もう、わからない……	No idea at all…		scene_32
 何言ってんだ、TIFA！いっしょに考えようぜ！	Get a hold of yourself, TIFA! C'mon, let's think about this!	何言考	scene_32
-オレたちが乗っちまった列車は途中下車はできねえぜ！	No way we can get offa this train we're on!	乗列車途中下車	scene_32
+オレたちが乗っちまった列車は途中下車はできねえぜ！	No way we can get offa this train we're on!	乗列車途中下	scene_32
 ……CLOUDがいれば全部解決するような気がする	If only CLOUD was here, everything would be fine.	全部解決気	scene_32
 CLOUDがね……	CLOUD would…		scene_32
 いつもそうしていたみたいにちょっと気取ったポーズで言ってくれるの	…stand that cocky little way he did, and tell us what to do.	気取言	scene_32
@@ -309,8 +309,8 @@ TIFA！　いつからそんなに弱い女になったんだよ！	TIFA! When'd
 オレ様はアイツのことはキライじゃなかったぜ	I want you to know I didn't dislike him.	様	scene_32
 変なヤツだったけどな	I gotta admit he was a strange dude.	変	scene_32
 カッコつけてるかと思えば間の抜けたこともする	Just when you thought he was cool, he'd do some damn fool thing.	思間抜	scene_32
-やたら物知りなヤツだと思えばあたりまえのことも知らない	Then when you thought he was smart, he'd show how stupid he was.	物知思知	scene_32
-動き方も話し方もなんかチグハグなんだよな	Everything about him from his movements to his speech were kinda odd.	動方話方	scene_32
+やたら物知りなヤツだと思えばあたりまえのことも知らない	Then when you thought he was smart, he'd show how stupid he was.	物知思	scene_32
+動き方も話し方もなんかチグハグなんだよな	Everything about him from his movements to his speech were kinda odd.	動方話	scene_32
 今にして思えばああ、なるほどってやつだけどよ	Knowin' what I do now, I can see why he was that way.	今思	scene_32
 ま、生きてりゃそのうち会えるさ。元気だせ、ネエちゃん	Well, as long as you stay alive, you just might see him again someday. So cheer up, sis.	生会元気	scene_32
 ……会えるよね	…I'll be able to see him someday.	会	scene_32

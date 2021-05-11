@@ -32,7 +32,7 @@ CLOUD　起きてる？	CLOUD you up?	起	scene_26
 へぇ、なんかおもしろそう。行きましょう、CLOUD	Sounds like fun. Come on CLOUD, let's give it a try.	行	scene_26
 なんだか、わからないけど行こうよ、CLOUD	I don't know what it's all about but sounds kind of cool. Wanna try it, CLOUD?	行	scene_26
 ナレーション	Narration		scene_26
-むか～し、昔のそのまた昔の物語	Long, long ago…	昔昔物語	scene_26
+むか～し、昔のそのまた昔の物語	Long, long ago…	昔物語	scene_26
 和平なガルディア王国にとつじょとして襲いかかる、邪悪な影…	An evil shadow appeared over the peaceful kingdom of Galdia…	和平王国襲邪悪影	scene_26
 ああ、悪竜王ヴァルヴァドスにさらわれた姫君ルーザの運命はどうなってしまうのでありましょうか…	Princess Rosa was kidnapped by the Evil Dragon King, Valvados. What will become of her?	悪竜王姫君運命	scene_26
 しかし、その時！伝説の勇者アルフリードがガルディア王国にあらわれたのであります！！	Just then, the legendary hero, Alfred, appears!!	時伝説勇者王国	scene_26
@@ -45,7 +45,7 @@ CLOUD　起きてる？	CLOUD you up?	起	scene_26
 王様	King	王様	scene_26
 おお～、勇者アルフリ～ド私の愛しいル～ザを救うために～やってきた～	Oh…legendary hero, Alfred. You have come to save my beloved Rosa…	勇者私愛救	scene_26
 悪竜王ヴァルヴァドスのすみかは～はるか険しい山の上～。あわれル～ザは捕われの身～	On the peak of a dangerous mountain… dwells the Evil Dragon King, Valvados… who's kidnapped Princess Rosa…	悪竜王険山上捕身	scene_26
-しか～し今のお前では悪竜王には勝て～ん！お前の力とな～る者に語りかけよ～	But… you can't beat the Evil Dragon King now! Talk to one who can help you…	今前悪竜王勝前力者語	scene_26
+しか～し今のお前では悪竜王には勝て～ん！お前の力とな～る者に語りかけよ～	But… you can't beat the Evil Dragon King now! Talk to one who can help you…	今前悪竜王勝力者語	scene_26
 どっちに話しかけようかな？	Who will you talk to?	話	scene_26
 魔法使い	The wizard	魔法使	scene_26
 わた～しは大魔法使いボーマン～。お前～は何を知りたいの～？	I am the great wizard, Vorman. What do you wish to know?	大魔法使前何知	scene_26
@@ -56,7 +56,7 @@ CLOUD　起きてる？	CLOUD you up?	起	scene_26
 王様を～倒せ～	Defeat the King	王様倒	scene_26
 ああ～悪竜王の弱点それは～、それは～	Ahh, the weakness of the Evil Dragon King. It must be, it must be…	悪竜王弱点	scene_26
 そう！それは真実の～愛！	Yes, it must be… True love!	真実愛	scene_26
-愛しあ～う２人の力こそが～悪竜王の邪悪な～る牙に打ち勝つただひとつの武器～！	The power of love… Is the only weapon that can withstand the fangs of the Evil Dragon King…!	愛人力悪竜王邪悪牙打勝武器	scene_26
+愛しあ～う２人の力こそが～悪竜王の邪悪な～る牙に打ち勝つただひとつの武器～！	The power of love… Is the only weapon that can withstand the fangs of the Evil Dragon King…!	愛人力悪竜王邪牙打勝武器	scene_26
 なんということで～ありましょう～！おお！勇者よ～、あれを見よ～！	Oh what is going to happen next? Oh…legendary hero…look!	勇者見	scene_26
 悪竜王	EDK	悪竜王	scene_26
 ガハハハハ～！	Gaaaaaaaah!		scene_26
@@ -125,7 +125,7 @@ CLOUD！！もっとまじめにやってよ！！そんなに、私とおしば
 はい、お２人様ですね	Here you are, two tickets.	人様	scene_26
 観らん車内部	Inside the Ferris Wheel	観車内部	scene_26
 あっ、あれ	Look, there.		scene_26
-見て、見て	Look, look.	見見	scene_26
+見て、見て	Look, look.	見	scene_26
 すっご～い	Wow.		scene_26
 CLOUD、ほら！	CLOUD!		scene_26
 すっげぇ	Geez!		scene_26
@@ -238,7 +238,7 @@ CLOUD　チョットのぞいてみるか	CLOUD, wanna take a peek?		scene_26
 ずうずうしいぞ、CAIT SITH！スパイだとわかってていっしょにいられるわけないだろ！	You're pushin' it‚CAIT SITH! You gotta lot of nerve staying with us all the while being a spy!		scene_26
 ほな、どないするんですか？ボクを壊すんですか？	Then‚what are you goin' to do? Destroy me?	壊	scene_26
 そんなんしても、ムダですよ。この身体、もともとオモチャやから	You'd just be wastin' your time if you tried. This body's just a toy anyway.	身体	scene_26
-本体はミッドガルの神羅本社におるんですわ。そっから、このネコのおもちゃ操っとるわけなんです	My real body's at Shinra Headquarters in Midgar. I'm controlin' this toy cat from there.	本体神羅本社操	scene_26
+本体はミッドガルの神羅本社におるんですわ。そっから、このネコのおもちゃ操っとるわけなんです	My real body's at Shinra Headquarters in Midgar. I'm controlin' this toy cat from there.	本体神羅社操	scene_26
 それじゃあ正体は神羅の人間なのね。だれなのよ？	So you're from Shinra. Who are you?	正体神羅人間	scene_26
 正体は神羅の人、ね？だ～れ？　あなた！言いなさい！	So you're from Shinra. Who? Who are you! Tell me!	正体神羅人言	scene_26
 だれだ、てめえ！本当の名前を教えろ！	Who the hell are ya!? What's your real name!?	本当名前教	scene_26
@@ -267,7 +267,7 @@ CLOUD　チョットのぞいてみるか	CLOUD, wanna take a peek?		scene_26
 ……マリン？	…Marlene?		scene_26
 あ！　とうちゃんの声だ！とうちゃん！　マリンね！	Hey! It's dad! Dad! It's me‚Marlene!	声	scene_26
 あ！　TIFAの声だ！TIFA！　あのね！	Hey! It's TIFA! TIFA! You know what!	声	scene_26
-あ！　お花のお姉ちゃん！お姉ちゃん…	Hey! It's the flower lady! Flower lady…	花姉姉	scene_26
+あ！　お花のお姉ちゃん！お姉ちゃん…	Hey! It's the flower lady! Flower lady…	花姉	scene_26
 あ！　CLOUDの声だ！	Hey! It's CLOUD!	声	scene_26
 ……というわけです、みなさんはボクの言うとおりにするしかあらへんのですわ	…So‚there's no other way but to listen to me.	言	scene_26
 ……最低だ	You're the lowest…	最低	scene_26

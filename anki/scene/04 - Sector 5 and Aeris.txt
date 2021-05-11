@@ -9,7 +9,7 @@
 ……気にするな。今は身体のことだけ	…Don't worry about me. Worry about yourself now.	気今身体	scene_04
 ……やってみる	…I'll try.		scene_04
 ……どうだ？	…How about that?		scene_04
-ゆっくりな。少しずつ少しずつ……	Take it slow now. Little by little……	少少	scene_04
+ゆっくりな。少しずつ少しずつ……	Take it slow now. Little by little……	少	scene_04
 ……わかってるさ	…I know.		scene_04
 なあ……あんた、誰だ？	Hey…who are you?	誰	scene_04
 あっ！　動いた！	Oh! It moved!	動	scene_04
@@ -21,7 +21,7 @@
 ここ、スラムの教会。５番街よ	This is a church in the Sector 5 slums.	教会番街	scene_04
 ……落ちてきた	…I came crashing down?	落	scene_04
 屋根と、花畑、クッションになったのかな。運、いいね	The roof and the flower bed must have broken your fall. You're lucky.	屋根花畑運	scene_04
-花畑……あんたの花畑？	Flower bed…is this yours?	花畑花畑	scene_04
+花畑……あんたの花畑？	Flower bed…is this yours?	花畑	scene_04
 それは悪かったな	Sorry about that.	悪	scene_04
 気にしないで。お花、けっこう強いしここ、特別な場所だから	That's all right. The flowers here are quite resilient because this is a sacred place.	気花強特別場所	scene_04
 ミッドガルって草や花、あまり育たないでしょ？	They say grass and flowers won't grow in Midgar.	草花育	scene_04
@@ -63,7 +63,7 @@
 わたしは……	My name is…		scene_04
 わたし、花売りのAERIS。よろしくね	I'm AERIS, the flower girl. Nice to meet you.	花売	scene_04
 俺はCLOUDだ	The name's CLOUD.	俺	scene_04
-仕事は……仕事は「なんでも屋だ」	Me? I do a little bit of everything.	仕事仕事屋	scene_04
+仕事は……仕事は「なんでも屋だ」	Me? I do a little bit of everything.	仕事屋	scene_04
 はぁ……なんでも屋さん	Oh…a jack of all trades.	屋	scene_04
 なんでもやるのさ	Yeah, I do whatever's needed.		scene_04
 何がおかしい！どうして笑う！	What's so funny? What are you laughing at?	何笑	scene_04
@@ -74,7 +74,7 @@ CLOUD！かまっちゃダメ！	CLOUD! Don't let it get to you!		scene_04
 なんだって？	What's that?		scene_04
 何でも屋さん、でしょ？	You CAN do anything, right?	何屋	scene_04
 ……そうだけどな	Yeah, that's right.		scene_04
-ここから連れ出して。家まで、連れてって	Then, get me out of here. Take me home.	連出家連	scene_04
+ここから連れ出して。家まで、連れてって	Then, get me out of here. Take me home.	連出家	scene_04
 お引き受けしましょう。しかし、安くはない	OK… but it'll cost you.	引受安	scene_04
 じゃあねえ……	OK then, let's see…		scene_04
 デート、１回！	How about if I go out with you once?	回	scene_04
@@ -96,9 +96,9 @@ CLOUD、ダメ、やめて！	CLOUD, don't! Stop!		scene_04
 出口、奥にあるから	The exit is back there.	出口奥	scene_04
 見たか？あのにいちゃんの目	Did you see that guy's eyes?	見目	scene_04
 ……魔晄の目	They were…Mako eyes.	魔晄目	scene_04
-ま、いいか。さ、お仕事お仕事、と	Hmm. All right, c'mon, get to work.	仕事仕事	scene_04
+ま、いいか。さ、お仕事お仕事、と	Hmm. All right, c'mon, get to work.	仕事	scene_04
 あれは………魔晄の目	They were…Mako eyes.	魔晄目	scene_04
-ま、いいかぁ。お仕事お仕事、と	Yeah, all right. C'mon, get to work.	仕事仕事	scene_04
+ま、いいかぁ。お仕事お仕事、と	Yeah, all right. C'mon, get to work.	仕事	scene_04
 あっ！	Oh!		scene_04
 お花、ふまないでね…だと	And don't step on the flowers…	花	scene_04
 レノさん、ふんだ！	You just stepped on them yourself!		scene_04
@@ -119,7 +119,7 @@ CLOUD、あれ！	CLOUD…that one!		scene_04
 さあ、AERIS。こっちだ	AERIS! This way!		scene_04
 だいじょうぶだ。俺が受け止めてやる	All right. I'll hold them off.	俺受止	scene_04
 わかったわ。しっかり受け止めてね	Right. Make sure they don't get through!	受止	scene_04
-古代種が逃げるぞ！撃て、撃て！、撃つな！	The Ancient is getting away! Attack! Attack! > Attack!	古代種逃撃撃撃	scene_04
+古代種が逃げるぞ！撃て、撃て！、撃つな！	The Ancient is getting away! Attack! Attack! > Attack!	古代種逃撃	scene_04
 やっちまったかな、と。抵抗するからだぞ、と	Think we killed 'em? They never should've fought us!	抵抗	scene_04
 きゃあっ！	Eaygh!!		scene_04
 AERIS！	AERIS!		scene_04
@@ -157,7 +157,7 @@ CLOUD、急ぎましょう	CLOUD, hurry.	急	scene_04
 どうかな～。でも、あんなヤツらにつかまるのはイヤ！	I don't know… But I don't want to get caught by THOSE people!		scene_04
 それじゃあ、行くぞ！	Then, let's go!	行	scene_04
 ５番街スラム	Sector 5 Slum	番街	scene_04
-待って……ちょっと待ってってば！	Wait… Wait, I said!	待待	scene_04
+待って……ちょっと待ってってば！	Wait… Wait, I said!	待	scene_04
 ハア……ハア……	Puff… …wheeze…		scene_04
 ひとりで……さきに……行っちゃうんだもん……	Slow…down… Don't leave me…	行	scene_04
 おかしいな……	Funny…		scene_04
@@ -174,19 +174,19 @@ CLOUD、急ぎましょう	CLOUD, hurry.	急	scene_04
 さ、行きましょ！ボディーガードさん！	Come on, let's go! Bodyguard!	行	scene_04
 フ～！　やっとおりられた！さて、と……	Whew! Finally made it off! Now what?		scene_04
 こっちよ、わたしの家は。あの人たちが来ないうちに急ぎましょ	My house is over here. Hurry before they come.	家人来急	scene_04
-この先は５番街スラムと６番街スラムにつうじてんだが……	The Sector 5 and Sector 6 slums are right ahead…	先番街番街	scene_04
-どんなところか知ってるか？５番街のことを知りたい６番街のことを知りたい	Do you know what kind of place they are? Tell me about sector 5 Tell me about sector 6	知番街知番街知	scene_04
+この先は５番街スラムと６番街スラムにつうじてんだが……	The Sector 5 and Sector 6 slums are right ahead…	先番街	scene_04
+どんなところか知ってるか？５番街のことを知りたい６番街のことを知りたい	Do you know what kind of place they are? Tell me about sector 5 Tell me about sector 6	知番街	scene_04
 知っている	Yeah, I know	知	scene_04
-５番街スラムか……ま、どうってことない街さ	Sector 5 slum… It's not a big town.	番街街	scene_04
+５番街スラムか……ま、どうってことない街さ	Sector 5 slum… It's not a big town.	番街	scene_04
 たいしてスリルもねえが、危険もねえ。店だけはあるから何かほしけりゃよってみな	No thrills, no danger. But there are a few stores so if there's something you want, stop by.	危険店何	scene_04
 ６番街スラムか……ヘヘヘ、男にとっちゃパラダイス、１度は行ってみるといい	Sector 6 slum…heh heh heh, A man's paradise. I've always wanted to go.	番街男度行	scene_04
 ……ってことは、あんたみたいなおじょうさんには……ってとこさ。ま、別のお楽しみもあるかもな。ククク……	…But not for a nice girl like you… But there may be something else good for you. Heh, heh, heh.	別楽	scene_04
 だがな、あそこはちっとばかしヤバイぜ。なんたって……	Yeah, but it's a little dangerous over there, you know.		scene_04
-おおっと、これ以上は言えねえ。知りたければ自分で行ってみることだ。もっとも、いつでも行けるわけじゃないんだが……	That's all I got to say. If you want to know more, you'll have to go there yourself. But you can't just waltz over there anytime you feel like it.	以上言知自分行行	scene_04
+おおっと、これ以上は言えねえ。知りたければ自分で行ってみることだ。もっとも、いつでも行けるわけじゃないんだが……	That's all I got to say. If you want to know more, you'll have to go there yourself. But you can't just waltz over there anytime you feel like it.	以上言知自分行	scene_04
 ……フン。なら好きにするさ	Hmm… Then, I'll do as I please.	好	scene_04
 ヨオ！　６番街にいったようだな。どうだ、楽しめたか？	HEY! Looks like they were in Sector 6. Have fun?	番街楽	scene_04
 そういや最近コルネオのウワサをきかねえな。なんかあったのか？	That reminds me, you don't hear much about Corneo lately. Wonder what happened to him?	最近	scene_04
-ワ、ワタシは見た！見たんです！	I saw her! I really did!	見見	scene_04
+ワ、ワタシは見た！見たんです！	I saw her! I really did!	見	scene_04
 この先の古い教会にひとりの女がスーッと消えていくのを！	This woman just disappeared! Right there around the old church.	先古教会女消	scene_04
 しかも、いくら待ってもその女は２度と出てこないじゃありませんか！	I waited around a long time, but she never came out again!	待女度出	scene_04
 やっぱりあそこはユーレイ教会……ブルブルブル……	I tell you, it's one of them …haunted churches! Ohhh…shiver…shake…	教会	scene_04
@@ -224,9 +224,9 @@ CLOUD、急ぎましょう	CLOUD, hurry.	急	scene_04
 何がどうなってるんだ！と、とどのつまりおれたちゃもうオシマイってことなのかい！？	What's going on with the world? When it's all said and done, we're all gonna wind up dead.	何	scene_04
 ……お前、このあいだからそのアイヅチばっかりだな	You've been talking like that for sometime now.	前	scene_04
 何をしてるかって？下を向いて歩いてるのよ	What am I doing? I'm walking around looking at the ground.	何下向歩	scene_04
-下にはいろいろ落ちてるけど上を見たって何も落ちてきやしないもの。でしょ？	You find a lot of things people dropped when you look down. You never find them when you're looking up. Right?	下落上見何落	scene_04
+下にはいろいろ落ちてるけど上を見たって何も落ちてきやしないもの。でしょ？	You find a lot of things people dropped when you look down. You never find them when you're looking up. Right?	下落上見何	scene_04
 あんなものが落ちてくるなんて……これからは上を向いて歩いていこうっと	Never thought that would come tumbling down. Maybe I better walk around looking up from now on.	落上向歩	scene_04
-もう下を見るのも上を見るのもやめた！これからは前を向いて歩いていくの！	I'm not going to look up or down! From now on I'm just going to look straight ahead.	下見上見前向歩	scene_04
+もう下を見るのも上を見るのもやめた！これからは前を向いて歩いていくの！	I'm not going to look up or down! From now on I'm just going to look straight ahead.	下見上前向歩	scene_04
 なーんてね。そんな強がり言ってる場合じゃないのよね……いったいどうなっちゃうのかな	Maybe not. I'm just flapping my gums. I really wonder how things will turn out.	強言場合	scene_04
 アイテム屋	Item Store	屋	scene_04
 ……ジロジロ…………フン、アイテムは金と引き換えだよ	Hmmm,… …hmph…we only trade items for gil here.	金引換	scene_04
@@ -241,10 +241,10 @@ CLOUD、急ぎましょう	CLOUD, hurry.	急	scene_04
 オットット！	Hey!		scene_04
 ひとんちのフリーザーを勝手に開けるなって、おっかさんに言われなかったかい？	Hey, didn't your mother ever teach you not to barge into houses and open up people's freezers?	勝手開言	scene_04
 武器屋	Weapon Store	武器屋	scene_04
-自分の身は自分で守る。こいつがスラムの常識よ！そのためにはまず強え武器！だろ？	Taking care of yourself is the law of the slums. But to do that, first you need weapons, right?	自分身自分守常識強武器	scene_04
+自分の身は自分で守る。こいつがスラムの常識よ！そのためにはまず強え武器！だろ？	Taking care of yourself is the law of the slums. But to do that, first you need weapons, right?	自分身守常識強武器	scene_04
 何が起こるかわからねえ！	You never know what's going to happen in this crazy world.	何起	scene_04
 こんな世の中だからこそ、やっぱり頼りになるのは強え武器！だろ？	So you'd better have a weapon you can depend on! Am I right?	世中頼強武器	scene_04
-もう何がなんだかわからねえ！でもよ、最後の最後まで必要なのはやっぱり強え武器！だろ？	I don't know crap about crap! But I do know one thing. People are always gonna need a good strong weapon!	何最後最後必要強武器	scene_04
+もう何がなんだかわからねえ！でもよ、最後の最後まで必要なのはやっぱり強え武器！だろ？	I don't know crap about crap! But I do know one thing. People are always gonna need a good strong weapon!	何最後必要強武器	scene_04
 ん？武器が欲しいのか？なら残念だな……	Huh? You want weapons? That's too damn bad…	武器欲残念	scene_04
 おまえらに売る武器はない！なぜなら……	I ain't got no weapons to sell ya! And the reason is…	売武器	scene_04
 店はあっち、向こうだからな	…the weapon store's over that way.	店向	scene_04
@@ -260,8 +260,8 @@ CLOUD、急ぎましょう	CLOUD, hurry.	急	scene_04
 ケッ……！プレジデント神羅の言うことなんてみんなうそっぱちさ	Hmph……! Everything President Shinra says is a lie.	神羅言	scene_04
 だがな、アバランチだかアバンチュールだか知らねえがあいつらも信用ならねえ	But you can't trust that AVALANCHE, or whatever you call them.	知信用	scene_04
 アレコレ言っててもけっきょく上の連中がうらやましいだけなのさ	You can bat it around all you like, but it all comes down to wanting to live like the people up there.	言上連中	scene_04
-なら誰を信じるか？決まってんじゃねえか、俺だよ俺！俺は俺にウソをつかねえからな	So who do I believe in? Myself! Me! I never lie to myself, that's for sure!	誰信決俺俺俺俺	scene_04
-俺は俺の言うことしか信じねえ。俺は俺にウソをつかねえからな	I believe only what I say. Because I never lie to myself.	俺俺言信俺俺	scene_04
+なら誰を信じるか？決まってんじゃねえか、俺だよ俺！俺は俺にウソをつかねえからな	So who do I believe in? Myself! Me! I never lie to myself, that's for sure!	誰信決俺	scene_04
+俺は俺の言うことしか信じねえ。俺は俺にウソをつかねえからな	I believe only what I say. Because I never lie to myself.	俺言信	scene_04
 今度の神羅カンパニーの社長ありゃ何だ！？	And what's with the new president of Shinra, Inc.?	今度神羅社長何	scene_04
 あれならプレジデント神羅の方がまだましだったぜ！	Hell, even the old president was better than him.	神羅方	scene_04
 何てこったい……！アバランチだかＢランチだか知らねえが、プレートごと落っことすなんてどうかしてるぜ！！	The hell's up with that!? I don't care if they're AVALANCHE or Avant-garde or whatever. Anyone who'd bring the plates down on us is nuts!!	何知落	scene_04
@@ -274,15 +274,15 @@ CLOUD、急ぎましょう	CLOUD, hurry.	急	scene_04
 テロリストグループ　アバランチの破壊工作により、一部供給が中断していたミッドガルの電力はまもなく回復する予定です	A terrorist attack by the group called AVALANCHE has parts of Midgar temporarily out of power, but they will be restored momentarily.	破壊工作一部供給中断電力回復予定	scene_04
 プレジデント神羅につづきミッドガルのドミノ市長もアバランチ　に対する非難声明をだしています……	Following President Shinra's address, Mayor Domino also spoke out today against AVALANCHE.	神羅市長対非難声明	scene_04
 天気予報をおおくりします	Now for the weather.	天気予報	scene_04
-明日のミッドガルはどんよりとしたくもりぞらの１日になるでしょう	Tomorrow's weather will be overcast most of the day, with a slight chance of showers in parts of the city.	明日日	scene_04
-事故の原因はなお不明ですが関係者によると、カンパニーに対する破壊活動で手配されているテロ組織　アバランチ　による犯行声明が出されたとの情報もあり、現在その……	The cause of the accident is still unclear at this time, however, according to some sources it is believed to have something to do with the terrorist group, AVALANCHE.	事故原因不明関係者対破壊活動手配組織犯行声明出情報現在	scene_04
+明日のミッドガルはどんよりとしたくもりぞらの１日になるでしょう	Tomorrow's weather will be overcast most of the day, with a slight chance of showers in parts of the city.	明日	scene_04
+事故の原因はなお不明ですが関係者によると、カンパニーに対する破壊活動で手配されているテロ組織　アバランチ　による犯行声明が出されたとの情報もあり、現在その……	The cause of the accident is still unclear at this time, however, according to some sources it is believed to have something to do with the terrorist group, AVALANCHE.	事故原因不明関係者対破壊活動手配組織犯行声出情報現在	scene_04
 集え、民衆よ！魔晄の光のもとへ！！	Citizens, unite! Come to the light, Mako energy.	集民衆魔晄光	scene_04
 力こそ真理神羅こそ未来！カンパニーにしたがうことこそしょくんの幸福である！	Power is Truth Shinra is the future. Real happiness can be found in obedience to the company!	力真理神羅未来幸福	scene_04
 ……ガー……ガ、ガガー……	……ga…… g, ga ga………………		scene_04
 民家２階	House 2f.	民家階	scene_04
 グーグー……	glug…glug…		scene_04
 ……これで……だれにも……みつからムニャムニャ……	Now…no one… will find it…num…		scene_04
-１番上と……２番目の……	Top drawer… and the bottom one…	番上番目	scene_04
+１番上と……２番目の……	Top drawer… and the bottom one…	番上目	scene_04
 １番目のたなを開ける	Open the top drawer	番目開	scene_04
 ２番目のたなを開ける	Open the bottom drawer	番目開	scene_04
 ……おや？	…….huh?		scene_04
@@ -343,14 +343,14 @@ TIFAって……女の人？	Is TIFA…a girl?	女人	scene_04
 なれてるわ	I'm used to it.		scene_04
 なれてる！？	Used to it!?		scene_04
 ……まあ、そうだとしても女の力をかりるなんて…	Well, I don't know… getting help from a girl…	女力	scene_04
-女！！　女の力なんて！？	A girl!! What do you mean by that!?	女女力	scene_04
+女！！　女の力なんて！？	A girl!! What do you mean by that!?	女力	scene_04
 そういう言い方されてだまってるわけにはいかないわね	You expect me to just sit by quietly after hearing you say something like that!?	言方	scene_04
 お母さん！わたし、７番街までCLOUDをおくっていくから	Mom! I'm taking CLOUD to Sector 7. I'll be back in a while.	母番街	scene_04
 やれやれ。言いだしたら聞かないからね	But dear…I give up. You never listen once you've made up your mind.	言聞	scene_04
-でも、明日にしたらどうだい？今日はもう遅くなってきたし	But if you must go, why don't you go tomorrow? It's getting late now.	明日今日遅	scene_04
+でも、明日にしたらどうだい？今日はもう遅くなってきたし	But if you must go, why don't you go tomorrow? It's getting late now.	明日今遅	scene_04
 うん、わかった、お母さん	Yeah, you're right, Mom.	母	scene_04
 AERIS、ベッドの準備をしておくれ	AERIS, please go make the bed.	準備	scene_04
-７番街へは６番街を抜けていくの。６番街、ちょっと危険なところだから今夜はゆっくり休んでね	You need to go through Sector 6 to get to Sector 7. Sector 6 is a little dangerous so you'd better get some rest tonight.	番街番街抜番街危険今夜休	scene_04
+７番街へは６番街を抜けていくの。６番街、ちょっと危険なところだから今夜はゆっくり休んでね	You need to go through Sector 6 to get to Sector 7. Sector 6 is a little dangerous so you'd better get some rest tonight.	番街抜危険今夜休	scene_04
 おやすみ	Good night.		scene_04
 まいったな……-	Oh, man…		scene_04
 CLOUDの家	CLOUD's House	家	scene_04
@@ -371,7 +371,7 @@ CLOUDの家	CLOUD's House	家	scene_04
 そんな女の子がピッタリだと思うんだけどね	I think that would be best for you.	女子思	scene_04
 ……興味ないな	I'm not interested.	興味	scene_04
 ……いつのまにか眠ってしまったのか	…I must've fallen asleep.	眠	scene_04
-６番街をこえて７番街へ、か。１人でなんとかなりそうだな	Sector 7's past Sector 6… I should be all right by myself…	番街番街人	scene_04
+６番街をこえて７番街へ、か。１人でなんとかなりそうだな	Sector 7's past Sector 6… I should be all right by myself…	番街人	scene_04
 もう！　またタークス、来たのかと思ったじゃない！おとなしく休んで！	CLOUD! I thought the Turks came back! Get some rest!	来思休	scene_04
 次はみつからないように……	Can't get caught this time…	次	scene_04
 あんたのその目の輝きは……ソルジャーなんだろ？	That glow in your eyes… you're from SOLDIER, right?	目輝	scene_04
@@ -379,7 +379,7 @@ CLOUDの家	CLOUD's House	家	scene_04
 ………。言いにくいんだけど…	… I don't know how to say this, but…	言	scene_04
 今夜のうちに出ていってくれないかい？AERISにはないしょでさ	could you please leave here tonight, without telling AERIS?	今夜出	scene_04
 ソルジャーなんて……またAERISが悲しい思いをすることになる……	SOLDIER…the last thing AERIS needs is to get hurt again.	悲思	scene_04
-６番街をこえて７番街へ、か。一人でなんとかなりそうだな	Through Sector 6 to get to Sector 7. I should be able to do it alone…	番街番街一人	scene_04
+６番街をこえて７番街へ、か。一人でなんとかなりそうだな	Through Sector 6 to get to Sector 7. I should be able to do it alone…	番街一人	scene_04
 の家	AERIS's House	家	scene_04
 お早い出発、ね	You're up bright and early.	早出発	scene_04
 危険だとわかっているのにあんたにたよるわけにはいかないさ	I couldn't ask you to go. I knew it would be dangerous.	危険	scene_04

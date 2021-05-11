@@ -39,7 +39,8 @@ function getTitle(name){
 			let split = line.split("\t");
 			let english = split[0];
 			let japanese = split[1];
-			let kanji = japanese.match(kanjiRule) || [];
+			let kanjiMatch = japanese.match(kanjiRule);
+			let kanji = kanjiMatch ? [...new Set(kanjiMatch)] : [];
 			let format = `${japanese}\t${english}\t${kanji.join("")}\tscene_${num.toString().padStart(2, "0")}`;
 			formatted.push(format);
 			combined.push(format)

@@ -22,7 +22,7 @@ CLOUDよう。ウソはいけねえぜ	Yo, CLOUD. It's not good to lie.		scene_2
 どしたの？	What happened?		scene_21
 俺はウソなんか言ってない	I'm not lying!	俺言	scene_21
 俺はおぼえてる……あの炎の熱さを……	I remember…the intense heat of the flames…	俺炎熱	scene_21
-うぁぁぁあああ……呼んで……る……セフィロスが……呼んでる……	Wooow… He's…calling…Sephiroth… is…calling…	呼呼	scene_21
+うぁぁぁあああ……呼んで……る……セフィロスが……呼んでる……	Wooow… He's…calling…Sephiroth… is…calling…	呼	scene_21
 セフィ……ロス……さま……ちかくに……いる……	The…Great…Se…phi…roth… is…near..."		scene_21
 ……屋敷……の……なか……おおぉぉぉ……セフィ……ロス……さま	In…side…inside…the Mansion… Urrrrrrrgh…the great…Sephi…roth	屋敷	scene_21
 セフィ……ロス……さま…………行って……しまった……	Great…Sephi…roth… …left us…	行	scene_21
@@ -49,21 +49,21 @@ CLOUD……CLOUDが弾いてた	CLOUD… CLOUD was playing.	弾	scene_21
 どこかで聞いたメロディ。なんとなくうまく弾けた……	I've heard this melody somewhere before. I played it well.	聞弾	scene_21
 その曲なら、がくふがあるわ	I have the sheet music for that song.	曲	scene_21
 あれ？　ちょっと待って！がくふの間に何かはさまってる	Huh? Wait a minute! There's something inside the music sheet.	待間何	scene_21
-TIFAよこの村はいったいどうなっているのだ？あれは幻、それとも夢だったのか？いや、そんなはずはない。私ははっきりと覚えている。炎の中から無事な者を救いだそうとしたが力およばず……怒りに燃えた私はセフィロスを倒すべく魔晄炉へ向かった。	TIFA, what's happened to our town? Was it all an illusion, or just a dream? No, it was neither. I remember trying to get people out of the flames, but not having the strength… Burning with anger, I went to the reactor to kill Sephiroth.	村幻夢私覚炎中無事者救力怒燃私倒魔晄炉向	scene_21
+TIFAよこの村はいったいどうなっているのだ？あれは幻、それとも夢だったのか？いや、そんなはずはない。私ははっきりと覚えている。炎の中から無事な者を救いだそうとしたが力およばず……怒りに燃えた私はセフィロスを倒すべく魔晄炉へ向かった。	TIFA, what's happened to our town? Was it all an illusion, or just a dream? No, it was neither. I remember trying to get people out of the flames, but not having the strength… Burning with anger, I went to the reactor to kill Sephiroth.	村幻夢私覚炎中無事者救力怒燃倒魔晄炉向	scene_21
 セフィロスの姿は見えなかった。	But he was nowhere to be found.	姿見	scene_21
 そのかわり魔晄炉の中で倒れていた TIFA、おまえをみつけたのだ。	Instead, I found you, collapsed inside. 	魔晄炉中倒	scene_21
 セフィロスを倒すよりも おまえの命を救う方が大切だと私は考えた。	I felt saving you was far more important than going after Sephiroth.	倒命救方大切私考	scene_21
 魔晄炉の中には他にも何人かまだ息のある者がいたのだが救うことができたのはおまえだけだった	There were several others that were still alive inside, but I was only able to save you.	魔晄炉中他何人息者救	scene_21
 魔晄炉から出ると、神羅の軍隊が 到着したところだった。	As I was coming out of the reactor, Shinra troops were just arriving.	魔晄炉出神羅軍隊到着	scene_21
-指揮をとっていたのは、たしか宝条という科学者だったと記憶している。宝条は【少しでも息のある者は実験用に集めておけ】と兵士たちに命令していた。何の実験だか知らないが、かわいい弟子を渡すわけにはいかない。	I recall a scientist named Hojo was in charge. He ordered the troops to gather up everyone still alive for the experiment. I didn't know what type of experiment he was talking about, but I wasn't about to let them have my dearest student.	指揮宝条科学者記憶宝条少息者実験用集兵士命令何実験知弟子渡	scene_21
-私はおまえを背負って山をおりそして村を出た。私は道中何度もおまえにケアルをかけつつ	Putting you on my back, I headed down the mountain to the village. I used the Cure spell on you many times.	私背負山村出私道中何度	scene_21
+指揮をとっていたのは、たしか宝条という科学者だったと記憶している。宝条は【少しでも息のある者は実験用に集めておけ】と兵士たちに命令していた。何の実験だか知らないが、かわいい弟子を渡すわけにはいかない。	I recall a scientist named Hojo was in charge. He ordered the troops to gather up everyone still alive for the experiment. I didn't know what type of experiment he was talking about, but I wasn't about to let them have my dearest student.	指揮宝条科学者記憶少息実験用集兵士命令何知弟子渡	scene_21
+私はおまえを背負って山をおりそして村を出た。私は道中何度もおまえにケアルをかけつつ	Putting you on my back, I headed down the mountain to the village. I used the Cure spell on you many times.	私背負山村出道中何度	scene_21
 おまえの命を救ってくれる医者を求めてミッドガルを目指した。あの街は好きではないが、私のケアルだけではどうしようもなかった。	And started to head for Midgar to look for a doctor for you. I didn't like that city, and my Cure spells weren't helping.	命救医者求目指街好私	scene_21
-ミッドガルの信頼できる医者におまえをあずけて私は再び旅に出ることにした。おまえのことは心配だったがひとつ場所にとどまっていられないのが私の性分だ。	I decided to go to Midgar to find a doctor I could trust. I'm worried about you, but I can't settle down in one place for very long.	信頼医者私再旅出心配場所私性分	scene_21
+ミッドガルの信頼できる医者におまえをあずけて私は再び旅に出ることにした。おまえのことは心配だったがひとつ場所にとどまっていられないのが私の性分だ。	I decided to go to Midgar to find a doctor I could trust. I'm worried about you, but I can't settle down in one place for very long.	信頼医者私再旅出心配場所性分	scene_21
 傷はすっかり良くなっただろうか？元気にしているだろうか？	Have you recovered fully? Are you well?	傷良元気	scene_21
-あれから、何年がすぎたのだ？私はふらりとこの村に戻ってきたが正直なところ、おどろいている。村は元通りだが、黒い服の不気味な者たちがうろついている……。	I wonder how many years have passed since then? I just got into town again, but I can't believe it… The whole town is back to normal, except for the strange people with black clothes all around.	何年私村戻正直村元通黒服不気味者	scene_21
-神羅のにおいがぷんぷんするが私は深追いするつもりはない。逃げていると言われればそれまでだが神羅にかかわるのは、もういやなのだ。さて、TIFA。この家の者が戻って来ないうちにここを立ち去らなくてはならない。時間はなさそうだ。	The town reeks of Shinra, but I won't go after them. You may think I'm running from them, but it's just that I don't want anything to do with Shinra anymore. Feels like time is running out.	神羅私深追逃言神羅家者戻来立去時間	scene_21
+あれから、何年がすぎたのだ？私はふらりとこの村に戻ってきたが正直なところ、おどろいている。村は元通りだが、黒い服の不気味な者たちがうろついている……。	I wonder how many years have passed since then? I just got into town again, but I can't believe it… The whole town is back to normal, except for the strange people with black clothes all around.	何年私村戻正直元通黒服不気味者	scene_21
+神羅のにおいがぷんぷんするが私は深追いするつもりはない。逃げていると言われればそれまでだが神羅にかかわるのは、もういやなのだ。さて、TIFA。この家の者が戻って来ないうちにここを立ち去らなくてはならない。時間はなさそうだ。	The town reeks of Shinra, but I won't go after them. You may think I'm running from them, but it's just that I don't want anything to do with Shinra anymore. Feels like time is running out.	神羅私深追逃言家者戻来立去時間	scene_21
 おまえは必ずこの手紙を見つけるにちがいない。それを信じてここに私からのおくりものを隠しておく。きっと役に立つだろう。	I'm sure you'll find this letter. And this gift for you. It should come in handy.  	必手紙見信私隠役立	scene_21
-直接渡したいところだが弟子に老いた自分を見られるのはつらい。もう私はジャンプさえ出来なくなってしまった。私の技、おまえがみがきあげてくれることをねがっている。	I want to give it to you myself, but it's hard for my students to see me as an old man. I can't even jump anymore. But I hope you continue to sharpen your skills and remember what I taught you.	直接渡弟子老自分見私出来私技	scene_21
+直接渡したいところだが弟子に老いた自分を見られるのはつらい。もう私はジャンプさえ出来なくなってしまった。私の技、おまえがみがきあげてくれることをねがっている。	I want to give it to you myself, but it's hard for my students to see me as an old man. I can't even jump anymore. But I hope you continue to sharpen your skills and remember what I taught you.	直接渡弟子老自分見私出来技	scene_21
 最愛の弟子へ　ザンガン	To my most precious student,  From Zangan	最愛弟子	scene_21
 TIFAの最終奥義	Tifa's Final Mystery?	最終奥義	scene_21
 『ファイナルヘブン』を手にいれた	Received "Final Heaven"	手	scene_21
@@ -96,7 +96,7 @@ TIFAの最終奥義	Tifa's Final Mystery?	最終奥義	scene_21
 ２　機密保持関係報告	2  Confidentiality Report	機密保持関係報告	scene_21
 今期に村をおとずれた人間は計８名。 	A total of eight people have visited this town this quarter.	今期村人間計名	scene_21
 さいわい、今期も、５年前の事件を 知っている者はいませんでした。	Fortunately, none knew about the incident five years ago.	今期年前事件知者	scene_21
-ですから、村が燃える前と同じように再建されたことに気づいた者はいません。村人のふりをしているスタッフの演技もなかなか上手くなりましたのでこちらの方は間題なしと思われます。	Therefore, no one knows the town was restored exactly as it was five years ago. Our staff, disguised as townspeople, have improved their acting skills, and we do not report any problems at this time.	村燃前同再建気者村人演技上手方間題思	scene_21
+ですから、村が燃える前と同じように再建されたことに気づいた者はいません。村人のふりをしているスタッフの演技もなかなか上手くなりましたのでこちらの方は間題なしと思われます。	Therefore, no one knows the town was restored exactly as it was five years ago. Our staff, disguised as townspeople, have improved their acting skills, and we do not report any problems at this time.	村燃前同再建気者人演技上手方間題思	scene_21
 以上、報告いたします	That is all.	以上報告	scene_21
 とめてくれ	Give me a room		scene_21
 １泊１００ギルになります。よろしいですか？	It'll be 100 gil a night. Is that all right with you?	泊	scene_21
@@ -137,7 +137,7 @@ TIFAの最終奥義	Tifa's Final Mystery?	最終奥義	scene_21
 えっ？　秘密？	What? Secret?	秘密	scene_21
 ウチらは知らないな。でも、いいのいいの	We don't have a clue. But it's all right.	知	scene_21
 もう全部終わりなんだからさ！	It's all over anyway!	全部終	scene_21
-終わり終わり終わり！！ああ、こうしてる間にもメテオが～！　終末が～！！	Finished, finito, over!! Even as we speak Meteor… This is the end!	終終終間終末	scene_21
+終わり終わり終わり！！ああ、こうしてる間にもメテオが～！　終末が～！！	Finished, finito, over!! Even as we speak Meteor… This is the end!	終間末	scene_21
 『１２』のイレズミがあるな。ん？　何か持ってるぞ	He has a tattoo of the number'12'. Mmm? He has something.	何持	scene_21
 聞こ……え……る？セフィ……ロスの……声……	Can…you…hear? The…voice…of…Se…phi…roth?	聞声	scene_21
 ふたのウラに文字がきざまれている	Something is written on the back of the lid.	文字	scene_21
@@ -157,15 +157,15 @@ TIFAの最終奥義	Tifa's Final Mystery?	最終奥義	scene_21
 ビーカーの内がわにツメでキズつけたあとが……『ここから逃げよう……』	A scratch left by a fingernail inside the beaker… Let's get out of here…'.	内逃	scene_21
 サンプル　ー　Ａ（コードＺ）	specimen(A)  codeZ		scene_21
 ビーカーの内がわにツメでキズつけたあとが……『エサの時間が…チャンスだ……』	A scratch left by a fingernail inside the beaker… Feeding Time'…that's our chance…!	内時間	scene_21
-逃亡者に関する報告書　１ Ｘ月Ｘ日 当施設から逃亡した２名を ミッドガル近辺で発見しました]	Escapee Report no. 1 X Month X Day Two escapees were located near Midgar.	逃亡者関報告書月日当施設逃亡名近辺発見	scene_21
+逃亡者に関する報告書　１ Ｘ月Ｘ日 当施設から逃亡した２名を ミッドガル近辺で発見しました]	Escapee Report no. 1 X Month X Day Two escapees were located near Midgar.	逃亡者関報告書月日当施設名近辺発見	scene_21
 逃亡者に関する報告書　２ 発見時の状態	Escapee Report no. 2 Description at the time of capture.	逃亡者関報告書発見時状態	scene_21
 Ａ　元ソルジャー／ナンバー【無】 魔晄照射およびジェノバの影響は 見受けられませんでした。 	A  Former member of SOLDIER/Number(   ) No effect could be detected from either Mako Radiation Therapy or Jenova on him.	元無魔晄照射影響見受	scene_21
 Ｂ　一般／ナンバー【無】ジェノバへの反応過多が見受けられました	B  Regular/Number (   ) Reaction to Jenova detected.	一般無反応過多見受	scene_21
-逃亡者に関する報告書　３：処分に関して	Escapee Report no. 3 Status.	逃亡者関報告書処分関	scene_21
+逃亡者に関する報告書　３：処分に関して	Escapee Report no. 3 Status.	逃亡者関報告書処分	scene_21
 Ａ　抵抗したため、射殺。	A  Shot for resisting.	抵抗射殺	scene_21
 Ｂ　Ａが抵抗する間に逃亡	B  Escaped during A's resistance.	抵抗間逃亡	scene_21
 逃亡者に関する報告書　４ ：その他	Escapee Report no. 4 Other	逃亡者関報告書他	scene_21
-現在、Ｂの行方は不明です。しかし、Ｂは意識の乱れがかなり進行している様子でしたのでこのまま放置しておいても間題は無いというのが我々の見解です。今後に関する指示をおねがいします	B's whereabouts is currently unknown. But pursuit is unnecessary due to his diminishing consciousness. Awaiting further instructions.	現在行方不明意識乱進行様子放置間題無我見解今後関指示	scene_21
+現在、Ｂの行方は不明です。しかし、Ｂは意識の乱れがかなり進行している様子でしたのでこのまま放置しておいても間題は無いというのが我々の見解です。今後に関する指示をおねがいします	B's whereabouts is currently unknown. But pursuit is unnecessary due to his diminishing consciousness. Awaiting further instructions.	現在行方不明意識乱進様子放置間題無我見解今後関指示	scene_21
 セフィロス！	Sephiroth!		scene_21
 なつかしいな、ここは	Being here brings back memories.		scene_21
 ところで、おまえはリユニオンに参加しないのか？	Are you going to participate in the Reunion?	参加	scene_21
@@ -188,13 +188,13 @@ TIFAの最終奥義	Tifa's Final Mystery?	最終奥義	scene_21
 ダイヤル　【３】　のヒント	dial (3)		scene_21
 酸素が一番多いハコのふた	The lid of the box with the most oxygen.	酸素一番多	scene_21
 空のない黒と白のウラ	Behind the Ivory's short of tea and ray.	空黒白	scene_21
-２階のイスのそばのユカのきしみ……そこから左５歩、上９歩、左２歩、上６歩	The creek in the floor near the chair on the second floor… then to the left five steps, up nine steps, left two steps, and up six steps.	階左歩上歩左歩上歩	scene_21
+２階のイスのそばのユカのきしみ……そこから左５歩、上９歩、左２歩、上６歩	The creek in the floor near the chair on the second floor… then to the left five steps, up nine steps, left two steps, and up six steps.	階左歩上	scene_21
 ４行目があぶりだされた……	The fourth row has been written in invisible ink…	行目	scene_21
 ダイヤル　【４】　は　【右　９７】	Dial (4) is  (Right 97)	右	scene_21
 よく見るとウラにも文字がかいてある……	Look, something is written on the back…	見文字	scene_21
 ウラを見てみよう	Look at the back	見	scene_21
 無視しよう	Ignore	無視	scene_21
-まだわからないのかね？一度調べたからって安心してはだめだよ。しつこく調べなくては	You still don't get it? Don't give up if you've only checked it once. You have to be persistent.	一度調安心調	scene_21
+まだわからないのかね？一度調べたからって安心してはだめだよ。しつこく調べなくては	You still don't get it? Don't give up if you've only checked it once. You have to be persistent.	一度調安心	scene_21
 よく見るとこの手紙はあぶりだしのようだ	Look, this letter could be in invisible ink.	見手紙	scene_21
 あぶりだしてみよう	Read it		scene_21
 この屋敷の中で４つあるもの……それをもっとよく調べてみてくれ	There are four things in this mansion… Check more closely.	屋敷中調	scene_21

@@ -1,11 +1,11 @@
-あら、こんにちわ。彼女、いつも彼につきっきりよ。よっぽど大切な人なのね	She's always there right by his side. She must really love him.	彼女彼大切人	scene_35
+あら、こんにちわ。彼女、いつも彼につきっきりよ。よっぽど大切な人なのね	She's always there right by his side. She must really love him.	彼女大切人	scene_35
 いい、たとえどんな時でも彼女みたいに、強くならなきゃ	Even at a time like this You've got to be strong like her.	時彼女強	scene_35
 そうそう、彼、時々ナンバーがどうのってつぶやくんだけど……なんのことなのかしら？	Sometimes he mumbles about numbers… I wonder what it means?	彼時	scene_35
 彼女、最近さすがにつかれがみえてきたみたいだけど……だいじょうぶかしら？	She's finally beginning to look a little tired… I hope she's all right.	彼女最近	scene_35
 ぜんぜん変化がないなかでそれでもがんばりつづけるのってけっこうしんどいのよね	No change in his condition, yet she stays right by his side. It must be tough on her.	変化	scene_35
 このままじゃ、彼女の方までおかしくなっちゃうんじゃないかしら……	If she keeps this up she's going to get sick…	彼女方	scene_35
 やあ、君たちか……。残念だが、友人の容体は相変わらずだよ……	I'm sorry… But your friend's condition remains unchanged…	君残念友人容体相変	scene_35
-あきらめずに気長に待つんだ。こういうことは、時間がかんじんだよ、時間が……。うまいワインとおんなじでな	You'll have to be patient and wait this out. These things take time. Just like fine wine, time is of the essence.	気長待時間時間	scene_35
+あきらめずに気長に待つんだ。こういうことは、時間がかんじんだよ、時間が……。うまいワインとおんなじでな	You'll have to be patient and wait this out. These things take time. Just like fine wine, time is of the essence.	気長待時間	scene_35
 百億の……鏡のかけら……小さな……ともしび……	A billion mirror fragments… small…light…	百億鏡小	scene_35
 とらわれた……天使の……うた声……。……ゼノ……ギアス……	taken…angel's… singing voices… …Xeno…gears…	天使声	scene_35
 ……。俺……。ナンバー……いくつ？	…what… What number….am I?	俺	scene_35
@@ -57,7 +57,7 @@ CLOUDは……！？CLOUDは、どこ！？	Where's CLOUD? CLOUD, where are you!
 え……なに……？だれ……？	Huh…what? Who…?		scene_35
 だれなの……？聞こえないよ……	Who is it? I can't hear…	聞	scene_35
 ちょっと、待って……！私、そんなの、知らない！	Wait a minute! I know nothing about that!	待私知	scene_35
-ちがう、私じゃないよ……！私、そんなこと、しない！！	No! It's not me! I'd never do anything like that!!	私私	scene_35
+ちがう、私じゃないよ……！私、そんなこと、しない！！	No! It's not me! I'd never do anything like that!!	私	scene_35
 いやッ、やめて……！！なかに入って来ないで！！	No! Stop it!! Stay back!	入来	scene_35
 だれか、助けて……！おねがい……！！	Somebody…help! Please!!	助	scene_35
 助けて、CLOUDッ！！	CLOUD,help me!!	助	scene_35
@@ -71,7 +71,7 @@ CLOUDは……！？CLOUDは、どこ！？	Where's CLOUD? CLOUD, where are you!
 通じているの……ニブルヘイムに……？	It connects… to Nibelheim?	通	scene_35
 そうね……。たしかにそこからはじめるのが一番なのかもしれない……	That's right…It's probably best to start from there…	一番	scene_35
 行ってみましょう、CLOUD。つらいかもしれないけど……。私がついてるから……	Let's go have a look, CLOUD. I know it's not easy… I'll be here for you…	行私	scene_35
-ニブルヘイムの門……５年前、セフィロスとともにこの門をくぐり……	The gates of Nibelheim… Five years ago, Sephiroth passed through these gates…	門年前門	scene_35
+ニブルヘイムの門……５年前、セフィロスとともにこの門をくぐり……	The gates of Nibelheim… Five years ago, Sephiroth passed through these gates…	門年前	scene_35
 そうして……すべてがはじまった……	And… That's how it all started…		scene_35
 星空の給水塔……。あの夜のふたりの約束も……いつわりの記憶でしかないとしたら？	That starry night at the well… The promise we made then… What if that memory was all a lie?	星空給水塔夜約束記憶	scene_35
 ………ふうじこめられたひそかな……ねがい……	…A sealed up secret…wish…		scene_35
@@ -89,24 +89,24 @@ CLOUD、がんばって！あとすこしよ！本当のあなたを、つかま
 行きましょう、もう一度ニブルヘイムへ……！	Let's go back to Nibelheim again!	行一度	scene_35
 真実は、すぐそこにある。もうすぐ答えが、手に入る……	The truth is right there. We almost have the answer right in the palm of our hands.	真実答手入	scene_35
 私には……もう、なにも言えない……	There's nothing… I can say.	私言	scene_35
-答えはあなたが、自分自身で見つけなきゃ……	You must find the answer yourself.	答自分自身見	scene_35
+答えはあなたが、自分自身で見つけなきゃ……	You must find the answer yourself.	答自分身見	scene_35
 それが見つけられないと……あなたは……	If you can't, then…	見	scene_35
 急がないで、CLOUD。ゆっくり……すこしずつでいいの。ね？	Take your time, CLOUD. Slowly…little by little, OK?	急	scene_35
 セフィロスとともにニブルヘイムに出向いたソルジャーはCLOUDでは……なかった……？	You mean that member of SOLDIER who came with Sephiroth wasn't…CLOUD?	出向	scene_35
 あせっちゃダメ、CLOUD……。答えをいそいで、自分を追いつめないで	Don't hurry, CLOUD… Don't answer too quickly.	答自分追	scene_35
 たくさんの小さな想いをたしかめながらもどって行けばいいのよ……。ゆっくり……すこしずつね……	Just keep checking all those small emotions and it'll come back… Slowly…little by little…	小想行	scene_35
 そう……たとえば、あの夜空の満天の星たち……	Right…like the sky that night… the heavens were filled with stars…	夜空満天星	scene_35
-星空の約束……。しかしそれさえもTIFAの想いによってうみだされた幻想なのだとしたら……？	A promise under a starry sky… But what if that was just a memory TIFA imagined?	星空約束想幻想	scene_35
+星空の約束……。しかしそれさえもTIFAの想いによってうみだされた幻想なのだとしたら……？	A promise under a starry sky… But what if that was just a memory TIFA imagined?	星空約束想幻	scene_35
 セフィロスとともにニブルヘイムに出向いたソルジャーはCLOUDでは……なかった……	You mean that member of SOLDIER who came with Sephiroth to Nibelheim wasn't CLOUD?	出向	scene_35
 ねえ、CLOUD、それなら……ほかの記憶は？	CLOUD, what about your other memories?	記憶	scene_35
 ううん、記憶じゃない	No, not memories.	記憶	scene_35
-記憶って、頭の中から無理矢理ひっぱりださなくちゃならないでしょ？	A memory is something that is consciously recalled, right?	記憶頭中無理矢理	scene_35
+記憶って、頭の中から無理矢理ひっぱりださなくちゃならないでしょ？	A memory is something that is consciously recalled, right?	記憶頭中無理矢	scene_35
 だから間違ってたり、カタチが変わっていたり……	That's why sometimes it can be mistaken or wrong.	間違変	scene_35
 でも、胸の奥にねむる思い出はちがうわ……	It's different from a memory locked deep within your heart.	胸奥思出	scene_35
 きっとそれは、にせものなんかじゃない。もしそんな思い出を、よびさますことができれば……	That's why it must be a fake. If he could recall up that memory…	思出	scene_35
 そうだ！　なにかしら私に関係のある思い出は、どう？	That's it! What about some memory that has to do with me?	私関係思出	scene_35
 私がなにか言って、そのことをあなたが思い出すんじゃなくて……	If I say something, you can't remember it.	私言思出	scene_35
-CLOUDがなにか言って、もし私もそのことをおぼえていれば……それが、あなたと私の思い出……	But if you say something, and I remember it, too… Then we'll know that's a memory.	言私私思出	scene_35
+CLOUDがなにか言って、もし私もそのことをおぼえていれば……それが、あなたと私の思い出……	But if you say something, and I remember it, too… Then we'll know that's a memory.	言私思出	scene_35
 ねえ、なにか話して。なんでもいいから、あなたにとって大切な思い出を……	Talk to me. About anything, some important memory to you…	話大切思出	scene_35
 そういえば、CLOUDはどうしてソルジャーになりたいって考えたの？	Now that you mention it, why did you want to join SOLDIER in the first place?	考	scene_35
 私には、あなたが突然決心したように思えたんだけど……	I always thought it was a sudden decision.	私突然決心思	scene_35
@@ -121,7 +121,7 @@ TIFA……忘れちゃったの……あの時のこと？	TIFA…Did you forget
 ごめんなさい……。なんのこと、言ってるの？	I'm sorry… But what are you talking about?	言	scene_35
 ううん……いいんだ。TIFA、あの時は大変だったしね	No…it's all right. You were having a hard time back then.	時大変	scene_35
 自分のことで手一杯だったからあの時のおれのことなんかおぼえてなくて当たり前だよ	You were so busy with your own things, it's only natural you don't remember me then.	自分手一杯時当前	scene_35
-おれにとっては大切な……悔しかったけど……すごく大切な思い出なんだ……	It's important to me… I hate to say it, but it's a very important memory.	大切悔大切思出	scene_35
+おれにとっては大切な……悔しかったけど……すごく大切な思い出なんだ……	It's important to me… I hate to say it, but it's a very important memory.	大切悔思出	scene_35
 ……行ってみる？	Do you want to see it?	行	scene_35
 あ……待って！	Oh…wait!	待	scene_35
 さあ、はやく	Come on, hurry.		scene_35
@@ -147,7 +147,7 @@ CLOUD！？だいじょうぶ！？	CLOUD!? Are you all right!?		scene_35
 おじいさんの宿屋もあるね	And that's Gramps' Inn, too.	宿屋	scene_35
 村で１台きりのトラック。私たちが子供のころからここにあったんだよね？	The only truck in town. It's been here since we were little kids, right?	村台私子供	scene_35
 これがあなたの記憶の中のニブルヘイムなのね？	This is the Nibelheim you remember, right?	記憶中	scene_35
-私のニブルヘイムと同じ。だからここは……私たちのニブルヘイムだね	It's the same as my Nibelheim. That's why this is…our Nibelheim.	私同私	scene_35
+私のニブルヘイムと同じ。だからここは……私たちのニブルヘイムだね	It's the same as my Nibelheim. That's why this is…our Nibelheim.	私同	scene_35
 ５年前……ここにふたりのソルジャーがやって来た……	Five years ago…two men from SOLDIER came…	年前来	scene_35
 セフィロスと……若くて陽気なソルジャー	Sephiroth and… a young and vibrant soldier.	若陽気	scene_35
 その時のようす……もう一度教えて？	Can you tell me again what happened?	時一度教	scene_35
@@ -177,7 +177,7 @@ CLOUDは私の話にあわせてこの記憶をつくりだしたって言って
 でも、あなた自身は信じていない……	But you don't believe in yourself…	自身信	scene_35
 この記憶だけじゃ足りないよね	These memories aren't enough.	記憶足	scene_35
 あの山の向こう……何があるのかな？	…I wonder if there's anything beyond that mountain?	山向何	scene_35
-ニブル山はこわいよ。何人も人が死んでるからね	Mt. Nibel is scary. Many people have died there.	山何人人死	scene_35
+ニブル山はこわいよ。何人も人が死んでるからね	Mt. Nibel is scary. Many people have died there.	山何人死	scene_35
 生きては越えられない山……	No one crosses that mountain alive…	生越山	scene_35
 じゃあ、死んだ人は？	How 'bout those that died?	死人	scene_35
 ママは山を越えていっちゃったの？	Did mama pass through the mountains?	山越	scene_35
@@ -196,7 +196,7 @@ TIFAにもしものことがあったらどうするつもりだったんだ！�
 『それからはTIFAがいつも俺を責めているような気がしてさ』	Ever since then, I felt TIFA blamed me…	俺責気	scene_35
 『俺は荒れていった……誰かれかまわずケンカをしかけて……』	I went out of control… I'd get into fights with anyone.	俺荒誰	scene_35
 『そんな時だ。セフィロスのことを知ったのは』	That was the first time I heard about Sephiroth.	時知	scene_35
-『セフィロスのように強くなりたい。強くなれば、みんな俺のことを……』	I thought if I were strong like Sephiroth, then…	強強俺	scene_35
+『セフィロスのように強くなりたい。強くなれば、みんな俺のことを……』	I thought if I were strong like Sephiroth, then…	強俺	scene_35
 CLOUDが来るぞ！	CLOUD's coming!	来	scene_35
 あいつ入ってくる気かな？	You think he wants to come in?	入気	scene_35
 この日、CLOUDが初めて私の部屋に？	Was that the first day you came into my room?	日初私部屋	scene_35
@@ -241,14 +241,14 @@ CLOUDの記事、のってるかもしれないから新聞だって読むよう
 ありがとう、TIFA	Thanks, TIFA.		scene_35
 あとで、こいつに言ってやって。きっとよろこぶよ	Tell him what you told me, later. He'll probably be so happy.	言	scene_35
 あれっ？	Huh?		scene_35
-ねえ、この日、何があったの？何か特別な日？	What happened on this day? Was it a special day?	日何何特別日	scene_35
+ねえ、この日、何があったの？何か特別な日？	What happened on this day? Was it a special day?	日何特別	scene_35
 この日はね……	This was the day…	日	scene_35
 『TIFAのお母さんが……』	TIFA's mother…	母	scene_35
 ママが……死んじゃった日……	The day Mom died…	死日	scene_35
 待って、CLOUD	CLOUD, wait.	待	scene_35
 どこへ？　どこへ行くの？	Where are you going?	行	scene_35
 ……魔晄炉……？	……The reactor……?	魔晄炉	scene_35
-魔晄炉へ！　５年前の魔晄炉へ！	To the reactor! The Mako reactor of five years ago!	魔晄炉年前魔晄炉	scene_35
+魔晄炉へ！　５年前の魔晄炉へ！	To the reactor! The Mako reactor of five years ago!	魔晄炉年前	scene_35
 そう……これが……俺だ	Yeah…this is…me.	俺	scene_35
 ソルジャーなんかじゃないただの兵士	Not in SOLDIER, just a common grunt.	兵士	scene_35
 俺、ソルジャーにはなれなかったよ	I…never made it as a member of SOLDIER.	俺	scene_35
@@ -285,7 +285,7 @@ BARRET……帰ってきたのね、私……	BARRET… You came back. I…	帰�
 CLOUDは……？彼は、だいじょうぶ？	CLOUD… Where is he?	彼	scene_35
 ああ、心配いらねえ。しぶとい野郎だぜ、まったく	Don't worry about him. He's a tough one.	心配野郎	scene_35
 ね、BARRET……私……ライフストリームのなかでほんとのCLOUDを見つけたんだ	BARRET…I… When I was in the Lifestream, I saw the real CLOUD.	私見	scene_35
-ううん、私が見つけたんじゃない。CLOUDが……彼が自分自身の力で見つけだしたんだわ……	I mean, I didn't really find him. CLOUD…he found himself…	私見彼自分自身力見	scene_35
+ううん、私が見つけたんじゃない。CLOUDが……彼が自分自身の力で見つけだしたんだわ……	I mean, I didn't really find him. CLOUD…he found himself…	私見彼自分身力	scene_35
 ああ、わかってる……。うたがったりして悪かったな	Alright, I know… I shouldn't have doubted.	悪	scene_35
 しかし、おまえにゃ負けたよ。たいした女だぜ、まったく	But I can't win against you. You're some kinda lady.	負女	scene_35
 人間て、自分のなかになんてたくさんのものをしまってるんだろう……	People have so many things pent up inside of themselves…	人間自分	scene_35
@@ -305,10 +305,10 @@ CLOUDさん！お話、感動しちゃいました！	CLOUD, I was deeply moved 
 みんな……すまなかった。なんて言ったらいいのか……	Everyone…I'm sorry. I don't know what to say…	言	scene_35
 もういいよ、CLOUD。あやまってばかりだからね	Don't say anything, CLOUD. All you've been doing is apologizing.		scene_35
 俺は元ソルジャーなんかじゃない	I never was in SOLDIER.	俺元	scene_35
-みんなに話した５年前の出来事やソルジャーとしての話は俺自身が創り出した幻想だったんだ	I made up the story about what happened five years ago and my being in SOLDIER.	話年前出来事話俺自身創出幻想	scene_35
+みんなに話した５年前の出来事やソルジャーとしての話は俺自身が創り出した幻想だったんだ	I made up the story about what happened five years ago and my being in SOLDIER.	話年前出来事俺自身創幻想	scene_35
 大見栄きって村を出たのにソルジャーになれなかった俺……	I left my village looking for glory, but never made it into SOLDIER…	大見栄村出俺	scene_35
 それをはじた弱い俺は親友だったザックスから聞いた話……	I was so ashamed of being so weak. Then I heard this story from my friend Zack…	弱俺親友聞話	scene_35
-さらに自分で見たことをまぜあわせて幻想の自分を創り出した……	And I created an illusion of myself made up of what I had seen in my life…	自分見幻想自分創出	scene_35
+さらに自分で見たことをまぜあわせて幻想の自分を創り出した……	And I created an illusion of myself made up of what I had seen in my life…	自分見幻想創出	scene_35
 そしてその自分を演じ続けていたんだ	And I continued to play the charade as if it were true.	自分演続	scene_35
 幻想かよ……そのわりには強かったじゃねえか	Illusion, huh? Pretty damn strong for an illusion.	幻想強	scene_35
 身体はソルジャーとほとんど同じなんだ	Physically, I'm built like someone in SOLDIER.	身体同	scene_35
@@ -320,7 +320,7 @@ CLOUDさん！お話、感動しちゃいました！	CLOUD, I was deeply moved 
 ジェノバ細胞とセフィロスの強い意志。そして俺の弱い心が生み出した人間	The combination of Jenova cells, Sephiroth's strong will, and my own weakness are what created me.	細胞強意志俺弱心生出人間	scene_35
 それがみんなが知っていた俺………CLOUDだ	Everyone knew that. I'm…CLOUD.	知俺	scene_35
 ……俺は幻想の世界の住人だった	…the master of my own illusionary world.	俺幻想世界住人	scene_35
-でも、もう幻想はいらない……俺は俺の現実を生きる	But I can't remain trapped in an illusion anymore… I'm going to live my life without pretending.	幻想俺俺現実生	scene_35
+でも、もう幻想はいらない……俺は俺の現実を生きる	But I can't remain trapped in an illusion anymore… I'm going to live my life without pretending.	幻想俺現実生	scene_35
 ひねくれ者のCLOUD君ね！	You're sure messed up, CLOUD!	者君	scene_35
 それじゃ今までと変わんねえぜ！	That means he ain't no different from before!	今変	scene_35
 ところでCLOUDさん。これからどないするんですか？	By the way, CLOUD. What are you going to do now?		scene_35
@@ -331,9 +331,9 @@ CLOUDさん！お話、感動しちゃいました！	CLOUD, I was deeply moved 
 BARRETがよく言ってただろ？	It's like you always told me, BARRET.	言	scene_35
 おう、アレだな！	Oh, uh, you mean that!		scene_35
 なになに？　わからないよ！	What? I don't understand!		scene_35
-俺たちが乗った列車は途中下車はできないんだ！	There ain't no gettin' offa this train we on!	俺乗列車途中下車	scene_35
+俺たちが乗った列車は途中下車はできないんだ！	There ain't no gettin' offa this train we on!	俺乗列車途中下	scene_35
 私たちが乗った列車は途中では降りられない！	There ain't no gettin' offa this train!	私乗列車途中降	scene_35
-オレたちが乗っちまった列車はよ！途中下車はできねえぜ！	There ain't no gettin' offa this train!	乗列車途中下車	scene_35
+オレたちが乗っちまった列車はよ！途中下車はできねえぜ！	There ain't no gettin' offa this train!	乗列車途中下	scene_35
 がんばろうね、CLOUD！	Let's do it, CLOUD!		scene_35
 大丈夫ですか！？	Are you okay?	大丈夫	scene_35
 ……乗り物には弱いんだ。すぐに気分が悪くなる	…I hate moving vehicles. I always get sick.	乗物弱気分悪	scene_35
@@ -349,7 +349,7 @@ BARRETがよく言ってただろ？	It's like you always told me, BARRET.	言	s
 まあ、ほかの品物をさがしてるっていうならよそをあたってみてくださいよ	If you're looking for other items, why don't you check out the other stores?	品物	scene_35
 いらっしゃい、アルね。こうゆう時こそやすらぎといこいのショップ。今日、どんな用アルか？	Welcome. Just what you need at a time like this--a shop of rest and relaxation. What ya want?	時今日用	scene_35
 まいどあり、のことね！お店、品モノないけどまた来てちょー、アルね	Thank you! We don't have many goods but you come again, please.	店品来	scene_35
-うっふっふー、いらっしゃい。来たわね。ついにこの日が来たわね！たっぷり買ってってちょうだい！	Hee, hee. Welcome It's here. The day's finally come! Your day to shop!!	来日来買	scene_35
+うっふっふー、いらっしゃい。来たわね。ついにこの日が来たわね！たっぷり買ってってちょうだい！	Hee, hee. Welcome It's here. The day's finally come! Your day to shop!!	来日買	scene_35
 え、アイテムや武器もないかって？しかたないわね。出血大サービス！５割増しってとこで、どう？	Do we have items and weapons!? Well, I should say so. And here's a bargain! What would you say to 50% off everything?	武器出血大割増	scene_35
 冗談よ。いくらあたしでもそこまであこぎじゃないわ。それじゃ、どんな用なの、今日は？	Just kidding. Even I wouldn't do something like that. Now what can I do for you today?	冗談用今日	scene_35
 アイテムを見せて	Show me your items	見	scene_35

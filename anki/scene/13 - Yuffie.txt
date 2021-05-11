@@ -29,11 +29,11 @@ CLOUD、あのコ知ってるの？	CLOUD, do you know her?	知	scene_13
 なんだ、あいつはよう？まだガキじゃねえか！	Who is that kid?		scene_13
 不思議な武器を持っているな……どこかで見た記憶がある	She has a mysterious weapon. I've seen her somewhere before…	不思議武器持見記憶	scene_13
 チクショ～……このアタシが負けるなんて……	Man… I can't believe I lost.	負	scene_13
-やい、このツンツン頭！もう１回、もう１回勝負だ！	You spikey-headed jerk! One more time, let's go one more time!	頭回回勝負	scene_13
-やい、このオッパイ女！もう１回、もう１回勝負しろ！	Hey, boobs! Try that again! Just one more time!	女回回勝負	scene_13
+やい、このツンツン頭！もう１回、もう１回勝負だ！	You spikey-headed jerk! One more time, let's go one more time!	頭回勝負	scene_13
+やい、このオッパイ女！もう１回、もう１回勝負しろ！	Hey, boobs! Try that again! Just one more time!	女回勝負	scene_13
 言ったわね！	What did you say!?	言	scene_13
 やめておくわ	Don't fight		scene_13
-やい、このガニマタオヤジ！もう１回、もう１回勝負だ！	Hey, you bow-legged ol' man! Give me another chance! I'll fight ya!	回回勝負	scene_13
+やい、このガニマタオヤジ！もう１回、もう１回勝負だ！	Hey, you bow-legged ol' man! Give me another chance! I'll fight ya!	回勝負	scene_13
 ボコボコにしてやる！	Give her a lickin'		scene_13
 やなこった	Forget it!		scene_13
 今度は負けないからね！時間をやるから、用意しなよ。カクゴができたらかかってきな！	I won't lose this time! Take your time and get ready. Holler when you're ready!	今度負時間用意	scene_13
@@ -96,6 +96,6 @@ CLOUD、あのコ知ってるの？	CLOUD, do you know her?	知	scene_13
 アタシ、YUFFIE！ひとつヨロシク！	I'm YUFFIE! Good to meetcha!		scene_13
 へへへ……うまくいったよ	Heh, heh…just as I planned.		scene_13
 あとはアレをナニして……クックック……	Now all I have to do is… a little this and a little that… nyuk, nyuk, nyuk…		scene_13
-オ～イ、待ってよ！待ってってば～！！	Hey, wait up! Wait for me!!	待待	scene_13
+オ～イ、待ってよ！待ってってば～！！	Hey, wait up! Wait for me!!	待	scene_13
 盗んだお金ならホラ！ちゃんと返すからさァ！	Here, I'll give you back the money I've stolen from you!	盗金返	scene_13
 ……まだ使ってないぶんは	…Or, uh, what's left of it.	使	scene_13

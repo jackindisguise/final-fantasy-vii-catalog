@@ -11,7 +11,7 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 いいえ、だまされるもんですか	No! Liar! Don't think you can fool me!		scene_30
 いくら、しらをきってもムダよ。絶対、許せない！！	Don't try to act innocent. I'll never forget it!!	絶対許	scene_30
 口で言ってもムダなんだったら体に聞いてもらおうじゃないの！	Looks like just talking won't do. You're going to have to feel some pain!	口言体聞	scene_30
-いえ、私１人で十分よ！私のパンチをよけられるはずがないわ	No, I can handle him! There's no way he can avoid my punch.	私人十分私	scene_30
+いえ、私１人で十分よ！私のパンチをよけられるはずがないわ	No, I can handle him! There's no way he can avoid my punch.	私人十分	scene_30
 キャー！	Eyaaaah!		scene_30
 なぜ？わざと、よけなかった……	Why? Why didn't you try to duck?		scene_30
 どうせ、あの大氷河を越えられるはずがないわ	There's no way they can climb the Great Glacier anyway.	大氷河越	scene_30
@@ -25,7 +25,7 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 悪く思うな、これも仕事なんだ	Don't be angry. I'm just doing my job.	悪思仕事	scene_30
 やめるんだ、子供たちがいるだろ！	Stop it, there're kids around!	子供	scene_30
 う～む……お前には、関係ないがここよりさらに北で何かが始まるらしいんだ	Listen, I probably shouldn't tell you, but I hear something big's going down up North.	前関係北何始	scene_30
-本社から社長もいらっしゃる。混乱をさけるためだ。ガマンしてくれんか？	The President's gonna be there. So, would you please just lay low for a while?	本社社長混乱	scene_30
+本社から社長もいらっしゃる。混乱をさけるためだ。ガマンしてくれんか？	The President's gonna be there. So, would you please just lay low for a while?	本社長混乱	scene_30
 イッ、イリーナさん！？	Ele…Elena!?		scene_30
 うわーっ！！	Who--a!!		scene_30
 ダメダメ！！この先は、すごい下り坂なんだ	No, don't!! There's a steep grade, past here.	先下坂	scene_30
@@ -64,10 +64,10 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 バリアがなくなったらお山の向こうから悲鳴がきこえるの……	Once the barrier's gone, I can hear cries from beyond the mountain…	山向悲鳴	scene_30
 パンチをかわせ！	Dodge that punch!		scene_30
 【方向キーの上】	[up]	方向上	scene_30
-【方向キーの左】　【方向キーの右】	[left]  [right]	方向左方向右	scene_30
+【方向キーの左】　【方向キーの右】	[left]  [right]	方向左右	scene_30
 【方向キーの上】　止まった時に地面をける	Directional button [up]  Move forward	方向上止時地面	scene_30
-【方向キーの左】　左移動	Directional button [left] Move left	方向左左移動	scene_30
-【方向キーの右】　右移動	Directional button [right]Move right	方向右右移動	scene_30
+【方向キーの左】　左移動	Directional button [left] Move left	方向左移動	scene_30
+【方向キーの右】　右移動	Directional button [right]Move right	方向右移動	scene_30
 【方向キーの下】　　ブレーキ	Directional button [down]Brake	方向下	scene_30
 □ボタン　　ブレーキ	[SWITCH]Brake		scene_30
 ×ボタン　　ジャンプ	[CANCEL]Jump		scene_30
@@ -86,7 +86,7 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 こんなに気温が下がったのは北の果てにできた光のドームのせいにちがいないんだ……	The reason for the drop in temperature must be because of that dome of light at the Northern limits…	気温下北果光	scene_30
 きみたちも早くここから離れて【南の島ミディール】にでも行ったほうがいいと思うよ	You all should get away from here and go to a place like Mideel Island in the south.	早離南島行思	scene_30
 キーアイテム『スノーボード』を手にいれた！	Received Key Item "Snowboard"!	手	scene_30
-この家のおじぃさんは登山家だそうなの	The master is an experienced climber, you know.	家登山家	scene_30
+この家のおじぃさんは登山家だそうなの	The master is an experienced climber, you know.	家登山	scene_30
 なんでも、あの広い大氷河を全て見てまわったそうなのよ！	I've heard that he knows every corner of that Great Glacier!	広大氷河全見	scene_30
 おばぁちゃん火の近くで眠っちゃダメよ！	Grandma, don't sleep so close to the fire!	火近眠	scene_30
 おばぁちゃん、カゼぎみでねこのごろ元気がないのよ……	Grandma's been sick for a while and doesn't have much energy…	元気	scene_30
@@ -126,7 +126,7 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 そう、昔この村にはセトラの生き残りが住んでいたんだ	Yeah, a Cetra lived in this town a long time ago.	昔村生残住	scene_30
 イファルナっていう女の人でいろんなことを知ってたんだけどな…	Her name was Ifalna, and she knew about a lot of things…	女人知	scene_30
 彼女はな、神羅に連れられてどこかに行っちゃったらしいんだ	I heard she was abducted by the Shinra and was taken somewhere.	彼女神羅連行	scene_30
-こうも、おかしな事が続くとみんなが町を出ようとする気もわかるような気がするよ……	With all the strange things happening in the world, I kinda understand why people want to leave…	事続町出気気	scene_30
+こうも、おかしな事が続くとみんなが町を出ようとする気もわかるような気がするよ……	With all the strange things happening in the world, I kinda understand why people want to leave…	事続町出気	scene_30
 セトラってのはえ～と、なんてたっけ？そうそう、古代種のことだよな	What were the Cetra? Oh yeah, they were the same as the Ancients, right?	古代種	scene_30
 けどな、っていったいどうしたんだよ？	Whadaya mean?		scene_30
 神羅と古代種…なんか、怪しいニオイがするよな	Shinra and the Ancients… I smell somethin' fishy…	神羅古代種怪	scene_30
@@ -141,7 +141,7 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 そのつもりだ	That's my plan		scene_30
 ちがう	No		scene_30
 そうかぁ…いや、この村より先に行くには地図でもなければムリだぜ	Well…if you're going past this town you'll need a map.	村先行地図	scene_30
-ホルゾフさんの家なら地図が残ってるかもなぁ？あの人、登山家だったんだよ	Maybe there's one left at Mr. Holzoff's house. He used to be a mountain climber.	家地図残人登山家	scene_30
+ホルゾフさんの家なら地図が残ってるかもなぁ？あの人、登山家だったんだよ	Maybe there's one left at Mr. Holzoff's house. He used to be a mountain climber.	家地図残人登山	scene_30
 そうかそうか。ま、何もないところだけどゆっくりしていきな	Yeah, we really don't have anything here, but make yourself at home.	何	scene_30
 ず～っと北に行くと でっかいクレーターがあるらしいんだ。	If you go further North, I heard there's a Huge Crater.	北行	scene_30
 大昔に空から何かが降ってきたにちがいないよ！	Something huge must've fallen from the sky a long time ago!	大昔空何降	scene_30
@@ -169,7 +169,7 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 古代種、いやセトラは星を治す特別な力を持っているのですか？	Do the Ancients, rather, the Cetra, have special powers to heal the Planet?	古代種星治特別力持	scene_30
 ふむ、北の大空洞に近いこの地に雪どけの時期がこないのは星の傷にエネルギーが集中しているからなのか	Hmm, even here so close to the North Cave, the snow never melts. Is that because the Planet's energy is gathered here to heal its injury?	北大空洞近地雪時期星傷集中	scene_30
 イファルナさん……少し休みましょう	Ifalna… Let's take a break.	少休	scene_30
-北の大空洞に現れた、その者とはいったい何者なのですか？まるで見当がつかないのですが	Who is the person that appeared at the North Cave? I haven't any idea.	北大空洞現者何者見当	scene_30
+北の大空洞に現れた、その者とはいったい何者なのですか？まるで見当がつかないのですが	Who is the person that appeared at the North Cave? I haven't any idea.	北大空洞現者何見当	scene_30
 顔色があまりよくない……今日はこれで終わりにしましょう	You don't look well… Let's call it a day.	顔色今日終	scene_30
 カメラは、これでよし！	Camera's ready!		scene_30
 およそ２０００年前わたしたちセトラの祖先はこの星の悲鳴を聞いたそうです	2000 years ago, our ancestors, the Cetra, heard the cries of the Planet.	年前祖先星悲鳴聞	scene_30
@@ -179,14 +179,14 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 星は空から降ってきた何かと衝突して傷ついたと語ったそうです	It said something fell from the sky making a large wound.	星空降何衝突傷語	scene_30
 何千人ものセトラが力を合わせました。星の傷をいやそうとしたのです……	Thousands of Cetra pulled together, trying to heal the Planet…	何千人力合星傷	scene_30
 でも、その傷はあまりにも深く星自身が長い年月をかけて治す他はなかったのです	But, due to the severity of the wound, it was only able to heal itself over many years.	傷深星自身長年月治他	scene_30
-いえ、そういう力ではありません。星の上にあるもの全ての生命力がエネルギーになるのです	No, it's not that kind of power. The life force of all living things on this Planet becomes the energy.	力星上全生命力	scene_30
-セトラたちは必要とされるエネルギーを絶やさぬために必死で土地を育てようとしたのですが……	The Cetra tried desperately to cultivate the land so as not to diminish the needed energy…	必要絶必死土地育	scene_30
+いえ、そういう力ではありません。星の上にあるもの全ての生命力がエネルギーになるのです	No, it's not that kind of power. The life force of all living things on this Planet becomes the energy.	力星上全生命	scene_30
+セトラたちは必要とされるエネルギーを絶やさぬために必死で土地を育てようとしたのですが……	The Cetra tried desperately to cultivate the land so as not to diminish the needed energy…	必要絶死土地育	scene_30
 ええ、傷の回復に費やすエネルギーは急速に土地を枯れさせ…そして星は…	Yes, the energy that was needed to heal the Planet withered away the land…then the Planet…	傷回復費急速土地枯星	scene_30
 星はセトラにノルズポルから離れるようにすすめたそうです…でも	The Planet tried to persuade the Cetra to leave the Knowlespole, but…	星離	scene_30
 だいじょうぶです…セトラたちが…長年親しんだ土地から旅立ちの準備をしていたとき……	I'm all right… When the Cetra…were preparing to part with the land they loved…	長年親土地旅立準備	scene_30
 それが星を傷つけた者です……空から来た厄災！わたしたちは、そう呼んでいます	That's when the one who injured the Planet… or the 'crisis from the sky', as we call it, came.	星傷者空来厄災呼	scene_30
 ウィルスに侵されたセトラたちは心を失い……そしてモンスターと化しました	The Cetra were attacked by the virus and went mad… transforming into monsters.	侵心失化	scene_30
-その時、そのものは現れたのです！その姿は、亡き母の…亡き兄のものでした。それぞれに過去の幻影を見せるのです	That's when it appeared!	時現姿亡母亡兄過去幻影見	scene_30
+その時、そのものは現れたのです！その姿は、亡き母の…亡き兄のものでした。それぞれに過去の幻影を見せるのです	That's when it appeared!	時現姿亡母兄過去幻影見	scene_30
 その者は親しげな顔でセトラたちに近づき…あざむき…そして……ウィルスを…ウィルスを与えたのです	It looked like…our…our dead mothers …and our dead brothers. Showing us specters of their past.	者親顔近与	scene_30
 その者は、ノルズポルと同じように別のセトラの部族に近づき………そしてまた…ウィルスを……	It first approached as a friend, deceived them, and finally… gave them the virus.	者同別部族近	scene_30
 では、イファルナさんウェポンという名の者の存在について語っていただけますか？	Then, just as it had at the Knowlespole.	名者存在語	scene_30
@@ -201,11 +201,11 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 ウェポンが消えることはありません。…この星のどこかで眠っているのです	A small number of the surviving Cetra defeated Jenova and confined it.	消星眠	scene_30
 わたしには、わかりません……星の声は……もう、あまり聞こえないのです	The Planet produced Weapon… But it was no longer necessary to use it.	星声聞	scene_30
 時代は……変わりました。星は……きっと様子を見ているのだと思います	Weapon cannot vanish. …It remains asleep somewhere on the Planet.	時代変星様子見思	scene_30
-博士がセトラだと誤解した者……ジェノバと名づけた者こそが……空から来た厄災なのです	I don't know… I can't hear the voice of the Planet well…	博士誤解者名者空来厄災	scene_30
+博士がセトラだと誤解した者……ジェノバと名づけた者こそが……空から来た厄災なのです	I don't know… I can't hear the voice of the Planet well…	博士誤解者名空来厄災	scene_30
 その空から来た厄災を滅ぼすことを星が意識しはじめました……	Times…have changed. The Planet…is probably watching this situation closely.	空来厄災滅星意識	scene_30
 ジェノバが存在するかぎり星が自身の力で傷を完全に治すことができないからなのです	The one the Professor mistook for a Cetra…was named Jenova. That is the 'crisis from the sky'.	存在星自身力傷完全治	scene_30
 ジェノバを封印したといってもいつ、よみがえらないともかぎりません……	The Planet knew it had to destroy the 'crisis from the sky'…	封印	scene_30
-星の傷は完全に治ってはいないのです。星はまだ、ジェノバを警戒しています	You see, as long as Jenova exists, the Planet will never be able to fully heal itself.	星傷完全治星警戒	scene_30
+星の傷は完全に治ってはいないのです。星はまだ、ジェノバを警戒しています	You see, as long as Jenova exists, the Planet will never be able to fully heal itself.	星傷完全治警戒	scene_30
 ………そう言わないでくださいよ	Even though Jenova is confined, it could come back to life at some time…	言	scene_30
 ワ、ワタシと……ア、アナタのとってもカワイイ娘なんですよ！	The Planet has not fully healed itself yet. It's keeping watch on Jenova.	娘	scene_30
 彼女のすくすくと育っていく姿を残しておきたいと思いませんか？	… Please don't say it that way.	彼女育姿残思	scene_30
@@ -273,14 +273,14 @@ AERISは、普通の子とは違うんだからこれから、どんな人生が
 まったく、ジャンプをできなかったようだ……	In fact, it feels like we didn't even jump at all…		scene_30
 かなりジャンプできたようだ……	We've jumped pretty far…		scene_30
 かなり大きくジャンプできたようだ……	We've jumped pretty far…	大	scene_30
-そういえば、地図をもらったわよね？□ボタンで地図を見ましょうよ	Well, we've got a map, right? Look at the map by pressing [SWITCH].	地図地図見	scene_30
+そういえば、地図をもらったわよね？□ボタンで地図を見ましょうよ	Well, we've got a map, right? Look at the map by pressing [SWITCH].	地図見	scene_30
 ねえねえ。□ボタンで地図、見ようよ	Hey. Let's take a look at the map. Press [SWITCH].	地図見	scene_30
 こういうときこそ地図！□ボタンで広げようよ	We need the map, okay!? Let's see it with [SWITCH].	地図広	scene_30
 おう、あれだ！なにかもらったろ？□ボタンで見ようぜ	Hey, what's that!? You just got something, right? Use [SWITCH] to see it.	見	scene_30
 よし、地図を見よう。□ボタンで広げるんでしょ？	All right, let's look at the map. We use [SWITCH], right?	地図見広	scene_30
 ほな、地図でも見よか。ええからはよひろげぇな。□ボタンや	Then, let's look at the map. Just push [SWITCH].	地図見	scene_30
 地図で確認すべきだな。□ボタンで見てくれ	We should check it on the map. Press the [SWITCH].	地図確認見	scene_30
-地図だ、地図！□ボタンで見てみろよ！	Quick! The map, the map! Look at it with [SWITCH]!	地図地図見	scene_30
+地図だ、地図！□ボタンで見てみろよ！	Quick! The map, the map! Look at it with [SWITCH]!	地図見	scene_30
 それにしても、ものすごい寒さだあまり長くここにいるとこごえてしまうな	It sure is cold. We'll freeze if we stay here any longer.	寒長	scene_30
 ここだけ凍っていないな	This is the only place not frozen.	凍	scene_30
 さわってみよう	Touch it		scene_30
@@ -300,7 +300,7 @@ AERISは、普通の子とは違うんだからこれから、どんな人生が
 これを渡るしかなさそうだ……	The only way is to cross…	渡	scene_30
 しかたがないな	That's the way it goes…		scene_30
 その気にならないな	I don't feel like it	気	scene_30
-ジャンプする方向を向いて○ボタンだ	Face the direction you want to jump in then press [OK].	方向向	scene_30
+ジャンプする方向を向いて○ボタンだ	Face the direction you want to jump in then press [OK].	方向	scene_30
 『ついかぎり』のマテリアを手にいれた！	Received "Added Cut" Materia!	手	scene_30
 なんだかマズそうだな	Looks like trouble.		scene_30
 つっぱしる	We're outta here!		scene_30
@@ -311,7 +311,7 @@ AERISは、普通の子とは違うんだからこれから、どんな人生が
 おっと失礼！　わたしの名は、ホルゾフ。この地に住みついて、もう２０年だ	Oh, I'm sorry, my name is Holzoff. I've lived here for 20 years.	失礼名地住年	scene_30
 よければ、向こうの部屋でさびしい山男の独り言を聞いてくれんか？	Do you mind hearing some stories from a lonely climber?	向部屋山男独言聞	scene_30
 立ち話もなんだから向こうの部屋に行こう	Why don't we go to the next room and sit down.	立話向部屋行	scene_30
-あの絶壁を登りきるには登山ルートをよく確認すること	To climb this cliff, you must check your route	絶壁登登山確認	scene_30
+あの絶壁を登りきるには登山ルートをよく確認すること	To climb this cliff, you must check your route	絶壁登山確認	scene_30
 下がった体温を回復させること。これらを忘れてはいけないぞ	…And you have to keep your body temperature normal. Don't forget these 2 things.	下体温回復忘	scene_30
 ひと休みしていくかい？	Like to rest a little?	休	scene_30
 むちゃをしてはいけないぞ	Don't overdo it.		scene_30
@@ -331,7 +331,7 @@ AERISは、普通の子とは違うんだからこれから、どんな人生が
 どうやら、その時に大地がもりあがってできたのがこの絶壁らしい	It's supposed to have pushed the land up and formed this cliff.	時大地絶壁	scene_30
 ３０年前、わたしは友人ヤマスキーと絶壁の向こうを見るためにあのけわしいカベに挑んだ	20 Years ago, Yamski and I braved this cliff to see what was on the other side.	年前友人絶壁向見挑	scene_30
 しかし、わたしらは無知すぎた。ある程度の寒さは予想していたが……	But, we weren't prepared for it. We never dreamed the temperature would be so low…	無知程度寒予想	scene_30
-あの絶壁には、すさまじい寒気が嵐のようにうず巻いているんだ。寒気が体温をどんどん奪っていく	That cliff has a biting cold wind that lowers your body temperature.	絶壁寒気嵐巻寒気体温奪	scene_30
+あの絶壁には、すさまじい寒気が嵐のようにうず巻いているんだ。寒気が体温をどんどん奪っていく	That cliff has a biting cold wind that lowers your body temperature.	絶壁寒気嵐巻体温奪	scene_30
 わたしの下を登っていたヤマスキーは自分でザイルを切って……	Yamski was below me. He cut his own rope…	下登自分切	scene_30
 わたしは、それに……気づきもしなかった……	…I didn't even notice…	気	scene_30
 以来わたしは、この地に移り絶壁に挑みつづけ、同じ仲間に注意と、ほんの少しの休息を提供しているんだよ	I've lived here ever since… challenging the cliff and providing warning and shelter to my fellow climbers.	以来地移絶壁挑同仲間注意少休息提供	scene_30

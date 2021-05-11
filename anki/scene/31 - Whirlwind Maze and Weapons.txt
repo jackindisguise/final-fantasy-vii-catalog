@@ -25,7 +25,7 @@ CLOUDまって～！！	CLOUD, wait for me!!		scene_31
 みんなを呼びに行ってくるよ	I'm going to call everyone.	呼行	scene_31
 ありがたいぜ、ひと休みするか	Man, I sure am thankful. Wanna rest a while?	休	scene_31
 アタシじゃ気に入らないってのかい？	Are you saying you don't like me?	気入	scene_31
-みんなを呼びに行きますよって先に行っとくんなはれ	I'll gather everybody, so you go on ahead.	呼行先行	scene_31
+みんなを呼びに行きますよって先に行っとくんなはれ	I'll gather everybody, so you go on ahead.	呼行先	scene_31
 ゆだんするなよ……セフィロスは……近くにいるのかもしれない	Keep on your guard… Sephiroth may be near.	近	scene_31
 竜巻の迷宮	Whirlwind Maze	竜巻迷宮	scene_31
 あれは！！	That's…!!!		scene_31
@@ -62,7 +62,7 @@ CLOUDまって～！！	CLOUD, wait for me!!		scene_31
 せっかくヤる気になってたのに！	I was just getting into it!	気	scene_31
 き、きえてしまうなんて…そんなアホな！	Vanished? That can't be!		scene_31
 セフィロスはいつ現れるのかわからない。気をぬくなよ	Stay on alert. You never know when Sephiroth might appear.	現気	scene_31
-……欲しかったのは身体見、聞き、話し、移動する肉体。まもなく……終わる	What I wanted was a body. A seeing, hearing, moving body. Soon it will be…over.	欲身体見聞話移動肉体終	scene_31
+……欲しかったのは身体見、聞き、話し、移動する肉体。まもなく……終わる	What I wanted was a body. A seeing, hearing, moving body. Soon it will be…over.	欲身体見聞話移動肉終	scene_31
 ……フッフフッ……	Hmph… Heh, heh…		scene_31
 そう、ここまでだ。この身体の役目はな	You're right. This is the end of this body's usefulness.	身体役目	scene_31
 我らの役目は黒マテリアを	Our purpose is to deliver the Black	我役目黒	scene_31
@@ -215,7 +215,7 @@ CLOUD……これは幻覚なんだから	CLOUD… It's just an illusion.	幻覚
 宝条！？俺と何の関係がある！	Hojo!? What does he have to do with me!?	宝条俺何関係	scene_31
 おまえは……そう、５年前だ	Five years ago you were…	年前	scene_31
 ニブルヘイムが炎につつまれたその後に宝条の手で創り出されたのだ	…constructed by Hojo, piece by piece, right after Nibelheim was burnt.	炎後宝条手創出	scene_31
-ジェノバ細胞のおどろくべき生命力、能力と魔晄の力が創り出した人形	A puppet made up of vibrant Jenova cells, her knowledge, and the power of the Mako.	細胞生命力能力魔晄力創出人形	scene_31
+ジェノバ細胞のおどろくべき生命力、能力と魔晄の力が創り出した人形	A puppet made up of vibrant Jenova cells, her knowledge, and the power of the Mako.	細胞生命力能魔晄創出人形	scene_31
 セフィロス・コピー・インコンプリート。ナンバリング無し。それがおまえの真実	An incomplete Sephiroth-clone. Not even given a number. …That is your reality.	無真実	scene_31
 CLOUD……相手しちゃだめよ……	CLOUD… Don't listen to him…	相手	scene_31
 耳をふさぐの！　目を閉じるの！	Cover your ears! Close your eyes!	耳目閉	scene_31
@@ -232,19 +232,19 @@ CLOUD……相手しちゃだめよ……	CLOUD… Don't listen to him…	相手
 どうしたんだ、TIFA？	What's wrong, TIFA?		scene_31
 何をそんなに恐れているんだ？俺のことならだいじょうぶ	Why are you so scared? Don't worry about me. I'm all right.	何恐俺	scene_31
 俺はどんなに混乱していてもセフィロスの言葉なんて信じない	No matter how confused I am, I'll never believe a word that Sephiroth says.	俺混乱言葉信	scene_31
-たしかに俺は自分自身がわからなくなることがある	It's true that sometimes I can't figure out who I am.	俺自分自身	scene_31
+たしかに俺は自分自身がわからなくなることがある	It's true that sometimes I can't figure out who I am.	俺自分身	scene_31
 記憶だってあやふやな部分がたくさんあるんだ	There's a lot of things muddled up in my memories.	記憶部分	scene_31
 でも、TIFA	But, TIFA…		scene_31
 TIFAは言ってくれただろ？『CLOUD、ひさしぶりね』って	You said, 'Long time no see, CLOUD' right?	言	scene_31
 TIFAのその言葉がいつでも俺をささえてくれる	Those words will always support me.	言葉俺	scene_31
-俺はTIFAの幼なじみなんだ。俺はニブルヘイムのCLOUDなんだ	I am the one you grew up with. I'm CLOUD of Nibelheim.	俺幼俺	scene_31
+俺はTIFAの幼なじみなんだ。俺はニブルヘイムのCLOUDなんだ	I am the one you grew up with. I'm CLOUD of Nibelheim.	俺幼	scene_31
 どんなに自分がわからなくなってもそれだけは真実	No matter how much I lose faith in myself, that is the truth.	自分真実	scene_31
 だからTIFA……そんなにおびえないでくれ	That's why you shouldn't be so scared.		scene_31
 誰のどんな言葉よりもTIFAのその態度に俺は……	No matter what anyone else says to me, it's your opinion that counts…	誰言葉態度俺	scene_31
 ち、ちがうの、CLOUD……	No, that's not true, CLOUD…		scene_31
 何がちがうんだ？俺は……TIFAの幼なじみのCLOUDじゃないのか？	What's not? I'm the same CLOUD you grew up with, aren't I?	何俺幼	scene_31
 そういう意味じゃない……でも、うまく言葉にできない……	That's not what I mean… I don't know how to say it…	意味言葉	scene_31
-CLOUD、ほんの少しでいいの。時間を……時間をちょうだい	CLOUD, I need some time… Just give me a little time…	少時間時間	scene_31
+CLOUD、ほんの少しでいいの。時間を……時間をちょうだい	CLOUD, I need some time… Just give me a little time…	少時間	scene_31
 CLOUD……TIFAを責めるな	CLOUD… Don't blame TIFA.	責	scene_31
 私が説明してやろう	I'll explain.	私説明	scene_31
 他人の記憶にあわせて自分の姿、声、言動を変化させるのはジェノバの能力だ	The ability to change one's looks, voice, and words, is the power of Jenova.	他人記憶自分姿声言動変化能力	scene_31
@@ -267,7 +267,7 @@ CLOUD……だめ……	CLOUD…Don't…		scene_31
 もし、写っていなくても心配ない。ここはセフィロスが創り出した幻想の世界	Even if I'm not in there, no worry. This is just an illusory world Sephiroth made up.	写心配創出幻想世界	scene_31
 【写真です】	It's a photograph.	写真	scene_31
 ……やっぱりな	…Just as I thought.		scene_31
-この写真はニセものなんだ。真実は俺の記憶の中にある	This picture's a fake. The truth is in my memory.	写真真実俺記憶中	scene_31
+この写真はニセものなんだ。真実は俺の記憶の中にある	This picture's a fake. The truth is in my memory.	写真実俺記憶中	scene_31
 ……５年前、俺はニブルヘイムに帰った。魔晄炉調査が任務だった。１６歳だった	…Five years ago, I came back to Nibelheim, to inspect the reactor. I was sixteen.	年前俺帰魔晄炉調査任務歳	scene_31
 村は全然変わっていなかった。俺は何をした？　そうだ……	The town hadn't changed at all. What did I do? Oh yeah…	村全然変俺何	scene_31
 ……ソルジャー・クラス１ＳＴ？	…SOLDIER, First Class?		scene_31
@@ -275,11 +275,11 @@ CLOUD……だめ……	CLOUD…Don't…		scene_31
 やめて、CLOUD！！	Stop, CLOUD!!		scene_31
 ソルジャーってどうやってなるんだ？	How did I join SOLDIER?		scene_31
 なぜ……思い出せない？	Why…why can't I remember?	思出	scene_31
-俺は……俺は……	I'm…I'm…	俺俺	scene_31
+俺は……俺は……	I'm…I'm…	俺	scene_31
 ……悩むことはなかったななぜなら俺は……	…I didn't have to worry about it, because I was…	悩俺	scene_31
 ……CLOUD？	…CLOUD?		scene_31
 行こう、TIFA。俺は……だいじょうぶだ	Let's go, TIFA. I'm…I'm all right.	行俺	scene_31
-母さんに会った。村の人たちに会った	I saw my mom. I saw the people in town.	母会村人会	scene_31
+母さんに会った。村の人たちに会った	I saw my mom. I saw the people in town.	母会村人	scene_31
 そう、TIFAの部屋にはいったんだ。そこで俺は……	Yeah, I went to TIFA's room. There, I…	部屋俺	scene_31
 ピアノを弾いた！	I played the piano!	弾	scene_31
 タンスをしらべた！	I looked in the drawers!		scene_31
@@ -290,7 +290,7 @@ TIFAに来た手紙をよんだ！	I read the letter addressed to TIFA!	来手�
 手をかしてくれっ！	Give me a hand!	手	scene_31
 おっ、あんたか！あんたは正気なんだろうな？	Hey it's you! You're still sane, right?	正気	scene_31
 それならこっちに来て手伝ってくれ！	Then come over here and help me!	来手伝	scene_31
-俺はこの家を見てくる。あんたはそっちの家を！	I'll check this house. You check that one over there!	俺家見家	scene_31
+俺はこの家を見てくる。あんたはそっちの家を！	I'll check this house. You check that one over there!	俺家見	scene_31
 おい！ほかの家の様子はどうだ？	Hey! What about the other houses?	家様子	scene_31
 ……セフィロ……ス	…Sephi…roth		scene_31
 ……な、なぁ……おれ、死んじゃうの？	…Hey, ummm… Am I going to die?	死	scene_31
@@ -309,14 +309,14 @@ TIFAに来た手紙をよんだ！	I read the letter addressed to TIFA!	来手�
 きっと、あの神羅屋敷から出てくるのは俺じゃない	It's probably not me that will come out of the Shinra mansion.	神羅屋敷出俺	scene_31
 また、くだらない幻覚を見せようって気なんだ	He's going to try and show us another stupid illusion.	幻覚見気	scene_31
 ほら……言ったとおりだろ？	See…didn't I tell you?	言	scene_31
-こんなの……見たくない。CLOUD……見ちゃだめよ	I don't want to…watch this. CLOUD…Don't watch.	見見	scene_31
+こんなの……見たくない。CLOUD……見ちゃだめよ	I don't want to…watch this. CLOUD…Don't watch.	見	scene_31
 ……どうしたんだ、TIFA？さっきも言っただろ？	…What's wrong, TIFA? I told you before, right?	言	scene_31
 幻だとわかっていれば何も恐くない	As long as we know that it's just an illusion, there's no need to be scared.	幻何恐	scene_31
 大空洞	Inside Northern Cave	大空洞	scene_31
 すっご～い！	Wow!! That's amazing!		scene_31
 これ、ぜ～んぶマテリアだわ！	It's all Materia!!		scene_31
 外は豊富な魔晄。そして中心部はマテリアの宝庫。これぞまさに約束の地だな	The outside is rich with Mako energy. The inside is a treasure trove of Materia. This truly is the Promised Land.	外豊富魔晄中心部宝庫約束地	scene_31
-約束の地など存在しない。伝説……言い伝え……ばかばかしい	There is no such thing as the Promised Land. It's a legend…an old wives tale… …It's utterly ridiculous.	約束地存在伝説言伝	scene_31
+約束の地など存在しない。伝説……言い伝え……ばかばかしい	There is no such thing as the Promised Land. It's a legend…an old wives tale… …It's utterly ridiculous.	約束地存在伝説言	scene_31
 想像していたとおりのものがここにある。それで良いではないか？	Everything's as I imagined it to be. Isn't it splendid?	想像良	scene_31
 そのカタさが二流科学者の限界だな	It is that kind of dullness that makes you a second-rate scientist.	二流科学者限界	scene_31
 どうした！？	What's happening?		scene_31
@@ -337,15 +337,15 @@ TIFAに来た手紙をよんだ！	I read the letter addressed to TIFA!	来手�
 ここはあんたたちの手には負えない	This place is going to get rough.	手負	scene_31
 あとは俺にまかせてさっさと出て行け	Better leave things to me and get out of here while you still can!!	俺出行	scene_31
 ……おまえにまかせる？フッ……良くわからないな	Leave things to you? Hmph…I don't know what you mean.	良	scene_31
-ここはリユニオンの最終地点。すべてが終わり、また始まる場所	This is where the Reunion is happening. Where everything begins and ends.	最終地点終始場所	scene_31
+ここはリユニオンの最終地点。すべてが終わり、また始まる場所	This is where the Reunion is happening. Where everything begins and ends.	最終地点始場所	scene_31
 CLOUD……？	CLOUD?		scene_31
 おう！助けに来てやったぞ！	Hey! We're here to help you!	助来	scene_31
-来たよ！助けに来たよ、CLOUD！	I'm here! I'm here to help you, CLOUD!	来助来	scene_31
+来たよ！助けに来たよ、CLOUD！	I'm here! I'm here to help you, CLOUD!	来助	scene_31
 ありがとう……BARRET。黒マテリアは？	Thanks…BARRET. Where's the Black Materia?	黒	scene_31
 ありがとう……RED XIII。黒マテリアは？	Thanks…RED XIII. Where's the Black Materia?	黒	scene_31
 だいじょうぶだ。ちゃんと持ってるぜ	It's safe. I have it.	持	scene_31
 だいじょうぶ。しっかり持ってるよ	It's safe. I'm holding on to it.	持	scene_31
-ここからは俺がやる。黒マテリアを……俺に	I'll take it from here. Give me the…Black Materia.	俺黒俺	scene_31
+ここからは俺がやる。黒マテリアを……俺に	I'll take it from here. Give me the…Black Materia.	俺黒	scene_31
 だいじょうぶ？　CLOUD	Are you all right, CLOUD?		scene_31
 じゃあ、これ。すげえプレッシャーだったぜ	Okay then, here. Had a lot of pressure holding this thing.		scene_31
 それじゃあ、はい。これ持ってるの恐かったんだ	Then…here you go. I was a little apprehensive holding this thing.	持恐	scene_31
@@ -373,7 +373,7 @@ TIFAさん……いつかどこかで本当のCLOUDくんに会えるといい�
 だまれ、失敗作め……	Shut up, miserable failure…	失敗作	scene_31
 博士……ナンバー、ください。俺にもナンバーをください……	Professor…please give me a number. Please, Professor…	博士俺	scene_31
 ダメですか……博士？	Won't you give me one? …Professor?	博士	scene_31
-私が成功とみなした個体が失敗……失敗と判定したおまえが最も優れていたとは……	I never dreamed what I thought was a success…was actually a failure, and that which I considered a failure was my greatest success…	私成功個体失敗失敗判定最優	scene_31
+私が成功とみなした個体が失敗……失敗と判定したおまえが最も優れていたとは……	I never dreamed what I thought was a success…was actually a failure, and that which I considered a failure was my greatest success…	私成功個体失敗判定最優	scene_31
 おまえたちは何の話をしているのだ？	What are you guys talking about?	何話	scene_31
 私の声、聞こえないの！？	You can't hear my voice?	私声聞	scene_31
 だめ、だめよ！CLOUDを止めて！	No, don't!!! Please! Stop CLOUD!	止	scene_31
@@ -391,7 +391,7 @@ CLOUD！　やめて！　やめてよ！	CLOUD, NO! Stop!  Please!		scene_31
 CLOUDーーーーー！！	CLOUD!!		scene_31
 あいつは……何者だ？	Who…was that?	何者	scene_31
 ……５年前、セフィロスが死んだ直後に私が創ったセフィロス・コピーのひとつ	…He's a Sephiroth-clone I created after the real Sephiroth died five years ago.	年前死直後私創	scene_31
-ジェノバ細胞と魔晄、それにくわえて私の知識、技術、ひらめきが生み出した科学と神秘の生命、セフィロス・コピー	Jenova cells and Mako, with my knowledge and skills, have been combined with science and nature to bring him to life.	細胞魔晄私知識技術生出科学神秘生命	scene_31
+ジェノバ細胞と魔晄、それにくわえて私の知識、技術、ひらめきが生み出した科学と神秘の生命、セフィロス・コピー	Jenova cells and Mako, with my knowledge and skills, have been combined with science and nature to bring him to life.	細胞魔晄私知識技術生出科学神秘命	scene_31
 ……失敗作だというのが気に入らないがジェノバのリユニオン仮説は証明された	…I'm not wild about the failure part, but the Jenova Reunion Theory has now been proven.	失敗作気入仮説証明	scene_31
 ジェノバは身体をバラバラにされてもやがてひとつの場所に集結し再生する。これがジェノバの『リユニオン』だ	You see, even if Jenova's body is dismembered, it will eventually become one again. That's what is meant by Jenova's Reunion.	身体場所集結再生	scene_31
 リユニオンの始まりを私は待った。５年がすぎ……コピーたちは動き出した	I have been waiting for the Reunion to start. Five years have passed, and now the clones have begun to return.	始私待年動出	scene_31
@@ -433,8 +433,8 @@ TIFA！	TIFA!		scene_31
 ほんとうは７年ぶりだった	Actually, it's been seven years.	年	scene_31
 希望どおりにソルジャーになったことセフィロスの事件をきっかけにやめてしまったこと、何でも屋をやっていること……	You joined SOLDIER but quit after the Sephiroth incident, and now you're a mercenary…	希望事件何屋	scene_31
 ニブルヘイムを出てからのこといろいろ話してくれたけど……	You told me a lot about what happened after you left Nibelheim… 	出話	scene_31
-……ちょっと変だな。CLOUDの話してること少しずつ変だなと思ったの	…Something was wrong. I felt there was something strange about the things you talked about.	変話少変思	scene_31
-知ってるはずのこと知らなかったり知らないはずのこと知ってたり……	All the things you didn't know that you should, And other things you shouldn't know that you did.	知知知知	scene_31
+……ちょっと変だな。CLOUDの話してること少しずつ変だなと思ったの	…Something was wrong. I felt there was something strange about the things you talked about.	変話少思	scene_31
+知ってるはずのこと知らなかったり知らないはずのこと知ってたり……	All the things you didn't know that you should, And other things you shouldn't know that you did.	知	scene_31
 私はいろいろ確かめたかった	I wanted to make sure…	私確	scene_31
 でも、聞いたら……CLOUDどこか遠くへ行ってしまいそうで……	But then I heard…you were going far away…	聞遠行	scene_31
 それは……いやだった	And I didn't want that…		scene_31

@@ -11,7 +11,7 @@
 ああ、かったりぃ！！	Oh gawd, what a drag!!		scene_17
 ふーむ…。行く先々にねぇ…	Hmm… I'm moving on ahead…	行先	scene_17
 この先は危険だよ。道中、気をつけてな	It's dangerous up ahead. Be careful on your way.	先危険道中気	scene_17
-旅先で出会った見知らぬ旅人にあったかい声をかけてあいさつをかわす	If any strangers should greet you warmly while traveling, make sure to greet them back.	旅先出会見知旅人声	scene_17
+旅先で出会った見知らぬ旅人にあったかい声をかけてあいさつをかわす	If any strangers should greet you warmly while traveling, make sure to greet them back.	旅先出会見知人声	scene_17
 ふう～～	Whew! being on the road.		scene_17
 コレル山・西	Mt. Corel West	山西	scene_17
 『Ｗマシンガン』を手にいれた！	Received "W Machine Gun"!	手	scene_17
@@ -19,7 +19,7 @@
 『エーテルターボ』を手にいれた！	Received "Turbo Ether"!	手	scene_17
 おっとととと！！	Oh, oh oh oh oh!!		scene_17
 【○ボタン】でジャンプしろ！	Push the [OK] button to jump!		scene_17
-【方向キーの左】か【方向キーの右】を押しながら【○ボタン連打】で空をおよげば、お宝ゲット！	Get the treasure by holding the Left or Right Directional buttons down while repeatedly pressing [OK]!	方向左方向右押連打空宝	scene_17
+【方向キーの左】か【方向キーの右】を押しながら【○ボタン連打】で空をおよげば、お宝ゲット！	Get the treasure by holding the Left or Right Directional buttons down while repeatedly pressing [OK]!	方向左右押連打空宝	scene_17
 左キーを押しながら○連打で空をおよげば、お宝ゲット！	Hold down the Left Direction button while repeatedly pressing [OK] to get the treasure!	左押連打空宝	scene_17
 右キーを押しながら○連打で空をおよげば、お宝ゲット！	Hold down the Right Direction button while repeatedly pressing [OK] to get the treasure!	右押連打空宝	scene_17
 『ウィザードロッド』を手にいれた！	Received "Wizard Staff"!	手	scene_17
@@ -106,8 +106,8 @@ CLOUDったら！！チョコボ頭のくせに！	Oh! CLOUD! Your hair looks li
 見てみろ！おまえのせいで北コレルはガレキの町になっちまった……	Look at this place! It's all your fault North Corel turned into a garbage heap!	見北町	scene_17
 チッ、おもしろくねぇ！	^%$#! You ain't even worth the effort.		scene_17
 こんなデクノボウにかまってるとロクなことがねぇな！	Don't waste your time talkin' to that Techno-freak!		scene_17
-たまに空を見上げるとメテオのやろうが、でっかい顔してオレを見つめてやがる……	Whenever I look up in the sky, I see Meteor staring me right in the face…	空見上顔見	scene_17
-クソッ、落ちるつもりなら早く落ちてこいってんだ！！そしたらオレが、け飛ばしてやるぜ！	If you're gonna crash down, then hurry up!! Cause I'm gonna kick the $#@& outta ya!	落早落飛	scene_17
+たまに空を見上げるとメテオのやろうが、でっかい顔してオレを見つめてやがる……	Whenever I look up in the sky, I see Meteor staring me right in the face…	空見上顔	scene_17
+クソッ、落ちるつもりなら早く落ちてこいってんだ！！そしたらオレが、け飛ばしてやるぜ！	If you're gonna crash down, then hurry up!! Cause I'm gonna kick the $#@& outta ya!	落早飛	scene_17
 タークスとかなんとかいうヤツらが来てキー・ストーンっていう石を１００００ギルで買うって言ったんだ	A buncha guys called Turks came here sayin' they'd pay 10000 gil for some rock called a 'Keystone'.	来石買言	scene_17
 じゃあ、ここに落ちてる石ころならいくらで買ってくれるんだ？って聞いたらなぐられちまったよ、ちきしょう！！	When I asked how much they'd pay for a regular rock just layin' around here, they slapped me upside my damn head!!	落石買聞	scene_17
 神羅の兵が、どかどかやってきて魔晄炉のヒュージマテリアを回収するだとか言ってたぜ	Shinra soldiers came around sayin' they were gathering up all the Huge Materia.	神羅兵魔晄炉回収言	scene_17
@@ -243,10 +243,10 @@ BARRET、どうしたの？	BARRET, what happened?		scene_17
 村長	Village Headman	村長	scene_17
 どうする？反対してるのはダインだけだが……	What are we going to do? The only one opposed to this is Dyne…	反対	scene_17
 ダイン	Dyne		scene_17
-俺は絶対反対だ。コレルの炭坑をすてるなんてできない相談だからな！	I am definitely against it, no matter what. There's nothing to talk about if you're thinking of throwing away our coal!	俺絶対反対炭坑相談	scene_17
+俺は絶対反対だ。コレルの炭坑をすてるなんてできない相談だからな！	I am definitely against it, no matter what. There's nothing to talk about if you're thinking of throwing away our coal!	俺絶対反炭坑相談	scene_17
 コレルの炭坑は、俺たちのじいさんたち、おやじたちが命がけで守ってきたものだ	The coal's been ours for generations. Our fathers, and theirs before them, risked their lives for it.	炭坑俺命守	scene_17
 俺たちの時代になってすてることなんてできない！	We have no right to throw it all away so easily!	俺時代	scene_17
-でもよ、ダイン。今の時代、石炭なんて誰も使わない。時代にはさからえないんだ	But listen, Dyne. No one uses coal nowadays. It's the sign of the times.	今時代石炭誰使時代	scene_17
+でもよ、ダイン。今の時代、石炭なんて誰も使わない。時代にはさからえないんだ	But listen, Dyne. No one uses coal nowadays. It's the sign of the times.	今時代石炭誰使	scene_17
 そう、時代は魔晄エネルギー	Right, everything is Mako, now.	時代魔晄	scene_17
 だいじょうぶですよ、ダインさん。魔晄炉完成のあかつきには我々神羅カンパニーがみなさんの生活を保障します	It'll be all right, Dyne. Shinra, Inc. will guarantee your livelihood once the Mako Reactor is completed.	魔晄炉完成我神羅生活保障	scene_17
 な、ダイン。オレは女房のミーナにこれ以上苦しい生活をさせたくないんだ	Listen, Dyne. I don't want my wife, Myrna, to suffer anymore.	女房以上苦生活	scene_17

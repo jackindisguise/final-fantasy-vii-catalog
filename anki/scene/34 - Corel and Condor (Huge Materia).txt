@@ -10,7 +10,7 @@
 ま、まさかあきらめるんやないですよね……	Wha…you're not thinking about giving up…		scene_34
 ……追うか？	…shall we go after them?	追	scene_34
 おいおい、オレ様を誰だと思ってんだ？	Hey, do you know who I am?	様誰思	scene_34
-天下のCID様だぜ！ま、オレ様にまかしとけって！	I'm CID - that's who the hell I am! Now just let me handle it!	天下様様	scene_34
+天下のCID様だぜ！ま、オレ様にまかしとけって！	I'm CID - that's who the hell I am! Now just let me handle it!	天下様	scene_34
 おらおらおら～ッ！	Hey, hey, hey, hey---!		scene_34
 しかし、こんなものまでよく運転出来るな	How can they even drive this?	運転出来	scene_34
 CIDがいて助かったね。機関車も運転できるなんて	It sure helped having CID here. I had no idea he could drive a train…	助機関車運転	scene_34
@@ -47,12 +47,12 @@ CIDがいて助かったね。機関車も運転できるなんて	It sure helpe
 わ～かってらあ！やいのやいの、さわぐなって！このままじゃ、北コレルにつっこんじまう！！	I KNOW, already! Just shut up and sit tight! If we keep this up, we'll crash right into North Corel!	北	scene_34
 さ～てと……交互に入れると加速なら……	Let's see… If we use the levers alternately to accelerate…	交互入加速	scene_34
 左レバー　　　　　右レバー	Left lever Right lever	左右	scene_34
-上【方向キー上】　　【△ボタン】	(Directional button up) ([MENU])	上方向上	scene_34
-下【方向キー下】　　【×ボタン】	(Directional button down) ([CANCEL])	下方向下	scene_34
+上【方向キー上】　　【△ボタン】	(Directional button up) ([MENU])	上方向	scene_34
+下【方向キー下】　　【×ボタン】	(Directional button down) ([CANCEL])	下方向	scene_34
 両方のレバーを同時に上か下に入れりゃブレーキだな！	It should stop if we move the levers up or down simultaneously!	両方同時上下入	scene_34
 ダ、ダメじゃねえか！	Hey, it's not working!		scene_34
 スピードが上がってるよ！	We're gaining speed!	上	scene_34
-ちょ～待って～や！逆や、逆！	Hey-------WAIT! …other way, other way, other way!	待逆逆	scene_34
+ちょ～待って～や！逆や、逆！	Hey-------WAIT! …other way, other way, other way!	待逆	scene_34
 ぎゃ、逆じゃないか？	Isn't it…the other way?	逆	scene_34
 加速してど～すんのよ～ッ！	What are you doin', accelerating!?	加速	scene_34
 チッ！　反対かよ！見てろ、今度こそ！	^%#@! The other way!? Just watch, I'll…	反対見今度	scene_34
@@ -61,7 +61,7 @@ CIDがいて助かったね。機関車も運転できるなんて	It sure helpe
 ふざけろ！オヤジ～ッ！！	Get serious, you OLD MAN!!		scene_34
 あ、あかんて～！！	No…DON'T----!!		scene_34
 ク……ソったれえ！！	SH--------!!		scene_34
-あ…あたりめぇじゃねぇか！オレたちゃ炭坑生まれの炭坑育ち！！	Of…of course! We're all born and raised in the coal mines!!	炭坑生炭坑育	scene_34
+あ…あたりめぇじゃねぇか！オレたちゃ炭坑生まれの炭坑育ち！！	Of…of course! We're all born and raised in the coal mines!!	炭坑生育	scene_34
 どんなにつらい時でもハートだけは石炭のように真っ赤に燃え続けているんだ！	No matter how tough it gets, our hearts burn bright red like coal!	時石炭真赤燃続	scene_34
 あんたたちだろ神羅の列車を止めてくれたのは？	Aren't you the ones that stopped the Shinra Train?	神羅列車止	scene_34
 また神羅の手でオレたちの生活がぶち壊されるところだったぜ……	The Shinra was just about to destroy our lives again…	神羅手生活壊	scene_34
@@ -86,7 +86,7 @@ CIDがいて助かったね。機関車も運転できるなんて	It sure helpe
 なんにもしなかった」	It didn't do any damage.”		scene_34
 あのボウズが何か光るものをひろったって言ってたぜ	I heard that kid found something that glows.	何光言	scene_34
 オレの店はブジだったぜ！	My store was all right!	店	scene_34
-せっかく道具屋やってんのに店をなおす道具がナイんだ…	I have a tool shop, but I don't have any tools to fix my store…	道具屋店道具	scene_34
+せっかく道具屋やってんのに店をなおす道具がナイんだ…	I have a tool shop, but I don't have any tools to fix my store…	道具屋店	scene_34
 ワーイ！ボクのおうちができたー！！	Yay! My house is finished!!		scene_34
 えっと、次の駅はどこじゃったかな？	Um… where was the next train station?	次駅	scene_34
 ちきしょう！　なんてこった……列車を止められなかったばかりに……	^$#@%$ ! We couldn't stop the train…	列車止	scene_34
@@ -146,7 +146,7 @@ CLOUDだよね……	It is you CLOUD.		scene_34
 それならそうと言ってくれなくちゃ。別な戦い方があったかもしれないわ	If that's the case, then you should have told us. There may have been another way to fight Shinra.	言別戦方	scene_34
 つうことはよオレ様たちゃ、何のために戦ったんだ？	What the hell did we fight for?	様何戦	scene_34
 私たちが守っていただいたのは魔晄炉などではなくコンドルの生命の営みですよ	We weren't protectin' the reactor, we were protectin' the Condor.	私守魔晄炉生命営	scene_34
-あの魔晄炉を建設する時には私たちも手伝わされたのです。ですから、魔晄炉内のことは知っていました	When that reactor was built, they forced us to help. That's how we knew what was inside the reactor.	魔晄炉建設時私手伝魔晄炉内知	scene_34
+あの魔晄炉を建設する時には私たちも手伝わされたのです。ですから、魔晄炉内のことは知っていました	When that reactor was built, they forced us to help. That's how we knew what was inside the reactor.	魔晄炉建設時私手伝内知	scene_34
 いつかこういう時がくると思って神羅がいなくなったあと忍びこんで、マテリアを持ち出しておいたのです	I knew this day would come, so after the Shinra left, I sneaked in and took the Materia.	時思神羅忍持出	scene_34
 だますつもりでは、なかったのですが結果的にはそうなってしまいましたね。申し訳ありません	I didn't mean to fool you, but I guess that's how it ended up. I'm really sorry.	結果的申訳	scene_34
 いや……それで良かったのかもしれない	Well… Maybe it was for the best.	良	scene_34

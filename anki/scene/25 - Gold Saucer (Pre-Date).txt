@@ -4,7 +4,7 @@
 キーストーン？	Keystone?		scene_25
 なんだ、お前らあれ目当てで来たんじゃないのか？	What? You didn't come here for that?	前目当来	scene_25
 『キーストーン』ってのはこの世界のどこかにある古～い、神殿の扉を開けるカギよ	The 'Keystone' is the key that unlocks the gate to a very old temple somewhere.	世界古神殿扉開	scene_25
-聞いておどろけ、その神殿とはなんと古代種の神殿だ！！	You're not going to believe your ears, but I heard it was the Temple of the Ancients!!	聞神殿古代種神殿	scene_25
+聞いておどろけ、その神殿とはなんと古代種の神殿だ！！	You're not going to believe your ears, but I heard it was the Temple of the Ancients!!	聞神殿古代種	scene_25
 古代種の神殿……	The Temple of the Ancients?	古代種神殿	scene_25
 ゲラゲラゲラゲラ	Ha, hah, hah, hah…		scene_25
 本気にすんなよただの言い伝えなんだからよ	Don't take it seriously. It's just a legend!	本気言伝	scene_25
@@ -12,7 +12,7 @@
 神殿はどこだ？	Where is the Temple?	神殿	scene_25
 他の話	Let's change the subject	他話	scene_25
 何でもない	Never mind	何	scene_25
-売っちまったよ。いや～よ、俺も売る気は無かったんだけど	I sold it already. Yeah well, to tell the truth, I didn't really want to sell it but…	売俺売気無	scene_25
+売っちまったよ。いや～よ、俺も売る気は無かったんだけど	I sold it already. Yeah well, to tell the truth, I didn't really want to sell it but…	売俺気無	scene_25
 ど～も、あの人のウムも言わさぬ迫力に負けちまってツイ…	That guy had a way about him that made you feel like it may not be a good idea NOT to sell it to him…	人言迫力負	scene_25
 どこのだれに？	Who did you sell it to?		scene_25
 ゴールドソーサーで園長をやっている『ディオ』だよ。なんか展示室にかざるって言ってたから行ってみな	The manager of the Gold Saucer. think his name was 'Dio'. Said he was going to put it in his museum, then he took off out of here.	園長展示室言行	scene_25
@@ -62,7 +62,7 @@
 そうか……では、この話はなかったことにしよう	I see… Then let's pretend that this never happened.	話	scene_25
 はっはははは！　やはりキーストーンが欲しいのだろう？わたしを楽しませてくれるのかな？	Heh, heh, heh! So! You want the Keystone, right? How 'bout entertaining me first?	欲楽	scene_25
 はっははははそうむずかしいことではないよ	Heh, heh, heh. Nothing all that difficult.		scene_25
-ここは、闘技場だ。少年のその力わたしに見せてくれたまえ。少年１人でな。期待しているぞ！	This is the Battle Arena. Show me your fighting skills. Just you, boy. I'm expecting a good fight!	闘技場少年力見少年人期待	scene_25
+ここは、闘技場だ。少年のその力わたしに見せてくれたまえ。少年１人でな。期待しているぞ！	This is the Battle Arena. Show me your fighting skills. Just you, boy. I'm expecting a good fight!	闘技場少年力見人期待	scene_25
 ディオの展示場	Dio's Museum	展示場	scene_25
 ふ～む、こんなものか。まぁ、よかろう約束だ。もっていきたまえ	That's the best you could do? Well, a promise is a promise. Go ahead, take it.	約束	scene_25
 なかなか、やるではないか少年！ 	Hmm, you did pretty well, young man!	少年	scene_25
@@ -104,7 +104,7 @@ CLOUD、何がどうなってんだ？まとめてくれ！	CLOUD, the hell's go
 約束の地だぁ？	The Promised Land?	約束地	scene_25
 魔晄エネルギーに満ちあふれた豊かな土地。……これは神羅の考え方だ	A land full of Mako energy. …Or at least that's what the Shinra believe.	魔晄満豊土地神羅考方	scene_25
 じっさいにはどんなところなのかどこにあるのかすらわからない	I don't know if it actually exists.		scene_25
-セトラの民は約束の地へ帰る。至上の幸福が約束された運命の土地	The Cetras will return to the Promised Land. A land that promises boundless happiness.	民約束地帰至上幸福約束運命土地	scene_25
+セトラの民は約束の地へ帰る。至上の幸福が約束された運命の土地	The Cetras will return to the Promised Land. A land that promises boundless happiness.	民約束地帰至上幸福運命土	scene_25
 セトラノタミ？　なんだ、それ？	Cetra? That some kinda disease?		scene_25
 古代種は自分たちのことをそう呼んでいたの	That's what the Ancients call themselves.	古代種自分呼	scene_25
 ねえ、コスモキャニオンで長老たちの話、聞かなかったの？	Hey, didn't you listen to the elders at Cosmo Canyon?	長老話聞	scene_25
@@ -114,15 +114,15 @@ AERISも……わかるのか？	AERIS…can you feel it too?		scene_25
 セフィロスが世界のあちこちを歩き回ってるのは約束の地をさがしてるのね	So Sephiroth is traveling the world because he's searching for the Promised Land? Is that it?	世界歩回約束地	scene_25
 それだけじゃない、きっと。ほかにも探してるものがある	He's searching for that, and one other thing.	探	scene_25
 黒マテリア……だな	The Black Materia?	黒	scene_25
-ディオさんから、聞きましたで。黒マントの男が黒マテリア探してるって	I heard from Dio that a man in a black cape was lookin' for the Black Materia.	聞黒男黒探	scene_25
+ディオさんから、聞きましたで。黒マントの男が黒マテリア探してるって	I heard from Dio that a man in a black cape was lookin' for the Black Materia.	聞黒男探	scene_25
 その黒マントもわからないわ	I've never heard of Black Materia…	黒	scene_25
-数字のイレズミがある黒マントの人たち。何人いるのかしら？	How many men with black capes and number tattoos are there?	数字黒人何人	scene_25
+数字のイレズミがある黒マントの人たち。何人いるのかしら？	How many men with black capes and number tattoos are there?	数字黒人何	scene_25
 ……あのさ。オイラのイレズミは１３なんだけど	…You know, of course, my tattoo is number 13.		scene_25
 そのイレズミは……どうしたんだ？	How did you get that tattoo?		scene_25
-……宝条にやられたんだ。他のは戦士の魔除けだけど数字だけは宝条がやったんだよ	…Hojo put it on me. The rest are just war scars, but the number was done by Hojo.	宝条他戦士魔除数字宝条	scene_25
+……宝条にやられたんだ。他のは戦士の魔除けだけど数字だけは宝条がやったんだよ	…Hojo put it on me. The rest are just war scars, but the number was done by Hojo.	宝条他戦士魔除数字	scene_25
 最低でも１３人！？	So there are at least 13!?	最低人	scene_25
 ……あのね	You know…		scene_25
-黒いマントの人たちは宝条に何かをされた人たちだと思うのね	I think Hojo did something to those men in the black capes.	黒人宝条何人思	scene_25
+黒いマントの人たちは宝条に何かをされた人たちだと思うのね	I think Hojo did something to those men in the black capes.	黒人宝条何思	scene_25
 セフィロスとの関係……それ、よくわからないけど	But I don't know what it has to do with Sephiroth though…	関係	scene_25
 だから、セフィロス本人だけ追いかければいいんじゃないかな？	That's why I think we should just go after Sephiroth himself.	本人追	scene_25
 それ、賛成だぜ！ややこしくてしょうがないからな	Yeah, me too! It's all just too damn confusin'.	賛成	scene_25
@@ -133,7 +133,7 @@ AERISも……わかるのか？	AERIS…can you feel it too?		scene_25
 おっ！　おわり？アタシもねるよ！	What!? That's it? I'm goin' to bed!		scene_25
 もう、おしまいですか？黒マテリアの話は、どうなったんです？	Is that all? How 'bout the Black Materia?	黒話	scene_25
 話したって何もわからないさ	You wouldn't understand even if I told you.	話何	scene_25
-行動あるのみ、だぜ！明日だ、明日！	Now all we gotta do is take action! We're startin' tomorrow!!	行動明日明日	scene_25
+行動あるのみ、だぜ！明日だ、明日！	Now all we gotta do is take action! We're startin' tomorrow!!	行動明日	scene_25
 オイラ、ナンバー１３だ。オイラもおかしくなっちゃうのかな？	I'm number 13. Am I going to go mad too?		scene_25
 宝条が何をしたのかわからないけどいままで、だいじょうぶだったんでしょ？	I don't know what Hojo did to you, but you've been all right so far, right?	宝条何	scene_25
 弱気にならないで	Be strong.	弱気	scene_25

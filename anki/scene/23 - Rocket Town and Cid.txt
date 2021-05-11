@@ -10,11 +10,11 @@
 ここの住人はみんなロケット打ち上げ計画のときのメカニック仲間なんだ	Everyone in this town was a mechanic back when they were planning to launch the rocket.	住人打上計画仲間	scene_23
 ロケット打ち上げ計画？何のことだ？	Rocket launch plan? What do you mean?	打上計画何	scene_23
 君たち、知らないのかい？	You don't know?	君知	scene_23
-神羅の宇宙開発部門の長であるパルマーの主導で、人間を宇宙におくろうとした計画があったのさ	There was a plan to send a man into outer space. It was headed up by the leader of the Shinra Space Program, Palmer.	神羅宇宙開発部門長主導人間宇宙計画	scene_23
-でも、その計画も中断しちゃってね……この村は、その計画のなごりなのさ	This town is the result of the plan, but the plan got cut…	計画中断村計画	scene_23
+神羅の宇宙開発部門の長であるパルマーの主導で、人間を宇宙におくろうとした計画があったのさ	There was a plan to send a man into outer space. It was headed up by the leader of the Shinra Space Program, Palmer.	神羅宇宙開発部門長主導人間計画	scene_23
+でも、その計画も中断しちゃってね……この村は、その計画のなごりなのさ	This town is the result of the plan, but the plan got cut…	計画中断村	scene_23
 艇長とは、誰のことだ？	Who's the 'Captain'?	艇長誰	scene_23
 黒マントを着た男を見なかったか？	Did you see a man in a black cape?	黒着男見	scene_23
-艇長には、もう会ったかい？この村の顔とも言える男だから一度会っておくといいよ	Did you meet the Captain already? He's really the town's representative, so you should really talk with him.	艇長会村顔言男一度会	scene_23
+艇長には、もう会ったかい？この村の顔とも言える男だから一度会っておくといいよ	Did you meet the Captain already? He's really the town's representative, so you should really talk with him.	艇長会村顔言男一度	scene_23
 上海亭に、ようこそっす！	Welcome to the Shanghai Inn!	上海亭	scene_23
 一泊１００ギルですけど、とまるっすか？	It's 100 gil a night. Would you like to spend the night?	一泊	scene_23
 へいっ、まいどっす！	Yes sir. Thank you!		scene_23
@@ -28,7 +28,7 @@
 話を聞かせてくれ	Let me hear your story	話聞	scene_23
 CIDもかわいそうにな。あいつが宇宙に行けなかったのは誰が悪いのでもない	CID's had some bad breaks. It's really no one's fault he couldn't go into space.	宇宙行誰悪	scene_23
 ただ、ツキがなかっただけさ……	Just bad luck, I guess…		scene_23
-そんなふうに心の余裕がないのではいつか倒れてしまいますよ。心の重圧にたえかねて、ね	If he keeps up like that, he's gonna collapse someday. Y'know what I mean? I'm talkin' heart attack.	心余裕倒心重圧	scene_23
+そんなふうに心の余裕がないのではいつか倒れてしまいますよ。心の重圧にたえかねて、ね	If he keeps up like that, he's gonna collapse someday. Y'know what I mean? I'm talkin' heart attack.	心余裕倒重圧	scene_23
 …………残念です。また、おいで下さい	…That's too bad. Please come again.	残念下	scene_23
 １杯の酒はこころの安らぎ……	A drink will ease your heart…	杯酒安	scene_23
 ようこそ！ここはアイテム屋です。	Welcome! This is the Item Shop.	屋	scene_23
@@ -65,7 +65,7 @@ CIDもかわいそうにな。あいつが宇宙に行けなかったのは誰�
 ここより一歩も進ませるな！総員、突撃ィ～～！	Don't let them get any further! Everyone, ATTACK---!	一歩進総員突撃	scene_23
 わくわくしちゃう	Oh, I'm getting excited.		scene_23
 ん～、スペクタクル～	Mmm, a SPECTACLE.		scene_23
-ぬうう、行かせはせん！行かせはせんよ！	Urrrgh, you're not going anywhere!" Uh un, nowhere!	行行	scene_23
+ぬうう、行かせはせん！行かせはせんよ！	Urrrgh, you're not going anywhere!" Uh un, nowhere!	行	scene_23
 チクショウ、あいつら！オレ様のロケットに何しやがる気だ！	Goddammit, what the hell do they think they're gonna do to my rocket!?	様何気	scene_23
 行くぜ、CLOUD！神羅のクソッタレ野郎どもをオレ様のロケットから、たたきだしてやる！	I'm outta here, CLOUD! I'm gonna kick those $^%$# Shinra right out of my rocket!	行神羅野郎様	scene_23
 待ってくれ、CLOUD！	Wait, CLOUD!	待	scene_23
@@ -78,8 +78,8 @@ CLOUD、何してる！ロケットが発射されちまうぞ！！	CLOUD, what
 ……ふむな	…Hmm.		scene_23
 なに、なに？あなたたち、テロリストなの？わくわくしちゃう	What? You guys are terrorists? Wow, that's kinda exciting!		scene_23
 ん～、ハードアクション～	Mmm, here comes some hard action!		scene_23
-う～ん。本物なのかニセ物なのか？	Hmm. Is it real or fake?	本物物	scene_23
-気になって、気になって夜もねむれないよ～	I'm so curious I can't sleep.	気気夜	scene_23
+う～ん。本物なのかニセ物なのか？	Hmm. Is it real or fake?	本物	scene_23
+気になって、気になって夜もねむれないよ～	I'm so curious I can't sleep.	気夜	scene_23
 う～ん。そろそろ見あきてきたなぁわしの趣味につきあわせてしまってすまんのぉ	Mmm… I'm starting to see it now… Sorry to get you into this. For me, it's a kinda hobby.	見趣味	scene_23
 お礼と言ってはなんじゃがこれをあんたにあげよう	But, out of appreciation, let me give you this.	礼言	scene_23
 だいじに使ってもらえるとわしもうれしいんじゃが……	I wish you'd take care of it and use it…	使	scene_23
@@ -90,7 +90,7 @@ CLOUD、何してる！ロケットが発射されちまうぞ！！	CLOUD, what
 ロケットがなくなってしまったからどうも落ち着かないんだよね。前よりもメテオがはっきりと見えるようになったし……たまんないね	I get so restless with the rocket gone. And now that we can see Meteor clearly, …I can't stand it.	落着前見	scene_23
 タイニー・ブロンコを壊してしまったって話を聞いたけど……	I heard Tiny Bronco broke…	壊話聞	scene_23
 困っちゃうなぁ。ひそかに僕が狙っていたのになぁ。壊れちゃったのかぁ。残念	That sucks. I was secretly eyeing that thing. Broke, huh? What a drag.	困僕狙壊残念	scene_23
-空を見てみるといいよ。メテオがあんなに大きく見えるようではもう、われわれの命も長くはないね	Look up at the sky. The bigger Meteor gets, the less time we have to live.	空見大見命長	scene_23
+空を見てみるといいよ。メテオがあんなに大きく見えるようではもう、われわれの命も長くはないね	Look up at the sky. The bigger Meteor gets, the less time we have to live.	空見大命長	scene_23
 しかし、信じられないよ。あのボロっちいロケットが宇宙に行ったとはねぇ……	I still can't believe that piece of crap rocket actually made it into space…	信宇宙行	scene_23
 やっぱり、メカニックが優秀だったってことだな、きっと	I guess the mechanic was a genius.	優秀	scene_23
 この前、神羅のヤツらが来たときにわしらを家におしこめてくれたおかげであの日はロケットを見上げられなかったわい	Because those Shinra creeps locked us up in our houses, we couldn't even watch the rocket lift off.	前神羅来家日見上	scene_23
@@ -105,7 +105,7 @@ CLOUD、何してる！ロケットが発射されちまうぞ！！	CLOUD, what
 向かいの席にすわっていたヤツいつまでトイレに入っているのかな？オレも使いたいのによぉ……	How long's that guy gonna be in the bathroom? I need to go, too…	向席入使	scene_23
 神羅のパルマーさんが兵士を引き連れてロケットを整備しているようですが……	Seems like Palmer of Shinra, Inc. ordered soldiers to restore the rocket…	神羅兵士引連整備	scene_23
 メテオがふってくるんだって！？おまけに、いつまでたってもトイレは使えないしよ……	Meteor's coming toward us!? And I can't even go to the bathroom…!?	使	scene_23
-こうなりゃ意地だ。メテオがふってくるのが早いかあいつがトイレから出るのが早いか	OK, which is gonna happen first? Meteor hits us, or that guy comes out of the bathroom?	意地早出早	scene_23
+こうなりゃ意地だ。メテオがふってくるのが早いかあいつがトイレから出るのが早いか	OK, which is gonna happen first? Meteor hits us, or that guy comes out of the bathroom?	意地早出	scene_23
 オレは、この目で見とどけるまでここから離れないぞ	I'm not movin' from this spot till I see it with my own eyes.	目見離	scene_23
 こんな騒ぎになってもトイレから出てこない……実はあいつ、すごい大物なのかも！？	Even with all this goin' on outside, that guy still won't come out of the bathroom? He must be a damn water tank!?	騒出実大物	scene_23
 ロケットもなくなったってのにウチのジイサンはいつまであーしとるつもりなんじゃろ？	Is Gramps gonna stay like that even though rocket's gone?		scene_23
@@ -126,10 +126,10 @@ CLOUD、何してる！ロケットが発射されちまうぞ！！	CLOUD, what
 ん～、何かおもしろいシャレはないかな？	Hmm, let's see… do I know any good jokes?	何	scene_23
 世界の人々を笑わせること。それがわたしの使命……	It's my job to make people laugh all over the world…	世界人笑使命	scene_23
 おっ、CID！ついに究極のシャレを考えついたんだ！ぜひ聞いてくれよ	Hey CID! I just thought of the best joke! Listen to this one.	究極考聞	scene_23
-おまえのダジャレは聞きあきたがしかたないから聞いてやる。ホレ、言ってみろ	I'm so sick of hearing these dumb puns, but okay…let's get it over with. Go on…let me hear it.	聞聞言	scene_23
+おまえのダジャレは聞きあきたがしかたないから聞いてやる。ホレ、言ってみろ	I'm so sick of hearing these dumb puns, but okay…let's get it over with. Go on…let me hear it.	聞言	scene_23
 ええと、なんだったっけな……	Uh, now, let's see, how did it go?		scene_23
 『みんな、のたうち回ってるど』じゃなくて『神羅のタークスのルード』って奴がきてるぜ	…'He's crude an' a jerk'… I mean, He's 'Rude of the Turks'!	回神羅奴	scene_23
-『ルーファウスの若社長は目がみっつ』じゃなくてルーファウスの若社長はメカニックを集めて	'President Rufus, lathers Tantrics'… Uh, I mean… President Rufus, gathers mechanics'…	若社長目若社長集	scene_23
+『ルーファウスの若社長は目がみっつ』じゃなくてルーファウスの若社長はメカニックを集めて	'President Rufus, lathers Tantrics'… Uh, I mean… President Rufus, gathers mechanics'…	若社長目集	scene_23
 『あんたのブランケットにまったりとしたハム』じゃなくてあんたのボロロケットにマテリアボムを積んで打ち上げるつもりらしいぜ	'Raunchy meat, a pocket full, at the cafeteria'. Uh, I mean… Launch a beat up rocket full of Materia'.	積打上	scene_23
 ……久しぶりに会っておめえのくだらねぇダジャレもなつかしいと思ったが……	And I thought it might be fun to hear some of your stupid puns again for old times sake… my mistake.	久会思	scene_23
 いやいやそんなていちょう（艇長）にほめるなよ～	Oh, 'crap-again'(oh, captain).	艇長	scene_23
@@ -142,14 +142,14 @@ CLOUD、何してる！ロケットが発射されちまうぞ！！	CLOUD, what
 （お、恐るべしギャグセンス……）	(A fearful sense of humor…)	恐	scene_23
 ……？？	…??		scene_23
 ぐぅ……ナイスキック	Ugh… Nice kick.		scene_23
-もっと、修行せねば……精進、精進	I got to learn more… Devotion, devotion.	修行精進精進	scene_23
+もっと、修行せねば……精進、精進	I got to learn more… Devotion, devotion.	修行精進	scene_23
 けっ！おめぇのダジャレなんぞ、聞きたくもねぇ	DAMMIT! No more of them ^$#%$@# puns!	聞	scene_23
 で？	And?		scene_23
 （センス以前の間題さ……）	(The problem starts way before his sense of humor.)	以前間題	scene_23
 神羅は【コレル】、【コンドルフォート】のヒュージマテリアを回収しようとしちょる。最終的には４つ集めてこの村に運んでくるらしいわい	Shinra's trying to gather the Huge Materia from Corel and Fort Condor. There are four left, and they're transporting them here.	神羅回収最終的集村運	scene_23
-わしの大事なロケットをこんな事に使おうとするとは……たまらんのぉ	I can't stand the thought of them using my rocket for something like this.	大事事使	scene_23
+わしの大事なロケットをこんな事に使おうとするとは……たまらんのぉ	I can't stand the thought of them using my rocket for something like this.	大事使	scene_23
 神羅は【ジュノンの海底魔晄炉】のヒュージマテリアを回収しようとしちょる。最終的には４つ集めてこの村に運んでくるらしいわい	Shinra's trying to gather the Huge Materia from the Junon Underwater Reactor. There are four left, and they're transporting them here.	神羅海底魔晄炉回収最終的集村運	scene_23
-わしの大事なロケットをこんな事に使おうとするとは……つらいのぉ	I can't stand them using my precious rocket for a thing like this.	大事事使	scene_23
+わしの大事なロケットをこんな事に使おうとするとは……つらいのぉ	I can't stand them using my precious rocket for a thing like this.	大事使	scene_23
 えっと、ここは関係者以外立入禁止っす	Authorized personnel only.	関係者以外立入禁止	scene_23
 あ……CLOUDさん	Excuse me…CLOUD?		scene_23
 艇長、何か言ってました？	Did the Captain say anything?	艇長何言	scene_23
@@ -197,15 +197,15 @@ CLOUD、何してる！ロケットが発射されちまうぞ！！	CLOUD, what
 うひょ！　お茶だ！	Hey-hey! Tea!	茶	scene_23
 わしにもちょうだい。サトウとハチミツたっぷりでラードも入れてね	Can I have some too? With lotsa sugar and honey and… oh yeah, don't forget the lard!	入	scene_23
 うひょひょ？どこかで会ったかな？	Hey-hey? Have we met before?	会	scene_23
-で、いつなんだ？宇宙開発計画の再開はよぉ？	So? When's the Space Program gonna start up again?	宇宙開発計画再開	scene_23
-ルーファウス社長が来たのは宇宙開発を再開するためなのでしょうか？	Is President Rufus here to announce that he's going to restart the Space Program?	社長来宇宙開発再開	scene_23
+で、いつなんだ？宇宙開発計画の再開はよぉ？	So? When's the Space Program gonna start up again?	宇宙開発計画再	scene_23
+ルーファウス社長が来たのは宇宙開発を再開するためなのでしょうか？	Is President Rufus here to announce that he's going to restart the Space Program?	社長来宇宙開発再	scene_23
 うひょ！お茶はまだかな～？	Hey-hey! Is the tea ready yet?	茶	scene_23
 サトウとハチミツたっぷりでラードもどっさり入れてね。うひょひょ！	With plenty of sugar and honey. Oh yeah, and don't forget the lard, too.	入	scene_23
 な、な、な、なんでい！期待させやがって！	What the!? You got me all excited for nothing!?	期待	scene_23
 そんなら今日は何の用で来た？	Then, what'd you come here for?	今日何用来	scene_23
 タイニー・ブロンコを返してもらおうと思ってな	I want to borrow the Tiny Bronco.	返思	scene_23
 ケッ！最初は飛空艇、次はロケットこんどはタイニー・ブロンコか	&^#^%! First the Airship, then the Rocket, and now, the Tiny Bronco.	最初飛空艇次	scene_23
-神羅カンパニーはオレ様から宇宙を奪っただけでは足りずに今度は空まで奪う気だな！	Shinra took outer space away from me and now you want to take the sky away from me too!?	神羅様宇宙奪足今度空奪気	scene_23
+神羅カンパニーはオレ様から宇宙を奪っただけでは足りずに今度は空まで奪う気だな！	Shinra took outer space away from me and now you want to take the sky away from me too!?	神羅様宇宙奪足今度空気	scene_23
 おやおや……	Oh my…		scene_23
 いままで、君が空を飛べたのは神羅カンパニーのおかげだ。それを忘れないでくれたまえ	You seem to forget it was because of Shinra, Inc. that you were able to fly in the first place.	君空飛神羅忘	scene_23
 あ、あの、あなたたち……	Uh, excuse me…		scene_23
@@ -213,10 +213,10 @@ CLOUD、何してる！ロケットが発射されちまうぞ！！	CLOUD, what
 あなたたちタイニー・ブロンコを使いたがっていましたよね	You wanted to use the Tiny Bronco, right?	使	scene_23
 パルマーが持っていくそうです。お話ししてみたら？	I believe Palmer's going to take it. Why don't you talk to him?	持話	scene_23
 我々はセフィロスを追っている。ただ、どうやら今まで見当違いの方向を探していたようだ	We're going after Sephiroth. But seems like we've been going in the wrong direction.	我追今見当違方向探	scene_23
-だが今はだいたい行く先がつかめてきたのでな。我々は海を越えなくてはならないんだ。それでお前の飛行機を……	But now, we think we know where he's headed. But, we have to cross the ocean. That's why we want your plane…	今行先我海越前飛行機	scene_23
+だが今はだいたい行く先がつかめてきたのでな。我々は海を越えなくてはならないんだ。それでお前の飛行機を……	But now, we think we know where he's headed. But, we have to cross the ocean. That's why we want your plane…	今行先我海越前飛機	scene_23
 おまえたち、なんだ？	What're you guys doin' here?		scene_23
 艇長がここにいるって聞いてきたんだ	We heard the Captain was here.	艇長聞	scene_23
-艇長だと？艇長とはオレ様のことだ！	Captain? I'm the Captain!	艇長艇長様	scene_23
+艇長だと？艇長とはオレ様のことだ！	Captain? I'm the Captain!	艇長様	scene_23
 親からもらった名前はCID。みんなは艇長って呼ぶけどな	The name's CID. Everyone calls me 'Captain', though.	親名前艇長呼	scene_23
 で、なんの用でい？	What d'ya want?	用	scene_23
 このロケットのこと、教えて	Tell me about this rocket	教	scene_23
@@ -228,9 +228,9 @@ CLOUD、何してる！ロケットが発射されちまうぞ！！	CLOUD, what
 今は魔晄屋だが、むかしは兵器開発会社だったからな	Now it's a Mako company, but in the old days it was a weapons manufacturer.	今魔晄屋兵器開発会社	scene_23
 そんなかでよ、ロケットエンジンができちまったんだ	Well, they came up with a Rocket Engine.		scene_23
 こりゃ宇宙へ行けるってんで大騒ぎよ。夢はどんどん広がった	There was so much excitement about the thought of going into outer space. Our dreams got bigger and bigger.	宇宙行大騒夢広	scene_23
-予算もバカスカつぎこんで試作、試作、また試作！で、完成したのが、この神羅２６号	They put a major budget into it and made prototype after prototype! Finally, they completed Shinra No. 26.	予算試作試作試作完成神羅号	scene_23
-パイロットには神羅一、いや世界一のウデを持つオレ様が選ばれた。ま、当然と言えば当然だわな	They chose the best pilot in Shinra… no, in the world--me. I mean, come on.	神羅一世界一持様選当然言当然	scene_23
-いよいよ迎えた打ち上げの日。何もかも上手くいってた	And finally we get to the day of the launch. Everything was goin' well…	迎打上日何上手	scene_23
+予算もバカスカつぎこんで試作、試作、また試作！で、完成したのが、この神羅２６号	They put a major budget into it and made prototype after prototype! Finally, they completed Shinra No. 26.	予算試作完成神羅号	scene_23
+パイロットには神羅一、いや世界一のウデを持つオレ様が選ばれた。ま、当然と言えば当然だわな	They chose the best pilot in Shinra… no, in the world--me. I mean, come on.	神羅一世界持様選当然言	scene_23
+いよいよ迎えた打ち上げの日。何もかも上手くいってた	And finally we get to the day of the launch. Everything was goin' well…	迎打上日何手	scene_23
 ところがあのノロマのシエラのせいで打ち上げはおじゃん。それがケチのつきはじめよ	But, because of that dumb-ass Shera, the launch got messed up. That's why they became so anal!	打上	scene_23
 神羅は宇宙開発計画をすてやがった	And so, Shinra nixed their outer space exploration plans.	神羅宇宙開発計画	scene_23
 あれだけ、これからは宇宙だ！な～んて言って希望持たせてやがったクセによっ！	After they told me how the future was Space Exploration and got my damn hopes up…DAMN THEM!	宇宙言希望持	scene_23
@@ -238,7 +238,7 @@ CLOUD、何してる！ロケットが発射されちまうぞ！！	CLOUD, what
 かね、金、カネだぁ？オレ様の夢をソロバンかんじょうだけでぼうにふるない！	Money, moola, dinero! My dream was just a financial number for them!	金様夢	scene_23
 見ろい……このサビだらけのロケットを。こいつで、オレ様は宇宙へ飛び出す最初の男になるはずだった	Look at this rusted Rocket. I was supposed to be the first man in space with this.	見様宇宙飛出最初男	scene_23
 いまじゃ、毎日にちょこっとずつかたむいてらあ	Everyday, it tilts a little bit more.	毎日	scene_23
-このぶんだとコイツが倒れるのが先かオレ様がおっちぬのが先かってくらいだ……	At this rate, I don't know which'll be first, this thing falling over or me gettin' outta here.	倒先様先	scene_23
+このぶんだとコイツが倒れるのが先かオレ様がおっちぬのが先かってくらいだ……	At this rate, I don't know which'll be first, this thing falling over or me gettin' outta here.	倒先様	scene_23
 おう！　きっとよ、宇宙計画が再開されるって話にちげえねえ	Yeah! It must be news about restarting the Space Program.	宇宙計画再開話	scene_23
 やっぱり若い社長にかぎるぜ！夢があっていいやね	A young President, that's what we needed! He still has dreams, too!	若社長夢	scene_23
 な～にバカなこと言ってやがるんだ！あれは大切なもんなんだ。貸せねぇよ	You out of your *&$^$# mind!? That's my most cherished possession. I can't let you take it.	言大切貸	scene_23
@@ -264,7 +264,7 @@ CLOUD、何してる！ロケットが発射されちまうぞ！！	CLOUD, what
 何だって！？どこのバカやろうだ？	What!? Who is the little ^%$@!?	何	scene_23
 わかりません。エンジン部と音声つなぎます！	I don't know. Activating the intercom in the engine section.	部音声	scene_23
 おい、コラ！！そんなところにいるのはどこのバカやろうだ！？	Hey goddammit!! Who the &%$#'s still in there?		scene_23
-艇長、私です、シエラです。私にかまわず、打ち上げを行なって下さい	It's Shera, Captain. Don't mind me, go ahead with the launch.	艇長私私打上行下	scene_23
+艇長、私です、シエラです。私にかまわず、打ち上げを行なって下さい	It's Shera, Captain. Don't mind me, go ahead with the launch.	艇長私打上行下	scene_23
 シエラぁ！？いまごろ、なにしてやがんだ！	Shera!? What are you still doin' in there!?		scene_23
 どうしても心配だったんです。酸素ボンベのテストで満足いく結果がえられなくて	I was still concerned. The results of the oxygen tank test weren't satisfactory.	心配酸素満足結果	scene_23
 バカやろう！	You stupid little $#^%!		scene_23
@@ -277,7 +277,7 @@ CID、カウントダウン開始だ。もう、間に合わない！	CID, We mu
 どうするCID？ここで中止すれば、次の打ち上げまで６ケ月もかかっちまうぞ！	What are you going to do, CID? If we cancel now, it'll be another six months until the next launch!	中止次打上月	scene_23
 エンジン始動する！	Starting engine!	始動	scene_23
 くっ……シエラのヤロウめ……オレ様を人殺しにする気か？	GODDAMMIT, Shera… you wanna make me a murderer?	様人殺気	scene_23
-７番ボンベまでチェック終わりました。８番ボンベが終わればオールクリアです	Tank Number 7 check is complete. Once I complete Tank Number 8, it's all clear.	番終番終	scene_23
+７番ボンベまでチェック終わりました。８番ボンベが終わればオールクリアです	Tank Number 7 check is complete. Once I complete Tank Number 8, it's all clear.	番終	scene_23
 ああ、月が……宇宙が……オレ様の夢が……	Oh man, the moon…outer space… my dreams…	月宇宙様夢	scene_23
 エンジン点火！	Ignite Engine!	点火	scene_23
 エンジン点火まで１５秒。船内温度上昇中	15 seconds until ignition. Internal temperature rising.	点火秒船内温度上昇中	scene_23
@@ -303,10 +303,10 @@ CID！シエラの事はあきらめろ。もう、まにあわない！	CID! Fo
 空を飛べるのかな？勝手に乗っちゃマズイかな？	Will it fly? Is it all right to just take it?	空飛勝手乗	scene_23
 CLOUDさん！こんなもんとったらえらいことになるで！	CLOUD! If we steal it, we'll get in deep trouble!		scene_23
 ……見張っていようか？	…Want me to keep watch?	見張	scene_23
-CLOUD、盗もうよ！神羅の物盗むのは大好きなんだ！	CLOUD, let's steal it! I love stealing from the Shinra!	盗神羅物盗大好	scene_23
+CLOUD、盗もうよ！神羅の物盗むのは大好きなんだ！	CLOUD, let's steal it! I love stealing from the Shinra!	盗神羅物大好	scene_23
 あの……何か？	Um…may I help you?	何	scene_23
 いや、なんでもないんだ。見せてもらっていただけだ	No… We're just looking at it.	見	scene_23
-……もしそれが使いたいなら艇長に聞いて下さい。艇長はきっとロケットのところにいると思います	…If you would like to use it, please ask the Captain. The Captain should be in the rocket.	使艇長聞下艇長思	scene_23
+……もしそれが使いたいなら艇長に聞いて下さい。艇長はきっとロケットのところにいると思います	…If you would like to use it, please ask the Captain. The Captain should be in the rocket.	使艇長聞下思	scene_23
 私、シエラといいます。あなたたちは？	I'm Shera. And what are your names?	私	scene_23
 アバランチのBARRETだ	I'm BARRET, of AVALANCHE.		scene_23
 TIFA。　よろしくね	TIFA. Nice to meet you.		scene_23
@@ -316,9 +316,9 @@ TIFA。　よろしくね	TIFA. Nice to meet you.		scene_23
 VINCENT。仕事は……まあ、いいだろう	VINCENT. I am…nevermind.	仕事	scene_23
 アタシ、YUFFIE！	I'm YUFFIE!		scene_23
 はぁ……神羅の人たちじゃないんですね	Hmm… So you're not with the Shinra?	神羅人	scene_23
-私、宇宙開発再開の知らせがきたのかと思って	I thought you were bringing approval for the Space Program.	私宇宙開発再開知思	scene_23
+私、宇宙開発再開の知らせがきたのかと思って	I thought you were bringing approval for the Space Program.	私宇宙開発再知思	scene_23
 ……！？	…!?		scene_23
-新社長のルーファウスさんがここへいらっしゃるそうなんです。艇長は朝からそわそわしてますわ	President Rufus is scheduled to come here. The Captain's been so restless all morning.	新社長艇長朝	scene_23
+新社長のルーファウスさんがここへいらっしゃるそうなんです。艇長は朝からそわそわしてますわ	President Rufus is scheduled to come here. The Captain's been so restless all morning.	新社長艇朝	scene_23
 ルーファウスが！！	Rufus!!?		scene_23
 うひょ……なんでわしがこんなこと……わし、宇宙開発部門統括……	Hmm… Why do I have to do this…? I'm the head of the Space Program…	宇宙開発部門統括	scene_23
 お前らどこかで見たな……	I've seen you somewhere before…	前見	scene_23

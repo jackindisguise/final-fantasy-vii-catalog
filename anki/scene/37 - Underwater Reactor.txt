@@ -19,14 +19,14 @@
 ほしいならしかたねぇ！ジュノン地下の【潜水監ドック】！とれるときにとっとけ！	You want it? Then you got it! They're down at the submarine dock underneath Junon! You gotta get what you want while you can!	地下潜水監	scene_37
 ええっ～！！ジュノン地下の【潜水監ドック】！ぬすむのはいいけどさ！	…Yeah!!	地下潜水監	scene_37
 乗るのはえんりょしとくよ	The submarine dock underneath Junon!  I can steal a sub easy enough, but I can't pilot it!	乗	scene_37
-潜水監はジュノン地下の【潜水監ドック】にありますんや！	Security's pretty light now! The submarine's at the submarine dock!	潜水監地下潜水監	scene_37
+潜水監はジュノン地下の【潜水監ドック】にありますんや！	Security's pretty light now! The submarine's at the submarine dock!	潜水監地下	scene_37
 悪くなかろう	It should be alright.	悪	scene_37
 いくか……	Let's go…		scene_37
 ウェポンの襲撃にはビビッタよな。あんなヤツがまだあと２匹いるかと思うとゾッとするよ	I sure was scared when Weapon attacked. It gives me the creeps knowing there's still two of them left.	襲撃匹思	scene_37
 そうかい？俺は人類最大の敵を目の前にして武者ぶるいしている。惑星規模の闘いなんてめったに経験できないぜ	Oh yeah? Well, I'm ready to fight mankind's worst enemy like a real warrior. It's not everyday you get to fight in an inter-planetary war.	俺人類最大敵目前武者惑星規模闘経験	scene_37
-社長はこの星に存在するヒュージマテリアを全てあつめ、ロケットでメテオにぶつけるつもりだ。たいした社長だよ	The President is gathering up all the Huge Materia on the planet. He wants to shoot it at Meteor in the rocket.	社長星存在全社長	scene_37
+社長はこの星に存在するヒュージマテリアを全てあつめ、ロケットでメテオにぶつけるつもりだ。たいした社長だよ	The President is gathering up all the Huge Materia on the planet. He wants to shoot it at Meteor in the rocket.	社長星存在全	scene_37
 ルーファウス社長は先代と違う。神羅の持つ科学力を総動員してこの星を守っている	President Rufus is different from the older generation. He'll protect the planet with all of Shinra's state of the art technology.	社長先代違神羅持科学力総動員星守	scene_37
-守る？いや、違うな。そんなきれいな使命感は社長にはない。社長にとってはただの勝ち負けの間題。ゲームと同じさ……	Protect it? No, I don't think so. The President isn't the type to do anything so heroic. It's all just a game to him a question of winning or losing.	守違使命感社長社長勝負間題同	scene_37
+守る？いや、違うな。そんなきれいな使命感は社長にはない。社長にとってはただの勝ち負けの間題。ゲームと同じさ……	Protect it? No, I don't think so. The President isn't the type to do anything so heroic. It's all just a game to him a question of winning or losing.	守違使命感社長勝負間題同	scene_37
 とうとう、ここジュノン【海底魔晄炉】のヒュージマテリアも回収作業に入ったか	They've finally started collecting the Huge Materia from the Junon Underwater Reactor.	海底魔晄炉回収作業入	scene_37
 回収後、このエアポートにヒュージマテリアが集められ、ゲルニカでロケット村へ送られるてはずになってる。気をぬくな！	After they get it, they'll take it to the airport and will transport it to Rocket Town by Gelnika. Don't let your guard down!	回収後集村送気	scene_37
 ふう……無事に【ロケット村】まで到着してくれよ。これでミッションもひと段落だな	Whew…I hope everything goes all right until we get to Rocket Town. Then, our mission is nearly complete.	無事村到着段落	scene_37
@@ -53,14 +53,14 @@
 ヒュージマテリアの積みこみは完了！後はエアポートでゆそうきのゲルニカの離陸を見送れば、任務は終わりさ	Finished loading the Huge Materia! All we have to do now is to ready the cargo ship, Gelnika', for departure and we're done!	積完了後離陸見送任務終	scene_37
 ハイウインドなしのエアポートはさびしいもんやね！	It's kinda lonely at the airport without the Highwind, isn't it?		scene_37
 オレ、あの機体の水着の女の子のファンだったのに	I miss that bikini girl on the side of the plane.	機体水着女子	scene_37
-今、神羅軍は【コレル魔晄炉】と【コンドルフォート魔晄炉】のヒュージマテリア回収ミッションにかりだされてんだ	Right now the Shinra's using it to gather the Huge Materia from the Corel Reactor and from the Fort Condor Reactor.	今神羅軍魔晄炉魔晄炉回収	scene_37
+今、神羅軍は【コレル魔晄炉】と【コンドルフォート魔晄炉】のヒュージマテリア回収ミッションにかりだされてんだ	Right now the Shinra's using it to gather the Huge Materia from the Corel Reactor and from the Fort Condor Reactor.	今神羅軍魔晄炉回収	scene_37
 ゲルニカもいそがしく飛び回ってるよ！ひまなのは、オレひとりぐらいさ！	The Gelnika's flying all over the place! The only one that's not busy, is probably me!	飛回	scene_37
-今、神羅軍は、ここ、ジュノン海底魔晄炉のヒュージマテリア回収ミッション中でさ！無事回収したらこの空港に運びこまれるんだ	The Shinra's collecting Huge Materia at the Junon Underwater Reactor! When they're done, they'll bring it to this airport.	今神羅軍海底魔晄炉回収中無事回収空港運	scene_37
+今、神羅軍は、ここ、ジュノン海底魔晄炉のヒュージマテリア回収ミッション中でさ！無事回収したらこの空港に運びこまれるんだ	The Shinra's collecting Huge Materia at the Junon Underwater Reactor! When they're done, they'll bring it to this airport.	今神羅軍海底魔晄炉回収中無事空港運	scene_37
 じゃまにならないうちにはやく立ちさりなよ！	Get out of here before you get in the way!	立	scene_37
 えっ……オレ？オレもじゃまにならないようにここで見物ですよ！	What…me? I'm gonna be watching from here, so that I don't get in their way either!	見物	scene_37
 無事ロケット村までゲルニカを送り出してほっと一安心	I'm glad we got Gelnika to Rocket Town safely.	無事村送出一安心	scene_37
-でも、スケールのでかいこと考えるよな～。ヒュージマテリアの破壊力を利用してメテオを壊そうだなんて……	But they sure think big. Looks like they're going to use the Huge Materia to break up Meteor…	考破壊力利用壊	scene_37
-神羅軍の軍事力はすべてミッドガルに集中した。もはやセフィロスでさえも死ぬのは時間の間題…	The Shinra Army's gathered at Midgar. Now it's just a matter of time Sephiroth's dead.	神羅軍軍事力集中死時間間題	scene_37
+でも、スケールのでかいこと考えるよな～。ヒュージマテリアの破壊力を利用してメテオを壊そうだなんて……	But they sure think big. Looks like they're going to use the Huge Materia to break up Meteor…	考破壊力利用	scene_37
+神羅軍の軍事力はすべてミッドガルに集中した。もはやセフィロスでさえも死ぬのは時間の間題…	The Shinra Army's gathered at Midgar. Now it's just a matter of time Sephiroth's dead.	神羅軍事力集中死時間題	scene_37
 えっ……オレ？オレはいいよぅ。ここで待機してますよ、命おしいですからねえ	What…me? I don't mind. I'll just wait here. My life is important to me.	待機命	scene_37
 ついにオレにもセフィロス大作戦への参加命令がくだっちまいましたよ。あこがれのゲルニカにも乗れるんだけど……	I finally got orders to join the Great Sephiroth Plan. I even get to go on the Gelnika too…	大作戦参加命令乗	scene_37
 けどね、てっていして無視してやりますよ。オレはしぶとく生き抜いて世界の最後をみとどけてやります	But, I'm just gonna ignore them. I wanna live to see the end of the world.	無視生抜世界最後	scene_37
@@ -73,7 +73,7 @@
 神羅技術のすいを集めた新型潜水監がもうじき完成するんだ	A new submarine has almost been completed using Shinra's top technology.	神羅技術集新型潜水監完成	scene_37
 新型の潜水監。俺も乗船することになってんだ。うっ～、まちどおしいぜ！	A new version of submarine. I'll be sailing on it. Man, I can't wait!	新型潜水監俺乗船	scene_37
 ふぁぁぁぁ……海底魔晄炉の見張りはたいくつだよ	Man… Keeping watch is so boring at the Underwater Reactor.	海底魔晄炉見張	scene_37
-さぁっ！　お仕事っ！！お仕事っ！！	OK! Back to work!! Back to work!!	仕事仕事	scene_37
+さぁっ！　お仕事っ！！お仕事っ！！	OK! Back to work!! Back to work!!	仕事	scene_37
 ふぅぁ～……ねぶそく！！	Yawn…I'm sleepy!!		scene_37
 ジュノン万歳～！！	For Junon!!	万歳	scene_37
 神羅のイヌめ！！	Damn, Shinra dogs!!	神羅	scene_37
@@ -83,7 +83,7 @@
 道案内は終わりだ！いくぞ！！	That's all the instructions you're going to get! Let's go!!	道案内終	scene_37
 ドキドキ……したへまいりま～す	…gulp… Going do---wn.		scene_37
 こちらには潜水監ドックがございま～す	This floor is the Submarine Dock…	潜水監	scene_37
-海底魔晄炉へおこしのお客様はここから先、連絡通路をお通りください	Those of you visiting the Underwater Reactor, please proceed through the connecting tunnel.	海底魔晄炉客様先連絡通路通	scene_37
+海底魔晄炉へおこしのお客様はここから先、連絡通路をお通りください	Those of you visiting the Underwater Reactor, please proceed through the connecting tunnel.	海底魔晄炉客様先連絡通路	scene_37
 ドキドキ……うえでございま～す	…gulp… Going u---p.		scene_37
 ジュノンの街にもどりま～す	Returning to Junon.	街	scene_37
 ドキドキ……あの……つきましたでございま～す	…gulp…  We're here…		scene_37
@@ -225,15 +225,15 @@ CLOUDさん安全運転してや～	Oh please drive safely, CLOUD!	安全運転	
 ×：後退（シフトダウン）	[CANCEL]: Speed Dn	後退	scene_37
 【方向キー】	Directional controls	方向	scene_37
 上：下降	Up: Descend	上下降	scene_37
-左：左旋回　　　　右：右旋回	Left: Left rotation Right: Right rotation	左左旋回右右旋回	scene_37
+左：左旋回　　　　右：右旋回	Left: Left rotation Right: Right rotation	左旋回右	scene_37
 下：上昇	Down: Ascend	下上昇	scene_37
 『ミッション指令』	Mission Orders	指令	scene_37
-現在、ジュノン海底には、ヒュージマテリアを積んだ赤いボス潜水監を護衛するため神羅海軍潜水監隊が潜行している模様。	Presently on the ocean floor near Junon, a Red Leader Submarine carrying Huge Materia is being escorted by covert Shinra Submarine Units.	現在海底積赤潜水監護衛神羅海軍潜水監隊潜行模様	scene_37
+現在、ジュノン海底には、ヒュージマテリアを積んだ赤いボス潜水監を護衛するため神羅海軍潜水監隊が潜行している模様。	Presently on the ocean floor near Junon, a Red Leader Submarine carrying Huge Materia is being escorted by covert Shinra Submarine Units.	現在海底積赤潜水監護衛神羅軍隊行模様	scene_37
 また、海底には機雷が多数配置されていることを確認。	Furthermore, it has been confirmed that several mines have been dispersed onto the ocean floor.	海底機雷多数配置確認	scene_37
 海底の様子は、神羅特製ソナーレーダー画面を 通じてしか知ることはできない。	The ocean floor can only be monitored with Shinra's Sonar Radar Screen.	海底様子神羅特製画面通知	scene_37
-潜行している敵潜水監は、ソナーはんい内に とらえないかぎり、認識不可能だ。	Enemy subs can only be detected within the Sonar area.	潜行敵潜水監内認識不可能	scene_37
+潜行している敵潜水監は、ソナーはんい内に とらえないかぎり、認識不可能だ。	Enemy subs can only be detected within the Sonar area.	潜行敵水監内認識不可能	scene_37
 発見した敵潜水監を正面にとらえ【ロックオン！】 	Get in front of the detected enemy sub and "Lock On"!!	発見敵潜水監正面	scene_37
-□ボタンでギョライを撃ちこめ！ レーダー画面上、のびちぢみする光の柱の上に 表示されるのが、機雷だ。	Push [SWITCH] to fire the torpedo! The mines are found on the radar screen at the top of the indicators.	撃画面上光柱上表示機雷	scene_37
+□ボタンでギョライを撃ちこめ！ レーダー画面上、のびちぢみする光の柱の上に 表示されるのが、機雷だ。	Push [SWITCH] to fire the torpedo! The mines are found on the radar screen at the top of the indicators.	撃画面上光柱表示機雷	scene_37
 機雷への接触は大きなダメージとなるので注意！	The mines inflict great damage, so be careful!	機雷接触大注意	scene_37
 『クリア条件』	Objective	条件	scene_37
 ヒュージマテリアを積んだ赤いボス潜水監の撃破！	Sink the Red Leader Submarine carrying the Huge Materia!	積赤潜水監撃破	scene_37
@@ -245,7 +245,7 @@ CLOUDさん安全運転してや～	Oh please drive safely, CLOUD!	安全運転	
 ４．敵を見失ったらＲ１ボタンの全体レーダーで探索！	4. If you lose track of the enemy, push [PAGEDOWN] and use your radar!	敵見失全体探索	scene_37
 『潜水監の操作マニュアル・中級者編』	Submarine Operation Manual - Intermediate Edition	潜水監操作中級者編	scene_37
 『レーダー画面の見方』	Radar Screen	画面見方	scene_37
-レーダー画面上、のびちぢみする光の柱は柱の上に機雷がひそんでいることをあらわしている。	The mines are found at the top of the indicators on the screen.	画面上光柱柱上機雷	scene_37
+レーダー画面上、のびちぢみする光の柱は柱の上に機雷がひそんでいることをあらわしている。	The mines are found at the top of the indicators on the screen.	画面上光柱機雷	scene_37
 柱をさけつつ、敵潜水監を背後からとらえ確実にロックオンするのが基本戦術となる。	The basic strategies are to 1) avoid the indicators, and 2) "Lock On" to enemies from behind.	柱敵潜水監背後確実基本戦術	scene_37
 画面下のよこゲージは潜水監の耐久力をしめす。	The lower gauge shows the sub's remaining power.	画面下潜水監耐久力	scene_37
 画面右のたてゲージは潜水監のスピード。	The right gauge shows the sub's speed.	画面右潜水監	scene_37
@@ -255,7 +255,7 @@ CLOUDさん安全運転してや～	Oh please drive safely, CLOUD!	安全運転	
 ＭＩＮＥ…近くに機雷発見！	MINE…Mine detected nearby!	近機雷発見	scene_37
 ＣＯＮＦＬＩＣＴ…海底に衝突（バックまたは転回せよ）	CONFLICT…Collision with the ocean floor!	海底衝突転回	scene_37
 『ギョライの装填』	Loading torpedoes	装填	scene_37
-ギョライは一発撃つと次の発射までに 時間がかかる。	Preparation time is needed before the next torpedo can be fired.	一発撃次発射時間	scene_37
+ギョライは一発撃つと次の発射までに 時間がかかる。	Preparation time is needed before the next torpedo can be fired.	一発撃次射時間	scene_37
 むだ撃ちはせず、確実にねらっていけ！	Take your time, and don't waste your shots!	撃確実	scene_37
 『潜水監の操作マニュアル・マスター編』	Submarine Operation Manual - Advanced Edition	潜水監操作編	scene_37
 『ロックオンのはずしかた』	How to release the "Lock On" mode		scene_37
@@ -365,7 +365,7 @@ VINCENT……？	VINCENT?		scene_37
 こないで！！！	Stay back!!		scene_37
 ルクレッツィア…生きていたのか…	Lucrecia… You're alive…	生	scene_37
 消えてしまいたかった…みんなのそばにいられなかった…死にたかった……	I wanted to disappear… I couldn't be with anyone… I wanted to die…	消死	scene_37
-でも、私の中のジェノバが私を死なせてくれない……	But the Jenova inside me wouldn't let me die…	私中私死	scene_37
+でも、私の中のジェノバが私を死なせてくれない……	But the Jenova inside me wouldn't let me die…	私中死	scene_37
 最近、セフィロスの夢を見るの…私のかわいい子供……	Lately, I dream a lot of Sephiroth… My dear, dear child.	最近夢見私子供	scene_37
 でも、あの子が生まれてから私は一度も抱いてない……	Ever since he was born I never got to hold him…	子生私一度抱	scene_37
 子供も抱けない…、母親だと言う事もできない……それが、私の罪………	Not even once. You can't call me his mother… That…is my sin…	子供抱母親言事私罪	scene_37

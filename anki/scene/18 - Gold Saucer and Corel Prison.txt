@@ -1,5 +1,5 @@
 ようこそゴールドソーサーへ	Welcome to the Gold Saucer.		scene_18
-団体様ですね？　入園チケットは１回３０００ギルです何回でも入園できるゴールドチケットは３００００ギルになります	Are you together? A single pass is 3000 gil, or you can purchase a lifetime pass for 30000 gil.	団体様入園回何回入園	scene_18
+団体様ですね？　入園チケットは１回３０００ギルです何回でも入園できるゴールドチケットは３００００ギルになります	Are you together? A single pass is 3000 gil, or you can purchase a lifetime pass for 30000 gil.	団体様入園回何	scene_18
 ３０００ギル払う	Pay 3000 gil	払	scene_18
 ３００００ギル払う	Pay 30000 gil	払	scene_18
 払わない	Don't pay	払	scene_18
@@ -80,7 +80,7 @@
 ……私と行くのか？	…You want to go with me?	私行	scene_18
 アタシと！？	With me!?		scene_18
 いっしょに行くわ	I'll go with you.	行	scene_18
-１人で行かないで私と行きましょ！	Don't go alone, go with me!	人行私行	scene_18
+１人で行かないで私と行きましょ！	Don't go alone, go with me!	人行私	scene_18
 アタシといっしょに行こうよ！	Let's go together, CLOUD!	行	scene_18
 １人ではなんだろう……	Don't go by yourself…	人	scene_18
 スピードスクェア	Speed Square		scene_18
@@ -100,14 +100,14 @@
 こちらの乗り物は初めてでございますか？	Would this be your first time riding with us?	乗物初	scene_18
 初めてでございます	Yes, it would	初	scene_18
 初めてでは無いでございます	No, it would not	初無	scene_18
-こちらの乗り物は中からゴールドソーサーの色々な景色がお楽しみいただけます。ただ、すわっているだけでは見ることの出来ない景色も多くございますのでマドからのぞいてみるとよろしいですよ	You will be able to see all of Gold Saucer park on this ride. So please just sit back and enjoy a lovely view you won't see anywhere else.	乗物中色景色楽見出来景色多	scene_18
+こちらの乗り物は中からゴールドソーサーの色々な景色がお楽しみいただけます。ただ、すわっているだけでは見ることの出来ない景色も多くございますのでマドからのぞいてみるとよろしいですよ	You will be able to see all of Gold Saucer park on this ride. So please just sit back and enjoy a lovely view you won't see anywhere else.	乗物中色景楽見出来多	scene_18
 さようでございますか	Is that right?		scene_18
-それとこちら、お２人様専用のアトラクションになってございますのでお１人様はこちらでおまちください	This attraction can only accommodate 2 passengers, so one of you please wait over there.	人様専用人様	scene_18
+それとこちら、お２人様専用のアトラクションになってございますのでお１人様はこちらでおまちください	This attraction can only accommodate 2 passengers, so one of you please wait over there.	人様専用	scene_18
 では、ゴールドソーサーの景色をごゆるりとお楽しみ下さい	Enjoy the sights of Gold Saucer.	景色楽下	scene_18
 わるいね、今の時間は何もやってないよ	Sorry but there's no show now.	今時間何	scene_18
 ここは、一風変わったショーをするんだ今日はやってないみたいだけどまた、きてみるといいよ	We put on a really unusual show here. But not today, so come back again sometime and see it.	一風変今日	scene_18
 な、なんだよ２人のじゃまをしないでくれ	What's your problem? Can't you see we wanna be alone?	人	scene_18
-ふっ、君もブスイな人だ２人だけにしておいてもらえないか	Geez, what a jerk. Why don't you just leave us alone?	君人人	scene_18
+ふっ、君もブスイな人だ２人だけにしておいてもらえないか	Geez, what a jerk. Why don't you just leave us alone?	君人	scene_18
 へへへ、ついに５０００点をとったぜ	Hey, I finally got 5000 points.	点	scene_18
 へへへ、また５０００点をとったぜ	Hey, I got 5000 points again.	点	scene_18
 へへへ、景品が変わったんでまた５０００点を取ったぜ	Hey, since the prizes changed, I got 5000 points again.	景品変点取	scene_18
@@ -132,7 +132,7 @@
 どうだね？　楽しんでいるかね？	How is it? You having fun?	楽	scene_18
 ん、そうか、楽しんでいるかよかった、よかった、な少年よ	Mmm, so, you ARE having fun. Well, good, good for you boy.	楽少年	scene_18
 俺は、CLOUDだ。少年というのはやめてくれ	My name's CLOUD. And stop calling me boy.	俺少年	scene_18
-ん？　私か？私は、ここゴールドソーサーの園長ディオという	Mmm? Me? I'm the owner of the Gold Saucer. The name's Dio.	私私園長	scene_18
+ん？　私か？私は、ここゴールドソーサーの園長ディオという	Mmm? Me? I'm the owner of the Gold Saucer. The name's Dio.	私園長	scene_18
 気軽に『ディオちゃん』と呼んでくれ	Just call me 'Dio'.	気軽呼	scene_18
 ………（聞いちゃいないな）	(He's not even listening)	聞	scene_18
 そうだ、少年。『黒マテリア』を知っているか？	By the way, boy, do you know what a 'Black Materia' is?	少年黒知	scene_18
@@ -140,7 +140,7 @@
 ははははははは、少年！ウソはいけない。　この私の目はごまかせないぞ	Ha ha ha…that, I say, that's a good one, boy! But it's not good to lie. You can't fool me.	少年私目	scene_18
 おお、やはり知っているか	Oh, so you do know?	知	scene_18
 なぜ俺に聞いた？	Why d'you ask me?	俺聞	scene_18
-少し前に、少年くらいの少年が来て『黒マテリア』はないかと聞いていったのでな	Well, a while back, a boy your age came in and asked me if I had Black Materia.'	少前少年少年来黒聞	scene_18
+少し前に、少年くらいの少年が来て『黒マテリア』はないかと聞いていったのでな	Well, a while back, a boy your age came in and asked me if I had Black Materia.'	少前年来黒聞	scene_18
 同じくらいの少年なら知っているのかと思ってな	I thought you might know who he was, seein' as how you're both about the same age.	同少年知思	scene_18
 その男は黒いマントの……	Did he happen to have…a black cape?	男黒	scene_18
 その通りだ。それに手の甲に『１』のタトゥーをしていたぞ	Why yes, yes indeed. And a tattoo on his hand that said '1'.	通手甲	scene_18
@@ -167,8 +167,8 @@
 ごめんなさい、また来てね	I'm sorry, please come again.	来	scene_18
 プラットホーム	Platform		scene_18
 もうチョットまって	Wait just a little longer please.		scene_18
-あなたの得点は点でした	You had points.	得点点	scene_18
-あなたの得点は点です	Your score is points.	得点点	scene_18
+あなたの得点は点でした	You had points.	得点	scene_18
+あなたの得点は点です	Your score is points.	得点	scene_18
 あなたのスコア記録を見ますか？	Would you like to see the Wall of Fame?	記録見	scene_18
 ３０００点以上取ったら景品があります、ガンバッテください	You'll receive a prize if you get more than 3000 Points. So good luck.	点以上取景品	scene_18
 ハイスコア　CLOUD	HighScore CLOUD		scene_18
@@ -188,7 +188,7 @@
 お客さんお部屋のご予約はカウンターでどうぞ！！	Sir…Please register at the counter!!	客部屋予約	scene_18
 【かめ道楽　通信】	[Turtle's Paradise]	道楽通信	scene_18
 ナンバー３	No. 3		scene_18
-ゴールドソーサーにただひとつ、たりないもの……それはおいしいお酒とムードのある居酒屋！ぜひいちど居酒屋『かめ道楽』へ！！	Forget the bad times with a nice drink… Only thing missing in the Gold Saucer is… A pub with good drinks and a great atmosphere! Stop in the Turtle's Paradise!	酒居酒屋居酒屋道楽	scene_18
+ゴールドソーサーにただひとつ、たりないもの……それはおいしいお酒とムードのある居酒屋！ぜひいちど居酒屋『かめ道楽』へ！！	Forget the bad times with a nice drink… Only thing missing in the Gold Saucer is… A pub with good drinks and a great atmosphere! Stop in the Turtle's Paradise!	酒居屋道楽	scene_18
 ホテルショップ	Hotel Shop		scene_18
 いらっしゃい	Welcome.		scene_18
 闘技場ロビー	Arena Lobby	闘技場	scene_18
@@ -206,16 +206,16 @@
 そうそう、あんた知ってるかい？ここにはよ、最強と認められたもののみが参加をゆるされるバトルがあるって話だぜ	Oh, by the way, did you know? I heard that there's going to be a battle and only the strongest will be allowed to participate.	知最強認参加話	scene_18
 しかし、最強ってのもあいまいだよなとりあえず、武器かな。	But what do they mean by 'strongest'? If ya ask me I'll say it's 'weapons.'	最強武器	scene_18
 それと、ここでの強さもコジしねぇとな。う～ん、もう１つぐらい決め手がほしいか	But, there's gotta be a way to measure this, too. Mmm, we need another way to measure strength.	強決手	scene_18
-ここは、戦って戦って戦い抜いてバトルポイントをもらいそいつで商品をもらう所さ	You fight here and collect battle points. You can then exchange those points for prizes.	戦戦戦抜商品所	scene_18
+ここは、戦って戦って戦い抜いてバトルポイントをもらいそいつで商品をもらう所さ	You fight here and collect battle points. You can then exchange those points for prizes.	戦抜商品所	scene_18
 バトルゲーム…、ゲームといっても体を張ったゲームだがなこれには奥のフロントでＧＰを払って、ゲームに登録すればいい	The Battle Game…even though it's a game you still use all your physical abilities. To participate, go to the front and pay yer GP's.	体張奥払登録	scene_18
-バトルは８戦まで連続で行うことができる。もちろん勝ち抜けば勝ち抜くほどもらえるバトルポイントは増えていく	You can fight in up to eight battles. The more you win, the more battle points you get.	戦連続行勝抜勝抜増	scene_18
+バトルは８戦まで連続で行うことができる。もちろん勝ち抜けば勝ち抜くほどもらえるバトルポイントは増えていく	You can fight in up to eight battles. The more you win, the more battle points you get.	戦連続行勝抜増	scene_18
 ただし、途中で敗けた場合そのバトルでかせいだポイントは０になる勝った時点で、次のバトルに進むかどうかは、あんたの自由ってわけさ	But, if you lose, you lose all your points So it's up to you whether or not to fight after each win.	途中敗場合勝時点次進自由	scene_18
 それと、バトルにはハンデがつくこちらの不利な条件だらけだ	They also make it harder by givin' out handicaps.	不利条件	scene_18
 ハンデの内容は向こうがきめるこっちは、何のハンデを背負うかはバトル直前までわからん	They decide what handicaps there'll be, and you won't know what you're up against until the battle.	内容向何背負直前	scene_18
 最後に、バトルポイントは『闘技場』をでると無効になっちまう、気をつけな	Oh yeah, once you leave the Battle area, all your battle points will become useless. So watch it.	最後闘技場無効気	scene_18
 おっと、それと個人のバトルポイントの所有は６５０００までだ。それ以上は入手できない１回商品に換えることだな	Oh, and one more thing. The maximum points you could get is 65000, no more. So if you get that many you should exchange them for something.	個人所有以上入手回商品換	scene_18
-お客様、そちらはバトルゲームへ登録をすませた、チャレンジャーが入るところです。登録をこちらですませてください	Sir, that entrance is for the challengers who have already registered. Please register here.	客様登録入登録	scene_18
-あっ、そっちはゲームに登録した人が入るところだから、まだしてないあなたは、入れないわけ。こっちで登録してからにして	Um, I'm sorry, that's only for registered participants. You can't enter there until you register.	登録人入入登録	scene_18
+お客様、そちらはバトルゲームへ登録をすませた、チャレンジャーが入るところです。登録をこちらですませてください	Sir, that entrance is for the challengers who have already registered. Please register here.	客様登録入	scene_18
+あっ、そっちはゲームに登録した人が入るところだから、まだしてないあなたは、入れないわけ。こっちで登録してからにして	Um, I'm sorry, that's only for registered participants. You can't enter there until you register.	登録人入	scene_18
 もうしわけございませんが商品が変わりましたので前回までのバトルポイントは無効になりました	I'm sorry to announce that our prizes have changed. Your previous battle points are no longer valid.	商品変前回無効	scene_18
 ようこそ、あなたのバトルポイントはポイントです	Welcome. You currently have battle points.		scene_18
 商品と交換いたしますか？	Would you like to exchange them?	商品交換	scene_18
@@ -237,10 +237,10 @@
 あなたなら、あれに挑戦できるかも知れないわね……	Maybe you'll be good enough for the big match…	挑戦知	scene_18
 どう？　とっておきの裏バトルがあるんだけどやってみる？	How 'bout it? There's a private battle only for the strongest. Wanna try?	裏	scene_18
 やってやるぜ	Let's do it		scene_18
-バトルに登録しますか？登録料は１０ＧＰです	Register for battle? The entrance fee is 10 GP.	登録登録料	scene_18
+バトルに登録しますか？登録料は１０ＧＰです	Register for battle? The entrance fee is 10 GP.	登録料	scene_18
 裏バトルをやる	Try the special battle	裏	scene_18
 普通のバトルをやる	Try the regular battle	普通	scene_18
-バトルへの参加は１人となっておりますどなたが参加いたしますか？	This is a one-on-one battle. Which one of you will participate?	参加人参加	scene_18
+バトルへの参加は１人となっておりますどなたが参加いたしますか？	This is a one-on-one battle. Which one of you will participate?	参加人	scene_18
 バトルは連続して８回まですることができます。数をますごとにハンデやモンスターが強くなりますのでご注意ください	You can fight up to eight battles. But the more battles you fight, the greater your handicap, and stronger the monsters will become.	連続回数強注意	scene_18
 では、お気をつけて	Well, good luck.	気	scene_18
 ＧＰが足りないようですね	Seems like you do not have enough GP.	足	scene_18
@@ -288,7 +288,7 @@
 超究武神覇斬（限定１）３２０００	Omnislash (Limit 1) = 32000	超究武神覇斬限定	scene_18
 Ｗしょうかん（限定１）６４０００	W-Summon (Limit 1) = 64000	限定	scene_18
 『バトルポイントがたりません』	You do not have enough battle points.		scene_18
-『こちらの商品は品切れです』	We are currently out of this prize.	商品品切	scene_18
+『こちらの商品は品切れです』	We are currently out of this prize.	商品切	scene_18
 『ボムのかけら』を手にいれた！	Received "Shrapnel"!	手	scene_18
 『ミメットの野菜』を手にいれた！	Received "Memmet Greens"!	野菜手	scene_18
 『怒りの指輪』を手にいれた！	Received "Fury Ring"!	怒指輪手	scene_18
@@ -309,7 +309,7 @@
 『ポケットテッシュ』をもらった！	Received "Tissue"!		scene_18
 裏バトルを勝った記念に 『リボン』をもらった！	For winning the Special Battle, Received "Ribbon"!	裏勝記念	scene_18
 裏バトルを勝った記念に 『サイン色紙』をもらった！	For winning the Special Battle, Received "Autograph"!	裏勝記念色紙	scene_18
-裏バトルを勝った記念に 『ディオ激闘日記』をもらった！	For winning the Special Battle, Received "Combat Diary"!	裏勝記念激闘日記	scene_18
+裏バトルを勝った記念に 『ディオ激闘日記』をもらった！	For winning the Special Battle, Received "Combat Diary"!	裏勝記念激闘日	scene_18
 裏バトルを勝った記念に 『人生バクチ打ち』をもらった！	For winning the Special Battle, Received "Gambler"!	裏勝記念人生打	scene_18
 裏バトルを勝った記念に 『ファイナルアタック』 のマテリアを手にいれた！！	For winning the Special Battle, Received "Final Attack" Materia!	裏勝記念手	scene_18
 チョコボレーシングへようこそ	Welcome to Chocobo Racing.		scene_18
@@ -317,15 +317,15 @@
 いけ～！！させ～～！！そこだ～～！！	Go---!! Do it----!! That's it----!!		scene_18
 ま、まけた…	I…I lost…		scene_18
 やった！これが、あるからやめられないんだよな	Yeahh! This is why I can't seem to quit.		scene_18
-チョコボ券は３点までしか買えないよ～く、考えて買うんだな例えば、チョコボを半分にしぼって３点をボックスで買うとかな	You can only buy up to 3 tickets Think before you buy. For example, you could select half of the Chocobos and buy 3 boxes.	券点買考買例半分点買	scene_18
+チョコボ券は３点までしか買えないよ～く、考えて買うんだな例えば、チョコボを半分にしぼって３点をボックスで買うとかな	You can only buy up to 3 tickets Think before you buy. For example, you could select half of the Chocobos and buy 3 boxes.	券点買考例半分	scene_18
 ボックス？	Boxes?		scene_18
 ボックスってのは３匹のチョコボの組みあわせで買う方法さ	A box is buying 3 combinations of 2 Chocobos.	匹組買方法	scene_18
-例えば、１番と３番と５番のチョコボだったら１―３、１―５、３―５みたいにね	For example, if you select Chocobo 1, 3, and 5, you can purchase combinations, such as 1 - 3, 1 - 5, 3 - 5.	例番番番	scene_18
+例えば、１番と３番と５番のチョコボだったら１―３、１―５、３―５みたいにね	For example, if you select Chocobo 1, 3, and 5, you can purchase combinations, such as 1 - 3, 1 - 5, 3 - 5.	例番	scene_18
 他にも、１匹のチョコボから流し買いって手もあるな	You can also play the limited wheel by selecting a Chocobo.	他匹流買手	scene_18
 流し？	Limited wheel?	流	scene_18
 流しってのは言葉どおりに  	Playing a 'Limited wheel' means you select a Chocobo and use it in all of your combinations.	流言葉	scene_18
 例えば１番のチョコボから１―２、１―３、１―４って買うことさ	For example, if you have Chocobo 1, then you buy 1 - 2, 1 - 3, 1 - 4.	例番買	scene_18
-まぁ、どんな買い方しても当たる時は当たるし、外れる時は外れるけっきょく最後は自分のカンがもの言うってわけかな	No matter how you make your bet, you win some and you lose some. It all comes down to skill and luck.	買方当時当外時外最後自分言	scene_18
+まぁ、どんな買い方しても当たる時は当たるし、外れる時は外れるけっきょく最後は自分のカンがもの言うってわけかな	No matter how you make your bet, you win some and you lose some. It all comes down to skill and luck.	買方当時外最後自分言	scene_18
 ねぇ、あのオッズ表のチョコボって何？	Hey, see that Chocobo on the odds sheet?	表何	scene_18
 あれで、チョコボの調子と強さがわかるのさ	That's how you can find out about a Chocobo's condition.	調子強	scene_18
 ふ～ん強いチョコボがわかるなら簡単に当てられるじゃない	Hmm… If you find out which are the strongest, then it's easy, right?	強簡単当	scene_18
@@ -334,7 +334,7 @@
 俺らが普段買っているチョコボ券ってＢランクとＣランクレースだろ	One usually buys tickets for the B and C rank races, right?	俺普段買券	scene_18
 ランク？	Rank?		scene_18
 あっ、そう	Oh, that's right.		scene_18
-ランクっていうのは、簡単に言うとチョコボの強ささ。Ｃの上がＢ、Ｂの上がＡってわけさ	In other words, the 'rank' is the Chocobo's 'strength'.  A is highest and C the lowest.	簡単言強上上	scene_18
+ランクっていうのは、簡単に言うとチョコボの強ささ。Ｃの上がＢ、Ｂの上がＡってわけさ	In other words, the 'rank' is the Chocobo's 'strength'.  A is highest and C the lowest.	簡単言強上	scene_18
 フリーのチョコボレーサーになればＡランクレースのチョコボ券を買えるようになるんだよ	You can buy A rank tickets if you become a freelance Chocobo jockey.	券買	scene_18
 もちろん、ランクが上の方がアイテム券がいいんだ。あ～、俺もチョコボレーサーになろうかな	Of course, the higher the rank, the better your item ticket. Hey, maybe I'll become a Chocobo jockey!?	上方券俺	scene_18
 どうやってなる？	How DO you become one?		scene_18
@@ -342,7 +342,7 @@
 お客様、こまります！	Sir, you can't do that!	客様	scene_18
 チケットオフィス	Ticket Office		scene_18
 ようこそここでは、チョコボ券を買うことができます	Welcome Please purchase your Chocobo tickets here.	券買	scene_18
-お買いになったチョコボ券が的中した場合はパネルに振り分けられたアイテム券をもらえます	If your ticket is a winner, you will receive an item ticket good for items on the panel.	買券的中場合振分券	scene_18
+お買いになったチョコボ券が的中した場合はパネルに振り分けられたアイテム券をもらえます	If your ticket is a winner, you will receive an item ticket good for items on the panel.	買券的中場合振分	scene_18
 アイテム券は入口右の交換所でアイテムかアイテムに応じたＧＰに変えることが出来ます	Your item ticket may be exchanged for an item or GP at the exchange counter to the right of the entrance.	券入口右交換所応変出来	scene_18
 いらっしゃいませ。チョコボ券をお買い求めですか？	Welcome. Would you like to buy some Chocobo tickets?	券買求	scene_18
 話が聞きたい	Explain it to me	話聞	scene_18
@@ -357,15 +357,15 @@
 Ｂ（１ＢＥＴ　２００ギル）	B(1BET 200gil)		scene_18
 Ａ（１ＢＥＴ　３００ギル）	A(1BET 300gil)		scene_18
 Ｓ（１ＢＥＴ　５００ギル）	S(1BET 500gil)		scene_18
-このチョコボレースはコースの上に設置されたバーチャル装置によって	This Chocobo Race is run on a virtual course.	上設置装置	scene_18
+このチョコボレースはコースの上に設置されたバーチャル装置によって	This Chocobo Race is run on a virtual course.	上設置装	scene_18
 実際には存在しない自然の中でダイナミックなレースを展開します	The natural scenery you see in the race doesn't really exist.	実際存在自然中展開	scene_18
-お客様はこちらでどのチョコボが１着と２着になるか予想をいたしまして	You pick which Chocobo will finish first and second here,	客様着着予想	scene_18
+お客様はこちらでどのチョコボが１着と２着になるか予想をいたしまして	You pick which Chocobo will finish first and second here,	客様着予想	scene_18
 その番号のチョコボ券をお買い求めになることができます	And then buy the appropriate tickets.	番号券買求	scene_18
-お買いになったチョコボ券が的中した場合はパネルに振り分けられたアイテム券をさしあげております	And if the ticket you purchased is a winner, you'll receive a ticket for an item that will be listed on the panel.	買券的中場合振分券	scene_18
-アイテム券は入口右の交換所でアイテムかアイテムに応じたＧＰのどちらかに交換して下さい	You can exchange your tickets for items or GP at the Exchange Counter to the right of the entrance.	券入口右交換所応交換下	scene_18
+お買いになったチョコボ券が的中した場合はパネルに振り分けられたアイテム券をさしあげております	And if the ticket you purchased is a winner, you'll receive a ticket for an item that will be listed on the panel.	買券的中場合振分	scene_18
+アイテム券は入口右の交換所でアイテムかアイテムに応じたＧＰのどちらかに交換して下さい	You can exchange your tickets for items or GP at the Exchange Counter to the right of the entrance.	券入口右交換所応下	scene_18
 チョコボ券は３点までお買いになることが出来ます	You are allowed a maximum of 3 bets per Chocobo ticket.	券点買出来	scene_18
-方向キーの上下左右でパネル上のカーソルを動かし○ボタンで決定します	Use the Directional keys to move the cursor on the panel and select with [OK].	方向上下左右上動決定	scene_18
-取消は、同じパネル上でもう１度○ボタンを押せば取消となります	Press [OK] to cancel, while the cursor is still on the panel.	取消同上度押取消	scene_18
+方向キーの上下左右でパネル上のカーソルを動かし○ボタンで決定します	Use the Directional keys to move the cursor on the panel and select with [OK].	方向上下左右動決定	scene_18
+取消は、同じパネル上でもう１度○ボタンを押せば取消となります	Press [OK] to cancel, while the cursor is still on the panel.	取消同上度押	scene_18
 『Ｌ１』『Ｒ１』のボタンで画面右に表示されているチョコボのデータを送ることが出来ます	With [PAGEUP] and [PAGEDOWN], you can change the Chocobo data shown on the right.	画面右表示送出来	scene_18
 こちらを参考にして予想を立てられるとよろしいかと思います	This data is helpful when you make your pick.	参考予想立思	scene_18
 投票がすみましたら『ＳＴＡＲＴ』ボタンでレースを開始して下さい	After you've made your selections, press [START] to start the race.	投票開始下	scene_18
@@ -453,11 +453,11 @@
 [LINE DOESN'T EXIST]	But, most of the Chocobos I have are mellow and you should be able to handle them.		scene_18
 それから、自分で命令してる時に□ボタンでスピードアップ×ボタンでスピードダウン	When you're riding, use [SWITCH] to Speed Up and [CANCEL]to Slow Down.	自分命令時	scene_18
 ただし、チョコボが本来持っている能力以上のスピードをだすとどんどんスタミナが減ってくの	If you go faster than the Chocobo can handle, it will quickly lose its stamina.	本来持能力以上減	scene_18
-それと方向キーの左右でチョコボを左右に○ボタンでムチを入れていっきにスピードを上げられるわ	Use the Directional button to move the Chocobo left and right, use [OK] to get a boost of speed.	方向左右左右入上	scene_18
+それと方向キーの左右でチョコボを左右に○ボタンでムチを入れていっきにスピードを上げられるわ	Use the Directional button to move the Chocobo left and right, use [OK] to get a boost of speed.	方向左右入上	scene_18
 もちろんスタミナの消費は激しくなるけどね	But this makes your stamina run out faster.	消費激	scene_18
 あと、気性の悪いチョコボは自分のペースがわからなくてすぐスタミナを使いきっちゃうの	Some Chocobos are bad-tempered and can't pace themselves. They'll lose their stamina quickly.	気性悪自分使	scene_18
 そういうチョコボは、すぐにマニュアル（自分で動かす）操作にしてスピードを落としてやるといいわ	Those Chocobos should be set on Manual to slow them down.	自分動操作落	scene_18
-最後にね、セッカチな人におすすめなんだけど１、２着のチョコボがゴールした後に	Finally, some advice for the restless, once the first and second Chocobo cross the goal line,	最後人着後	scene_18
+最後にね、セッカチな人におすすめなんだけど１、２着のチョコボがゴールした後に	Finally, some advice for the restless, once the first and second Chocobo cross the goal line,	最後人着	scene_18
 『ＳＴＡＲＴ』ボタンを押すと途中でレースを見るのをやめることができるわ	Push [START] to end the race.	押途中見	scene_18
 建物１Ｆ	Building 1f.	建物	scene_18
 ＲＥＡＤＹ……	READY……		scene_18
@@ -538,7 +538,7 @@
 わたし、こういうのすぐムキになっちゃうのよね～	I get so caught up in these…		scene_18
 あんたも物好きね外があんなだってのにこんな所に来て…ってアタシもか？	You sure are an unusual one. Staying here with all that's going on outside…guess that makes, uh, two of us, huh?	物好外所来	scene_18
 故障中	Out of Order	故障中	scene_18
-まったく、ここは金がかかるなぁ…遊ぶべきか、遊ばざるべきか…	This place sure gets expensive… To play, or not to play'…	金遊遊	scene_18
+まったく、ここは金がかかるなぁ…遊ぶべきか、遊ばざるべきか…	This place sure gets expensive… To play, or not to play'…	金遊	scene_18
 ………気にしないでやってくれよ	…Don't worry 'bout me. Go ahead and play.	気	scene_18
 うう……感動したよ…。いいもの見せてくれてありがとう	Hmm, I'm impressed… Thanks for the show.	感動見	scene_18
 これ、やるよ	Here, take this.		scene_18
@@ -563,12 +563,12 @@
 『方向キー下』または	[Directional button Down] or	方向下	scene_18
 □ボタンで減速	[SWITCH] to slow down	減速	scene_18
 ×ボタンでジャンプ	[CANCEL] to Jump		scene_18
-『方向キー左右』で左右の移動	[Directional button Right/Left] to move Right and Left	方向左右左右移動	scene_18
-『Ｒ１ボタン＋方向キー左右』でそれぞれの方向にエッジをきかせます	[PAGEDOWN] + Directional button Right/Left] to edge	方向左右方向	scene_18
+『方向キー左右』で左右の移動	[Directional button Right/Left] to move Right and Left	方向左右移動	scene_18
+『Ｒ１ボタン＋方向キー左右』でそれぞれの方向にエッジをきかせます	[PAGEDOWN] + Directional button Right/Left] to edge	方向左右	scene_18
 コースにでてくるバルーンを取るとポイントになります。	You receive points for hitting the balloons that appear on the course.	取	scene_18
 潜水監ゲーム	Submarine Game	潜水監	scene_18
-『方向キー左』で左に旋回	Directional button Left for Left Turn	方向左左旋回	scene_18
-『方向キー右』で右に旋回	Directional button Right for Right Turn	方向右右旋回	scene_18
+『方向キー左』で左に旋回	Directional button Left for Left Turn	方向左旋回	scene_18
+『方向キー右』で右に旋回	Directional button Right for Right Turn	方向右旋回	scene_18
 『方向キー上』で下降	Directional button Up to Dive	方向上下降	scene_18
 『方向キー下』で上昇	Directional button Down to Rise	方向下上昇	scene_18
 △ボタンで前進	[MENU]   to Speed Up	前進	scene_18
@@ -598,7 +598,7 @@
 レベル３	Level 3		scene_18
 レベル４	Level 4		scene_18
 ここはモーグリ山の モーグリ森のモグの家。	This is Mog's house. It's in Mog Forest on Mt. Mog.	山森家	scene_18
-今日もモグの一日が 始まります。	The beginning of another day in the life of a Mog.	今日一日始	scene_18
+今日もモグの一日が 始まります。	The beginning of another day in the life of a Mog.	今日一始	scene_18
 モグは今年でクピパポプポさい。 人間でいうと２８さい。	This year, Mog is pipapopupo years old. …that's 28 in human years.	今年人間	scene_18
 そろそろ、おヨメさんが欲しい 年ごろです。	He's at that age when he should be looking for a mate.	欲年	scene_18
 モーグリの世界では 飛べるようになると りっぱなオスとみなされます。	But before Mog can become an adult, he first needs to learn how to fly. 	世界飛	scene_18
@@ -617,13 +617,13 @@
 ＰＵＳＨ　ＳＴＡＲＴ	PUSH [START]		scene_18
 おやおや、ギルがたりないようですね。 かわいそうに、モグは、とうぶん 一人ぼっちなようです。	Oh-oh, seems like you don't have enough Gil. Poor Mog, looks like he'll continue be lonely for a while.	一人	scene_18
 かわいそうに、モグは、とうぶん 一人ぼっちなようです。	Poor Mog, seems like he'll be alone for a while. 	一人	scene_18
-飛んだ！　モグが飛んだ！ これでモグも、りっぱなオスモーグリに なれたのです。	He did it!  He's flying! Now, he's finally become a full-fledged Mog. 	飛飛	scene_18
+飛んだ！　モグが飛んだ！ これでモグも、りっぱなオスモーグリに なれたのです。	He did it!  He's flying! Now, he's finally become a full-fledged Mog. 	飛	scene_18
 つかれたモグは、安心したせいか 今日は早めにおやすみのようです。 おやすみモグ、すてきな夢を……。	Tired but relaxed, our little Mog turns out the lights early and goes to bed. Goodnight, and sweet dreams…	安心今日早夢	scene_18
 おやおや？ さっそくメスモーグリが やって来ました。	Oh? What's this? Here comes a female Mog! 	来	scene_18
 なんと、モグも彼女を 気に入ったようです。	It seems like he likes her. 	彼女気入	scene_18
 さあ、彼女の前で モグは、りっぱに飛べるでしょうか？	Now, will Mog be able to fly gracefully in front of her?	彼女前飛	scene_18
 クポの実をあげて、彼女とうまくいくように 手伝ってあげてください。	Help him out with a few Kupo nuts. 	実彼女手伝	scene_18
-飛んだ！ モグが、彼女の前で飛んだ！ 彼女も、モグの男らしい飛びっぷりに すっかり、心をうばわれたようです。	He's flying!! Mog was able to do it! She must have fallen for his graceful flying form.	飛彼女前飛彼女男飛心	scene_18
+飛んだ！ モグが、彼女の前で飛んだ！ 彼女も、モグの男らしい飛びっぷりに すっかり、心をうばわれたようです。	He's flying!! Mog was able to do it! She must have fallen for his graceful flying form.	飛彼女前男心	scene_18
 さて、それから しばらくが、たちました。 おやおや、彼女とすっかり なかよくなったモグ。	Sometime later… Looks like things are going well with his new Mog-friend. 	彼女	scene_18
 今日は二人でお出かけのようです。	Time for a quiet date in the forest.	今日二人出	scene_18
 彼女の名前はマグ。	Her name is Mag.	彼女名前	scene_18
@@ -634,10 +634,10 @@
 ～ＦＩＮ～	~FIN~		scene_18
 ヘイ・ユー！！暗～い顔してますな～	Hey you!! What're you lookin' so down for!?	暗顔	scene_18
 どうですか～？みなさんの未来占うで～	How 'bout it? Want me to read your fortune!? A bright future! A happy future!	未来占	scene_18
-明るい未来、ゆかいな未来！あっ、ひさんな未来が出たらかんにんしてや～！	Oh, but don't hold it against me if it doesn't come true!	明未来未来未来出	scene_18
+明るい未来、ゆかいな未来！あっ、ひさんな未来が出たらかんにんしてや～！	Oh, but don't hold it against me if it doesn't come true!	明未来出	scene_18
 あらら、すんません！ボクは、占いマシーンです。名前は……	Oh, so sorry! I'm a fortune telling machine. The name's…	占名前	scene_18
 占うのは未来だけか？	You can only read the future?	占未来	scene_18
-バカにしたらあかんで！失せ物、失せ人なんでもございや！	You kidding? I can find missing things, missing people, anything!	失物失人	scene_18
+バカにしたらあかんで！失せ物、失せ人なんでもございや！	You kidding? I can find missing things, missing people, anything!	失物人	scene_18
 セフィロスという男はどこにいる？	Then can you tell me where a man named Sephiroth is?	男	scene_18
 セフィロスですな！	Sephiroth, right!?		scene_18
 ほな、いきまっせ！！	Okay, here goes!!		scene_18
@@ -658,7 +658,7 @@
 なにいってるの？	What are you talking about?		scene_18
 どこへ？	To where?		scene_18
 なんだぁ？	Huh?		scene_18
-占い屋CAIT SITHとしてはこんな占い不本意なんです	Being a fortune teller, this is gonna bug me.	占屋占不本意	scene_18
+占い屋CAIT SITHとしてはこんな占い不本意なんです	Being a fortune teller, this is gonna bug me.	占屋不本意	scene_18
 きっちり見届けんと気持ちがおさまらん。みなさんといっしょに行かせてもらいますわ！	If I don't see how it turns out, I'll never be able to relax. So, I'm going with you!	見届気持行	scene_18
 いいの？　CLOUD	Is it all right, CLOUD?		scene_18
 どうするの、CLOUD	What are we going to do, CLOUD?		scene_18
@@ -694,7 +694,7 @@ CLOUD！？どこ、いくの？	CLOUD!? Where are you going?		scene_18
 見てたわ、あなたが８戦勝ち抜くところ。これ、受け取って下さい！	I watched you win eight battles. I want you to have this!	見戦勝抜受取下	scene_18
 これからもガンバってくださいね	Good luck in the future too!		scene_18
 セフィロスがやったのか！	Did Sephiroth do this!?		scene_18
-これは……ちがう………銃で撃たれている……セフィロスは銃など使わない…	No…it's not him… They're all shot… Sephiroth would never use a gun…	銃撃銃使	scene_18
+これは……ちがう………銃で撃たれている……セフィロスは銃など使わない…	No…it's not him… They're all shot… Sephiroth would never use a gun…	銃撃使	scene_18
 う、うう	Ugh, ugggh.		scene_18
 おい、何があったんだ！	Hey, what happened!	何	scene_18
 被害者	Victim	被害者	scene_18
@@ -734,7 +734,7 @@ BARRET！？	BARRET!?		scene_18
 あんたまさか本当に……	Did you…	本当	scene_18
 来るな！　これはオレの……オレがカタをつけなくちゃならねえことなんだ	Stay back! This's something I gotta deal with.	来	scene_18
 ほっといてくれ……	Jus' leave me alone…		scene_18
-ヒョーッ！あの人も、みなさんのお知り合い？なんやアブなそうな人やなぁ～	Whew! That's one of your friends? He sure looks dangerous…	人知合人	scene_18
+ヒョーッ！あの人も、みなさんのお知り合い？なんやアブなそうな人やなぁ～	Whew! That's one of your friends? He sure looks dangerous…	人知合	scene_18
 CLOUD、どうしよう？BARRET、いつもとちがうよ	CLOUD, what should we do? BARRET's not his normal self.		scene_18
 そんな……BARRET……	…BARRET…		scene_18
 おい、CLOUD！あんなヤツほっとこうよ	Hey, CLOUD! Just leave him alone.		scene_18
@@ -746,14 +746,14 @@ CLOUD、どうしよう？BARRET、いつもとちがうよ	CLOUD, what should w
 コーツの部下の２人	Mr. Coates' Henchmen	部下人	scene_18
 また、あいさつか？ いい心がけだ、入んな』	More respects again? You sure are formal, go ahead…	心入	scene_18
 新入りさん１つ教えておいてやるぜここのサバクはチョー危険だぜ	I'll tell you one thing, rookie. This desert is extremely dangerous.	新入教危険	scene_18
-入る時はすんなり人を招き入れるが外に出ようとすると、サバクがそれをこばむんだよ	It'll welcome you in, but when you try to leave, it'll swallow ya.	入時人招入外出	scene_18
+入る時はすんなり人を招き入れるが外に出ようとすると、サバクがそれをこばむんだよ	It'll welcome you in, but when you try to leave, it'll swallow ya.	入時人招外出	scene_18
 けどな、逆に招かれざる客もこばまれて入ってこれねぇなんて、話も聞くな	I hear some of them never make it out… the best thing is to stay out of the desert entirely.	逆招客入話聞	scene_18
 へっへっへ	Ha ha ha		scene_18
 このエレベーターに乗りゃあ上に行けるんだぜぇ	This elevator will take you to the top…	乗上行	scene_18
 けど、これに乗れるのは　チョコボレーサーに選ばれたやつだけなんだぜぇ	But, you gotta be picked as a Chocobo Racer, first.	乗選	scene_18
 チョコボレースに出たいのか？	Want to enter the Chocobo Race?	出	scene_18
 ぜひ、出たい	Yeah, I want to enter	出	scene_18
-一生ここでくらす気か？せいぜい長生きするんだな！	You thinkin' of livin' here forever? Then live a long life!	一生気長生	scene_18
+一生ここでくらす気か？せいぜい長生きするんだな！	You thinkin' of livin' here forever? Then live a long life!	一生気長	scene_18
 それならよ、許可をとってこいよ。ここのボスのさ	Then go get permission with the boss of this place.	許可	scene_18
 ボスは誰だ？	Who's the boss?	誰	scene_18
 あ～らら！知らないの？ダメだな、こりゃ	You don't even know that? Oh man.	知	scene_18
@@ -767,7 +767,7 @@ CLOUD、どうしよう？BARRET、いつもとちがうよ	CLOUD, what should w
 歩いちゃいけねぇ	Don't walk.	歩	scene_18
 いつか、不思議なチョコボ車に会えるなんて事はぜってぇ、ねぇ	There's no way you'll ever see a mysterious Chocobo carriage. No way.	不思議車会事	scene_18
 ぜってぇ、ねぇ	No way.		scene_18
-そこの奴らはウソしか言わねぇんだウソだけだ、本当のことなんて何ひとつ言わねぇよ。　何回か話を聞いてみな、あきれてくるぜ	Those guys only tell lies. Only lies. Not one of 'em will tell you the truth. Just talk with 'em a couple of times, and you'll get sick of 'em.	奴言本当何言何回話聞	scene_18
+そこの奴らはウソしか言わねぇんだウソだけだ、本当のことなんて何ひとつ言わねぇよ。　何回か話を聞いてみな、あきれてくるぜ	Those guys only tell lies. Only lies. Not one of 'em will tell you the truth. Just talk with 'em a couple of times, and you'll get sick of 'em.	奴言本当何回話聞	scene_18
 サバクに迷いこんじまったらひたすら北東に進むんだな。運がよければもどってこられるぜ	If you get lost in the desert, just keep going Northeast. If you're lucky, you'll make it back here.	迷北東進運	scene_18
 今日のボスはすげぇキゲンが悪ぃや…いや、ありゃあキゲンがいいのか？	Man, the Boss was REALLY in a bad mood today… Or was it one of his better days?	今日悪	scene_18
 プリズンパブ	Prison Pub		scene_18
@@ -784,7 +784,7 @@ CLOUD、どうしよう？BARRET、いつもとちがうよ	CLOUD, what should w
 はははっははっ	Ha ha ha ha.		scene_18
 旧村長の家	Mayor's Old House	旧村長家	scene_18
 来るなと言ったじゃねえか！	Didn't I tell you not to come here!?	来言	scene_18
-ちょ、ちょっとタンマ！話し、しましょ！な、話せばわかるって！	Ju…just hold on for a second! We just want to talk! You'll understand if you just hear us out!	話話	scene_18
+ちょ、ちょっとタンマ！話し、しましょ！な、話せばわかるって！	Ju…just hold on for a second! We just want to talk! You'll understand if you just hear us out!	話	scene_18
 おまえたちをまきこみたくなかった……	Didn't want none of ya to get involved…		scene_18
 それ、CLOUDのセリフ！『危険だ、まきこむわけにはいかない』とかなんとか、ね	Hey that's CLOUD's line! …It's too dangerous, I can't let you get involved…' blah, blah, blah…	危険	scene_18
 そうそう。それに私たち、もう思いっきりまきこまれちゃってるんだから	Yeah. We're already involved in this.	私思	scene_18
@@ -851,7 +851,7 @@ BARRETここで終わりじゃないよ	BARRET, this isn't the end.	終	scene_18
 乗りたくない	Don't get on	乗	scene_18
 ……ダイン……おまえなのか？	…Dyne …is that you?		scene_18
 なつかしい声だな……	Now that's a voice I haven't heard in years…	声	scene_18
-忘れようにも忘れられない声だ……	A voice I'll never forget…	忘忘声	scene_18
+忘れようにも忘れられない声だ……	A voice I'll never forget…	忘声	scene_18
 いつか会えると信じていた……オレと同じ手術を受けどこかで生きていると……	I always hoped I'd be able to see you again someday… I knew you were alive somewhere… we had the same operation.	会信同手術受生	scene_18
 聞いてくれダイン。おまえに……	Listen Dyne, I want to…	聞	scene_18
 声が……聞こえるんだ	I can hear her voice. What's that?	声聞	scene_18
@@ -861,7 +861,7 @@ BARRETここで終わりじゃないよ	BARRET, this isn't the end.	終	scene_18
 でもよ……こんなところで何をしてるんだ？	But…what're you doin' in a place like this?	何	scene_18
 関係ない人間を殺してどうなる？なぜだ？	Why ya wanna kill people who ain't even involved? Why?	関係人間殺	scene_18
 ……なぜ！？理由を聞いてどうする！？	Why!? The hell do you care!?	理由聞	scene_18
-それで殺された人間はなっとくするのか？神羅の言い分を聞けばコレル村の人間は了解するのか！？	You think the dead understand why's? Is hearin' Shinra's excuses gonna make people in Corel understand anything?	殺人間神羅言分聞村人間了解	scene_18
+それで殺された人間はなっとくするのか？神羅の言い分を聞けばコレル村の人間は了解するのか！？	You think the dead understand why's? Is hearin' Shinra's excuses gonna make people in Corel understand anything?	殺人間神羅言分聞村了解	scene_18
 理由なんてどうでもいい！	I don't CARE about reasons!	理由	scene_18
 与えられるのは銃弾と不条理…残されるのは絶望と無の世界…それだけだ！！	All they give us is artillery and stupid excuses… What's left is a world of despair and emptiness…	与銃弾不条理残絶望無世界	scene_18
 それでも聞きたいか？……なら教えてやろう	You still want to hear 'why'? …All right, I'll tell you.	聞教	scene_18
@@ -957,7 +957,7 @@ CLOUD、おまえ行ってこい	CLOUD, you go.	行	scene_18
 そう、そんなことがあったのわかったわ、ディオ園長には私から話をしておくわ	Hmm, so that's what happened. I'll talk to Dio directly. 	園長私話	scene_18
 あなたは、取りあえずレースに集中して	You just concentrate on the race.	取集中	scene_18
 そうそう、さっきの話の続きだけどチョコボレーサーにはいろんな人がいるの。犯罪者だけのレースってわけじゃないのよ	Oh yeah, getting back to the other thing, there are many different types of Chocobo jockeys. It's not only for criminals.	話続人犯罪者	scene_18
-名声のために戦い続けている人お金のために戦う人レースにのみ生き場所を感じている人…あなた、みたいな人をふくめてね	Some people compete for the fame, some people compete for the money, some only for glory… And then there're people like you.	名声戦続人金戦人生場所感人人	scene_18
+名声のために戦い続けている人お金のために戦う人レースにのみ生き場所を感じている人…あなた、みたいな人をふくめてね	Some people compete for the fame, some people compete for the money, some only for glory… And then there're people like you.	名声戦続人金生場所感	scene_18
 あっ、そうだチョコボの騎乗方法教えておくわね	Oh yeah, I'll teach you how to ride a Chocobo.	騎乗方法教	scene_18
 え～とまず『ＳＥＬＥＣＴ』ボタンでオートとマニュアルを切り替えるの	Ummm… First use [ASSIST] to choose either AUTO or MANUAL.	切替	scene_18
 こればっかりは今回はしょうがないわね	Then, you're stuck…	今回	scene_18
@@ -1004,8 +1004,8 @@ CLOUD、おまえ行ってこい	CLOUD, you go.	行	scene_18
 もう、本当に勝ちたいのなら『ＳＥＬＥＣＴ』ボタンでオートモードにして走ってみてよ	Well, if you really want to win, just push [ASSIST] and try the 'AUTO' mode.	本当勝走	scene_18
 おめでとう！！これで晴れて自由の身よ	Congratulations!! Now you're home free!	晴自由身	scene_18
 あっ、そうだこれ園長から手紙勝ったら渡すようにって	Oh yeah, the owner told me to give this letter to you if you won.	園長手紙勝渡	scene_18
-少年なら自らの力で、勝利を手にいれこの手紙を読んでくれていると信じている	Boy, if you're reading this letter, then you must've won. I know you earned it.	少年自力勝利手手紙読信	scene_18
-ダインのことはエスト君から聞いた。少年が勝つことができたなら私の権限で、君の仲間の自由も約束しよう	I heard about Dyne from Ester. Now that you won, I'm granting you and your friends a full pardon, and setting you all free.	君聞少年勝私権限君仲間自由約束	scene_18
+少年なら自らの力で、勝利を手にいれこの手紙を読んでくれていると信じている	Boy, if you're reading this letter, then you must've won. I know you earned it.	少年自力勝利手紙読信	scene_18
+ダインのことはエスト君から聞いた。少年が勝つことができたなら私の権限で、君の仲間の自由も約束しよう	I heard about Dyne from Ester. Now that you won, I'm granting you and your friends a full pardon, and setting you all free.	君聞少年勝私権限仲間自由約束	scene_18
 それと、おわびと言ってはなんだが、プレゼントを用意した。旅のやくにたててくれたまえ	And by way of apology, I have a little gift for you to use on your journey.	言用意旅	scene_18
 これでも、多忙な身の上。手紙という形でしつれいした。ではディオちゃん　より	Sorry I couldn't be there to tell you this in person, but I'm a very busy man. Sincerely, Dio	多忙身上手紙形	scene_18
 プレゼント？	A gift?		scene_18
@@ -1013,7 +1013,7 @@ CLOUD！？　ね、すごいのよ！いまね、園長の使いとかいう人
 これがあれば『サバク』も『川』もラクラクよ	Now we can go over deserts' and 'rivers', no problem.	川	scene_18
 じゃ、CLOUD。外でまってるね	OK, CLOUD. I'll be waiting outside.	外	scene_18
 （ん？　手紙に続きがある）	(Hmm? The letter continues…)	手紙続	scene_18
-Ｐ．Ｓ．この間、私はセフィロスにあったぞ少年たちの年代では、彼のファンもいるだろう	P.S. I recently met Sephiroth. I'll bet he's pretty popular with boys your age.	間私少年年代彼	scene_18
+Ｐ．Ｓ．この間、私はセフィロスにあったぞ少年たちの年代では、彼のファンもいるだろう	P.S. I recently met Sephiroth. I'll bet he's pretty popular with boys your age.	間私少年代彼	scene_18
 サインでももらったらどうだ？彼は、ここから【南の川を越えてゴンガガエリア】に向かったようだぞ	Why don't you get his autograph? He was heading toward Gongaga, south of the river.	彼南川越向	scene_18
 じゃあ、お別れね	I guess this is goodbye.	別	scene_18
 そうだ。いつか、自分のレースチョコボを持てるようになったらもう一度ここに来るといいわ	Yeah. Well, if you ever get your own Chocobo, come back again.	自分持一度来	scene_18

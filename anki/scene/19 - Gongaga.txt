@@ -29,7 +29,7 @@
 別にかまわないの。むかしのことだしね。ただ、行方不明だから心配なだけ	That's all right. It's all in the past now. I was just worried because I heard he's been missing.	別行方不明心配	scene_19
 行方不明？	Missing?	行方不明	scene_19
 ５年前かな。仕事で出かけてそれっきり	I think it was five years ago. He went out on a job, and never came back.	年前仕事出	scene_19
-女の子が大好きなヤツだったからね。どこかで知り合った子と仲良くなっちゃったのよ、きっと	He loved women, a real lady's man. He probably found someone else…	女子大好知合子仲良	scene_19
+女の子が大好きなヤツだったからね。どこかで知り合った子と仲良くなっちゃったのよ、きっと	He loved women, a real lady's man. He probably found someone else…	女子大好知合仲良	scene_19
 あれ？　どうしたの？	Hey? What's wrong?		scene_19
 それは心配だな	Poor guy	心配	scene_19
 （やきもち……しっと……）	(…jealous…envious…)		scene_19
@@ -67,15 +67,15 @@ CLOUD心配してくれてありがとう。	CLOUD, thanks for caring.	心配	sc
 宿泊したい	Need a room?	宿泊	scene_19
 おお……買いものにきたのか？	Oh, you here to shop?	買	scene_19
 アイテムを買いたい	Buy items?	買	scene_19
-ここは、ゴンガガ村。魔晄炉の爆発事故のために多くの人々を失った村じゃ	This is Gongaga Village. Many people died here in a Mako reactor explosion.	村魔晄炉爆発事故多人失村	scene_19
-神羅のものたちは、魔晄炉ができれば幸せになると言いおった。しかし、魔晄炉はわしらに悲しみしか与えなかった……	The Shinra people told us that everyone would be happy once the reactor was built. But all it brought us was sadness…	神羅魔晄炉幸言魔晄炉悲与	scene_19
+ここは、ゴンガガ村。魔晄炉の爆発事故のために多くの人々を失った村じゃ	This is Gongaga Village. Many people died here in a Mako reactor explosion.	村魔晄炉爆発事故多人失	scene_19
+神羅のものたちは、魔晄炉ができれば幸せになると言いおった。しかし、魔晄炉はわしらに悲しみしか与えなかった……	The Shinra people told us that everyone would be happy once the reactor was built. But all it brought us was sadness…	神羅魔晄炉幸言悲与	scene_19
 神羅のやつらは、村の安全など考えずに、魔晄炉を建設した。その結果が、これさ	Shinra built the reactor, without even thinking about the town's safety. And, this is the result.	神羅村安全考魔晄炉建設結果	scene_19
 ある日、魔晄炉が大爆発を起こした。その事故に巻きこまれて多くの村人が死んでしまった……	One day, a huge explosion. killed many of the townspeople…	日魔晄炉大爆発起事故巻多村人死	scene_19
 魔晄炉の爆発事故が起こってからずいぶんたつが、そのつめあとはいまだに村のあちこちに残っている	It's been a while since the explosion, but you can still find the pieces it left all over town.	魔晄炉爆発事故起村残	scene_19
-わたしたちゴンガガ村の住人は魔晄炉の爆発事故があってからは魔晄エネルギーの利用を止めて自然とともに生きることを選んだの	We voted to outlaw the use of Mako energy and live with nature, ever since the explosion.	村住人魔晄炉爆発事故魔晄利用止自然生選	scene_19
+わたしたちゴンガガ村の住人は魔晄炉の爆発事故があってからは魔晄エネルギーの利用を止めて自然とともに生きることを選んだの	We voted to outlaw the use of Mako energy and live with nature, ever since the explosion.	村住人魔晄炉爆発事故利用止自然生選	scene_19
 神羅の魔晄炉がなくても人は生きていけるのよ	People can live without the Shinra's Mako Reactors.	神羅魔晄炉人生	scene_19
 いくら　いのっても死んだマゴはかえってこん……	No matter how much I pray, it won't bring our grandson back…	死	scene_19
-……金が足りないな。金をためてから、来るんだな	…You don't have enough money. Come back when you get some.	金足金来	scene_19
+……金が足りないな。金をためてから、来るんだな	…You don't have enough money. Come back when you get some.	金足来	scene_19
 一泊８０ギルだぜ	It's 80 Gil a night.	一泊	scene_19
 ８０ギル払う	Pay up	払	scene_19
 奥の方に、何か光るものがある……	There's something shiny back there…	奥方何光	scene_19
@@ -111,9 +111,9 @@ TIFA……いったい、どうしたんだ？	TIFA… What happened?		scene_19
 ……みんな、死ぬのよ。何もかもが、終わるのよ	…Everyone's going to die. Everything's coming to an end.	死何終	scene_19
 道にまよったのじゃな？そういう時に一番たよりになるのは友、じゃよ	You lost? When that happens the only ones you can count on are your friends.	道時一番友	scene_19
 もっとも大切な友を探すこと。それが先決じゃて	The first thing you gotta do is find your best friend.	大切友探先決	scene_19
-ここの魔晄炉はもう使い物にならんが【コレル】、【コンドルフォート】、【ジュノン】の魔晄炉の中には、大きなマテリアが残っているそうじゃ	This reactor's useless, but I hear there's still Huge Materia at the Corel, Fort Condor, and the Junon reactors.	魔晄炉使物魔晄炉中大残	scene_19
+ここの魔晄炉はもう使い物にならんが【コレル】、【コンドルフォート】、【ジュノン】の魔晄炉の中には、大きなマテリアが残っているそうじゃ	This reactor's useless, but I hear there's still Huge Materia at the Corel, Fort Condor, and the Junon reactors.	魔晄炉使物中大残	scene_19
 いま神羅はそれの回収にかかっているそうだが……いったいなんのために	Shinra's gathering all the Materia from those places… But for what?	神羅回収	scene_19
-神羅もいろんな手をつくしたがしょせん、ちっぽけな人間のやること。メテオによって人が滅びるのは運命なのじゃよ	Shinra's tried a lot of things, but it's only HUMAN. It's fate that Meteor will kill the people.	神羅手人間人滅運命	scene_19
+神羅もいろんな手をつくしたがしょせん、ちっぽけな人間のやること。メテオによって人が滅びるのは運命なのじゃよ	Shinra's tried a lot of things, but it's only HUMAN. It's fate that Meteor will kill the people.	神羅手人間滅運命	scene_19
 おしえてくれ、若者よ	Tell me, young man.	若者	scene_19
 幸せは、犠牲なしに得ることはできないのじゃろうか？	Can't we be happy without having to sacrifice anything?	幸犠牲得	scene_19
 時代は、不幸なしに越えることはできないのじゃろうか……	Can't time pass without unhappiness?	時代不幸越	scene_19
@@ -132,7 +132,7 @@ TIFA……いったい、どうしたんだ？	TIFA… What happened?		scene_19
 ホント、くだらない！	It's so stupid!		scene_19
 先輩たち、いつでも誰が好きとかキライとかそんな話ばっかりなんですよ。ツォンさんは別ですけど	They always talk about who they like or don't like. But Tseng is different.	先輩誰好話別	scene_19
 あ！　いけない！	Ah! Oh no!		scene_19
-先輩たち！来ました！あの人たち、ホントに来ましたよ！	They're here! They're really here!	先輩来人来	scene_19
+先輩たち！来ました！あの人たち、ホントに来ましたよ！	They're here! They're really here!	先輩来人	scene_19
 そうか……出番だな、と	Hmm… Then it's time…	出番	scene_19
 ルード……あの娘がいても手を抜くなよ、と	Rude…don't go easy on them even the girls.	娘手抜	scene_19
 ……仕事はちゃんとやるさ	…Don't worry, I'll do my job.	仕事	scene_19
@@ -166,7 +166,7 @@ TIFA……いったい、どうしたんだ？	TIFA… What happened?		scene_19
 けっ、神羅のイヌがいるってのかよ！	And a couple of Shinra dogs are here too!	神羅	scene_19
 神羅のやつらは、金もうけのために魔晄炉をつくる。そして、その結果がこれだ	The Shinra build reactors to make money. And this is what happens.	神羅金魔晄炉結果	scene_19
 見ただろう、あの村を。神羅の横暴でよ、被害にあうのはいつでも力を持たない人間だぜ	You saw that village. It's always the powerless that suffer from tyrants like Shinra.	見村神羅横暴被害力持人間	scene_19
-力を持つものが持たないものを支配する。それが、今の世界ってわけだ	The one's with the power control those without it. That's just the way of the world now.	力持持支配今世界	scene_19
+力を持つものが持たないものを支配する。それが、今の世界ってわけだ	The one's with the power control those without it. That's just the way of the world now.	力持支配今世界	scene_19
 オレは、そんなことは許せねぇ。『アバランチ』を結成して神羅カンパニーと戦ってるのもそんな世界を変えてえからだ	But I can't let 'em do that. That's why I formed AVALANCHE to fight 'em.	許結成神羅戦世界変	scene_19
 ……なあ、CLOUDこれからもオレたちと一練に戦ってくんだろ？	…Yo, CLOUD You still gonna fight with us, right?	一練戦	scene_19
 オレたちにゃ、おまえが必要なんだ	We need you, man.	必要	scene_19
@@ -185,9 +185,9 @@ TIFA……いったい、どうしたんだ？	TIFA… What happened?		scene_19
 あら、ごめんなさい！ハイデッカーはあなたの上司だったわね！キャハハハハ！	Oh…sorry! I forgot Heidegger was your boss! Ha ha ha!	上司	scene_19
 行きましょ！	Let's go!	行	scene_19
 ビッグでラージでヒュージなマテリア？	…Big, large, Huge Materia?		scene_19
-究極の兵器？完璧な兵器？	An ultimate weapon? The perfect weapon?	究極兵器完璧兵器	scene_19
+究極の兵器？完璧な兵器？	An ultimate weapon? The perfect weapon?	究極兵器完璧	scene_19
 神羅め、今度は何を始めるつもりなんだ……	Just what are the Shinra up to?	神羅今度何始	scene_19
-神羅の兵器開発部部長スカーレットのおでましか--	It's Scarlet, Head of Shinra Weapon Development.	神羅兵器開発部部長	scene_19
+神羅の兵器開発部部長スカーレットのおでましか--	It's Scarlet, Head of Shinra Weapon Development.	神羅兵器開発部長	scene_19
 ……フンッ！ここもダメだわ	Hmph! This isn't any good either.		scene_19
 チンケな魔晄炉にはチンケなマテリアしかないみたいね	You only get junky Materia from junky reactors.	魔晄炉	scene_19
 これも仕事だ。悪く思うなよ、と	This is just part of the job. Don't take it personally.	仕事悪思	scene_19

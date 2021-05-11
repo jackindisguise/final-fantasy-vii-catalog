@@ -35,14 +35,14 @@ CLOUDの過去	CLOUD's Past	過去	scene_09
 ここは、マテリア屋だよ	This is the Materia Store.	屋	scene_09
 ミッドガルじゃ、テロリストが魔晄炉を爆破したらしいぜ	I heard terrorists bombed a Midgar reactor…	魔晄炉爆破	scene_09
 最近、ぶっそうな事が多いよな。やだ、やだ	There have been a lot of dangerous accidents recently. I hate it, just hate it.	最近事多	scene_09
-ミッドガルでは、アバランチという反神羅組織が活動していたらしいがついに神羅のソルジャーによって全滅させられたそうだな	It seems there was this group called AVALANCHE runnin' around, but I guess SOLDIER finally wiped them out.	反神羅組織活動神羅全滅	scene_09
+ミッドガルでは、アバランチという反神羅組織が活動していたらしいがついに神羅のソルジャーによって全滅させられたそうだな	It seems there was this group called AVALANCHE runnin' around, but I guess SOLDIER finally wiped them out.	反神羅組織活動全滅	scene_09
 神羅カンパニーは、自分たちに逆らう者たちを、どんどん排除しようとしている	Shinra is trying to eliminate anyone, who stands up to them.	神羅自分逆者排除	scene_09
-我々は、好むと好まざるに関わらず神羅カンパニーの支配を受け入れなければならないのさ	It don't matter if we like it or not. Shinra's taken over, and we gotta live with it!	我好好関神羅支配受入	scene_09
+我々は、好むと好まざるに関わらず神羅カンパニーの支配を受け入れなければならないのさ	It don't matter if we like it or not. Shinra's taken over, and we gotta live with it!	我好関神羅支配受入	scene_09
 ちゅうぼうに入ってこないでおくれ	Stay out of the kitchen.	入	scene_09
 プレジデント神羅が殺されたそうだな。それに息子のルーファウス新社長も大ケガしたっていうじゃないか	I heard President Shinra was killed. And his son Rufus, the new president, was badly hurt.	神羅殺息子新社長大	scene_09
 どうだ、初耳だろ？	Hey, I bet that's news to you?	初耳	scene_09
 おっ、事情通！	You're pretty smart!	事情通	scene_09
-ふふふ……ここだけの話だが神羅親子を襲ったのはアバラなんとかいう組織だって話だぜ	Heh, heh…Just between us… I heard it was them Ava-whaddya call-ums that got President Shinra and his son.	話神羅親子襲組織話	scene_09
+ふふふ……ここだけの話だが神羅親子を襲ったのはアバラなんとかいう組織だって話だぜ	Heh, heh…Just between us… I heard it was them Ava-whaddya call-ums that got President Shinra and his son.	話神羅親子襲組織	scene_09
 関心なしか？旅をするなら神羅カンパニーの動きには注目したほうがいいぜ	Don't care? If you're going to travel, you'd best keep an eye on what Shinra's doing.	関心旅神羅動注目	scene_09
 ぼく、大きくなったら神羅のソルジャーになるんだ！そのために、いまからモウクンレンしてるんだ！！	When I grow up I'm gonna be in SOLDIER. That's why I'm training hard now!!	大神羅	scene_09
 ……お兄ちゃん、子供っぽくてわたし、はずかしい	My older brother's so stupid. He's so embarrassing I could just puke!	兄子供	scene_09
@@ -56,7 +56,7 @@ CLOUDの過去	CLOUD's Past	過去	scene_09
 そうでしょ！もう、魔晄エネルギーのない生活なんて考えられないわね	See!? How would we get by without Mako energy?	魔晄生活考	scene_09
 ふ～ん。でも、魔晄エネルギーのない生活なんて、私は考えられないわね	Hmm. But I'd hate to think of what life'd be like without Mako energy.	魔晄生活私考	scene_09
 魔晄エネルギーのおかげでいろいろと便利になったけど……	Mako energy's made things a lot more convenient…	魔晄便利	scene_09
-でも、そのかわりに動物や植物がどんどんへっているような気がするわ	But a lot of plants and animals have been disappearing at a rapid pace.	動物植物気	scene_09
+でも、そのかわりに動物や植物がどんどんへっているような気がするわ	But a lot of plants and animals have been disappearing at a rapid pace.	動物植気	scene_09
 わたしは、むかしの方がよかったんじゃないかと思うの	I think the old life was better.	方思	scene_09
 ね、そうよね？	Don't you think so?		scene_09
 そうでしょ？　そう思うわよね	Yeah, sure I'm right! You think so, don't you?	思	scene_09
@@ -66,7 +66,7 @@ CLOUDの過去	CLOUD's Past	過去	scene_09
 テレビによると、ルーファウスの２つめの作戦だとか……	They were just saying on TV it was Rufus' second strategy and…	作戦	scene_09
 あの大砲は真北に向いてるけど……目標は……セフィロス？？	That big cannon's pointed due north… Do you think the target is Sephiroth?	大砲真北向目標	scene_09
 ウェポンがやってくるって神羅カンパニーの人間は大騒ぎしとるよ	Everyone at Shinra's in an uproar because they heard Weapon's coming.	神羅人間大騒	scene_09
-秘密兵器を運んでいた飛空艇が空を飛ぶウェポンに襲われて海に沈んでしまったとか何やら……	I heard a big hydroplane carrying secret weapons, was attacked by Weapon and was sunk at sea…	秘密兵器運飛空艇空飛襲海沈何	scene_09
+秘密兵器を運んでいた飛空艇が空を飛ぶウェポンに襲われて海に沈んでしまったとか何やら……	I heard a big hydroplane carrying secret weapons, was attacked by Weapon and was sunk at sea…	秘密兵器運飛空艇襲海沈何	scene_09
 ルーファウス社長がいなくなってはもう、神羅カンパニーもおしまいじゃな。……そして、この世界も	If something ever happened to President Rufus, That'd be the end of Shinra, Inc. and the rest of the world, too.	社長神羅世界	scene_09
 おまえたち、ミッドガルから来たんじゃと？	Did you say you came from Midgar?	来	scene_09
 わしも以前ミッドガルに住んでいたんじゃが近頃はあそこも色々あるようじゃな	I used to live there, too. But I heard they got lots of troubles lately.	以前住近頃色	scene_09
@@ -81,7 +81,7 @@ CLOUDさまですね。お連れさまが２階でお待ちです	Mr…CLOUD? Yo
 この世界は、神羅カンパニーの動きにふりまわされているのさ。あんたたちも、それを受け入れる事だな	Shinra's leading the world around by the nose, and you guys are just gonna sit back and take it?	世界神羅動受入事	scene_09
 オレはよぉ、この町の南にある鉱山【ミスリルマイン】で働いていたんだ	Me? I used to work in a mine down south called Mythril Mine	町南鉱山働	scene_09
 しかしよぉ、その鉱山にモンスターがわんさか出るようになっちまってな	But, awhile back, monsters started appearing.	鉱山出	scene_09
-おかげで、商売あがったり。ここで日がな１日飲んだくれてるのさ	After that, business went to pot and now I spend the days here drinking.	商売日日飲	scene_09
+おかげで、商売あがったり。ここで日がな１日飲んだくれてるのさ	After that, business went to pot and now I spend the days here drinking.	商売日飲	scene_09
 ウィ～、ひっく。オレはヨってるぞォ～！！	Urrrp!…hic… I'm stinking drunk!!		scene_09
 お金が足りないようですね。またのおこしを、お待ちしています	Seems like you're a little short. Why don't you drop by again… when you have money.	金足待	scene_09
 なんで、誰も信じてくれないんだ～！……こどくなボク	Why doesn't anyone believe me? I'm so lonely…	誰信	scene_09
@@ -116,7 +116,7 @@ CLOUDさまですね。お連れさまが２階でお待ちです	Mr…CLOUD? Yo
 メテオが落ちてくるなんて……わたしたちは、どうなってしまうのかしら？	I can't believe Meteor's really falling this way… What's going to happen to us?	落	scene_09
 メテオが落ちてくるんでしょ？ヘソクリ、どこにかくそうかしら……いや、それよりもヘソクリを持ってどこかへ逃げ出した方がいいのかしら？	Meteor's coming, right? Where will I stash my money? Wait, maybe I'd better take it with me and get out of here!	落持逃出方	scene_09
 一泊、３００ギルです。とまっていかれますか？	One night, 300 gil. Wanna check in?	一泊	scene_09
-ん？　あんた、旅行者だね。世界を旅する時に知っておくと役立つことがあるのだけれど……	Tourists, huh? Here are a few things you should know that will come in handy when you travel around the world…	旅行者世界旅時知役立	scene_09
+ん？　あんた、旅行者だね。世界を旅する時に知っておくと役立つことがあるのだけれど……	Tourists, huh? Here are a few things you should know that will come in handy when you travel around the world…	旅行者世界時知役立	scene_09
 教えて欲しいかい？	Want to hear what they are?	教欲	scene_09
 それじゃ、ワールドマップでのコントローラ操作について説明してあげるとしよう	Then let me explain how to use the world map.	操作説明	scene_09
 さて、何を教えてあげようか？	Well then, what do you want to know?	何教	scene_09
@@ -126,14 +126,14 @@ CLOUDさまですね。お連れさまが２階でお待ちです	Mr…CLOUD? Yo
 他に何か、ききたいことがあるかい？	Anything else you'd like to know?	他何	scene_09
 もう、いいです	Nope, I got it		scene_09
 まず、ワールドマップではコントローラの【Ｌ２ボタン】を押すと視点を変えることができる	First press [CAMERA] to change the camera angle.	押視点変	scene_09
-選べる視点は２種類あるから自分の好きな方を選ぶといいね	There are 2 angles to choose from, select the one you like.	選視点種類自分好方選	scene_09
+選べる視点は２種類あるから自分の好きな方を選ぶといいね	There are 2 angles to choose from, select the one you like.	選視点種類自分好方	scene_09
 そして【Ｌ１ボタン】や【Ｒ１ボタン】を押してやれば、視点を左右に回してやることができるんだ	Then rotate the camera either way by pressing [PAGEUP] or [PAGEDOWN].	押視点左右回	scene_09
 いろいろ試してみて自分にあった視点をさがしてやれば旅は、もっと楽しくなると思うよ	Try different angles until you find the one you like best. It makes the journey a lot more fun!	試自分視点旅楽思	scene_09
 この世界の地図は【スタートボタン】を押してやると、見ることができる	Press [START] once to view the World Map.	世界地図押見	scene_09
 地図には、大きいものと小さいものがあるから場合によって使い分けてやれば道に迷うことも少なくなると思うよ	There is a large and small map. Learn when to use which and you won't get lost.	地図大小場合使分道迷少思	scene_09
 【スタートボタン】を何回か押してやれば地図を切り替えたり、消すことができるんだ。便利だろ？	Push [START] twice to change the size of the map, and once more to turn it off.	何回押地図切替消便利	scene_09
 [COULDN'T FIND]	Pretty easy, huh?		scene_09
-【決定ボタン】を押せば、乗り物に乗り【キャンセルボタン】を押せば乗りものから下りる。このへんは、そんなに難しくないね	Ride things by pressing [ASSIST] and get off by pressing [CANCEL]. This isn't so hard, either!	決定押乗物乗押乗下難	scene_09
+【決定ボタン】を押せば、乗り物に乗り【キャンセルボタン】を押せば乗りものから下りる。このへんは、そんなに難しくないね	Ride things by pressing [ASSIST] and get off by pressing [CANCEL]. This isn't so hard, either!	決定押乗物下難	scene_09
 あ、そうそう。ワールドマップではダッシュができないから【キャンセルボタン】は、乗り物から下りるときにしか押さない方がいいね	Oh, right. You can't dash on the World Map, so make sure not to press [CANCEL] unless you want to get off.	乗物下押方	scene_09
 特にチョコボは下りると逃げちゃうからね。気をつけた方がいいよ	Remember this because Chocobos will run away as soon as you get off them, so be careful.	特下逃気方	scene_09
 ワールドマップではメニューを開けばどこでもセーブできるからセーブはこまめにとったほうがいいよ	Once on the World Map you can access the menu to save your game anywhere. It's a good idea to save frequently!	開	scene_09
@@ -144,7 +144,7 @@ CLOUDさまですね。お連れさまが２階でお待ちです	Mr…CLOUD? Yo
 ……なめてんじゃねぇっ！！	…don't mess with me!!		scene_09
 え？　友人をさがしてる？ライフストリームはどこかって？	Huh? You're looking for your friend? You want to know where the Lifestream is?	友人	scene_09
 ん～、君の友人の事はしらないけどライフストリームについては聞いたことあるよ	Hmm, I can't help you find your friend, but I've heard about the Lifestream.	君友人事聞	scene_09
-【南の島】に旅行に言った時ある医者に世話になったんだけどその時に医者からそんな言葉を聞いたような覚えがあるけど……	When I traveled to the Southern islands, a doctor was very kind to me. I seem to recall him telling me something about the Lifestream…	南島旅行言時医者世話時医者言葉聞覚	scene_09
+【南の島】に旅行に言った時ある医者に世話になったんだけどその時に医者からそんな言葉を聞いたような覚えがあるけど……	When I traveled to the Southern islands, a doctor was very kind to me. I seem to recall him telling me something about the Lifestream…	南島旅行言時医者世話葉聞覚	scene_09
 あっ、聞いてくれよ！神羅軍の動きが活発になってきたんだ	Hey, listen to me! The Shinra troops are on the move.	聞神羅軍動活発	scene_09
 テレビによると、ルーファスは２つの作戦を打ち立てたらしいね。なんでもその１つはヒュージマテリアを集めて、ロケットで宇宙に飛ばすとか……	The TV news said Rufus came up with two plans. One, is to launch a rocket into space containing Huge Materia…	作戦打立集宇宙飛	scene_09
 ヒュージマテリアの破壊力ってのはそんなにすごいのかなぁ？	Is Huge Materia really that destructive?	破壊力	scene_09
@@ -154,22 +154,22 @@ CLOUDさまですね。お連れさまが２階でお待ちです	Mr…CLOUD? Yo
 北のクレーターのバリアがブッこわれたんだって！？	The North Crater barrier's been demolished?	北	scene_09
 じゃあ今こそが、セフィロスを倒す好機なわけだ	So now's the time to defeat Sephiroth.	今倒好機	scene_09
 あっ、聞いてくれよ！セフィロスを守っていたバリアはなくなったんだって！	Hey, listen to me! I heard the barrier protecting Sephiroth is gone!	聞守	scene_09
-でも、ルーファスが死んでしまったから神羅軍は右往左往するばかり。ハイデッカーやスカーレットじゃ神羅をまとめるには力不足だし……	But with Rufus dead, the Shinra troops don't know what to do. Heidegger and Scarlet don't have what it takes to lead the troops.	死神羅軍右往左往神羅力不足	scene_09
+でも、ルーファスが死んでしまったから神羅軍は右往左往するばかり。ハイデッカーやスカーレットじゃ神羅をまとめるには力不足だし……	But with Rufus dead, the Shinra troops don't know what to do. Heidegger and Scarlet don't have what it takes to lead the troops.	死神羅軍右往左力不足	scene_09
 せっかくなんとかなると思ったのにこれじゃ、何も変わってないのと同じじゃないか～！	I really thought something was finally going to happen, but everything's the same… Not a damn thing changes around here!	思何変同	scene_09
-ボクのお父さん、炭鉱夫なんだけどミスリルの鉱山にモンスターがでてきて仕事ができなくなっちゃったんだ	My old man was a miner, but he couldn't go to work after monsters started appearing in the Mythril Mines.	父炭鉱夫鉱山仕事	scene_09
-今じゃ、この奥の酒場でお酒ばっかり飲んで酔っぱらっているよ	Now all he does is sit around getting drunk in the bar…	今奥酒場酒飲酔	scene_09
-ボクのお父さん、もうすぐメテオが落ちてくるというのにこの奥の酒場でお酒ばっかり……	My dad still just sits at the bar drinking, even though he knows Meteor's coming!	父落奥酒場酒	scene_09
+ボクのお父さん、炭鉱夫なんだけどミスリルの鉱山にモンスターがでてきて仕事ができなくなっちゃったんだ	My old man was a miner, but he couldn't go to work after monsters started appearing in the Mythril Mines.	父炭鉱夫山仕事	scene_09
+今じゃ、この奥の酒場でお酒ばっかり飲んで酔っぱらっているよ	Now all he does is sit around getting drunk in the bar…	今奥酒場飲酔	scene_09
+ボクのお父さん、もうすぐメテオが落ちてくるというのにこの奥の酒場でお酒ばっかり……	My dad still just sits at the bar drinking, even though he knows Meteor's coming!	父落奥酒場	scene_09
 いい大人のクセに、現実見えていないってのは、情けないよね。まいっちゃうなぁ、もう	It's sad. Even though he's an adult, he just doesn't want to see the world as it really is. I dunno what to do.	大人現実見情	scene_09
 この町の南にある【ミスリルマイン】を抜けてさらに西へ行くと【ジュノン】という神羅カンパニーの港があるの	South of this town past the Mythril Mine and far to the west is a Shinra harbor called Junon.	町南抜西行神羅港	scene_09
-そこにも魔晄炉があって大きな建物がたくさん建っているそうよ。ああ、行ってみたいわぁ	They say there's a reactor and many tall buildings there. I hope to see it someday.	魔晄炉大建物建行	scene_09
+そこにも魔晄炉があって大きな建物がたくさん建っているそうよ。ああ、行ってみたいわぁ	They say there's a reactor and many tall buildings there. I hope to see it someday.	魔晄炉大建物行	scene_09
 すべて、世は事もなし……、っと。和平じゃのう	The world's at peace… all's well.	世事和平	scene_09
-明日は明日の風がふく……、っと。和平じゃのう	Tomorrow's another day… all's well.	明日明日風和平	scene_09
+明日は明日の風がふく……、っと。和平じゃのう	Tomorrow's another day… all's well.	明日風和平	scene_09
 今日も元気だ、ごはんがうまい……、っと。和平じゃのう	I got my health, and enough to eat… all's well.	今日元気和平	scene_09
 この数日で、この世界は大きく様変わりしてしまった……	The world's changed a lot in the past few days…	数日世界大様変	scene_09
 天空をおおうメテオ……我が物顔でかっぽする巨大なモンスター……	That huge Meteor is covering up the sky and acting like it owned it.	天空我物顔巨大	scene_09
 ……ワシの友人も、おおぜい死んでしまった	A lot of my friends have died…	友人死	scene_09
 ワシは、死んでしまった友人たちのめいふくをいのる旅に出ようと思う	I'm goin' on a journey to pray for their souls.	死友人旅出思	scene_09
-沈ぼつ船とともに沈んだというめい界の地図。……【ガイドブック】千年に一度、砂ばくにさくという花。……【デザートローズ】きく者の心をおだやかにするたてごと。……【アースハープ】	A map that was sunk along with the ship. ..."Guidebook" A rose that blooms once every 1000 years in the desert. ..."Desert Rose" A harp that soothes those who hear it. ..."Earth Harp"	沈船沈界地図千年一度砂花者心	scene_09
+沈ぼつ船とともに沈んだというめい界の地図。……【ガイドブック】千年に一度、砂ばくにさくという花。……【デザートローズ】きく者の心をおだやかにするたてごと。……【アースハープ】	A map that was sunk along with the ship. ..."Guidebook" A rose that blooms once every 1000 years in the desert. ..."Desert Rose" A harp that soothes those who hear it. ..."Earth Harp"	沈船界地図千年一度砂花者心	scene_09
 誰かワシのもとに持ってきてくれる人はおらんかのう……	I wonder if there's anyone who'll bring it to me?	誰持人	scene_09
 あとは【ガイドブック】さえあれば旅に出られるのじゃが……	Now if I can just get the "Guidebook", I can start my journey…	旅出	scene_09
 あとは【デザートローズ】さえあれば旅に出られるのじゃが……	Now if I can just get "Desert Rose", I can stary my journey…	旅出	scene_09
@@ -183,7 +183,7 @@ CLOUDさまですね。お連れさまが２階でお待ちです	Mr…CLOUD? Yo
 交換しない	Don't trade	交換	scene_09
 おお、それは【デザートローズ】！ワシのペットの【チョコボ】と交換せぬか？	OH! It's "Desert Rose"! Wanna trade it for that Chocobo over there?	交換	scene_09
 おお、それは【アースハープ】！ワシの持っている【マスターマテリア】と交換せぬか？	OH! It's the Earth Harp! Wanna trade it for some Master Materia?	持交換	scene_09
-１個なんてケチな事は言わん！３個セットにして渡すぞ	I'm not bein' stingy either! I'll give you all three of 'em!	個事言個渡	scene_09
+１個なんてケチな事は言わん！３個セットにして渡すぞ	I'm not bein' stingy either! I'll give you all three of 'em!	個事言渡	scene_09
 よし、交換成立じゃな	Ok then, it's a done deal!	交換成立	scene_09
 何が不満なんじゃ……	I dunno…	何不満	scene_09
 【潜水マテリア】じゃ。持っていってくれ	it's Underwater Materia. Go on, it's yours!	潜水持	scene_09

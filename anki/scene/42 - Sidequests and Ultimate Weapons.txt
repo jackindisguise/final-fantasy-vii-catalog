@@ -1,7 +1,7 @@
 一度つかんだ虫やカエルは【決定ボタン】を押すことによって手放すことができます。	Release insects and frogs by pushing [OK].	一度虫決定押手放	scene_42
-はなした場所によってリアクションが違いますのでいろんな場所でためしてください。	Insects and frogs react differently depending on where you release them, so try many different places.	場所違場所	scene_42
+はなした場所によってリアクションが違いますのでいろんな場所でためしてください。	Insects and frogs react differently depending on where you release them, so try many different places.	場所違	scene_42
 ギブアップする時は□ボタンを押してください。入口までもどされます。	Push [SWITCH] to give up. You will return to the Entrance.	時押入口	scene_42
-【古えの森】の生き物はその特性を知れば怖くはないのよ。知りたい？	If you learn the special qualities of the animals in the (Old Forest), there'll be nothing to fear. Do you want to hear more?	古森生物特性知怖知	scene_42
+【古えの森】の生き物はその特性を知れば怖くはないのよ。知りたい？	If you learn the special qualities of the animals in the (Old Forest), there'll be nothing to fear. Do you want to hear more?	古森生物特性知怖	scene_42
 ああ、教えてくれ	Yeah, tell me	教	scene_42
 今は聞く気分じゃない	Not now	今聞気分	scene_42
 何の事を知りたい？	What do you want to know about?	何事知	scene_42

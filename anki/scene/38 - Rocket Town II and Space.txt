@@ -13,7 +13,7 @@
 うるせぇぞ！！おめえは、だまってろい！	Shut up!! Just shut the hell up!		scene_38
 ロケットの調子はどうなんだ？	How's the rocket?	調子	scene_38
 だいたいＯＫだ	It's pretty much OK.		scene_38
-ロケットをオートパイロット装置でメテオにぶつける計画なのにかんじんの装置が壊れてるんだよ	We planned to run it into Meteor on Auto-Pilot, but the most important device is broken.	装置計画装置壊	scene_38
+ロケットをオートパイロット装置でメテオにぶつける計画なのにかんじんの装置が壊れてるんだよ	We planned to run it into Meteor on Auto-Pilot, but the most important device is broken.	装置計画壊	scene_38
 壊れている、だぁ？修理は、どうなっている	Broken? How's the repair goin'?	壊修理	scene_38
 シエラがやってるけど……	Shera's doin' it…		scene_38
 ケッ！　おめでたいヤツらだな！あの女に任せてた日にゃ１００年たっても終わんねぇぜ！	Oh great! What a buncha wizards you guys are! She's gonna take a 100 years!	女任日年終	scene_38
@@ -21,16 +21,16 @@
 ホレ、ホレ！みんなに伝えてこい！	Hey, go ahead! Go tell everyone!	伝	scene_38
 わかったよ、艇長。あとは、よろしくたのんだよ	All right, Captain. Good luck.	艇長	scene_38
 おい、CID！どういうつもりだ！？	Hey, CID! What're you doing!?		scene_38
-マテリアの中には古代からの知識、知恵が封じこまれているんだ	There are generations of knowledge and wisdom inside the Materia.	中古代知識知恵封	scene_38
+マテリアの中には古代からの知識、知恵が封じこまれているんだ	There are generations of knowledge and wisdom inside the Materia.	中古代知識恵封	scene_38
 俺たちはその力を借りてセフィロスの手からこの星を救う	We're gonna borrow their powers and save the Planet from Sephiroth.	俺力借手星救	scene_38
 ヒュージマテリアを失うわけにはいかないんだ。それは、わかっているはずだろ？	There's no way that we can lose the Huge Materia. You understand that, right?	失	scene_38
 おお、わかってるぜ。マテリアが大切なものだってのもおまえさんの考えもよ！	Yeah, I understand. I understand that Materia is precious, and I also understand what you're thinking.	大切考	scene_38
 でもな、聞けよ	But listen.	聞	scene_38
-オレ様はよ、科学の力だろうが魔法の力だろうがそんなこたあ、どっちでもいいんだ	I don't give a rat's ass whether it's science or magical power.	様科学力魔法力	scene_38
+オレ様はよ、科学の力だろうが魔法の力だろうがそんなこたあ、どっちでもいいんだ	I don't give a rat's ass whether it's science or magical power.	様科学力魔法	scene_38
 いや、オレ様はどっちかってえと科学の力にかけてみてえ	No, I guess if I had to choose, I'd rather put my money on the power of science.	様科学力	scene_38
 地ベタをはいずりまわってた人間が空を飛べるようになったんだぜ！	Humans only used to walk around on the ground but now they can fly!	地人間空飛	scene_38
 そして、ついには宇宙まで行こうってんだ	And finally, we're about to go into outer space.	宇宙行	scene_38
-科学は、人間が自らの手で生み出し、育て上げた『力』だ。その科学が、この星を救うかもしれねえ	Science is a 'Power' created and developed by humans. And science just might be what saves this Planet.	科学人間自手生出育上力科学星救	scene_38
+科学は、人間が自らの手で生み出し、育て上げた『力』だ。その科学が、この星を救うかもしれねえ	Science is a 'Power' created and developed by humans. And science just might be what saves this Planet.	科学人間自手生出育上力星救	scene_38
 科学のおかげでメシをくってきたオレ様にとってはよこれほど素晴しいことはねぇぜ！	I was able to earn my living, thanks to science. So to me, there's nothing greater!	科学様素晴	scene_38
 いつまでも神羅がどうのこうのこだわってるんじゃねえ！	Now quit your worrying bout what Shinra's gonna do!	神羅	scene_38
 オレ様はな、あとからああ、やっとけば良かったなんて考えたくはねえんだよ	I don't want to regret not having done something later.	様良考	scene_38
@@ -76,7 +76,7 @@
 わからねえ	I dunno…		scene_38
 さっきはあんなこと言ったけどよ	I know what I said a minute ago.	言	scene_38
 オレ様は、コイツと宇宙まで行きたかった。それだけなのかもしれねえ	But maybe all that I really wanted was just to go into outer space.	様宇宙行	scene_38
-だから、お前たちもお前たちが考えているように行動すればいいんじゃねぇか？	So, why don't you all do whatever you think is right?	前前考行動	scene_38
+だから、お前たちもお前たちが考えているように行動すればいいんじゃねぇか？	So, why don't you all do whatever you think is right?	前考行動	scene_38
 マテリアなら、そっちのハシゴをのぼっていった先にあるはずだぜ	The Materia should be there after you climb that ladder.	先	scene_38
 マテリア取りに行くんならこっちだぜ	If you're goin' to get the Materia, it's this way.	取行	scene_38
 脱出ポッドはこちらです。急いで下さい	The escape pod is this way. Please hurry.	脱出急下	scene_38
@@ -116,11 +116,11 @@
 ２番目のコードは×じゃなかったと思うんだが……	I think the second code wasn't [CANCEL]…	番目思	scene_38
 ３番目のコードは×だった。……ような気がする	Code No. 3 was [CANCEL] …I think.	番目気	scene_38
 う～ん、思い出せねぇ。もうちっと時間をくれ～！	Hmm, I can't remember. Give me some more time!	思出時間	scene_38
-△って、使ったかな？確か、使わなかったような……	Did you use [MENU]? I'm pretty sure you didn't…	使確使	scene_38
+△って、使ったかな？確か、使わなかったような……	Did you use [MENU]? I'm pretty sure you didn't…	使確	scene_38
 ○は一回しか押さなかったような気がするんだが……	I have a feeling you push [OK] only once…	一回押気	scene_38
 二回押すキーがあったような記憶があるんだが……	I think there was a key that you have to push twice…	二回押記憶	scene_38
 聞いたことがあるぜ。神羅のえらいさんだけが知っているパスコードがあるって	I heard there's a passcode only the top people in Shinra know.	聞神羅知	scene_38
-多分、そいつを入力すればいいはずだ。思いだしてみるから、その間にお前はいろいろコードを入力してみな！	We probably have to enter that. Try and enter some codes while I try and remember that passcode!	多分入力思間前入力	scene_38
+多分、そいつを入力すればいいはずだ。思いだしてみるから、その間にお前はいろいろコードを入力してみな！	We probably have to enter that. Try and enter some codes while I try and remember that passcode!	多分入力思間前	scene_38
 やったぜ、CLOUD！！ロックが外れたぞ	Alright, CLOUD!! It's unlocked!	外	scene_38
 やっぱ、オレ様のすんばらしいアドバイスがモノを言ったな	Yup, my great advice saved the day.	様言	scene_38
 パスコード確認	Passcode Confirmed	確認	scene_38
@@ -138,7 +138,7 @@ CID！！	CID!!		scene_38
 オレ様にかまうな。早く行け！急がないと、ロケットがメテオにぶつかっちまうぜ	Don't worry 'bout me. Hurry up and go! If you don't hurry, the rocket's gonna crash into Meteor!	様早行急	scene_38
 ……仲間を見すてて行けるわけがない	…I can't go without my friends.	仲間見行	scene_38
 この、ばか野郎……人のことを心配している場合じゃねぇだろうが！	You %#@&! No time to worry 'bout other people!	野郎人心配場合	scene_38
-爆発したのは、８番ボンベ……８番ボンベねえ……やっぱりイカレてやがったのか……	Tank Number 8 blew up…/ So Tank Number 8…/ really was malfunctioning…	爆発番番	scene_38
+爆発したのは、８番ボンベ……８番ボンベねえ……やっぱりイカレてやがったのか……	Tank Number 8 blew up…/ So Tank Number 8…/ really was malfunctioning…	爆発番	scene_38
 シエラ……確かにおまえが正しかったぜ	Shera…/ You were right.	確正	scene_38
 でもよ……オレ様もこれで終わりだぁ	But, …this is the end for me.	様終	scene_38
 なに言ってるのよ、CID	Don't say that, CID.	言	scene_38
@@ -211,7 +211,7 @@ CLOUDさん、いかがいたしましょう？	CLOUD, what do you want to do?		
 広くて大きくて……俺なんかが動き回っても何も変わらないんじゃないかって	How wide and big… No matter where I go and what I do it won't change a thing.	広大俺動回何変	scene_38
 そうなのかもしんねえな	Maybe you're right.		scene_38
 でもよ、オレ様が考えたのは違うぜ	But I came up with something different.	様考違	scene_38
-でけえでけえと思ってたこの星も宇宙から見ると小せえ小せえ	I always thought this Planet was so huge. But lookin' at it from space, I realized it's so small.	思星宇宙見小小	scene_38
+でけえでけえと思ってたこの星も宇宙から見ると小せえ小せえ	I always thought this Planet was so huge. But lookin' at it from space, I realized it's so small.	思星宇宙見小	scene_38
 真っ暗な中にぽっかり浮いてやがるんだ。……とっても心ぼそそうによ	We're just floatin' in the dark. ……kind of makes you feel powerless.	真暗中浮心	scene_38
 おまけに腹の中にはセフィロスっつう病気を抱えてるんだろ？	On top of that it's got Sephiroth festerin' inside it like a sickness.	腹中病気抱	scene_38
 だからよ、この星は子供みてえなもんだ	That's why I say this Planet's still a kid.	星子供	scene_38
@@ -224,8 +224,8 @@ CID……なんだかステキ	CID…that's beautiful.		scene_38
 ………………考え中でぃ	…I'm still thinkin' about that.	考中	scene_38
 あれっ！？	Huh!?		scene_38
 なんか……聞こえた？	Did you…hear something?	聞	scene_38
-星の悲鳴……メテオの……？……この星の？	Maybe it's the Planet's scream… Or is it Meteor?	星悲鳴星	scene_38
-星の悲鳴だ。たしかに星の悲鳴	It's the Planet's scream. I'm sure of it.	星悲鳴星悲鳴	scene_38
+星の悲鳴……メテオの……？……この星の？	Maybe it's the Planet's scream… Or is it Meteor?	星悲鳴	scene_38
+星の悲鳴だ。たしかに星の悲鳴	It's the Planet's scream. I'm sure of it.	星悲鳴	scene_38
 なあ、どうして俺たちはこれが悲鳴だって知ってるんだ？	Hey, how do we know that this is really the Planet's scream?	俺悲鳴知	scene_38
 忘れたの？	Did you forget?	忘	scene_38
 ブーゲンハーゲンさんが教えてくれたからよ	Bugenhagen told us.	教	scene_38

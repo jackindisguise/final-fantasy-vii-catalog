@@ -50,15 +50,15 @@ CLOUDたちも乗っていたらしいな	And it seems CLOUD and the others were
 ハッ！！ありがとうございます	YES, SIR!! Thank you, sir.		scene_16
 いいかね？　ハイデッカーくん。失敗は１度までだ	Remember Heidegger, You're allowed only one mistake.	失敗度	scene_16
 オレ、わかだいしょう！	I'm the boss!		scene_16
-あなたたち、アクセク働く運搬船の労働者にはわからないでしょうねえ	But a bunch of hardworking deckhands like you wouldn't understand.	働運搬船労働者	scene_16
-マリンブルーの海の上、どこまでも続くイターナルな空をながめながらセスナのつばさの上でおひるねする気分	On the marine blue sea, Gazing at the eternal skies that seem to go on forever… Gives you the feeling like you're taking a nap on the wing of a Cessna.	海上続空上気分	scene_16
+あなたたち、アクセク働く運搬船の労働者にはわからないでしょうねえ	But a bunch of hardworking deckhands like you wouldn't understand.	働運搬船労者	scene_16
+マリンブルーの海の上、どこまでも続くイターナルな空をながめながらセスナのつばさの上でおひるねする気分	On the marine blue sea, Gazing at the eternal skies that seem to go on forever… Gives you the feeling like you're taking a nap on the wing of a Cessna.	海上続空気分	scene_16
 そりゃあ、もう最高なのよ	It's the ultimate high!	最高	scene_16
 なかなか、いい男ね……	He's quite handsome, isn't he?	男	scene_16
 あっ！　あなたのことじゃないから安心して	Oh, don't worry, I'm not talking about you.	安心	scene_16
-ルーファウス社長のことよ。魅力的よね、お金もってるし金髪だし、ダブルのスーツだし	I'm talking about President Rufus. Charming, rich, blond… He even looks good in a double-breasted suit.	社長魅力的金金髪	scene_16
+ルーファウス社長のことよ。魅力的よね、お金もってるし金髪だし、ダブルのスーツだし	I'm talking about President Rufus. Charming, rich, blond… He even looks good in a double-breasted suit.	社長魅力的金髪	scene_16
 ヘラヘラ……もうじき、神羅のお偉方がつくんだってよ	Heh, heh… I hear the Shinra brass are arriving soon.	神羅偉方	scene_16
 ヘラヘラ……俺たちにはぜんぜん関係ねえよな	Heh, heh! Got nothing to do with us, does it?	俺関係	scene_16
-おっと！！離れて離れて！！	Hey! Spread out, all of you, out!!	離離	scene_16
+おっと！！離れて離れて！！	Hey! Spread out, all of you, out!!	離	scene_16
 しもんつけたり、傷つけたりへこませたりしたらただじゃおかないぞ	Put any fingerprints, scratches, or dents on that plane and I'll put one in your head!	傷	scene_16
 飛・行・機！！君たちには、一生手のとどかないしろもの	Da plane, da plane!! This's something you'll never be able to do in your lifetime.	飛行機君一生手	scene_16
 ま、せいぜい遠くからながめるだけにしてくれよ	So you just watch from a distance… and wish.	遠	scene_16
@@ -68,7 +68,7 @@ CLOUDたちも乗っていたらしいな	And it seems CLOUD and the others were
 いやあ、いいですよ。もう、なれっこですから	It's okay. I'm used to them.		scene_16
 じつは、僕もここに就職する前ね。密航の常習者だったりなんかしちゃって	The truth is, before I worked here, I was one of the best.	僕就職前密航常習者	scene_16
 じゃましないでくれよ。ルーファウスさんが社長就任以来初の到着なんだ	Don't bug me. This is Rufus's first official visit since becoming President.	社長就任以来初到着	scene_16
-今回はめずらしく仕事の用事みたいなんだけどね	It seems like he's here on business this time.	今回仕事用事	scene_16
+今回はめずらしく仕事の用事みたいなんだけどね	It seems like he's here on business this time.	今回仕事用	scene_16
 でも、うらやましいよなあ。ボクとそんなに年もかわらないのに社長だもんなあ	I'm so jealous of him I could spit. We're both about the same age but he's President.	年社長	scene_16
 まいったなあ…。神羅の課長さん、おりてこないんですよ	Oh crap… The manager of Shinra won't come down.	神羅課長	scene_16
 出張で来てるのにねえ。仕事忘れちゃって、遊んでばっかり	Even though the President's here on business. All he does is play, forgetting everything to do with work.	出張来仕事忘遊	scene_16
@@ -76,7 +76,7 @@ CLOUDたちも乗っていたらしいな	And it seems CLOUD and the others were
 いやあ～～仕事のしがいがあるってもんです	Wow!! I guess it pays to do good work.	仕事	scene_16
 まいったなあ。パンツまでびしょびしょ	Damn. I'm soaking wet down to my underwear.		scene_16
 あ！　あんたたち、もしかしてちまたで噂のアバランチの残堂！！	Oops! You must be those AVALANCHE guys!	噂残堂	scene_16
-さ！　早く逃げて逃げて。運搬船はハイデッカーの管理下に置かれちゃいましたよ	Quick! Let's get outta here! Heidegger's in charge of the transport ship.	早逃逃運搬船管理下置	scene_16
+さ！　早く逃げて逃げて。運搬船はハイデッカーの管理下に置かれちゃいましたよ	Quick! Let's get outta here! Heidegger's in charge of the transport ship.	早逃運搬船管理下置	scene_16
 たいへんですね、おたがい	That's tough for both of us.		scene_16
 神羅のスキッフ、乗ってみたいかい？	Ride the Shinra ship?	神羅乗	scene_16
 そうだな、悪くないな	Yeah, I could go for that	悪	scene_16
@@ -91,7 +91,7 @@ CLOUDたちも乗っていたらしいな	And it seems CLOUD and the others were
 ルーファウスのかっこつけやろうー！！	And Rufus, acting all big!!		scene_16
 ああ、きもちいい……	God, that sure felt good…		scene_16
 運搬船は、当分の間、出航しませんよ。ハイデッカーの指示なしにはね	The transport ship won't be sailing for quite awhile. Heidegger's orders.	運搬船当分間出航指示	scene_16
-ただし！！　僕にも家ではらすかせて待ってる家族がいる。ただってわけにはいかない	Thinking of being stowaways?	僕家待家族	scene_16
+ただし！！　僕にも家ではらすかせて待ってる家族がいる。ただってわけにはいかない	Thinking of being stowaways?	僕家待族	scene_16
 ジュノンまで１００ギル。そんだけもらえれば船長に口聞いてあげてもいいぜ	It's 100 gil to Junon. Give it to me, and I'll put in a good word with the captain.	船長口聞	scene_16
 どうする？	What'll we do?		scene_16
 １００ギル払う	Pay up	払	scene_16
@@ -99,8 +99,8 @@ CLOUDたちも乗っていたらしいな	And it seems CLOUD and the others were
 お～い、金もないのに密航だなんて笑わせんなよ	Hey! No money? And you're trying to stowaway? Don't make me laugh!	金密航笑	scene_16
 おっけ～。ほら、こっちだ	Okay. Come on. This way.		scene_16
 快適な船旅とはいえないだろけどがまんしてくれよな	It's not the most pleasant ride but make the best of it.	快適船旅	scene_16
-ルーファウスさんにほめられて以来ひとしきり走り回って来ましたがなんの音さたもなし……	Ever since Rufus complimented him, he strutted around for awhile, and haven't heard a peep from him since…	以来走回来音	scene_16
-今日も最高のおひるね日平。もうそれだけでごっきげんなのよね～！	Today's a great day for a nap in the sun. It always puts me in a good mood!	今日最高日平	scene_16
+ルーファウスさんにほめられて以来ひとしきり走り回って来ましたがなんの音さたもなし……	Ever since Rufus complimented him, he strutted around for awhile, and haven't heard a peep from him since…	以来走回音	scene_16
+今日も最高のおひるね日平。もうそれだけでごっきげんなのよね～！	Today's a great day for a nap in the sun. It always puts me in a good mood!	今日最高平	scene_16
 あれ、君たち？世界を飛びまわってるって顔してるね。なんだか知らないけど、がんばってくれよ	Hey, who're you? You look like you've been around the world twice.	君世界飛顔知	scene_16
 メテオだなんだと、みなさん大あわてで最後のヴァカンスをとりにやってくるもんだからボクら、かえっていそがしいですよ	I don't know what your story is, but hang in there.	大最後	scene_16
 はぁ……ボク、最後まで走りまわっているんだなあ	Everyone's in a rush to get one last vacation in before the Meteor strikes. That's why it's so busy here.	最後走	scene_16
@@ -114,23 +114,23 @@ CLOUDたちも乗っていたらしいな	And it seems CLOUD and the others were
 うんうん。	Right…well, uh…		scene_16
 そんなことより黒マント男を	Concentrate on Sephiroth	黒男	scene_16
 すまないが、少し急いでくれないか。ここは暑い、私のしたがかわいてしまう	Would you kindly hurry? The heat here is drying my nose.	少急暑私	scene_16
-あなたたち、アクセク働く運搬船の労働者には わからないでしょうねえ。	You'll never know what it's like to toil away on the ship.	働運搬船労働者	scene_16
-マリンブルーの海の上、どこまでも続く イターナルな空をながめながら セスナのつばさの上でおひるねする気分。	Sailing over the blue sea, gazing up at a sky that seems to drift on forever. Feels like you're taking a nap on birds wings.	海上続空上気分	scene_16
+あなたたち、アクセク働く運搬船の労働者には わからないでしょうねえ。	You'll never know what it's like to toil away on the ship.	働運搬船労者	scene_16
+マリンブルーの海の上、どこまでも続く イターナルな空をながめながら セスナのつばさの上でおひるねする気分。	Sailing over the blue sea, gazing up at a sky that seems to drift on forever. Feels like you're taking a nap on birds wings.	海上続空気分	scene_16
 あっ！　あなたのことじゃないから 安心して。	Don't worry‚I'm not talking about you.	安心	scene_16
 ヘラヘラ…… もうじき、神羅のお偉方がつくんだってよ。	Heh‚heh… I hear the Shinra brass are arriving soon.	神羅偉方	scene_16
-おっと！！ 離れて離れて！！	Hey! Spread out‚all of you‚out!!	離離	scene_16
+おっと！！ 離れて離れて！！	Hey! Spread out‚all of you‚out!!	離	scene_16
 しもんつけたり、傷つけたり へこませたりしたら ただじゃおかないぞ。	Any of you put a scratch or a dent in that plane and I'll put one in your head!	傷	scene_16
 飛・行・機！！ 君たちには、一生 手のとどかないしろもの。	Da plane‚da plane!! Here's something you'll probably never get to do in your lifetime.	飛行機君一生手	scene_16
 ここは太陽ふりそそぐ常夏の楽園。 コスタデルソルの港！	Costa del Sol…a harbor paradise where the sun always shines and it's summer all year round!	太陽常夏楽園港	scene_16
 君たち密航者なんでしょ。	Stowaways‚right?	君密航者	scene_16
 いやあ、いいですよ。 もう、なれっこですから。	It's okay. I'm used to them.		scene_16
 じゃましないでくれよ。 ルーファウスさんが社長就任以来 初の到着なんだ。	Don't bug me. This is Rufus's first official visit since becoming President.	社長就任以来初到着	scene_16
-今回はめずらしく仕事の用事みたい なんだけどね。	It seems like he's here on business this time.	今回仕事用事	scene_16
+今回はめずらしく仕事の用事みたい なんだけどね。	It seems like he's here on business this time.	今回仕事用	scene_16
 まいったなあ…。 神羅の課長さん、おりてこないんですよ。	Oh crap… The Shinra Manager won't come down.	神羅課長	scene_16
 ルーファウスさんに ほめられちゃいましたよ！	Rufus complimented me on my job!		scene_16
 まいったなあ。 パンツまでびしょびしょ。	Damn. I'm soaked down to my underwear.		scene_16
 あ！　あんたたち、もしかして ちまたで噂のアバランチの残堂！！	Oops! You must be those AVALANCHE guys!	噂残堂	scene_16
-さ！　早く逃げて逃げて。 運搬船はハイデッカーの管理下に 置かれちゃいましたよ。	Quick! Let's get outta here! Heidegger's in charge of the transport ship.	早逃逃運搬船管理下置	scene_16
+さ！　早く逃げて逃げて。 運搬船はハイデッカーの管理下に 置かれちゃいましたよ。	Quick! Let's get outta here! Heidegger's in charge of the transport ship.	早逃運搬船管理下置	scene_16
 そうか……そうなのか。	Oh…is that so?		scene_16
 う～ん！ 中古の払い下げスキッフがあるんだけど 観光客相手の商売でもはじめようかと 思ってね。	Yep! Actually‚we do have an old junker we're gonna get rid of, And I was thinking about going into the tourist business.	中古払下観光客相手商売思	scene_16
 ハイデッカーの バカヤロウッー！！	Heidegger's such an idiot!!		scene_16
@@ -146,15 +146,15 @@ CLOUDべっそう	CLOUD's Villa		scene_16
 まあ、そうでしょう。ひきとめはしませんよ	Yes, you're right. I'm sorry, please continue.		scene_16
 ここは何を売ってるんだ	What are you selling?	何売	scene_16
 いやですねえ。やっぱりひやかしですか？	That's pretty low. Are you pulling my leg?		scene_16
-このお家ですよ。お家。もとプレジデント神羅所有のべっそう。最近、売りにでましてねえ	I'm talking about this house. This villa used to belong to President Shinra. It only recently came back on the market.	家家神羅所有最近売	scene_16
+このお家ですよ。お家。もとプレジデント神羅所有のべっそう。最近、売りにでましてねえ	I'm talking about this house. This villa used to belong to President Shinra. It only recently came back on the market.	家神羅所有最近売	scene_16
 どうですか？	How do you like it?		scene_16
-広い敷地にごうか家具＆ふかふかベッド。おまけに地下室までついちゃう	It has a large lot, comes fully furnished with this goose-down bed, and there's even a basement to boot.	広敷地家具地下室	scene_16
+広い敷地にごうか家具＆ふかふかベッド。おまけに地下室までついちゃう	It has a large lot, comes fully furnished with this goose-down bed, and there's even a basement to boot.	広敷地家具下室	scene_16
 土地のみんなには神羅べっそうと呼ばれてますよ	The villagers call it the Shinra Villa.	土地神羅呼	scene_16
 もっちろん、値ははりますがね	Of course, we're not giving it away…	値	scene_16
 いくらだ？	How much is it?		scene_16
 おろっ？買う気ある、ビンボー人のくせに？	Wha? How do you plan to buy it without a dime on you?	買気人	scene_16
 ま、社会勉強のため値段だけは教えときましょはい、ポッキリ３０万ギルね。	Well, the price, for your information, is a steal at 300,000 gil.	社会勉強値段教万	scene_16
-手がでないでしょ。帰った！帰った！	Out of your range? Out! Go on, out!	手帰帰	scene_16
+手がでないでしょ。帰った！帰った！	Out of your range? Out! Go on, out!	手帰	scene_16
 地下室の品は、ほんのサービスですよ。	All items in the basement are included in the sale.	地下室品	scene_16
 まあ、お金でもたまったらまたおいでください	Well, please come by again if you should strike it rich.	金	scene_16
 もっとも、ゴールドソーサーでひとやま当てたりでもしなけりゃむりでしょうけどねえ	I wouldn't hold my breath waiting for that to happen unless you win big at Gold Saucer.	当	scene_16
@@ -254,7 +254,7 @@ CLOUDべっそう	CLOUD's Villa		scene_16
 メテオかんしょうツアー参加しるしの入ったアイテムはいかが？	Oh wow!! Man, that's huge!!	参加入	scene_16
 うひゃ～！！でっけ～！！	The stars!! They're in flames!!		scene_16
 お星さま～！！メラメラ～！！	They're burning. Someday they'll burn out.	星	scene_16
-燃えてるわ。でも、いつか燃えつきるの	The stars are just like our youth.	燃燃	scene_16
+燃えてるわ。でも、いつか燃えつきるの	The stars are just like our youth.	燃	scene_16
 わたしたちの青春とおなじよ	Ho! Ho! Ho! It's the end of the world.	青春	scene_16
 オホホホ……終わりなのよ	Bar	終	scene_16
 おキャクさん、ノむか、サケ？ソだな、ウン、ゆっくりしてケ	Mukki		scene_16
@@ -263,7 +263,7 @@ CLOUDべっそう	CLOUD's Villa		scene_16
 ゼェゼェ……あついとこ、苦手……	…HIC… Mm? Wanna order? We're outta that now.	苦手	scene_16
 ヒッッック…ん？　注文かい？いまはないよぅ	Hey! I thought you'd drop by.	注文	scene_16
 あらっ！　いらしてくれるとおもってたわ♥	(That's 1, 2…4 fishes all together…not bad.)		scene_16
-（つったさかなが１匹２匹…これで、４匹め。まあまあね）	Come on…please. If you don't buy from me… I won't be able to pay the rent.	匹匹匹	scene_16
+（つったさかなが１匹２匹…これで、４匹め。まあまあね）	Come on…please. If you don't buy from me… I won't be able to pay the rent.	匹	scene_16
 たのむよ、買ってくれないと俺の生活が…	Yeah, snowboarding's what's happening this year.	買俺生活	scene_16
 やっぱ、今年はスノボかな。もうサーフィンはあきちゃったよ	I'm sick of surfing.	今年	scene_16
 オレたち、これからゴールドソーサーへむかうんだ	We're all headin' over to Gold Saucer now.		scene_16
@@ -271,7 +271,7 @@ CLOUDべっそう	CLOUD's Villa		scene_16
 スノボやりにアイシクルロッジへ長い旅するのさ	Then we're gonna take a trip to Icicle Inn and snowboard.	長旅	scene_16
 バールデルソルへようこそ！トロピカルな夜にかんぱい！	Welcome to Bar del Sol! Here's to tropical nights!	夜	scene_16
 オレたちには、やっぱサーフィンがおにあいさ	We look like great surfers…		scene_16
-なんてたって、水着しか着る服もってないんだから	But the only clothes we have are these swim trunks.	水着着服	scene_16
+なんてたって、水着しか着る服もってないんだから	But the only clothes we have are these swim trunks.	水着服	scene_16
 長い旅してわかったよ。この街の海が最高だったてことがさ	I traveled around a long time… And this town has the most beautiful ocean I've ever seen.	長旅街海最高	scene_16
 見なれちゃったり、近すぎたりしてさ 	Sometimes you can't recognize things when they're right in front of you.	見近	scene_16
 そこにあるのがあたりまえみたいになるとわからなくなることってあるよな	I guess I took it for granted because it's so close, and I was so used to seeing it all the time.		scene_16
@@ -289,13 +289,13 @@ CLOUDべっそう	CLOUD's Villa		scene_16
 ボクチンはさけぶぞ！みにくいくらいのたうちまわるぞ！	I'm gonna tell him off! I'm gonna scream my head off!		scene_16
 生きるってのはそういうことじゃないのかい！どですかね？	Isn't that what life's all about? What do you think?	生	scene_16
 ゼェハァ……暑さも寒さも星の思い出…	…huff…wheeze… Heat and cold are just memories of the Planet…	暑寒星思出	scene_16
-たのむよ、買ってくれないと俺の生活どころか…みんなの生活が……	Come on…please. If you don't buy from me… I can't pay the rent. No one else will either.	買俺生活生活	scene_16
+たのむよ、買ってくれないと俺の生活どころか…みんなの生活が……	Come on…please. If you don't buy from me… I can't pay the rent. No one else will either.	買俺生活	scene_16
 お店のなかではや～なことなんてわすれてたのしんでいってね♥	While you're here, forget all those awful things going on outside, and just enjoy yourself.	店	scene_16
 コスタデルソル・イン	Costa del Sol Inn		scene_16
 チェッ！　調子わるっ！あっ！！　あんたさ！	Uggh!  I feel God awful! Oh!! You!	調子	scene_16
 あの大きな水兵さんの連れの方だろ？	Weren't you with that big sailor?	大水兵連方	scene_16
 俺には関係ないな	Wasn't me	俺関係	scene_16
-……人ちがいか。こまるんだよね。あの人、トイレ占拠しちまって	Wrong guy? This is bad for us. That guy's taken over the john.	人人占拠	scene_16
+……人ちがいか。こまるんだよね。あの人、トイレ占拠しちまって	Wrong guy? This is bad for us. That guy's taken over the john.	人占拠	scene_16
 宿代の支払いもまだだし	And he hasn't even paid his hotel bill yet.	宿代支払	scene_16
 聞いてくれます？	Listen to this…	聞	scene_16
 いきなり！　大きな水兵さんがドカドカとやってきてトイレ占領しちまって	A big sailor just busted in here all of a sudden, and took over the restroom.	大水兵占領	scene_16
@@ -351,7 +351,7 @@ CLOUDべっそう	CLOUD's Villa		scene_16
 さきに休ませてね	I'm going to sleep.	休	scene_16
 もういいですよっ！	I don't want to talk about it!		scene_16
 お気をつけて！	Be careful!	気	scene_16
-もう遊ぶ気も働く気もないです。最後の人生、ねだめですよ、ねだめ	I don't feel like doing anything. I just want to spend the rest of my life sleeping.	遊気働気最後人生	scene_16
+もう遊ぶ気も働く気もないです。最後の人生、ねだめですよ、ねだめ	I don't feel like doing anything. I just want to spend the rest of my life sleeping.	遊気働最後人生	scene_16
 では、おやすみなさ～い	Good night.		scene_16
 いっしょにねますかい？	Will you be staying together?		scene_16
 やめとく	No, thanks		scene_16
@@ -371,9 +371,9 @@ CLOUDだ、おぼえとけ	I'm CLOUD, and don't forget it		scene_16
 おたがい、いろいろあったよな。や！　もうぐちるのはやめ！いいよな、あんたたちみたいにの～天気に生きられりゃよ	A lot of things happened to us. Heh, I better stop my complaining! I sure envy you all living out under the stars.	天気生	scene_16
 どうどうと名乗るくらいのご身分とはね！	You think you're good enough to brag about how big you are?	名乗身分	scene_16
 聞いてあきれるぜ！や！　もうぐちるのはやめ！	I don't wanna hear it! Heh, no more complaining from me!	聞	scene_16
-おたがい、新しい人生を生きような！	From now on, I'm turning over a new leaf!	新人生生	scene_16
+おたがい、新しい人生を生きような！	From now on, I'm turning over a new leaf!	新人生	scene_16
 はやく出てってくれよ！	Go on and beat it!	出	scene_16
-俺は、これでもハッピーにやってんだ。俺のラブリーなどうせい生活をじゃましないでくれ！	I'm happy like this. So keep out of my life.	俺俺生活	scene_16
+俺は、これでもハッピーにやってんだ。俺のラブリーなどうせい生活をじゃましないでくれ！	I'm happy like this. So keep out of my life.	俺生活	scene_16
 お客さん、ごめんなさいね！彼、ここんとこ、ショックなことがおおくてず～っと、ふさぎこんでるのよ～	I'm sorry about that. He's had some big shocks and has been depressed lately.	客彼	scene_16
 そうそう！そんなことも、あったね～	Oh, right! I remember that, too.		scene_16
 でさ、でさ！そんとき…	Yeah, yeah! And you remember the time when….		scene_16
@@ -401,7 +401,7 @@ CLOUD……。ごめん、今日はふたりにさせてね！	CLOUD, would you 
 たとえこのまま世界が終わってもそれはそれ！	I don't care even if the world were to end right now!	世界終	scene_16
 いまはなにも考えられません！	I can't think of anything else!	考	scene_16
 ダメだダメだダメだ！！メテオがどんどんでかくなってる！！	No, no, NO!! Meteor's getting closer every minute!!		scene_16
-俺はいまがむしゃらに生きたい！！彼女といっしょに生きのびて所帯をもつのだ！！	I wanna live my life right now!! I want to build a home and grow old together with her!	俺生彼女生所帯	scene_16
+俺はいまがむしゃらに生きたい！！彼女といっしょに生きのびて所帯をもつのだ！！	I wanna live my life right now!! I want to build a home and grow old together with her!	俺生彼女所帯	scene_16
 あんたにできなきゃ、俺がやる！！ただそれだけだ！	If you can't do it, then I will! And that's that!	俺	scene_16
 俺もがんばるから、あんたもがんばれ！	I'm gonna do my best, so you hang in there too!	俺	scene_16
 あっ！CLOUD！！	Oh! CLOUD!!		scene_16
@@ -459,7 +459,7 @@ CLOUD、だめっ！この人、死んだら何もわからなくなっちゃう
 知らないの？死んじゃったよ	You didn't know!? She died.	知死	scene_16
 ……そうか	…I see.		scene_16
 ……ねえ、博士	Professor Hojo?	博士	scene_16
-ジェノバは古代種なの？セフィロスは古代種なの？わたしと同じ血、流れてるの？	Is Jenova an Ancient? Is Sephiroth an Ancient? Do we all have the same blood?	古代種古代種同血流	scene_16
+ジェノバは古代種なの？セフィロスは古代種なの？わたしと同じ血、流れてるの？	Is Jenova an Ancient? Is Sephiroth an Ancient? Do we all have the same blood?	古代種同血流	scene_16
 ……ボソボソ………西へ…………………	…mumble…mumble…head west…	西	scene_16
 ボソボソ作戦？ってことは、何か隠してる！	He's mumbling slowly… That must mean he's hiding something!	作戦何隠	scene_16
 ねぇ！答えなさいよ！！	Hey! Answer us!!	答	scene_16
@@ -500,7 +500,7 @@ CLOUD、だめっ！この人、死んだら何もわからなくなっちゃう
 よくいうでしょう？	At least that's what they always say, don't they?		scene_16
 そなえあればうれいなし。とらぬたぬきのかわざんようってばボクってインテリ！	Be prepared, and you'll never fear.		scene_16
 う～ん、調子でません。これも神羅の男たちのせいさ	Hey, I'm no idiot. I NEVER count my chickens before they hatch! Not bad, huh?	調子神羅男	scene_16
-うらむよなあ、神羅カンパニー！悪者だよな、神羅	Hmm. Man, I'm draggin' today. It's all Shinra's fault.	神羅悪者神羅	scene_16
+うらむよなあ、神羅カンパニー！悪者だよな、神羅	Hmm. Man, I'm draggin' today. It's all Shinra's fault.	神羅悪者	scene_16
 へヘ……でも、これってひがみってやつだなあ。さわやかじゃないなあ	I really hate Shinra, Inc.! They're all crooked, those Shinra.		scene_16
 うひゃ！！話しかけないで～！	Hmm… What a bitter guy Chill out a bit.	話	scene_16
 ウップ！　ブクブク………しずんじゃうよ～	Eeeew!! Leave me alone!		scene_16

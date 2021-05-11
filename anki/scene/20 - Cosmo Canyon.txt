@@ -36,14 +36,14 @@
 だが勇ましい戦士であった母は死にふぬけの父は逃げだし一族は私だけになってしまった	My brave mother fought and died here, but my cowardly father left her… I am the last of my race.	勇戦士母死父逃一族私	scene_20
 ふぬけの父？	Cowardly father?	父	scene_20
 ああ。父は見下げたふぬけ野郎だ	Yes. My father was a wastrel.	父見下野郎	scene_20
-だから、ここを守るのは残された私の使命だ。私の旅はここで終わりだ	And so the mission I inherited from my ancestors is to protect this place. My journey ends here.	守残私使命私旅終	scene_20
+だから、ここを守るのは残された私の使命だ。私の旅はここで終わりだ	And so the mission I inherited from my ancestors is to protect this place. My journey ends here.	守残私使命旅終	scene_20
 お～い！　ナナキ～！帰ったのか～！	Hey! Nanaki--! You're home!	帰	scene_20
 いまいくよ！　じっちゃん！	Coming, Grandpa!		scene_20
 ちょうどいい。オレたちもここらで小休止といこうぜ	Good timin'. Let's take a breather.	小休止	scene_20
 オレはいろいろ知りてえこともあるしな	I got stuff I want to find out, too.	知	scene_20
 ちょうどいいわ。私たちも一休みしない？しばらく自由行動ね！	That's perfect. Why don't we take a break too? We can meet back here in a while, OK?	私一休自由行動	scene_20
 ね、ちょっと休んでこ。わたし、いろいろ聞いてみたいことあるし	Let's rest for a bit. There are some things I want to find out about anyway.	休聞	scene_20
-休も休も休も！アタシたちも休もっ！よし、けってーい！	Rest, rest, rest! I wanna rest! Ok! That's that!	休休休休	scene_20
+休も休も休も！アタシたちも休もっ！よし、けってーい！	Rest, rest, rest! I wanna rest! Ok! That's that!	休	scene_20
 もうヘロヘロですわ。みなさん、ぼちぼち休みにしませんか？	I'm just dead tired. Everyone, how 'bout some rest?	休	scene_20
 わーい、わーい！ナナキが！ナナキが帰ってきたです！この炎のおかげなのです！	Yaaay! Nanaki! Nanaki's back! It's all thanks to this flame!	帰炎	scene_20
 この火はね。『コスモキャンドル』なのです。むかーしむかしからもやされつづけてるのです	This fire is called 'Cosmo Candle'. It has burned for generations.	火	scene_20
@@ -122,21 +122,21 @@ RED XIII、なんだか様子がヘンじゃない？	RED XIII seems different, 
 ……約束の地。そうか、知りたいか	…The Promised Land. So what do you want to know?	約束地知	scene_20
 約束の地というのはなはっきり言って存在しない。ワシはそう考えておる	There is no one place called the Promised Land. That's what I believe.	約束地言存在考	scene_20
 いやいや、存在する。ふむふむ……そうとも言える	No, no, it does exist. Hmmm…you can say that.	存在言	scene_20
-ようするにワシらには存在しないが古代種にとっては存在した	In other words, it doesn't exist for us, but it did for the Ancients.	存在古代種存在	scene_20
+ようするにワシらには存在しないが古代種にとっては存在した	In other words, it doesn't exist for us, but it did for the Ancients.	存在古代種	scene_20
 ミもフタもない言い方をすれば約束の地は古代種の死に場所じゃ	The Promised Land is the resting place of the Ancients.	言方約束地古代種死場所	scene_20
-古代種の人生はきびしい旅の日々じゃ。草や木、動物、あらゆる生き物を増やして精神エネルギーをそだてる旅	The life of the Ancients is one continuous journey. A journey to grow trees and plants, raise animals, and make Mako energy.	古代種人生旅日草木動物生物増精神旅	scene_20
+古代種の人生はきびしい旅の日々じゃ。草や木、動物、あらゆる生き物を増やして精神エネルギーをそだてる旅	The life of the Ancients is one continuous journey. A journey to grow trees and plants, raise animals, and make Mako energy.	古代種人生旅日草木動物増精神	scene_20
 彼らのつらい旅は生きているあいだずっと続いたという……	Their harsh journey continued throughout their lives…	彼旅生続	scene_20
-その旅を終え、星に帰る場所……つまり死に場所が約束の地	The place they returned to after their long journey… Their burial land is the Promised Land.	旅終星帰場所死場所約束地	scene_20
-あん？　至上の幸福？古代種にとっては星に帰る瞬間運命から解き放たれる瞬間それは至上の幸福ではなかったか……と	Huh? Supreme Happiness? I believe that, for the Ancients, it was the moment that they were able to return to their Planet, That moment when they were released from their fate, and gained their supreme happiness…	至上幸福古代種星帰瞬間運命解放瞬間至上幸福	scene_20
+その旅を終え、星に帰る場所……つまり死に場所が約束の地	The place they returned to after their long journey… Their burial land is the Promised Land.	旅終星帰場所死約束地	scene_20
+あん？　至上の幸福？古代種にとっては星に帰る瞬間運命から解き放たれる瞬間それは至上の幸福ではなかったか……と	Huh? Supreme Happiness? I believe that, for the Ancients, it was the moment that they were able to return to their Planet, That moment when they were released from their fate, and gained their supreme happiness…	至上幸福古代種星帰瞬間運命解放	scene_20
 ワシはそう考えておるんじゃ。今となっては真実はわからんがの	At least that's what I believe. I really don't know whether or not it's true.	考今真実	scene_20
 なんじゃ、ちがったのか。	Oh, that's not what you're here for?		scene_20
-悪いんじゃが、伝説とか昔話とかワシにはそんな話しかしてやれんよ	I'd appreciate it if you didn't talk about such foolish things as legends and old wives tales.	悪伝説昔話話	scene_20
-ここで星命学を学んだ男がいたんだ	There was this guy who studied Planetary Life' here.	星命学学男	scene_20
+悪いんじゃが、伝説とか昔話とかワシにはそんな話しかしてやれんよ	I'd appreciate it if you didn't talk about such foolish things as legends and old wives tales.	悪伝説昔話	scene_20
+ここで星命学を学んだ男がいたんだ	There was this guy who studied Planetary Life' here.	星命学男	scene_20
 そいつは感動してこのままじゃいけないと考えてミッドガルでアバランチを結成した	He couldn't take things the way they were, so he went to Midgar to form AVALANCHE.	感動考結成	scene_20
 ……こんな話、興味ないよな？	Wanna hear more?	話興味	scene_20
 つづけてくれ	Go on		scene_20
 言ってみりゃ、ここがアバランチの原点だな	Guess you could say this is where AVALANCHE was born.	言原点	scene_20
-オレも一度は来たいと思っていたが……ついに……来た……ぜ	I always wanted to come here… And finally…I made it.	一度来思来	scene_20
+オレも一度は来たいと思っていたが……ついに……来た……ぜ	I always wanted to come here… And finally…I made it.	一度来思	scene_20
 いろいろ……あったぜ……	A lot's happened…		scene_20
 つづきは？	And then?		scene_20
 つづき……？これからのことはわからねえ。アバランチはもうねえんだ……	And then…? I don't know what's going to happen, now that there is no AVALANCHE…		scene_20
@@ -184,25 +184,25 @@ RED XIII、なんだか様子がヘンじゃない？	RED XIII seems different, 
 それ以来、行方不明じゃ。神羅にももどらんかったそうじゃ	He's been missing since then. I heard that he never went back to Shinra	以来行方不明神羅	scene_20
 というわけでなガスト博士に会うことがあったら伝えてほしいんじゃ	So, if you ever see Professor Gast, I want you to tell him…	博士会伝	scene_20
 コスモキャニオンの酒好きジイさんが古代種の話を聞きたがっているとな	That the old man that likes to drink in Cosmo Canyon, wants to hear about the Ancients.	酒好古代種話聞	scene_20
-ま、話したいのはやまやまじゃが古代種のことは言い伝えや伝説ばかりで真実はもうだ～れにもわからんのじゃ	Well, there's lots to talk about, but most things about the Ancients are all legend and folk tales, and no one knows the truth.	話古代種言伝伝説真実	scene_20
+ま、話したいのはやまやまじゃが古代種のことは言い伝えや伝説ばかりで真実はもうだ～れにもわからんのじゃ	Well, there's lots to talk about, but most things about the Ancients are all legend and folk tales, and no one knows the truth.	話古代種言伝説真実	scene_20
 ん～ええ気分じゃ。マスターのつくるカクテルはいつも最高じゃの	Mmm. I'm starting to feel good now. That bartender's cocktails always hit the spot.	気分最高	scene_20
 そうかそうか。おまえさんたちがナナキをつれてきてくれたのか	Is that so? You brought Nanaki back here?		scene_20
 ウンウン、ありがとうよ	Yeah, thanks.		scene_20
 ここなら約束の地とか古代種とかくわしい人、いるかもね	Maybe there are some people here that know about the Promised Land and the Ancients.	約束地古代種人	scene_20
 RED XIII……どうしたのかな？子供みたいにはしゃいで	RED XIII… I wonder what's happened to RED XIII…? He's as excited as a little boy.	子供	scene_20
 どこかへ行くの？	Are you going somewhere?	行	scene_20
-星とともに生き星とともに死ぬ	Live with the Planet, die with the Planet.	星生星死	scene_20
+星とともに生き星とともに死ぬ	Live with the Planet, die with the Planet.	星生死	scene_20
 これはこれでいいのかもしれん。酒もたらふく飲めたしの……	Maybe this is the way it should be. Who knows? I'm full of booze…	酒飲	scene_20
-でも、子供たちのことを考えるとなあ。あの子らだけでもなんとかならんもんかのぅ	It's when I think about the children. I wonder if we can just save our own children.	子供考子	scene_20
+でも、子供たちのことを考えるとなあ。あの子らだけでもなんとかならんもんかのぅ	It's when I think about the children. I wonder if we can just save our own children.	子供考	scene_20
 約束の地はどこにあるのか……ブーゲンハーゲン様はごぞんじなのかもしれんなあ	Where is the Promised Land…? Maybe Bugenhagen knows.	約束地様	scene_20
 ナナキもなんとなくわかりはじめておるんとちがうかい？ブーゲンハーゲン様がナナキをこの谷から出した理由が……	Isn't Nanaki starting to notice? The reason why Bugenhagen sent him away from the canyon…	様谷出理由	scene_20
 ナンバー５	No. 5		scene_20
-カクテルもいいけどやっぱり地酒がいちばん！ぜひいちど居酒屋『かめ道楽』へ！！	Our cocktails are good but our wine is the best! Please stop in the Turtle's Paradise!!	地酒居酒屋道楽	scene_20
+カクテルもいいけどやっぱり地酒がいちばん！ぜひいちど居酒屋『かめ道楽』へ！！	Our cocktails are good but our wine is the best! Please stop in the Turtle's Paradise!!	地酒居屋道楽	scene_20
 ムニャムニャ……お客さん……おつり……おつりわすれてます……	…num…yawn…Sir… You…forgot…your… …change.	客	scene_20
 ンニャ……は～い……ただいま……	…num…Yes, I'm coming…		scene_20
 お買いもの……ですふぁ？	Are you here to shop?	買	scene_20
 ああ……そうですか……ならほっといて……ムニャ	Oh…is that so… then let me…yawn…sleep…		scene_20
-ああ……そうですか……お買い……もの……お買いもの！？	Oh…is that so…  You're here to shop?	買買	scene_20
+ああ……そうですか……お買い……もの……お買いもの！？	Oh…is that so…  You're here to shop?	買	scene_20
 し、しつれいしました！あんまりお客さんがこないもんで……あ、でもマテリアは自信ありますよ！	I'm sorry! We hardly ever get any customers. Oh, but I DO have confidence in our Materia!	客自信	scene_20
 し、しつれいしました！いや、すっかりナマケぐせがついてしまったみたいで……	I'm…I'm so sorry! It seems I've gotten used to being lazy…		scene_20
 あ～あ……あの星がぶつかったらぜんぶおしまいか……	Oh man… Everything will be over, once Meteor hits…	星	scene_20
@@ -249,7 +249,7 @@ RED XIII……どうしたのかな？子供みたいにはしゃいで	RED XIII
 やあ、どうも。何をお探しかな？	Hello. Looking for anything in particular?	何探	scene_20
 おや、どうも。もちろん、店は開いてますよ	Hi. Of course, our store's open.	店開	scene_20
 怖くはありません。私には『星命学』がありますから	No need to fear. I have the Study of Planet Life' right here.	怖私星命学	scene_20
-いや、本当は怖いのかもしれない。でも、少なくとも『星命学』の本をよんでいる間は、そのことを忘れられるんです……	No, maybe I AM a bit afraid. But, whenever I'm reading 'Study of Planet Life,' I can forget all my fears.	本当怖少星命学本間忘	scene_20
+いや、本当は怖いのかもしれない。でも、少なくとも『星命学』の本をよんでいる間は、そのことを忘れられるんです……	No, maybe I AM a bit afraid. But, whenever I'm reading 'Study of Planet Life,' I can forget all my fears.	本当怖少星命学間忘	scene_20
 『エリクサー』を手に入れた！	Received "Elixir"!	手入	scene_20
 『テレポストーン』を手にいれた！	Received "Telpostone"!	手	scene_20
 『マジックアップ』を手にいれた！	Received "Magic Source"!	手	scene_20
@@ -268,7 +268,7 @@ CLOUD、この人がブーゲンのじっちゃん	CLOUD, this is my grandfather
 ナナキはまだまだ子供だからのう	Nanaki is still a child you see.	子供	scene_20
 やめてくれよ、じっちゃん！オイラはもう４８歳だよ	Please stop, Grandfather. I'm 48.	歳	scene_20
 ホーホーホウ。ナナキの一族は長命じゃ	Ho Ho Hoooo. Nanaki's tribe has incredible longevity.	一族長命	scene_20
-４８歳といっても人間の年で考えればまだ１５、６歳くらいのものじゃ	So you see his 48 years would only be equivalent to say that of a 15 or 16 year old in human reckoning.	歳人間年考歳	scene_20
+４８歳といっても人間の年で考えればまだ１５、６歳くらいのものじゃ	So you see his 48 years would only be equivalent to say that of a 15 or 16 year old in human reckoning.	歳人間年考	scene_20
 １５、６歳！？	15 or 16!?	歳	scene_20
 無口で考え深い。あんたはナナキのことを立派な大人だと思っていたのかな？	He's quiet and very deep. You thought he was an adult?	無口考深立派大人思	scene_20
 ……じっちゃん。オイラはやく大人になりたいんだよ	…Grandfather. I want to be an adult.	大人	scene_20
@@ -276,13 +276,13 @@ CLOUD、この人がブーゲンのじっちゃん	CLOUD, this is my grandfather
 ホーホーホウ。いかんな、ナナキ。せのびしてはいかん	Ho Ho Hoooo. No Nanaki. You can't stand on your own yet.		scene_20
 せのびをするといつかは身をほろぼす	To do that now would destroy you in the long run.	身	scene_20
 天にとどけ、星をもつかめとばかりにつくられた魔晄都市。あれを見たのであろう？	Reaching up into the heavens, threatening to snatch the very stars from the great city of Midgar. You've seen it, haven't you?	天星魔晄都市見	scene_20
-あれが悪い見本じゃ。上ばかり見ていて自分の身のほどを忘れておる	Well, that's a bad example. Looking up too much makes you lose perspective.	悪見本上見自分身忘	scene_20
+あれが悪い見本じゃ。上ばかり見ていて自分の身のほどを忘れておる	Well, that's a bad example. Looking up too much makes you lose perspective.	悪見本上自分身忘	scene_20
 この星が死ぬときになってやっと気づくのじゃ。自分が何も知らないことにな	When it's time for the Planet to die, you'll understand that you know absolutely nothing.	星死気自分何知	scene_20
 ……星が死ぬ？	…When the Planet dies?	星死	scene_20
 ホーホーホウ。明日か１００年後か……それほど遠くはない	Ho Ho Hoooo. It may be tomorrow, or 100 years from now… But it's not long off.	明日年後遠	scene_20
 どうしてそんなことがわかるんだ？	How do you know this?		scene_20
 星の悲鳴が聞こえるのじゃ	I hear the cries of the Planet.	星悲鳴聞	scene_20
-天に輝く星の音。こうしているうちにも星は生まれ、死ぬ	The sounds of the stars in the heavens. While this goes on, planets are born, and die.	天輝星音星生死	scene_20
+天に輝く星の音。こうしているうちにも星は生まれ、死ぬ	The sounds of the stars in the heavens. While this goes on, planets are born, and die.	天輝星音生死	scene_20
 今のは？	What was that?	今	scene_20
 ホーホーホウ。この星のさけびじゃ	Ho Ho Hoooo. That was a scream from the Planet.	星	scene_20
 痛い、苦しい……そんなふうに聞こえるじゃろ？	Didn't you hear it? As if to say… I hurt, I suffer…	痛苦聞	scene_20
@@ -323,11 +323,11 @@ CLOUDたちは星の命を救うために旅をしているんだ	They have come
 ヒュ～！！	Whew!!		scene_20
 ホーホーホウ。そうじゃろ、すごいじゃろ	Ho Ho Hoooo. Yes, it is something, isn't it?		scene_20
 さて、そろそろ本題に入ろうかの	Well, let's get to the subject.	本題入	scene_20
-人間は……いつか死ぬ。死んだらどうなる？	Eventually…all humans die. What happens to them after they die?	人間死死	scene_20
+人間は……いつか死ぬ。死んだらどうなる？	Eventually…all humans die. What happens to them after they die?	人間死	scene_20
 身体は朽ち、星に帰る。これは広く知られているな。では、意識、心、精神はどうじゃ？	The body decomposes, and returns to the Planet. That much everyone knows. What about their consciousness, their hearts and their souls?	身体朽星帰広知意識心精神	scene_20
 じつは精神も同じく星に帰るのじゃな	The soul too returns to the Planet.	精神同星帰	scene_20
 人間だけではない。この星、いや宇宙に生きるものすべてひとしく	And not only those of humans, but everything on this Planet. In fact, all living things in the universe, are the same.	人間星宇宙生	scene_20
-星に帰った精神はまざりあい、星をかけめぐる	The spirits that return to the Planet, merge with one another and roam the Planet.	星帰精神星	scene_20
+星に帰った精神はまざりあい、星をかけめぐる	The spirits that return to the Planet, merge with one another and roam the Planet.	星帰精神	scene_20
 星をかけめぐり、まざり、分かれ『ライフストリーム』と呼ばれるうねりとなる	They roam, converge, and divide, becoming a swell, called the 'Lifestream'.	星分呼	scene_20
 ライフストリーム……すなわち星をめぐる精神的なエネルギーの道じゃな	Lifestream… In other words, a path of energy of the souls roaming the Planet.	星精神的道	scene_20
 『精神エネルギー』この言葉を忘れてはいかん	'Spirit Energy' is a word that you should never forget.	精神言葉忘	scene_20
@@ -338,7 +338,7 @@ CLOUDたちは星の命を救うために旅をしているんだ	They have come
 精神エネルギーのおかげで	Spirit energy is the source of life for	精神	scene_20
 木や鳥や人間は……	trees, birds, and humans.	木鳥人間	scene_20
 いやいや生き物だけではない。	And not only living things.	生物	scene_20
-星が星であるためには	It makes it possible	星星	scene_20
+星が星であるためには	It makes it possible	星	scene_20
 精神エネルギーが必要なんじゃ。	to form Planets.	精神必要	scene_20
 その精神エネルギーが	And if that Spirit Energy	精神	scene_20
 なくなったらどうなる？	were to disappear…		scene_20
@@ -349,9 +349,9 @@ CLOUDたちは星の命を救うために旅をしているんだ	They have come
 むりやり吸い上げられ加工された精神エネルギーは本来の役割を果たさん	When Spirit Energy is forcefully extracted, and manufactured, it can't accomplish its true purpose.	吸上加工精神本来役割果	scene_20
 魔晄エネルギーのことを言ってるのか？	You're talking about Mako energy, right?	魔晄言	scene_20
 魔晄炉に吸い上げられずんずん減っていく精神エネルギー	Everyday Mako reactors suck up Spirit Energy, diminishing it.	魔晄炉吸上減精神	scene_20
-魔晄炉によって過度に凝縮される精神エネルギー。魔晄エネルギーなどと名づけられ使いすてられているのは、すべて星の命じゃ	Spirit Energy is compressed in reactors and processed into Mako energy. All living things are being used up and thrown away.	魔晄炉過度凝縮精神魔晄名使星命	scene_20
+魔晄炉によって過度に凝縮される精神エネルギー。魔晄エネルギーなどと名づけられ使いすてられているのは、すべて星の命じゃ	Spirit Energy is compressed in reactors and processed into Mako energy. All living things are being used up and thrown away.	魔晄炉過度凝縮精神名使星命	scene_20
 すなわち魔晄エネルギーはこの星を滅ぼすのみ……じゃ	In other words, Mako energy will only destroy the Planet…	魔晄星滅	scene_20
-星の話……星とともに生きた者の話……	The story of the planets… and those who lived with them…	星話星生者話	scene_20
+星の話……星とともに生きた者の話……	The story of the planets… and those who lived with them…	星話生者	scene_20
 もっと知りたいかの？それなら長老たちの話を聞くとよかろう	If you want to know more, then you must listen to the words of the elders.	知長老話聞	scene_20
 ナナキが？父親をふぬけと？	Nanaki? His father a coward?	父親	scene_20
 そうか……ナナキがそんなことを……	So that's it…Nanaki's been thinking that all this time…		scene_20
@@ -362,7 +362,7 @@ CLOUDたちは星の命を救うために旅をしているんだ	They have come
 ホーホーホウ。それはわしにしかあつかえんキカイじゃよ	Ho Ho Hoooo. That's a machine only I can use.		scene_20
 ホーホーホウ	Ho Ho Hoooo.		scene_20
 ……と言ってられる場合じゃないんじゃの。まさに星の死が近づいておる	…no time for humming now. The Planet is nearing imminent death.	言場合星死近	scene_20
-しかし、これが星の望んだことかの？星はこんな終わりかたをねがったのかの？	But is this perhaps, what the Planet wanted? Did the Planet actually want to end like this?	星望星終	scene_20
+しかし、これが星の望んだことかの？星はこんな終わりかたをねがったのかの？	But is this perhaps, what the Planet wanted? Did the Planet actually want to end like this?	星望終	scene_20
 そんなはずはないじゃろう。だとすれば、まだあんたたちにもやれることはあるはずじゃ	I don't believe so. Were it not so, you people would still have much to do.		scene_20
 もちろんわしにもじゃ。わしの知識が必要になったらいつでもきてくれい	And myself, too. Come back whenever you are in need of my knowledge.	知識必要	scene_20
 ところでCLOUDは？いっしょじゃないのかの？	Where is CLOUD? Wasn't he with you?		scene_20
@@ -375,10 +375,10 @@ CLOUDたちは星の命を救うために旅をしているんだ	They have come
 そのオレに……これ以上旅をつづける資格はあるのか？	But is it right to go on?	以上旅資格	scene_20
 あいつらは……それを許してくれるのか？	Will they… …will they ever forgive me?	許	scene_20
 ……今はわからねえ。だがよ、オレはきめたんだ	…Right now, I really don't know. But I do know one thing.	今	scene_20
-オレが何かすることでこの星が……この星にすむ人間がすくわれるなら、オレはやるぜ	If there's anything I can do, to save the Planet…or the people livin' on it… Then I'm gonna do it!	何星星人間	scene_20
+オレが何かすることでこの星が……この星にすむ人間がすくわれるなら、オレはやるぜ	If there's anything I can do, to save the Planet…or the people livin' on it… Then I'm gonna do it!	何星人間	scene_20
 正義だとか復讐だとかそんなことは他のやつらが勝手に決めりゃいい	I don't care if it's for justice or revenge, or whatever. I don't care…	正義復讐他勝手決	scene_20
 うおおおお！オレはやるぜ！！	Urrrrrgh! I'm gonna do it!!		scene_20
-もう一度……もう一度アバランチの結成だ！	Again… Again…AVALANCHE's born again!	一度一度結成	scene_20
+もう一度……もう一度アバランチの結成だ！	Again… Again…AVALANCHE's born again!	一度結成	scene_20
 たき火って不思議ね	Bonfires are funny, aren't they?	火不思議	scene_20
 なんだかいろんなこと思い出しちゃうね	They make you remember all sorts of things.	思出	scene_20
 あのねえ、CLOUD。５年前……	You know, CLOUD. five years ago…	年前	scene_20
@@ -386,11 +386,11 @@ CLOUDたちは星の命を救うために旅をしているんだ	They have come
 やっぱりやめる。聞くのが……怖い	No, forget it. I'm afraid to ask…	聞怖	scene_20
 なんだよ	What is it?		scene_20
 CLOUD……どこかに行っちゃいそうで……	It feels like… it feels like you're going far away…	行	scene_20
-CLOUDは……本当に本当にCLOUD……だよね	You really, really are… you…right?	本当本当	scene_20
+CLOUDは……本当に本当にCLOUD……だよね	You really, really are… you…right?	本当	scene_20
 わたし、べんきょうしちゃった。長老さんに教えてもらったの。いろいろ	I learned a lot. The elders taught me many things.	長老教	scene_20
 セトラのこと……約束の地のこと……	About the Cetra… And the Promised Land…	約束地	scene_20
 わたし……ひとりだから……ひとりだけになっちゃったから……	I'm…alone… I'm all alone now…		scene_20
-俺が……俺たちがいるだろ？	But I'm…we're here for you, right?	俺俺	scene_20
+俺が……俺たちがいるだろ？	But I'm…we're here for you, right?	俺	scene_20
 わかってる。わかってるけど……セトラは……わたしだけなの	I know. I know, but… I am the only…Cetra.		scene_20
 俺たちじゃ、力になれないのか？	Does that mean we can't help?	俺力	scene_20
 予想どおり、たいくつなとこだね～。はやく、どっか行こ！そいで、マテリア探そ！	What a boring place, just like I thought. I wanna go somewhere! Let's go find some Materia!	予想行探	scene_20
@@ -403,7 +403,7 @@ CLOUDは……本当に本当にCLOUD……だよね	You really, really are… y
 それはいいんだ。でも、父親のことを思い出すとオイラの胸は怒りで……	And that's fine. …But when I think of my father, my heart is full of anger…	父親思出胸怒	scene_20
 ……やはり父親が許せないか	…You really can't forgive your father?	父親許	scene_20
 当たりまえだよ。あいつは……母さんを見殺しにしたんだ	Of course. He…left Mother for dead.	当母見殺	scene_20
-ギ族が攻めてきたときあいつは１人で逃げ出した。母さんと谷の人たちを放り出してさ！	When the Gi tribe attacked, he ran off by himself, leaving Mother and the people of the Canyon!	族攻人逃出母谷人放出	scene_20
+ギ族が攻めてきたときあいつは１人で逃げ出した。母さんと谷の人たちを放り出してさ！	When the Gi tribe attacked, he ran off by himself, leaving Mother and the people of the Canyon!	族攻人逃出母谷放	scene_20
 ……来るがよい、ナナキ。おまえにみせたいものがある	…Come, Nanaki. There's something you should see.	来	scene_20
 ちょっとばかり危険な場所だ	The place may be dangerous.	危険場所	scene_20
 CLOUDよ。おまえと、あと１人いっしょに来てくれんか	CLOUD. Will you and one other person come with us?	人来	scene_20
@@ -415,9 +415,9 @@ CLOUDよ。おまえと、あと１人いっしょに来てくれんか	CLOUD. W
 用意はいいかの？	Are we all set?	用意	scene_20
 なんじゃ、まだか。用意ができたら教えておくれ	Not ready yet? Tell me when you are ready.	用意教	scene_20
 ホーホーホウ。なら、行くとするかの	Ho Ho Hoooo. Shall we go?	行	scene_20
-これでよし。さあ、入った入った	All right. Come in, come in.	入入	scene_20
+これでよし。さあ、入った入った	All right. Come in, come in.	入	scene_20
 あれ？じっちゃんが案内してくれるんじゃないの？	Okay. You lead the way, Grandpa…	案内	scene_20
-な～に言うとるんじゃ。ちょっとばかり危険だと言うたじゃろ	What, are you crazy? It's dangerous in there. I told you that!	言危険言	scene_20
+な～に言うとるんじゃ。ちょっとばかり危険だと言うたじゃろ	What, are you crazy? It's dangerous in there. I told you that!	言危険	scene_20
 年寄りに先を行かせるのか？わしは後ろからついていくよ	You want an old man like me to go first? I'll be right behind you.	年寄先行後	scene_20
 封印の洞窟	Sealed Cave	封印洞窟	scene_20
 なんじゃ、もどるのか？わしはここで待ってるから用意ができたらすぐくるんじゃぞ	What is it? You're going back? I'll be waiting here for you when you're ready.	待用意	scene_20
@@ -442,7 +442,7 @@ CLOUDよ。おまえと、あと１人いっしょに来てくれんか	CLOUD. W
 さあ、先へ進もうかの	Let's move on.	先進	scene_20
 『ブラックメガホン』を手にいれた！	Received "Black M-phone"!	手	scene_20
 その戦士はこの洞窟を１人で走りぬけた	This warrior went through the cave all alone.	戦士洞窟人走	scene_20
-次から次へと襲いかかってくるギ族と戦いながら……	Fighting attackers one after another…	次次襲族戦	scene_20
+次から次へと襲いかかってくるギ族と戦いながら……	Fighting attackers one after another…	次襲族戦	scene_20
 じっちゃん……その戦士って……	Grandpa… That warrior…	戦士	scene_20
 ホーホーホウ……あと少し、じゃな	Ho Ho Hoooo… We're almost there.	少	scene_20
 『フェアリーリング』を手にいれた！	Received "Fairy Ring"!	手	scene_20
@@ -458,13 +458,13 @@ CLOUDよ。おまえと、あと１人いっしょに来てくれんか	CLOUD. W
 『じゅうりょく』のマテリアを手にいれた！	Received "Gravity" Materia!	手	scene_20
 セトの壁	Cet Wall	壁	scene_20
 ここは……	This is…		scene_20
-……その戦士はここでギ族と戦った	…The warrior who fought against the Gi.	戦士族戦	scene_20
+……その戦士はここでギ族と戦った	…The warrior who fought against the Gi.	戦士族	scene_20
 ギ族が一歩たりともコスモキャニオンに入りこめないようにな	He kept them from taking even one step into Cosmo Canyon.	族一歩入	scene_20
 そして自分は二度と村へもどることは	But he was never able to return to town…	自分二度村	scene_20
 見るがいいナナキ。おまえの父、戦士セトの姿を	Look, Nanaki. Look at your father, at the warrior, Seto.	見父戦士姿	scene_20
 ……あれが……あれが……セト……？	…That… That's…Seto?		scene_20
 セトはあそこでギ族と戦いつづけた。この谷を守りつづけた	Seto continued to fight the Gi tribe here. …To protect this Canyon.	族戦谷守	scene_20
-ギ族の毒矢で体を石にされても……ギ族がすべて逃げだしたあとも……戦士セトはここを守りつづけた	Even after the Gi's poisonous arrows turned his body to stone…… Even after they all ran away… Seto, continued to protect us.	族毒矢体石族逃戦士守	scene_20
+ギ族の毒矢で体を石にされても……ギ族がすべて逃げだしたあとも……戦士セトはここを守りつづけた	Even after the Gi's poisonous arrows turned his body to stone…… Even after they all ran away… Seto, continued to protect us.	族毒矢体石逃戦士守	scene_20
 いまもこうして守りつづけている	And he continues to protect us, even now.	守	scene_20
 いまも……	Even now…		scene_20
 たとえ、逃げだしたひきょうものと思われても、たった１人、命をかけてコスモキャニオンを守ったんじゃ	You thought that he was a coward and ran away. But he, alone risked his life to protect Cosmo Canyon.	逃思人命守	scene_20
@@ -479,10 +479,10 @@ CLOUDよ。おまえと、あと１人いっしょに来てくれんか	CLOUD. W
 聞くのじゃ、ナナキ	Listen, Nanaki.	聞	scene_20
 CLOUDたちは星を救うなどと言っておるな	CLOUD says they are trying to save the Planet.	星救言	scene_20
 正直なところ、そんなことができるとは、わしには思えん	Honestly, I don't think it can be done.	正直思	scene_20
-この星のすべての魔晄炉を止めても星の死は、ほんの少しのびるだけじゃ。	For even if they stop every reactor on the Planet, it's only going to postpone the inevitable.	星魔晄炉止星死少	scene_20
+この星のすべての魔晄炉を止めても星の死は、ほんの少しのびるだけじゃ。	For even if they stop every reactor on the Planet, it's only going to postpone the inevitable.	星魔晄炉止死少	scene_20
 セフィロスとやらを倒しても同じこと。かたちあるものは必ず滅す、じゃ	Even if they stop Sephiroth, everything will perish.	倒同必滅	scene_20
 だがな、ナナキ。わしは最近考えるんじゃ	But, Nanaki. I've been thinking lately.	最近考	scene_20
-こんなにも星が苦しんでいるのに星の一員、いや、星の一部であるわしらにできることは本当に何もないのか、とな	I've been thinking if there was anything WE could do, as a part of the Planet, something to help a Planet already in misery…	星苦星一員星一部本当何	scene_20
+こんなにも星が苦しんでいるのに星の一員、いや、星の一部であるわしらにできることは本当に何もないのか、とな	I've been thinking if there was anything WE could do, as a part of the Planet, something to help a Planet already in misery…	星苦一員部本当何	scene_20
 結果はどうなろうと何かやることが大切なのではないか？	No matter what happens, isn't it important to try?	結果何大切	scene_20
 わしは運命を受け入れすぎるのではないか？	Am I just wishing against fate?	運命受入	scene_20
 だが、何かをするにはわしは年をとりすぎた……	I am too old to do anything about it…	何年	scene_20

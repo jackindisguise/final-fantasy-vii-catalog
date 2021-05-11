@@ -42,7 +42,7 @@
 こう、建設的にですなチョコボを育てるのもお客様のためではないかと……	I thought that it would be a healthy thing for you to raise some Chocobos…	建設的育客様	scene_11
 テヘヘヘヘ……お客さんは運がよろしい！	Hmm…You just happen to be in luck!	客運	scene_11
 今はぐうぜんにも、うちの牧場には他のお客様からおあずかりしているチョコボもいませんし	It just so happens that we aren't taking care of any Chocobos for anyone else, so…	今牧場他客様	scene_11
-今なら、１匹　１００００ギルで６匹までおあずかりできますがどうでしょう？	I could take care of 6 Chocobos right now, for 10000 gil per Chocobo. How 'bout it?	今匹匹	scene_11
+今なら、１匹　１００００ギルで６匹までおあずかりできますがどうでしょう？	I could take care of 6 Chocobos right now, for 10000 gil per Chocobo. How 'bout it?	今匹	scene_11
 チョコボをあずかってくれ	Take care of my Chocobos		scene_11
 他の話が聞きたい	Tell me something else	他話聞	scene_11
 育成の話が聞きたい	How do you raise them?	育成話聞	scene_11
@@ -55,7 +55,7 @@
 育成の話が聞きてぇな	How do ya raise 'em?	育成話聞	scene_11
 なんでもねぇ	That's enough		scene_11
 チョコボをお育てになるには『チョコぼう』と呼ばれる部屋みたいなものが必要となりまして	To raise a Chocobo, you'll need a Chocobo Stable'.	育呼部屋必要	scene_11
-そちらを１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます	And they rent for 10000 gil. Currently, I can rent out up to 6 Chocobo Stables'.	貸客様貸	scene_11
+そちらを１つお貸しするのに１００００ギルいただいております。ただいま『チョコぼう』は６つまでお客様にお貸しできます	And they rent for 10000 gil. Currently, I can rent out up to 6 Chocobo Stables'.	貸客様	scene_11
 こちら、お借りいただきますとお客様が捕まえになられましたチョコボを一時的に外のサクの中に４匹までおあずかりいたしまして	If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.	借客様捕一時的外中匹	scene_11
 後日、お客様が『チョコぼう』に選んで、お入れになる形になります	At a later date, you can select the Chocobo that you would like to put in your Chocobo Stable'.	後日客様選入形	scene_11
 『チョコぼう』は、お１つ１００００ギルになりますが？	'Chocobo Stables' cost 10000 gil…		scene_11
@@ -63,7 +63,7 @@
 こちらも、６つ以上お貸しするよゆうがありませんので…	We don't have enough room to rent out more than 6 here…	以上貸	scene_11
 ありがとうございます	Thank you.		scene_11
 世話の方は、向かって一番右の建物チョコボ小屋におります孫がやっておりますのでそちらに、お申し付け下さい	My grandson takes care of the Chocobos. He's in the Chocobo Stable at the far right of the farm. Please tell him what you want.	世話方向一番右建物小屋孫申付下	scene_11
-人から聞いた話なんですがねこの世界のどこかにチョコボせんにんなんて呼ばれてる人が	Someone once told me there is a Chocobo Sage'…somewhere.	人聞話世界呼人	scene_11
+人から聞いた話なんですがねこの世界のどこかにチョコボせんにんなんて呼ばれてる人が	Someone once told me there is a Chocobo Sage'…somewhere.	人聞話世界呼	scene_11
 いるらしいんですわ。なんでも、その、せんにんはすんごいチョコボの育て方を知っているとかいないとか	He seems to know how to raise some great Chocobos.	育方知	scene_11
 まぁ、本当にいるのなら私も会ってみたいものですな	If he really does exist, I'd like to meet him someday.	本当私会	scene_11
 チョコボを育てるのに、お客様の手をわずらわす事はありません	Chocobos aren't hard to take care of.	育客様手事	scene_11
@@ -98,15 +98,15 @@
 チョコボよせ？	Chocobo Lure?		scene_11
 次の話を聞こう	Go on	次話聞	scene_11
 『チョコボよせ』はチョコボをおびきだすマテリアさ	'Chocobo Lure' is a type of Materia which attracts Chocobos.		scene_11
-これを装備しておくと野生のチョコボに会える。逆を言うとこれを装備してないとチョコボには会うことが出来ないわけさ	If you equip this, they'll come to you. But, without it, they won't appear.	装備野生会逆言装備会出来	scene_11
+これを装備しておくと野生のチョコボに会える。逆を言うとこれを装備してないとチョコボには会うことが出来ないわけさ	If you equip this, they'll come to you. But, without it, they won't appear.	装備野生会逆言出来	scene_11
 野生のチョコボは他のモンスターといっしょに出てくるんだ	A wild Chocobo always appears with other monsters.	野生他出	scene_11
 けど、そのままじゃ他のモンスターがジャマでチョコボを捕まえることが出来ない	But, you won't be able to catch it because of the monsters.	他捕出来	scene_11
 だから、まずチョコボのまわりにいるモンスターを倒す必要があるんだ	That is why you must defeat the monsters first before you catch the Chocobo.	倒必要	scene_11
 それから？	And then?		scene_11
 それに、野生のチョコボは用心深いちょっとしたことで、逃げてしまう	Wild Chocobos are really cautious. They'll run away from the smallest things.	野生用心深逃	scene_11
 けど、『野菜』を使うと食べるのに夢中になって逃げにくくなるのさ	But, if you use 'Greens' they'll focus on them and won't run away.	野菜使食夢中逃	scene_11
-チョコボは怒らせない方がいいよ普段はおとなしいんだけど怒らせると痛い目にあうのはこっちさ	Whatever you do, don't make Chocobos angry. They're usually calm, but if you get them angry, you'll get hurt.	怒方普段怒痛目	scene_11
-あっ、それと捕まえたチョコボは一度チョコボからおりたら一目散に逃げてしまうよ	Oh, and remember, once you get off a Chocobo, it'll escape.	捕一度一目散逃	scene_11
+チョコボは怒らせない方がいいよ普段はおとなしいんだけど怒らせると痛い目にあうのはこっちさ	Whatever you do, don't make Chocobos angry. They're usually calm, but if you get them angry, you'll get hurt.	怒方普段痛目	scene_11
+あっ、それと捕まえたチョコボは一度チョコボからおりたら一目散に逃げてしまうよ	Oh, and remember, once you get off a Chocobo, it'll escape.	捕一度目散逃	scene_11
 じゃあ、そろそろ商談に入ろうかな	Well then, shall we get down to business?	商談入	scene_11
 今なら『チョコボよせ』を２０００ギルで売ってあげるよ	I'll sell you the 'Chocobo Lure' for 2000 gil, right now.	今売	scene_11
 買うかい？	You want it?	買	scene_11
@@ -128,7 +128,7 @@
 チョコボに乗って出かける	Riding Chocobos	乗出	scene_11
 なにもしない	Do nothing		scene_11
 ダメだよ一度に何匹も外にだしちゃ	You can't take that many out at once.	一度何匹外	scene_11
-他のチョコボで外に出たいなら今、外に出してるチョコボを戻してからにしてよ	You must return the Chocobo that's out, if you want to take out a different one.	他外出今外出戻	scene_11
+他のチョコボで外に出たいなら今、外に出してるチョコボを戻してからにしてよ	You must return the Chocobo that's out, if you want to take out a different one.	他外出今戻	scene_11
 どれに乗って出かけるんだい？	Which one are you going to take?	乗出	scene_11
 これに乗って出かける？	Ride this one?	乗出	scene_11
 ダメ	Whoa!		scene_11
@@ -165,15 +165,15 @@
 それに、ここから外にもちだした、チョコボはおりても逃げださなくなるよ	And even if you take it outside, this Chocobo won't run away when you get off of it.	外逃	scene_11
 それから『チョコぼう』にもどしたければ、チョコボに乗ったまま牧場に入って来てよ	If you want to return it to your 'Chocobo Stable', just ride it onto the farm.	乗牧場入来	scene_11
 そうすれば、また、エサをあげたり出来るようになるよ	Then, you'll be able to feed it again.	出来	scene_11
-チョコボのエサは『野菜』なんだ『ギザールの野菜』が一番有名だよね	What the Chocobo eats are 'Greens'. The most famous one is the 'Gizzard Greens'.	野菜野菜一番有名	scene_11
-それとね、チョコボは食べる『野菜』によって、育ち方が違ったりするんだよ。ある『野菜』を食べさせてるとスタミナモリモリになったりとかね	Chocobos will mature differently depending on which 'Greens' they eat. Certain 'Greens' will boost their stamina.	食野菜育方違野菜食	scene_11
+チョコボのエサは『野菜』なんだ『ギザールの野菜』が一番有名だよね	What the Chocobo eats are 'Greens'. The most famous one is the 'Gizzard Greens'.	野菜一番有名	scene_11
+それとね、チョコボは食べる『野菜』によって、育ち方が違ったりするんだよ。ある『野菜』を食べさせてるとスタミナモリモリになったりとかね	Chocobos will mature differently depending on which 'Greens' they eat. Certain 'Greens' will boost their stamina.	食野菜育方違	scene_11
 そこらへんの、効果は自分で覚えていくのがいいね	You'll have to figure out which kinds have what effects for yourselves.	効果自分覚	scene_11
-それと、チョコボにはもって生まれた能力があってね自分の持っている能力以上は育たないんだ	Oh, and Chocobos are born with certain natural abilities. So, no matter how much they mature, they can't get more abilities than what they're born with.	生能力自分持能力以上育	scene_11
+それと、チョコボにはもって生まれた能力があってね自分の持っている能力以上は育たないんだ	Oh, and Chocobos are born with certain natural abilities. So, no matter how much they mature, they can't get more abilities than what they're born with.	生能力自分持以上育	scene_11
 エサをあげても、能力が上がらなくなったらそのチョコボの限界がきてると思っていいよ	If a Chocobo's abilities don't increase even when you feed it, that means it's reached its limit.	能力上限界思	scene_11
 そういうチョコボはもう、逃がしちゃうかカップリングさせて、次の子供を育てるといいんじゃないかな	It's best to let those kinds of Chocobo go or mate them to get a new Chocobo.	逃次子供育	scene_11
 カップリングっていうのはオスのチョコボとメスのチョコボを	A male and a female Chocobo together can produce an egg.		scene_11
 外のチョコボは、お客さんが捕まえたチョコボのストックさ	The Chocobo out there is part of the stock that you caught.	外客捕	scene_11
-けど、４匹までしか置いておけないから５匹目を送ってくると、最初の１匹を逃がしちゃうからね	We can only keep 4 Chocobos here at once. If you get a fifth one, the first one will have to be let go.	匹置匹目送最初匹逃	scene_11
+けど、４匹までしか置いておけないから５匹目を送ってくると、最初の１匹を逃がしちゃうからね	We can only keep 4 Chocobos here at once. If you get a fifth one, the first one will have to be let go.	匹置目送最初逃	scene_11
 それがイヤだったら途中でもどってきて『チョコぼう』にいれるなりした方がいいね	If you don't want that to happen, come back and put it in your own stable.	途中方	scene_11
 クラスはチョコボの強さをあらわすものさ	Chocobos' strengths are divided by 'Class'.	強	scene_11
 どのチョコボを逃がすんだい？	Which Chocobo are you going to let go?	逃	scene_11
@@ -193,7 +193,7 @@
 レイゲンの野菜	Reagan Greens =	野菜	scene_11
 シルキスの野菜	Sylkis Greens =	野菜	scene_11
 やっぱりあげない	Don't feed it		scene_11
-『実』を１つも持ってないみたいだけど…タマゴを生ませるには『実』も必要なんだなんなら売ってあげるよ？	Looks like you don't have any 'Nuts'… To get them to produce an egg, you need a 'Nut'. Do you want to buy some?	実持生実必要売	scene_11
+『実』を１つも持ってないみたいだけど…タマゴを生ませるには『実』も必要なんだなんなら売ってあげるよ？	Looks like you don't have any 'Nuts'… To get them to produce an egg, you need a 'Nut'. Do you want to buy some?	実持生必要売	scene_11
 子供をいれる『チョコぼう』を用意しておいてもらわないとダメだよ	You better have a 'Chocobo Stable' prepared for the little ones, too.	子供用意	scene_11
 もってないのは、あげれないよ	I can't give you anything I don't have.		scene_11
 どの実をあげるんだい？	Which 'Nut' are you going to give 'em?	実	scene_11
@@ -248,20 +248,20 @@
 クリンのメモ１	Chole's Memo #1		scene_11
 チョコボには普通のチョコボ以外に『山チョコボ』と『川チョコボ』がいるんだって。	Other than regular Chocobo, there are Mountain Chocobo' and 'River-Chocobo'.	普通以外山川	scene_11
 クリンのメモ２	Chole's Memo #2		scene_11
-『山チョコボ』や『川チョコボ』が生まれる条件は『すごくいいチョコボ』か『いい感じのチョコボ』に『カラブの実』っていうのを使ってタマゴを生ませるんだって。けど、うちじゃあ『カラブの実』売ってないよ。	In order for the 'Mountain Chocobo' and River Chocobo' to be born, Feed the 'Carob Nut' to a 'Great Chocobo' or a 'Good Chocobo' and have it produce an egg. But we don't sell any Carob Nuts'.	山川生条件感実使生実売	scene_11
+『山チョコボ』や『川チョコボ』が生まれる条件は『すごくいいチョコボ』か『いい感じのチョコボ』に『カラブの実』っていうのを使ってタマゴを生ませるんだって。けど、うちじゃあ『カラブの実』売ってないよ。	In order for the 'Mountain Chocobo' and River Chocobo' to be born, Feed the 'Carob Nut' to a 'Great Chocobo' or a 'Good Chocobo' and have it produce an egg. But we don't sell any Carob Nuts'.	山川生条件感実使売	scene_11
 クリンのメモ３	Chole's Memo #3		scene_11
-『すごくいいチョコボ』と『いい感じのチョコボ』はチョコボせんにんがいる所から南東の島とコレル。それとコレルの西の方でとれるんだって。それから『カラブの実』はチョコボせんにんのいる所から南にいるモンスターがよく持ってるんだってさ。あそこから南って言うとボーンビレッジあたりかしら？	A 'Great Chocobo' and a 'Good Chocobo' are found… on an island southeast of the Chocobo Sage's dwelling at Corel and in the area west of Corel. The 'Carob Nut' can be found south of the Chocobo Sage's dwelling. Monsters carry them. Let's see, is Bone Village just south of there?	感所南東島西方実所南持南言	scene_11
+『すごくいいチョコボ』と『いい感じのチョコボ』はチョコボせんにんがいる所から南東の島とコレル。それとコレルの西の方でとれるんだって。それから『カラブの実』はチョコボせんにんのいる所から南にいるモンスターがよく持ってるんだってさ。あそこから南って言うとボーンビレッジあたりかしら？	A 'Great Chocobo' and a 'Good Chocobo' are found… on an island southeast of the Chocobo Sage's dwelling at Corel and in the area west of Corel. The 'Carob Nut' can be found south of the Chocobo Sage's dwelling. Monsters carry them. Let's see, is Bone Village just south of there?	感所南東島西方実持言	scene_11
 クリンのメモ４	Chole's Memo #4		scene_11
-ちょっとビックリ『山チョコボ』と『川チョコボ』にタマゴを生ませると山も川も越えられるチョコボが出来るんだって。きっと、実は『カラブの実』がいいと思うな。	One surprise: If you get the "Mountain Chocobo" and the "River Chocobo" to produce an egg, You'll get a Chocobo that can cross mountains and rivers. I bet that the right nut for that is the "Carob Nut."	山川生山川越出来実実思	scene_11
+ちょっとビックリ『山チョコボ』と『川チョコボ』にタマゴを生ませると山も川も越えられるチョコボが出来るんだって。きっと、実は『カラブの実』がいいと思うな。	One surprise: If you get the "Mountain Chocobo" and the "River Chocobo" to produce an egg, You'll get a Chocobo that can cross mountains and rivers. I bet that the right nut for that is the "Carob Nut."	山川生越出来実思	scene_11
 クリンのメモ５	Chole's Memo #5		scene_11
-さらにビックリ海を渡れるチョコボもいるらしいの。海も山も川も渡れちゃったら行けない所なんてなくなっちゃうね。	Bigger surprise: There seems to be a Chocobo that can cross the ocean. If you could cross the ocean, mountains, and rivers, there'd be no place you couldn't go.	海渡海山川渡行所	scene_11
+さらにビックリ海を渡れるチョコボもいるらしいの。海も山も川も渡れちゃったら行けない所なんてなくなっちゃうね。	Bigger surprise: There seems to be a Chocobo that can cross the ocean. If you could cross the ocean, mountains, and rivers, there'd be no place you couldn't go.	海渡山川行所	scene_11
 クリンのメモ６	Chole's Memo #6		scene_11
-海を渡れるチョコボを生ませるには山と川を渡れるチョコボと何かをカップリングさせればいいらしいの。	In order to get an Ocean Chocobo you need to get a Mountain-and-River Chocobo to mate with something else.	海渡生山川渡何	scene_11
+海を渡れるチョコボを生ませるには山と川を渡れるチョコボと何かをカップリングさせればいいらしいの。	In order to get an Ocean Chocobo you need to get a Mountain-and-River Chocobo to mate with something else.	海渡生山川何	scene_11
 クリンのメモ７	Chole's Memo #7		scene_11
-山と川を渡れるチョコボとせんにんのいる所から南で取れる『すごいチョコボ』をカップリングさせると海を渡れるチョコボが生まれるんだって。けど、実は普通の実じゃダメみたい。	If you mate the Mountain-and-River Chocobo with a 'Wonderful Chocobo', you'll get an Ocean Chocobo.   But to do that you can't use an ordinary Nut.	山川渡所南取海渡生実普通実	scene_11
+山と川を渡れるチョコボとせんにんのいる所から南で取れる『すごいチョコボ』をカップリングさせると海を渡れるチョコボが生まれるんだって。けど、実は普通の実じゃダメみたい。	If you mate the Mountain-and-River Chocobo with a 'Wonderful Chocobo', you'll get an Ocean Chocobo.   But to do that you can't use an ordinary Nut.	山川渡所南取海生実普通	scene_11
 クリンのメモ８	Chole's Memo #8		scene_11
-『海チョコボ』を生ませる実は『ゼイオの実』っていうらしいの。これも、初めて聞く名前ね。どこで手に入るのかしら？	The 'Nut' that produces Ocean Chocobos is the 'Zeio Nut'. This is the first I've ever heard of it. I wonder where you get them?	海生実実初聞名前手入	scene_11
+『海チョコボ』を生ませる実は『ゼイオの実』っていうらしいの。これも、初めて聞く名前ね。どこで手に入るのかしら？	The 'Nut' that produces Ocean Chocobos is the 'Zeio Nut'. This is the first I've ever heard of it. I wonder where you get them?	海生実初聞名前手入	scene_11
 クリンのメモ９	Chole's Memo #9		scene_11
-『ゼイオの実』はチョコボせんにんがいる所から東の小さな小島にいる『ゴブリン』がもってるんだってこれで『海チョコボ』も生ませられるね。	Zeio Nuts are found on a little island east of the Chocobo Sage. Goblins' have them. With this, you can produce an 'Ocean Chocobo'.	実所東小小島海生	scene_11
+『ゼイオの実』はチョコボせんにんがいる所から東の小さな小島にいる『ゴブリン』がもってるんだってこれで『海チョコボ』も生ませられるね。	Zeio Nuts are found on a little island east of the Chocobo Sage. Goblins' have them. With this, you can produce an 'Ocean Chocobo'.	実所東小島海生	scene_11
 クリンのメモ１０	Chole's Memo #10		scene_11
-クリンの研究によると山、川、海チョコボはメモの条件だけだとチョット、生まれにくいみたい。けど、うまく育ててレースにだしてクラスをあげてやるととっても生まれやすくなるみたいね.	According to my research, Mountain, River, and Ocean Chocobos are hard to produce. But, if you take the right care of the Chocobo and increase their Class ranking by winning at the races, it'll increase your chances of getting one.	研究山川海条件生育生	scene_11
+クリンの研究によると山、川、海チョコボはメモの条件だけだとチョット、生まれにくいみたい。けど、うまく育ててレースにだしてクラスをあげてやるととっても生まれやすくなるみたいね.	According to my research, Mountain, River, and Ocean Chocobos are hard to produce. But, if you take the right care of the Chocobo and increase their Class ranking by winning at the races, it'll increase your chances of getting one.	研究山川海条件生育	scene_11

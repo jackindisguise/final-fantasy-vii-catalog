@@ -12,9 +12,9 @@
 CLOUDか、おれは……	CLOUD, eh? I'm…		scene_01
 あんたたちの名前なんて興味ないね。どうせこの仕事が終わったらお別れだ	I don't care what your names are. Once this job's over…I'm outta here.	名前興味仕事終別	scene_01
 なにやってんだオマエたち！かたまって行動するなって言ってんだろ！	The hell you all doin'!? I thought I told you never to move in a group!	行動言	scene_01
-ターゲットは壱番魔晄炉（まこうろ）。魔晄炉前のブリッジに集合だぞ	Our target's the North Mako Reactor. We'll meet on the bridge in front of it.	壱番魔晄炉魔晄炉前集合	scene_01
+ターゲットは壱番魔晄炉（まこうろ）。魔晄炉前のブリッジに集合だぞ	Our target's the North Mako Reactor. We'll meet on the bridge in front of it.	壱番魔晄炉前集合	scene_01
 元ソルジャー……。チッ、信用できねえな	Ex-SOLDIER, huh? I don't trust ya!	元信用	scene_01
-【キャンセル】ボタン（初期状態では×）を押しながら方向ボタンを押せば速く走ることができる。遅れずについてこい！	Press the Directional buttons while pushing [CANCEL] to run.	初期状態押方向押速走遅	scene_01
+【キャンセル】ボタン（初期状態では×）を押しながら方向ボタンを押せば速く走ることができる。遅れずについてこい！	Press the Directional buttons while pushing [CANCEL] to run.	初期状態押方向速走遅	scene_01
 ウェッジ	Wedge		scene_01
 俺は脱出口を確保しておくっす！	I'll secure our escape passage. You concentrate on the mission, CLOUD.	俺脱出口確保	scene_01
 しっかし、この大きな魔晄炉（まこうろ）を爆破するなんて……みものっすね！	Geez, we're really gonna blow this huge furnace up? This'll be somethin' to see!	大魔晄炉爆破	scene_01
@@ -26,13 +26,13 @@ CLOUDか、おれは……	CLOUD, eh? I'm…		scene_01
 BARRETをよろしくな！	Bring BARRET back alive!		scene_01
 ……おい。おまえ魔晄炉（まこうろ）は初めてじゃないんだろ？	Yo! This your first time in a reactor?	魔晄炉初	scene_01
 まあな。ソルジャー……神羅（しんら）カンパニーの人間だったからな	No. After all, I did work for Shinra, y'know.	神羅人間	scene_01
-この星は魔晄（まこう）エネルギーに満ちている。住民はその魔晄エネルギーを使って日々生活している	The Planet's full of Mako energy. People here use it everyday.	星魔晄満住民魔晄使日生活	scene_01
-でも誰も魔晄の本質を知らねえんだ。おまえ、知ってるか？	[EMPTY LINE]	誰魔晄本質知知	scene_01
+この星は魔晄（まこう）エネルギーに満ちている。住民はその魔晄エネルギーを使って日々生活している	The Planet's full of Mako energy. People here use it everyday.	星魔晄満住民使日生活	scene_01
+でも誰も魔晄の本質を知らねえんだ。おまえ、知ってるか？	[EMPTY LINE]	誰魔晄本質知	scene_01
 魔晄はこの星を流れる血だ。それを神羅（しんら）って会社はガンガン吸い出していやがる。このへんちくりんなスクラップでな……	It's the life blood of this Planet. But Shinra keeps suckin' the blood out with these weird machines.	魔晄星流血神羅会社吸出	scene_01
 能書きはいい。先を急ごう	I'm not here for a lecture. Let's just do it.	能書先急	scene_01
 クッ……	@#&^%$!		scene_01
 よし、ここからはオレといっしょに行動してもらうぜ	From now on you come with me.	行動	scene_01
-魔晄炉（まこうろ）のせいで、この星の命は毎日けずられていく。そしていつの日か……ゼロだ	Little by little the reactors'll drain out all the life. Then that'll be that.	魔晄炉星命毎日日	scene_01
+魔晄炉（まこうろ）のせいで、この星の命は毎日けずられていく。そしていつの日か……ゼロだ	Little by little the reactors'll drain out all the life. Then that'll be that.	魔晄炉星命毎日	scene_01
 星が死んじまうんだぞ。えっ、CLOUDさんよ！	The planet's dyin', CLOUD!	星死	scene_01
 悪いけど興味がないな	It's not my problem.	悪興味	scene_01
 俺が考えてるのは、さっさと仕事を終わらせたいってことだけだ。警備兵やガードロボットが来ないうちにな	The only thing I care about is finishin' this job before security and the Roboguards come.	俺考仕事終警備兵来	scene_01

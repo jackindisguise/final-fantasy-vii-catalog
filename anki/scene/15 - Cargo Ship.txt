@@ -10,9 +10,9 @@
 さあ、そのへんにかくれてんじゃないの？	I dunno. Aren't they hiding somewhere around here?		scene_15
 そんなのアタシが知ってるわけ……ウ……プ……	How should I know…?  Ugh…urk…	知	scene_15
 ……機関室に……不審……人物……	…the Engine Room… …a suspicious…character…	機関室不審人物	scene_15
-いや……ちが……う……あれ……人間じゃ……人間なんかじゃ……な……	No…there's no way… that…not a human… That thing's not human.	人間人間	scene_15
+いや……ちが……う……あれ……人間じゃ……人間なんかじゃ……な……	No…there's no way… that…not a human… That thing's not human.	人間	scene_15
 コラ、きさまもキリキリはたらかんか！	Hey, get to work!		scene_15
-いま、この船にはルーファウス新社長と本社のハイデッガー統括が乗船されている！	Both the new President Rufus and Heidegger are aboard this ship!	船新社長本社統括乗船	scene_15
+いま、この船にはルーファウス新社長と本社のハイデッガー統括が乗船されている！	Both the new President Rufus and Heidegger are aboard this ship!	船新社長本統括乗	scene_15
 うまくすれば昇進のチャンスだぞ！	If we do good, we could get promoted!	昇進	scene_15
 フフフ……わたし。AERISよ	Umm…It's me AERIS.		scene_15
 ね、CLOUD。ジュノンで飛空艇、見た？	Hey, CLOUD. Did you see the Airship at Junon?	飛空艇見	scene_15
@@ -26,7 +26,7 @@
 一回でいいからのってみたいなぁ、飛空艇	Just once, I'd like to ride that Airship.	一回飛空艇	scene_15
 ……期待しててくれ	…Keep hoping.	期待	scene_15
 うわ～！楽しみにしてるからね！	Wow! I'm really looking forward to it!	楽	scene_15
-一練にのろうね、飛空艇。約束、約束！	Let's ride the Airship together, OK? Promise, promise me!	一練飛空艇約束約束	scene_15
+一練にのろうね、飛空艇。約束、約束！	Let's ride the Airship together, OK? Promise, promise me!	一練飛空艇約束	scene_15
 ね、CLOUD。BARRET見なかった？	Hey, CLOUD. Did you see BARRET?	見	scene_15
 ムチャなこと、ひとりでしてなきゃいいけど……	I hope he's not doing anything stupid…		scene_15
 オレを止めてもムダだぜ！	It won't do any good trying to stop me!	止	scene_15
@@ -34,7 +34,7 @@
 フン……なにが昇進のチャンスだよ	Geez… What chance for a promotion.	昇進	scene_15
 どうせトクするのはあそこのチーフだけ	The only one who's gonna benefit from this is the Chief, anyway.		scene_15
 オレたちみたいなヒラには関係ない話さ	It has nothing to do with us workers.	関係話	scene_15
-これだけ働いてるのにまだ働けってのか？	I'm workin' hard already, and you still want me to do more?	働働	scene_15
+これだけ働いてるのにまだ働けってのか？	I'm workin' hard already, and you still want me to do more?	働	scene_15
 新社長だってどうせ同じだろ。上からアレコレ命令するだけさ	The new President's probably the same. He's just gonna order us around anyway.	新社長同上命令	scene_15
 マテリア『ぜんたいか』をもとにもどした……	Put back the "All" Materia…		scene_15
 見ろよ、CLOUD。ルーファウスとハイデッカーだぜ	Look, CLOUD. It's Rufus and Heidegger.	見	scene_15
@@ -45,15 +45,15 @@
 ウヌヌ……グヌヌヌ……！グヌヌヌヌ……！！	Ggggggggh… Ggggh… Ggggggghhh!!		scene_15
 ガ～ッ！！ガマンできねえぜ！	God!! I can't take it anymore!		scene_15
 いっそのこと、ここで一気にカタをつけ……	I'm gonna settle things here and now!	一気	scene_15
-緊急連絡！不審人物を発見の報告アリ！作業のない各員は監内を調査。発見しだい通報のこと！	Emergency alert! Reports of a stowaway found! Those not on detail, search the ship. Report when found!	緊急連絡不審人物発見報告作業各員監内調査発見通報	scene_15
-くりかえす。不審人物を発見の報告アリ！作業のない各員は監内を調査。発見しだい通報のこと！	I repeat… Stowaway sighted on board! Those not on detail, search the ship. Report when found!	不審人物発見報告作業各員監内調査発見通報	scene_15
+緊急連絡！不審人物を発見の報告アリ！作業のない各員は監内を調査。発見しだい通報のこと！	Emergency alert! Reports of a stowaway found! Those not on detail, search the ship. Report when found!	緊急連絡不審人物発見報告作業各員監内調査通	scene_15
+くりかえす。不審人物を発見の報告アリ！作業のない各員は監内を調査。発見しだい通報のこと！	I repeat… Stowaway sighted on board! Those not on detail, search the ship. Report when found!	不審人物発見報告作業各員監内調査通	scene_15
 しまった、見つかったか！？	Damn, did they find us!?	見	scene_15
 いや、オレたちじゃねえようだ。となると……TIFAたちか！？	Hmm, I don't think it's us. Did they find TIFA and the others!?		scene_15
 こうしちゃいられねえ。行こうぜ、CLOUD！	Get off your spikey butt and let's go, CLOUD!	行	scene_15
 ハッ！イジョウなしであります。ソルジャーどの！	Yes sir! Everything quiet, sir!		scene_15
 ……でも、ホントはね。こんな軍服キライ	…But, you know what? I really hate this uniform.	軍服	scene_15
 軍服も、兵隊も、戦争もみんなみんなキライ	Uniforms, soldiers, war, I hate 'em all.	軍服兵隊戦争	scene_15
-大切なものを、大切な人をみんなからうばってしまうから……	They take away all the things and people you love…	大切大切人	scene_15
+大切なものを、大切な人をみんなからうばってしまうから……	They take away all the things and people you love…	大切人	scene_15
 はやく、なくなるといいね。ね、CLOUD？	I wish they'd all disappear. Right, CLOUD?		scene_15
 どうかな	I don't know		scene_15
 うん、そうだよね！	You're right!		scene_15
@@ -98,7 +98,7 @@
 本当なの！？	Really!?	本当	scene_15
 オレだってわからねえよ！	How the hell am I supposed to know!?		scene_15
 ……確かめよう	…Let's find out.	確	scene_15
-それがもっとも論理的な行動だな。さて、誰が行く？	It's the most logical thing to do.  Then, who's going to go?	論理的行動誰行	scene_15
+それがもっとも論理的な行動だな。さて、誰が行く？	It's the most logical thing to do.  Then, who's going to go?	論理的行動誰	scene_15
 ア、アタシはいいよ、べつに	N, not me…		scene_15
 セフィロスとかって興味ないし。それに……ウ……ウプ……	I don't even like Sephiroth anyway. And besid…ugh…urk…	興味	scene_15
 …………セフィロスが……	… Sephiroth…		scene_15
@@ -123,10 +123,10 @@ CLOUD、あれ！！	CLOUD, look!!		scene_15
 あ……あれ、あそこ！！	Ov…over there!!		scene_15
 セフィロス！生きていたんだな！	Sephiroth! You're alive!	生	scene_15
 …………だれだ	…Who are you?		scene_15
-俺を忘れたっていうのか！俺はCLOUDだ！	You don't remember me!? I'm CLOUD!	俺忘俺	scene_15
-セフィロス！　何を考えている！何をするつもりだ！	Sephiroth! What are you thinking!? What are you doing!?	何考何	scene_15
+俺を忘れたっていうのか！俺はCLOUDだ！	You don't remember me!? I'm CLOUD!	俺忘	scene_15
+セフィロス！　何を考えている！何をするつもりだ！	Sephiroth! What are you thinking!? What are you doing!?	何考	scene_15
 ……時は……満ちた……	…The time…is now…	時満	scene_15
-何！？　何を言ってるんだ！？もっと……	What!? What are you saying!? Be more…	何何言	scene_15
+何！？　何を言ってるんだ！？もっと……	What!? What are you saying!? Be more…	何言	scene_15
 これ……どこかで見たわね	I've seen this somewhere…before.	見	scene_15
 これ、見たことあるね……	I've seen this before…	見	scene_15
 こいつは……アレじゃねえのか？	Isn't he…that guy?		scene_15
@@ -145,7 +145,7 @@ CLOUD、あれ！！	CLOUD, look!!		scene_15
 時は満ちた……どういう意味だ？	The time is now? What does that mean?	時満意味	scene_15
 なんかブツブツ言ってたよ。時は満ちた、だってさ！	He was mumbling something about time!	言時満	scene_15
 ……時は……満ちた？	…Time…is now?	時満	scene_15
-接岸作業員コスタ・デル・ソル入港５分前接岸準備を開始せよ	Dock workers--We will be docking in Costa del Sol in 5 minutes. Prepare for docking.	接岸作業員入港分前接岸準備開始	scene_15
+接岸作業員コスタ・デル・ソル入港５分前接岸準備を開始せよ	Dock workers--We will be docking in Costa del Sol in 5 minutes. Prepare for docking.	接岸作業員入港分前準備開始	scene_15
 ワケがわかんねえぜ！	I don't know WHAT the hell's goin' on!		scene_15
 CLOUD、ちょっとここまでを整理してくれねえか？	CLOUD, why don't you explain to me what's happened so far?	整理	scene_15
 めんどくさい	No way		scene_15

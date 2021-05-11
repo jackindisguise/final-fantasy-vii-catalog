@@ -9,7 +9,7 @@
 どないなっとるんや？	What's going on?		scene_40
 私たちは相手にしていないようだ。何か別の……	Doesn't look like it's after us. Something else…	私相手何別	scene_40
 は？　そっぽむいちゃってるよ。やる気ないのかな？	Huh? It's looking somewhere else. Doesn't it want to fight us?	気	scene_40
-いや、何かを……感じてるんだ。……そう、殺気を感じている	No, it's…feeling something. …Yeah, it senses murder.	何感殺気感	scene_40
+いや、何かを……感じてるんだ。……そう、殺気を感じている	No, it's…feeling something. …Yeah, it senses murder.	何感殺気	scene_40
 飛空艇に行きましょう！	Let's go to the Airship!	飛空艇行	scene_40
 オレ様の船へ！	To my ship!	様船	scene_40
 ハイウインドにもどろうぜ！	Let's go back to the Highwind!		scene_40
@@ -67,7 +67,7 @@ CLOUD、みんな！すまん……	CLOUD, everybody! Sorry…		scene_40
 もうすぐたっぷりと魔晄を送ってやるからな	I'll give you all the Mako you want.	魔晄送	scene_40
 やめろ　宝条！キャノン、いや、それどころかミッドガル自体があぶないんだ！	Hojo, STOP! The cannon, no, Midgar itself is in danger!	宝条自体	scene_40
 クックックッ……ミッドガルのひとつやふたつ安いものだ	Ha, ha, ha… One or two Midgars? …It's a small price to pay.	安	scene_40
-宝条！　宝条……！！	Hojo!  HOJO!!	宝条宝条	scene_40
+宝条！　宝条……！！	Hojo!  HOJO!!	宝条	scene_40
 セフィロス……見せてくれ	Show me…Sephiroth.	見	scene_40
 さあ……もうすぐだ	It should be near…		scene_40
 クックックッ……科学を超えて行け……	Ha, ha, ha… Go beyond the powers of science…	科学超行	scene_40
@@ -118,7 +118,7 @@ CLOUD、着いたといってもミッドガルは、げん戒体勢だ！スラ
 ミッドガルに到着しました！	We've reached Midgar!	到着	scene_40
 飛空てい内部	Inside airship	飛空内部	scene_40
 行くぞ！！	Here we go!!	行	scene_40
-降下後のメンバーを決めて下さい。メンバーチェンジしますか？	Choose from the members below. Change your party's members?	降下後決下	scene_40
+降下後のメンバーを決めて下さい。メンバーチェンジしますか？	Choose from the members below. Change your party's members?	降下後決	scene_40
 決定しますか？	Leave it as is?	決定	scene_40
 チェンジする	Change		scene_40
 ここが入口ですわ	This is where we go in.	入口	scene_40
@@ -138,7 +138,7 @@ CLOUD、着いたといってもミッドガルは、げん戒体勢だ！スラ
 ザコはいいからっ！狙いは宝条だけ！	Forget about these lackeys! Focus on Hojo!	狙宝条	scene_40
 どっちだ……！？	Which way?		scene_40
 え～い！くそキャノンが～っ！！-	Goddamn, piece of $#@^% cannon!!		scene_40
-早く早く早く早く～っ！	C'mon, c'mon, c'mon, c'mon---!	早早早早	scene_40
+早く早く早く早く～っ！	C'mon, c'mon, c'mon, c'mon---!	早	scene_40
 クッ！宝条……！	Damn! Hojo!	宝条	scene_40
 あ、来ちゃった！	Oh no! They're here!	来	scene_40
 どうするんですか、先輩！もう、命令なんてムシしていいと思うんですけど	What are we going to do? I think you can ignore your orders now.	先輩命令思	scene_40
@@ -151,8 +151,8 @@ CLOUD、着いたといってもミッドガルは、げん戒体勢だ！スラ
 あんまり気のりはしないが、と	I'm not really up for it, but…	気	scene_40
 私たちに与えられた命令はあなたたちを発見しだい……	Our orders were to seek you out and …	私与命令発見	scene_40
 ……殺すこと	…Kill.	殺	scene_40
-もう会社はボロボロだけど命令は命令なの	Our company may be in turmoil, but an order's an order.	会社命令命令	scene_40
-タークスの意地と心意気！受け取りなさい！	That's the spirit of the Turks! Believe it!	意地心意気受取	scene_40
+もう会社はボロボロだけど命令は命令なの	Our company may be in turmoil, but an order's an order.	会社命令	scene_40
+タークスの意地と心意気！受け取りなさい！	That's the spirit of the Turks! Believe it!	意地心気受取	scene_40
 な、何をしている！　行くわよ！	What are you doing? Let's go!	何行	scene_40
 わかった、ケリをつけよう	Okay, let's end this		scene_40
 だな。お前らとは、みょうな関係だが……	I know we have a weird relationship, but…	前関係	scene_40
@@ -165,14 +165,14 @@ CLOUD、着いたといってもミッドガルは、げん戒体勢だ！スラ
 イリーナ、お前もりっぱにタークスだったぜ、と	Elena, you were a great Turk!	前	scene_40
 じゃあな。おたがい生きてたら……	Farewell. If we both survive…	生	scene_40
 命あってのものだねだぜ、と	and our lives are spared…	命	scene_40
-おぼえておきなさい！タークスの意地と心意気……！	Remember the spirit of the Turks!	意地心意気	scene_40
+おぼえておきなさい！タークスの意地と心意気……！	Remember the spirit of the Turks!	意地心気	scene_40
 仕事は終わりだ……	Our mission's over…	仕事終	scene_40
 な、何だ？ありゃ～！！	What the… hell is that!!?	何	scene_40
 ウ、ウソでしょ……	This can't be…		scene_40
 マ、マジで……？	Are you serious?		scene_40
 おいおい！そこまでするかよ……	Hey-hey! You serious?		scene_40
 そ、そんなあほなできとったんかいな……	No, no way… I didn't know they completed it…		scene_40
-ガハハハハハハハ！！来たな来たな！	G'yaaa, Haaa, Haaa!!! Here they come!	来来	scene_40
+ガハハハハハハハ！！来たな来たな！	G'yaaa, Haaa, Haaa!!! Here they come!	来	scene_40
 キャハハハハハハ！！やっぱり来たよ！	G'yaaa, Haaa, Haaa!!! So they really showed up!	来	scene_40
 よ～くも今までコケにしてくれたな！	You sure treated us like dogs till now!!	今	scene_40
 私のかわいい兵器たちをたっくさん壊してくれたわねえ！	You killed many of my precious soldiers!	私兵器壊	scene_40
@@ -251,20 +251,20 @@ CLOUD、着いたといってもミッドガルは、げん戒体勢だ！スラ
 ちがう！	No!		scene_40
 俺は……なんていうか……	What I meant was…	俺	scene_40
 みんなが何のために戦っているのか。それをわかっていてほしいんだ	What are we all fighting for? I want us all to understand that.	何戦	scene_40
-星を救う……星の未来のため……確かにそのとおりなんだと思う	Save the Planet…for the future of the Planet… Sure, that's all fine.	星救星未来確思	scene_40
-でも、本当は、本当はどうなんだろう？	But really, is that how it is?	本当本当	scene_40
+星を救う……星の未来のため……確かにそのとおりなんだと思う	Save the Planet…for the future of the Planet… Sure, that's all fine.	星救未来確思	scene_40
+でも、本当は、本当はどうなんだろう？	But really, is that how it is?	本当	scene_40
 俺にとっては、これは個人的な戦いなんだ	For me, this is a personal feud.	俺個人的戦	scene_40
 セフィロスを倒す。過去との完全な決別	I want to beat Sephiroth and settle my past.	倒過去完全決別	scene_40
 それが星を救うことにつながっているんだ	Saving the Planet just happens to be part of that.	星救	scene_40
 俺、考えたんだ	I've been thinking.	俺考	scene_40
 やっぱり俺たちは自分のために戦っているんだ	I think we all are fighting for ourselves.	俺自分戦	scene_40
-自分と……自分が大切にしている誰か？　何か？　そのために戦う	For ourselves…and that someone… something…whatever it is, that's important to us. That's what we're fighting for.	自分自分大切誰何戦	scene_40
+自分と……自分が大切にしている誰か？　何か？　そのために戦う	For ourselves…and that someone… something…whatever it is, that's important to us. That's what we're fighting for.	自分大切誰何戦	scene_40
 そのために星を救う戦いを続けているんだ	That's why we keep up this battle for the Planet.	星救戦続	scene_40
 たしかに……	You're right…		scene_40
 星を救うってのは、なんとなくカッコいいよな	It sounds cool sayin' it's to save the Planet.	星救	scene_40
 でも、オレにできたのはあの、魔晄炉爆破だ……	But I was the one who blew up that Mako reactor……	魔晄炉爆破	scene_40
 今となっちゃあ、あんなやりかたはいけなかったってことは良くわかる	Lookin' back on it now, I can see that wasn't the right way to do things.	今良	scene_40
-仲間たちや関係ない大勢の人間を不幸にしちまった……	I made a lot of friends and innocent bystanders suffer…	仲間関係大勢人間不幸	scene_40
+仲間たちや関係ない大勢の人間を不幸にしちまった……	I made a lot of friends and innocent bystanders suffer…	仲間関係大勢人不幸	scene_40
 ……最初は神羅への復讐だった。オレの故郷を奪ったよ	…At first, it was revenge against Shinra. For attackin' my town.	最初神羅復讐故郷奪	scene_40
 でも、今は……	But now…	今	scene_40
 そうだぜ。オレはマリンのために戦ってるんだ	Yeah. I'm fightin' for Marlene.	戦	scene_40
@@ -275,8 +275,8 @@ CLOUD、着いたといってもミッドガルは、げん戒体勢だ！スラ
 それを確かめて欲しいんだ。そうしたら、帰ってきてほしい	I want you to make sure. Then I want you to come back.	確欲帰	scene_40
 誰ももどって来ないかもしれねえぜ	Maybe ain't none of us'll come back.	誰来	scene_40
 メテオでどうせ死んじまう。ムダなあがきはやめようってよ！	Meteor's gonna kill us all anyway. Let's just forget any useless struggling!	死	scene_40
-俺は自分が戦う理由を知っている。まぎれもなく、星を救うために戦う	I know why I'm fighting. I'm fighting to save the Planet, and that's that.	俺自分戦理由知星救戦	scene_40
-でも、その中には個人的な……とても個人的な俺の想いがあるんだ	But besides that, there's something personal, too… A very personal memory that I have.	中個人的個人的俺想	scene_40
+俺は自分が戦う理由を知っている。まぎれもなく、星を救うために戦う	I know why I'm fighting. I'm fighting to save the Planet, and that's that.	俺自分戦理由知星救	scene_40
+でも、その中には個人的な……とても個人的な俺の想いがあるんだ	But besides that, there's something personal, too… A very personal memory that I have.	中個人的俺想	scene_40
 みんなは……どうだ？俺はみんなにも、そういうものを見つけてほしいんだ	What about you all? I want all of you to find that something within yourselves.	俺見	scene_40
 見つからなかったら仕方がない。理由なしでは戦えないだろ？	If you don't find it, then that's okay, too. You can't fight without a reason, right?	見仕方理由戦	scene_40
 だから、帰ってこなくても……仕方がないよ	So, I won't hold it against you if you don't come back.	帰仕方	scene_40
@@ -290,7 +290,7 @@ TIFAはどうする？	What are you going to do, TIFA?		scene_40
 でも……。きっと、みんな……もどって来てくれるよね？	But…I'm sure someday… they'll come back, don't you think?	来	scene_40
 さあ……。どうかな……？	Hmm… I wonder…		scene_40
 みんなそれぞれ、かけがえのない大切なものを抱えてるし……	Everyone has something irreplaceable they're holding on to…	大切抱	scene_40
-それに今度ばっかりは、相手が相手だ……	But this time, our opponent…	今度相手相手	scene_40
+それに今度ばっかりは、相手が相手だ……	But this time, our opponent…	今度相手	scene_40
 うん……。それでも私……和気だよ。たとえ、だれももどってこなくても	Hmm…But that's all right, if no one comes back.	私和気	scene_40
 CLOUDと一練なら……CLOUDが、そばにいてくれるなら……こわくても……負けないよ、私……	As long as we're together. With you by my side, I'll never give up no matter how bad it gets.	一練負私	scene_40
 …………。TIFA……	… TIFA…		scene_40
@@ -304,7 +304,7 @@ TIFAの声がライフストリームの意識の海から俺を呼びもどし�
 ねえ、CLOUD……。私たちの声を、星たちも聞いててくれると思う？	CLOUD…? Do you think the stars can hear us?	私声星聞思	scene_40
 がんばってる私たちの姿を見ていてくれると思う？	Do you think they see how hard we're fighting for them?	私姿見思	scene_40
 さあな……。でも……	I dunno… But…		scene_40
-だれが見ていようといまいととにかく、できることをやるだけさ。自分自身を信じて……	Whether they can or not, we still have to do what we can. And believe in ourselves…	見自分自身信	scene_40
+だれが見ていようといまいととにかく、できることをやるだけさ。自分自身を信じて……	Whether they can or not, we still have to do what we can. And believe in ourselves…	見自分身信	scene_40
 ライフストリームのなかでTIFAにそう教えられたよ	Someday we'll find the answer. Right, TIFA? That's what I learned from you when I was in the Lifestream.	教	scene_40
 うん……そうだね……	Yes…that's right…		scene_40
 なあ、TIFA……。俺……。TIFAに話したいことがたくさんあったんだ……	Hey TIFA… I… There were so many things I wanted to say to you.	俺話	scene_40
@@ -312,7 +312,7 @@ TIFAの声がライフストリームの意識の海から俺を呼びもどし�
 CLOUD……。想いをつたえられるのは言葉だけじゃないよ……	CLOUD… Words aren't the only thing that tell people what you're thinking…	想言葉	scene_40
 TIFA………	…		scene_40
 答えは、いつかきっと見つかるさ。あきらめさえしなければ	I'll find the answer someday. As long as I keep trying.	答見	scene_40
-明日の戦いにそなえて今日は、はやくやすもう……	We've got a big battle tomorrow, we'd better get some sleep…	明日戦今日	scene_40
+明日の戦いにそなえて今日は、はやくやすもう……	We've got a big battle tomorrow, we'd better get some sleep…	明日戦今	scene_40
 うん……。………	Umm. I guess you're right…		scene_40
 俺も、聞いたような気がするな。あの時、TIFAの声を……	I think I've heard it, too. Then, it was TIFA's voice…	俺聞気時声	scene_40
 決戦前　ハイウインド	Highwind – Before the Decisive Battle	決戦前	scene_40
@@ -376,13 +376,13 @@ YUFFIE、いないよ	No, YUFFIE's missing.		scene_40
 でもよ、オレたちのマテリアを盗んでいかなかった。それだけでも良かったんじゃねえのか？	'Least this time she didn't steal our Materia. Thank god for that.	盗良	scene_40
 ひっどいな～！！	How could you say that!?		scene_40
 船酔いに負けないでここまで来たんだよ！	After I came this far with you, even with my airsickness!	船酔負来	scene_40
-最後の最後に抜けちゃって、おいしいとこぜ～んぶ持ってかれるなんて絶対イヤだからね！	I didn't go through all that just to have you guys have the best parts all to yourselves!	最後最後抜持絶対	scene_40
+最後の最後に抜けちゃって、おいしいとこぜ～んぶ持ってかれるなんて絶対イヤだからね！	I didn't go through all that just to have you guys have the best parts all to yourselves!	最後抜持絶対	scene_40
 おかえり、YUFFIE	Welcome back, YUFFIE.		scene_40
 おろ～……CLOUDやさしいねえ。なんかあった？	Gee, CLOUD…that's so nice of you to say that…You sick or somethin'?		scene_40
 ま、いいか。じゃ、アタシは通路の指定席で待機……ウッ！……ウップ！	Well, whatever. I'm gonna be in my reserved seat in the hall… waiting…upp…Urk!	通路指定席待機	scene_40
 みんな、ありがとう	Thanks everyone.		scene_40
 おまえのために戻ってきたわけじゃねえ！	We didn't come back for your spikey-headed ass!	戻	scene_40
-オレの大切なマリンのため。それとおんなじくらい大切なオレの……オレの気持ち……ってのか？	I came back for Marlene. Guess it's jus' my… feelings or somethin'.	大切大切気持	scene_40
+オレの大切なマリンのため。それとおんなじくらい大切なオレの……オレの気持ち……ってのか？	I came back for Marlene. Guess it's jus' my… feelings or somethin'.	大切気持	scene_40
 オレはよ…………今、ここにはいねえ……	I, uh I ain't got no words now…	今	scene_40
 ……ここにはいないけどオイラたちにチャンス、残してくれた……	…Although she's not here, she left us a window of opportunity…	残	scene_40
 このままってわけにゃいかねえよな	We can't let it go like this.		scene_40
@@ -403,7 +403,7 @@ AERISの想い、解き放つんだ！	We've got to let go of AERIS's memory.	�
 みんな！！	You guys!!		scene_40
 おろ～っ……ひっどいなぁ	Geez…that's pretty lame.”		scene_40
 船酔いに負けないでここまで来たんだよ	I stuck in there even when I was pukin' from bein' so seasick.	船酔負来	scene_40
-最後の最後に抜けちゃっておいしいところはぜ～んぶ持っていかれるなんて絶対イヤだからね！	But if you think I stuck through all this just to make off with everything when the time's right, forget it. That's not my style.	最後最後抜持絶対	scene_40
+最後の最後に抜けちゃっておいしいところはぜ～んぶ持っていかれるなんて絶対イヤだからね！	But if you think I stuck through all this just to make off with everything when the time's right, forget it. That's not my style.	最後抜持絶対	scene_40
 おまえに感謝されてもよう	Ain't no one wanna be thanked by you!	感謝	scene_40
 じゃ、なんだ。全員そろったところでCLOUDさんよいっちょう決めてくれ	So, what's next. Now that everyone's here. What're you going to do?	全員決	scene_40
 俺たちの最後の戦いだ。目標は北の大空洞のセフィロス！さあ……	This is our last battle. Our target is Sephiroth in the Northern Cave! So…	俺最後戦目標北大空洞	scene_40
@@ -474,7 +474,7 @@ AERIS……死んじまったんだよな	And AERIS…she's dead.	死	scene_40
 どうするよ、CLOUDいい考え、ないのか？	Whacha gonna do, CLOUD? Got any good ideas?	考	scene_40
 ウェポンかよ……でけえよな……	That damn Weapon… He's one big *&$*&%$…		scene_40
 いくらミッドガルだってあぶねえだろうな	Even Midgar's in trouble now.		scene_40
-最初はよ、ビラはりだったぜ。アバランチの初めのころはな	When AVALANCHE was startin' out, we used to put up flyers everywhere.	最初初	scene_40
+最初はよ、ビラはりだったぜ。アバランチの初めのころはな	When AVALANCHE was startin' out, we used to put up flyers everywhere.	最初	scene_40
 それが、どうだよ。セフィロスと戦うだぁ？	And now, we're up against Sephiroth. How about that?	戦	scene_40
 なんか、遠くに来ちまった。そんなカンジがするぜ	Feels like a long time ago.	遠来	scene_40
 行ったり来たり……ふりまわされるよな	Comin' and goin'… gettin' pushed around.	行来	scene_40
@@ -485,16 +485,16 @@ AERIS……死んじまったんだよな	And AERIS…she's dead.	死	scene_40
 神羅のやり方ってさ、今さえ良ければなんでもいいってことだよね	Shinra only cares if things are good right now.	神羅方今良	scene_40
 でもね、オイラは５００年くらい生きるからそれじゃ、とっても困るんだ	But, I plan to live for 500 years and won't stand for that type of thinking.	年生困	scene_40
 そうだよね。なんとかしようって考えなくちゃね	Yes. We have to think about what to do.	考	scene_40
-早く早く！じっちゃんに会いに行こうよ！	Hurry, hurry! We must go meet Grandfather!	早早会行	scene_40
+早く早く！じっちゃんに会いに行こうよ！	Hurry, hurry! We must go meet Grandfather!	早会行	scene_40
 AERISはね、ときどきオイラのハナをなでてくれたんだ	AERIS used to pat me on the nose sometimes.		scene_40
 子供あつかいされてくやしかったけどでも、ついついよろこんじゃうんだ	I used to hate being treated like a child like that, but I also liked the attention.	子供	scene_40
 初めて会ったときのことあやまりたかったな……	I wanted to apologize to her for what I did when we first met.	初会	scene_40
 オイラがもっと大人だったら……何か良い考えがうかぶのかな？	If I were more of an adult, perhaps I would have a better idea of what to do?	大人何良考	scene_40
-はぅ……大人になりたいなぁ。この旅が終わったら、大人になれるかな……	Whew…I wish I could grow up. I wonder if after all this is over, will I be an adult?	大人旅終大人	scene_40
+はぅ……大人になりたいなぁ。この旅が終わったら、大人になれるかな……	Whew…I wish I could grow up. I wonder if after all this is over, will I be an adult?	大人旅終	scene_40
 ミッドガルか……	Midgar…		scene_40
 宝条につかまって連れてかれていろいろ実験されてくやしかったな……	I hated the fact I was caught by Hojo and taken back to the lab where they did all kinds of experiments on me…	宝条連実験	scene_40
 でも、そのおかげでみんなと会えたんだよね……	But because of that I was able to meet you all…	会	scene_40
-いろんな人と出会ったり出会わなかったり……不思議だね	People you want to meet… others you don't…strange isn't it?	人出会出会不思議	scene_40
+いろんな人と出会ったり出会わなかったり……不思議だね	People you want to meet… others you don't…strange isn't it?	人出会不思議	scene_40
 セフィロスを倒せば星を救えるんだよね	Will we save the world if we beat Sephiroth?	倒星救	scene_40
 こわいけど、オイラ、がんばるよ。早く行こうよ、大空洞へ！	I'm frightened, but I'll do my best. Let's hurry to the Northern Cave!	早行大空洞	scene_40
 宝条はどうしてこんなに事件ばかりおこすんだろう	I wonder why Hojo performed so many of these experiments?	宝条事件	scene_40
@@ -511,8 +511,8 @@ AERISはね、ときどきオイラのハナをなでてくれたんだ	AERIS us
 古代種……我々もはるかな時を経てのちそう呼ばれる日が来るかもしれない……	The Ancients…in time that is probably what later generations will call us.	古代種我時経呼日来	scene_40
 フッ……フハハハ……我々しだいというわけだ	Hmm…hwa ha ha ha… It's only a matter of time for us.	我	scene_40
 ……なかなかセフィロスには近づけないな……	……we still can't seem to get near Sephiroth…	近	scene_40
-セフィロスを倒す……いとしい女性の息子を倒す……	Kill Sephiroth… Killing the son of my beloved woman…	倒女性息子倒	scene_40
-私はまた罪を犯そうとしているのか……それとも、見ているだけだった私にできる、せめてものつぐないか……	Am I on the verge of committing another sin? Or am I atoning as best I can for only standing by?	私罪犯見私	scene_40
+セフィロスを倒す……いとしい女性の息子を倒す……	Kill Sephiroth… Killing the son of my beloved woman…	倒女性息子	scene_40
+私はまた罪を犯そうとしているのか……それとも、見ているだけだった私にできる、せめてものつぐないか……	Am I on the verge of committing another sin? Or am I atoning as best I can for only standing by?	私罪犯見	scene_40
 宝条……不幸な男	Hojo…what a queer fellow.	宝条不幸男	scene_40
 科学的センスのなさ……つきまとう天才ガスト博士との比較……	Such utter lack of scientific talent… compared with the genius of Dr. Gast…	科学的天才博士比較	scene_40
 ルクレッツアは宝条を守ろうとしてあいつを選んだ……	Lucrecia chose him in order to protect him.	宝条守選	scene_40
@@ -536,9 +536,9 @@ AERISさん、亡くなってしもたことお母さんに伝えたんです	I 
 CLOUDさん、ほんまたのみます！	CLOUD, you make sure and do your best!		scene_40
 神羅は許せんかもしれんけどミッドガルの人たちには、何の罪もないんや！	I know you can't forgive the Shinra, but the people in Midgar haven't done any wrong!	神羅許人何罪	scene_40
 ……セフィロスどないしとるんやろ	…Wonder what Sephiroth's up to?		scene_40
-何度も何度もすんません	I can't apologize to you enough.	何度何度	scene_40
+何度も何度もすんません	I can't apologize to you enough.	何度	scene_40
 も～ちょい、ボクがしっかりしとったらこんなことにはならんかったのに……	If I was a better person, none of this would have happened…		scene_40
-さ、みなはん、スラムの方へ！急いで急いで！	So let's get over it! We've got to hurry to the slums!	方急急	scene_40
+さ、みなはん、スラムの方へ！急いで急いで！	So let's get over it! We've got to hurry to the slums!	方急	scene_40
 あっ、おばあさん、だいじょぶでっか？えっ？　息子さんとはぐれた？	Are you all right? You say you lost your son?	息子	scene_40
 あ、CLOUDさん、すいまへん！	Hey, CLOUD!		scene_40
 もうすぐ、み～んなスラムへ避難完了しますのや	The people ought to just about be to safety in the slums by now.	避難完了	scene_40
@@ -547,7 +547,7 @@ CLOUDさん、ほんまたのみます！	CLOUD, you make sure and do your best!
 この旅のこと、みなさんのこと絶対、忘れへん！	Not about this here trip, or them folks--none of it!	旅絶対忘	scene_40
 やってみてわかったけどよリーダーってのは大変だよなぁ	I know how tough it is bein' a leader, because I've been one.	大変	scene_40
 誰がどんなマテリアつけてるとかす～ぐ忘れちまったぜ、オレ様はよ	I always forget who has what Materia.	誰忘様	scene_40
-ロケット村でなんかあるって？いまさら宇宙開発再開じゃねえよな……	You said there's somethin' goin' on at Rocket Town…?	村宇宙開発再開	scene_40
+ロケット村でなんかあるって？いまさら宇宙開発再開じゃねえよな……	You said there's somethin' goin' on at Rocket Town…?	村宇宙開発再	scene_40
 考え中だっていってんだろ！	I TOLD you I was thinkin' about it!	考中	scene_40
 関係ねえけどよ、オレ様の知らねえうちにこの船、改造されてんだよな	Maybe it's just me, but has this ship been remodeled without me knowin' it?	関係様知船改造	scene_40
 スイッチとかレバーが増えててよ気になってしょうがねえぜ	All these switches and levers. They're kinda gettin' to me.	増気	scene_40
@@ -573,7 +573,7 @@ AERISか……	AERIS?		scene_40
 自分でも予想してたけどよガーガーねちまったぜ	But this thing put me to sleep, just like I thought it would.	自分予想	scene_40
 となりにいた客にイビキうるさいって起こされたのがラストシーンでよう……	Finally during the last scene, the guy next to me woke me up tellin' me my snorin' was too loud.	客起	scene_40
 だからオレ様はあのシバイの最後のあたりだけは覚えてるぜ……	So about all I really remember of that play is the end…	様最後覚	scene_40
-主人公のネエちゃんが恋人に聞くんだよな	When the sister of the lead asks her lover,	主人公恋人聞	scene_40
+主人公のネエちゃんが恋人に聞くんだよな	When the sister of the lead asks her lover,	主人公恋聞	scene_40
 『どうしても行くの？』	Do you really have to leave?	行	scene_40
 そしたら男がよ	And the guy says,	男	scene_40
 『約束だから。大好きな人たちが待ってるんだ』	I made a promise. The people I love are waiting.	約束大好人待	scene_40

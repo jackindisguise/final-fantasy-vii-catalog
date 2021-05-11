@@ -6,17 +6,17 @@ AERISのこと、だろ？	It's about AERIS, isn't it?		scene_07
 ここで？	They were here?		scene_07
 AERISが望んだことだよ……	That's what AERIS wanted…	望	scene_07
 どうしてAERISは神羅に狙われるんだ？	Why is Shinra after AERIS?	神羅狙	scene_07
-AERISは古代種。古代種の生き残りなんだとさ	AERIS is an Ancient. The sole survivor.	古代種古代種生残	scene_07
+AERISは古代種。古代種の生き残りなんだとさ	AERIS is an Ancient. The sole survivor.	古代種生残	scene_07
 ……なんだとさ、だって？あんた母親だろ？	What did you say? But, aren't you her mother?	母親	scene_07
 ……本当の母親じゃないんだよ。あれは……そう、１５年前…	Not her real mother. …it must have been 15 years ago…	本当母親年前	scene_07
-……戦争中でね。わたしの夫は戦地に行ってた。ウータイという遠い国さ	…during the war. My husband was sent to the front. Some far away place called Wutai.	戦争中夫戦地行遠国	scene_07
+……戦争中でね。わたしの夫は戦地に行ってた。ウータイという遠い国さ	…during the war. My husband was sent to the front. Some far away place called Wutai.	戦争中夫地行遠国	scene_07
 ある日、休暇で帰ってくるっててがみをもらったからわたしは駅までむかえにいったのさ	One day, I went to the station because I got a letter saying he was coming home on leave.	日休暇帰駅	scene_07
 AERISを安全なところへ。そう言い残して彼女は死んだ。	Her last words were, Please take AERIS somewhere safe.	安全言残彼女死	scene_07
-わたしの夫は帰らず、子供もいない。わたしもさびしかったんだろうね。AERISを家に連れて帰ることにしたんだ。	My husband never came back. I had no child. I was lonely. So I decided to take her home with me.	夫帰子供家連帰	scene_07
+わたしの夫は帰らず、子供もいない。わたしもさびしかったんだろうね。AERISを家に連れて帰ることにしたんだ。	My husband never came back. I had no child. I was lonely. So I decided to take her home with me.	夫帰子供家連	scene_07
 AERISはすぐにわたしになついてくれた。よくしゃべる子でねえ。いろいろ話してくれたよ	AERIS and I became close very quickly. That child loved to talk. She used to talk to me about everything.	子話	scene_07
-どこかの研究所みたいなところから母親と逃げ出したこと。お母さんは星に帰っただけだからさびしくなんかない……いろいろね	She told me how she escaped from some kind of research laboratory, and that her mother had already returned to the Planet, so she wasn't lonely…many other things.	研究所母親逃出母星帰	scene_07
+どこかの研究所みたいなところから母親と逃げ出したこと。お母さんは星に帰っただけだからさびしくなんかない……いろいろね	She told me how she escaped from some kind of research laboratory, and that her mother had already returned to the Planet, so she wasn't lonely…many other things.	研究所母親逃出星帰	scene_07
 星に帰っただって？	Returned to the Planet?	星帰	scene_07
-わたしには意味がわからなかったよ。夜空の星かって聞いたらちがう、この星だっていわれて……	I didn't know what she meant. I asked if she meant a star in the sky,	意味夜空星聞星	scene_07
+わたしには意味がわからなかったよ。夜空の星かって聞いたらちがう、この星だっていわれて……	I didn't know what she meant. I asked if she meant a star in the sky,	意味夜空星聞	scene_07
 まあ、いろんな意味で不思議な子供だったね	but she said it was this Planet… She was a mysterious child in many ways.	意味不思議子供	scene_07
 お母さん	Mom.	母	scene_07
 泣かないでね	Please don't cry.	泣	scene_07
@@ -30,8 +30,8 @@ AERISが突然言い出した。何があったのかって聞いたら……	AE
 いろいろあったけどわたしたちは幸せだった。ところがある日……	A lot had happened, but we were happy. Until one day…	幸日	scene_07
 AERISを返してほしいのです。ずいぶん探しました	We want you to return AERIS to us. We've been searching for her for a long time.	返探	scene_07
 いやっ！絶対いやっ！	No! Never!	絶対	scene_07
-AERIS、君は大切な子供なんだ。君は特別な血をひいている	AERIS, you're a very special child. You are of special blood.	君大切子供君特別血	scene_07
-君の本当のお母さんの血。『古代種』の血だ	Your real mother was an 'Ancient'.	君本当母血古代種血	scene_07
+AERIS、君は大切な子供なんだ。君は特別な血をひいている	AERIS, you're a very special child. You are of special blood.	君大切子供特別血	scene_07
+君の本当のお母さんの血。『古代種』の血だ	Your real mother was an 'Ancient'.	君本当母血古代種	scene_07
 もちろん聞いたよ。『古代種』って何だってね	At that moment, I found out she was an 'Ancient'.	聞古代種何	scene_07
 古代種は至上の幸福が約束された土地へ我々を導いてくれるのです	The Ancients will lead us to a land of supreme happiness.	古代種至上幸福約束土地我導	scene_07
 AERISはこのまずしいスラムの人々に幸福を与えることができるのです	AERIS will be able to bring happiness to all those in the slums.	人幸福与	scene_07
@@ -58,11 +58,11 @@ AERISはこのまずしいスラムの人々に幸福を与えることができ
 でも、マリンが心配だ。いつでもそばにいてやりたい	But inside I'm always thinkin' of her. I just wanna be with her…always.	心配	scene_07
 な？　グルグルまわっちまうんだ	See? I'm goin' in circles, now.		scene_07
 ……わからないでもないけどね。ま、とにかく２階で眠ってるから会っておやりよ	…I think I know what you mean. She's upstairs asleep, Why don't you go and see her?	階眠会	scene_07
-私のせい……。私がAERISを巻きこんだから	It's my fault… I was the one who got AERIS involved in this.	私私巻	scene_07
+私のせい……。私がAERISを巻きこんだから	It's my fault… I was the one who got AERIS involved in this.	私巻	scene_07
 あんた、気にするんじゃないよ。AERISだってそんなふうに思っちゃいないよ	Don't say that. AERIS doesn't think so.	気思	scene_07
 なんか落ちこんじゃう	I feel so depressed.	落	scene_07
 はぁ……	…sigh…		scene_07
-マリン……良かった……無事で良かった……	I'm so glad… I'm so glad you're all right…	良無事良	scene_07
+マリン……良かった……無事で良かった……	I'm so glad… I'm so glad you're all right…	良無事	scene_07
 とうちゃん泣いちゃダメだよ。おヒゲ、いたいよ！	Daddy, don't cry. Your whiskers hurt!	泣	scene_07
 AERISを助けにいくんだろ？すっかり世話になっちまったからな	You gonna go help AERIS, right? She's done so much for me…	助世話	scene_07
 それに相手が神羅となれば黙っちゃいられねえ！オレも行くぜ！	If the Shinra're involved, I ain't stayin' here! I'm comin', too!	相手神羅黙行	scene_07
@@ -100,7 +100,7 @@ AERISのところへ行くのね	You're going after AERIS, right?	行	scene_07
 うん。上の世界につながってるんだよ	Yeah. It leads to the upper world.	上世界	scene_07
 よし！このワイヤー、のぼろうぜ！	Alright! We'll climb the wire!		scene_07
 それは無理な話だな。何百メートルあると思ってるんだ？	There's no way we can do this. You know how far it goes up?	無理話何百思	scene_07
-無理じゃねえ！見ろ！　これは何に見える？	There IS a way! Look! What's that look like?	無理見何見	scene_07
+無理じゃねえ！見ろ！　これは何に見える？	There IS a way! Look! What's that look like?	無理見何	scene_07
 何のへんてつもないワイヤーだ	Just a normal wire.	何	scene_07
 そうかよ？　オレには金色に輝く希望の糸に見えるぜ	Oh yeah? Well to me it looks like a golden shiny wire of hope.	金色輝希望糸見	scene_07
 そうね、AERISを救うために残された道は、これだけだもんね	You're right. This is the only way to save AERIS…	救残道	scene_07
@@ -152,7 +152,7 @@ AERISのところへ行くのね	You're going after AERIS, right?	行	scene_07
 ああ……オレはもうダメだ……	…huff… Man, I'm beat…		scene_07
 マリン、父ちゃんはもう一度お前に会いたかった……	Marlene, daddy wanted to see your face one more time…	父一度前会	scene_07
 ちょっと！エンギでもないこと言わないの！	Would you stop acting like a retard and climb!?	言	scene_07
-もう少し！もう少しだから！	It's just a bit more!	少少	scene_07
+もう少し！もう少しだから！	It's just a bit more!	少	scene_07
 たぶん……	…maybe.		scene_07
 もうイヤだ！オレはもどるぞ！	Damn, man! I've had it! I'm going back!		scene_07
 今までのぼったのとおなじだけ階段おりて？	It'll take just as long to go down as it did to come up.	今階段	scene_07
@@ -225,7 +225,7 @@ AERISが連れていかれたのもそこにちがいねえ	Must be where they t
 『マスターフィスト』を手にいれた！	Received "Master Fist"!	手	scene_07
 あの、商品を勝手に開けるとか、そういったことはその、ちょっと……	You opened up all those things without asking and, hey wait!	商品勝手開	scene_07
 ここからが本番だ。ゆだんするな	This is the real thing. Don't let your guard down.	本番	scene_07
-……知らない。そういえば本社に来るのは初めてだ。あんたは知っているのか？	…I don't know. Now that you mention it, this's my first time at headquarters. What about you?	知本社来初知	scene_07
+……知らない。そういえば本社に来るのは初めてだ。あんたは知っているのか？	…I don't know. Now that you mention it, this's my first time at headquarters. What about you?	知本社来初	scene_07
 ……前に来たことがある。まだ、両腕があるころにな	…I been here before. Back when I still had both my hands.	前来両腕	scene_07
 AERIS、無事だといいね	I hope AERIS is all right.	無事	scene_07
 AERIS………いろいろ大変だったのね	AERIS… She's been through a lot, huh.	大変	scene_07

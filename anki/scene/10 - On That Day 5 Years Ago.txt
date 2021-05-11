@@ -38,7 +38,7 @@ CLOUD、おそい～っ！	CLOUD, you're late!		scene_10
 な、どんな気分だ？英雄セフィロスさん？	Say, how do you feel, MISTER Sephiroth?	気分英雄	scene_10
 ……おまえ、今回の任務が知りたかったんじゃないのか？	…I thought you wanted a briefing?	今回任務知	scene_10
 今回の任務は老朽化した魔晄炉の調査だ	Our mission is to investigate an old Mako reactor.	今回任務老朽化魔晄炉調査	scene_10
-異常動作を起こしているうえに凶暴な動物が発生している	There have been reports of it malfunctioning, and producing brutal creatures.	異常動作起凶暴動物発生	scene_10
+異常動作を起こしているうえに凶暴な動物が発生している	There have been reports of it malfunctioning, and producing brutal creatures.	異常動作起凶暴物発生	scene_10
 そいつらを始末しつつ原因を見つけだし、排除する	First, we will dispose of those creatures. Then, we'll locate the problem and neutralize it.	始末原因見排除	scene_10
 凶暴な動物……場所はどこだ？	Brutal creatures? Where?	凶暴動物場所	scene_10
 ニブルヘイムの魔晄炉だ	The Mako Reactor at Nibelheim.	魔晄炉	scene_10
@@ -50,7 +50,7 @@ CLOUD、おそい～っ！	CLOUD, you're late!		scene_10
 さあ、仕事だぞ	Come on, let's go to work.	仕事	scene_10
 セフィロスの強さは普通じゃない。世間で知られているどんな話よりも……すごかった	Sephiroth's strength is incredible. He is far stronger in reality than any stories you may have heard about him.	強普通世間知話	scene_10
 あれ～？CLOUDの活躍は？	So… Where do you come in?	活躍	scene_10
-俺か？　俺はセフィロスの戦いぶりにみとれていたな	Me? I was mesmerized by the way Sephiroth fought.	俺俺戦	scene_10
+俺か？　俺はセフィロスの戦いぶりにみとれていたな	Me? I was mesmerized by the way Sephiroth fought.	俺戦	scene_10
 ……そして俺たちはニブルヘイムについたんだ	…and then we reached Nibelheim.	俺	scene_10
 ニブルヘイム	Nibelheim		scene_10
 どんな気分なんだ？	How does it feel?	気分	scene_10
@@ -78,7 +78,7 @@ CLOUD、おそい～っ！	CLOUD, you're late!		scene_10
 ガマンガマン、仕事だろ？	Just sit tight, it's your job, right?	仕事	scene_10
 練習でもするか？	Shall we practice?	練習	scene_10
 時々話しにくるからさ。ガマンしてろよ	I'll come and talk to you once in a while. Just stick with it.	時話	scene_10
-練習……ああ、ポーズの練習か	Practice? Oh, you mean practice my pose.	練習練習	scene_10
+練習……ああ、ポーズの練習か	Practice? Oh, you mean practice my pose.	練習	scene_10
 ソルジャーは常に他人の目を意識しなくちゃならないってか？	Do members of SOLDIER always have to worry about what others think?	常他人目意識	scene_10
 ……どうだっけ？	How did it go?		scene_10
 ……こうか？	…Was it like this?		scene_10
@@ -169,7 +169,7 @@ CLOUDかい？	Is that you, CLOUD?		scene_10
 ……母さんか？	Mom?	母	scene_10
 ほら、さしいれだよ！	Here, I've brought you something!		scene_10
 村のみんなにはナイショだからね！	Don't tell anyone in town!	村	scene_10
-『手づくりポーション』を手にいれた！	Received "Homemade Potion!”	手手	scene_10
+『手づくりポーション』を手にいれた！	Received "Homemade Potion!”	手	scene_10
 ニブルヘイムの宿	Nibelheim Inn	宿	scene_10
 あ……本日は神羅会社の皆さんの貸し切りになってましてねぇ	The, uh… The whole inn's booked up by Shinra for the night.	本日神羅会社皆貸切	scene_10
 ……CLOUDちゃん？	CLOUD?		scene_10
@@ -188,7 +188,7 @@ CLOUDちゃんかい？	Is it you, CLOUD?		scene_10
 貸し切りだから、かまわないよ。でも、じぶんちの方が落ちつくんじゃないかい？	It's all reserved for you Shinra people, so I don't mind. But, wouldn't you feel more comfortable staying at home?	貸切方落	scene_10
 村のことねえ……	Now about the town…	村	scene_10
 モンスターちゅうのが増えたのはここ１年くらいかねぇ	A lot of monsters have been appearing in the last 12 months.	増年	scene_10
-それ以外はあんまり変わんないよ。こんなちっこい村なんて変わりようないさぁ	Other than that, there's not much change. Nothing much exciting happens in a little town like this.	以外変村変	scene_10
+それ以外はあんまり変わんないよ。こんなちっこい村なんて変わりようないさぁ	Other than that, there's not much change. Nothing much exciting happens in a little town like this.	以外変村	scene_10
 あの魔晄炉つくってるころがいちばんはなやかだったよ	It was all right when they were building the reactor,	魔晄炉	scene_10
 ……つくってる頃はねぇ	…while they were still building it.	頃	scene_10
 完成してからはダメさぁ	But once it was completed, it's been bad.	完成	scene_10
@@ -211,7 +211,7 @@ CLOUDちゃんならわかるだろう？	You know what I mean, right?		scene_10
 モンスター退治にやってきた神羅の人間だな？	Is Shinra here to get rid of the monsters?	退治神羅人間	scene_10
 私はザンガン。世界中の子供たちに武術を教える旅をしている	I'm Zangan. I travel around the world teaching children martial arts.	私世界中子供武術教旅	scene_10
 弟子は世界中に１２８人！	I have 128 students all over the world!	弟子世界中人	scene_10
-この村ではTIFAという女の子が私の弟子になった	In this town, a girl named TIFA is my student.	村女子私弟子	scene_10
+この村ではTIFAという女の子が私の弟子になった	In this town, a girl named TIFA is my student.	村女子私弟	scene_10
 TIFAだって？	Did you say TIFA?		scene_10
 TIFAはセンスが良いな。彼女は強くなるぞ	TIFA has good sense. She'll be a powerful fighter.	良彼女強	scene_10
 神羅の人間の戦いぶりしっかり見せてもらうよ	I want to see some Shinra techniques.	神羅人間戦見	scene_10
@@ -243,7 +243,7 @@ TIFAはセンスが良いな。彼女は強くなるぞ	TIFA has good sense. She
 ま、ムリにとは言わねえけどよ	Well, I ain't gonna force ya…	言	scene_10
 家族っていっても……	I don't know if you'd call it a 'family'…	家族	scene_10
 親父は……俺がまだ子供のころに死んでしまった	My father…died when I was still young.	親父俺子供死	scene_10
-だから母さんが……この家には母さんがひとりで住んでいた	That's why my mom…… lived alone in this house.	母家母住	scene_10
+だから母さんが……この家には母さんがひとりで住んでいた	That's why my mom…… lived alone in this house.	母家住	scene_10
 ああ、俺、母さんに会ったよ	Yeah, I saw my mom.	俺母会	scene_10
 母さんは……元気な人だった。全然変わってなかった	My mom…she was a vibrant woman. Hadn't changed at all.	母元気人全然変	scene_10
 その何日かあとには死んでしまったけど……	But a few days later, she died…	何日死	scene_10
@@ -302,14 +302,14 @@ TIFA、元気か？ぼくは８日前ミッドガルについた	TIFA, how are y
 俺のことが書いてあったからかな……	Because there was some stuff about me…	俺書	scene_10
 ミッドガルはすごいところだ。ぼくは、はっきり言って遅れていて、ダサダサのナントカって感じだった	Midgar is really something. But to tell the truth, I feel so behind on everything… so out of it.	言遅感	scene_10
 スラムの人たちでさえ部屋の中はとてもきれいなんだ	Even the rooms of people in the slums are clean.	人部屋中	scene_10
-今はお金がないからスラムに住んでいるけどいつかは本で見たようなオシャレな部屋に住んでやるつもりだ	Right now I'm living in the slums, but I plan to move to a really nice room, like the ones I've seen in magazines, once I make some money.	今金住本見部屋住	scene_10
-……などと書いてみたがそのためにはまず仕事を見つけなくちゃいけない。そうなんだ。まだ、仕事、みつからないんだ	…But, to do that, I guess I have to find a job first.  That's right. I still haven't found a job yet.	書仕事見仕事	scene_10
+今はお金がないからスラムに住んでいるけどいつかは本で見たようなオシャレな部屋に住んでやるつもりだ	Right now I'm living in the slums, but I plan to move to a really nice room, like the ones I've seen in magazines, once I make some money.	今金住本見部屋	scene_10
+……などと書いてみたがそのためにはまず仕事を見つけなくちゃいけない。そうなんだ。まだ、仕事、みつからないんだ	…But, to do that, I guess I have to find a job first.  That's right. I still haven't found a job yet.	書仕事見	scene_10
 両親には神羅カンパニーで働き口が見つかったってウソの手紙を出してしまった	I lied to my parents and told them I found a great job with Shinra, Inc.	両親神羅働口見手紙出	scene_10
 もうあともどりはできないかな。実家のよろず屋を継げば良かったなと思う	I wonder if it's too late to go back. Sometimes I think I should've taken over my parents' store.	実家屋継良思	scene_10
 ミッドガルについたばかりなのに考えるのはニブルヘイムのことばかりなんだ	I just made it here to Midgar but all I think about is Nibelheim.	考	scene_10
 ねえ、TIFA。あのオンボロ給水塔はちゃんと動いているか？	Hey, TIFA… Is that stupid old water tower still working?	給水塔動	scene_10
 宿屋のじいさんは元気か？ぼくの両親は毎日店をあけてるか？モンスターは襲って来ないか？	Is the old man at the Inn doing well? Are my parents still at the shop everyday? Have any monsters attacked?	宿屋元気両親毎日店襲来	scene_10
-何よりTIFA、どうしてる？もう何年も会っていないような気分だよ	And most of all, how are you, TIFA? It feels like I haven't seen you for years.	何何年会気分	scene_10
+何よりTIFA、どうしてる？もう何年も会っていないような気分だよ	And most of all, how are you, TIFA? It feels like I haven't seen you for years.	何年会気分	scene_10
 きのうもみんなでTIFAの話でもり上がった	We were all talking about you last night.	話上	scene_10
 みんなTIFAが好きなんだ。でも、TIFAはみんなのアイドルだったから仲間を裏切ることができなかった	Everyone likes you. But because everyone idolizes you, I couldn't very well stab them in the back.	好仲間裏切	scene_10
 なーんてカッコつけてたけど本当は告白してフラれるのが恐かっただけなんだよ	I always acted cool, but actually, I was just afraid of being jilted.	本当告白恐	scene_10
@@ -352,21 +352,21 @@ CLOUDくん、なかなかたくましくなったわね	CLOUD, you've grown up 
 冷たいようだが、さがしている時間はない。さあ、もどれないなら、先へ進むぞ。これからは一練に行動する	It may sound cruel, but we've no time to search for him. We can't go back, so we must go on. We'll travel together from here.	冷時間先進一練行動	scene_10
 これは？	What's this?		scene_10
 不思議な色の洞窟ね……	A mysteriously colored cave…	不思議色洞窟	scene_10
-魔晄エネルギーだな。この山は特にエネルギーが豊富なのだ。だから魔晄炉がつくられた	It must be the Mako energy. This mountain is especially abundant in it. That's why the Mako Reactor was built here.	魔晄山特豊富魔晄炉	scene_10
+魔晄エネルギーだな。この山は特にエネルギーが豊富なのだ。だから魔晄炉がつくられた	It must be the Mako energy. This mountain is especially abundant in it. That's why the Mako Reactor was built here.	魔晄山特豊富炉	scene_10
 ……これは？	…And what's this?		scene_10
 魔晄の泉。自然の驚異というやつだな	A Mako fountain. It's a miracle of nature.	魔晄泉自然驚異	scene_10
 こんなにきれいなのに……	It's so beautiful…		scene_10
 このまま魔晄炉がエネルギーを吸い上げ続けたらこの泉も消えてしまうのね	If the Mako Reactor continues to suck up the energy, this fountain will dry up too…	魔晄炉吸上続泉消	scene_10
 マテリアだ。魔晄エネルギーが凝縮されるとマテリアができる	Materia. When you condense Mako energy, Materia is produced.	魔晄凝縮	scene_10
 天然のマテリアを見るなんてめったにない機会だ	It's very rare to see Materia in its natural state.	天然見機会	scene_10
-そういえば……どうしてマテリアを使うと魔法を使うことができるんだ？	By the way… Why is it that when you use Materia you can also use magic, too?	使魔法使	scene_10
+そういえば……どうしてマテリアを使うと魔法を使うことができるんだ？	By the way… Why is it that when you use Materia you can also use magic, too?	使魔法	scene_10
 そんなことも知らずにソルジャーをやってるのか？	You were in SOLDIER and didn't even know that?	知	scene_10
 ……マテリアの中にはいわゆる古代種の知識が封じこまれている	…the knowledge and wisdom of the Ancients is held in the Materia.	中古代種知識封	scene_10
-大地、星の力を自在に操る知識。その知識が星と我々をむすびつけ魔法を呼び出す……といわれている	Anyone with this knowledge can freely use the powers of the land and the Planet. That knowledge interacts between ourselves and the Planet calling up magic…or so they say.	大地星力自在操知識知識星我魔法呼出	scene_10
+大地、星の力を自在に操る知識。その知識が星と我々をむすびつけ魔法を呼び出す……といわれている	Anyone with this knowledge can freely use the powers of the land and the Planet. That knowledge interacts between ourselves and the Planet calling up magic…or so they say.	大地星力自在操知識我魔法呼出	scene_10
 魔法……不思議な力だ……	Magic…a mysterious power…	魔法不思議力	scene_10
 ハハハハハ！	Ha, ha, ha !		scene_10
 なにか変なこと言ったか？	Did I say somethin' funny?	変言	scene_10
-ある男がな、不思議な力なんて非科学的な言い方は許さん！魔法なんて呼び方もダメだ！	A man once told me never to use unscientific terms like 'mysterious power'! It shouldn't even be called 'magic'!	男不思議力非科学的言方許魔法呼方	scene_10
+ある男がな、不思議な力なんて非科学的な言い方は許さん！魔法なんて呼び方もダメだ！	A man once told me never to use unscientific terms like 'mysterious power'! It shouldn't even be called 'magic'!	男不思議力非科学的言方許魔法呼	scene_10
 そう言って怒っていたのを思い出しただけだ	I still remember how angry he was.	言怒思出	scene_10
 誰だ、それ？	Who was that?	誰	scene_10
 神羅カンパニーの宝条。偉大な科学者の仕事を引き継いだみじゅくな男だ	Hojo of Shinra, Inc…. An inexperienced man assigned to take over the work of a great scientist.	神羅宝条偉大科学者仕事引継男	scene_10
@@ -396,7 +396,7 @@ CLOUD、バルブを閉じてくれ	CLOUD, close the valve.	閉	scene_10
 マドから中をのぞいて見ろ	Look through the window.	中見	scene_10
 こ、これは！？	Wh…what is this!?		scene_10
 おまえたち普通のソルジャーは魔晄を浴びた人間だ	Normal members of SOLDIER are humans that have been showered with Mako.	普通魔晄浴人間	scene_10
-一般人とはちがうがそれでも人間なんだ	You're different from the others but still human.	一般人人間	scene_10
+一般人とはちがうがそれでも人間なんだ	You're different from the others but still human.	一般人間	scene_10
 しかし、こいつらはなんだ？おまえたちとは比べものにならないほど高密度の魔晄に浸されている	But, what are they? They've been exposed to a far higher degree of Mako than you.	比高密度魔晄浸	scene_10
 ……これがモンスター？	…Is this some kind of monster?		scene_10
 そうだ。モンスターを生み出したのは神羅カンパニーの宝条だ	Exactly. And it's Hojo of Shinra that produced these monsters.	生出神羅宝条	scene_10
@@ -417,7 +417,7 @@ CLOUD、バルブを閉じてくれ	CLOUD, close the valve.	閉	scene_10
 セフィロスが何を言っているのかその時の俺にはよくわからなかった	I didn't really understand what Sephiroth meant then.	何言時俺	scene_10
 俺はなによりも神羅カンパニーがモンスターを創っていたということにショックをうけていた	I was even more surprised that Shinra was producing monsters.	俺神羅創	scene_10
 た、確かにそうかもな。ここいらで一息いれることにするか	Yeah, maybe so. Wanna take a breather here?	確一息	scene_10
-ケッ、余計なお世話だ。おい、CLOUD。話を続けてくれ。	Hmph! Pokin' his damn nose in where it don't belong. CLOUD! Why don't you finish that story?	余計世話話続	scene_10
+ケッ、余計なお世話だ。おい、CLOUD。話を続けてくれ。	Hmph! Pokin' his damn nose in where it don't belong. CLOUD! Why don't you finish that story?	余計世話続	scene_10
 （フッ……）	(Phew……)		scene_10
 （な、なんでオレに話をふるんだ！？）	(Why you talkin' to me!?)	話	scene_10
 セーブして一息いれよう	Save game and take a rest	一息	scene_10
@@ -434,7 +434,7 @@ CLOUD、バルブを閉じてくれ	CLOUD, close the valve.	閉	scene_10
 セフィロスがみつかったのはニブルヘイムで一番大きな建物	We found him inside the biggest building in Nibelheim.	一番大建物	scene_10
 村の人たちは神羅屋敷と呼んでいたわ。私たちが生まれたころにはもう空き家になっていて……	The villagers used to call it the Shinra mansion.	村人神羅屋敷呼私生空家	scene_10
 むかし、その屋敷は神羅カンパニーの人間が使っていた……	Long ago, people from Shinra used to live in that mansion…	屋敷神羅人間使	scene_10
-セフィロスさんの姿が見えないんだ。たしかに、この部屋に入っていったのを見たんだけど……	There's no sign of Sephiroth, but I know I saw him go into this room…	姿見部屋入見	scene_10
+セフィロスさんの姿が見えないんだ。たしかに、この部屋に入っていったのを見たんだけど……	There's no sign of Sephiroth, but I know I saw him go into this room…	姿見部屋入	scene_10
 セフィロスさんのようすが変なんだ	Sephiroth seems different.	変	scene_10
 ×ボタン　ド	Do [CANCEL]		scene_10
 □ボタン　レ	Re [SWITCH]		scene_10

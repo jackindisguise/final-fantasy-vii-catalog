@@ -22,33 +22,33 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 急いでいるもので……	Um, I'm kinda in a hurry…	急	scene_08
 あら、そう。ざんねんだわ……	Oh? That's too bad…		scene_08
 なーに、ヘンな顔して。教えてあげるのは、ここから上のフロアのことよ	Wipe that stupid look off your face. I was only going to teach you how to get to the next floor.	顔教上	scene_08
-６０階から上は、役員クラスの社員の多い特別フロア。カードキーがないと入ることも許可されないの	The higher ups in the company use the floors above the 60th floor. But you can't get there without a keycard.	階上役員社員多特別入許可	scene_08
+６０階から上は、役員クラスの社員の多い特別フロア。カードキーがないと入ることも許可されないの	The higher ups in the company use the floors above the 60th floor. But you can't get there without a keycard.	階上役員社多特別入許可	scene_08
 カードキーがあれば階段もエレベーターも自由に使えるわ	Get a keycard and you can use the elevators freely.	階段自由使	scene_08
 エレベーターはホラ、私の横にあるこのドアの前で【決定ボタン】　を押すの。そうすると……	…voila! Hear that sound and the door will open.	私横前決定押	scene_08
 ……っていう音がしてドアが開くから	Just remember there are different types of cards. One keycard alone won't let you go everywhere.	音開	scene_08
 でもね、カードキーにも何種類かあって、１枚でどこでも、ってわけにはいかないのよ	For example,	何種類枚	scene_08
-そうね、たとえば『カードキー６０』なら６０階まで。『カードキー６５』なら６５階まで。そういうことよ	'Keycard 60' only takes you to the 60th floor. Keycard 65' only takes you to the 65th floor.	階階	scene_08
+そうね、たとえば『カードキー６０』なら６０階まで。『カードキー６５』なら６５階まで。そういうことよ	'Keycard 60' only takes you to the 60th floor. Keycard 65' only takes you to the 65th floor.	階	scene_08
 まあミッドガル、いえ、今や世界のエネルギー流通を一手にひきうける神羅カンパニーの本社としては、当然のセキュリティよね	It's a security system worthy of Shinra. After all, they control everything in Midgar and in the world for that matter.	今世界流通一手神羅本社当然	scene_08
 あらやだ、長くなっちゃったわ。それじゃおたがい、お仕事がんばりましょうね♥	Oh, I have to go. Gotta get back to work!	長仕事	scene_08
 神羅カンパニー	Shinra, Inc.	神羅	scene_08
 都市開発部門資料室	Urban Dev. Research Library	都市開発部門資料室	scene_08
 宇宙開発部門資料室	Space Dev. Research Library	宇宙開発部門資料室	scene_08
-治安維持部門・兵器開発部門資料室	Peace Preservation/ Weapon Dev. Research Library	治安維持部門兵器開発部門資料室	scene_08
+治安維持部門・兵器開発部門資料室	Peace Preservation/ Weapon Dev. Research Library	治安維持部門兵器開発資料室	scene_08
 科学部門資料室	Scientific Research Library	科学部門資料室	scene_08
 ハット	Hart		scene_08
 あ、これはどうも	How do you do?		scene_08
-こちらはこのミッドガルの市長室でございます。この中にはドミノ市長がいらっしゃいます	This is the Midgar Mayor's Office. Mayor Domino is in his office.	市長室中市長	scene_08
+こちらはこのミッドガルの市長室でございます。この中にはドミノ市長がいらっしゃいます	This is the Midgar Mayor's Office. Mayor Domino is in his office.	市長室中	scene_08
 ちなみにわたくしはミッドガルの助役です。困ったことがありましたらぜひわたくしに……	I am the Deputy Mayor. If you should have any questions feel free to ask me…	助役困	scene_08
 ドミノ	Domino		scene_08
 あ～？なんだねキミたちは？	Hmm? Oh, and who might you be?		scene_08
-ああ、キミらが例の……私？　私はこの魔晄都市ミッドガルの市長、ドミノだ	You all must be those…ahem… Me? I'm Domino, the Mayor of Midgar.	例私私魔晄都市市長	scene_08
+ああ、キミらが例の……私？　私はこの魔晄都市ミッドガルの市長、ドミノだ	You all must be those…ahem… Me? I'm Domino, the Mayor of Midgar.	例私魔晄都市長	scene_08
 とは言っても名前だけ。ホントのところ、ミッドガルのすべては神羅のものだ	Actually, I'm Mayor in name only. The city and everything in it is really run by Shinra, Inc.	言名前神羅	scene_08
 今の私の仕事といったら神羅カンパニーの資料管理……	My only real job is watching over Shinra's documents…	今私仕事神羅資料管理	scene_08
 ミッドガルの市長が！神羅の資料を！ハア……	Me! The Mayor! A librarian! Ohh…	市長神羅資料	scene_08
-キミら、上へ行きたいんだろ？いいとも、私のカードキーをやろう。合言葉を言えたらな	You want to get upstairs? I tell you what, if you can guess the password, I'll give you my keycard.	上行私合言葉言	scene_08
-そう、合言葉だ。それを言えたら、カードをやろう	Yes, that's it. Guess the password and I'll give you my keycard!	合言葉言	scene_08
+キミら、上へ行きたいんだろ？いいとも、私のカードキーをやろう。合言葉を言えたらな	You want to get upstairs? I tell you what, if you can guess the password, I'll give you my keycard.	上行私合言葉	scene_08
+そう、合言葉だ。それを言えたら、カードをやろう	Yes, that's it. Guess the password and I'll give you my keycard!	合言葉	scene_08
 おまけに１回で当てたらナイスなおみやげもつけてやるぞ？	Get it on the first try and I'll even throw in a special item!	回当	scene_08
-合言葉がわかったのか？では言ってみたまえ	Got it? Then tell me.	合言葉言	scene_08
+合言葉がわかったのか？では言ってみたまえ	Got it? Then tell me.	合言葉	scene_08
 合言葉は？	So, what's the password?	合言葉	scene_08
 市長最高！！	BEST	市長最高	scene_08
 神羅最低！！	KING	神羅最低	scene_08
@@ -59,7 +59,7 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 ちょっと待ってくれ	Wait a second	待	scene_08
 ぜんぜん違う！もっとすばらしい言葉だ！やり直し！	Nope! You're ALL wrong! It's a much better word than that! Try again!	違言葉直	scene_08
 市　　長　　最　　高　　！！	BEST!!	市長最高	scene_08
-なんとすばらしいひびき！そのとおり！ミッドガルの市長は最高！誰が何と言おうと最高！	God, I love the sound of that! BEST!! I AM the best…ME!! No matter what anyone else says, you'd better believe it.	市長最高誰何言最高	scene_08
+なんとすばらしいひびき！そのとおり！ミッドガルの市長は最高！誰が何と言おうと最高！	God, I love the sound of that! BEST!! I AM the best…ME!! No matter what anyone else says, you'd better believe it.	市長最高誰何言	scene_08
 ……フン、まあいいだろう。ホラ、持っていけ	…hmm. Well, OK. Here, take it.	持	scene_08
 神　　羅　　最　　低　　！！	KING!!	神羅最低	scene_08
 なんとすばらしいひびき！そのとおり！プレジデント神羅は最低！私こそミッドガルの主！	God, I love the sound of that! KING!! President Shinra sucks! I should be King of Midgar!	神羅最低私主	scene_08
@@ -74,7 +74,7 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 だから私はここでキミたちをなやませ今度はキミたちが上へ行って神羅のやつらを困らせる	That's why I was a little rough on you all just now. Now go up there and really make them suffer.	私今度上行神羅困	scene_08
 どうだ、これでおあいこだろ。ヒ、ヒヒ、ヒヒヒ……	This ought to teach them! Heh heh heh…		scene_08
 言っておくが、私のカードでは６５階までしかのぼれんよ	But my card will only get you to the 65th floor.	言私階	scene_08
-神羅め、この私を……この私を一般社員とおなじあつかいに……	Can you believe how they treat me? …ME! Like some common employee…	神羅私私一般社員	scene_08
+神羅め、この私を……この私を一般社員とおなじあつかいに……	Can you believe how they treat me? …ME! Like some common employee…	神羅私一般社員	scene_08
 市長の話はお聞きになりました？	Did you speak with the Mayor?	市長話聞	scene_08
 は？合言葉？ははあ、なるほど……	What? A password? Oh, I get it…	合言葉	scene_08
 あの人もヒマなんですよ。なんせミッドガルの全権はほとんどプレジデント神羅のものですからね	He's got way too much time on his hands. But you can't really blame him, Everything in Midgar is controlled by President Shinra.	人全権神羅	scene_08
@@ -111,7 +111,7 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 合言葉はその４つの資料室にかくされています	Parts of the password are hidden in each of the libraries.	合言葉資料室	scene_08
 各部屋の資料をよ～く調べてみてください	Pay careful attention to the files in each room.	各部屋資料調	scene_08
 資料室の名前はドアの横のプレートに書いてあります	The name of each library is written on the plaque outside the door.	資料室名前横書	scene_08
-いいですか。どの資料室にも１つだけ他の部の資料がまぎれこんでいるはずです	Now, in each library will be one file mixed in from another library.	資料室他部資料	scene_08
+いいですか。どの資料室にも１つだけ他の部の資料がまぎれこんでいるはずです	Now, in each library will be one file mixed in from another library.	資料室他部	scene_08
 その資料の数字とファイル名をよく見ると……	Look carefully at the numbers on each file.	資料数字名見	scene_08
 いいですか。すべての資料には数字がついています	There is a number at the beginning of each file name.	資料数字	scene_08
 各部屋にまぎれこんでいる資料の名前を、その数字と見くらべてください	Look at the number on the files that don't belong in that library. Match the number with the letters in the title of the file.	各部屋資料名前数字見	scene_08
@@ -121,7 +121,7 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 もしプレジデント神羅に会っても、わたくしのことは言わないでくださいよ	If you run into President Shinra, please don't tell him about this.	神羅会言	scene_08
 これ以上神羅にイジメられるのはゴメンですからね……	I can't be a partner to anymore trouble for Shinra.	以上神羅	scene_08
 なんと、１回でズバリあてるとは……	I never thought you'd get it on the first try…	回	scene_08
-ひとは見かけによらないものだ。まあいい、約束は約束だ。これもやろう	Just goes to show you can't judge a book by its cover. Oh well, a promise is a promise. Take this, too.	見約束約束	scene_08
+ひとは見かけによらないものだ。まあいい、約束は約束だ。これもやろう	Just goes to show you can't judge a book by its cover. Oh well, a promise is a promise. Take this, too.	見約束	scene_08
 『ぞくせい』のマテリアを手にいれた！	Received "Elemental" Materia!	手	scene_08
 ……なんだ、アレはいっぱいか。アレに空きができたら、またきたまえ	What…full already? Come back again when it's empty.	空	scene_08
 『ポーション』を手にいれた！-	Received "Potion"!	手	scene_08
@@ -141,22 +141,22 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 持ちだし禁止！	Materials are non-circulating!	持禁止	scene_08
 このフロアの資料はすべて外部に持ちだすことを禁じられています。	Please do not remove any Materials from this floor.	資料外部持禁	scene_08
 ２　神羅プレート都市の 設計とその間題点	2 Problems with Plate construction in Midgar	神羅都市設計間題点	scene_08
-２　魔晄炉建造工事 都市部着工予定表	5 Reactor Construction Chart	魔晄炉建造工事都市部着工予定表	scene_08
-８　魔晄炉建造工事 都市部着工予定表	6 Reactor Construction Chart	魔晄炉建造工事都市部着工予定表	scene_08
+２　魔晄炉建造工事 都市部着工予定表	5 Reactor Construction Chart	魔晄炉建造工事都市部着予定表	scene_08
+８　魔晄炉建造工事 都市部着工予定表	6 Reactor Construction Chart	魔晄炉建造工事都市部着予定表	scene_08
 ６　魔晄兵器の長期使用に 関する特別規定	4 Ranks and extended use of Mako weaponry	魔晄兵器長期使用関特別規定	scene_08
 １　魔晄兵器の長期使用に 関する特別規定	24 Ranks and extended use of Mako weaponry	魔晄兵器長期使用関特別規定	scene_08
-４　ミッドガル区分地図 ０番街～４番街	4 Midgar City map: Sectors 0-4	区分地図番街番街	scene_08
-５　ミッドガル区分地図 ５番街～８番街	9 Midgar City map: Sectors 5-8	区分地図番街番街	scene_08
+４　ミッドガル区分地図 ０番街～４番街	4 Midgar City map: Sectors 0-4	区分地図番街	scene_08
+５　ミッドガル区分地図 ５番街～８番街	9 Midgar City map: Sectors 5-8	区分地図番街	scene_08
 ６　　図説　カトー式都市空間工法 	3 An illustrated guide to City Planning	図説式都市空間工法	scene_08
 １　　ジェノバプロジェクト 経過報告書 神羅カンパニー科学部門	4 The Jenova Project	経過報告書神羅科学部門	scene_08
-２　ミッドガル周辺に生息する 突然変異生物実験データ	6 Data on experimental animals living near Midgar	周辺生息突然変異生物実験	scene_08
+２　ミッドガル周辺に生息する 突然変異生物実験データ	6 Data on experimental animals living near Midgar	周辺生息突然変異物実験	scene_08
 ３　　　　ガストファイル 生物博士ガスト・ファレミス	3 File on Dr. Gast, Biologist	生物博士	scene_08
 ７　　　歴史の中の古代種生物博士ガスト・ファレミス	14 The Ancients in History	歴史中古代種生物博士	scene_08
 ３　新都市建設計画書	8 New plans for Urban Planning	新都市建設計画書	scene_08
 １　新都市建設計画書	10 New plans for Urban Planning	新都市建設計画書	scene_08
 ５　生物体の高レベル魔晄による	4 Report on high Mako levels in living beings	生物体高魔晄	scene_08
 影響に対する調査	2 Mako energy and the rise in life forms	影響対調査	scene_08
-４　生物の爆発的進化と 魔晄エネルギー ６　地上生物の最終進化論 	8 Final evolutionary stages in land dwelling life	生物爆発的進化魔晄地上生物最終進化論	scene_08
+４　生物の爆発的進化と 魔晄エネルギー ６　地上生物の最終進化論 	8 Final evolutionary stages in land dwelling life	生物爆発的進化魔晄地上最終論	scene_08
 ８　伝承における古代種の生物学的特性	1 Biological characteristics of the Ancients	伝承古代種生物学的特性	scene_08
 [COULDN'T FIND IT]	10 Biological characteristics of the Ancients		scene_08
 ２　　宇宙開発部門 栄光の歴史　上巻	16 Modern history of Midgar space program vol. 1	宇宙開発部門栄光歴史上巻	scene_08
@@ -166,17 +166,17 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 宇宙進出計画の失敗	6 Shinra rocket space travel	宇宙進出計画失敗	scene_08
 ６　神羅ロケットエンジンと 大陸間航行機	7 Economic report: Space Dev Program	神羅大陸間航行機	scene_08
 １　　最終予算報告書 神羅宇宙開発部門	10 Materia production and its military uses	最終予算報告書神羅宇宙開発部門	scene_08
-１　　マテリアの製造および その軍事的利用に関する権利	3 Special peace keeping law	製造軍事的利用関権利	scene_08
+１　　マテリアの製造および その軍事的利用に関する権利	3 Special peace keeping law	製造軍事的利用関権	scene_08
 ２　特別治安維持法 ハイデッカー私案	1 Heidegger's Shinra peace keeping law	特別治安維持法私案	scene_08
 １　神羅特別治安維持法 ハイデッカー私案	1 Breakdown of SOLDIER members by class	神羅特別治安維持法私案	scene_08
 ３　クラス別ソルジャー配備データ ４　新式地上兵器開発プラン	3 Plan for new land weapons	別配備新式地上兵器開発	scene_08
 ６　ミッドガル治安白書 反神羅勢力の現状	4 Midgar crime white paper	治安白書反神羅勢力現状	scene_08
 ７　神羅プレート都市の 設計とその間題点	2 Problems with Plate construction in Midgar	神羅都市設計間題点	scene_08
-ここは宇宙開発部門資料室です。 各資料室の場所については 部屋の前にあるプレートを ごらんください。	This is the Space Dev Research Library. Click on the plate in front of each library to see which it is.	宇宙開発部門資料室各資料室場所部屋前	scene_08
-ここは治安維持部門および 兵器開発部門の資料室です。	This is the Public Order/Weapon Development Library.	治安維持部門兵器開発部門資料室	scene_08
+ここは宇宙開発部門資料室です。 各資料室の場所については 部屋の前にあるプレートを ごらんください。	This is the Space Dev Research Library. Click on the plate in front of each library to see which it is.	宇宙開発部門資料室各場所屋前	scene_08
+ここは治安維持部門および 兵器開発部門の資料室です。	This is the Public Order/Weapon Development Library.	治安維持部門兵器開発資料室	scene_08
 せいりせいとんを忘れずに！ 他の部門の資料と 間違えないようにしましょう。	Return materials where you found them. Do not mix materials from other libraries.	忘他部門資料間違	scene_08
 ６　地上生物の最終進化論 	2Economic report: Space Dev Program	地上生物最終進化論	scene_08
-５　　マテリアの製造および その軍事的利用に関する権利	3Special peace keeping law	製造軍事的利用関権利	scene_08
+５　　マテリアの製造および その軍事的利用に関する権利	3Special peace keeping law	製造軍事的利用関権	scene_08
 ７　ミッドガル治安白書 反神羅勢力の現状	7Economic report: anti-Shinra activities	治安白書反神羅勢力現状	scene_08
 ６　　図説　カトー式都市空間工法	3An illustrated guide to city planning	図説式都市空間工法	scene_08
 ３　　　ガストファイルα 生物博士ガスト・ファレミス	4File on Dr. Gast, biologist	生物博士	scene_08
@@ -258,10 +258,10 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 ミッドガルパーツをはめよう	Insert the Midgar parts		scene_08
 ……なにかが開いたような音がしたな……	…Sounds like something opened up…	開音	scene_08
 キーアイテム『カードキー６６』を手にいれた！	Received Key Item "Keycard 66"!	手	scene_08
-この建設中の６番街が完成したとき、神羅の野望も完全なものとなる	When construction of Sector 6 finishes, Shinra's plan will be complete.	建設中番街完成神羅野望完全	scene_08
+この建設中の６番街が完成したとき、神羅の野望も完全なものとなる	When construction of Sector 6 finishes, Shinra's plan will be complete.	建設中番街完成神羅野望全	scene_08
 その野望のために	That must be why he took	野望	scene_08
-関係ないけどよ。 あの会議室って、何か臭くないか？ どこかから臭ってくるんだよな…… 	Is it just me or does the Conference Room smell? There's some sort of stench coming from somewhere…	関係会議室何臭臭	scene_08
-なんかこう、生きがいってものを感じるよな。世界をこの手で動かしているっていうこの感じ	It gives me the feeling that I AM alive. The feeling of moving this world, just with my hands.	生感世界手動感	scene_08
+関係ないけどよ。 あの会議室って、何か臭くないか？ どこかから臭ってくるんだよな…… 	Is it just me or does the Conference Room smell? There's some sort of stench coming from somewhere…	関係会議室何臭	scene_08
+なんかこう、生きがいってものを感じるよな。世界をこの手で動かしているっていうこの感じ	It gives me the feeling that I AM alive. The feeling of moving this world, just with my hands.	生感世界手動	scene_08
 はぁ～もうファイル運びはうんざり……	Whew, I'm so sick of carrying all these files…	運	scene_08
 でもいろんな男の人との出会いがある。それがOLの特権ね！	But I get to meet lots of guys. I guess that's the benefit of being a secretary!	男人出会特権	scene_08
 さあ、私たちで魔晄の未来をつくるのよ！	Come on, we're building the future of Mako!	私魔晄未来	scene_08
@@ -278,10 +278,10 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 約束の地はまもなく我々のものになるだろう	The Promised Land will soon be ours.	約束地我	scene_08
 それから各地の魔晄料金を15％値上げしたまえ	I want you to raise the Mako rates 15% in every area.	各地魔晄料金値上	scene_08
 パルマー	Palmer		scene_08
-値上げ値上げ！うひょひょひょひょ！ぜひ我が宇宙開発部にも予算を！	Rate hike! Rate hike! Tra, la, la! And please include our Space Program in the budget!	値上値上我宇宙開発部予算	scene_08
+値上げ値上げ！うひょひょひょひょ！ぜひ我が宇宙開発部にも予算を！	Rate hike! Rate hike! Tra, la, la! And please include our Space Program in the budget!	値上我宇宙開発部予算	scene_08
 魔晄料金値上げによる差益はリーブくんとスカーレットくんで分配したまえ	Reeve and Scarlet will divide the extra income from the rate increase.	魔晄料金値上差益分配	scene_08
 いいないいな！	Oh man!		scene_08
-プレジデント。これ以上の魔晄料金の値上げは住民の不満をまねき……	Sir. If you raise the rates, the people will lose confidence…	以上魔晄料金値上住民不満	scene_08
+プレジデント。これ以上の魔晄料金の値上げは住民の不満をまねき……	Sir. If you raise the rates, the people will lose confidence…	以上魔晄料金値住民不満	scene_08
 だいじょうぶだ	It'll be all right.		scene_08
 おろかな住民たちは不満をどころかますます神羅カンパニーに信頼をよせることになる	The ignorant citizens won't lose confidence, they'll trust Shinra, Inc. even more.	住民不満神羅信頼	scene_08
 ガハハハハ！	Ha ha ha!		scene_08
@@ -289,7 +289,7 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 汚ねえ……	That dirty #$*$^	汚	scene_08
 おお、宝条くん。あの娘はどうかね	Hojo. How's the girl?	宝条娘	scene_08
 宝条	Hojo	宝条	scene_08
-サンプルとしては母親におとる。母親イファルナとの比較中だが初期段階で相違が18％	As a specimen, she is inferior to her mother. I'm still in the process of comparing her to her mother, Ifalna, but for now the difference is 18 %.	母親母親比較中初期段階相違	scene_08
+サンプルとしては母親におとる。母親イファルナとの比較中だが初期段階で相違が18％	As a specimen, she is inferior to her mother. I'm still in the process of comparing her to her mother, Ifalna, but for now the difference is 18 %.	母親比較中初期段階相違	scene_08
 その検査にはどれくらいかかる？	How long will the research take?	検査	scene_08
 ざっと、120年。我々が生きてるあいだは無理だろう。もちろんあのサンプルもな	Probably 120 years. It's probably impossible to finish in our lifetime. Or in the lifetime of the specimen too, for that matter.	年我生無理	scene_08
 だから古代種を繁殖させようと思うのだ。しかも、長命で実験に耐えうる強さを持たせることができる	That's why we're thinking of breeding her. Then we could create one that could withstand our research for a long time.	古代種繁殖思長命実験耐強持	scene_08
@@ -323,7 +323,7 @@ CLOUD、しっかりして！	CLOUD, be strong!		scene_08
 動いてる……生きてる？	It's moving……still alive?	動生	scene_08
 何だい、この首なしは？ けっ、バカバカしい。さっさと行こうぜ	Where's its $#&*&@ head? This whole thing's stupid. Let's keep goin'.	何首行	scene_08
 さて……と 宝条さんに頼まれた サンプルわ……と	Let's see… The specimen Hojo asked me for is…	宝条頼	scene_08
-奥のサンプル運搬用エレベーターは使用禁止だよ。６８階の研究室に直結しているから便利なんだけどね	That elevator back there is only to transport Specimens. You can't use it. It would be a lot easier if it led to the 68 Floor Research Lab.	奥運搬用使用禁止階研究室直結便利	scene_08
+奥のサンプル運搬用エレベーターは使用禁止だよ。６８階の研究室に直結しているから便利なんだけどね	That elevator back there is only to transport Specimens. You can't use it. It would be a lot easier if it led to the 68 Floor Research Lab.	奥運搬用使禁止階研究室直結便利	scene_08
 AERIS？ ああ、この娘の名前だったな。何か用か？	AERIS? Oh, is that her name? What do you want?	娘名前何用	scene_08
 AERISを返してもらおう	We're taking AERIS back.	返	scene_08
 …………部外者だな	Outsiders……	部外者	scene_08
@@ -335,7 +335,7 @@ AERISを返してもらおう	We're taking AERIS back.	返	scene_08
 そうそう。こういう時こそ論理的思考によって 行動することをおすすめするよ	That's right. I recommend you think things out logically before you make any rash moves.	時論理的思考行動	scene_08
 さあ、サンプルを投入しろ！	Now, bring in the Specimen!	投入	scene_08
 何をする気だ！	What do you think you're doin'?	何気	scene_08
-滅びゆく種族に愛の手を…… どちらも絶滅まぢかだ	Lending a helping hand to an endangered species… Both of them are on the brink of extinction…	滅種族愛手絶滅	scene_08
+滅びゆく種族に愛の手を…… どちらも絶滅まぢかだ	Lending a helping hand to an endangered species… Both of them are on the brink of extinction…	滅種族愛手絶	scene_08
 私が手を貸さないと この種の生物は滅んでしまうからな	If I don't help, all these animals will disappear.	私手貸種生物滅	scene_08
 ……生物？　ひどいわ！ AERISは人間なのよ！	…animal? That's terrible! AERIS is a human being!	生物人間	scene_08
 許せねえ！	You're gonna pay!	許	scene_08
@@ -354,13 +354,13 @@ BARRET！ 何とかならないのか？	BARRET! Can't you do anything?	何	scen
 あとでいくらでもしゃべってやるよ、おじょうさん	I'll talk as much as you want later, Miss.		scene_08
 あの化け物は俺たちがかたづける	We'll take care of that monster.	化物俺	scene_08
 おまえの名前は？	What's your name?	名前	scene_08
-宝条は私をRED XIIIと名づけた。私にとって無意味な名前だ。好きなように呼んでくれ	Hojo has named me, Red XIII. A name with no meaning whatsoever to me. Call me whatever you wish.	宝条私名私無意味名前好呼	scene_08
+宝条は私をRED XIIIと名づけた。私にとって無意味な名前だ。好きなように呼んでくれ	Hojo has named me, Red XIII. A name with no meaning whatsoever to me. Call me whatever you wish.	宝条私名無意味前好呼	scene_08
 さあ、かかってこい！	Come on!		scene_08
 AERIS、だいじょうぶか？	AERIS, you all right?		scene_08
 だいじょうぶみたいよ。……いろんな意味でね	She seems all right, …in many ways.	意味	scene_08
 ……私にも選ぶ権利がある。二本足は好みじゃない	I have a right to choose, too. I don't like two-legged things.	私選権利二本足好	scene_08
 おまえ、なんだ？	What are you?		scene_08
-興味深い問いだ。しかし、その問いは答え難いな。私は見てのとおり、こういう存在だ	An informed question. But difficult to answer. I am what you see.	興味深問問答難私見存在	scene_08
+興味深い問いだ。しかし、その問いは答え難いな。私は見てのとおり、こういう存在だ	An informed question. But difficult to answer. I am what you see.	興味深問答難私見存在	scene_08
 ……いろいろ質問もあるだろうが とりあえずここから出ようか。道案内くらいなら付きあってやる	…You must have many questions, but first, let's get out of here. I'll lead the way.	質問出道案内付	scene_08
 CLOUD…… やっぱり、来てくれたのね	CLOUD… so you did come for me.	来	scene_08
 さっきは失礼したな。宝条を油断させるために演技をしたつもりだったが……	I apologize for what happened back there. I was merely acting to throw Hojo off guard……	失礼宝条油断演技	scene_08
@@ -390,7 +390,7 @@ CLOUD…… やっぱり、来てくれたのね	CLOUD… so you did come for me
 セトラ、すなわち古代種は我らに『約束の地』を教えてくれる。彼女には期待しているのだ	Cetra, or the Ancients, will show us the way to the 'Promised Land'. I'm expecting a lot out of her.	古代種我約束地教彼女期待	scene_08
 約束の地？それは言い伝えではないか？	The Promised Land? Isn't that just a legend?	約束地言伝	scene_08
 だからといって放っておくにはあまりにも魅力的だ	Even so, it's far too appealing not to pursue.	放魅力的	scene_08
-約束の地は途方もなく豊かな土地と言われているからな	It's been said the Promised Land is very fertile.	約束地途方豊土地言	scene_08
+約束の地は途方もなく豊かな土地と言われているからな	It's been said the Promised Land is very fertile.	約束地途方豊土言	scene_08
 ……土地が豊かだということは	…If the land is fertile…	土地豊	scene_08
 魔晄エネルギーだな！	then there's gotta be Mako!	魔晄	scene_08
 そのとおり。そこでは金喰い虫の魔晄炉など必要ないのだ	Exactly. That is why our money making Mako Reactor is necessary.	金喰虫魔晄炉必要	scene_08
@@ -410,8 +410,8 @@ AERISはどうしてるかな	I wonder how AERIS is doing		scene_08
 ヒソヒソ（CLOUD、たのもしい！）	Psst (CLOUD, you're so brave!)		scene_08
 ヒソヒソ(弱気にならないでよ！	Psst (Don't give up!)	弱気	scene_08
 おい	Hey!		scene_08
-AERISは古代種で 古代種の本当の呼び名はセトラ	AERIS is an Ancient and the real name of the Ancients is Cetra.	古代種古代種本当呼名	scene_08
-それで古代種は約束の地って場所を知っていて、神羅はその約束の地が欲しい、と	The Ancients know where the Promised Land is and the Shinra is searching for that Promised Land.	古代種約束地場所知神羅約束地欲	scene_08
+AERISは古代種で 古代種の本当の呼び名はセトラ	AERIS is an Ancient and the real name of the Ancients is Cetra.	古代種本当呼名	scene_08
+それで古代種は約束の地って場所を知っていて、神羅はその約束の地が欲しい、と	The Ancients know where the Promised Land is and the Shinra is searching for that Promised Land.	古代種約束地場所知神羅欲	scene_08
 でも、約束の地ってのは 言い伝えに出てくるだけで 本当にあるのかどうかはわからねえ	I only heard stories 'bout the Promised Land. I don't know if it really exists.	約束地言伝出本当	scene_08
 これでいいのか？	Is that right?		scene_08
 約束の地には豊富な魔晄エネルギーがあると 神羅の連中は考えてる	The Shinra believe that the Promised Land is full of Mako energy.	約束地豊富魔晄神羅連中考	scene_08
@@ -438,16 +438,16 @@ AERIS！？　無事か？	AERIS!? You safe?	無事	scene_08
 な～に？	What?		scene_08
 約束の地って本当にあるの？	Does the Promised Land really exist?	約束地本当	scene_08
 わたし、知ってるのは……	All I know is…	知	scene_08
-『セトラの民、星より生まれ 星と語り、星を開く』	The Cetra were born from the Planet, speak with the Planet, and unlock the Planet.	民星生星語星開	scene_08
+『セトラの民、星より生まれ 星と語り、星を開く』	The Cetra were born from the Planet, speak with the Planet, and unlock the Planet.	民星生語開	scene_08
 えっと……それから……	And……then…		scene_08
-『セトラの民、約束の地へ帰る。至上の幸福、星が与えし定めの地』	The Cetra will return to the Promised Land. A land that promises supreme happiness.	民約束地帰至上幸福星与定地	scene_08
+『セトラの民、約束の地へ帰る。至上の幸福、星が与えし定めの地』	The Cetra will return to the Promised Land. A land that promises supreme happiness.	民約束地帰至上幸福星与定	scene_08
 ……どういう意味？	…What does that mean?	意味	scene_08
 言葉以上の意味、知らないの	More than words……I don't know.	言葉以上意味知	scene_08
 ……星と語り？	…Speak with the Planet?	星語	scene_08
 星が何か言うの？	Just what does the Planet say?	星何言	scene_08
 人が大勢いて、ざわざわしてるかんじ。だから何を言ってるのか よくわからないの	It's full of people and noisy. That's why I can't make out what they are saying.	人大勢何言	scene_08
 今も聞こえるのか？	You hear it now?	今聞	scene_08
-わたし、聞こえたのはスラムの教会だけ。ミッドガルはもうダメだって 母さん……本当の母さんが言ってた	I, I only heard it at the Church in the Slums. Mother said that Midgar was no longer safe. That is…my real mother.	聞教会母本当母言	scene_08
+わたし、聞こえたのはスラムの教会だけ。ミッドガルはもうダメだって 母さん……本当の母さんが言ってた	I, I only heard it at the Church in the Slums. Mother said that Midgar was no longer safe. That is…my real mother.	聞教会母本当言	scene_08
 いつかミッドガルから逃げなさい。星と話して、AERISの約束の地 見つけなさい	Someday I'll get out of Midgar… Speak with the Planet and find my Promised Land.	逃星話約束地見	scene_08
 ……母さんが言ってた	…That's what mom said.	母言	scene_08
 大人になったら聞こえなくなるんだと思ってたけど……	I thought I would stop hearing her voice as I grew up, but…	大人聞思	scene_08
@@ -469,7 +469,7 @@ BARRET、RED XIII……来てくれ。ようすが変なんだ	BARRET, RED XIII 
 さ、RED XIIIの後を追いましょう	Come on, let's follow RED XIII!	後追	scene_08
 ジェノバ・サンプル…… 察するに上の階に向かったようだ。奥のサンプル用エレベーターを使ってな	Jenova Specimen… Looks like it went to the upper floor using that elevator for the specimens.	察上階向奥用使	scene_08
 何か目的に向かっているような…… 上に……？	It looks like it leads up…	何目的向上	scene_08
-死んでる……神羅カンパニーのボスが死んだ……	He's dead… The head of Shinra is dead…	死神羅死	scene_08
+死んでる……神羅カンパニーのボスが死んだ……	He's dead… The head of Shinra is dead…	死神羅	scene_08
 この刀は？！	Then this sword must be…	刀	scene_08
 セフィロスのものだ！！	Sephiroth's!!		scene_08
 ……セフィロスは生きているのね？	…Sephiroth is alive?	生	scene_08
@@ -479,13 +479,13 @@ BARRET、RED XIII……来てくれ。ようすが変なんだ	BARRET, RED XIII 
 こここここころさないでくれ！	P, p, p, please, don't kill me!		scene_08
 何があったんだ？	What happened?	何	scene_08
 セ、セフィロス。セフィロスが来た	Se…Sephiroth. Sephiroth came.	来	scene_08
-見たのか？　セフィロスを見たのか？	Did you see him? Did you see Sephiroth?	見見	scene_08
-ああ、見た！　この目で見た！	Yeah, I saw him! With my own eyes!	見目見	scene_08
+見たのか？　セフィロスを見たのか？	Did you see him? Did you see Sephiroth?	見	scene_08
+ああ、見た！　この目で見た！	Yeah, I saw him! With my own eyes!	見目	scene_08
 本当に見たんだな？	You really saw him?	本当見	scene_08
 うひょっ！こんな時にウソなんか言わない！それに声も聞いたんだ、うひょっ！	Uh! Would I lie at a time like this!? I heard his voice, too!	時言声聞	scene_08
 えっと『約束の地は渡さない』ってブツブツ言ってた	Um, he said something about not letting us have the Promised Land.	約束地渡言	scene_08
 それじゃあ、なに？	Then does that mean		scene_08
-約束の地っていうのは本当にあってセフィロスは約束の地を神羅から守るためにこんなことを？	the Promised Land really does exist and that Sephiroth's here to save it from Shinra?	約束地本当約束地神羅守	scene_08
+約束の地っていうのは本当にあってセフィロスは約束の地を神羅から守るためにこんなことを？	the Promised Land really does exist and that Sephiroth's here to save it from Shinra?	約束地本当神羅守	scene_08
 いいやつじゃねえのか？	So he's a good guy then?		scene_08
 約束の地を守る？いいやつ？　ちがう！！	Save the Promised Land? A good guy? No way!!	約束地守	scene_08
 そんな単純な話じゃない！俺は知ってるんだ！セフィロスの目的はちがう！	It's not that simple! I know him! Sephiroth's mission is different!	単純話俺知目的	scene_08
@@ -510,7 +510,7 @@ BARRET、RED XIII……来てくれ。ようすが変なんだ	BARRET, RED XIII 
 そうだ、社長就任のあいさつでも聞かせてやろうか	Correct. I'll let you hear my inauguration speech.	社長就任聞	scene_08
 ……オヤジは金の力で世界を支配しようとした。なるほどうまくいっていたようだ	…Father tried to control the world with money and that worked for him.	金力世界支配	scene_08
 民衆は神羅に保護されていると思っているからな	The people believed that Shinra would protect them.	民衆神羅保護思	scene_08
-神羅で働き、給料をもらいテロリストがあらわれれば神羅の軍隊が助けてくれる	Work at Shinra, get your pay. If terrorists attack, the Shinra army will help you.	神羅働給料神羅軍隊助	scene_08
+神羅で働き、給料をもらいテロリストがあらわれれば神羅の軍隊が助けてくれる	Work at Shinra, get your pay. If terrorists attack, the Shinra army will help you.	神羅働給料軍隊助	scene_08
 一見完璧だ	It looked perfect on the outside.	一見完璧	scene_08
 だが私のやりかたはちがう	But, I do things differently.	私	scene_08
 私は世界を恐怖で支配する。オヤジのやりかたでは金がかかりすぎるからな	I'll control the world with fear. It's too much to do it like my old man.	私世界恐怖支配金	scene_08
@@ -520,7 +520,7 @@ BARRET、RED XIII……来てくれ。ようすが変なんだ	BARRET, RED XIII 
 AERISを連れてビルから出てくれ！	Get AERIS outta the building!	連出	scene_08
 説明はあとだ！BARRET！　本当の星の危機だ！	I'll explain later! BARRET! This is the real crisis for the Planet!	説明本当星危機	scene_08
 なんだそりゃ？	The hell's that supposed to mean?		scene_08
-あとで話す！いまは俺を信じてくれ！俺はこいつを倒してから行く！	I'll explain later! Just take my word for now! I'll go after I take care of him!	話俺信俺倒行	scene_08
+あとで話す！いまは俺を信じてくれ！俺はこいつを倒してから行く！	I'll explain later! Just take my word for now! I'll go after I take care of him!	話俺信倒行	scene_08
 わかったぜ、CLOUD！	Alright, CLOUD!		scene_08
 なぜ私と戦うのだ？	Why do you want to fight me?	私戦	scene_08
 おまえは約束の地を求めてセフィロスを追う	You want the Promised Land and Sephiroth.	約束地求追	scene_08
@@ -549,7 +549,7 @@ CLOUD、TIFAのマテリアを……	CLOUD and		scene_08
 ……やっぱり、あなたたちだけ逃げて	If I was alone this wouldn't be a thing, but I gotta reputation to protect.	逃	scene_08
 あの人たちがねらっているのはわたし。あなたたちだけなら……	You all get out while you can.	人	scene_08
 ヘッ、そうはいかねえな	It's not you they're after… it's me.		scene_08
-アンタはマリンを守るためにヤツらに捕まった。今度は、オレがアンタを守る番だ	Yeah, well that ain't happenin'.	守捕今度守番	scene_08
+アンタはマリンを守るためにヤツらに捕まった。今度は、オレがアンタを守る番だ	Yeah, well that ain't happenin'.	守捕今度番	scene_08
 これ以上ヤツらの……神羅の好き勝手にはさせねえ	You got caught up in this over Marlene. Now, it's my turn to help you!	以上神羅好勝手	scene_08
 ……ありがと、BARRETさん	OK, playtime's over jackasses…		scene_08
 へヘッ、よしてくれよ。『BARRETさん』なんてオレのガラじゃねえや	…Thank you, Mr. BARRET!		scene_08
@@ -568,8 +568,8 @@ TIFA！CLOUDは！？	BARRET!!		scene_08
 『　神羅　　ＰＡー８６式　』	[Shinra S-27]	神羅式	scene_08
 『　神羅　　Ｓー５１０式　』	[Shinra PA-86]	神羅式	scene_08
 『　神羅　　ＳＡー３７式　』	[Shinra S-510]	神羅式	scene_08
-【かめ道楽　通信】ナンバー２きびしい仕事でおつかれのアナタ……ぜひいちど居酒屋『かめ道楽』へ！！仕事の後の一杯は最高ですよ！	[Shinra SA-37]	道楽通信仕事居酒屋道楽仕事後一杯最高	scene_08
-今週の標語神羅の未来は世界の未来！！魔晄の光で明るい世の中！！	Shinra, Inc.	今週標語神羅未来世界未来魔晄光明世中	scene_08
+【かめ道楽　通信】ナンバー２きびしい仕事でおつかれのアナタ……ぜひいちど居酒屋『かめ道楽』へ！！仕事の後の一杯は最高ですよ！	[Shinra SA-37]	道楽通信仕事居酒屋後一杯最高	scene_08
+今週の標語神羅の未来は世界の未来！！魔晄の光で明るい世の中！！	Shinra, Inc.	今週標語神羅未来世界魔晄光明中	scene_08
 指示があるまで、ディスクホルダーを開けないで下さい	Our slogan is: Shinra's Future Is The World's Future!! Mako Energy For A Brighter World!!	指示開下	scene_08
 バイクを【方向キー】で操作して神羅の追撃隊から仲間の乗るトラックを守って下さい	Until instructed, please don't open the disc holder.	方向操作神羅追撃隊仲間乗守下	scene_08
 ○ボタン	Control the bike with the [Directional buttons] and save your friends in the truck from the Shinra pursuit troops.		scene_08
@@ -588,7 +588,7 @@ TIFA！CLOUDは！？	BARRET!!		scene_08
 古代種のことか？	I'll go, too. There are things I need to know.	古代種	scene_08
 ……いろいろ、たくさん	About the Ancients?		scene_08
 さらばミッドガル、ね	…Many things.		scene_08
-AERISのおふくろさんには安全な場所に移るようにって言っといたからマリンも安全だな	I guess it's good bye, Midgar.	安全場所移言安全	scene_08
+AERISのおふくろさんには安全な場所に移るようにって言っといたからマリンも安全だな	I guess it's good bye, Midgar.	安全場所移言	scene_08
 さ～て、どうかな	Yeah, she should be		scene_08
 もう、ミッドガルはイヤだって言ってた……ちょうど良かったかな	Hmm, I don't know	言良	scene_08
 やめてよ、CLOUD！わたしだって心配なんだから	She said she didn't want to stay in Midgar anymore. …Maybe it's for the best.	心配	scene_08

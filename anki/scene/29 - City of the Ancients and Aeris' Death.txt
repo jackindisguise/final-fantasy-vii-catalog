@@ -14,11 +14,11 @@ AERISを知らないか？	Do you know where AERIS is?	知	scene_29
 キーストーンがないとダメさ	You'll need the Keystone.		scene_29
 キーストーンって？	What's a Keystone?		scene_29
 ああ知っている	Oh, yeah, I know	知	scene_29
-文字通りカギとなる石さ。どこかの金持ちが持っているって話だな	Just like it sounds. A rock that's a key. I heard that some rich guy has it.	文字通石金持持話	scene_29
+文字通りカギとなる石さ。どこかの金持ちが持っているって話だな	Just like it sounds. A rock that's a key. I heard that some rich guy has it.	文字通石金持話	scene_29
 逃げないのか？？	Are you going to run away??	逃	scene_29
 僕たちはこの星の始まりから今にいたるまでを化石を通して知ってきた	Through fossils, we already know everything that happened on this Planet since the beginning.	僕星始今化石通知	scene_29
 そして今、この星の終わりを見届けようとしている……なんだか複雑な気持ちだよ	Now, we want to see the rest on to the end of the Planet… It's a mixed feeling…	今星終見届複雑気持	scene_29
-古代種の都？ああ、忘らるる都のことだな	The City of the Ancients? Oh, you must mean the Forgotten City.	古代種都忘都	scene_29
+古代種の都？ああ、忘らるる都のことだな	The City of the Ancients? Oh, you must mean the Forgotten City.	古代種都忘	scene_29
 あの女の子のことか？俺はやめろと言ったのに【眠りの森】に入っていったんだ	Are you talking about that girl? I warned her, but she went into the Sleeping Forest anyway.	女子俺言眠森入	scene_29
 化石をほっているのさ。大地が語る、この星の歴史……	Excavating is great. It's like a history of the Planet told in the land.	化石大地語星歴史	scene_29
 この村のルールは何も考えないこと	This town's motto is not to think about anything.	村何考	scene_29
@@ -28,7 +28,7 @@ AERISを知らないか？	Do you know where AERIS is?	知	scene_29
 ルナ・ハープが欲しい	I want the Lunar Harp	欲	scene_29
 何もいらない	Don't want anything	何	scene_29
 まいど！これで森の目もさめるよ	Thanks! Now, the forest will awaken.	森目	scene_29
-ルナ・ハープはこの土地の地下にねむっている。ハックツして欲しいのならうけおうぜ	The Lunar Harp is somewhere in the ground here. We could excavate it for you if you want us to.	土地地下欲	scene_29
+ルナ・ハープはこの土地の地下にねむっている。ハックツして欲しいのならうけおうぜ	The Lunar Harp is somewhere in the ground here. We could excavate it for you if you want us to.	土地下欲	scene_29
 ハックツをたのむ	Start diggin'		scene_29
 かいものをしたい	I want to buy something		scene_29
 今は用はない	Not right now	今用	scene_29
@@ -40,21 +40,21 @@ AERISを知らないか？	Do you know where AERIS is?	知	scene_29
 よし！じゃあ、俺のスタッフをかしてやろう。ハックツポイントを指定してくれ！	All right! Then I'll lend you some of my staff. Show us where you want us to dig!	俺指定	scene_29
 ハックツ品は上のテントわきのハコの中にあるぜ	Everything already excavated is in the box next to the tent.	品上中	scene_29
 この地層に星の記憶が積み重ねられているのよ。ロマンを感じるでしょ？	The memory of this planet is buried layer by layer in this geological stratum. Kind of romantic, don't you think?	地層星記憶積重感	scene_29
-この先の森は【眠りの森】とよんでる。森が眠り、まどろんでいる間はそこに迷いこんだ人間を惑わすと言われています。入ったら二度と出られないとも……	The forest just beyond here is called the Sleeping Forest. Right now the forest is asleep. Anyone who wanders in while it's asleep, gets confused. You can go in, but you may never come out…	先森眠森森眠間迷人間惑言入二度出	scene_29
+この先の森は【眠りの森】とよんでる。森が眠り、まどろんでいる間はそこに迷いこんだ人間を惑わすと言われています。入ったら二度と出られないとも……	The forest just beyond here is called the Sleeping Forest. Right now the forest is asleep. Anyone who wanders in while it's asleep, gets confused. You can go in, but you may never come out…	先森眠間迷人惑言入二度出	scene_29
 でもさっき、ピンクの女の子と黒い男の人が入っていったわ。だいじょうぶかしら？	But just now, a girl in pink and a man in a black cape went in. You think they'll be all right?	女子黒男人入	scene_29
 ルナ・ハープという楽器があれば【眠りの森】は目をさますはず	You can awaken the Sleeping Forest if you have the Lunar Harp.	楽器眠森目	scene_29
 目をさませば、森は道をひらくと言われています	Once awake, they say the forest will open a road for you.	目森道言	scene_29
 さっききたピンクの女の子もルナ・ハープをつかって森を抜けたんだ	The girl in pink who just went in used a Lunar Harp to get through.	女子森抜	scene_29
 ルナ・ハープがほしい	I want a Lunar Harp		scene_29
 下のテントにいる男に聞いてな	Ask the guy in the tent below.	下男聞	scene_29
-私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね	We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.	私最新地下埋発見爆弾人工的地震振動反射	scene_29
+私たちは最新のシステムで地下に埋まっているものを発見するの。爆弾で人工的に地震をおこしその振動の反射をそくていするのね	We use the newest system to find buried treasure. We use bombs to make earthquakes, and then check the sound waves given off by the tremors.	私最新地下埋発見爆弾人工的震振動反射	scene_29
 □ボタンを押してスタッフの配置場所を決めてください。	Please push [SWITCH] to set staff in position.	押配置場所決	scene_29
 調査を指示（１００ギル）	Order a search (100 gil)	調査指示	scene_29
 お金がたりないので配置しませんでした。	Could not position the staff, due to a lack of funds.	金配置	scene_29
-□ボタンを押せば調査用の爆弾が 地中で爆発します。	Press [SWITCH] to ignite the bomb for the search.	押調査用爆弾地中爆発	scene_29
+□ボタンを押せば調査用の爆弾が 地中で爆発します。	Press [SWITCH] to ignite the bomb for the search.	押調査用爆弾地中発	scene_29
 各スタッフは爆発の反動を計算し 目的のまいぞう物の方向を指し示します。	The staff member will calculate the tremors and dig up the buried item.	各爆発反動計算目的物方向指示	scene_29
 つまりスタッフの視線が交わった ポイントがハックツポイントです。 	The dig point is where the staff's line of vision meets.	視線交	scene_29
-地下調査する地点まで移動し□ボタンで 決定してください。穴をほって調査します。 ？？？	Move to the dig point and press [SWITCH] to select. The staff will dig for the item.	地下調査地点移動決定穴調査	scene_29
+地下調査する地点まで移動し□ボタンで 決定してください。穴をほって調査します。 ？？？	Move to the dig point and press [SWITCH] to select. The staff will dig for the item.	地下調査点移動決定穴	scene_29
 ではこの地点をほります。一晩ねれば、結果が村のたからばこに入れられます	Now, the staff will dig here. The result will be placed in the treasure box overnight.	地点一晩結果村入	scene_29
 ハックツってのは地道な作業だよ。俺たちがほりおこした宝物はテントの横のハコにしまっておくんだ。おぼえておきな	Excavating is a slow process. The treasures we excavate are stored in the box next to the tent. Remember that.	地道作業俺宝物横	scene_29
 や、やっぱりコワイ……	It, it's scary…		scene_29
@@ -66,7 +66,7 @@ AERISを知らないか？	Do you know where AERIS is?	知	scene_29
 ぬぉぉぉおおお！	Nnnnnnghaah!		scene_29
 眠りの森がめざめた……	The Sleeping Forest awoke…	眠森	scene_29
 ここは……！	This place…!		scene_29
-あれが……古代種の都『忘らるる都』なのか	So that's……the capital of the Ancients The Forgotten City'.	古代種都忘都	scene_29
+あれが……古代種の都『忘らるる都』なのか	So that's……the capital of the Ancients The Forgotten City'.	古代種都忘	scene_29
 あの『都』にAERISはいる……	AERIS is in that 'City'.	都	scene_29
 ……ウッ	…Ugh.		scene_29
 ……古代種の言葉？	…Words of the Ancients?	古代種言葉	scene_29
@@ -198,22 +198,22 @@ AERISは、もうしゃべらないもう……笑わない泣かない……怒
 俺は自分の意志でここまでやってきた……そう思っていた	I came here by my own free will… Or so I thought.	俺自分意志思	scene_29
 しかし……	However…		scene_29
 ……正直に話す。俺は自分が怖い	…To tell the truth, I'm afraid of myself.	正直話俺自分怖	scene_29
-……俺の中には俺の知らない部分がある	…There is a part of me that I don't understand.	俺中俺知部分	scene_29
+……俺の中には俺の知らない部分がある	…There is a part of me that I don't understand.	俺中知部分	scene_29
 俺はセフィロスに黒マテリアを渡してしまった	That part that made me give the Black Materia to Sephiroth.	俺黒渡	scene_29
 みんなが止めてくれなければAERISをこの手で……	If you hadn't stopped me, AERIS might have been…	止手	scene_29
-……そういう自分が俺の中にいる。俺ではない自分が	…There's something inside of me. A person who is not really me.	自分俺中俺自分	scene_29
+……そういう自分が俺の中にいる。俺ではない自分が	…There's something inside of me. A person who is not really me.	自分俺中	scene_29
 だから俺はもうこの旅をやめた方がいいのかもしれない	That's why I should quit this journey.	俺旅方	scene_29
 とんでもないことをしてしまうかもしれない	Before I do something terrible.		scene_29
 でも、俺は行く	But I am going.	俺行	scene_29
-５年前、俺の故郷を焼き払いたった今AERISを殺しそしてこの星を破壊しようとしているセフィロスを……俺は許さない	He destroyed my hometown five years ago, killed AERIS‚and is now trying to destroy the Planet. I'll never forgive…Sephiroth.	年前俺故郷焼払今殺星破壊俺許	scene_29
-俺は……俺は、行かなくてはならない	I… I must go on.	俺俺行	scene_29
+５年前、俺の故郷を焼き払いたった今AERISを殺しそしてこの星を破壊しようとしているセフィロスを……俺は許さない	He destroyed my hometown five years ago, killed AERIS‚and is now trying to destroy the Planet. I'll never forgive…Sephiroth.	年前俺故郷焼払今殺星破壊許	scene_29
+俺は……俺は、行かなくてはならない	I… I must go on.	俺行	scene_29
 ……頼みがある	…I have a favor to ask of you.	頼	scene_29
 みんなも来てくれ……るよな？	Will you all come with me?	来	scene_29
 ……俺がおかしなまねをしないように見張っていてほしいんだ	…to save me from doing something terrible.	俺見張	scene_29
 ……でもよ、なんだかよ……	…I dunno‚ man…		scene_29
 ……でも、CLOUD	…But‚CLOUD		scene_29
 ……わかった、CLOUD	…All right‚CLOUD.		scene_29
-ま、なんだな。そん時は、そん時だ	Well‚ we'll face it when it happens.	時時	scene_29
+ま、なんだな。そん時は、そん時だ	Well‚ we'll face it when it happens.	時	scene_29
 アタシにまかせな！	Leave it to me!		scene_29
 見張るやなんて、そんな……おんなじ仲間やないですか～	Watch you?…… We're all in this together!	見張仲間	scene_29
 AERISがどうやってメテオを防ごうとしたのかはわからない	I don't know how AERIS tried to save the planet from the Meteor.	防	scene_29
@@ -225,7 +225,7 @@ AERISがどうやってメテオを防ごうとしたのかはわからない	I 
 前にも聞いたぜ	I've heard all this before.	前聞	scene_29
 俺は自分の意志でここまでやってきた……そう思っていた。でも……	I came here on my own will…… or at least that's what I thought. But…	俺自分意志思	scene_29
 ……正直に話す。俺は自分が恐い	To be honest… I'm afraid of myself.	正直話俺自分恐	scene_29
-俺の中には、俺の知らない部分がある	There's a part of me I don't understand.	俺中俺知部分	scene_29
+俺の中には、俺の知らない部分がある	There's a part of me I don't understand.	俺中知部分	scene_29
 ……そういう自分が俺の中にいる	…It's something inside me.	自分俺中	scene_29
 ５年前、俺の故郷を焼き払いたった今、AERISを奪った	Five years ago, he burned down my hometown, then he took AERIS.	年前俺故郷焼払今奪	scene_29
 そしてこの星を破壊しようとしているセフィロスを……俺は許さない	And now he's trying to destroy the Planet. I won't let him get away with it.	星破壊俺許	scene_29

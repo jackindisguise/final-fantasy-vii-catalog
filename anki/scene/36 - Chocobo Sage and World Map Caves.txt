@@ -36,8 +36,8 @@
 おお、あのチョコボか？あのチョコボは……	That Chocobo? Well that one is…		scene_36
 なんじゃったかのぉ思い出せんのぉ…	Let's see now, I don't quite remember…	思出	scene_36
 おお、思い出したぞ！あのチョコボはのぉ	I remember now! That's the one they call…	思出	scene_36
-『山チョコボ』じゃ。名の通り、山も越えられるチョコボじゃて	It's a Mountain Chocobo. And like the name says, he can cross any mountain.	山名通山越	scene_36
-他にも川を越えられる『川チョコボ』とかもおったのぉ	There is another one that can cross rivers, too. They call him a 'River Chocobo'.	他川越川	scene_36
+『山チョコボ』じゃ。名の通り、山も越えられるチョコボじゃて	It's a Mountain Chocobo. And like the name says, he can cross any mountain.	山名通越	scene_36
+他にも川を越えられる『川チョコボ』とかもおったのぉ	There is another one that can cross rivers, too. They call him a 'River Chocobo'.	他川越	scene_36
 どこで捕まえる？	Where can we catch one?	捕	scene_36
 どこで捕まえられるの？	Where can we find one?	捕	scene_36
 どこにいるんだその何とかチョコボってのは？	Where can I get one of those Whatdyacallem Chocobos?	何	scene_36
@@ -48,7 +48,7 @@
 はて？なんでいるんじゃろうのぉ	Wha? I wonder what he's doing there?		scene_36
 思い出せんのぉ…	Can't remember for the life of me…	思出	scene_36
 生まれたんじゃ。『すごくいいチョコボ』か『いい感じのチョコボ』にのぉ	…was bred from a Great Chocobo' and a Good Chocobo'.	生感	scene_36
-『カラブの実』を使ってタマゴを生ませると生まれる時があるんじゃ	If you give them "Carob Nuts" during breeding, there's a chance you'll get one of these Chocobos.	実使生生時	scene_36
+『カラブの実』を使ってタマゴを生ませると生まれる時があるんじゃ	If you give them "Carob Nuts" during breeding, there's a chance you'll get one of these Chocobos.	実使生時	scene_36
 それで、そのチョコボはどこにいるんだ？	So where's this Chocobo?		scene_36
 それと、その『カラブの実』はどこで手に入る？	So where can I get some of these 'Carob Nuts'?	実手入	scene_36
 それで、そのチョコボはどこに行けば捕まえられるの？	So where can I find those Chocobos?	行捕	scene_36
@@ -81,9 +81,9 @@
 おお、思い出したぞ！山と川を渡れるチョコボにのぉ	Right, right! I remember! You take the Mountain-and-River-crossing Chocobo…	思出山川渡	scene_36
 このスグそばで取れるそれはいいチョコボとタマゴを生ませるとのぉ	Mate it with a 'Wonderful Chocobo' you can catch right around here… And you'll get…	取生	scene_36
 海を渡れるチョコボが生まれるんじゃ。おおっ、それにのぉ	A chocobo that can cross the ocean will be born. Oh, but for that to happen...	海渡生	scene_36
-『実』が必要じゃはて、なんの『実』じゃったかのぉ	You’ll need a certain type of nut. Just what type was it again...	実必要実	scene_36
+『実』が必要じゃはて、なんの『実』じゃったかのぉ	You’ll need a certain type of nut. Just what type was it again...	実必要	scene_36
 おお、思い出したぞ！その実はのぉ	Oh, right! You'll need a…	思出実	scene_36
-『ゼイオの実』じゃ『ゼイオの実』はのぉたしか……	'Zeio Nut'. Now let me see, as I remember, the Zeio Nut…	実実	scene_36
+『ゼイオの実』じゃ『ゼイオの実』はのぉたしか……	'Zeio Nut'. Now let me see, as I remember, the Zeio Nut…	実	scene_36
 どこで手に入ったかのぉ	Where was it you could find those things?	手入	scene_36
 おお、思い出したぞ！ 『ゼイオの実』はのぉ	Oh yeah! Zeio Nuts…	思出実	scene_36
 ゴブリンの好物じゃ。ここから東の小島におるゴブリンがもっておるわ	Are the favorite of goblins. There's a small island east of here where the goblins have a bunch of them.	好物東小島	scene_36
@@ -100,7 +100,7 @@
 ここはチョコボでも渡れないか…もっとパワーのある乗り物なら…？	Not even a Chocobo could make it across. Isn't there a more powerful vehicle?	渡乗物	scene_36
 チョコボの移動	How to ride a Chocobo	移動	scene_36
 バギーは、【川のあさい部分】や【サバク】を移動することができます。	Buggy's can cross shallow rivers and deserts	川部分移動	scene_36
-コスタ・デル・ソルやジュノンにはバギーに乗ったまま入ることができ、【運搬船】で運ぶことができます。	You can even enter costa del sol and Junon by Buggy by hitching a ride on the cargo ship	乗入運搬船運	scene_36
+コスタ・デル・ソルやジュノンにはバギーに乗ったまま入ることができ、【運搬船】で運ぶことができます。	You can even enter costa del sol and Junon by Buggy by hitching a ride on the cargo ship	乗入運搬船	scene_36
 タイニー・ブロンコの移動	How to fly the tiny bronco.	移動	scene_36
 【決定ボタン】乗る	press the [Circle] button to get on	決定乗	scene_36
 【キャンセルボタン】降りる	press the [Cancel] button to get off	降	scene_36

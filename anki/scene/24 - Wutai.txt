@@ -1,5 +1,5 @@
 荒れ地	Wilderness	荒地	scene_24
-待った待った待ったーっ！！	Wait, wait, wait, wai----t!!	待待待	scene_24
+待った待った待ったーっ！！	Wait, wait, wait, wai----t!!	待	scene_24
 なになに！？どうしたの、とつぜんあわてたりして？	What!? What happened all of a sudden?		scene_24
 な、なんだなんだ！？急にどうしたってんだ？	What!? The hell happened all of a sudden!?	急	scene_24
 な、なによとつぜん！？何かあったの？	What the--? Did something happen?	何	scene_24
@@ -46,7 +46,7 @@ YUFFIE、あなたまさか……！	YUFFIE, you're not…		scene_24
 YUFFIEさん、なかなかやりますなぁ	Not bad, YUFFIE, not bad at all.		scene_24
 YUFFIE！おめえいい度胸してんじゃねえか！	YUFFIE! You sure got some nerve, kid!	度胸	scene_24
 これはどういうことか……後でじっくり説明してもらおうか	So what does this mean? You will explain later.	後説明	scene_24
-知らない知らない！これはアタシとカンケーないって！	I didn't know! I had nothing to do with this one!	知知	scene_24
+知らない知らない！これはアタシとカンケーないって！	I didn't know! I had nothing to do with this one!	知	scene_24
 これ『は』？これ『は』って、何？	This one? What do you mean 'THIS one'?	何	scene_24
 YUFFIE、あなたやっぱりイケナイこと考えてたでしょ！	So you WERE up to something!	考	scene_24
 これ『は』って何だ！『は』って！	Whaddya mean 'this one'!? This one'?	何	scene_24
@@ -98,15 +98,15 @@ YUFFIE、やっぱりあなた何かたくらんでたのね！	So you WERE tryi
 最初からあのコわたしたちのマテリアねらってたのね、きっと	She was probably eyeing our Materia from the beginning.	最初	scene_24
 あのコ、北の方に逃げたみたい。早く追いかけて、マテリア取り返さなくちゃ！	It looks like she went North. Let's hurry after her and get our Materia back!	北方逃早追取返	scene_24
 あいつ、はじめっからオレたちのマテリアをねらってやがったんだ！！	She was after our Materia from the start!!		scene_24
-北だ、北に逃げてったぜ！絶対に、絶対につかまえてマテリア取りもどしてやる！	She went North! When I get my hand on her, I'll get our Materia back!	北北逃絶対絶対取	scene_24
+北だ、北に逃げてったぜ！絶対に、絶対につかまえてマテリア取りもどしてやる！	She went North! When I get my hand on her, I'll get our Materia back!	北逃絶対取	scene_24
 急げ！後を追うぞ！	C'mon! We're goin' after her!	急後追	scene_24
 はじめっから私たちのマテリアをねらってたんだわ	She was after our Materia from the beginning.	私	scene_24
 そんなことさせないから！たしか北の方に逃げてったわ。後を追いましょう！！	She won't get away with this! I'm pretty sure she ran off North. Let's go after her!!	北方逃後追	scene_24
 はじめからオイラたちのマテリアがねらいだったんだ	Her objective was stealing our Materia from the beginning.		scene_24
-クンクン……北だ！北の方に逃げたよ！	…sniff… North! She ran off to the North!	北北方逃	scene_24
-このまま逃がすもんか！早く早く！マテリア取りもどさなきゃ！	I'm not going to let her get away with this! Hurry, hurry! We have to get our Materia back!	逃早早取	scene_24
+クンクン……北だ！北の方に逃げたよ！	…sniff… North! She ran off to the North!	北方逃	scene_24
+このまま逃がすもんか！早く早く！マテリア取りもどさなきゃ！	I'm not going to let her get away with this! Hurry, hurry! We have to get our Materia back!	逃早取	scene_24
 さいしょっからマテリアが目的やったんやな	She must've been after our Materia from the beginning.	目的	scene_24
-ほっとくわけやないんですやろ？ほんな、ちゃっちゃと追いかけましょ！方角？北です、北！占いのおつげや！	We can't just let her get away, right? Then, let's hurry after her! Which way? It's North, the North! It's a message from the stars!	追方角北北占	scene_24
+ほっとくわけやないんですやろ？ほんな、ちゃっちゃと追いかけましょ！方角？北です、北！占いのおつげや！	We can't just let her get away, right? Then, let's hurry after her! Which way? It's North, the North! It's a message from the stars!	追方角北占	scene_24
 間違いねえ！はじめからオレ様のマテリアをねらってやがった！！	No doubt about it! That kid was after our Materia from the start!!	間違様	scene_24
 フン……どうやら北に逃げたらしいな	Hmm… Looks like she went North.	北逃	scene_24
 グズグズするない！すぐ出発するぞ！あのヤロー、とっつかまえてやる！！	Don't drag your asses! We're going right NOW! That $#@^% is history!!	出発	scene_24
@@ -117,11 +117,11 @@ YUFFIE、やっぱりあなた何かたくらんでたのね！	So you WERE tryi
 た、た、たいへんだよ！オイラたちのマテリアがなくなっちゃった！！	O…OH NO! All of our Materia…gone!?		scene_24
 ウータイ	Wutai		scene_24
 あッ！！	Hey!!		scene_24
-人の生、ただ水の流れににたり。命の大海より流れいでまた大海へと帰るものなり	Life is just like a river. It flows from the large ocean of life, and eventually it returns back to it.	人生水流命大海流大海帰	scene_24
+人の生、ただ水の流れににたり。命の大海より流れいでまた大海へと帰るものなり	Life is just like a river. It flows from the large ocean of life, and eventually it returns back to it.	人生水流命大海帰	scene_24
 ここは歴史の地、ウータイ。めずらしいものもあるからごらんになるといいでしょう	Wutai is a historical place. There are some very unusual things here you should see.	歴史地	scene_24
 YUFFIEですか？さっきみかけましたよ。このあたりの家にいるんじゃないかしら……？	YUFFIE? I saw her a while ago. She must be in one of the houses around here.	家	scene_24
 マテリアも人の生ももとは同じ。いずれ命の大海へともどるべきものなのです	Materia is like Life. They both come from the large ocean of life, and both must return to it.	人生同命大海	scene_24
-人の生など、木の葉からしたたるあさつゆのようなもの。あの星が落ちようと落ちまいとほんの一瞬のきらめきにすぎないのです	Life is like the dew on the leaves of the trees. Whether Meteor falls or not is no more than a fleeting glimmer.	人生木葉星落落一瞬	scene_24
+人の生など、木の葉からしたたるあさつゆのようなもの。あの星が落ちようと落ちまいとほんの一瞬のきらめきにすぎないのです	Life is like the dew on the leaves of the trees. Whether Meteor falls or not is no more than a fleeting glimmer.	人生木葉星落一瞬	scene_24
 この先の屋敷にはゴドー様がいらっしゃる	Lord Godo is in this house.	先屋敷様	scene_24
 むかしはたいそう強い方だったが今ではねてばかりだナ……	He used to be quite strong, but now, all he does is sleep…	強方今	scene_24
 なに、YUFFIEとな……それならゴドー様にきくのがいちばんだナ。　なにせ……	What, YUFFIE… It's best to ask Lord Godo about that.	様	scene_24
@@ -133,7 +133,7 @@ YUFFIEのやつ、あの性格だからナ。ときどき、人の家なんか�
 どっかすみっこのほうでまたゴソゴソと、何かしてるんじゃないかナ	Always sneakin' around corners and doin' somethin' she shouldn't.	何	scene_24
 ケンカばかりしとるがあれでゴドー様とYUFFIEはじつによくにてるんだ	She's always getting into fights. I guess she takes after Godo that way.	様	scene_24
 やはり親子なのかね……	Like father like daughter…	親子	scene_24
-そうそう、たった今女の子がふたりダチャオ像の方へ行ったがあれが今のはやりなのかナ？	Two girls just went off towards Da-chao. I wonder if that place is popular with the kids now?	今女子像方行今	scene_24
+そうそう、たった今女の子がふたりダチャオ像の方へ行ったがあれが今のはやりなのかナ？	Two girls just went off towards Da-chao. I wonder if that place is popular with the kids now?	今女子像方行	scene_24
 ロープでグルグルまかれてかかえられてったよ。そういやひとりはYUFFIEに似ていたナ……	One had herself all tangled up in a rope. And the other one kind of looked like YUFFIE.	似	scene_24
 なに、カネ？カネと言ったっていろいろあるからナ……	Hm, money? There's all kinds of money.	言	scene_24
 あんなカネ、こんなカネ……おお、そういえばあそこにもカネがあったナ……	This type and that… Hey now that you mention it, there was some money over there.		scene_24
@@ -163,20 +163,20 @@ YUFFIEならこの町から出てはいないと思うが……それでも行�
 居酒屋　『かめ道楽』	Pub [Turtle's Paradise]	居酒屋道楽	scene_24
 チラシキャンペーンの おしらせ	Publicity Flyers! Notice		scene_24
 ただいま居酒屋『かめ道楽』では チラシキャンペーンを展開中です。	[Turtle's Paradise] is now having a publicity campaign.	居酒屋道楽展開中	scene_24
-世界各地にはられている『かめ道楽』のチラシ【かめ道楽　通信】　をさがしだしてください。	Flyer's will be posted all over the world. So make sure you look for our flyers that say "Turtle's Paradise" 	世界各地道楽道楽通信	scene_24
+世界各地にはられている『かめ道楽』のチラシ【かめ道楽　通信】　をさがしだしてください。	Flyer's will be posted all over the world. So make sure you look for our flyers that say "Turtle's Paradise" 	世界各地道楽通信	scene_24
 チラシはぜんぶで６枚。 すべてさがしだした方は 『かめ道楽』主人におしらせ下さい。 ささやかな景品をプレゼント！！	There's six in all. If you find them all, make sure to let the owner of Turtle's Paradise know. You can win a prize!	枚方道楽主人下景品	scene_24
 チラシは見るだけでオーケー！ 他のお客様のためにも やぶったりしないで下さいネ！！	All you have to do is read them. Please don't take them down or rip them up!!	見他客様下	scene_24
 『かめ道楽』主人	Owner, Turtle's Paradise	道楽主人	scene_24
 ウータイ・おじじの家	Wutai‚ Old Man's House	家	scene_24
 おーおー、ひさしぶりじゃナ。今まで何しとったんじゃ。えーと…………誰だっけ？	Well, well. Long time no see. What have you been up to? Let's see…what was your name?	今何誰	scene_24
-ちがうの、おじじ！ぜんぜん知らない人よ！知らない人が勝手にあがりこんでるの！	No, Gramps! This isn't anyone you know! This is just some stranger who barged into our house!	知人知人勝手	scene_24
+ちがうの、おじじ！ぜんぜん知らない人よ！知らない人が勝手にあがりこんでるの！	No, Gramps! This isn't anyone you know! This is just some stranger who barged into our house!	知人勝手	scene_24
 おーおー、にぎやかなことじゃ。マゴのおともだちかな？	Oh, how exciting. You a friend of my grandson's?		scene_24
 ちがうの、おじじ！すっごくアヤしい人たちよ！ドタバタ走り回ってるの！	No, Gramps! These guy's are creepy! They're runnin' all over the place!	人走回	scene_24
 おーおー、このごろはアレじゃな。ひるまでもお月さんが見えるんじゃナ。みんなもよろこんでおるわい	Oh, you know lately things have been like that. You can even see the moon at noon. Everyone's celebrating.	月見	scene_24
 ちがうの、おじじ！あれは、真っ赤に燃えてる星よ！みんなこわがってるの！	No, Gramps! That's a big red planet in the sky! Everyone's scared of it!!	真赤燃星	scene_24
 どうしよう、おじじ！さっきもヘンなカッコしたおねえちゃんが、いきなり入ってきたとおもったら、あそこの……	What are we going to do, Gramps? Some strange-looking girl came in here a minute ago and I…	入	scene_24
 おじじ、たいへん！また、ヘンな人たちがきちゃった！	Oh no! More weirdos!	人	scene_24
-ううん、さっききた人とはちがうの！　でもこの人たちもヘンなカッコ！	No, these aren't like the one from a while ago, but these ones look weird, too!	人人	scene_24
+ううん、さっききた人とはちがうの！　でもこの人たちもヘンなカッコ！	No, these aren't like the one from a while ago, but these ones look weird, too!	人	scene_24
 のみどころかめ道楽	Bar [Turtle Paradise]	道楽	scene_24
 お、お前たち！？なんでこんなところへ……	Yy, you!? How did you get here?	前	scene_24
 そ、そんなことどうでもいいわ。私たちタークスに会ったのが運のつき	Never mind that. I guess it's fate that brought us together.	私会運	scene_24
@@ -219,26 +219,26 @@ YUFFIEならこの町から出てはいないと思うが……それでも行�
 レノ先輩！本当にそれでいいんですか！？	Reno, do you think that was really such a good idea!?	先輩本当	scene_24
 これがプロフェッショナルのタークスなんですか！？	I mean is that the way a professional, a Turk, would act!?		scene_24
 イリーナ。かんちがいするなよ、と	Elena. Don't misunderstand.		scene_24
-仕事のためにすべてを犠牲にするのがプロじゃない。そんなのはただの仕事バカだ、と	Those who sacrifice themselves for their job aren't pros… …just fools.	仕事犠牲仕事	scene_24
+仕事のためにすべてを犠牲にするのがプロじゃない。そんなのはただの仕事バカだ、と	Those who sacrifice themselves for their job aren't pros… …just fools.	仕事犠牲	scene_24
 ルード先輩……	Rude?	先輩	scene_24
 私にはわかりません！……失礼します！！	Well, I don't buy that! Goodbye!!	私失礼	scene_24
 ほうっておけよ。こどもじゃないんだ。好きにさせるさ、と……	Relax. She's not a child. Let her have her way.	好	scene_24
 …………休暇だから手を出さないだけだ	… It's just that we're off duty!	休暇手出	scene_24
-お前らと酒を飲む気はない。気安くはなしかけるなよ、と	I don't feel like drinking with you. And don't talk to me.	前酒飲気気安	scene_24
+お前らと酒を飲む気はない。気安くはなしかけるなよ、と	I don't feel like drinking with you. And don't talk to me.	前酒飲気安	scene_24
 ウーイ。旅の人、知ってるかい？このウータイにはむかし水神様がいたんだナ	Hey. Did you hear? There used to be a Water God here in Wutai.	旅人知水神様	scene_24
 そりゃあでっけえヘビみてえな神様だったって話だ	They say the Water God was a huge snake!	神様話	scene_24
 今は魔晄の世の中だ。そんなもん信じる人間も少なくなったけどナ	Now we live in a world filled with Mako. Not many people would believe in something like that now.	今魔晄世中信人間少	scene_24
 でもこのウータイや世界のどこかにはまだあるらしいんだナ	But some in the world, and here in Wutai, still believe.	世界	scene_24
-水神様のうろこだとか水神様の力をふうじたマテリアとかがさ	Believe in the scales of the Water God and in Materia that has its power in it.	水神様水神様力	scene_24
+水神様のうろこだとか水神様の力をふうじたマテリアとかがさ	Believe in the scales of the Water God and in Materia that has its power in it.	水神様力	scene_24
 おお！アナタ、この『かめ道楽』のチラシを、６枚すべて見つけられましたね！	Congrats! You have just found all six flyers for the "Turtle's Paradise"! 	道楽枚見	scene_24
 なんとすばらしい！それではお約束どうりささやかな景品を！！	How wonderful! Now here is your prize, just as we promised!!	約束景品	scene_24
 これからも『かめ道楽』をよろしくおねがいします！	Please come again to "Turtle's Paradise"! We're looking forward to seeing you!	道楽	scene_24
 ウータイ五強聖の塔	Wutai‚Pagoda	五強聖塔	scene_24
-あそこに見える五重の塔はウータイ五強聖の塔。五強の塔と呼ばれています	That five-storied pagoda over there is called the Pagoda of the Five Mighty Gods…	見五重塔五強聖塔五強塔呼	scene_24
+あそこに見える五重の塔はウータイ五強聖の塔。五強の塔と呼ばれています	That five-storied pagoda over there is called the Pagoda of the Five Mighty Gods…	見五重塔強聖呼	scene_24
 五強聖とは力、速、魔、武そして、すべてをかねそなえた総の５人を意味します	The Five Gods are Power, Speed, Magic, War and Omni. Omni has the best of the others.	五強聖力速魔武総人意味	scene_24
-そしてここウータイでは古くからダチャオ様と水神様がまつられています	For generations, we in Wutai have worshipped Da-chao the Water God.	古様水神様	scene_24
-古来よりこのウータイは五強聖とダチャオ様、水神様により守られてきたと言われているのです	Legend has it that the village has been protected by Da-chao, the Water God, and the Five Mighty Gods.	古来五強聖様水神様守言	scene_24
-しかしこの前の戦ではそれもかなわず……やはり伝説は伝説にすぎなかったのかもしれません	But, in the last battle, we didn't fare so well… I guess our beliefs were only based on legend.	前戦伝説伝説	scene_24
+そしてここウータイでは古くからダチャオ様と水神様がまつられています	For generations, we in Wutai have worshipped Da-chao the Water God.	古様水神	scene_24
+古来よりこのウータイは五強聖とダチャオ様、水神様により守られてきたと言われているのです	Legend has it that the village has been protected by Da-chao, the Water God, and the Five Mighty Gods.	古来五強聖様水神守言	scene_24
+しかしこの前の戦ではそれもかなわず……やはり伝説は伝説にすぎなかったのかもしれません	But, in the last battle, we didn't fare so well… I guess our beliefs were only based on legend.	前戦伝説	scene_24
 水神様のうろこの話を聞いたことがありますか？	Have you ever heard of the Water God's scales?	水神様話聞	scene_24
 なんでも不思議な力をひめたうろこでそれを前にするとどんな炎でも消えてしまうとか	They're not just regular scales. They have special hidden powers. They're impervious to the strongest flames.	不思議力前炎消	scene_24
 とは言え、そんなものがあってもさすがにあの、不気味に燃える星の炎までは消せそうもありませんが……	But, of course, I don't think they'd stand up to the fire that huge eerie-lookin' Meteor's gonna make when it crashes down.	言不気味燃星炎消	scene_24
@@ -268,8 +268,8 @@ YUFFIEがいないとマテリアも取りもどせない	And without YUFFIE, th
 グガーなにか用かな？	GOOGAH…what do you want?	用	scene_24
 なにもンガーないが、旅のつかれをいやすことぐらいはグーできるだろう。ゴガーゆっくりしていきなさい	Don't have…GAH…anything much but, you should be able to…GOO…rest yourselves here. GOGAH…make yourselves at home.	旅	scene_24
 ……YUFFIE？…………知らぬな、そんな名は。グーゴー	…YUFFIE? …Nope, never heard of her. …GOOGO…	知名	scene_24
-……くどいな。知らぬものは、知らぬ	…You again? I said it once, and I'll say it again, I don't know her.	知知	scene_24
-知らぬと言ったら知らぬ！YUFFIEなどという者はこのウータイにはおらん！	Listen, I said I didn't know her! There isn't anyone named YUFFIE here in Wutai!	知言知者	scene_24
+……くどいな。知らぬものは、知らぬ	…You again? I said it once, and I'll say it again, I don't know her.	知	scene_24
+知らぬと言ったら知らぬ！YUFFIEなどという者はこのウータイにはおらん！	Listen, I said I didn't know her! There isn't anyone named YUFFIE here in Wutai!	知言者	scene_24
 ……見かけない顔だな……	…Never seen you around here before…	見顔	scene_24
 このところ、この近くで神羅の兵をよく見かけるが……おぬしたちと関係があるのか	Lately, I've been seeing a lot of Shinra soldiers around here…You wouldn't know anything about that, would you?	近神羅兵見関係	scene_24
 おぬしたちが何者か。そんなことに興味はない	I don't care about who you are.	何者興味	scene_24
@@ -292,20 +292,20 @@ YUFFIE……！	YUFFIE!		scene_24
 ウータイを守るには神羅にさからうわけにはいかないのだ	For the good of Wutai, we cannot stand up to Shinra.	守神羅	scene_24
 いいか！　ヤツはかならずこのあたりにいるはずだ！なんとしても探しだせ！	Now listen up! They must be in the area! Find them no matter what!	探	scene_24
 かくし通路	Hidden Passage	通路	scene_24
-『風魔手裏剣』を手にいれた！	Received "Magic Shuriken"!	風魔手裏剣手	scene_24
+『風魔手裏剣』を手にいれた！	Received "Magic Shuriken"!	風魔手裏剣	scene_24
 『かんざし』を手にいれた！	Received "Hairpin"!	手	scene_24
 『ＨＰきゅうしゅう』のマテリアを手にいれた！	Received "HP Absorb" Materia!	手	scene_24
 武器・アクセサリー屋	Item/Accessory Store	武器屋	scene_24
 アイヨ、らっしゃい！	Hey yo! Welcome!		scene_24
 鉄は熱いうちに打てってな！できたてのキレモノがそろってるぜ！	We got some of the best blades right out of the furnace! So strike while the iron's hot!	鉄熱打	scene_24
 あんたらもまだあきらめてないクチかい？	You aren't tired of my rambling?		scene_24
-うれしいねえ！さあ、買った買った！	Great! Then come on in and start buying!	買買	scene_24
+うれしいねえ！さあ、買った買った！	Great! Then come on in and start buying!	買	scene_24
 すまないが、ウチの商品いまみんな売りきれなんだ	Sorry, but we're entirely sold out now.	商品売	scene_24
 ここにあるの？あ、いや、これは……	What's this here? Ah, no…that's uh…		scene_24
-そう、見本！見本なんだ。わるいな、また後できてくれよ	…A sample! Yeah, that's it…a sample. Sorry, but why don't you all come back later?	見本見本後	scene_24
+そう、見本！見本なんだ。わるいな、また後できてくれよ	…A sample! Yeah, that's it…a sample. Sorry, but why don't you all come back later?	見本後	scene_24
 やあ。こないだは悪かったな。じつはYUFFIEちゃんにアンタらに売るの、止められててさ	Listen, I'm sorry about last time. YUFFIE told me not to sell anything to you.	悪売止	scene_24
-でももう解決したんだよな？さあ、買った買った！	[DOESN'T EXIST]	解決買買	scene_24
-ここは、あきらめない人間によるあきらめない人間のための武器屋！さあ、見てってくれ！	This is a weapon store of hard cores, by hard cores, and for the hard cores! Come on and take a look, why doncha!?	人間人間武器屋見	scene_24
+でももう解決したんだよな？さあ、買った買った！	[DOESN'T EXIST]	解決買	scene_24
+ここは、あきらめない人間によるあきらめない人間のための武器屋！さあ、見てってくれ！	This is a weapon store of hard cores, by hard cores, and for the hard cores! Come on and take a look, why doncha!?	人間武器屋見	scene_24
 すまないね。じつのところ……いや、なんでもない。また今度きてくれよ	Sorry, listen I… No, nothing…never mind.	今度	scene_24
 『ＭＰきゅうしゅう』のマテリアを盗まれた！	Stole "MP Absorb" Materia!	盗	scene_24
 『ＭＰきゅうしゅう』のマテリアを手にいれた！	Received "MP Absorb" Materia!	手	scene_24
@@ -327,7 +327,7 @@ YUFFIEの家	YUFFIE's House	家	scene_24
 戦に負けて、和平を手にいれてでも、それといっしょに何かをなくしちゃったんだ。今のウータイは……	After the war, we got peace, but we lost something else. Now look at Wutai…	戦負和平手何今	scene_24
 だからアタシは……マテリアがいっぱいあればきっと……だから、だから……	That's why… if I had lots of Materia I could…		scene_24
 ……悪いがYUFFIE。ウータイの歴史にもおまえの感情にも興味はない	Listen, YUFFIE. I don't care about the history of Wutai or your feelings.	悪歴史感情興味	scene_24
-俺たちに重要なのはいま俺たちのマテリアをおまえがもっているということだ	You've got our Materia and I want it back…now.	俺重要俺	scene_24
+俺たちに重要なのはいま俺たちのマテリアをおまえがもっているということだ	You've got our Materia and I want it back…now.	俺重要	scene_24
 マテリアさえ返してくれればそれ以上おまえを責めるようなことはしない	If you give it back now, we'll drop the whole thing.	返以上責	scene_24
 ごめんなさいね、YUFFIE。あなたのキモチはわかるけど私たちにもマテリアは必要なの	I'm sorry, YUFFIE. I know how you feel, but we need Materia, too.	私必要	scene_24
 ……このままあなたにあげてしまうことはできないのよ。わかってちょうだい	…We just can't let you have it. Please understand.		scene_24
@@ -366,9 +366,9 @@ CID	YUFFIE		scene_24
 左のレバーをさげる	Flip the Left Lever	左	scene_24
 右のレバーをさげる	Flip the Right Lever	右	scene_24
 ナンバー６	No. 6		scene_24
-『かめ道楽』で飲まずしてウータイを語るなかれ！居酒屋『かめ道楽』はでっかいツボが目印です！！	Drink at the "Turtle's Paradise" and talk about Wutai! To find "Turtle's Paradise", look for the big pot outside!!	道楽飲語居酒屋道楽目印	scene_24
+『かめ道楽』で飲まずしてウータイを語るなかれ！居酒屋『かめ道楽』はでっかいツボが目印です！！	Drink at the "Turtle's Paradise" and talk about Wutai! To find "Turtle's Paradise", look for the big pot outside!!	道楽飲語居酒屋目印	scene_24
 かくし部屋	Hidden Room	部屋	scene_24
-離せよ！　離せってば！ちょっと、イタ、イタタタタ！	Let go! I SAID let GO!	離離	scene_24
+離せよ！　離せってば！ちょっと、イタ、イタタタタ！	Let go! I SAID let GO!	離	scene_24
 コラ、アタシをだれだと……あーっ！　何すんだよー！	Hey! Who do you think I… OW! What're you doin'? Jerk!	何	scene_24
 おまえは……！	You!		scene_24
 あっ！　あなたは……！	Oh! You're…		scene_24
@@ -387,10 +387,10 @@ CID	YUFFIE		scene_24
 いたぞ、ヤツだ！コルネオだ！絶対に逃がすな！	There he is! It's Corneo! Don't let him get away!	絶対逃	scene_24
 突撃ーーーッ！！	Attaaaack!	突撃	scene_24
 ムニャムニャムニャ……	Num, num…		scene_24
-どうかお助けください。どうかお助けください。どうかお助けください……	Help me. Help me. Help me…	助助助	scene_24
+どうかお助けください。どうかお助けください。どうかお助けください……	Help me. Help me. Help me…	助	scene_24
 ムニャムニャムニャ……あの星がこのあたりに落ちてきませんように……	Num, num… I hope Meteor doesn't fall anywhere around here…	星落	scene_24
 あ～ダチャオ様……今こそあなたのお力を……	Oh, Great Da-chao… Please grant us your strength…	様今力	scene_24
-ゴドー様はとなりにある五強の塔にこもりっきりじゃ。ゴドー様でもあんなものはどうにもならんて……	He's in the pagoda next to Lord Godo. Lord Godo says we're stuck…	様五強塔様	scene_24
+ゴドー様はとなりにある五強の塔にこもりっきりじゃ。ゴドー様でもあんなものはどうにもならんて……	He's in the pagoda next to Lord Godo. Lord Godo says we're stuck…	様五強塔	scene_24
 ウータイ　ダチャオ像	Wutai‚Da-chao Statue	像	scene_24
 ウータイ　五強の塔	Wutai‚Godo's Pagoda	五強塔	scene_24
 やっと来たな。俺たちは二手に別れるぞ、と	You're finally here. We're gonna split up.	来俺二手別	scene_24
@@ -404,14 +404,14 @@ CID	YUFFIE		scene_24
 キャアッ！	Eyaaaah!		scene_24
 とてもじゃないけど進めないわ！	There is no way past this!	進	scene_24
 うあっちい！	Damn, that's hot!		scene_24
-フロは熱いにかぎるがこいつは、ちいとばかり熱すぎんぜ！	I like hot baths, but this is TOO hot!	熱熱	scene_24
+フロは熱いにかぎるがこいつは、ちいとばかり熱すぎんぜ！	I like hot baths, but this is TOO hot!	熱	scene_24
 『水神様のうろこ』がきらめいた！	"The Scale of the Sea God" shines!	水神様	scene_24
 は～な～せ～よ～！	LET…ME……GO!!!!		scene_24
 ほひ～！いいの～、いいの～！新たなシュミになりそ～じゃの～！	Hmm! Delicious…scrumptious! I think I've just found a new HOBBY!	新	scene_24
 どっちのおなごにしようかな？ほひ～ほひ～！	Which shall it be? Hmm…Hmm…		scene_24
 あ、あんた、私はタークスよ！こんな事をしてすむと思ってるの！？	He…hey, I'm a 'Turk'! Don't think you can get away with this!!	私事思	scene_24
 あ～ッ！こんなことなら、ナワ抜けの修行マジにやっとくんだったよ～！	Oh GAWD! If I knew this was gonna happen, I would've taken those rope lessons more seriously!!	抜修行	scene_24
-ほひ～！！決めた決～めた！今夜の相手は……	Hmm!!! I've made my choice! My companion for the night will be…	決決今夜相手	scene_24
+ほひ～！！決めた決～めた！今夜の相手は……	Hmm!!! I've made my choice! My companion for the night will be…	決今夜相手	scene_24
 ゲゲッ！	GROSS-NESS!		scene_24
 ざけんな、ジジイ～！マテリアも持ってないクセによ！	Don't mess with me old man! You don't even have any Materia!	持	scene_24
 ほひ～！そのこばむしぐさがういの～、うぶいの～	Oooooh! And she's saucy, too! Wheee! Wheee!		scene_24
@@ -426,7 +426,7 @@ CID	YUFFIE		scene_24
 痛かったんだから！あの落とし穴……！	That fall into the trap really hurt!	痛落穴	scene_24
 こりない人ねこんなマネして……！	You just don't get it, do you…!?	人	scene_24
 ほひひ、なんだ、お前たちは！？	Hmm…Who are you guys!?	前	scene_24
-てめーみてえな、ゲスやろう神さんが許しても、このオレ様が許さねえ！	Maybe God'd forgive an ugly ^#@# like you, but I won't!	神許様許	scene_24
+てめーみてえな、ゲスやろう神さんが許しても、このオレ様が許さねえ！	Maybe God'd forgive an ugly ^#@# like you, but I won't!	神許様	scene_24
 このミッドガルのハイエナ野郎……！	 You damn Midgar hyena…!	野郎	scene_24
 早くふたりを放せ！	Hurry and let the two go!	早放	scene_24
 どうでもいいが、やり方がスマートではないな……	I don't care what you're doing, so much as the idiotic way you're doing it…	方	scene_24
@@ -438,7 +438,7 @@ CID	YUFFIE		scene_24
 興味ないね！YUFFIEたちを、返せ！	I don't really care! Let YUFFIE and Elena go!	興味返	scene_24
 ほひ……おまえら……本気だな。……えらいえらい	Hmm…You guys are serious. …Good, good.	本気	scene_24
 あの時は俺の可愛いアプスをよくも殺ってくれたな……	Why did you kill my little Aps?	時俺可愛殺	scene_24
-これ以上、俺の花ヨメ探しのジャマをさせんためにも、俺の新しいペットと遊んでもらうぜ！	I'm gonna make you PLAY with my new pet, so you won't interfere in my search for a bride!	以上俺花探俺新遊	scene_24
+これ以上、俺の花ヨメ探しのジャマをさせんためにも、俺の新しいペットと遊んでもらうぜ！	I'm gonna make you PLAY with my new pet, so you won't interfere in my search for a bride!	以上俺花探新遊	scene_24
 ラプス　カムヒア！！	RAPPS---come here!!		scene_24
 ちょ……	Wait…		scene_24
 さあ、かんねんしなさい！	You better say your prayers!		scene_24
@@ -534,7 +534,7 @@ YUFFIE様！私を倒さねば、２階に上がる事まかりなりません�
 コラコラ、そこの～！オラをムシすんなって！	Hey, you there! Don't ignore me!		scene_24
 あ～らら、いざとなると口だけなんて、ガキもガキ大～ガキ～！	So you're just talk after all. Brat!	口大	scene_24
 チェホフ	Chekhov		scene_24
-シェイクを倒さずして階上に上がることあいなりませんぞ……	You can't go to the next floor unless you beat Shake.	倒階上上	scene_24
+シェイクを倒さずして階上に上がることあいなりませんぞ……	You can't go to the next floor unless you beat Shake.	倒階上	scene_24
 ホッホッホ……ひさかたぶりに、うずきますぞ……	Ho, ho, ho… It's been a while since I felt pain…		scene_24
 なんとシェイクまで、敗れたか。チェホフ、そなたの出番もひさしぶりだな	So even Shake's been defeated. It's been a while since you had to fight, eh Chekhov?	敗出番	scene_24
 残念ながら、わらわでおしまいじゃ。スタニフ、そなたは、そこで見ているがいい	Unfortunately, this is as far as it goes.  Staniv, you watch over there.	残念見	scene_24
@@ -556,7 +556,7 @@ YUFFIE様！私を倒さねば、２階に上がる事まかりなりません�
 来ましたな……	So you're here…	来	scene_24
 あれ？　立ち合い人ってのは？	Huh? Who am I supposed to beat?	立合人	scene_24
 はあーッ！	HAAAAH!		scene_24
-ここ、４階までは階上の者が立ち合うのが、ならわし……。しかし、ここは五強の塔４階にして最上階の意味を持つ……	The rule is the best fighter on each floor will be your opponent… This is a five-storied pagoda,but the fourth floor is the highest…	階階上者立合五強塔階最上階意味持	scene_24
+ここ、４階までは階上の者が立ち合うのが、ならわし……。しかし、ここは五強の塔４階にして最上階の意味を持つ……	The rule is the best fighter on each floor will be your opponent… This is a five-storied pagoda,but the fourth floor is the highest…	階上者立合五強塔最意味持	scene_24
 すなわち！武の強聖の、私を敗った者はかつてないということだ	In other words, no one has ever defeated me--Master of Weaponry!	武強聖私敗者	scene_24
 それでも、戦うかね……？	You still want to try…?	戦	scene_24
 もっちろん！	Just come on!!		scene_24
@@ -574,13 +574,13 @@ YUFFIE殿でなければ私が相まみえるわけには参りませぬな…�
 お、オヤジイ！？	D,…Dad!?		scene_24
 よくぞ来た、YUFFIE！	I'm glad you made it this far, YUFFIE!	来	scene_24
 な、なんでアンタが……	Why, why are you……		scene_24
-聞きたい事は、ワシの体におのれの技で聞くが良い！	I'll answer you by having you try your skills against me!	聞事体技聞良	scene_24
-手をぬくなよ。　ワシを殺すつもりで、来い！でなければ、私がお前を殺す！	Hold nothing back. Come as if you're trying to kill me! If you don't…then I'll have to kill you!	手殺来私前殺	scene_24
+聞きたい事は、ワシの体におのれの技で聞くが良い！	I'll answer you by having you try your skills against me!	聞事体技良	scene_24
+手をぬくなよ。　ワシを殺すつもりで、来い！でなければ、私がお前を殺す！	Hold nothing back. Come as if you're trying to kill me! If you don't…then I'll have to kill you!	手殺来私前	scene_24
 ち、ちっくしょ～……	Dammit……		scene_24
 ええい！　なんたるざまだ！腕をみがいて、出直して来い！	Ohhh! And what was that!? Come back when you get more training!	腕出直来	scene_24
 今度こそ見てなよ。この、なまぐさボウズ！	I'll show you this time, you old Fart-meister!	今度見	scene_24
 ほう、少しは腕を上げたか？	Hmm? A slight improvement.	少腕上	scene_24
-全力で来い！総！　変！　化！　招！　来……ッ！！	Come at me with all you have! OMNI-Change!!	全力来総変化招来	scene_24
+全力で来い！総！　変！　化！　招！　来……ッ！！	Come at me with all you have! OMNI-Change!!	全力来総変化招	scene_24
 ちょ、ちょっと！	H…hey!		scene_24
 何をしておる！総！　変！　化！　招！　来……ッ！！	What are you doing! OMNI-Change!!	何総変化招来	scene_24
 ハッ……　ハッ……	…heave…heave…		scene_24
@@ -593,12 +593,12 @@ YUFFIE殿でなければ私が相まみえるわけには参りませぬな…�
 うわっはっはっは……！	Waha haaaaa!		scene_24
 やるようになったなYUFFIE……	It's time I gave this to you, YUFFIE…		scene_24
 この水神様のマテリアを持って行くがいい	This is Leviathan Materia. Take it.	水神様持行	scene_24
-と、思ったら、持ちきれんほどマテリアを持っているな	…I thought I'd give it to you, but you have no room for it.	思持持	scene_24
+と、思ったら、持ちきれんほどマテリアを持っているな	…I thought I'd give it to you, but you have no room for it.	思持	scene_24
 ならば、後ほど受け取れい。忘れぬようにな！	Then, come back for it later. And don't forget!	後受取忘	scene_24
 水神様のマテリアか？ぬうッ！　きっちり覚えておったか	Leviathan Materia? Oh! So you DID remember.	水神様覚	scene_24
 やむをえん、受け取るがよい！	Well it's yours, go ahead and take it!	受取	scene_24
 そなたら、おびただしいほどのマテリアを持っておるではないか！	You have too much Materia!	持	scene_24
-しかし、ゴドー様。水神様のマテリアは、五強の塔を制覇し、新たに五強聖をおさめる者が持つのが、ならわし……	But, Lord Godo. Leviathan Materia should only be given to the person who conquers and takes over this Pagoda. That is our custom…	様水神様五強塔制覇新五強聖者持	scene_24
+しかし、ゴドー様。水神様のマテリアは、五強の塔を制覇し、新たに五強聖をおさめる者が持つのが、ならわし……	But, Lord Godo. Leviathan Materia should only be given to the person who conquers and takes over this Pagoda. That is our custom…	様水神五強塔制覇新聖者持	scene_24
 ならわし、ならわしってもー聞きあきたよ！	CUSTOM, CUSTOM, CUSTOM… I'm so sick of hearing that!	聞	scene_24
 バッカじゃない！？	It's so stupid!		scene_24
 口がすぎますぞ！YUFFIE様！	Silence, Miss YUFFIE!	口様	scene_24
@@ -617,16 +617,16 @@ YUFFIEッ！！	YUFFIE!!		scene_24
 ゴドー様！	Lord Godo!	様	scene_24
 お前たちは黙っておれ！！	Silence!!	前黙	scene_24
 YUFFIE……	YUFFIE……		scene_24
-かつて、戦にのぞむ前のワシも今のお前と同じじゃった	I am the same now as I was before when I wanted war.	戦前今前同	scene_24
+かつて、戦にのぞむ前のワシも今のお前と同じじゃった	I am the same now as I was before when I wanted war.	戦前今同	scene_24
 だが戦に負け、考えた……	But, after losing, I began to think…	戦負考	scene_24
 強さとは、相手をたおすためのものなのか？	Is strength for beating enemies	強相手	scene_24
 他者に対し見せつけるものなのかとな……	…or just something to show-off?	他者対見	scene_24
-力を見せつける強者は、強者を呼ぶ。それが戦になる……	Might begets might.	力見強者強者呼戦	scene_24
+力を見せつける強者は、強者を呼ぶ。それが戦になる……	Might begets might.	力見強者呼戦	scene_24
 それでは神羅と同じではないか……	The same as Shinra.	神羅同	scene_24
 お前がウータイのため、マテリアを探しているのは、わかっていた	I knew you were looking for Materia for the good of Wutai.	前探	scene_24
 だが、ワシが、力を封じているのもまたウータイのためなのだ……	But, the reason I hide my strength now, is also for the good of Wutai…	力封	scene_24
 今、わかったぞ。必要なものは両方なのだ……	And now, I realize both are necessary…	今必要両方	scene_24
-志のない力では、意味がない。力のない志では、それもかなわぬ……！	Strength without determination means nothing. And determination without strength is equally useless…!	志力意味力志	scene_24
+志のない力では、意味がない。力のない志では、それもかなわぬ……！	Strength without determination means nothing. And determination without strength is equally useless…!	志力意味	scene_24
 ゴドー様……	Lord Godo…	様	scene_24
 そなたたち、YUFFIEを同行させてやってくれい！	You there, please take YUFFIE with you!	同行	scene_24
 そなたたちは、志と力その２つを持っている！	I perceive that you all have both determination and strength!	志力持	scene_24
@@ -663,7 +663,7 @@ YUFFIE様。ご武運を、おいのりしております！	Miss YUFFIE. We pra
 YUFFIE様に見そめられるとはそれがしたちも、かなり腕にはおぼえがあられますな	Winning Miss YUFFIE's heart must mean you have tremendous skill.	様見腕	scene_24
 あんたらも、オラにくらべりゃまだまだヒヨッコだね	Compared to me, all of you are nothin' but a buncha babies.		scene_24
 そなたらも、あの小娘相手にたいぎなことじゃのう	Managing that girl must be exceedingly rough on you.	小娘相手	scene_24
-そなたらとも、お手合わせねがいたいところだが、五強聖はウータイの者としか、試合うことはゆるされない……	I would like to fight you, however the Five Sacred Gods can only compete with those from Wutai…	手合五強聖者試合	scene_24
+そなたらとも、お手合わせねがいたいところだが、五強聖はウータイの者としか、試合うことはゆるされない……	I would like to fight you, however the Five Sacred Gods can only compete with those from Wutai…	手合五強聖者試	scene_24
 しー……ッ！	Sh…		scene_24
 ……ほう。出来るな、そなたら……	…Hm. You can do it…	出来	scene_24
 マテ……	Mat-…		scene_24
@@ -695,7 +695,7 @@ YUFFIE様に見そめられるとはそれがしたちも、かなり腕には�
 ……って、ちょっと！！ま、待ってよ！	Hey!! W…Wait!	待	scene_24
 わ、わかったよ、ホラこれもアンタたちにあげちゃう！	Oh, all right. Here, I'll give this to you guys.		scene_24
 ……いや、やっぱりやめとこ。あいつら、いっぱいマテリア持ってるしな	…No, forget it. Besides, they have lots of Materia anyway.	持	scene_24
-ホラ、見て見て！ジャジャーン！！	Here, look, look!	見見	scene_24
+ホラ、見て見て！ジャジャーン！！	Here, look, look!	見	scene_24
 『ＭＰきゅうしゅう』のマテリアを手にいれたー！	Received "MP Absorb" Materia!	手	scene_24
 あ～もう、待ってよ～！	Come on, wait!	待	scene_24
 誰が何と言おうとアタシはアンタたちについてくからね～！	No matter what you think, I'm going with you!	誰何言	scene_24

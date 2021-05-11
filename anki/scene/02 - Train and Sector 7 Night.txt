@@ -44,14 +44,14 @@ CLOUD！！	CLOUD!!		scene_02
 ぬけちゃう！	Escaped		scene_02
 ミッドガル発最終列車	Last Train from Midgar	発最終列車	scene_02
 客車内	Inside Train	客車内	scene_02
-見ろよ…地上が見えてきたぜ。ひるも夜もねえ、オレたちの街がよ	Look…you can see the surface now. This city don't have no day or night.	見地上見夜街	scene_02
+見ろよ…地上が見えてきたぜ。ひるも夜もねえ、オレたちの街がよ	Look…you can see the surface now. This city don't have no day or night.	見地上夜街	scene_02
 ミッドガルのプレートさえなけりゃなぁ…。でっけえ空がおがめんのになあ	If that plate weren't there… we could see the sky.	空	scene_02
 空中に浮かぶ都市か……。おちつかない風景だな	A floating city… Pretty unsettling scenery.	空中浮都市風景	scene_02
 はあ？あんたがそんなふうに感じるとはな	Huh? Never expect ta hear that outta someone like you.	感	scene_02
 ……意外だぜ	…You jus' full of surprises.	意外	scene_02
 上の世界……プレート都市……	The upper world…a city on a plate…	上世界都市	scene_02
 あのくさったピザのせいで下の人間がどんなに苦しんでることか……	It's 'cuz of that &^#$# 'pizza' that people underneath are sufferin'!	下人間苦	scene_02
-上の世界で汚された魔晄エネルギーが下の世界に降りてくる	All the pollution from Mako energy above falls down on the world below.	上世界汚魔晄下世界降	scene_02
+上の世界で汚された魔晄エネルギーが下の世界に降りてくる	All the pollution from Mako energy above falls down on the world below.	上世界汚魔晄下降	scene_02
 下の世界は今じゃあ汚された空気のたまり場だ	And the city below is full of polluted air.	下世界今汚空気場	scene_02
 おまけに魔晄炉はどんどんエネルギーをくみ上げちまう	On top'a that, the Reactor keeps drainin' up all the energy.	魔晄炉上	scene_02
 おかげで土地は枯れる一方だ。空気をきれいにする力もなくしちまった	Thanks to that, the land is dying.	土地枯一方空気力	scene_02
@@ -66,12 +66,12 @@ CLOUD！！	CLOUD!!		scene_02
 『ルートマップ画面へ』	To the Route Map Screen	画面	scene_02
 私、こういうの好きなのよ。爆弾とかモニタ画面とかハイテク関係	I like this kinda stuff. Bombs and monitors…you know, flashy stuff.	私好爆弾画面関係	scene_02
 そうだ、CLOUD	I know!		scene_02
-今度、私の手作り作品をプレゼントしちゃおうかな	Next time, I'll make one just for you.	今度私手作作品	scene_02
+今度、私の手作り作品をプレゼントしちゃおうかな	Next time, I'll make one just for you.	今度私手作品	scene_02
 えんりょしとくよ	Thanks anyway		scene_02
 楽しみにしてるよ	Looking forward to it	楽	scene_02
 そう、きっと後悔するかもよ。私、ズガッ～ンと根にもつタイプなの	Oh yeah, you might regret it. I'm the type who takes things personal.	後悔私根	scene_02
 うん、じゃ、腕によりをかけてドッカ～ンと制作するわ	Okay, then I'll put a little extra effort in and make it with a BANG.	腕制作	scene_02
-もうすぐ駅に着くね。CLOUDといっぱい話せて燃えたわ。私、導火線に火がついたかもよ	We're almost there. After talking with you, I'm ready to try! I think you've lit my fuse!	駅着話燃私導火線火	scene_02
+もうすぐ駅に着くね。CLOUDといっぱい話せて燃えたわ。私、導火線に火がついたかもよ	We're almost there. After talking with you, I'm ready to try! I think you've lit my fuse!	駅着話燃私導火線	scene_02
 噂をすれば、ね	Speak of the devil…	噂	scene_02
 この光がＩＤ検知エリア通過のサインなの	That light means that we're in the ID Security Check area.	光検知通過	scene_02
 ひそひそ……（暗くなるからチカンが多いのよ。ＩＤ検知エリアは……）	…whisper…whisper… (When the lights go off, you never know what kind of creeps'll come out.)	暗多検知	scene_02
@@ -85,7 +85,7 @@ CLOUDさんっ！！	CLOUD!!		scene_02
 俺にも明るい未来がまってるっすよね？	Don't ya think I got a bright future ahead of me?	俺明未来	scene_02
 なにを期待してる？	What do you have in mind?	期待	scene_02
 無理だな	Don't hold your breath	無理	scene_02
-俺、いままでずっと人生ワキ役って感じで生きてきたっすよ	All my life, I felt like nothin' but a sidekick.	俺人生役感生	scene_02
+俺、いままでずっと人生ワキ役って感じで生きてきたっすよ	All my life, I felt like nothin' but a sidekick.	俺人生役感	scene_02
 でも、アバランチにはいって、星の生命を救えばこんな俺でも……いろいろとね	But, after joinin' AVALANCHE and tryin' to save the Planet, I feel like I can do lots of things.	星生命救俺	scene_02
 ああ、ひどいなあ、CLOUDさん。やっぱダメっすかね、そうすかね	Oh man, that's pretty harsh. CLOUD. You really think I won't?		scene_02
 目がチカチカしたっす。俺、暗いのだめっす。苦手っす	I'm seein' stars. This sucks. I hate the dark.	目俺暗苦手	scene_02
@@ -94,11 +94,11 @@ CLOUDさんっ！！	CLOUD!!		scene_02
 さ、はじめるわよ	Okay, it's about to start.		scene_02
 これが魔晄都市ミッドガルの全景フレームモデルね	This is a complete model of the city of Midgar.	魔晄都市全景	scene_02
 スケールはだいたい１／１００００ってとこかな	It's about a 1/10000 scale.		scene_02
-上のプレートは、地上から約５０Ｍ離れているの	The top plate is about 50 meters above ground.	上地上約離	scene_02
-プレートを支えてるのは中心の大きな支柱と各区画に建てられた柱……。	A main pillar supports the plate in the center, and there are other support pillars built in each section…	支中心大支柱各区画建柱	scene_02
+上のプレートは、地上から約５０Ｍ離れているの	The top plate is about 50 meters above ground.	上地約離	scene_02
+プレートを支えてるのは中心の大きな支柱と各区画に建てられた柱……。	A main pillar supports the plate in the center, and there are other support pillars built in each section…	支中心大柱各区画建	scene_02
 柱は、機械塔とも呼ばれてるわ	[EMPTY LINE]	柱機械塔呼	scene_02
 ヒソヒソ……（爆破した壱番魔晄炉が北のはずれにあるの）	Psst…whisper…whisper… (The No. 1 Reactor we blew up was in the northern section.)	爆破壱番魔晄炉北	scene_02
-そこから順番に２、３……８番魔晄炉まで	Then there's No. 2, No. 3 all the way up to the No. 8 Reactor.	順番番魔晄炉	scene_02
+そこから順番に２、３……８番魔晄炉まで	Then there's No. 2, No. 3 all the way up to the No. 8 Reactor.	順番魔晄炉	scene_02
 ８つの魔晄炉がミッドガルの電力供給を支えているのよ	The 8 Reactors provide Midgar with electricity.	魔晄炉電力供給支	scene_02
 それぞれの街には、名前もあったんだけどミッドガルに住む人は誰も覚えちゃいないわ	Each town used to have a name, but no one in Midgar remembers them.	街名前住人誰覚	scene_02
 名前なんかより、番号で呼ぶの。そういうところなのよ、ここは	Instead of names, we refer to them by numbered sectors. That's how things turned out.	名前番号呼	scene_02
@@ -119,7 +119,7 @@ CLOUDさんっ！！	CLOUD!!		scene_02
 おう！！なにしてやがる！	Yo! What're ya doin' now?		scene_02
 あ、BARRET…おれたち……	uh, BARRET… We, uh…		scene_02
 ダメだったっす。俺たちには、できないっす	We can't do it. We just can't do it.	俺	scene_02
-気にしない！気にしない！	Don't worry! Don't get all worried!	気気	scene_02
+気にしない！気にしない！	Don't worry! Don't get all worried!	気	scene_02
 CLOUD！作戦がんばろうね！	CLOUD! Let's make the mission work!	作戦	scene_02
 ね、CLOUD？作戦終わったらさぁ	CLOUD? When this mission's over…	作戦終	scene_02
 みんなでお休みとって温泉でもいかない？	Why don't all of us take a long vacation. Maybe we could go to a hot springs somewhere?	休温泉	scene_02
@@ -168,11 +168,11 @@ AERISを家に連れて帰ることにしたんだ。	So I took AERIS home with 
 長い間、駅員をしてますとね。いろんな人生の場面を目撃することになります	When you've been a train man as long as I have, you see a lot of people and a lot of lives.	長間駅員人生場面目撃	scene_02
 出会い、別れ、よろこび、悲しみ……少々のことじゃおどろきません	People meeting, parting, joy, sadness… After a while, it doesn't even get to you anymore.	出会別悲少	scene_02
 いつごろからですかね…。お客さんと私の間にね見えないレールを敷いてしまうんですよ	I wonder how long it's been… There's an invisible rail between me and the passengers.	客私間見敷	scene_02
-お客さんの人生には立ち入らないようにね。私なんぞは、ただの駅員。そういう生き方が楽なんですかね	I could never live their lives. I'm just a train man plain and simple. It's easier that way.	客人生立入私駅員生方楽	scene_02
+お客さんの人生には立ち入らないようにね。私なんぞは、ただの駅員。そういう生き方が楽なんですかね	I could never live their lives. I'm just a train man plain and simple. It's easier that way.	客人生立入私駅員方楽	scene_02
 それでもね、心のふみきりが痛むときはありましたよ	That's not to say that the crossing gate of my heart doesn't hurt now and again.	心痛	scene_02
 戦争中のことでしたね。あのころは、つらい場面が多かったです…	Back during the war, I remember there was a lot of painful scenes then.	戦争中場面多	scene_02
 いや、その話はまたの機会に……	But, that's a story for another day…	話機会	scene_02
-始発の出発時刻はミッドガル時０５時０４分になります	First train leaves Midgar at 05:04am.	始発出発時刻時時分	scene_02
+始発の出発時刻はミッドガル時０５時０４分になります	First train leaves Midgar at 05:04am.	始発出時刻分	scene_02
 おはようございます。一夜明けても、あいかわらずですね	Morning. Dawn comes and things never change.	一夜明	scene_02
 けがしないよう、お気をつけて。いってらっしゃい	You be careful not to get hurt. Come on back again, hear?	気	scene_02
 さあ、おはやく御乗車ねがいます。もうすぐ出発しますよ	ALL ABOARD! The train is about to depart.	御乗車出発	scene_02
@@ -203,7 +203,7 @@ AERISを家に連れて帰ることにしたんだ。	So I took AERIS home with 
 ねぇ、ねぇ、知ってる？	Did you hear?	知	scene_02
 興味ないね	Don't care	興味	scene_02
 知らないよ	No, what?	知	scene_02
-ニュースの速報が入ったのよ。上で爆弾テロがあったっていうじゃない。それも、魔晄炉の爆発！！	There's a news update. They say that there was a terrorist explosion up above, and that this time it was a Mako Reactor!!	速報入上爆弾魔晄炉爆発	scene_02
+ニュースの速報が入ったのよ。上で爆弾テロがあったっていうじゃない。それも、魔晄炉の爆発！！	There's a news update. They say that there was a terrorist explosion up above, and that this time it was a Mako Reactor!!	速報入上爆弾魔晄炉発	scene_02
 これがどんなに大変なことかわかる？	You know what this means?	大変	scene_02
 わからないよ	No, what?		scene_02
 事情通の私にいわせればね	Ya see, I keep on top of these things, an' if ya ask me…	事情通私	scene_02
@@ -213,11 +213,11 @@ AERISを家に連れて帰ることにしたんだ。	So I took AERIS home with 
 爆破が真夜中だったから、まだいいわ。眠ってた人はそのまま目が覚めないだけね	If the explosion had been in the middle of the night, that woulda been one thing. At least the people coulda gone in their sleep.	爆破真夜中眠人目覚	scene_02
 とにかく、魔晄炉の爆発でミッドガルは大混乱らしいの	This Mako explosion has really sent Midgar into a fit.	魔晄炉爆発大混乱	scene_02
 あ、そ！	Oh, well excuse ME!		scene_02
-爆発！！　爆発！！スゲッー！アバランチ、かっくいー！	Explosions! Explosions! Oh Man! AVALANCHE is so cool!	爆発爆発	scene_02
+爆発！！　爆発！！スゲッー！アバランチ、かっくいー！	Explosions! Explosions! Oh Man! AVALANCHE is so cool!	爆発	scene_02
 あっ！！ウヘヘヘヘ……やっぱ、かわいいなぁ。マイラブリーエンジェルちゃん…	Hey!! Heh heh heh… Say, you're kinda cute. Cutie pie…		scene_02
 酒、飲みかけだったのによ。あっ、かんじょうもまだだ…	I wasn't even done with my drink. I didn't even pay my bill…	酒飲	scene_02
 異常なし！！ただいま、スパイ中！	All's quiet!! Shh, I'm spying now!	異常中	scene_02
-ああ！！なんか、でてきました！！報告～！！　報告～！！	OH!! There's something!! DANGER!!  ALERT!!	報告報告	scene_02
+ああ！！なんか、でてきました！！報告～！！　報告～！！	OH!! There's something!! DANGER!!  ALERT!!	報告	scene_02
 あなた、知ってる？	Did you hear?	知	scene_02
 なにを……	Bout what?		scene_02
 興味ない	Don't care	興味	scene_02
@@ -230,7 +230,7 @@ AERISを家に連れて帰ることにしたんだ。	So I took AERIS home with 
 危ないわ。きっと、いけないことをしてるにちがいないわ	It's dangerous, I tell you. They must be doing terrible things in there.	危	scene_02
 あ、そ！あなたってクールなのね	Oh really? Well, aren't you a cool one!		scene_02
 この家にはテレビがあんだけどよ。ケチなおばさんがいれてくんねぇのさ。まあ、見てろって	There's a TV in there, but my cheap aunt won't let me in the house. Look for yourself.	家見	scene_02
-そういえばよ。この７番街スラムにも街頭テレビがあったんだけどよ	Now that you mention it, there used to be an outside TV monitor here in the slums.	番街街頭	scene_02
+そういえばよ。この７番街スラムにも街頭テレビがあったんだけどよ	Now that you mention it, there used to be an outside TV monitor here in the slums.	番街頭	scene_02
 そいつをぶっこわしたのがあのBARRETさ	But that BARRET, busted it up.		scene_02
 ガンガンガンガンガンガン！！って、例の腕ガンでいきなりだぜ！	Shot it up with that weird machine gun hand of his. Blam, blam, blam.	例腕	scene_02
 あんときは、たしかプレジデント神羅が出演してたな	I think it was when President Shinra was on.	神羅出演	scene_02
@@ -241,7 +241,7 @@ AERISを家に連れて帰ることにしたんだ。	So I took AERIS home with 
 おい！！ちょっとまてよ！！-	SHHH!! Wait a minute!!		scene_02
 ジョニー	Johnny		scene_02
 おまえ、ただもんじゃねぇと思ったが幼なじみだったのかよ…	I thought you were something a little better than this, but you're just a punk kid after all.	思幼	scene_02
-俺のTIFAちゃんと……そんで、お前は俺のTIFAちゃんのいったいなんなんだよ	Just what the hell do you think you're doing with my little TIFA?	俺前俺	scene_02
+俺のTIFAちゃんと……そんで、お前は俺のTIFAちゃんのいったいなんなんだよ	Just what the hell do you think you're doing with my little TIFA?	俺前	scene_02
 いまはさ？	And now?		scene_02
 ただの幼なじみだ	We're just friends.	幼	scene_02
 おまえたちには関係ないだろ	What's it to you?	関係	scene_02
@@ -273,8 +273,8 @@ TIFAちゃんの幼なじみだなんてにくいにくい！	TIFA's childhood f
 おっおい！マリンちゃんには手を出すなよ！！	H, hey!! Keep your mitts off of Marlene!!	手出	scene_02
 あ～あ！いじめる相手がいなくなっちゃうよ！	Ahh! Now I ain't got no one to pick on!	相手	scene_02
 ああ～、いざとなると勇気がでない。だめだな、ボクって。まだ子供だな～	When it comes down to it…I'm gutless. I'm still just a no-good kid.	勇気子供	scene_02
-本日は閉店いたしました。またのご来店をおまちしております	We're closed today. Come back tomorrow.	本日閉店来店	scene_02
-神羅にだまされるな！魔晄エネルギーは永遠ではない！魔晄は星の命！いつか終わりがやってくる！星の救世主：アバランチ	Don't be taken in by the Shinra. Mako energy will not last forever. Mako is the life of the Planet and that life is finite. The end is coming. Saviors of the Planet:  AVALANCHE	神羅魔晄永遠魔晄星命終星救世主	scene_02
+本日は閉店いたしました。またのご来店をおまちしております	We're closed today. Come back tomorrow.	本日閉店来	scene_02
+神羅にだまされるな！魔晄エネルギーは永遠ではない！魔晄は星の命！いつか終わりがやってくる！星の救世主：アバランチ	Don't be taken in by the Shinra. Mako energy will not last forever. Mako is the life of the Planet and that life is finite. The end is coming. Saviors of the Planet:  AVALANCHE	神羅魔晄永遠星命終救世主	scene_02
 きたない字だな。おまけに、いたずら書きだらけだ	What crappy handwriting. And look at all this graffiti!	字書	scene_02
 セブンスヘブン	7th Heaven		scene_02
 とうちゃん！！	Papa!!		scene_02
@@ -390,7 +390,7 @@ TIFA……わるいけどさ	Sorry TIFA…		scene_02
 誰かがなんとかしなくちゃならないの	Someone has to do something.	誰	scene_02
 BARRETたちがなんとかするんだろ？俺には関係ないさ	So let BARRET and his buddies do something about it. It's got nothin' to do with me.	俺関係	scene_02
 ああ、オレたちがなんとかする。TIFA、もうやめとけ	You damn right we'll do something about it. N' you stay outta this TIFA!		scene_02
-……壱番魔晄炉破壊事件に関してアバランチと名乗る組織から犯行声明が出されています。声明によるとアバランチは今後も同様のテロを続けることを予告しております。	The terrorist group called AVALANCHE has claimed responsibility for today's bombing of the No. 1 Mako Reactor. It is also predicted that they will continue with similar terrorist activities in the future.	壱番魔晄炉破壊事件関名乗組織犯行声明出声明今後同様続予告	scene_02
+……壱番魔晄炉破壊事件に関してアバランチと名乗る組織から犯行声明が出されています。声明によるとアバランチは今後も同様のテロを続けることを予告しております。	The terrorist group called AVALANCHE has claimed responsibility for today's bombing of the No. 1 Mako Reactor. It is also predicted that they will continue with similar terrorist activities in the future.	壱番魔晄炉破壊事件関名乗組織犯行声明出今後同様続予告	scene_02
 CLOUD！　もどってくれるの？あ、でも、ちょっとまって	Will you please come back? Ah, wait. Please wait.		scene_02
 プレジデント神羅の発表がニュースで読まれるの	The president of Shinra is going to read a statement.	神羅発表読	scene_02
 私たち……次はソルジャーと戦うのね	The next time we'll be up against…SOLDIER.	私次戦	scene_02
@@ -420,7 +420,7 @@ CLOUDさんも、おひとつどうですか？	Why don't you have one too?		sce
 いらないな	No		scene_02
 そうだな、もらおうか	Yeah, why not?		scene_02
 おっ！！いい心がけじゃねぇか！！	Oh!! That's more like it!!	心	scene_02
-元ソルジャーでもここじゃおめえも新人だ。新人にとっちゃ先輩の言うことは絶対だからな！	Even if you were with SOLDIER, you're still a rookie here. So you'd better listen to whatever I tell ya!	元新人新人先輩言絶対	scene_02
+元ソルジャーでもここじゃおめえも新人だ。新人にとっちゃ先輩の言うことは絶対だからな！	Even if you were with SOLDIER, you're still a rookie here. So you'd better listen to whatever I tell ya!	元新人先輩言絶対	scene_02
 なに～！！おれさまの酒がのめないってかぁ？	What!? You tellin' me you're too good to drink with me?	酒	scene_02
 元ソルジャーだからってお高くとまってんじゃねえぞ！	Don't act big-headed jus' because you were in SOLDIER!	元高	scene_02
 ビックス	Biggs		scene_02
@@ -501,10 +501,10 @@ CLOUD、私を助けに来てね	you'll come save me, all right?	私助来	scene
 標的は【五番魔晄炉】だ。まず、駅へ行く	Our target's the Sector 5 Reactor. Head for the station first.	標的五番魔晄炉駅行	scene_02
 くわしい作戦は列車の中でな	I'll fill you in on the train.	作戦列車中	scene_02
 おい、CLOUD	Yo, CLOUD.		scene_02
-武器屋２階のオヤジからの伝言だ！いいもんあげるからとりにこい……たしかに伝えたぞ！	Got a message from the old man at the weapon shop upstairs! Said he's got somethin' special so come and get it!	武器屋階伝言伝	scene_02
+武器屋２階のオヤジからの伝言だ！いいもんあげるからとりにこい……たしかに伝えたぞ！	Got a message from the old man at the weapon shop upstairs! Said he's got somethin' special so come and get it!	武器屋階伝言	scene_02
 おう！　おかしなマネをしたら……わかってんだろうな	Yo! If you pull somethin' funny… you now what I'll do to ya, right?		scene_02
 おい、ちょっと待て。CLOUDさんよ！！	Whoa, wait a damn minute. CLOUD!!	待	scene_02
-約束は約束だからな！ほら、金だ！！	A promise is a promise! Here!!	約束約束金	scene_02
+約束は約束だからな！ほら、金だ！！	A promise is a promise! Here!!	約束金	scene_02
 よかった、みんな、無事で	I'm so glad everyone's safe.	無事	scene_02
 おう！　CLOUD！	Yo! CLOUD!		scene_02
 作戦の前にひとつおまえさんに聞きたいことがある！	Before the next mission, I got somethin' I wanna ask you!	作戦前聞	scene_02
@@ -531,7 +531,7 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 はい！！　いらっしゃい！！売りますよ！買いますよ！	By the way, you wouldn't happen to be…  Naw, never mind. Forget it. Sector 7 Weapon Shop	売買	scene_02
 ところで、あんた。もしかして……	He, HEY! Waitaminit you!!		scene_02
 ……いや、なんでもないよ。	You can't just walk outta here without buyin' somethin'!		scene_02
-失礼、失礼」	Might be unhealthy fer ya, if ya know what I mean.	失礼失礼	scene_02
+失礼、失礼」	Might be unhealthy fer ya, if ya know what I mean.	失礼	scene_02
 ７番街・武器屋１階	Hey!! What the--YOU!?	番街武器屋階	scene_02
 んっ！！おい、客！！	Anyone talking to me must be a novice.	客	scene_02
 買わねえとどんなめにあうか……想像してみりゃ、わかるよな	Yep, that's me	買想像	scene_02
@@ -547,7 +547,7 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 てへへ…一晩じゃ、おぼえきれんぜ。おう！素人！！悪いが、二階のあいぼうから教わってくれ	Crap!! Watch it, you old guy!	一晩素人悪二階教	scene_02
 チッ！！　おっさん！！気をつけてくれよ！	I was just about to rip up that smooth little head of yours!	気	scene_02
 あんたのツンツン頭をブチぬいちまうとこだぜ！	In the slums ya gotta take care of yourself first.	頭	scene_02
-スラムじゃ、自分の身は自分で守る。ガキのころから、そんな生き方さ	I been livin' like that ever since I was a kid.	自分身自分守生方	scene_02
+スラムじゃ、自分の身は自分で守る。ガキのころから、そんな生き方さ	I been livin' like that ever since I was a kid.	自分身守生方	scene_02
 オレみたいにタフな男の子になりたかったらいかす武器を選ぶこったな	You wanna be tough like me? Then you gotta pick out some good weapons.	男子武器選	scene_02
 でな、おっさん。相談なんだが……	Oh and uh, by the way old guy…	相談	scene_02
 見ての通り、この武器屋には客がいない。タフな男の子のこのオレもびんぼうってわけさ	You can see this store don't have no customers… and even tough guys like me could use a buck or two…	見通武器屋客男子	scene_02
@@ -574,7 +574,7 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 どうすんだい？	What are you going to do?		scene_02
 ベッドを見たら眠くなってきただろ	Doesn't just seeing the bed make you sleepy?	見眠	scene_02
 休まない	no way	休	scene_02
-強情だな！　もうっ！休めるときに休む	Tough guy, huh!? You'd better sleep when you can.	強情休休	scene_02
+強情だな！　もうっ！休めるときに休む	Tough guy, huh!? You'd better sleep when you can.	強情休	scene_02
 セーブできるときにセーブする	You'd better save when you can.		scene_02
 これがタフに生きてく基本だぜ！おっさん、覚えときな	That's the trick to being tough. Remember that, old dude.	生基本覚	scene_02
 いい夢見なよな、おっさん	Sweet dreams, pops.	夢見	scene_02
@@ -633,10 +633,10 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 うっとり……くるくる……これがうわさの【セーブポイント】！！	This is the fabled [Save Point]!!		scene_02
 【セーブポイント】では……『テント』を使って休むことセーブ　することができちゃいます	At a [Save Point] you can use a [tent] and/or select 'SAVE'.	使休	scene_02
 ほんとは、もうひとつあるんだけどいまは秘密♥　楽しみに待っててね♥	You can also do something else there, but right now it's a secret.	秘密楽待	scene_02
-も～し、全滅しても、　セーブ　しておけばその場所から復活することができちゃうの。これなら、安心して全滅できるわよね	Even if you are wiped out, if you've saved, you can restart from that same point. That way you don't have to worry when you've been wiped out.	全滅場所復活安心全滅	scene_02
+も～し、全滅しても、　セーブ　しておけばその場所から復活することができちゃうの。これなら、安心して全滅できるわよね	Even if you are wiped out, if you've saved, you can restart from that same point. That way you don't have to worry when you've been wiped out.	全滅場所復活安心	scene_02
 ちょ～っと、先の話になるけどミッドガルを出ることになったら……	This is jumping ahead a little but, when you leave Midgar…	先話出	scene_02
 地和線まで広がる【ワールドマップ】で好きなだけ　セーブ　することができるの。そのときがきたら、思い出してね	and you get to the world map, you can save anywhere you like. Remember that.	地和線広好思出	scene_02
-ただいま、ごしょうかいにあずかりましたあっしが【セーブポイント】でござんす！旅先行き先先々でお目にかかることと思いますが今後ともよろしゅうおねがいもうしあげます！	That should be all you need to know about the Save Point. I'll probably see you again somewhere down the road. Take care!	旅先行先先目思今後	scene_02
+ただいま、ごしょうかいにあずかりましたあっしが【セーブポイント】でござんす！旅先行き先先々でお目にかかることと思いますが今後ともよろしゅうおねがいもうしあげます！	That should be all you need to know about the Save Point. I'll probably see you again somewhere down the road. Take care!	旅先行目思今後	scene_02
 俺様が、【たからばこ】だ！！	I'm a [treasure chest]!!	俺様	scene_02
 初心者のキ・ミ・た・ち！俺様をしっかりとさがしてくれよ！！	Beginners, make sure and keep an eye out for me!!	初心者俺様	scene_02
 物知り元ソルジャーさん！！バトルのことをオレたち３人組に教えてくださいよ！報酬はずみますから！	Hey SOLDIER!! Tell us about battles! We'll even pay you!	物知元人組教報酬	scene_02
@@ -652,23 +652,23 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 もうひまつぶしは終わりだ	That's all the time I have for you!	終	scene_02
 おまえたちから金をとるほど落ちぶれちゃいない。ひまつぶしにつきあってやる	I'm not hard up enough to take money from guys like you. But I'll rap with you for a while.	金落	scene_02
 【ＡＴＢ】、すなわち【アクティブタイムバトル】は戦闘中、つねに時間が流れているシステムだ	ATB or Active Time Battle is a system that is always in operation during battle.	戦闘中時間流	scene_02
-メニューのコンフィグでＡＴＢを【ウェイト】にすると……戦闘中、魔法やアイテムを選んでいる間時間が止まる	Select [Wait] from ATB on the Config Menu and time will stop when you select magic or items during battle.	戦闘中魔法選間時間止	scene_02
+メニューのコンフィグでＡＴＢを【ウェイト】にすると……戦闘中、魔法やアイテムを選んでいる間時間が止まる	Select [Wait] from ATB on the Config Menu and time will stop when you select magic or items during battle.	戦闘中魔法選間時止	scene_02
 コマンドをゆっくり選べるというわけだ。おまえたち、初心者にはおあつらえむきだな	This gives you time to pick out your commands. This is especially helpful to beginners.	選初心者	scene_02
-同じくコンフィグでＡＴＢを【おすすめ】にすると……戦闘中、魔法やアイテムのエフェクトが出ている間時間が止まる	Selecting [Recommended] ATB in the config menu can stop time while the effects of spells and items are taking place during battle.	同戦闘中魔法出間時間止	scene_02
-戦闘の様子をゆっくり見られるというわけだ。落ちついて戦いたいときはこれだな	This lets you take your time looking over the progression of the battle. When you don't want to rush in battle, this is for you!	戦闘様子見落戦	scene_02
+同じくコンフィグでＡＴＢを【おすすめ】にすると……戦闘中、魔法やアイテムのエフェクトが出ている間時間が止まる	Selecting [Recommended] ATB in the config menu can stop time while the effects of spells and items are taking place during battle.	同戦闘中魔法出間時止	scene_02
+戦闘の様子をゆっくり見られるというわけだ。落ちついて戦いたいときはこれだな	This lets you take your time looking over the progression of the battle. When you don't want to rush in battle, this is for you!	戦闘様子見落	scene_02
 俺はいつでも【アクティブ】だが気にするな、好きなものを選ぶといい。以上だ	Personally, I always use [Active], but you can use whichever you like.	俺気好選以上	scene_02
 バトルの時に、【ピロンと飛び出す数字】は白がダメージ、緑が回復していることを表している	White numbers appearing on the screen in battle are damage points. Green numbers show restorative points.	時飛出数字白緑回復表	scene_02
 全滅したくなければ注意することだな	You better watch these if you don't want to get wiped out.	全滅注意	scene_02
-【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる	The [Change] command can move characters to and from the front and back rows.	戦闘隊形前列後列入	scene_02
-後列にすると受けるダメージが減るが、攻撃力も減る。【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ	In the back row, the damage received is less, but the attacking power is less.	後列受減攻撃力減戦闘選方向左押可能	scene_02
+【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる	The [Change] command can move characters to and from the front and back rows.	戦闘隊形前列後入	scene_02
+後列にすると受けるダメージが減るが、攻撃力も減る。【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ	In the back row, the damage received is less, but the attacking power is less.	後列受減攻撃力戦闘選方向左押可能	scene_02
 同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ	You can make a [Change] by pressing the Directional button in battle. Pushing the Directional button the other direction during battle accesses [Defend].	同戦闘選方向右押	scene_02
 【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる	Selecting [Defend] reduces the damage you receive by half until the next command.	選次入力半分	scene_02
-手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな	If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it.	手強相手無理必要俺関係	scene_02
+手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな	If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it.	手強相無理必要俺関係	scene_02
 俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう	I don't really remember ever having to use the [Escape] command… but you'll probably need it.	俺戦闘中逃覚必要	scene_02
 Ｌ１ボタンとＲ１ボタンを押しっぱなしにしていると逃げられたはずだ	Push [PAGEUP] and [PAGEDOWN] together, hold them down, and you can escape.	押逃	scene_02
 いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。戦闘中、いくつか表示されている【ゲージ】のことだ	During battle, there are several [Gauges] displayed. You can't check them now, so just remember what I tell you.	確認聞戦闘中表示	scene_02
 【ＴＩＭＥゲージ】は戦闘中、次のコマンド入力が回ってくるまでの待ち時間をあらわしている	[time gauge] displays the time remaining until your next turn while in battle.	戦闘中次入力回待時間	scene_02
-ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。BARRETをこきつかいたい時などに便利だ	When the gauge is full, you can make your command. If you don't want to make one, push [MENU] and you can move to the next character. It's convenient when you wanna make BARRET work.	入力可能入力次順番時便利	scene_02
+ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。BARRETをこきつかいたい時などに便利だ	When the gauge is full, you can make your command. If you don't want to make one, push [MENU] and you can move to the next character. It's convenient when you wanna make BARRET work.	入力可能次順番時便利	scene_02
 【ＬＩＭＩＴゲージ】はダメージを受けるごとにのびていくはずだ。これがいっぱいになると、【リミット技】が使える	The [limit gauge] increases every time you sustain damage. When it is full, you can use the [limit technique].	受技使	scene_02
 【ＬＩＭＩＴゲージ】は、各戦闘ごとにクリアされず数をこなしただけ、たまっていくタイプだ	This gauge is not cleared after each battle, but gradually builds up over time.	各戦闘数	scene_02
 たまったからといって、すぐにつかわず【リミット技】の使いどころを見極めることが大切なのは言うまでもない	It takes a while for it to build up, so you have to think about which times are the best to use it.	技使見極大切言	scene_02
@@ -676,7 +676,7 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 【怒り】は、【ＬＩＭＩＴゲージ】の上がり方が早くなるが攻撃の命中率は低下する	When you have [fury], your limit gauge builds up sooner, but your attacking accuracy is lower.	怒上方早攻撃命中率低下	scene_02
 【悲しい】は、【ＬＩＭＩＴゲージ】の上がり方が遅くなるが、敵の攻撃から受けるダメージは低下する。ついでに、おぼえておくといいだろう	Keep in mind that [sadness] makes your limit gauge build up slower, but the damage you receive is also lessened.	悲上方遅敵攻撃受低下	scene_02
 【ＢＡＲＲＩＥＲゲージ】は特定の魔法の効果時間をあらわす	The [barrier gauge] shows your defense barriers.	特定魔法効果時間	scene_02
-上のゲージは、なぐられ攻撃を防ぐ魔法【バリア】下のゲージは、魔法攻撃を防ぐ魔法【マバリア】	The top gauge displays [barrier] or magic defense against attacks. The bottom gauge displays [magic barrier] or defenses against magic attacks.	上攻撃防魔法下魔法攻撃防魔法	scene_02
+上のゲージは、なぐられ攻撃を防ぐ魔法【バリア】下のゲージは、魔法攻撃を防ぐ魔法【マバリア】	The top gauge displays [barrier] or magic defense against attacks. The bottom gauge displays [magic barrier] or defenses against magic attacks.	上攻撃防魔法下	scene_02
 両方ともダメージを半分にしてくれるが時間が経つと消えてしまう	Both will cut the damage you receive in half. However, over time they will disappear.	両方半分時間経消	scene_02
 【バリア】と【マバリア】の魔法をつかったときは【ＢＡＲＲＩＥＲゲージ】に注目だな	Whenever you use [barrier] or [magic barrier] make sure to pay attention to the [barrier gauge].	魔法注目	scene_02
 以上だ、次の戦闘で確認してくれ	That's it. Remember that for the next battle.	以上次戦闘確認	scene_02
@@ -693,7 +693,7 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 どく　　　　戦闘中にどんどんＨＰが減っていく。	Poison Steals your HP in battle.	戦闘中減	scene_02
 いかり　　ダメージ倍、命中率低下。鎮静剤でもどる。	Fury Damage is increased, attack accuracy decreased. Tranquilizers will remedy it.	倍命中率低下鎮静剤	scene_02
 かなしい　ダメージ低下。興奮剤でもどる。	Sadness Damage is decreased. Hyper will remedy it.	低下興奮剤	scene_02
-せきか　　石になり、動けなくなる。全員石で全滅だ。	Petrify Will petrify and become immobilized. Every member will be wiped out.	石動全員石全滅	scene_02
+せきか　　石になり、動けなくなる。全員石で全滅だ。	Petrify Will petrify and become immobilized. Every member will be wiped out.	石動全員滅	scene_02
 こんらん　頭が混乱し、敵味方の区別がつかなくなる。	Confuse Will attack enemy and ally alike.	頭混乱敵味方区別	scene_02
 ちんもく　全ての魔法をとなえられなくなる。	Silence Will be unable to cast magic.	全魔法	scene_02
 マヒ　　　　タイムゲージ停止、コマンド入力不可	Paralyze Stops time gauges, commands.	停止入力不可	scene_02
@@ -702,16 +702,16 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 フッ……さすがにつかれたな	Hoo…I'm beat.		scene_02
 【ステータス変化】はアイテムや魔法で直せるから物を買うときに確認しておくのがいいだろう	Your [Status] can be changed with magic and items, so you should check it whenever you buy things.	変化魔法直物買確認	scene_02
 【属性】は魔法や武器などについてくる特別な効果のことだ	[elemental] is the special effect that comes with certain weapons and magic.	属性魔法武器特別効果	scene_02
-有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな	It's necessary to move ahead effectively. If you pay attention to the types of elementals you use you'll become intermediate in no time.	有利戦闘進不可価属性気戦立派中級者	scene_02
-代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな	I put together this list, but remember, it's just a partial list don't take it too literally.	代表的一例一例	scene_02
+有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな	It's necessary to move ahead effectively. If you pay attention to the types of elementals you use you'll become intermediate in no time.	有利戦闘進不可価属性気立派中級者	scene_02
+代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな	I put together this list, but remember, it's just a partial list don't take it too literally.	代表的一例	scene_02
 炎　　火の効果。けもの、氷のモンスターにきく。	Fire Fire effect. Works best on animals and water monsters.	炎火効果氷	scene_02
 冷　　氷の効果。寒がり、火のモンスターにきく。	Ice Ice effect. Works best on fire monsters and things that hate the cold.	冷氷効果寒火	scene_02
 雷　　電撃の効果。機械でできたヤツにきく。	Lightning Lightning effect. Works best on mechanical things.	雷電撃効果機械	scene_02
 土　　大地の力の攻撃。飛んでるヤツにはきかない。	Earth Attacks using the earth's power. Doesn't work on flying enemies.	土大地力攻撃飛	scene_02
-毒　　毒状態にする。もともと毒のヤツにはきかない。	Poison Poisons enemies. Doesn't work on any poison-based enemies.	毒毒状態毒	scene_02
-重　　重力を使った攻撃。当たるといたいな。	Gravity Gravity-based attack. These hurt if they hit.	重重力使攻撃当	scene_02
-水　　大地の恵みの水を呼ぶ。火のモンスターにきく。	Water Calls on the earth's water. Works well on fire monsters.	水大地恵水呼火	scene_02
-風　　大気の風をよびおこす。飛んでるヤツにきく。	Wind Calls up the winds. Works well on flying enemies.	風大気風飛	scene_02
+毒　　毒状態にする。もともと毒のヤツにはきかない。	Poison Poisons enemies. Doesn't work on any poison-based enemies.	毒状態	scene_02
+重　　重力を使った攻撃。当たるといたいな。	Gravity Gravity-based attack. These hurt if they hit.	重力使攻撃当	scene_02
+水　　大地の恵みの水を呼ぶ。火のモンスターにきく。	Water Calls on the earth's water. Works well on fire monsters.	水大地恵呼火	scene_02
+風　　大気の風をよびおこす。飛んでるヤツにきく。	Wind Calls up the winds. Works well on flying enemies.	風大気飛	scene_02
 聖　　星の力をよびおこす。暗黒のモンスターにきく。	Holy Calls up the Planet's power. Works well on dark monsters.	聖星力暗黒	scene_02
 相反する【属性】を攻撃に使用することで大きな効果を得られる	If you use reciprocal elementals in your attacks, the effect is huge!	相反属性攻撃使用大効果得	scene_02
 また、同じ属性なら防御の効率があがる。だが……逆もまた真なり。気をつけることだな	Also, if you use the same elemental, your defenses are raised. But, you have to be careful because the opposite is also true.	同属性防御効率逆真気	scene_02
@@ -723,14 +723,14 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 よしっ、【リミットゲージ】はいっぱいだ！えんりょはいらない。【リミット技】で勝負だ！	OK! Now your limit gauge is full, go ahead and use it! Fight with your limit technique.	技勝負	scene_02
 まほう！！まほう！！	Magic!! Magic!!		scene_02
 おちつけ！相手が魔法を使うときには【マバリア】か【リフレク】で対抗するのだ	Calm down! When your enemy uses magic counter with [Magic Barrier] or [reflect].	相手魔法使対抗	scene_02
-【マバリア】は魔法のダメージを半分にする魔法だ	[Magic Barrier] reduces the damage received from magic by half.	魔法半分魔法	scene_02
+【マバリア】は魔法のダメージを半分にする魔法だ	[Magic Barrier] reduces the damage received from magic by half.	魔法半分	scene_02
 【リフレク】は魔法をはねかえすがはねかえす回数に制限があるから気をつけろ	[reflect] bounces the attacks off you. But the number of times you can use it is limited so be careful.	魔法回数制限気	scene_02
 さっすが、元ソルジャ！どちたら、強くなるの～！	Wow! You sure are strong! I'm going to be strong, too !	元強	scene_02
 なるの～！	Me too!		scene_02
 俺みたいに強くなりたければマテリアを効率よく育て最適な組み合わせをさがすことだな	If you want to get as strong as me you need to use Materia. And you have to find the best combinations of them.	俺強効率育最適組合	scene_02
 装備する武器や防具のしゅるいによってマテリアの成長のスピードはちがう	The type of Materia you put in your weapons and armor will determine how quickly your Materia grows.	装備武器防具成長	scene_02
 武器や防具にあいている穴の形によってマテリアの組み合わせは無限に広がる	Put Materia into the open slots in your weapons and armor. The possible combinations are limitless.	武器防具穴形組合無限広	scene_02
-俺にアドバイスできるのはそのくらいのことだ。もっとも生まれついた素質がなければ俺のようにはなれんがな	That's about all I can tell you. If you want to be like me, you have to have some natural talent.	俺生素質俺	scene_02
+俺にアドバイスできるのはそのくらいのことだ。もっとも生まれついた素質がなければ俺のようにはなれんがな	That's about all I can tell you. If you want to be like me, you have to have some natural talent.	俺生素質	scene_02
 わかんな～い！	I still don't get it!		scene_02
 俺を怒らせるな！	Listen kids, don't piss me off!	俺怒	scene_02
 大丈夫だ、まずはやってみろ。そのうち、なれてしまう	That's all right. Just give it a try. Little by little, you'll get used to it.	大丈夫	scene_02
@@ -756,7 +756,7 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 フィールドで迷ったときにはセレクトボタンを押してください。ポジションカーソルが表示されます。	Push [ASSIST] when you're lost in the field. Usually, the [Position Cursor] will appear on the screen.	迷押表示	scene_02
 さらに！！	But wait!!		scene_02
 入口をあらわす『赤サンカク』とはしごなどをあらわす『緑サンカク』も表示されます。	[Red triangles] mark the exits and [Green triangles] mark ladders.	入口赤緑表示	scene_02
-これで、暗い夜道も険しい山道もご安心！なお、フィールドによっては表示されないことがあります。御注意ください。	These will help you safely make it through even the darkest streets or dangerous mountains! But, there are times when they won't appear, so be careful.	暗夜道険山道安心表示御注意	scene_02
+これで、暗い夜道も険しい山道もご安心！なお、フィールドによっては表示されないことがあります。御注意ください。	These will help you safely make it through even the darkest streets or dangerous mountains! But, there are times when they won't appear, so be careful.	暗夜道険山安心表示御注意	scene_02
 ジョニーの家	Johnny's Home	家	scene_02
 ハッハッ……。まあ、それもいいでしょうなあ	Ha, Ha!…… Well, there's nothin' wrong with that, I'd say.		scene_02
 ハッハッ……。息子はもう旅立ちましたかな？	Ha!  Ha!…… I wonder if my son's already left?	息子旅立	scene_02

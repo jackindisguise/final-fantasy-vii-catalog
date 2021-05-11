@@ -3,8 +3,8 @@
 わしらのような年寄りがのんびりくらすにはうってつけの場所じゃて	Just the perfect place for old folks like us to live out our lives.	年寄場所	scene_33
 どうも外では、なにやら大変なことになっとるらしいがまだここは静かなもんじゃよ	I hear that things ain't so peaceful on the outside. But here it's still nice and quiet.	外大変静	scene_33
 ほい、ここはミディール。のどかな温泉村……と言いたいところじゃが……	Ahoy! This here's Mideel. A quiet Hot Springs town… At least it used to be…	温泉村言	scene_33
-最近どうも海がさわがしいんじゃ。またライフストロンガーちゅうのが海底であばれとるんじゃろうて	Lately the sea's been in a tizzy. Lifestream has been mixin' things up at the bottom of the ocean.	最近海海底	scene_33
-星も怒っとるのかもしれんのう。いままでわしらは、この星にやりたいほうだいじゃったからなあ	I think the Planet's pretty angry, too. We've pretty much done whatever we've wanted to the Planet up till now.	星怒星	scene_33
+最近どうも海がさわがしいんじゃ。またライフストロンガーちゅうのが海底であばれとるんじゃろうて	Lately the sea's been in a tizzy. Lifestream has been mixin' things up at the bottom of the ocean.	最近海底	scene_33
+星も怒っとるのかもしれんのう。いままでわしらは、この星にやりたいほうだいじゃったからなあ	I think the Planet's pretty angry, too. We've pretty much done whatever we've wanted to the Planet up till now.	星怒	scene_33
 おや、見なれない顔だね。外からきたのかい？どうだい、むこうのようすは？	Huh? Never seen you here before. You from outta town? How're things on the outside?	見顔外	scene_33
 地震だの、メテオだの……この世の終わりがくるってのはほんとなのかねえ	Between the earthquakes and Meteor… It just might be the end of the world like everyone's been sayin'…	地震世終	scene_33
 ああ、しんきくさい！イヤな世の中だよまったく……	Oh, how depressing! What a miserable world this is…	世中	scene_33
@@ -61,7 +61,7 @@ CLOUD……！！	CLOUD!!		scene_33
 さ、お客さんもそんなとこでつったってないでなかへどうぞ！　どうぞ！えんりょなんか、いらないから	Step right up! You there, don't just stand around outside. Go on in! Come on! Don't be shy, step right up!	客	scene_33
 しかし、なんだってまたこんなのんきな村なんかに店を出そうと思いついたんだろうねうちの人は……？　はあ……	I'll never know why he wanted to open a store in a dead town like this. What's with him? …sigh…	村店出思人	scene_33
 な、なんだ、こりゃあ……！？	What's this?		scene_33
-地下のライフストリームが地表に吹き出すってえのか！？	The Lifestream is gushing up from below the surface of the earth!	地下地表吹出	scene_33
+地下のライフストリームが地表に吹き出すってえのか！？	The Lifestream is gushing up from below the surface of the earth!	地下表吹出	scene_33
 おい、ありゃあ……！？やべえぞ、こりゃ……！！	Damn, that's… This is bad!!		scene_33
 CID……！？どうしたの！？	CID!? What's wrong?		scene_33
 な、なんでもねえ！！CLOUDと一練に、なかにいろ！！	N, nothin'!! You and CLOUD get inside quick!!	一練	scene_33
@@ -87,14 +87,14 @@ CIDたちは、エリクサーを手にいれた！	Received "Elixir"!	手	scene
 おまえさんたち、なんか取らんかったかね？	Did you just take something?	取	scene_33
 お、おう。そりゃ……	Uh, oh. I'm…		scene_33
 取ったぜ、おやじ！	Yeah, I took it, old man!	取	scene_33
-知らん、まったく知らん！	I know nothin' about it!	知知	scene_33
+知らん、まったく知らん！	I know nothin' about it!	知	scene_33
 ありゃ、このCID様がいただいた！バッチリ有効につかわせてもらうぜ	Hey, it's mine now! An' I'll make good use of it, believe-you-me!	様有効	scene_33
 ほっほっ、変わったお人じゃな。気に入ったわい。そいつは好きに使うとええじゃろ	Heh, heh. What an oddball. We'll let him use it.	変人気入好使	scene_33
 すまねえな。助かるぜ、じーさん	Hey thanks. It'll help, pops!	助	scene_33
 さ、さあ……？おりゃ、なにも知らねえぞ	Wh, wh-huh…? I don't know nuthin' about that.	知	scene_33
 なに、古くなってくさっちまったエリクサーを、すてようと思ってそこいらに出しといたんじゃが	What the hell happened to that rotten old elixir I was gonna throw out?	古思出	scene_33
 まちがってあんなもの飲んだら腹をこわすくらいじゃすまされんからのう……	If someone took that by mistake it'll do more than make them sick…	飲腹	scene_33
-いや、知らんのならいいんじゃよ。知らんのなら	Well, if you don't know then I guess you don't know.	知知	scene_33
+いや、知らんのならいいんじゃよ。知らんのなら	Well, if you don't know then I guess you don't know.	知	scene_33
 …………うそ……	…		scene_33
 ミディール　武器屋	Mideel Weapon Store	武器屋	scene_33
 なんでももうすぐあの巨大なお月さんが降ってくるっていうじゃない？	So that overgrown moon's gonna fall on us, huh?	巨大月降	scene_33
@@ -105,10 +105,10 @@ CIDたちは、エリクサーを手にいれた！	Received "Elixir"!	手	scene
 お金なら、山ほどあるわよ！こんな日もあろうかと必死でためこんだんだもの！	I've got money to burn! I've been saving like mad just for a time like this!	金山日必死	scene_33
 ああ……、時間が足りないわ！！いつ、あの月が降ってくるかも知れないってのに！！	Oh…not much time left!! You never know when that moon's gonna come crashing down!!	時間足月降知	scene_33
 けっきょく世の中、お金と物よ！それさえあれば、いつだってどこでだって、やってける！	When it all comes down to it, this world's about money and material things! If you got 'em, you can get by whenever, wherever!	世中金物	scene_33
-買わなくちゃ！！とにかく、買って、買って買いまくるのよ！！	Gotta buy!! Gotta buy, buy, buy!! I'm gonna shop till I drop!!	買買買買	scene_33
-いらっしゃい！愛と勇気の、博愛ショップ！今日は、どんなごようですか？	Welcome to the charity store, a store of love and courage! What can I get you today?	愛勇気博愛今日	scene_33
+買わなくちゃ！！とにかく、買って、買って買いまくるのよ！！	Gotta buy!! Gotta buy, buy, buy!! I'm gonna shop till I drop!!	買	scene_33
+いらっしゃい！愛と勇気の、博愛ショップ！今日は、どんなごようですか？	Welcome to the charity store, a store of love and courage! What can I get you today?	愛勇気博今日	scene_33
 ありがとうございました！また、どうぞ	Thank you very much! Please come again.		scene_33
-いらっしゃい！愛と勇気の、博愛ショップ！と、行きたいとこなんですが……	Welcome to the charity store, a store of love and courage! Unfortunately, regarding the place you'd like to go…	愛勇気博愛行	scene_33
+いらっしゃい！愛と勇気の、博愛ショップ！と、行きたいとこなんですが……	Welcome to the charity store, a store of love and courage! Unfortunately, regarding the place you'd like to go…	愛勇気博行	scene_33
 そこのお客さんがみんな予約しちまったんで……なにも残ってないんですよ	The other customers have booked it all up… I'm afraid nothing's left.	客予約残	scene_33
 ……というのは、じょうだんです。アハハハハ！さて、それじゃ、どんなごようです？	…just kidding! Ha, hah, hah! Now how can I help you?		scene_33
 ダメだわ……。カギが、かかってるのかしら	No good… I wonder if it's locked?		scene_33
@@ -229,7 +229,7 @@ CLOUD……！？	CLOUD!?		scene_33
 CLOUD！どうしちゃったの……！？	CLOUD! What happened to you?		scene_33
 魔晄中毒だよ……。それも、かなり重度の、ね……	Mako poisoning… Quite an advanced case.	魔晄中毒重度	scene_33
 どうもこの若者は強烈な魔晄エネルギーに長時間さらされたようだな	It appears this young man's been exposed to high levels of Mako energy for an extended period of time.	若者強烈魔晄長時間	scene_33
-おそらく、自分が誰なのか自分がいまどこにいるのかすら理解していないだろう……	He probably has no idea who or where he is now…	自分誰自分理解	scene_33
+おそらく、自分が誰なのか自分がいまどこにいるのかすら理解していないだろう……	He probably has no idea who or where he is now…	自分誰理解	scene_33
 かわいそうだが、君の声もとどいてはいまい……。本当の彼は別の場所にいるんだ	Poor fellow, he can't even speak. He's literally miles away from us.	君声本当彼別場所	scene_33
 誰もいったことがないような遠い場所に……ひとりぽっちでね……	Some place far away where no one's ever been… All alone…	誰遠場所	scene_33
 そんな……！！	Doctor!!		scene_33
@@ -242,7 +242,7 @@ CLOUD！どうしちゃったの……！？	CLOUD! What happened to you?		scene
 さあ、君たちも、一練に……。外で待っていよう	Listen, would you all mind… waiting outside?	君一練外待	scene_33
 どうして……？どうして、こんなことに……！	Why? What do you want me to do?		scene_33
 おねがい、CLOUD……。こたえてよ……	Please, CLOUD… Talk to me…		scene_33
-ちゃんと私のこと見てるって私の声が聞こえるって……言ってよ、ねえ……	Tell me you see me, that you can hear me… Tell me, please…	私見私声聞言	scene_33
+ちゃんと私のこと見てるって私の声が聞こえるって……言ってよ、ねえ……	Tell me you see me, that you can hear me… Tell me, please…	私見声聞言	scene_33
 あなたとの思い出を信じたくてここまで来たのに……	I made it this far believing in the memories we shared.	思出信来	scene_33
 こんなの、ないよ……！ひどすぎるよ……	This isn't happening! It's too cruel!		scene_33
 ああ、CLOUD……！私……	Oh, CLOUD! I…	私	scene_33
@@ -262,7 +262,7 @@ TIFAさんがかんびょうしてくれるんやったら、CLOUDさんと代�
 がんばりな、TIFA。CLOUDのことは、たのんだぜ	You hang in there, TIFA. Take care of CLOUD.		scene_33
 いいんだよ、そんなこと。オイラたちも、またよるからさ	That's all right. We'll be by again.		scene_33
 がんばって、TIFA。CLOUDのことは、たのんだよ	Do your best, TIFA. Take care of CLOUD.		scene_33
-気にしない、気にしない。アタイらも顔みせるからさ	No big, no big. I'll pop in again later.	気気顔	scene_33
+気にしない、気にしない。アタイらも顔みせるからさ	No big, no big. I'll pop in again later.	気顔	scene_33
 CLOUDのこと、たのんだね。がんばるんだよ、TIFA	Look after CLOUD. Take care, TIFA.		scene_33
 ええって、みずくさいなぁ。また顔みせにきますわ	What're you talkin' about? We'll stop in again.	顔	scene_33
 CLOUDさん、はよようなるとええのにな	Hope CLOUD gets better soon.		scene_33
@@ -299,7 +299,7 @@ CLOUDのヤツはどうなんだ？ちゃんと元にもどるのか？	What abo
 いいかい、君たちが希望をすててしまったら……いったい彼はどこへ帰ればいいというのかね？	If you give up hope… What will happen to him?	君希望彼帰	scene_33
 ……希望か……	…hope…	希望	scene_33
 でもよ、正直な話……オレはあいつに帰ってきて欲しいとホントにねがってるんだろうか？	Hey, but honestly, man… Do I really want him to come back?	正直話帰欲	scene_33
-ヤツがこの世界に何をした？この先、オレたちに何をもたらす？セフィロスの影でしかないのかもしれねえんだぞ……	What did he do for the world? What can he do for us from here on out? He may be nothing more than Sephiroth's shadow…	世界何先何影	scene_33
+ヤツがこの世界に何をした？この先、オレたちに何をもたらす？セフィロスの影でしかないのかもしれねえんだぞ……	What did he do for the world? What can he do for us from here on out? He may be nothing more than Sephiroth's shadow…	世界何先影	scene_33
 どうかしたかね？	Is something wrong?		scene_33
 いや……。何でもねえよ	No, nothin'. Nothin' at all, Doc.	何	scene_33
 ……。希望か……	…Hope…	希望	scene_33
@@ -335,7 +335,7 @@ CLOUDのヤツはどうなんだ？ちゃんと元にもどるのか？	What abo
 あんたがリーダーに決まった	You been chosen to be the new leader.	決	scene_33
 そんな面倒なことはイヤだぜ	Pain in the ass. Forget it.	面倒	scene_33
 これからの戦いにはあんたと、あんたのこの飛空艇ハイウインドが必要なんだ	But for us to fight, we gotta have Highwind, and you.	戦飛空艇必要	scene_33
-これは星を救う船だぜ。その大切な船を仕切ってるのは誰だ？あんただろ？	We need it to save the Planet. An' who's runnin' this ship? You!	星救船大切船仕切誰	scene_33
+これは星を救う船だぜ。その大切な船を仕切ってるのは誰だ？あんただろ？	We need it to save the Planet. An' who's runnin' this ship? You!	星救船大切仕誰	scene_33
 だからオレたちのリーダーはCID、あんたしか考えられねえ	That's why you're our new leader. Ain't no one else can do it.	考	scene_33
 へ……星を救う船か。……ちょっと熱いじゃねえか	Hmm…this ship's gonna save the Planet, huh? Ain't that gonna be just a little tough?	星救船熱	scene_33
 今のはハートにズンと来たぜ	Oh man, stab me in the heart.	今来	scene_33
@@ -403,12 +403,12 @@ CIDさん、つかれてますなぁ	CID, you're tired, huh?		scene_33
 神羅の動き……止まりましたで	Shinra's…stopped.	神羅動止	scene_33
 でも、こういう時は要注意ですのや。ハイデッカーたちがなんか考えてるにちがいまへんわ	Now we've got to be careful. I know Heidegger and his gang are plotting something.	時要注意考	scene_33
 ……無事で良かったな、TIFA	…So glad you're all right, TIFA.	無事良	scene_33
-ふくらみすぎた希望は絶望の裏返し	Too much hope is the opposite of despair.	希望絶望裏返	scene_33
+ふくらみすぎた希望は絶望の裏返し	Too much hope is the opposite of despair.	希望絶裏返	scene_33
 大きすぎる愛はおまえを打ちのめすことになるかもしれない……	An overpowering love may consume you in the end.	大愛打	scene_33
 CID……あんたのその熱さがうらやましいよ	CID…I wish I had your go-get-them attitude.	熱	scene_33
 私の心は長い眠りのうちにとけてなくなってしまったようだからな……	It appears my feelings vanished into thin air ever since my long slumber….	私心長眠	scene_33
 ……戦闘以外で私に何かを期待するな	…Don't expect me to do anything other than fight beside you.	戦闘以外私何期待	scene_33
-ねぎらいの言葉すら、私は知らない。もっとも、あんたは他人の優しさにすがるような人間ではなさそうだが……	I have no words of comfort. Of course, I don't believe you're the type who needs the kindness from others…	言葉私知他人優人間	scene_33
+ねぎらいの言葉すら、私は知らない。もっとも、あんたは他人の優しさにすがるような人間ではなさそうだが……	I have no words of comfort. Of course, I don't believe you're the type who needs the kindness from others…	言葉私知他人優間	scene_33
 ずいぶんつかれているようだがそろそろリーダーをおりるのかな？	You look really tired, maybe you're ready to give up being leader?		scene_33
 落ちこんでてもしょうがねえぞ、ネエちゃん。とにかくいろいろ動きまわるこったぜ	No use singing the blues, baby. The best thing to do is to keep movin'.	落動	scene_33
 あ、あの、話しかけられるとドキドキしちゃって仕事しくじっちゃいます	Whenever anyone talks to me, I get all nervous and mess things up!	話仕事	scene_33

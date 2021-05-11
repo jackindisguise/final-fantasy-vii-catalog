@@ -1,6 +1,6 @@
 準備のほうは？	How are the preparations going?	準備	scene_06
 ハイデッカー	Heidegger		scene_06
-ガハハ！！　順調順調！実行部隊はタークスです	Gya, haa, haa!!  Smoothly, very smoothly! I assigned the Turks to this.	順調順調実行部隊	scene_06
+ガハハ！！　順調順調！実行部隊はタークスです	Gya, haa, haa!!  Smoothly, very smoothly! I assigned the Turks to this.	順調実行部隊	scene_06
 リーブ	Reeve		scene_06
 プレジデント！本当にやるのですか？たかだか数人の組織をつぶすのに……	President!! Are we really going to do this? Simply destroy a group with only a few members…	本当数人組織	scene_06
 いまさらナニかね、リーブ君	What's the problem, Reeve? You want out?	君	scene_06
@@ -11,10 +11,10 @@
 市長！？	Mayor?	市長	scene_06
 このビルの中でボソボソとメシをくってるあいつか！？あいつを、まだ市長と呼ぶのか？	He just sits in this building all day feeding his face! You still call that a Mayor?	中市長呼	scene_06
 それでは失礼します！	Now if you'll excuse me sir!	失礼	scene_06
-君はつかれているんだよ。休暇をとって旅行でも行ってなさい	You're tired. Why don't you take a couple of days off and go somewhere.	君休暇旅行行	scene_06
+君はつかれているんだよ。休暇をとって旅行でも行ってなさい	You're tired. Why don't you take a couple of days off and go somewhere.	君休暇旅行	scene_06
 ７番街を破壊する。アバランチの仕業として報道する。神羅カンパニーによる救助活動。フフフ……かんぺきだ	We'll destroy Sector 7 and report that AVALANCHE did it. Then we'll send in the rescue operation, care of Shinra, Inc…. Heh, heh, heh…this is perfect.	番街破壊仕業報道神羅救助活動	scene_06
 ガハハハ！	Gya, haaa, haa!		scene_06
-地下下水道	Sewer	地下下水道	scene_06
+地下下水道	Sewer	地下水道	scene_06
 もう！サイテーね、これ	Man! This is terrible.		scene_06
 うん	Yeah.		scene_06
 ま、最悪の事態からはのがれられた……	Well, the worst is over…	最悪事態	scene_06
@@ -54,7 +54,7 @@ CLOUD！！早くしなきゃ、BARRETが…	CLOUD!! You've gotta go now, or BAR
 ん？あんたも見にきたのか？	Huh? You came to see it, too?	見	scene_06
 上で爆弾テロがあったんだってよ。この柱がぶっとんだら、このスラムも終わりだからな……	There was a bombing on top. If this pillar should come down, everyone in the slums is dust…	上爆弾柱終	scene_06
 まあ、心配するだけむだだったな	Well, there's no point in worryin' about that.	心配	scene_06
-なぁ！！見てみろよ。いつ見ても、どでかい柱だなぁ	Hey!! Check it out! It's huge, ain't it?	見見柱	scene_06
+なぁ！！見てみろよ。いつ見ても、どでかい柱だなぁ	Hey!! Check it out! It's huge, ain't it?	見柱	scene_06
 ほら……。なんだか、素敵で不思議な場所だろ	Hey… This is a strange and wonderful place.	素敵不思議場所	scene_06
 オレの場所だが、たまには見にきてもいいぞ。じゃな！！　きょうだい！	This is my place, but you can come here when you want. See ya, bro!	場所見	scene_06
 あ、あ、あの……すいません。ここから先は、立入禁止なんですが	Ah…eh…uhm. Excuse me. You cannot pass without the proper clearance.	先立入禁止	scene_06
@@ -63,7 +63,7 @@ CLOUD！！早くしなきゃ、BARRETが…	CLOUD!! You've gotta go now, or BAR
 え、で、でも……	But, uh, I…		scene_06
 さ、さすが、先輩！！	W, wow! You're great!!	先輩	scene_06
 おう！！むだぐちたたくんじゃねえ！	Damn right!! Don't waste time talkin's what I always say!		scene_06
-きさま、何の用だ？この俺が何者か、知らんわけないだろう？	What the hell do you want? You know who I am?	何用俺何者知	scene_06
+きさま、何の用だ？この俺が何者か、知らんわけないだろう？	What the hell do you want? You know who I am?	何用俺者知	scene_06
 ここから先は立ち入り禁止だ。俺はここでおまえみたいな浮浪者をおっぱらうケチな仕事をしてるもんだ	You can't pass. I got the miserable job of keepin' scum like you from trying to sneak in here.	先立入禁止俺浮浪者仕事	scene_06
 わかったら、さっさとうせろ！！	If you understand, then scram!		scene_06
 あ、あの……となりの先輩、こわいからさからわない方がいいと思いますよ	Listen… My partner's pretty mean, I wouldn't get him mad, if I were you.	先輩方思	scene_06
@@ -95,7 +95,7 @@ CLOUD！！早くしなきゃ、BARRETが…	CLOUD!! You've gotta go now, or BAR
 あ……CLOUD……最後に……話せて良かった……	…CLOUD… I'm glad……I could talk with you…one last time.	最後話良	scene_06
 最後だなんて……	Don't say 'last'……	最後	scene_06
 もう、いい……いいの……	That's…all right…		scene_06
-私たち……私たちの作戦でたくさん……人、死んじゃったし……きっと……そのむくい……ね	Because…of our actions…many……people died…… this probably……is our punishment…	私私作戦人死	scene_06
+私たち……私たちの作戦でたくさん……人、死んじゃったし……きっと……そのむくい……ね	Because…of our actions…many……people died…… this probably……is our punishment…	私作戦人死	scene_06
 ……そうか……ですって……？	…Is…that so……?		scene_06
 フフ…………相変わらず……クールな……元ソルジャーさん。……そこが……いいんだけどね……	Ha……cool……as usual… ex-…SOLDIER. …always…I liked that…in you…	相変元	scene_06
 CLOUD ……やっぱり……星の命なんて……どうなろうと……興味ないか？	CLOUD… so you don't care…what happens… to the…Planet?	星命興味	scene_06
@@ -122,7 +122,7 @@ CLOUD！ 止めかたがわからないの。やってみて！	CLOUD! I don't k
 どこかのバカ者が勝手にふれると困るからな”	It'll blow the second some stupid jerk touches it.	者勝手困	scene_06
 おねがい、とめて！	Please, stop it!		scene_06
 クックックッ……	Ha ha ha……		scene_06
-緊急用プレート解除システムの設定と解除は神羅役員会の決定なしではできないのだ	Only a Shinra Executive can set up or disarm the Emergency Plate Release System.	緊急用解除設定解除神羅役員会決定	scene_06
+緊急用プレート解除システムの設定と解除は神羅役員会の決定なしではできないのだ	Only a Shinra Executive can set up or disarm the Emergency Plate Release System.	緊急用解除設定神羅役員会決	scene_06
 ゴチャゴチャうるせえ！	Shut yer hole!		scene_06
 そんなことされると大切なゲストがケガするじゃないか	I wouldn't try that…… You just might make me injure our special guest.	大切	scene_06
 おや、知り合いなのか？	Oh, you know each other?	知合	scene_06
@@ -194,4 +194,4 @@ AERISを助けにいくのね？	You're going to help AERIS?	助	scene_06
 よく聞け！古代種こそがこの星の正当なる支配者！	Now listen good! The Ancients are the rightful rulers of this Planet!	聞古代種星正当支配者	scene_06
 セフィロス……？	"Sephiroth…?"		scene_06
 しっかりしてくれよ！	Pull it together, man!		scene_06
-われこそ古代種の血をひきし者。この星の正統なる後継者！	In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet!	古代種血者星正統後継者	scene_06
+われこそ古代種の血をひきし者。この星の正統なる後継者！	In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet!	古代種血者星正統後継	scene_06
