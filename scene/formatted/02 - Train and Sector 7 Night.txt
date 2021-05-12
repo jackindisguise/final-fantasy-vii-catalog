@@ -1213,8 +1213,8 @@ from the Weapon Shop man upstairs.”	武器屋２階のおじさんから伝言
 Don't forget!”	……だって。
 	わすれないでね！」
 [Materia System]	【マテリアシステム】
-“Access the menu	メニューを開いて「マテリア」を選ぶことによって
-and select [Materia] to equip Materia.”	マテリアの付け替えができるようになります。
+“Access the menu	「メニューを開いて【マテリア】を選ぶことによって
+and select [Materia] to equip Materia.”	マテリアの付け替えができるようになります。」
 Sector 7 Item Store	７番街・道具屋
 	
 “Ahh…	「フーッ……
@@ -1228,23 +1228,24 @@ Are you…a customer?”	あんた、まさか客かね？」
 “Yes!! Welcome!!	「はい！！　いらっしゃい！！
 We sell!	売りますよ！
 We buy!”	買いますよ！」
-“By the way, you wouldn't happen to be…	「ところで、あんた。
+“By the way, you wouldn't happen to be…”	「ところで、あんた。
 	もしかして……」
-Naw, never mind.	……いや、なんでもないよ。
-Forget it.	失礼、失礼」
+“Naw, never mind.	「……いや、なんでもないよ。
+Forget it.”	失礼、失礼」
 Sector 7 Weapon Shop	７番街・武器屋１階
 	
 “He, HEY! Waitaminit you!!”	「んっ！！
 	おい、客！！」
 “You can't just walk outta here	「買わねえとどんなめにあうか……
-without buyin' somethin'!”	
-“Might be unhealthy fer ya,	想像してみりゃ、わかるよな」
+without buyin' somethin'!	想像してみりゃ、わかるよな」
+Might be unhealthy fer ya,	
 if ya know what I mean.”	
 “Hey!! What the--YOU!?”	「よう！！
-“Anyone talking to me must be a novice.”	なんだ、おまえ？」
-Yep, that's me	「俺に話しかけるってことは、しろうとだな？」
-I used to be in SOLDIER,	素人だ。
-the name's CLOUD	俺は元ソルジャーのCLOUDだ。
+	なんだ、おまえ？」
+“Anyone talking to me must be a novice.”	「俺に話しかけるってことは、しろうとだな？」
+Yep, that's me	素人だ。
+“I used to be in SOLDIER,	俺は元ソルジャーのCLOUDだ。
+the name's CLOUD”	
 CLOUD	CLOUD
 “So what.	「それがどうした。
 Everyone's gotta start sometime.”	誰だって最初は素人だろ」
@@ -1260,18 +1261,18 @@ I'll show ya the ropes.”	こんせつていねいに教えてやるぜ！」
 “You come back here tomorrow.	「明日の朝に顔あらってでなおしてきな。
 I got some things I gots ta do.”	俺様だって準備が必要だからな」
 “Heh heh…He'll forget about it.	「てへへ…一晩じゃ、おぼえきれんぜ。
-OH, you!!”	おう！素人！！
-“Get my friend on the second floor	悪いが、二階のあいぼうから教わってくれ」
+OH, you!!	おう！素人！！
+Get my friend on the second floor	悪いが、二階のあいぼうから教わってくれ」
 to teach ya.”	
 “Crap!! Watch it, you old guy!”	「チッ！！　おっさん！！
 	気をつけてくれよ！」
 “I was just about to rip up that smooth	「あんたのツンツン頭を
 little head of yours!”	ブチぬいちまうとこだぜ！」
 “In the slums	「スラムじゃ、自分の身は自分で守る。
-ya gotta take care of yourself first.”	ガキのころから、そんな生き方さ」
-“I been livin' like that ever since I was a kid.”	「オレみたいにタフな男の子になりたかったら
-“You wanna be tough like me?	いかす武器を選ぶこったな」
-Then you gotta pick out some good weapons.”	
+ya gotta take care of yourself first.	ガキのころから、そんな生き方さ」
+I been livin' like that ever since I was a kid.”	
+“You wanna be tough like me?	「オレみたいにタフな男の子になりたかったら
+Then you gotta pick out some good weapons.”	いかす武器を選ぶこったな」
 “Oh and uh, by the way	「でな、おっさん。
 old guy…”	相談なんだが……」
 “You can see this store don't have no customers…	「見ての通り、この武器屋には客がいない。
@@ -1725,10 +1726,6 @@ up [MENU]: menu	上　　　　　　　　　　　△：メニュー
 leftright: walk  [OK]: speak/execute	左　　　右：歩く　　　□　　○：話す／決定
 down [CANCEL]: run	下　　　　　　　　　　　×：走る／取り消し
 [PAGEUP]/[PAGEDOWN]: turn.	Ｌ１／Ｒ１ボタン：チョコッとまがる
-[How to restart]	『ソフトリセット方法』
-You must quit the game in order to restart.	Ｌ１＆Ｌ２＆Ｒ１＆Ｒ２＆セレクト＆スタート
-To quit the game, either select QUIT	以上のボタンを同時に押すとリセットがかかります。
-in the Main Menu or press CTRL+Q.	（フィールド上のみ有効）
 CLOUD	CLOUD
 “Huh? Finger!?	「ん？　指！？
 What the hell?”	なんだ、おまえ？」
