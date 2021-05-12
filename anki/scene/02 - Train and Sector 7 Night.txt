@@ -521,33 +521,31 @@ CLOUD、私を助けに来てね	you'll come save me, all right?	私助来	scene
 CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message from the Weapon Shop man upstairs.	武器屋階伝言	scene_02
 あげたいものがあるからお店によって……だって。わすれないでね！	He has something he wants to give you. Don't forget!	店	scene_02
 【マテリアシステム】	[Materia System]		scene_02
-メニューを開いてマテリアを選ぶことによって	Access the menu and select [Materia] to equip Materia.	開選	scene_02
-マテリアの付け替えができるようになります。	Sector 7 Item Store	付替	scene_02
-７番街・道具屋	Ahh… Another slow day…	番街道具屋	scene_02
-フーッ……今日もひまひま……	If this keeps up, this store's goin' under…	今日	scene_02
-もうこの店もダメかのう…	Can't sell any really good medicine in a slum like this.	店	scene_02
-こんなスラムじゃまともなクスリは売れんなあ	Oh!! Look at this! This doesn't happen everyday. Are you…a customer?	売	scene_02
-おっ！！こりゃこりゃ！こりゃ、めずらしい。あんた、まさか客かね？	Yes!! Welcome!! We sell! We buy!	客	scene_02
-はい！！　いらっしゃい！！売りますよ！買いますよ！	By the way, you wouldn't happen to be…  Naw, never mind. Forget it. Sector 7 Weapon Shop	売買	scene_02
-ところで、あんた。もしかして……	He, HEY! Waitaminit you!!		scene_02
-……いや、なんでもないよ。	You can't just walk outta here without buyin' somethin'!		scene_02
-失礼、失礼」	Might be unhealthy fer ya, if ya know what I mean.	失礼	scene_02
-７番街・武器屋１階	Hey!! What the--YOU!?	番街武器屋階	scene_02
-んっ！！おい、客！！	Anyone talking to me must be a novice.	客	scene_02
-買わねえとどんなめにあうか……想像してみりゃ、わかるよな	Yep, that's me	買想像	scene_02
-よう！！なんだ、おまえ？	I used to be in SOLDIER,		scene_02
-俺に話しかけるってことは、しろうとだな？	the name's CLOUD	俺話	scene_02
-素人だ。	So what. Everyone's gotta start sometime.	素人	scene_02
-俺は元ソルジャーのCLOUDだ。	The name's CLOUD. Used to be with SOLDIER, I got no business with you.	俺元	scene_02
-それがどうした。誰だって最初は素人だろ	Hmmph!! Well, I never heard of ya!	誰最初素人	scene_02
-俺は元ソルジャーのCLOUDだ。おまえに用などない	Don't act so big, amateur. Seein' as how I'm such a warm hearted guy, I'll show ya the ropes.	俺元用	scene_02
-フン！！おまえの名前なんて聞いてねぇよ	You come back here tomorrow. I got some things I gots ta do.	名前聞	scene_02
-素人のくせにいばるんじゃねぇ。親切な俺様がこんせつていねいに教えてやるぜ！	Heh heh…He'll forget about it. OH, you!!	素人親切俺様教	scene_02
-明日の朝に顔あらってでなおしてきな。俺様だって準備が必要だからな	Get my friend on the second floor to teach ya.	明日朝顔俺様準備必要	scene_02
-てへへ…一晩じゃ、おぼえきれんぜ。おう！素人！！悪いが、二階のあいぼうから教わってくれ	Crap!! Watch it, you old guy!	一晩素人悪二階教	scene_02
-チッ！！　おっさん！！気をつけてくれよ！	I was just about to rip up that smooth little head of yours!	気	scene_02
-あんたのツンツン頭をブチぬいちまうとこだぜ！	In the slums ya gotta take care of yourself first.	頭	scene_02
-スラムじゃ、自分の身は自分で守る。ガキのころから、そんな生き方さ	I been livin' like that ever since I was a kid.	自分身守生方	scene_02
+メニューを開いて【マテリア】を選ぶことによってマテリアの付け替えができるようになります。	Access the menu and select [Materia] to equip Materia.	開選付替	scene_02
+７番街・道具屋	Sector 7 Item Store	番街道具屋	scene_02
+フーッ……今日もひまひま……	Ahh… Another slow day…	今日	scene_02
+もうこの店もダメかのう…	If this keeps up, this store's goin' under…	店	scene_02
+こんなスラムじゃまともなクスリは売れんなあ	Can't sell any really good medicine in a slum like this.	売	scene_02
+おっ！！こりゃこりゃ！こりゃ、めずらしい。あんた、まさか客かね？	Oh!! Look at this! This doesn't happen everyday. Are you…a customer?	客	scene_02
+はい！！　いらっしゃい！！売りますよ！買いますよ！	Yes!! Welcome!! We sell! We buy!	売買	scene_02
+ところで、あんた。もしかして……	By the way, you wouldn't happen to be…		scene_02
+……いや、なんでもないよ。失礼、失礼	Naw, never mind. Forget it.	失礼	scene_02
+７番街・武器屋１階	Sector 7 Weapon Shop	番街武器屋階	scene_02
+んっ！！おい、客！！	He, HEY! Waitaminit you!!	客	scene_02
+買わねえとどんなめにあうか……想像してみりゃ、わかるよな	You can't just walk outta here without buyin' somethin'! Might be unhealthy fer ya, if ya know what I mean.	買想像	scene_02
+よう！！なんだ、おまえ？	Hey!! What the--YOU!?		scene_02
+俺に話しかけるってことは、しろうとだな？	Anyone talking to me must be a novice.	俺話	scene_02
+素人だ。	Yep, that's me	素人	scene_02
+俺は元ソルジャーのCLOUDだ。	I used to be in SOLDIER, the name's CLOUD	俺元	scene_02
+それがどうした。誰だって最初は素人だろ	So what. Everyone's gotta start sometime.	誰最初素人	scene_02
+俺は元ソルジャーのCLOUDだ。おまえに用などない	The name's CLOUD. Used to be with SOLDIER, I got no business with you.	俺元用	scene_02
+フン！！おまえの名前なんて聞いてねぇよ	Hmmph!! Well, I never heard of ya!	名前聞	scene_02
+素人のくせにいばるんじゃねぇ。親切な俺様がこんせつていねいに教えてやるぜ！	Don't act so big, amateur. Seein' as how I'm such a warm hearted guy, I'll show ya the ropes.	素人親切俺様教	scene_02
+明日の朝に顔あらってでなおしてきな。俺様だって準備が必要だからな	You come back here tomorrow. I got some things I gots ta do.	明日朝顔俺様準備必要	scene_02
+てへへ…一晩じゃ、おぼえきれんぜ。おう！素人！！悪いが、二階のあいぼうから教わってくれ	Heh heh…He'll forget about it. OH, you!! Get my friend on the second floor to teach ya.	一晩素人悪二階教	scene_02
+チッ！！　おっさん！！気をつけてくれよ！	Crap!! Watch it, you old guy!	気	scene_02
+あんたのツンツン頭をブチぬいちまうとこだぜ！	I was just about to rip up that smooth little head of yours!	頭	scene_02
+スラムじゃ、自分の身は自分で守る。ガキのころから、そんな生き方さ	In the slums ya gotta take care of yourself first. I been livin' like that ever since I was a kid.	自分身守生方	scene_02
 オレみたいにタフな男の子になりたかったらいかす武器を選ぶこったな	You wanna be tough like me? Then you gotta pick out some good weapons.	男子武器選	scene_02
 でな、おっさん。相談なんだが……	Oh and uh, by the way old guy…	相談	scene_02
 見ての通り、この武器屋には客がいない。タフな男の子のこのオレもびんぼうってわけさ	You can see this store don't have no customers… and even tough guys like me could use a buck or two…	見通武器屋客男子	scene_02
@@ -741,10 +739,6 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 左　　　右：歩く　　　□　　○：話す／決定	leftright: walk  [OK]: speak/execute	左右歩話決定	scene_02
 下　　　　　　　　　　　×：走る／取り消し	down [CANCEL]: run	下走取消	scene_02
 Ｌ１／Ｒ１ボタン：チョコッとまがる	[PAGEUP]/[PAGEDOWN]: turn.		scene_02
-『ソフトリセット方法』	[How to restart]	方法	scene_02
-Ｌ１＆Ｌ２＆Ｒ１＆Ｒ２＆セレクト＆スタート	You must quit the game in order to restart.		scene_02
-以上のボタンを同時に押すとリセットがかかります。	To quit the game, either select QUIT	以上同時押	scene_02
-（フィールド上のみ有効）	in the Main Menu or press CTRL+Q.	上有効	scene_02
 ん？　指！？なんだ、おまえ？	Huh? Finger!? What the hell?	指	scene_02
 ボク、【ポジションカーソル】！！歩いている時、迷ったらボクを呼び出して！	I'm the position cursor!! Call me whenever you're walking around confused!	歩時迷呼出	scene_02
 セレクトボタンを押せばボクが君のツンツン頭のうえにつきまとうよ	Push [ASSIST] and I'll appear over your shiny little head.	押君頭	scene_02

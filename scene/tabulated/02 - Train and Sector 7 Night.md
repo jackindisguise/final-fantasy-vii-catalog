@@ -523,265 +523,259 @@
 | 521 | CLOUD! I got a message from the Weapon Shop man upstairs. | CLOUD！武器屋２階のおじさんから伝言よ |
 | 522 | He has something he wants to give you. Don't forget! | あげたいものがあるからお店によって……だって。わすれないでね！ |
 | 523 | [Materia System] | 【マテリアシステム】 |
-| 524 | Access the menu and select [Materia] to equip Materia. | メニューを開いてマテリアを選ぶことによって |
-| 525 | Sector 7 Item Store | マテリアの付け替えができるようになります。 |
-| 526 | Ahh… Another slow day… | ７番街・道具屋 |
-| 527 | If this keeps up, this store's goin' under… | フーッ……今日もひまひま…… |
-| 528 | Can't sell any really good medicine in a slum like this. | もうこの店もダメかのう… |
-| 529 | Oh!! Look at this! This doesn't happen everyday. Are you…a customer? | こんなスラムじゃまともなクスリは売れんなあ |
-| 530 | Yes!! Welcome!! We sell! We buy! | おっ！！こりゃこりゃ！こりゃ、めずらしい。あんた、まさか客かね？ |
-| 531 | By the way, you wouldn't happen to be…  Naw, never mind. Forget it. Sector 7 Weapon Shop | はい！！　いらっしゃい！！売りますよ！買いますよ！ |
-| 532 | He, HEY! Waitaminit you!! | ところで、あんた。もしかして…… |
-| 533 | You can't just walk outta here without buyin' somethin'! | ……いや、なんでもないよ。 |
-| 534 | Might be unhealthy fer ya, if ya know what I mean. | 失礼、失礼」 |
-| 535 | Hey!! What the--YOU!? | ７番街・武器屋１階 |
-| 536 | Anyone talking to me must be a novice. | んっ！！おい、客！！ |
-| 537 | Yep, that's me | 買わねえとどんなめにあうか……想像してみりゃ、わかるよな |
-| 538 | I used to be in SOLDIER, | よう！！なんだ、おまえ？ |
-| 539 | the name's CLOUD | 俺に話しかけるってことは、しろうとだな？ |
-| 540 | So what. Everyone's gotta start sometime. | 素人だ。 |
-| 541 | The name's CLOUD. Used to be with SOLDIER, I got no business with you. | 俺は元ソルジャーのCLOUDだ。 |
-| 542 | Hmmph!! Well, I never heard of ya! | それがどうした。誰だって最初は素人だろ |
-| 543 | Don't act so big, amateur. Seein' as how I'm such a warm hearted guy, I'll show ya the ropes. | 俺は元ソルジャーのCLOUDだ。おまえに用などない |
-| 544 | You come back here tomorrow. I got some things I gots ta do. | フン！！おまえの名前なんて聞いてねぇよ |
-| 545 | Heh heh…He'll forget about it. OH, you!! | 素人のくせにいばるんじゃねぇ。親切な俺様がこんせつていねいに教えてやるぜ！ |
-| 546 | Get my friend on the second floor to teach ya. | 明日の朝に顔あらってでなおしてきな。俺様だって準備が必要だからな |
-| 547 | Crap!! Watch it, you old guy! | てへへ…一晩じゃ、おぼえきれんぜ。おう！素人！！悪いが、二階のあいぼうから教わってくれ |
-| 548 | I was just about to rip up that smooth little head of yours! | チッ！！　おっさん！！気をつけてくれよ！ |
-| 549 | In the slums ya gotta take care of yourself first. | あんたのツンツン頭をブチぬいちまうとこだぜ！ |
-| 550 | I been livin' like that ever since I was a kid. | スラムじゃ、自分の身は自分で守る。ガキのころから、そんな生き方さ |
-| 551 | You wanna be tough like me? Then you gotta pick out some good weapons. | オレみたいにタフな男の子になりたかったらいかす武器を選ぶこったな |
-| 552 | Oh and uh, by the way old guy… | でな、おっさん。相談なんだが…… |
-| 553 | You can see this store don't have no customers… and even tough guys like me could use a buck or two… | 見ての通り、この武器屋には客がいない。タフな男の子のこのオレもびんぼうってわけさ |
-| 554 | Ya think you could spare some cash? | というわけで……このオレに、こづかいくれないかな？ |
-| 555 | Give him some | 金渡す |
-| 556 | Don't give him any | あげない |
-| 557 | YESSS… | しめしめ…… |
-| 558 | Damn, man!! Ya chinsey old %*&! | チッ！！おっさん、しけてんな |
-| 559 | Hey old guy! I got a good-lookin' sister!! | オレの姉キは美人だぞ！！おっさん！！ |
-| 560 | What's the matter, old dude? You don't like women? | おっ！！おっさん、美人に興味なし、と |
-| 561 | You dried up old geez. You tired? | チッ！！おっさん、しけたツラしてんな。もしかして、つかれてんじゃないの？ |
-| 562 | Why don't you rest up on the third floor of my house? | 家の３階で休ませてあげてもいいけど… |
-| 563 | There's just one condition. | それにはひとつ条件があるぜ |
-| 564 | You gotta give me some cash. | このオレにこづかいくれるならな |
-| 565 | 1 gil | １ギル |
-| 566 | 10 gil | １０ギル |
-| 567 | Damn, man!! Just forget about it! | チッ！！　おっさん。この話はなかったことにしてくれ |
-| 568 | Go ahead 'n' help yourself to the room. | いいぜ、部屋は自由に使ってくれ |
-| 569 | Cheap %#*^… | そりゃ、ドケチってやつだぜ。おっさん |
-| 570 | Geez, dude, you're really old. You sure you ain't poorer than me? | おっさん、やきがまわったな。オレよりびんぼうじゃねえか |
-| 571 | Use whatever bed you want. Sleep tight, old guy. | すきなベッドで休んでいきな。いい夢見なよな、おっさん |
-| 572 | Weapons Shop 3rd Floor | ７番街・武器屋３階 |
-| 573 | This is a slum, so don't think you can stay for free. | ただで休めるほどスラムの街はあまくはないぜ |
-| 574 | What are you going to do? | どうすんだい？ |
-| 575 | Doesn't just seeing the bed make you sleepy? | ベッドを見たら眠くなってきただろ |
-| 576 | no way | 休まない |
-| 577 | Tough guy, huh!? You'd better sleep when you can. | 強情だな！　もうっ！休めるときに休む |
-| 578 | You'd better save when you can. | セーブできるときにセーブする |
-| 579 | That's the trick to being tough. Remember that, old dude. | これがタフに生きてく基本だぜ！おっさん、覚えときな |
-| 580 | Sweet dreams, pops. | いい夢見なよな、おっさん |
-| 581 | Rough times, huh pop? Not a dime on you? | おっさん、苦労してんだな。金もってないじゃないか！ |
-| 582 | Hoo… | フゥッ…… |
-| 583 | Sector 7 Slums, Weapons Shop Floor 2 | ７番街・武器屋２階 |
-| 584 | Beginner's Hall | 初心者の館 |
-| 585 | Unn!! Who the hell are you!? No unauthorized access. | ん………！！なんだ、てめぇは？ここは部外者立ち入り禁止だぞ |
-| 586 | Do you know about what's been going on? | あんたも、知ってるか？ |
-| 587 | What, that again? | また、その話か |
-| 588 | … | …………。 |
-| 589 | You must be sick of hearing it… But it's been so long since there was any real news here. | そうか、もう聞きあきちまったか…。ひさしぶりのでかいニュースだからよ。先行きが、気になるよな |
-| 590 | You're worried where it's all heading, right? Everyone's in a buzz 'bout that terrorist group AVALANCHE blowin' up the Sector 1 Mako Reactor. | なんでもよう……アバランチとかいうテロ集団が壱番魔晄炉を爆破したって話だ |
-| 591 | On the surface they say they're an anti-Shinra group, but in reality… | おもてむきは、反神羅がどうしたとかって声明がでてるらしいがよ。真相はな…… |
-| 592 | they say they're just out to kill as many people as they can. | 無差別大量殺人が目的だってうわささ |
-| 593 | Since today's special, I'm gonna let you in on a juicy bit of news. But you gotta keep it to yourself. | まあ、今日は特別だ。ここだけの話。いいニュースがあったからな |
-| 594 | Haaa, haaa, haaa!! | ガハハハハ！！ |
-| 595 | That's a good one, ain't it!? While they're bustin' things up on top, the only ones makin' out good are us weapon stores! | 笑わせてくれるじゃねぇか！？上でゴタゴタやってくれりゃよ。武器屋としては大助かりってやつよ |
-| 596 | Now, if we can just get rid of this back stock, we'll be doin' OK. | この在庫の山もはけちまえばいいがな |
-| 597 | I welcome everything going to pot! | 俺っちは、ぶっそうな世の中を歓迎するぜ！ |
-| 598 | GO!! GO!! AVALANCHE!! That's what I say! | ゴー！！ゴー！！アバランチ！！ってやつだな |
-| 599 | You know what I do? I'll bet you don't. | オレの仕事わかります？わかんねえだろ～な |
-| 600 | You come here tomorrow and I'll tell you. | 明日になれば、わかりますからまた来てくださいね |
-| 601 | Ahh, there just ain't no good jobs here in the slums. | はぁ～スラムじゃ、まともな仕事にありつけやしない |
-| 602 | I wanna go to the upper world. | 上の街にいきたいなあ |
-| 603 | This is the Beginner's Hall. | まいどおなじみ初心者の館だよ～ん！ |
-| 604 | You say you're a beginner? But your eyes say you're not. | あんたが、素人だってか。その目は、そうじゃないって言ってるぜ |
-| 605 | Don't mess with me. I used to be in SOLDIER. I'll tell you how much I know… an' for free too! | 元ソルジャーをなめるな。どれだけ物知りか、教えてやる。しかも、無料でだ！ |
-| 606 | What do you want to know? | なにが知りたいんだ？ |
-| 607 | How to save? | 記録を残すには？ |
-| 608 | How to heal your allies? | 傷ついた味方を回復するには？ |
-| 609 | Curative Magic? | 魔法を使った回復 |
-| 610 | Weapons and armor? | 武器、防具の使い方 |
-| 611 | How to apply Materia? | マテリアの装着 |
-| 612 | Effective ways to use Materia? | マテリアの高度な使い方 |
-| 613 | How to form your battle party? | 戦闘時の隊形について |
-| 614 | How to check your status? | 現在の自分の状態をチェック |
-| 615 | About Limit status? | リミット技の使い方 |
-| 616 | Other things to watch for? | その他の注意 |
-| 617 | That's all | もう教えることはない |
-| 618 | First, you need Potions. | 説明にあたって、ポーションが必要だな |
-| 619 | You're a stingy one. Here, I'll give you ONE Potion. | せこいなあ、元ソルジャーさん。そらポーションの一個くらい、さしあげますぜ |
-| 620 | I don't have any extra Potions on me. Why don't you go buy some? | 俺もポーションの手持ちがないよ。買ってきたらどうだい？ |
-| 621 | Sorry. I'll have to go get my money. | 悪いな。報酬だと思ってもらっておく |
-| 622 | You probably know all this. But just in case, I'll go over it. | 常識なのでわかっているとは思うが念のため、言っておく |
-| 623 | Until you get instructions, don't open or take discs out of the CD drive. | 指示があるまで、ディスクホルダーを開けたり他のものと取りかえたりするな |
-| 624 | After you open up the CD drive, I can't guarantee what'll happen. That's all. | ディスクホルダーを開けた場合後のことは保証できない。以上 |
-| 625 | You cannot take on any more Materia. | これいじょうマテリアは持てません。 |
-| 626 | Please discard some Materia. | なにかマテリアをすててください。 |
-| 627 | Received "All" Materia! | 『ぜんたいか』のマテリアを手にいれた！ |
-| 628 | Received "Ether"! | 『エーテル』を手にいれた！ |
-| 629 | Hey!! You got one right off! | おっ！！さっそく手にいれましたね！ |
-| 630 | That was Materia. Next, take this [treasure chest]! | いまのはマテリアですよ。こんどはこの【たからばこ】をどうぞ！ |
-| 631 | Now listen, hidden in these treasure chests are a lot of items. | いいですか？こ～んな【たからばこ】にはお得なアイテムがかくされてます |
-| 632 | There are box types and bag types, so make sure you don't overlook any. | ボトルタイプやふくろタイプなどほかにもしゅるいがありますからお見のがしないように |
-| 633 | This is the fabled [Save Point]!! | うっとり……くるくる……これがうわさの【セーブポイント】！！ |
-| 634 | At a [Save Point] you can use a [tent] and/or select 'SAVE'. | 【セーブポイント】では……『テント』を使って休むことセーブ　することができちゃいます |
-| 635 | You can also do something else there, but right now it's a secret. | ほんとは、もうひとつあるんだけどいまは秘密♥　楽しみに待っててね♥ |
-| 636 | Even if you are wiped out, if you've saved, you can restart from that same point. That way you don't have to worry when you've been wiped out. | も～し、全滅しても、　セーブ　しておけばその場所から復活することができちゃうの。これなら、安心して全滅できるわよね |
-| 637 | This is jumping ahead a little but, when you leave Midgar… | ちょ～っと、先の話になるけどミッドガルを出ることになったら…… |
-| 638 | and you get to the world map, you can save anywhere you like. Remember that. | 地和線まで広がる【ワールドマップ】で好きなだけ　セーブ　することができるの。そのときがきたら、思い出してね |
-| 639 | That should be all you need to know about the Save Point. I'll probably see you again somewhere down the road. Take care! | ただいま、ごしょうかいにあずかりましたあっしが【セーブポイント】でござんす！旅先行き先先々でお目にかかることと思いますが今後ともよろしゅうおねがいもうしあげます！ |
-| 640 | I'm a [treasure chest]!! | 俺様が、【たからばこ】だ！！ |
-| 641 | Beginners, make sure and keep an eye out for me!! | 初心者のキ・ミ・た・ち！俺様をしっかりとさがしてくれよ！！ |
-| 642 | Hey SOLDIER!! Tell us about battles! We'll even pay you! | 物知り元ソルジャーさん！！バトルのことをオレたち３人組に教えてくださいよ！報酬はずみますから！ |
-| 643 | What do you want to know? | なにを教えてほしいんだ？ |
-| 644 | About ATB | 【ＡＴＢ】について |
-| 645 | About numbers on the screen | 【飛び出す数字】について |
-| 646 | About [Change] and [Defend] | 【チェンジ】と【ぼうぎょ】について |
-| 647 | About [Escape] | 【逃げる】について |
-| 648 | About [Gauges] | 【ゲージ】について |
-| 649 | About [Status] | 【ステータス】について |
-| 650 | About [Elementals] | 【属性】について |
-| 651 | About [Help] | 【ヘルプ】について |
-| 652 | That's all the time I have for you! | もうひまつぶしは終わりだ |
-| 653 | I'm not hard up enough to take money from guys like you. But I'll rap with you for a while. | おまえたちから金をとるほど落ちぶれちゃいない。ひまつぶしにつきあってやる |
-| 654 | ATB or Active Time Battle is a system that is always in operation during battle. | 【ＡＴＢ】、すなわち【アクティブタイムバトル】は戦闘中、つねに時間が流れているシステムだ |
-| 655 | Select [Wait] from ATB on the Config Menu and time will stop when you select magic or items during battle. | メニューのコンフィグでＡＴＢを【ウェイト】にすると……戦闘中、魔法やアイテムを選んでいる間時間が止まる |
-| 656 | This gives you time to pick out your commands. This is especially helpful to beginners. | コマンドをゆっくり選べるというわけだ。おまえたち、初心者にはおあつらえむきだな |
-| 657 | Selecting [Recommended] ATB in the config menu can stop time while the effects of spells and items are taking place during battle. | 同じくコンフィグでＡＴＢを【おすすめ】にすると……戦闘中、魔法やアイテムのエフェクトが出ている間時間が止まる |
-| 658 | This lets you take your time looking over the progression of the battle. When you don't want to rush in battle, this is for you! | 戦闘の様子をゆっくり見られるというわけだ。落ちついて戦いたいときはこれだな |
-| 659 | Personally, I always use [Active], but you can use whichever you like. | 俺はいつでも【アクティブ】だが気にするな、好きなものを選ぶといい。以上だ |
-| 660 | White numbers appearing on the screen in battle are damage points. Green numbers show restorative points. | バトルの時に、【ピロンと飛び出す数字】は白がダメージ、緑が回復していることを表している |
-| 661 | You better watch these if you don't want to get wiped out. | 全滅したくなければ注意することだな |
-| 662 | The [Change] command can move characters to and from the front and back rows. | 【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる |
-| 663 | In the back row, the damage received is less, but the attacking power is less. | 後列にすると受けるダメージが減るが、攻撃力も減る。【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ |
-| 664 | You can make a [Change] by pressing the Directional button in battle. Pushing the Directional button the other direction during battle accesses [Defend]. | 同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ |
-| 665 | Selecting [Defend] reduces the damage you receive by half until the next command. | 【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる |
-| 666 | If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it. | 手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな |
-| 667 | I don't really remember ever having to use the [Escape] command… but you'll probably need it. | 俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう |
-| 668 | Push [PAGEUP] and [PAGEDOWN] together, hold them down, and you can escape. | Ｌ１ボタンとＲ１ボタンを押しっぱなしにしていると逃げられたはずだ |
-| 669 | During battle, there are several [Gauges] displayed. You can't check them now, so just remember what I tell you. | いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。戦闘中、いくつか表示されている【ゲージ】のことだ |
-| 670 | [time gauge] displays the time remaining until your next turn while in battle. | 【ＴＩＭＥゲージ】は戦闘中、次のコマンド入力が回ってくるまでの待ち時間をあらわしている |
-| 671 | When the gauge is full, you can make your command. If you don't want to make one, push [MENU] and you can move to the next character. It's convenient when you wanna make BARRET work. | ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。BARRETをこきつかいたい時などに便利だ |
-| 672 | The [limit gauge] increases every time you sustain damage. When it is full, you can use the [limit technique]. | 【ＬＩＭＩＴゲージ】はダメージを受けるごとにのびていくはずだ。これがいっぱいになると、【リミット技】が使える |
-| 673 | This gauge is not cleared after each battle, but gradually builds up over time. | 【ＬＩＭＩＴゲージ】は、各戦闘ごとにクリアされず数をこなしただけ、たまっていくタイプだ |
-| 674 | It takes a while for it to build up, so you have to think about which times are the best to use it. | たまったからといって、すぐにつかわず【リミット技】の使いどころを見極めることが大切なのは言うまでもない |
-| 675 | You probably don't know about them, but there are conditions of [fury] and [sadness]. | おまえたちは知らないだろうから、教えといてやる。【ステータス】に、【怒り】と【悲しい】という状態がある |
-| 676 | When you have [fury], your limit gauge builds up sooner, but your attacking accuracy is lower. | 【怒り】は、【ＬＩＭＩＴゲージ】の上がり方が早くなるが攻撃の命中率は低下する |
-| 677 | Keep in mind that [sadness] makes your limit gauge build up slower, but the damage you receive is also lessened. | 【悲しい】は、【ＬＩＭＩＴゲージ】の上がり方が遅くなるが、敵の攻撃から受けるダメージは低下する。ついでに、おぼえておくといいだろう |
-| 678 | The [barrier gauge] shows your defense barriers. | 【ＢＡＲＲＩＥＲゲージ】は特定の魔法の効果時間をあらわす |
-| 679 | The top gauge displays [barrier] or magic defense against attacks. The bottom gauge displays [magic barrier] or defenses against magic attacks. | 上のゲージは、なぐられ攻撃を防ぐ魔法【バリア】下のゲージは、魔法攻撃を防ぐ魔法【マバリア】 |
-| 680 | Both will cut the damage you receive in half. However, over time they will disappear. | 両方ともダメージを半分にしてくれるが時間が経つと消えてしまう |
-| 681 | Whenever you use [barrier] or [magic barrier] make sure to pay attention to the [barrier gauge]. | 【バリア】と【マバリア】の魔法をつかったときは【ＢＡＲＲＩＥＲゲージ】に注目だな |
-| 682 | That's it. Remember that for the next battle. | 以上だ、次の戦闘で確認してくれ |
-| 683 | Looks like you didn't get it the last time I told you. What's wrong with you? You touched in the head? | この俺の説明でもわからんようならしかたない。おまえたちの理解する能力がたりないようだ |
-| 684 | Well, don't worry. You just need to push [ASSIST] in battle. | だが、安心しろ。そんなおまえたちは、戦闘中、セレクトボタンを押してみるといいだろう |
-| 685 | Do that, and the [Help] message will walk you through the commands. | 【ヘルプメッセージ】が、俺にかわっていろいろとコマンドの説明をしてくれるはずだ |
-| 686 | It also shows you the name of your enemy, so even I use it once in a while. Make good use of it. | 敵のモンスター名なども表示されるから俺も気分転換に見ることもある。はずかしがらずに使うといい |
-| 687 | [wiped out]. This is one I've never personally used. But I heard from someone what it was about. | 【全滅】か……俺の記憶にはないから、これは人から聞いた話だ |
-| 688 | When you are wiped out, you start back from the last save point. | 【全滅】したときには前の【セーブポイント】からはじまる |
-| 689 | Even a weakling like you can make it out of the roughest places as long as you hang in there and fight. You should be glad! | おまえたちのような弱いヤツでも地道に戦えば、どんな難所でも脱出できるはずだ。ありがたいことだな |
-| 690 | [Status] means just that. The status of each character. | 【ステータス】とはキャラクターの状態のことだ |
-| 691 | I'll probably wind up repeating myself, but let me go over a few basic points. | これまで説明したことと重なるかもしれんが代表的なものをまとめといてやる |
-| 692 | Sleep You cannot put in a command until you get up. | すいみん　起きるまでコマンド入力不可になる。 |
-| 693 | Poison Steals your HP in battle. | どく　　　　戦闘中にどんどんＨＰが減っていく。 |
-| 694 | Fury Damage is increased, attack accuracy decreased. Tranquilizers will remedy it. | いかり　　ダメージ倍、命中率低下。鎮静剤でもどる。 |
-| 695 | Sadness Damage is decreased. Hyper will remedy it. | かなしい　ダメージ低下。興奮剤でもどる。 |
-| 696 | Petrify Will petrify and become immobilized. Every member will be wiped out. | せきか　　石になり、動けなくなる。全員石で全滅だ。 |
-| 697 | Confuse Will attack enemy and ally alike. | こんらん　頭が混乱し、敵味方の区別がつかなくなる。 |
-| 698 | Silence Will be unable to cast magic. | ちんもく　全ての魔法をとなえられなくなる。 |
-| 699 | Paralyze Stops time gauges, commands. | マヒ　　　　タイムゲージ停止、コマンド入力不可 |
-| 700 | Darkness Accuracy of hitting attacks decreases. | くらやみ　なぐり攻撃の命中率低下。 |
-| 701 | Frog Become a frog. I hate this one! | カエル　　カエルになる。俺はだいきらいだ。 |
-| 702 | Hoo…I'm beat. | フッ……さすがにつかれたな |
-| 703 | Your [Status] can be changed with magic and items, so you should check it whenever you buy things. | 【ステータス変化】はアイテムや魔法で直せるから物を買うときに確認しておくのがいいだろう |
-| 704 | [elemental] is the special effect that comes with certain weapons and magic. | 【属性】は魔法や武器などについてくる特別な効果のことだ |
-| 705 | It's necessary to move ahead effectively. If you pay attention to the types of elementals you use you'll become intermediate in no time. | 有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな |
-| 706 | I put together this list, but remember, it's just a partial list don't take it too literally. | 代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな |
-| 707 | Fire Fire effect. Works best on animals and water monsters. | 炎　　火の効果。けもの、氷のモンスターにきく。 |
-| 708 | Ice Ice effect. Works best on fire monsters and things that hate the cold. | 冷　　氷の効果。寒がり、火のモンスターにきく。 |
-| 709 | Lightning Lightning effect. Works best on mechanical things. | 雷　　電撃の効果。機械でできたヤツにきく。 |
-| 710 | Earth Attacks using the earth's power. Doesn't work on flying enemies. | 土　　大地の力の攻撃。飛んでるヤツにはきかない。 |
-| 711 | Poison Poisons enemies. Doesn't work on any poison-based enemies. | 毒　　毒状態にする。もともと毒のヤツにはきかない。 |
-| 712 | Gravity Gravity-based attack. These hurt if they hit. | 重　　重力を使った攻撃。当たるといたいな。 |
-| 713 | Water Calls on the earth's water. Works well on fire monsters. | 水　　大地の恵みの水を呼ぶ。火のモンスターにきく。 |
-| 714 | Wind Calls up the winds. Works well on flying enemies. | 風　　大気の風をよびおこす。飛んでるヤツにきく。 |
-| 715 | Holy Calls up the Planet's power. Works well on dark monsters. | 聖　　星の力をよびおこす。暗黒のモンスターにきく。 |
-| 716 | If you use reciprocal elementals in your attacks, the effect is huge! | 相反する【属性】を攻撃に使用することで大きな効果を得られる |
-| 717 | Also, if you use the same elemental, your defenses are raised. But, you have to be careful because the opposite is also true. | また、同じ属性なら防御の効率があがる。だが……逆もまた真なり。気をつけることだな |
-| 718 | To see what elementals an enemy has, you need [Sense] Materia. If you get that Materia, you should try using it. | 敵のもっている【属性】をみぬくためには【みやぶる】ことが必要だ。マテリアを手にいれたら、使ってみてくれ |
-| 719 | ……smack……knock……!! | ポカポカポカポカ……！！ |
-| 720 | Help! | たしゅけて～！ |
-| 721 | You've got to hang in there. Your limit gauge is just starting to build. | そこでがまんだ。おまえの【リミットゲージ】はたまりはじめている |
-| 722 | Waaaah!! | びえ～ん！！ |
-| 723 | OK! Now your limit gauge is full, go ahead and use it! Fight with your limit technique. | よしっ、【リミットゲージ】はいっぱいだ！えんりょはいらない。【リミット技】で勝負だ！ |
-| 724 | Magic!! Magic!! | まほう！！まほう！！ |
-| 725 | Calm down! When your enemy uses magic counter with [Magic Barrier] or [reflect]. | おちつけ！相手が魔法を使うときには【マバリア】か【リフレク】で対抗するのだ |
-| 726 | [Magic Barrier] reduces the damage received from magic by half. | 【マバリア】は魔法のダメージを半分にする魔法だ |
-| 727 | [reflect] bounces the attacks off you. But the number of times you can use it is limited so be careful. | 【リフレク】は魔法をはねかえすがはねかえす回数に制限があるから気をつけろ |
-| 728 | Wow! You sure are strong! I'm going to be strong, too ! | さっすが、元ソルジャ！どちたら、強くなるの～！ |
-| 729 | Me too! | なるの～！ |
-| 730 | If you want to get as strong as me you need to use Materia. And you have to find the best combinations of them. | 俺みたいに強くなりたければマテリアを効率よく育て最適な組み合わせをさがすことだな |
-| 731 | The type of Materia you put in your weapons and armor will determine how quickly your Materia grows. | 装備する武器や防具のしゅるいによってマテリアの成長のスピードはちがう |
-| 732 | Put Materia into the open slots in your weapons and armor. The possible combinations are limitless. | 武器や防具にあいている穴の形によってマテリアの組み合わせは無限に広がる |
-| 733 | That's about all I can tell you. If you want to be like me, you have to have some natural talent. | 俺にアドバイスできるのはそのくらいのことだ。もっとも生まれついた素質がなければ俺のようにはなれんがな |
-| 734 | I still don't get it! | わかんな～い！ |
-| 735 | Listen kids, don't piss me off! | 俺を怒らせるな！ |
-| 736 | That's all right. Just give it a try. Little by little, you'll get used to it. | 大丈夫だ、まずはやってみろ。そのうち、なれてしまう |
-| 737 | Great! | 上出来だ |
-| 738 | How to use the buttons. | 『基本的なボタン操作方法』 |
-| 739 | [Directional button][CONTROL] | 【方向キー】　　　　　　【ボタン】 |
-| 740 | up [MENU]: menu | 上　　　　　　　　　　　△：メニュー |
-| 741 | leftright: walk  [OK]: speak/execute | 左　　　右：歩く　　　□　　○：話す／決定 |
-| 742 | down [CANCEL]: run | 下　　　　　　　　　　　×：走る／取り消し |
-| 743 | [PAGEUP]/[PAGEDOWN]: turn. | Ｌ１／Ｒ１ボタン：チョコッとまがる |
-| 744 | [How to restart] | 『ソフトリセット方法』 |
-| 745 | You must quit the game in order to restart. | Ｌ１＆Ｌ２＆Ｒ１＆Ｒ２＆セレクト＆スタート |
-| 746 | To quit the game, either select QUIT | 以上のボタンを同時に押すとリセットがかかります。 |
-| 747 | in the Main Menu or press CTRL+Q. | （フィールド上のみ有効） |
-| 748 | Huh? Finger!? What the hell? | ん？　指！？なんだ、おまえ？ |
-| 749 | I'm the position cursor!! Call me whenever you're walking around confused! | ボク、【ポジションカーソル】！！歩いている時、迷ったらボクを呼び出して！ |
-| 750 | Push [ASSIST] and I'll appear over your shiny little head. | セレクトボタンを押せばボクが君のツンツン頭のうえにつきまとうよ |
-| 751 | Geez, you stand out even more than I do… | 俺より目立つな…… |
-| 752 | Am I in the way? If so, just push [ASSIST] one more time. | ボクがじゃまかい？そんなときはもう一度セレクトボタンを押してね |
-| 753 | I'm pretty busy myself, and can't always come when you need me. If I don't show up sometimes, don't get mad. | それから、ボクはこう見えてもけっこういそがしいからいつでも登場はできないんだ。でてこなくても怒らないで！ |
-| 754 | Later! | それじゃね、バイバ～イ！ |
-| 755 | [Position Cursor] | 【ポジションカーソル】 |
-| 756 | Push [ASSIST] when you're lost in the field. Usually, the [Position Cursor] will appear on the screen. | フィールドで迷ったときにはセレクトボタンを押してください。ポジションカーソルが表示されます。 |
-| 757 | But wait!! | さらに！！ |
-| 758 | [Red triangles] mark the exits and [Green triangles] mark ladders. | 入口をあらわす『赤サンカク』とはしごなどをあらわす『緑サンカク』も表示されます。 |
-| 759 | These will help you safely make it through even the darkest streets or dangerous mountains! But, there are times when they won't appear, so be careful. | これで、暗い夜道も険しい山道もご安心！なお、フィールドによっては表示されないことがあります。御注意ください。 |
-| 760 | Johnny's Home | ジョニーの家 |
-| 761 | Ha, Ha!…… Well, there's nothin' wrong with that, I'd say. | ハッハッ……。まあ、それもいいでしょうなあ |
-| 762 | Ha!  Ha!…… I wonder if my son's already left? | ハッハッ……。息子はもう旅立ちましたかな？ |
-| 763 | When it's just my wife and I here, you have no idea how lonesome it gets. | こうして家内と私、二人きりになってみるといやはや、さびしいものですなあ |
-| 764 | We want him to be happy and do other things while he's young, but we can't help but worry… | ハッハッ……　若いうちはね好きなことをやらせてみようと思っていてもやっぱり心配なのは、いけませんなあ |
-| 765 | I guess we always will. | 親として修行がたりませんなあ |
-| 766 | By the way…… | ところで、あなた |
-| 767 | Where are you from? | 故郷はおありですかな？ |
-| 768 | A village called Nibelheim | ニブルヘイムという村だ…… |
-| 769 | Who cares? | そんな面倒なものはすてたさ |
-| 770 | But if you still have a family, you outta at least write them. | でも、もし、あなたにも家族がおありなら手紙ぐらい書いてあげるのが、いいですなあ |
-| 771 | You may leave your home, but it'll always be there for you. | 故郷はね、知らんぷりをしていてもいつでも、あなたを待ってますよ |
-| 772 | At least that's how I see it. | ハッハッ……まあ、そんなもんですなあ |
-| 773 | Hmm…did you say Nibelheim? Wasn't it in the news a while back? | ほう……あのニブルヘイム村ですか。ほら、何年か前にニュースになったことがありましたなあ |
-| 774 | Something to do with a reactor accident… | あのときは、たしか……魔晄炉の事故でしたか |
-| 775 | That was the first major Mako accident, I remember it was all over the news. | 当時は、最初の大きな魔晄炉事故ということですいぶん話題になりましたなあ |
-| 776 | This might sound rude, but… | ハッハッ……ぶしつけな質問ですが |
-| 777 | Is your family still living? | ご家族は健在ですかな？ |
-| 778 | I forgot about them long ago | いたとしても忘れたな |
-| 779 | I'm just an ex-SOLDIER | 俺は孤独なソルジャーだ |
-| 780 | Well, you really outta go home again. And if you can't do that, try and at least remember them sometimes. | ハッハッ……。まあ、たまには帰ってあげなさい。それができないならときどき思い出すのがよろしい |
-| 781 | Our boy acted like you, When he was a kid. | ハッハッ……。私も若いころはそんな風にかっこつけたこともありましたよ |
-| 782 | You seem to be about his age. | ハッハッ……あなたは、まだそんな年ごろかな |
-| 783 | Well, would you mind leaving us alone? | ハッハッ……。そろそろ、二人っきりにしてくれませんか |
-| 784 | I want to enjoy some quiet time together with my wife. | 家内と二人きりの時間というのをね。しみじみすごしたいのですよ |
-| 785 | He used to give us nothing but headaches when he was here, but now that he's gone…we kind of miss him. …Strange, isn't it? | あんな子でもいなくなってみるとね。なんだか、落ちつかなくて。……不思議なものね |
+| 524 | Access the menu and select [Materia] to equip Materia. | メニューを開いて【マテリア】を選ぶことによってマテリアの付け替えができるようになります。 |
+| 525 | Sector 7 Item Store | ７番街・道具屋 |
+| 526 | Ahh… Another slow day… | フーッ……今日もひまひま…… |
+| 527 | If this keeps up, this store's goin' under… | もうこの店もダメかのう… |
+| 528 | Can't sell any really good medicine in a slum like this. | こんなスラムじゃまともなクスリは売れんなあ |
+| 529 | Oh!! Look at this! This doesn't happen everyday. Are you…a customer? | おっ！！こりゃこりゃ！こりゃ、めずらしい。あんた、まさか客かね？ |
+| 530 | Yes!! Welcome!! We sell! We buy! | はい！！　いらっしゃい！！売りますよ！買いますよ！ |
+| 531 | By the way, you wouldn't happen to be… | ところで、あんた。もしかして…… |
+| 532 | Naw, never mind. Forget it. | ……いや、なんでもないよ。失礼、失礼 |
+| 533 | Sector 7 Weapon Shop | ７番街・武器屋１階 |
+| 534 | He, HEY! Waitaminit you!! | んっ！！おい、客！！ |
+| 535 | You can't just walk outta here without buyin' somethin'! Might be unhealthy fer ya, if ya know what I mean. | 買わねえとどんなめにあうか……想像してみりゃ、わかるよな |
+| 536 | Hey!! What the--YOU!? | よう！！なんだ、おまえ？ |
+| 537 | Anyone talking to me must be a novice. | 俺に話しかけるってことは、しろうとだな？ |
+| 538 | Yep, that's me | 素人だ。 |
+| 539 | I used to be in SOLDIER, the name's CLOUD | 俺は元ソルジャーのCLOUDだ。 |
+| 540 | So what. Everyone's gotta start sometime. | それがどうした。誰だって最初は素人だろ |
+| 541 | The name's CLOUD. Used to be with SOLDIER, I got no business with you. | 俺は元ソルジャーのCLOUDだ。おまえに用などない |
+| 542 | Hmmph!! Well, I never heard of ya! | フン！！おまえの名前なんて聞いてねぇよ |
+| 543 | Don't act so big, amateur. Seein' as how I'm such a warm hearted guy, I'll show ya the ropes. | 素人のくせにいばるんじゃねぇ。親切な俺様がこんせつていねいに教えてやるぜ！ |
+| 544 | You come back here tomorrow. I got some things I gots ta do. | 明日の朝に顔あらってでなおしてきな。俺様だって準備が必要だからな |
+| 545 | Heh heh…He'll forget about it. OH, you!! Get my friend on the second floor to teach ya. | てへへ…一晩じゃ、おぼえきれんぜ。おう！素人！！悪いが、二階のあいぼうから教わってくれ |
+| 546 | Crap!! Watch it, you old guy! | チッ！！　おっさん！！気をつけてくれよ！ |
+| 547 | I was just about to rip up that smooth little head of yours! | あんたのツンツン頭をブチぬいちまうとこだぜ！ |
+| 548 | In the slums ya gotta take care of yourself first. I been livin' like that ever since I was a kid. | スラムじゃ、自分の身は自分で守る。ガキのころから、そんな生き方さ |
+| 549 | You wanna be tough like me? Then you gotta pick out some good weapons. | オレみたいにタフな男の子になりたかったらいかす武器を選ぶこったな |
+| 550 | Oh and uh, by the way old guy… | でな、おっさん。相談なんだが…… |
+| 551 | You can see this store don't have no customers… and even tough guys like me could use a buck or two… | 見ての通り、この武器屋には客がいない。タフな男の子のこのオレもびんぼうってわけさ |
+| 552 | Ya think you could spare some cash? | というわけで……このオレに、こづかいくれないかな？ |
+| 553 | Give him some | 金渡す |
+| 554 | Don't give him any | あげない |
+| 555 | YESSS… | しめしめ…… |
+| 556 | Damn, man!! Ya chinsey old %*&! | チッ！！おっさん、しけてんな |
+| 557 | Hey old guy! I got a good-lookin' sister!! | オレの姉キは美人だぞ！！おっさん！！ |
+| 558 | What's the matter, old dude? You don't like women? | おっ！！おっさん、美人に興味なし、と |
+| 559 | You dried up old geez. You tired? | チッ！！おっさん、しけたツラしてんな。もしかして、つかれてんじゃないの？ |
+| 560 | Why don't you rest up on the third floor of my house? | 家の３階で休ませてあげてもいいけど… |
+| 561 | There's just one condition. | それにはひとつ条件があるぜ |
+| 562 | You gotta give me some cash. | このオレにこづかいくれるならな |
+| 563 | 1 gil | １ギル |
+| 564 | 10 gil | １０ギル |
+| 565 | Damn, man!! Just forget about it! | チッ！！　おっさん。この話はなかったことにしてくれ |
+| 566 | Go ahead 'n' help yourself to the room. | いいぜ、部屋は自由に使ってくれ |
+| 567 | Cheap %#*^… | そりゃ、ドケチってやつだぜ。おっさん |
+| 568 | Geez, dude, you're really old. You sure you ain't poorer than me? | おっさん、やきがまわったな。オレよりびんぼうじゃねえか |
+| 569 | Use whatever bed you want. Sleep tight, old guy. | すきなベッドで休んでいきな。いい夢見なよな、おっさん |
+| 570 | Weapons Shop 3rd Floor | ７番街・武器屋３階 |
+| 571 | This is a slum, so don't think you can stay for free. | ただで休めるほどスラムの街はあまくはないぜ |
+| 572 | What are you going to do? | どうすんだい？ |
+| 573 | Doesn't just seeing the bed make you sleepy? | ベッドを見たら眠くなってきただろ |
+| 574 | no way | 休まない |
+| 575 | Tough guy, huh!? You'd better sleep when you can. | 強情だな！　もうっ！休めるときに休む |
+| 576 | You'd better save when you can. | セーブできるときにセーブする |
+| 577 | That's the trick to being tough. Remember that, old dude. | これがタフに生きてく基本だぜ！おっさん、覚えときな |
+| 578 | Sweet dreams, pops. | いい夢見なよな、おっさん |
+| 579 | Rough times, huh pop? Not a dime on you? | おっさん、苦労してんだな。金もってないじゃないか！ |
+| 580 | Hoo… | フゥッ…… |
+| 581 | Sector 7 Slums, Weapons Shop Floor 2 | ７番街・武器屋２階 |
+| 582 | Beginner's Hall | 初心者の館 |
+| 583 | Unn!! Who the hell are you!? No unauthorized access. | ん………！！なんだ、てめぇは？ここは部外者立ち入り禁止だぞ |
+| 584 | Do you know about what's been going on? | あんたも、知ってるか？ |
+| 585 | What, that again? | また、その話か |
+| 586 | … | …………。 |
+| 587 | You must be sick of hearing it… But it's been so long since there was any real news here. | そうか、もう聞きあきちまったか…。ひさしぶりのでかいニュースだからよ。先行きが、気になるよな |
+| 588 | You're worried where it's all heading, right? Everyone's in a buzz 'bout that terrorist group AVALANCHE blowin' up the Sector 1 Mako Reactor. | なんでもよう……アバランチとかいうテロ集団が壱番魔晄炉を爆破したって話だ |
+| 589 | On the surface they say they're an anti-Shinra group, but in reality… | おもてむきは、反神羅がどうしたとかって声明がでてるらしいがよ。真相はな…… |
+| 590 | they say they're just out to kill as many people as they can. | 無差別大量殺人が目的だってうわささ |
+| 591 | Since today's special, I'm gonna let you in on a juicy bit of news. But you gotta keep it to yourself. | まあ、今日は特別だ。ここだけの話。いいニュースがあったからな |
+| 592 | Haaa, haaa, haaa!! | ガハハハハ！！ |
+| 593 | That's a good one, ain't it!? While they're bustin' things up on top, the only ones makin' out good are us weapon stores! | 笑わせてくれるじゃねぇか！？上でゴタゴタやってくれりゃよ。武器屋としては大助かりってやつよ |
+| 594 | Now, if we can just get rid of this back stock, we'll be doin' OK. | この在庫の山もはけちまえばいいがな |
+| 595 | I welcome everything going to pot! | 俺っちは、ぶっそうな世の中を歓迎するぜ！ |
+| 596 | GO!! GO!! AVALANCHE!! That's what I say! | ゴー！！ゴー！！アバランチ！！ってやつだな |
+| 597 | You know what I do? I'll bet you don't. | オレの仕事わかります？わかんねえだろ～な |
+| 598 | You come here tomorrow and I'll tell you. | 明日になれば、わかりますからまた来てくださいね |
+| 599 | Ahh, there just ain't no good jobs here in the slums. | はぁ～スラムじゃ、まともな仕事にありつけやしない |
+| 600 | I wanna go to the upper world. | 上の街にいきたいなあ |
+| 601 | This is the Beginner's Hall. | まいどおなじみ初心者の館だよ～ん！ |
+| 602 | You say you're a beginner? But your eyes say you're not. | あんたが、素人だってか。その目は、そうじゃないって言ってるぜ |
+| 603 | Don't mess with me. I used to be in SOLDIER. I'll tell you how much I know… an' for free too! | 元ソルジャーをなめるな。どれだけ物知りか、教えてやる。しかも、無料でだ！ |
+| 604 | What do you want to know? | なにが知りたいんだ？ |
+| 605 | How to save? | 記録を残すには？ |
+| 606 | How to heal your allies? | 傷ついた味方を回復するには？ |
+| 607 | Curative Magic? | 魔法を使った回復 |
+| 608 | Weapons and armor? | 武器、防具の使い方 |
+| 609 | How to apply Materia? | マテリアの装着 |
+| 610 | Effective ways to use Materia? | マテリアの高度な使い方 |
+| 611 | How to form your battle party? | 戦闘時の隊形について |
+| 612 | How to check your status? | 現在の自分の状態をチェック |
+| 613 | About Limit status? | リミット技の使い方 |
+| 614 | Other things to watch for? | その他の注意 |
+| 615 | That's all | もう教えることはない |
+| 616 | First, you need Potions. | 説明にあたって、ポーションが必要だな |
+| 617 | You're a stingy one. Here, I'll give you ONE Potion. | せこいなあ、元ソルジャーさん。そらポーションの一個くらい、さしあげますぜ |
+| 618 | I don't have any extra Potions on me. Why don't you go buy some? | 俺もポーションの手持ちがないよ。買ってきたらどうだい？ |
+| 619 | Sorry. I'll have to go get my money. | 悪いな。報酬だと思ってもらっておく |
+| 620 | You probably know all this. But just in case, I'll go over it. | 常識なのでわかっているとは思うが念のため、言っておく |
+| 621 | Until you get instructions, don't open or take discs out of the CD drive. | 指示があるまで、ディスクホルダーを開けたり他のものと取りかえたりするな |
+| 622 | After you open up the CD drive, I can't guarantee what'll happen. That's all. | ディスクホルダーを開けた場合後のことは保証できない。以上 |
+| 623 | You cannot take on any more Materia. | これいじょうマテリアは持てません。 |
+| 624 | Please discard some Materia. | なにかマテリアをすててください。 |
+| 625 | Received "All" Materia! | 『ぜんたいか』のマテリアを手にいれた！ |
+| 626 | Received "Ether"! | 『エーテル』を手にいれた！ |
+| 627 | Hey!! You got one right off! | おっ！！さっそく手にいれましたね！ |
+| 628 | That was Materia. Next, take this [treasure chest]! | いまのはマテリアですよ。こんどはこの【たからばこ】をどうぞ！ |
+| 629 | Now listen, hidden in these treasure chests are a lot of items. | いいですか？こ～んな【たからばこ】にはお得なアイテムがかくされてます |
+| 630 | There are box types and bag types, so make sure you don't overlook any. | ボトルタイプやふくろタイプなどほかにもしゅるいがありますからお見のがしないように |
+| 631 | This is the fabled [Save Point]!! | うっとり……くるくる……これがうわさの【セーブポイント】！！ |
+| 632 | At a [Save Point] you can use a [tent] and/or select 'SAVE'. | 【セーブポイント】では……『テント』を使って休むことセーブ　することができちゃいます |
+| 633 | You can also do something else there, but right now it's a secret. | ほんとは、もうひとつあるんだけどいまは秘密♥　楽しみに待っててね♥ |
+| 634 | Even if you are wiped out, if you've saved, you can restart from that same point. That way you don't have to worry when you've been wiped out. | も～し、全滅しても、　セーブ　しておけばその場所から復活することができちゃうの。これなら、安心して全滅できるわよね |
+| 635 | This is jumping ahead a little but, when you leave Midgar… | ちょ～っと、先の話になるけどミッドガルを出ることになったら…… |
+| 636 | and you get to the world map, you can save anywhere you like. Remember that. | 地和線まで広がる【ワールドマップ】で好きなだけ　セーブ　することができるの。そのときがきたら、思い出してね |
+| 637 | That should be all you need to know about the Save Point. I'll probably see you again somewhere down the road. Take care! | ただいま、ごしょうかいにあずかりましたあっしが【セーブポイント】でござんす！旅先行き先先々でお目にかかることと思いますが今後ともよろしゅうおねがいもうしあげます！ |
+| 638 | I'm a [treasure chest]!! | 俺様が、【たからばこ】だ！！ |
+| 639 | Beginners, make sure and keep an eye out for me!! | 初心者のキ・ミ・た・ち！俺様をしっかりとさがしてくれよ！！ |
+| 640 | Hey SOLDIER!! Tell us about battles! We'll even pay you! | 物知り元ソルジャーさん！！バトルのことをオレたち３人組に教えてくださいよ！報酬はずみますから！ |
+| 641 | What do you want to know? | なにを教えてほしいんだ？ |
+| 642 | About ATB | 【ＡＴＢ】について |
+| 643 | About numbers on the screen | 【飛び出す数字】について |
+| 644 | About [Change] and [Defend] | 【チェンジ】と【ぼうぎょ】について |
+| 645 | About [Escape] | 【逃げる】について |
+| 646 | About [Gauges] | 【ゲージ】について |
+| 647 | About [Status] | 【ステータス】について |
+| 648 | About [Elementals] | 【属性】について |
+| 649 | About [Help] | 【ヘルプ】について |
+| 650 | That's all the time I have for you! | もうひまつぶしは終わりだ |
+| 651 | I'm not hard up enough to take money from guys like you. But I'll rap with you for a while. | おまえたちから金をとるほど落ちぶれちゃいない。ひまつぶしにつきあってやる |
+| 652 | ATB or Active Time Battle is a system that is always in operation during battle. | 【ＡＴＢ】、すなわち【アクティブタイムバトル】は戦闘中、つねに時間が流れているシステムだ |
+| 653 | Select [Wait] from ATB on the Config Menu and time will stop when you select magic or items during battle. | メニューのコンフィグでＡＴＢを【ウェイト】にすると……戦闘中、魔法やアイテムを選んでいる間時間が止まる |
+| 654 | This gives you time to pick out your commands. This is especially helpful to beginners. | コマンドをゆっくり選べるというわけだ。おまえたち、初心者にはおあつらえむきだな |
+| 655 | Selecting [Recommended] ATB in the config menu can stop time while the effects of spells and items are taking place during battle. | 同じくコンフィグでＡＴＢを【おすすめ】にすると……戦闘中、魔法やアイテムのエフェクトが出ている間時間が止まる |
+| 656 | This lets you take your time looking over the progression of the battle. When you don't want to rush in battle, this is for you! | 戦闘の様子をゆっくり見られるというわけだ。落ちついて戦いたいときはこれだな |
+| 657 | Personally, I always use [Active], but you can use whichever you like. | 俺はいつでも【アクティブ】だが気にするな、好きなものを選ぶといい。以上だ |
+| 658 | White numbers appearing on the screen in battle are damage points. Green numbers show restorative points. | バトルの時に、【ピロンと飛び出す数字】は白がダメージ、緑が回復していることを表している |
+| 659 | You better watch these if you don't want to get wiped out. | 全滅したくなければ注意することだな |
+| 660 | The [Change] command can move characters to and from the front and back rows. | 【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる |
+| 661 | In the back row, the damage received is less, but the attacking power is less. | 後列にすると受けるダメージが減るが、攻撃力も減る。【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ |
+| 662 | You can make a [Change] by pressing the Directional button in battle. Pushing the Directional button the other direction during battle accesses [Defend]. | 同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ |
+| 663 | Selecting [Defend] reduces the damage you receive by half until the next command. | 【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる |
+| 664 | If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it. | 手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな |
+| 665 | I don't really remember ever having to use the [Escape] command… but you'll probably need it. | 俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう |
+| 666 | Push [PAGEUP] and [PAGEDOWN] together, hold them down, and you can escape. | Ｌ１ボタンとＲ１ボタンを押しっぱなしにしていると逃げられたはずだ |
+| 667 | During battle, there are several [Gauges] displayed. You can't check them now, so just remember what I tell you. | いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。戦闘中、いくつか表示されている【ゲージ】のことだ |
+| 668 | [time gauge] displays the time remaining until your next turn while in battle. | 【ＴＩＭＥゲージ】は戦闘中、次のコマンド入力が回ってくるまでの待ち時間をあらわしている |
+| 669 | When the gauge is full, you can make your command. If you don't want to make one, push [MENU] and you can move to the next character. It's convenient when you wanna make BARRET work. | ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。BARRETをこきつかいたい時などに便利だ |
+| 670 | The [limit gauge] increases every time you sustain damage. When it is full, you can use the [limit technique]. | 【ＬＩＭＩＴゲージ】はダメージを受けるごとにのびていくはずだ。これがいっぱいになると、【リミット技】が使える |
+| 671 | This gauge is not cleared after each battle, but gradually builds up over time. | 【ＬＩＭＩＴゲージ】は、各戦闘ごとにクリアされず数をこなしただけ、たまっていくタイプだ |
+| 672 | It takes a while for it to build up, so you have to think about which times are the best to use it. | たまったからといって、すぐにつかわず【リミット技】の使いどころを見極めることが大切なのは言うまでもない |
+| 673 | You probably don't know about them, but there are conditions of [fury] and [sadness]. | おまえたちは知らないだろうから、教えといてやる。【ステータス】に、【怒り】と【悲しい】という状態がある |
+| 674 | When you have [fury], your limit gauge builds up sooner, but your attacking accuracy is lower. | 【怒り】は、【ＬＩＭＩＴゲージ】の上がり方が早くなるが攻撃の命中率は低下する |
+| 675 | Keep in mind that [sadness] makes your limit gauge build up slower, but the damage you receive is also lessened. | 【悲しい】は、【ＬＩＭＩＴゲージ】の上がり方が遅くなるが、敵の攻撃から受けるダメージは低下する。ついでに、おぼえておくといいだろう |
+| 676 | The [barrier gauge] shows your defense barriers. | 【ＢＡＲＲＩＥＲゲージ】は特定の魔法の効果時間をあらわす |
+| 677 | The top gauge displays [barrier] or magic defense against attacks. The bottom gauge displays [magic barrier] or defenses against magic attacks. | 上のゲージは、なぐられ攻撃を防ぐ魔法【バリア】下のゲージは、魔法攻撃を防ぐ魔法【マバリア】 |
+| 678 | Both will cut the damage you receive in half. However, over time they will disappear. | 両方ともダメージを半分にしてくれるが時間が経つと消えてしまう |
+| 679 | Whenever you use [barrier] or [magic barrier] make sure to pay attention to the [barrier gauge]. | 【バリア】と【マバリア】の魔法をつかったときは【ＢＡＲＲＩＥＲゲージ】に注目だな |
+| 680 | That's it. Remember that for the next battle. | 以上だ、次の戦闘で確認してくれ |
+| 681 | Looks like you didn't get it the last time I told you. What's wrong with you? You touched in the head? | この俺の説明でもわからんようならしかたない。おまえたちの理解する能力がたりないようだ |
+| 682 | Well, don't worry. You just need to push [ASSIST] in battle. | だが、安心しろ。そんなおまえたちは、戦闘中、セレクトボタンを押してみるといいだろう |
+| 683 | Do that, and the [Help] message will walk you through the commands. | 【ヘルプメッセージ】が、俺にかわっていろいろとコマンドの説明をしてくれるはずだ |
+| 684 | It also shows you the name of your enemy, so even I use it once in a while. Make good use of it. | 敵のモンスター名なども表示されるから俺も気分転換に見ることもある。はずかしがらずに使うといい |
+| 685 | [wiped out]. This is one I've never personally used. But I heard from someone what it was about. | 【全滅】か……俺の記憶にはないから、これは人から聞いた話だ |
+| 686 | When you are wiped out, you start back from the last save point. | 【全滅】したときには前の【セーブポイント】からはじまる |
+| 687 | Even a weakling like you can make it out of the roughest places as long as you hang in there and fight. You should be glad! | おまえたちのような弱いヤツでも地道に戦えば、どんな難所でも脱出できるはずだ。ありがたいことだな |
+| 688 | [Status] means just that. The status of each character. | 【ステータス】とはキャラクターの状態のことだ |
+| 689 | I'll probably wind up repeating myself, but let me go over a few basic points. | これまで説明したことと重なるかもしれんが代表的なものをまとめといてやる |
+| 690 | Sleep You cannot put in a command until you get up. | すいみん　起きるまでコマンド入力不可になる。 |
+| 691 | Poison Steals your HP in battle. | どく　　　　戦闘中にどんどんＨＰが減っていく。 |
+| 692 | Fury Damage is increased, attack accuracy decreased. Tranquilizers will remedy it. | いかり　　ダメージ倍、命中率低下。鎮静剤でもどる。 |
+| 693 | Sadness Damage is decreased. Hyper will remedy it. | かなしい　ダメージ低下。興奮剤でもどる。 |
+| 694 | Petrify Will petrify and become immobilized. Every member will be wiped out. | せきか　　石になり、動けなくなる。全員石で全滅だ。 |
+| 695 | Confuse Will attack enemy and ally alike. | こんらん　頭が混乱し、敵味方の区別がつかなくなる。 |
+| 696 | Silence Will be unable to cast magic. | ちんもく　全ての魔法をとなえられなくなる。 |
+| 697 | Paralyze Stops time gauges, commands. | マヒ　　　　タイムゲージ停止、コマンド入力不可 |
+| 698 | Darkness Accuracy of hitting attacks decreases. | くらやみ　なぐり攻撃の命中率低下。 |
+| 699 | Frog Become a frog. I hate this one! | カエル　　カエルになる。俺はだいきらいだ。 |
+| 700 | Hoo…I'm beat. | フッ……さすがにつかれたな |
+| 701 | Your [Status] can be changed with magic and items, so you should check it whenever you buy things. | 【ステータス変化】はアイテムや魔法で直せるから物を買うときに確認しておくのがいいだろう |
+| 702 | [elemental] is the special effect that comes with certain weapons and magic. | 【属性】は魔法や武器などについてくる特別な効果のことだ |
+| 703 | It's necessary to move ahead effectively. If you pay attention to the types of elementals you use you'll become intermediate in no time. | 有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな |
+| 704 | I put together this list, but remember, it's just a partial list don't take it too literally. | 代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな |
+| 705 | Fire Fire effect. Works best on animals and water monsters. | 炎　　火の効果。けもの、氷のモンスターにきく。 |
+| 706 | Ice Ice effect. Works best on fire monsters and things that hate the cold. | 冷　　氷の効果。寒がり、火のモンスターにきく。 |
+| 707 | Lightning Lightning effect. Works best on mechanical things. | 雷　　電撃の効果。機械でできたヤツにきく。 |
+| 708 | Earth Attacks using the earth's power. Doesn't work on flying enemies. | 土　　大地の力の攻撃。飛んでるヤツにはきかない。 |
+| 709 | Poison Poisons enemies. Doesn't work on any poison-based enemies. | 毒　　毒状態にする。もともと毒のヤツにはきかない。 |
+| 710 | Gravity Gravity-based attack. These hurt if they hit. | 重　　重力を使った攻撃。当たるといたいな。 |
+| 711 | Water Calls on the earth's water. Works well on fire monsters. | 水　　大地の恵みの水を呼ぶ。火のモンスターにきく。 |
+| 712 | Wind Calls up the winds. Works well on flying enemies. | 風　　大気の風をよびおこす。飛んでるヤツにきく。 |
+| 713 | Holy Calls up the Planet's power. Works well on dark monsters. | 聖　　星の力をよびおこす。暗黒のモンスターにきく。 |
+| 714 | If you use reciprocal elementals in your attacks, the effect is huge! | 相反する【属性】を攻撃に使用することで大きな効果を得られる |
+| 715 | Also, if you use the same elemental, your defenses are raised. But, you have to be careful because the opposite is also true. | また、同じ属性なら防御の効率があがる。だが……逆もまた真なり。気をつけることだな |
+| 716 | To see what elementals an enemy has, you need [Sense] Materia. If you get that Materia, you should try using it. | 敵のもっている【属性】をみぬくためには【みやぶる】ことが必要だ。マテリアを手にいれたら、使ってみてくれ |
+| 717 | ……smack……knock……!! | ポカポカポカポカ……！！ |
+| 718 | Help! | たしゅけて～！ |
+| 719 | You've got to hang in there. Your limit gauge is just starting to build. | そこでがまんだ。おまえの【リミットゲージ】はたまりはじめている |
+| 720 | Waaaah!! | びえ～ん！！ |
+| 721 | OK! Now your limit gauge is full, go ahead and use it! Fight with your limit technique. | よしっ、【リミットゲージ】はいっぱいだ！えんりょはいらない。【リミット技】で勝負だ！ |
+| 722 | Magic!! Magic!! | まほう！！まほう！！ |
+| 723 | Calm down! When your enemy uses magic counter with [Magic Barrier] or [reflect]. | おちつけ！相手が魔法を使うときには【マバリア】か【リフレク】で対抗するのだ |
+| 724 | [Magic Barrier] reduces the damage received from magic by half. | 【マバリア】は魔法のダメージを半分にする魔法だ |
+| 725 | [reflect] bounces the attacks off you. But the number of times you can use it is limited so be careful. | 【リフレク】は魔法をはねかえすがはねかえす回数に制限があるから気をつけろ |
+| 726 | Wow! You sure are strong! I'm going to be strong, too ! | さっすが、元ソルジャ！どちたら、強くなるの～！ |
+| 727 | Me too! | なるの～！ |
+| 728 | If you want to get as strong as me you need to use Materia. And you have to find the best combinations of them. | 俺みたいに強くなりたければマテリアを効率よく育て最適な組み合わせをさがすことだな |
+| 729 | The type of Materia you put in your weapons and armor will determine how quickly your Materia grows. | 装備する武器や防具のしゅるいによってマテリアの成長のスピードはちがう |
+| 730 | Put Materia into the open slots in your weapons and armor. The possible combinations are limitless. | 武器や防具にあいている穴の形によってマテリアの組み合わせは無限に広がる |
+| 731 | That's about all I can tell you. If you want to be like me, you have to have some natural talent. | 俺にアドバイスできるのはそのくらいのことだ。もっとも生まれついた素質がなければ俺のようにはなれんがな |
+| 732 | I still don't get it! | わかんな～い！ |
+| 733 | Listen kids, don't piss me off! | 俺を怒らせるな！ |
+| 734 | That's all right. Just give it a try. Little by little, you'll get used to it. | 大丈夫だ、まずはやってみろ。そのうち、なれてしまう |
+| 735 | Great! | 上出来だ |
+| 736 | How to use the buttons. | 『基本的なボタン操作方法』 |
+| 737 | [Directional button][CONTROL] | 【方向キー】　　　　　　【ボタン】 |
+| 738 | up [MENU]: menu | 上　　　　　　　　　　　△：メニュー |
+| 739 | leftright: walk  [OK]: speak/execute | 左　　　右：歩く　　　□　　○：話す／決定 |
+| 740 | down [CANCEL]: run | 下　　　　　　　　　　　×：走る／取り消し |
+| 741 | [PAGEUP]/[PAGEDOWN]: turn. | Ｌ１／Ｒ１ボタン：チョコッとまがる |
+| 742 | Huh? Finger!? What the hell? | ん？　指！？なんだ、おまえ？ |
+| 743 | I'm the position cursor!! Call me whenever you're walking around confused! | ボク、【ポジションカーソル】！！歩いている時、迷ったらボクを呼び出して！ |
+| 744 | Push [ASSIST] and I'll appear over your shiny little head. | セレクトボタンを押せばボクが君のツンツン頭のうえにつきまとうよ |
+| 745 | Geez, you stand out even more than I do… | 俺より目立つな…… |
+| 746 | Am I in the way? If so, just push [ASSIST] one more time. | ボクがじゃまかい？そんなときはもう一度セレクトボタンを押してね |
+| 747 | I'm pretty busy myself, and can't always come when you need me. If I don't show up sometimes, don't get mad. | それから、ボクはこう見えてもけっこういそがしいからいつでも登場はできないんだ。でてこなくても怒らないで！ |
+| 748 | Later! | それじゃね、バイバ～イ！ |
+| 749 | [Position Cursor] | 【ポジションカーソル】 |
+| 750 | Push [ASSIST] when you're lost in the field. Usually, the [Position Cursor] will appear on the screen. | フィールドで迷ったときにはセレクトボタンを押してください。ポジションカーソルが表示されます。 |
+| 751 | But wait!! | さらに！！ |
+| 752 | [Red triangles] mark the exits and [Green triangles] mark ladders. | 入口をあらわす『赤サンカク』とはしごなどをあらわす『緑サンカク』も表示されます。 |
+| 753 | These will help you safely make it through even the darkest streets or dangerous mountains! But, there are times when they won't appear, so be careful. | これで、暗い夜道も険しい山道もご安心！なお、フィールドによっては表示されないことがあります。御注意ください。 |
+| 754 | Johnny's Home | ジョニーの家 |
+| 755 | Ha, Ha!…… Well, there's nothin' wrong with that, I'd say. | ハッハッ……。まあ、それもいいでしょうなあ |
+| 756 | Ha!  Ha!…… I wonder if my son's already left? | ハッハッ……。息子はもう旅立ちましたかな？ |
+| 757 | When it's just my wife and I here, you have no idea how lonesome it gets. | こうして家内と私、二人きりになってみるといやはや、さびしいものですなあ |
+| 758 | We want him to be happy and do other things while he's young, but we can't help but worry… | ハッハッ……　若いうちはね好きなことをやらせてみようと思っていてもやっぱり心配なのは、いけませんなあ |
+| 759 | I guess we always will. | 親として修行がたりませんなあ |
+| 760 | By the way…… | ところで、あなた |
+| 761 | Where are you from? | 故郷はおありですかな？ |
+| 762 | A village called Nibelheim | ニブルヘイムという村だ…… |
+| 763 | Who cares? | そんな面倒なものはすてたさ |
+| 764 | But if you still have a family, you outta at least write them. | でも、もし、あなたにも家族がおありなら手紙ぐらい書いてあげるのが、いいですなあ |
+| 765 | You may leave your home, but it'll always be there for you. | 故郷はね、知らんぷりをしていてもいつでも、あなたを待ってますよ |
+| 766 | At least that's how I see it. | ハッハッ……まあ、そんなもんですなあ |
+| 767 | Hmm…did you say Nibelheim? Wasn't it in the news a while back? | ほう……あのニブルヘイム村ですか。ほら、何年か前にニュースになったことがありましたなあ |
+| 768 | Something to do with a reactor accident… | あのときは、たしか……魔晄炉の事故でしたか |
+| 769 | That was the first major Mako accident, I remember it was all over the news. | 当時は、最初の大きな魔晄炉事故ということですいぶん話題になりましたなあ |
+| 770 | This might sound rude, but… | ハッハッ……ぶしつけな質問ですが |
+| 771 | Is your family still living? | ご家族は健在ですかな？ |
+| 772 | I forgot about them long ago | いたとしても忘れたな |
+| 773 | I'm just an ex-SOLDIER | 俺は孤独なソルジャーだ |
+| 774 | Well, you really outta go home again. And if you can't do that, try and at least remember them sometimes. | ハッハッ……。まあ、たまには帰ってあげなさい。それができないならときどき思い出すのがよろしい |
+| 775 | Our boy acted like you, When he was a kid. | ハッハッ……。私も若いころはそんな風にかっこつけたこともありましたよ |
+| 776 | You seem to be about his age. | ハッハッ……あなたは、まだそんな年ごろかな |
+| 777 | Well, would you mind leaving us alone? | ハッハッ……。そろそろ、二人っきりにしてくれませんか |
+| 778 | I want to enjoy some quiet time together with my wife. | 家内と二人きりの時間というのをね。しみじみすごしたいのですよ |
+| 779 | He used to give us nothing but headaches when he was here, but now that he's gone…we kind of miss him. …Strange, isn't it? | あんな子でもいなくなってみるとね。なんだか、落ちつかなくて。……不思議なものね |
