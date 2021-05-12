@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.3](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.2...v2.3.3) (2021-05-12)
+
+
+### Bug Fixes
+
+* **scene:** Anki generator does not include duplicate kanji in the kanji field. ([0893afa](https://github.com/nowotato/final-fantasy-vii-catalog/commit/0893afa71ab25bbf737dc351170016495480a721))
+* **scene:** Merged and unmerged some lines. Removed an untranslatable line due to PC/PS1 differences. ([2523e7c](https://github.com/nowotato/final-fantasy-vii-catalog/commit/2523e7cd2a4bfb2023dfa817d9f8b758c7185e82)), closes [#67](https://github.com/nowotato/final-fantasy-vii-catalog/issues/67)
+* **scene:** Merged lines for context purposes. ([defa793](https://github.com/nowotato/final-fantasy-vii-catalog/commit/defa793eb649e62787f57accd6e756ee4f1fdfc9))
+* **scene:** Removed the translation I added a long time ago. ([864547c](https://github.com/nowotato/final-fantasy-vii-catalog/commit/864547cf10068353c1535cc844b00052c03c52c9))
+* **scene:** Removed translation that I added initially. ([25d4a3b](https://github.com/nowotato/final-fantasy-vii-catalog/commit/25d4a3bb6e943443b8f5f3c441a514d12c0fffd6))
+* **scene:** Split lines that were probably merged by myself early one. ([cba4dc8](https://github.com/nowotato/final-fantasy-vii-catalog/commit/cba4dc860bbe59913631de9379eb89b4d7a8b9af))
+* **scene:** Split up lines I merged erroneously for the 1000th time. ([bcc98bd](https://github.com/nowotato/final-fantasy-vii-catalog/commit/bcc98bd55f6bb74aa80cc632c54ebdb1499af9bb))
+* **scene:** Split up more merged lines. ([24e7e21](https://github.com/nowotato/final-fantasy-vii-catalog/commit/24e7e21242e66b46c65e14296f1967593801a5a9))
+
 ### [2.3.2](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.1...v2.3.2) (2021-05-09)
 
 
