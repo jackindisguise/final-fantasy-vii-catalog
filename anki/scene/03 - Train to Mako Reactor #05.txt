@@ -39,12 +39,12 @@ BARRET！！	BARRET!!		scene_03
 今回の作戦について聞かせてくれ	So what's our next target?	今回作戦聞	scene_03
 ヘッ！　仕事熱心だな。CLOUDさんよ！	Hah! Listen to Mr. Serious-about-his-work!	仕事熱心	scene_03
 しかたねえ……せ、説明してやるっ！	Alright…I'll tell ya!	説明	scene_03
-ジェシーから聞いただろうが上のプレートとの境界には検間がある。列車ごとＩＤスキャンするシステムだ	Jessie's probably already told you, but there's a security check point at the top plate.	聞上境界検間列車	scene_03
-神羅じまんのね	It's an ID scan system checkin' all the trains.	神羅	scene_03
-今までのニセＩＤはもう使えねえ…	Which Shinra is very proud of.	今使	scene_03
-本日も御乗車ありがとうございます～	We can't use our fake ID's anymore…	本日御乗車	scene_03
-４番街ステーション到着予定時刻は	Good Morning, and welcome to Midgar lines.	番街到着予定時刻	scene_03
-ミッドガル時１１時４５分～	Arrival time at Sector 4 Station is 11:45.	時分	scene_03
+ジェシーから聞いただろうが上のプレートとの境界には検間がある。	Jessie's probably already told you, but there's a security check point at the top plate.	聞上境界検間	scene_03
+列車ごとＩＤスキャンするシステムだ	It's an ID scan system checkin' all the trains.	列車	scene_03
+神羅じまんのね	Which Shinra is very proud of.	神羅	scene_03
+今までのニセＩＤはもう使えねえ…	We can't use our fake ID's anymore…	今使	scene_03
+本日も御乗車ありがとうございます～	Good Morning, and welcome to Midgar lines.	本日御乗車	scene_03
+４番街ステーション到着予定時刻はミッドガル時１１時４５分～	Arrival time at Sector 4 Station is 11:45.	番街到着予定時刻分	scene_03
 ＩＤ検知エリアまであと３分ってところね	That means we've got only three more minutes to the ID Check point.	検知分	scene_03
 よし、あと３分たったら列車から飛び降りる	Alright, in three minutes, we're jumpin' off this train.	分列車飛降	scene_03
 いいな！	Got it!?		scene_03

@@ -41,12 +41,12 @@
 | 39 | So what's our next target? | 今回の作戦について聞かせてくれ |
 | 40 | Hah! Listen to Mr. Serious-about-his-work! | ヘッ！　仕事熱心だな。CLOUDさんよ！ |
 | 41 | Alright…I'll tell ya! | しかたねえ……せ、説明してやるっ！ |
-| 42 | Jessie's probably already told you, but there's a security check point at the top plate. | ジェシーから聞いただろうが上のプレートとの境界には検間がある。列車ごとＩＤスキャンするシステムだ |
-| 43 | It's an ID scan system checkin' all the trains. | 神羅じまんのね |
-| 44 | Which Shinra is very proud of. | 今までのニセＩＤはもう使えねえ… |
-| 45 | We can't use our fake ID's anymore… | 本日も御乗車ありがとうございます～ |
-| 46 | Good Morning, and welcome to Midgar lines. | ４番街ステーション到着予定時刻は |
-| 47 | Arrival time at Sector 4 Station is 11:45. | ミッドガル時１１時４５分～ |
+| 42 | Jessie's probably already told you, but there's a security check point at the top plate. | ジェシーから聞いただろうが上のプレートとの境界には検間がある。 |
+| 43 | It's an ID scan system checkin' all the trains. | 列車ごとＩＤスキャンするシステムだ |
+| 44 | Which Shinra is very proud of. | 神羅じまんのね |
+| 45 | We can't use our fake ID's anymore… | 今までのニセＩＤはもう使えねえ… |
+| 46 | Good Morning, and welcome to Midgar lines. | 本日も御乗車ありがとうございます～ |
+| 47 | Arrival time at Sector 4 Station is 11:45. | ４番街ステーション到着予定時刻はミッドガル時１１時４５分～ |
 | 48 | That means we've got only three more minutes to the ID Check point. | ＩＤ検知エリアまであと３分ってところね |
 | 49 | Alright, in three minutes, we're jumpin' off this train. | よし、あと３分たったら列車から飛び降りる |
 | 50 | Got it!? | いいな！ |
