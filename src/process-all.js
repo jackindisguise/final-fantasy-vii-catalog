@@ -53,7 +53,9 @@ fs.readdir(formatted, function(err, files){
 		fs.writeFileSync(target, lines.join("\r\n"), "utf8");
 		console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET} (${xterm.C.LIME}${lines.length} / ${original.length} lines${xterm.C.RESET})`);
 	}
-	console.log(`\t[${xterm.C.YELLOW}**${xterm.C.RESET}]: ${xterm.C.PINK}New Lines / Original Lines${xterm.C.RESET} (${xterm.C.LIME}${newLines} / ${originalLines} lines${xterm.C.RESET})`);
+	console.log(`\t[${xterm.C.YELLOW}**${xterm.C.RESET}]: ${xterm.C.WHITE}${originalLines} lines before formatting.${xterm.C.RESET}`);
+	console.log(`\t[${xterm.C.YELLOW}**${xterm.C.RESET}]: ${xterm.C.WHITE}${newLines} lines after formatting.${xterm.C.RESET}`);
+	console.log(`\t[${xterm.C.YELLOW}**${xterm.C.RESET}]: ${xterm.C.WHITE}${((1-(newLines/originalLines))*100).toFixed(2)}% of lines crushed under my strong feet.${xterm.C.RESET}`);
 
 	fs.writeFileSync(processed+"combined.txt", combined.join("\r\n"));
 	console.log(`Generated ${processed}combined.txt`);
