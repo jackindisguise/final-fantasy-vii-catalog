@@ -1972,8 +1972,10 @@ CID！　何をしたの！？	CID! What did you do!?	何	scene_05
 店長！　オーダー取り消しです	Hey! Cancel that last order!	店長取消	scene_05
 お客さん！お金もないのに注文しちゃだめですよ。次は、お金のある時にきてくださいね	Excuse me! You can't come in here and order things without any money. Come again…when you have money.	客金注文次時	scene_05
 おまたせしました。どうぞ、ごゆっくり	There you go. Enjoy.		scene_05
-ありがとうございました。薬屋商品クーポンをどうぞ。薬屋で、商品ひとつと交換できます	Thank you. Here's an item coupon for the Pharmacy.	薬屋商品交換	scene_05
-クーポンがなくなりましたので、このサービスは終了させていただきます。次なるサービスにご期待ください	You can exchange it for one item there. That's our last coupon for now. Watch for our NEXT promotion!	終了次期待	scene_05
+ありがとうございました。薬屋商品クーポンをどうぞ。	Thank you. Here's an item coupon for the Pharmacy.	薬屋商品	scene_05
+薬屋で、商品ひとつと交換できます	You can exchange it for one item there.	薬屋商品交換	scene_05
+クーポンがなくなりましたので、このサービスは終了させていただきます。	That's our last coupon for now.	終了	scene_05
+次なるサービスにご期待ください	Watch for our NEXT promotion!	次期待	scene_05
 お客さま、キッチンへは入らないでください！	Keep out of the kitchen!	客入	scene_05
 どうぞ、ここへおすわりください	Have a seat over here.		scene_05
 すわる	Sit down		scene_05
