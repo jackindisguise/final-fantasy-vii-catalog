@@ -121,7 +121,7 @@
 | 119 | AERIS! This way! | さあ、AERIS。こっちだ |
 | 120 | All right. I'll hold them off. | だいじょうぶだ。俺が受け止めてやる |
 | 121 | Right. Make sure they don't get through! | わかったわ。しっかり受け止めてね |
-| 122 | The Ancient is getting away! Attack! Attack! > Attack! | 古代種が逃げるぞ！撃て、撃て！、撃つな！ |
+| 122 | The Ancient is getting away! Attack! Attack! Attack! | 古代種が逃げるぞ！撃て、撃て！、撃つな！ |
 | 123 | Think we killed 'em? They never should've fought us! | やっちまったかな、と。抵抗するからだぞ、と |
 | 124 | Eaygh!! | きゃあっ！ |
 | 125 | AERIS! | AERIS！ |
