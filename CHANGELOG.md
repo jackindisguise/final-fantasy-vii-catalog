@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.5](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.4...v2.3.5) (2021-05-15)
+
+
+### Bug Fixes
+
+* **scene:** Split lines regarding coupons in the restaurant. ([20ef890](https://github.com/nowotato/final-fantasy-vii-catalog/commit/20ef890de2b70e89feed8123e303268cf6a0e90d))
+
 ### [2.3.4](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.3...v2.3.4) (2021-05-14)
 
 
