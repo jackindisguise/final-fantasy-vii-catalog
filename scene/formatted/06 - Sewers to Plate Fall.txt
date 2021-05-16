@@ -171,7 +171,7 @@ scum like you from trying to sneak in here.”	おっぱらうケチな仕事を
 My partner's pretty mean,	となりの先輩、こわいから
 I wouldn't get him mad, if I were you.”	さからわない方がいいと思いますよ」
 “You know, I got some tickets to	「先輩！！
-'Loveless', do you want to go?”	ＬＯＶＥＬＥＳＳのチケット取れたんですけど
+Loveless', do you want to go?”	ＬＯＶＥＬＥＳＳのチケット取れたんですけど
 	いっしょにいきません？」
 “What're you, retarded?	「やめとけ！
 Midgar's under martial law now!”	ミッドガルは非常警戒体制に入ってる」
@@ -232,7 +232,7 @@ Do something!!”
 Great…	いい気分じゃねえ！
 I'm quitting tomorrow!”	明日、じひょうだ！」
 Jessie	ジェシー
-“…CLOUD…	「あ……CLOUD…… 
+“…CLOUD…	「あ……CLOUD……
 I'm glad……I could talk	最後に……話せて良かった……」
 with you…one last time.”	
 Don't say 'last'……	最後だなんて……
@@ -240,7 +240,7 @@ Is that so…	そうか……
 Jessie	ジェシー
 “That's…all right…”	「もう、いい……いいの……」
 “Because…of our actions…many……people died……	「私たち……私たちの作戦で
-this probably……is our punishment…”	たくさん……人、死んじゃったし…… 
+this probably……is our punishment…”	たくさん……人、死んじゃったし……
 	きっと……そのむくい……ね」
 Jessie	Jessie
 “…Is…that so……?”	……そうか……ですって……？
@@ -298,7 +298,7 @@ TIFA	TIFA
 I don't know how to stop this.	
 Try it!”	
 CLOUD	CLOUD
-“…It's not a normal time bomb.”	「……ただの時限爆弾じゃない」 
+“…It's not a normal time bomb.”	「……ただの時限爆弾じゃない」
 Tseng	ツォン
 “That's right.	「そのとおり。それを操作するのは難しい」
 You'll have a hard time disarming that one.”	
@@ -335,17 +335,17 @@ Tseng	ツォン
 and catch the last remaining Ancient.”	命令は『古代種』の生き残りを
 	つかまえろ、ということだけだ」
 Tseng	ツォン
-“It's taken us a long time, but now I can finally	「ずいぶんと長い時間がかかったが 
+“It's taken us a long time, but now I can finally	「ずいぶんと長い時間がかかったが
 report this to the President.”	やっとプレジデントに報告できる」
 AERIS	AERIS
-“TIFA, don't worry!	「TIFA、だいじょうぶだから！ 
+“TIFA, don't worry!	「TIFA、だいじょうぶだから！
 She's all right!”	あの子、だいじょうぶだから！」
 TIFA	TIFA
 “AERIS!”	“AERIS!”
 AERIS	AERIS
 “Hurry and get out!”	「だからはやく逃げて！」
 Tseng	ツォン
-“Ha, ha, ha…	「クックックッ！ 
+“Ha, ha, ha…	「クックックッ！
 Well, it should be starting right about now.	そろそろ始まるぞ。
 Think you can escape in time?”	逃げきれるかな？」
 TIFA	TIFA
@@ -444,9 +444,11 @@ Hell no!!”
 It's never been nobody but the Shinra!”	やったことじゃねえか！」
 BARRET	BARRET
 “They're evil and destroyin'	「自分たちの金や権力のために
-our planet just to…”	星の命を吸い取る悪堂ども！」
-“build their power and line their own	「その神羅をつぶさない限り
-damn pockets with gold!”	この星は死んじまうんだ！」
+our planet just to	星の命を吸い取る悪堂ども！
+build their power and line their own	
+damn pockets with gold!”	
+[EMPTY LINE]	「その神羅をつぶさない限り
+	この星は死んじまうんだ！」
 BARRET	BARRET
 “Our fight ain't never gonna be over	「神羅を倒すまでオレたちの戦いは
 until we get rid of them!!”	おわらねえ！！」
@@ -506,7 +508,7 @@ CLOUD	CLOUD
 The Ancients are the	古代種こそが
 rightful rulers of this Planet!”	この星の正当なる支配者！」
 CLOUD	CLOUD
-"Sephiroth…?"	「セフィロス……？」
+Sephiroth…?	「セフィロス……？」
 TIFA	TIFA
 “Are you all right?”	「だいじょうぶ？」
 BARRET	BARRET
