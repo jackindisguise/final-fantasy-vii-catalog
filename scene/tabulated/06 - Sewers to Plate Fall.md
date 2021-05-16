@@ -69,7 +69,7 @@
 | 67 | You can't pass. I got the miserable job of keepin' scum like you from trying to sneak in here. | ここから先は立ち入り禁止だ。俺はここでおまえみたいな浮浪者をおっぱらうケチな仕事をしてるもんだ |
 | 68 | If you understand, then scram! | わかったら、さっさとうせろ！！ |
 | 69 | Listen… My partner's pretty mean, I wouldn't get him mad, if I were you. | あ、あの……となりの先輩、こわいからさからわない方がいいと思いますよ |
-| 70 | You know, I got some tickets to 'Loveless', do you want to go? | 先輩！！ＬＯＶＥＬＥＳＳのチケット取れたんですけどいっしょにいきません？ |
+| 70 | You know, I got some tickets to Loveless', do you want to go? | 先輩！！ＬＯＶＥＬＥＳＳのチケット取れたんですけどいっしょにいきません？ |
 | 71 | What're you, retarded? Midgar's under martial law now! | やめとけ！ミッドガルは非常警戒体制に入ってる |
 | 72 | Sir, are you really concerned for me? | あっ、先輩！僕のこと、心配してくれてるんですか！ |
 | 73 | Hell no!! But in case you forgot, we're in the middle of a slum. They could be anywhere around, so stay on your guard. | そんなんじゃねえ！！テロリストはスラムにひそんでる。俺たちだって、気をぬけねぇ |
@@ -114,14 +114,14 @@
 | 112 | Here they come! | さっそく来だわ！ |
 | 113 | You're too late. Once I push this button… | おそかった、とこのスイッチを押すと…… |
 | 114 | That's all, folks! Mission accomplished. | はい、おしまい！　作業終了 |
-| 115 | DAMN! It's a time bomb! | “くっ！時間爆弾か！ |
+| 115 | DAMN! It's a time bomb! | くっ！時間爆弾か！ |
 | 116 | We have to disarm it! CLOUD! BARRET! Please! | 解除しなくちゃ！ CLOUD！　BARRET！　おねがい！ |
 | 117 | I can't have you do that. No one get in the way of Reno and the Turks… | そういうわけにはいかないぞ、と タークスのレノさまの邪魔は 誰にもさせないぞっ……と |
 | 118 | CLOUD! I don't know how to stop this. Try it! | CLOUD！ 止めかたがわからないの。やってみて！ |
 | 119 | …It's not a normal time bomb. | ……ただの時限爆弾じゃない |
 | 120 | Tseng | ツォン |
 | 121 | That's right. You'll have a hard time disarming that one. | そのとおり。それを操作するのは難しい |
-| 122 | It'll blow the second some stupid jerk touches it. | どこかのバカ者が勝手にふれると困るからな” |
+| 122 | It'll blow the second some stupid jerk touches it. | どこかのバカ者が勝手にふれると困るからな |
 | 123 | Please, stop it! | おねがい、とめて！ |
 | 124 | Ha ha ha…… | クックックッ…… |
 | 125 | Only a Shinra Executive can set up or disarm the Emergency Plate Release System. | 緊急用プレート解除システムの設定と解除は神羅役員会の決定なしではできないのだ |
@@ -172,8 +172,8 @@
 | 170 | …Are you saying it's our fault? Because AVALANCHE was here? Innocent people lost their lives because of us? | ……私たちのせい？アバランチがいたから？関係ない人たちまで…… |
 | 171 | No, TIFA! That ain't it! Hell no!! | ちがう！　ちがうぜ！　TIFA！！ |
 | 172 | It ain't us! It's the damn Shinra! It's never been nobody but the Shinra! | なにもかも神羅のやつらがやったことじゃねえか！ |
-| 173 | They're evil and destroyin' our planet just to… | 自分たちの金や権力のために星の命を吸い取る悪堂ども！ |
-| 174 | build their power and line their own damn pockets with gold! | その神羅をつぶさない限りこの星は死んじまうんだ！ |
+| 173 | They're evil and destroyin' our planet just to build their power and line their own damn pockets with gold! | 自分たちの金や権力のために 星の命を吸い取る悪堂ども！   |
+| 174 | [EMPTY LINE] | その神羅をつぶさない限りこの星は死んじまうんだ！ |
 | 175 | Our fight ain't never gonna be over until we get rid of them!! | 神羅を倒すまでオレたちの戦いはおわらねえ！！ |
 | 176 | …I don't know. | ……わからない |
 | 177 | What don't you know!? You don't believe me? | オレが言ってることわからねえのか！？ |
@@ -194,6 +194,6 @@
 | 192 | What's that? | なに？ |
 | 193 | …It's about the Ancients. | ……古代種 |
 | 194 | Now listen good! The Ancients are the rightful rulers of this Planet! | よく聞け！古代種こそがこの星の正当なる支配者！ |
-| 195 | "Sephiroth…?" | セフィロス……？ |
+| 195 | Sephiroth…? | セフィロス……？ |
 | 196 | Pull it together, man! | しっかりしてくれよ！ |
 | 197 | In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet! | われこそ古代種の血をひきし者。この星の正統なる後継者！ |
