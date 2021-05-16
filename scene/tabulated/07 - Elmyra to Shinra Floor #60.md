@@ -18,8 +18,8 @@
 | 16 | AERIS and I became close very quickly. That child loved to talk. She used to talk to me about everything. | AERISはすぐにわたしになついてくれた。よくしゃべる子でねえ。いろいろ話してくれたよ |
 | 17 | She told me how she escaped from some kind of research laboratory, and that her mother had already returned to the Planet, so she wasn't lonely…many other things. | どこかの研究所みたいなところから母親と逃げ出したこと。お母さんは星に帰っただけだからさびしくなんかない……いろいろね |
 | 18 | Returned to the Planet? | 星に帰っただって？ |
-| 19 | I didn't know what she meant. I asked if she meant a star in the sky, | わたしには意味がわからなかったよ。夜空の星かって聞いたらちがう、この星だっていわれて…… |
-| 20 | but she said it was this Planet… She was a mysterious child in many ways. | まあ、いろんな意味で不思議な子供だったね |
+| 19 | I didn't know what she meant. I asked if she meant a star in the sky, but she said it was this Planet… | わたしには意味がわからなかったよ。夜空の星かって聞いたらちがう、この星だっていわれて…… |
+| 20 | She was a mysterious child in many ways. | まあ、いろんな意味で不思議な子供だったね |
 | 21 | Mom. | お母さん |
 | 22 | Please don't cry. | 泣かないでね |
 | 23 | AERIS just blurted that out all of a sudden. When I asked her if something happened… | AERISが突然言い出した。何があったのかって聞いたら…… |
