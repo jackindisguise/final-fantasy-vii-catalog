@@ -133,13 +133,11 @@ AERISってあのコだろ。受付の。じつはオレもあのコ気になっ
 やはり頭を使うのは苦手かね？	You all really don't use your heads much, do you?	頭使苦手	scene_08
 ……まあいい。とっておきたまえ	……What the hey. Here, just take it anyway.		scene_08
 ここは科学部門の資料室です。	This is the Scientific Research Library.	科学部門資料室	scene_08
-他の３つの資料室にはそれぞれ……	Materials for the…	他資料室	scene_08
+他の３つの資料室にはそれぞれ……の資料が保管されています。	Materials for the… are held in their respective libraries…	他資料室保管	scene_08
 都市開発部門	Urban Dev. Library	都市開発部門	scene_08
 治安維持・兵器開発部門	Peace/Weapon Dev. Library	治安維持兵器開発部門	scene_08
 宇宙開発部門	Space Dev. Library	宇宙開発部門	scene_08
-の資料が保管されています。	are held in their respective libraries…	資料保管	scene_08
-持ちだし禁止！	Materials are non-circulating!	持禁止	scene_08
-このフロアの資料はすべて外部に持ちだすことを禁じられています。	Please do not remove any Materials from this floor.	資料外部持禁	scene_08
+持ちだし禁止！このフロアの資料はすべて外部に持ちだすことを禁じられています。	Materials are non-circulating! Please do not remove any Materials from this floor.	持禁止資料外部	scene_08
 ２　神羅プレート都市の 設計とその間題点	2 Problems with Plate construction in Midgar	神羅都市設計間題点	scene_08
 ２　魔晄炉建造工事 都市部着工予定表	5 Reactor Construction Chart	魔晄炉建造工事都市部着予定表	scene_08
 ８　魔晄炉建造工事 都市部着工予定表	6 Reactor Construction Chart	魔晄炉建造工事都市部着予定表	scene_08
@@ -515,7 +513,7 @@ BARRET、RED XIII……来てくれ。ようすが変なんだ	BARRET, RED XIII 
 だが私のやりかたはちがう	But, I do things differently.	私	scene_08
 私は世界を恐怖で支配する。オヤジのやりかたでは金がかかりすぎるからな	I'll control the world with fear. It's too much to do it like my old man.	私世界恐怖支配金	scene_08
 恐怖はほんの少しで人の心を支配する。おろかな民衆のために金を使う必要はない	A little fear will control the minds of the common people. There's no reason to waste good money on them.	恐怖少人心支配民衆金使必要	scene_08
-私はオヤジとはちがうのだ	(!) I'm different from my father. (!)	私	scene_08
+私はオヤジとはちがうのだ	[EMPTY LINE]	私	scene_08
 演説好きなところはそっくりね	He likes to make speeches just like his father.	演説好	scene_08
 AERISを連れてビルから出てくれ！	Get AERIS outta the building!	連出	scene_08
 説明はあとだ！BARRET！　本当の星の危機だ！	I'll explain later! BARRET! This is the real crisis for the Planet!	説明本当星危機	scene_08
@@ -536,90 +534,89 @@ AERISを連れてビルから出てくれ！	Get AERIS outta the building!	連�
 CLOUD、なんか、思いつめてた	CLOUD… I just thought of something.	思	scene_08
 ……私、CLOUDを待つわ！みんなはエレベーターで先に！	…I'll wait for CLOUD! Everyone, get to the elevator!	私待先	scene_08
 さあ、この先きっとガードがきびしくなるわ。装備をととのえておいたほうがいいわね	Hmm, it's going to get pretty ugly from here on. We should check on our equipment.	先装備	scene_08
-CLOUD、TIFAのマテリアを……	CLOUD and		scene_08
-【はずす】	TIFA's Materia…		scene_08
-【そのまま】	(Remove)		scene_08
-神羅ビル・３階ロビー	(Leave it)	神羅階	scene_08
-ハーディ＝デイトナ	Shinra Bldg. 3f. Lobby		scene_08
-はやく、ここから逃げなくちゃ……	Hardy Datona	逃	scene_08
-神羅ビル・２階ロビー	Quickly, we have to get out of here…	神羅階	scene_08
-オレが先に行くぜ！	Quickly, we can escape this way…	先行	scene_08
-チッ……！すっかりかこまれてやがる	I'll go on ahead!		scene_08
-オレひとりならともかくこのメンツじゃ……	*&^%(*… We're surrounded!		scene_08
-……やっぱり、あなたたちだけ逃げて	If I was alone this wouldn't be a thing, but I gotta reputation to protect.	逃	scene_08
-あの人たちがねらっているのはわたし。あなたたちだけなら……	You all get out while you can.	人	scene_08
-ヘッ、そうはいかねえな	It's not you they're after… it's me.		scene_08
-アンタはマリンを守るためにヤツらに捕まった。今度は、オレがアンタを守る番だ	Yeah, well that ain't happenin'.	守捕今度番	scene_08
-これ以上ヤツらの……神羅の好き勝手にはさせねえ	You got caught up in this over Marlene. Now, it's my turn to help you!	以上神羅好勝手	scene_08
-……ありがと、BARRETさん	OK, playtime's over jackasses…		scene_08
-へヘッ、よしてくれよ。『BARRETさん』なんてオレのガラじゃねえや	…Thank you, Mr. BARRET!		scene_08
-……さて	Who you callin' Mr. BARRET? That don't sound right!		scene_08
-キミたちの話が終わったならそろそろここから逃げ出す方法を考えてみないか？	Well then…	話終逃出方法考	scene_08
-ん？あ、ああ……チェッ、いやに冷静なやつだな。どこかの誰かさんみたいだぜ	If you are through talking, may I suggest that we think of a way to get out of here.	冷静誰	scene_08
-なにか？	Huh? Oh, oh yeah… You're cold, man. Just like someone else 'round here I know.		scene_08
-いや、なんでもねえよ。さて、どうするか……	Did you say something?		scene_08
-TIFA！CLOUDは！？	BARRET!!		scene_08
-みんな、こっち！	TIFA! Where's CLOUD?		scene_08
-ええ！？どうしたんだよ？CLOUDは？	Everyone! Over here!		scene_08
-話は後！いいから早く！！	Huh? What's up? Where's CLOUD?	話後早	scene_08
-反応がない……他のルートを探さなければ……	Quickly! We'll escape this way…	反応他探	scene_08
-ムービーへ続くのだ！	Nope. Have to find another way up, I guess…	続	scene_08
-『　神羅　　Ｓー２７式　』	[the movie continues]	神羅式	scene_08
-『　神羅　　ＰＡー８６式　』	[Shinra S-27]	神羅式	scene_08
-『　神羅　　Ｓー５１０式　』	[Shinra PA-86]	神羅式	scene_08
-『　神羅　　ＳＡー３７式　』	[Shinra S-510]	神羅式	scene_08
-【かめ道楽　通信】ナンバー２きびしい仕事でおつかれのアナタ……ぜひいちど居酒屋『かめ道楽』へ！！仕事の後の一杯は最高ですよ！	[Shinra SA-37]	道楽通信仕事居酒屋後一杯最高	scene_08
-今週の標語神羅の未来は世界の未来！！魔晄の光で明るい世の中！！	Shinra, Inc.	今週標語神羅未来世界魔晄光明中	scene_08
-指示があるまで、ディスクホルダーを開けないで下さい	Our slogan is: Shinra's Future Is The World's Future!! Mako Energy For A Brighter World!!	指示開下	scene_08
-バイクを【方向キー】で操作して神羅の追撃隊から仲間の乗るトラックを守って下さい	Until instructed, please don't open the disc holder.	方向操作神羅追撃隊仲間乗守下	scene_08
-○ボタン	Control the bike with the [Directional buttons] and save your friends in the truck from the Shinra pursuit troops.		scene_08
-右の敵を攻撃する	[OK]	右敵攻撃	scene_08
-□ボタン	Attack on right		scene_08
-左の敵を攻撃する	[SWITCH]	左敵攻撃	scene_08
-△ボタン　　　メニュー	Attack on left		scene_08
-×ボタン　　　パーティ編成	[MENU]Menu	編成	scene_08
-スタートボタン　　ゲーム開始	[CANCEL]Form Party	開始	scene_08
-さて、どうするよ？	[START]Start Game		scene_08
-セフィロスは生きている。俺は……あのときの決着をつけなくてはならない	Well, what do we do now?	生俺決着	scene_08
-それが星を救うことになるんだな？	Sephiroth is alive. …I have to settle the score.	星救	scene_08
-……おそらく、な	Will that save the Planet?		scene_08
-おっし、オレは行くぜ！	…It seems so.	行	scene_08
-わたしも、行く。……知りたいこと、あるから	Then, I'm going!	行知	scene_08
-古代種のことか？	I'll go, too. There are things I need to know.	古代種	scene_08
-……いろいろ、たくさん	About the Ancients?		scene_08
-さらばミッドガル、ね	…Many things.		scene_08
-AERISのおふくろさんには安全な場所に移るようにって言っといたからマリンも安全だな	I guess it's good bye, Midgar.	安全場所移言	scene_08
-さ～て、どうかな	Yeah, she should be		scene_08
-もう、ミッドガルはイヤだって言ってた……ちょうど良かったかな	Hmm, I don't know	言良	scene_08
-やめてよ、CLOUD！わたしだって心配なんだから	She said she didn't want to stay in Midgar anymore. …Maybe it's for the best.	心配	scene_08
-そういえば、わたしミッドガル出るの、初めて……	Stop it, CLOUD! I'm worried, too.	出初	scene_08
-そうか……不安か？	You know what? This is the first time I've ever left Midgar…	不安	scene_08
-危険だぞ、いいのか？	Really? Are you worried?	危険	scene_08
-ちょっと、う～ん、かなり、かな。でも、なんでも屋さんがいっしょだし、ね？	It's dangerous. Are you sure you want to go?	屋	scene_08
-言うと思った！	A little…no, maybe a lot. But I have a bodyguard, right?	言思	scene_08
-……旅がはじまるのね	I thought you'd say that!	旅	scene_08
-旅はきらいか？	…I guess this is the start of our journey…	旅	scene_08
-……どうかな。でも、もう帰るところないもの。旅が好きとかキライとか関係ないわ	It's dangerous. You sure you want to go?	帰旅好関係	scene_08
-……う～ん。でもほら、CLOUDが約束守ってくれればだいじょうぶよね、きっと	…I don't know. But, I don't have anywhere else to go. So I guess it doesn't really matter whether I like to travel or not.	約束守	scene_08
-私は故郷に帰るつもりだ。それまではいっしょに行ってやる	…Hmm. But you know, it should be all right if you keep your promise.	私故郷帰行	scene_08
-もう少しここにいよう	Then…	少	scene_08
-行こうか！	Let's stay here for a while	行	scene_08
-ここから北東に行くとカームって町があるんだ	Let's go!	北東行町	scene_08
-宿屋のメシがうまくてなあ。とりあえずそこに行かねえか？	To the Northeast, there's a town called Kalm.	宿屋行	scene_08
-そうね。聞きたいこと、いろいろあるしね。CLOUD？	The food at the Inn's good. Why don't we head there first?	聞	scene_08
-セフィロスのこと、そして星の危機……	You're right. I've heard about that town before. CLOUD?	星危機	scene_08
-そうだな。セフィロスの行方の情報も必要だからな	About Sephiroth, and about the crisis of the Planet…	行方情報必要	scene_08
-ここから先団体行動にはリーダーが必要だ。リーダーといえばオレしかいねえ	You're right. We need to know where Sephiroth went.	先団体行動必要	scene_08
-そうかしら……	We need a leader for our journey. Course that could only be me.		scene_08
-どう考えてもCLOUD、よね	You think so?	考	scene_08
-チッ…………わかったよ。ここから【北東にカームって町】があるんだ。何かあったらそこを集合場所にしよう	I think it should be CLOUD.	北東町何集合場所	scene_08
-それにしたって野っ原を５人でゾロゾロ歩くなんて危なくてしょうがねえ。おまえ、パーティーを２組に分けてみろ	^#$^%…alright. Go Northeast to a town called Kalm. If something happens, we'll meet up there.	野原人歩危組分	scene_08
-【キャンセルボタン】でパーティチェンジ	Access Menu with [MENU],		scene_08
-……予想外の	End with [SELECT],	予想外	scene_08
-……組み合わせ	…That's an unexpected	組合	scene_08
-まあ、男同士、楽しくやりなさい	…combination.	男同士楽	scene_08
-それじゃあ、カームで！	Well, have fun…boys.		scene_08
-……やると思ったぜ	We'll see you at Kalm!	思	scene_08
-じゃあ、カームでな！	…Thought you'd do that.		scene_08
-おっかしいな？このゲートのカギ……どこかに落としたかな？この前のハックツ・ツアーの最中かな？	Later, at Kalm!	落前最中	scene_08
-undefined	That's funny…I dropped the key to this gate…somewhere. Must've been on that excavation tour.		scene_08
+CLOUD、TIFAのマテリアを……	CLOUD and TIFA's Materia…		scene_08
+【はずす】	(Remove)		scene_08
+【そのまま】	(Leave it)		scene_08
+神羅ビル・３階ロビー	Shinra Bldg. 3f. Lobby	神羅階	scene_08
+ハーディ＝デイトナ	Hardy Datona		scene_08
+はやく、ここから逃げなくちゃ……	Quickly, we have to get out of here…	逃	scene_08
+神羅ビル・２階ロビー	Shinra Bldg. 2f. Lobby	神羅階	scene_08
+オレが先に行くぜ！	I'll go on ahead!	先行	scene_08
+チッ……！すっかりかこまれてやがる	*&^%(*… We're surrounded!		scene_08
+オレひとりならともかくこのメンツじゃ……	If I was alone this wouldn't be a thing, but I gotta reputation to protect.		scene_08
+……やっぱり、あなたたちだけ逃げて	You all get out while you can.	逃	scene_08
+あの人たちがねらっているのはわたし。あなたたちだけなら……	It's not you they're after… it's me.	人	scene_08
+ヘッ、そうはいかねえな	Yeah, well that ain't happenin'.		scene_08
+アンタはマリンを守るためにヤツらに捕まった。今度は、オレがアンタを守る番だ	You got caught up in this over Marlene. Now, it's my turn to help you!	守捕今度番	scene_08
+これ以上ヤツらの……神羅の好き勝手にはさせねえ	OK, playtime's over jackasses…	以上神羅好勝手	scene_08
+……ありがと、BARRETさん	…Thank you, Mr. BARRET!		scene_08
+へヘッ、よしてくれよ。『BARRETさん』なんてオレのガラじゃねえや	Who you callin' Mr. BARRET? That don't sound right!		scene_08
+……さて	Well then…		scene_08
+キミたちの話が終わったならそろそろここから逃げ出す方法を考えてみないか？	If you are through talking, may I suggest that we think of a way to get out of here.	話終逃出方法考	scene_08
+ん？あ、ああ……チェッ、いやに冷静なやつだな。どこかの誰かさんみたいだぜ	Huh? Oh, oh yeah… You're cold, man. Just like someone else 'round here I know.	冷静誰	scene_08
+なにか？	Did you say something?		scene_08
+いや、なんでもねえよ。さて、どうするか……	Notta thing. So what're we gonna do?		scene_08
+TIFA！CLOUDは！？	TIFA! Where's CLOUD?		scene_08
+みんな、こっち！	Everyone! Over here!		scene_08
+ええ！？どうしたんだよ？CLOUDは？	Huh? What's up? Where's CLOUD?		scene_08
+話は後！いいから早く！！	He's coming! Hurry, Hurry!!	話後早	scene_08
+反応がない……他のルートを探さなければ……	Nope. Have to find another way up, I guess…	反応他探	scene_08
+ムービーへ続くのだ！	[the movie continues]	続	scene_08
+『　神羅　　Ｓー２７式　』	[Shinra S-27]	神羅式	scene_08
+『　神羅　　ＰＡー８６式　』	[Shinra PA-86]	神羅式	scene_08
+『　神羅　　Ｓー５１０式　』	[Shinra S-510]	神羅式	scene_08
+『　神羅　　ＳＡー３７式　』	[Shinra SA-37]	神羅式	scene_08
+【かめ道楽　通信】ナンバー２きびしい仕事でおつかれのアナタ……ぜひいちど居酒屋『かめ道楽』へ！！仕事の後の一杯は最高ですよ！	Turtle's Paradise Newsletter No. 2 The end of another hard day. Wouldn't you like to sit back with a tall cool one? You can at the Turtle's Paradise!! Stop in today! There's nothing like a smooth one after work!	道楽通信仕事居酒屋後一杯最高	scene_08
+今週の標語神羅の未来は世界の未来！！魔晄の光で明るい世の中！！	Our slogan is: Shinra's Future Is The World's Future!! Mako Energy For A Brighter World!!	今週標語神羅未来世界魔晄光明中	scene_08
+指示があるまで、ディスクホルダーを開けないで下さい	Until instructed, please don't open the disc holder.	指示開下	scene_08
+バイクを【方向キー】で操作して神羅の追撃隊から仲間の乗るトラックを守って下さい	Control the bike with the [Directional buttons] and save your friends in the truck from the Shinra pursuit troops.	方向操作神羅追撃隊仲間乗守下	scene_08
+○ボタン	[OK]		scene_08
+右の敵を攻撃する	Attack on right	右敵攻撃	scene_08
+□ボタン	[SWITCH]		scene_08
+左の敵を攻撃する	Attack on left	左敵攻撃	scene_08
+△ボタン　　　メニュー	[MENU]Menu		scene_08
+×ボタン　　　パーティ編成	[CANCEL]Form Party	編成	scene_08
+スタートボタン　　ゲーム開始	[START]Start Game	開始	scene_08
+さて、どうするよ？	Well, what do we do now?		scene_08
+セフィロスは生きている。俺は……あのときの決着をつけなくてはならない	Sephiroth is alive. …I have to settle the score.	生俺決着	scene_08
+それが星を救うことになるんだな？	Will that save the Planet?	星救	scene_08
+……おそらく、な	…It seems so.		scene_08
+おっし、オレは行くぜ！	Then, I'm going!	行	scene_08
+わたしも、行く。……知りたいこと、あるから	I'll go, too. There are things I need to know.	行知	scene_08
+古代種のことか？	About the Ancients?	古代種	scene_08
+……いろいろ、たくさん	…Many things.		scene_08
+さらばミッドガル、ね	I guess it's good bye, Midgar.		scene_08
+AERISのおふくろさんには安全な場所に移るようにって言っといたからマリンも安全だな	We told AERIS's mom to go somewhere safe, so Marlene should be safe, too.	安全場所移言	scene_08
+さ～て、どうかな	Hmm, I don't know		scene_08
+もう、ミッドガルはイヤだって言ってた……ちょうど良かったかな	She said she didn't want to stay in Midgar anymore. …Maybe it's for the best.	言良	scene_08
+やめてよ、CLOUD！わたしだって心配なんだから	Stop it, CLOUD! I'm worried, too.	心配	scene_08
+そういえば、わたしミッドガル出るの、初めて……	You know what? This is the first time I've ever left Midgar…	出初	scene_08
+そうか……不安か？	Really? Are you worried?	不安	scene_08
+危険だぞ、いいのか？	It's dangerous. Are you sure you want to go?	危険	scene_08
+ちょっと、う～ん、かなり、かな。でも、なんでも屋さんがいっしょだし、ね？	A little…no, maybe a lot. But I have a bodyguard, right?	屋	scene_08
+言うと思った！	I thought you'd say that!	言思	scene_08
+……旅がはじまるのね	…I guess this is the start of our journey…	旅	scene_08
+旅はきらいか？	You hate traveling?	旅	scene_08
+……どうかな。でも、もう帰るところないもの。旅が好きとかキライとか関係ないわ	…I don't know. But, I don't have anywhere else to go. So I guess it doesn't really matter whether I like to travel or not.	帰旅好関係	scene_08
+……う～ん。でもほら、CLOUDが約束守ってくれればだいじょうぶよね、きっと	…Hmm. But you know, it should be all right if you keep your promise.	約束守	scene_08
+私は故郷に帰るつもりだ。それまではいっしょに行ってやる	I'm going back to my hometown. I'll go with you as far as that.	私故郷帰行	scene_08
+もう少しここにいよう	Let's stay here for a while	少	scene_08
+行こうか！	Let's go!	行	scene_08
+ここから北東に行くとカームって町があるんだ	To the Northeast, there's a town called Kalm.	北東行町	scene_08
+宿屋のメシがうまくてなあ。とりあえずそこに行かねえか？	The food at the Inn's good. Why don't we head there first?	宿屋行	scene_08
+そうね。聞きたいこと、いろいろあるしね。CLOUD？	You're right. I've heard about that town before. CLOUD?	聞	scene_08
+セフィロスのこと、そして星の危機……	About Sephiroth, and about the crisis of the Planet…	星危機	scene_08
+そうだな。セフィロスの行方の情報も必要だからな	You're right. We need to know where Sephiroth went.	行方情報必要	scene_08
+ここから先団体行動にはリーダーが必要だ。リーダーといえばオレしかいねえ	We need a leader for our journey. Course that could only be me.	先団体行動必要	scene_08
+そうかしら……	You think so?		scene_08
+どう考えてもCLOUD、よね	I think it should be CLOUD.	考	scene_08
+チッ…………わかったよ。ここから【北東にカームって町】があるんだ。何かあったらそこを集合場所にしよう	^#$^%…alright. Go Northeast to a town called Kalm. If something happens, we'll meet up there.	北東町何集合場所	scene_08
+それにしたって野っ原を５人でゾロゾロ歩くなんて危なくてしょうがねえ。おまえ、パーティーを２組に分けてみろ	'Sides, we can't have five people strolling around out there. It's too dangerous. Let's split into two parties…	野原人歩危組分	scene_08
+【キャンセルボタン】でパーティチェンジ	Change with [CANCEL],		scene_08
+……予想外の	…That's an unexpected	予想外	scene_08
+……組み合わせ	…combination.	組合	scene_08
+まあ、男同士、楽しくやりなさい	Well, have fun…boys.	男同士楽	scene_08
+それじゃあ、カームで！	We'll see you at Kalm!		scene_08
+……やると思ったぜ	…Thought you'd do that.	思	scene_08
+じゃあ、カームでな！	Later, at Kalm!		scene_08
+おっかしいな？このゲートのカギ……どこかに落としたかな？この前のハックツ・ツアーの最中かな？	That's funny…I dropped the key to this gate…somewhere. Must've been on that excavation tour.	落前最中	scene_08
