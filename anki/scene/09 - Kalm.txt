@@ -87,11 +87,11 @@ CLOUDさまですね。お連れさまが２階でお待ちです	Mr…CLOUD? Yo
 なんで、誰も信じてくれないんだ～！……こどくなボク	Why doesn't anyone believe me? I'm so lonely…	誰信	scene_09
 あっ、聞いてくれよ！たった今、黒マントの男が東の草原に向かって歩いていったんだ	Listen to me! Just now, some guy in a black cloak walked east towards that grassy field.	聞今黒男東草原向歩	scene_09
 ぶっそうな刀なんか持ち歩いてさ。なんか、おっかないヤツだったよ……	He's got this killer sword, and looks REAL scary…	刀持歩	scene_09
-あっ、聞いてくれよ！	Aw, c'mon! Listen to me! Got anything interesting to say?	聞	scene_09
-何か、おもしろいことでもないかなぁ……？	Locked. Can't open it…	何	scene_09
-カギがかかっていて、開かない……	I gotta hurry up and get strong so I can crush Meteor to bits! But I gotta train real hard to do it.	開	scene_09
-ぼく、はやく強くなってメテオをぶっこわしてやるんだ！そのために、いまからモウクンレンするんだ！！	Oh man, oh man!	強	scene_09
-見たことも聞いたこともないようなでっかいモンスターはうろつきまわるしメテオは落っこってくるし……	Meteor's gonna fall on us, and now some huge monster like I've never seen is wandering around out there!	見聞落	scene_09
+あっ、聞いてくれよ！	Aw, c'mon! Listen to me!	聞	scene_09
+何か、おもしろいことでもないかなぁ……？	Got anything interesting to say?	何	scene_09
+カギがかかっていて、開かない……	Locked. Can't open it…	開	scene_09
+ぼく、はやく強くなってメテオをぶっこわしてやるんだ！そのために、いまからモウクンレンするんだ！！	I gotta hurry up and get strong so I can crush Meteor to bits! But I gotta train real hard to do it.	強	scene_09
+見たことも聞いたこともないようなでっかいモンスターはうろつきまわるしメテオは落っこってくるし……	Oh man, oh man! Meteor's gonna fall on us, and now some huge monster like I've never seen is wandering around out there!	見聞落	scene_09
 あ～、ボクたちはどーなってしまうんだ～～～～～！！	What's going to happen to all of us?		scene_09
 メテオが落ちてくるだって！？やめてほしいぜ、そーゆーことはよ	I want you to stop that talk about Meteor falling on us!	落	scene_09
 今までいっしょうけんめい働いてきたのによぉ メテオでみんな、パーになっちまうってか！？ 	Listen, I work hard…and now you're tellin' me Meteor's gonna smash everything to bits?	今働	scene_09
@@ -131,8 +131,7 @@ CLOUDさまですね。お連れさまが２階でお待ちです	Mr…CLOUD? Yo
 いろいろ試してみて自分にあった視点をさがしてやれば旅は、もっと楽しくなると思うよ	Try different angles until you find the one you like best. It makes the journey a lot more fun!	試自分視点旅楽思	scene_09
 この世界の地図は【スタートボタン】を押してやると、見ることができる	Press [START] once to view the World Map.	世界地図押見	scene_09
 地図には、大きいものと小さいものがあるから場合によって使い分けてやれば道に迷うことも少なくなると思うよ	There is a large and small map. Learn when to use which and you won't get lost.	地図大小場合使分道迷少思	scene_09
-【スタートボタン】を何回か押してやれば地図を切り替えたり、消すことができるんだ。便利だろ？	Push [START] twice to change the size of the map, and once more to turn it off.	何回押地図切替消便利	scene_09
-[COULDN'T FIND]	Pretty easy, huh?		scene_09
+【スタートボタン】を何回か押してやれば地図を切り替えたり、消すことができるんだ。便利だろ？	Push [START] twice to change the size of the map, and once more to turn it off. Pretty easy, huh?	何回押地図切替消便利	scene_09
 【決定ボタン】を押せば、乗り物に乗り【キャンセルボタン】を押せば乗りものから下りる。このへんは、そんなに難しくないね	Ride things by pressing [ASSIST] and get off by pressing [CANCEL]. This isn't so hard, either!	決定押乗物下難	scene_09
 あ、そうそう。ワールドマップではダッシュができないから【キャンセルボタン】は、乗り物から下りるときにしか押さない方がいいね	Oh, right. You can't dash on the World Map, so make sure not to press [CANCEL] unless you want to get off.	乗物下押方	scene_09
 特にチョコボは下りると逃げちゃうからね。気をつけた方がいいよ	Remember this because Chocobos will run away as soon as you get off them, so be careful.	特下逃気方	scene_09
