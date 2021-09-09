@@ -12,9 +12,9 @@
 CLOUDか、おれは……	CLOUD, eh? I'm…		CLOUDか、おれは……		scene_01
 あんたたちの名前なんて興味ないね。どうせこの仕事が終わったらお別れだ	I don't care what your names are. Once this job's over…I'm outta here.	名前興味仕事終別	あんたたちの 名前[なまえ]なんて 興味[きょうみ]ないね。どうせこの 仕事[しごと]が 終[お]わったらお 別[わか]れだ	"""I'm not interested in your names. As soon as this job's over, we're done."""	scene_01
 なにやってんだオマエたち！かたまって行動するなって言ってんだろ！	The hell you all doin'!? I thought I told you never to move in a group!	行動言	なにやってんだオマエたち！かたまって 行動[こうどう]するなって 言[い]ってんだろ！	"""What are you guys doing!? I thought I told you not to move together!"""	scene_01
-ターゲットは壱番魔晄炉（まこうろ）。魔晄炉前のブリッジに集合だぞ	Our target's the North Mako Reactor. We'll meet on the bridge in front of it.	壱番魔晄炉魔晄炉前集合	ターゲットは 壱[いち] 番[ばん] 魔[ま] 晄[こう] 炉[ろ]（まこうろ）。 魔[ま] 晄[こう] 炉[ろ] 前[まえ]のブリッジに 集合[しゅうごう]だぞ		scene_01
+ターゲットは壱番魔晄炉（まこうろ）。魔晄炉前のブリッジに集合だぞ	Our target's the North Mako Reactor. We'll meet on the bridge in front of it.	壱番魔晄炉前集合	ターゲットは 壱[いち] 番[ばん] 魔[ま] 晄[こう] 炉[ろ]（まこうろ）。 魔[ま] 晄[こう] 炉[ろ] 前[まえ]のブリッジに 集合[しゅうごう]だぞ		scene_01
 元ソルジャー……。チッ、信用できねえな	Ex-SOLDIER, huh? I don't trust ya!	元信用	元[もと]ソルジャー……。チッ、 信用[しんよう]できねえな	"""EX-SOLDIER... Tsk. Can't trust ya."""	scene_01
-【キャンセル】ボタン（初期状態では×）を押しながら方向ボタンを押せば速く走ることができる。遅れずについてこい！	Press the Directional buttons while pushing [CANCEL] to run.	初期状態押方向押速走遅	【キャンセル】ボタン（ 初期状態[しょきじょうたい]では ×[かける]）を 押[お]しながら 方向[ほうこう]ボタンを 押[お]せば 速[はや]く 走[はし]ることができる。 遅[おく]れずについてこい！	"""If you press the directional buttons while holding [CANCEL], you can run fast. Don't fall behind!"""	scene_01
+【キャンセル】ボタン（初期状態では×）を押しながら方向ボタンを押せば速く走ることができる。遅れずについてこい！	Press the Directional buttons while pushing [CANCEL] to run.	初期状態押方向速走遅	【キャンセル】ボタン（ 初期状態[しょきじょうたい]では ×[かける]）を 押[お]しながら 方向[ほうこう]ボタンを 押[お]せば 速[はや]く 走[はし]ることができる。 遅[おく]れずについてこい！	"""If you press the directional buttons while holding [CANCEL], you can run fast. Don't fall behind!"""	scene_01
 ウェッジ	Wedge		ウェッジ		scene_01
 俺は脱出口を確保しておくっす！	I'll secure our escape passage. You concentrate on the mission, CLOUD.	俺脱出口確保	俺[おれ]は 脱出口[だっしゅつこう]を 確保[かくほ]しておくっす！	"""I'll secure our escape route!"""	scene_01
 しっかし、この大きな魔晄炉（まこうろ）を爆破するなんて……みものっすね！	Geez, we're really gonna blow this huge furnace up? This'll be somethin' to see!	大魔晄炉爆破	しっかし、この 大[おお]きな 魔[ま] 晄[こう] 炉[ろ]（まこうろ）を 爆破[ばくは]するなんて……みものっすね！		scene_01
@@ -26,13 +26,13 @@ CLOUDか、おれは……	CLOUD, eh? I'm…		CLOUDか、おれは……		scene_
 BARRETをよろしくな！	Bring BARRET back alive!		BARRETをよろしくな！		scene_01
 ……おい。おまえ魔晄炉（まこうろ）は初めてじゃないんだろ？	Yo! This your first time in a reactor?	魔晄炉初	……おい。おまえ 魔[ま] 晄[こう] 炉[ろ]（まこうろ）は 初[はじ]めてじゃないんだろ？	"""Yo. It's not your first time in a Mako reactor, is it?"""	scene_01
 まあな。ソルジャー……神羅（しんら）カンパニーの人間だったからな	No. After all, I did work for Shinra, y'know.	神羅人間	まあな。ソルジャー…… 神[しん] 羅[ら]（しんら）カンパニーの 人間[にんげん]だったからな	"""Well. SOLDIER... they're part of SHINRA, you know."""	scene_01
-この星は魔晄（まこう）エネルギーに満ちている。住民はその魔晄エネルギーを使って日々生活している	The Planet's full of Mako energy. People here use it everyday.	星魔晄満住民魔晄使日生活	この 星[ほし]は 魔[ま] 晄[こう]（まこう）エネルギーに 満[み]ちている。 住民[じゅうみん]はその 魔[ま] 晄[こう]エネルギーを 使[つか]って 日々[ひび] 生活[せいかつ]している		scene_01
-でも誰も魔晄の本質を知らねえんだ。おまえ、知ってるか？	[EMPTY LINE]	誰魔晄本質知知	でも 誰[だれ]も 魔[ま] 晄[こう]の 本質[ほんしつ]を 知[し]らねえんだ。おまえ、 知[し]ってるか？	"""However, nobody knows the truth about Mako. Do you know?"""	scene_01
+この星は魔晄（まこう）エネルギーに満ちている。住民はその魔晄エネルギーを使って日々生活している	The Planet's full of Mako energy. People here use it everyday.	星魔晄満住民使日生活	この 星[ほし]は 魔[ま] 晄[こう]（まこう）エネルギーに 満[み]ちている。 住民[じゅうみん]はその 魔[ま] 晄[こう]エネルギーを 使[つか]って 日々[ひび] 生活[せいかつ]している		scene_01
+でも誰も魔晄の本質を知らねえんだ。おまえ、知ってるか？	[EMPTY LINE]	誰魔晄本質知	でも 誰[だれ]も 魔[ま] 晄[こう]の 本質[ほんしつ]を 知[し]らねえんだ。おまえ、 知[し]ってるか？	"""However, nobody knows the truth about Mako. Do you know?"""	scene_01
 魔晄はこの星を流れる血だ。それを神羅（しんら）って会社はガンガン吸い出していやがる。このへんちくりんなスクラップでな……	It's the life blood of this Planet. But Shinra keeps suckin' the blood out with these weird machines.	魔晄星流血神羅会社吸出	魔[ま] 晄[こう]はこの 星[ほし]を 流[なが]れる 血[ち]だ。それを 神[しん] 羅[ら]（しんら）って 会社[かいしゃ]はガンガン 吸い出[すいだ]していやがる。このへんちくりんなスクラップでな……		scene_01
 能書きはいい。先を急ごう	I'm not here for a lecture. Let's just do it.	能書先急	能書[のうが]きはいい。 先[さき]を 急[いそ]ごう	"""Nice speech. Let's get this over with."""	scene_01
 クッ……	@#&^%$!		クッ……		scene_01
 よし、ここからはオレといっしょに行動してもらうぜ	From now on you come with me.	行動	よし、ここからはオレといっしょに 行動[こうどう]してもらうぜ	"""Alright. From now on, you come with me."""	scene_01
-魔晄炉（まこうろ）のせいで、この星の命は毎日けずられていく。そしていつの日か……ゼロだ	Little by little the reactors'll drain out all the life. Then that'll be that.	魔晄炉星命毎日日	魔[ま] 晄[こう] 炉[ろ]（まこうろ）のせいで、この 星[ほし]の 命[いのち]は 毎日[まいにち]けずられていく。そしていつの 日[ひ]か……ゼロだ	"""Because of this reactor, the planet's life is fading every day. And then one day... it'll be gone."""	scene_01
+魔晄炉（まこうろ）のせいで、この星の命は毎日けずられていく。そしていつの日か……ゼロだ	Little by little the reactors'll drain out all the life. Then that'll be that.	魔晄炉星命毎日	魔[ま] 晄[こう] 炉[ろ]（まこうろ）のせいで、この 星[ほし]の 命[いのち]は 毎日[まいにち]けずられていく。そしていつの 日[ひ]か……ゼロだ	"""Because of this reactor, the planet's life is fading every day. And then one day... it'll be gone."""	scene_01
 星が死んじまうんだぞ。えっ、CLOUDさんよ！	The planet's dyin', CLOUD!	星死	星[ほし]が 死[し]んじまうんだぞ。えっ、 CLOUDさんよ！	"""The planet will die. Well, Cloud!?"""	scene_01
 悪いけど興味がないな	It's not my problem.	悪興味	悪[わる]いけど 興味[きょうみ]がないな	"""Sorry but, I'm not interested."""	scene_01
 俺が考えてるのは、さっさと仕事を終わらせたいってことだけだ。警備兵やガードロボットが来ないうちにな	The only thing I care about is finishin' this job before security and the Roboguards come.	俺考仕事終警備兵来	俺[おれ]が 考[かんが]えてるのは、さっさと 仕事[しごと]を 終[お]わらせたいってことだけだ。 警備兵[けいびへい]やガードロボットが 来[こ]ないうちにな	"""The only thing I'm thinking is that I want to finish this job quickly. Before security and the guard robots come."""	scene_01
@@ -2590,3 +2590,1736 @@ BARRETっていうの……	Yes, his name's BARRET…		BARRETっていうの…�
 ドンはむりやりどこかへつれていかれて、それっきり……オレもこんなザマさ	They took Don somewhere and that's it… I'm still here.		ドンはむりやりどこかへつれていかれて、それっきり……オレもこんなザマさ		scene_05
 おっといけねえ！またあいつらがきたら……オレはいくぜ、アバヨ！	Oops! They're here again… I'm outta here! SEE ya		おっといけねえ！またあいつらがきたら……オレはいくぜ、アバヨ！		scene_05
 【かめ道楽　通信】ナンバー２ゴールドソーサーにただひとつ、たりないもの……それはおいしいお酒とムードのある居酒屋！ぜひいちど居酒屋『かめ道楽』へ！！	"Turtle's Paradise No. 2 One thing even the Gold Saucer doesn't have is… A good place for drinks with a great atmosphere! Come on by and see us at ""Turtle's Paradise"""	道楽通信酒居屋	【かめ 道楽[どうらく]　 通信[つうしん]】 ナンバー２[なんばーつー]ゴールドソーサーにただひとつ、たりないもの……それはおいしいお 酒[さけ]とムードのある 居酒屋[いざかや]！ぜひいちど 居酒屋[いざかや]『かめ 道楽[どうらく]』へ！！		scene_05
+準備のほうは？	How are the preparations going?	準備	準備[じゅんび]のほうは？		scene_06
+ハイデッカー	Heidegger		ハイデッカー		scene_06
+ガハハ！！　順調順調！実行部隊はタークスです	Gya, haa, haa!!  Smoothly, very smoothly! I assigned the Turks to this.	順調実行部隊	ガハハ！！　 順調[じゅんちょう] 順調[じゅんちょう]！ 実行[じっこう] 部隊[ぶたい]はタークスです		scene_06
+リーブ	Reeve		リーブ		scene_06
+プレジデント！本当にやるのですか？たかだか数人の組織をつぶすのに……	President!! Are we really going to do this? Simply destroy a group with only a few members…	本当数人組織	プレジデント！ 本当[ほんとう]にやるのですか？たかだか 数[すう] 人[にん]の 組織[そしき]をつぶすのに……		scene_06
+いまさらナニかね、リーブ君	What's the problem, Reeve? You want out?	君	いまさらナニかね、リーブ 君[くん]		scene_06
+……いいえ	…No.		……いいえ		scene_06
+しかし、私は都市開発責任者としてミッドガルの建造、運営のすべてにかかわってきました。ですから……	But, as head of the Urban Development Department, I have been involved in the building and running of Midgar. That's why…	私都市開発責任者建造運営	しかし、 私[わたし]は 都市[とし] 開発[かいはつ] 責任者[せきにんしゃ]としてミッドガルの 建造[けんぞう]、 運営[うんえい]のすべてにかかわってきました。ですから……		scene_06
+リーブ、そういう個人的な間題は朝のうちにトイレで流しちまうんだな！	Reeve, flush your personal problems with the rest of your crap!	個人的間題朝流	リーブ、そういう 個人的[こじんてき]な 間[ま] 題[だい]は 朝[あさ]のうちにトイレで 流[なが]しちまうんだな！		scene_06
+市長も反対しているわけであり……	The Mayor's against this anyway…	市長反対	市長[しちょう]も 反対[はんたい]しているわけであり……		scene_06
+市長！？	Mayor?	市長	市長[しちょう]！？		scene_06
+このビルの中でボソボソとメシをくってるあいつか！？あいつを、まだ市長と呼ぶのか？	He just sits in this building all day feeding his face! You still call that a Mayor?	中市長呼	このビルの 中[なか]でボソボソとメシをくってるあいつか！？あいつを、まだ 市長[しちょう]と 呼[よ]ぶのか？		scene_06
+それでは失礼します！	Now if you'll excuse me sir!	失礼	それでは 失礼[しつれい]します！		scene_06
+君はつかれているんだよ。休暇をとって旅行でも行ってなさい	You're tired. Why don't you take a couple of days off and go somewhere.	君休暇旅行	君[きみ]はつかれているんだよ。 休暇[きゅうか]をとって 旅行[りょこう]でも 行[い]ってなさい		scene_06
+７番街を破壊する。アバランチの仕業として報道する。神羅カンパニーによる救助活動。フフフ……かんぺきだ	We'll destroy Sector 7 and report that AVALANCHE did it. Then we'll send in the rescue operation, care of Shinra, Inc…. Heh, heh, heh…this is perfect.	番街破壊仕業報道神羅救助活動	７ 番[ばん] 街[がい]を 破壊[はかい]する。アバランチの 仕業[しわざ]として 報道[ほうどう]する。 神[しん] 羅[ら]カンパニーによる 救助[きゅうじょ] 活動[かつどう]。フフフ……かんぺきだ		scene_06
+ガハハハ！	Gya, haaa, haa!		ガハハハ！		scene_06
+地下下水道	Sewer	地下水道	地下[ちか] 下水道[げすいどう]		scene_06
+もう！サイテーね、これ	Man! This is terrible.		もう！サイテーね、これ		scene_06
+うん	Yeah.		うん		scene_06
+ま、最悪の事態からはのがれられた……	Well, the worst is over…	最悪事態	ま、 最悪の事態[さいあくのじたい]からはのがれられた……		scene_06
+……でもないみたい	Maybe not…		……でもないみたい		scene_06
+飛び降りてみよう	Let's try and jump down	飛降	飛び降[とびお]りてみよう		scene_06
+やめるか……	Let's not…		やめるか……		scene_06
+もうダメだわ……マリン……BARRET……スラムの人たち	It's too late… Marlene…BARRET …the people of the Slums.	人	もうダメだわ……マリン…… BARRET……スラムの 人[ひと]たち		scene_06
+あきらめない、あきらめない。柱、壊すなんてそんなに簡単じゃない、でしょ？	Don't give up, never give up hope. It's not easy to destroy the pillar, right?	柱壊簡単	あきらめない、あきらめない。 柱[はしら]、 壊[こわ]すなんてそんなに 簡単[かんたん]じゃない、でしょ？		scene_06
+…………そうね……そうよね！まだ時間はあるわよね	…Yeah…you're right! We still have time.	時間	…………そうね……そうよね！まだ 時間[じかん]はあるわよね		scene_06
+列車基場	Train Graveyard	列車基場	列車[れっしゃ] 基[もと] 場[じょう]		scene_06
+AERIS。すっかり巻きこんでしまって……	AERIS, I got you mixed up in this…	巻	AERIS。すっかり 巻[ま]きこんでしまって……		scene_06
+ここから帰れ！な～んて言わないでね	Don't tell me to go home.	帰言	ここから 帰[かえ]れ！な~んて 言[い]わないでね		scene_06
+え～と……明かりのついている車両を抜けて行けば出られそうね	If we can just get past the trains that are lit up, we should be able to get out of here.	明車両抜行出	え~と…… 明[あ]かりのついている 車両[しゃりょう]を 抜[ぬ]けて 行[い]けば 出[で]られそうね		scene_06
+『ハイポーション』を手にいれた！	"Received ""Hi-Potion""!"	手	『ハイポーション』を 手[て]にいれた！		scene_06
+『ポーション』を手にいれた！	"Received ""Potion""!"	手	『ポーション』を 手[て]にいれた！		scene_06
+『やまびこえんまく』を手にいれた！	"Received ""Echo Screen""!"	手	『やまびこえんまく』を 手[て]にいれた！		scene_06
+まにあった！柱が立ってる！	We made it! The pillar's standing!	柱立	まにあった！ 柱[はしら]が 立[た]ってる！		scene_06
+まて！上から……聞こえないか？	Wait! You hear something above us?	上聞	まて！ 上[うえ]から…… 聞[き]こえないか？		scene_06
+……銃声？	…gun fire?	銃声	…… 銃声[じゅうせい]？		scene_06
+BARRETか！？	BARRET?		BARRETか！？		scene_06
+のぼるぞ！	I'm going up!		のぼるぞ！		scene_06
+AERIS！ウェッジをたのむ	AERIS! You look after Wedge.		AERIS！ウェッジをたのむ		scene_06
+AERIS、おねがい	AERIS, do me a favor.		AERIS、おねがい		scene_06
+この近くに私たちの店『セブンスヘブン』があるの	I have a bar called '7th Heaven' in this neighborhood.	近私店	この 近[ちか]くに 私[わたし]たちの 店[みせ]『セブンスヘブン』があるの		scene_06
+そこにマリンっていう名前の小さな女の子がいるから……	There's a little girl named Marlene there.	名前小女子	そこにマリンっていう 名前[なまえ]の 小[ちい]さな 女の子[おんなのこ]がいるから……		scene_06
+わかった。安全な場所へ、ね	Don't worry. I'll put her somewhere safe.	安全場所	わかった。 安全[あんぜん]な 場所[ばしょ]へ、ね		scene_06
+ここは危険です！みんな早く柱からはなれて！	It's dangerous here! Everyone get away from the pillar, quickly!	危険早柱	ここは 危険[きけん]です！みんな 早[はや]く 柱[はしら]からはなれて！		scene_06
+７番街から離れて！	Everyone get out of Sector 7!	番街離	７ 番[ばん] 街[がい]から 離[はな]れて！		scene_06
+だいじょうぶか？……ウェッジ！！	Wedge!! You all right!?		だいじょうぶか？……ウェッジ！！		scene_06
+……CLOUDさん…。俺の名前…覚えてくれたっすね	…CLOUD. You remembered…my name.	俺名前覚	…… CLOUDさん…。 俺[おれ]の 名前[なまえ]… 覚[おぼ]えてくれたっすね		scene_06
+BARRETさんが…上で戦ってるっす。手をかしてやって……	BARRET's up top. …Help him…	上戦手	BARRETさんが… 上[うえ]で 戦[たたか]ってるっす。 手[て]をかしてやって……		scene_06
+CLOUDさん……めいわくかけて、すいません…っす	An' CLOUD… Sorry, I wasn't any help.		CLOUDさん……めいわくかけて、すいません…っす		scene_06
+CLOUDさん……い、痛いです……	CLOUD… It hurts…	痛	CLOUDさん……い、 痛[いた]いです……		scene_06
+CLOUD！！早くしなきゃ、BARRETが…	CLOUD!! You've gotta go now, or BARRET's…	早	CLOUD！！ 早[はや]くしなきゃ、 BARRETが…		scene_06
+おっ！！おっおっと！！	Hey now!! Oops!!		おっ！！おっおっと！！		scene_06
+ああ、なんてことを！！じゃましないでくれよ……ったく！	What on earth are you doing? Just butt out…geez!		ああ、なんてことを！！じゃましないでくれよ……ったく！		scene_06
+ん？あんたも見にきたのか？	Huh? You came to see it, too?	見	ん？あんたも 見[み]にきたのか？		scene_06
+上で爆弾テロがあったんだってよ。この柱がぶっとんだら、このスラムも終わりだからな……	There was a bombing on top. If this pillar should come down, everyone in the slums is dust…	上爆弾柱終	上[うえ]で 爆弾[ばくだん]テロがあったんだってよ。この 柱[はしら]がぶっとんだら、このスラムも 終[お]わりだからな……		scene_06
+まあ、心配するだけむだだったな	Well, there's no point in worryin' about that.	心配	まあ、 心配[しんぱい]するだけむだだったな		scene_06
+なぁ！！見てみろよ。いつ見ても、どでかい柱だなぁ	Hey!! Check it out! It's huge, ain't it?	見柱	なぁ！！ 見[み]てみろよ。いつ 見[み]ても、どでかい 柱[はしら]だなぁ		scene_06
+ほら……。なんだか、素敵で不思議な場所だろ	Hey… This is a strange and wonderful place.	素敵不思議場所	ほら……。なんだか、 素敵[すてき]で 不思議[ふしぎ]な 場所[ばしょ]だろ		scene_06
+オレの場所だが、たまには見にきてもいいぞ。じゃな！！　きょうだい！	This is my place, but you can come here when you want. See ya, bro!	場所見	オレの 場所[ばしょ]だが、たまには 見[み]にきてもいいぞ。じゃな！！　きょうだい！		scene_06
+あ、あ、あの……すいません。ここから先は、立入禁止なんですが	Ah…eh…uhm. Excuse me. You cannot pass without the proper clearance.	先立入禁止	あ、あ、あの……すいません。ここから 先[さき]は、 立入禁止[たちいりきんし]なんですが		scene_06
+こ、こんな感じでいいでしょうか？先輩	Did I do good this time?	感先輩	こ、こんな 感[かん]じでいいでしょうか？ 先輩[せんぱい]		scene_06
+もっと、どうどうとせんか！	You gotta be tougher!		もっと、どうどうとせんか！		scene_06
+え、で、でも……	But, uh, I…		え、で、でも……		scene_06
+さ、さすが、先輩！！	W, wow! You're great!!	先輩	さ、さすが、 先輩[せんぱい]！！		scene_06
+おう！！むだぐちたたくんじゃねえ！	Damn right!! Don't waste time talkin's what I always say!		おう！！むだぐちたたくんじゃねえ！		scene_06
+きさま、何の用だ？この俺が何者か、知らんわけないだろう？	What the hell do you want? You know who I am?	何用俺者知	きさま、 何[なに]の 用[よう]だ？この 俺[おれ]が 何者[なにもの]か、 知[し]らんわけないだろう？		scene_06
+ここから先は立ち入り禁止だ。俺はここでおまえみたいな浮浪者をおっぱらうケチな仕事をしてるもんだ	You can't pass. I got the miserable job of keepin' scum like you from trying to sneak in here.	先立入禁止俺浮浪者仕事	ここから 先[さき]は 立ち入り禁止[たちいりきんし]だ。 俺[おれ]はここでおまえみたいな 浮浪者[ふろうしゃ]をおっぱらうケチな 仕事[しごと]をしてるもんだ		scene_06
+わかったら、さっさとうせろ！！	If you understand, then scram!		わかったら、さっさとうせろ！！		scene_06
+あ、あの……となりの先輩、こわいからさからわない方がいいと思いますよ	Listen… My partner's pretty mean, I wouldn't get him mad, if I were you.	先輩方思	あ、あの……となりの 先輩[せんぱい]、こわいからさからわない 方[ほう]がいいと 思[おも]いますよ		scene_06
+先輩！！ＬＯＶＥＬＥＳＳのチケット取れたんですけどいっしょにいきません？	You know, I got some tickets to Loveless', do you want to go?	先輩取	先輩[せんぱい]！！ＬＯＶＥＬＥＳＳのチケット 取[と]れたんですけどいっしょにいきません？		scene_06
+やめとけ！ミッドガルは非常警戒体制に入ってる	What're you, retarded? Midgar's under martial law now!	非常警戒体制入	やめとけ！ミッドガルは 非常警戒[ひじょうけいかい] 体制[たいせい]に 入[はい]ってる		scene_06
+あっ、先輩！僕のこと、心配してくれてるんですか！	Sir, are you really concerned for me?	先輩僕心配	あっ、 先輩[せんぱい]！ 僕[ぼく]のこと、 心配[しんぱい]してくれてるんですか！		scene_06
+そんなんじゃねえ！！テロリストはスラムにひそんでる。俺たちだって、気をぬけねぇ	Hell no!! But in case you forgot, we're in the middle of a slum. They could be anywhere around, so stay on your guard.	俺気	そんなんじゃねえ！！テロリストはスラムにひそんでる。 俺[おれ]たちだって、 気[き]をぬけねぇ		scene_06
+ああ、アバランチですか？	Right. You mean the AVALANCHE?		ああ、アバランチですか？		scene_06
+大丈夫ですよ。なんてったってソルジャーが警備に導入されたんですから	Don't you worry. SOLDIER has been added to the police force.	大丈夫警備導入	大丈夫[だいじょうぶ]ですよ。なんてったってソルジャーが 警備[けいび]に 導入[どうにゅう]されたんですから		scene_06
+ソルジャーの出動かぁ、久しぶりですよね。ねえ、先輩	Boy, it's been a while since SOLDIER's been mobilized, hasn't it?	出動久先輩	ソルジャーの 出動[しゅつどう]かぁ、 久[ひさ]しぶりですよね。ねえ、 先輩[せんぱい]		scene_06
+僕、ソルジャーの試験落っこちちゃったんですよ。この話、しましたっけ？	I ever tell you that I flunked the SOLDIER entrance exam?	僕試験落話	僕[ぼく]、ソルジャーの 試験[しけん] 落[お]っこちちゃったんですよ。この 話[はなし]、しましたっけ？		scene_06
+おう！！ペラペラペラペラ……	Damn right!! blahblahblah…		おう！！ペラペラペラペラ……		scene_06
+すこしはだまって、仕事できねえのか！	Hey shut up for a minute and let me get back to work!	仕事	すこしはだまって、 仕事[しごと]できねえのか！		scene_06
+……しゅん	…sigh.		……しゅん		scene_06
+アバランチと先輩……どっちがこわいんだろ？	What are you more scared of AVALANCHE or me?	先輩	アバランチと 先輩[せんぱい]……どっちがこわいんだろ？		scene_06
+きっと、先輩だな	Oh, you, of course.	先輩	きっと、 先輩[せんぱい]だな		scene_06
+おう！！ここから先は立入禁止だ！！	HALT!! No one is allowed to pass!!	先立入禁止	おう！！ここから 先[さき]は 立入禁止[たちいりきんし]だ！！		scene_06
+だいじょうぶ。ここはまかせて	Don't worry. You let me handle this.		だいじょうぶ。ここはまかせて		scene_06
+オロオロ…柱壊れちゃうんですか	Uh oh… There goes the pillar.	柱壊	オロオロ… 柱[はしら] 壊[こわ]れちゃうんですか		scene_06
+こわいんですけどあんたたちのためにね	I'm scared, but it's for your own good.		こわいんですけどあんたたちのためにね		scene_06
+ほんとにやばくなったら逃げだしますから。めったに見れるもんじゃないですし	If things get too hairy, we'll escape. It's not something you'll see happen too often.	逃見	ほんとにやばくなったら 逃[に]げだしますから。めったに 見[み]れるもんじゃないですし		scene_06
+ウウッ……守ってくれよ。俺の素敵で不思議な場所	Uhh…Help! My strange and wonderful little place.	守俺素敵不思議場所	ウウッ…… 守[まも]ってくれよ。 俺[おれ]の 素敵[すてき]で 不思議[ふしぎ]な 場所[ばしょ]		scene_06
+あ、あの……これが、僕の仕事だから…ギリギリまでここにいないとならないんだ	L, look… This is my job, so I have to be here until the absolute last minute.	僕仕事	あ、あの……これが、 僕[ぼく]の 仕事[しごと]だから…ギリギリまでここにいないとならないんだ		scene_06
+うん…責任感の強いあなた、好きよ。私、そばについてるわ	Umm… I just LOVE men with a sense of duty. Let me stay here with you.	責任感強好私	うん… 責任感[せきにんかん]の 強[つよ]いあなた、 好[す]きよ。 私[わたし]、そばについてるわ		scene_06
+あ、あの……アバランチの人たちだいじょうぶかな？	B, but… What happens if AVALANCHE shows up?	人	あ、あの……アバランチの 人[ひと]たちだいじょうぶかな？		scene_06
+うん…あなた、ふるえてるのね？やさしい人…好きよ	Umm…you're shaking. You're so gentle…I think I'm in love.	人好	うん…あなた、ふるえてるのね？やさしい 人[ひと]… 好[す]きよ		scene_06
+おう！　これが俺の最後の仕事だ！登ってけ！！	Doh! And this was supposed to be my last job! Do something!!	俺最後仕事登	おう！　これが 俺[おれ]の 最後[さいご]の 仕事[しごと]だ！ 登[のぼ]ってけ！！		scene_06
+こんなことになるなんてな！いい気分じゃねえ！明日、じひょうだ！	I never thought this would ever happen to me! Great… I'm quitting tomorrow!	気分明日	こんなことになるなんてな！いい 気[き] 分[ぶん]じゃねえ！ 明日[あした]、じひょうだ！		scene_06
+あ……CLOUD……最後に……話せて良かった……	…CLOUD… I'm glad……I could talk with you…one last time.	最後話良	あ…… CLOUD…… 最後[さいご]に…… 話[はな]せて 良[よ]かった……		scene_06
+最後だなんて……	Don't say 'last'……	最後	最後[さいご]だなんて……		scene_06
+もう、いい……いいの……	That's…all right…		もう、いい……いいの……		scene_06
+私たち……私たちの作戦でたくさん……人、死んじゃったし……きっと……そのむくい……ね	Because…of our actions…many……people died…… this probably……is our punishment…	私作戦人死	私[わたし]たち…… 私[わたし]たちの 作戦[さくせん]でたくさん…… 人[ひと]、 死[し]んじゃったし……きっと……そのむくい……ね		scene_06
+……そうか……ですって……？	…Is…that so……?		……そうか……ですって……？		scene_06
+フフ…………相変わらず……クールな……元ソルジャーさん。……そこが……いいんだけどね……	Ha……cool……as usual… ex-…SOLDIER. …always…I liked that…in you…	相変元	フフ………… 相変[あいか]わらず……クールな…… 元[もと]ソルジャーさん。……そこが……いいんだけどね……		scene_06
+CLOUD ……やっぱり……星の命なんて……どうなろうと……興味ないか？	CLOUD… so you don't care…what happens… to the…Planet?	星命興味	CLOUD……やっぱり…… 星[ほし]の 命[いのち]なんて……どうなろうと…… 興味[きょうみ]ないか？		scene_06
+悪いけど興味ない	Nope, not interested	悪興味	悪[わる]いけど 興味[きょうみ]ない		scene_06
+それよりケガが……	You're wounded……		それよりケガが……		scene_06
+へっ……変わんええな。まあ……いいや。	Hmph…you haven't changed. Oh, forget it.	変	へっ…… 変[か]わんええな。まあ……いいや。		scene_06
+ありがとよ、CLOUDでも……おれわいいから……BARRETが……上で戦っている。手をかしてやってくれ……	Thanks, CLOUD. …don't worry 'bout me…… BARRET's…fighting up there. Go help him…	上戦手	ありがとよ、 CLOUDでも……おれわいいから…… BARRETが…… 上[うえ]で 戦[たたか]っている。 手[て]をかしてやってくれ……		scene_06
+TIFA！　CLOUD！ 来てくれたか！	TIFA! CLOUD! You came!	来	TIFA！　 CLOUD！ 来[き]てくれたか！		scene_06
+気をつけろ！　やつら ヘリで襲ってきやがる	Be careful! They're attacking from the helicopter.	気襲	気[き]をつけろ！　やつらヘリで 襲[おそ]ってきやがる		scene_06
+本格的にくる敵に 装備を整えておいたほうがいいわ！さっそく来たわ！	Better equip ourselves before they attack in full force!	本格的敵装備整来	本格的[ほんかくてき]にくる 敵[てき]に 装備[そうび]を 整[ととの]えておいたほうがいいわ！さっそく 来[き]たわ！		scene_06
+【メニューボタン】でメニューをひらく	Press the (MENU) button to access the Menu.		【メニューボタン】でメニューをひらく		scene_06
+【決定ボタン】で終了	Press the (OK)button when finished.	決定終了	【 決定[けってい]ボタン】で 終了[しゅうりょう]		scene_06
+【カンセルボタン】Change Partyをはずす	Press the (CANCEL) button for Change Party.		【カンセルボタン】 Change Partyをはずす		scene_06
+さっそく来だわ！	Here they come!	来	さっそく 来[き]だわ！		scene_06
+おそかった、とこのスイッチを押すと……	You're too late. Once I push this button…	押	おそかった、とこのスイッチを 押[お]すと……		scene_06
+はい、おしまい！　作業終了	That's all, folks! Mission accomplished.	作業終了	はい、おしまい！　 作業[さぎょう] 終了[しゅうりょう]		scene_06
+くっ！時間爆弾か！	DAMN! It's a time bomb!	時間爆弾	くっ！ 時間[じかん] 爆弾[ばくだん]か！		scene_06
+解除しなくちゃ！ CLOUD！　BARRET！　おねがい！	We have to disarm it! CLOUD! BARRET! Please!	解除	解除[かいじょ]しなくちゃ！ CLOUD！　 BARRET！　おねがい！		scene_06
+そういうわけにはいかないぞ、と タークスのレノさまの邪魔は 誰にもさせないぞっ……と	I can't have you do that. No one get in the way of Reno and the Turks…	邪魔誰	そういうわけにはいかないぞ、とタークスのレノさまの 邪魔[じゃま]は 誰[だれ]にもさせないぞっ……と		scene_06
+CLOUD！ 止めかたがわからないの。やってみて！	CLOUD! I don't know how to stop this. Try it!	止	CLOUD！ 止[と]めかたがわからないの。やってみて！		scene_06
+……ただの時限爆弾じゃない	…It's not a normal time bomb.	時限爆弾	……ただの 時限爆弾[じげんばくだん]じゃない		scene_06
+ツォン	Tseng		ツォン		scene_06
+そのとおり。それを操作するのは難しい	That's right. You'll have a hard time disarming that one.	操作難	そのとおり。それを 操作[そうさ]するのは 難[むずか]しい		scene_06
+どこかのバカ者が勝手にふれると困るからな	It'll blow the second some stupid jerk touches it.	者勝手困	どこかのバカ 者[しゃ]が 勝手[かって]にふれると 困[こま]るからな		scene_06
+おねがい、とめて！	Please, stop it!		おねがい、とめて！		scene_06
+クックックッ……	Ha ha ha……		クックックッ……		scene_06
+緊急用プレート解除システムの設定と解除は神羅役員会の決定なしではできないのだ	Only a Shinra Executive can set up or disarm the Emergency Plate Release System.	緊急用解除設定神羅役員会決	緊急[きんきゅう] 用[よう]プレート 解除[かいじょ]システムの 設定[せってい]と 解除[かいじょ]は 神[しん] 羅[ら] 役員会[やくいんかい]の 決定[けってい]なしではできないのだ		scene_06
+ゴチャゴチャうるせえ！	Shut yer hole!		ゴチャゴチャうるせえ！		scene_06
+そんなことされると大切なゲストがケガするじゃないか	I wouldn't try that…… You just might make me injure our special guest.	大切	そんなことされると 大切[たいせつ]なゲストがケガするじゃないか		scene_06
+おや、知り合いなのか？	Oh, you know each other?	知合	おや、 知り合[しりあ]いなのか？		scene_06
+最後に会えて良かったな。私に感謝してくれ	How nice you could see each other one last time. You should thank me.	最後会良私感謝	最後[さいご]に 会[あ]えて 良[よ]かったな。 私[わたし]に 感謝[かんしゃ]してくれ		scene_06
+AERISをどうする気だ	What are you gonna do with AERIS!?	気	AERISをどうする 気[き]だ		scene_06
+さあな	I haven't decided.		さあな		scene_06
+われわれタークスにあたえられた命令は『古代種』の生き残りをつかまえろ、ということだけだ	Our orders were to find and catch the last remaining Ancient.	命令古代種生残	われわれタークスにあたえられた 命令[めいれい]は『 古代[こだい] 種[しゅ]』の 生き残[いきのこ]りをつかまえろ、ということだけだ		scene_06
+ずいぶんと長い時間がかかったがやっとプレジデントに報告できる	It's taken us a long time, but now I can finally report this to the President.	長時間報告	ずいぶんと 長[なが]い 時間[じかん]がかかったがやっとプレジデントに 報告[ほうこく]できる		scene_06
+TIFA、だいじょうぶだから！あの子、だいじょうぶだから！	TIFA, don't worry! She's all right!	子	TIFA、だいじょうぶだから！あの 子[こ]、だいじょうぶだから！		scene_06
+だからはやく逃げて！	Hurry and get out!	逃	だからはやく 逃[に]げて！		scene_06
+クックックッ！そろそろ始まるぞ。逃げきれるかな？	Ha, ha, ha… Well, it should be starting right about now. Think you can escape in time?	始逃	クックックッ！そろそろ 始[はじ]まるぞ。 逃[に]げきれるかな？		scene_06
+???	We're not going to make it!		???		scene_06
+おい、このワイヤーを使って 脱出できるぜ！	Yo, we can use this wire to get out!	使脱出	おい、このワイヤーを 使[つか]って 脱出[だっしゅつ]できるぜ！		scene_06
+上のプレートが落ちてきたら ひとたまりもないわ.いそがなくちゃ！	Once that Plate starts coming down it'll be too late. We gotta hurry!	上落	上[うえ]のプレートが 落[お]ちてきたらひとたまりもないわ.いそがなくちゃ！		scene_06
+マリン！マリン！！	Marlene! MARLENE!!		マリン！マリン！！		scene_06
+マリーーーン！！	MAR---LE---NE!!		マリーーーン！！		scene_06
+ビッグス！	Biggs!		ビッグス！		scene_06
+ウェッジ！！	Wedge!!		ウェッジ！！		scene_06
+ジェシー！！	Jessie!!		ジェシー！！		scene_06
+こんちくしょう！	Goddamn it!!!		こんちくしょう！		scene_06
+こんちくしょう！！	Dammit!		こんちくしょう！！		scene_06
+こんちくしょうーー！！！！	DAMMIT ALL!!!!		こんちくしょうーー！！！！		scene_06
+なんだ、こんなもの！	What the hell's it all for!?		なんだ、こんなもの！		scene_06
+うおぉぉーー！！	ARGGHHHH!!!		うおぉぉーー！！		scene_06
+おい、BARRET！	Hey, BARRET!		おい、 BARRET！		scene_06
+BARRET！	BARRET!		BARRET！		scene_06
+おい！	Hey!		おい！		scene_06
+BARRET、もうやめて……おねがい、BARRET	BARRET, stop… Please stop, BARRET.		BARRET、もうやめて……おねがい、 BARRET		scene_06
+うわぁぁぁーー！！！	URGHHHH!!!		うわぁぁぁーー！！！		scene_06
+クッ！ちくしょう……	God damn…		クッ！ちくしょう……		scene_06
+マリン……	Marlene…		マリン……		scene_06
+………ねぇ、BARRET……	… BARRET?		………ねぇ、 BARRET……		scene_06
+マリンは、マリンはだいじょうぶだと思うの	Marlene is… I think Marlene is safe.	思	マリンは、マリンはだいじょうぶだと 思[おも]うの		scene_06
+……え？	…huh?		……え？		scene_06
+AERISが言ってたわ。『あの子、だいじょうぶだから』って、マリンのことよ、きっと	Right before they took AERIS, she said, 'Don't worry, she's all right.' She was probably talking about Marlene.	言子	AERISが 言[い]ってたわ。『あの 子[こ]、だいじょうぶだから』って、マリンのことよ、きっと		scene_06
+ほ、本当か！！	Rrr, really!?	本当	ほ、 本当[ほんとう]か！！		scene_06
+ビッグス……ウェッジ……ジェシー……	Biggs… Wedge… Jessie…		ビッグス……ウェッジ……ジェシー……		scene_06
+……あの３人は柱の中にいた	All three of them were in the pillar.	人柱中	……あの３ 人[にん]は 柱[はしら]の 中[なか]にいた		scene_06
+わかってる……	Think I don't know that?		わかってる……		scene_06
+でもよ、でもよ！いっしょに戦ってきた仲間だ！	But…we, all of us fought together.	戦仲間	でもよ、でもよ！いっしょに 戦[たたか]ってきた 仲間[なかま]だ！		scene_06
+死んじまったなんて……思いたくねえ！	I don't wanna think of them as dead!	死思	死[し]んじまったなんて…… 思[おも]いたくねえ！		scene_06
+……７番街の人たちも	…And the other people in Sector 7.	番街人	……７ 番[ばん] 街[がい]の 人[ひと]たちも		scene_06
+ああ、ヒドイもんだぜ	This is all screwed up!		ああ、ヒドイもんだぜ		scene_06
+オレたちを倒すために街ひとつつぶしちまうんだからな。いったい何人死んだんだ……	They destroyed an entire village just to get to us! They killed so many people…	倒街何人死	オレたちを 倒[たお]すために 街[まち]ひとつつぶしちまうんだからな。いったい 何[なん] 人[にん] 死[し]んだんだ……		scene_06
+……私たちのせい？アバランチがいたから？関係ない人たちまで……	…Are you saying it's our fault? Because AVALANCHE was here? Innocent people lost their lives because of us?	私関係人	…… 私[わたし]たちのせい？アバランチがいたから？ 関係[かんけい]ない 人[ひと]たちまで……		scene_06
+ちがう！　ちがうぜ！　TIFA！！	No, TIFA! That ain't it! Hell no!!		ちがう！　ちがうぜ！　 TIFA！！		scene_06
+なにもかも神羅のやつらがやったことじゃねえか！	It ain't us! It's the damn Shinra! It's never been nobody but the Shinra!	神羅	なにもかも 神[しん] 羅[ら]のやつらがやったことじゃねえか！		scene_06
+自分たちの金や権力のために 星の命を吸い取る悪堂ども！	They're evil and destroyin' our planet just to build their power and line their own damn pockets with gold!	自分金権力星命吸取悪堂	自分[じぶん]たちの 金[きん]や 権力[けんりょく]のために 星[ほし]の 命[いのち]を 吸い取[すいと]る 悪[あく] 堂[どう]ども！		scene_06
+その神羅をつぶさない限りこの星は死んじまうんだ！	[EMPTY LINE]	神羅限星死	その 神[しん] 羅[ら]をつぶさない 限[かぎ]りこの 星[ほし]は 死[し]んじまうんだ！	"""As long as SHINRA is still around (not destroyed), this planet is gonna die!"""	scene_06
+神羅を倒すまでオレたちの戦いはおわらねえ！！	Our fight ain't never gonna be over until we get rid of them!!	神羅倒戦	神[しん] 羅[ら]を 倒[たお]すまでオレたちの 戦[たたか]いはおわらねえ！！		scene_06
+……わからない	…I don't know.		……わからない		scene_06
+オレが言ってることわからねえのか！？	What don't you know!? You don't believe me?	言	オレが 言[い]ってることわからねえのか！？		scene_06
+ちがう……わからないのは自分の……気持ち	It's not that. I'm not sure about…me. My feelings.	自分気持	ちがう……わからないのは 自分[じぶん]の…… 気持[きも]ち		scene_06
+おまえはどうなんだ？	An' what about you?		おまえはどうなんだ？		scene_06
+あいつ、どこへ？	Where's he think he's goin'?		あいつ、どこへ？		scene_06
+あっ！　AERISのこと！	Oh! AERIS!		あっ！　 AERISのこと！		scene_06
+ああ、あの姉ちゃんか。何者なんだ？	Oh yeah, that girl. What's up with her?	姉何者	ああ、あの 姉[ねえ]ちゃんか。 何者[なにもの]なんだ？		scene_06
+……私もよく知らない。でも、マリンのことをAERISに頼んだの	…I don't really know… but she's the one I left Marlene with.	私知頼	…… 私[わたし]もよく 知[し]らない。でも、マリンのことを AERISに 頼[たの]んだの		scene_06
+そうだ！　マリン！！	Damn! Marlene!!		そうだ！　マリン！！		scene_06
+マリンはだいじょうぶってAERISは言ってたけど……	AERIS said that Marlene was safe.	言	マリンはだいじょうぶって AERISは 言[い]ってたけど……		scene_06
+TIFA。もう、あともどりはできねえんだ	TIFA. There ain't no turnin' back now.		TIFA。もう、あともどりはできねえんだ		scene_06
+『みやぶる』のマテリアを手にいれた！	"Received ""Sense"" Materia!"	手	『みやぶる』のマテリアを 手[て]にいれた！		scene_06
+CLOUD！	CLOUD!		CLOUD！		scene_06
+マリンのところへ連れてってくれ！	Take me to Marlene!	連	マリンのところへ 連[つ]れてってくれ！		scene_06
+AERISを助けにいくのね？	You're going to help AERIS?	助	AERISを 助[たす]けにいくのね？		scene_06
+ああ……でも、その前に確かめたいことがあるんだ	Yeah… But before that, there's something I want to know.	前確	ああ……でも、その 前[まえ]に 確[たし]かめたいことがあるんだ		scene_06
+なに？	What's that?		なに？		scene_06
+……古代種	…It's about the Ancients.	古代種	…… 古代[こだい] 種[しゅ]		scene_06
+よく聞け！古代種こそがこの星の正当なる支配者！	Now listen good! The Ancients are the rightful rulers of this Planet!	聞古代種星正当支配者	よく 聞[き]け！ 古代[こだい] 種[しゅ]こそがこの 星[ほし]の 正当[せいとう]なる 支配者[しはいしゃ]！		scene_06
+セフィロス……？	Sephiroth…?		セフィロス……？		scene_06
+しっかりしてくれよ！	Pull it together, man!		しっかりしてくれよ！		scene_06
+われこそ古代種の血をひきし者。この星の正統なる後継者！	In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet!	古代種血者星正統後継	われこそ 古代[こだい] 種[しゅ]の 血[ち]をひきし 者[しゃ]。この 星[ほし]の 正統[せいとう]なる 後継者[こうけいしゃ]！		scene_06
+CLOUD……だったね	CLOUD…wasn't it?		CLOUD……だったね		scene_07
+まあ、てきとうにくつろいでおくれよ	Well now, make yourselves at home.		まあ、てきとうにくつろいでおくれよ		scene_07
+AERISのこと、だろ？	It's about AERIS, isn't it?		AERISのこと、だろ？		scene_07
+……すまない。神羅にさらわれた	…Sorry. The Shinra have her.	神羅	……すまない。 神[しん] 羅[ら]にさらわれた		scene_07
+知ってるよ。ここから連れていかれたからね	I know. They took her from here.	知連	知[し]ってるよ。ここから 連[つ]れていかれたからね		scene_07
+ここで？	They were here?		ここで？		scene_07
+AERISが望んだことだよ……	That's what AERIS wanted…	望	AERISが 望[のぞ]んだことだよ……		scene_07
+どうしてAERISは神羅に狙われるんだ？	Why is Shinra after AERIS?	神羅狙	どうして AERISは 神[しん] 羅[ら]に 狙[ねら]われるんだ？		scene_07
+AERISは古代種。古代種の生き残りなんだとさ	AERIS is an Ancient. The sole survivor.	古代種生残	AERISは 古代[こだい] 種[しゅ]。 古代[こだい] 種[しゅ]の 生き残[いきのこ]りなんだとさ		scene_07
+……なんだとさ、だって？あんた母親だろ？	What did you say? But, aren't you her mother?	母親	……なんだとさ、だって？あんた 母親[ははおや]だろ？		scene_07
+……本当の母親じゃないんだよ。あれは……そう、１５年前…	Not her real mother. …it must have been 15 years ago…	本当母親年前	…… 本当[ほんとう]の 母親[ははおや]じゃないんだよ。あれは……そう、１５ 年[ねん] 前[まえ]…		scene_07
+……戦争中でね。わたしの夫は戦地に行ってた。ウータイという遠い国さ	…during the war. My husband was sent to the front. Some far away place called Wutai.	戦争中夫地行遠国	…… 戦争[せんそう] 中[ちゅう]でね。わたしの 夫[おっと]は 戦地[せんち]に 行[おこな]ってた。ウータイという 遠[とお]い 国[くに]さ		scene_07
+ある日、休暇で帰ってくるっててがみをもらったからわたしは駅までむかえにいったのさ	One day, I went to the station because I got a letter saying he was coming home on leave.	日休暇帰駅	ある 日[ひ]、 休暇[きゅうか]で 帰[かえ]ってくるっててがみをもらったからわたしは 駅[えき]までむかえにいったのさ		scene_07
+AERISを安全なところへ。そう言い残して彼女は死んだ。	Her last words were, Please take AERIS somewhere safe.	安全言残彼女死	AERISを 安全[あんぜん]なところへ。そう 言い残[いいのこ]して 彼女[かのじょ]は 死[し]んだ。	The lines about Aeris and Ifalna are in scene #02 at the train station. Remixing the lines to make them chronological is out of the domain of the current project, so I left them where they are.	scene_07
+わたしの夫は帰らず、子供もいない。わたしもさびしかったんだろうね。AERISを家に連れて帰ることにしたんだ。	My husband never came back. I had no child. I was lonely. So I decided to take her home with me.	夫帰子供家連	わたしの 夫[おっと]は 帰[かえ]らず、 子供[こども]もいない。わたしもさびしかったんだろうね。 AERISを 家[いえ]に 連[つ]れて 帰[かえ]ることにしたんだ。		scene_07
+AERISはすぐにわたしになついてくれた。よくしゃべる子でねえ。いろいろ話してくれたよ	AERIS and I became close very quickly. That child loved to talk. She used to talk to me about everything.	子話	AERISはすぐにわたしになついてくれた。よくしゃべる 子[こ]でねえ。いろいろ 話[はな]してくれたよ		scene_07
+どこかの研究所みたいなところから母親と逃げ出したこと。お母さんは星に帰っただけだからさびしくなんかない……いろいろね	She told me how she escaped from some kind of research laboratory, and that her mother had already returned to the Planet, so she wasn't lonely…many other things.	研究所母親逃出星帰	どこかの 研究所[けんきゅうじょ]みたいなところから 母親[ははおや]と 逃げ出[にげだ]したこと。お 母[かあ]さんは 星[ほし]に 帰[かえ]っただけだからさびしくなんかない……いろいろね		scene_07
+星に帰っただって？	Returned to the Planet?	星帰	星[ほし]に 帰[かえ]っただって？		scene_07
+わたしには意味がわからなかったよ。夜空の星かって聞いたらちがう、この星だっていわれて……	I didn't know what she meant. I asked if she meant a star in the sky, but she said it was this Planet…	意味夜空星聞	わたしには 意味[いみ]がわからなかったよ。 夜空[よぞら]の 星[ほし]かって 聞[き]いたらちがう、この 星[ほし]だっていわれて……		scene_07
+まあ、いろんな意味で不思議な子供だったね	She was a mysterious child in many ways.	意味不思議子供	まあ、いろんな 意味[いみ]で 不思議[ふしぎ]な 子供[こども]だったね		scene_07
+お母さん	Mom.	母	お 母[かあ]さん		scene_07
+泣かないでね	Please don't cry.	泣	泣[な]かないでね		scene_07
+AERISが突然言い出した。何があったのかって聞いたら……	AERIS just blurted that out all of a sudden. When I asked her if something happened…	突然言出何聞	AERISが 突然[とつぜん] 言[い]い 出[だ]した。 何[なに]があったのかって 聞[き]いたら……		scene_07
+お母さんの大切な人が死んじゃったよ	Someone dear to you has just died.	母大切人死	お 母[かあ]さんの 大切な人[たいせつなひと]が 死[し]んじゃったよ		scene_07
+心だけになってお母さんに会いにきたけどでも、星に帰ってしまったの	His spirit was coming to see you, but he's already returned to the Planet.	心母会星帰	心[こころ]だけになってお 母[かあ]さんに 会[あ]いにきたけどでも、 星[ほし]に 帰[かえ]ってしまったの		scene_07
+わたしは信じなかった	At that time I didn't believe her.	信	わたしは 信[しん]じなかった		scene_07
+でも…	But…		でも…		scene_07
+それから何日かして…夫が戦死したという知らせが…届いたんだ…	Several days later… we received a notice saying my husband died…	何日夫戦死知届	それから 何[なん] 日[にち]かして… 夫[おっと]が 戦死[せんし]したという 知[し]らせが… 届[とど]いたんだ…		scene_07
+……とまあ、こんな具合でね	…and that was it.	具合	……とまあ、こんな 具合[ぐあい]でね		scene_07
+いろいろあったけどわたしたちは幸せだった。ところがある日……	A lot had happened, but we were happy. Until one day…	幸日	いろいろあったけどわたしたちは 幸[しあわ]せだった。ところがある 日[ひ]……		scene_07
+AERISを返してほしいのです。ずいぶん探しました	We want you to return AERIS to us. We've been searching for her for a long time.	返探	AERISを 返[かえ]してほしいのです。ずいぶん 探[さが]しました		scene_07
+いやっ！絶対いやっ！	No! Never!	絶対	いやっ！ 絶対[ぜったい]いやっ！		scene_07
+AERIS、君は大切な子供なんだ。君は特別な血をひいている	AERIS, you're a very special child. You are of special blood.	君大切子供特別血	AERIS、 君[きみ]は 大切[たいせつ]な 子供[こども]なんだ。 君[きみ]は 特別[とくべつ]な 血[ち]をひいている		scene_07
+君の本当のお母さんの血。『古代種』の血だ	Your real mother was an 'Ancient'.	君本当母血古代種	君[きみ]の 本当[ほんとう]のお 母[かあ]さんの 血[ち]。『 古代[こだい] 種[しゅ]』の 血[ち]だ	"""Your real mother's blood. The blood of the Ancients."""	scene_07
+もちろん聞いたよ。『古代種』って何だってね	At that moment, I found out she was an 'Ancient'.	聞古代種何	もちろん 聞[き]いたよ。『 古代[こだい] 種[しゅ]』って 何[なに]だってね		scene_07
+古代種は至上の幸福が約束された土地へ我々を導いてくれるのです	The Ancients will lead us to a land of supreme happiness.	古代種至上幸福約束土地我導	古代[こだい] 種[しゅ]は 至上[しじょう]の 幸福[こうふく]が 約束[やくそく]された 土地[とち]へ 我々[われわれ]を 導[みちび]いてくれるのです		scene_07
+AERISはこのまずしいスラムの人々に幸福を与えることができるのです	AERIS will be able to bring happiness to all those in the slums.	人幸福与	AERISはこのまずしいスラムの 人々[ひとびと]に 幸福[こうふく]を 与[あた]えることができるのです		scene_07
+ですから我々神羅カンパニーはぜひともAERISの協力を……	That is why Shinra would like AERIS's cooperation.	我神羅協力	ですから 我々[われわれ] 神[しん] 羅[ら]カンパニーはぜひとも AERISの 協力[きょうりょく]を……		scene_07
+ちがうもん！AERIS、古代種なんかじゃないもん！	He's wrong! I'm not an Ancient! I'm not!	古代種	ちがうもん！ AERIS、 古代[こだい] 種[しゅ]なんかじゃないもん！		scene_07
+でもAERIS、君はときどき誰もいないのに声が聞こえることがあるだろ？	But AERIS, surely you hear voices sometimes when you're all alone?	君誰声聞	でも AERIS、 君[きみ]はときどき 誰[だれ]もいないのに 声[こえ]が 聞[き]こえることがあるだろ？		scene_07
+そんなことないもん！	No, I don't!		そんなことないもん！		scene_07
+でも、わたしにはわかっていた。あの子の不思議な能力……	But I knew. I knew about her mysterious powers.	子不思議能力	でも、わたしにはわかっていた。あの 子[こ]の 不思議[ふしぎ]な 能力[のうりょく]……		scene_07
+一生けんめい、かくそうとしていたからわたしは気がつかないふりをしていたけどね	She tried so hard to hide it, so I acted as though I never noticed.	一生気	一生[いっしょう]けんめい、かくそうとしていたからわたしは 気[き]がつかないふりをしていたけどね		scene_07
+よく何年も神羅から逃げつづけることができたな	It's amazing how she's avoided the Shinra for all these years…	何年神羅逃	よく 何[なん] 年[ねん]も 神[しん] 羅[ら]から 逃[に]げつづけることができたな		scene_07
+神羅はAERISの協力が必要だったから手荒なマネはできなかったんだろうね	The Shinra need her, so I guess they wouldn't harm her.	神羅協力必要手荒	神[しん] 羅[ら]は AERISの 協力[きょうりょく]が 必要[ひつよう]だったから 手荒[てあら]なマネはできなかったんだろうね		scene_07
+じゃあ、今回はどうして……	But why now?	今回	じゃあ、 今回[こんかい]はどうして……		scene_07
+小さな女の子を連れてここに帰って来たんだ	She brought a little girl here with her.	小女子連帰来	小[ちい]さな 女の子[おんなのこ]を 連[つ]れてここに 帰[かえ]って 来[き]たんだ		scene_07
+その途中でツォンのやつにみつかってしまったらしくてね。逃げ切れなかったんだろ、きっと	Tseng found them on their way here. She probably wasn't fast enough to get away.	途中逃切	その 途中[とちゅう]でツォンのやつにみつかってしまったらしくてね。 逃[に]げ 切[き]れなかったんだろ、きっと		scene_07
+女の子の無事と引き替えに自分が神羅に行くことになったんだ	She decided to go to the Shinra in exchange for the little girl's safety.	女子無事引替自分神羅行	女の子[おんなのこ]の 無事[ぶじ]と 引き替[ひきか]えに 自分[じぶん]が 神[しん] 羅[ら]に 行[い]くことになったんだ		scene_07
+マリン、だな	…Marlene.		マリン、だな		scene_07
+マリン！！マリンのためにAERISはつかまったのか！	Marlene!! AERIS was caught because of Marlene!?		マリン！！マリンのために AERISはつかまったのか！		scene_07
+すまねえ。マリンはオレの娘だ。すまねえ……本当に……	I'm sorry. Marlene's my daughter. I'm really sorry…	娘本当	すまねえ。マリンはオレの 娘[むすめ]だ。すまねえ…… 本当[ほんとう]に……		scene_07
+あんたが父親かい！？あんた、娘をほったらかして何をやってるんだい！？	You're her father!? How in the world could you ever leave a child alone like that!?	父親娘何	あんたが 父親[ちちおや]かい！？あんた、 娘[むすめ]をほったらかして 何[なに]をやってるんだい！？		scene_07
+……その話はやめてくれ。オレだって何度も考えたさ。オレが死んじまったらマリンは…ってな	…Please don't start with that. I'm always thinkin' about what might happen to Marlene, if I…	話何度考死	……その 話[はなし]はやめてくれ。オレだって 何度[なんど]も 考[かんが]えたさ。オレが 死[し]んじまったらマリンは…ってな		scene_07
+でもよ、答えはでねえんだ。マリンといつもいっしょにいたい。でも、それじゃあ戦えない	But you gotta understand somethin'… …I don't got any answers. I wanna be with Marlene… But I gotta fight.	答戦	でもよ、 答[こた]えはでねえんだ。マリンといつもいっしょにいたい。でも、それじゃあ 戦[たたか]えない		scene_07
+戦わなければ星が死ぬ	'Cause if I don't…the Planet's gonna die.	戦星死	戦[たたか]わなければ 星[ほし]が 死[し]ぬ		scene_07
+おう！　オレは戦うぜ！	So I'm gonna keep fightin'!	戦	おう！　オレは 戦[たたか]うぜ！		scene_07
+でも、マリンが心配だ。いつでもそばにいてやりたい	But inside I'm always thinkin' of her. I just wanna be with her…always.	心配	でも、マリンが 心配[しんぱい]だ。いつでもそばにいてやりたい		scene_07
+な？　グルグルまわっちまうんだ	See? I'm goin' in circles, now.		な？　グルグルまわっちまうんだ		scene_07
+……わからないでもないけどね。ま、とにかく２階で眠ってるから会っておやりよ	…I think I know what you mean. She's upstairs asleep, Why don't you go and see her?	階眠会	……わからないでもないけどね。ま、とにかく２ 階[かい]で 眠[ねむ]ってるから 会[あ]っておやりよ		scene_07
+私のせい……。私がAERISを巻きこんだから	It's my fault… I was the one who got AERIS involved in this.	私巻	私[わたし]のせい……。 私[わたし]が AERISを 巻[ま]きこんだから		scene_07
+あんた、気にするんじゃないよ。AERISだってそんなふうに思っちゃいないよ	Don't say that. AERIS doesn't think so.	気思	あんた、 気[き]にするんじゃないよ。 AERISだってそんなふうに 思[おも]っちゃいないよ		scene_07
+なんか落ちこんじゃう	I feel so depressed.	落	なんか 落[お]ちこんじゃう		scene_07
+はぁ……	…sigh…		はぁ……		scene_07
+マリン……良かった……無事で良かった……	I'm so glad… I'm so glad you're all right…	良無事	マリン…… 良[よ]かった…… 無事[ぶじ]で 良[よ]かった……		scene_07
+とうちゃん泣いちゃダメだよ。おヒゲ、いたいよ！	Daddy, don't cry. Your whiskers hurt!	泣	とうちゃん 泣[な]いちゃダメだよ。おヒゲ、いたいよ！		scene_07
+AERISを助けにいくんだろ？すっかり世話になっちまったからな	You gonna go help AERIS, right? She's done so much for me…	助世話	AERISを 助[たす]けにいくんだろ？すっかり 世話[せわ]になっちまったからな		scene_07
+それに相手が神羅となれば黙っちゃいられねえ！オレも行くぜ！	If the Shinra're involved, I ain't stayin' here! I'm comin', too!	相手神羅黙行	それに 相手[あいて]が 神[しん] 羅[ら]となれば 黙[だま]っちゃいられねえ！オレも 行[い]くぜ！		scene_07
+あのね、あのね、AERISがねいっぱい聞いてたよ	Guess what? Guess what? AERIS asked me lots of questions.	聞	あのね、あのね、 AERISがねいっぱい 聞[き]いてたよ		scene_07
+CLOUDってどんな人って。CLOUDのこと好きなんだよ、きっと	Like what kind of person CLOUD is. I bet she likes you, CLOUD!	人好	CLOUDってどんな 人[ひと]って。 CLOUDのこと 好[す]きなんだよ、きっと		scene_07
+俺にはわからないよ	I don't know	俺	俺[おれ]にはわからないよ		scene_07
+そうだといいな	Let's hope so		そうだといいな		scene_07
+ドンカン！	Dummy!		ドンカン！		scene_07
+TIFAにはないしょにしといてあげるね	I won't tell TIFA.		TIFAにはないしょにしといてあげるね		scene_07
+ここで眠れるな……	Looks like I can rest here.	眠	ここで 眠[ねむ]れるな……		scene_07
+眠る	Sleep	眠	眠[ねむ]る		scene_07
+眠りたくない	Don't want to sleep	眠	眠[ねむ]りたくない		scene_07
+AERISの家２Ｆ	AERIS's House	家	AERISの 家[いえ]２ Ｆ[えふ]		scene_07
+とうちゃん、TIFA、CLOUD！ちゃ～んとAERIS助けてきてね	Daddy, TIFA, CLOUD! Please bring AERIS back!	助	とうちゃん、 TIFA、 CLOUD！ちゃ~んと AERIS 助[たす]けてきてね		scene_07
+AERISのところへ行くのね	You're going after AERIS, right?	行	AERISのところへ 行[い]くのね		scene_07
+私も行くから	I'm coming with you.	私行	私[わたし]も 行[い]くから		scene_07
+神羅の本社にのりこむ。……カクゴが必要だぞ	We're going right into Shinra Headquarters. …You gotta be prepared for the worst.	神羅本社必要	神[しん] 羅[ら]の 本社[ほんしゃ]にのりこむ。……カクゴが 必要[ひつよう]だぞ		scene_07
+わかってるわ	I know.		わかってるわ		scene_07
+それに今は思いきり身体を動かしたい気分なの	Right now, I feel I have to push myself to the limit.	今思身体動気分	それに 今[いま]は 思[おも]いきり 身体[しんたい]を 動[うご]かしたい 気分[きぶん]なの		scene_07
+じっとしてると……なんか、ダメ	If I stayed here…I'd go crazy.		じっとしてると……なんか、ダメ		scene_07
+すまねえが、もうしばらくマリンをあずかってくれねえか？	Sorry, but can you take care of Marlene a bit longer?		すまねえが、もうしばらくマリンをあずかってくれねえか？		scene_07
+ああ、かまわないよ	Yes, I don't mind.		ああ、かまわないよ		scene_07
+それから、ここは危険だ。どこかへ移ったほうがいい	This place is dangerous now. You better go somewhere else.	危険移	それから、ここは 危険[きけん]だ。どこかへ 移[うつ]ったほうがいい		scene_07
+……そうだねえ。でも、必ず迎えにくるんだよ。死んじゃいけないよ	…You're right. But promise me that you'll come back to her. Don't get yourself killed.	必迎死	……そうだねえ。でも、 必[かなら]ず 迎[むか]えにくるんだよ。 死[し]んじゃいけないよ		scene_07
+必ず迎えにくるんだよ。死んじゃいけないよ	I mean it, come back to her. Don't get yourself killed.	必迎死	必[かなら]ず 迎[むか]えにくるんだよ。 死[し]んじゃいけないよ		scene_07
+『かばう』のマテリアを手にいれた！	"Received ""Cover"" Materia!"	手	『かばう』のマテリアを 手[て]にいれた！		scene_07
+神羅ビルにはどうやって？	How do we get to the Shinra Building?	神羅	神[しん] 羅[ら]ビルにはどうやって？		scene_07
+もう、上に行く列車は使えねぇ…	There ain't no train that goes up there anymore…	上行列車使	もう、 上[うえ]に 行[い]く 列車[れっしゃ]は 使[つか]えねぇ…		scene_07
+………	…		………		scene_07
+とりあえず、【ウォールマーケット】に行きましょう。　あそこなら何かいい手が見つかるかもしれないわ	Well, let's go to Wall Market. We might be able to find something there.	行何手見	とりあえず、【ウォールマーケット】に 行[い]きましょう。　あそこなら 何[なに]かいい 手[て]が 見[み]つかるかもしれないわ		scene_07
+みんなこのワイヤーを登って上にいっちゃったよ。こわくないのかな……ブルブル	Everyone climbed up this wire. Looks scary…Brrr.	登上	みんなこのワイヤーを 登[のぼ]って 上[うえ]にいっちゃったよ。こわくないのかな……ブルブル		scene_07
+うわ～！すげ～、ヒサン……	Oh man! This is horrible…		うわ~！すげ~、ヒサン……		scene_07
+な、こえ～だろ？とうちゃんはしんらってやつのしわざだっていってたよ	Hey, scary, huh? Dad told me that it's the Shinra's doing.		な、こえ~だろ？とうちゃんはしんらってやつのしわざだっていってたよ		scene_07
+これ、のぼれるの？	Can we climb it?		これ、のぼれるの？		scene_07
+うん。上の世界につながってるんだよ	Yeah. It leads to the upper world.	上世界	うん。 上[うえ]の 世界[せかい]につながってるんだよ		scene_07
+よし！このワイヤー、のぼろうぜ！	Alright! We'll climb the wire!		よし！このワイヤー、のぼろうぜ！		scene_07
+それは無理な話だな。何百メートルあると思ってるんだ？	There's no way we can do this. You know how far it goes up?	無理話何百思	それは 無理[むり]な 話[はなし]だな。 何[なに] 百[ひゃく]メートルあると 思[おも]ってるんだ？		scene_07
+無理じゃねえ！見ろ！　これは何に見える？	There IS a way! Look! What's that look like?	無理見何	無理[むり]じゃねえ！ 見[み]ろ！　これは 何[なに]に 見[み]える？		scene_07
+何のへんてつもないワイヤーだ	Just a normal wire.	何	何[なに]のへんてつもないワイヤーだ		scene_07
+そうかよ？　オレには金色に輝く希望の糸に見えるぜ	Oh yeah? Well to me it looks like a golden shiny wire of hope.	金色輝希望糸見	そうかよ？　オレには 金色[きんいろ]に 輝[かがや]く 希望[きぼう]の 糸[いと]に 見[み]えるぜ		scene_07
+そうね、AERISを救うために残された道は、これだけだもんね	You're right. This is the only way to save AERIS…	救残道	そうね、 AERISを 救[すく]うために 残[のこ]された 道[みち]は、これだけだもんね		scene_07
+よくわからないたとえだったがBARRET、あんたの気持ちはわかった	OK, that was a bad analogy, but, BARRET, I understand how you feel.	気持	よくわからないたとえだったが BARRET、あんたの 気持[きも]ちはわかった		scene_07
+プレート断面	Plate Section	断面	プレート 断面[だんめん]		scene_07
+……バッテリーをはめれば	…Maybe if I put a battery in…		……バッテリーをはめれば		scene_07
+あのプロペラが回りそうだな	The propeller might work.	回	あのプロペラが 回[まわ]りそうだな		scene_07
+バッテリーをはめなければ動きそうにないな	It might work if I put a battery in it.	動	バッテリーをはめなければ 動[うご]きそうにないな		scene_07
+武器屋の言葉を信じてみるか	I guess I'll just have to believe the shopkeeper.	武器屋言葉信	武器[ぶき] 屋[や]の 言葉[ことば]を 信[しん]じてみるか		scene_07
+どうやら、あれに飛び移るしかないようだな	Looks like the only way is to jump onto that bar.	飛移	どうやら、あれに 飛[と]び 移[うつ]るしかないようだな		scene_07
+あれが、いちばん近づく前にジャンプすればよさそうだな。（決定ボタンでジャンプ）	Should make it if I jump before it comes too close. (use [OK] to jump)	近前決定	あれが、いちばん 近[ちか]づく 前[まえ]にジャンプすればよさそうだな。（ 決定[けってい]ボタンでジャンプ）		scene_07
+タイミングが早かったようだ……	Jumped too soon…	早	タイミングが 早[はや]かったようだ……		scene_07
+タイミングが遅かったようだ……	Jumped too late…	遅	タイミングが 遅[おそ]かったようだ……		scene_07
+ここにもバッテリーが必要だな	Need a battery here, too.	必要	ここにもバッテリーが 必要[ひつよう]だな		scene_07
+しまった。もうバッテリーがない……	Damn, out of batteries…		しまった。もうバッテリーがない……		scene_07
+神羅ビル	Shinra Bldg.	神羅	神[しん] 羅[ら]ビル		scene_07
+神羅ビル・階段	Shinra Bldg. Stairs	神羅階段	神[しん] 羅[ら]ビル・ 階段[かいだん]		scene_07
+おい……ホンキでこれ、上までのぼるつもりか……？	Yo… You really gonna take these stairs all the way up?	上	おい……ホンキでこれ、 上[うえ]までのぼるつもりか……？		scene_07
+しょうがないでしょ。AERISを無事に助けるためよ	Well we've got to get to AERIS to help her somehow.	無事助	しょうがないでしょ。 AERISを 無事[ぶじ]に 助[たす]けるためよ		scene_07
+しかし、いくら見つかりにくいったってこいつは……	Of all the out of the way…	見	しかし、いくら 見[み]つかりにくいったってこいつは……		scene_07
+もう、ゴチャゴチャいわない！いくわよ！	I don't have time to argue with you! I'm going!		もう、ゴチャゴチャいわない！いくわよ！		scene_07
+お、おいTIFA！１人でいくな！	Y, yo TIFA! Don't go alone!	人	お、おい TIFA！１ 人[にん]でいくな！		scene_07
+ちょっと待ってよCLOUD！	Wait a minute, CLOUD!	待	ちょっと 待[ま]ってよ CLOUD！		scene_07
+なんで……わざわざ……こんな……くろうを……	Don't know… why…the hell… we gotta…climb…		なんで……わざわざ……こんな……くろうを……		scene_07
+……AERISを助け出すまで騒ぎはおこしたくないんだ	…because we don't want to start a commotion until we've saved AERIS.	助出騒	…… AERISを 助け出[たすけだ]すまで 騒[さわ]ぎはおこしたくないんだ		scene_07
+でも、無理だろうな……	If that's possible…	無理	でも、 無理[むり]だろうな……		scene_07
+……ヘヘヘ	…heh heh heh.		……ヘヘヘ		scene_07
+なんだよ、気持ち悪いな	Knock it off. You're giving me the creeps.	気持悪	なんだよ、 気持[きも]ち 悪[わる]いな		scene_07
+あんたでも他人のために戦うことがあるんだな。見直したぜ	So even you will fight for someone else. Guess I figured you wrong.	他人戦見直	あんたでも 他人[たにん]のために 戦[たたか]うことがあるんだな。 見直[みなお]したぜ		scene_07
+あんたに見直されてもうれしくない	Who cares what you figured!	見直	あんたに 見直[みなお]されてもうれしくない		scene_07
+いや、なんていうか……いろいろ悪かったな	I'm just sayin' mebbe I was wrong…	悪	いや、なんていうか……いろいろ 悪[わる]かったな		scene_07
+フフフ……	heh heh heh……		フフフ……		scene_07
+なんだよ。TIFAまで……	What's that supposed to mean, TIFA?		なんだよ。 TIFAまで……		scene_07
+……しかしこの階段どこまで続くんだ？	…how much farther do these stairs go on?	階段続	……しかしこの 階段[かいだん]どこまで 続[つづ]くんだ？		scene_07
+さあ……階段にきいて	Why don't you ask them?	階段	さあ…… 階段[かいだん]にきいて		scene_07
+このままずっと続くなんてことはないよなあ？	It's not one of them endless stairways or somethin', is it?	続	このままずっと 続[つづ]くなんてことはないよなあ？		scene_07
+まさか！！	Of course not!!		まさか！！		scene_07
+だよな……そんなはずないよな……	Right…couldn't be that…		だよな……そんなはずないよな……		scene_07
+まだつかないのか？	Are we there yet?		まだつかないのか？		scene_07
+まだみたいね	Not yet.		まだみたいね		scene_07
+……まだか？	…there yet?		……まだか？		scene_07
+まだよ	I said not yet!		まだよ		scene_07
+なあ……	Yo…		なあ……		scene_07
+まだだってば！まだまだまだまだまだまだまだーっ！！	Look, don't even ask! We're way way way way far away from being there, OK!?		まだだってば！まだまだまだまだまだまだまだーっ！！		scene_07
+なあ……今、何階だ？	Yo… What floor is this?	今何階	なあ…… 今[いま]、 何[なん] 階[かい]だ？		scene_07
+……もう数える気にもならない	…I stopped counting.	数気	……もう 数[かぞ]える 気[き]にもならない		scene_07
+こ……こんなバカ高いビルつくりやがって……	Why they gotta build these buildings so damn tall?	高	こ……こんなバカ 高[たか]いビルつくりやがって……		scene_07
+やっぱり、し、神羅なんてロクなやつじゃねえぜ……！	That Shinra… They're just no damn good.	神羅	やっぱり、し、 神[しん] 羅[ら]なんてロクなやつじゃねえぜ……！		scene_07
+ああ……オレはもうダメだ……	…huff… Man, I'm beat…		ああ……オレはもうダメだ……		scene_07
+マリン、父ちゃんはもう一度お前に会いたかった……	Marlene, daddy wanted to see your face one more time…	父一度前会	マリン、 父[とう]ちゃんはもう 一度[いちど]お 前[まえ]に 会[あ]いたかった……		scene_07
+ちょっと！エンギでもないこと言わないの！	Would you stop acting like a retard and climb!?	言	ちょっと！エンギでもないこと 言[い]わないの！		scene_07
+もう少し！もう少しだから！	It's just a bit more!	少	もう 少[すこ]し！もう 少[すこ]しだから！		scene_07
+たぶん……	…maybe.		たぶん……		scene_07
+もうイヤだ！オレはもどるぞ！	Damn, man! I've had it! I'm going back!		もうイヤだ！オレはもどるぞ！		scene_07
+今までのぼったのとおなじだけ階段おりて？	It'll take just as long to go down as it did to come up.	今階段	今[いま]までのぼったのとおなじだけ 階段[かいだん]おりて？		scene_07
+ホラ、BARRETしっかりしなさい！	C'mon, BARRET. Pull it together!		ホラ、 BARRETしっかりしなさい！		scene_07
+ん、んなコト言ったってオレは、み、右腕以外は普通の体なんだぜ……	Yeah well, all I know is I'm only flesh 'n' blood… cept for this arm of mine.	言右腕以外普通体	ん、んなコト 言[い]ったってオレは、み、 右腕[うわん] 以外[いがい]は 普通[ふつう]の 体[からだ]なんだぜ……		scene_07
+元ソルジャーみたいなと、特別製と……いっしょにしないでくれ……	Don't treat me like I'm some ex-SOLDIER or somethin'…	元特別製	元[もと]ソルジャーみたいなと、 特別[とくべつ] 製[せい]と……いっしょにしないでくれ……		scene_07
+私だって普通だってば！先に行っちゃうわよ！	What about me!? I'm human too! Oh, do what you want, I'm going on!	私普通先行	私[わたし]だって 普通[ふつう]だってば！ 先[さき]に 行[い]っちゃうわよ！		scene_07
+キャッ！！ヤダ、BARRET！やっぱり先に行って！	Yaah! BARRET! You go first!	先行	キャッ！！ヤダ、 BARRET！やっぱり 先[さき]に 行[い]って！		scene_07
+バ、バカ！オレはそんなつもりじゃ……	What're ya ignorant?  …I didn't mean that		バ、バカ！オレはそんなつもりじゃ……		scene_07
+いいから！	All right, all right!		いいから！		scene_07
+CLOUDも！先に行って！！	CLOUD, you go on ahead too!!	先行	CLOUDも！ 先[さき]に 行[い]って！！		scene_07
+『エリクサー』を手にいれた！	"Received ""Elixir""!"	手	『エリクサー』を 手[て]にいれた！		scene_07
+『ベヒーモスホーン』を手にいれた！	"Received ""Behemoth Horn""!"	手	『ベヒーモスホーン』を 手[て]にいれた！		scene_07
+や……やっと……つい……た……	…finally… …made it…		や……やっと……つい……た……		scene_07
+か……階段なんて……もう見るのもゴメンだ……	…never wanna see… no more stairs the rest of my life…	階段見	か…… 階段[かいだん]なんて……もう 見[み]るのもゴメンだ……		scene_07
+ハア……ハア……さすがにこれは……こたえたわ……ね……	…huff…puff… I'm beat…		ハア……ハア……さすがにこれは……こたえたわ……ね……		scene_07
+……でも、これからが本番よね。元気出していかなきゃ……！	But here we are. We'd better get ready!	本番元気出	……でも、これからが 本番[ほんばん]よね。 元気[げんき] 出[だ]していかなきゃ……！		scene_07
+０番街	sector 0	番街	０ 番[ばん] 街[がい]		scene_07
+おい、このビルにはくわしいんだろ？	Hey, you oughta know this building well.		おい、このビルにはくわしいんだろ？		scene_07
+どうしたの？	What's wrong?		どうしたの？		scene_07
+……知らない。そういえば本社に来るのは初めてだ	…Not really, now that I think about it, this's the first time I've ever been to the Headquarters.	知本社来初	…… 知[し]らない。そういえば 本社[ほんしゃ]に 来[く]るのは 初[はじ]めてだ		scene_07
+前にきいたことがあるぜ	I heard about this place before.	前	前[まえ]にきいたことがあるぜ		scene_07
+このビルの６０階から上は特別ブロックとかで社員でも簡単には入れないってな	Every floor above the 60th is special and not easy to get to even for employees.	階上特別社員簡単入	このビルの６０ 階[かい]から 上[うえ]は 特別[とくべつ]ブロックとかで 社員[しゃいん]でも 簡単[かんたん]には 入[い]れないってな		scene_07
+AERISが連れていかれたのもそこにちがいねえ	Must be where they took AERIS.	連	AERISが 連[つ]れていかれたのもそこにちがいねえ		scene_07
+今なら警備にもスキがある。おおし、いくぜっ！！	The security's pretty light now. Alright, let's go!!	今警備	今[いま]なら 警備[けいび]にもスキがある。おおし、いくぜっ！！		scene_07
+ちょっとまってよ！まさか正面からのりこむつもり？	Wait a second! You're not thinking of just going right through the main entrance, are you?	正面	ちょっとまってよ！まさか 正面[しょうめん]からのりこむつもり？		scene_07
+決まってるだろ！神羅のやつらをけちらして……	Well what else does it look like!? I'm gonna kick some Shinra butt and…	決神羅	決[き]まってるだろ！ 神[しん] 羅[ら]のやつらをけちらして……		scene_07
+そんなのムチャよ！もっと見つかりにくい方法を……	That's not going to work! We've got to find another way…	見方法	そんなのムチャよ！もっと 見[み]つかりにくい 方法[ほうほう]を……		scene_07
+そんなコトやってられねえ！グズグズしてたらAERISだって……	Ain't gonna be no other way! If we keep wastin' time like this, AERIS'll…		そんなコトやってられねえ！グズグズしてたら AERISだって……		scene_07
+それはわかるけど！ここで私たちまでつかまったら……	I know that! But if we get caught here…	私	それはわかるけど！ここで 私[わたし]たちまでつかまったら……		scene_07
+ね、CLOUD。……どうしたらいいの？	Hey, CLOUD. …What should we do?		ね、 CLOUD。……どうしたらいいの？		scene_07
+つっこむぞ！	Let's bust on in!		つっこむぞ！		scene_07
+コッソリ行こう	Let's sneak in quietly	行	コッソリ 行[い]こう		scene_07
+そうこなくっちゃな！おおし、いくぜっ！！	That's more like it! C'mon, let's go!!		そうこなくっちゃな！おおし、いくぜっ！！		scene_07
+でしょ？こんな時こそしんちょうに他のルートを探しましょ！	See? Let's be careful and find a different route!	時他探	でしょ？こんな 時[とき]こそしんちょうに 他[ほか]のルートを 探[さが]しましょ！		scene_07
+ちゃうちゃう！シスター・レイは、こっちやない！	No, no! The Sister Ray's not this way!		ちゃうちゃう！シスター・レイは、こっちやない！		scene_07
+神羅ビル・１階ロビー	Shinra Bldg. 1f. lobby	神羅階	神[しん] 羅[ら]ビル・１ 階[かい]ロビー		scene_07
+受付	Receptionist	受付	受付[うけつけ]		scene_07
+ちょっと、困ります！アポイントメントのない方はこちらで……	Excuse me! If you don't have an appointment, you'll have to…	困方	ちょっと、 困[こま]ります！アポイントメントのない 方[ほう]はこちらで……		scene_07
+わりいな、ちっとばかし急な用件でよ	I don't need no appointment… This is a 'mergency!	急用件	わりいな、ちっとばかし 急[きゅう]な 用件[ようけん]でよ		scene_07
+ケガしたくなかったらひっこんでな！！	And anyone who don't wanna get their face bashed in better git outta the way!!		ケガしたくなかったらひっこんでな！！		scene_07
+キャアーッ！！	Yaagghh!		キャアーッ！！		scene_07
+なんなんだあいつら！？	Who do they think they are?		なんなんだあいつら！？		scene_07
+ま、まさかやつらがアバランチ！？	D, do you think they're AVALANCHE?		ま、まさかやつらがアバランチ！？		scene_07
+侵入者だ！つかまえろ！！	Intruders! Seize them!!	侵入者	侵入者[しんにゅうしゃ]だ！つかまえろ！！		scene_07
+一気に上まで行くぞ！	Let's go to the top!	一気上行	一気[いっき]に 上[うえ]まで 行[い]くぞ！		scene_07
+バトル！！	Battle!!		バトル！！		scene_07
+神羅ビル２階ショップ	Shinra Bldg. 2f. Shop	神羅階	神[しん] 羅[ら]ビル２ 階[かい]ショップ		scene_07
+ネエ～新しいクルマ買ってェ～	Honey…would you buy me that car!	新買	ネエ~ 新[あたら]しいクルマ 買[か]ってェ~		scene_07
+そんなこと言ったって新車は高いしなあ……	But baby, it's way too expensive.	言新車高	そんなこと 言[い]ったって 新車[しんしゃ]は 高[たか]いしなあ……		scene_07
+はい？	What did you say?		はい？		scene_07
+ヒ、ヒエ～！	Hh, hey!		ヒ、ヒエ~！		scene_07
+イヤ～おいてかないでェ～！	Ww, wait for meeeeeee!		イヤ~おいてかないでェ~！		scene_07
+え～、お買い物はレジの向こうからどうぞ	Please take all purchases to the register	買物向	え~、お 買い物[かいもの]はレジの 向[む]こうからどうぞ		scene_07
+いらっしゃいませ。本日は何を……	Welcome. Our special today is…	本日何	いらっしゃいませ。 本日[ほんじつ]は 何[なに]を……		scene_07
+キャッ！！	Eagghhh!!		キャッ！！		scene_07
+お、お金ならさしあげますから……	Here, t, take the money…	金	お、お 金[かね]ならさしあげますから……		scene_07
+カンチガイするな。アバランチは強盗じゃねえ	I don't want your money. AVALANCHE ain't no packa criminals.	強盗	カンチガイするな。アバランチは 強盗[ごうとう]じゃねえ		scene_07
+……アンタんとこのボスにとられたものを取り返しにきただけだ	We jus' want back what your boss stole from us.	取返	……アンタんとこのボスにとられたものを 取り返[とりかえ]しにきただけだ		scene_07
+カンチガイするな、アバランチは強盗じゃねえ	I don't want your money. AVALANCHE ain't no packa criminals.	強盗	カンチガイするな、アバランチは 強盗[ごうとう]じゃねえ		scene_07
+……アンタんとこのボスにとられたものを取り返しただけだ	We jus' want back what your boss stole from us.	取返	……アンタんとこのボスにとられたものを 取り返[とりかえ]しただけだ		scene_07
+いや、ま、ものってのはなんだ、よくねえ言いかただがな	"I mean, ""who"" he stole from us."	言	いや、ま、ものってのはなんだ、よくねえ 言[い]いかただがな		scene_07
+ア、アバランチ！？	A, AVALANCHE?		ア、アバランチ！？		scene_07
+アンタをどうこうする気はねえ。金だってちゃんと払うぜ	We ain't gonna hurt you. We might even pay ya, if ya help us.	気金払	アンタをどうこうする 気[き]はねえ。 金[きん]だってちゃんと 払[はら]うぜ		scene_07
+は、はい、それでは……	Ok…ok…well…		は、はい、それでは……		scene_07
+ま、まだなにか……？	What is it?		ま、まだなにか……？		scene_07
+またのご来店お待ち……したくはないです、ホントは……	Thank you and come again… Forget I said that.	来店待	またのご 来店[らいてん]お 待[ま]ち……したくはないです、ホントは……		scene_07
+……いらっしゃいませ。無人販売機が御用をうけたまわります	Welcome… to the fully automated store. Place your order…now.	無人販売機御用	……いらっしゃいませ。 無人[むじん] 販売機[はんばいき]が 御用[ごよう]をうけたまわります		scene_07
+『パイルバンカー』を手にいれた！	"Received ""Pile Bunker""!"	手	『パイルバンカー』を 手[て]にいれた！		scene_07
+『マスターフィスト』を手にいれた！	"Received ""Master Fist""!"	手	『マスターフィスト』を 手[て]にいれた！		scene_07
+あの、商品を勝手に開けるとか、そういったことはその、ちょっと……	You opened up all those things without asking and, hey wait!	商品勝手開	あの、 商品[しょうひん]を 勝手[かって]に 開[あ]けるとか、そういったことはその、ちょっと……		scene_07
+ここからが本番だ。ゆだんするな	This is the real thing. Don't let your guard down.	本番	ここからが 本番[ほんばん]だ。ゆだんするな		scene_07
+……知らない。そういえば本社に来るのは初めてだ。あんたは知っているのか？	…I don't know. Now that you mention it, this's my first time at headquarters. What about you?	知本社来初	…… 知[し]らない。そういえば 本社[ほんしゃ]に 来[く]るのは 初[はじ]めてだ。あんたは 知[し]っているのか？		scene_07
+……前に来たことがある。まだ、両腕があるころにな	…I been here before. Back when I still had both my hands.	前来両腕	…… 前[まえ]に 来[き]たことがある。まだ、 両[りょう] 腕[うで]があるころにな		scene_07
+AERIS、無事だといいね	I hope AERIS is all right.	無事	AERIS、 無事[ぶじ]だといいね		scene_07
+AERIS………いろいろ大変だったのね	AERIS… She's been through a lot, huh.	大変	AERIS………いろいろ 大変[たいへん]だったのね		scene_07
+TIFAだって	You too, TIFA		TIFAだって		scene_07
+……どうしたの？	…What's wrong?		……どうしたの？		scene_07
+AERISを助け出すまで騒ぎはおこしたくなかった	I didn't want to start a ruckus till we saved AERIS.	助出騒	AERISを 助け出[たすけだ]すまで 騒[さわ]ぎはおこしたくなかった		scene_07
+まあ、無理だろうとは思っていたが……	I should have known that was impossible though…	無理思	まあ、 無理[むり]だろうとは 思[おも]っていたが……		scene_07
+ヘヘヘ	Heh, heh, heh.		ヘヘヘ		scene_07
+な、何だ！？	Wh, what the!?	何	な、 何[なん]だ！？		scene_07
+見て、あれ！	Look!	見	見[み]て、あれ！		scene_07
+チ……！	DA-MN!		チ……！		scene_07
+かまわねえCLOUD！どこでもいいから止めちまえ！	Just stop it, CLOUD! I don't care where!	止	かまわねえ CLOUD！どこでもいいから 止[と]めちまえ！		scene_07
+どうなってるの！？	What's going on!?		どうなってるの！？		scene_07
+ヒャッ！！	Oh man!!		ヒャッ！！		scene_07
+あ、あの、いいんです。まちがいでした。私、のりませんから	No, uh, that's all right. My mistake. I'm, uh, not getting on.	私	あ、あの、いいんです。まちがいでした。 私[わたし]、のりませんから		scene_07
+ヒエ～ッ！！	Oh man!!		ヒエ~ッ！！		scene_07
+ま、まだのってらしたんですか……え、ええ、私は今回もパスしますです	You…again?  Uh, I'll pass.	私今回	ま、まだのってらしたんですか……え、ええ、 私[わたし]は 今回[こんかい]もパスしますです		scene_07
+エレベーター	Elevator		エレベーター		scene_07
+神羅ビル・５９階	Shinra Bldg. 59f.	神羅階	神[しん] 羅[ら]ビル・５９ 階[かい]		scene_07
+おい、CLOUD！	Hey CLOUD!		おい、 CLOUD！		scene_07
+ここまできといてまた１階までもどるのか？	We come this far, and you're thinkin' of goin' back down to the 1st floor?	階	ここまできといてまた１ 階[かい]までもどるのか？		scene_07
+そんなヒマはねえんじゃねえのか？ま、おまえの勝手だがな	No time for that now! Stop messin' around, boy!	勝手	そんなヒマはねえんじゃねえのか？ま、おまえの 勝手[かって]だがな		scene_07
+おう、だよな！とっとと先を急ごうぜ！	Yeah, that's right! Let's go on!	先急	おう、だよな！とっとと 先[さき]を 急[いそ]ごうぜ！		scene_07
+侵入者を排除しろ！	Destroy the intruders!	侵入者排除	侵入者[しんにゅうしゃ]を 排除[はいじょ]しろ！		scene_07
+これは……	What's this?		これは……		scene_07
+キーアイテム『カードキー６０』を手にいれた！	"Received Key Item ""Keycard 60""!"	手	キーアイテム『カードキー６０』を 手[て]にいれた！		scene_07
+神羅ビル・６０階	Shinra Bldg. 60f.	神羅階	神[しん] 羅[ら]ビル・６０ 階[かい]		scene_07
+なんだおまえたち！ここから先は関係者以外立ち入り禁止だ！！	What're you doing here? Unauthorized personnel aren't allowed here!!	先関係者以外立入禁止	なんだおまえたち！ここから 先[さき]は 関係者[かんけいしゃ] 以外[いがい] 立ち入り禁止[たちいりきんし]だ！！		scene_07
+おまえたちのような者が入れる場所ではない！さっさと立ち去れ！	Your kind don't belong here! Go on, get out!	者入場所立去	おまえたちのような 者[もの]が 入[い]れる 場所[ばしょ]ではない！さっさと 立ち去[たちさ]れ！		scene_07
+おいキサマ！そこでなにをしている！	Hey there! What do you think you're doing there?		おいキサマ！そこでなにをしている！		scene_07
+みろよ、警備のやつらがウロウロしてやがるぜ	Look at all them guards runnin' around.	警備	みろよ、 警備[けいび]のやつらがウロウロしてやがるぜ		scene_07
+CLOUD、まずおまえがさきに行ってあいずしてくれ。オレたちがあとにつづく	CLOUD, you go on ahead and signal us when it's safe to move.	行	CLOUD、まずおまえがさきに 行[い]ってあいずしてくれ。オレたちがあとにつづく		scene_07
+ものかげに隠れながら進むのよ！	Stay in the shadows!	隠進	ものかげに 隠[かく]れながら 進[すす]むのよ！		scene_07
+警備のやつらが目をそらした時がチャンスだぜ	When those guards turn around, MOVE!	警備目時	警備[けいび]のやつらが 目[め]をそらした 時[とき]がチャンスだぜ		scene_07
+なにやってんだ！次はちゃんと頼むぜ！	What the hell're ya doin'? Man, you gotta do it again!	次頼	なにやってんだ！ 次[つぎ]はちゃんと 頼[たの]むぜ！		scene_07
+よし！ガンガンいくぞ！	OK! We gonna rock!		よし！ガンガンいくぞ！		scene_07
+忘れないで！私たちの目的はあくまでもAERISを助けだすこと	Remember, we're here to save AERIS.	忘私目的助	忘[わす]れないで！ 私[わたし]たちの 目的[もくてき]はあくまでも AERISを 助[たす]けだすこと		scene_07
+わかってるって！	Hell, I know that!		わかってるって！		scene_07
+やーっぱりこうなっちまうんだよな……	I shoulda known it'd turn out like this…		やーっぱりこうなっちまうんだよな……		scene_07
+こんなことならはじめっから……	If I knew it'd be like this in the first place…		こんなことならはじめっから……		scene_07
+シッ！とにかく先を急ぎましょ	Shhh! Now let's move on.	先急	シッ！とにかく 先[さき]を 急[いそ]ぎましょ		scene_07
+警備兵のスキをついて、○ボタンでBARRETたちにあいずをおくれ！	Wait for the soldiers to turn, then push [OK] to signal the others!	警備兵	警備兵[けいびへい]のスキをついて、○ボタンで BARRETたちにあいずをおくれ！		scene_07
+なんだお前は？こんなところで何をしている？	The hell are you? What're you doin' around here?	前何	なんだお 前[まえ]は？こんなところで 何[なに]をしている？		scene_08
+AERISはどこだ！	Where's AERIS?		AERISはどこだ！		scene_08
+AERIS？その名を知っているとはお前まさか！？	AERIS? How did you know that name? You must be…	名知前	AERIS？その 名[な]を 知[し]っているとはお 前[まえ]まさか！？		scene_08
+AERISってあのコだろ。受付の。じつはオレもあのコ気になってるんだよね	AERIS, you mean that kid. The receptionist? I was startin' to worry about her, too.	受付気	AERISってあのコだろ。 受付[うけつけ]の。じつはオレもあのコ 気[き]になってるんだよね		scene_08
+ウーン、はやくもライバル出現……	And so another rival appears on the scene, eh?	出現	ウーン、はやくもライバル 出現[しゅつげん]……		scene_08
+え、そうじゃない？なんだ、人違いか	You mean, she's not? It's someone else?	人違	え、そうじゃない？なんだ、 人違[ひとちが]いか		scene_08
+ハハーン……わかったぞ。さてはお前、アレだな？いまウワサの……	Oh, I see. So you must be that whatcha call it…	前	ハハーン……わかったぞ。さてはお 前[まえ]、アレだな？いまウワサの……		scene_08
+神羅カンパニー修理課　！！	Shinra, Inc. Repair Division!!	神羅修理課	神[しん] 羅[ら]カンパニー 修理[しゅうり] 課[か]　！！		scene_08
+いや～、このビルもそろそろあちこちにガタがきててなあ	You know, this building looks like it's starting to fall apart.		いや~、このビルもそろそろあちこちにガタがきててなあ		scene_08
+この階のドア開きっぱなしなんだ。早く直してくれよな	This door was just pushed open. You ought to fix this right away.	階開早直	この 階[かい]のドア 開[びら]きっぱなしなんだ。 早[はや]く 直[なお]してくれよな		scene_08
+あ、そうそういちおう他の階も見回ってくれよ。これ、やるから	Oh yeah, and take a look on the other floors, too. Here, take this.	他階見回	あ、そうそういちおう 他[ほか]の 階[かい]も 見回[みまわ]ってくれよ。これ、やるから		scene_08
+キーアイテム『カードキー６２』を手にいれた！	"Received Key Item ""Keycard 62""!"	手	キーアイテム『カードキー６２』を 手[て]にいれた！		scene_08
+ここはリフレッシュ・フロア。この上は、おえらがたがいる特別なフロアが多いからね	This is the lounge floor. Above us are the special floors for the company big wigs.	上特別多	ここはリフレッシュ・フロア。この 上[うえ]は、おえらがたがいる 特別[とくべつ]なフロアが 多[おお]いからね		scene_08
+その下ではたらく我々もいろいろとつかれるんだよ。いろいろとね……	It's tough working under someone. It wears you out.	下我	その 下[した]ではたらく 我々[われわれ]もいろいろとつかれるんだよ。いろいろとね……		scene_08
+さっき下の方がさわがしかったけど何かあったのかしら？	I thought I heard a ruckus downstairs a minute ago. Do you know what that was all about?	下方何	さっき 下[か]の 方[ほう]がさわがしかったけど 何[なに]かあったのかしら？		scene_08
+さあな。ま、６０階から上は何があっても安全だ。気にすることもないって	No idea. But no need to worry because everything above the 60th floor is safe.	階上何安全気	さあな。ま、６０ 階[かい]から 上[うえ]は 何[なに]があっても 安全[あんぜん]だ。 気[き]にすることもないって		scene_08
+あいつ、遅いな……カードキー忘れたかな？	What's keeping her? Did she forget her keycard?	遅忘	あいつ、 遅[おそ]いな……カードキー 忘[わす]れたかな？		scene_08
+社員といえど６０階から上はカードキーがないと自由に歩けないからな……	Even employees can't access floors above the 60th without a keycard.	社員階上自由歩	社員[しゃいん]といえど６０ 階[かい]から 上[うえ]はカードキーがないと 自由[じゆう]に 歩[ある]けないからな……		scene_08
+あら、見かけない顔……新しく配属されたのね？	I don't remember seeing your face before… You new here?	見顔新配属	あら、 見[み]かけない 顔[かお]…… 新[あたら]しく 配属[はいぞく]されたのね？		scene_08
+いいわ、私がいろいろおしえてあげる♥	Say, you're cute. Let me teach you some…things.	私	いいわ、 私[わたし]がいろいろおしえてあげる♥		scene_08
+い、いろいろ？	Things?		い、いろいろ？		scene_08
+急いでいるもので……	Um, I'm kinda in a hurry…	急	急[いそ]いでいるもので……		scene_08
+あら、そう。ざんねんだわ……	Oh? That's too bad…		あら、そう。ざんねんだわ……		scene_08
+なーに、ヘンな顔して。教えてあげるのは、ここから上のフロアのことよ	Wipe that stupid look off your face. I was only going to teach you how to get to the next floor.	顔教上	なーに、ヘンな 顔[かお]して。 教[おし]えてあげるのは、ここから 上[うえ]のフロアのことよ		scene_08
+６０階から上は、役員クラスの社員の多い特別フロア。カードキーがないと入ることも許可されないの	The higher ups in the company use the floors above the 60th floor. But you can't get there without a keycard.	階上役員社多特別入許可	６０ 階[かい]から 上[うえ]は、 役員[やくいん]クラスの 社員[しゃいん]の 多[おお]い 特別[とくべつ]フロア。カードキーがないと 入[はい]ることも 許可[きょか]されないの		scene_08
+カードキーがあれば階段もエレベーターも自由に使えるわ	Get a keycard and you can use the elevators freely.	階段自由使	カードキーがあれば 階段[かいだん]もエレベーターも 自由[じゆう]に 使[つか]えるわ		scene_08
+エレベーターはホラ、私の横にあるこのドアの前で【決定ボタン】　を押すの。そうすると……	…voila! Hear that sound and the door will open.	私横前決定押	エレベーターはホラ、 私[わたし]の 横[よこ]にあるこのドアの 前[まえ]で【 決定[けってい]ボタン】　を 押[お]すの。そうすると……		scene_08
+……っていう音がしてドアが開くから	Just remember there are different types of cards. One keycard alone won't let you go everywhere.	音開	……っていう 音[おと]がしてドアが 開[ひら]くから		scene_08
+でもね、カードキーにも何種類かあって、１枚でどこでも、ってわけにはいかないのよ	For example,	何種類枚	でもね、カードキーにも 何種類[なんしゅるい]かあって、１ 枚[まい]でどこでも、ってわけにはいかないのよ		scene_08
+そうね、たとえば『カードキー６０』なら６０階まで。『カードキー６５』なら６５階まで。そういうことよ	'Keycard 60' only takes you to the 60th floor. Keycard 65' only takes you to the 65th floor.	階	そうね、たとえば『カードキー６０』なら６０ 階[かい]まで。『カードキー６５』なら６５ 階[かい]まで。そういうことよ		scene_08
+まあミッドガル、いえ、今や世界のエネルギー流通を一手にひきうける神羅カンパニーの本社としては、当然のセキュリティよね	It's a security system worthy of Shinra. After all, they control everything in Midgar and in the world for that matter.	今世界流通一手神羅本社当然	まあミッドガル、いえ、 今[いま]や 世界[せかい]のエネルギー 流通[りゅうつう]を 一手[いって]にひきうける 神[しん] 羅[ら]カンパニーの 本社[ほんしゃ]としては、 当然[とうぜん]のセキュリティよね		scene_08
+あらやだ、長くなっちゃったわ。それじゃおたがい、お仕事がんばりましょうね♥	Oh, I have to go. Gotta get back to work!	長仕事	あらやだ、 長[なが]くなっちゃったわ。それじゃおたがい、お 仕事[しごと]がんばりましょうね♥		scene_08
+神羅カンパニー	Shinra, Inc.	神羅	神[しん] 羅[ら]カンパニー		scene_08
+都市開発部門資料室	Urban Dev. Research Library	都市開発部門資料室	都市[とし] 開発[かいはつ] 部門[ぶもん] 資料室[しりょうしつ]		scene_08
+宇宙開発部門資料室	Space Dev. Research Library	宇宙開発部門資料室	宇宙開発[うちゅうかいはつ] 部門[ぶもん] 資料室[しりょうしつ]		scene_08
+治安維持部門・兵器開発部門資料室	Peace Preservation/ Weapon Dev. Research Library	治安維持部門兵器開発資料室	治安維持[ちあんいじ] 部門[ぶもん]・ 兵器[へいき] 開発[かいはつ] 部門[ぶもん] 資料室[しりょうしつ]		scene_08
+科学部門資料室	Scientific Research Library	科学部門資料室	科学[かがく] 部門[ぶもん] 資料室[しりょうしつ]		scene_08
+ハット	Hart		ハット		scene_08
+あ、これはどうも	How do you do?		あ、これはどうも		scene_08
+こちらはこのミッドガルの市長室でございます。この中にはドミノ市長がいらっしゃいます	This is the Midgar Mayor's Office. Mayor Domino is in his office.	市長室中	こちらはこのミッドガルの 市長[しちょう] 室[しつ]でございます。この 中[なか]にはドミノ 市長[しちょう]がいらっしゃいます		scene_08
+ちなみにわたくしはミッドガルの助役です。困ったことがありましたらぜひわたくしに……	I am the Deputy Mayor. If you should have any questions feel free to ask me…	助役困	ちなみにわたくしはミッドガルの 助役[じょやく]です。 困[こま]ったことがありましたらぜひわたくしに……		scene_08
+ドミノ	Domino		ドミノ		scene_08
+あ～？なんだねキミたちは？	Hmm? Oh, and who might you be?		あ~？なんだねキミたちは？		scene_08
+ああ、キミらが例の……私？　私はこの魔晄都市ミッドガルの市長、ドミノだ	You all must be those…ahem… Me? I'm Domino, the Mayor of Midgar.	例私魔晄都市長	ああ、キミらが 例[れい]の…… 私[わたし]？　 私[わたし]はこの 魔[ま] 晄[こう] 都市[とし]ミッドガルの 市長[しちょう]、ドミノだ		scene_08
+とは言っても名前だけ。ホントのところ、ミッドガルのすべては神羅のものだ	Actually, I'm Mayor in name only. The city and everything in it is really run by Shinra, Inc.	言名前神羅	とは 言[い]っても 名前[なまえ]だけ。ホントのところ、ミッドガルのすべては 神[しん] 羅[ら]のものだ		scene_08
+今の私の仕事といったら神羅カンパニーの資料管理……	My only real job is watching over Shinra's documents…	今私仕事神羅資料管理	今[いま]の 私[わたし]の 仕事[しごと]といったら 神[しん] 羅[ら]カンパニーの 資料[しりょう] 管理[かんり]……		scene_08
+ミッドガルの市長が！神羅の資料を！ハア……	Me! The Mayor! A librarian! Ohh…	市長神羅資料	ミッドガルの 市長[しちょう]が！ 神[しん] 羅[ら]の 資料[しりょう]を！ハア……		scene_08
+キミら、上へ行きたいんだろ？いいとも、私のカードキーをやろう。合言葉を言えたらな	You want to get upstairs? I tell you what, if you can guess the password, I'll give you my keycard.	上行私合言葉	キミら、 上[うえ]へ 行[い]きたいんだろ？いいとも、 私[わたし]のカードキーをやろう。 合言葉[あいことば]を 言[い]えたらな		scene_08
+そう、合言葉だ。それを言えたら、カードをやろう	Yes, that's it. Guess the password and I'll give you my keycard!	合言葉	そう、 合言葉[あいことば]だ。それを 言[い]えたら、カードをやろう		scene_08
+おまけに１回で当てたらナイスなおみやげもつけてやるぞ？	Get it on the first try and I'll even throw in a special item!	回当	おまけに１ 回[かい]で 当[あ]てたらナイスなおみやげもつけてやるぞ？		scene_08
+合言葉がわかったのか？では言ってみたまえ	Got it? Then tell me.	合言葉	合言葉[あいことば]がわかったのか？では 言[い]ってみたまえ		scene_08
+合言葉は？	So, what's the password?	合言葉	合言葉[あいことば]は？		scene_08
+市長最高！！	BEST	市長最高	市長[しちょう] 最高[さいこう]！！		scene_08
+神羅最低！！	KING	神羅最低	神[しん] 羅[ら] 最低[さいてい]！！		scene_08
+魔晄最高！！	ORBS	魔晄最高	魔[ま] 晄[こう] 最高[さいこう]！！		scene_08
+市長爆発！！	BOMB	市長爆発	市長[しちょう] 爆発[ばくはつ]！！		scene_08
+魔晄爆発！！	MAKO	魔晄爆発	魔[ま] 晄[こう] 爆発[ばくはつ]！！		scene_08
+神羅爆発！！	HOJO	神羅爆発	神[しん] 羅[ら] 爆発[ばくはつ]！！		scene_08
+ちょっと待ってくれ	Wait a second	待	ちょっと 待[ま]ってくれ		scene_08
+ぜんぜん違う！もっとすばらしい言葉だ！やり直し！	Nope! You're ALL wrong! It's a much better word than that! Try again!	違言葉直	ぜんぜん 違[ちが]う！もっとすばらしい 言葉[ことば]だ！やり 直[なお]し！		scene_08
+市　　長　　最　　高　　！！	BEST!!	市長最高	市[し]　　 長[ちょう]　　 最[さい]　　 高[こう]　　！！		scene_08
+なんとすばらしいひびき！そのとおり！ミッドガルの市長は最高！誰が何と言おうと最高！	God, I love the sound of that! BEST!! I AM the best…ME!! No matter what anyone else says, you'd better believe it.	市長最高誰何言	なんとすばらしいひびき！そのとおり！ミッドガルの 市長[しちょう]は 最高[さいこう]！ 誰[だれ]が 何[なん]と 言[い]おうと 最高[さいこう]！		scene_08
+……フン、まあいいだろう。ホラ、持っていけ	…hmm. Well, OK. Here, take it.	持	……フン、まあいいだろう。ホラ、 持[も]っていけ		scene_08
+神　　羅　　最　　低　　！！	KING!!	神羅最低	神[かみ]　　 羅[ら]　　 最[さい]　　 低[てい]　　！！		scene_08
+なんとすばらしいひびき！そのとおり！プレジデント神羅は最低！私こそミッドガルの主！	God, I love the sound of that! KING!! President Shinra sucks! I should be King of Midgar!	神羅最低私主	なんとすばらしいひびき！そのとおり！プレジデント 神[しん] 羅[ら]は 最低[さいてい]！ 私[わたし]こそミッドガルの 主[あるじ]！		scene_08
+市　　長　　爆　　発　　！！	BOMB!!	市長爆発	市[し]　　 長[ちょう]　　爆　　 発[はつ]　　！！		scene_08
+なんとすばらしいひびき！そのとおり！私の怒りは最高レベルに！もう爆発しそうだ！	God, I love the sound of that! BOMB!! I'm so angry, I'm like a walking time bomb waiting to explode!	私怒最高爆発	なんとすばらしいひびき！そのとおり！ 私[わたし]の 怒[いか]りは 最[さい] 高レベル[こうれべる]に！もう 爆発[ばくはつ]しそうだ！		scene_08
+魔　　晄　　爆　　発　　！！	MAKO!!	魔晄爆発	魔[ま]　　 晄[あきら]　　爆　　 発[はつ]　　！！		scene_08
+なんとすばらしいひびき！そのとおり！魔晄エネルギーを爆発させろ！そして私を真の市長に！	God, I love the sound of that! MAKO! If I had a lot more of it, I would be a real Mayor!	魔晄爆発私真市長	なんとすばらしいひびき！そのとおり！ 魔[ま] 晄[こう]エネルギーを 爆発[ばくはつ]させろ！そして 私[わたし]を 真[しん]の 市長[しちょう]に！		scene_08
+キーアイテム『カードキー６５』を手に入れた！	"Received ""Keycard 65""!"	手入	キーアイテム『カードキー６５』を 手[て]に 入[い]れた！		scene_08
+なんでこんなコトするか？	Why would I do something like this, you ask?		なんでこんなコトするか？		scene_08
+きまってるじゃないか。イヤガラセだよ。イヤガラセ	Revenge, of course!		きまってるじゃないか。イヤガラセだよ。イヤガラセ		scene_08
+いいか、神羅はずっと私を苦しめてきたんだぞ	Shinra's been torturing me forever.	神羅私苦	いいか、 神[しん] 羅[ら]はずっと 私[わたし]を 苦[くる]しめてきたんだぞ		scene_08
+だから私はここでキミたちをなやませ今度はキミたちが上へ行って神羅のやつらを困らせる	That's why I was a little rough on you all just now. Now go up there and really make them suffer.	私今度上行神羅困	だから 私[わたし]はここでキミたちをなやませ 今度[こんど]はキミたちが 上[うえ]へ 行[い]って 神[しん] 羅[ら]のやつらを 困[こま]らせる		scene_08
+どうだ、これでおあいこだろ。ヒ、ヒヒ、ヒヒヒ……	This ought to teach them! Heh heh heh…		どうだ、これでおあいこだろ。ヒ、ヒヒ、ヒヒヒ……		scene_08
+言っておくが、私のカードでは６５階までしかのぼれんよ	But my card will only get you to the 65th floor.	言私階	言[い]っておくが、 私[わたし]のカードでは６５ 階[かい]までしかのぼれんよ		scene_08
+神羅め、この私を……この私を一般社員とおなじあつかいに……	Can you believe how they treat me? …ME! Like some common employee…	神羅私一般社員	神[しん] 羅[ら]め、この 私[わたし]を……この 私[わたし]を 一般[いっぱん] 社員[しゃいん]とおなじあつかいに……		scene_08
+市長の話はお聞きになりました？	Did you speak with the Mayor?	市長話聞	市長[しちょう]の 話[はなし]はお 聞[き]きになりました？		scene_08
+は？合言葉？ははあ、なるほど……	What? A password? Oh, I get it…	合言葉	は？ 合言葉[あいことば]？ははあ、なるほど……		scene_08
+あの人もヒマなんですよ。なんせミッドガルの全権はほとんどプレジデント神羅のものですからね	He's got way too much time on his hands. But you can't really blame him, Everything in Midgar is controlled by President Shinra.	人全権神羅	あの 人[ひと]もヒマなんですよ。なんせミッドガルの 全権[ぜんけん]はほとんどプレジデント 神[しん] 羅[ら]のものですからね		scene_08
+そういうことならわたくしがお手伝いしましょう	Maybe I can help you.	手伝	そういうことならわたくしがお 手伝[てつだ]いしましょう		scene_08
+なんでもお答えしますよ？	What do you want to know?	答	なんでもお 答[こた]えしますよ？		scene_08
+合言葉を教えて	The password…duh!	合言葉教	合言葉[あいことば]を 教[おし]えて		scene_08
+ヒントをくれ	How about a hint?		ヒントをくれ		scene_08
+助けなどいらない	Get out of my face	助	助[たす]けなどいらない		scene_08
+ハア、そうですか。ではしかたありませんね	…I see. Then, I guess that's that.		ハア、そうですか。ではしかたありませんね		scene_08
+がんばってご自分で見つけてください	Good luck finding it on your own.	自分見	がんばってご 自分[じぶん]で 見[み]つけてください		scene_08
+どうしてもわからなかったらまたどうぞ。いつでもお教えしますよ……	If you decide you want help. I'll just be right over here. Ready to tell you anytime…	教	どうしてもわからなかったらまたどうぞ。いつでもお 教[おし]えしますよ……		scene_08
+ハイハイ。何がお望みで？	What can I do for you?	何望	ハイハイ。 何[なに]がお 望[のぞ]みで？		scene_08
+さっきのヒントをもう１度	Give me the hint again	度	さっきのヒントをもう１ 度[ど]		scene_08
+次のヒントを	Give me the next hint	次	次[つぎ]のヒントを		scene_08
+なんでもない	Uh, nothing		なんでもない		scene_08
+ええ、いいですとも。いいですとも	Sure, sure. All right.		ええ、いいですとも。いいですとも		scene_08
+市民のみなさんにサービスすることこそわたくしたち役人のよろこび	As a public servant, it's my job to serve the needs of the people.	市民役人	市民[しみん]のみなさんにサービスすることこそわたくしたち 役人[やくにん]のよろこび		scene_08
+こころよくヒントを お教えしましょう！	So here's a hint…	教	こころよくヒントをお 教[おし]えしましょう！		scene_08
+……５００ギルで	…for 500 gil.		……５００ギルで		scene_08
+金をだそう	Give him the money	金	金[きん]をだそう		scene_08
+ふざけるな！	Forget it!		ふざけるな！		scene_08
+……１０００ギルで	…for 1000 gil.		……１０００ギルで		scene_08
+……２０００ギルで	…for 2000 gil.		……２０００ギルで		scene_08
+……５０００ギルで	…for 5000 gil.		……５０００ギルで		scene_08
+……１５０００ギルで	…for 15000 gil.		……１５０００ギルで		scene_08
+助けてくれ	HELP	助	助[たす]けてくれ		scene_08
+おやおや。お金がたりないようですが？	Hey now! You're a bit short.	金	おやおや。お 金[かね]がたりないようですが？		scene_08
+今どきスラムの道具屋だってツケはききませんよ……	No one works on credit nowadays… not even stores in the slums.	今道具屋	今[いま]どきスラムの 道具屋[どうぐや]だってツケはききませんよ……		scene_08
+しかし、これだけのヒントでもわからないとは……	I can't believe it! I gave you all these hints, and you STILL don't get it?		しかし、これだけのヒントでもわからないとは……		scene_08
+あなたがた、やっぱりスゴイ人だ。いろんなイミで	You guys are amazing! Really, amazing…	人	あなたがた、やっぱりスゴイ 人[じん]だ。いろんなイミで		scene_08
+こうなったらもうズバリ合言葉をお教えします！	Well, seeing as things have come to this, I might as well just tell you.	合言葉教	こうなったらもうズバリ 合言葉[あいことば]をお 教[おし]えします！		scene_08
+これはこれは…… ありがとうございます。	Oh, my…well, Thank you very much.		これはこれは……ありがとうございます。		scene_08
+いいですか。このフロアには神羅カンパニーの４つの部門の資料室があります	Now listen. On this floor are four research libraries for four different sections of Shinra, Inc….	神羅部門資料室	いいですか。このフロアには 神[しん] 羅[ら]カンパニーの ４[よっ]つの 部門[ぶもん]の 資料室[しりょうしつ]があります		scene_08
+合言葉はその４つの資料室にかくされています	Parts of the password are hidden in each of the libraries.	合言葉資料室	合言葉[あいことば]はその ４[よっ]つの 資料室[しりょうしつ]にかくされています		scene_08
+各部屋の資料をよ～く調べてみてください	Pay careful attention to the files in each room.	各部屋資料調	各[かく] 部屋[へや]の 資料[しりょう]をよ~く 調[しら]べてみてください		scene_08
+資料室の名前はドアの横のプレートに書いてあります	The name of each library is written on the plaque outside the door.	資料室名前横書	資料室[しりょうしつ]の 名前[なまえ]はドアの 横[よこ]のプレートに 書[か]いてあります		scene_08
+いいですか。どの資料室にも１つだけ他の部の資料がまぎれこんでいるはずです	Now, in each library will be one file mixed in from another library.	資料室他部	いいですか。どの 資料室[しりょうしつ]にも １[ひと]つだけ 他[ほか]の 部[ぶ]の 資料[しりょう]がまぎれこんでいるはずです		scene_08
+その資料の数字とファイル名をよく見ると……	Look carefully at the numbers on each file.	資料数字名見	その 資料[しりょう]の 数字[すうじ]と ファイル名[ふぁいるめい]をよく 見[み]ると……		scene_08
+いいですか。すべての資料には数字がついています	There is a number at the beginning of each file name.	資料数字	いいですか。すべての 資料[しりょう]には 数字[すうじ]がついています		scene_08
+各部屋にまぎれこんでいる資料の名前を、その数字と見くらべてください	Look at the number on the files that don't belong in that library. Match the number with the letters in the title of the file.	各部屋資料名前数字見	各[かく] 部屋[へや]にまぎれこんでいる 資料[しりょう]の 名前[なまえ]を、その 数字[すうじ]と 見[み]くらべてください		scene_08
+『４』と書いてある資料なら名前の４文字目を……もう、おわかりでしょ？	If the file starts with a 4, then check the fourth letter and… well, you get the idea.	書資料名前文字目	『４』と 書[か]いてある 資料[しりょう]なら 名前[なまえ]の４ 文字[もじ] 目[め]を……もう、おわかりでしょ？		scene_08
+次のヒントって……もう、ズバリ答えを言っちゃったじゃないですか！	What do you mean the next hint? I've practically told you, didn't I?	次答言	次[つぎ]のヒントって……もう、ズバリ 答[こた]えを 言[い]っちゃったじゃないですか！		scene_08
+……わかりました。特別にわたくしのカードキーをさしあげましょう！	…all right. Since this seems like a special case, I'll give you MY key card!	特別	……わかりました。 特別[とくべつ]にわたくしのカードキーをさしあげましょう！		scene_08
+もしプレジデント神羅に会っても、わたくしのことは言わないでくださいよ	If you run into President Shinra, please don't tell him about this.	神羅会言	もしプレジデント 神[しん] 羅[ら]に 会[あ]っても、わたくしのことは 言[い]わないでくださいよ		scene_08
+これ以上神羅にイジメられるのはゴメンですからね……	I can't be a partner to anymore trouble for Shinra.	以上神羅	これ 以上[いじょう] 神[しん] 羅[ら]にイジメられるのはゴメンですからね……		scene_08
+なんと、１回でズバリあてるとは……	I never thought you'd get it on the first try…	回	なんと、１ 回[かい]でズバリあてるとは……		scene_08
+ひとは見かけによらないものだ。まあいい、約束は約束だ。これもやろう	Just goes to show you can't judge a book by its cover. Oh well, a promise is a promise. Take this, too.	見約束	ひとは 見[み]かけによらないものだ。まあいい、 約束[やくそく]は 約束[やくそく]だ。これもやろう		scene_08
+『ぞくせい』のマテリアを手にいれた！	"Received ""Elemental"" Materia!"	手	『ぞくせい』のマテリアを 手[て]にいれた！		scene_08
+……なんだ、アレはいっぱいか。アレに空きができたら、またきたまえ	What…full already? Come back again when it's empty.	空	……なんだ、アレはいっぱいか。アレに 空[あ]きができたら、またきたまえ		scene_08
+『ポーション』を手にいれた！-	"Received ""Potion""!"	手	『ポーション』を 手[て]にいれた！-		scene_08
+フン、そこそこ頭ははたらくようだ	Hmm. It appears you're not completely stupid.	頭	フン、そこそこ 頭[あたま]ははたらくようだ		scene_08
+いいだろう、これをうけとりたまえ	Fine then, take this.		いいだろう、これをうけとりたまえ		scene_08
+なるほど……ま、キミらならこんなものかな	I see… For you…this might be best.		なるほど……ま、キミらならこんなものかな		scene_08
+それでは、キミたちにあげるのもこんなものだ	Then, this is for all of you.		それでは、キミたちにあげるのもこんなものだ		scene_08
+やれやれ、やっとあてたか……	Hoo boy! You finally got it?		やれやれ、やっとあてたか……		scene_08
+やはり頭を使うのは苦手かね？	You all really don't use your heads much, do you?	頭使苦手	やはり 頭[あたま]を 使[つか]うのは 苦手[にがて]かね？		scene_08
+……まあいい。とっておきたまえ	……What the hey. Here, just take it anyway.		……まあいい。とっておきたまえ		scene_08
+ここは科学部門の資料室です。	This is the Scientific Research Library.	科学部門資料室	ここは 科学[かがく] 部門[ぶもん]の 資料室[しりょうしつ]です。		scene_08
+他の３つの資料室にはそれぞれ……の資料が保管されています。	Materials for the… are held in their respective libraries…	他資料室保管	他[ほか]の ３[みっ]つの 資料室[しりょうしつ]にはそれぞれ……の 資料[しりょう]が 保管[ほかん]されています。		scene_08
+都市開発部門	Urban Dev. Library	都市開発部門	都市[とし] 開発[かいはつ] 部門[ぶもん]		scene_08
+治安維持・兵器開発部門	Peace/Weapon Dev. Library	治安維持兵器開発部門	治安維持[ちあんいじ]・ 兵器[へいき] 開発[かいはつ] 部門[ぶもん]		scene_08
+宇宙開発部門	Space Dev. Library	宇宙開発部門	宇宙開発[うちゅうかいはつ] 部門[ぶもん]		scene_08
+持ちだし禁止！このフロアの資料はすべて外部に持ちだすことを禁じられています。	Materials are non-circulating! Please do not remove any Materials from this floor.	持禁止資料外部	持[も]ちだし 禁止[きんし]！このフロアの 資料[しりょう]はすべて 外部[がいぶ]に 持[も]ちだすことを 禁[きん]じられています。		scene_08
+２　神羅プレート都市の 設計とその間題点	2 Problems with Plate construction in Midgar	神羅都市設計間題点	２　 神[しん] 羅[ら]プレート 都市[とし]の 設計[せっけい]とその 間[かん] 題[だい] 点[てん]		scene_08
+２　魔晄炉建造工事 都市部着工予定表	5 Reactor Construction Chart	魔晄炉建造工事都市部着予定表	２　 魔[ま] 晄[こう] 炉[ろ] 建造[けんぞう] 工事[こうじ] 都市部[としぶ] 着工[ちゃっこう] 予定表[よていひょう]		scene_08
+８　魔晄炉建造工事 都市部着工予定表	6 Reactor Construction Chart	魔晄炉建造工事都市部着予定表	８　 魔[ま] 晄[こう] 炉[ろ] 建造[けんぞう] 工事[こうじ] 都市部[としぶ] 着工[ちゃっこう] 予定表[よていひょう]		scene_08
+６　魔晄兵器の長期使用に 関する特別規定	4 Ranks and extended use of Mako weaponry	魔晄兵器長期使用関特別規定	６　 魔[ま] 晄[こう] 兵器[へいき]の 長期[ちょうき] 使用[しよう]に 関[かん]する 特別[とくべつ] 規定[きてい]		scene_08
+１　魔晄兵器の長期使用に 関する特別規定	24 Ranks and extended use of Mako weaponry	魔晄兵器長期使用関特別規定	１　 魔[ま] 晄[こう] 兵器[へいき]の 長期[ちょうき] 使用[しよう]に 関[かん]する 特別[とくべつ] 規定[きてい]		scene_08
+４　ミッドガル区分地図 ０番街～４番街	4 Midgar City map: Sectors 0-4	区分地図番街	４　ミッドガル 区分[くぶん] 地図[ちず]０ 番[ばん] 街[がい]~４ 番[ばん] 街[がい]		scene_08
+５　ミッドガル区分地図 ５番街～８番街	9 Midgar City map: Sectors 5-8	区分地図番街	５　ミッドガル 区分[くぶん] 地図[ちず]５ 番[ばん] 街[がい]~８ 番[ばん] 街[がい]		scene_08
+６　　図説　カトー式都市空間工法	3 An illustrated guide to City Planning	図説式都市空間工法	６　　 図説[ずせつ]　カトー 式[しき] 都市空間[としくうかん] 工法[こうほう]		scene_08
+１　　ジェノバプロジェクト 経過報告書 神羅カンパニー科学部門	4 The Jenova Project	経過報告書神羅科学部門	１　　ジェノバプロジェクト 経過[けいか] 報告書[ほうこくしょ] 神[しん] 羅[ら]カンパニー 科学[かがく] 部門[ぶもん]		scene_08
+２　ミッドガル周辺に生息する 突然変異生物実験データ	6 Data on experimental animals living near Midgar	周辺生息突然変異物実験	２　ミッドガル 周辺[しゅうへん]に 生息[せいそく]する 突然変異[とつぜんへんい] 生物[せいぶつ] 実験[じっけん]データ		scene_08
+３　　　　ガストファイル 生物博士ガスト・ファレミス	3 File on Dr. Gast, Biologist	生物博士	３　　　　ガストファイル 生物[せいぶつ] 博士[はかせ]ガスト・ファレミス		scene_08
+７　　　歴史の中の古代種生物博士ガスト・ファレミス	14 The Ancients in History	歴史中古代種生物博士	７　　　 歴史[れきし]の 中[なか]の 古代[こだい] 種[しゅ] 生物[せいぶつ] 博士[はかせ]ガスト・ファレミス		scene_08
+３　新都市建設計画書	8 New plans for Urban Planning	新都市建設計画書	３　 新[しん] 都市[とし] 建設[けんせつ] 計画書[けいかくしょ]		scene_08
+１　新都市建設計画書	10 New plans for Urban Planning	新都市建設計画書	１　 新[しん] 都市[とし] 建設[けんせつ] 計画書[けいかくしょ]		scene_08
+５　生物体の高レベル魔晄による	4 Report on high Mako levels in living beings	生物体高魔晄	５　 生物体[せいぶつたい]の 高レベル[こうれべる] 魔[ま] 晄[こう]による		scene_08
+影響に対する調査	2 Mako energy and the rise in life forms	影響対調査	影響[えいきょう]に 対[たい]する 調査[ちょうさ]		scene_08
+４　生物の爆発的進化と 魔晄エネルギー ６　地上生物の最終進化論	8 Final evolutionary stages in land dwelling life	生物爆発的進化魔晄地上最終論	４　 生物[せいぶつ]の 爆発的[ばくはつてき] 進化[しんか]と 魔[ま] 晄[こう]エネルギー６　 地上[ちじょう] 生物[せいぶつ]の 最終[さいしゅう] 進化論[しんかろん]		scene_08
+８　伝承における古代種の生物学的特性	1 Biological characteristics of the Ancients	伝承古代種生物学的特性	８　 伝承[でんしょう]における 古代[こだい] 種[しゅ]の 生物学[せいぶつがく] 的[てき] 特性[とくせい]		scene_08
+[COULDN'T FIND IT]	10 Biological characteristics of the Ancients		[ COULDN' T FIND IT]		scene_08
+２　　宇宙開発部門 栄光の歴史　上巻	16 Modern history of Midgar space program vol. 1	宇宙開発部門栄光歴史上巻	２　　 宇宙開発[うちゅうかいはつ] 部門[ぶもん] 栄光[えいこう]の 歴史[れきし]　 上巻[じょうかん]		scene_08
+４　　宇宙開発部門 栄光の歴史　下巻	19 Modern history of the Midgar Space Dev Program Vol. 2	宇宙開発部門栄光歴史下巻	４　　 宇宙開発[うちゅうかいはつ] 部門[ぶもん] 栄光[えいこう]の 歴史[れきし]　 下巻[げかん]		scene_08
+９　魔晄エネルギーの低下と 惑星運動	7 Diminishing Mako energy and Planet movements	魔晄低下惑星運動	９　 魔[ま] 晄[こう]エネルギーの 低下[ていか]と 惑星[わくせい] 運動[うんどう]		scene_08
+５　大型飛行機械「ヨナイ７９式	"1 Results of failed space mission ""YA-79"""	大型飛行機械式	５　 大型[おおがた] 飛行[ひこう] 機械[きかい]「ヨナイ７９ 式[しき]		scene_08
+宇宙進出計画の失敗	6 Shinra rocket space travel	宇宙進出計画失敗	宇宙[うちゅう] 進出[しんしゅつ] 計画[けいかく]の 失敗[しっぱい]		scene_08
+６　神羅ロケットエンジンと 大陸間航行機	7 Economic report: Space Dev Program	神羅大陸間航行機	６　 神[しん] 羅[ら]ロケットエンジンと 大陸[たいりく] 間[かん] 航行[こうこう] 機[き]		scene_08
+１　　最終予算報告書 神羅宇宙開発部門	10 Materia production and its military uses	最終予算報告書神羅宇宙開発部門	１　　 最終[さいしゅう] 予算[よさん] 報告書[ほうこくしょ] 神[しん] 羅[ら] 宇宙開発[うちゅうかいはつ] 部門[ぶもん]		scene_08
+１　　マテリアの製造および その軍事的利用に関する権利	3 Special peace keeping law	製造軍事的利用関権	１　　マテリアの 製造[せいぞう]およびその 軍事的[ぐんじてき] 利用[りよう]に 関[かん]する 権利[けんり]		scene_08
+２　特別治安維持法 ハイデッカー私案	1 Heidegger's Shinra peace keeping law	特別治安維持法私案	２　 特別[とくべつ] 治安維持法[ちあんいじほう]ハイデッカー 私案[しあん]		scene_08
+１　神羅特別治安維持法 ハイデッカー私案	1 Breakdown of SOLDIER members by class	神羅特別治安維持法私案	１　 神[しん] 羅[ら] 特別[とくべつ] 治安維持法[ちあんいじほう]ハイデッカー 私案[しあん]		scene_08
+３　クラス別ソルジャー配備データ ４　新式地上兵器開発プラン	3 Plan for new land weapons	別配備新式地上兵器開発	３　クラス 別[べつ]ソルジャー 配備[はいび]データ４　 新式[しんしき] 地上[ちじょう] 兵器[へいき] 開発[かいはつ]プラン		scene_08
+６　ミッドガル治安白書 反神羅勢力の現状	4 Midgar crime white paper	治安白書反神羅勢力現状	６　ミッドガル 治安[ちあん] 白書[はくしょ] 反[はん] 神[しん] 羅[ら] 勢力[せいりょく]の 現状[げんじょう]		scene_08
+７　神羅プレート都市の 設計とその間題点	2 Problems with Plate construction in Midgar	神羅都市設計間題点	７　 神[しん] 羅[ら]プレート 都市[とし]の 設計[せっけい]とその 間[かん] 題[だい] 点[てん]		scene_08
+ここは宇宙開発部門資料室です。 各資料室の場所については 部屋の前にあるプレートを ごらんください。	This is the Space Dev Research Library. Click on the plate in front of each library to see which it is.	宇宙開発部門資料室各場所屋前	ここは 宇宙開発[うちゅうかいはつ] 部門[ぶもん] 資料室[しりょうしつ]です。 各[かく] 資料室[しりょうしつ]の 場所[ばしょ]については 部屋[へや]の 前[まえ]にあるプレートをごらんください。		scene_08
+ここは治安維持部門および 兵器開発部門の資料室です。	This is the Public Order/Weapon Development Library.	治安維持部門兵器開発資料室	ここは 治安維持[ちあんいじ] 部門[ぶもん]および 兵器[へいき] 開発[かいはつ] 部門[ぶもん]の 資料室[しりょうしつ]です。		scene_08
+せいりせいとんを忘れずに！ 他の部門の資料と 間違えないようにしましょう。	Return materials where you found them. Do not mix materials from other libraries.	忘他部門資料間違	せいりせいとんを 忘[わす]れずに！ 他[ほか]の 部門[ぶもん]の 資料[しりょう]と 間違[まちが]えないようにしましょう。		scene_08
+６　地上生物の最終進化論	2Economic report: Space Dev Program	地上生物最終進化論	６　 地上[ちじょう] 生物[せいぶつ]の 最終[さいしゅう] 進化論[しんかろん]		scene_08
+５　　マテリアの製造および その軍事的利用に関する権利	3Special peace keeping law	製造軍事的利用関権	５　　マテリアの 製造[せいぞう]およびその 軍事的[ぐんじてき] 利用[りよう]に 関[かん]する 権利[けんり]		scene_08
+７　ミッドガル治安白書 反神羅勢力の現状	7Economic report: anti-Shinra activities	治安白書反神羅勢力現状	７　ミッドガル 治安[ちあん] 白書[はくしょ] 反[はん] 神[しん] 羅[ら] 勢力[せいりょく]の 現状[げんじょう]		scene_08
+３　　　ガストファイルα 生物博士ガスト・ファレミス	4File on Dr. Gast, biologist	生物博士	３　　　ガストファイル α[あるふぁ] 生物[せいぶつ] 博士[はかせ]ガスト・ファレミス		scene_08
+４　　　ガストファイルβ 生物博士ガスト・ファレミス	4File on Dr. Gast, biologist	生物博士	４　　　ガストファイル β[べーた] 生物[せいぶつ] 博士[はかせ]ガスト・ファレミス		scene_08
+５　生物体の高レベル魔晄による 影響に対する調査	4Report of high Mako levels in life forms	生物体高魔晄影響対調査	５　 生物体[せいぶつたい]の 高レベル[こうれべる] 魔[ま] 晄[こう]による 影響[えいきょう]に 対[たい]する 調査[ちょうさ]		scene_08
+４　生物の爆発的進化と 魔晄エネルギー	2Mako energy and the rise in life forms	生物爆発的進化魔晄	４　 生物[せいぶつ]の 爆発的[ばくはつてき] 進化[しんか]と 魔[ま] 晄[こう]エネルギー		scene_08
+６　伝承における古代種の 生物学的特性	6Biological Characteristics of the Ancients	伝承古代種生物学的特性	６　 伝承[でんしょう]における 古代[こだい] 種[しゅ]の 生物学[せいぶつがく] 的[てき] 特性[とくせい]		scene_08
+ピピッ……このドアをあけまスか？	…beep…beep… Open the door?		ピピッ……このドアをあけまスか？		scene_08
+あける	Yes		あける		scene_08
+やめておく	No		やめておく		scene_08
+ピピッ…… カードキー照合…… ………………	…beep…beep… …verifying keycard… ………	照合	ピピッ……カード キー照合[きーしょうごう]……………………		scene_08
+Ｂランク社員ト確認。アナタは、このフロアのドアを３回まで開けルことが許可されましタ	Level B employee: verified. You are permitted to open doors on this floor up to three times.	社員確認回開許可	Ｂ[びー]ランク 社員[しゃいん]ト 確認[かくにん]。アナタは、このフロアのドアを３ 回[かい]まで 開[あ]けルことが 許可[きょか]されましタ		scene_08
+チュウイ。アイテムクーポンをもラったらわすれズに、アイテムと交換しまショう	blip… If you receive an item coupon, remember to exchange it for an item.	交換	チュウイ。アイテムクーポンをもラったらわすれズに、アイテムと 交換[こうかん]しまショう		scene_08
+ケイコク。キケンですからむやみに通気ダクトをのぞクのはやめまショウ	…Warning…do not enter the air conditioning ducts, they are very dangerous...	通気	ケイコク。キケンですからむやみに 通気[つうき]ダクトをのぞクのはやめまショウ		scene_08
+……ガ…………ガガ……ガ……	…ga… …gaga…ga...		……ガ…………ガガ……ガ……		scene_08
+ピピッ……コマンドを入力してくだサい	…bing…bing… Enter command	入力	ピピッ……コマンドを 入力[にゅうりょく]してくだサい		scene_08
+オールクリア	All Clear		オールクリア		scene_08
+クーポンチェンジ	Coupon Change		クーポンチェンジ		scene_08
+クーポンをアイテムにかえることができまス。もラえるアイテムは……	You can exchange your coupons for items. Here are the items you can have...		クーポンをアイテムにかえることができまス。もラえるアイテムは……		scene_08
+Ａクーポン……『星のペンダント』Ｂクーポン……『フォウスロット』Ｃクーポン……マテリア『ぜんたいか』	A coupon…'Star Pendant' B coupon….'Four Slots' C coupon….'All' Materia	星	Ａ[えい]クーポン……『 星[ほし]のペンダント』 Ｂ[びー]クーポン……『フォウスロット』 Ｃ[しー]クーポン……マテリア『ぜんたいか』		scene_08
+ただし、クーポンチェンジ後のオールクリアはでキません。ゴちゅういくださイ	Please use caution…once you have exchanged coupons for items you may not select 'All Clear'.	後	ただし、クーポンチェンジ 後[ご]のオールクリアはでキません。ゴちゅういくださイ		scene_08
+クーポンチェンジしまスか？	Exchange coupon?		クーポンチェンジしまスか？		scene_08
+………………クーポンチェンジ完了	……… Coupon exchange complete.	完了	………………クーポンチェンジ 完了[かんりょう]		scene_08
+ピピッ……もう一度ハジメからやりなおしまスか？	…bing…bing… Start again from the beginning?	一度	ピピッ……もう 一度[いちど]ハジメからやりなおしまスか？		scene_08
+ただしこのフロアで手にいれタ記録、資料などもすべてクリアされまス	The information and materials you received on this floor will all be cleared.	手記録資料	ただしこのフロアで 手[て]にいれタ 記録[きろく]、 資料[しりょう]などもすべてクリアされまス		scene_08
+クリアしまスか？	Clear them?		クリアしまスか？		scene_08
+………………クリア完了	……… Cleared.	完了	………………クリア 完了[かんりょう]		scene_08
+アナタは、このフロアのドアを３回まで開けルことが許可されましタ	You are permitted to open any door on this floor up to three times.	回開許可	アナタは、このフロアのドアを３ 回[かい]まで 開[あ]けルことが 許可[きょか]されましタ		scene_08
+ピピッ……アナタはすでに３回ドアをあけていまス	Bi, bing… You have opened three doors.	回	ピピッ……アナタはすでに３ 回[かい]ドアをあけていまス		scene_08
+コンピュータにアクセスすればもう１度ハジメからやりなおすことができまス	If you access the computer, You can begin this process one more time.	度	コンピュータにアクセスすればもう１ 度[ど]ハジメからやりなおすことができまス		scene_08
+『星のペンダント』を手にいれた！	"Received ""Star Pendant""!"	星手	『 星[ほし]のペンダント』を 手[て]にいれた！		scene_08
+『きんのすなどけい』を手にいれた！	"Received ""Hourglass""!"	手	『きんのすなどけい』を 手[て]にいれた！		scene_08
+『フォウスロット』を手にいれた！	"Received ""Four Slot""!"	手	『フォウスロット』を 手[て]にいれた！		scene_08
+『グローランス』を手にいれた！	"Received ""Glow Lance""!"	手	『グローランス』を 手[て]にいれた！		scene_08
+通気ダクトか……こちらからはもぐりこめそうにないな	An air-duct… It doesn't look like I can climb in here.	通気	通気[つうき]ダクトか……こちらからはもぐりこめそうにないな		scene_08
+通気ダクトか……	An air-duct…	通気	通気[つうき]ダクトか……		scene_08
+もぐりこんでみるか	Climb in and look around		もぐりこんでみるか		scene_08
+ほうっておこう	Leave it alone		ほうっておこう		scene_08
+キーアイテム『Ａクーポン』を手にいれた！	"Received Key Item ""A Coupon ""!"	手	キーアイテム『 Ａ[えい]クーポン』を 手[て]にいれた！		scene_08
+キーアイテム『Ｂクーポン』を手にいれた！	"Received Key Item ""B Coupon ""!"	手	キーアイテム『 Ｂ[びー]クーポン』を 手[て]にいれた！		scene_08
+キーアイテム『Ｃクーポン』を手にいれた！	"Received Key Item ""C Coupon ""!"	手	キーアイテム『 Ｃ[しー]クーポン』を 手[て]にいれた！		scene_08
+ピピッ……あなタはクーポンをもっていまセん	…beep…beep… You do not have any coupons.		ピピッ……あなタはクーポンをもっていまセん		scene_08
+ピピッ……クーポンチェンジ後のオールクリアはでキません	…beep…beep… After you have exchanged coupons you may no longer use 'All Clear'.	後	ピピッ……クーポンチェンジ 後[ご]のオールクリアはでキません		scene_08
+マテリア『ぜんたいか』をＣクーポンにもどしましタ	Your 'All' Materia was returned for a C Coupon.		マテリア『ぜんたいか』を Ｃ[しー]クーポンにもどしましタ		scene_08
+ハーハー……最近おなかのあたりが気になりだして……	…huff…wheeze… I'm trying to get rid of my love-handles…	最近気	ハーハー…… 最近[さいきん]おなかのあたりが 気[き]になりだして……		scene_08
+フーフー……つかれたらとなりの部屋でやすむといいわよ	…huff…puff… If you get tired, you can rest up in the next room.	部屋	フーフー……つかれたらとなりの 部屋[へや]でやすむといいわよ		scene_08
+フンッ、フンッ……このビルの警備をあずかる者として、体力には気をつかっているのだ	Hmph, hmph… I'm head of building security so stamina's very important to me.	警備者体力気	フンッ、フンッ……このビルの 警備[けいび]をあずかる 者[もの]として、 体力[たいりょく]には 気[き]をつかっているのだ		scene_08
+ビジターの方でございますね。あいているマシンはご自由にご利用ください	You must be a visitor. Feel free to use any open machine.	方自由利用	ビジターの 方[ほう]でございますね。あいているマシンはご 自由[じゆう]にご 利用[りよう]ください		scene_08
+仮眠室か……	A nap room…	仮眠室	仮眠室[かみんしつ]か……		scene_08
+休んでいこう	Let's get some rest	休	休[やす]んでいこう		scene_08
+先を急ごう	Let's move on	先急	先[さき]を 急[いそ]ごう		scene_08
+グーゴー……たのむ……からゆっくりねかせてくれ……	…zzz… Please…let me… get some…rest…		グーゴー……たのむ……からゆっくりねかせてくれ……		scene_08
+『マーベラスチアー』を手にいれた！	"Received ""HP Shout""!"	手	『マーベラスチアー』を 手[て]にいれた！		scene_08
+何だこれ……メガホン？	What is this…a Megaphone?	何	何[なん]だこれ……メガホン？		scene_08
+こんなもの持っていってもしょうがないな	Hanging on to this won't do any good…	持	こんなもの 持[も]っていってもしょうがないな		scene_08
+カギがかかっている……	Locked…		カギがかかっている……		scene_08
+中にはなにもない……	There's nothing inside…	中	中[なか]にはなにもない……		scene_08
+故障中です	Out of Order	故障中	故障[こしょう] 中[ちゅう]です		scene_08
+他の階をご利用下さい	Please use a different floor	他階利用下	他[ほか]の 階[かい]をご 利用[りよう] 下[くだ]さい		scene_08
+神羅カンパニー修理課	Shinra Company Repair Management Department	神羅修理課	神[しん] 羅[ら]カンパニー 修理[しゅうり] 課[か]		scene_08
+体力回復にこの１本！！『神羅ジム特製ドリンク』	Take one to restore your energy!! Shinra Gym Health Drink'	体力回復本神羅特製	体力[たいりょく] 回復[かいふく]にこの１ 本[ほん]！！『 神[しん] 羅[ら]ジム 特製[とくせい]ドリンク』		scene_08
+２５０ギルにて発売中！！	Only 250 gil!!	発売中	２５０ギルにて 発売中[はつばいちゅう]！！		scene_08
+買ってみるか	Try it out	買	買[か]ってみるか		scene_08
+……何もでてこないな	…Nothing…	何	…… 何[なに]もでてこないな		scene_08
+……こわれているのか？	…Is it broken?'		……こわれているのか？		scene_08
+ガンガンたたく	BANG on it		ガンガンたたく		scene_08
+あきらめよう	Give up		あきらめよう		scene_08
+ちょっと、なにするんですか！乱暴はやめてください！	Sir, what are you doing!? No violence here, please!	乱暴	ちょっと、なにするんですか！ 乱暴[らんぼう]はやめてください！		scene_08
+『マインドアップ』を手にいれた！	"Received ""Mind Source""!"	手	『マインドアップ』を 手[て]にいれた！		scene_08
+『スピードアップ』を手にいれた！	"Received ""Speed Source""!"	手	『スピードアップ』を 手[て]にいれた！		scene_08
+やってみようか？	Should I try it?		やってみようか？		scene_08
+バカバカしい	This is so stupid		バカバカ[ばかばか]しい		scene_08
+フウ……	Whew…		フウ……		scene_08
+そろそろやめよう	Better quit		そろそろやめよう		scene_08
+もうすこしつづけよう	Just a bit longer		もうすこしつづけよう		scene_08
+ほんのすこし身が軽くなったような……気がするな	I think I feel a little lighter… Maybe just a bit…	身軽気	ほんのすこし 身[み]が 軽[かる]くなったような…… 気[き]がするな		scene_08
+ミッドガル……魔晄エネルギーを吸い出し生きつづける都市の模型か……	A model of Midgar…a city born from the earth's Mako.	魔晄吸出生都市模型	ミッドガル…… 魔[ま] 晄[こう]エネルギーを 吸い出[すいだ]し 生[い]きつづける 都市[とし]の 模型[もけい]か……		scene_08
+模型が価けている……	Some parts are missing…	模型価	模型[もけい]が 価[あたい]けている……		scene_08
+ミッドガルパーツをはめよう	Insert the Midgar parts		ミッドガルパーツをはめよう		scene_08
+……なにかが開いたような音がしたな……	…Sounds like something opened up…	開音	……なにかが 開[ひら]いたような 音[おと]がしたな……		scene_08
+キーアイテム『カードキー６６』を手にいれた！	"Received Key Item ""Keycard 66""!"	手	キーアイテム『カードキー６６』を 手[て]にいれた！		scene_08
+この建設中の６番街が完成したとき、神羅の野望も完全なものとなる	When construction of Sector 6 finishes, Shinra's plan will be complete.	建設中番街完成神羅野望全	この 建設中[けんせつちゅう]の６ 番[ばん] 街[がい]が 完成[かんせい]したとき、 神[しん] 羅[ら]の 野望[やぼう]も 完全[かんぜん]なものとなる		scene_08
+その野望のために	That must be why he took	野望	その 野望[やぼう]のために		scene_08
+関係ないけどよ。 あの会議室って、何か臭くないか？ どこかから臭ってくるんだよな……	Is it just me or does the Conference Room smell? There's some sort of stench coming from somewhere…	関係会議室何臭	関係[かんけい]ないけどよ。あの 会議[かいぎ] 室[しつ]って、 何[なに]か 臭[くさ]くないか？どこかから 臭[にお]ってくるんだよな……		scene_08
+なんかこう、生きがいってものを感じるよな。世界をこの手で動かしているっていうこの感じ	It gives me the feeling that I AM alive. The feeling of moving this world, just with my hands.	生感世界手動	なんかこう、 生[い]きがいってものを 感[かん]じるよな。 世界[せかい]をこの 手[て]で 動[うご]かしているっていうこの 感[かん]じ		scene_08
+はぁ～もうファイル運びはうんざり……	Whew, I'm so sick of carrying all these files…	運	はぁ~もうファイル 運[はこ]びはうんざり……		scene_08
+でもいろんな男の人との出会いがある。それがOLの特権ね！	But I get to meet lots of guys. I guess that's the benefit of being a secretary!	男人出会特権	でもいろんな 男の人[おとこのひと]との 出会[であ]いがある。それが OLの 特権[とっけん]ね！		scene_08
+さあ、私たちで魔晄の未来をつくるのよ！	Come on, we're building the future of Mako!	私魔晄未来	さあ、 私[わたし]たちで 魔[ま] 晄[こう]の 未来[みらい]をつくるのよ！		scene_08
+……………………………………ふう	…………………… Phew!		……………………………………ふう		scene_08
+ヒュ～！そうそうたる顔ぶれだぜ	Geez--! That's a lotta suits!	顔	ヒュ~！そうそうたる 顔[かお]ぶれだぜ		scene_08
+７番街の被害報告が出ました	We have the damage estimates for Sector 7.	番街被害報告出	７ 番[ばん] 街[がい]の 被害[ひがい] 報告[ほうこく]が 出[で]ました		scene_08
+すでに稼動していた工場部分と現在までの投資額を考えると我が社の損害は100億ギルはくだらないかと……	Considering those factories we already set up and all the investments, the damage is estimated at approximately 10 Billion gil…	稼動工場部分現在投資額考我社損害億	すでに 稼動[かどう]していた 工場[こうじょう] 部分[ぶぶん]と 現在[げんざい]までの 投資[とうし] 額[がく]を 考[かんが]えると 我が社[わがしゃ]の 損害[そんがい]は 100 億[おく]ギルはくだらないかと……		scene_08
+また７番プレートの再建にかかる費用は……	The estimated cost to rebuild Sector 7 is…	番再建費用	また７ 番[ばん]プレートの 再建[さいけん]にかかる 費用[ひよう]は……		scene_08
+再建はしない”	We're not rebuilding.	再建	再建[さいけん]はしない”		scene_08
+は？	What?		は？		scene_08
+７番プレートはこのまま放っておく	We're leaving Sector 7 as it is.	番放	７ 番[ばん]プレートはこのまま 放[はな]っておく		scene_08
+そのかわりにネオ・ミッドガル計画を再開する	And restarting the Neo-Midgar plan.	計画再開	そのかわりにネオ・ミッドガル 計画[けいかく]を 再開[さいかい]する		scene_08
+……では、古代種が？	…then the Ancients?	古代種	……では、 古代[こだい] 種[しゅ]が？		scene_08
+約束の地はまもなく我々のものになるだろう	The Promised Land will soon be ours.	約束地我	約束の地[やくそくのち]はまもなく 我々[われわれ]のものになるだろう		scene_08
+それから各地の魔晄料金を15％値上げしたまえ	I want you to raise the Mako rates 15% in every area.	各地魔晄料金値上	それから 各地[かくち]の 魔[ま] 晄[こう] 料金[りょうきん]を 15 ％[ぱーせんと] 値上[ねあ]げしたまえ		scene_08
+パルマー	Palmer		パルマー		scene_08
+値上げ値上げ！うひょひょひょひょ！ぜひ我が宇宙開発部にも予算を！	Rate hike! Rate hike! Tra, la, la! And please include our Space Program in the budget!	値上我宇宙開発部予算	値上[ねあ]げ 値上[ねあ]げ！うひょひょひょひょ！ぜひ 我[わ]が 宇宙[うちゅう] 開発部[かいはつぶ]にも 予算[よさん]を！		scene_08
+魔晄料金値上げによる差益はリーブくんとスカーレットくんで分配したまえ	Reeve and Scarlet will divide the extra income from the rate increase.	魔晄料金値上差益分配	魔[ま] 晄[こう] 料金[りょうきん] 値上[ねあ]げによる 差益[さえき]はリーブくんとスカーレットくんで 分配[ぶんぱい]したまえ		scene_08
+いいないいな！	Oh man!		いいないいな！		scene_08
+プレジデント。これ以上の魔晄料金の値上げは住民の不満をまねき……	Sir. If you raise the rates, the people will lose confidence…	以上魔晄料金値住民不満	プレジデント。これ 以上[いじょう]の 魔[ま] 晄[こう] 料金[りょうきん]の 値上[ねあ]げは 住民[じゅうみん]の 不満[ふまん]をまねき……		scene_08
+だいじょうぶだ	It'll be all right.		だいじょうぶだ		scene_08
+おろかな住民たちは不満をどころかますます神羅カンパニーに信頼をよせることになる	The ignorant citizens won't lose confidence, they'll trust Shinra, Inc. even more.	住民不満神羅信頼	おろかな 住民[じゅうみん]たちは 不満[ふまん]をどころかますます 神[しん] 羅[ら]カンパニーに 信頼[しんらい]をよせることになる		scene_08
+ガハハハハ！	Ha ha ha!		ガハハハハ！		scene_08
+テロリストどもから７番街の市民を救ったのは神羅カンパニーですからな！	After all, we're the ones who saved Sector 7 from AVALANCHE!	番街市民救神羅	テロリストどもから７ 番[ばん] 街[がい]の 市民[しみん]を 救[すく]ったのは 神[しん] 羅[ら]カンパニーですからな！		scene_08
+汚ねえ……	That dirty #$*$^	汚	汚[きたな]ねえ……		scene_08
+おお、宝条くん。あの娘はどうかね	Hojo. How's the girl?	宝条娘	おお、 宝[ほう] 条[じょう]くん。あの 娘[むすめ]はどうかね		scene_08
+宝条	Hojo	宝条	宝[ほう] 条[じょう]		scene_08
+サンプルとしては母親におとる。母親イファルナとの比較中だが初期段階で相違が18％	As a specimen, she is inferior to her mother. I'm still in the process of comparing her to her mother, Ifalna, but for now the difference is 18 %.	母親比較中初期段階相違	サンプルとしては 母親[ははおや]におとる。 母親[ははおや]イファルナとの 比較[ひかく] 中[ちゅう]だが 初期段階[しょきだんかい]で 相違[そうい]が 18 ％[ぱーせんと]		scene_08
+その検査にはどれくらいかかる？	How long will the research take?	検査	その 検査[けんさ]にはどれくらいかかる？		scene_08
+ざっと、120年。我々が生きてるあいだは無理だろう。もちろんあのサンプルもな	Probably 120 years. It's probably impossible to finish in our lifetime. Or in the lifetime of the specimen too, for that matter.	年我生無理	ざっと、 120 年[ねん]。 我々[われわれ]が 生[い]きてるあいだは 無理[むり]だろう。もちろんあのサンプルもな		scene_08
+だから古代種を繁殖させようと思うのだ。しかも、長命で実験に耐えうる強さを持たせることができる	That's why we're thinking of breeding her. Then we could create one that could withstand our research for a long time.	古代種繁殖思長命実験耐強持	だから 古代[こだい] 種[しゅ]を 繁殖[はんしょく]させようと 思[おも]うのだ。しかも、 長命[ちょうめい]で 実験[じっけん]に 耐[た]えうる 強[つよ]さを 持[も]たせることができる		scene_08
+約束はどうなる？計画に支障はでないのか？	What about the Promised Land? Won't it hinder our plans?	約束計画支障	約束[やくそく]はどうなる？ 計画[けいかく]に 支障[ししょう]はでないのか？		scene_08
+……そのつもりだ。母は強く……そして弱みを持つ	That's what I need to plan. The mother is strong… and yet has her weaknesses.	母強弱持	……そのつもりだ。 母[はは]は 強[つよ]く……そして 弱[よわ]みを 持[も]つ		scene_08
+いまのはAERISの話……だよな	They were talking about AERIS…right?	話	いまのは AERISの 話[はなし]……だよな		scene_08
+わかんねえ	I dunno.		わかんねえ		scene_08
+たぶん、ね	Probably.		たぶん、ね		scene_08
+あとをつけよう	Let's follow 'em.		あとをつけよう		scene_08
+スカーレット	Scarlet		スカーレット		scene_08
+臭うわね……	Something stinks…	臭	臭[にお]うわね……		scene_08
+神羅	President Shinra	神羅	神[しん] 羅[ら]		scene_08
+では、会議を終わる	That concludes our meeting.	会議終	では、 会議[かいぎ]を 終[お]わる		scene_08
+汚いから長そうか？	Flush?	汚長	汚[きたな]いから 長[なが]そうか？		scene_08
+登ってみようか？	Climb up?	登	登[のぼ]ってみようか？		scene_08
+やっぱり出よう	Get out of here	出	やっぱり 出[で]よう		scene_08
+宝条……ってやつか……	Hojo…huh…?	宝条	宝[ほう] 条[じょう]……ってやつか……		scene_08
+思い出したぜ	I remember him.	思出	思い出[おもいだ]したぜ		scene_08
+あの宝条ってやつ。神羅の科学部門の責任者だ。CLOUD、知らねえのか？	That Hojo guy. He's in charge of the Shinra's Science Department. CLOUD, don't you know him?	宝条神羅科学部門責任者知	あの 宝[ほう] 条[じょう]ってやつ。 神[しん] 羅[ら]の 科学[かがく] 部門[ぶもん]の 責任者[せきにんしゃ]だ。 CLOUD、 知[し]らねえのか？		scene_08
+じっさい見るのは初めてだ。そうか……あいつが……	This is the first time I've actually ever seen him. So…that's what he looks like…	見初	じっさい 見[み]るのは 初[はじ]めてだ。そうか……あいつが……		scene_08
+今日の実験サンプルはそいつですか？	Is this today's specimen?	今日実験	今日[きょう]の 実験[じっけん]サンプルはそいつですか？		scene_08
+そうだ。すぐ実験にとりかかる。上の階をあげてくれ	Yes. We're starting right away. Raise it to the upper level.	実験上階	そうだ。すぐ 実験[じっけん]にとりかかる。 上[うえ]の 階[かい]をあげてくれ		scene_08
+かわいいサンプルよ……	My precious specimen…		かわいいサンプルよ……		scene_08
+かわいいサンプルよ…か	Precious specimen…?		かわいいサンプルよ…か		scene_08
+生物実験に使われるのかな？	Is it going to be used for a biological experiment?	生物実験使	生物[せいぶつ] 実験[じっけん]に 使[つか]われるのかな？		scene_08
+ジェノバ……	Jenova…		ジェノバ……		scene_08
+ジェノバ…… セフィロスの…… そうか……ここに運んだのか	Jenova… Sephiroth's… So…they've brought it here.	運	ジェノバ……セフィロスの……そうか……ここに 運[はこ]んだのか		scene_08
+CLOUD、しっかりして！	CLOUD, be strong!		CLOUD、しっかりして！		scene_08
+見たか？	Did you see it?	見	見[み]たか？		scene_08
+何を？	See what?	何	何[なに]を？		scene_08
+動いてる……生きてる？	It's moving……still alive?	動生	動[うご]いてる…… 生[い]きてる？		scene_08
+何だい、この首なしは？ けっ、バカバカしい。さっさと行こうぜ	Where's its $#&*&@ head? This whole thing's stupid. Let's keep goin'.	何首行	何[なん]だい、この 首[くび]なしは？けっ、 バカバカ[ばかばか]しい。さっさと 行[い]こうぜ		scene_08
+さて……と 宝条さんに頼まれた サンプルわ……と	Let's see… The specimen Hojo asked me for is…	宝条頼	さて……と 宝[ほう] 条[じょう]さんに 頼[たの]まれたサンプルわ……と		scene_08
+奥のサンプル運搬用エレベーターは使用禁止だよ。６８階の研究室に直結しているから便利なんだけどね	That elevator back there is only to transport Specimens. You can't use it. It would be a lot easier if it led to the 68 Floor Research Lab.	奥運搬用使禁止階研究室直結便利	奥[おく]のサンプル 運搬[うんぱん] 用[よう]エレベーターは 使用禁止[しようきんし]だよ。６８ 階[かい]の 研究[けんきゅう] 室[しつ]に 直結[ちょっけつ]しているから 便利[べんり]なんだけどね		scene_08
+AERIS？ ああ、この娘の名前だったな。何か用か？	AERIS? Oh, is that her name? What do you want?	娘名前何用	AERIS？ああ、この 娘[むすめ]の 名前[なまえ]だったな。 何[なに]か 用[よう]か？		scene_08
+AERISを返してもらおう	We're taking AERIS back.	返	AERISを 返[かえ]してもらおう		scene_08
+…………部外者だな	Outsiders……	部外者	………… 部外者[ぶがいしゃ]だな		scene_08
+最初に気づけよ	Shoulda noticed it earlier, you…	最初気	最初[さいしょ]に 気[き]づけよ		scene_08
+世の中にはどうでもいいことが多いのでな	There's so many frivolous things in this world.	世中多	世の中[よのなか]にはどうでもいいことが 多[おお]いのでな		scene_08
+私を殺そうというのか？ それはやめた方がいいな	Are you going to kill me? I don't think you should.	私殺方	私[わたし]を 殺[ころ]そうというのか？それはやめた 方[ほう]がいいな		scene_08
+ここの装置はデリケートだ。私がいなくなったら操作できまい？　ん？	The equipment here is extremely delicate. Without me, who could operate it? Hmm?	装置私操作	ここの 装置[そうち]はデリケートだ。 私[わたし]がいなくなったら 操作[そうさ]できまい？　ん？		scene_08
+くっ	Ugh.		くっ		scene_08
+そうそう。こういう時こそ論理的思考によって 行動することをおすすめするよ	That's right. I recommend you think things out logically before you make any rash moves.	時論理的思考行動	そうそう。こういう 時[とき]こそ 論理的[ろんりてき] 思考[しこう]によって 行動[こうどう]することをおすすめするよ		scene_08
+さあ、サンプルを投入しろ！	Now, bring in the Specimen!	投入	さあ、サンプルを 投入[とうにゅう]しろ！		scene_08
+何をする気だ！	What do you think you're doin'?	何気	何[なに]をする 気[き]だ！		scene_08
+滅びゆく種族に愛の手を…… どちらも絶滅まぢかだ	Lending a helping hand to an endangered species… Both of them are on the brink of extinction…	滅種族愛手絶	滅[ほろ]びゆく 種族[しゅぞく]に 愛[あい]の 手[て]を……どちらも 絶滅[ぜつめつ]まぢかだ		scene_08
+私が手を貸さないと この種の生物は滅んでしまうからな	If I don't help, all these animals will disappear.	私手貸種生物滅	私[わたし]が 手[て]を 貸[か]さないとこの 種[しゅ]の 生物[せいぶつ]は 滅[ほろ]んでしまうからな		scene_08
+……生物？　ひどいわ！ AERISは人間なのよ！	…animal? That's terrible! AERIS is a human being!	生物人間	…… 生物[せいぶつ]？　ひどいわ！ AERISは 人間[にんげん]なのよ！		scene_08
+許せねえ！	You're gonna pay!	許	許[ゆる]せねえ！		scene_08
+BARRET！ 何とかならないのか？	BARRET! Can't you do anything?	何	BARRET！ 何[なん]とかならないのか？		scene_08
+ええい！！ さがってろ！	Awright!! Step back!		ええい！！さがってろ！		scene_08
+やめろ！！	Stop!!		やめろ！！		scene_08
+な、なんていうことだ。大事なサンプルが……	Wh…what are you do-- Oh! My precious specimens…	大事	な、なんていうことだ。 大事[だいじ]なサンプルが……		scene_08
+今度はこんなハンパな奴ではないぞ。もっと凶暴なサンプルだ！	This is no ordinary specimen. This is a very ferocious specimen!	今度奴凶暴	今度[こんど]はこんなハンパな 奴[やつ]ではないぞ。もっと 凶暴[きょうぼう]なサンプルだ！		scene_08
+今のうちにAERISを！	Now's our chance to get AERIS!	今	今[いま]のうちに AERISを！		scene_08
+ありがと、CLOUD	Thanks, CLOUD.		ありがと、 CLOUD		scene_08
+どうしたの？　CLOUD……	CLOUD…what's wrong?		どうしたの？　 CLOUD……		scene_08
+……エレベーターが動いてる	…The elevator is moving.	動	……エレベーターが 動[うご]いてる		scene_08
+[NO LINE FOUND]	Oh shit… We're surrounded.		[ NO LINE FOUND]		scene_08
+あいつは少々手強い。私の力を貸してやる	He's rather strong. I'll help you all out.	少手強私力貸	あいつは 少々[しょうしょう] 手強[てづよ]い。 私[わたし]の 力[ちから]を 貸[か]してやる		scene_08
+しゃべった！？	It talked!?		しゃべった！？		scene_08
+あとでいくらでもしゃべってやるよ、おじょうさん	I'll talk as much as you want later, Miss.		あとでいくらでもしゃべってやるよ、おじょうさん		scene_08
+あの化け物は俺たちがかたづける	We'll take care of that monster.	化物俺	あの 化け物[ばけもの]は 俺[おれ]たちがかたづける		scene_08
+おまえの名前は？	What's your name?	名前	おまえの 名前[なまえ]は？		scene_08
+宝条は私をRED XIIIと名づけた。私にとって無意味な名前だ。好きなように呼んでくれ	Hojo has named me, Red XIII. A name with no meaning whatsoever to me. Call me whatever you wish.	宝条私名無意味前好呼	宝[ほう] 条[じょう]は 私[わたし]を RED XIIIと 名[な]づけた。 私[わたし]にとって 無意味[むいみ]な 名前[なまえ]だ。 好[す]きなように 呼[よ]んでくれ		scene_08
+さあ、かかってこい！	Come on!		さあ、かかってこい！		scene_08
+AERIS、だいじょうぶか？	AERIS, you all right?		AERIS、だいじょうぶか？		scene_08
+だいじょうぶみたいよ。……いろんな意味でね	She seems all right, …in many ways.	意味	だいじょうぶみたいよ。……いろんな 意味[いみ]でね		scene_08
+……私にも選ぶ権利がある。二本足は好みじゃない	I have a right to choose, too. I don't like two-legged things.	私選権利二本足好	…… 私[わたし]にも 選[えら]ぶ 権利[けんり]がある。二 本[ほん] 足[あし]は 好[この]みじゃない		scene_08
+おまえ、なんだ？	What are you?		おまえ、なんだ？		scene_08
+興味深い問いだ。しかし、その問いは答え難いな。私は見てのとおり、こういう存在だ	An informed question. But difficult to answer. I am what you see.	興味深問答難私見存在	興味深[きょうみぶか]い 問[と]いだ。しかし、その 問[と]いは 答[こた]え 難[がた]いな。 私[わたし]は 見[み]てのとおり、こういう 存在[そんざい]だ		scene_08
+……いろいろ質問もあるだろうが とりあえずここから出ようか。道案内くらいなら付きあってやる	…You must have many questions, but first, let's get out of here. I'll lead the way.	質問出道案内付	……いろいろ 質問[しつもん]もあるだろうがとりあえずここから 出[で]ようか。 道案内[みちあんない]くらいなら 付[つ]きあってやる		scene_08
+CLOUD…… やっぱり、来てくれたのね	CLOUD… so you did come for me.	来	CLOUD……やっぱり、 来[き]てくれたのね		scene_08
+さっきは失礼したな。宝条を油断させるために演技をしたつもりだったが……	I apologize for what happened back there. I was merely acting to throw Hojo off guard……	失礼宝条油断演技	さっきは 失礼[しつれい]したな。 宝[ほう] 条[じょう]を 油断[ゆだん]させるために 演技[えんぎ]をしたつもりだったが……		scene_08
+さあ、AERISを助ければもうこんなビルには用はない！ さっさと出ちまおうぜ	Now we've saved AERIS, ain't no need to be in this buildin'! So let's get the hell outta here!	助用出	さあ、 AERISを 助[たす]ければもうこんなビルには 用[よう]はない！さっさと 出[で]ちまおうぜ		scene_08
+５人で行動していたら目立つ。二手に別れよう	If all five of us go together, we'll be noticed. Let's break up in two groups.	人行動目立二手別	５ 人[にん]で 行動[こうどう]していたら 目立[めだ]つ。二 手[て]に 別[わか]れよう		scene_08
+あとでね！【66階エレベーター】で待ってるから	I'll see you later!! We'll be waiting at the 66th Floor Elevator.	階待	あとでね！【 66 階[かい]エレベーター】で 待[ま]ってるから		scene_08
+先に行くわよ！集合は【66階エレベーター】よ	We'll be going first! Meet at the 66th Floor Elevator.	先行集合階	先[さき]に 行[い]くわよ！ 集合[しゅうごう]は【 66 階[かい]エレベーター】よ		scene_08
+あとでな！　【66階エレベーター】で合流だ！	Later! Meet up at the 66th Floor Elevator!	階合流	あとでな！　【 66 階[かい]エレベーター】で 合流[ごうりゅう]だ！		scene_08
+遅れるなよ。【エレベーター】の場所はわかっているな？ 【66階】だぞ	Don't be late. Do you know where the Elevator is? The 66th Floor!	遅場所階	遅[おく]れるなよ。【エレベーター】の 場所[ばしょ]はわかっているな？【 66 階[かい]】だぞ		scene_08
+ひゃっ！殺さないで宝条博士に言われてやっただけなんだ	No! Please don't kill me. I only did what Hojo told me to do.	殺宝条博士言	ひゃっ！ 殺[ころ]さないで 宝[ほう] 条[じょう] 博士[はかせ]に 言[い]われてやっただけなんだ		scene_08
+そのしょうこに……ほら６８階までのドアロックキーを君たちにあげるよ。敵だったらこんな事するはずないだろ？……ねっ？	To prove it to you…here, this is the key card to the 68th Floor. Would I be doing this if I was the enemy?	階君敵事	そのしょうこに……ほら６８ 階[かい]までのドアロックキーを 君[きみ]たちにあげるよ。 敵[てき]だったらこんな 事[こと]するはずないだろ？……ねっ？		scene_08
+どこ行くんだい？【６６階エレベーター】でみんな待ってるぜ	Where you goin'? Everyone's waitin' at the 66th Floor Elevator.	行階待	どこ 行[い]くんだい？【６６ 階[かい]エレベーター】でみんな 待[ま]ってるぜ		scene_08
+どこ行くの？【６６階のエレベータ】でみんな待っているわよ	Where are you going? Everyone's waiting for us at the 66th Floor Elevator.	行階待	どこ 行[い]くの？【６６ 階[かい]のエレベータ】でみんな 待[ま]っているわよ		scene_08
+そっちじゃない！みんなは【６６階エレベータ】で待っているわ	Not that way! Everyone's on the 66th Floor Elevator.	階待	そっちじゃない！みんなは【６６ 階[かい]エレベータ】で 待[ま]っているわ		scene_08
+カードキーを手にいれてません	You don't have a Card Key	手	カードキーを 手[て]にいれてません		scene_08
+お、おい！　何だ？	H, hey! What is it?	何	お、おい！　 何[なん]だ？		scene_08
+ルード	Rude		ルード		scene_08
+上を押してもらおうか？	Would you press 'Up' please?	上押	上[うえ]を 押[お]してもらおうか？		scene_08
+タークス？ワナ……か	Turks! Must be a trap…		タークス？ワナ……か		scene_08
+スリリングな気分をあじわえたと思うが……楽しんでもらえたかな？	This must've been a real thrill for you… Did you enjoy it?	気分思楽	スリリングな 気分[きぶん]をあじわえたと 思[おも]うが…… 楽[たの]しんでもらえたかな？		scene_08
+くっ……	Ggh…		くっ……		scene_08
+みんなもつかまったのか………………？	They got you, too?		みんなもつかまったのか………………？		scene_08
+安全な場所にいる	In a safe place.	安全場所	安全[あんぜん]な 場所[ばしょ]にいる		scene_08
+あれは貴重な古代種の生き残りだからな	She's the last surviving Ancient…	貴重古代種生残	あれは 貴重[きちょう]な 古代[こだい] 種[しゅ]の 生き残[いきのこ]りだからな		scene_08
+知らんのか？自らをセトラと呼び、数千年の昔に生き今は歴史の中に埋もれてしまった種族	Don't you know? They called themselves the Cetra, and lived thousands of years ago. Now they are just a forgotten page in history.	知自呼数千年昔生今歴史中埋種族	知[し]らんのか？ 自[みずか]らをセトラと 呼[よ]び、 数[すう] 千[せん] 年[ねん]の 昔[むかし]に 生[い]き 今[いま]は 歴史[れきし]の 中[なか]に 埋[うず]もれてしまった 種族[しゅぞく]		scene_08
+セトラ……あの娘がセトラの生き残り？	Cetra…that girl is a survivor of the Cetra?	娘生残	セトラ……あの 娘[むすめ]がセトラの 生き残[いきのこ]り？		scene_08
+セトラ、すなわち古代種は我らに『約束の地』を教えてくれる。彼女には期待しているのだ	Cetra, or the Ancients, will show us the way to the 'Promised Land'. I'm expecting a lot out of her.	古代種我約束地教彼女期待	セトラ、すなわち 古代[こだい] 種[しゅ]は 我[われ]らに『 約束の地[やくそくのち]』を 教[おし]えてくれる。 彼女[かのじょ]には 期待[きたい]しているのだ		scene_08
+約束の地？それは言い伝えではないか？	The Promised Land? Isn't that just a legend?	約束地言伝	約束の地[やくそくのち]？それは 言い伝[いいつた]えではないか？		scene_08
+だからといって放っておくにはあまりにも魅力的だ	Even so, it's far too appealing not to pursue.	放魅力的	だからといって 放[はな]っておくにはあまりにも 魅力的[みりょくてき]だ		scene_08
+約束の地は途方もなく豊かな土地と言われているからな	It's been said the Promised Land is very fertile.	約束地途方豊土言	約束の地[やくそくのち]は 途方[とほう]もなく 豊[ゆた]かな 土地[とち]と 言[い]われているからな		scene_08
+……土地が豊かだということは	…If the land is fertile…	土地豊	…… 土地[とち]が 豊[ゆた]かだということは		scene_08
+魔晄エネルギーだな！	then there's gotta be Mako!	魔晄	魔[ま] 晄[こう]エネルギーだな！		scene_08
+そのとおり。そこでは金喰い虫の魔晄炉など必要ないのだ	Exactly. That is why our money making Mako Reactor is necessary.	金喰虫魔晄炉必要	そのとおり。そこでは 金[きん] 喰[く]い 虫[むし]の 魔[ま] 晄[こう] 炉[ろ]など 必要[ひつよう]ないのだ		scene_08
+豊富な魔晄エネルギーが勝手に吹き出してくる	The abundant Mako will flow out on its own.	豊富魔晄勝手吹出	豊富[ほうふ]な 魔[ま] 晄[こう]エネルギーが 勝手[かって]に 吹き出[ふきだ]してくる		scene_08
+そこに建設されるネオ・ミッドガル。我が神羅カンパニーのさらなる栄光……	That is where Neo-Midgar will be built. Shinra's new glory…	建設我神羅栄光	そこに 建設[けんせつ]されるネオ・ミッドガル。 我[わ]が 神[しん] 羅[ら]カンパニーのさらなる 栄光[えいこう]……		scene_08
+ケッ！夢みてんじゃねえよ！	@$#*^%! Quit dreamin'!	夢	ケッ！ 夢[ゆめ]みてんじゃねえよ！		scene_08
+おやおや、知らないのか？最近では金と力さえあれば夢はかなうのだ	Oh really, don't you know? These days all it takes for your dreams to come true is money and power.	知最近金力夢	おやおや、 知[し]らないのか？ 最近[さいきん]では 金[きん]と 力[ちから]さえあれば 夢[ゆめ]はかなうのだ		scene_08
+さて、会見はこれで終わりだ	Well, that is all for our meeting.	会見終	さて、 会見[かいけん]はこれで 終[お]わりだ		scene_08
+待ちやがれ！テメエには言いたいことが山ほどあるんだ！	Hold it! I got a lot to say to you!	待言山	待[ま]ちやがれ！テメエには 言[い]いたいことが 山[やま]ほどあるんだ！		scene_08
+何かあるなら……秘書をとおしてくれたまえ	If there's anything else… talk to my secretary.	何秘書	何[なに]かあるなら…… 秘書[ひしょ]をとおしてくれたまえ		scene_08
+さあ！　さがれ！	Come on! Outta his way!		さあ！　さがれ！		scene_08
+BARRETはどうしてるかな	I wonder how BARRET is doing		BARRETはどうしてるかな		scene_08
+RED XIIIはどうしてるかな	I wonder how RED XIII is doing		RED XIIIはどうしてるかな		scene_08
+AERISはどうしてるかな	I wonder how AERIS is doing		AERISはどうしてるかな		scene_08
+とりあえず眠っておこう	Let's just get some sleep	眠	とりあえず 眠[ねむ]っておこう		scene_08
+ヒソヒソ（逃げられるかな？）	Psst (Can we get out?)	逃	ヒソヒソ（ 逃[に]げられるかな？）		scene_08
+ヒソヒソ（CLOUD、たのもしい！）	Psst (CLOUD, you're so brave!)		ヒソヒソ（ CLOUD、たのもしい！）		scene_08
+ヒソヒソ(弱気にならないでよ！	Psst (Don't give up!)	弱気	ヒソヒソ( 弱気[よわき]にならないでよ！		scene_08
+おい	Hey!		おい		scene_08
+AERISは古代種で 古代種の本当の呼び名はセトラ	AERIS is an Ancient and the real name of the Ancients is Cetra.	古代種本当呼名	AERISは 古代[こだい] 種[しゅ]で 古代[こだい] 種[しゅ]の 本当[ほんとう]の 呼び名[よびな]はセトラ		scene_08
+それで古代種は約束の地って場所を知っていて、神羅はその約束の地が欲しい、と	The Ancients know where the Promised Land is and the Shinra is searching for that Promised Land.	古代種約束地場所知神羅欲	それで 古代[こだい] 種[しゅ]は 約束の地[やくそくのち]って 場所[ばしょ]を 知[し]っていて、 神[しん] 羅[ら]はその 約束の地[やくそくのち]が 欲[ほ]しい、と		scene_08
+でも、約束の地ってのは 言い伝えに出てくるだけで 本当にあるのかどうかはわからねえ	I only heard stories 'bout the Promised Land. I don't know if it really exists.	約束地言伝出本当	でも、 約束の地[やくそくのち]ってのは 言い伝[いいつた]えに 出[で]てくるだけで 本当[ほんとう]にあるのかどうかはわからねえ		scene_08
+これでいいのか？	Is that right?		これでいいのか？		scene_08
+約束の地には豊富な魔晄エネルギーがあると 神羅の連中は考えてる	The Shinra believe that the Promised Land is full of Mako energy.	約束地豊富魔晄神羅連中考	約束の地[やくそくのち]には 豊富[ほうふ]な 魔[ま] 晄[こう]エネルギーがあると 神[しん] 羅[ら]の 連中[れんちゅう]は 考[かんが]えてる		scene_08
+ってえことは、神羅はそこに行ったら また魔晄エネルギーをガンガン吸い上げちまうってことだ.	Which means, if the Shinra get there, they'll suck up all the Mako energy.	神羅行魔晄吸上	ってえことは、 神[しん] 羅[ら]はそこに 行[い]ったらまた 魔[ま] 晄[こう]エネルギーをガンガン 吸い上[すいあ]げちまうってことだ.		scene_08
+……そこも土地が枯れちまうな。星が……病んでいくわけだ	…and the land'll wither away. The Planet's gonna get weaker.	土地枯星病	……そこも 土地[とち]が 枯[か]れちまうな。 星[ほし]が…… 病[や]んでいくわけだ		scene_08
+放っちゃおけねえ！ アバランチ、メンバー募集だ	I can't just leave 'em be. I'm recruitin'new members!!	放募集	放[はな]っちゃおけねえ！アバランチ、メンバー 募集[ぼしゅう]だ		scene_08
+オレ、TIFA、CLOUD…… それにAERISもだな	Me, TIFA, CLOUD… and AERIS too.		オレ、 TIFA、 CLOUD……それに AERISもだな		scene_08
+おめえ、どうだ？	How 'bout you?		おめえ、どうだ？		scene_08
+つまんねえやろうだぜ	You're so damn boring.		つまんねえやろうだぜ		scene_08
+……………………じっちゃん	…………Grandpa.		……………………じっちゃん		scene_08
+じっちゃん！？　へへへへ じっちゃん、ねえ……へへへへ	Grandpa!?  Ha, ha, ha…… Grandpa, hmm……ha, ha, ha……		じっちゃん！？　へへへへじっちゃん、ねえ……へへへへ		scene_08
+なにがおかしい	What's so funny?		なにがおかしい		scene_08
+いや、べつに……へへへ	Nothin'……ha, ha		いや、べつに……へへへ		scene_08
+CLOUD、そこにいるの？	CLOUD, are you there?		CLOUD、そこにいるの？		scene_08
+AERIS！？　無事か？	AERIS!? You safe?	無事	AERIS！？　 無事[ぶじ]か？		scene_08
+うん、だいじょぶ	Yeah, I'm all right.		うん、だいじょぶ		scene_08
+きっと、CLOUDが来てくれるって思ってた	I knew that CLOUD would come for me.	来思	きっと、 CLOUDが 来[き]てくれるって 思[おも]ってた		scene_08
+ボディーガード、依頼しただろ？	Hey, I'm your bodyguard, right?	依頼	ボディーガード、 依頼[いらい]しただろ？		scene_08
+報酬はデート１回、だったよね？	The deal was for one date, right?	報酬回	報酬[ほうしゅう]はデート１ 回[かい]、だったよね？		scene_08
+…………………なるほど	…………oh, I get it.		…………………なるほど		scene_08
+……！？　TIFA！ TIFAもそこにいるの！	…!? TIFA! TIFA, you're there too!		……！？　 TIFA！ TIFAもそこにいるの！		scene_08
+すいませんねえ	EXCUSE me.		すいませんねえ		scene_08
+あのね、AERIS。質問があるんだけど	You know, AERIS. I have a question.	質問	あのね、 AERIS。 質問[しつもん]があるんだけど		scene_08
+な～に？	What?		な~に？		scene_08
+約束の地って本当にあるの？	Does the Promised Land really exist?	約束地本当	約束の地[やくそくのち]って 本当[ほんとう]にあるの？		scene_08
+わたし、知ってるのは……	All I know is…	知	わたし、 知[し]ってるのは……		scene_08
+『セトラの民、星より生まれ 星と語り、星を開く』	The Cetra were born from the Planet, speak with the Planet, and unlock the Planet.	民星生語開	『セトラの 民[みん]、 星[ほし]より 生[う]まれ 星[ぼし]と 語[かた]り、 星[ほし]を 開[ひら]く』		scene_08
+えっと……それから……	And……then…		えっと……それから……		scene_08
+『セトラの民、約束の地へ帰る。至上の幸福、星が与えし定めの地』	The Cetra will return to the Promised Land. A land that promises supreme happiness.	民約束地帰至上幸福星与定	『セトラの 民[みん]、 約束の地[やくそくのち]へ 帰[かえ]る。 至上[しじょう]の 幸福[こうふく]、 星[ほし]が 与[あた]えし 定[さだ]めの 地[ち]』		scene_08
+……どういう意味？	…What does that mean?	意味	……どういう 意味[いみ]？		scene_08
+言葉以上の意味、知らないの	More than words……I don't know.	言葉以上意味知	言葉[ことば] 以上[いじょう]の 意味[いみ]、 知[し]らないの		scene_08
+……星と語り？	…Speak with the Planet?	星語	…… 星[ほし]と 語[かた]り？		scene_08
+星が何か言うの？	Just what does the Planet say?	星何言	星[ほし]が 何[なに]か 言[い]うの？		scene_08
+人が大勢いて、ざわざわしてるかんじ。だから何を言ってるのか よくわからないの	It's full of people and noisy. That's why I can't make out what they are saying.	人大勢何言	人[ひと]が 大勢[たいせい]いて、ざわざわしてるかんじ。だから 何[なに]を 言[い]ってるのかよくわからないの		scene_08
+今も聞こえるのか？	You hear it now?	今聞	今[いま]も 聞[き]こえるのか？		scene_08
+わたし、聞こえたのはスラムの教会だけ。ミッドガルはもうダメだって 母さん……本当の母さんが言ってた	I, I only heard it at the Church in the Slums. Mother said that Midgar was no longer safe. That is…my real mother.	聞教会母本当言	わたし、 聞[き]こえたのはスラムの 教会[きょうかい]だけ。ミッドガルはもうダメだって 母[かあ]さん…… 本当[ほんとう]の 母[かあ]さんが 言[い]ってた		scene_08
+いつかミッドガルから逃げなさい。星と話して、AERISの約束の地 見つけなさい	Someday I'll get out of Midgar… Speak with the Planet and find my Promised Land.	逃星話約束地見	いつかミッドガルから 逃[に]げなさい。 星[ほし]と 話[はな]して、 AERISの 約束の地[やくそくのち] 見[み]つけなさい		scene_08
+……母さんが言ってた	…That's what mom said.	母言	…… 母[かあ]さんが 言[い]ってた		scene_08
+大人になったら聞こえなくなるんだと思ってたけど……	I thought I would stop hearing her voice as I grew up, but…	大人聞思	大人[おとな]になったら 聞[き]こえなくなるんだと 思[おも]ってたけど……		scene_08
+どうしたんだ？	What's happened?		どうしたんだ？		scene_08
+ドアが開いている…… いつの間に？	The door's open… When did it open?	開間	ドアが 開[ひら]いている……いつの 間[ま]に？		scene_08
+TIFA……起きろ！	TIFA… Wake up!	起	TIFA…… 起[お]きろ！		scene_08
+ようすがおかしい。外を見てみろ	Something's wrong. Look outside.	外見	ようすがおかしい。 外[そと]を 見[み]てみろ		scene_08
+一体何があったのかしら……	This's kinda eerie…	一体何	一体[いったい] 何[なに]があったのかしら……		scene_08
+なんだか恐いわ……	I wonder what happened…	恐	なんだか 恐[こわ]いわ……		scene_08
+きっとここのカギを持っているはずだ……	He should have the key on him…	持	きっとここのカギを 持[も]っているはずだ……		scene_08
+ほら、TIFAはAERISを。俺はBARRETたちを助ける	Come on, TIFA, get AERIS. I'll go help BARRET and the others.	俺助	ほら、 TIFAは AERISを。 俺[おれ]は BARRETたちを 助[たす]ける		scene_08
+何かに襲われた……？	…What happened?	何襲	何[なに]かに 襲[おそ]われた……？		scene_08
+BARRET、RED XIII……来てくれ。ようすが変なんだ	BARRET, RED XIII …come with me. Something's wrong.	来変	BARRET、 RED XIII…… 来[き]てくれ。ようすが 変[へん]なんだ		scene_08
+どうやって入ってきた？ どうして扉が開いているんだ！？	How'd you get in? Why's the door open!?	入扉開	どうやって 入[はい]ってきた？どうして 扉[とびら]が 開[ひら]いているんだ！？		scene_08
+どうしちまったんだよ？	The hell's goin' on!?		どうしちまったんだよ？		scene_08
+人間の仕業ではないな	No human could've done this.	人間仕業	人間[にんげん]の 仕業[しわざ]ではないな		scene_08
+私がこの先の様子を見てくる	I'll go on ahead.	私先様子見	私[わたし]がこの 先[さき]の 様子[ようす]を 見[み]てくる		scene_08
+こいつの後始末はオレにまかせて おまえらは先に行け。神羅に見つからねえうちによ！	I'll clean up back here, so you guys go ahead. And don't get caught by Shinra!	後始末先行神羅見	こいつの 後始末[あとしまつ]はオレにまかせておまえらは 先[さき]に 行[い]け。 神[しん] 羅[ら]に 見[み]つからねえうちによ！		scene_08
+さ、RED XIIIの後を追いましょう	Come on, let's follow RED XIII!	後追	さ、 RED XIIIの 後[のち]を 追[お]いましょう		scene_08
+ジェノバ・サンプル…… 察するに上の階に向かったようだ。奥のサンプル用エレベーターを使ってな	Jenova Specimen… Looks like it went to the upper floor using that elevator for the specimens.	察上階向奥用使	ジェノバ・サンプル…… 察[さっ]するに 上[うえ]の 階[かい]に 向[む]かったようだ。 奥[おく]のサンプル 用[よう]エレベーターを 使[つか]ってな		scene_08
+何か目的に向かっているような…… 上に……？	It looks like it leads up…	何目的向上	何[なに]か 目的[もくてき]に 向[む]かっているような…… 上[うえ]に……？		scene_08
+死んでる……神羅カンパニーのボスが死んだ……	He's dead… The head of Shinra is dead…	死神羅	死[し]んでる…… 神[しん] 羅[ら]カンパニーのボスが 死[し]んだ……		scene_08
+この刀は？！	Then this sword must be…	刀	この 刀[かたな]は？！		scene_08
+セフィロスのものだ！！	Sephiroth's!!		セフィロスのものだ！！		scene_08
+……セフィロスは生きているのね？	…Sephiroth is alive?	生	……セフィロスは 生[い]きているのね？		scene_08
+……そうみたいだな。この刀を使えるのはセフィロスしかいないはずだ	…Looks like it. Only Sephiroth can use that sword.	刀使	……そうみたいだな。この 刀[かたな]を 使[つか]えるのはセフィロスしかいないはずだ		scene_08
+誰がやったっていいじゃねえか！これで神羅も終わりだぜ！	Who cares who did it!? This is the end of the Shinra!	誰神羅終	誰[だれ]がやったっていいじゃねえか！これで 神[しん] 羅[ら]も 終[お]わりだぜ！		scene_08
+うひょ！	Uh!		うひょ！		scene_08
+こここここころさないでくれ！	P, p, p, please, don't kill me!		こここここころさないでくれ！		scene_08
+何があったんだ？	What happened?	何	何[なに]があったんだ？		scene_08
+セ、セフィロス。セフィロスが来た	Se…Sephiroth. Sephiroth came.	来	セ、セフィロス。セフィロスが 来[き]た		scene_08
+見たのか？　セフィロスを見たのか？	Did you see him? Did you see Sephiroth?	見	見[み]たのか？　セフィロスを 見[み]たのか？		scene_08
+ああ、見た！　この目で見た！	Yeah, I saw him! With my own eyes!	見目	ああ、 見[み]た！　この 目[め]で 見[み]た！		scene_08
+本当に見たんだな？	You really saw him?	本当見	本当[ほんとう]に 見[み]たんだな？		scene_08
+うひょっ！こんな時にウソなんか言わない！それに声も聞いたんだ、うひょっ！	Uh! Would I lie at a time like this!? I heard his voice, too!	時言声聞	うひょっ！こんな 時[とき]にウソなんか 言[い]わない！それに 声[こえ]も 聞[き]いたんだ、うひょっ！		scene_08
+えっと『約束の地は渡さない』ってブツブツ言ってた	Um, he said something about not letting us have the Promised Land.	約束地渡言	えっと『 約束の地[やくそくのち]は 渡[わた]さない』ってブツブツ 言[い]ってた		scene_08
+それじゃあ、なに？	Then does that mean		それじゃあ、なに？		scene_08
+約束の地っていうのは本当にあってセフィロスは約束の地を神羅から守るためにこんなことを？	the Promised Land really does exist and that Sephiroth's here to save it from Shinra?	約束地本当神羅守	約束の地[やくそくのち]っていうのは 本当[ほんとう]にあってセフィロスは 約束の地[やくそくのち]を 神[しん] 羅[ら]から 守[まも]るためにこんなことを？		scene_08
+いいやつじゃねえのか？	So he's a good guy then?		いいやつじゃねえのか？		scene_08
+約束の地を守る？いいやつ？　ちがう！！	Save the Promised Land? A good guy? No way!!	約束地守	約束の地[やくそくのち]を 守[まも]る？いいやつ？　ちがう！！		scene_08
+そんな単純な話じゃない！俺は知ってるんだ！セフィロスの目的はちがう！	It's not that simple! I know him! Sephiroth's mission is different!	単純話俺知目的	そんな 単純[たんじゅん]な 話[はなし]じゃない！ 俺[おれ]は 知[し]ってるんだ！セフィロスの 目的[もくてき]はちがう！		scene_08
+ルーファウス！しまった！　アイツがいたか！	Rufus! &*%$! I forgot about him!		ルーファウス！しまった！　アイツがいたか！		scene_08
+誰なの？	Who's that?	誰	誰[だれ]なの？		scene_08
+副社長ルーファウス。プレジデントの息子だ	Vice President Rufus. The President's son.	副社長息子	副社長[ふくしゃちょう]ルーファウス。プレジデントの 息子[むすこ]だ		scene_08
+名前だけなら、私も知っている	I only know his name.	名前私知	名前[なまえ]だけなら、 私[わたし]も 知[し]っている		scene_08
+長期出張中だって聞いてたぜ……	I heard that he'd been assigned somewhere else for a long time…	長期出張中聞	長期[ちょうき] 出張[しゅっちょう] 中[ちゅう]だって 聞[き]いてたぜ……		scene_08
+どんな人なのかしら……	I wonder what sort of person he is?	人	どんな 人[ひと]なのかしら……		scene_08
+血も涙もない、そう聞いたこと、あるけど	I've heard that no one's ever seen him bleed or cry.	血涙聞	血[ち]も 涙[なみだ]もない、そう 聞[き]いたこと、あるけど		scene_08
+ルーファウス	Rufus		ルーファウス		scene_08
+そうか……やはりセフィロスは生きていたか。……ところで	So… So Sephiroth was actually here. …By the way,	生	そうか……やはりセフィロスは 生[い]きていたか。……ところで		scene_08
+おまえたちはなんだ？	just who are you?		おまえたちはなんだ？		scene_08
+元ソルジャー・クラス１ＳＴ。CLOUDだ！	I'm CLOUD, ex-SOLDIER, First Class!	元	元[もと]ソルジャー・クラス１ＳＴ。 CLOUDだ！		scene_08
+アバランチだ！	I'm from AVALANCHE!		アバランチだ！		scene_08
+同じく！	Me too!	同	同[おな]じく！		scene_08
+……スラムの花売り	A flower girl from the slums.	花売	……スラムの 花売[はなう]り		scene_08
+……実験サンプル	A Research Specimen.	実験	…… 実験[じっけん]サンプル		scene_08
+おかしな組み合わせだ	What a crew.	組合	おかしな 組み合[くみあ]わせだ		scene_08
+さて、私はルーファウス。この神羅カンパニーの社長だ	Well, I'm Rufus. The President of Shinra, Inc.	私神羅社長	さて、 私[わたし]はルーファウス。この 神[しん] 羅[ら]カンパニーの 社長[しゃちょう]だ		scene_08
+オヤジが死んだらさっそく社長か！	You're only President 'cause yer old man died!	死社長	オヤジが 死[し]んだらさっそく 社長[しゃちょう]か！		scene_08
+そうだ、社長就任のあいさつでも聞かせてやろうか	Correct. I'll let you hear my inauguration speech.	社長就任聞	そうだ、 社長[しゃちょう] 就任[しゅうにん]のあいさつでも 聞[き]かせてやろうか		scene_08
+……オヤジは金の力で世界を支配しようとした。なるほどうまくいっていたようだ	…Father tried to control the world with money and that worked for him.	金力世界支配	……オヤジは 金[きん]の 力[ちから]で 世界[せかい]を 支配[しはい]しようとした。なるほどうまくいっていたようだ		scene_08
+民衆は神羅に保護されていると思っているからな	The people believed that Shinra would protect them.	民衆神羅保護思	民衆[みんしゅう]は 神[しん] 羅[ら]に 保護[ほご]されていると 思[おも]っているからな		scene_08
+神羅で働き、給料をもらいテロリストがあらわれれば神羅の軍隊が助けてくれる	Work at Shinra, get your pay. If terrorists attack, the Shinra army will help you.	神羅働給料軍隊助	神[しん] 羅[ら]で 働[はたら]き、 給料[きゅうりょう]をもらいテロリストがあらわれれば 神[しん] 羅[ら]の 軍隊[ぐんたい]が 助[たす]けてくれる		scene_08
+一見完璧だ	It looked perfect on the outside.	一見完璧	一見[いっけん] 完璧[かんぺき]だ		scene_08
+だが私のやりかたはちがう	But, I do things differently.	私	だが 私[わたし]のやりかたはちがう		scene_08
+私は世界を恐怖で支配する。オヤジのやりかたでは金がかかりすぎるからな	I'll control the world with fear. It's too much to do it like my old man.	私世界恐怖支配金	私[わたし]は 世界[せかい]を 恐怖[きょうふ]で 支配[しはい]する。オヤジのやりかたでは 金[きん]がかかりすぎるからな		scene_08
+恐怖はほんの少しで人の心を支配する。おろかな民衆のために金を使う必要はない	A little fear will control the minds of the common people. There's no reason to waste good money on them.	恐怖少人心支配民衆金使必要	恐怖[きょうふ]はほんの 少[すこ]しで 人[ひと]の 心[こころ]を 支配[しはい]する。おろかな 民衆[みんしゅう]のために 金[きん]を 使[つか]う 必要[ひつよう]はない		scene_08
+私はオヤジとはちがうのだ	[EMPTY LINE]	私	私[わたし]はオヤジとはちがうのだ		scene_08
+演説好きなところはそっくりね	He likes to make speeches just like his father.	演説好	演説[えんぜつ] 好[す]きなところはそっくりね		scene_08
+AERISを連れてビルから出てくれ！	Get AERIS outta the building!	連出	AERISを 連[つ]れてビルから 出[で]てくれ！		scene_08
+説明はあとだ！BARRET！　本当の星の危機だ！	I'll explain later! BARRET! This is the real crisis for the Planet!	説明本当星危機	説明[せつめい]はあとだ！ BARRET！　 本当[ほんとう]の 星[ほし]の 危機[きき]だ！		scene_08
+なんだそりゃ？	The hell's that supposed to mean?		なんだそりゃ？		scene_08
+あとで話す！いまは俺を信じてくれ！俺はこいつを倒してから行く！	I'll explain later! Just take my word for now! I'll go after I take care of him!	話俺信倒行	あとで 話[はな]す！いまは 俺[おれ]を 信[しん]じてくれ！ 俺[おれ]はこいつを 倒[たお]してから 行[い]く！		scene_08
+わかったぜ、CLOUD！	Alright, CLOUD!		わかったぜ、 CLOUD！		scene_08
+なぜ私と戦うのだ？	Why do you want to fight me?	私戦	なぜ 私[わたし]と 戦[たたか]うのだ？		scene_08
+おまえは約束の地を求めてセフィロスを追う	You want the Promised Land and Sephiroth.	約束地求追	おまえは 約束の地[やくそくのち]を 求[もと]めてセフィロスを 追[お]う		scene_08
+ふむ、その通り	That's right.	通	ふむ、その 通[とお]り		scene_08
+ん？　おまえ、セフィロスが古代種だと知っているのか？	Did you know that Sephiroth is an Ancient?	古代種知	ん？　おまえ、セフィロスが 古代[こだい] 種[しゅ]だと 知[し]っているのか？		scene_08
+……いろいろあってな。とにかく、おまえにもセフィロスにも約束の地はわたせない！	…Whatever, I can't let either you or Sephiroth have the Promised Land!	約束地	……いろいろあってな。とにかく、おまえにもセフィロスにも 約束の地[やくそくのち]はわたせない！		scene_08
+なるほど。友だちにはなれないようだな	I see. I guess we won't be allies.	友	なるほど。 友[とも]だちにはなれないようだな		scene_08
+【△ボタン】でメニューをひらく	Access Menu with [MENU]		【△ボタン】でメニューをひらく		scene_08
+【□ボタン】で他のメンバーのマテリアをはずす	Remove Materia from members with [SWITCH]	他	【□ボタン】で 他[ほか]のメンバーのマテリアをはずす		scene_08
+【スタートボタン】で終了	End with [START].	終了	【スタートボタン】で 終了[しゅうりょう]		scene_08
+ルーファウスは？	Where's Rufus?		ルーファウスは？		scene_08
+とどめはさせなかった。面倒なことになりそうだ	I couldn't finish 'em. This is gonna get complicated.	面倒	とどめはさせなかった。 面倒[めんどう]なことになりそうだ		scene_08
+CLOUD、なんか、思いつめてた	CLOUD… I just thought of something.	思	CLOUD、なんか、 思[おも]いつめてた		scene_08
+……私、CLOUDを待つわ！みんなはエレベーターで先に！	…I'll wait for CLOUD! Everyone, get to the elevator!	私待先	…… 私[わたし]、 CLOUDを 待[ま]つわ！みんなはエレベーターで 先[さき]に！		scene_08
+さあ、この先きっとガードがきびしくなるわ。装備をととのえておいたほうがいいわね	Hmm, it's going to get pretty ugly from here on. We should check on our equipment.	先装備	さあ、この 先[さき]きっとガードがきびしくなるわ。 装備[そうび]をととのえておいたほうがいいわね		scene_08
+CLOUD、TIFAのマテリアを……	CLOUD and TIFA's Materia…		CLOUD、 TIFAのマテリアを……		scene_08
+【はずす】	(Remove)		【はずす】		scene_08
+【そのまま】	(Leave it)		【そのまま】		scene_08
+神羅ビル・３階ロビー	Shinra Bldg. 3f. Lobby	神羅階	神[しん] 羅[ら]ビル・３ 階[かい]ロビー		scene_08
+ハーディ＝デイトナ	Hardy Datona		ハーディ＝デイトナ		scene_08
+はやく、ここから逃げなくちゃ……	Quickly, we have to get out of here…	逃	はやく、ここから 逃[に]げなくちゃ……		scene_08
+神羅ビル・２階ロビー	Shinra Bldg. 2f. Lobby	神羅階	神[しん] 羅[ら]ビル・２ 階[かい]ロビー		scene_08
+オレが先に行くぜ！	I'll go on ahead!	先行	オレが 先[さき]に 行[い]くぜ！		scene_08
+チッ……！すっかりかこまれてやがる	*&^%(*… We're surrounded!		チッ……！すっかりかこまれてやがる		scene_08
+オレひとりならともかくこのメンツじゃ……	If I was alone this wouldn't be a thing, but I gotta reputation to protect.		オレひとりならともかくこのメンツじゃ……		scene_08
+……やっぱり、あなたたちだけ逃げて	You all get out while you can.	逃	……やっぱり、あなたたちだけ 逃[に]げて		scene_08
+あの人たちがねらっているのはわたし。あなたたちだけなら……	It's not you they're after… it's me.	人	あの 人[ひと]たちがねらっているのはわたし。あなたたちだけなら……		scene_08
+ヘッ、そうはいかねえな	Yeah, well that ain't happenin'.		ヘッ、そうはいかねえな		scene_08
+アンタはマリンを守るためにヤツらに捕まった。今度は、オレがアンタを守る番だ	You got caught up in this over Marlene. Now, it's my turn to help you!	守捕今度番	アンタはマリンを 守[まも]るためにヤツらに 捕[つか]まった。 今度[こんど]は、オレがアンタを 守[まも]る 番[ばん]だ		scene_08
+これ以上ヤツらの……神羅の好き勝手にはさせねえ	OK, playtime's over jackasses…	以上神羅好勝手	これ 以上[いじょう]ヤツらの…… 神[しん] 羅[ら]の 好き勝手[すきかって]にはさせねえ		scene_08
+……ありがと、BARRETさん	…Thank you, Mr. BARRET!		……ありがと、 BARRETさん		scene_08
+へヘッ、よしてくれよ。『BARRETさん』なんてオレのガラじゃねえや	Who you callin' Mr. BARRET? That don't sound right!		へヘッ、よしてくれよ。『 BARRETさん』なんてオレのガラじゃねえや		scene_08
+……さて	Well then…		……さて		scene_08
+キミたちの話が終わったならそろそろここから逃げ出す方法を考えてみないか？	If you are through talking, may I suggest that we think of a way to get out of here.	話終逃出方法考	キミたちの 話[はなし]が 終[お]わったならそろそろここから 逃げ出[にげだ]す 方法[ほうほう]を 考[かんが]えてみないか？		scene_08
+ん？あ、ああ……チェッ、いやに冷静なやつだな。どこかの誰かさんみたいだぜ	Huh? Oh, oh yeah… You're cold, man. Just like someone else 'round here I know.	冷静誰	ん？あ、ああ……チェッ、いやに 冷静[れいせい]なやつだな。どこかの 誰[だれ]かさんみたいだぜ		scene_08
+なにか？	Did you say something?		なにか？		scene_08
+いや、なんでもねえよ。さて、どうするか……	Notta thing. So what're we gonna do?		いや、なんでもねえよ。さて、どうするか……		scene_08
+TIFA！CLOUDは！？	TIFA! Where's CLOUD?		TIFA！ CLOUDは！？		scene_08
+みんな、こっち！	Everyone! Over here!		みんな、こっち！		scene_08
+ええ！？どうしたんだよ？CLOUDは？	Huh? What's up? Where's CLOUD?		ええ！？どうしたんだよ？ CLOUDは？		scene_08
+話は後！いいから早く！！	He's coming! Hurry, Hurry!!	話後早	話[はなし]は 後[ご]！いいから 早[はや]く！！		scene_08
+反応がない……他のルートを探さなければ……	Nope. Have to find another way up, I guess…	反応他探	反応[はんのう]がない…… 他[ほか]のルートを 探[さが]さなければ……		scene_08
+ムービーへ続くのだ！	[the movie continues]	続	ムービーへ 続[つづ]くのだ！		scene_08
+『　神羅　　Ｓー２７式　』	[Shinra S-27]	神羅式	『　 神[しん] 羅[ら]　　 Ｓ[えす]ー２７ 式[しき]　』		scene_08
+『　神羅　　ＰＡー８６式　』	[Shinra PA-86]	神羅式	『　 神[しん] 羅[ら]　　 Ｐ[ぴー] Ａ[えい]ー８６ 式[しき]　』		scene_08
+『　神羅　　Ｓー５１０式　』	[Shinra S-510]	神羅式	『　 神[しん] 羅[ら]　　 Ｓ[えす]ー５１０ 式[しき]　』		scene_08
+『　神羅　　ＳＡー３７式　』	[Shinra SA-37]	神羅式	『　 神[しん] 羅[ら]　　 ＳＡ[えすえい]ー３７ 式[しき]　』		scene_08
+【かめ道楽　通信】ナンバー２きびしい仕事でおつかれのアナタ……ぜひいちど居酒屋『かめ道楽』へ！！仕事の後の一杯は最高ですよ！	Turtle's Paradise Newsletter No. 2 The end of another hard day. Wouldn't you like to sit back with a tall cool one? You can at the Turtle's Paradise!! Stop in today! There's nothing like a smooth one after work!	道楽通信仕事居酒屋後一杯最高	【かめ 道楽[どうらく]　 通信[つうしん]】 ナンバー２[なんばーつー]きびしい 仕事[しごと]でおつかれのアナタ……ぜひいちど 居酒屋[いざかや]『かめ 道楽[どうらく]』へ！！ 仕事[しごと]の 後[のち]の一 杯[はい]は 最高[さいこう]ですよ！		scene_08
+今週の標語神羅の未来は世界の未来！！魔晄の光で明るい世の中！！	Our slogan is: Shinra's Future Is The World's Future!! Mako Energy For A Brighter World!!	今週標語神羅未来世界魔晄光明中	今週[こんしゅう]の 標語[ひょうご] 神[しん] 羅[ら]の 未来[みらい]は 世界[せかい]の 未来[みらい]！！ 魔[ま] 晄[こう]の 光[ひかり]で 明[あか]るい 世の中[よのなか]！！		scene_08
+指示があるまで、ディスクホルダーを開けないで下さい	Until instructed, please don't open the disc holder.	指示開下	指示[しじ]があるまで、ディスクホルダーを 開[あ]けないで 下[くだ]さい		scene_08
+バイクを【方向キー】で操作して神羅の追撃隊から仲間の乗るトラックを守って下さい	Control the bike with the [Directional buttons] and save your friends in the truck from the Shinra pursuit troops.	方向操作神羅追撃隊仲間乗守下	バイクを【 方向キ[ほうこうき]ー】で 操作[そうさ]して 神[しん] 羅[ら]の 追撃[ついげき] 隊[たい]から 仲間[なかま]の 乗[の]るトラックを 守[まも]って 下[くだ]さい		scene_08
+○ボタン	[OK]		○ボタン		scene_08
+右の敵を攻撃する	Attack on right	右敵攻撃	右[みぎ]の 敵[てき]を 攻撃[こうげき]する		scene_08
+□ボタン	[SWITCH]		□ボタン		scene_08
+左の敵を攻撃する	Attack on left	左敵攻撃	左[ひだり]の 敵[てき]を 攻撃[こうげき]する		scene_08
+△ボタン　　　メニュー	[MENU]Menu		△ボタン　　　メニュー		scene_08
+×ボタン　　　パーティ編成	[CANCEL]Form Party	編成	×[かける]ボタン　　　パーティ 編成[へんせい]		scene_08
+スタートボタン　　ゲーム開始	[START]Start Game	開始	スタートボタン　　ゲーム 開始[かいし]		scene_08
+さて、どうするよ？	Well, what do we do now?		さて、どうするよ？		scene_08
+セフィロスは生きている。俺は……あのときの決着をつけなくてはならない	Sephiroth is alive. …I have to settle the score.	生俺決着	セフィロスは 生[い]きている。 俺[おれ]は……あのときの 決着[けっちゃく]をつけなくてはならない		scene_08
+それが星を救うことになるんだな？	Will that save the Planet?	星救	それが 星[ほし]を 救[すく]うことになるんだな？		scene_08
+……おそらく、な	…It seems so.		……おそらく、な		scene_08
+おっし、オレは行くぜ！	Then, I'm going!	行	おっし、オレは 行[い]くぜ！		scene_08
+わたしも、行く。……知りたいこと、あるから	I'll go, too. There are things I need to know.	行知	わたしも、 行[い]く。…… 知[し]りたいこと、あるから		scene_08
+古代種のことか？	About the Ancients?	古代種	古代[こだい] 種[しゅ]のことか？		scene_08
+……いろいろ、たくさん	…Many things.		……いろいろ、たくさん		scene_08
+さらばミッドガル、ね	I guess it's good bye, Midgar.		さらばミッドガル、ね		scene_08
+AERISのおふくろさんには安全な場所に移るようにって言っといたからマリンも安全だな	We told AERIS's mom to go somewhere safe, so Marlene should be safe, too.	安全場所移言	AERISのおふくろさんには 安全[あんぜん]な 場所[ばしょ]に 移[うつ]るようにって 言[い]っといたからマリンも 安全[あんぜん]だな		scene_08
+さ～て、どうかな	Hmm, I don't know		さ~て、どうかな		scene_08
+もう、ミッドガルはイヤだって言ってた……ちょうど良かったかな	She said she didn't want to stay in Midgar anymore. …Maybe it's for the best.	言良	もう、ミッドガルはイヤだって 言[い]ってた……ちょうど 良[よ]かったかな		scene_08
+やめてよ、CLOUD！わたしだって心配なんだから	Stop it, CLOUD! I'm worried, too.	心配	やめてよ、 CLOUD！わたしだって 心配[しんぱい]なんだから		scene_08
+そういえば、わたしミッドガル出るの、初めて……	You know what? This is the first time I've ever left Midgar…	出初	そういえば、わたしミッドガル 出[で]るの、 初[はじ]めて……		scene_08
+そうか……不安か？	Really? Are you worried?	不安	そうか…… 不安[ふあん]か？		scene_08
+危険だぞ、いいのか？	It's dangerous. Are you sure you want to go?	危険	危険[きけん]だぞ、いいのか？		scene_08
+ちょっと、う～ん、かなり、かな。でも、なんでも屋さんがいっしょだし、ね？	A little…no, maybe a lot. But I have a bodyguard, right?	屋	ちょっと、う~ん、かなり、かな。でも、なんでも 屋[や]さんがいっしょだし、ね？		scene_08
+言うと思った！	I thought you'd say that!	言思	言[い]うと 思[おも]った！		scene_08
+……旅がはじまるのね	…I guess this is the start of our journey…	旅	…… 旅[たび]がはじまるのね		scene_08
+旅はきらいか？	You hate traveling?	旅	旅[たび]はきらいか？		scene_08
+……どうかな。でも、もう帰るところないもの。旅が好きとかキライとか関係ないわ	…I don't know. But, I don't have anywhere else to go. So I guess it doesn't really matter whether I like to travel or not.	帰旅好関係	……どうかな。でも、もう 帰[かえ]るところないもの。 旅[たび]が 好[す]きとかキライとか 関係[かんけい]ないわ		scene_08
+……う～ん。でもほら、CLOUDが約束守ってくれればだいじょうぶよね、きっと	…Hmm. But you know, it should be all right if you keep your promise.	約束守	……う~ん。でもほら、 CLOUDが 約束[やくそく] 守[まも]ってくれればだいじょうぶよね、きっと		scene_08
+私は故郷に帰るつもりだ。それまではいっしょに行ってやる	I'm going back to my hometown. I'll go with you as far as that.	私故郷帰行	私[わたし]は 故郷[こきょう]に 帰[かえ]るつもりだ。それまではいっしょに 行[い]ってやる		scene_08
+もう少しここにいよう	Let's stay here for a while	少	もう 少[すこ]しここにいよう		scene_08
+行こうか！	Let's go!	行	行[い]こうか！		scene_08
+ここから北東に行くとカームって町があるんだ	To the Northeast, there's a town called Kalm.	北東行町	ここから 北東[ほくとう]に 行[い]くとカームって 町[まち]があるんだ		scene_08
+宿屋のメシがうまくてなあ。とりあえずそこに行かねえか？	The food at the Inn's good. Why don't we head there first?	宿屋行	宿屋[やどや]のメシがうまくてなあ。とりあえずそこに 行[い]かねえか？		scene_08
+そうね。聞きたいこと、いろいろあるしね。CLOUD？	You're right. I've heard about that town before. CLOUD?	聞	そうね。 聞[き]きたいこと、いろいろあるしね。 CLOUD？		scene_08
+セフィロスのこと、そして星の危機……	About Sephiroth, and about the crisis of the Planet…	星危機	セフィロスのこと、そして 星[ほし]の 危機[きき]……		scene_08
+そうだな。セフィロスの行方の情報も必要だからな	You're right. We need to know where Sephiroth went.	行方情報必要	そうだな。セフィロスの 行方[ゆくえ]の 情報[じょうほう]も 必要[ひつよう]だからな		scene_08
+ここから先団体行動にはリーダーが必要だ。リーダーといえばオレしかいねえ	We need a leader for our journey. Course that could only be me.	先団体行動必要	ここから 先[さき] 団体行動[だんたいこうどう]にはリーダーが 必要[ひつよう]だ。リーダーといえばオレしかいねえ		scene_08
+そうかしら……	You think so?		そうかしら……		scene_08
+どう考えてもCLOUD、よね	I think it should be CLOUD.	考	どう 考[かんが]えても CLOUD、よね		scene_08
+チッ…………わかったよ。ここから【北東にカームって町】があるんだ。何かあったらそこを集合場所にしよう	^#$^%…alright. Go Northeast to a town called Kalm. If something happens, we'll meet up there.	北東町何集合場所	チッ…………わかったよ。ここから【 北東[ほくとう]にカームって 町[まち]】があるんだ。 何[なに]かあったらそこを 集合場所[しゅうごうばしょ]にしよう		scene_08
+それにしたって野っ原を５人でゾロゾロ歩くなんて危なくてしょうがねえ。おまえ、パーティーを２組に分けてみろ	'Sides, we can't have five people strolling around out there. It's too dangerous. Let's split into two parties…	野原人歩危組分	それにしたって 野[の]っ 原[はら]を５ 人[にん]でゾロゾロ 歩[ある]くなんて 危[あぶ]なくてしょうがねえ。おまえ、パーティーを２ 組[くみ]に 分[わ]けてみろ		scene_08
+【キャンセルボタン】でパーティチェンジ	Change with [CANCEL],		【キャンセルボタン】でパーティチェンジ		scene_08
+……予想外の	…That's an unexpected	予想外	…… 予想外[よそうがい]の		scene_08
+……組み合わせ	…combination.	組合	…… 組み合[くみあ]わせ		scene_08
+まあ、男同士、楽しくやりなさい	Well, have fun…boys.	男同士楽	まあ、 男[おとこ] 同士[どうし]、 楽[たの]しくやりなさい		scene_08
+それじゃあ、カームで！	We'll see you at Kalm!		それじゃあ、カームで！		scene_08
+……やると思ったぜ	…Thought you'd do that.	思	……やると 思[おも]ったぜ		scene_08
+じゃあ、カームでな！	Later, at Kalm!		じゃあ、カームでな！		scene_08
+おっかしいな？このゲートのカギ……どこかに落としたかな？この前のハックツ・ツアーの最中かな？	That's funny…I dropped the key to this gate…somewhere. Must've been on that excavation tour.	落前最中	おっかしいな？このゲートのカギ……どこかに 落[お]としたかな？この 前[まえ]のハックツ・ツアーの 最中[さいちゅう]かな？		scene_08
+カーム	Kalm		カーム		scene_09
+裏の塔	Rear Tower (Pagoda)	裏塔	裏[うら]の 塔[とう]		scene_09
+宿屋１階	Inn: 1f	宿屋階	宿屋[やどや]１ 階[かい]		scene_09
+宿屋２階	Inn: 2f	宿屋階	宿屋[やどや]２ 階[かい]		scene_09
+CLOUDの過去	CLOUD's Past	過去	CLOUDの 過去[かこ]		scene_09
+『ピースメーカー』を手にいれた！	"Received ""Peacemaker""!"	手	『ピースメーカー』を 手[て]にいれた！		scene_09
+『ガードアップ』を手にいれた！	"Received ""Guard Source""!"	手	『ガードアップ』を 手[て]にいれた！		scene_09
+……『ラストエリクサー』が落ちてきた！	"…Dropped ""Megalixir""!"	落	……『ラストエリクサー』が 落[お]ちてきた！		scene_09
+『せんすい』のマテリアを手にいれた！	"Received ""Underwater"" Materia!"	手	『せんすい』のマテリアを 手[て]にいれた！		scene_09
+『マスターまほう』のマテリアを手にいれた！	"Received ""Master Magic"" Materia!"	手	『マスターまほう』のマテリアを 手[て]にいれた！		scene_09
+『マスターコマンド』のマテリアを手にいれた！	"Received ""Master Command"" Materia!"	手	『マスターコマンド』のマテリアを 手[て]にいれた！		scene_09
+『マスターしょうかん』のマテリアを手にいれた！	"Received ""Master Summon"" Materia!"	手	『マスターしょうかん』のマテリアを 手[て]にいれた！		scene_09
+からっぽだ……	Empty…		からっぽだ……		scene_09
+手がとどかない……	Can't reach it…	手	手[て]がとどかない……		scene_09
+ここが、カームだ	This is Kalm.		ここが、カームだ		scene_09
+カームに着いたね	We've reached Kalm.	着	カームに 着[つ]いたね		scene_09
+ここが、カームね	So this is Kalm?		ここが、カームね		scene_09
+……カームに着いたな	…this must be Kalm.	着	……カームに 着[つ]いたな		scene_09
+おい、先に宿屋で待ってるぜ。チンタラせずに、早くこいよ！	Yo, I'll be waitin' at the inn… Hurry and get your butt over there!	先宿屋待早	おい、 先[さき]に 宿屋[やどや]で 待[ま]ってるぜ。チンタラせずに、 早[はや]くこいよ！		scene_09
+みんな、もう着いてるかな。はやく宿屋に行きましょ！	I wonder if everyone's there already? Let's hurry over to the inn!	着宿屋行	みんな、もう 着[つ]いてるかな。はやく 宿屋[やどや]に 行[い]きましょ！		scene_09
+宿屋でみんなが待ってるわ。行きましょう、CLOUD	Everyone's waiting at the inn. Let's go CLOUD.	宿屋待行	宿屋[やどや]でみんなが 待[ま]ってるわ。 行[い]きましょう、 CLOUD		scene_09
+宿屋でおちあう手はずだったな。……行くか	We're supposed to meet at the inn. …Shall we go?	宿屋手行	宿屋[やどや]でおちあう 手[て]はずだったな。…… 行[い]くか		scene_09
+とっとと来いよ	Get over here!	来	とっとと 来[こ]いよ		scene_09
+じゃあ、先、行ってるね	Well then, I'll go on ahead.	先行	じゃあ、 先[さき]、 行[おこな]ってるね		scene_09
+行きましょう、CLOUD	Let's go CLOUD.	行	行[い]きましょう、 CLOUD		scene_09
+行こう、CLOUD	Let's go CLOUD.	行	行[い]こう、 CLOUD		scene_09
+神羅カンパニーが魔晄エネルギーを実用化してくれたおかげでわしらの生活も便利になったもんじゃ	Thanks to the Mako energy Shinra, Inc. develops for us, everything's more convenient now.	神羅魔晄実用化生活便利	神[しん] 羅[ら]カンパニーが 魔[ま] 晄[こう]エネルギーを 実用化[じつようか]してくれたおかげでわしらの 生活[せいかつ]も 便利[べんり]になったもんじゃ		scene_09
+ちと、便利になりすぎたかもしれんがの	Maybe a little too convenient.	便利	ちと、 便利[べんり]になりすぎたかもしれんがの		scene_09
+魔晄炉のある場所の土地はどんどんやせていってしまうという話だ	I hear that the natural resources near the reactors are being sucked dry.	魔晄炉場所土地話	魔[ま] 晄[こう] 炉[ろ]のある 場所[ばしょ]の 土地[とち]はどんどんやせていってしまうという 話[はなし]だ		scene_09
+この町みたいに魔晄エネルギーは供給してもらうだけってのが一番いい方法なのさ	We're better off with the Mako energy.	町魔晄供給一番方法	この 町[まち]みたいに 魔[ま] 晄[こう]エネルギーは 供給[きょうきゅう]してもらうだけってのが 一番[いちばん]いい 方法[ほうほう]なのさ		scene_09
+空中に浮かぶ都市と言われるミッドガル。一度、この目で見てみたいものだわ	The famous floating city, Midgar… Just once I'd love to see it in person.	空中浮都市言一度目見	空中[くうちゅう]に 浮[う]かぶ 都市[とし]と 言[い]われるミッドガル。 一度[いちど]、この 目[め]で 見[み]てみたいものだわ		scene_09
+何をしているのかって？ミッドガルから送られてくる魔晄エネルギーの圧力をチェックしてるのさ	What does it do? It checks the pressure of the Mako energy sent from Midgar.	何送魔晄圧力	何[なに]をしているのかって？ミッドガルから 送[おく]られてくる 魔[ま] 晄[こう]エネルギーの 圧力[あつりょく]をチェックしてるのさ		scene_09
+ここは、アイテム屋だよ	This is the Item Store.	屋	ここは、アイテム 屋[や]だよ		scene_09
+ここは、武器屋だよ	This is the Weapons Store.	武器屋	ここは、 武器[ぶき] 屋[や]だよ		scene_09
+ここは、マテリア屋だよ	This is the Materia Store.	屋	ここは、マテリア 屋[や]だよ		scene_09
+ミッドガルじゃ、テロリストが魔晄炉を爆破したらしいぜ	I heard terrorists bombed a Midgar reactor…	魔晄炉爆破	ミッドガルじゃ、テロリストが 魔[ま] 晄[こう] 炉[ろ]を 爆破[ばくは]したらしいぜ		scene_09
+最近、ぶっそうな事が多いよな。やだ、やだ	There have been a lot of dangerous accidents recently. I hate it, just hate it.	最近事多	最近[さいきん]、ぶっそうな 事[こと]が 多[おお]いよな。やだ、やだ		scene_09
+ミッドガルでは、アバランチという反神羅組織が活動していたらしいがついに神羅のソルジャーによって全滅させられたそうだな	It seems there was this group called AVALANCHE runnin' around, but I guess SOLDIER finally wiped them out.	反神羅組織活動全滅	ミッドガルでは、アバランチという 反[はん] 神[しん] 羅[ら] 組織[そしき]が 活動[かつどう]していたらしいがついに 神[しん] 羅[ら]のソルジャーによって 全滅[ぜんめつ]させられたそうだな		scene_09
+神羅カンパニーは、自分たちに逆らう者たちを、どんどん排除しようとしている	Shinra is trying to eliminate anyone, who stands up to them.	神羅自分逆者排除	神[しん] 羅[ら]カンパニーは、 自分[じぶん]たちに 逆[さか]らう 者[もの]たちを、どんどん 排除[はいじょ]しようとしている		scene_09
+我々は、好むと好まざるに関わらず神羅カンパニーの支配を受け入れなければならないのさ	It don't matter if we like it or not. Shinra's taken over, and we gotta live with it!	我好関神羅支配受入	我々[われわれ]は、 好[この]むと 好[この]まざるに 関[かか]わらず 神[しん] 羅[ら]カンパニーの 支配[しはい]を 受け入[うけい]れなければならないのさ		scene_09
+ちゅうぼうに入ってこないでおくれ	Stay out of the kitchen.	入	ちゅうぼうに 入[はい]ってこないでおくれ		scene_09
+プレジデント神羅が殺されたそうだな。それに息子のルーファウス新社長も大ケガしたっていうじゃないか	I heard President Shinra was killed. And his son Rufus, the new president, was badly hurt.	神羅殺息子新社長大	プレジデント 神[しん] 羅[ら]が 殺[ころ]されたそうだな。それに 息子[むすこ]のルーファウス 新[しん] 社長[しゃちょう]も 大[だい]ケガしたっていうじゃないか		scene_09
+どうだ、初耳だろ？	Hey, I bet that's news to you?	初耳	どうだ、 初耳[はつみみ]だろ？		scene_09
+おっ、事情通！	You're pretty smart!	事情通	おっ、 事情通[じじょうつう]！		scene_09
+ふふふ……ここだけの話だが神羅親子を襲ったのはアバラなんとかいう組織だって話だぜ	Heh, heh…Just between us… I heard it was them Ava-whaddya call-ums that got President Shinra and his son.	話神羅親子襲組織	ふふふ……ここだけの 話[はなし]だが 神[しん] 羅[ら] 親子[ちかこ]を 襲[おそ]ったのはアバラなんとかいう 組織[そしき]だって 話[はなし]だぜ		scene_09
+関心なしか？旅をするなら神羅カンパニーの動きには注目したほうがいいぜ	Don't care? If you're going to travel, you'd best keep an eye on what Shinra's doing.	関心旅神羅動注目	関心[かんしん]なしか？ 旅[たび]をするなら 神[しん] 羅[ら]カンパニーの 動[うご]きには 注目[ちゅうもく]したほうがいいぜ		scene_09
+ぼく、大きくなったら神羅のソルジャーになるんだ！そのために、いまからモウクンレンしてるんだ！！	When I grow up I'm gonna be in SOLDIER. That's why I'm training hard now!!	大神羅	ぼく、 大[おお]きくなったら 神[しん] 羅[ら]のソルジャーになるんだ！そのために、いまからモウクンレンしてるんだ！！		scene_09
+……お兄ちゃん、子供っぽくてわたし、はずかしい	My older brother's so stupid. He's so embarrassing I could just puke!	兄子供	……お 兄[にい]ちゃん、 子供[こども]っぽくてわたし、はずかしい		scene_09
+うりゃー、アシコシのタンレン～	Hyah, hayah, eagghh!		うりゃー、アシコシのタンレン~		scene_09
+うりゃー、コンジョウのトックン～	Hyah, hayah, eagghh!		うりゃー、コンジョウのトックン~		scene_09
+うりゃー、うりゃ、うりゃ～	Hyah, hayah, eagghh!		うりゃー、うりゃ、うりゃ~		scene_09
+魔晄エネルギーのおかげで生活が色々と便利になったわ。神羅さまさまよね	Thanks to Mako energy, life's pretty darn convenient. Thanks to Shinra.	魔晄生活色便利神羅	魔[ま] 晄[こう]エネルギーのおかげで 生活[せいかつ]が 色々[いろいろ]と 便利[べんり]になったわ。 神[しん] 羅[ら]さまさまよね		scene_09
+あなたも、そう思うでしょ？	Don't you think?	思	あなたも、そう 思[おも]うでしょ？		scene_09
+そうかもしれない	Yeah, maybe		そうかもしれない		scene_09
+そんなことはない	You're full of it		そんなことはない		scene_09
+そうでしょ！もう、魔晄エネルギーのない生活なんて考えられないわね	See!? How would we get by without Mako energy?	魔晄生活考	そうでしょ！もう、 魔[ま] 晄[こう]エネルギーのない 生活[せいかつ]なんて 考[かんが]えられないわね		scene_09
+ふ～ん。でも、魔晄エネルギーのない生活なんて、私は考えられないわね	Hmm. But I'd hate to think of what life'd be like without Mako energy.	魔晄生活私考	ふ~ん。でも、 魔[ま] 晄[こう]エネルギーのない 生活[せいかつ]なんて、 私[わたし]は 考[かんが]えられないわね		scene_09
+魔晄エネルギーのおかげでいろいろと便利になったけど……	Mako energy's made things a lot more convenient…	魔晄便利	魔[ま] 晄[こう]エネルギーのおかげでいろいろと 便利[べんり]になったけど……		scene_09
+でも、そのかわりに動物や植物がどんどんへっているような気がするわ	But a lot of plants and animals have been disappearing at a rapid pace.	動物植気	でも、そのかわりに 動物[どうぶつ]や 植物[しょくぶつ]がどんどんへっているような 気[き]がするわ		scene_09
+わたしは、むかしの方がよかったんじゃないかと思うの	I think the old life was better.	方思	わたしは、むかしの 方[ほう]がよかったんじゃないかと 思[おも]うの		scene_09
+ね、そうよね？	Don't you think so?		ね、そうよね？		scene_09
+そうでしょ？　そう思うわよね	Yeah, sure I'm right! You think so, don't you?	思	そうでしょ？　そう 思[おも]うわよね		scene_09
+お母さんとおなじことを言うのね	That's just what my mom said.	母言	お 母[かあ]さんとおなじことを 言[い]うのね		scene_09
+私は、動物とあそべたころの方がよかったと思うわ……	Things were better when you could play with animals…	私動物方思	私[わたし]は、 動物[どうぶつ]とあそべたころの 方[ほう]がよかったと 思[おも]うわ……		scene_09
+あっ、聞いてくれよ！なんかミッドガルにでっかい大砲がついちゃって、すごい事になっているよ	Listen to me! Something really big's happening in Midgar.	聞大砲事	あっ、 聞[き]いてくれよ！なんかミッドガルにでっかい 大砲[たいほう]がついちゃって、すごい 事[こと]になっているよ		scene_09
+テレビによると、ルーファウスの２つめの作戦だとか……	They were just saying on TV it was Rufus' second strategy and…	作戦	テレビによると、ルーファウスの ２[ふた]つめの 作戦[さくせん]だとか……		scene_09
+あの大砲は真北に向いてるけど……目標は……セフィロス？？	That big cannon's pointed due north… Do you think the target is Sephiroth?	大砲真北向目標	あの 大砲[たいほう]は 真北[まきた]に 向[むか]いてるけど…… 目標[もくひょう]は……セフィロス？？		scene_09
+ウェポンがやってくるって神羅カンパニーの人間は大騒ぎしとるよ	Everyone at Shinra's in an uproar because they heard Weapon's coming.	神羅人間大騒	ウェポンがやってくるって 神[しん] 羅[ら]カンパニーの 人間[にんげん]は 大騒[おおさわ]ぎしとるよ		scene_09
+秘密兵器を運んでいた飛空艇が空を飛ぶウェポンに襲われて海に沈んでしまったとか何やら……	I heard a big hydroplane carrying secret weapons, was attacked by Weapon and was sunk at sea…	秘密兵器運飛空艇襲海沈何	秘密兵器[ひみつへいき]を 運[はこ]んでいた 飛空艇[ひくうてい]が 空[そら]を 飛[と]ぶウェポンに 襲[おそ]われて 海[うみ]に 沈[しず]んでしまったとか 何[なに]やら……		scene_09
+ルーファウス社長がいなくなってはもう、神羅カンパニーもおしまいじゃな。……そして、この世界も	If something ever happened to President Rufus, That'd be the end of Shinra, Inc. and the rest of the world, too.	社長神羅世界	ルーファウス 社長[しゃちょう]がいなくなってはもう、 神[しん] 羅[ら]カンパニーもおしまいじゃな。……そして、この 世界[せかい]も		scene_09
+おまえたち、ミッドガルから来たんじゃと？	Did you say you came from Midgar?	来	おまえたち、ミッドガルから 来[き]たんじゃと？		scene_09
+わしも以前ミッドガルに住んでいたんじゃが近頃はあそこも色々あるようじゃな	I used to live there, too. But I heard they got lots of troubles lately.	以前住近頃色	わしも 以前[いぜん]ミッドガルに 住[す]んでいたんじゃが 近頃[ちかごろ]はあそこも 色々[いろいろ]あるようじゃな		scene_09
+モンスターってのは神羅がつくったってウワサがあるがホントかねえ？	Is it true that Shinra makes monsters?	神羅	モンスターってのは 神[しん] 羅[ら]がつくったってウワサがあるがホントかねえ？		scene_09
+そのとおり	It's true		そのとおり		scene_09
+たんなるウワサ	Just a rumor		たんなるウワサ		scene_09
+どっちにしたって魔晄炉の世話になってるかぎり神羅にゃさからえないんだけどね	Yeah, well either way, as long as we use reactors, we can't stand up to Shinra.	魔晄炉世話神羅	どっちにしたって 魔[ま] 晄[こう] 炉[ろ]の 世話[せわ]になってるかぎり 神[しん] 羅[ら]にゃさからえないんだけどね		scene_09
+怪しい黒マントの男がこの町にいたんだ！ぶっそうな刀なんか持ち歩いてさ	There was a suspicious-looking man in a black cloak! He was carrying a mean-looking sword.	怪黒男町刀持歩	怪[あや]しい 黒[くろ]マントの 男[おとこ]がこの 町[まち]にいたんだ！ぶっそうな 刀[かたな]なんか 持ち歩[もちある]いてさ		scene_09
+ミッドガルじゃ、神羅とアバランチとかいうヤツらが戦争しているそうじゃないか	They say Midgar's in the middle of a war between the Shinra and some terrorists called AVALANCHE.	神羅戦争	ミッドガルじゃ、 神[しん] 羅[ら]とアバランチとかいうヤツらが 戦争[せんそう]しているそうじゃないか		scene_09
+一泊、２０ギルです。とまっていかれますか？	20 gil a night. What's it gonna be?	一泊	一 泊[はく]、２０ギルです。とまっていかれますか？		scene_09
+CLOUDさまですね。お連れさまが２階でお待ちです	Mr…CLOUD? Your party is waiting for you on the 2nd floor.	連階待	CLOUDさまですね。お 連[づ]れさまが２ 階[かい]でお 待[ま]ちです		scene_09
+この世界は、神羅カンパニーの動きにふりまわされているのさ。あんたたちも、それを受け入れる事だな	Shinra's leading the world around by the nose, and you guys are just gonna sit back and take it?	世界神羅動受入事	この 世界[せかい]は、 神[しん] 羅[ら]カンパニーの 動[うご]きにふりまわされているのさ。あんたたちも、それを 受け入[うけい]れる 事[こと]だな		scene_09
+オレはよぉ、この町の南にある鉱山【ミスリルマイン】で働いていたんだ	Me? I used to work in a mine down south called Mythril Mine	町南鉱山働	オレはよぉ、この 町[まち]の 南[みなみ]にある 鉱山[こうざん]【ミスリルマイン】で 働[はたら]いていたんだ		scene_09
+しかしよぉ、その鉱山にモンスターがわんさか出るようになっちまってな	But, awhile back, monsters started appearing.	鉱山出	しかしよぉ、その 鉱山[こうざん]にモンスターがわんさか 出[で]るようになっちまってな		scene_09
+おかげで、商売あがったり。ここで日がな１日飲んだくれてるのさ	After that, business went to pot and now I spend the days here drinking.	商売日飲	おかげで、 商売[しょうばい]あがったり。ここで 日[ひ]がな１ 日[にち] 飲[の]んだくれてるのさ		scene_09
+ウィ～、ひっく。オレはヨってるぞォ～！！	Urrrp!…hic… I'm stinking drunk!!		ウィ~、ひっく。オレはヨってるぞォ~！！		scene_09
+お金が足りないようですね。またのおこしを、お待ちしています	Seems like you're a little short. Why don't you drop by again… when you have money.	金足待	お 金[かね]が 足[た]りないようですね。またのおこしを、お 待[ま]ちしています		scene_09
+なんで、誰も信じてくれないんだ～！……こどくなボク	Why doesn't anyone believe me? I'm so lonely…	誰信	なんで、 誰[だれ]も 信[しん]じてくれないんだ~！……こどくなボク		scene_09
+あっ、聞いてくれよ！たった今、黒マントの男が東の草原に向かって歩いていったんだ	Listen to me! Just now, some guy in a black cloak walked east towards that grassy field.	聞今黒男東草原向歩	あっ、 聞[き]いてくれよ！たった 今[いま]、 黒[くろ]マントの 男[おとこ]が 東[ひがし]の 草原[そうげん]に 向[む]かって 歩[ある]いていったんだ		scene_09
+ぶっそうな刀なんか持ち歩いてさ。なんか、おっかないヤツだったよ……	He's got this killer sword, and looks REAL scary…	刀持歩	ぶっそうな 刀[かたな]なんか 持ち歩[もちある]いてさ。なんか、おっかないヤツだったよ……		scene_09
+あっ、聞いてくれよ！	Aw, c'mon! Listen to me!	聞	あっ、 聞[き]いてくれよ！		scene_09
+何か、おもしろいことでもないかなぁ……？	Got anything interesting to say?	何	何[なに]か、おもしろいことでもないかなぁ……？		scene_09
+カギがかかっていて、開かない……	Locked. Can't open it…	開	カギがかかっていて、 開[ひら]かない……		scene_09
+ぼく、はやく強くなってメテオをぶっこわしてやるんだ！そのために、いまからモウクンレンするんだ！！	I gotta hurry up and get strong so I can crush Meteor to bits! But I gotta train real hard to do it.	強	ぼく、はやく 強[つよ]くなってメテオをぶっこわしてやるんだ！そのために、いまからモウクンレンするんだ！！		scene_09
+見たことも聞いたこともないようなでっかいモンスターはうろつきまわるしメテオは落っこってくるし……	Oh man, oh man! Meteor's gonna fall on us, and now some huge monster like I've never seen is wandering around out there!	見聞落	見[み]たことも 聞[き]いたこともないようなでっかいモンスターはうろつきまわるしメテオは 落[お]っこってくるし……		scene_09
+あ～、ボクたちはどーなってしまうんだ～～～～～！！	What's going to happen to all of us?		あ~、ボクたちはどーなってしまうんだ~~~~~！！		scene_09
+メテオが落ちてくるだって！？やめてほしいぜ、そーゆーことはよ	I want you to stop that talk about Meteor falling on us!	落	メテオが 落[お]ちてくるだって！？やめてほしいぜ、そーゆーことはよ		scene_09
+今までいっしょうけんめい働いてきたのによぉ メテオでみんな、パーになっちまうってか！？	Listen, I work hard…and now you're tellin' me Meteor's gonna smash everything to bits?	今働	今[いま]までいっしょうけんめい 働[はたら]いてきたのによぉメテオでみんな、パーになっちまうってか！？		scene_09
+ケッ、ばからしくて、やってられっかよ。まじめに働く気なんか失せちまったぜ	Well, I ain't standin' around listenin' to fool talk like this. Makes a person lose the will to work, that's what it does!	働気失	ケッ、ばからしくて、やってられっかよ。まじめに 働く気[はたらくき]なんか 失[う]せちまったぜ		scene_09
+ケッ、やってらんねーよ。ばからしいったら、ありゃしねぇ	What're ya, dense? Something like that'll never happen! It's ridiculous!		ケッ、やってらんねーよ。ばからしいったら、ありゃしねぇ		scene_09
+ミッドガルじゃ、メテオを破壊しようとおおわらわらしいぜ	And all of Midgar's gonna be destroyed by a falling meteor? Oh, don't make me laugh!	破壊	ミッドガルじゃ、メテオを 破壊[はかい]しようとおおわらわらしいぜ		scene_09
+ミッドガルじゃ、アバランチの残堂が神羅カンパニーを叩きつぶしたらしいぜ	I heard the remaining members of AVALANCHE smashed the Shinra troops at Midgar.	残堂神羅叩	ミッドガルじゃ、アバランチの 残[ざん] 堂[どう]が 神[しん] 羅[ら]カンパニーを 叩[はた]きつぶしたらしいぜ		scene_09
+ミッドガルでは、アバランチの残堂が神羅カンパニーの抵抗をはねのけて魔晄キャノンを破壊したという話だ	They say the remaining members of AVALANCHE broke Shinra's resistance and destroyed the Mako cannon at Midgar.	残堂神羅抵抗魔晄破壊話	ミッドガルでは、アバランチの 残[ざん] 堂[どう]が 神[しん] 羅[ら]カンパニーの 抵抗[ていこう]をはねのけて 魔[ま] 晄[こう]キャノンを 破壊[はかい]したという 話[はなし]だ		scene_09
+これから、この世界はどうなってしまうのだろう……	What's going to happen to the world?	世界	これから、この 世界[せかい]はどうなってしまうのだろう……		scene_09
+神羅カンパニーは、メテオやウェポンに対抗するため、各地の施設から役にたちそうなものを、ジュノンやミッドガルに集めているという話だ	I heard Shinra's taking it's biggest artillery from Junon and other facilities and gathering it in Midgar to fight Meteor and Weapon.	神羅対抗各地施設役集話	神[しん] 羅[ら]カンパニーは、メテオやウェポンに 対抗[たいこう]するため、 各地[かくち]の 施設[しせつ]から 役[やく]にたちそうなものを、ジュノンやミッドガルに 集[あつ]めているという 話[はなし]だ		scene_09
+ミッドガルに行けば、あのメテオが落ちても大丈夫なんじゃないかしら？	Even if Meteor falls, you ought to be safe as long as you're in Midgar.	行落大丈夫	ミッドガルに 行[い]けば、あのメテオが 落[お]ちても 大丈夫[だいじょうぶ]なんじゃないかしら？		scene_09
+『魔晄都市』って言うくらいだからなんとかなりそうな気がするんだけど……	"They say it's a ""Mako Metropolis"" so it will survive."	魔晄都市言気	『 魔[ま] 晄[こう] 都市[とし]』って 言[い]うくらいだからなんとかなりそうな 気[き]がするんだけど……		scene_09
+お若いの、空いっぱいに見えとるあのメテオが落ちてくるなんて信じられるかの？	Ah, youth… You really believe that big meteor filling up the sky is going to fall?	若空見落信	お 若[わか]いの、 空[そら]いっぱいに 見[み]えとるあのメテオが 落[お]ちてくるなんて 信[しん]じられるかの？		scene_09
+こうなってしもうては神羅カンパニーだけがわしらの頼りじゃて	If that's the case then all we can do is put our hope in Shinra, Inc.	神羅頼	こうなってしもうては 神[しん] 羅[ら]カンパニーだけがわしらの 頼[たよ]りじゃて		scene_09
+最後の頼みの神羅カンパニーもテロリストにやられてしもうて……わしらはこのまま死ぬのかのぉ？	If Shinra, Inc. was our last hope, and they've been beaten by terrorists… Are we all going to die?	最後頼神羅死	最後[さいご]の 頼[たの]みの 神[しん] 羅[ら]カンパニーもテロリストにやられてしもうて……わしらはこのまま 死[し]ぬのかのぉ？		scene_09
+メテオが落ちてくるんだろ？神羅カンパニーがなんとかしてくれないとみんな死んでしまうことになるな	Meteor's going to fall, isn't it? Then we're all history unless Shinra does something about it!	落神羅死	メテオが 落[お]ちてくるんだろ？ 神[しん] 羅[ら]カンパニーがなんとかしてくれないとみんな 死[し]んでしまうことになるな		scene_09
+いまさら魔晄エネルギーの圧力をチェックなんてしてもしかたがないのだろうけど……	Why're you checking the Mako energy pressure at a time like this? It's probably already too late.	魔晄圧力	いまさら 魔[ま] 晄[こう]エネルギーの 圧力[あつりょく]をチェックなんてしてもしかたがないのだろうけど……		scene_09
+こんな時だからこそ、ヤケにならずに今までどおりキチンと生活していかなきゃいけない、そう思うんだ	You can't go into a tail spin at a time like this. You've got to keep living just like before. At least that's what I think…	時今生活思	こんな 時[とき]だからこそ、ヤケにならずに 今[いま]までどおりキチンと 生活[せいかつ]していかなきゃいけない、そう 思[おも]うんだ		scene_09
+メテオが落ちてくると言うけど大丈夫！そんなもの、神羅カンパニーがきっとなんとかしてくれるわよ	They say Meteor's going to fall, but that's okay! I'm sure Shinra'll come through for us in the end!	落言大丈夫神羅	メテオが 落[お]ちてくると 言[い]うけど 大丈夫[だいじょうぶ]！そんなもの、 神[しん] 羅[ら]カンパニーがきっとなんとかしてくれるわよ		scene_09
+あなた、信じられる！？あの神羅カンパニーがつぶれちゃったんですって！！	Dear, can you believe it? They say that Shinra's gone under!!	信神羅	あなた、 信[しん]じられる！？あの 神[しん] 羅[ら]カンパニーがつぶれちゃったんですって！！		scene_09
+アバランチなんていうテロリストが余計なことしてくれたおかげでもう、この世はおしまいよ	This world is coming to an end all because some terrorists called AVALANCHE stuck their noses in the wrong place!	余計世	アバランチなんていうテロリストが 余計[よけい]なことしてくれたおかげでもう、この 世[よ]はおしまいよ		scene_09
+メテオが落ちてくるなんて……わたしたちは、どうなってしまうのかしら？	I can't believe Meteor's really falling this way… What's going to happen to us?	落	メテオが 落[お]ちてくるなんて……わたしたちは、どうなってしまうのかしら？		scene_09
+メテオが落ちてくるんでしょ？ヘソクリ、どこにかくそうかしら……いや、それよりもヘソクリを持ってどこかへ逃げ出した方がいいのかしら？	Meteor's coming, right? Where will I stash my money? Wait, maybe I'd better take it with me and get out of here!	落持逃出方	メテオが 落[お]ちてくるんでしょ？ヘソクリ、どこにかくそうかしら……いや、それよりもヘソクリを 持[も]ってどこかへ 逃げ出[にげだ]した 方[ほう]がいいのかしら？		scene_09
+一泊、３００ギルです。とまっていかれますか？	One night, 300 gil. Wanna check in?	一泊	一 泊[はく]、３００ギルです。とまっていかれますか？		scene_09
+ん？　あんた、旅行者だね。世界を旅する時に知っておくと役立つことがあるのだけれど……	Tourists, huh? Here are a few things you should know that will come in handy when you travel around the world…	旅行者世界時知役立	ん？　あんた、 旅行者[りょこうしゃ]だね。 世界[せかい]を 旅[たび]する 時[とき]に 知[し]っておくと 役立[やくだ]つことがあるのだけれど……		scene_09
+教えて欲しいかい？	Want to hear what they are?	教欲	教[おし]えて 欲[ほ]しいかい？		scene_09
+それじゃ、ワールドマップでのコントローラ操作について説明してあげるとしよう	Then let me explain how to use the world map.	操作説明	それじゃ、ワールドマップでのコントローラ 操作[そうさ]について 説明[せつめい]してあげるとしよう		scene_09
+さて、何を教えてあげようか？	Well then, what do you want to know?	何教	さて、 何[なに]を 教[おし]えてあげようか？		scene_09
+視点の切替について	Changing camera angles	視点切替	視点[してん]の 切替[きりかえ]について		scene_09
+地図の表示について	Map indicators	地図表示	地図[ちず]の 表示[ひょうじ]について		scene_09
+ボタン操作について	Operating the buttons	操作	ボタン 操作[そうさ]について		scene_09
+他に何か、ききたいことがあるかい？	Anything else you'd like to know?	他何	他[ほか]に 何[なに]か、ききたいことがあるかい？		scene_09
+もう、いいです	Nope, I got it		もう、いいです		scene_09
+まず、ワールドマップではコントローラの【Ｌ２ボタン】を押すと視点を変えることができる	First press [CAMERA] to change the camera angle.	押視点変	まず、ワールドマップではコントローラの【 Ｌ[える]２ボタン】を 押[お]すと 視点[してん]を 変[か]えることができる		scene_09
+選べる視点は２種類あるから自分の好きな方を選ぶといいね	There are 2 angles to choose from, select the one you like.	選視点種類自分好方	選[えら]べる 視点[してん]は２ 種類[しゅるい]あるから 自分[じぶん]の 好[す]きな 方[ほう]を 選[えら]ぶといいね		scene_09
+そして【Ｌ１ボタン】や【Ｒ１ボタン】を押してやれば、視点を左右に回してやることができるんだ	Then rotate the camera either way by pressing [PAGEUP] or [PAGEDOWN].	押視点左右回	そして【 Ｌ[える]１ボタン】や【 Ｒ[あーる]１ボタン】を 押[お]してやれば、 視点[してん]を 左右[さゆう]に 回[まわ]してやることができるんだ		scene_09
+いろいろ試してみて自分にあった視点をさがしてやれば旅は、もっと楽しくなると思うよ	Try different angles until you find the one you like best. It makes the journey a lot more fun!	試自分視点旅楽思	いろいろ 試[ため]してみて 自分[じぶん]にあった 視点[してん]をさがしてやれば 旅[たび]は、もっと 楽[たの]しくなると 思[おも]うよ		scene_09
+この世界の地図は【スタートボタン】を押してやると、見ることができる	Press [START] once to view the World Map.	世界地図押見	この 世界[せかい]の 地図[ちず]は【スタートボタン】を 押[お]してやると、 見[み]ることができる		scene_09
+地図には、大きいものと小さいものがあるから場合によって使い分けてやれば道に迷うことも少なくなると思うよ	There is a large and small map. Learn when to use which and you won't get lost.	地図大小場合使分道迷少思	地図[ちず]には、 大[おお]きいものと 小[ちい]さいものがあるから 場合[ばあい]によって 使い分[つかいわ]けてやれば 道[みち]に 迷[まよ]うことも 少[すく]なくなると 思[おも]うよ		scene_09
+【スタートボタン】を何回か押してやれば地図を切り替えたり、消すことができるんだ。便利だろ？	Push [START] twice to change the size of the map, and once more to turn it off. Pretty easy, huh?	何回押地図切替消便利	【スタートボタン】を 何回[なんかい]か 押[お]してやれば 地図[ちず]を 切り替[きりか]えたり、 消[け]すことができるんだ。 便利[べんり]だろ？		scene_09
+【決定ボタン】を押せば、乗り物に乗り【キャンセルボタン】を押せば乗りものから下りる。このへんは、そんなに難しくないね	Ride things by pressing [ASSIST] and get off by pressing [CANCEL]. This isn't so hard, either!	決定押乗物下難	【 決定[けってい]ボタン】を 押[お]せば、 乗り物[のりもの]に 乗[の]り【キャンセルボタン】を 押[お]せば 乗[の]りものから 下[お]りる。このへんは、そんなに 難[むずか]しくないね		scene_09
+あ、そうそう。ワールドマップではダッシュができないから【キャンセルボタン】は、乗り物から下りるときにしか押さない方がいいね	Oh, right. You can't dash on the World Map, so make sure not to press [CANCEL] unless you want to get off.	乗物下押方	あ、そうそう。ワールドマップではダッシュができないから【キャンセルボタン】は、 乗り物[のりもの]から 下[お]りるときにしか 押[お]さない 方[ほう]がいいね		scene_09
+特にチョコボは下りると逃げちゃうからね。気をつけた方がいいよ	Remember this because Chocobos will run away as soon as you get off them, so be careful.	特下逃気方	特[とく]にチョコボは 下[お]りると 逃[に]げちゃうからね。 気[き]をつけた 方[ほう]がいいよ		scene_09
+ワールドマップではメニューを開けばどこでもセーブできるからセーブはこまめにとったほうがいいよ	Once on the World Map you can access the menu to save your game anywhere. It's a good idea to save frequently!	開	ワールドマップではメニューを 開[あ]けばどこでもセーブできるからセーブはこまめにとったほうがいいよ		scene_09
+それじゃ、よい旅を	Well then, bon voyage!	旅	それじゃ、よい 旅[たび]を		scene_09
+そうかい？　それは残念。それじゃ、よい旅を	Is that so? Well, that's that. Have a nice trip.	残念旅	そうかい？　それは 残念[ざんねん]。それじゃ、よい 旅[たび]を		scene_09
+……いいかげんに、しろっ！！	Damn!!		……いいかげんに、しろっ！！		scene_09
+ん、もうっ！！	Oh! You!!		ん、もうっ！！		scene_09
+……なめてんじゃねぇっ！！	…don't mess with me!!		……なめてんじゃねぇっ！！		scene_09
+え？　友人をさがしてる？ライフストリームはどこかって？	Huh? You're looking for your friend? You want to know where the Lifestream is?	友人	え？　 友人[ゆうじん]をさがしてる？ライフストリームはどこかって？		scene_09
+ん～、君の友人の事はしらないけどライフストリームについては聞いたことあるよ	Hmm, I can't help you find your friend, but I've heard about the Lifestream.	君友人事聞	ん~、 君[くん]の 友人[ゆうじん]の 事[こと]はしらないけどライフストリームについては 聞[き]いたことあるよ		scene_09
+【南の島】に旅行に言った時ある医者に世話になったんだけどその時に医者からそんな言葉を聞いたような覚えがあるけど……	When I traveled to the Southern islands, a doctor was very kind to me. I seem to recall him telling me something about the Lifestream…	南島旅行言時医者世話葉聞覚	【 南[みなみ]の 島[しま]】に 旅行[りょこう]に 言[い]った 時[とき]ある 医者[いしゃ]に 世話[せわ]になったんだけどその 時[とき]に 医者[いしゃ]からそんな 言葉[ことば]を 聞[き]いたような 覚[おぼ]えがあるけど……		scene_09
+あっ、聞いてくれよ！神羅軍の動きが活発になってきたんだ	Hey, listen to me! The Shinra troops are on the move.	聞神羅軍動活発	あっ、 聞[き]いてくれよ！ 神[しん] 羅[ら] 軍[ぐん]の 動[うご]きが 活発[かっぱつ]になってきたんだ		scene_09
+テレビによると、ルーファスは２つの作戦を打ち立てたらしいね。なんでもその１つはヒュージマテリアを集めて、ロケットで宇宙に飛ばすとか……	The TV news said Rufus came up with two plans. One, is to launch a rocket into space containing Huge Materia…	作戦打立集宇宙飛	テレビによると、ルーファスは ２[ふた]つの 作戦[さくせん]を 打ち立[うちた]てたらしいね。なんでもその １[ひと]つはヒュージマテリアを 集[あつ]めて、ロケットで 宇宙[うちゅう]に 飛[と]ばすとか……		scene_09
+ヒュージマテリアの破壊力ってのはそんなにすごいのかなぁ？	Is Huge Materia really that destructive?	破壊力	ヒュージマテリアの 破壊力[はかいりょく]ってのはそんなにすごいのかなぁ？		scene_09
+北のクレーターにセフィロスは巨大なバリアをはったんだ	Sephiroth put up a huge barrier around the North Crater.	北巨大	北[きた]のクレーターにセフィロスは 巨大[きょだい]なバリアをはったんだ		scene_09
+ルーファスは、あの大砲でそれをぶち壊す計画なんだ	Rufus wants to use a mammoth cannon to smash the barrier.	大砲壊計画	ルーファスは、あの 大砲[たいほう]でそれをぶち 壊[こわ]す 計画[けいかく]なんだ		scene_09
+バリアがなくなったスキに神羅軍でセフィロスを直接攻撃するつもりなのさ	He plans to have Shinra troops rush in and attack Sephiroth after the barrier falls.	神羅軍直接攻撃	バリアがなくなったスキに 神[しん] 羅[ら] 軍[ぐん]でセフィロスを 直接[ちょくせつ] 攻撃[こうげき]するつもりなのさ		scene_09
+北のクレーターのバリアがブッこわれたんだって！？	The North Crater barrier's been demolished?	北	北[きた]のクレーターのバリアがブッこわれたんだって！？		scene_09
+じゃあ今こそが、セフィロスを倒す好機なわけだ	So now's the time to defeat Sephiroth.	今倒好機	じゃあ 今[いま]こそが、セフィロスを 倒[たお]す 好機[こうき]なわけだ		scene_09
+あっ、聞いてくれよ！セフィロスを守っていたバリアはなくなったんだって！	Hey, listen to me! I heard the barrier protecting Sephiroth is gone!	聞守	あっ、 聞[き]いてくれよ！セフィロスを 守[まも]っていたバリアはなくなったんだって！		scene_09
+でも、ルーファスが死んでしまったから神羅軍は右往左往するばかり。ハイデッカーやスカーレットじゃ神羅をまとめるには力不足だし……	But with Rufus dead, the Shinra troops don't know what to do. Heidegger and Scarlet don't have what it takes to lead the troops.	死神羅軍右往左力不足	でも、ルーファスが 死[し]んでしまったから 神[しん] 羅[ら] 軍[ぐん]は 右往左往[うおうさおう]するばかり。ハイデッカーやスカーレットじゃ 神[しん] 羅[ら]をまとめるには 力不足[ちからぶそく]だし……		scene_09
+せっかくなんとかなると思ったのにこれじゃ、何も変わってないのと同じじゃないか～！	I really thought something was finally going to happen, but everything's the same… Not a damn thing changes around here!	思何変同	せっかくなんとかなると 思[おも]ったのにこれじゃ、 何[なに]も 変[か]わってないのと 同[おな]じじゃないか~！		scene_09
+ボクのお父さん、炭鉱夫なんだけどミスリルの鉱山にモンスターがでてきて仕事ができなくなっちゃったんだ	My old man was a miner, but he couldn't go to work after monsters started appearing in the Mythril Mines.	父炭鉱夫山仕事	ボクのお 父[とう]さん、 炭[すみ] 鉱夫[こうふ]なんだけどミスリルの 鉱山[こうざん]にモンスターがでてきて 仕事[しごと]ができなくなっちゃったんだ		scene_09
+今じゃ、この奥の酒場でお酒ばっかり飲んで酔っぱらっているよ	Now all he does is sit around getting drunk in the bar…	今奥酒場飲酔	今[いま]じゃ、この 奥[おく]の 酒場[さかば]でお 酒[さけ]ばっかり 飲[の]んで 酔[よ]っぱらっているよ		scene_09
+ボクのお父さん、もうすぐメテオが落ちてくるというのにこの奥の酒場でお酒ばっかり……	My dad still just sits at the bar drinking, even though he knows Meteor's coming!	父落奥酒場	ボクのお 父[とう]さん、もうすぐメテオが 落[お]ちてくるというのにこの 奥[おく]の 酒場[さかば]でお 酒[さけ]ばっかり……		scene_09
+いい大人のクセに、現実見えていないってのは、情けないよね。まいっちゃうなぁ、もう	It's sad. Even though he's an adult, he just doesn't want to see the world as it really is. I dunno what to do.	大人現実見情	いい 大人[おとな]のクセに、 現実[げんじつ] 見[み]えていないってのは、 情[なさ]けないよね。まいっちゃうなぁ、もう		scene_09
+この町の南にある【ミスリルマイン】を抜けてさらに西へ行くと【ジュノン】という神羅カンパニーの港があるの	South of this town past the Mythril Mine and far to the west is a Shinra harbor called Junon.	町南抜西行神羅港	この 町[まち]の 南[みなみ]にある【ミスリルマイン】を 抜[ぬ]けてさらに 西[にし]へ 行[い]くと【ジュノン】という 神[しん] 羅[ら]カンパニーの 港[みなと]があるの		scene_09
+そこにも魔晄炉があって大きな建物がたくさん建っているそうよ。ああ、行ってみたいわぁ	They say there's a reactor and many tall buildings there. I hope to see it someday.	魔晄炉大建物行	そこにも 魔[ま] 晄[こう] 炉[ろ]があって 大[おお]きな 建物[たてもの]がたくさん 建[た]っているそうよ。ああ、 行[おこな]ってみたいわぁ		scene_09
+すべて、世は事もなし……、っと。和平じゃのう	The world's at peace… all's well.	世事和平	すべて、 世[よ]は 事[こと]もなし……、っと。 和平[わへい]じゃのう		scene_09
+明日は明日の風がふく……、っと。和平じゃのう	Tomorrow's another day… all's well.	明日風和平	明日[あした]は 明日[あした]の 風[かぜ]がふく……、っと。 和平[わへい]じゃのう		scene_09
+今日も元気だ、ごはんがうまい……、っと。和平じゃのう	I got my health, and enough to eat… all's well.	今日元気和平	今日[きょう]も 元気[げんき]だ、ごはんがうまい……、っと。 和平[わへい]じゃのう		scene_09
+この数日で、この世界は大きく様変わりしてしまった……	The world's changed a lot in the past few days…	数日世界大様変	この 数[すう] 日[にち]で、この 世界[せかい]は 大[おお]きく 様変[さまが]わりしてしまった……		scene_09
+天空をおおうメテオ……我が物顔でかっぽする巨大なモンスター……	That huge Meteor is covering up the sky and acting like it owned it.	天空我物顔巨大	天空[てんくう]をおおうメテオ…… 我が物[わがもの] 顔[がお]でかっぽする 巨大[きょだい]なモンスター……		scene_09
+……ワシの友人も、おおぜい死んでしまった	A lot of my friends have died…	友人死	……ワシの 友人[ゆうじん]も、おおぜい 死[し]んでしまった		scene_09
+ワシは、死んでしまった友人たちのめいふくをいのる旅に出ようと思う	I'm goin' on a journey to pray for their souls.	死友人旅出思	ワシは、 死[し]んでしまった 友人[ゆうじん]たちのめいふくをいのる 旅[たび]に 出[で]ようと 思[おも]う		scene_09
+沈ぼつ船とともに沈んだというめい界の地図。……【ガイドブック】千年に一度、砂ばくにさくという花。……【デザートローズ】きく者の心をおだやかにするたてごと。……【アースハープ】	"A map that was sunk along with the ship. ...""Guidebook"" A rose that blooms once every 1000 years in the desert. ...""Desert Rose"" A harp that soothes those who hear it. ...""Earth Harp"""	沈船界地図千年一度砂花者心	沈ぼつ 船[せん]とともに 沈[しず]んだというめい 界[かい]の 地図[ちず]。……【ガイドブック】 千[せん] 年[ねん]に一 度[ど]、 砂[すな]ばくにさくという 花[はな]。……【デザートローズ】きく 者[しゃ]の 心[こころ]をおだやかにするたてごと。……【アースハープ】		scene_09
+誰かワシのもとに持ってきてくれる人はおらんかのう……	I wonder if there's anyone who'll bring it to me?	誰持人	誰[だれ]かワシのもとに 持[も]ってきてくれる 人[ひと]はおらんかのう……		scene_09
+あとは【ガイドブック】さえあれば旅に出られるのじゃが……	"Now if I can just get the ""Guidebook"", I can start my journey…"	旅出	あとは【ガイドブック】さえあれば 旅[たび]に 出[で]られるのじゃが……		scene_09
+あとは【デザートローズ】さえあれば旅に出られるのじゃが……	"Now if I can just get ""Desert Rose"", I can stary my journey…"	旅出	あとは【デザートローズ】さえあれば 旅[たび]に 出[で]られるのじゃが……		scene_09
+あとは【アースハープ】さえあれば旅に出られるのじゃが……	"Now if I can just get ""Earth Harp"", I can start my journey…"	旅出	あとは【アースハープ】さえあれば 旅[たび]に 出[で]られるのじゃが……		scene_09
+【ガイドブック】と【デザートローズ】……おぬしたち、探してきてくれんか？	"Guidebook and ""Desert Rose""… Will you guys look for them for me?"	探	【ガイドブック】と【デザートローズ】……おぬしたち、 探[さが]してきてくれんか？		scene_09
+【ガイドブック】と【アースハープ】……おぬしたち、探してきてくれんか？	"Guidebook and ""Earth Harp""… Will you guys look for them for me?"	探	【ガイドブック】と【アースハープ】……おぬしたち、 探[さが]してきてくれんか？		scene_09
+【デザートローズ】と【アースハープ】……おぬしたち、探してきてくれんか？	"Desert Rose and ""Earth Harp""… Will you guys look for them for me?"	探	【デザートローズ】と【アースハープ】……おぬしたち、 探[さが]してきてくれんか？		scene_09
+おお、それは【ガイドブック】！ワシの持っている【水中呼吸マテリア】と交換せぬか？	"OH! It's ""Guidebook""! Wanna trade it for this Underwater Materia?"	持水中呼吸交換	おお、それは【ガイドブック】！ワシの 持[も]っている【 水中[すいちゅう] 呼吸[こきゅう]マテリア】と 交換[こうかん]せぬか？		scene_09
+どうじゃ？	How about it?		どうじゃ？		scene_09
+交換する	Trade	交換	交換[こうかん]する		scene_09
+交換しない	Don't trade	交換	交換[こうかん]しない		scene_09
+おお、それは【デザートローズ】！ワシのペットの【チョコボ】と交換せぬか？	"OH! It's ""Desert Rose""! Wanna trade it for that Chocobo over there?"	交換	おお、それは【デザートローズ】！ワシのペットの【チョコボ】と 交換[こうかん]せぬか？		scene_09
+おお、それは【アースハープ】！ワシの持っている【マスターマテリア】と交換せぬか？	OH! It's the Earth Harp! Wanna trade it for some Master Materia?	持交換	おお、それは【アースハープ】！ワシの 持[も]っている【マスターマテリア】と 交換[こうかん]せぬか？		scene_09
+１個なんてケチな事は言わん！３個セットにして渡すぞ	I'm not bein' stingy either! I'll give you all three of 'em!	個事言渡	１ 個[こ]なんてケチな 事[こと]は 言[い]わん！３ 個[こ]セットにして 渡[わた]すぞ		scene_09
+よし、交換成立じゃな	Ok then, it's a done deal!	交換成立	よし、 交換[こうかん] 成立[せいりつ]じゃな		scene_09
+何が不満なんじゃ……	I dunno…	何不満	何[なに]が 不満[ふまん]なんじゃ……		scene_09
+【潜水マテリア】じゃ。持っていってくれ	it's Underwater Materia. Go on, it's yours!	潜水持	【 潜水[せんすい]マテリア】じゃ。 持[も]っていってくれ		scene_09
+【ウルトラチョコボ】じゃ。連れてゆくがええ	It's a Chocobo. Take it, it's yours!	連	【ウルトラチョコボ】じゃ。 連[つ]れてゆくがええ		scene_09
+【マスターマテリア３点セット】じゃ。持っていってくれ	It's a 3-piece Master Materia set, …and it's all yours!	点持	【マスターマテリア３ 点[てん]セット】じゃ。 持[も]っていってくれ		scene_09
+では、ワシはとむらいの旅に行くとするか……	I guess it's time to go on a journey for the souls of my departed friends…	旅行	では、ワシはとむらいの 旅[たび]に 行[い]くとするか……		scene_09
+『チョコぼう』がいっぱいだな。空きをつくってから連れていくことにしよう	Looks like my Stable's full. I'll come back when I have room.	空連	『チョコぼう』がいっぱいだな。 空[あ]きをつくってから 連[つ]れていくことにしよう		scene_09
+CLOUD、おそい～っ！	CLOUD, you're late!		CLOUD、おそい~っ！		scene_10
+おそいじゃねぇか！	Yo man, you're late!		おそいじゃねぇか！		scene_10
+すまない。またせたようだな	Sorry to keep you waiting.		すまない。またせたようだな		scene_10
+これで、みんなそろったわね	Guess everyone's here now.		これで、みんなそろったわね		scene_10
+さあて……聞かせてもらおうじゃねえか	So let's hear your story…	聞	さあて…… 聞[き]かせてもらおうじゃねえか		scene_10
+セフィロス、星の危機。	You know, the one about Sephiroth and the crisis of the Planet.	星危機	セフィロス、 星[ほし]の 危機[きき]。		scene_10
+おまえが知ってることのすべてを	Let's hear it all.	知	おまえが 知[し]ってることのすべてを		scene_10
+……俺はセフィロスにあこがれてソルジャーになったんだ	…I used to want to be like Sephiroth, so I joined SOLDIER.	俺	…… 俺[おれ]はセフィロスにあこがれてソルジャーになったんだ		scene_10
+いくつかの作戦をセフィロスといっしょにこなすうちに俺たちは親しくなった	After working with Sephiroth on several missions, we became friends.	作戦俺親	いくつかの 作戦[さくせん]をセフィロスといっしょにこなすうちに 俺[おれ]たちは 親[した]しくなった		scene_10
+親友ってやつか？	You call that a friend?	親友	親友[しんゆう]ってやつか？		scene_10
+どうかな……	Yeah, well…		どうかな……		scene_10
+年もはなれていたしセフィロスは自分のことをほとんど話さなかった	He was older than me, and hardly ever talked about himself.	年自分話	年[とし]もはなれていたしセフィロスは 自分[じぶん]のことをほとんど 話[はな]さなかった		scene_10
+戦友……かな。俺たちは信頼しあっていた。あのときまでは……	So I guess you'd call us war buddies… We trusted each other. Until one day…	戦友俺信頼	戦友[せんゆう]……かな。 俺[おれ]たちは 信頼[しんらい]しあっていた。あのときまでは……		scene_10
+あのとき？	…One day?		あのとき？		scene_10
+戦争終結後のソルジャーの任務は神羅に反抗する人たちを……。ゆううつな仕事が多かったな	After the war it was SOLDIER's duty to put down any resistance against the Shinra.	戦争終結後任務神羅反抗人仕事多	戦争[せんそう] 終結[しゅうけつ] 後[ご]のソルジャーの 任務[にんむ]は 神[しん] 羅[ら]に 反抗[はんこう]する 人[ひと]たちを……。ゆううつな 仕事[しごと]が 多[おお]かったな		scene_10
+……あれは５年前	…that was five years ago.	年前	……あれは５ 年[ねん] 前[まえ]		scene_10
+俺は１６歳だった……	I was 16…	俺歳	俺[おれ]は１６ 歳[さい]だった……		scene_10
+すごい雨だな	It sure is raining hard.	雨	すごい 雨[あめ]だな		scene_10
+おい、気分はどうだ？	Hey, how are you doing?	気分	おい、 気分[きぶん]はどうだ？		scene_10
+……だいじょうぶ	I'm all right.		……だいじょうぶ		scene_10
+俺は乗り物酔いなんてなったことないからな	I wouldn't know…	俺乗物酔	俺[おれ]は 乗り物酔[のりものよ]いなんてなったことないからな		scene_10
+よくわからないんだ	I've never had motion sickness.		よくわからないんだ		scene_10
+準備はＯＫ？	Everything okay?	準備	準備[じゅんび]は ＯＫ[おーけい]？		scene_10
+セフィロス	Sephiroth		セフィロス		scene_10
+おい、おまえ	Hey.		おい、おまえ		scene_10
+もうすこしおちつけ-	Settle down.		もうすこしおちつけ-		scene_10
+新しいマテリア、支給されたんだ	They gave me some new Materia.	新支給	新[あたら]しいマテリア、 支給[しきゅう]されたんだ		scene_10
+早く使ってみたくておちつかなくてさ	I can't wait to use it.	早使	早[はや]く 使[つか]ってみたくておちつかなくてさ		scene_10
+……子供か、おまえは	…Just like a kid.	子供	…… 子供[こども]か、おまえは		scene_10
+なあ、そろそろ今回の仕事教えてくれよ	You going to brief us about this mission?	今回仕事教	なあ、そろそろ 今回[こんかい]の 仕事[しごと] 教[おし]えてくれよ		scene_10
+……今回の任務はいつもとはちがう	This isn't a typical mission.	今回任務	…… 今回[こんかい]の 任務[にんむ]はいつもとはちがう		scene_10
+それはうれしいね！	Good!		それはうれしいね！		scene_10
+どうしてだ？	Why do you say that?		どうしてだ？		scene_10
+俺はあんたみたいになりたくてソルジャーになったんだ	I joined SOLDIER to be like you.	俺	俺[おれ]はあんたみたいになりたくてソルジャーになったんだ		scene_10
+それなのにクラス１ＳＴに昇格したのと同時に戦争が終わってしまった	But by the time I made First Class, the war was already over.	昇格同時戦争終	それなのにクラス１ＳＴに 昇格[しょうかく]したのと 同時[どうじ]に 戦争[せんそう]が 終[お]わってしまった		scene_10
+俺がヒーローになるチャンスが減ってしまったわけさ	My big hopes of becoming a hero like you ended with the war.	俺減	俺[おれ]がヒーローになるチャンスが 減[へ]ってしまったわけさ		scene_10
+だから、そういうチャンスがあるなら俺は絶対にモノにしてみせる	That's why I always sign up whenever there's a big mission. Kind of a way to prove myself.	俺絶対	だから、そういうチャンスがあるなら 俺[おれ]は 絶対[ぜったい]にモノにしてみせる		scene_10
+な、どんな気分だ？英雄セフィロスさん？	Say, how do you feel, MISTER Sephiroth?	気分英雄	な、どんな 気分[きぶん]だ？ 英雄[えいゆう]セフィロスさん？		scene_10
+……おまえ、今回の任務が知りたかったんじゃないのか？	…I thought you wanted a briefing?	今回任務知	……おまえ、 今回[こんかい]の 任務[にんむ]が 知[し]りたかったんじゃないのか？		scene_10
+今回の任務は老朽化した魔晄炉の調査だ	Our mission is to investigate an old Mako reactor.	今回任務老朽化魔晄炉調査	今回[こんかい]の 任務[にんむ]は 老朽化[ろうきゅうか]した 魔[ま] 晄[こう] 炉[ろ]の 調査[ちょうさ]だ		scene_10
+異常動作を起こしているうえに凶暴な動物が発生している	There have been reports of it malfunctioning, and producing brutal creatures.	異常動作起凶暴物発生	異常[いじょう] 動作[どうさ]を 起[お]こしているうえに 凶暴[きょうぼう]な 動物[どうぶつ]が 発生[はっせい]している		scene_10
+そいつらを始末しつつ原因を見つけだし、排除する	First, we will dispose of those creatures. Then, we'll locate the problem and neutralize it.	始末原因見排除	そいつらを 始末[しまつ]しつつ 原因[げんいん]を 見[み]つけだし、 排除[はいじょ]する		scene_10
+凶暴な動物……場所はどこだ？	Brutal creatures? Where?	凶暴動物場所	凶暴[きょうぼう]な 動物[どうぶつ]…… 場所[ばしょ]はどこだ？		scene_10
+ニブルヘイムの魔晄炉だ	The Mako Reactor at Nibelheim.	魔晄炉	ニブルヘイムの 魔[ま] 晄[こう] 炉[ろ]だ		scene_10
+ニブルヘイム……	Nibelheim…		ニブルヘイム……		scene_10
+ニブルヘイムは俺の生まれ故郷なんだ	That's where I'm from.	俺生故郷	ニブルヘイムは 俺[おれ]の 生まれ故郷[うまれこきょう]なんだ		scene_10
+そうか……故郷か	Hmm…hometown…	故郷	そうか…… 故郷[こきょう]か		scene_10
+へ、へんな動物が！！トラックに突っこんで来ました！	Sir…s, something strange just crashed into the truck!	動物突来	へ、へんな 動物[どうぶつ]が！！トラックに 突[つ]っこんで 来[き]ました！		scene_10
+モンスターのお出ましか	That would be our Monster…	出	モンスターのお 出[で]ましか		scene_10
+さあ、仕事だぞ	Come on, let's go to work.	仕事	さあ、 仕事[しごと]だぞ		scene_10
+セフィロスの強さは普通じゃない。世間で知られているどんな話よりも……すごかった	Sephiroth's strength is incredible. He is far stronger in reality than any stories you may have heard about him.	強普通世間知話	セフィロスの 強[つよ]さは 普通[ふつう]じゃない。 世間[せけん]で 知[し]られているどんな 話[はなし]よりも……すごかった		scene_10
+あれ～？CLOUDの活躍は？	So… Where do you come in?	活躍	あれ~？ CLOUDの 活躍[かつやく]は？		scene_10
+俺か？　俺はセフィロスの戦いぶりにみとれていたな	Me? I was mesmerized by the way Sephiroth fought.	俺戦	俺[おれ]か？　 俺[おれ]はセフィロスの 戦[たたか]いぶりにみとれていたな		scene_10
+……そして俺たちはニブルヘイムについたんだ	…and then we reached Nibelheim.	俺	……そして 俺[おれ]たちはニブルヘイムについたんだ		scene_10
+ニブルヘイム	Nibelheim		ニブルヘイム		scene_10
+どんな気分なんだ？	How does it feel?	気分	どんな 気分[きぶん]なんだ？		scene_10
+ひさしぶりの故郷なんだろ？	It's your first time back to your hometown in a long time, right?	故郷	ひさしぶりの 故郷[こきょう]なんだろ？		scene_10
+どんな気分がするものなんだ？	So how does it feel?	気分	どんな 気分[きぶん]がするものなんだ？		scene_10
+オレには故郷がないからわからないんだ……	I wouldn't know because I don't have a hometown…	故郷	オレには 故郷[こきょう]がないからわからないんだ……		scene_10
+ええと……両親は？	Ummm…how 'bout your parents?	両親	ええと…… 両親[りょうしん]は？		scene_10
+母の名はジェノバ。オレを生んですぐに死んだ。父は……	My mother is Jenova. She died right after she gave birth to me. My father…	母名生死父	母[はは]の 名[な]はジェノバ。オレを 生[う]んですぐに 死[し]んだ。 父[ちち]は……		scene_10
+オレは何を話してるんだ……	What does it matter?	何話	オレは 何[なに]を 話[はな]してるんだ……		scene_10
+さあ、行こうか	All right, let's go.	行	さあ、 行[い]こうか		scene_10
+ちょっと待った！！	Yo wait a minute!!	待	ちょっと 待[ま]った！！		scene_10
+な、あれじゃねえか？	Isn't that, uh…?		な、あれじゃねえか？		scene_10
+セフィロスが言ってた母親の名前……--	The name of Sephiroth's mother…	言母親名前	セフィロスが 言[い]ってた 母親[ははおや]の 名前[なまえ]……--		scene_10
+ジェノバ……覚えてるぞ！神羅ビルにいた首ナシのバケモノだな！	I remember Jenova. That's that damn headless spook livin' in the Shinra building.	覚神羅首	ジェノバ…… 覚[おぼ]えてるぞ！ 神[しん] 羅[ら]ビルにいた 首[くび]ナシのバケモノだな！		scene_10
+そのとおりだ	That's right.		そのとおりだ		scene_10
+ちょっとBARRET。CLOUDの話、ちゃんと聞かせて。質問はあとよ	BARRET, would you please let us hear what CLOUD has to say? You can ask questions later.	話聞質問	ちょっと BARRET。 CLOUDの 話[はなし]、ちゃんと 聞[き]かせて。 質問[しつもん]はあとよ		scene_10
+でもよぉ、TIFA……	TIFA, I was only…		でもよぉ、 TIFA……		scene_10
+さあCLOUD、つづけて	Ok CLOUD, continue.		さあ CLOUD、つづけて		scene_10
+幼なじみの再会ね！	The childhood friends are reunited!	幼再会	幼[おさな]なじみの 再会[さいかい]ね！		scene_10
+……TIFAにはおどろかされたな	…I was really surprised with TIFA.		…… TIFAにはおどろかされたな		scene_10
+魔晄のにおいがするな	The Mako smells pretty bad here.	魔晄	魔[ま] 晄[こう]のにおいがするな		scene_10
+ヒソヒソ……（ウロチョロしてるとしかられるぞ）	Psst… (You keep wandering around here and you'll get in trouble.)		ヒソヒソ……（ウロチョロしてるとしかられるぞ）		scene_10
+たいくつなんだよな、見張りって	Being on watch is so boring.	見張	たいくつなんだよな、 見張[みは]りって		scene_10
+いつもの、やるか？	You want to do what we always do?		いつもの、やるか？		scene_10
+ガマンガマン、仕事だろ？	Just sit tight, it's your job, right?	仕事	ガマンガマン、 仕事[しごと]だろ？		scene_10
+練習でもするか？	Shall we practice?	練習	練習[れんしゅう]でもするか？		scene_10
+時々話しにくるからさ。ガマンしてろよ	I'll come and talk to you once in a while. Just stick with it.	時話	時々[ときどき] 話[はな]しにくるからさ。ガマンしてろよ		scene_10
+練習……ああ、ポーズの練習か	Practice? Oh, you mean practice my pose.	練習	練習[れんしゅう]……ああ、ポーズの 練習[れんしゅう]か		scene_10
+ソルジャーは常に他人の目を意識しなくちゃならないってか？	Do members of SOLDIER always have to worry about what others think?	常他人目意識	ソルジャーは 常[つね]に 他人[たにん]の 目[め]を 意識[いしき]しなくちゃならないってか？		scene_10
+……どうだっけ？	How did it go?		……どうだっけ？		scene_10
+……こうか？	…Was it like this?		……こうか？		scene_10
+うまくなったな！	Good job!		うまくなったな！		scene_10
+俺、ソルジャーなんかになりたくないんだよねえ	I really don't want to be in SOLDIER.	俺	俺[おれ]、ソルジャーなんかになりたくないんだよねえ		scene_10
+……村はひっそりしていた	…The town was quiet.	村	…… 村[むら]はひっそりしていた		scene_10
+みんな、モンスターを恐れて家に閉じこもっていたのかな？	Everyone must be in their houses, afraid to come out because of the monsters.	恐家閉	みんな、モンスターを 恐[おそ]れて 家[いえ]に 閉[と]じこもっていたのかな？		scene_10
+いや、俺たちを恐れていたのか……	No, maybe they're afraid of us…	俺恐	いや、 俺[おれ]たちを 恐[おそ]れていたのか……		scene_10
+魔晄炉への出発は明朝。今日は早めに眠っておけ	We leave for the reactor at dawn. Make sure you get to sleep early.	魔晄炉出発明朝今日早眠	魔[ま] 晄[こう] 炉[ろ]への 出発[しゅっぱつ]は 明朝[みんちょう]。 今日[きょう]は 早[はや]めに 眠[ねむ]っておけ		scene_10
+見張りはひとりでいいからおまえたちも休んでおけよ	All we need is one lookout, so you others, get some rest.	見張休	見張[みは]りはひとりでいいからおまえたちも 休[やす]んでおけよ		scene_10
+そうだったな……	Oh, and…		そうだったな……		scene_10
+家族や知り合いと会ってきてもかまわないぞ	You may visit your family and friends.	家族知合会	家族[かぞく]や 知り合[しりあ]いと 会[あ]ってきてもかまわないぞ		scene_10
+はぁ……ドキドキするなぁ	Man… I'm so nervous.		はぁ……ドキドキするなぁ		scene_10
+俺はワクワクしてる	I'm excited.	俺	俺[おれ]はワクワクしてる		scene_10
+いつ、モンスターが来るかわからないんだろ？	Look, you never know when a monster's gonna show up, right?	来	いつ、モンスターが 来[く]るかわからないんだろ？		scene_10
+……そうだったな。英雄になるチャンス、のがすなよ	…That's right. Don't blow your chance to become a hero…	英雄	……そうだったな。 英雄[えいゆう]になるチャンス、のがすなよ		scene_10
+おい、落ちつきがないと査定が悪くなるぞ	Hey, if you don't calm down, you won't get a good evaluation…	落査定悪	おい、 落[お]ちつきがないと 査定[さてい]が 悪[わる]くなるぞ		scene_10
+ん？　あんた、神羅の？	Hmm? You from Shinra?	神羅	ん？　あんた、 神[しん] 羅[ら]の？		scene_10
+そのとおりだ！	That's right!		そのとおりだ！		scene_10
+あんたは？	Who are you?		あんたは？		scene_10
+ふん……若造がえらそうに	Geez… Big-headed young kid.	若造	ふん…… 若造[わかぞう]がえらそうに		scene_10
+私はこの村の………………！？	I'm the town's… …. …!?	私村	私[わたし]はこの 村[むら]の………………！？		scene_10
+おまえ、CLOUDだな？	Aren't you CLOUD?		おまえ、 CLOUDだな？		scene_10
+私を忘れたのか？	Don't you know me?	私忘	私[わたし]を 忘[わす]れたのか？		scene_10
+TIFAの……	You're TIFA's…		TIFAの……		scene_10
+そう。TIFAの父親だ	Right. I'm TIFA's father.	父親	そう。 TIFAの 父親[ちちおや]だ		scene_10
+……ひさしぶりです	…Long time no see, sir.		……ひさしぶりです		scene_10
+TIFAパパ	TIFA's father		TIFAパパ		scene_10
+……娘には近づかないでもらいたいものだな	…Stay away from my daughter.	娘近	…… 娘[むすめ]には 近[ちか]づかないでもらいたいものだな		scene_10
+神羅にたよらなくても自分の村ぐらい守ってみせる！	We don't need the Shinra's help to protect our town!	神羅自分村守	神[しん] 羅[ら]にたよらなくても 自分[じぶん]の 村[むら]ぐらい 守[まも]ってみせる！		scene_10
+こんなことなら山歩きなんて禁止しておけばよかった……	If I knew this was going to happen, I would've made mountain climbing off limits…	山歩禁止	こんなことなら 山歩[やまある]きなんて 禁止[きんし]しておけばよかった……		scene_10
+おまえにこんなことをたのむのは腹が立つが……	I hate myself for asking you this, but…	腹立	おまえにこんなことをたのむのは 腹[はら]が 立[た]つが……		scene_10
+TIFAのそばから離れるな！さっさと娘のそばにもどってくれ！	Don't take your eyes off of TIFA! Hurry up and go back to her side!	離娘	TIFAのそばから 離[はな]れるな！さっさと 娘[むすめ]のそばにもどってくれ！		scene_10
+危険がないことがわかるまで私たちはここを動かないからな	Until we know that there's no danger, we're not moving.	危険私動	危険[きけん]がないことがわかるまで 私[わたし]たちはここを 動[うご]かないからな		scene_10
+英雄セフィロスが来るってんでカメラの用意して待ってたんですよ	I heard Sephiroth was coming so I brought my camera.	英雄来用意待	英雄[えいゆう]セフィロスが 来[く]るってんでカメラの 用意[ようい]して 待[ま]ってたんですよ		scene_10
+セフィロスとモンスターのツーショットが欲しいんです	I want a shot of Sephiroth and a monster.	欲	セフィロスとモンスターのツーショットが 欲[ほ]しいんです		scene_10
+俺の写真をとれ	Take my picture.	俺写真	俺[おれ]の 写真[しゃしん]をとれ		scene_10
+危険だから家に入ってろ	Get back in the house, it's dangerous.	危険家入	危険[きけん]だから 家[いえ]に 入[はい]ってろ		scene_10
+……マイナーな人の写真はとらない主義なんですよう	I don't take pictures of nobodys.	人写真主義	……マイナーな 人[ひと]の 写真[しゃしん]はとらない 主義[しゅぎ]なんですよう		scene_10
+はいはい……（えらそうに）	All right… Fat-head…		はいはい……（えらそうに）		scene_10
+おろっ？（こいつはたしか……）	Hey? This guy's a real…		おろっ？（こいつはたしか……）		scene_10
+あんた……CLOUDくん？	You… Are you CLOUD?		あんた…… CLOUDくん？		scene_10
+ふ～ん……そっかぁそうなんだぁ	Really? So that's how it is, huh?		ふ~ん……そっかぁそうなんだぁ		scene_10
+いや～、もう、CLOUDくん立派になってぇ	Gosh, CLOUD, you've grown up to be a nice-looking lad.	立派	いや~、もう、 CLOUDくん 立派[りっぱ]になってぇ		scene_10
+それなら俺の写真をとれ	Then take my picture	俺写真	それなら 俺[おれ]の 写真[しゃしん]をとれ		scene_10
+こうしよう、CLOUDくん。セフィロスといっしょの時に写真、とらせてもらうよ	Let's do this, CLOUD. Let me take a picture of you with Sephiroth.	時写真	こうしよう、 CLOUDくん。セフィロスといっしょの 時[とき]に 写真[しゃしん]、とらせてもらうよ		scene_10
+ほいほい……（えらそうにさ……）（セフィロスのおとものくせにさ）	OK, OK… Fat-head… You're just his assistant.		ほいほい……（えらそうにさ……）（セフィロスのおとものくせにさ）		scene_10
+写真とらせてくれるかなぁ	Think they'd let me take a picture?	写真	写真[しゃしん]とらせてくれるかなぁ		scene_10
+セフィロス、何してる？	What's Sephiroth doing?	何	セフィロス、 何[なに]してる？		scene_10
+ガイドが来たら出発だ	Once the guide gets here, we're heading out.	来出発	ガイドが 来[き]たら 出発[しゅっぱつ]だ		scene_10
+セフィロス、聞いてくれ。もしものことがあったら……	Listen to me, Sephiroth. In case something happens…	聞	セフィロス、 聞[き]いてくれ。もしものことがあったら……		scene_10
+……安心してくれ	…Trust me.	安心	…… 安心[あんしん]してくれ		scene_10
+だいじょうぶだから、パパ！	I'll be all right, Dad!		だいじょうぶだから、パパ！		scene_10
+つよ～いソルジャーがふたりもいるのよ	I have two men from SOLDIER with me.		つよ~いソルジャーがふたりもいるのよ		scene_10
+TIFAです。よろしくおねがいします！	I'm TIFA. Nice to meet you!		TIFAです。よろしくおねがいします！		scene_10
+TIFA！あんたがガイド！？	TIFA! You're the guide?		TIFA！あんたがガイド！？		scene_10
+そういうこと	That's right.		そういうこと		scene_10
+この村で一番のガイドといえば私のことでしょうね	It so happens I'm the number one guide in this town.	村一番私	この 村[むら]で 一番[いちばん]のガイドといえば 私[わたし]のことでしょうね		scene_10
+でも、危険すぎる！そんなことにあんたを巻きこむわけにはいかない！	It's too dangerous! I can't get you involved in this!	危険巻	でも、 危険[きけん]すぎる！そんなことにあんたを 巻[ま]きこむわけにはいかない！		scene_10
+おまえが守ってやれば間題はなかろう	There's no problem if you protect her.	守間題	おまえが 守[まも]ってやれば 間[ま] 題[だい]はなかろう		scene_10
+……では、行こうか	…Let's go.	行	……では、 行[い]こうか		scene_10
+あの……	Umm…		あの……		scene_10
+セフィロスさん！記念に写真を１枚	Mr. Sephiroth! Please let me take one picture for a memento!	記念写真枚	セフィロスさん！ 記念[きねん]に 写真[しゃしん]を１ 枚[まい]		scene_10
+TIFAちゃんからもたのんでくれないかな……	TIFA, can you ask him for me too?		TIFAちゃんからもたのんでくれないかな……		scene_10
+はい、どうも！	Great, thank you!		はい、どうも！		scene_10
+写真できたらみなさんにあげますからね！	I'll give each of you a copy once I get it developed!	写真	写真[しゃしん]できたらみなさんにあげますからね！		scene_10
+いきますよ～！	Cheeeeese!		いきますよ~！		scene_10
+この屋敷は……	This Mansion…	屋敷	この 屋敷[やしき]は……		scene_10
+……いや、後にしよう	…No, I'll come here later.	後	……いや、 後[ご]にしよう		scene_10
+おい、こっちに来ていろ！	Hey, stay over here!	来	おい、こっちに 来[き]ていろ！		scene_10
+この先は……ニブル山だ	Up ahead is…Mt. Nibel.	先山	この 先[さき]は……ニブル 山[さん]だ		scene_10
+山へ行ったときのことはあとで話すよ	I'll tell you about the time I went into the mountains.	山行話	山[やま]へ 行[い]ったときのことはあとで 話[はな]すよ		scene_10
+おい、落ちつけ！こっちで待ってろ	Hey, calm down! Wait over here.	落待	おい、 落[お]ちつけ！こっちで 待[ま]ってろ		scene_10
+……また遅刻だな	…Late again.	遅刻	……また 遅刻[ちこく]だな		scene_10
+なんか緊張してさあ。眠れなかったんだよね、俺	I was so nervous. I couldn't get any sleep…	緊張眠俺	なんか 緊張[きんちょう]してさあ。 眠[ねむ]れなかったんだよね、 俺[おれ]		scene_10
+ザンガン	Zangan		ザンガン		scene_10
+村に危害をくわえるようなことはないだろうな？	There's nothing that'll harm the town, right?	村危害	村[むら]に 危害[きがい]をくわえるようなことはないだろうな？		scene_10
+どうして……？	Why?		どうして……？		scene_10
+そんなことはない！	No way!		そんなことはない！		scene_10
+……そんなことを聞く？	…Why do you ask?	聞	……そんなことを 聞[き]く？		scene_10
+セフィロスにかぎってそんなことはしないさ	It's Sephiroth. He would never do that.		セフィロスにかぎってそんなことはしないさ		scene_10
+会社に不利な情報を消すために神羅がやってきたこと……	The Shinra showed up to eliminate any information that could be embarrassing to the company.	会社不利情報消神羅	会社[かいしゃ]に 不利[ふり]な 情報[じょうほう]を 消[け]すために 神[しん] 羅[ら]がやってきたこと……		scene_10
+各地を旅しているといろんな話を聞くからな	You pick these things up when you travel as much as I do.	各地旅話聞	各地[かくち]を 旅[たび]しているといろんな 話[はなし]を 聞[き]くからな		scene_10
+……おやおや。ずいぶん信頼してるんだな	…Oh my. You sure do have faith.	信頼	……おやおや。ずいぶん 信頼[しんらい]してるんだな		scene_10
+CLOUDかい？	Is that you, CLOUD?		CLOUDかい？		scene_10
+……ああ	…Yeah		……ああ		scene_10
+……ちがう	…No		……ちがう		scene_10
+……母さんか？	Mom?	母	…… 母[かあ]さんか？		scene_10
+ほら、さしいれだよ！	Here, I've brought you something!		ほら、さしいれだよ！		scene_10
+村のみんなにはナイショだからね！	Don't tell anyone in town!	村	村[むら]のみんなにはナイショだからね！		scene_10
+『手づくりポーション』を手にいれた！	"Received ""Homemade Potion!”"	手	『 手[て]づくりポーション』を 手[て]にいれた！		scene_10
+ニブルヘイムの宿	Nibelheim Inn	宿	ニブルヘイムの 宿[やど]		scene_10
+あ……本日は神羅会社の皆さんの貸し切りになってましてねぇ	The, uh… The whole inn's booked up by Shinra for the night.	本日神羅会社皆貸切	あ…… 本日[ほんじつ]は 神[しん] 羅[ら] 会社[かいしゃ]の 皆[みな]さんの 貸し切[かしき]りになってましてねぇ		scene_10
+……CLOUDちゃん？	CLOUD?		…… CLOUDちゃん？		scene_10
+CLOUDちゃんかい？	Is it you, CLOUD?		CLOUDちゃんかい？		scene_10
+２年ぶりかねえ	It must've been two years.	年	２ 年[ねん]ぶりかねえ		scene_10
+セフィロスさんの部下なんて大出世だねえ、ほんとにぃ	Say, you've really moved up in the world, being under Sephiroth's command.	部下大出世	セフィロスさんの 部下[ぶか]なんて 大[だい] 出世[しゅっせ]だねえ、ほんとにぃ		scene_10
+ほんとにねぇ……	Wow…		ほんとにねぇ……		scene_10
+いんや～	This is really, somethin'.		いんや~		scene_10
+あのひねくれボウズがねぇ……	You used to be such a scrawny kid, and now look at you!		あのひねくれボウズがねぇ……		scene_10
+なんだい？　CLOUDちゃん	So, what do you need, CLOUD?		なんだい？　 CLOUDちゃん		scene_10
+セフィロスは？	Where's Sephiroth?		セフィロスは？		scene_10
+泊めてくれ	Give me a room	泊	泊[と]めてくれ		scene_10
+村の様子を聞かせてくれ	How is the town?	村様子聞	村[むら]の 様子[ようす]を 聞[き]かせてくれ		scene_10
+ああ、２階にいるさぁ	He's upstairs.	階	ああ、２ 階[かい]にいるさぁ		scene_10
+ま～だ、見つからないのかい？	You STILL haven't found one yet?	見	ま~だ、 見[み]つからないのかい？		scene_10
+貸し切りだから、かまわないよ。でも、じぶんちの方が落ちつくんじゃないかい？	It's all reserved for you Shinra people, so I don't mind. But, wouldn't you feel more comfortable staying at home?	貸切方落	貸し切[かしき]りだから、かまわないよ。でも、じぶんちの 方[かた]が 落[お]ちつくんじゃないかい？		scene_10
+村のことねえ……	Now about the town…	村	村[むら]のことねえ……		scene_10
+モンスターちゅうのが増えたのはここ１年くらいかねぇ	A lot of monsters have been appearing in the last 12 months.	増年	モンスターちゅうのが 増[ふ]えたのはここ１ 年[ねん]くらいかねぇ		scene_10
+それ以外はあんまり変わんないよ。こんなちっこい村なんて変わりようないさぁ	Other than that, there's not much change. Nothing much exciting happens in a little town like this.	以外変村	それ 以外[いがい]はあんまり 変[か]わんないよ。こんなちっこい 村[むら]なんて 変[か]わりようないさぁ		scene_10
+あの魔晄炉つくってるころがいちばんはなやかだったよ	It was all right when they were building the reactor,	魔晄炉	あの 魔[ま] 晄[こう] 炉[ろ]つくってるころがいちばんはなやかだったよ		scene_10
+……つくってる頃はねぇ	…while they were still building it.	頃	……つくってる 頃[ころ]はねぇ		scene_10
+完成してからはダメさぁ	But once it was completed, it's been bad.	完成	完成[かんせい]してからはダメさぁ		scene_10
+何年もしないうちにお山の木、枯れちゃったもんねぇ	Within a few years, all the trees on the mountain withered away.	何年山木枯	何[なん] 年[ねん]もしないうちにお 山[やま]の 木[き]、 枯[か]れちゃったもんねぇ		scene_10
+魔晄炉なんてねぇ良かったのかねぇ悪かったのかねぇ……	I don't know if the reactor was good or bad…	魔晄炉良悪	魔[ま] 晄[こう] 炉[ろ]なんてねぇ 良[よ]かったのかねぇ 悪[わる]かったのかねぇ……		scene_10
+悪かったちゅうのは簡単さぁ。でも、いまさらねぇ……	I mean it's easy to say that it was a bad idea now. But what can you do about it?	悪簡単	悪[わる]かったちゅうのは 簡単[かんたん]さぁ。でも、いまさらねぇ……		scene_10
+とりあえず、モンスターたちがいなくなればねぇ	Anyhow, we've got to get rid of the monsters.		とりあえず、モンスターたちがいなくなればねぇ		scene_10
+そうすりゃ、ちょこっとは良くなるさぁ	Then, we'll be able to relax a little bit.	良	そうすりゃ、ちょこっとは 良[よ]くなるさぁ		scene_10
+ここだけの話……	I'll let you in on a secret…	話	ここだけの 話[はなし]……		scene_10
+この村じゃ、神羅さんの評判はあんまり良くないのさぁ	The Shinra aren't really popular here.	村神羅評判良	この 村[むら]じゃ、 神[しん] 羅[ら]さんの 評判[ひょうばん]はあんまり 良[よ]くないのさぁ		scene_10
+CLOUDちゃんならわかるだろう？	You know what I mean, right?		CLOUDちゃんならわかるだろう？		scene_10
+この村の出身だもんねぇ	You're from here, so you know.	村出身	この 村[むら]の 出身[しゅっしん]だもんねぇ		scene_10
+なんど話してもいっしょさぁ。聞きたいかい？	It's the same story I always tell. You still want to hear it?	話聞	なんど 話[はな]してもいっしょさぁ。 聞[き]きたいかい？		scene_10
+聞かせてくれ	Yeah, tell me again	聞	聞[き]かせてくれ		scene_10
+いや、もういい	No, that's all right		いや、もういい		scene_10
+ああ、休みたいのかい？	Hey, you want to rest?	休	ああ、 休[やす]みたいのかい？		scene_10
+たのむ	Yes, please		たのむ		scene_10
+お金はもらってるからゆっくりおやすみ	It's already been paid for. Go on, get some rest.	金	お 金[かね]はもらってるからゆっくりおやすみ		scene_10
+……ふむふむ	Hmmmm		……ふむふむ		scene_10
+モンスター退治にやってきた神羅の人間だな？	Is Shinra here to get rid of the monsters?	退治神羅人間	モンスター 退治[たいじ]にやってきた 神[しん] 羅[ら]の 人間[にんげん]だな？		scene_10
+私はザンガン。世界中の子供たちに武術を教える旅をしている	I'm Zangan. I travel around the world teaching children martial arts.	私世界中子供武術教旅	私[わたし]はザンガン。 世界中[せかいじゅう]の 子供[こども]たちに 武術[ぶじゅつ]を 教[おし]える 旅[たび]をしている		scene_10
+弟子は世界中に１２８人！	I have 128 students all over the world!	弟子世界中人	弟子[でし]は 世界中[せかいじゅう]に１２８ 人[にん]！		scene_10
+この村ではTIFAという女の子が私の弟子になった	In this town, a girl named TIFA is my student.	村女子私弟	この 村[むら]では TIFAという 女の子[おんなのこ]が 私[わたし]の 弟子[でし]になった		scene_10
+TIFAだって？	Did you say TIFA?		TIFAだって？		scene_10
+TIFAはセンスが良いな。彼女は強くなるぞ	TIFA has good sense. She'll be a powerful fighter.	良彼女強	TIFAはセンスが 良[よ]いな。 彼女[かのじょ]は 強[つよ]くなるぞ		scene_10
+神羅の人間の戦いぶりしっかり見せてもらうよ	I want to see some Shinra techniques.	神羅人間戦見	神[しん] 羅[ら]の 人間[にんげん]の 戦[たたか]いぶりしっかり 見[み]せてもらうよ		scene_10
+使えるようだったらザンガン流格闘術に取り入れるのもいいな	And if you see anything you can use, you might want to incorporate some of my techniques.	使流格闘術取入	使[つか]えるようだったらザンガン 流[りゅう] 格闘[かくとう] 術[じゅつ]に 取り入[とりい]れるのもいいな		scene_10
+ま、しっかりやってくれ	Well, good luck.		ま、しっかりやってくれ		scene_10
+俺たちも、ここ、使えるのかな？	Will we be able to use this place, too?”	俺使	俺[おれ]たちも、ここ、 使[つか]えるのかな？		scene_10
+おっ？泣きながら帰ってきたのかな？	Oh? Did you come crying home?	泣帰	おっ？ 泣[な]きながら 帰[かえ]ってきたのかな？		scene_10
+……あんたの方が良く知ってると思うけどねぇ	I think you probably know better than I do, but…	方良知思	……あんたの 方[ほう]が 良[よ]く 知[し]ってると 思[おも]うけどねぇ		scene_10
+ニブルヘイムの宿２階	Nibelheim Inn	宿階	ニブルヘイムの 宿[やど]２ 階[かい]		scene_10
+……明日は早いぞ。そろそろ眠ったほうがいいな	…We have an early start tomorrow. You should get some sleep soon.	明日早眠	…… 明日[あした]は 早[はや]いぞ。そろそろ 眠[ねむ]ったほうがいいな		scene_10
+まだ早いよ	It's still early.	早	まだ 早[はや]いよ		scene_10
+ああ、そうしよう	Yeah, let's get some sleep.		ああ、そうしよう		scene_10
+……明日は起こさないからな	…I'm not going to wake you up tomorrow.	明日起	…… 明日[あした]は 起[お]こさないからな		scene_10
+何を見ている？	What are you looking at?	何見	何[なに]を 見[み]ている？		scene_10
+……この風景オレは知ってるような気がする	…This scenery… I feel like I know this place.	風景知気	……この 風景[ふうけい]オレは 知[し]ってるような 気[き]がする		scene_10
+魔晄炉へのガイドは手配しておいた	I've hired a guide to the Mako reactor.	魔晄炉手配	魔[ま] 晄[こう] 炉[ろ]へのガイドは 手配[てはい]しておいた		scene_10
+若い娘らしいがたよりにしていいものか……	I've heard she's young, I hope we can rely on her…	若娘	若[わか]い 娘[むすめ]らしいがたよりにしていいものか……		scene_10
+そのよく朝だったな、TIFA	It was the morning after that, right TIFA?	朝	そのよく 朝[あさ]だったな、 TIFA		scene_10
+そ、そうね……	Yes, right…		そ、そうね……		scene_10
+ベッドがひとつ足りない……	We're short one bed…	足	ベッドがひとつ 足[た]りない……		scene_10
+ここは……俺の家だ。５年前の事件とは関係ないな	This is…my house. It has nothing to do with what happened five years ago.	俺家年前事件関係	ここは…… 俺[おれ]の 家[いえ]だ。５ 年[ねん] 前[まえ]の 事件[じけん]とは 関係[かんけい]ないな		scene_10
+あまり……覚えてないんだ。話すことは、もう……ない	I can't…remember much else. There's…nothing more to talk about.	覚話	あまり…… 覚[おぼ]えてないんだ。 話[はな]すことは、もう……ない		scene_10
+もう、いいよ、CLOUD	That's all right, CLOUD.		もう、いいよ、 CLOUD		scene_10
+でもよ、興味あるぜ	Yo wait, I wanna hear.	興味	でもよ、 興味[きょうみ]あるぜ		scene_10
+わたしも！ひさしぶり、だったんでしょ？	Me too! It's been a long time, right?		わたしも！ひさしぶり、だったんでしょ？		scene_10
+聞かせろよ！	Tell us more!	聞	聞[き]かせろよ！		scene_10
+家族と会ったんだろ？	You saw your family, right?	家族会	家族[かぞく]と 会[あ]ったんだろ？		scene_10
+やれやれ……	All right…		やれやれ……		scene_10
+ま、ムリにとは言わねえけどよ	Well, I ain't gonna force ya…	言	ま、ムリにとは 言[い]わねえけどよ		scene_10
+家族っていっても……	I don't know if you'd call it a 'family'…	家族	家族[かぞく]っていっても……		scene_10
+親父は……俺がまだ子供のころに死んでしまった	My father…died when I was still young.	親父俺子供死	親父[おやじ]は…… 俺[おれ]がまだ 子供[こども]のころに 死[し]んでしまった		scene_10
+だから母さんが……この家には母さんがひとりで住んでいた	That's why my mom…… lived alone in this house.	母家住	だから 母[かあ]さんが……この 家[いえ]には 母[かあ]さんがひとりで 住[す]んでいた		scene_10
+ああ、俺、母さんに会ったよ	Yeah, I saw my mom.	俺母会	ああ、 俺[おれ]、 母[かあ]さんに 会[あ]ったよ		scene_10
+母さんは……元気な人だった。全然変わってなかった	My mom…she was a vibrant woman. Hadn't changed at all.	母元気人全然変	母[かあ]さんは…… 元気[げんき]な 人[ひと]だった。 全然[ぜんぜん] 変[か]わってなかった		scene_10
+その何日かあとには死んでしまったけど……	But a few days later, she died…	何日死	その 何[なん] 日[にち]かあとには 死[し]んでしまったけど……		scene_10
+あの時は……本当に元気だった	But when I saw her, she looked fine.	時本当元気	あの 時[とき]は…… 本当[ほんとう]に 元気[げんき]だった		scene_10
+は～い？	Yes?		は~い？		scene_10
+おかえりなさい、CLOUD！	Welcome home, CLOUD!		おかえりなさい、 CLOUD！		scene_10
+ただいま、母さん	Hi, Mom.	母	ただいま、 母[かあ]さん		scene_10
+どれどれ……晴れ姿、母さんにもよ～く見せておくれ	Come, come… Let me take a look at you!	晴姿母見	どれどれ…… 晴れ姿[はれすがた]、 母[かあ]さんにもよ~く 見[み]せておくれ		scene_10
+ふ～ん	Hmmm…		ふ~ん		scene_10
+ほれぼれしちゃうねえ	You look so handsome.		ほれぼれしちゃうねえ		scene_10
+これ、ソルジャーさんの制服かい？	So is this a SOLDIER uniform?	制服	これ、ソルジャーさんの 制服[せいふく]かい？		scene_10
+…………母さん、俺	…Mom, I…	母俺	………… 母[かあ]さん、 俺[おれ]		scene_10
+ちゃんとゴハンは食べてるのかい？	Are you eating right?	食	ちゃんとゴハンは 食[た]べてるのかい？		scene_10
+だいじょうぶ。会社が面倒みてくれてる	I'm all right. The Company takes care of me.	会社面倒	だいじょうぶ。 会社[かいしゃ]が 面倒[めんどう]みてくれてる		scene_10
+そうなのかい	Is that so?		そうなのかい		scene_10
+あんた、料理なんてできないだろ？	I know you can't cook…	料理	あんた、 料理[りょうり]なんてできないだろ？		scene_10
+いったいどうしてるのかと思ってたんだよ	I've been worried sick about you.	思	いったいどうしてるのかと 思[おも]ってたんだよ		scene_10
+ねえ、CLOUD	CLOUD?		ねえ、 CLOUD		scene_10
+でもねぇ、CLOUD	You know, CLOUD…		でもねぇ、 CLOUD		scene_10
+そうだろ、CLOUD？	…isn't that right, CLOUD?		そうだろ、 CLOUD？		scene_10
+母さんはね、いつだって、あんたの	I'll always be your mother…	母	母[かあ]さんはね、いつだって、あんたの		scene_10
+…………もう、やめよう……	…Let's stop this…		…………もう、やめよう……		scene_10
+TIFAの家	TIFA's House	家	TIFAの 家[いえ]		scene_10
+ねえ、CLOUD……	CLOUD?		ねえ、 CLOUD……		scene_10
+私の家にもはいったの？	Did you go in my house?	私家	私[わたし]の 家[いえ]にもはいったの？		scene_10
+い、いや……	No…		い、いや……		scene_10
+TIFA、いるかなと思って	I thought you might be home.	思	TIFA、いるかなと 思[おも]って		scene_10
+そういえば行かなかったな	I remember you weren't there.	行	そういえば 行[い]かなかったな		scene_10
+TIFAの家２階	TIFA's House	家階	TIFAの 家[いえ]２ 階[かい]		scene_10
+私の部屋にもはいったの？	Did you go into my room?	私部屋	私[わたし]の 部屋[へや]にもはいったの？		scene_10
+『ちょっと背のびパンツ』を手にいれた！	"Received ""Orthopedic Underwear!"""	背手	『ちょっと 背[せ]のびパンツ』を 手[て]にいれた！		scene_10
+CLOUD……それ、本当なの？	CLOUD!!!	本当	CLOUD……それ、 本当[ほんとう]なの？		scene_10
+冗談だ、怒るな……	Just kidding. Don't get mad.	冗談怒	冗談[じょうだん]だ、 怒[おこ]るな……		scene_10
+……CLOUD	…CLOUD		…… CLOUD		scene_10
+今はすごく真面目な話をしているんでしょ？	We're talking about something really important here.	今真面目話	今[いま]はすごく 真面目[まじめ]な 話[はなし]をしているんでしょ？		scene_10
+手紙だ……	The letter…	手紙	手紙[てがみ]だ……		scene_10
+もしかして読んだの？私あての手紙	Did you read it? My letter?	読私手紙	もしかして 読[よ]んだの？ 私[わたし]あての 手紙[てがみ]		scene_10
+そんなことはしない！	I'd never do that!		そんなことはしない！		scene_10
+そうよね！	Of course!		そうよね！		scene_10
+内容もおぼえているとか……	You remember what it said?	内容	内容[ないよう]もおぼえているとか……		scene_10
+おぼえてない……	I don't remember		おぼえてない……		scene_10
+はっきりと	I remember clearly		はっきりと		scene_10
+それじゃあ、セフィロスの話の続きを聞かせて？	Then, let's go on with the story about Sephiroth.	話続聞	それじゃあ、セフィロスの 話[はなし]の 続[つづ]きを 聞[き]かせて？		scene_10
+TIFAへの手紙……	Dear TIFA…	手紙	TIFAへの 手紙[てがみ]……		scene_10
+（思い出す）	(Remember)	思出	（ 思い出[おもいだ]す）		scene_10
+（やめる）	(Stop)		（やめる）		scene_10
+俺は読んでしまった……	I read it…	俺読	俺[おれ]は 読[よ]んでしまった……		scene_10
+よろず屋の息子がTIFAに書いた手紙だった……	It was a letter addressed to TIFA from the son of the guy that runs the General Store…	屋息子書手紙	よろず 屋[や]の 息子[むすこ]が TIFAに 書[か]いた 手紙[てがみ]だった……		scene_10
+TIFA、元気か？ぼくは８日前ミッドガルについた	TIFA, how are you? I just arrived in Midgar eight days ago.	元気日前	TIFA、 元気[げんき]か？ぼくは８ 日[にち] 前[まえ]ミッドガルについた		scene_10
+きのうはニブルヘイム出身の仲間たちが集まってくれたんだ。あ、CLOUDだけは連絡先がわからなくて呼べなかったけど	Yesterday, all of Nibelheim got together to welcome me. The only person that we couldn't get a hold of was CLOUD.	出身仲間集連絡先呼	きのうはニブルヘイム 出身[しゅっしん]の 仲間[なかま]たちが 集[あつ]まってくれたんだ。あ、 CLOUDだけは 連絡先[れんらくさき]がわからなくて 呼[よ]べなかったけど		scene_10
+でも、アイツはもともとみんなと仲が良かったわけでもないしきっと呼んでもつまらないからまあ、いいんじゃないかってみんなと話してた	But everyone said he wasn't really that close to us. So even if we asked, he probably wouldn't have come anyway.	仲良呼話	でも、アイツはもともとみんなと 仲[なか]が 良[よ]かったわけでもないしきっと 呼[よ]んでもつまらないからまあ、いいんじゃないかってみんなと 話[はな]してた		scene_10
+うーん。CLOUDの話をしてもしょうがない	Well, enough about him.	話	うーん。 CLOUDの 話[はなし]をしてもしょうがない		scene_10
+ねえ、CLOUD……それ全部おぼえてるの？	CLOUD… Do you remember all of it?	全部	ねえ、 CLOUD……それ 全部[ぜんぶ]おぼえてるの？		scene_10
+いや、ここまでだな	No, that's it		いや、ここまでだな		scene_10
+なぜか最後までおぼえてる	Yeah, I remember	最後	なぜか 最後[さいご]までおぼえてる		scene_10
+俺のことが書いてあったからかな……	Because there was some stuff about me…	俺書	俺[おれ]のことが 書[か]いてあったからかな……		scene_10
+ミッドガルはすごいところだ。ぼくは、はっきり言って遅れていて、ダサダサのナントカって感じだった	Midgar is really something. But to tell the truth, I feel so behind on everything… so out of it.	言遅感	ミッドガルはすごいところだ。ぼくは、はっきり 言[い]って 遅[おく]れていて、ダサダサのナントカって 感[かん]じだった		scene_10
+スラムの人たちでさえ部屋の中はとてもきれいなんだ	Even the rooms of people in the slums are clean.	人部屋中	スラムの 人[ひと]たちでさえ 部屋[へや]の 中[なか]はとてもきれいなんだ		scene_10
+今はお金がないからスラムに住んでいるけどいつかは本で見たようなオシャレな部屋に住んでやるつもりだ	Right now I'm living in the slums, but I plan to move to a really nice room, like the ones I've seen in magazines, once I make some money.	今金住本見部屋	今[いま]はお 金[かね]がないからスラムに 住[す]んでいるけどいつかは 本[ほん]で 見[み]たようなオシャレな 部屋[へや]に 住[す]んでやるつもりだ		scene_10
+……などと書いてみたがそのためにはまず仕事を見つけなくちゃいけない。そうなんだ。まだ、仕事、みつからないんだ	…But, to do that, I guess I have to find a job first.  That's right. I still haven't found a job yet.	書仕事見	……などと 書[か]いてみたがそのためにはまず 仕事[しごと]を 見[み]つけなくちゃいけない。そうなんだ。まだ、 仕事[しごと]、みつからないんだ		scene_10
+両親には神羅カンパニーで働き口が見つかったってウソの手紙を出してしまった	I lied to my parents and told them I found a great job with Shinra, Inc.	両親神羅働口見手紙出	両親[りょうしん]には 神[しん] 羅[ら]カンパニーで 働き口[はたらきぐち]が 見[み]つかったってウソの 手紙[てがみ]を 出[だ]してしまった		scene_10
+もうあともどりはできないかな。実家のよろず屋を継げば良かったなと思う	I wonder if it's too late to go back. Sometimes I think I should've taken over my parents' store.	実家屋継良思	もうあともどりはできないかな。 実家[じっか]のよろず 屋[や]を 継[つ]げば 良[よ]かったなと 思[おも]う		scene_10
+ミッドガルについたばかりなのに考えるのはニブルヘイムのことばかりなんだ	I just made it here to Midgar but all I think about is Nibelheim.	考	ミッドガルについたばかりなのに 考[かんが]えるのはニブルヘイムのことばかりなんだ		scene_10
+ねえ、TIFA。あのオンボロ給水塔はちゃんと動いているか？	Hey, TIFA… Is that stupid old water tower still working?	給水塔動	ねえ、 TIFA。あのオンボロ 給水塔[きゅうすいとう]はちゃんと 動[うご]いているか？		scene_10
+宿屋のじいさんは元気か？ぼくの両親は毎日店をあけてるか？モンスターは襲って来ないか？	Is the old man at the Inn doing well? Are my parents still at the shop everyday? Have any monsters attacked?	宿屋元気両親毎日店襲来	宿屋[やどや]のじいさんは 元気[げんき]か？ぼくの 両親[りょうしん]は 毎日[まいにち] 店[てん]をあけてるか？モンスターは 襲[おそ]って 来[こ]ないか？		scene_10
+何よりTIFA、どうしてる？もう何年も会っていないような気分だよ	And most of all, how are you, TIFA? It feels like I haven't seen you for years.	何年会気分	何[なに]より TIFA、どうしてる？もう 何[なん] 年[ねん]も 会[あ]っていないような 気分[きぶん]だよ		scene_10
+きのうもみんなでTIFAの話でもり上がった	We were all talking about you last night.	話上	きのうもみんなで TIFAの 話[はなし]でもり 上[あ]がった		scene_10
+みんなTIFAが好きなんだ。でも、TIFAはみんなのアイドルだったから仲間を裏切ることができなかった	Everyone likes you. But because everyone idolizes you, I couldn't very well stab them in the back.	好仲間裏切	みんな TIFAが 好[す]きなんだ。でも、 TIFAはみんなのアイドルだったから 仲間[なかま]を 裏切[うらぎ]ることができなかった		scene_10
+なーんてカッコつけてたけど本当は告白してフラれるのが恐かっただけなんだよ	I always acted cool, but actually, I was just afraid of being jilted.	本当告白恐	なーんてカッコつけてたけど 本当[ほんとう]は 告白[こくはく]してフラれるのが 恐[こわ]かっただけなんだよ		scene_10
+あ、これ以上書くとラブレターになってしまう！	Wow, if I keep writing like this, this'll become a love letter!	以上書	あ、これ 以上[いじょう] 書[か]くとラブレターになってしまう！		scene_10
+だから今回はこのへんで。じゃあ、元気で。また、手紙書くよ	So, I think I'll stop here. Take care. I'll write again.	今回元気手紙書	だから 今回[こんかい]はこのへんで。じゃあ、 元気[げんき]で。また、 手紙[てがみ] 書[か]くよ		scene_10
+Ｐ・Ｓ　返事すごく欲しい	P.S.  Write me back, okay?	返事欲	Ｐ[ぴー]・ Ｓ[えす]　 返事[へんじ]すごく 欲[ほ]しい		scene_10
+小さな姉弟がいた家	Nibelheim House	小姉弟家	小[ちい]さな 姉弟[きょうだい]がいた 家[いえ]		scene_10
+……ああ、神羅の方ですね。ごくろうさまです	…Oh, you're with the Shinra? Welcome.	神羅方	……ああ、 神[しん] 羅[ら]の 方[ほう]ですね。ごくろうさまです		scene_10
+見回りですか？	Making the rounds?	見回	見回[みまわ]りですか？		scene_10
+あら、ごめんなさい！CLOUDくんだったのね。気づかなくって	Oh, I'm sorry! It's you, CLOUD! I didn't recognize you.	気	あら、ごめんなさい！ CLOUDくんだったのね。 気[き]づかなくって		scene_10
+しんら～？	Shinra----?		しんら~？		scene_10
+ちんら～？	Chinra---?		ちんら~？		scene_10
+ソルジャ？	SOLDIER?		ソルジャ？		scene_10
+そるざ？	SALTZA?		そるざ？		scene_10
+モンスターやっつけるの？	Are you going to kill the monsters?		モンスターやっつけるの？		scene_10
+…………つけるの？	Are you going to…?		…………つけるの？		scene_10
+……………………	….		……………………		scene_10
+この子たちもセフィロスが……	These kids are also Sephiroth fans…	子	この 子[こ]たちもセフィロスが……		scene_10
+カッコイ～！！	He's soooo cool!!		カッコイ~！！		scene_10
+カッキー！！	Way cool!!		カッキー！！		scene_10
+CLOUDくん、なかなかたくましくなったわね	CLOUD, you've grown up to be a strong man.		CLOUDくん、なかなかたくましくなったわね		scene_10
+がんばれ～	Do your best.		がんばれ~		scene_10
+ガバレ～	Do your best.		ガバレ~		scene_10
+ニブルヘイムのよろず屋	Nibelheim Item Store	屋	ニブルヘイムのよろず 屋[や]		scene_10
+はい、いらっしゃい	Welcome.		はい、いらっしゃい		scene_10
+あれっ？あんたは……	Hey? Aren't you…?		あれっ？あんたは……		scene_10
+……ここへは行ったのかな？……覚えてないな	…Have I been here before? …I don't remember.	行覚	……ここへは 行[おこな]ったのかな？…… 覚[おぼ]えてないな		scene_10
+じれったいぜ！関係ないなら先を聞かせろ！	Now you're pissin' me off!! This don't matter, so get on with it!	関係先聞	じれったいぜ！ 関係[かんけい]ないなら 先[さき]を 聞[き]かせろ！		scene_10
+ねえねえ、あんたは……	Oh, oh, you're…		ねえねえ、あんたは……		scene_10
+魔晄炉はニブル山の中に造られていた	A Mako Reactor was built in Mt. Nibel.	魔晄炉山中造	魔[ま] 晄[こう] 炉[ろ]はニブル 山[さん]の 中[なか]に 造[つく]られていた		scene_10
+ニブルの山の寒々とした空気	The cold mountain air of Mt. Nibel	山寒空気	ニブルの 山[やま]の 寒々[さむざむ]とした 空気[くうき]		scene_10
+変わっていなかったな…	was the same…	変	変[か]わっていなかったな…		scene_10
+さ、ここからが大変よ！ついて来て！	It gets harder from here! Follow me!	大変来	さ、ここからが 大変[たいへん]よ！ついて 来[き]て！		scene_10
+俺はだいじょうぶ。ガイドさんこそ、気をつけて	I'm all right. You be careful too, Guide.	俺気	俺[おれ]はだいじょうぶ。ガイドさんこそ、 気[き]をつけて		scene_10
+早く行こうぜ	Let's hurry.	早行	早[はや]く 行[い]こうぜ		scene_10
+は、橋が！！	Uh…the bridge!!	橋	は、 橋[はし]が！！		scene_10
+無事のようだな。もとの場所までもどれるのか？	Everyone seems to be all right. Will we be able to get back?	無事場所	無事[ぶじ]のようだな。もとの 場所[ばしょ]までもどれるのか？		scene_10
+このへんの洞窟はアリのすみたいに入り組んでいるから……	These caves are intertwined, like an ant farm…	洞窟入組	このへんの 洞窟[どうくつ]はアリのすみたいに 入り組[いりく]んでいるから……		scene_10
+それにセフィロスさん。１人、姿が見えないけど……	Oh, and Sephiroth… One person seems to be missing…	人姿見	それにセフィロスさん。１ 人[にん]、 姿[すがた]が 見[み]えないけど……		scene_10
+冷たいようだが、さがしている時間はない。さあ、もどれないなら、先へ進むぞ。これからは一練に行動する	It may sound cruel, but we've no time to search for him. We can't go back, so we must go on. We'll travel together from here.	冷時間先進一練行動	冷[つめ]たいようだが、さがしている 時間[じかん]はない。さあ、もどれないなら、 先[さき]へ 進[すす]むぞ。これからは一 練[ねり]に 行動[こうどう]する		scene_10
+これは？	What's this?		これは？		scene_10
+不思議な色の洞窟ね……	A mysteriously colored cave…	不思議色洞窟	不思議[ふしぎ]な 色[いろ]の 洞窟[どうくつ]ね……		scene_10
+魔晄エネルギーだな。この山は特にエネルギーが豊富なのだ。だから魔晄炉がつくられた	It must be the Mako energy. This mountain is especially abundant in it. That's why the Mako Reactor was built here.	魔晄山特豊富炉	魔[ま] 晄[こう]エネルギーだな。この 山[やま]は 特[とく]にエネルギーが 豊富[ほうふ]なのだ。だから 魔[ま] 晄[こう] 炉[ろ]がつくられた		scene_10
+……これは？	…And what's this?		……これは？		scene_10
+魔晄の泉。自然の驚異というやつだな	A Mako fountain. It's a miracle of nature.	魔晄泉自然驚異	魔[ま] 晄[こう]の 泉[いずみ]。 自然[しぜん]の 驚異[きょうい]というやつだな		scene_10
+こんなにきれいなのに……	It's so beautiful…		こんなにきれいなのに……		scene_10
+このまま魔晄炉がエネルギーを吸い上げ続けたらこの泉も消えてしまうのね	If the Mako Reactor continues to suck up the energy, this fountain will dry up too…	魔晄炉吸上続泉消	このまま 魔[ま] 晄[こう] 炉[ろ]がエネルギーを 吸い上[すいあ]げ 続[つづ]けたらこの 泉[いずみ]も 消[き]えてしまうのね		scene_10
+マテリアだ。魔晄エネルギーが凝縮されるとマテリアができる	Materia. When you condense Mako energy, Materia is produced.	魔晄凝縮	マテリアだ。 魔[ま] 晄[こう]エネルギーが 凝縮[ぎょうしゅく]されるとマテリアができる		scene_10
+天然のマテリアを見るなんてめったにない機会だ	It's very rare to see Materia in its natural state.	天然見機会	天然[てんねん]のマテリアを 見[み]るなんてめったにない 機会[きかい]だ		scene_10
+そういえば……どうしてマテリアを使うと魔法を使うことができるんだ？	By the way… Why is it that when you use Materia you can also use magic, too?	使魔法	そういえば……どうしてマテリアを 使[つか]うと 魔法[まほう]を 使[つか]うことができるんだ？		scene_10
+そんなことも知らずにソルジャーをやってるのか？	You were in SOLDIER and didn't even know that?	知	そんなことも 知[し]らずにソルジャーをやってるのか？		scene_10
+……マテリアの中にはいわゆる古代種の知識が封じこまれている	…the knowledge and wisdom of the Ancients is held in the Materia.	中古代種知識封	……マテリアの 中[なか]にはいわゆる 古代[こだい] 種[しゅ]の 知識[ちしき]が 封[ふう]じこまれている		scene_10
+大地、星の力を自在に操る知識。その知識が星と我々をむすびつけ魔法を呼び出す……といわれている	Anyone with this knowledge can freely use the powers of the land and the Planet. That knowledge interacts between ourselves and the Planet calling up magic…or so they say.	大地星力自在操知識我魔法呼出	大地[だいち]、 星[ほし]の 力[ちから]を 自在[じざい]に 操[あやつ]る 知識[ちしき]。その 知識[ちしき]が 星[ほし]と 我々[われわれ]をむすびつけ 魔法[まほう]を 呼び出[よびだ]す……といわれている		scene_10
+魔法……不思議な力だ……	Magic…a mysterious power…	魔法不思議力	魔法[まほう]…… 不思議[ふしぎ]な 力[ちから]だ……		scene_10
+ハハハハハ！	Ha, ha, ha !		ハハハハハ！		scene_10
+なにか変なこと言ったか？	Did I say somethin' funny?	変言	なにか 変[へん]なこと 言[い]ったか？		scene_10
+ある男がな、不思議な力なんて非科学的な言い方は許さん！魔法なんて呼び方もダメだ！	A man once told me never to use unscientific terms like 'mysterious power'! It shouldn't even be called 'magic'!	男不思議力非科学的言方許魔法呼	ある 男[おとこ]がな、 不思議[ふしぎ]な 力[ちから]なんて 非科学的[ひかがくてき]な 言い方[いいかた]は 許[ゆる]さん！ 魔法[まほう]なんて 呼[よ]び 方[かた]もダメだ！		scene_10
+そう言って怒っていたのを思い出しただけだ	I still remember how angry he was.	言怒思出	そう 言[い]って 怒[おこ]っていたのを 思い出[おもいだ]しただけだ		scene_10
+誰だ、それ？	Who was that?	誰	誰[だれ]だ、それ？		scene_10
+神羅カンパニーの宝条。偉大な科学者の仕事を引き継いだみじゅくな男だ	Hojo of Shinra, Inc…. An inexperienced man assigned to take over the work of a great scientist.	神羅宝条偉大科学者仕事引継男	神[しん] 羅[ら]カンパニーの 宝[ほう] 条[じょう]。 偉大[いだい]な 科学者[かがくしゃ]の 仕事[しごと]を 引き継[ひきつ]いだみじゅくな 男[おとこ]だ		scene_10
+コンプレックスのかたまりのような男だな	He was a walking mass of complexes.	男	コンプレックスのかたまりのような 男[おとこ]だな		scene_10
+魔晄の泉……この中には古代種の知識が入っているのね	A Mako fountain… So this is where the knowledge of the Ancients is.	魔晄泉中古代種知識入	魔[ま] 晄[こう]の 泉[いずみ]……この 中[なか]には 古代[こだい] 種[しゅ]の 知識[ちしき]が 入[はい]っているのね		scene_10
+ついたわ。ずいぶん遠回りしちゃったけどね	We finally made it. We sure took the long way though.	遠回	ついたわ。ずいぶん 遠回[とおまわ]りしちゃったけどね		scene_10
+TIFAはここで待っていてくれ	TIFA, you wait here.	待	TIFAはここで 待[ま]っていてくれ		scene_10
+私も中へ行く！見たい！	I'm going inside, too! I wanna see!	私中行見	私[わたし]も 中[なか]へ 行[い]く！ 見[み]たい！		scene_10
+この中は一般人立入禁止だ。神羅の企業秘密でいっぱいだからな	Only authorized people are allowed in. This place is full of Shinra's industrial secrets.	中一般人立入禁止神羅企業秘密	この 中[なか]は 一般人[いっぱんじん] 立入禁止[たちいりきんし]だ。 神[しん] 羅[ら]の 企業秘密[きぎょうひみつ]でいっぱいだからな		scene_10
+でも！	But!		でも！		scene_10
+おじょうさんを守ってやりな	Take care of the lady.	守	おじょうさんを 守[まも]ってやりな		scene_10
+ん、もう！	Mm, man!		ん、もう！		scene_10
+しっかり守ってね！	Better take real good care of me, then!	守	しっかり 守[まも]ってね！		scene_10
+うん、おぼえてる	Yeah, I remember.		うん、おぼえてる		scene_10
+そっか……CLOUDだったんだ	Hmm…so it was you?		そっか…… CLOUDだったんだ		scene_10
+ＪＥＮＯＶＡ……なんだろう。ロックは……あかないか……-	This is…Jenova, right? It won't open…		ＪＥＮＯＶＡ……なんだろう。ロックは……あかないか……-		scene_10
+動作異常の原因はこれだな。この部分が壊れているんだ	This is the reason for the malfunction. This part is broken.	動作異常原因部分壊	動作[どうさ] 異常[いじょう]の 原因[げんいん]はこれだな。この 部分[ぶぶん]が 壊[こわ]れているんだ		scene_10
+CLOUD、バルブを閉じてくれ	CLOUD, close the valve.	閉	CLOUD、バルブを 閉[と]じてくれ		scene_10
+バルブは閉じたのか？	Did you close the valve?	閉	バルブは 閉[と]じたのか？		scene_10
+なぜ壊れた……？	Why did it break?	壊	なぜ 壊[こわ]れた……？		scene_10
+……わかったよ、宝条	…Now I see, Hojo.	宝条	……わかったよ、 宝[ほう] 条[じょう]		scene_10
+でもな、こんなことしたってあんたはガスト博士にはかなわないのさ	But doing this will never put you on the same level as Professor Gast.	博士	でもな、こんなことしたってあんたはガスト 博士[はかせ]にはかなわないのさ		scene_10
+これは魔晄エネルギーを凝縮してさらに冷やすシステムだ………本来はな	This is a system that condenses and freezes the Mako energy… that is, when it's working correctly.	魔晄凝縮冷本来	これは 魔[ま] 晄[こう]エネルギーを 凝縮[ぎょうしゅく]してさらに 冷[ひ]やすシステムだ……… 本来[ほんらい]はな		scene_10
+さて……さらに凝縮すると魔晄エネルギーはどうなる？	Now…what does Mako energy become when it's further condensed?	凝縮魔晄	さて……さらに 凝縮[ぎょうしゅく]すると 魔[ま] 晄[こう]エネルギーはどうなる？		scene_10
+え、ええと……そうだった！マテリアができるんだな	Uh, umm…Oh yeah!  It becomes a Materia.		え、ええと……そうだった！マテリアができるんだな		scene_10
+そう、普通ならな。でも宝条はこの中にあるものを入れた。……見ろ	Right, normally. But Hojo put something else in there. …Take a look.	普通宝条中入見	そう、 普通[ふつう]ならな。でも 宝[ほう] 条[じょう]はこの 中[なか]にあるものを 入[い]れた。…… 見[み]ろ		scene_10
+マドから中をのぞいて見ろ	Look through the window.	中見	マドから 中[なか]をのぞいて 見[み]ろ		scene_10
+こ、これは！？	Wh…what is this!?		こ、これは！？		scene_10
+おまえたち普通のソルジャーは魔晄を浴びた人間だ	Normal members of SOLDIER are humans that have been showered with Mako.	普通魔晄浴人間	おまえたち 普通[ふつう]のソルジャーは 魔[ま] 晄[こう]を 浴[あ]びた 人間[にんげん]だ		scene_10
+一般人とはちがうがそれでも人間なんだ	You're different from the others but still human.	一般人間	一般人[いっぱんじん]とはちがうがそれでも 人間[にんげん]なんだ		scene_10
+しかし、こいつらはなんだ？おまえたちとは比べものにならないほど高密度の魔晄に浸されている	But, what are they? They've been exposed to a far higher degree of Mako than you.	比高密度魔晄浸	しかし、こいつらはなんだ？おまえたちとは 比[くら]べものにならないほど 高密度[こうみつど]の 魔[ま] 晄[こう]に 浸[ひた]されている		scene_10
+……これがモンスター？	…Is this some kind of monster?		……これがモンスター？		scene_10
+そうだ。モンスターを生み出したのは神羅カンパニーの宝条だ	Exactly. And it's Hojo of Shinra that produced these monsters.	生出神羅宝条	そうだ。モンスターを 生み出[うみだ]したのは 神[しん] 羅[ら]カンパニーの 宝[ほう] 条[じょう]だ		scene_10
+魔晄エネルギーが創り出す異形の生物。それがモンスターの正体	Mutated living organisms produced by Mako energy. That's what these monsters really are.	魔晄創出異形生物正体	魔[ま] 晄[こう]エネルギーが 創り出[つくりだ]す 異形[いぎょう]の 生物[せいぶつ]。それがモンスターの 正体[しょうたい]		scene_10
+普通のソルジャーって？あんたは違うのか？	Normal members of SOLDIER? You mean you're different?	普通違	普通[ふつう]のソルジャーって？あんたは 違[ちが]うのか？		scene_10
+お、おい、セフィロス！	H…hey, Sephiroth!		お、おい、セフィロス！		scene_10
+ま、まさか……	No…		ま、まさか……		scene_10
+……オレも？	…Was I?		……オレも？		scene_10
+……オレはこうして生み出されたのか？	…Was I created this way, too?	生出	……オレはこうして 生み出[うみだ]されたのか？		scene_10
+……セフィロス	…Sephiroth.		……セフィロス		scene_10
+オレはモンスターと同じだというのか……	Am I the same as all these monsters?	同	オレはモンスターと 同[おな]じだというのか……		scene_10
+お前も見ただろう！こいつらの中にいるのは……まさしく人間だ……	You saw it! All of them…were humans…	前見中人間	お 前[まえ]も 見[み]ただろう！こいつらの 中[なか]にいるのは……まさしく 人間[にんげん]だ……		scene_10
+人間！？　まさか！--	Human!? No way!	人間	人間[にんげん]！？　まさか！--		scene_10
+……子供のころからオレは感じていた	…Ever since I was small I've felt…	子供感	…… 子供[こども]のころからオレは 感[かん]じていた		scene_10
+オレは他のやつらとはちがう。オレは特別な存在なんだと思っていた	…that I was different from the others. Special, in some way.	他特別存在思	オレは 他[ほか]のやつらとはちがう。オレは 特別[とくべつ]な 存在[そんざい]なんだと 思[おも]っていた		scene_10
+しかし、それは……それはこんな意味じゃない	But… not like this…	意味	しかし、それは……それはこんな 意味[いみ]じゃない		scene_10
+オレは……人間なのか？	Am I…human?	人間	オレは…… 人間[にんげん]なのか？		scene_10
+セフィロスが何を言っているのかその時の俺にはよくわからなかった	I didn't really understand what Sephiroth meant then.	何言時俺	セフィロスが 何[なに]を 言[い]っているのかその 時[とき]の 俺[おれ]にはよくわからなかった		scene_10
+俺はなによりも神羅カンパニーがモンスターを創っていたということにショックをうけていた	I was even more surprised that Shinra was producing monsters.	俺神羅創	俺[おれ]はなによりも 神[しん] 羅[ら]カンパニーがモンスターを 創[つく]っていたということにショックをうけていた		scene_10
+た、確かにそうかもな。ここいらで一息いれることにするか	Yeah, maybe so. Wanna take a breather here?	確一息	た、 確[たし]かにそうかもな。ここいらで 一息[ひといき]いれることにするか		scene_10
+ケッ、余計なお世話だ。おい、CLOUD。話を続けてくれ。	Hmph! Pokin' his damn nose in where it don't belong. CLOUD! Why don't you finish that story?	余計世話続	ケッ、 余計[よけい]なお 世話[せわ]だ。おい、 CLOUD。 話[はなし]を 続[つづ]けてくれ。		scene_10
+（フッ……）	(Phew……)		（フッ……）		scene_10
+（な、なんでオレに話をふるんだ！？）	(Why you talkin' to me!?)	話	（な、なんでオレに 話[はなし]をふるんだ！？）		scene_10
+セーブして一息いれよう	Save game and take a rest	一息	セーブして 一息[ひといき]いれよう		scene_10
+このまま話を続けてくれ	Keep talking	話続	このまま 話[はなし]を 続[つづ]けてくれ		scene_10
+……なるほどな	…I get it.		……なるほどな		scene_10
+ここ数年来のモンスターの増加にはそういった理由があったのか	That would seem to explain the increase in the number of monsters recently.	数年来増加理由	ここ 数[すう] 年来[ねんらい]のモンスターの 増加[ぞうか]にはそういった 理由[りゆう]があったのか		scene_10
+これからのCLOUDの話はじっくりと聞く必要があるな。そうではないか、BARRET？	I think we should listen carefully to CLOUD. Don't you think so BARRET?	話聞必要	これからの CLOUDの 話[はなし]はじっくりと 聞[き]く 必要[ひつよう]があるな。そうではないか、 BARRET？		scene_10
+くっ……神羅めっ！ますます許せねえ！	Damn, Shinra! The more I hear, the more I hate 'em!	神羅許	くっ…… 神[しん] 羅[ら]めっ！ますます 許[ゆる]せねえ！		scene_10
+……あの魔晄炉にはそんな秘密があったのね	…Who would have ever thought the Mako Reactor held such a secret.	魔晄炉秘密	……あの 魔[ま] 晄[こう] 炉[ろ]にはそんな 秘密[ひみつ]があったのね		scene_10
+ねぇ、TIFA。あなたはずっと外で待ってたの？	TIFA… Were you waiting outside then?	外待	ねぇ、 TIFA。あなたはずっと 外[そと]で 待[ま]ってたの？		scene_10
+………ええ	…Yes.		………ええ		scene_10
+俺たちはニブルヘイムへもどった。セフィロスは宿屋にこもり誰とも言葉をかわそうとしない	We returned to Nibelheim. Sephiroth confined himself to the inn. He didn't even try to talk to me.	俺宿屋誰言葉	俺[おれ]たちはニブルヘイムへもどった。セフィロスは 宿屋[やどや]にこもり 誰[だれ]とも 言葉[ことば]をかわそうとしない		scene_10
+そしていなくなったのよね	Then all of a sudden he just disappeared, right?		そしていなくなったのよね		scene_10
+セフィロスがみつかったのはニブルヘイムで一番大きな建物	We found him inside the biggest building in Nibelheim.	一番大建物	セフィロスがみつかったのはニブルヘイムで 一番[いちばん] 大[おお]きな 建物[たてもの]		scene_10
+村の人たちは神羅屋敷と呼んでいたわ。私たちが生まれたころにはもう空き家になっていて……	The villagers used to call it the Shinra mansion.	村人神羅屋敷呼私生空家	村[むら]の 人[ひと]たちは 神[しん] 羅[ら] 屋敷[やしき]と 呼[よ]んでいたわ。 私[わたし]たちが 生[う]まれたころにはもう 空き家[あきや]になっていて……		scene_10
+むかし、その屋敷は神羅カンパニーの人間が使っていた……	Long ago, people from Shinra used to live in that mansion…	屋敷神羅人間使	むかし、その 屋敷[やしき]は 神[しん] 羅[ら]カンパニーの 人間[にんげん]が 使[つか]っていた……		scene_10
+セフィロスさんの姿が見えないんだ。たしかに、この部屋に入っていったのを見たんだけど……	There's no sign of Sephiroth, but I know I saw him go into this room…	姿見部屋入	セフィロスさんの 姿[すがた]が 見[み]えないんだ。たしかに、この 部屋[へや]に 入[はい]っていったのを 見[み]たんだけど……		scene_10
+セフィロスさんのようすが変なんだ	Sephiroth seems different.	変	セフィロスさんのようすが 変[へん]なんだ		scene_10
+×ボタン　ド	Do [CANCEL]		×[かける]ボタン　ド		scene_10
+□ボタン　レ	Re [SWITCH]		□ボタン　レ		scene_10
+△ボタン　ミ	Mi [MENU]		△ボタン　ミ		scene_10
+○ボタン　ファ	Fa [OK]		○ボタン　ファ		scene_10
+Ｒ１ボタンかＬ１ボタンと×ボタン　ソ	So [PAGEUP] or [PAGEDOWN] + [CANCEL]		Ｒ[あーる]１ボタンか Ｌ[える]１ボタンと ×[かける]ボタン　ソ		scene_10
+Ｒ１ボタンかＬ１ボタンと□ボタン　ラ	La [PAGEUP] or [PAGEDOWN] + [SWITCH]		Ｒ[あーる]１ボタンか Ｌ[える]１ボタンと□ボタン　ラ		scene_10
+Ｒ１ボタンかＬ１ボタンと△ボタン　シ	Ti [PAGEUP] or [PAGEDOWN] + [MENU]		Ｒ[あーる]１ボタンか Ｌ[える]１ボタンと△ボタン　シ		scene_10
+Ｒ１ボタンかＬ１ボタンと○ボタン　高いド	Do [PAGEUP] or [PAGEDOWN] + [OK]	高	Ｒ[あーる]１ボタンか Ｌ[える]１ボタンと○ボタン　 高[たか]いド		scene_10
+方向キー下　ドミソ（Ｃ）	Do Mi So  (C)Directional button Down	方向下	方向キ[ほうこうき]ー 下[か]　ドミソ（ Ｃ[しー]）		scene_10
+方向キー左　ドファラ（Ｆ）	Do Fa La  (F)Directional button Left	方向左	方向キ[ほうこうき]ー 左[ひだり]　ドファラ（ Ｆ[えふ]）		scene_10
+方向キー上　レソシ（Ｇ）	Re So Ti  (G)Directional button Up	方向上	方向キ[ほうこうき]ー 上[じょう]　レソシ（ Ｇ[じー]）		scene_10
+方向キー右　ミソ高いド（Ｃ）	Mi So Do  (C)Directional button Right	方向右高	方向キ[ほうこうき]ー 右[みぎ]　ミソ 高[たか]いド（ Ｃ[しー]）		scene_10
+スタートボタン　終了	End[START]	終了	スタートボタン　 終了[しゅうりょう]		scene_10
+『マテリア関係資料／宝条』	Information concerning Materia/Hojo	関係資料宝条	『マテリア 関係[かんけい] 資料[しりょう]／ 宝[ほう] 条[じょう]』		scene_10
+読んでみる	Read it	読	読[よ]んでみる		scene_10
