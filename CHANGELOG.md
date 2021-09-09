@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.8](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.7...v2.3.8) (2021-09-09)
+
+
+### Bug Fixes
+
+* **scene:** Merged lines. ([4194f7f](https://github.com/nowotato/final-fantasy-vii-catalog/commit/4194f7f098d137bd712e29899a22509fb4c5c6cf))
+* **scene:** Split merged lines. ([f76ca37](https://github.com/nowotato/final-fantasy-vii-catalog/commit/f76ca379aefd3336dbf137eb92300d6f5c10244d))
+* Proofread scene [#10](https://github.com/nowotato/final-fantasy-vii-catalog/issues/10). ([50cd0c9](https://github.com/nowotato/final-fantasy-vii-catalog/commit/50cd0c94cfbb9470989c56f3809bde0f02f83c5b)), closes [#75](https://github.com/nowotato/final-fantasy-vii-catalog/issues/75)
+
 ### [2.3.7](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.6...v2.3.7) (2021-05-21)
 
 
