@@ -1,4 +1,4 @@
-function process(data){
+function processScript(data){
 	let lines = data.split("\r\n");
 	let englishLines = [];
 	let japaneseLines = [];
@@ -39,4 +39,4 @@ function process(data){
 	return processed;
 };
 
-module.exports = process;
+module.exports = processScript;
