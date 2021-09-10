@@ -4,6 +4,15 @@ const fs = require("fs");
 // local packages
 const xterm = require("./xterm-color");
 
+// program settings
+let verbose = true;
+
+// parse arguments
+for(let argument of process.argv){
+	if(argument === "-q") verbose = false;
+	else if(argument === "-v") verbose = true;
+}
+
 // convert file name to title
 function getTitle(name){
 	let split = name.split("-");
@@ -22,7 +31,7 @@ function getTitle(name){
 	// save all lines for combination
 	let combined = [];
 
-	console.log("Converting processed scenes to anki imports:");
+	console.log("Converting processed scenes to anki imports.");
 	let files = fs.readdirSync(inputDir);
 	for(let file of files){
 		if(file.indexOf(".txt") === -1) continue;
@@ -46,7 +55,7 @@ function getTitle(name){
 			combined.push(format)
 		}
 		fs.writeFileSync(outputDir+file, formatted.join("\r\n"), "utf8");
-		console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET}`);
+		if(verbose) console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET}`);
 	}
 
 	fs.writeFileSync(outputDir+"combined.txt", combined.join("\r\n"));
@@ -85,7 +94,7 @@ console.log("");
 			combined.push(format)
 		}
 		fs.writeFileSync(outputDir+file, formatted.join("\r\n"), "utf8");
-		console.log(`\t${xterm.C.PINK}${getTitle(noext)}${xterm.C.RESET}`);
+		if(verbose) console.log(`\t${xterm.C.PINK}${getTitle(noext)}${xterm.C.RESET}`);
 	}
 
 	fs.writeFileSync(outputDir+"combined.txt", combined.join("\r\n"));

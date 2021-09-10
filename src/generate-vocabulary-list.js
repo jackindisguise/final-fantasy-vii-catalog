@@ -9,6 +9,15 @@ const {mecabSync} = require("./mecab-wrapper");
 const {lookup} = require("./jsdict-lookup");
 const symbols = require("./mecab-symbols.json");
 
+// program settings
+let verbose = true;
+
+// parse arguments
+for(let argument of process.argv){
+	if(argument === "-q") verbose = false;
+	else if(argument === "-v") verbose = true;
+}
+
 // safe array handling
 Array.prototype.contains = function(item){
 	return this.indexOf(item) !== -1;
@@ -91,7 +100,7 @@ fs.readdir(inputFolder, async function(err, files){
 		return;
 	}
 
-	console.log(`Scraping scenes for vocabulary...`);
+	console.log(`Scraping scenes for vocabulary.`);
 	for(let file of files){
 		if(file.indexOf(".txt") == -1) continue; // not a scene file
 		console.log(`\t${file}`)

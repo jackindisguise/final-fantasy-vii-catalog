@@ -4,6 +4,15 @@ const fs = require("fs");
 // local packages
 const xterm = require("./xterm-color");
 
+// program settings
+let verbose = true;
+
+// parse arguments
+for(let argument of process.argv){
+	if(argument === "-q") verbose = false;
+	else if(argument === "-v") verbose = true;
+}
+
 // local consts
 const inputSceneFolder = "../scene/formatted/";
 const inputNewFolder = "../kanji/new/";

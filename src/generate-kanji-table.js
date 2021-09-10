@@ -4,6 +4,15 @@ const fs = require("fs");
 // local packages
 const xterm = require("./xterm-color");
 
+// program settings
+let verbose = true;
+
+// parse arguments
+for(let argument of process.argv){
+	if(argument === "-q") verbose = false;
+	else if(argument === "-v") verbose = true;
+}
+
 // local consts
 const inputFolder = "../scene/formatted/";
 const outputFolderNewKanji = "../kanji/new/";
@@ -16,7 +25,7 @@ let kanjiArray = [];
 let kanjiCount = 0;
 
 // read all processed texts and scrape kanji data
-console.log("Scraping kanji from formatted scenes:");
+console.log("Scraping kanji from formatted scenes.");
 fs.readdir(inputFolder, function(err, files){
 	if(err) return;
 	for(let file of files){
@@ -52,7 +61,7 @@ fs.readdir(inputFolder, function(err, files){
 		let newKanjiFile = outputFolderNewKanji + file;
 		fs.writeFileSync(uniqueKanjiFile, uniqueKanjiInScene.join(""), "utf8");
 		fs.writeFileSync(newKanjiFile, newKanjiInScene.join(""), "utf8");
-		console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET} (${xterm.C.LIME}${newKanjiInScene.length} new kanji${xterm.C.RESET})`);
+		if(verbose) console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET} (${xterm.C.LIME}${newKanjiInScene.length} new kanji${xterm.C.RESET})`);
 	}
 
 	fs.writeFileSync(outputFile, JSON.stringify({unique:kanjiArray.length, total:kanjiCount, table:kanjiArray}, null, "\t"), "utf8");

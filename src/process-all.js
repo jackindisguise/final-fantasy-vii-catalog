@@ -1,8 +1,17 @@
 const fs = require("fs");
-const process = require("./process");
+const processScript = require("./process-script");
 
 // local packages
 const xterm = require("./xterm-color");
+
+// program settings
+let verbose = true;
+
+// parse arguments
+for(let argument of process.argv){
+	if(argument === "-q") verbose = false;
+	else if(argument === "-v") verbose = true;
+}
 
 // local consts
 const formatted = "../scene/formatted/";
@@ -23,7 +32,7 @@ let usedJapanese = [];
 // save all lines for combination
 let combined = [];
 
-console.log("Processing all scene files:");
+console.log("Processing all scene files.");
 fs.readdir(formatted, function(err, files){
 	if(err) return;
 	for(let file of files){
@@ -40,7 +49,7 @@ fs.readdir(formatted, function(err, files){
 		originalLines += original.length;
 
 		// process lines
-		let result = process(data);
+		let result = processScript(data);
 		let lines = [];
 		for(let entry of result) {
 			if(usedJapanese.contains(entry.target)) continue; // don't add duplicate japanese lines
@@ -51,7 +60,7 @@ fs.readdir(formatted, function(err, files){
 		}
 		newLines += lines.length;
 		fs.writeFileSync(target, lines.join("\r\n"), "utf8");
-		console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET} (${xterm.C.LIME}${lines.length} / ${original.length} lines${xterm.C.RESET})`);
+		if(verbose) console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET} (${xterm.C.LIME}${lines.length} / ${original.length} lines${xterm.C.RESET})`);
 	}
 	console.log(`\t[${xterm.C.YELLOW}**${xterm.C.RESET}]: ${xterm.C.WHITE}${originalLines} lines before formatting.${xterm.C.RESET}`);
 	console.log(`\t[${xterm.C.YELLOW}**${xterm.C.RESET}]: ${xterm.C.WHITE}${newLines} lines after formatting.${xterm.C.RESET}`);

@@ -4,6 +4,15 @@ const fs = require("fs");
 // local packages
 const xterm = require("./xterm-color");
 
+// program settings
+let verbose = true;
+
+// parse arguments
+for(let argument of process.argv){
+	if(argument === "-q") verbose = false;
+	else if(argument === "-v") verbose = true;
+}
+
 // local consts
 const inputFolder = "../scene/processed/";
 const outputFolderEnglish = "../scene/split/english/";
@@ -16,7 +25,7 @@ let allSource = [];
 let allTarget = [];
 
 // read all processed texts and scrape kanji data
-console.log(`Splitting English/Japanese dialogue:`);
+console.log(`Splitting English/Japanese dialogue.`);
 fs.readdir(inputFolder, function(err, files){
 	if(err) return;
 	for(let file of files){
@@ -42,7 +51,7 @@ fs.readdir(inputFolder, function(err, files){
 
 		fs.writeFileSync(outputFolderEnglish+file, sourceLines.join("\r\n"), "utf8");
 		fs.writeFileSync(outputFolderJapanese+file, targetLines.join("\r\n"), "utf8");
-		console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET}`);
+		if(verbose) console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET}`);
 	}
 
 	fs.writeFileSync(outputFolderEnglish+"combined.txt", allSource.join("\r\n"), "utf8");
