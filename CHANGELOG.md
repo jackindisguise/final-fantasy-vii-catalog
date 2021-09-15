@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.9](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.8...v2.3.9) (2021-09-15)
+
+
+### Bug Fixes
+
+* Proofread Scene 11: Chocobo Farm. ([27b9968](https://github.com/nowotato/final-fantasy-vii-catalog/commit/27b9968b5cb4789a32716d5b1172914ee93cc8b6)), closes [#76](https://github.com/nowotato/final-fantasy-vii-catalog/issues/76)
+* **scripts:** Added quiet mode for all scripts to reduce output. ([03b0fe8](https://github.com/nowotato/final-fantasy-vii-catalog/commit/03b0fe87cea6a09cda49c08aacc822ebd31ff658))
+
 ### [2.3.8](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.7...v2.3.8) (2021-09-09)
 
 
