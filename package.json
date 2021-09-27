@@ -1,6 +1,6 @@
 {
   "name": "final-fantasy-7-script",
-  "version": "2.3.11",
+  "version": "2.3.12",
   "description": "Processing the Japanese and English Final Fantasy 7 script for quick and easy use.",
   "main": "process.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "cycle": "npm run process && npm run meta",
     "release": "standard-version && npm run latest",
     "release-dry": "standard-version --dry-run",
-	"latest": "cd src && node latest"
+    "latest": "cd src && node latest"
   },
   "author": "",
   "license": "ISC",

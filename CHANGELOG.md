@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.12](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.11...v2.3.12) (2021-09-27)
+
+
+### Bug Fixes
+
+* `latest` script has a premable to identify what the text is. ([2d62733](https://github.com/nowotato/final-fantasy-vii-catalog/commit/2d627330e1af17eaa35a0b54241c67e3ffa91419))
+* Added `latest` script. `release` now runs `latest` automatically. ([af2c517](https://github.com/nowotato/final-fantasy-vii-catalog/commit/af2c5172d0b4b58c3173cb76b80f584e2bd7e1fa))
+* Misc. text decks no longer shoe literal field when it's identical to English field. ([93cf080](https://github.com/nowotato/final-fantasy-vii-catalog/commit/93cf080a9315f00fd07071f5d86c987da2ea6469))
+* When generating misc. text, if the literal line matches the English line, the literal line will be empty. ([e1132c0](https://github.com/nowotato/final-fantasy-vii-catalog/commit/e1132c0e30d88ee53f112010272fee90a410b4db))
+
 ### [2.3.11](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.10...v2.3.11) (2021-09-27)
 
 
