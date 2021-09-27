@@ -1,1392 +1,1392 @@
-アイテム	アイテム	Item	Item	
-魔法	魔法[まほう]	Magic	Magic	
-マテリア	マテリア	Materia	Materia	
-装備	装備[そうび]	Equip	Equip	
-ステータス	ステータス	Status	Status	
-隊形	隊形[たいけい]	Order	Order	
-リミット	リミット	Limit	Limit	
-コンフィグ	コンフィグ	Config	Config	
-ＰＨＳ	ＰＨＳ[ぴーえいちえす]	PHS	PHS	
-セーブ	セーブ	Save	Save	
-しゅうりょう	しゅうりょう	Quit	Quit	
-リミットレベル	リミットレベル	Limit level	Limit level	
-ちから	ちから	Strength	Strength	
-すばやさ	すばやさ	Dexterity	Dexterity	
-たいりょく	たいりょく	Vitality	Vitality	
-まりょく	まりょく	Magic	Magic	
-せいしん	せいしん	Spirit	Spirit	
-うん	うん	Luck	Luck	
-こうげきりょく	こうげきりょく	Attack	Attack	
-めいちゅうりつ	めいちゅうりつ	Attack%	Attack%	
-ぼうぎょりょく	ぼうぎょりょく	Defense	Defense	
-かいひりつ	かいひりつ	Defense%	Defense%	
-まほうこうげき	まほうこうげき	Magic atk	Magic atk	
-まほうぼうぎょ	まほうぼうぎょ	Magic def	Magic def	
-まほうかいひりつ	まほうかいひりつ	Magic def%	Magic def%	
-じかん	じかん	Time	Time	
-ギル	ギル	Gil	Gil	
-経験値	経験値[けいけんち]	EXP	EXP	
-ＡＰ	ＡＰ[えいぴー]	AP	AP	
-ＧＰ	ＧＰ[じーぴー]	GP	GP	
-ＢＰ	ＢＰ	BP	BP	
-炎	炎[ほのお]	Fire	Flame	
-冷	冷[れい]	Ice	Cold	
-雷	雷[かみなり]	Lightning	Thunder	
-土	土[つち]	Earth	Earth	
-毒	毒[どく]	Poison	Poison	
-重力	重力[じゅうりょく]	Gravity	Gravity	
-水	水[みず]	Water	Water	
-風	風[かぜ]	Wind	Wind	
-聖	聖[せい]	Holy	Holy	
-１０番目の属性	１０ 番目[ばんめ]の 属性[ぞくせい]	Hidden*	Tenth Attribute	
-斬る	斬[き]る	Cut	Cut	
-殴る	殴[なぐ]る	Hit	Strike	
-突く	突[つ]く	Punch	Thrust	
-射撃	射撃[しゃげき]	Shoot	Shot	
-回復	回復[かいふく]	Restorative	Recovery	
-叫ぶ	叫[さけ]ぶ	Shout	Shout	
-睡眠	睡眠[すいみん]	Sleep	Sleep	
-怒り	怒[いか]り	Fury	Anger	
-悲しい	悲[かな]しい	Sadness	Sorrow	
-石化	石[せき] 化[か]	Petrify	Petrification	
-徐々に石化	徐々[じょじょ]に 石[せき] 化[か]	Slow-Numb	Gradual Petrification	
-混乱	混乱[こんらん]	Confuse	Confusion	
-沈黙	沈黙[ちんもく]	Silence	Silence	
-マヒ	マヒ	Paralyzed	Paralysis	
-暗闇	暗闇[くらやみ]	Darkness	Darkness	
-蛙	蛙[かえる]	Frog	Frog	
-小	小[ミニマム]	Small	Minimum	
-瀕死	瀕死[ひんし]	Near-death	Near Death	
-戦闘不能（死）	戦闘[せんとう] 不能[ふのう]（ 死[し]）	Death	Unable to Fight (Death)	
-死の宣告	死[し]の 宣告[せんこく]	Death‐Sentence	Death Sentence	
-操る	操[あやつ]る	Manipulate	Manipulation	
-闘	闘	Berserk	Berserk	
-無敵	無敵[むてき]	Peerless	Invincible	
-速い	速[はや]い	Haste	Fast	
-遅く	遅[おそ]く	Slow	Slow	
-停止	停止[ていし]	Stop	Stop	
-バリア (物的)	バリア( 物的[ぶってき])	Barrier	Barrier (Physical)	
-バリア (魔法的)	バリア( 魔法的[まほうてき])	MBarrier	Barrier (Magic)	
-反射	反射[はんしゃ]	Reflect	Reflection	
-シールド（防衛）	シールド（ 防衛[ぼうえい]）	Shield	Shield (Defense)	
-ブレイバー	ブレイバー	Braver	Braver	
-凶斬り	凶[きょう] 斬[き]り	Cross-slash	Evil Slash	
-破晄撃	破[は] 晄[こう] 撃[げき]	Blade Beam	Rending Light Attack	
-クライムハザード	クライムハザード	Climhazzard	Climb Hazard	
-メテオレイン	メテオレイン	Meteorain	Meteor Rain	
-画龍点睛	"画龍点睛[<span style=""color: rgb(34, 34, 34);"">が</span><span style=""color: rgb(34, 34, 34);"">りょう</span><span style=""color: rgb(34, 34, 34);"">てん</span><span style=""color: rgb(34, 34, 34);"">せい</span>]"	Finishing Touch	Finishing Touch	
-超究武神覇斬	超[ちょう] 究[きゅう] 武神[ぶしん] 覇[は] 斬[ざん]	Omnislash	Transultimate Wargod Supremacy Slash	
-ヘビーショット	ヘビーショット	Big Shot	Heavy Shot	
-マインドブレイク	マインドブレイク	Mindblow	Mind Break	
-グレネードボム	グレネードボム	Grenade Bomb	Grenade Bomb	
-ハンマーブロウ	ハンマーブロウ	Hammer Blow	Hammer Blow	
-サテライトビーム	サテライトビーム	Satellite Beam	Satellite Beam	
-アンガーマックス	アンガーマックス	Angermax	Anger Max	
-カタストロフィ	カタストロフィ	Catastrophe	Catastrophe	
-掌打ラッシュ	掌[しょう] 打[だ]ラッシュ	Beat Rush	Palm Rush	
-サマーソルト	サマーソルト	Somersault	Somersault	
-水面蹴り	水面[すいめん] 蹴[げ]り	Waterkick	Surface Sweep	
-メテオドライヴ	メテオドライヴ	Meteodrive	Meteor Drive	
-ドルフィンブロウ	ドルフィンブロウ	Dolphin Blow	Dolphin Blow	
-メテオストライク	メテオストライク	Meteor Strike	Meteor Strike	
-ファイナルヘヴン	ファイナルヘヴン	Final Heaven	Final Heaven	
-癒しの風	癒[いや]しの 風[かぜ]	Healing Wind	Healing Wind	
-邪気封印	邪気[じゃき] 封印[ふういん]	Seal Evil	Evil Spirit Seal	
-大地の息吹	大地[だいち]の 息吹[いぶき]	Breath of the Earth	Breath of the Earth	
-怒りの烙印	怒[いか]りの 烙印[らくいん]	Fury Brand	Mark of Anger	
-星の守護	星[ほし]の 守護[しゅご]	Planet Protector	Star Guardian	
-生命の鼓動	生命[せいめい]の 鼓動[こどう]	Pulse of Life	Pulse of Life	
-大いなる福音	大[おお]いなる 福音[ふくいん]	Great Gospel	Great Gospel	
-スレッドファング	スレッドファング	Sled Fang	Sled Fang	
-ルナティックハイ	ルナティックハイ	Lunatic High	Lunatic High	
-ブラッドファング	ブラッドファング	Blood Fang	Blood Fang	
-スターダストレイ	スターダストレイ	Stardust Ray	Stardust Ray	
-ハウリングムーン	ハウリングムーン	Howling Moon	Howling Moon	
-アースレイヴ	アースレイヴ	Earth Rave	Earth Rave	
-コスモメモリー	コスモメモリー	Cosmo Memory	Cosmo Memory	
-ダイス	ダイス	Dice	Dice	
-スロット	スロット	Slots	Slot	
-トイボックス	トイボックス	Toy Box	Toy Box	
-トイソルジャー	トイソルジャー	Toy Soldier	Toy Soldier	
-モーグリダンス	モーグリダンス	Mog Dance	Moogle Dance	
-ラッキーガール	ラッキーガール	Lucky Girl	Lucky Girl	
-ジョーカーデス	ジョーカーデス	Death Joker	Joker Death	
-合体	合体[がったい]	Transform	Combine	
-オールオーバー	オールオーバー	Game Over	All Over	
-ブーストジャンプ	ブーストジャンプ	Boost Jump	Boost Jump	
-ダイナマイト	ダイナマイト	Dynamite	Dynamite	
-ハイパージャンプ	ハイパージャンプ	Hyper Jump	Hyper Jump	
-ドラゴンモッド	ドラゴンモッド	Dragon	Dragon Mod	
-ドラゴンダイブ	ドラゴンダイブ	Dragon Dive	Dragon Dive	
-大乱闘	大[だい] 乱闘[らんとう]	Big Brawl	Big Brawl	
-ハイウインド	ハイウインド	Highwind	Highwind	
-ガリアンビースト	ガリアンビースト	Galian Beast	Gaulian Beast	
-ビーストフレア	ビーストフレア	Beast Flare	Beast Flare	
-バーサクダンス	バーサクダンス	Berserk Dance	Berserk Dance	
-デスギガス	デスギガス	Death Gigas	Death Gigas	
-ギガダンク	ギガダンク	Gigadunk	Giga Dunk	
-ライブスパーク	ライブスパーク	Livewire	Live Spark	
-ヘルマスカー	ヘルマスカー	Hell Masker	Hell Masker	
-スプラッタコンボ	スプラッタコンボ	Splattercombo	Splatter Combo	
-ナイトメア	ナイトメア	Nightmare	Nightmare	
-カオス	カオス	Chaos	Chaos	
-カオスセイバー	カオスセイバー	Chaos Saber	Chaos Saber	
-サタンインパクト	サタンインパクト	Satan Slam	Satan Impact	
-疾風迅雷	疾風迅雷[しっぷうじんらい]	Greased Lightning	Gale Thunderclap	
-明鏡止水	明鏡止水[めいきょうしすい]	Clear Tranquil	Tranquil Mind	
-抜山蓋世	抜山蓋世[ばつざんがいせい]	Landscaper	Power to Move Mountains	
-血祭	血祭[ちまつり]	Bloodfest	Blood Festival	
-鎧袖一触	鎧袖一触[がいしゅういっしょく]	Gauntlet	Armored Sleeve Single Blow	
-生者必滅	生者必滅[しょうじゃひつめつ]	Doom of the Living	All Living Things Must Die	
-森羅万象	森羅万象[しんらばんしょう]	All Creation	All Things In Nature	
-召喚	召喚[しょうかん]	Summon Materia	Summon Materia	
-独立	独立[どくりつ]	Independent Materia	Independent Materia	
-支援	支援[しえん]	Support Materia	Support Materia	
-コマンド	コマンド	Command Materia	Command Materia	
-れいき	れいき	Ice	Cold	
-ほのお	ほのお	Fire	Flame	
-いかずち	いかずち	Lightning	Lightning	
-かいふく	かいふく	Restore	Recovery	
-どく	どく	Poison	Poison	
-だいち	だいち	Earth	Earth	
-ちりょう	ちりょう	Heal	Treatment	
-そせい	そせい	Revive	Resurrection	
-ふうじる	ふうじる	Seal	Close	
-へんしん	へんしん	Transform	Transform	
-まどわす	まどわす	Mystify	Bewilder	
-じゅうりょく	じゅうりょく	Gravity	Gravity	
-しょうめつ	しょうめつ	Destruct	Annihilation	
-バリア	バリア	Barrier	Barrier	
-りだつ	りだつ	Exit	Withdrawal	
-いんせき	いんせき	Comet	Meteorite	
-フルケア	フルケア	Full Cure	Full Care	
-ふういん	ふういん	Contain	Seal	
-シールド	シールド	Shield	Shield	
-アルテマ	アルテマ	Ultima	Ultima	
-マスターまほう	マスターまほう	Master Magic	Master Magic	
-チョコボ＆モーグリ	チョコボ ＆[あんど]モーグリ	Choco/Mog	Chocobo & Moogle	
-シヴァ	シヴァ	Shiva	Shiva	
-イフリート	イフリート	Ifrit	Ifrit	
-ラムウ	ラムウ	Ramuh	Ramuh	
-タイタン	タイタン	Titan	Titan	
-オーディーン	オーディーン	Odin	Odin	
-バハムート	バハムート	Bahamut	Bahamut	
-リヴァイアサン	リヴァイアサン	Leviathan	Leviathan	
-クジャタ	クジャタ	Kujata	Kujata	
-アレクサンダー	アレクサンダー	Alexander	Alexander	
-バハムート改	バハムート 改[あらため]	Neo Bahamut	Bahamut Modified	
-フェニックス	フェニックス	Phoenix	Phoenix	
-ハーデス	ハーデス	Hades	Hades	
-バハムート零式	バハムート 零[れい] 式[しき]	Bahamut ZERO	Bahamut Type Zero	
-テュポーン	テュポーン	Typhon	Typhon	
-ナイツオブラウンド	ナイツオブラウンド	Knights of the Round	Knights of Round	
-マスターしょうかん	マスターしょうかん	Master Summon	Master Summon	
-ぬすむ	ぬすむ	Steal	Steal	
-みやぶる	みやぶる	Sense	Fathom	
-てきのわざ	てきのわざ	Enemy Skill	Enemy Skill	
-なげる	なげる	Throw	Throw	
-あやつる	あやつる	Manipulate	Manipulate	
-ひっさつ	ひっさつ	Deathblow	Deathblow	
-へんか	へんか	Morph	Transform	
-れんぞくぎり	れんぞくぎり	Double Cut	Continuous Slash	
-ぜんたいぎり	ぜんたいぎり	Slash-All	Slash All	
-ものまね	ものまね	Mime	Mimic	
-Ｗしょうかん	Ｗ[だぶりゅー]しょうかん	W-Summon	Double Summon	
-Ｗまほう	Ｗ[だぶりゅー]まほう	W-Magic	Double Magic	
-Ｗアイテム	Ｗ[だぶりゅー]アイテム	W-Item	Double Item	
-マスターコマンド	マスターコマンド	Master Command	Master Command	
-かばう	かばう	Cover	Cover	
-カウンター	カウンター	Counter Attack	Counter	
-チョコボよせ	チョコボよせ	Chocobo Lure	Chocobo Draw	
-えんきょりこうげき	えんきょりこうげき	Long Range	Long-Distance Attack	
-せんせいこうげき	せんせいこうげき	Pre-Emptive	Advance Attack	
-ＨＰアップ	ＨＰ[えいちぴー]アップ	HP Plus	HP Up	
-ＭＰアップ	ＭＰアップ	MP Plus	MP Up	
-けいけんちアップ	けいけんちアップ	EXP Plus	Experience Points Up	
-ギルアップ	ギルアップ	Gil Plus	Gil Up	
-マジカル	マジカル	Magic Plus	Magical	
-スピード	スピード	Speed Plus	Speed	
-ラッキー	ラッキー	Luck Plus	Lucky	
-てきよせ	てきよせ	Enemy Lure	Enemy Draw	
-てきよけ	てきよけ	Enemy Away	Enemy Ward	
-ＨＰＭＰいれかえ	ＨＰＭＰいれかえ	HP<->MP	HPMP Switch	
-すべてぜんたいか	すべてぜんたいか	Mega All	Entire All	
-せんすい	せんすい	Underwater	Diving	
-ぜんたいか	ぜんたいか	All	All	
-ぞくせい	ぞくせい	Elemental	Elemental	
-ついかこうか	ついかこうか	Added Effect	Added Effect	
-ついかぎり	ついかぎり	Added Cut	Added Cut	
-ＨＰきゅうしゅう	ＨＰ[えいちぴー]きゅうしゅう	HP Absorb	HP Absorb	
-ＭＰきゅうしゅう	ＭＰきゅうしゅう	MP Absorb	MP Absorb	
-ＭＰターボ	ＭＰターボ	MP Turbo	MP Turbo	
-ふいうち	ふいうち	Sneak Attack	Sneak Attack	
-ついでにぬすむ	ついでにぬすむ	Steal as well	Steal as well	
-コマンドカウンター	コマンドカウンター	Counter	Counter	
-まほうカウンター	まほうカウンター	Magic Counter	Magic Counter	
-まほうみだれうち	まほうみだれうち	Quadra Magic	Quadra Magic	
-ファイナルアタック	ファイナルアタック	Final Attack	Final Attack	
-たたかう	たたかう	Attack	Attack	
-まほう	まほう	Magic	Magic	
-しょうかん	しょうかん	Summon	Summon	
-ぶんどる	ぶんどる	Mug	Plunder	
-ぜになげ	ぜになげ	Coin	Coin Throw	
-みだれうち	みだれうち	4x-Cut	Chaotic Strike	
-いあいぬき	いあいぬき	Flash	Iainuki	
-チェンジ	チェンジ	Change	Change	
-ぼうぎょ	ぼうぎょ	Defend	Defend	
-カエルのうた	カエルのうた	Frog Song	Frog Song	
-レベル４自爆	レベル４ 自爆[じばく]	L4 Suicide	Level 4 Self-Destruct	
-マジックハンマー	マジックハンマー	Magic Hammer	Magic Hammer	
-ホワイトウィンド	ホワイトウィンド	White Wind	White Wind	
-マイティガード	マイティガード	Big Guard	Mighty Guard	
-天使のささやき	天使[てんし]のささやき	Angel Whisper	Angel's Whisper	
-ドラゴンフォース	ドラゴンフォース	Dragon Force	Dragon Force	
-デスフォース	デスフォース	Death Force	Death Force	
-火炎放射	火炎[かえん] 放射[ほうしゃ]	Flame Thrower	Flamethrower	
-レーザー	レーザー	Laser	Laser	
-マトラマジック	マトラマジック	Matra Magic	Matra Magic	
-臭い息	臭[くさ]い 息[いき]	Bad Breath	Smelly Breath	
-ベータ	ベータ	Beta	Beta	
-アクアブレス	アクアブレス	Aqualung	Aqua Breath	
-トライン	トライン	Trine	Trine	
-マジカルブレス	マジカルブレス	Magic Breath	Magical Breath	
-？？？？	？？？？	????	????	
-ゴブリンパンチ	ゴブリンパンチ	Goblin Punch	Goblin Punch	
-チョコボックル	チョコボックル	Chocobuckle	Chocobokkuru	
-レベル５デス	レベル５デス	L5 Death	Level 5 Death	
-死のルーレット	死[し]のルーレット	Roulette	Death Roulette	
-シャドウフレア	シャドウフレア	Shadow Flare	Shadow Flare	
-なんとか？？？	なんとか？？？	Pandora's Box	What???	
-ブリザド	ブリザド	Ice	Blizzard	
-ブリザラ	ブリザラ	Ice2	Blizzara	
-ブリザガ	ブリザガ	Ice3	Blizzaga	
-ファイア	ファイア	Fire	Fire	
-ファイラ	ファイラ	Fire2	Fira	
-ファイガ	ファイガ	Fire3	Figa	
-サンダー	サンダー	Bolt	Thunder	
-サンダラ	サンダラ	Bolt2	Thundara	
-サンダガ	サンダガ	Bolt3	Thundaga	
-ケアル	ケアル	Cure	Care	
-ケアルラ	ケアルラ	Cure2	Carera	
-リジェネ	リジェネ	Regen	Regen	
-ケアルガ	ケアルガ	Cure3	Carega	
-バイオ	バイオ	Bio	Bio	
-バイオラ	バイオラ	Bio2	Biora	
-バイオガ	バイオガ	Bio3	Bioga	
-クエイク	クエイク	Quake	Quake	
-クエイラ	クエイラ	Quake2	Quara	
-クエイガ	クエイガ	Quake3	Quaga	
-ポイゾナ	ポイゾナ	Poisona	Poisona	
-エスナ	エスナ	Esuna	Esuna	
-レジスト	レジスト	Resist	Resist	
-レイズ	レイズ	Life	Raise	
-アレイズ	アレイズ	Life2	Arise	
-スリプル	スリプル	Sleepel	Sleepel	
-サイレス	サイレス	Silence	Silence	
-ミニマム	ミニマム	Mini	Minimum	
-トード	トード	Toad	Toad	
-コンフュ	コンフュ	Confu	Confuse/Confu	
-バーサク	バーサク	Berserk	Berserk	
-ヘイスト	ヘイスト	Haste	Haste	
-スロウ	スロウ	Slow	Slow	
-ストップ	ストップ	Stop	Stop	
-グラビデ	グラビデ	Demi	Gravity	
-グラビラ	グラビラ	Demi2	Gravira	
-グラビガ	グラビガ	Demi3	Graviga	
-デバリア	デバリア	DeBarrier	Debarrier	
-デスペル	デスペル	DeSpell	Despell	
-デス	デス	Death	Death	
-マバリア	マバリア	MBarrier	M-Barrier	
-リフレク	リフレク	Reflect	Reflect	
-ウォール	ウォール	Wall	Wall	
-エスケプ	エスケプ	Escape	Escape	
-デジョン	デジョン	Remove	Dezone	
-コメット	コメット	Comet	Comet	
-コメテオ	コメテオ	Comet2	Cometeo	
-フリーズ	フリーズ	Freeze	Freeze	
-ブレイク	ブレイク	Break	Break	
-トルネド	トルネド	Tornado	Tornado	
-フレア	フレア	Flare	Flare	
-必殺技！！	必殺技[ひっさつわざ]！！	Deathblow‼	Deathblow Technique!!	
-デブチョコボ	デブチョコボ	Fat Chocobo	Fatso Chocobo	
-ダイヤモンドダスト	ダイヤモンドダスト	Diamond Dust	Diamond Dust	
-地獄の火炎	地獄[じごく]の 火炎[かえん]	Hellfire	Flames of Hell	
-裁きの雷	裁[さば]きの 雷[かみなり]	Judgement Bolt	Lightning of Judgement	
-大地の怒り	大地[だいち]の 怒[いか]り	Anger of the Land	Anger of the Earth	
-斬鉄剣	斬鉄剣[ざんてつけん]	Steel Bladed Sword	Iron-Cutting Sword	
-グングニルの槍	グングニルの 槍[やり]	Gunge Lance	Gungnir Spear	
-メガフレア	メガフレア	Mega Flare	Megaflare	
-大海衝	大海[だいかい] 衝[しょう]	Tidal Wave	Great Tidal Wave	
-トライディザスター	トライディザスター	Tetra-Disaster	Tri-Disaster	
-聖なる審判	聖[せい]なる 審判[しんぱん]	Judgement	Holy Judgement	
-ギガフレア	ギガフレア	Giga Flare	Gigaflare	
-転生の炎	転生[てんせい]の 炎[ほのお]	Phoenix Flame	Flames of Reincarnation	
-暗黒の釜	暗黒[あんこく]の 釜[かま]	Black Cauldron	Cauldron of Darkness	
-テラフレア	テラフレア	Tera Flare	Teraflare	
-天地崩壊	天地[てんち] 崩壊[ほうかい]	Disintegration	Collapse of Heaven and Earth	
-アルティメットエンド	アルティメットエンド	Ultimate End	Ultimate End	
-バスターソード	バスターソード	Buster Sword	Bastard Sword	
-ミスリルセイバー	ミスリルセイバー	Mythril Saber	Mithril Saber	
-ハードブレイカー	ハードブレイカー	Hardedge	Hard Breaker	
-バタフライエッジ	バタフライエッジ	Butterfly Edge	Butterfly Edge	
-村雨	村雨[むらさめ]	Murasame	Murasame	
-オーガニクス	オーガニクス	Organics	Organics	
-クリスタルソード	クリスタルソード	Crystal Sword	Crystal Sword	
-フォースイーター	フォースイーター	Force Stealer	Force Eater	
-ルーンブレイド	ルーンブレイド	Rune Blade	Rune Blade	
-エンハンスソード	エンハンスソード	Enhance Sword	Enhance Sword	
-釘バット	釘[くぎ]バット	Nail Bat	Nail Bat	
-陸奥守吉行	陸奥[むつ] 守[のかみ] 吉行[よしゆき]	Yoshiyuki	Mutsunokami Yoshiyuki	
-アポカリプス	アポカリプス	Apocalypse	Apocalypse	
-天の叢雲	天[あめ]の 叢雲[むらくも]	Heaven's Cloud	Ame no Murakumo	
-ラグナロク	ラグナロク	Ragnarok	Ragnarok	
-アルテマウェポン	アルテマウェポン	Ultima Weapon	Ultima Weapon	
-ガトリングガン	ガトリングガン	Gatling Gun	Gatling Gun	
-アサルトガン	アサルトガン	Assault Gun	Assault Gun	
-キャノンボール	キャノンボール	Cannon Ball	Cannonball	
-アトミックシザー	アトミックシザー	Atomic Scissors	Atomic Scissor	
-ハードバルカン	ハードバルカン	Heavy Vulcan	Hard Vulcan	
-チェーンソー	チェーンソー	Chainsaw	Chainsaw	
-マイクロレーザー	マイクロレーザー	Microlaser	Microlaser	
-Ａ・Ｍキャノン	Ａ[えい]・ Ｍ[えむ]キャノン	A∙M Cannon	A-M Cannon	
-Ｗマシンガン	Ｗ[だぶりゅー]マシンガン	W Machine Gun	Double Machine Gun	
-ドリルアーム	ドリルアーム	Drill Arm	Drill Arm	
-ソリッドバズーカ	ソリッドバズーカ	Solid Bazooka	Solid Bazooka	
-ロケットパンチ	ロケットパンチ	Rocket Punch	Rocket Punch	
-エネミーランチャ	エネミーランチャ	Enemy Launcher	Enemy Launcher	
-パイルバンカー	パイルバンカー	Pile Banger	Pilebunker	
-マキシマムレイ	マキシマムレイ	Max Ray	Maximum Ray	
-ミッシングスコア	ミッシングスコア	Missing Score	Missing Score	
-レザーグローブ	レザーグローブ	Leather Glove	Leather Glove	
-メタルナックル	メタルナックル	Metal Knuckle	Metal Knuckle	
-ミスリルクロー	ミスリルクロー	Mythril Claw	Mithril Claw	
-グランドグラブ	グランドグラブ	Grand Glove	Grand Glove	
-タイガーファング	タイガーファング	Tiger Fang	Tiger Fang	
-ダイアナックル	ダイアナックル	Diamond Knuckle	Diamond Knuckle	
-ドラゴンクロー	ドラゴンクロー	Dragon Claw	Dragon Claw	
-クリスタルグラブ	クリスタルグラブ	Crystal Glove	Crystal Glove	
-モータードライブ	モータードライブ	Motor Drive	Motor Drive	
-プラチナフィスト	プラチナフィスト	Platinum Fist	Platinum Fist	
-カイザーナックル	カイザーナックル	Kaiser Knuckle	Kaiser Knuckle	
-軍手	軍手[ぐんて]	Work Glove	Cotton Work Glove	
-オーバーソウル	オーバーソウル	Powersoul	Oversoul	
-マスターフィスト	マスターフィスト	Master Fist	Master Fist	
-ゴッドハンド	ゴッドハンド	God's Hand	Godhand	
-プレミアムハート	プレミアムハート	Premium Heart	Premium Heart	
-ガードロッド	ガードロッド	Guard Stick	Guard Rod	
-ミスリルロッド	ミスリルロッド	Mythril Rod	Mithril Rod	
-フルメタルロッド	フルメタルロッド	Full Metal Staff	Fullmetal Rod	
-ストライクロッド	ストライクロッド	Striking Staff	Strike Rod	
-プリズムロッド	プリズムロッド	Prism Staff	Prism Rod	
-オーロラロッド	オーロラロッド	Aurora Rod	Aurora Rod	
-ウィザードロッド	ウィザードロッド	Wizard Staff	Wizard Rod	
-ワイザーロッド	ワイザーロッド	Wizer Staff	Wiser Rod	
-フェアリーテイル	フェアリーテイル	Fairy Tale	Fairy Tale	
-アンブレラ	アンブレラ	Umbrella	Umbrella	
-プリンセスガード	プリンセスガード	Princess Guard	Princess Guard	
-ミスリルクリップ	ミスリルクリップ	Mythril Clip	Mithril Clip	
-ギヤマンヘアピン	ギヤマンヘアピン	Diamond Pin	Glasscraft Hairpin	
-シルバーバレッタ	シルバーバレッタ	Silver Barrette	Silver Barette	
-ゴールドバレッタ	ゴールドバレッタ	Gold Barette	Gold Barette	
-アダマンクリップ	アダマンクリップ	Adaman Clip	Adaman Clip	
-クリスタルコーム	クリスタルコーム	Crystal Comb	Crystal Comb	
-マジックコーム	マジックコーム	Magic Comb	Magic Comb	
-プラチナバレッタ	プラチナバレッタ	Plus Barette	Platinum Barette	
-セントクリップ	セントクリップ	Centclip	Saint Clip	
-かんざし	かんざし	Hairpin	Hairpin	
-セラフコーム	セラフコーム	Seraph Comb	Seraph Comb	
-ベヒーモスホーン	ベヒーモスホーン	Behemoth Horn	Behemoth Horn	
-スプリガンクリップ	スプリガンクリップ	Spring Gun Clip	Spriggan Clip	
-リミテッドムーン	リミテッドムーン	Limited Moon	Limited Moon	
-十字手裏剣	十字[じゅうじ] 手裏剣[しゅりけん]	4-point Shuriken	Cross Shuriken	
-ブーメラン	ブーメラン	Boomerang	Boomerang	
-風車	風車[かざぐるま]	Pinwheel	Pinwheel	
-円月輪	円[えん] 月輪[げつりん]	Razor Ring	Full Moon Ring	
-ホークアイ	ホークアイ	Hawkeye	Hawkeye	
-クリスタルクロス	クリスタルクロス	Crystal Cross	Crystal Cross	
-風斬り	風[かぜ] 斬[き]り	Wind Slash	Wind Slash	
-ツインヴァイパー	ツインヴァイパー	Twin Viper	Twin Viper	
-卍手裏剣	卍[まんじ] 手裏剣[しゅりけん]	Spiral Shuriken	Manji Shuriken	
-スーパーボール	スーパーボール	Superball	Superball	
-風魔手裏剣	風[ふう] 魔[ま] 手裏剣[しゅりけん]	Magic Shuriken	Fuma Shuriken	
-ライジングサン	ライジングサン	Rising Sun	Rising Sun	
-折り鶴	折り鶴[おりづる]	Oritsuru	Paper Crane	
-不倶戴天	不倶戴天[ふぐたいてん]	Conformer	Not All Support Heaven - Eternal Enemy	
-イエローメガホン	イエローメガホン	Yellow M-phone	Yellow Megaphone	
-グリーンメガホン	グリーンメガホン	Green M-phone	Green Megaphone	
-ブルーメガホン	ブルーメガホン	Blue M-phone	Blue Megaphone	
-レッドメガホン	レッドメガホン	Red M-phone	Red Megaphone	
-クリスタルメガホン	クリスタルメガホン	Crystal M-phone	Crystal Megaphone	
-ホワイトメガホン	ホワイトメガホン	White M-phone	White Megaphone	
-ブラックメガホン	ブラックメガホン	Black M-phone	Black Megaphone	
-シルバーメガホン	シルバーメガホン	Silver M-phone	Silver Megaphone	
-ゴールドメガホン	ゴールドメガホン	Gold M-phone	Gold Megaphone	
-法螺貝	法螺貝[ほらがい]	Trumpet Shell	Conch	
-突撃ラッパ	突撃[とつげき]ラッパ	Battle Trumpet	Assault Trumpet	
-スターライトホン	スターライトホン	Starlight Phone	Starlight Horn	
-マーベラスチアー	マーベラスチアー	HP Shout	Marvelous Cheer	
-クイックシルバー	クイックシルバー	Quicksilver	Quicksilver	
-スパス	スパス	Shotgun	SPAS	
-ランダル	ランダル	Shortbarrel	Randall	
-ライアット	ライアット	Lariat	Riot	
-ウィンチェスター	ウィンチェスター	Winchester	Winchester	
-ピースメーカー	ピースメーカー	Peacemaker	Peacemaker	
-バントライン	バントライン	Buntline	Buntline	
-ロングバレルＲ	ロングバレル Ｒ[あーる]	Long Barrel R	Long Barrel R	
-銀玉鉄砲	銀[ぎん] 玉[だま] 鉄砲[でっぽう]	Silver Rifle	BB Gun	
-スナイパーＣＲ	スナイパー ＣＲ[しーあーる]	Sniper CR	Sniper CR	
-ハイブロウＳＴ	ハイブロウ Ｓ[えす] Ｔ[てぃー]	Supershot ST	Highblow ST	
-アウトサイダー	アウトサイダー	Outsider	Outsider	
-デスペナルティ	デスペナルティ	Death Penalty	Death Penalty	
-スピア	スピア	Spear	Spear	
-スラッシュパイク	スラッシュパイク	Slash Lance	Slash Pike	
-トライデント	トライデント	Trident	Trident	
-ポールアックス	ポールアックス	Mast Ax	Poleaxe	
-パルチザン	パルチザン	Partisan	Partisan	
-蛇矛	蛇[じゃ] 矛[ほこ]	Viper Halberd	Snake Halberd	
-ジャベリン	ジャベリン	Javelin	Javelin	
-グローランス	グローランス	Grow Lance	Glow Lance	
-モップ	モップ	Mop	Mop	
-ドラグーンランス	ドラグーンランス	Dragoon Lance	Dragon Lance	
-青龍偃月刀	青龍[せいりゅう] 偃月刀[えんげつとう]	Scimitar	Seiryuu Scimitar	
-方天画戟	方[ほう] 天[てん] 画[が] 戟[げき]	Flayer	Fang Tian Hua Ji	
-ロンギヌス	ロンギヌス	Spirit Lance	Longinus	
-ビーナスゴスペル	ビーナスゴスペル	Venus Gospel	Venus Gospel	
-正宗	正宗[まさむね]	Masamune	Masamune	
-ブロンズバングル	ブロンズバングル	Bronze Bangle	Bronze Bangle	
-アイアンバングル	アイアンバングル	Iron Bangle	Iron Bangle	
-チタンバングル	チタンバングル	Titan Bangle	Titanium Bangle	
-ミスリルの腕輪	ミスリルの 腕輪[うでわ]	Mythril Armlet	Mithril Bracelet	
-カーボンバングル	カーボンバングル	Carbon Bangle	Carbon Bangle	
-銀の腕輪	銀[ぎん]の 腕輪[うでわ]	Silver Armlet	Silver Bracelet	
-金の腕輪	金[きん]の 腕輪[うでわ]	Gold Armlet	Golden Bracelet	
-ダイアバングル	ダイアバングル	Diamond Bangle	Diamond Bangle	
-クリスタルバングル	クリスタルバングル	Crystal Bangle	Crystal Bangle	
-プラチナバングル	プラチナバングル	Platinum Bangle	Platina Bangle	
-ルーンの腕輪	ルーンの 腕輪[うでわ]	Rune Armlet	Rune Bracelet	
-エジンコート	エジンコート	Edincoat	Agincourt	
-ウィザードブレス	ウィザードブレス	Wizard Bracelet	Wizard Brace	
-アダマンバングル	アダマンバングル	Adaman Bangle	Adaman Bangle	
-ギガースの腕輪	ギガースの 腕輪[うでわ]	Gigas Armlet	Gigas Bracelet	
-インペリアルガード	インペリアルガード	Imperial Guard	Imperial Guard	
-エイジスの腕輪	エイジスの 腕輪[うでわ]	Aegis Armlet	Aegis Bracelet	
-フォースブレス	フォースブレス	Fourth Bracelet	Force Bracelet	
-ウォーリアバングル	ウォーリアバングル	Warrior Bangle	Warrior Bangle	
-神羅安式防具	神[しん] 羅[ら] 安[あん] 式[しき] 防具[ぼうぐ]	Shinra Beta	Shinra Relaxed Type Defense Tool	
-神羅甲型防具改	神[しん] 羅[ら] 甲[こう] 型[がた] 防具[ぼうぐ] 改[かい]	Shinra Alpha	Improved Shinra Armored Defense Tool	
-フォウスロット	フォウスロット	Four Slots	Four Slot	
-烈火の腕輪	烈火[れっか]の 腕輪[うでわ]	Fire Armlet	Conflagrant Bracelet	
-極光の腕輪	極光[きょっこう]の 腕輪[うでわ]	Aurora Armlet	Aurora Bracelet	
-天雷の腕輪	天雷[てんらい]の 腕輪[うでわ]	Bolt Armlet	Thunder Bracelet	
-ドラゴンの腕輪	ドラゴンの 腕輪[うでわ]	Dragon Armlet	Dragon Bracelet	
-ミネルバブレス	ミネルバブレス	Minerva Band	Minerva Brace	
-エスコートガード	エスコートガード	Escort Guard	Escort Guard	
-ミスティール	ミスティール	Mystile	Mystère	
-ザイドリッツ	ザイドリッツ	Ziedrich	Seydlitz	
-高級腕時計	高級[こうきゅう] 腕時計[うでどけい]	Precious Watch	High-Quality Wristwatch	
-チョコボの腕輪	チョコボの 腕輪[うでわ]	Chocobracelet	Chocobo Bracelet	
-パワーリスト	パワーリスト	Power Wrist	Power Wrist	
-防弾チョッキ	防弾チョッキ[ぼうだんちょっき]	Protect Vest	Bulletproof Vest	
-イヤリング	イヤリング	Earring	Earring	
-タリスマン	タリスマン	Talisman	Talisman	
-チョコボのはね	チョコボのはね	Chocofeather	Chocobo Feather	
-お守り	お 守[まも]り	Amulet	Amulet	
-チャンピオンベルト	チャンピオンベルト	Champion Belt	Champion Belt	
-ポイズンリング	ポイズンリング	Poison Ring	Poison Ring	
-タフネスリング	タフネスリング	Tough Ring (Touph Ring)	Toughness Ring	
-サークレット	サークレット	Circlet	Circlet	
-星のペンダント	星[ほし]のペンダント	Star Pendant	Star Pendant	
-銀縁メガネ	銀縁[ぎんぶち]メガネ	Silver Glasses	Silver-Rimmed Glasses	
-ハチマキ	ハチマキ	Headband	Headband	
-フェアリーリング	フェアリーリング	Fairy Ring	Fairy Ring	
-ジュエルリング	ジュエルリング	Jem Ring	Jewel Ring	
-ホワイトケープ	ホワイトケープ	White Cape	White Cape	
-エルメスのくつ	エルメスのくつ	Sprint Shoes	Hermes Shoes	
-安らぎの指輪	安[やす]らぎの 指輪[ゆびわ]	Peace Ring	Tranquil Ring	
-リボン	リボン	Ribbon	Ribbon	
-炎の指輪	炎[ほのお]の 指輪[ゆびわ]	Fire Ring	Flame Ring	
-冷気の指輪	冷気[れいき]の 指輪[ゆびわ]	Ice Ring	Cold Ring	
-雷の指輪	雷[かみなり]の 指輪[ゆびわ]	Bolt Ring	Lightning Ring	
-テトラエレメンタル	テトラエレメンタル	Tetra Elemental	Tetra Elemental	
-セーフティビット	セーフティビット	Safety Bit	Safety Bit	
-怒りの指輪	怒[いか]りの 指輪[ゆびわ]	Fury Ring	Anger Ring	
-呪いの指輪	呪[のろ]いの 指輪[ゆびわ]	Curse Ring	Cursed Ring	
-守りの指輪	守[も]りの 指輪[ゆびわ]	Protect Ring	Protection Ring	
-タマのすず	タマのすず	Cat's Bell	Tama's Bell	
-リフレクトリング	リフレクトリング	Reflect Ring	Reflect Ring	
-水の指輪	水[みず]の 指輪[ゆびわ]	Water Ring	Water Ring	
-盗族の小手	盗[とう] 族[ぞく]の 小手[こて]	Sneak Glove	Thief's Bracer	
-ヒュプノクラウン	ヒュプノクラウン	HypnoCrown	Hypno-Crown	
-ポーション	ポーション	Potion	Potion	
-ハイポーション	ハイポーション	Hi-Potion	High Potion	
-エクスポーション	エクスポーション	X-Potion	X-Potion	
-エーテル	エーテル	Ether	Ether	
-エーテルターボ	エーテルターボ	Turbo Ether	Ether Turbo	
-エリクサー	エリクサー	Elixir	Elixir	
-ラストエリクサー	ラストエリクサー	Megalixir	Last Elixir	
-フェニックスの尾	フェニックスの 尾[お]	Phoenix Down	Phoenix Tail	
-毒消し	毒消[どくけ]し	Antidote	Antidote	
-目薬	目薬[めぐすり]	Eye drop	Eye Drops	
-金の針	金[きん]の 針[はり]	Soft	Golden Needle	
-乙女のキッス	乙女[おとめ]のキッス	Maiden's Kiss	Maiden's Kiss	
-うちでのこづち	うちでのこづち	Cornucopia	Lucky Mallet	
-やまびこえんまく	やまびこえんまく	Echo Screen	Echo Smokescreen	
-興奮剤	興奮剤[こうふんざい]	Hyper	Stimulant	
-鎮静剤	鎮静剤[ちんせいざい]	Tranquilizer	Tranquilizer	
-万能薬	万能薬[ばんのうやく]	Remedy	Panacea	
-テント	テント	Tent	Tent	
-セーブクリスタル	セーブクリスタル	Save Crystal	Save Crystal	
-けむりだま	けむりだま	Smoke Bomb	Smoke Bomb	
-光のカーテン	光[ひかり]のカーテン	Light Curtain	Light Curtain	
-月のカーテン	月[つき]のカーテン	Lunar Curtain	Lunar Curtain	
-反射ミラー	反射[はんしゃ]ミラー	Mirror	Reflective Mirror	
-スピードドリンク	スピードドリンク	Speed Drink	Speed Drink	
-英雄の薬	英雄[えいゆう]の 薬[くすり]	Hero Drink	Hero Medicine	
-ワクチン	ワクチン	Vaccine	Vaccine	
-聖なるトーチ	聖[せい]なるトーチ	Holy Torch	Holy Torch	
-手榴弾	<div>手榴弾[しゅりゅうだん]<br></div>	Grenade	Hand Grenade	
-ボムのかけら	ボムのかけら	Shrapnel	Bomb Fragment	
-ボムの右腕	ボムの 右腕[みぎうで]	Right arm	Bomb's Right Arm	
-金の砂時計	金[きん]の 砂時計[すなどけい]	Hourglass	Golden Hourglass	
-死神のキッス	死神[しにがみ]のキッス	Kiss of Death	Grim Reaper's Kiss	
-クモの糸	クモの糸[くものいと]	Spider Web	Spider Thread	
-ドリームパウダー	ドリームパウダー	Dream Powder	Dream Powder	
-サイレントマスク	サイレントマスク	Mute Mask	Silent Mask	
-戦いのゴング	戦[たたか]いのゴング	War Gong	Battle Gong	
-惑わし草	惑[まど]わし 草[そう]	Loco weed	Delusion Grass	
-火龍の牙	火[か] 龍[りゅう]の 牙[きば]	Fire Fang	Firedrake Fang	
-火とん	火[か]とん	Fire Veil	Unleashed Fire	
-南極の風	南極[なんきょく]の 風[かぜ]	Antarctic Wind	Antarctic Wind	
-冷気の結晶	冷気[れいき]の 結晶[けっしょう]	Ice Crystal	Cold Crystal	
-電撃鳥の角	電撃[でんげき] 鳥[ちょう]の 角[つの]	Bolt Plume	Shock Bird Horn	
-雷迅	雷迅[らいじん]	Swift Bolt	Swift Thunder	
-大地のドラム	大地[だいち]のドラム	Earth Drum	Earth Drum	
-大地のハンマー	大地[だいち]のハンマー	Earth Mallet	Earth Hammer	
-有害物質	有害物質[ゆうがいぶっしつ]	Deadly Waste	Hazardous Material	
-モルボルの触手	モルボルの 触手[しょくしゅ]	M-Tentacles	Morbol Tentacle	
-星の砂	星[ほし]の 砂[すな]	Stardust	Stardust	
-バンパイアの牙	バンパイアの 牙[きば]	Vampire Fang	Vampire Fang	
-ゴーストハンド	ゴーストハンド	Ghost Hand	Ghost Hand	
-バジリスクの爪	バジリスクの 爪[つめ]	Vagyrisk Claw	Basilisk Claw	
-モズのはやにえ	モズのはやにえ	Impaler	Shrike's Prey	
-チヂマール	チヂマール	Shrivel	Miniaturize	
-ファイアカクテル	ファイアカクテル	Molotov	Fire Cocktail	
-巨鳥のハネ	巨鳥[きょちょう]のハネ	Bird Wing	Giant Bird Feather	
-海龍のウロコ	海[かい] 龍[りゅう]のウロコ	Dragon Scales	Sea Dragon Scale	
-Ｓマイン	Ｓ[えす]マイン	S-mine	S Mine	
-２０３ミリ砲弾	２０３ミリ 砲弾[ほうだん]	8-inch Cannon (8inch Cannon)	203mm Cannon Shell	
-重力球	重力[じゅうりょく] 球[きゅう]	Graviball	Gravity Ball	
-時空弾	時空[じくう] 弾[だん]	T/S Bomb	Spacetime Bomb	
-イカスミ	イカスミ	Ink	Squid Ink	
-しびれ針	しびれ 針[ばり]	Dazers	Numbness Needle	
-双龍の牙	双[そう] 龍[りゅう]の 牙[きば]	Dragon Fang	Twin Dragon Fang	
-魔女の大釜	魔女[まじょ]の 大釜[おおがま]	Cauldron	Witch's Cauldron	
-ギザールの野菜	ギザールの 野菜[やさい]	Gysahl Greens	Gysahl Vegetable	
-クラッカの野菜	クラッカの 野菜[やさい]	Krakka Greens	Karaka Vegetable	
-タンタルの野菜	タンタルの 野菜[やさい]	Tantal Greens	Tantal Vegetable	
-パサーナの野菜	パサーナの 野菜[やさい]	Pahsana Greens	Pasana Vegetable	
-クリーエの野菜	クリーエの 野菜[やさい]	Curiel Greens	Curie Vegetable	
-レイゲンの野菜	レイゲンの 野菜[やさい]	Reagan Greens	Reigen Vegetable	
-ミメットの野菜	ミメットの 野菜[やさい]	Mimett Greens	Mimet Vegetable	
-シルキスの野菜	シルキスの 野菜[やさい]	Sylkis Greens	Silkis Vegetable	
-ピピオの実	ピピオの 実[み]	Pepio Nut	Pipio Fruit	
-ルチルの実	ルチルの 実[み]	Luchile Nut	Rutile Fruit	
-サラハの実	サラハの 実[み]	Saraha Nut	Saraha Fruit	
-ラサンの実	ラサンの 実[み]	Lasan Nut	Lasan Fruit	
-パラムの実	パラムの 実[み]	Pram Nut	Param Fruit	
-ポロフの実	ポロフの 実[み]	Porov Nut	Polov Fruit	
-カラブの実	カラブの 実[み]	Carob Nut	Carob Fruit	
-ゼイオの実	ゼイオの 実[み]	Zeio Nut	Zeio Fruit	
-パワーアップ	パワーアップ	Power Source	Power Up	
-ガードアップ	ガードアップ	Guard Source	Guard Up	
-マジックアップ	マジックアップ	Magic Source	Magic Up	
-マインドアップ	マインドアップ	Mind Source	Mind Up	
-スピードアップ	スピードアップ	Speed Source	Speed Up	
-ラックアップ	ラックアップ	Luck Source	Luck Up	
-１／３５神羅兵	１／３５ 神[しん] 羅[ら] 兵[へい]	1/35 soldier	1/35 Shinra Soldier	
-ジンクバッテリー	ジンクバッテリー	Battery	Zinc Battery	
-ポケットティッシュ	ポケットティッシュ	Tissue	Pocket Tissue	
-超合金スイーパー	超合金[ちょうごうきん]スイーパー	Super Sweeper	Super-Alloy Sweeper	
-マサムネブレード	マサムネブレード	Masamune Blade	Masamune Blade	
-ディオ激闘日記	ディオ 激闘[げきとう] 日記[にっき]	Combat Diary	Dio's Fierce Combat Diary	
-サイン色紙	サイン 色紙[しきし]	Autograph	Signed Colored Paper	
-人生バクチ打ち	人生[じんせい]バクチ 打[う]ち	Gambler	Gambler's Life	
-アースハープ	アースハープ	Earth Harp	Earth Harp	
-デザートローズ	デザートローズ	Desert Rose	Desert Rose	
-ガイドブック	ガイドブック	Guide Book	Guidebook	
-コットンのドレス	コットンのドレス	Cotton Dress	Cotton Dress	
-サテンのドレス	サテンのドレス	Satin Dress	Satin Dress	
-シルクのドレス	シルクのドレス	Silk Dress	Silk Dress	
-クセゲのかつら	クセゲのかつら	Wig	Frizzy Wig	
-チャバツのかつら	チャバツのかつら	Dyed Wig	Brown Wig	
-ブロンドのかつら	ブロンドのかつら	Blonde Wig	Blonde Wig	
-ガラスのティアラ	ガラスのティアラ	Glass Tiara	Glass Tiara	
-ルビーのティアラ	ルビーのティアラ	Ruby Tiara	Ruby Tiara	
-ダイヤのティアラ	ダイヤのティアラ	Diamond Tiara	Diamond Tiara	
-コロン	コロン	Cologne	Cologne	
-フラワーコロン	フラワーコロン	Flower cologne	Flower Cologne	
-セクシーコロン	セクシーコロン	Sexy Cologne	Sexy Cologne	
-ランジェリー	ランジェリー	Lingerie	Lingerie	
-ビキニパンツ	ビキニパンツ	Bikini briefs	Bikini Underpants	
-会員カード	会員[かいいん]カード	Member's Card	Membership Card	
-薬屋商品クーポン	薬屋[くすりや] 商品[しょうひん]クーポン	Pharmacy Coupons	Pharmacy Merchandise Coupon	
-消毒薬	消毒薬[しょうどくやく]	Disinfectant	Disinfectant	
-消臭薬	消臭[しょうしゅう] 薬[やく]	Deodorant	Deodorant	
-消化薬	消化[しょうか] 薬[やく]	Digestive	Digestive	
-カードキー６０～６８	カードキー６０～６８	Keycard 60~68	Card Key 60~68	
-ミッドガルパーツ	ミッドガルパーツ	Midgar parts	Midgar Parts	
-Ａ、Ｂ、Ｃクーポン	Ａ[えい]、 Ｂ[びー]、 Ｃ[しー]クーポン	A, B, C Coupon	A, B, C Coupon	
-ミスリル	ミスリル	Mythril	Mithril	
-ゴールドチケット	ゴールドチケット	Gold Ticket	Gold Ticket	
-地下室の鍵	地下室[ちかしつ]の 鍵[かぎ]	Basement Key	Cellar Key	
-キーストーン	キーストーン	Keystone	Keystone	
-黒マテリア	黒[くろ]マテリア	Black Materia	Black Materia	
-ルナハープ	ルナハープ	Lunar Harp	Lunar Harp	
-水神様のうろこ	水神[みずがみ] 様[さま]のうろこ	Leviathan Scales	Water God's Scales	
-大氷河の地図	大[だい] 氷河[ひょうが]の 地図[ちず]	Glacier Map	Great Glacier Map	
-スノーボード	スノーボード	Snowboard	Snowboard	
-ヒュージマテリア	ヒュージマテリア	Huge Materia	Huge Materia	
-古代種の鍵	古代[こだい] 種[しゅ]の 鍵[かぎ]	Key to Ancients	Ancients' Key	
-５番街ゲートの鍵	５ 番[ばん] 街[がい]ゲートの 鍵[かぎ]	Key to Sector 5	District 5 Gate Key	
-ファーストレイ	ファーストレイ	1st Ray	First Ray	
-トゥーサイド	トゥーサイド	2-Faced	Two Side	
-ヘクトアイズ	ヘクトアイズ	8 eye	Hecto Eyes	
-アクロフィーズ	アクロフィーズ	Acrophies	Acrophies	
-アダマンタイマイ	アダマンタイマイ	Adamantaimai	Adamantaimai	
-空中兵	空中[くうちゅう] 兵[へい]	Aero Combatant	Sky Trooper	
-アーリマン	アーリマン	Allemagne	Ahriman	
-エンシャントドラゴン	エンシャントドラゴン	Ancient Dragon	Ancient Dragon	
-アークドラゴン	アークドラゴン	Ark Dragon	Archdragon	
-フルアーマーゴーレム	フルアーマーゴーレム	Armored Golem	Full Armor Golem	
-親衛隊員	親衛隊[しんえいたい] 員[いん]	Attack Squad	Elite Guard Member	
-イビルラップ	イビルラップ	Bad Rap	Evil Wrap	
-イビルラップサンプル	イビルラップサンプル	Bad Rap Sample	Evil Wrap Sample	
-バグナドラナ	バグナドラナ	Bagnadrana	Bagnadrana	
-バジリスク	バジリスク	Bagrisk	Basilisk	
-ババヴェラウミュ	ババヴェラウミュ	Bahba Velamyu	Baba Velamyu	
-バンダースナッチ	バンダースナッチ	Bandersnatch	Bandersnatch	
-バンディット	バンディット	Bandit	Bandit	
-バッテリーキャップ	バッテリーキャップ	Battery Cap	Battery Cap	
-ビーチプラグ	ビーチプラグ	Beachplug	Beach Plug	
-ベヒーモス	ベヒーモス	Behemoth	Behemoth	
-怪奇虫	怪奇[かいき] 虫[ちゅう]	Bizarre Bug	Bizarre Bug	
-ブラックバット	ブラックバット	Black Bat	Black Bat	
-スウェルフロート	スウェルフロート	Bloatfloat	Swell Float	
-ブラッドテイスト	ブラッドテイスト	Blood Taste	Blood Taste	
-ブルードラゴン	ブルードラゴン	Blue Dragon	Blue Dragon	
-プアゾキュート	プアゾキュート	Blugu	Poissocute	
-ボム	ボム	Bomb	Bomb	
-バウンドファット	バウンドファット	Boundfat	Bound Fat	
-ブレインポッド	ブレインポッド	Brain Pod	Brain Pod	
-ブルモーター	ブルモーター	Bullmotor	Bull Motor	
-サポテンダー	サポテンダー	Cactuar	Sapotender	
-サボテンダー	サボテンダー	Cactuer	Sabotender	
-キャッパワイヤ	キャッパワイヤ	Capparwire	Capper Wire	
-隊長	隊長[たいちょう]	Captain	Captain	
-カスタネッツ	カスタネッツ	Castanets	Castanets	
-シェザーシザー	シェザーシザー	Ceasar	Caesar Scissor	
-チョコボ	チョコボ	Chocobo	Chocobo	
-クリストファー	クリストファー	Christopher	Christopher	
-チュースタンク	チュースタンク	Chuse Tank	Chews Tank	
-ＣＭＤ.グランドホーン	ＣＭＤ.グランドホーン	CMD.Grand Horn	CMD. Grand Horn	
-コカトリス	コカトリス	Cokatolis	Cockatrice	
-コルネオの部下	コルネオの 部下[ぶか]	Corneo's Lackey	Corneo's Subordinate	
-コルベット	コルベット	Corvette	Corvette	
-クロウラー	クロウラー	Crawler	Crawler	
-クレイジーソウ	クレイジーソウ	Crazy Saw	Crazy Saw	
-クリプシェイ	クリプシェイ	Cripshay	Cripshay	
-クロムウェル	クロムウェル	Cromwell	Cromwell	
-クラウンランス	クラウンランス	Crown Lance	Crown Lance	
-クリセイルス	クリセイルス	Crysales	Chrysalis	
-クアール	クアール	Cuahl	Coeurl	
-スイーパーカスタム	スイーパーカスタム	Custom Sweeper	Sweeper Custom	
-ダークドラゴン	ダークドラゴン	Dark Dragon	Dark Dragon	
-デスクロー	デスクロー	Death Claw	Death Claw	
-デスディーラー	デスディーラー	Death Dealer	Death Dealer	
-デスマシン	デスマシン	Death Machine	Death Machine	
-ディーングロウ	ディーングロウ	Deenglow	Deenglow	
-デザートサハギン	デザートサハギン	Desert Sahagin	Desert Sahuagin	
-デビルライド	デビルライド	Devil Ride	Devil Rider	
-ディアブロ	ディアブロ	Diablo	Diablo	
-ダイバーネスト	ダイバーネスト	Diver Nest	Diver Nest	
-ドァブゥル	ドァブゥル	Doorbull	Doubull	
-ファニーフェイス	ファニーフェイス	Dorky Face	Funny Face	
-ドラゴン	ドラゴン	Dragon	Dragon	
-ドラゴンライダー	ドラゴンライダー	Dragon Rider	Dragon Rider	
-ドラゴンゾンビー	ドラゴンゾンビー	Dragon Zombie	Dragon Zombie	
-デュアルホーン	デュアルホーン	Dual Horn	Dual Horn	
-イーグルガン	イーグルガン	Eagle Gun	Eagle Gun	
-刃頭獣	刃[は] 頭[あたま] 獣[じゅう]	Edgehead	Blade-Headed Animal	
-エレファダンク	エレファダンク	Elfadunk	Elephadunk	
-エリゴル	エリゴル	Eligor	Eligor	
-エピオルニス	エピオルニス	Epiolnis	Aepyornis	
-イビルヘッド	イビルヘッド	Evilhead	Evil Head	
-フラップビート	フラップビート	Flapbeat	Flap Beat	
-フラワープラング	フラワープラング	Flower Prong	Flower Prong	
-フォーミュラ	フォーミュラ	Formula	Formula	
-フォールランダ	フォールランダ	Foulander	Foulander	
-フローズンネイル	フローズンネイル	Frozen Nail	Frozen Nail	
-ふせや　かずまさクン	ふせや　かずまさクン	N/A	Kazumasa Fuseya	
-バジガンディ	バジガンディ	Gagighandi	Basigandi	
-ガーゴイル	ガーゴイル	Gargoyle	Gargoyle	
-ガルーダ	ガルーダ	Garuda	Garuda	
-ガスダクター	ガスダクター	Gas Ducter	Gas Ducter	
-ギロフェルゴ	ギロフェルゴ	Ghirofelgo	Guillofellgo	
-ゴースト	ゴースト	Ghost	Ghost	
-ゴーストシップ	ゴーストシップ	Ghost Ship	Ghost Ship	
-ギ族の亡霊	ギ 族[ぞく]の 亡霊[ぼうれい]	Gi Spector	Gi tribe Apparition	
-ギガース	ギガース	Gigas	Gigas	
-ジギィ	ジギィ	Gighee	Ziggy	
-ゴブリン	ゴブリン	Goblin	Goblin	
-ゴーレム	ゴーレム	Golem	Golem	
-グランドホーン	グランドホーン	Grand Horn	Grand Horn	
-グランガラン	グランガラン	Grangalan	Grangalan	
-コグランガラン	コグランガラン	Grangalan Jr.	Grangalan's Child	
-マゴグランガラン	マゴグランガラン	Grangalan Jr. Jr.	Grangalan's Grandchild	
-グラシュトライク	グラシュトライク	Grashtrike	Grashtrike	
-グレムリン	グレムリン	Gremlin	Gremlin	
-グレネード	グレネード	Grenade	Grenade	
-擲弾兵	擲弾[てきだん] 兵[へい]	Grenade Combatant	Grenadier	
-グリフォン	グリフォン	Griffin	Griffon	
-グリムガード	グリムガード	Grimguard	Grim Guard	
-グロスパンツァー・大砲塔	グロスパンツァー・ 大[たい] 砲塔[ほうとう]	Grosspanzer∙Big	Grosspanzer: Big Gun Turret	
-グロスパンツァー・車体	グロスパンツァー・ 車体[しゃたい]	Grosspanzer∙Mobile	Grosspanzer: Frame	
-グロスパンツァー・小砲塔	グロスパンツァー・ 小[しょう] 砲塔[ほうとう]	Grosspanzer∙Small	Grosspanzer: Small Gun Turret	
-戦闘員	戦闘員[せんとういん]	Grunt	Combatant	
-ガードハウンド	ガードハウンド	Guard Hound	Guard Hound	
-ガードシステム	ガードシステム	Guard System	Guard System	
-ガーディアン	ガーディアン	Guardian	Guardian	
-ガンキャリアー	ガンキャリアー	Gun Carrier	Gun Carrier	
-デジョンハンマ	デジョンハンマ	Hammer Blaster	Dezone Hammer	
-ハードアタッカー	ハードアタッカー	Hard Attacker	Hard Attacker	
-キマイラ	キマイラ	Harpy	Chimera	
-ネックハンター	ネックハンター	Head Hunter	Neck Hunter	
-ヘッドボンバー	ヘッドボンバー	Headbomber	Head Bomber	
-ヘビータンク	ヘビータンク	Heavy Tank	Heavy Tank	
-ヘッジホッグパイ	ヘッジホッグパイ	Hedgehog Pie	Hedgehog Pie	
-ニーズへッグ	ニーズへッグ	Heg	Nidhogg	
-ヘルハウス	ヘルハウス	Hell House	Hell House	
-ヘルハーレーＶＲ２	ヘルハーレーＶＲ２	Hell Rider VR2	Hell Harley VR2	
-ヒポグリフ	ヒポグリフ	Hippogriff	Hippogriff	
-オチュー	オチュー	Ho-chu	Otyugh	
-ハングリー	ハングリー	Hungry	Hungry	
-アイスゴーレム	アイスゴーレム	Ice Golem	Ice Golem	
-つらら	つらら	Icicle	Icicle	
-鉄巨人	鉄[てつ] 巨人[きょじん]	Iron Man	Iron Giant	
-アイロネート	アイロネート	Ironite	Ironet	
-ジェジュジェミ	ジェジュジェミ	Jayjujayme	Jayjujayme	
-ジェミニスミー	ジェミニスミー	Jemnezmy	Geminismi	
-ジャッジ	ジャッジ	Jersey	Judge	
-ジョーカー	ジョーカー	Joker	Joker	
-ジャンピング	ジャンピング	Jumping	Jumping	
-カームファング	カームファング	Kalm Fang	Kalm Fang	
-ゲルシュメルゼ	ゲルシュメルゼ	Kelzmelzer	Gel Schmelze	
-キュルビヌュ	キュルビヌュ	Killbin	Curubinew	
-インセクトキマラ	インセクトキマラ	Kimara Bug	Insect Chimera	
-キングベヒーモス	キングベヒーモス	King Behemoth	King Behemoth	
-キュビルデュヌス	キュビルデュヌス	Kyuvilduns	Kuvildunus	
-ランドウォーム	ランドウォーム	Land Worm	Land Worm	
-レーザーキャノン	レーザーキャノン	Laser Cannon	Laser Cannon	
-レッサーロプロス	レッサーロプロス	Lessaloploth	Lesser Ropross	
-レブリコン	レブリコン	Levrikon	Levrikon	
-マシンガン	マシンガン	Machine Gun	Machine Gun	
-マドゥジュ	マドゥジュ	Madouge	Madouge	
-マジックポット	マジックポット	Magic Pot	Magic Pot	
-マグナード	マグナード	Magnade	Magnade	
-モルボル	モルボル	Malboro	Morbol	
-モールダンサー	モールダンサー	Malldancer	Maul Dancer	
-マンドラゴラ	マンドラゴラ	Mandragora	Mandragora	
-マンホール	マンホール	Manhole	Manhole	
-海兵隊員	海兵隊[かいへいたい] 員[いん]	Marine	Marine	
-マスタートンベリ	マスタートンベリ	Master Tonberry	Master Tonberry	
-まつむら　やすしクン	まつむら　やすしクン	N/A	Yasushi Matsumara	
-マキシマムキマイラ	マキシマムキマイラ	Maximum Kimaira	Maximum Chimera	
-ミドガルズオルム	ミドガルズオルム	Midgar Zolom	Midgardsormr	
-強化戦闘員	強化[きょうか] 戦闘員[せんとういん]	Mighty Grunt	Strengthened Combatant	
-ミラージュ	ミラージュ	Mirage	Mirage	
-モノドライブ	モノドライブ	Mono Drive	Mono Drive	
-モススラッシャー	モススラッシャー	Moth Slasher	Moss Slasher	
-ムーバー	ムーバー	Mover	Mover	
-警備兵	警備兵[けいびへい]	MP	Guard	
-ムー	ムー	Mu	Mu	
-謎のニンジャ	謎[なぞ]のニンジャ	Mystery Ninja	Mysterious Ninja	
-ニードルキッス	ニードルキッス	Needle Kiss	Needle Kiss	
-ネロスフェロス	ネロスフェロス	Nerosuferoth	Nerospheroth	
-ニブルウルフ	ニブルウルフ	Nibel Wolf	Nifl Wolf	
-パラサイト	パラサイト	Parasite	Parasite	
-ポーランサリタ	ポーランサリタ	Pollensalta	Pouran Salita	
-プドゥレア	プドゥレア	Poodler	Poderare	
-プドゥレアサンプル	プドゥレアサンプル	Poodler Sample	Poderare Sample	
-プロトマシンガン	プロトマシンガン	Proto Machinegun	Proto Machine Gun	
-プラウラー	プラウラー	Prowler	Prowler	
-ピラミッド	ピラミッド	Pyramid	Pyramid	
-クイックマシンガン	クイックマシンガン	Quick Machine Gun	Quick Machine Gun	
-足斬草	足[あし] 斬[き] 草[そう]	Razor Weed	Foot-Cutting Grass	
-リルフサック	リルフサック	Rilfsak	Rilfsak	
-ミサイルランチャー	ミサイルランチャー	Rocket Launcher	Missile Launcher	
-カノンルーレット	カノンルーレット	Roulette Cannon	Cannon Roulette	
-サハギン	サハギン	Sahagin	Sahuagin	
-サンプル：Ｈ０５１２‐ＯＰＴ	サンプル： Ｈ[えいち]０５１２‐ＯＰＴ	Sample:H0512-opt	Sample: H0512-OPT	
-シザース	シザース	Scissors	Scissors	
-ソッチ	ソッチ	Scotch	Sotci	
-スクリーマー	スクリーマー	Screamer	Screamer	
-サーチアイ	サーチアイ	Scrutin Eye	Search Eye	
-スカルプチュア	スカルプチュア	Sculpture	Sculpture	
-シーウォーム	シーウォーム	Sea Worm	Sea Worm	
-サーチャクラウン	サーチャクラウン	Search Crown	Searcher Crown	
-上級戦闘員	上級[じょうきゅう] 戦闘員[せんとういん]	Senior Grunt	Senior Combatant	
-サーペント	サーペント	Serpent	Serpent	
-シャドウメーカー	シャドウメーカー	Shadow Maker	Shadow Maker	
-シュレッド	シュレッド	Shred	Shred	
-キキキアチョ	キキキアチョ	Skeeskee	Kikiki Bird	
-スラローム	スラローム	Slalom	Slalom	
-スラップス	スラップス	Slaps	Slaps	
-スモッグファクト	スモッグファクト	Smogger	Smog Factory	
-ステルシーステップ	ステルシーステップ	Sneaky Step	Stealthy Step	
-スノウ	スノウ	Snow	Snow	
-ソルジャー：１ＳＴ	ソルジャー：１ＳＴ	SOLDIER:1st	Soldier: 1ST	
-ソルジャー：２ＮＤ	ソルジャー：２ＮＤ	SOLDIER:2nd	Soldier: 2ND	
-ソルジャー：３ＲＤ	ソルジャー：３ Ｒ[らうんど] Ｄ[でぃー]	SOLDIER:3rd	Soldier: 3RD	
-スピードサウンド	スピードサウンド	Sonic Speed	Speed Sound	
-ソウルファイア	ソウルファイア	Soul Fire	Soul Fire	
-特殊戦闘員	特殊[とくしゅ] 戦闘員[せんとういん]	Special Combatant	Special Combatant	
-スペンサー	スペンサー	Spencer	Spenser	
-スパイラル	スパイラル	Spiral	Spiral	
-スティルヴ	スティルヴ	Stilva	Stilve	
-スティンガー	スティンガー	Stinger	Stinger	
-神羅潜水兵	神[しん] 羅[ら] 潜水[せんすい] 兵[へい]	Submarine Crew	Shinra Submariner	
-スイーパー	スイーパー	Sweeper	Sweeper	
-ソードダンス	ソードダンス	Sword Dance	Sword Dance	
-尾跳飛	尾跳飛[びちょうひ]	Tail Vault	Tail Leap	
-雷神鳥	雷神[らいじん] 鳥[ちょう]	Thunderbird	Raijin Bird	
-トーンアドゥ	トーンアドゥ	Tonadu	Tornade	
-トンベリ	トンベリ	Tonberry	Tonberry	
-タッチミー	タッチミー	Touch Me	Touch Me	
-ポイズンフロッグ	ポイズンフロッグ	Toxic Frog	Poison Frog	
-トリックプレイ	トリックプレイ	Trickplay	Trick Prey	
-ダブルブレイン	ダブルブレイン	Twin Brain	Double Brain	
-アンダーリザード	アンダーリザード	Under Lizard	Under Lizard	
-海底警備兵	海底[かいてい] 警備兵[けいびへい]	Underwater MP	Seabed Guard	
-正体不明	正体不明[しょうたいふめい]	Unknown	Form Unknown	
-正体不明２	正体不明[しょうたいふめい]２	Unknown 2	Form Unknown 2	
-正体不明３	正体不明[しょうたいふめい]３	Unknown 3	Form Unknown 3	
-バルロン	バルロン	Valron	Balron	
-ヴァギドポリス	ヴァギドポリス	Vargid Police	Vagidopolis	
-ベルチャータスク	ベルチャータスク	Velcher Task	Belcher Task	
-ヴァイス	ヴァイス	Vice	Vice	
-ブラキオレイドス	ブラキオレイドス	Vlakorados	Brachioraidus	
-警告板	警告[けいこく] 板[ばん]	Warning Board	Warning Board	
-水球	水球[すいきゅう]	Waterpolo	Water Ball	
-ホウルイーター	ホウルイーター	Whole Eater	Hole Eater	
-ウィンドウィング	ウィンドウィング	Wind Wing	Wind Wing	
-ウルフラマイター	ウルフラマイター	Wolfmeister	Wolfraimiter	
-超級怒龍砲	超[ちょう] 級[きゅう] 怒[ど] 龍[りゅう] 砲[ほう]	XCannon	Transultimate Angry Dragon Cannon	
-ヤン	ヤン	Yang	Yang	
-イン	イン	Ying	Yin	
-ゼムゼレット	ゼムゼレット	Zemzelett	Zemzelett	
-ゼネネ	ゼネネ	Zenene	Zenene	
-ゾロカルター	ゾロカルター	Zolokalter	Zolokalter	
-ズー	ズー	Zuu	Zuu	
-エアバスター	エアバスター	Air Buster	Air Buster	
-アプス	アプス	Aps	Apsu	
-リバース・セフィロス	リバース・セフィロス	Bizarro∙Sephiroth	Rebirth Sephiroth	
-ボトムスウェル	ボトムスウェル	Bottomswell	Bottomswell	
-キャリーアーマー	キャリーアーマー	Carry Armor	Carry Armor	
-チェホフ	チェホフ	Chekov	Chekhov	
-ダークネイション	ダークネイション	Dark Nation	Dark Nation	
-デモンズゲイト	デモンズゲイト	Demons Gate	Demon's Gate	
-ダイヤウェポン	ダイヤウェポン	Diamond Weapon	Diamond Weapon	
-ダイン	ダイン	Dyne	Dyne	
-エメラルドウェポン	エメラルドウェポン	Emerald Weapon	Emerald Weapon	
-目	目[め]	Eye	Eye	
-ギ・ナタタク	ギ・ナタタク	Gi Nattak	Gi Natatak	
-ゴドー	ゴドー	Godo	Godot	
-ゴーリキー	ゴーリキー	Gorkii	Gorky	
-ガードスコーピオン	ガードスコーピオン	Guard Scorpion	Guard Scorpion	
-ヘリガンナー	ヘリガンナー	Heli Gunner	Heli Gunner	
-ヘレティック宝条	ヘレティック 宝[たから] 条[じょう]	Helletic Hojo	Heretic Hojo	
-宝条	宝[たから] 条[じょう]	Hojo	Hojo	
-ハンドレッドガンナー	ハンドレッドガンナー	Hundred Gunner	Hundred Gunner	
-ジャマーアーマー	ジャマーアーマー	Jamar Armor	Jammer Armor	
-ジェノバ・ＢＩＲＴＨ	ジェノバ・ＢＩＲＴＨ	Jenova∙BIRTH	Jenova: BIRTH	
-ジェノバ・ＬＩＦＥ	ジェノバ・ＬＩＦＥ	Jenova∙LIFE	Jenova: LIFE	
-ジェノバ・ＤＥＡＴＨ	ジェノバ・ＤＥＡＴＨ	Jenova∙DEATH	Jenova: DEATH	
-ジェノバ・ＳＹＮＴＨＥＳＩＳ	ジェノバ・ＳＹＮＴＨＥＳＩＳ	Jenova∙SYNTHESIS	Jenova: SYNTHESIS	
-左腕	左[ひだり] 腕[うで]	Left Arm	Left Arm	
-極限生命体宝条ＮＡ	極限[きょくげん] 生命体[せいめいたい] 宝[ほう] 条[じょう] ＮＡ	Lifeform-Hojo N	Extreme Lifeform Hojo NA	
-ロストナンバー	ロストナンバー	Lost Number	Lost Number	
-マテリアキーパー	マテリアキーパー	Materia Keeper	Materia Keeper	
-モーターボール	モーターボール	Motor Ball	Motorball	
-パルマー	パルマー	Palmer	Palmer	
-プラウド・クラッド	プラウド・クラッド	Proud Clod	Proudclad	
-ラプス	ラプス	Rapps	Rapsu	
-レッドドラゴン	レッドドラゴン	Red Dragon	Red Dragon	
-右腕	右[みぎ] 腕[うで]	Right Arm	Right Arm	
-ルビーウェポン	ルビーウェポン	Ruby Weapon	Ruby Weapon	
-触手	触手[しょくしゅ]	Ruby's Tentacle	Tentacle	
-ルーファウス	ルーファウス	Rufus	Rufus	
-サンプル：Ｈ０５１２	サンプル： Ｈ[えいち]０５１２	Sample:H0512	Sample: H0512	
-セーファ・セフィロス	セーファ・セフィロス	Safer∙Sephiroth	Sepher Sephiroth	
-ツインヘッド	ツインヘッド	Schizo	Twinhead	
-セフィロス	セフィロス	Sephiroth	Sephiroth	
-シェイク	シェイク	Shake	Shake	
-スタニフ	スタニフ	Staniv	Staniv	
-タークス: イリーナ	タークス:イリーナ	Turks:Elena	Turks: Irena	
-タークス: レノ	タークス:レノ	Turks:Reno	Turks: Reno	
-タークス: ルード	タークス:ルード	Turks:Rude	Turks: Rude	
-？？？	？？？	???	???	
-怪しい針	怪[あや]しい 針[はり]	? Needle	Suspicious Needle	
-ハンドレッドニードル	ハンドレッドニードル	100 Needles	100 Needles	
-はりせんぼん	はりせんぼん	1000 Needles	1000 Needles	
-２段アタック	２ 段[だん]アタック	2-stage Attack	Double Attack	
-ＡＢ砲	ＡＢ[えいびー] 砲[ほう]	AB Cannon	AB Cannon	
-異常ブレス	異常[いじょう]ブレス	Abnormal Breath	Abnormality Breath	
-ステータス異常弾	ステータス 異常[いじょう] 弾[だん]	Abnormal Shell	Status Abnormality Shell	
-吸収	吸収[きゅうしゅう]	Absorb	Absorb	
-アシッドシャワー	アシッドシャワー	Acid Rain	Acid Shower	
-アドレナリン	アドレナリン	Adrenaline	Adrenaline	
-エアロガ	エアロガ	Aero3	Aeroga	
-エアボンバー	エアボンバー	Air Bomber	Air Bomber	
-エメラルドビッグバン	エメラルドビッグバン	Aire Tam Storm	Emerald Big Bang	
-角突き	角[つの] 突[つ]き	Angle Punch	Horn Thrust	
-アームアタック	アームアタック	Arm Attack	Arm Attack	
-アームキヤッチ	アームキヤッチ	Arm Grab	Arm Catch	
-アームパンチ	アームパンチ	Arm Punch	Arm Punch	
-アスピル	アスピル	Aspil	Aspil	
-アトミックレイ	アトミックレイ	Atomic Ray	Atomic Ray	
-オーロラフェンス	オーロラフェンス	Aurora Fence	Aurora Fence	
-木の葉乱舞	木の葉[このは] 乱舞[らんぶ]	Autumn Leaves	Wild Leaf Dance	
-副砲	副[ふく] 砲[ほう]	Aux Artillery	Auxiliary Cannon	
-雪崩	雪崩[なだれ]	Avalanche	Avalanche	
-ののしる	ののしる	Bad mouth	Insult	
-暴れる	暴[あば]れる	Ballistic	Rage	
-クチバシ	クチバシ	Beak	Beak	
-ビームキャノン	ビームキャノン	Beam Cannon	Beam Cannon	
-マシンガンビーム	マシンガンビーム	Beam Gun	Machine Gun Beam	
-ビーストソード	ビーストソード	Beast Sword	Beast Sword	
-バーサク針	バーサク 針[はり]	Berserk Needle	Berserk Needle	
-まどわしハート	まどわしハート	Bewildered	Bewildering Heart	
-ビッグボンバー	ビッグボンバー	Big Bomber	Big Bomber	
-大口ブレス	大口[おおぐち]ブレス	Big Breath	Big Mouth Breath	
-ビッグクロウ	ビッグクロウ	Big Claw	Big Claw	
-ビッグファング	ビッグファング	Big Fang	Big Fang	
-ビッグハンドクラッシュ	ビッグハンドクラッシュ	Big Hand Clash	Big Hand Crush	
-大角	大[おお] 角[つの]	Big Horn	Big Horn	
-大花粉	大[だい] 花粉[かふん]	Big Pollen	Big Pollen	
-ビッグパンチ	ビッグパンチ	Big Punch	Big Punch	
-ビッグレッドクリッパー	ビッグレッドクリッパー	Big Red Clipper	Big Red Clipper	
-大音波	大[だい] 音波[おんぱ]	Big Sound	Big Soundwave	
-大旋回	大[だい] 旋回[せんかい]	Big Spiral	Big Rotation	
-ビッグスイング	ビッグスイング	Big Swing	Big Swing	
-ビッグウェーブ	ビッグウェーブ	Big Wave	Big Wave	
-バイオガス	バイオガス	Bio Gas	Bio Gas	
-鳥キック	鳥[とり]キック	Bird Kick	Bird Kick	
-かみつき	かみつき	Bite	Bite	
-リバース・エナジー	リバース・エナジー	Bizzarro Enegy	Rebirth Energy	
-ブラスター	ブラスター	Blaster	Blaster	
-吸血	吸血[きゅうけつ]	Blood Suck	Blood Suck	
-ブラッドネイル	ブラッドネイル	Bloody Nail	Blood Nail	
-ふきとばし	ふきとばし	Blown Away	Blow Away	
-ブルードラゴンブレス	ブルードラゴンブレス	Blue Dragon Breath	Blue Dragon Breath	
-ブルーフレーム	ブルーフレーム	Blue Flame	Blue Flame	
-ブルーインパルス	ブルーインパルス	Blue Impulse	Blue Impulse	
-青い光	青[あお]い 光[ひかり]	Blue Light	Blue Light	
-全体尾	全体[ぜんたい] 尾[び]	Body Tail	Whole Tail	
-体当たり	体当[たいあ]たり	Bodyblow	Body Blow	
-電撃球	電撃[でんげき] 球[きゅう]	Bolt Ball	Shock Ball	
-ボム爆発	ボム 爆発[ばくはつ]	Bomb Blast	Bomb Explosion	
-ボーン	ボーン	Bone	Bone	
-軟骨剣	軟骨[なんこつ] 剣[けん]	Bonecutter	Cartilage Sword	
-アワ	アワ	Bubble	Bubble	
-虫針	虫[むし] 針[ばり]	Bug Needle	Bug Needle	
-バタフライアタック	バタフライアタック	Butterfly Attack	Butterfly Attack	
-Ｃ砲	Ｃ[しー] 砲[ほう]	C Cannon	C Cannon	
-カプセル	カプセル	Capsule	Capsule	
-カタパルト	カタパルト	Catapult	Catapult	
-落盤	落盤[らくばん]	Cave-in	Cave-in	
-突進	突進[とっしん]	Charge	Charge	
-チョコボ、あばれる	チョコボ、あばれる	Chocobo goes nuts	Chocobo, raging	
-急降下アタック	急降下[きゅうこうか]アタック	Chute Attack	Swoop Attack	
-ツメ	ツメ	Claw	Claw	
-クラブ	クラブ	Club	Club	
-ぼくさつにんじんソード	ぼくさつにんじんソード	Club Sword	Fatal Carrot Sword	
-冷気	冷気[れいき]	Cold	Cold	
-コールドブレス	コールドブレス	Cold Breath	Cold Breath	
-指冷凍弾	指[ゆび] 冷凍[れいとう] 弾[だん]	Cold Snap	Freezing Finger Bullet	
-コンボ	コンボ	Combo	Combo	
-混乱ミサイル	混乱[こんらん]ミサイル	Confu Missile	Confusion Missile	
-混乱鱗粉	混乱[こんらん] 鱗粉[りんぷん]	Confu-scales	Confusion Scales	
-連続ツメ	連続[れんぞく]ツメ	Continu-claw	Continuous Claw	
-ひび	ひび	Crack	Crack	
-マッドクロウ	マッドクロウ	Crazy Claw	Mad Claw	
-不気味タッチ	不気味[ぶきみ]タッチ	Creepy Touch	Eerie Touch	
-クロスインパルス	クロスインパルス	Cross Impulse	Cross Impulse	
-クロスシザー	クロスシザー	Cross Scissor	Cross Scissor	
-押し潰す	押[お]し 潰[つぶ]す	Crush	Crush	
-のろいの言葉	のろいの 言葉[ことば]	Curses	Cursed Words	
-きり	きり	Cut	Slash	
-カッター	カッター	Cutter	Cutter	
-ダメージ攻撃	ダメージ 攻撃[こうげき]	Damage Attack	Damage Attack	
-ダンス	ダンス	Dance	Dance	
-ダークドラゴンブレス	ダークドラゴンブレス	Dark Dragon Breath	Dark Dragon Breath	
-ダークニードル	ダークニードル	Dark Needle	Dark Needle	
-ダークアイ	ダークアイ	Darkeye	Dark Eye	
-危ない針	危[あぶ]ない 針[はり]	Deadly Needles	Dangerous Needle	
-デッドリーホイール	デッドリーホイール	Deadly Wheel	Deadly Wheel	
-デイン	デイン	Deen	Deen	
-デモンズクラッシュ	デモンズクラッシュ	Demon Rush	Demon's Rush	
-ダイヤ	ダイヤ	Diamond	Diamond	
-ダイヤファイア	ダイヤファイア	Diamond Fire	Diamond Fire	
-ダイヤフラッシュ	ダイヤフラッシュ	Diamond Flash	Diamond Flash	
-タイブキック	タイブキック	Dive Kick	Dive Kick	
-かわす	かわす	Dodge	Dodge	
-ヒレパンチ	ヒレパンチ	Dorsal Punch	Fin Punch	
-ダブルブレス	ダブルブレス	Double Breath	Double Breath	
-タブルショット	タブルショット	Double Shot	Double Shot	
-怒龍砲	怒[ど] 龍[りゅう] 砲[ほう]	Dragon Cannon	Angry Dragon Cannon	
-龍宮の舞	龍[りゅう] 宮[ぐう]の 舞[まい]	Dragon Dance	Dragon Shrine Dance	
-ドラゴンファング	ドラゴンファング	Dragon Fang	Dragon Fang	
-ドレイン	ドレイン	Drain	Drain	
-ドリフトターン	ドリフトターン	Drift Turn	Drift Turn	
-ドリルドライブ	ドリルドライブ	Drilldrive	Drill Drive	
-ツインアタック	ツインアタック	Dual Attack	Twin Attack	
-ダブルスパイク	ダブルスパイク	Dual Spike	Double Spike	
-両翼射撃	両翼[りょうよく] 射撃[しゃげき]	Dual Wing Fire	Double Wing Fire	
-アースクエイク	アースクエイク	Earthquake	Earthquake	
-食べる	食[た]べる	Eat	Eat	
-放電	放電[ほうでん]	Electric Burst	Electric Discharge	
-電磁ロッド	電磁[でんじ]ロッド	Electro-Mag Rod	Electromagnetic Rod	
-磁場転換	磁場[じば] 転換[てんかん]	Electromag	Reverse Polarity	
-電気ロッド	電気[でんき]ロッド	Electroprod	Electric Rod	
-電気ロッド・マーク２	電気[でんき]ロッド・マーク２	Electroprod 2	Electric Rod Mark 2	
-エメラルドビーム	エメラルドビーム	Emerald Beam	Emerald Beam	
-エメラルドレーザー	エメラルドレーザー	Emerald Laser	Emerald Laser	
-エメラルドシュート	エメラルドシュート	Emerald Shoot	Emerald Shoot	
-教皇	教皇[きょうこう]	Emperor	The Hierophant	
-エナジーボール	エナジーボール	Energy Ball	Energy Ball	
-エネルギー吸収	エネルギー 吸収[きゅうしゅう]	Energy Siphon	Energy Absorb	
-射出	射出[しゃしゅつ]	Erupt	Emit	
-噴火	噴火[ふんか]	Eruption	Eruption	
-ずらかる	ずらかる	Escape	Escape	
-みんなのうらみ	みんなのうらみ	Everyone's Grudge	Everyone's Grudge	
-イビルポイズン	イビルポイズン	Evil Poison	Evil Poison	
-究極逆鱗ボンバー	究極[きゅうきょく] 逆鱗[げきりん]ボンバー	Extreme Bomber	Ultimate Wrath Bomber	
-落石	落石[らくせき]	Falling Rocks	Falling Rock	
-キバ	キバ	Fang	Fang	
-魅惑	魅惑[みわく]	Fascination	Attraction	
-フィンガーショット	フィンガーショット	Finger Shot	Finger Shot	
-ルーレットファイア	ルーレットファイア	Fire Roulette	Roulette Fire	
-火弾	火[ひ] 弾[だん]	Fire Shell	Fire Bullet	
-ファイアボール	ファイアボール	Fireball	Fireball	
-一斉射撃	一斉射撃[いっせいしゃげき]	Firing Line	Line Fire	
-火炎	火炎[かえん]	Flame	Blaze	
-炎の舞	炎[ほのお]の 舞[まい]	Flame Dance	Flame Dance	
-百烈突き	百[ひゃく] 烈[れつ] 突[つ]き	Flaming Peck	100 Fierce Stabs	
-はばたき	はばたき	Flap	Flap	
-ふえでなぐる	ふえでなぐる	Flutilizer	Flute Strike	
-フライングドリル	フライングドリル	Flying Drill	Flying Drill	
-空中ハンマー	空中[くうちゅう]ハンマー	Flying Hammer	Aerial Hammer	
-空中混乱ハンマー	空中[くうちゅう] 混乱[こんらん]ハンマー	Flying Muddle	Aerial Confusion Hammer	
-かまいたち	かまいたち	Flying Sickle	Whirlwind Cut	
-フライアッパー	フライアッパー	Flying Upper	Fly Upper	
-空中いきなりハンマー	空中[くうちゅう]いきなりハンマー	Flying Zip	Aerial Sudden Hammer	
-空中いきなり混乱	空中[くうちゅう]いきなり 混乱[こんらん]	Flying Zip Confu	Aerial Sudden Confusion	
-踏みつぶし	踏[ふ]みつぶし	Foot Stamp	Trample	
-フォーレーザー	フォーレーザー	Four Laser	Four Laser	
-カエルパンチ	カエルパンチ	Frog Jab	Frog Punch	
-冷凍光線	冷凍[れいとう] 光線[こうせん]	Frozen Beam	Freezing Beam	
-ファニーの息	ファニーの 息[いき]	Funny Breath	Funny Breath	
-いかり	いかり	Fury	Anger	
-ガス	ガス	Gas	Gas	
-切りきざみ	切[き]りきざみ	Gash	Mincer	
-ゲヘナガナー	ゲヘナガナー	Ghenghana	Gehenna Ganar	
-ちょうだい	ちょうだい	Gimme	Gimme	
-グラスカッター	グラスカッター	Glasscutter	Glass Cutter	
-ご案内	ご 案内[あんない]	Goannai	Guidance	
-金山	金山[きんざん]	Gold Mountain	Gold Mine	
-ゴーレムレーザー	ゴーレムレーザー	Golem Laser	Golem Laser	
-ゴーレムパンチ	ゴーレムパンチ	Golem Punch	Golem Punch	
-グランドアタック	グランドアタック	Grand Attack	Grand Attack	
-グランドパンチ	グランドパンチ	Grand Punch	Grand Punch	
-地走り	地[じ] 走[ばし]り	Grand Spark	Ground Racer	
-グランドソード	グランドソード	Grand Sword	Grand Sword	
-グラス突き	グラス 突[つ]き	Grass Punch	Grass Thrust	
-大旋風	大[だい] 旋風[せんぷう]	Great Gale	Great Whirlwind	
-グリムロッド	グリムロッド	Grim Rod	Grim Rod	
-スる	ス[す]る	Grind	Pickpocket	
-強化戦闘員死亡	強化[きょうか] 戦闘員[せんとういん] 死亡[しぼう]	Grunt Death	Strengthened Combatant Death	
-ギロチン	ギロチン	Guillotine	Guillotine	
-ギタービンタ	ギタービンタ	Guitar Slap	Guitar Slap	
-ホールトウィップ	ホールトウィップ	Halt Whip	Halt Whip	
-ハンマーアタック	ハンマーアタック	Hammer Attack	Hammer Attack	
-ハンドクロウ	ハンドクロウ	Handclaw	Hand Claw	
-ハリアー	ハリアー	Harrier	Harrier	
-ハリアービーム	ハリアービーム	Harrier Beam	Harrier Beam	
-モリ	モリ	Harpoon	Harpoon	
-ヘッドアタック	ヘッドアタック	Head Attack	Head Attack	
-首狩り	首狩[くびか]り	Head Hunting	Headhunting	
-大首狩り	大[だい] 首狩[くびか]り	Head Hunting 2	Big Headhunting	
-ハート	ハート	Heart	Heart	
-こころない天使	こころない 天使[てんし]	Heartless Angel	Heartless Angel	
-ヒートウィング	ヒートウィング	Heatwing	Heat Wing	
-ヘビーソード	ヘビーソード	Heavy Sword	Heavy Sword	
-ヘルボンバー	ヘルボンバー	Hell Bomber	Hell Bomber	
-アワ地獄	アワ 地獄[じごく]	Hell Bubbles	Bubble Hell	
-ヘルコンボ	ヘルコンボ	Hell Combo	Hell Combo	
-ヘルプレス	ヘルプレス	Hell Press	Hell Press	
-地獄のヤリ	地獄[じごく]のヤリ	Hell Spear	Hell Spear	
-副砲内隠し砲	副[ふく] 砲[ほう] 内隠[うちかく]し 砲[ほう]	Hidden Artillery	Cannon Hidden in the Auxiliary Cannon	
-隠者	隠者[いんじゃ]	Hidden One	The Hermit	
-組曲ハイ＆ロウ	組曲[くみきょく]ハイ＆ロウ	High/Low Suit	Musical Suite High & Low	
-ハイウェイ登場	ハイウェイ 登場[とうじょう]	Highway	Highway Entry	
-なぐる	なぐる	Hit	Hit	
-かつあげ	かつあげ	Hold-up	Shakedown	
-角	角[つの]	Horn	Horn	
-ホーンボンバー	ホーンボンバー	Horn Bomber	Horn Bomber	
-ホーンリフト	ホーンリフト	Horn Lift	Horn Lift	
-温泉	温泉[おんせん]	Hot Springs	Hot Spring	
-遠吠え	遠吠[とおぼ]え	Howling	Howl	
-大津波	大津波[おおつなみ]	Huge Tidal Wave	Big Tsunami	
-つららおとし	つららおとし	Icicle Drop	Icicle Drop	
-鉄撃震	鉄[てつ] 撃震[げきしん]	Iron Attack	Iron Attack Quake	
-てっつい	てっつい	Iron Mallet	Iron Hammer	
-鉄球	鉄球[てっきゅう]	Ironball	Iron Ball	
-イソギンスモッグ	イソギンスモッグ	Isogin Smog	Anemone Smog	
-ジャンプアタック	ジャンプアタック	Jump Attack	Jump Attack	
-ジャンプキック	ジャンプキック	Jump Kick	Jump Kick	
-ジャンピングブロウ	ジャンピングブロウ	Jumping Blow	Jumping Blow	
-ジャンプ軟骨剣	ジャンプ 軟骨[なんこつ] 剣[けん]	Jumping Cutter	Jumping Cartilage Sword	
-カギヅメ	カギヅメ	Keyclaw	Talon	
-キック	キック	Kick	Kick	
-キングテイル	キングテイル	King Teel	King Tail	
-ニーブレンド	ニーブレンド	Knee Blend	Knee Blend	
-ニーファイア	ニーファイア	Knee Fire	Knee Fire	
-ほうちょう	ほうちょう	Knife	Kitchen Knife	
-レベル２コンフュ	レベル２コンフュ	L2 Confu	Level 2 Confu	
-レベル３フレア	レベル３フレア	L3 Flare	Level 3 Flare	
-レベル４デス	レベル４デス	L4 Death	Level 4 Death	
-ラピスレーザー	ラピスレーザー	Lapis Laser	Lapis Laser	
-へばりつき	へばりつき	Lay Flat	Cling	
-レフトブレス	レフトブレス	Left Breath	Left Breath	
-ラストレフトブレス	ラストレフトブレス	Left Breath 2	Last Left Breath	
-左手復活	左手[ひだりて] 復活[ふっかつ]	Left Hand Revived	Left Hand Revival	
-怒りの触手	怒[いか]りの 触手[しょくしゅ]	Left Thrust	Angry Tentacle	
-なめる	なめる	Lick	Lick	
-光弾	光[こう] 弾[だん]	Light Shell	Light Bullet	
-雷撃	雷撃[らいげき]	Lightning	Thunder Strike	
-毒液	毒液[どくえき]	Liquid poison	Venom	
-ロストブロー	ロストブロー	Lost Blow	Lost Blow	
-クレージーアタック	クレージーアタック	Lunattack	Crazy Attack	
-魔吸軟骨剣	魔吸[まきゅう]&nbsp;軟骨[なんこつ] 剣[けん]	Magic Cutter	Magic-Absorbing Cartilage Sword	
-魔法消滅	魔法[まほう] 消滅[しょうめつ]	Magic Extinguish	Magic Annihilation	
-マグマ	マグマ	Magma	Magma	
-主砲	主砲[しゅほう]	Main Artillery	Main Cannon	
-魔晄銃	魔[ま] 晄[こう] 銃[じゅう]	Mako Gun	Mako Gun	
-マテリアジヤマー	マテリアジヤマー	Materia-jammer	Materia Jammer	
-メガトンパンチ	メガトンパンチ	Megaton Punch	Megaton Punch	
-モロトフカクテル	モロトフカクテル	Molotov Cocktail	Molotov Cocktail	
-モノアイレーザー	モノアイレーザー	Mono Laser	Monoeye Laser	
-ムーンストライク	ムーンストライク	Moonstrike	Moon Strike	
-ムーンワース	ムーンワース	Moon Wars	Moon Wars	
-強奪	強奪[ごうだつ]	Mug	Pillage	
-コンフュハンマー	コンフュハンマー	Muyddle Mallet	Confu Hammer	
-キック？？？？	キック？？？？	Mystery Kick	Kick????	
-ナパーム弾	ナパーム弾[なぱーむだん]	Napalm Bomb	Napalm Bomb	
-針	針[はり]	Needle	Needle	
-ニードルガン	ニードルガン	Needle Gun	Needle Gun	
-ネオタークス光線	ネオタークス 光線[こうせん]	Neo Turk Light	Neo Turks Beam	
-通常弾	通常[つうじょう] 弾[だん]	Normal Shell	Normal Shell	
-ノーザンクロス	ノーザンクロス	Northern Cross	Northern Cross	
-オイル	オイル	Oil	Oil	
-ペイルホース	ペイルホース	Pale Horse	Pale Horse	
-パラテイル	パラテイル	Para Tail	Para Tail	
-マヒレーザー	マヒレーザー	Paralaser	Paralyzing Laser	
-マヒ針	マヒ 針[はり]	Paralyzer Needle	Paralyzing Needle	
-くじゃく	くじゃく	Peacock	Peacock	
-石化アイ	石[せき] 化[か]アイ	Petrif-Eye	Petrifying Eye	
-カエル石化	カエル 石[せき] 化[か]	Petrified Frog	Frog Petrification	
-石化スモッグ	石[せき] 化[か]スモッグ	Petrify Smog	Petrifying Smog	
-プアゾシャワー	プアゾシャワー	Piazzo Shower	Poisso Shower	
-毒吹き	毒[どく] 吹[ふ]き	Poison Blow	Blow Poison	
-毒ブレス	毒[どく]ブレス	Poison Breath	Poison Breath	
-毒のキバ	毒[どく]のキバ	Poison Fang	Poisonous Fang	
-ポイズンストーム	ポイズンストーム	Poison Storm	Poison Storm	
-花粉	花粉[かふん]	Pollen	Pollen	
-プロペラ	プロペラ	Propeller	Propellor	
-プロペラソード	プロペラソード	Propeller Sword	Propellor Sword	
-パンチ	パンチ	Punch	Punch	
-乱れうち	乱[みだ]れうち	Quadra-cut	Chaotic Strike	
-乱れ突き	乱[みだ]れ 突[つ]き	Rabbit Gouge	Chaotic Thrust	
-怒髪天ボンバー	怒髪天[どはつてん]ボンバー	Rage Bomber	Rage Bomber	
-復活魔法	復活[ふっかつ] 魔法[まほう]	Reanimagic	Revival Magic	
-後方マシンガン	後方[こうほう]マシンガン	Rear Gun	Rear Machine Gun	
-レッドドラゴンブレス	レッドドラゴンブレス	Red Dragon Breath	Red Dragon Breath	
-赤い光	赤[あか]い 光[ひかり]	Red Light	Red Light	
-廃棄汚染	廃棄[はいき] 汚染[おせん]	Refuse	Waste Disposal	
-往復ビンタ	往復ビンタ[おうふくびんた]	Repeating Slap	Round-Trip Slap	
-反撃踏みつけ	反撃[はんげき] 踏[ふ]みつけ	Revenge Stamp	Counter Stomp	
-ライダーブレス	ライダーブレス	Rider Breath	Rider Breath	
-銃撃	銃撃[じゅうげき]	Rifle	Gun Attack	
-ライトブレス	ライトブレス	Right Breath	Right Breath	
-ラストライトブレス	ラストライトブレス	Right Breath 2	Last Right Breath	
-右手復活	右手[みぎて] 復活[ふっかつ]	Right Hand Revived	Right Hand Revival	
-ライジングダガー	ライジングダガー	Rising Dagger	Rising Dagger	
-石化指	石[せき] 化[か] 指[ゆび]	Rock Finger	Petrifying Finger	
-投石	投石[とうせき]	Rock Toss	Throw Stone	
-石つぶて	石[いし]つぶて	Rockbreaker	Stoning	
-ロケットランチャー	ロケットランチャー	Rocket Launcher	Rocket Launcher	
-ロッド	ロッド	Rod	Rod	
-ローラーダッシュ	ローラーダッシュ	Roller Dash	Roller Dash	
-ローラースピン	ローラースピン	Rollerspin	Roller Spin	
-回転アタック	回転[かいてん]アタック	Rolling Attack	Rotation Attack	
-ローリングクロウ	ローリングクロウ	Rolling Claw	Rolling Claw	
-ローリングファイア	ローリングファイア	Rolling Fire	Rolling Fire	
-ルビーの火炎	ルビーの 火炎[かえん]	Ruby Flame	Ruby Blaze	
-ルビーレイ	ルビーレイ	Ruby Ray	Ruby Ray	
-サドインアタック	サドインアタック	Sadistic Attack	Sadistic Yin Attack	
-砂鉄砲	砂[すな] 鉄砲[でっぽう]	Sandgun	Sand Gun	
-サンドストーム	サンドストーム	Sandstorm	Sandstorm	
-ノコギリ	ノコギリ	Sawback	Saw	
-シザーの一撃	シザーの 一撃[いちげき]	Scissor Attack	Scissor Attack	
-シザーキック	シザーキック	Scissor Kick	Scissor Kick	
-ハサミスパーク	ハサミスパーク	Scissor Spark	Pincer Spark	
-シザートルネード	シザートルネード	Scissor Tornado	Scissor Tornado	
-ハサミ	ハサミ	Scissors	Pincer	
-スコーピオンアタック	スコーピオンアタック	Scorpion Attack	Scorpion Attack	
-スコーピオンテイル	スコーピオンテイル	Scorpion Tail	Scorpion Tail	
-サソリの尾	サソリの 尾[お]	Scorpion's Tail	Scorpion's Tail	
-引っかく	引[ひ]っかく	Scratch	Scratch	
-サーチスコープ	サーチスコープ	Search Scope	Search Scope	
-シード弾	シード 弾[だん]	Seed Bullet	Seed Bullet	
-シードシューティング	シードシューティング	Seed Shot	Seed Shooting	
-自爆	自爆[じばく]	Self-destruct	Self-Destruct	
-セフィロスショック	セフィロスショック	Sephiroth Shock	Sephiroth Shock	
-地下水	地下水[ちかすい]	Sewer	Groundwater	
-下水津波	下水[げすい] 津波[つなみ]	Sewer Tsunami	Sewage Tsunami	
-怪しい息	怪[あや]しい 息[いき]	Shady Breath	Suspicious Breath	
-シャムシール	シャムシール	Sham Seal	Shamshir	
-こうらぼうぎょ	こうらぼうぎょ	Shell Defense	Shell Defense	
-シールド防御	シールド 防御[ぼうぎょ]	Shield Defense	Shield Defense	
-シールド投げ	シールド 投[な]げ	Shield Throw	Shield Throw	
-ハンドロッド	ハンドロッド	Short Staff	Hand Rod	
-ショットガン	ショットガン	Shotgun	Shotgun	
-ショルダーアタック	ショルダーアタック	Shoulder Attack	Shoulder Attack	
-シャワー	シャワー	Shower	Shower	
-カマ	カマ	Sickle	Sickle	
-糸	糸[いと]	Silk	Thread	
-シルバーホイール	シルバーホイール	Silver Wheel	Silver Wheel	
-片翼射撃	片翼[かたよく] 射撃[しゃげき]	Single Wing Fire	Single Wing Fire	
-かんぼつ	かんぼつ	Sinking	Subsidence	
-スケーティング	スケーティング	Skating	Skating	
-くしざし	くしざし	Skewer	Skewer	
-ビンタ	ビンタ	Slap	Slap	
-眠り鱗粉	眠[ねむ]り 鱗粉[りんぷん]	Sleep Scales	Sleep Scales	
-スロウダンス	スロウダンス	Slow Dance	Slow Dance	
-有害スモッグ	有害[ゆうがい]スモッグ	Smog	Harmful Smog	
-超有害スモッグ	超[ちょう] 有害[ゆうがい]スモッグ	Smog Alert	Super Harmful Smog	
-スモーク弾	スモーク 弾[だん]	Smoke Bullet	Smoke Bullet	
-スモークショット	スモークショット	Smoke Shot	Smoke Shot	
-指弾	指弾[しだん]	Snap	Finger Bullet	
-ふぶき	ふぶき	Snowstorm	Blizzard	
-ソニックアタック	ソニックアタック	Sonic Attack	Sonic Attack	
-サザンクロス	サザンクロス	Southern Cross	Southern Cross	
-スペード	スペード	Spade	Spade	
-ヒステリックボイス	ヒステリックボイス	Spaz Voice	Hysteric Voice	
-ヤリ攻撃	ヤリ 攻撃[こうげき]	Spear Attack	Spear Attack	
-ダッシュパンチ	ダッシュパンチ	Speed Punch	Dash Punch	
-スピードスラッシュ	スピードスラッシュ	Speed Slash	Speed Slash	
-スパイダーアタック	スパイダーアタック	Spider Attack	Spider Attack	
-針地獄	針[はり] 地獄[じごく]	Spiky Hell	Needle Hell	
-スピンアタック	スピンアタック	Spin Attack	Spin Attack	
-盾回転	盾[たて] 回転[かいてん]	Spin Shield	Shield Spin	
-スピニングターン	スピニングターン	Spin Turn	Spinning Turn	
-回転体当たり	回転体[かいてんたい] 当[あ]たり	Spinning Bodyblow	Rotation Body Blow	
-スピニングカード	スピニングカード	Spinning Card	Spinning Card	
-回転斬り	回転[かいてん] 斬[ぎ]り	Spinning Cut	Rotation Slash	
-スピン	スピン	Spin	Spin	
-剣切り	剣[けん] 切[ぎ]り	Split	Sword Cutter	
-踏みつぶす	踏[ふ]みつぶす	Squash	Trample	
-セントエルモスファイアー	セントエルモスファイアー	St. Elmos Fire	St. Elmo's Fire	
-つきさす	つきさす	Stab	Stab	
-星	星[ほし]	Star	The Star	
-スターダストマーチ	スターダストマーチ	Stardust March	Stardust March	
-にらみ	にらみ	Stare Down	Glare	
-スティグマ	スティグマ	Stigma	Stigma	
-スティングボム	スティングボム	Sting Bomb	Sting Bomb	
-石化にらみ	石[いし] 化[か]にらみ	Stone Stare	Petrifying Glare	
-ストーンストライク	ストーンストライク	Stone Strike	Stone Strike	
-ストップアイ	ストップアイ	Stop Eye	Stop Eye	
-ストップウェブ	ストップウェブ	Stop Web	Stop Web	
-強力キック	強力[きょうりょく]キック	Strong Kick	Strong Kick	
-サブ主砲	サブ 主砲[しゅほう]	Sub Artillery	Sub Cannon	
-ちっそくソング	ちっそくソング	Suffocation Song	Suffocation Song	
-自滅ドロップ	自滅[じめつ]ドロップ	Suicide Drop	Suicidal Drop	
-ヤン自爆	ヤン 自爆[じばく]	Suicide Yang	Yang Self-Destruct	
-太陽	太陽[たいよう]	Sun	The Sun	
-サンダイバー	サンダイバー	Sun Diver	Sun Diver	
-スーパーノヴァ	スーパーノヴァ	Super Nova	Supernova	
-支援光線	支援[しえん] 光線[こうせん]	Support Beam	Support Beam	
-スワンプシュート	スワンプシュート	Swamp Shoot	Swamp Shoot	
-スイングアタック	スイングアタック	Swing Attack	Swing Attack	
-剣攻撃	剣[けん] 攻撃[こうげき]	Sword Attack	Sword Attack	
-必殺剣	必殺[ひっさつ] 剣[けん]	Sword of Doom	Deathblow Sword	
-ソードラッシュ	ソードラッシュ	Sword Rush	Sword Rush	
-ブレードソード	ブレードソード	Swordblade	Blade Sword	
-しっぽ	しっぽ	Tail	Tail	
-テイルアタック	テイルアタック	Tail Attack	Tail Attack	
-テイルレーザー	テイルレーザー	Tail Laser	Tail Laser	
-テイルビート	テイルビート	Tailbeat	Tail Beat	
-乗り移り	乗り移[のりうつ]り	Take Over	Possess	
-なみだ	なみだ	Teardrop	Tear	
-ドレイン触手	ドレイン 触手[しょくしゅ]	Tentacle Drain	Drain Tentacle	
-投げる	投[な]げる	Throw	Throw	
-サンダーキッス	サンダーキッス	Thunder Kiss	Thunder Kiss	
-サンダーボール	サンダーボール	Thunderball	Thunder Ball	
-サンダーボルト	サンダーボルト	Thunderbolt	Thunderbolt	
-時間ダメージ	時間[じかん]ダメージ	Time Damage	Time Damage	
-カエル	カエル	Toad	Frog	
-トンファー	トンファー	Tonfa	Tonfa	
-ベロ	ベロ	Tongue	Tongue	
-トルネードウェイブ	トルネードウェイブ	Tornade Wave	Tornado Wave	
-毒吐き	毒[どく] 吐[は]き	Toxic Barf	Poison Vomit	
-毒粉	毒[どく] 粉[ふん]	Toxic Powder	Poison Powder	
-激震	激震[げきしん]	Tremor	Severe Earthquake	
-トライアングルアタック	トライアングルアタック	Triangle Attack	Triangle Attack	
-サッドアイ	サッドアイ	Triclops	Sad Eye	
-トリプルアタック	トリプルアタック	Triple Attack	Triple Attack	
-熱風	熱風[ねっぷう]	Tropic Wind	Hot Wind	
-タークス光線	タークス 光線[こうせん]	Turk Light	Turks Beam	
-ツインバーナー	ツインバーナー	Twin Burner	Twin Burner	
-アルテマビーム	アルテマビーム	Ultima Beam	Ultima Beam	
-超音波	超音波[ちょうおんぱ]	Ultrasound	Supersonic Wave	
-ソードアッパー	ソードアッパー	Upper Cutter	Sword Upper	
-アッパーカット	アッパーカット	Uppercut	Uppercut	
-バキューム	バキューム	Vacuum	Vacuum	
-口先アタック	口先[くちさき]アタック	Verbal Attack	Lip Attack	
-サーペントブレス	サーペントブレス	Viper Breath	Serpent Breath	
-ときのこえ	ときのこえ	Voice of Ages	Voice of Time	
-Ｗレーザー	Ｗ[だぶりゅー]レーザー	W-Laser	Double Laser	
-Ｗシールド投げ	Ｗ[だぶりゅー]シールド 投[な]げ	W-Shield Throw	Double Shield Throw	
-ダブルマシンガン	ダブルマシンガン	W Machine Gun	Double Machine Gun	
-Ｗロケットパンチ	Ｗ[だぶりゅー]ロケットパンチ	W Rocket Punch	Double Rocket Punch	
-雄叫び	雄叫[おたけ]び	War Cry	War Cry	
-水鉄砲	水鉄砲[みずでっぽう]	Water Gun	Water Gun	
-水波動	水[みず] 波動[はどう]	Water Wave	Water Surge	
-水攻め	水攻[みずぜ]め	Waterball	Water Attack	
-波動	波動[はどう]	Wave	Surge	
-波動砲	波動[はどう] 砲[ほう]	Wave Artillery	Surge Cannon	
-ウィリー	ウィリー	Wheelie	Wheelie	
-ウイリーアタック	ウイリーアタック	Wheelie Attack	Wheelie Attack	
-ムチ	ムチ	Whip	Whip	
-しびれムチ	しびれムチ	Whip Sting	Numbing Whip	
-アリ地獄	アリ 地獄[じごく]	Whirlsand	Antlion	
-ワイドグレイサー	ワイドグレイサー	Wide Grazer	Wide Grazer	
-ウィングカッター	ウィングカッター	Wing Cut	Wing Cutter	
-ウイングカッター	ウイングカッター	Wing Cutter	Wing Cutter	
-ワイヤアタック	ワイヤアタック	Wire Attack	Wire Attack	
-世界	世界[せかい]	World	The World	
-リストレーザー	リストレーザー	Wrist Laser	Wrist Laser	
-物理攻撃	物理[ぶつり] 攻撃[こうげき]	x	Physical Attack	
-インパンチ	インパンチ	Ying Punch	Yin Punch	
-いきなり混乱	いきなり 混乱[こんらん]	Zip Confu	Sudden Confusion	
-いきなりハンマー	いきなりハンマー	Zip Hammer	Sudden Hammer	
+アイテム	アイテム	Item			battle-commands
+魔法	魔法[まほう]	Magic Materia		魔法	materia-categories
+マテリア	マテリア	Materia			menu
+装備	装備[そうび]	Equip		装備	menu
+ステータス	ステータス	Status			menu
+隊形	隊形[たいけい]	Order		隊形	menu
+リミット	リミット	Limit			battle-commands
+コンフィグ	コンフィグ	Config			menu
+ＰＨＳ	ＰＨＳ[ぴーえいちえす]	PHS			key-items
+セーブ	セーブ	Save			menu
+しゅうりょう	しゅうりょう	Quit			menu
+リミットレベル	リミットレベル	Limit level			stats
+ちから	ちから	Strength			stats
+すばやさ	すばやさ	Dexterity			stats
+たいりょく	たいりょく	Vitality			stats
+まりょく	まりょく	Magic			stats
+せいしん	せいしん	Spirit			stats
+うん	うん	Luck			stats
+こうげきりょく	こうげきりょく	Attack			stats
+めいちゅうりつ	めいちゅうりつ	Attack%			stats
+ぼうぎょりょく	ぼうぎょりょく	Defense			stats
+かいひりつ	かいひりつ	Defense%			stats
+まほうこうげき	まほうこうげき	Magic atk			stats
+まほうぼうぎょ	まほうぼうぎょ	Magic def			stats
+まほうかいひりつ	まほうかいひりつ	Magic def%			stats
+じかん	じかん	Time			materia-magic
+ギル	ギル	Gil			stats
+経験値	経験値[けいけんち]	EXP		経験値	stats
+ＡＰ	ＡＰ[えいぴー]	AP			stats
+ＧＰ	ＧＰ[じーぴー]	GP			stats
+ＢＰ	ＢＰ	BP			stats
+炎	炎[ほのお]	Fire	Flame	炎	elements
+冷	冷[れい]	Ice	Cold	冷	elements
+雷	雷[かみなり]	Lightning	Thunder	雷	elements
+土	土[つち]	Earth		土	elements
+毒	毒[どく]	Poison		毒	elements
+重力	重力[じゅうりょく]	Gravity		重力	elements
+水	水[みず]	Water		水	elements
+風	風[かぜ]	Wind		風	elements
+聖	聖[せい]	Holy		聖	elements
+１０番目の属性	１０ 番目[ばんめ]の 属性[ぞくせい]	Hidden*	Tenth Attribute	番目属性	elements
+斬る	斬[き]る	Cut		斬	elements
+殴る	殴[なぐ]る	Hit	Strike	殴	elements
+突く	突[つ]く	Punch	Thrust	突	elements
+射撃	射撃[しゃげき]	Shoot	Shot	射撃	elements
+回復	回復[かいふく]	Restorative	Recovery	回復	elements
+叫ぶ	叫[さけ]ぶ	Shout		叫	elements
+睡眠	睡眠[すいみん]	Sleep		睡眠	status-changes
+怒り	怒[いか]り	Fury	Anger	怒	status-changes
+悲しい	悲[かな]しい	Sadness	Sorrow	悲	status-changes
+石化	石[せき] 化[か]	Petrify	Petrification	石化	status-changes
+徐々に石化	徐々[じょじょ]に 石[せき] 化[か]	Slow-Numb	Gradual Petrification	徐石化	status-changes
+混乱	混乱[こんらん]	Confuse	Confusion	混乱	status-changes
+沈黙	沈黙[ちんもく]	Silence		沈黙	status-changes
+マヒ	マヒ	Paralyzed	Paralysis		status-changes
+暗闇	暗闇[くらやみ]	Darkness		暗闇	status-changes
+蛙	蛙[かえる]	Frog		蛙	status-changes
+小	小[ミニマム]	Small	Minimum	小	status-changes
+瀕死	瀕死[ひんし]	Near-death	Near Death	瀕死	status-changes
+戦闘不能（死）	戦闘[せんとう] 不能[ふのう]（ 死[し]）	Death	Unable to Fight (Death)	戦闘不能死	status-changes
+死の宣告	死[し]の 宣告[せんこく]	Death Sentence		死宣告	enemy-commands
+操る	操[あやつ]る	Manipulate	Manipulation	操	status-changes
+闘	闘	Berserk		闘	status-changes
+無敵	無敵[むてき]	Peerless	Invincible	無敵	status-changes
+速い	速[はや]い	Haste	Fast	速	status-changes
+遅く	遅[おそ]く	Slow		遅	status-changes
+停止	停止[ていし]	Stop		停止	status-changes
+バリア (物的)	バリア( 物的[ぶってき])	Barrier	Barrier (Physical)	物的	status-changes
+バリア (魔法的)	バリア( 魔法的[まほうてき])	MBarrier	Barrier (Magic)	魔法的	status-changes
+反射	反射[はんしゃ]	Reflect	Reflection	反射	status-changes
+シールド（防衛）	シールド（ 防衛[ぼうえい]）	Shield	Shield (Defense)	防衛	status-changes
+ブレイバー	ブレイバー	Braver			limit-breaks
+凶斬り	凶[きょう] 斬[き]り	Cross-slash	Evil Slash	凶斬	limit-breaks
+破晄撃	破[は] 晄[こう] 撃[げき]	Blade Beam	Rending Light Attack	破晄撃	limit-breaks
+クライムハザード	クライムハザード	Climhazzard	Climb Hazard		limit-breaks
+メテオレイン	メテオレイン	Meteorain	Meteor Rain		limit-breaks
+画龍点睛	"画龍点睛[<span style=""color: rgb(34, 34, 34);"">が</span><span style=""color: rgb(34, 34, 34);"">りょう</span><span style=""color: rgb(34, 34, 34);"">てん</span><span style=""color: rgb(34, 34, 34);"">せい</span>]"	Finishing Touch		画龍点睛	limit-breaks
+超究武神覇斬	超[ちょう] 究[きゅう] 武神[ぶしん] 覇[は] 斬[ざん]	Omnislash	Transultimate Wargod Supremacy Slash	超究武神覇斬	items
+ヘビーショット	ヘビーショット	Big Shot	Heavy Shot		limit-breaks
+マインドブレイク	マインドブレイク	Mindblow	Mind Break		limit-breaks
+グレネードボム	グレネードボム	Grenade Bomb			limit-breaks
+ハンマーブロウ	ハンマーブロウ	Hammer Blow			limit-breaks
+サテライトビーム	サテライトビーム	Satellite Beam			limit-breaks
+アンガーマックス	アンガーマックス	Angermax	Anger Max		limit-breaks
+カタストロフィ	カタストロフィ	Catastrophe			items
+掌打ラッシュ	掌[しょう] 打[だ]ラッシュ	Beat Rush	Palm Rush	掌打	limit-breaks
+サマーソルト	サマーソルト	Somersault			enemy-commands
+水面蹴り	水面[すいめん] 蹴[げ]り	Waterkick	Surface Sweep	水面蹴	limit-breaks
+メテオドライヴ	メテオドライヴ	Meteodrive	Meteor Drive		limit-breaks
+ドルフィンブロウ	ドルフィンブロウ	Dolphin Blow			limit-breaks
+メテオストライク	メテオストライク	Meteor Strike			limit-breaks
+ファイナルヘヴン	ファイナルヘヴン	Final Heaven			items
+癒しの風	癒[いや]しの 風[かぜ]	Healing Wind		癒風	limit-breaks
+邪気封印	邪気[じゃき] 封印[ふういん]	Seal Evil	Evil Spirit Seal	邪気封印	limit-breaks
+大地の息吹	大地[だいち]の 息吹[いぶき]	Breath of the Earth		大地息吹	limit-breaks
+怒りの烙印	怒[いか]りの 烙印[らくいん]	Fury Brand	Mark of Anger	怒烙印	limit-breaks
+星の守護	星[ほし]の 守護[しゅご]	Planet Protector	Star Guardian	星守護	limit-breaks
+生命の鼓動	生命[せいめい]の 鼓動[こどう]	Pulse of Life		生命鼓動	limit-breaks
+大いなる福音	大[おお]いなる 福音[ふくいん]	Great Gospel		大福音	items
+スレッドファング	スレッドファング	Sled Fang			limit-breaks
+ルナティックハイ	ルナティックハイ	Lunatic High			limit-breaks
+ブラッドファング	ブラッドファング	Blood Fang			limit-breaks
+スターダストレイ	スターダストレイ	Stardust Ray			limit-breaks
+ハウリングムーン	ハウリングムーン	Howling Moon			limit-breaks
+アースレイヴ	アースレイヴ	Earth Rave			limit-breaks
+コスモメモリー	コスモメモリー	Cosmo Memory			items
+ダイス	ダイス	Dice			limit-breaks
+スロット	スロット	Slots	Slot		limit-breaks
+トイボックス	トイボックス	Toy Box			limit-breaks
+トイソルジャー	トイソルジャー	Toy Soldier			limit-breaks
+モーグリダンス	モーグリダンス	Mog Dance	Moogle Dance		limit-breaks
+ラッキーガール	ラッキーガール	Lucky Girl			limit-breaks
+ジョーカーデス	ジョーカーデス	Death Joker	Joker Death		limit-breaks
+合体	合体[がったい]	Transform	Combine	合体	limit-breaks
+オールオーバー	オールオーバー	Game Over	All Over		limit-breaks
+ブーストジャンプ	ブーストジャンプ	Boost Jump			limit-breaks
+ダイナマイト	ダイナマイト	Dynamite			limit-breaks
+ハイパージャンプ	ハイパージャンプ	Hyper Jump			limit-breaks
+ドラゴンモッド	ドラゴンモッド	Dragon	Dragon Mod		limit-breaks
+ドラゴンダイブ	ドラゴンダイブ	Dragon Dive			limit-breaks
+大乱闘	大[だい] 乱闘[らんとう]	Big Brawl		大乱闘	limit-breaks
+ハイウインド	ハイウインド	Highwind			items
+ガリアンビースト	ガリアンビースト	Galian Beast	Gaulian Beast		limit-breaks
+ビーストフレア	ビーストフレア	Beast Flare			limit-breaks
+バーサクダンス	バーサクダンス	Berserk Dance			limit-breaks
+デスギガス	デスギガス	Death Gigas			limit-breaks
+ギガダンク	ギガダンク	Gigadunk	Giga Dunk		limit-breaks
+ライブスパーク	ライブスパーク	Livewire	Live Spark		limit-breaks
+ヘルマスカー	ヘルマスカー	Hell Masker			limit-breaks
+スプラッタコンボ	スプラッタコンボ	Splattercombo	Splatter Combo		limit-breaks
+ナイトメア	ナイトメア	Nightmare			limit-breaks
+カオス	カオス	Chaos			items
+カオスセイバー	カオスセイバー	Chaos Saber			limit-breaks
+サタンインパクト	サタンインパクト	Satan Slam	Satan Impact		limit-breaks
+疾風迅雷	疾風迅雷[しっぷうじんらい]	Greased Lightning	Gale Thunderclap	疾風迅雷	limit-breaks
+明鏡止水	明鏡止水[めいきょうしすい]	Clear Tranquil	Tranquil Mind	明鏡止水	limit-breaks
+抜山蓋世	抜山蓋世[ばつざんがいせい]	Landscaper	Power to Move Mountains	抜山蓋世	limit-breaks
+血祭	血祭[ちまつり]	Bloodfest	Blood Festival	血祭	limit-breaks
+鎧袖一触	鎧袖一触[がいしゅういっしょく]	Gauntlet	Armored Sleeve Single Blow	鎧袖一触	limit-breaks
+生者必滅	生者必滅[しょうじゃひつめつ]	Doom of the Living	All Living Things Must Die	生者必滅	limit-breaks
+森羅万象	森羅万象[しんらばんしょう]	All Creation	All Things In Nature	森羅万象	items
+召喚	召喚[しょうかん]	Summon Materia		召喚	materia-categories
+独立	独立[どくりつ]	Independent Materia		独立	materia-categories
+支援	支援[しえん]	Support Materia		支援	materia-categories
+コマンド	コマンド	Command Materia			materia-categories
+れいき	れいき	Ice	Cold		materia-magic
+ほのお	ほのお	Fire	Flame		materia-magic
+いかずち	いかずち	Lightning			materia-magic
+かいふく	かいふく	Restore	Recovery		materia-magic
+どく	どく	Poison			materia-magic
+だいち	だいち	Earth			materia-magic
+ちりょう	ちりょう	Heal	Treatment		materia-magic
+そせい	そせい	Revive	Resurrection		materia-magic
+ふうじる	ふうじる	Seal	Close		materia-magic
+へんしん	へんしん	Transform			materia-magic
+まどわす	まどわす	Mystify	Bewilder		materia-magic
+じゅうりょく	じゅうりょく	Gravity			materia-magic
+しょうめつ	しょうめつ	Destruct	Annihilation		materia-magic
+バリア	バリア	Barrier			enemy-commands
+りだつ	りだつ	Exit	Withdrawal		materia-magic
+いんせき	いんせき	Comet	Meteorite		materia-magic
+フルケア	フルケア	Full Cure	Full Care		magic
+ふういん	ふういん	Contain	Seal		materia-magic
+シールド	シールド	Shield			magic
+アルテマ	アルテマ	Ultima			enemy-commands
+マスターまほう	マスターまほう	Master Magic			materia-magic
+チョコボ＆モーグリ	チョコボ ＆[あんど]モーグリ	Choco/Mog	Chocobo & Moogle		materia-summon
+シヴァ	シヴァ	Shiva			materia-summon
+イフリート	イフリート	Ifrit			materia-summon
+ラムウ	ラムウ	Ramuh			materia-summon
+タイタン	タイタン	Titan			materia-summon
+オーディーン	オーディーン	Odin			materia-summon
+バハムート	バハムート	Bahamut			materia-summon
+リヴァイアサン	リヴァイアサン	Leviathan			materia-summon
+クジャタ	クジャタ	Kujata			materia-summon
+アレクサンダー	アレクサンダー	Alexander			materia-summon
+バハムート改	バハムート 改[あらため]	Neo Bahamut	Bahamut Modified	改	materia-summon
+フェニックス	フェニックス	Phoenix			materia-summon
+ハーデス	ハーデス	Hades			materia-summon
+バハムート零式	バハムート 零[れい] 式[しき]	Bahamut ZERO	Bahamut Type Zero	零式	materia-summon
+テュポーン	テュポーン	Typhon			materia-summon
+ナイツオブラウンド	ナイツオブラウンド	Knights of the Round	Knights of Round		materia-summon
+マスターしょうかん	マスターしょうかん	Master Summon			materia-summon
+ぬすむ	ぬすむ	Steal			battle-commands
+みやぶる	みやぶる	Sense	Uncover		battle-commands
+てきのわざ	てきのわざ	E.Skill	Enemy Skill		battle-commands
+なげる	なげる	Throw			battle-commands
+あやつる	あやつる	Manip.	Manipulate		battle-commands
+ひっさつ	ひっさつ	D.blow	Deathblow		battle-commands
+へんか	へんか	Morph	Transform		battle-commands
+れんぞくぎり	れんぞくぎり	2x-Cut	Continuous Slash		battle-commands
+ぜんたいぎり	ぜんたいぎり	Slash-All	Slash All		battle-commands
+ものまね	ものまね	Mime	Mimic		battle-commands
+Ｗしょうかん	Ｗ[だぶりゅー]しょうかん	W-Summon	Double Summon		battle-commands
+Ｗまほう	Ｗ[だぶりゅー]まほう	W-Magic	Double Magic		battle-commands
+Ｗアイテム	Ｗ[だぶりゅー]アイテム	W-Item	Double Item		battle-commands
+マスターコマンド	マスターコマンド	Master Command			materia-command
+かばう	かばう	Cover			enemy-commands
+カウンター	カウンター	Counter Attack	Counter		materia-independent
+チョコボよせ	チョコボよせ	Chocobo Lure	Chocobo Draw		materia-independent
+えんきょりこうげき	えんきょりこうげき	Long Range	Long-Distance Attack		materia-independent
+せんせいこうげき	せんせいこうげき	Pre-Emptive	Advance Attack		materia-independent
+ＨＰアップ	ＨＰ[えいちぴー]アップ	HP Plus	HP Up		materia-independent
+ＭＰアップ	ＭＰアップ	MP Plus	MP Up		materia-independent
+けいけんちアップ	けいけんちアップ	EXP Plus	Experience Points Up		materia-independent
+ギルアップ	ギルアップ	Gil Plus	Gil Up		materia-independent
+マジカル	マジカル	Magic Plus	Magical		materia-independent
+スピード	スピード	Speed Plus	Speed		materia-independent
+ラッキー	ラッキー	Luck Plus	Lucky		materia-independent
+てきよせ	てきよせ	Enemy Lure	Enemy Draw		materia-independent
+てきよけ	てきよけ	Enemy Away	Enemy Ward		materia-independent
+ＨＰＭＰいれかえ	ＨＰＭＰいれかえ	HP<->MP	HPMP Switch		materia-independent
+すべてぜんたいか	すべてぜんたいか	Mega All	Entire All		materia-independent
+せんすい	せんすい	Underwater	Diving		materia-independent
+ぜんたいか	ぜんたいか	All			materia-support
+ぞくせい	ぞくせい	Elemental			materia-support
+ついかこうか	ついかこうか	Added Effect			materia-support
+ついかぎり	ついかぎり	Added Cut			materia-support
+ＨＰきゅうしゅう	ＨＰ[えいちぴー]きゅうしゅう	HP Absorb			materia-support
+ＭＰきゅうしゅう	ＭＰきゅうしゅう	MP Absorb			materia-support
+ＭＰターボ	ＭＰターボ	MP Turbo			materia-support
+ふいうち	ふいうち	Sneak Attack			materia-support
+ついでにぬすむ	ついでにぬすむ	Steal as well			materia-support
+コマンドカウンター	コマンドカウンター	Counter			materia-support
+まほうカウンター	まほうカウンター	Magic Counter			materia-support
+まほうみだれうち	まほうみだれうち	Quadra Magic			materia-support
+ファイナルアタック	ファイナルアタック	Final Attack			materia-support
+たたかう	たたかう	Attack			battle-commands
+まほう	まほう	Magic			battle-commands
+しょうかん	しょうかん	Summon			battle-commands
+ぶんどる	ぶんどる	Mug	Plunder		battle-commands
+ぜになげ	ぜになげ	Coin	Coin Throw		battle-commands
+みだれうち	みだれうち	4x-Cut	Chaotic Strike		battle-commands
+いあいぬき	いあいぬき	Flash	Iainuki		battle-commands
+チェンジ	チェンジ	Change			battle-commands
+ぼうぎょ	ぼうぎょ	Defend			battle-commands
+カエルのうた	カエルのうた	Frog Song			enemy-commands
+レベル４自爆	レベル４ 自爆[じばく]	L4 Suicide	Level 4 Self-Destruct	自爆	enemy-commands
+マジックハンマー	マジックハンマー	Magic Hammer			enemy-commands
+ホワイトウィンド	ホワイトウィンド	White Wind			enemy-commands
+マイティガード	マイティガード	Big Guard	Mighty Guard		enemy-commands
+天使のささやき	天使[てんし]のささやき	Angel Whisper		天使	enemy-commands
+ドラゴンフォース	ドラゴンフォース	Dragon Force			enemy-commands
+デスフォース	デスフォース	Death Force			enemy-commands
+火炎放射	火炎[かえん] 放射[ほうしゃ]	Flame Thrower	Flamethrower	火炎放射	enemy-commands
+レーザー	レーザー	Laser			enemy-commands
+マトラマジック	マトラマジック	Matra Magic			enemy-commands
+臭い息	臭[くさ]い 息[いき]	Bad Breath	Smelly Breath	臭息	enemy-commands
+ベータ	ベータ	Beta			enemy-commands
+アクアブレス	アクアブレス	Aqualung	Aqua Breath		enemy-commands
+トライン	トライン	Trine			enemy-commands
+マジカルブレス	マジカルブレス	Magic Breath	Magical Breath		enemy-commands
+？？？？	？？？？	????			enemy-commands
+ゴブリンパンチ	ゴブリンパンチ	Goblin Punch			enemy-commands
+チョコボックル	チョコボックル	Chocobuckle	Chocobokkuru		enemy-commands
+レベル５デス	レベル５デス	L5 Death	Level 5 Death		enemy-commands
+死のルーレット	死[し]のルーレット	Roulette	Death Roulette	死	enemy-commands
+シャドウフレア	シャドウフレア	Shadow Flare			enemy-commands
+なんとか？？？	なんとか？？？	Pandora's Box	What???		enemy-commands
+ブリザド	ブリザド	Ice	Blizzard		enemy-commands
+ブリザラ	ブリザラ	Ice2	Blizzara		enemy-commands
+ブリザガ	ブリザガ	Ice3	Blizzaga		enemy-commands
+ファイア	ファイア	Fire			enemy-commands
+ファイラ	ファイラ	Fire2	Fira		enemy-commands
+ファイガ	ファイガ	Fire3	Figa		enemy-commands
+サンダー	サンダー	Bolt	Thunder		enemy-commands
+サンダラ	サンダラ	Bolt2	Thundera		enemy-commands
+サンダガ	サンダガ	Bolt3	Thundega		enemy-commands
+ケアル	ケアル	Cure	Care		enemy-commands
+ケアルラ	ケアルラ	Cure2	Carera		enemy-commands
+リジェネ	リジェネ	Regen	Regene		enemy-commands
+ケアルガ	ケアルガ	Cure3	Carega		enemy-commands
+バイオ	バイオ	Bio			enemy-commands
+バイオラ	バイオラ	Bio2	Biora		enemy-commands
+バイオガ	バイオガ	Bio3	Bioga		magic
+クエイク	クエイク	Quake			enemy-commands
+クエイラ	クエイラ	Quake2	Quara		enemy-commands
+クエイガ	クエイガ	Quake3	Quaga		enemy-commands
+ポイゾナ	ポイゾナ	Poisona			enemy-commands
+エスナ	エスナ	Esuna			magic
+レジスト	レジスト	Resist			magic
+レイズ	レイズ	Life	Raise		magic
+アレイズ	アレイズ	Life2	Arise		magic
+スリプル	スリプル	Sleepel	Sleeper		enemy-commands
+サイレス	サイレス	Silence			enemy-commands
+ミニマム	ミニマム	Mini	Minimum		enemy-commands
+トード	トード	Toad			magic
+コンフュ	コンフュ	Confu			enemy-commands
+バーサク	バーサク	Berserk			magic
+ヘイスト	ヘイスト	Haste			magic
+スロウ	スロウ	Slow			enemy-commands
+ストップ	ストップ	Stop			enemy-commands
+グラビデ	グラビデ	Demi	Gravide		enemy-commands
+グラビラ	グラビラ	Demi2	Gravira		enemy-commands
+グラビガ	グラビガ	Demi3	Graviga		enemy-commands
+デバリア	デバリア	DeBarrier	Debarrier		enemy-commands
+デスペル	デスペル	DeSpell	Despell		enemy-commands
+デス	デス	Death			magic
+マバリア	マバリア	MBarrier	Mabarrier		enemy-commands
+リフレク	リフレク	Reflect			enemy-commands
+ウォール	ウォール	Wall			enemy-commands
+エスケプ	エスケプ	Escape			magic
+デジョン	デジョン	Remove	Dezone		magic
+コメット	コメット	Comet			magic
+コメテオ	コメテオ	Comet2	Cometeo		enemy-commands
+フリーズ	フリーズ	Freeze			enemy-commands
+ブレイク	ブレイク	Break			enemy-commands
+トルネド	トルネド	Tornado			magic
+フレア	フレア	Flare			enemy-commands
+必殺技！！	必殺技[ひっさつわざ]！！	Deathblow‼	Deathblow Technique!!	必殺技	summon-attacks
+デブチョコボ	デブチョコボ	Fat Chocobo	Fatso Chocobo		summon-attacks
+ダイヤモンドダスト	ダイヤモンドダスト	Diamond Dust			summon-attacks
+地獄の火炎	地獄[じごく]の 火炎[かえん]	Hellfire	Flames of Hell	地獄火炎	summon-attacks
+裁きの雷	裁[さば]きの 雷[かみなり]	Judgement Bolt	Lightning of Judgement	裁雷	summon-attacks
+大地の怒り	大地[だいち]の 怒[いか]り	Anger of the Land	Anger of the Earth	大地怒	summon-attacks
+斬鉄剣	斬鉄剣[ざんてつけん]	Steel Bladed Sword	Iron-Cutting Sword	斬鉄剣	summon-attacks
+グングニルの槍	グングニルの 槍[やり]	Gunge Lance	Gungnir Spear	槍	summon-attacks
+メガフレア	メガフレア	Mega Flare	Megaflare		summon-attacks
+大海衝	大海[だいかい] 衝[しょう]	Tidal Wave	Great Tidal Wave	大海衝	summon-attacks
+トライディザスター	トライディザスター	Tetra-Disaster	Tri-Disaster		summon-attacks
+聖なる審判	聖[せい]なる 審判[しんぱん]	Judgement	Holy Judgement	聖審判	summon-attacks
+ギガフレア	ギガフレア	Giga Flare	Gigaflare		summon-attacks
+転生の炎	転生[てんせい]の 炎[ほのお]	Phoenix Flame	Flames of Reincarnation	転生炎	summon-attacks
+暗黒の釜	暗黒[あんこく]の 釜[かま]	Black Cauldron	Cauldron of Darkness	暗黒釜	summon-attacks
+テラフレア	テラフレア	Tera Flare	Teraflare		summon-attacks
+天地崩壊	天地[てんち] 崩壊[ほうかい]	Disintegration	Collapse of Heaven and Earth	天地崩壊	summon-attacks
+アルティメットエンド	アルティメットエンド	Ultimate End			summon-attacks
+バスターソード	バスターソード	Buster Sword	Bastard Sword		weapons
+ミスリルセイバー	ミスリルセイバー	Mythril Saber	Mithril Saber		weapons
+ハードブレイカー	ハードブレイカー	Hardedge	Hard Breaker		weapons
+バタフライエッジ	バタフライエッジ	Butterfly Edge			weapons
+村雨	村雨[むらさめ]	Murasame		村雨	weapons
+オーガニクス	オーガニクス	Organics			weapons
+クリスタルソード	クリスタルソード	Crystal Sword			weapons
+フォースイーター	フォースイーター	Force Stealer	Force Eater		weapons
+ルーンブレイド	ルーンブレイド	Rune Blade			weapons
+エンハンスソード	エンハンスソード	Enhance Sword			weapons
+釘バット	釘[くぎ]バット	Nail Bat		釘	weapons
+陸奥守吉行	陸奥[むつ] 守[のかみ] 吉行[よしゆき]	Yoshiyuki	Mutsunokami Yoshiyuki	陸奥守吉行	weapons
+アポカリプス	アポカリプス	Apocalypse			weapons
+天の叢雲	天[あめ]の 叢雲[むらくも]	Heaven's Cloud	Ame no Murakumo	天叢雲	weapons
+ラグナロク	ラグナロク	Ragnarok			weapons
+アルテマウェポン	アルテマウェポン	Ultimate Weapon	Ultima Weapon		bosses
+ガトリングガン	ガトリングガン	Gatling Gun			weapons
+アサルトガン	アサルトガン	Assault Gun			weapons
+キャノンボール	キャノンボール	Cannon Ball	Cannonball		weapons
+アトミックシザー	アトミックシザー	Atomic Scissors	Atomic Scissor		weapons
+ハードバルカン	ハードバルカン	Heavy Vulcan	Hard Vulcan		weapons
+チェーンソー	チェーンソー	Chainsaw			weapons
+マイクロレーザー	マイクロレーザー	Microlaser			weapons
+Ａ・Ｍキャノン	Ａ[えい]・ Ｍ[えむ]キャノン	A∙M Cannon	A-M Cannon		weapons
+Ｗマシンガン	Ｗ[だぶりゅー]マシンガン	W Machine Gun	Double Machine Gun		weapons
+ドリルアーム	ドリルアーム	Drill Arm			weapons
+ソリッドバズーカ	ソリッドバズーカ	Solid Bazooka			weapons
+ロケットパンチ	ロケットパンチ	Rocket Punch			enemy-commands
+エネミーランチャ	エネミーランチャ	Enemy Launcher			weapons
+パイルバンカー	パイルバンカー	Pile Banger	Pilebunker		enemy-commands
+マキシマムレイ	マキシマムレイ	Max Ray	Maximum Ray		weapons
+ミッシングスコア	ミッシングスコア	Missing Score			weapons
+レザーグローブ	レザーグローブ	Leather Glove			weapons
+メタルナックル	メタルナックル	Metal Knuckle			weapons
+ミスリルクロー	ミスリルクロー	Mythril Claw	Mithril Claw		weapons
+グランドグラブ	グランドグラブ	Grand Glove			weapons
+タイガーファング	タイガーファング	Tiger Fang			weapons
+ダイアナックル	ダイアナックル	Diamond Knuckle			weapons
+ドラゴンクロー	ドラゴンクロー	Dragon Claw			weapons
+クリスタルグラブ	クリスタルグラブ	Crystal Glove			weapons
+モータードライブ	モータードライブ	Motor Drive			weapons
+プラチナフィスト	プラチナフィスト	Platinum Fist			weapons
+カイザーナックル	カイザーナックル	Kaiser Knuckle			weapons
+軍手	軍手[ぐんて]	Work Glove	Cotton Work Glove	軍手	weapons
+オーバーソウル	オーバーソウル	Powersoul	Oversoul		weapons
+マスターフィスト	マスターフィスト	Master Fist			weapons
+ゴッドハンド	ゴッドハンド	God's Hand	Godhand		weapons
+プレミアムハート	プレミアムハート	Premium Heart			weapons
+ガードロッド	ガードロッド	Guard Stick	Guard Rod		weapons
+ミスリルロッド	ミスリルロッド	Mythril Rod	Mithril Rod		weapons
+フルメタルロッド	フルメタルロッド	Full Metal Staff	Fullmetal Rod		weapons
+ストライクロッド	ストライクロッド	Striking Staff	Strike Rod		weapons
+プリズムロッド	プリズムロッド	Prism Staff	Prism Rod		weapons
+オーロラロッド	オーロラロッド	Aurora Rod			weapons
+ウィザードロッド	ウィザードロッド	Wizard Staff	Wizard Rod		weapons
+ワイザーロッド	ワイザーロッド	Wizer Staff	Wiser Rod		weapons
+フェアリーテイル	フェアリーテイル	Fairy Tale			weapons
+アンブレラ	アンブレラ	Umbrella			weapons
+プリンセスガード	プリンセスガード	Princess Guard			weapons
+ミスリルクリップ	ミスリルクリップ	Mythril Clip	Mithril Clip		weapons
+ギヤマンヘアピン	ギヤマンヘアピン	Diamond Pin	Glasscraft Hairpin		weapons
+シルバーバレッタ	シルバーバレッタ	Silver Barrette	Silver Barette		weapons
+ゴールドバレッタ	ゴールドバレッタ	Gold Barette			weapons
+アダマンクリップ	アダマンクリップ	Adaman Clip			weapons
+クリスタルコーム	クリスタルコーム	Crystal Comb			weapons
+マジックコーム	マジックコーム	Magic Comb			weapons
+プラチナバレッタ	プラチナバレッタ	Plus Barette	Platinum Barette		weapons
+セントクリップ	セントクリップ	Centclip	Saint Clip		weapons
+かんざし	かんざし	Hairpin			weapons
+セラフコーム	セラフコーム	Seraph Comb			weapons
+ベヒーモスホーン	ベヒーモスホーン	Behemoth Horn			enemy-commands
+スプリガンクリップ	スプリガンクリップ	Spring Gun Clip	Spriggan Clip		weapons
+リミテッドムーン	リミテッドムーン	Limited Moon			weapons
+十字手裏剣	十字[じゅうじ] 手裏剣[しゅりけん]	4-point Shuriken	Cross Shuriken	十字手裏剣	weapons
+ブーメラン	ブーメラン	Boomerang			weapons
+風車	風車[かざぐるま]	Pinwheel		風車	weapons
+円月輪	円[えん] 月輪[げつりん]	Razor Ring	Full Moon Ring	円月輪	weapons
+ホークアイ	ホークアイ	Hawkeye			weapons
+クリスタルクロス	クリスタルクロス	Crystal Cross			weapons
+風斬り	風[かぜ] 斬[き]り	Wind Slash		風斬	weapons
+ツインヴァイパー	ツインヴァイパー	Twin Viper			weapons
+卍手裏剣	卍[まんじ] 手裏剣[しゅりけん]	Spiral Shuriken	Manji Shuriken	卍手裏剣	weapons
+スーパーボール	スーパーボール	Superball			weapons
+風魔手裏剣	風[ふう] 魔[ま] 手裏剣[しゅりけん]	Magic Shuriken	Fuma Shuriken	風魔手裏剣	weapons
+ライジングサン	ライジングサン	Rising Sun			weapons
+折り鶴	折り鶴[おりづる]	Oritsuru	Paper Crane	折鶴	weapons
+不倶戴天	不倶戴天[ふぐたいてん]	Conformer	Not All Support Heaven - Eternal Enemy	不倶戴天	weapons
+イエローメガホン	イエローメガホン	Yellow M-phone	Yellow Megaphone		weapons
+グリーンメガホン	グリーンメガホン	Green M-phone	Green Megaphone		weapons
+ブルーメガホン	ブルーメガホン	Blue M-phone	Blue Megaphone		weapons
+レッドメガホン	レッドメガホン	Red M-phone	Red Megaphone		weapons
+クリスタルメガホン	クリスタルメガホン	Crystal M-phone	Crystal Megaphone		weapons
+ホワイトメガホン	ホワイトメガホン	White M-phone	White Megaphone		weapons
+ブラックメガホン	ブラックメガホン	Black M-phone	Black Megaphone		weapons
+シルバーメガホン	シルバーメガホン	Silver M-phone	Silver Megaphone		weapons
+ゴールドメガホン	ゴールドメガホン	Gold M-phone	Gold Megaphone		weapons
+法螺貝	法螺貝[ほらがい]	Trumpet Shell	Conch	法螺貝	weapons
+突撃ラッパ	突撃[とつげき]ラッパ	Battle Trumpet	Assault Trumpet	突撃	weapons
+スターライトホン	スターライトホン	Starlight Phone	Starlight Horn		weapons
+マーベラスチアー	マーベラスチアー	HP Shout	Marvelous Cheer		weapons
+クイックシルバー	クイックシルバー	Quicksilver			weapons
+スパス	スパス	Shotgun	SPAS		weapons
+ランダル	ランダル	Shortbarrel	Randall		weapons
+ライアット	ライアット	Lariat	Riot		weapons
+ウィンチェスター	ウィンチェスター	Winchester			weapons
+ピースメーカー	ピースメーカー	Peacemaker			weapons
+バントライン	バントライン	Buntline			weapons
+ロングバレルＲ	ロングバレル Ｒ[あーる]	Long Barrel R			weapons
+銀玉鉄砲	銀[ぎん] 玉[だま] 鉄砲[でっぽう]	Silver Rifle	BB Gun	銀玉鉄砲	weapons
+スナイパーＣＲ	スナイパー ＣＲ[しーあーる]	Sniper CR			weapons
+ハイブロウＳＴ	ハイブロウ Ｓ[えす] Ｔ[てぃー]	Supershot ST	Highblow ST		weapons
+アウトサイダー	アウトサイダー	Outsider			weapons
+デスペナルティ	デスペナルティ	Death Penalty			weapons
+スピア	スピア	Spear			weapons
+スラッシュパイク	スラッシュパイク	Slash Lance	Slash Pike		weapons
+トライデント	トライデント	Trident			weapons
+ポールアックス	ポールアックス	Mast Ax	Poleaxe		weapons
+パルチザン	パルチザン	Partisan			weapons
+蛇矛	蛇[じゃ] 矛[ほこ]	Viper Halberd	Snake Halberd	蛇矛	weapons
+ジャベリン	ジャベリン	Javelin			weapons
+グローランス	グローランス	Grow Lance	Glow Lance		weapons
+モップ	モップ	Mop			weapons
+ドラグーンランス	ドラグーンランス	Dragoon Lance	Dragon Lance		weapons
+青龍偃月刀	青龍[せいりゅう] 偃月刀[えんげつとう]	Scimitar	Seiryuu Scimitar	青龍偃月刀	weapons
+方天画戟	方[ほう] 天[てん] 画[が] 戟[げき]	Flayer	Fang Tian Hua Ji	方天画戟	weapons
+ロンギヌス	ロンギヌス	Spirit Lance	Longinus		weapons
+ビーナスゴスペル	ビーナスゴスペル	Venus Gospel			weapons
+正宗	正宗[まさむね]	Masamune		正宗	weapons
+ブロンズバングル	ブロンズバングル	Bronze Bangle			armor
+アイアンバングル	アイアンバングル	Iron Bangle			armor
+チタンバングル	チタンバングル	Titan Bangle	Titanium Bangle		armor
+ミスリルの腕輪	ミスリルの 腕輪[うでわ]	Mythril Armlet	Mithril Bracelet	腕輪	armor
+カーボンバングル	カーボンバングル	Carbon Bangle			armor
+銀の腕輪	銀[ぎん]の 腕輪[うでわ]	Silver Armlet	Silver Bracelet	銀腕輪	armor
+金の腕輪	金[きん]の 腕輪[うでわ]	Gold Armlet	Golden Bracelet	金腕輪	armor
+ダイアバングル	ダイアバングル	Diamond Bangle			armor
+クリスタルバングル	クリスタルバングル	Crystal Bangle			armor
+プラチナバングル	プラチナバングル	Platinum Bangle	Platina Bangle		armor
+ルーンの腕輪	ルーンの 腕輪[うでわ]	Rune Armlet	Rune Bracelet	腕輪	armor
+エジンコート	エジンコート	Edincoat	Agincourt		armor
+ウィザードブレス	ウィザードブレス	Wizard Bracelet	Wizard Brace		armor
+アダマンバングル	アダマンバングル	Adaman Bangle			armor
+ギガースの腕輪	ギガースの 腕輪[うでわ]	Gigas Armlet	Gigas Bracelet	腕輪	armor
+インペリアルガード	インペリアルガード	Imperial Guard			armor
+エイジスの腕輪	エイジスの 腕輪[うでわ]	Aegis Armlet	Aegis Bracelet	腕輪	armor
+フォースブレス	フォースブレス	Fourth Bracelet	Force Bracelet		armor
+ウォーリアバングル	ウォーリアバングル	Warrior Bangle			armor
+神羅安式防具	神[しん] 羅[ら] 安[あん] 式[しき] 防具[ぼうぐ]	Shinra Beta	Shinra Relaxed Type Defense Tool	神羅安式防具	armor
+神羅甲型防具改	神[しん] 羅[ら] 甲[こう] 型[がた] 防具[ぼうぐ] 改[かい]	Shinra Alpha	Improved Shinra Armored Defense Tool	神羅甲型防具改	armor
+フォウスロット	フォウスロット	Four Slots	Four Slot		armor
+烈火の腕輪	烈火[れっか]の 腕輪[うでわ]	Fire Armlet	Conflagrant Bracelet	烈火腕輪	armor
+極光の腕輪	極光[きょっこう]の 腕輪[うでわ]	Aurora Armlet	Aurora Bracelet	極光腕輪	armor
+天雷の腕輪	天雷[てんらい]の 腕輪[うでわ]	Bolt Armlet	Thunder Bracelet	天雷腕輪	armor
+ドラゴンの腕輪	ドラゴンの 腕輪[うでわ]	Dragon Armlet	Dragon Bracelet	腕輪	armor
+ミネルバブレス	ミネルバブレス	Minerva Band	Minerva Brace		armor
+エスコートガード	エスコートガード	Escort Guard			armor
+ミスティール	ミスティール	Mystile	Mystère		armor
+ザイドリッツ	ザイドリッツ	Ziedrich	Seydlitz		armor
+高級腕時計	高級[こうきゅう] 腕時計[うでどけい]	Precious Watch	High-Quality Wristwatch	高級腕時計	armor
+チョコボの腕輪	チョコボの 腕輪[うでわ]	Chocobracelet	Chocobo Bracelet	腕輪	armor
+パワーリスト	パワーリスト	Power Wrist			accessories
+防弾チョッキ	防弾チョッキ[ぼうだんちょっき]	Protect Vest	Bulletproof Vest	防弾	accessories
+イヤリング	イヤリング	Earring			accessories
+タリスマン	タリスマン	Talisman			accessories
+チョコボのはね	チョコボのはね	Chocofeather	Chocobo Feather		accessories
+お守り	お 守[まも]り	Amulet		守	accessories
+チャンピオンベルト	チャンピオンベルト	Champion Belt			accessories
+ポイズンリング	ポイズンリング	Poison Ring			accessories
+タフネスリング	タフネスリング	Tough Ring (Touph Ring)	Toughness Ring		accessories
+サークレット	サークレット	Circlet			accessories
+星のペンダント	星[ほし]のペンダント	Star Pendant		星	accessories
+銀縁メガネ	銀縁[ぎんぶち]メガネ	Silver Glasses	Silver-Rimmed Glasses	銀縁	accessories
+ハチマキ	ハチマキ	Headband			accessories
+フェアリーリング	フェアリーリング	Fairy Ring			accessories
+ジュエルリング	ジュエルリング	Jem Ring	Jewel Ring		accessories
+ホワイトケープ	ホワイトケープ	White Cape			accessories
+エルメスのくつ	エルメスのくつ	Sprint Shoes	Hermes Shoes		accessories
+安らぎの指輪	安[やす]らぎの 指輪[ゆびわ]	Peace Ring	Tranquil Ring	安指輪	accessories
+リボン	リボン	Ribbon			accessories
+炎の指輪	炎[ほのお]の 指輪[ゆびわ]	Fire Ring	Flame Ring	炎指輪	accessories
+冷気の指輪	冷気[れいき]の 指輪[ゆびわ]	Ice Ring	Cold Ring	冷気指輪	accessories
+雷の指輪	雷[かみなり]の 指輪[ゆびわ]	Bolt Ring	Lightning Ring	雷指輪	accessories
+テトラエレメンタル	テトラエレメンタル	Tetra Elemental			accessories
+セーフティビット	セーフティビット	Safety Bit			accessories
+怒りの指輪	怒[いか]りの 指輪[ゆびわ]	Fury Ring	Anger Ring	怒指輪	accessories
+呪いの指輪	呪[のろ]いの 指輪[ゆびわ]	Curse Ring	Cursed Ring	呪指輪	accessories
+守りの指輪	守[も]りの 指輪[ゆびわ]	Protect Ring	Protection Ring	守指輪	accessories
+タマのすず	タマのすず	Cat's Bell	Tama's Bell		accessories
+リフレクトリング	リフレクトリング	Reflect Ring			accessories
+水の指輪	水[みず]の 指輪[ゆびわ]	Water Ring		水指輪	accessories
+盗族の小手	盗[とう] 族[ぞく]の 小手[こて]	Sneak Glove	Thief's Bracer	盗族小手	accessories
+ヒュプノクラウン	ヒュプノクラウン	HypnoCrown	Hypno-Crown		accessories
+ポーション	ポーション	Potion			items
+ハイポーション	ハイポーション	Hi-Potion	High Potion		items
+エクスポーション	エクスポーション	X-Potion			items
+エーテル	エーテル	Ether			items
+エーテルターボ	エーテルターボ	Turbo Ether	Ether Turbo		items
+エリクサー	エリクサー	Elixir			items
+ラストエリクサー	ラストエリクサー	Megalixir	Last Elixir		items
+フェニックスの尾	フェニックスの 尾[お]	Phoenix Down	Phoenix Tail	尾	items
+毒消し	毒消[どくけ]し	Antidote		毒消	items
+目薬	目薬[めぐすり]	Eye drop	Eye Drops	目薬	items
+金の針	金[きん]の 針[はり]	Soft	Golden Needle	金針	items
+乙女のキッス	乙女[おとめ]のキッス	Maiden's Kiss		乙女	items
+うちでのこづち	うちでのこづち	Cornucopia	Lucky Mallet		items
+やまびこえんまく	やまびこえんまく	Echo Screen	Echo Smokescreen		items
+興奮剤	興奮剤[こうふんざい]	Hyper	Stimulant	興奮剤	items
+鎮静剤	鎮静剤[ちんせいざい]	Tranquilizer		鎮静剤	items
+万能薬	万能薬[ばんのうやく]	Remedy	Panacea	万能薬	items
+テント	テント	Tent			items
+セーブクリスタル	セーブクリスタル	Save Crystal			items
+けむりだま	けむりだま	Smoke Bomb			items
+光のカーテン	光[ひかり]のカーテン	Light Curtain		光	items
+月のカーテン	月[つき]のカーテン	Lunar Curtain		月	items
+反射ミラー	反射[はんしゃ]ミラー	Mirror	Reflective Mirror	反射	items
+スピードドリンク	スピードドリンク	Speed Drink			items
+英雄の薬	英雄[えいゆう]の 薬[くすり]	Hero Drink	Hero Medicine	英雄薬	items
+ワクチン	ワクチン	Vaccine			items
+聖なるトーチ	聖[せい]なるトーチ	Holy Torch		聖	items
+手榴弾	<div>手榴弾[しゅりゅうだん]<br></div>	Hand Grenade		手榴弾	enemy-commands
+ボムのかけら	ボムのかけら	Shrapnel	Bomb Fragment		items
+ボムの右腕	ボムの 右腕[みぎうで]	Right arm	Bomb's Right Arm	右腕	items
+金の砂時計	金[きん]の 砂時計[すなどけい]	Hourglass	Golden Hourglass	金砂時計	items
+死神のキッス	死神[しにがみ]のキッス	Kiss of Death	Grim Reaper's Kiss	死神	items
+クモの糸	クモの糸[くものいと]	Spider Web	Spider Thread	糸	enemy-commands
+ドリームパウダー	ドリームパウダー	Dream Powder			items
+サイレントマスク	サイレントマスク	Mute Mask	Silent Mask		items
+戦いのゴング	戦[たたか]いのゴング	War Gong	Battle Gong	戦	items
+惑わし草	惑[まど]わし 草[そう]	Loco weed	Delusion Grass	惑草	items
+火龍の牙	火[か] 龍[りゅう]の 牙[きば]	Fire Fang	Firedrake Fang	火龍牙	enemy-commands
+火とん	火[か]とん	Fire Veil	Unleashed Fire	火	enemy-commands
+南極の風	南極[なんきょく]の 風[かぜ]	Antarctic Wind		南極風	items
+冷気の結晶	冷気[れいき]の 結晶[けっしょう]	Ice Crystal	Cold Crystal	冷気結晶	items
+電撃鳥の角	電撃[でんげき] 鳥[ちょう]の 角[つの]	Bolt Plume	Shock Bird Horn	電撃鳥角	items
+雷迅	雷迅[らいじん]	Swift Bolt	Swift Thunder	雷迅	enemy-commands
+大地のドラム	大地[だいち]のドラム	Earth Drum		大地	items
+大地のハンマー	大地[だいち]のハンマー	Earth Mallet	Earth Hammer	大地	items
+有害物質	有害物質[ゆうがいぶっしつ]	Deadly Waste	Hazardous Material	有害物質	items
+モルボルの触手	モルボルの 触手[しょくしゅ]	M-Tentacles	Morbol Tentacle	触手	items
+星の砂	星[ほし]の 砂[すな]	Stardust		星砂	items
+バンパイアの牙	バンパイアの 牙[きば]	Vampire Fang		牙	items
+ゴーストハンド	ゴーストハンド	Ghost Hand			items
+バジリスクの爪	バジリスクの 爪[つめ]	Vagyrisk Claw	Basilisk Claw	爪	items
+モズのはやにえ	モズのはやにえ	Impaler	Shrike's Prey		enemy-commands
+チヂマール	チヂマール	Shrivel	Miniaturize		items
+ファイアカクテル	ファイアカクテル	Molotov	Fire Cocktail		items
+巨鳥のハネ	巨鳥[きょちょう]のハネ	Bird Wing	Giant Bird Feather	巨鳥	items
+海龍のウロコ	海[かい] 龍[りゅう]のウロコ	Dragon Scales	Sea Dragon Scale	海龍	items
+Ｓマイン	Ｓ[えす]マイン	S-Mine	S Mine		enemy-commands
+２０３ミリ砲弾	２０３ミリ 砲弾[ほうだん]	8-inch Cannon (8inch Cannon)	203mm Cannon Shell	砲弾	items
+重力球	重力[じゅうりょく] 球[きゅう]	Graviball	Gravity Ball	重力球	items
+時空弾	時空[じくう] 弾[だん]	T/S Bomb	Spacetime Bomb	時空弾	items
+イカスミ	イカスミ	Ink	Squid Ink		items
+しびれ針	しびれ 針[ばり]	Dazers	Numbness Needle	針	items
+双龍の牙	双[そう] 龍[りゅう]の 牙[きば]	Dragon Fang	Twin Dragon Fang	双龍牙	items
+魔女の大釜	魔女[まじょ]の 大釜[おおがま]	Cauldron	Witch's Cauldron	魔女大釜	items
+ギザールの野菜	ギザールの 野菜[やさい]	Gysahl Greens	Gysahl Vegetable	野菜	items
+クラッカの野菜	クラッカの 野菜[やさい]	Krakka Greens	Karaka Vegetable	野菜	items
+タンタルの野菜	タンタルの 野菜[やさい]	Tantal Greens	Tantal Vegetable	野菜	items
+パサーナの野菜	パサーナの 野菜[やさい]	Pahsana Greens	Pasana Vegetable	野菜	items
+クリーエの野菜	クリーエの 野菜[やさい]	Curiel Greens	Curie Vegetable	野菜	items
+レイゲンの野菜	レイゲンの 野菜[やさい]	Reagan Greens	Reigen Vegetable	野菜	items
+ミメットの野菜	ミメットの 野菜[やさい]	Mimett Greens	Mimet Vegetable	野菜	items
+シルキスの野菜	シルキスの 野菜[やさい]	Sylkis Greens	Silkis Vegetable	野菜	items
+ピピオの実	ピピオの 実[み]	Pepio Nut	Pipio Fruit	実	items
+ルチルの実	ルチルの 実[み]	Luchile Nut	Rutile Fruit	実	items
+サラハの実	サラハの 実[み]	Saraha Nut	Saraha Fruit	実	items
+ラサンの実	ラサンの 実[み]	Lasan Nut	Lasan Fruit	実	items
+パラムの実	パラムの 実[み]	Pram Nut	Param Fruit	実	items
+ポロフの実	ポロフの 実[み]	Porov Nut	Polov Fruit	実	items
+カラブの実	カラブの 実[み]	Carob Nut	Carob Fruit	実	items
+ゼイオの実	ゼイオの 実[み]	Zeio Nut	Zeio Fruit	実	items
+パワーアップ	パワーアップ	Power Source	Power Up		items
+ガードアップ	ガードアップ	Guard Source	Guard Up		items
+マジックアップ	マジックアップ	Magic Source	Magic Up		items
+マインドアップ	マインドアップ	Mind Source	Mind Up		items
+スピードアップ	スピードアップ	Speed Source	Speed Up		items
+ラックアップ	ラックアップ	Luck Source	Luck Up		items
+１／３５神羅兵	１／３５ 神[しん] 羅[ら] 兵[へい]	1/35 soldier	1/35 Shinra Soldier	神羅兵	items
+ジンクバッテリー	ジンクバッテリー	Battery	Zinc Battery		items
+ポケットティッシュ	ポケットティッシュ	Tissue	Pocket Tissue		items
+超合金スイーパー	超合金[ちょうごうきん]スイーパー	Super Sweeper	Super-Alloy Sweeper	超合金	items
+マサムネブレード	マサムネブレード	Masamune Blade			items
+ディオ激闘日記	ディオ 激闘[げきとう] 日記[にっき]	Combat Diary	Dio's Fierce Combat Diary	激闘日記	items
+サイン色紙	サイン 色紙[しきし]	Autograph	Signed Colored Paper	色紙	items
+人生バクチ打ち	人生[じんせい]バクチ 打[う]ち	Gambler	Gambler's Life	人生打	items
+アースハープ	アースハープ	Earth Harp			items
+デザートローズ	デザートローズ	Desert Rose			items
+ガイドブック	ガイドブック	Guide Book	Guidebook		items
+コットンのドレス	コットンのドレス	Cotton Dress			key-items
+サテンのドレス	サテンのドレス	Satin Dress			key-items
+シルクのドレス	シルクのドレス	Silk Dress			key-items
+クセゲのかつら	クセゲのかつら	Wig	Frizzy Wig		key-items
+チャバツのかつら	チャバツのかつら	Dyed Wig	Brown Wig		key-items
+ブロンドのかつら	ブロンドのかつら	Blonde Wig			key-items
+ガラスのティアラ	ガラスのティアラ	Glass Tiara			key-items
+ルビーのティアラ	ルビーのティアラ	Ruby Tiara			key-items
+ダイヤのティアラ	ダイヤのティアラ	Diamond Tiara			key-items
+コロン	コロン	Cologne			key-items
+フラワーコロン	フラワーコロン	Flower cologne	Flower Cologne		key-items
+セクシーコロン	セクシーコロン	Sexy Cologne			key-items
+ランジェリー	ランジェリー	Lingerie			key-items
+ビキニパンツ	ビキニパンツ	Bikini briefs	Bikini Underpants		key-items
+会員カード	会員[かいいん]カード	Member's Card	Membership Card	会員	key-items
+薬屋商品クーポン	薬屋[くすりや] 商品[しょうひん]クーポン	Pharmacy Coupons	Pharmacy Merchandise Coupon	薬屋商品	key-items
+消毒薬	消毒薬[しょうどくやく]	Disinfectant		消毒薬	key-items
+消臭薬	消臭[しょうしゅう] 薬[やく]	Deodorant		消臭薬	key-items
+消化薬	消化[しょうか] 薬[やく]	Digestive		消化薬	key-items
+カードキー６０～６８	カードキー６０～６８	Keycard 60~68	Card Key 60~68		key-items
+ミッドガルパーツ	ミッドガルパーツ	Midgar parts	Midgar Parts		key-items
+Ａ、Ｂ、Ｃクーポン	Ａ[えい]、 Ｂ[びー]、 Ｃ[しー]クーポン	A, B, C Coupon			key-items
+ミスリル	ミスリル	Mythril	Mithril		key-items
+ゴールドチケット	ゴールドチケット	Gold Ticket			key-items
+地下室の鍵	地下室[ちかしつ]の 鍵[かぎ]	Basement Key	Cellar Key	地下室鍵	key-items
+キーストーン	キーストーン	Keystone			key-items
+黒マテリア	黒[くろ]マテリア	Black Materia		黒	key-items
+ルナハープ	ルナハープ	Lunar Harp			key-items
+水神様のうろこ	水神[みずがみ] 様[さま]のうろこ	Leviathan Scales	Water God's Scales	水神様	enemy-commands
+大氷河の地図	大[だい] 氷河[ひょうが]の 地図[ちず]	Glacier Map	Great Glacier Map	大氷河地図	key-items
+スノーボード	スノーボード	Snowboard			key-items
+ヒュージマテリア	ヒュージマテリア	Huge Materia			key-items
+古代種の鍵	古代[こだい] 種[しゅ]の 鍵[かぎ]	Key to Ancients	Ancients' Key	古代種鍵	key-items
+５番街ゲートの鍵	５ 番[ばん] 街[がい]ゲートの 鍵[かぎ]	Key to Sector 5	District 5 Gate Key	番街鍵	key-items
+ファーストレイ	ファーストレイ	1st Ray	First Ray		enemies
+トゥーサイド	トゥーサイド	2-Faced	Two Side		enemies
+ヘクトアイズ	ヘクトアイズ	8 eye	Hecto Eyes		enemies
+アクロフィーズ	アクロフィーズ	Acrophies			enemies
+アダマンタイマイ	アダマンタイマイ	Adamantaimai			enemies
+空中兵	空中[くうちゅう] 兵[へい]	Aero Combatant	Sky Trooper	空中兵	enemies
+アーリマン	アーリマン	Allemagne	Ahriman		enemies
+エンシャントドラゴン	エンシャントドラゴン	Ancient Dragon			enemies
+アークドラゴン	アークドラゴン	Ark Dragon	Archdragon		enemies
+フルアーマーゴーレム	フルアーマーゴーレム	Armored Golem	Full Armor Golem		enemies
+親衛隊員	親衛隊[しんえいたい] 員[いん]	Attack Squad	Elite Guard Member	親衛隊員	enemies
+イビルラップ	イビルラップ	Bad Rap	Evil Wrap		enemies
+イビルラップサンプル	イビルラップサンプル	Bad Rap Sample	Evil Wrap Sample		enemies
+バグナドラナ	バグナドラナ	Bagnadrana			enemies
+バジリスク	バジリスク	Bagrisk	Basilisk		enemies
+ババヴェラウミュ	ババヴェラウミュ	Bahba Velamyu	Baba Velamyu		enemies
+バンダースナッチ	バンダースナッチ	Bandersnatch			enemies
+バンディット	バンディット	Bandit			enemies
+バッテリーキャップ	バッテリーキャップ	Battery Cap			enemies
+ビーチプラグ	ビーチプラグ	Beachplug	Beach Plug		enemies
+ベヒーモス	ベヒーモス	Behemoth			enemies
+怪奇虫	怪奇[かいき] 虫[ちゅう]	Bizarre Bug		怪奇虫	enemies
+ブラックバット	ブラックバット	Black Bat			enemies
+スウェルフロート	スウェルフロート	Bloatfloat	Swell Float		enemies
+ブラッドテイスト	ブラッドテイスト	Blood Taste			enemies
+ブルードラゴン	ブルードラゴン	Blue Dragon			enemies
+プアゾキュート	プアゾキュート	Blugu	Poissocute		enemies
+ボム	ボム	Bomb			enemies
+バウンドファット	バウンドファット	Boundfat	Bound Fat		enemies
+ブレインポッド	ブレインポッド	Brain Pod			enemies
+ブルモーター	ブルモーター	Bullmotor	Bull Motor		enemies
+サポテンダー	サポテンダー	Cactuar	Sapotender		enemies
+サボテンダー	サボテンダー	Cactuer	Sabotender		enemies
+キャッパワイヤ	キャッパワイヤ	Capparwire	Capper Wire		enemies
+隊長	隊長[たいちょう]	Captain		隊長	enemies
+カスタネッツ	カスタネッツ	Castanets			enemies
+シェザーシザー	シェザーシザー	Ceasar	Caesar Scissor		enemies
+チョコボ	チョコボ	Chocobo			enemies
+クリストファー	クリストファー	Christopher			enemies
+チュースタンク	チュースタンク	Chuse Tank	Chews Tank		enemies
+ＣＭＤ.グランドホーン	ＣＭＤ.グランドホーン	CMD.Grand Horn	CMD. Grand Horn		enemies
+コカトリス	コカトリス	Cokatolis	Cockatrice		enemies
+コルネオの部下	コルネオの 部下[ぶか]	Corneo's Lackey	Corneo's Subordinate	部下	enemies
+コルベット	コルベット	Corvette			enemies
+クロウラー	クロウラー	Crawler			enemies
+クレイジーソウ	クレイジーソウ	Crazy Saw			enemies
+クリプシェイ	クリプシェイ	Cripshay			enemies
+クロムウェル	クロムウェル	Cromwell			enemies
+クラウンランス	クラウンランス	Crown Lance			enemies
+クリセイルス	クリセイルス	Crysales	Chrysalis		enemies
+クアール	クアール	Cuahl	Coeurl		enemies
+スイーパーカスタム	スイーパーカスタム	Custom Sweeper	Sweeper Custom		enemies
+ダークドラゴン	ダークドラゴン	Dark Dragon			enemies
+デスクロー	デスクロー	Death Claw			enemies
+デスディーラー	デスディーラー	Death Dealer			enemies
+デスマシン	デスマシン	Death Machine			enemies
+ディーングロウ	ディーングロウ	Deenglow			enemies
+デザートサハギン	デザートサハギン	Desert Sahagin	Desert Sahuagin		enemies
+デビルライド	デビルライド	Devil Ride	Devil Rider		enemies
+ディアブロ	ディアブロ	Diablo			enemies
+ダイバーネスト	ダイバーネスト	Diver Nest			enemies
+ドァブゥル	ドァブゥル	Doorbull	Doubull		enemies
+ファニーフェイス	ファニーフェイス	Dorky Face	Funny Face		enemies
+ドラゴン	ドラゴン	Dragon			enemies
+ドラゴンライダー	ドラゴンライダー	Dragon Rider			enemies
+ドラゴンゾンビー	ドラゴンゾンビー	Dragon Zombie			enemies
+デュアルホーン	デュアルホーン	Dual Horn			enemies
+イーグルガン	イーグルガン	Eagle Gun			enemies
+刃頭獣	刃[は] 頭[あたま] 獣[じゅう]	Edgehead	Blade-Headed Animal	刃頭獣	enemies
+エレファダンク	エレファダンク	Elfadunk	Elephadunk		enemies
+エリゴル	エリゴル	Eligor			enemies
+エピオルニス	エピオルニス	Epiolnis	Aepyornis		enemies
+イビルヘッド	イビルヘッド	Evilhead	Evil Head		enemies
+フラップビート	フラップビート	Flapbeat	Flap Beat		enemies
+フラワープラング	フラワープラング	Flower Prong			enemies
+フォーミュラ	フォーミュラ	Formula			enemies
+フォールランダ	フォールランダ	Foulander			enemies
+フローズンネイル	フローズンネイル	Frozen Nail			enemies
+ふせや　かずまさクン	ふせや　かずまさクン	N/A	Kazumasa Fuseya		enemies
+バジガンディ	バジガンディ	Gagighandi	Basigandi		enemies
+ガーゴイル	ガーゴイル	Gargoyle			enemies
+ガルーダ	ガルーダ	Garuda			enemies
+ガスダクター	ガスダクター	Gas Ducter			enemies
+ギロフェルゴ	ギロフェルゴ	Ghirofelgo	Guillofellgo		enemies
+ゴースト	ゴースト	Ghost			enemies
+ゴーストシップ	ゴーストシップ	Ghost Ship			enemies
+ギ族の亡霊	ギ 族[ぞく]の 亡霊[ぼうれい]	Gi Spector	Gi tribe Apparition	族亡霊	enemies
+ギガース	ギガース	Gigas			enemies
+ジギィ	ジギィ	Gighee	Ziggy		enemies
+ゴブリン	ゴブリン	Goblin			enemies
+ゴーレム	ゴーレム	Golem			enemies
+グランドホーン	グランドホーン	Grand Horn			enemies
+グランガラン	グランガラン	Grangalan			enemies
+コグランガラン	コグランガラン	Grangalan Jr.	Grangalan's Child		enemies
+マゴグランガラン	マゴグランガラン	Grangalan Jr. Jr.	Grangalan's Grandchild		enemies
+グラシュトライク	グラシュトライク	Grashtrike			enemies
+グレムリン	グレムリン	Gremlin			enemies
+グレネード	グレネード	Grenade			enemies
+擲弾兵	擲弾[てきだん] 兵[へい]	Grenade Combatant	Grenadier	擲弾兵	enemies
+グリフォン	グリフォン	Griffin	Griffon		enemies
+グリムガード	グリムガード	Grimguard	Grim Guard		enemies
+グロスパンツァー・大砲塔	グロスパンツァー・ 大[たい] 砲塔[ほうとう]	Grosspanzer∙Big	Grosspanzer: Big Gun Turret	大砲塔	enemies
+グロスパンツァー・車体	グロスパンツァー・ 車体[しゃたい]	Grosspanzer∙Mobile	Grosspanzer: Frame	車体	enemies
+グロスパンツァー・小砲塔	グロスパンツァー・ 小[しょう] 砲塔[ほうとう]	Grosspanzer∙Small	Grosspanzer: Small Gun Turret	小砲塔	enemies
+戦闘員	戦闘員[せんとういん]	Grunt	Combatant	戦闘員	enemies
+ガードハウンド	ガードハウンド	Guard Hound			enemies
+ガードシステム	ガードシステム	Guard System			enemies
+ガーディアン	ガーディアン	Guardian			enemies
+ガンキャリアー	ガンキャリアー	Gun Carrier			enemies
+デジョンハンマ	デジョンハンマ	Hammer Blaster	Dezone Hammer		enemies
+ハードアタッカー	ハードアタッカー	Hard Attacker			enemies
+キマイラ	キマイラ	Harpy	Chimera		enemies
+ネックハンター	ネックハンター	Head Hunter	Neck Hunter		enemies
+ヘッドボンバー	ヘッドボンバー	Headbomber	Head Bomber		enemies
+ヘビータンク	ヘビータンク	Heavy Tank			enemies
+ヘッジホッグパイ	ヘッジホッグパイ	Hedgehog Pie			enemies
+ニーズへッグ	ニーズへッグ	Heg	Nidhogg		enemies
+ヘルハウス	ヘルハウス	Hell House			enemies
+ヘルハーレーＶＲ２	ヘルハーレーＶＲ２	Hell Rider VR2	Hell Harley VR2		enemies
+ヒポグリフ	ヒポグリフ	Hippogriff			enemies
+オチュー	オチュー	Ho-chu	Otyugh		enemies
+ハングリー	ハングリー	Hungry			enemies
+アイスゴーレム	アイスゴーレム	Ice Golem			enemies
+つらら	つらら	Icicle			enemies
+鉄巨人	鉄[てつ] 巨人[きょじん]	Iron Man	Iron Giant	鉄巨人	enemies
+アイロネート	アイロネート	Ironite	Ironet		enemies
+ジェジュジェミ	ジェジュジェミ	Jayjujayme			enemies
+ジェミニスミー	ジェミニスミー	Jemnezmy	Geminismi		enemies
+ジャッジ	ジャッジ	Jersey	Judge		enemies
+ジョーカー	ジョーカー	Joker			enemies
+ジャンピング	ジャンピング	Jumping			enemies
+カームファング	カームファング	Kalm Fang			enemies
+ゲルシュメルゼ	ゲルシュメルゼ	Kelzmelzer	Gel Schmelze		enemies
+キュルビヌュ	キュルビヌュ	Killbin	Curubinew		enemies
+インセクトキマラ	インセクトキマラ	Kimara Bug	Insect Chimera		enemies
+キングベヒーモス	キングベヒーモス	King Behemoth			enemies
+キュビルデュヌス	キュビルデュヌス	Kyuvilduns	Kuvildunus		enemies
+ランドウォーム	ランドウォーム	Land Worm			enemies
+レーザーキャノン	レーザーキャノン	Laser Cannon			enemies
+レッサーロプロス	レッサーロプロス	Lessaloploth	Lesser Ropross		enemies
+レブリコン	レブリコン	Levrikon			enemies
+マシンガン	マシンガン	Machine Gun			enemies
+マドゥジュ	マドゥジュ	Madouge			enemies
+マジックポット	マジックポット	Magic Pot			enemies
+マグナード	マグナード	Magnade			enemies
+モルボル	モルボル	Malboro	Morbol		enemies
+モールダンサー	モールダンサー	Malldancer	Maul Dancer		enemies
+マンドラゴラ	マンドラゴラ	Mandragora			enemies
+マンホール	マンホール	Manhole			enemies
+海兵隊員	海兵隊[かいへいたい] 員[いん]	Marine		海兵隊員	enemies
+マスタートンベリ	マスタートンベリ	Master Tonberry			enemies
+まつむら　やすしクン	まつむら　やすしクン	N/A	Yasushi Matsumara		enemies
+マキシマムキマイラ	マキシマムキマイラ	Maximum Kimaira	Maximum Chimera		enemies
+ミドガルズオルム	ミドガルズオルム	Midgar Zolom	Midgardsormr		enemies
+強化戦闘員	強化[きょうか] 戦闘員[せんとういん]	Mighty Grunt	Strengthened Combatant	強化戦闘員	enemies
+ミラージュ	ミラージュ	Mirage			enemies
+モノドライブ	モノドライブ	Mono Drive			enemies
+モススラッシャー	モススラッシャー	Moth Slasher	Moss Slasher		enemies
+ムーバー	ムーバー	Mover			enemies
+警備兵	警備兵[けいびへい]	MP	Guard	警備兵	enemies
+ムー	ムー	Mu			enemies
+謎のニンジャ	謎[なぞ]のニンジャ	Mystery Ninja	Mysterious Ninja	謎	enemies
+ニードルキッス	ニードルキッス	Needle Kiss			enemies
+ネロスフェロス	ネロスフェロス	Nerosuferoth	Nerospheroth		enemies
+ニブルウルフ	ニブルウルフ	Nibel Wolf	Nifl Wolf		enemies
+パラサイト	パラサイト	Parasite			enemies
+ポーランサリタ	ポーランサリタ	Pollensalta	Pouran Salita		enemies
+プドゥレア	プドゥレア	Poodler	Poderare		enemies
+プドゥレアサンプル	プドゥレアサンプル	Poodler Sample	Poderare Sample		enemies
+プロトマシンガン	プロトマシンガン	Proto Machinegun	Proto Machine Gun		enemies
+プラウラー	プラウラー	Prowler			enemies
+ピラミッド	ピラミッド	Pyramid			enemies
+クイックマシンガン	クイックマシンガン	Quick Machine Gun			enemies
+足斬草	足[あし] 斬[き] 草[そう]	Razor Weed	Foot-Cutting Grass	足斬草	enemies
+リルフサック	リルフサック	Rilfsak			enemies
+ミサイルランチャー	ミサイルランチャー	Rocket Launcher	Missile Launcher		enemies
+カノンルーレット	カノンルーレット	Roulette Cannon	Cannon Roulette		enemies
+サハギン	サハギン	Sahagin	Sahuagin		enemies
+サンプル：Ｈ０５１２‐ＯＰＴ	サンプル： Ｈ[えいち]０５１２‐ＯＰＴ	Sample:H0512-opt	Sample: H0512-OPT		enemies
+シザース	シザース	Scissors			enemies
+ソッチ	ソッチ	Scotch	Sotci		enemies
+スクリーマー	スクリーマー	Screamer			enemies
+サーチアイ	サーチアイ	Scrutin Eye	Search Eye		enemies
+スカルプチュア	スカルプチュア	Sculpture			enemies
+シーウォーム	シーウォーム	Sea Worm			enemies
+サーチャクラウン	サーチャクラウン	Search Crown	Searcher Crown		enemies
+上級戦闘員	上級[じょうきゅう] 戦闘員[せんとういん]	Senior Grunt	Senior Combatant	上級戦闘員	enemies
+サーペント	サーペント	Serpent			enemies
+シャドウメーカー	シャドウメーカー	Shadow Maker			enemies
+シュレッド	シュレッド	Shred			enemies
+キキキアチョ	キキキアチョ	Skeeskee	Kikiki Bird		enemies
+スラローム	スラローム	Slalom			enemies
+スラップス	スラップス	Slaps			enemies
+スモッグファクト	スモッグファクト	Smogger	Smog Factory		enemies
+ステルシーステップ	ステルシーステップ	Sneaky Step	Stealthy Step		enemies
+スノウ	スノウ	Snow			enemies
+ソルジャー：１ＳＴ	ソルジャー：１ＳＴ	SOLDIER:1st	Soldier: 1ST		enemies
+ソルジャー：２ＮＤ	ソルジャー：２ＮＤ	SOLDIER:2nd	Soldier: 2ND		enemies
+ソルジャー：３ＲＤ	ソルジャー：３ Ｒ[らうんど] Ｄ[でぃー]	SOLDIER:3rd	Soldier: 3RD		enemies
+スピードサウンド	スピードサウンド	Sonic Speed	Speed Sound		enemies
+ソウルファイア	ソウルファイア	Soul Fire			enemies
+特殊戦闘員	特殊[とくしゅ] 戦闘員[せんとういん]	Special Combatant		特殊戦闘員	enemies
+スペンサー	スペンサー	Spencer	Spenser		enemies
+スパイラル	スパイラル	Spiral			enemies
+スティルヴ	スティルヴ	Stilva	Stilve		enemies
+スティンガー	スティンガー	Stinger			enemies
+神羅潜水兵	神[しん] 羅[ら] 潜水[せんすい] 兵[へい]	Submarine Crew	Shinra Submariner	神羅潜水兵	enemies
+スイーパー	スイーパー	Sweeper			enemies
+ソードダンス	ソードダンス	Sword Dance			enemies
+尾跳飛	尾跳飛[びちょうひ]	Tail Vault	Tail Leap	尾跳飛	enemies
+雷神鳥	雷神[らいじん] 鳥[ちょう]	Thunderbird	Raijin Bird	雷神鳥	enemies
+トーンアドゥ	トーンアドゥ	Tonadu	Tornade		enemies
+トンベリ	トンベリ	Tonberry			enemies
+タッチミー	タッチミー	Touch Me			enemies
+ポイズンフロッグ	ポイズンフロッグ	Toxic Frog	Poison Frog		enemies
+トリックプレイ	トリックプレイ	Trickplay	Trick Prey		enemies
+ダブルブレイン	ダブルブレイン	Twin Brain	Double Brain		enemies
+アンダーリザード	アンダーリザード	Under Lizard			enemies
+海底警備兵	海底[かいてい] 警備兵[けいびへい]	Underwater MP	Seabed Guard	海底警備兵	enemies
+正体不明	正体不明[しょうたいふめい]	Unknown	Form Unknown	正体不明	enemies
+正体不明２	正体不明[しょうたいふめい]２	Unknown 2	Form Unknown 2	正体不明	enemies
+正体不明３	正体不明[しょうたいふめい]３	Unknown 3	Form Unknown 3	正体不明	enemies
+バルロン	バルロン	Valron	Balron		enemies
+ヴァギドポリス	ヴァギドポリス	Vargid Police	Vagidopolis		enemies
+ベルチャータスク	ベルチャータスク	Velcher Task	Belcher Task		enemies
+ヴァイス	ヴァイス	Vice			enemies
+ブラキオレイドス	ブラキオレイドス	Vlakorados	Brachioraidus		enemies
+警告板	警告[けいこく] 板[ばん]	Warning Board		警告板	enemies
+水球	水球[すいきゅう]	Waterpolo	Water Ball	水球	enemies
+ホウルイーター	ホウルイーター	Whole Eater	Hole Eater		enemies
+ウィンドウィング	ウィンドウィング	Wind Wing			enemies
+ウルフラマイター	ウルフラマイター	Wolfmeister	Wolfraimiter		enemies
+超級怒龍砲	超[ちょう] 級[きゅう] 怒[ど] 龍[りゅう] 砲[ほう]	XCannon	Transultimate Angry Dragon Cannon	超級怒龍砲	enemies
+ヤン	ヤン	Yang			enemies
+イン	イン	Ying	Yin		enemies
+ゼムゼレット	ゼムゼレット	Zemzelett			enemies
+ゼネネ	ゼネネ	Zenene			enemies
+ゾロカルター	ゾロカルター	Zolokalter			enemies
+ズー	ズー	Zuu			enemies
+エアバスター	エアバスター	Air Buster			bosses
+アプス	アプス	Aps	Apsu		bosses
+リバース・セフィロス	リバース・セフィロス	Bizarro∙Sephiroth	Rebirth Sephiroth		bosses
+ボトムスウェル	ボトムスウェル	Bottomswell			bosses
+キャリーアーマー	キャリーアーマー	Carry Armor			bosses
+チェホフ	チェホフ	Chekov	Chekhov		bosses
+ダークネイション	ダークネイション	Dark Nation			bosses
+デモンズゲイト	デモンズゲイト	Demons Gate	Demon's Gate		bosses
+ダイヤウェポン	ダイヤウェポン	Diamond Weapon			bosses
+ダイン	ダイン	Dyne			bosses
+エメラルドウェポン	エメラルドウェポン	Emerald Weapon			bosses
+目	目[め]	Eye		目	bosses
+ギ・ナタタク	ギ・ナタタク	Gi Nattak	Gi Natatak		bosses
+ゴドー	ゴドー	Godo	Godot		bosses
+ゴーリキー	ゴーリキー	Gorkii	Gorky		bosses
+ガードスコーピオン	ガードスコーピオン	Guard Scorpion			bosses
+ヘリガンナー	ヘリガンナー	Heli Gunner			bosses
+ヘレティック宝条	ヘレティック 宝[たから] 条[じょう]	Helletic Hojo	Heretic Hojo	宝条	bosses
+宝条	宝[たから] 条[じょう]	Hojo		宝条	bosses
+ハンドレッドガンナー	ハンドレッドガンナー	Hundred Gunner			bosses
+ジャマーアーマー	ジャマーアーマー	Jamar Armor	Jammer Armor		bosses
+ジェノバ・ＢＩＲＴＨ	ジェノバ・ＢＩＲＴＨ	Jenova∙BIRTH	Jenova: BIRTH		bosses
+ジェノバ・ＬＩＦＥ	ジェノバ・ＬＩＦＥ	Jenova∙LIFE	Jenova: LIFE		bosses
+ジェノバ・ＤＥＡＴＨ	ジェノバ・ＤＥＡＴＨ	Jenova∙DEATH	Jenova: DEATH		bosses
+ジェノバ・ＳＹＮＴＨＥＳＩＳ	ジェノバ・ＳＹＮＴＨＥＳＩＳ	Jenova∙SYNTHESIS	Jenova: SYNTHESIS		bosses
+左腕	左[ひだり] 腕[うで]	Left Arm (Helletic Hojo)	Left Arm	左腕	bosses
+極限生命体宝条ＮＡ	極限[きょくげん] 生命体[せいめいたい] 宝[ほう] 条[じょう] ＮＡ	Lifeform-Hojo N	Extreme Lifeform Hojo NA	極限生命体宝条	bosses
+ロストナンバー	ロストナンバー	Lost Number			bosses
+マテリアキーパー	マテリアキーパー	Materia Keeper			bosses
+モーターボール	モーターボール	Motor Ball	Motorball		bosses
+パルマー	パルマー	Palmer			bosses
+プラウド・クラッド	プラウド・クラッド	Proud Clod	Proudclad		bosses
+ラプス	ラプス	Rapps	Rapsu		bosses
+レッドドラゴン	レッドドラゴン	Red Dragon			bosses
+右腕	右[みぎ] 腕[うで]	Right Arm (Helletic Hojo)	Right Arm	右腕	bosses
+ルビーウェポン	ルビーウェポン	Ruby Weapon			bosses
+触手	触手[しょくしゅ]	Ruby's Tentacle	Tentacle	触手	bosses
+ルーファウス	ルーファウス	Rufus			bosses
+サンプル：Ｈ０５１２	サンプル： Ｈ[えいち]０５１２	Sample:H0512	Sample: H0512		bosses
+セーファ・セフィロス	セーファ・セフィロス	Safer∙Sephiroth	Sepher Sephiroth		bosses
+ツインヘッド	ツインヘッド	Schizo	Twinhead		bosses
+セフィロス	セフィロス	Sephiroth			bosses
+シェイク	シェイク	Shake			bosses
+スタニフ	スタニフ	Staniv			bosses
+タークス: イリーナ	タークス:イリーナ	Turks:Elena	Turks: Irena		bosses
+タークス: レノ	タークス:レノ	Turks:Reno	Turks: Reno		bosses
+タークス: ルード	タークス:ルード	Turks:Rude	Turks: Rude		bosses
+？？？	？？？	???			enemy-commands
+怪しい針	怪[あや]しい 針[はり]	? Needle	Suspicious Needle	怪針	enemy-commands
+ハンドレッドニードル	ハンドレッドニードル	100 Needles			enemy-commands
+はりせんぼん	はりせんぼん	1000 Needles			enemy-commands
+２段アタック	２ 段[だん]アタック	2-stage Attack	Double Attack	段	enemy-commands
+ＡＢ砲	ＡＢ[えいびー] 砲[ほう]	AB Cannon		砲	enemy-commands
+異常ブレス	異常[いじょう]ブレス	Abnormal Breath	Abnormality Breath	異常	enemy-commands
+ステータス異常弾	ステータス 異常[いじょう] 弾[だん]	Abnormal Shell	Status Abnormality Shell	異常弾	enemy-commands
+吸収	吸収[きゅうしゅう]	Absorb		吸収	enemy-commands
+アシッドシャワー	アシッドシャワー	Acid Rain	Acid Shower		enemy-commands
+アドレナリン	アドレナリン	Adrenaline			enemy-commands
+エアロガ	エアロガ	Aero3	Aeroga		enemy-commands
+エアボンバー	エアボンバー	Air Bomber			enemy-commands
+エメラルドビッグバン	エメラルドビッグバン	Aire Tam Storm	Emerald Big Bang		enemy-commands
+角突き	角[つの] 突[つ]き	Angle Punch	Horn Thrust	角突	enemy-commands
+アームアタック	アームアタック	Arm Attack			enemy-commands
+アームキヤッチ	アームキヤッチ	Arm Grab	Arm Catch		enemy-commands
+アームパンチ	アームパンチ	Arm Punch			enemy-commands
+アスピル	アスピル	Aspil			enemy-commands
+アトミックレイ	アトミックレイ	Atomic Ray			enemy-commands
+オーロラフェンス	オーロラフェンス	Aurora Fence			enemy-commands
+木の葉乱舞	木の葉[このは] 乱舞[らんぶ]	Autumn Leaves	Wild Leaf Dance	木葉乱舞	enemy-commands
+副砲	副[ふく] 砲[ほう]	Aux Artillery	Auxiliary Cannon	副砲	enemy-commands
+雪崩	雪崩[なだれ]	Avalanche		雪崩	enemy-commands
+ののしる	ののしる	Bad mouth	Insult		enemy-commands
+暴れる	暴[あば]れる	Ballistic	Rage	暴	enemy-commands
+クチバシ	クチバシ	Beak			enemy-commands
+ビームキャノン	ビームキャノン	Beam Cannon			enemy-commands
+マシンガンビーム	マシンガンビーム	Beam Gun	Machine Gun Beam		enemy-commands
+ビーストソード	ビーストソード	Beast Sword			enemy-commands
+バーサク針	バーサク 針[はり]	Berserk Needle		針	enemy-commands
+まどわしハート	まどわしハート	Bewildered	Bewildering Heart		enemy-commands
+ビッグボンバー	ビッグボンバー	Big Bomber			enemy-commands
+大口ブレス	大口[おおぐち]ブレス	Big Breath	Big Mouth Breath	大口	enemy-commands
+ビッグクロウ	ビッグクロウ	Big Claw			enemy-commands
+ビッグファング	ビッグファング	Big Fang			enemy-commands
+ビッグハンドクラッシュ	ビッグハンドクラッシュ	Big Hand Clash	Big Hand Crush		enemy-commands
+大角	大[おお] 角[つの]	Big Horn		大角	enemy-commands
+大花粉	大[だい] 花粉[かふん]	Big Pollen		大花粉	enemy-commands
+ビッグパンチ	ビッグパンチ	Big Punch			enemy-commands
+ビッグレッドクリッパー	ビッグレッドクリッパー	Big Red Clipper			enemy-commands
+大音波	大[だい] 音波[おんぱ]	Big Sound	Big Soundwave	大音波	enemy-commands
+大旋回	大[だい] 旋回[せんかい]	Big Spiral	Big Rotation	大旋回	enemy-commands
+ビッグスイング	ビッグスイング	Big Swing			enemy-commands
+ビッグウェーブ	ビッグウェーブ	Big Wave			enemy-commands
+バイオガス	バイオガス	Bio Gas			enemy-commands
+鳥キック	鳥[とり]キック	Bird Kick		鳥	enemy-commands
+かみつき	かみつき	Bite			enemy-commands
+リバース・エナジー	リバース・エナジー	Bizzarro Enegy	Rebirth Energy		enemy-commands
+ブラスター	ブラスター	Blaster			enemy-commands
+吸血	吸血[きゅうけつ]	Blood Suck		吸血	enemy-commands
+ブラッドネイル	ブラッドネイル	Bloody Nail	Blood Nail		enemy-commands
+ふきとばし	ふきとばし	Blown Away	Blow Away		enemy-commands
+ブルードラゴンブレス	ブルードラゴンブレス	Blue Dragon Breath			enemy-commands
+ブルーフレーム	ブルーフレーム	Blue Flame			enemy-commands
+ブルーインパルス	ブルーインパルス	Blue Impulse			enemy-commands
+青い光	青[あお]い 光[ひかり]	Blue Light		青光	enemy-commands
+全体尾	全体[ぜんたい] 尾[び]	Body Tail	Whole Tail	全体尾	enemy-commands
+体当たり	体当[たいあ]たり	Bodyblow	Body Blow	体当	enemy-commands
+電撃球	電撃[でんげき] 球[きゅう]	Bolt Ball	Shock Ball	電撃球	enemy-commands
+ボム爆発	ボム 爆発[ばくはつ]	Bomb Blast	Bomb Explosion	爆発	enemy-commands
+ボーン	ボーン	Bone			enemy-commands
+軟骨剣	軟骨[なんこつ] 剣[けん]	Bonecutter	Cartilage Sword	軟骨剣	enemy-commands
+アワ	アワ	Bubble			enemy-commands
+虫針	虫[むし] 針[ばり]	Bug Needle		虫針	enemy-commands
+バタフライアタック	バタフライアタック	Butterfly Attack			enemy-commands
+Ｃ砲	Ｃ[しー] 砲[ほう]	C Cannon		砲	enemy-commands
+カプセル	カプセル	Capsule			enemy-commands
+カタパルト	カタパルト	Catapult			enemy-commands
+落盤	落盤[らくばん]	Cave-in		落盤	enemy-commands
+突進	突進[とっしん]	Charge		突進	enemy-commands
+チョコボ、あばれる	チョコボ、あばれる	Chocobo goes nuts	Chocobo, raging		enemy-commands
+急降下アタック	急降下[きゅうこうか]アタック	Chute Attack	Swoop Attack	急降下	enemy-commands
+ツメ	ツメ	Claw			enemy-commands
+クラブ	クラブ	Club			enemy-commands
+ぼくさつにんじんソード	ぼくさつにんじんソード	Club Sword	Fatal Carrot Sword		enemy-commands
+冷気	冷気[れいき]	Cold		冷気	enemy-commands
+コールドブレス	コールドブレス	Cold Breath			enemy-commands
+指冷凍弾	指[ゆび] 冷凍[れいとう] 弾[だん]	Cold Snap	Freezing Finger Bullet	指冷凍弾	enemy-commands
+コンボ	コンボ	Combo			enemy-commands
+混乱ミサイル	混乱[こんらん]ミサイル	Confu Missile	Confusion Missile	混乱	enemy-commands
+混乱鱗粉	混乱[こんらん] 鱗粉[りんぷん]	Confu-scales	Confusion Scales	混乱鱗粉	enemy-commands
+連続ツメ	連続[れんぞく]ツメ	Continu-claw	Continuous Claw	連続	enemy-commands
+ひび	ひび	Crack			enemy-commands
+マッドクロウ	マッドクロウ	Crazy Claw	Mad Claw		enemy-commands
+不気味タッチ	不気味[ぶきみ]タッチ	Creepy Touch	Eerie Touch	不気味	enemy-commands
+クロスインパルス	クロスインパルス	Cross Impulse			enemy-commands
+クロスシザー	クロスシザー	Cross Scissor			enemy-commands
+押し潰す	押[お]し 潰[つぶ]す	Crush		押潰	enemy-commands
+のろいの言葉	のろいの 言葉[ことば]	Curses	Cursed Words	言葉	enemy-commands
+きり	きり	Cut	Slash		enemy-commands
+カッター	カッター	Cutter			enemy-commands
+ダメージ攻撃	ダメージ 攻撃[こうげき]	Damage Attack		攻撃	enemy-commands
+ダンス	ダンス	Dance			enemy-commands
+ダークドラゴンブレス	ダークドラゴンブレス	Dark Dragon Breath			enemy-commands
+ダークニードル	ダークニードル	Dark Needle			enemy-commands
+ダークアイ	ダークアイ	Darkeye	Dark Eye		enemy-commands
+危ない針	危[あぶ]ない 針[はり]	Deadly Needles	Dangerous Needle	危針	enemy-commands
+デッドリーホイール	デッドリーホイール	Deadly Wheel			enemy-commands
+デイン	デイン	Deen			enemy-commands
+デモンズクラッシュ	デモンズクラッシュ	Demon Rush	Demon's Rush		enemy-commands
+ダイヤ	ダイヤ	Diamond			enemy-commands
+ダイヤファイア	ダイヤファイア	Diamond Fire			enemy-commands
+ダイヤフラッシュ	ダイヤフラッシュ	Diamond Flash			enemy-commands
+タイブキック	タイブキック	Dive Kick			enemy-commands
+かわす	かわす	Dodge			enemy-commands
+ヒレパンチ	ヒレパンチ	Dorsal Punch	Fin Punch		enemy-commands
+ダブルブレス	ダブルブレス	Double Breath			enemy-commands
+タブルショット	タブルショット	Double Shot			enemy-commands
+怒龍砲	怒[ど] 龍[りゅう] 砲[ほう]	Dragon Cannon	Angry Dragon Cannon	怒龍砲	enemy-commands
+龍宮の舞	龍[りゅう] 宮[ぐう]の 舞[まい]	Dragon Dance	Dragon Shrine Dance	龍宮舞	enemy-commands
+ドラゴンファング	ドラゴンファング	Dragon Fang			enemy-commands
+ドレイン	ドレイン	Drain			enemy-commands
+ドリフトターン	ドリフトターン	Drift Turn			enemy-commands
+ドリルドライブ	ドリルドライブ	Drilldrive	Drill Drive		enemy-commands
+ツインアタック	ツインアタック	Dual Attack	Twin Attack		enemy-commands
+ダブルスパイク	ダブルスパイク	Dual Spike	Double Spike		enemy-commands
+両翼射撃	両翼[りょうよく] 射撃[しゃげき]	Dual Wing Fire	Double Wing Fire	両翼射撃	enemy-commands
+アースクエイク	アースクエイク	Earthquake			enemy-commands
+食べる	食[た]べる	Eat		食	enemy-commands
+放電	放電[ほうでん]	Electric Burst	Electric Discharge	放電	enemy-commands
+電磁ロッド	電磁[でんじ]ロッド	Electro-Mag Rod	Electromagnetic Rod	電磁	enemy-commands
+磁場転換	磁場[じば] 転換[てんかん]	Electromag	Reverse Polarity	磁場転換	enemy-commands
+電気ロッド	電気[でんき]ロッド	Electroprod	Electric Rod	電気	enemy-commands
+電気ロッド・マーク２	電気[でんき]ロッド・マーク２	Electroprod 2	Electric Rod Mark 2	電気	enemy-commands
+エメラルドビーム	エメラルドビーム	Emerald Beam			enemy-commands
+エメラルドレーザー	エメラルドレーザー	Emerald Laser			enemy-commands
+エメラルドシュート	エメラルドシュート	Emerald Shoot			enemy-commands
+教皇	教皇[きょうこう]	Emperor	The Hierophant	教皇	enemy-commands
+エナジーボール	エナジーボール	Energy Ball			enemy-commands
+エネルギー吸収	エネルギー 吸収[きゅうしゅう]	Energy Siphon	Energy Absorb	吸収	enemy-commands
+射出	射出[しゃしゅつ]	Erupt	Emit	射出	enemy-commands
+噴火	噴火[ふんか]	Eruption		噴火	enemy-commands
+ずらかる	ずらかる	Escape			enemy-commands
+みんなのうらみ	みんなのうらみ	Everyone's Grudge			enemy-commands
+イビルポイズン	イビルポイズン	Evil Poison			enemy-commands
+究極逆鱗ボンバー	究極[きゅうきょく] 逆鱗[げきりん]ボンバー	Extreme Bomber	Ultimate Wrath Bomber	究極逆鱗	enemy-commands
+落石	落石[らくせき]	Falling Rocks	Falling Rock	落石	enemy-commands
+キバ	キバ	Fang			enemy-commands
+魅惑	魅惑[みわく]	Fascination	Attraction	魅惑	enemy-commands
+フィンガーショット	フィンガーショット	Finger Shot			enemy-commands
+ルーレットファイア	ルーレットファイア	Fire Roulette	Roulette Fire		enemy-commands
+火弾	火[ひ] 弾[だん]	Fire Shell	Fire Bullet	火弾	enemy-commands
+ファイアボール	ファイアボール	Fireball			enemy-commands
+一斉射撃	一斉射撃[いっせいしゃげき]	Firing Line	Line Fire	一斉射撃	enemy-commands
+火炎	火炎[かえん]	Flame	Blaze	火炎	enemy-commands
+炎の舞	炎[ほのお]の 舞[まい]	Flame Dance		炎舞	enemy-commands
+百烈突き	百[ひゃく] 烈[れつ] 突[つ]き	Flaming Peck	100 Fierce Stabs	百烈突	enemy-commands
+はばたき	はばたき	Flap			enemy-commands
+ふえでなぐる	ふえでなぐる	Flutilizer	Flute Strike		enemy-commands
+フライングドリル	フライングドリル	Flying Drill			enemy-commands
+空中ハンマー	空中[くうちゅう]ハンマー	Flying Hammer	Aerial Hammer	空中	enemy-commands
+空中混乱ハンマー	空中[くうちゅう] 混乱[こんらん]ハンマー	Flying Muddle	Aerial Confusion Hammer	空中混乱	enemy-commands
+かまいたち	かまいたち	Flying Sickle	Whirlwind Cut		enemy-commands
+フライアッパー	フライアッパー	Flying Upper	Fly Upper		enemy-commands
+空中いきなりハンマー	空中[くうちゅう]いきなりハンマー	Flying Zip	Aerial Sudden Hammer	空中	enemy-commands
+空中いきなり混乱	空中[くうちゅう]いきなり 混乱[こんらん]	Flying Zip Confu	Aerial Sudden Confusion	空中混乱	enemy-commands
+踏みつぶし	踏[ふ]みつぶし	Foot Stamp	Trample	踏	enemy-commands
+フォーレーザー	フォーレーザー	Four Laser			enemy-commands
+カエルパンチ	カエルパンチ	Frog Jab	Frog Punch		enemy-commands
+冷凍光線	冷凍[れいとう] 光線[こうせん]	Frozen Beam	Freezing Beam	冷凍光線	enemy-commands
+ファニーの息	ファニーの 息[いき]	Funny Breath		息	enemy-commands
+いかり	いかり	Fury	Anger		enemy-commands
+ガス	ガス	Gas			enemy-commands
+切りきざみ	切[き]りきざみ	Gash	Mincer	切	enemy-commands
+ゲヘナガナー	ゲヘナガナー	Ghenghana	Gehenna Ganar		enemy-commands
+ちょうだい	ちょうだい	Gimme			enemy-commands
+グラスカッター	グラスカッター	Glasscutter	Glass Cutter		enemy-commands
+ご案内	ご 案内[あんない]	Goannai	Guidance	案内	enemy-commands
+金山	金山[きんざん]	Gold Mountain	Gold Mine	金山	enemy-commands
+ゴーレムレーザー	ゴーレムレーザー	Golem Laser			enemy-commands
+ゴーレムパンチ	ゴーレムパンチ	Golem Punch			enemy-commands
+グランドアタック	グランドアタック	Grand Attack			enemy-commands
+グランドパンチ	グランドパンチ	Grand Punch			enemy-commands
+地走り	地[じ] 走[ばし]り	Grand Spark	Ground Racer	地走	enemy-commands
+グランドソード	グランドソード	Grand Sword			enemy-commands
+グラス突き	グラス 突[つ]き	Grass Punch	Grass Thrust	突	enemy-commands
+大旋風	大[だい] 旋風[せんぷう]	Great Gale	Great Whirlwind	大旋風	enemy-commands
+グリムロッド	グリムロッド	Grim Rod			enemy-commands
+スる	ス[す]る	Grind	Pickpocket		enemy-commands
+強化戦闘員死亡	強化[きょうか] 戦闘員[せんとういん] 死亡[しぼう]	Grunt Death	Strengthened Combatant Death	強化戦闘員死亡	enemy-commands
+ギロチン	ギロチン	Guillotine			enemy-commands
+ギタービンタ	ギタービンタ	Guitar Slap			enemy-commands
+ホールトウィップ	ホールトウィップ	Halt Whip			enemy-commands
+ハンマーアタック	ハンマーアタック	Hammer Attack			enemy-commands
+ハンドクロウ	ハンドクロウ	Handclaw	Hand Claw		enemy-commands
+ハリアー	ハリアー	Harrier			enemy-commands
+ハリアービーム	ハリアービーム	Harrier Beam			enemy-commands
+モリ	モリ	Harpoon			enemy-commands
+ヘッドアタック	ヘッドアタック	Head Attack			enemy-commands
+首狩り	首狩[くびか]り	Head Hunting	Headhunting	首狩	enemy-commands
+大首狩り	大[だい] 首狩[くびか]り	Head Hunting 2	Big Headhunting	大首狩	enemy-commands
+ハート	ハート	Heart			enemy-commands
+こころない天使	こころない 天使[てんし]	Heartless Angel		天使	enemy-commands
+ヒートウィング	ヒートウィング	Heatwing	Heat Wing		enemy-commands
+ヘビーソード	ヘビーソード	Heavy Sword			enemy-commands
+ヘルボンバー	ヘルボンバー	Hell Bomber			enemy-commands
+アワ地獄	アワ 地獄[じごく]	Hell Bubbles	Bubble Hell	地獄	enemy-commands
+ヘルコンボ	ヘルコンボ	Hell Combo			enemy-commands
+ヘルプレス	ヘルプレス	Hell Press			enemy-commands
+地獄のヤリ	地獄[じごく]のヤリ	Hell Spear		地獄	enemy-commands
+副砲内隠し砲	副[ふく] 砲[ほう] 内隠[うちかく]し 砲[ほう]	Hidden Artillery	Cannon Hidden in the Auxiliary Cannon	副砲内隠砲	enemy-commands
+隠者	隠者[いんじゃ]	Hidden One	The Hermit	隠者	enemy-commands
+組曲ハイ＆ロウ	組曲[くみきょく]ハイ＆ロウ	High/Low Suit	Musical Suite High & Low	組曲	enemy-commands
+ハイウェイ登場	ハイウェイ 登場[とうじょう]	Highway	Highway Entry	登場	enemy-commands
+なぐる	なぐる	Hit			enemy-commands
+かつあげ	かつあげ	Hold-up	Shakedown		enemy-commands
+角	角[つの]	Horn		角	enemy-commands
+ホーンボンバー	ホーンボンバー	Horn Bomber			enemy-commands
+ホーンリフト	ホーンリフト	Horn Lift			enemy-commands
+温泉	温泉[おんせん]	Hot Springs	Hot Spring	温泉	enemy-commands
+遠吠え	遠吠[とおぼ]え	Howling	Howl	遠吠	enemy-commands
+大津波	大津波[おおつなみ]	Huge Tidal Wave	Big Tsunami	大津波	enemy-commands
+つららおとし	つららおとし	Icicle Drop			enemy-commands
+鉄撃震	鉄[てつ] 撃震[げきしん]	Iron Attack	Iron Attack Quake	鉄撃震	enemy-commands
+てっつい	てっつい	Iron Mallet	Iron Hammer		enemy-commands
+鉄球	鉄球[てっきゅう]	Ironball	Iron Ball	鉄球	enemy-commands
+イソギンスモッグ	イソギンスモッグ	Isogin Smog	Anemone Smog		enemy-commands
+ジャンプアタック	ジャンプアタック	Jump Attack			enemy-commands
+ジャンプキック	ジャンプキック	Jump Kick			enemy-commands
+ジャンピングブロウ	ジャンピングブロウ	Jumping Blow			enemy-commands
+ジャンプ軟骨剣	ジャンプ 軟骨[なんこつ] 剣[けん]	Jumping Cutter	Jumping Cartilage Sword	軟骨剣	enemy-commands
+カギヅメ	カギヅメ	Keyclaw	Talon		enemy-commands
+キック	キック	Kick			enemy-commands
+キングテイル	キングテイル	King Teel	King Tail		enemy-commands
+ニーブレンド	ニーブレンド	Knee Blend			enemy-commands
+ニーファイア	ニーファイア	Knee Fire			enemy-commands
+ほうちょう	ほうちょう	Knife	Kitchen Knife		enemy-commands
+レベル２コンフュ	レベル２コンフュ	L2 Confu	Level 2 Confu		enemy-commands
+レベル３フレア	レベル３フレア	L3 Flare	Level 3 Flare		enemy-commands
+レベル４デス	レベル４デス	L4 Death	Level 4 Death		enemy-commands
+ラピスレーザー	ラピスレーザー	Lapis Laser			enemy-commands
+へばりつき	へばりつき	Lay Flat	Cling		enemy-commands
+レフトブレス	レフトブレス	Left Breath			enemy-commands
+ラストレフトブレス	ラストレフトブレス	Left Breath 2	Last Left Breath		enemy-commands
+左手復活	左手[ひだりて] 復活[ふっかつ]	Left Hand Revived	Left Hand Revival	左手復活	enemy-commands
+怒りの触手	怒[いか]りの 触手[しょくしゅ]	Left Thrust	Angry Tentacle	怒触手	enemy-commands
+なめる	なめる	Lick			enemy-commands
+光弾	光[こう] 弾[だん]	Light Shell	Light Bullet	光弾	enemy-commands
+雷撃	雷撃[らいげき]	Lightning	Thunder Strike	雷撃	enemy-commands
+毒液	毒液[どくえき]	Liquid poison	Venom	毒液	enemy-commands
+ロストブロー	ロストブロー	Lost Blow			enemy-commands
+クレージーアタック	クレージーアタック	Lunattack	Crazy Attack		enemy-commands
+魔吸軟骨剣	魔吸[まきゅう]&nbsp;軟骨[なんこつ] 剣[けん]	Magic Cutter	Magic-Absorbing Cartilage Sword	魔吸軟骨剣	enemy-commands
+魔法消滅	魔法[まほう] 消滅[しょうめつ]	Magic Extinguish	Magic Annihilation	魔法消滅	enemy-commands
+マグマ	マグマ	Magma			enemy-commands
+主砲	主砲[しゅほう]	Main Artillery	Main Cannon	主砲	enemy-commands
+魔晄銃	魔[ま] 晄[こう] 銃[じゅう]	Mako Gun		魔晄銃	enemy-commands
+マテリアジヤマー	マテリアジヤマー	Materia-jammer	Materia Jammer		enemy-commands
+メガトンパンチ	メガトンパンチ	Megaton Punch			enemy-commands
+モロトフカクテル	モロトフカクテル	Molotov Cocktail			enemy-commands
+モノアイレーザー	モノアイレーザー	Mono Laser	Monoeye Laser		enemy-commands
+ムーンストライク	ムーンストライク	Moonstrike	Moon Strike		enemy-commands
+ムーンワース	ムーンワース	Moon Wars			enemy-commands
+強奪	強奪[ごうだつ]	Mug	Pillage	強奪	enemy-commands
+コンフュハンマー	コンフュハンマー	Muyddle Mallet	Confu Hammer		enemy-commands
+キック？？？？	キック？？？？	Mystery Kick	Kick????		enemy-commands
+ナパーム弾	ナパーム弾[なぱーむだん]	Napalm Bomb		弾	enemy-commands
+針	針[はり]	Needle		針	enemy-commands
+ニードルガン	ニードルガン	Needle Gun			enemy-commands
+ネオタークス光線	ネオタークス 光線[こうせん]	Neo Turk Light	Neo Turks Beam	光線	enemy-commands
+通常弾	通常[つうじょう] 弾[だん]	Normal Shell		通常弾	enemy-commands
+ノーザンクロス	ノーザンクロス	Northern Cross			enemy-commands
+オイル	オイル	Oil			enemy-commands
+ペイルホース	ペイルホース	Pale Horse			enemy-commands
+パラテイル	パラテイル	Para Tail			enemy-commands
+マヒレーザー	マヒレーザー	Paralaser	Paralyzing Laser		enemy-commands
+マヒ針	マヒ 針[はり]	Paralyzer Needle	Paralyzing Needle	針	enemy-commands
+くじゃく	くじゃく	Peacock			enemy-commands
+石化アイ	石[せき] 化[か]アイ	Petrif-Eye	Petrifying Eye	石化	enemy-commands
+カエル石化	カエル 石[せき] 化[か]	Petrified Frog	Frog Petrification	石化	enemy-commands
+石化スモッグ	石[せき] 化[か]スモッグ	Petrify Smog	Petrifying Smog	石化	enemy-commands
+プアゾシャワー	プアゾシャワー	Piazzo Shower	Poisso Shower		enemy-commands
+毒吹き	毒[どく] 吹[ふ]き	Poison Blow	Blow Poison	毒吹	enemy-commands
+毒ブレス	毒[どく]ブレス	Poison Breath		毒	enemy-commands
+毒のキバ	毒[どく]のキバ	Poison Fang	Poisonous Fang	毒	enemy-commands
+ポイズンストーム	ポイズンストーム	Poison Storm			enemy-commands
+花粉	花粉[かふん]	Pollen		花粉	enemy-commands
+プロペラ	プロペラ	Propeller	Propellor		enemy-commands
+プロペラソード	プロペラソード	Propeller Sword	Propellor Sword		enemy-commands
+パンチ	パンチ	Punch			enemy-commands
+乱れうち	乱[みだ]れうち	Quadra-cut	Chaotic Strike	乱	enemy-commands
+乱れ突き	乱[みだ]れ 突[つ]き	Rabbit Gouge	Chaotic Thrust	乱突	enemy-commands
+怒髪天ボンバー	怒髪天[どはつてん]ボンバー	Rage Bomber		怒髪天	enemy-commands
+復活魔法	復活[ふっかつ] 魔法[まほう]	Reanimagic	Revival Magic	復活魔法	enemy-commands
+後方マシンガン	後方[こうほう]マシンガン	Rear Gun	Rear Machine Gun	後方	enemy-commands
+レッドドラゴンブレス	レッドドラゴンブレス	Red Dragon Breath			enemy-commands
+赤い光	赤[あか]い 光[ひかり]	Red Light		赤光	enemy-commands
+廃棄汚染	廃棄[はいき] 汚染[おせん]	Refuse	Waste Disposal	廃棄汚染	enemy-commands
+往復ビンタ	往復ビンタ[おうふくびんた]	Repeating Slap	Round-Trip Slap	往復	enemy-commands
+反撃踏みつけ	反撃[はんげき] 踏[ふ]みつけ	Revenge Stamp	Counter Stomp	反撃踏	enemy-commands
+ライダーブレス	ライダーブレス	Rider Breath			enemy-commands
+銃撃	銃撃[じゅうげき]	Rifle	Gun Attack	銃撃	enemy-commands
+ライトブレス	ライトブレス	Right Breath			enemy-commands
+ラストライトブレス	ラストライトブレス	Right Breath 2	Last Right Breath		enemy-commands
+右手復活	右手[みぎて] 復活[ふっかつ]	Right Hand Revived	Right Hand Revival	右手復活	enemy-commands
+ライジングダガー	ライジングダガー	Rising Dagger			enemy-commands
+石化指	石[せき] 化[か] 指[ゆび]	Rock Finger	Petrifying Finger	石化指	enemy-commands
+投石	投石[とうせき]	Rock Toss	Throw Stone	投石	enemy-commands
+石つぶて	石[いし]つぶて	Rockbreaker	Stoning	石	enemy-commands
+ロケットランチャー	ロケットランチャー	Rocket Launcher			enemy-commands
+ロッド	ロッド	Rod			enemy-commands
+ローラーダッシュ	ローラーダッシュ	Roller Dash			enemy-commands
+ローラースピン	ローラースピン	Rollerspin	Roller Spin		enemy-commands
+回転アタック	回転[かいてん]アタック	Rolling Attack	Rotation Attack	回転	enemy-commands
+ローリングクロウ	ローリングクロウ	Rolling Claw			enemy-commands
+ローリングファイア	ローリングファイア	Rolling Fire			enemy-commands
+ルビーの火炎	ルビーの 火炎[かえん]	Ruby Flame	Ruby Blaze	火炎	enemy-commands
+ルビーレイ	ルビーレイ	Ruby Ray			enemy-commands
+サドインアタック	サドインアタック	Sadistic Attack	Sadistic Yin Attack		enemy-commands
+砂鉄砲	砂[すな] 鉄砲[でっぽう]	Sandgun	Sand Gun	砂鉄砲	enemy-commands
+サンドストーム	サンドストーム	Sandstorm			enemy-commands
+ノコギリ	ノコギリ	Sawback	Saw		enemy-commands
+シザーの一撃	シザーの 一撃[いちげき]	Scissor Attack		一撃	enemy-commands
+シザーキック	シザーキック	Scissor Kick			enemy-commands
+ハサミスパーク	ハサミスパーク	Scissor Spark	Pincer Spark		enemy-commands
+シザートルネード	シザートルネード	Scissor Tornado			enemy-commands
+ハサミ	ハサミ	Scissors	Pincer		enemy-commands
+スコーピオンアタック	スコーピオンアタック	Scorpion Attack			enemy-commands
+スコーピオンテイル	スコーピオンテイル	Scorpion Tail			enemy-commands
+サソリの尾	サソリの 尾[お]	Scorpion's Tail		尾	enemy-commands
+引っかく	引[ひ]っかく	Scratch		引	enemy-commands
+サーチスコープ	サーチスコープ	Search Scope			enemy-commands
+シード弾	シード 弾[だん]	Seed Bullet		弾	enemy-commands
+シードシューティング	シードシューティング	Seed Shot	Seed Shooting		enemy-commands
+自爆	自爆[じばく]	Self-destruct	Self-Destruct	自爆	enemy-commands
+セフィロスショック	セフィロスショック	Sephiroth Shock			enemy-commands
+地下水	地下水[ちかすい]	Sewer	Groundwater	地下水	enemy-commands
+下水津波	下水[げすい] 津波[つなみ]	Sewer Tsunami	Sewage Tsunami	下水津波	enemy-commands
+怪しい息	怪[あや]しい 息[いき]	Shady Breath	Suspicious Breath	怪息	enemy-commands
+シャムシール	シャムシール	Sham Seal	Shamshir		enemy-commands
+こうらぼうぎょ	こうらぼうぎょ	Shell Defense			enemy-commands
+シールド防御	シールド 防御[ぼうぎょ]	Shield Defense		防御	enemy-commands
+シールド投げ	シールド 投[な]げ	Shield Throw		投	enemy-commands
+ハンドロッド	ハンドロッド	Short Staff	Hand Rod		enemy-commands
+ショットガン	ショットガン	Shotgun			enemy-commands
+ショルダーアタック	ショルダーアタック	Shoulder Attack			enemy-commands
+シャワー	シャワー	Shower			enemy-commands
+カマ	カマ	Sickle			enemy-commands
+糸	糸[いと]	Silk	Thread	糸	enemy-commands
+シルバーホイール	シルバーホイール	Silver Wheel			enemy-commands
+片翼射撃	片翼[かたよく] 射撃[しゃげき]	Single Wing Fire		片翼射撃	enemy-commands
+かんぼつ	かんぼつ	Sinking	Subsidence		enemy-commands
+スケーティング	スケーティング	Skating			enemy-commands
+くしざし	くしざし	Skewer			enemy-commands
+ビンタ	ビンタ	Slap			enemy-commands
+眠り鱗粉	眠[ねむ]り 鱗粉[りんぷん]	Sleep Scales		眠鱗粉	enemy-commands
+スロウダンス	スロウダンス	Slow Dance			enemy-commands
+有害スモッグ	有害[ゆうがい]スモッグ	Smog	Harmful Smog	有害	enemy-commands
+超有害スモッグ	超[ちょう] 有害[ゆうがい]スモッグ	Smog Alert	Super Harmful Smog	超有害	enemy-commands
+スモーク弾	スモーク 弾[だん]	Smoke Bullet		弾	enemy-commands
+スモークショット	スモークショット	Smoke Shot			enemy-commands
+指弾	指弾[しだん]	Snap	Finger Bullet	指弾	enemy-commands
+ふぶき	ふぶき	Snowstorm	Blizzard		enemy-commands
+ソニックアタック	ソニックアタック	Sonic Attack			enemy-commands
+サザンクロス	サザンクロス	Southern Cross			enemy-commands
+スペード	スペード	Spade			enemy-commands
+ヒステリックボイス	ヒステリックボイス	Spaz Voice	Hysteric Voice		enemy-commands
+ヤリ攻撃	ヤリ 攻撃[こうげき]	Spear Attack		攻撃	enemy-commands
+ダッシュパンチ	ダッシュパンチ	Speed Punch	Dash Punch		enemy-commands
+スピードスラッシュ	スピードスラッシュ	Speed Slash			enemy-commands
+スパイダーアタック	スパイダーアタック	Spider Attack			enemy-commands
+針地獄	針[はり] 地獄[じごく]	Spiky Hell	Needle Hell	針地獄	enemy-commands
+スピンアタック	スピンアタック	Spin Attack			enemy-commands
+盾回転	盾[たて] 回転[かいてん]	Spin Shield	Shield Spin	盾回転	enemy-commands
+スピニングターン	スピニングターン	Spin Turn	Spinning Turn		enemy-commands
+回転体当たり	回転体[かいてんたい] 当[あ]たり	Spinning Bodyblow	Rotation Body Blow	回転体当	enemy-commands
+スピニングカード	スピニングカード	Spinning Card			enemy-commands
+回転斬り	回転[かいてん] 斬[ぎ]り	Spinning Cut	Rotation Slash	回転斬	enemy-commands
+スピン	スピン	Spin			enemy-commands
+剣切り	剣[けん] 切[ぎ]り	Split	Sword Cutter	剣切	enemy-commands
+踏みつぶす	踏[ふ]みつぶす	Squash	Trample	踏	enemy-commands
+セントエルモスファイアー	セントエルモスファイアー	St. Elmos Fire	St. Elmo's Fire		enemy-commands
+つきさす	つきさす	Stab			enemy-commands
+星	星[ほし]	Star	The Star	星	enemy-commands
+スターダストマーチ	スターダストマーチ	Stardust March			enemy-commands
+にらみ	にらみ	Stare Down	Glare		enemy-commands
+スティグマ	スティグマ	Stigma			enemy-commands
+スティングボム	スティングボム	Sting Bomb			enemy-commands
+石化にらみ	石[いし] 化[か]にらみ	Stone Stare	Petrifying Glare	石化	enemy-commands
+ストーンストライク	ストーンストライク	Stone Strike			enemy-commands
+ストップアイ	ストップアイ	Stop Eye			enemy-commands
+ストップウェブ	ストップウェブ	Stop Web			enemy-commands
+強力キック	強力[きょうりょく]キック	Strong Kick		強力	enemy-commands
+サブ主砲	サブ 主砲[しゅほう]	Sub Artillery	Sub Cannon	主砲	enemy-commands
+ちっそくソング	ちっそくソング	Suffocation Song			enemy-commands
+自滅ドロップ	自滅[じめつ]ドロップ	Suicide Drop	Suicidal Drop	自滅	enemy-commands
+ヤン自爆	ヤン 自爆[じばく]	Suicide Yang	Yang Self-Destruct	自爆	enemy-commands
+太陽	太陽[たいよう]	Sun	The Sun	太陽	enemy-commands
+サンダイバー	サンダイバー	Sun Diver			enemy-commands
+スーパーノヴァ	スーパーノヴァ	Super Nova	Supernova		enemy-commands
+支援光線	支援[しえん] 光線[こうせん]	Support Beam		支援光線	enemy-commands
+スワンプシュート	スワンプシュート	Swamp Shoot			enemy-commands
+スイングアタック	スイングアタック	Swing Attack			enemy-commands
+剣攻撃	剣[けん] 攻撃[こうげき]	Sword Attack		剣攻撃	enemy-commands
+必殺剣	必殺[ひっさつ] 剣[けん]	Sword of Doom	Deathblow Sword	必殺剣	enemy-commands
+ソードラッシュ	ソードラッシュ	Sword Rush			enemy-commands
+ブレードソード	ブレードソード	Swordblade	Blade Sword		enemy-commands
+しっぽ	しっぽ	Tail			enemy-commands
+テイルアタック	テイルアタック	Tail Attack			enemy-commands
+テイルレーザー	テイルレーザー	Tail Laser			enemy-commands
+テイルビート	テイルビート	Tailbeat	Tail Beat		enemy-commands
+乗り移り	乗り移[のりうつ]り	Take Over	Possess	乗移	enemy-commands
+なみだ	なみだ	Teardrop	Tear		enemy-commands
+ドレイン触手	ドレイン 触手[しょくしゅ]	Tentacle Drain	Drain Tentacle	触手	enemy-commands
+投げる	投[な]げる	Throw		投	enemy-commands
+サンダーキッス	サンダーキッス	Thunder Kiss			enemy-commands
+サンダーボール	サンダーボール	Thunderball	Thunder Ball		enemy-commands
+サンダーボルト	サンダーボルト	Thunderbolt			enemy-commands
+時間ダメージ	時間[じかん]ダメージ	Time Damage		時間	enemy-commands
+カエル	カエル	Toad	Frog		enemy-commands
+トンファー	トンファー	Tonfa			enemy-commands
+ベロ	ベロ	Tongue			enemy-commands
+トルネードウェイブ	トルネードウェイブ	Tornade Wave	Tornado Wave		enemy-commands
+毒吐き	毒[どく] 吐[は]き	Toxic Barf	Poison Vomit	毒吐	enemy-commands
+毒粉	毒[どく] 粉[ふん]	Toxic Powder	Poison Powder	毒粉	enemy-commands
+激震	激震[げきしん]	Tremor	Severe Earthquake	激震	enemy-commands
+トライアングルアタック	トライアングルアタック	Triangle Attack			enemy-commands
+サッドアイ	サッドアイ	Triclops	Sad Eye		enemy-commands
+トリプルアタック	トリプルアタック	Triple Attack			enemy-commands
+熱風	熱風[ねっぷう]	Tropic Wind	Hot Wind	熱風	enemy-commands
+タークス光線	タークス 光線[こうせん]	Turk Light	Turks Beam	光線	enemy-commands
+ツインバーナー	ツインバーナー	Twin Burner			enemy-commands
+アルテマビーム	アルテマビーム	Ultima Beam			enemy-commands
+超音波	超音波[ちょうおんぱ]	Ultrasound	Supersonic Wave	超音波	enemy-commands
+ソードアッパー	ソードアッパー	Upper Cutter	Sword Upper		enemy-commands
+アッパーカット	アッパーカット	Uppercut			enemy-commands
+バキューム	バキューム	Vacuum			enemy-commands
+口先アタック	口先[くちさき]アタック	Verbal Attack	Lip Attack	口先	enemy-commands
+サーペントブレス	サーペントブレス	Viper Breath	Serpent Breath		enemy-commands
+ときのこえ	ときのこえ	Voice of Ages	Voice of Time		enemy-commands
+Ｗレーザー	Ｗ[だぶりゅー]レーザー	W-Laser	Double Laser		enemy-commands
+Ｗシールド投げ	Ｗ[だぶりゅー]シールド 投[な]げ	W-Shield Throw	Double Shield Throw	投	enemy-commands
+ダブルマシンガン	ダブルマシンガン	W Machine Gun	Double Machine Gun		enemy-commands
+Ｗロケットパンチ	Ｗ[だぶりゅー]ロケットパンチ	W Rocket Punch	Double Rocket Punch		enemy-commands
+雄叫び	雄叫[おたけ]び	War Cry		雄叫	enemy-commands
+水鉄砲	水鉄砲[みずでっぽう]	Water Gun		水鉄砲	enemy-commands
+水波動	水[みず] 波動[はどう]	Water Wave	Water Surge	水波動	enemy-commands
+水攻め	水攻[みずぜ]め	Waterball	Water Attack	水攻	enemy-commands
+波動	波動[はどう]	Wave	Surge	波動	enemy-commands
+波動砲	波動[はどう] 砲[ほう]	Wave Artillery	Surge Cannon	波動砲	enemy-commands
+ウィリー	ウィリー	Wheelie			enemy-commands
+ウイリーアタック	ウイリーアタック	Wheelie Attack			enemy-commands
+ムチ	ムチ	Whip			enemy-commands
+しびれムチ	しびれムチ	Whip Sting	Numbing Whip		enemy-commands
+アリ地獄	アリ 地獄[じごく]	Whirlsand	Antlion	地獄	enemy-commands
+ワイドグレイサー	ワイドグレイサー	Wide Grazer			enemy-commands
+ウィングカッター	ウィングカッター	Wing Cut	Wing Cutter		enemy-commands
+ウイングカッター	ウイングカッター	Wing Cutter			enemy-commands
+ワイヤアタック	ワイヤアタック	Wire Attack			enemy-commands
+世界	世界[せかい]	World	The World	世界	enemy-commands
+リストレーザー	リストレーザー	Wrist Laser			enemy-commands
+物理攻撃	物理[ぶつり] 攻撃[こうげき]	x	Physical Attack	物理攻撃	enemy-commands
+インパンチ	インパンチ	Ying Punch	Yin Punch		enemy-commands
+いきなり混乱	いきなり 混乱[こんらん]	Zip Confu	Sudden Confusion	混乱	enemy-commands
+いきなりハンマー	いきなりハンマー	Zip Hammer	Sudden Hammer		enemy-commands

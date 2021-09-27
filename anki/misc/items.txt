@@ -1,53 +1,53 @@
-ポーション	Potion	Potion		items
+ポーション	Potion			items
 ハイポーション	Hi-Potion	High Potion		items
-エクスポーション	X-Potion	X-Potion		items
-エーテル	Ether	Ether		items
+エクスポーション	X-Potion			items
+エーテル	Ether			items
 エーテルターボ	Turbo Ether	Ether Turbo		items
-エリクサー	Elixir	Elixir		items
+エリクサー	Elixir			items
 ラストエリクサー	Megalixir	Last Elixir		items
 フェニックスの尾	Phoenix Down	Phoenix Tail	尾	items
-毒消し	Antidote	Antidote	毒消	items
+毒消し	Antidote		毒消	items
 目薬	Eye drop	Eye Drops	目薬	items
 金の針	Soft	Golden Needle	金針	items
-乙女のキッス	Maiden's Kiss	Maiden's Kiss	乙女	items
+乙女のキッス	Maiden's Kiss		乙女	items
 うちでのこづち	Cornucopia	Lucky Mallet		items
 やまびこえんまく	Echo Screen	Echo Smokescreen		items
 興奮剤	Hyper	Stimulant	興奮剤	items
-鎮静剤	Tranquilizer	Tranquilizer	鎮静剤	items
+鎮静剤	Tranquilizer		鎮静剤	items
 万能薬	Remedy	Panacea	万能薬	items
-テント	Tent	Tent		items
-セーブクリスタル	Save Crystal	Save Crystal		items
-けむりだま	Smoke Bomb	Smoke Bomb		items
-光のカーテン	Light Curtain	Light Curtain	光	items
-月のカーテン	Lunar Curtain	Lunar Curtain	月	items
+テント	Tent			items
+セーブクリスタル	Save Crystal			items
+けむりだま	Smoke Bomb			items
+光のカーテン	Light Curtain		光	items
+月のカーテン	Lunar Curtain		月	items
 反射ミラー	Mirror	Reflective Mirror	反射	items
-スピードドリンク	Speed Drink	Speed Drink		items
+スピードドリンク	Speed Drink			items
 英雄の薬	Hero Drink	Hero Medicine	英雄薬	items
-ワクチン	Vaccine	Vaccine		items
-聖なるトーチ	Holy Torch	Holy Torch	聖	items
+ワクチン	Vaccine			items
+聖なるトーチ	Holy Torch		聖	items
 手榴弾	Grenade	Hand Grenade	手榴弾	items
 ボムのかけら	Shrapnel	Bomb Fragment		items
 ボムの右腕	Right arm	Bomb's Right Arm	右腕	items
 金の砂時計	Hourglass	Golden Hourglass	金砂時計	items
 死神のキッス	Kiss of Death	Grim Reaper's Kiss	死神	items
 クモの糸	Spider Web	Spider Thread	糸	items
-ドリームパウダー	Dream Powder	Dream Powder		items
+ドリームパウダー	Dream Powder			items
 サイレントマスク	Mute Mask	Silent Mask		items
 戦いのゴング	War Gong	Battle Gong	戦	items
 惑わし草	Loco weed	Delusion Grass	惑草	items
 火龍の牙	Fire Fang	Firedrake Fang	火龍牙	items
 火とん	Fire Veil	Unleashed Fire	火	items
-南極の風	Antarctic Wind	Antarctic Wind	南極風	items
+南極の風	Antarctic Wind		南極風	items
 冷気の結晶	Ice Crystal	Cold Crystal	冷気結晶	items
 電撃鳥の角	Bolt Plume	Shock Bird Horn	電撃鳥角	items
 雷迅	Swift Bolt	Swift Thunder	雷迅	items
-大地のドラム	Earth Drum	Earth Drum	大地	items
+大地のドラム	Earth Drum		大地	items
 大地のハンマー	Earth Mallet	Earth Hammer	大地	items
 有害物質	Deadly Waste	Hazardous Material	有害物質	items
 モルボルの触手	M-Tentacles	Morbol Tentacle	触手	items
-星の砂	Stardust	Stardust	星砂	items
-バンパイアの牙	Vampire Fang	Vampire Fang	牙	items
-ゴーストハンド	Ghost Hand	Ghost Hand		items
+星の砂	Stardust		星砂	items
+バンパイアの牙	Vampire Fang		牙	items
+ゴーストハンド	Ghost Hand			items
 バジリスクの爪	Vagyrisk Claw	Basilisk Claw	爪	items
 モズのはやにえ	Impaler	Shrike's Prey		items
 チヂマール	Shrivel	Miniaturize		items
@@ -85,21 +85,21 @@
 スピードアップ	Speed Source	Speed Up		items
 ラックアップ	Luck Source	Luck Up		items
 森羅万象	All Creation	All Things In Nature	森羅万象	items
-カタストロフィ	Catastrophe	Catastrophe		items
-カオス	Chaos	Chaos		items
-コスモメモリー	Cosmo Memory	Cosmo Memory		items
-ファイナルヘヴン	Final Heaven	Final Heaven		items
-大いなる福音	Great Gospel	Great Gospel	大福音	items
-ハイウインド	Highwind	Highwind		items
+カタストロフィ	Catastrophe			items
+カオス	Chaos			items
+コスモメモリー	Cosmo Memory			items
+ファイナルヘヴン	Final Heaven			items
+大いなる福音	Great Gospel		大福音	items
+ハイウインド	Highwind			items
 超究武神覇斬	Omnislash	Transultimate Wargod Supremacy Slash	超究武神覇斬	items
 １／３５神羅兵	1/35 soldier	1/35 Shinra Soldier	神羅兵	items
 ジンクバッテリー	Battery	Zinc Battery		items
 ポケットティッシュ	Tissue	Pocket Tissue		items
 超合金スイーパー	Super Sweeper	Super-Alloy Sweeper	超合金	items
-マサムネブレード	Masamune Blade	Masamune Blade		items
+マサムネブレード	Masamune Blade			items
 ディオ激闘日記	Combat Diary	Dio's Fierce Combat Diary	激闘日記	items
 サイン色紙	Autograph	Signed Colored Paper	色紙	items
 人生バクチ打ち	Gambler	Gambler's Life	人生打	items
-アースハープ	Earth Harp	Earth Harp		items
-デザートローズ	Desert Rose	Desert Rose		items
+アースハープ	Earth Harp			items
+デザートローズ	Desert Rose			items
 ガイドブック	Guide Book	Guidebook		items
