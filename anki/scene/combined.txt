@@ -4851,35 +4851,37 @@ CLOUD、ありがとう	CLOUD, thanks.		scene_12
 まあ、これだけなのだが……この村は、お金がない。戦おうにも、お金がなくて何もできない	Well, this is all we have… This village doesn't have any money. Even if we wanted to fight, we can't because we're broke.	村金戦何	scene_12
 なにせ、兵を雇うと４００ギルも必要になる。２０部隊雇うと、８０００ギルにもなってしまう	We need 400 gil to hire one soldier. So, if we hire 20 soldiers, we need 8000 gil.	兵雇必要部隊	scene_12
 つまり、君たちにおねがいするのは君たちのお金で兵を雇い、ワナを買って配置し、指示してもらいたい	We need to ask you to use your own money to hire these soldiers, buy the equipment, set it up and give the commands.	君金兵雇買配置指示	scene_12
-ものすごく勝手なことを言っているのはじゅうぶん承知している	We know what we're asking is selfish.  We sent our wives and children to another village, But, we're resigned to stay.	勝手言承知	scene_12
-母親たちと子どもたちは、別の村へ移した。私たちも、かくごはできている	Let's get back to basics. If the enemy reaches this shed, you'll have to fight them off immediately.	母親子別村移私	scene_12
-話を元へもどそう。もしこの小屋に敵が進入したときには君たちが直接戦わなければならなくなる	It's a one shot gamble but we're asking for your help.	話元小屋敵進入君直接戦	scene_12
-一発勝負になってしまったがよろしく頼む	So, shall I let you in on our strategy?	一発勝負頼	scene_12
-敵は、この山の魔晄炉を目指して登ってくる。それにたいして、ワナを置き兵を雇って守るのだ	We must set a trap and hire soldiers to protect the place.	敵山魔晄炉目指登置兵雇守	scene_12
+ものすごく勝手なことを言っているのはじゅうぶん承知している	We know what we're asking is selfish.	勝手言承知	scene_12
+母親たちと子どもたちは、別の村へ移した。私たちも、かくごはできている	We sent our wives and children to another village, But, we're resigned to stay.	母親子別村移私	scene_12
+話を元へもどそう。もしこの小屋に敵が進入したときには君たちが直接戦わなければならなくなる	Let's get back to basics. If the enemy reaches this shed, you'll have to fight them off immediately.	話元小屋敵進入君直接戦	scene_12
+一発勝負になってしまったがよろしく頼む	It's a one shot gamble but we're asking for your help.	一発勝負頼	scene_12
+敵は、この山の魔晄炉を目指して登ってくる。  	The enemy has targeted our mountain reactor and will be climbing to reach it.	敵山魔晄炉目指登	scene_12
+それにたいして、ワナを置き兵を雇って守るのだ	We must set a trap and hire soldiers to protect the place.	置兵雇守	scene_12
 つまり、君たちにおねがいするのは時間があるのであれば君たちのお金で兵を雇い、ワナを買って配置し、指示してもらいたい	We need to ask you to use your own money to hire these soldiers, buy the equipment, set it up and give the commands.	君時間金兵雇買配置指示	scene_12
 時間がないのであれば資金援助をおねがいしたい	If you don't have time could you help us with a donation?	時間資金援助	scene_12
 資金援助してもらえばその資金で兵を雇い神羅の攻撃を防げる	If you donate the money, we can hire the soldiers and block Shinra's attack.	資金援助兵雇神羅攻撃防	scene_12
-まあ、１回負けたからといってそれで、終わりにはならないけど何度も負けてしまうと、危険だね	Now then, is there anything you wish to ask?	回負終何度危険	scene_12
-さて、何か聞きたいことはあるかい？	Conditions for victory	何聞	scene_12
-勝利条件のこと	The enemy	勝利条件	scene_12
-敵のこと	Type of soldiers	敵	scene_12
-雇える兵のこと	Funding	雇兵	scene_12
-資金のこと	Other	資金	scene_12
-その他のこと	Enough	他	scene_12
-もうじゅうぶんだ	You can win by wiping out the enemy or killing the enemy commander.		scene_12
-敵を全滅させる、もしくは敵にはコマンダーと呼ばれる司令官がいるからそいつを倒せば、勝利だ	If the enemy reaches the shed, they'll attack, and you'll have no choice but to battle immediately.	敵全滅呼司令官倒勝利	scene_12
-敵が、小屋に接触したならばここへ乗りこまれてしまうから直接戦わなくてはならなくなる	If you lose, the Condor's life and ours…are over.	敵小屋接触乗直戦	scene_12
-もし直接戦って負けてしまったらコンドルの命も、わたしたちの命も消えてしまうだろう	You can win by wiping out the enemy or killing the enemy commander.	直接戦負命消	scene_12
-もし直接戦って負けてしまい魔晄炉に取り付かれてもある程度までならなんとかなる	But, it's only a slight chance, and we have no idea how much the reactor can endure in an attack.	直接戦負魔晄炉取付程度	scene_12
-ある程度といったが、どれくらい耐えられるかは実際にやってみなくてはわからないと思う	When we can't defend against the attack any longer, the Shinra will take our lives, the Condor and all the Materia in the reactor.	程度耐実際思	scene_12
-耐え切れなくなったときコンドルの命も、私たちの命も魔晄炉内部のマテリアも、神羅に奪われてしまう	We can't use the Tristoner or Fire Catapult, because they are still not ready.	耐切命私魔晄炉内部神羅奪	scene_12
-それと、３連岩落機、爆弾投機はまだ開発中なので設置はできない	The Fire Catapult is ready now, so we can set it up.	連岩落機爆弾投開発中設置	scene_12
-爆弾投機の開発が終わったので設置できるぞ	We can't use the Tristoner, because it is still not ready.	爆弾投機開発終設置	scene_12
-３連岩落機、はまだ開発中なので設置はできない	First off, we must prepare the troops.	連岩落機開発中設置	scene_12
-まず、最初にやることは味方の兵を配置することだ	Move the cursor wherever the x mark does not appear, then press [OK] to set-up.	最初味方兵配置	scene_12
-カーソルを動かしてバツ印がでないところで○ボタンを押すと配置決定となる	After all positions are in place, press [CANCEL]. This starts the battle.	動印押配置決定	scene_12
-すべて配置したならば、×ボタンで終了する。これで、戦闘開始となる	Soldiers can only be arranged near the shed, in the beginning.	配置終了戦闘開始	scene_12
-兵は最初、小屋の近くにしか配置できない。遠くにいると、指示が届かなくなるからな	That's because if the soldiers are too far away, they won't be able to follow instructions.	兵最初小屋近配置遠指示届	scene_12
+まあ、１回負けたからといってそれで、終わりにはならないけど何度も負けてしまうと、危険だね	It's not the end of the world, but if you lose repeatedly, it could be dangerous.	回負終何度危険	scene_12
+さて、何か聞きたいことはあるかい？	Now then, is there anything you wish to ask?	何聞	scene_12
+勝利条件のこと	Conditions for victory	勝利条件	scene_12
+敵のこと	The enemy	敵	scene_12
+雇える兵のこと	Type of soldiers	雇兵	scene_12
+資金のこと	Funding	資金	scene_12
+その他のこと	Other	他	scene_12
+もうじゅうぶんだ	Enough		scene_12
+敵を全滅させる、もしくは敵にはコマンダーと呼ばれる司令官がいるからそいつを倒せば、勝利だ	You can win by wiping out the enemy or killing the enemy commander.	敵全滅呼司令官倒勝利	scene_12
+敵が、小屋に接触したならばここへ乗りこまれてしまうから直接戦わなくてはならなくなる	If the enemy reaches the shed, they'll attack, and you'll have no choice but to battle immediately.	敵小屋接触乗直戦	scene_12
+もし直接戦って負けてしまったらコンドルの命も、わたしたちの命も消えてしまうだろう	If you lose, the Condor's life and ours…are over.	直接戦負命消	scene_12
+もし直接戦って負けてしまい魔晄炉に取り付かれてもある程度までならなんとかなる	If you lose during direct contact, and even if the enemy gets to the reactor, there's still a chance to win.	直接戦負魔晄炉取付程度	scene_12
+ある程度といったが、どれくらい耐えられるかは実際にやってみなくてはわからないと思う	But, it's only a slight chance, and we have no idea how much the reactor can endure in an attack.	程度耐実際思	scene_12
+耐え切れなくなったときコンドルの命も、私たちの命も魔晄炉内部のマテリアも、神羅に奪われてしまう	When we can't defend against the attack any longer, the Shinra will take our lives, the Condor and all the Materia in the reactor.	耐切命私魔晄炉内部神羅奪	scene_12
+それと、３連岩落機、爆弾投機はまだ開発中なので設置はできない	We can't use the Tristoner or Fire Catapult, because they are still not ready.	連岩落機爆弾投開発中設置	scene_12
+爆弾投機の開発が終わったので設置できるぞ	The Fire Catapult is ready now, so we can set it up.	爆弾投機開発終設置	scene_12
+３連岩落機、はまだ開発中なので設置はできない	We can't use the Tristoner, because it is still not ready.	連岩落機開発中設置	scene_12
+まず、最初にやることは味方の兵を配置することだ	First off, we must prepare the troops.	最初味方兵配置	scene_12
+カーソルを動かしてバツ印がでないところで○ボタンを押すと配置決定となる	Move the cursor wherever the x mark does not appear, then press [OK] to set-up.	動印押配置決定	scene_12
+すべて配置したならば、×ボタンで終了する。これで、戦闘開始となる	After all positions are in place, press [CANCEL]. This starts the battle.	配置終了戦闘開始	scene_12
+兵は最初、小屋の近くにしか配置できない。	Soldiers can only be arranged near the shed, in the beginning.	兵最初小屋近配置	scene_12
+遠くにいると、指示が届かなくなるからな	That's because if the soldiers are too far away, they won't be able to follow instructions.	遠指示届	scene_12
 兵を配置できるのはいちばん下にいる兵の横ラインまでだ	You can only put soldiers above the horizontal line at the very bottom.	兵配置下横	scene_12
 兵への指示の出し方は『セレクトボタン』でわかるからわからなくなったら、押すといい	Soldiers can be instructed by pushing [ASSIST]. So if any commands are unclear, push it.	兵指示出方押	scene_12
 兵からの報告が送られてくるが○ボタンを押せば……	Soldiers can report by pushing [OK]…	兵報告送押	scene_12

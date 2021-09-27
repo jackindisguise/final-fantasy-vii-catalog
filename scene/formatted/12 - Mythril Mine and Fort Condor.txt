@@ -732,26 +732,26 @@ we need 8000 gil.”
 your own money to hire these soldiers,	君たちのお金で兵を雇い、ワナを買って
 buy the equipment, set it	配置し、指示してもらいたい」
 up and give the commands.”	
-“We know what we're asking is selfish.	「ものすごく勝手なことを言っているのは
+“We know what we're asking is selfish.”	「ものすごく勝手なことを言っているのは
 	じゅうぶん承知している」
-We sent our wives and children	「母親たちと子どもたちは、別の村へ移した。
+“We sent our wives and children	「母親たちと子どもたちは、別の村へ移した。
 to another village,	私たちも、かくごはできている」
-But, we're resigned to stay.”	「話を元へもどそう。
-“Let's get back to basics.	もしこの小屋に敵が進入したときには
-If the enemy reaches this shed,	君たちが直接戦わなければならなくなる」
-you'll have to fight them off	
+But, we're resigned to stay.”	
+“Let's get back to basics.	「話を元へもどそう。
+If the enemy reaches this shed,	もしこの小屋に敵が進入したときには
+you'll have to fight them off	君たちが直接戦わなければならなくなる」
 immediately.”	
 “It's a one shot gamble but	「一発勝負になってしまったが
 we're asking for your help.”	よろしく頼む」
 “So, shall I let you in on our strategy?”	「じゃあさっそく戦術の説明をしようか」
 “The enemy has targeted	「敵は、この山の魔晄炉を目指して登ってくる。
-our mountain reactor and	それにたいして、ワナを置き
-will be climbing to reach it.”	兵を雇って守るのだ」
-“We must set a trap and	「まあ、これだけなのだが……
-hire soldiers to protect the place.”	この村は、お金がない。
-“Well, this is all we have…	戦おうにも、お金がなくて何もできない」
-this village doesn't have any money.	
-Even if we wanted to fight,	
+our mountain reactor and	
+will be climbing to reach it.”	
+“We must set a trap and	「それにたいして、ワナを置き
+hire soldiers to protect the place.”	兵を雇って守るのだ」
+“Well, this is all we have…	「まあ、これだけなのだが……
+this village doesn't have any money.	この村は、お金がない。
+Even if we wanted to fight,	戦おうにも、お金がなくて何もできない」
 we can't because we're broke.”	
 “We need 400 gil to hire one soldier.	「なにせ、兵を雇うと４００ギルも必要になる。
 So, if we hire 20 soldiers,	２０部隊雇うと、８０００ギルにもなってしまう」
@@ -766,10 +766,11 @@ with a donation?”
 “If you donate the money,	「資金援助してもらえば
 we can hire the soldiers	その資金で兵を雇い神羅の攻撃を防げる」
 and block Shinra's attack.”	
-“We know what we're asking is selfish.	「ものすごく勝手なことを言っているのは
-We sent our wives and children	じゅうぶん承知している」
-to another village,	「母親たちと子どもたちは、別の村へ移した。
-But, we're resigned to stay.”	私たちも、かくごはできている」
+We know what we're asking is selfish.	「ものすごく勝手なことを言っているのは
+	じゅうぶん承知している」
+“We sent our wives and children	「母親たちと子どもたちは、別の村へ移した。
+to another village,	私たちも、かくごはできている」
+But, we're resigned to stay.”	
 “Let's get back to basics.	「話を元へもどそう。
 If the enemy reaches this shed,	もしこの小屋に敵が進入したときには
 you'll have to fight them off	君たちが直接戦わなければならなくなる」
@@ -777,7 +778,6 @@ immediately.”
 “It's not the end of the world,	「まあ、１回負けたからといって
 but if you lose repeatedly,	それで、終わりにはならないけど
 it could be dangerous.”	何度も負けてしまうと、危険だね」
-	
 “Now then, is there anything you wish to ask?”	「さて、何か聞きたいことはあるかい？」
 Conditions for victory	勝利条件のこと
 The enemy	敵のこと
@@ -829,9 +829,9 @@ then press [OK] to set-up.”
 “After all positions are in place,	「すべて配置したならば、×ボタンで終了する。
 press [CANCEL].	これで、戦闘開始となる」
 This starts the battle.”	
-“Soldiers can only be arranged	「兵は最初、小屋の近くにしか配置できない。
+“Soldiers can only be arranged	「兵は最初、小屋の近くにしか配置できない。」
 near the shed, in the beginning.”	
-“That's because if the soldiers are	遠くにいると、指示が届かなくなるからな」
+“That's because if the soldiers are	遠くにいると、指示が届かなくなるからな
 too far away, they won't be able to	
 follow instructions.”	
 “You can only put soldiers above the	「兵を配置できるのは

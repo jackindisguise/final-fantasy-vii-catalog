@@ -4851,35 +4851,37 @@ We must set a trap and hire soldiers to protect the place.	それにたいして
 Well, this is all we have… This village doesn't have any money. Even if we wanted to fight, we can't because we're broke.	まあ、これだけなのだが……この村は、お金がない。戦おうにも、お金がなくて何もできない
 We need 400 gil to hire one soldier. So, if we hire 20 soldiers, we need 8000 gil.	なにせ、兵を雇うと４００ギルも必要になる。２０部隊雇うと、８０００ギルにもなってしまう
 We need to ask you to use your own money to hire these soldiers, buy the equipment, set it up and give the commands.	つまり、君たちにおねがいするのは君たちのお金で兵を雇い、ワナを買って配置し、指示してもらいたい
-We know what we're asking is selfish.  We sent our wives and children to another village, But, we're resigned to stay.	ものすごく勝手なことを言っているのはじゅうぶん承知している
-Let's get back to basics. If the enemy reaches this shed, you'll have to fight them off immediately.	母親たちと子どもたちは、別の村へ移した。私たちも、かくごはできている
-It's a one shot gamble but we're asking for your help.	話を元へもどそう。もしこの小屋に敵が進入したときには君たちが直接戦わなければならなくなる
-So, shall I let you in on our strategy?	一発勝負になってしまったがよろしく頼む
-We must set a trap and hire soldiers to protect the place.	敵は、この山の魔晄炉を目指して登ってくる。それにたいして、ワナを置き兵を雇って守るのだ
+We know what we're asking is selfish.	ものすごく勝手なことを言っているのはじゅうぶん承知している
+We sent our wives and children to another village, But, we're resigned to stay.	母親たちと子どもたちは、別の村へ移した。私たちも、かくごはできている
+Let's get back to basics. If the enemy reaches this shed, you'll have to fight them off immediately.	話を元へもどそう。もしこの小屋に敵が進入したときには君たちが直接戦わなければならなくなる
+It's a one shot gamble but we're asking for your help.	一発勝負になってしまったがよろしく頼む
+The enemy has targeted our mountain reactor and will be climbing to reach it.	敵は、この山の魔晄炉を目指して登ってくる。  
+We must set a trap and hire soldiers to protect the place.	それにたいして、ワナを置き兵を雇って守るのだ
 We need to ask you to use your own money to hire these soldiers, buy the equipment, set it up and give the commands.	つまり、君たちにおねがいするのは時間があるのであれば君たちのお金で兵を雇い、ワナを買って配置し、指示してもらいたい
 If you don't have time could you help us with a donation?	時間がないのであれば資金援助をおねがいしたい
 If you donate the money, we can hire the soldiers and block Shinra's attack.	資金援助してもらえばその資金で兵を雇い神羅の攻撃を防げる
-Now then, is there anything you wish to ask?	まあ、１回負けたからといってそれで、終わりにはならないけど何度も負けてしまうと、危険だね
-Conditions for victory	さて、何か聞きたいことはあるかい？
-The enemy	勝利条件のこと
-Type of soldiers	敵のこと
-Funding	雇える兵のこと
-Other	資金のこと
-Enough	その他のこと
-You can win by wiping out the enemy or killing the enemy commander.	もうじゅうぶんだ
-If the enemy reaches the shed, they'll attack, and you'll have no choice but to battle immediately.	敵を全滅させる、もしくは敵にはコマンダーと呼ばれる司令官がいるからそいつを倒せば、勝利だ
-If you lose, the Condor's life and ours…are over.	敵が、小屋に接触したならばここへ乗りこまれてしまうから直接戦わなくてはならなくなる
-You can win by wiping out the enemy or killing the enemy commander.	もし直接戦って負けてしまったらコンドルの命も、わたしたちの命も消えてしまうだろう
-But, it's only a slight chance, and we have no idea how much the reactor can endure in an attack.	もし直接戦って負けてしまい魔晄炉に取り付かれてもある程度までならなんとかなる
-When we can't defend against the attack any longer, the Shinra will take our lives, the Condor and all the Materia in the reactor.	ある程度といったが、どれくらい耐えられるかは実際にやってみなくてはわからないと思う
-We can't use the Tristoner or Fire Catapult, because they are still not ready.	耐え切れなくなったときコンドルの命も、私たちの命も魔晄炉内部のマテリアも、神羅に奪われてしまう
-The Fire Catapult is ready now, so we can set it up.	それと、３連岩落機、爆弾投機はまだ開発中なので設置はできない
-We can't use the Tristoner, because it is still not ready.	爆弾投機の開発が終わったので設置できるぞ
-First off, we must prepare the troops.	３連岩落機、はまだ開発中なので設置はできない
-Move the cursor wherever the x mark does not appear, then press [OK] to set-up.	まず、最初にやることは味方の兵を配置することだ
-After all positions are in place, press [CANCEL]. This starts the battle.	カーソルを動かしてバツ印がでないところで○ボタンを押すと配置決定となる
-Soldiers can only be arranged near the shed, in the beginning.	すべて配置したならば、×ボタンで終了する。これで、戦闘開始となる
-That's because if the soldiers are too far away, they won't be able to follow instructions.	兵は最初、小屋の近くにしか配置できない。遠くにいると、指示が届かなくなるからな
+It's not the end of the world, but if you lose repeatedly, it could be dangerous.	まあ、１回負けたからといってそれで、終わりにはならないけど何度も負けてしまうと、危険だね
+Now then, is there anything you wish to ask?	さて、何か聞きたいことはあるかい？
+Conditions for victory	勝利条件のこと
+The enemy	敵のこと
+Type of soldiers	雇える兵のこと
+Funding	資金のこと
+Other	その他のこと
+Enough	もうじゅうぶんだ
+You can win by wiping out the enemy or killing the enemy commander.	敵を全滅させる、もしくは敵にはコマンダーと呼ばれる司令官がいるからそいつを倒せば、勝利だ
+If the enemy reaches the shed, they'll attack, and you'll have no choice but to battle immediately.	敵が、小屋に接触したならばここへ乗りこまれてしまうから直接戦わなくてはならなくなる
+If you lose, the Condor's life and ours…are over.	もし直接戦って負けてしまったらコンドルの命も、わたしたちの命も消えてしまうだろう
+If you lose during direct contact, and even if the enemy gets to the reactor, there's still a chance to win.	もし直接戦って負けてしまい魔晄炉に取り付かれてもある程度までならなんとかなる
+But, it's only a slight chance, and we have no idea how much the reactor can endure in an attack.	ある程度といったが、どれくらい耐えられるかは実際にやってみなくてはわからないと思う
+When we can't defend against the attack any longer, the Shinra will take our lives, the Condor and all the Materia in the reactor.	耐え切れなくなったときコンドルの命も、私たちの命も魔晄炉内部のマテリアも、神羅に奪われてしまう
+We can't use the Tristoner or Fire Catapult, because they are still not ready.	それと、３連岩落機、爆弾投機はまだ開発中なので設置はできない
+The Fire Catapult is ready now, so we can set it up.	爆弾投機の開発が終わったので設置できるぞ
+We can't use the Tristoner, because it is still not ready.	３連岩落機、はまだ開発中なので設置はできない
+First off, we must prepare the troops.	まず、最初にやることは味方の兵を配置することだ
+Move the cursor wherever the x mark does not appear, then press [OK] to set-up.	カーソルを動かしてバツ印がでないところで○ボタンを押すと配置決定となる
+After all positions are in place, press [CANCEL]. This starts the battle.	すべて配置したならば、×ボタンで終了する。これで、戦闘開始となる
+Soldiers can only be arranged near the shed, in the beginning.	兵は最初、小屋の近くにしか配置できない。
+That's because if the soldiers are too far away, they won't be able to follow instructions.	遠くにいると、指示が届かなくなるからな
 You can only put soldiers above the horizontal line at the very bottom.	兵を配置できるのはいちばん下にいる兵の横ラインまでだ
 Soldiers can be instructed by pushing [ASSIST]. So if any commands are unclear, push it.	兵への指示の出し方は『セレクトボタン』でわかるからわからなくなったら、押すといい
 Soldiers can report by pushing [OK]…	兵からの報告が送られてくるが○ボタンを押せば……

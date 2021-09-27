@@ -259,155 +259,157 @@
 | 257 | Well, this is all we have… This village doesn't have any money. Even if we wanted to fight, we can't because we're broke. | まあ、これだけなのだが……この村は、お金がない。戦おうにも、お金がなくて何もできない |
 | 258 | We need 400 gil to hire one soldier. So, if we hire 20 soldiers, we need 8000 gil. | なにせ、兵を雇うと４００ギルも必要になる。２０部隊雇うと、８０００ギルにもなってしまう |
 | 259 | We need to ask you to use your own money to hire these soldiers, buy the equipment, set it up and give the commands. | つまり、君たちにおねがいするのは君たちのお金で兵を雇い、ワナを買って配置し、指示してもらいたい |
-| 260 | We know what we're asking is selfish.  We sent our wives and children to another village, But, we're resigned to stay. | ものすごく勝手なことを言っているのはじゅうぶん承知している |
-| 261 | Let's get back to basics. If the enemy reaches this shed, you'll have to fight them off immediately. | 母親たちと子どもたちは、別の村へ移した。私たちも、かくごはできている |
-| 262 | It's a one shot gamble but we're asking for your help. | 話を元へもどそう。もしこの小屋に敵が進入したときには君たちが直接戦わなければならなくなる |
-| 263 | So, shall I let you in on our strategy? | 一発勝負になってしまったがよろしく頼む |
-| 264 | We must set a trap and hire soldiers to protect the place. | 敵は、この山の魔晄炉を目指して登ってくる。それにたいして、ワナを置き兵を雇って守るのだ |
-| 265 | We need to ask you to use your own money to hire these soldiers, buy the equipment, set it up and give the commands. | つまり、君たちにおねがいするのは時間があるのであれば君たちのお金で兵を雇い、ワナを買って配置し、指示してもらいたい |
-| 266 | If you don't have time could you help us with a donation? | 時間がないのであれば資金援助をおねがいしたい |
-| 267 | If you donate the money, we can hire the soldiers and block Shinra's attack. | 資金援助してもらえばその資金で兵を雇い神羅の攻撃を防げる |
-| 268 | Now then, is there anything you wish to ask? | まあ、１回負けたからといってそれで、終わりにはならないけど何度も負けてしまうと、危険だね |
-| 269 | Conditions for victory | さて、何か聞きたいことはあるかい？ |
-| 270 | The enemy | 勝利条件のこと |
-| 271 | Type of soldiers | 敵のこと |
-| 272 | Funding | 雇える兵のこと |
-| 273 | Other | 資金のこと |
-| 274 | Enough | その他のこと |
-| 275 | You can win by wiping out the enemy or killing the enemy commander. | もうじゅうぶんだ |
-| 276 | If the enemy reaches the shed, they'll attack, and you'll have no choice but to battle immediately. | 敵を全滅させる、もしくは敵にはコマンダーと呼ばれる司令官がいるからそいつを倒せば、勝利だ |
-| 277 | If you lose, the Condor's life and ours…are over. | 敵が、小屋に接触したならばここへ乗りこまれてしまうから直接戦わなくてはならなくなる |
-| 278 | You can win by wiping out the enemy or killing the enemy commander. | もし直接戦って負けてしまったらコンドルの命も、わたしたちの命も消えてしまうだろう |
-| 279 | But, it's only a slight chance, and we have no idea how much the reactor can endure in an attack. | もし直接戦って負けてしまい魔晄炉に取り付かれてもある程度までならなんとかなる |
-| 280 | When we can't defend against the attack any longer, the Shinra will take our lives, the Condor and all the Materia in the reactor. | ある程度といったが、どれくらい耐えられるかは実際にやってみなくてはわからないと思う |
-| 281 | We can't use the Tristoner or Fire Catapult, because they are still not ready. | 耐え切れなくなったときコンドルの命も、私たちの命も魔晄炉内部のマテリアも、神羅に奪われてしまう |
-| 282 | The Fire Catapult is ready now, so we can set it up. | それと、３連岩落機、爆弾投機はまだ開発中なので設置はできない |
-| 283 | We can't use the Tristoner, because it is still not ready. | 爆弾投機の開発が終わったので設置できるぞ |
-| 284 | First off, we must prepare the troops. | ３連岩落機、はまだ開発中なので設置はできない |
-| 285 | Move the cursor wherever the x mark does not appear, then press [OK] to set-up. | まず、最初にやることは味方の兵を配置することだ |
-| 286 | After all positions are in place, press [CANCEL]. This starts the battle. | カーソルを動かしてバツ印がでないところで○ボタンを押すと配置決定となる |
-| 287 | Soldiers can only be arranged near the shed, in the beginning. | すべて配置したならば、×ボタンで終了する。これで、戦闘開始となる |
-| 288 | That's because if the soldiers are too far away, they won't be able to follow instructions. | 兵は最初、小屋の近くにしか配置できない。遠くにいると、指示が届かなくなるからな |
-| 289 | You can only put soldiers above the horizontal line at the very bottom. | 兵を配置できるのはいちばん下にいる兵の横ラインまでだ |
-| 290 | Soldiers can be instructed by pushing [ASSIST]. So if any commands are unclear, push it. | 兵への指示の出し方は『セレクトボタン』でわかるからわからなくなったら、押すといい |
-| 291 | Soldiers can report by pushing [OK]… | 兵からの報告が送られてくるが○ボタンを押せば…… |
-| 292 | The cursor will move to the soldier who made the report. | その報告を行った兵のところまでカーソルが移動する |
-| 293 | Press [CANCEL] and you'll hear the report without moving. | ×ボタンを押せば移動せずに報告を聞き流せる |
-| 294 | And you can bet Shinra will send platoons at you on a regular basis. | それから、神羅は定期的に部隊を送ってくる |
-| 295 | It would be great if you could spare the time to help us… | 時間があるとき来てくれるとちょうどいいだろう |
-| 296 | But, if you really don't have time, would you contribute some financial assistance? | どうしても、時間がないのならば資金援助をたのむ |
-| 297 | Hey, looks like they're getting ready to attack right now! Please, any help is appreciated… | お、ちょうどいいのが登ってきたぞ。手始めには、ちょうどいい数だ。それじゃあいっちょ、おねがいしますか |
-| 298 | Whew, that was good. But, Shinra's troops will be back. | ふう、うまくいったな。しかし、神羅はかならずまたやってくる |
-| 299 | Be sure and scout the area well… We don't know when they'll attack again. | 次は、いつ攻めてくるかわからないからときどき、見てきてくれよ |
-| 300 | My God! They're attacking! We're counting on you. | しまった！入りこんできたぞ！君たち、たのんだよ |
-| 301 | We made it through that one somehow. But, Shinra'll be back. | なんとかしのいだな。しかし、神羅はかならずまたやってくる |
-| 302 | Are you all right? Looks like a few got through. | 大丈夫か？何匹か入りこまれたな |
-| 303 | We have  allies left, so here's  gil. | 味方は、体残ったからギル返すよ |
-| 304 | We have 20 allies left, so we'll return 4000 gil to you. | 味方は、２０体残ったから４０００ギル返すよ |
-| 305 | Hey we're a little short on money… so could you at least make it  gil? | おいおい、所持金がちょっと少なすぎないか？せめて、ギルはないとな |
-| 306 | Hang in there, if we lose  more times, we're in deep trouble. | 後、回負けると危ないからがんばってくれよ |
-| 307 | How are things going? Seems like there's no activity at Shinra. | やあ、調子はどうだい？今は、神羅もおとなしいようだよ |
-| 308 | Perfect timing! They're just around the corner. Get ready. | おお、ちょうどのタイミングだ！もう、すぐそこまで来ているらしいぞ。準備してくれ |
-| 309 | Wait | まだ準備ができていない |
-| 310 | OK, ready | 準備はできている |
-| 311 | Contribute gil | 資金援助をする |
-| 312 | Let them handle it | 今回はまかせる |
-| 313 | Hear more | 説明を聞きたい |
-| 314 | Preparations ready? | もう準備はいいかい？ |
-| 315 | I see, very well then. Maybe, we'll fight together again sometime. | そうか、わかった。次は、いっしょに戦ってくれよな |
-| 316 | Sorry. We only have  gil. We have to beg for your help. | すまない。資金が、ギルしかないんだ。君たちにおねがいするしかないのだよ |
-| 317 | We have  gil right now. | 現在資金はギル残っている |
-| 318 | We need 3000 gil for each battle. | １回の戦闘で必要な資金はだいたい３０００ギルくらいだ |
-| 319 | How much can you help? | どれくらい援助してくれるんだい？ |
-| 320 | 500 gil | ５００ギル |
-| 321 | 1000 gil | １０００ギル |
-| 322 | 2000 gil | ２０００ギル |
-| 323 | 3000 gil | ３０００ギル |
-| 324 | 5000 gil | ５０００ギル |
-| 325 | Nothing right now | 今は、やめておく |
-| 326 | We are very grateful, but you don't have enough money. | ありがたいのだが所持金が足りないようだぞ |
-| 327 | Thanks. This makes gil. | ありがとう。これで資金はギルになったよ |
-| 328 | That's enough money for now. If we run out, we'll ask you for more. | 今は、じゅうぶんだから足りなくなったら、また、おねがいするよ |
-| 329 | How goes it? The Shinra troops have attacked times since you were here. | やあ、ひさしぶりだね。あれから神羅が回やってきたよ。おかげで資金がかなり減ってしまった |
-| 330 | So we're getting a little short on funds. | ちょっと、遅かったな。つい先ほど神羅に攻めこまれてしまったよ |
-| 331 | You're just a little too late… They attacked when you weren't here. | 次はもうすこし早く来てくれよな |
-| 332 | The situation has changed. Looks like the enemy is set to attack. If we lose here, it's over. | どうやら事態が変わったらしい。奴らこれで終わりにする気らしい。これに負けるとやばいぞ |
-| 333 | Our lives are in your hands. We're counting on you. | おれたちの明日は君たちにたくす。たのんだぞ |
-| 334 | … Even if you could only spare them… | ……せめて彼らだけでも…… |
-| 335 | YES! We did it! That was wonderful! Thank you!! I doubt Shinra will attack now. | やったぞ！すごいよ、ありがとう！これでもう神羅も来ないだろう |
-| 336 | A, arrgghh… | う、うわぁ…… |
-| 337 | There are four types of enemies. | 敵は、４タイプいる |
-| 338 | Wyverns | ワイバーンについて |
-| 339 | Beasts | ビーストについて |
-| 340 | Barbarians | バーバリアンについて |
-| 341 | Commanders | コマンダーについて |
-| 342 | Anything else? | 別のことを聞きたい |
-| 343 | Wyverns are flying types that can move at high speed. Stoner and Tristoner aren't effective against them. | ワイバーンは、飛行タイプで移動速度が速い。したがって、岩落機や、３連岩落機はあまり、効果がない |
-| 344 | Beasts are monster types that do not move quickly, but have explosive attacking power. | ビーストは、獣タイプで移動速度がおそい。そのかわりに、攻撃力が高い |
-| 345 | Barbarians are human types. They attack from a distance, so you've got to be on your toes. | バーバリアンは、人型タイプだ。間接攻撃をしてくるので、注意が必要だ |
-| 346 | Commanders are the enemy commanders. They're the ones we want to subdue, but they're formidable foes. | コマンダーは、敵の司令官だ。こいつをやっつければいいのだがとにかく手強い相手だ |
-| 347 | Your mobile allies are: Fighters, Attackers, Defenders, Shooters, Repairers and Workers. | 味方には、移動できるタイプとしてファイター、アタッカー、ディフェンダーシューター、リペアラー、ワーカー、がいる |
-| 348 | Your immobile allies are: Stoner, Tristoner, Catapult, and Fire Catapult. | 移動できないタイプとして岩落機、３連岩落機、投石機爆弾投機、がある |
-| 349 | Which do you want to hear about? | どれについて説明しよう？ |
-| 350 | Mobile types | 移動できるタイプについて |
-| 351 | Immobile types | 移動できないタイプについて |
-| 352 | Fighters | ファイターについて |
-| 353 | Attackers | アタッカーについて |
-| 354 | Defenders | ディフェンダーについて |
-| 355 | Shooters | シューターについて |
-| 356 | Repairers | リペアラーについて |
-| 357 | Workers | ワーカーについて |
-| 358 | Stoners | 岩落機について |
-| 359 | Tristoners | ３連岩落機について |
-| 360 | Catapults | 投石機について |
-| 361 | Fire Catapult | 爆弾投機について |
-| 362 | Fighters are good at defending and attacking, but aren't especially effective or deficient for any enemy. | ファイターは、攻守にバランスがよいが得意な相手、苦手な相手もいない |
-| 363 | Attackers move extremely fast and are best for expanding the front line. | アタッカーは、移動速度が速く 前線を広げるのに向いている。  |
-| 364 | They work good against enemy Beasts, but not enemy Barbarians. | 敵ビーストにたいして強く敵バーバリアンが苦手だ |
-| 365 | Defenders have high endurance, but move slowly. They're best suited for defense. | ディフェンダーは、体力が高いが移動速度が遅い、拠点防御に向いている。 |
-| 366 | Defenders work best against enemy Barbarians, but not enemy Wyverns. | 敵バーバリアンにたいして強く敵ワイバーンが苦手だ |
-| 367 | Shooters attack from a distance, but have low endurance. | シューターは、間接攻撃ができる。しかし、体力が低い。 |
-| 368 | Shooters work best against enemy Wyverns, but not enemy Beasts. | 敵ワイバーンにたいして強く敵ビーストが苦手だ |
-| 369 | Repairers repair allied units, but have little attacking power. | リペアラーは、味方の回復ができる。しかし、攻撃力はあまりない |
-| 370 | Workers set mines. Mines have strong attacking power, but Workers don't. | ワーカーは、地雷を置くことができる。地雷の攻撃力は高くても自分の攻撃力は低い |
-| 371 | Mines explode when touched by the enemy. The explosions will damage everything in the immediate area. | 地雷は、敵がさわると爆発する爆発すると、そのまわりにいる者すべてにダメージを与える |
-| 372 | Stoners can fire a single boulder, causing extensive damage to every enemy it hits. | 岩落機は、岩を１つ落とすことができる落ちている間に当たった敵すべてにダメージを与えることができる |
-| 373 | Tristoners can fire three boulders simultaneously, causing extensive damage to every enemy they hit. | ３連岩落機は、岩を同時に３つ落とすことができる落ちている間に当たった敵すべてにダメージを与えることができる |
-| 374 | Catapults shoot rocks a great distance, causing extensive damage to every enemy they hit. | 投石機は、石を遠くへ投げることができる落下地点にいる敵にダメージを与えられる |
-| 375 | Fire Catapults fire bombs a great distance, causing extensive damage to every enemy they hit. | 爆弾投機は、爆弾を遠くへ投げることができる爆弾の落下地点周辺の敵にダメージを与える |
-| 376 | You must pay for every weapon you set up. Even if you decide to move it later, you can only get back half of the gil you spent. | 一度設置したものを、てっきょしても設置するために使った費用があるので設置に要したギルの半分しか返ってこないぞ |
-| 377 | You have 10 enemies. There appear to be many Beasts, so you may want to deploy more Attackers. | 今回の敵は、１０匹程度だ。ビーストの数が多いようなのでアタッカーを多めに配置した方がいいかもしれないな |
-| 378 | The Barbarians are mixed during this attack. | 今回はバーバリアンが混ざっているようだ |
-| 379 | There are more than 20. Set up for a balanced-attack or we'll be in trouble. | ２０匹をこえる数がいそうだバランスよく配置しないと危ないぞ |
-| 380 | A strong unit's on their way. Looks like around 30. | かなりの部隊が来ている３０匹くらいいるだろう |
-| 381 | They'll probably climb up here using various routes. Better be careful or we'll be in trouble. | いろいろなルートで登ってくるだろうから気をつけないと危ないぞ |
-| 382 | And make sure to deploy Fire Catapults. | それと、爆弾投機が使えるぞ |
-| 383 | You're probably used to it now, but don't let your guard down. | もう、なれてきたと思うが油断しないようにな |
-| 384 | Deploy Tristoners. | それと、３連岩落機が使えるぞ |
-| 385 | Looks like the enemy numbers 40. Don't let your guard down. | どうやら、敵は４０匹ほどいるようだ。油断しないようにな |
-| 386 | I think you don't need my advice. The rest is up to you. | もう、アドバイスも必要ないだろう。たよりにしているよ |
-| 387 | This is the deciding battle. The enemy numbers more than ever before. | これで、全ての決着がつく。敵も、いままでにない数だ |
-| 388 | Let's give them all the gil we have. | 私たちの持っているギルを全て渡そう |
-| 389 | Received " gil"! | 『ギル』をもらった！ |
-| 390 | Received "40,000 gil"! | 『４００００ギル』をもらった！ |
-| 391 | Looks like there's a special Materia up in the Mako reactor. | どうやら、この上に魔晄炉の中にはなにか、特別なマテリアがあるらしい |
-| 392 | Their plan is to get rid of the Condor and the people on this mountain and to get the Materia from the Mako Reactor. | 軍の目的は、コンドルとこの山に住むわたしたちを排除し魔晄炉からマテリアを取り出すことだ |
-| 393 | Oh, it's you guys? How are things going? | ああ、あなたがたですか。どうです、調子は？ |
-| 394 | Up to now, you've lost  times. If you lose too many times, you won't be able to come back. | これまでに回負けてしまいましたね。あまり、負けてしまうと取り返しがつかないことになってしまいますよ |
-| 395 | We'll get some rest | そうだな休むか |
-| 396 | Let's move on | いや、やめておこう |
-| 397 | Yeah… | そうね |
-| 398 | Let's get some rest | 休みましょう |
-| 399 | Maybe next time | 今度にしましょう |
-| 400 | Yo! | おう |
-| 401 | Take a break | さっさと休んじまえ |
-| 402 | Not right now | 今はいいや |
-| 403 | Ey, let's get some rest. | おい、休もうぜ |
-| 404 | Say, let's rest. Okay? | ねえ、休みましょうよ |
-| 405 | Let's rest. Okay? | 休も、ね？ |
-| 406 | We should get some rest while we can. | 休めるときに、休んでおこう |
-| 407 | Let's take a break when we can afford to. | 休めるときに、休んでおこうよ |
-| 408 | Come on… break time, break time! | さ、やすみやすみ |
-| 409 | Now, shall we get some rest? | ほんな、休みましょか |
-| 410 | It's probably best to get some rest now. | 休んでおいた方がよさそうだな |
-| 411 | Come on, let's get some shut-eye. | ガンガン休みだ |
+| 260 | We know what we're asking is selfish. | ものすごく勝手なことを言っているのはじゅうぶん承知している |
+| 261 | We sent our wives and children to another village, But, we're resigned to stay. | 母親たちと子どもたちは、別の村へ移した。私たちも、かくごはできている |
+| 262 | Let's get back to basics. If the enemy reaches this shed, you'll have to fight them off immediately. | 話を元へもどそう。もしこの小屋に敵が進入したときには君たちが直接戦わなければならなくなる |
+| 263 | It's a one shot gamble but we're asking for your help. | 一発勝負になってしまったがよろしく頼む |
+| 264 | The enemy has targeted our mountain reactor and will be climbing to reach it. | 敵は、この山の魔晄炉を目指して登ってくる。   |
+| 265 | We must set a trap and hire soldiers to protect the place. | それにたいして、ワナを置き兵を雇って守るのだ |
+| 266 | We need to ask you to use your own money to hire these soldiers, buy the equipment, set it up and give the commands. | つまり、君たちにおねがいするのは時間があるのであれば君たちのお金で兵を雇い、ワナを買って配置し、指示してもらいたい |
+| 267 | If you don't have time could you help us with a donation? | 時間がないのであれば資金援助をおねがいしたい |
+| 268 | If you donate the money, we can hire the soldiers and block Shinra's attack. | 資金援助してもらえばその資金で兵を雇い神羅の攻撃を防げる |
+| 269 | It's not the end of the world, but if you lose repeatedly, it could be dangerous. | まあ、１回負けたからといってそれで、終わりにはならないけど何度も負けてしまうと、危険だね |
+| 270 | Now then, is there anything you wish to ask? | さて、何か聞きたいことはあるかい？ |
+| 271 | Conditions for victory | 勝利条件のこと |
+| 272 | The enemy | 敵のこと |
+| 273 | Type of soldiers | 雇える兵のこと |
+| 274 | Funding | 資金のこと |
+| 275 | Other | その他のこと |
+| 276 | Enough | もうじゅうぶんだ |
+| 277 | You can win by wiping out the enemy or killing the enemy commander. | 敵を全滅させる、もしくは敵にはコマンダーと呼ばれる司令官がいるからそいつを倒せば、勝利だ |
+| 278 | If the enemy reaches the shed, they'll attack, and you'll have no choice but to battle immediately. | 敵が、小屋に接触したならばここへ乗りこまれてしまうから直接戦わなくてはならなくなる |
+| 279 | If you lose, the Condor's life and ours…are over. | もし直接戦って負けてしまったらコンドルの命も、わたしたちの命も消えてしまうだろう |
+| 280 | If you lose during direct contact, and even if the enemy gets to the reactor, there's still a chance to win. | もし直接戦って負けてしまい魔晄炉に取り付かれてもある程度までならなんとかなる |
+| 281 | But, it's only a slight chance, and we have no idea how much the reactor can endure in an attack. | ある程度といったが、どれくらい耐えられるかは実際にやってみなくてはわからないと思う |
+| 282 | When we can't defend against the attack any longer, the Shinra will take our lives, the Condor and all the Materia in the reactor. | 耐え切れなくなったときコンドルの命も、私たちの命も魔晄炉内部のマテリアも、神羅に奪われてしまう |
+| 283 | We can't use the Tristoner or Fire Catapult, because they are still not ready. | それと、３連岩落機、爆弾投機はまだ開発中なので設置はできない |
+| 284 | The Fire Catapult is ready now, so we can set it up. | 爆弾投機の開発が終わったので設置できるぞ |
+| 285 | We can't use the Tristoner, because it is still not ready. | ３連岩落機、はまだ開発中なので設置はできない |
+| 286 | First off, we must prepare the troops. | まず、最初にやることは味方の兵を配置することだ |
+| 287 | Move the cursor wherever the x mark does not appear, then press [OK] to set-up. | カーソルを動かしてバツ印がでないところで○ボタンを押すと配置決定となる |
+| 288 | After all positions are in place, press [CANCEL]. This starts the battle. | すべて配置したならば、×ボタンで終了する。これで、戦闘開始となる |
+| 289 | Soldiers can only be arranged near the shed, in the beginning. | 兵は最初、小屋の近くにしか配置できない。 |
+| 290 | That's because if the soldiers are too far away, they won't be able to follow instructions. | 遠くにいると、指示が届かなくなるからな |
+| 291 | You can only put soldiers above the horizontal line at the very bottom. | 兵を配置できるのはいちばん下にいる兵の横ラインまでだ |
+| 292 | Soldiers can be instructed by pushing [ASSIST]. So if any commands are unclear, push it. | 兵への指示の出し方は『セレクトボタン』でわかるからわからなくなったら、押すといい |
+| 293 | Soldiers can report by pushing [OK]… | 兵からの報告が送られてくるが○ボタンを押せば…… |
+| 294 | The cursor will move to the soldier who made the report. | その報告を行った兵のところまでカーソルが移動する |
+| 295 | Press [CANCEL] and you'll hear the report without moving. | ×ボタンを押せば移動せずに報告を聞き流せる |
+| 296 | And you can bet Shinra will send platoons at you on a regular basis. | それから、神羅は定期的に部隊を送ってくる |
+| 297 | It would be great if you could spare the time to help us… | 時間があるとき来てくれるとちょうどいいだろう |
+| 298 | But, if you really don't have time, would you contribute some financial assistance? | どうしても、時間がないのならば資金援助をたのむ |
+| 299 | Hey, looks like they're getting ready to attack right now! Please, any help is appreciated… | お、ちょうどいいのが登ってきたぞ。手始めには、ちょうどいい数だ。それじゃあいっちょ、おねがいしますか |
+| 300 | Whew, that was good. But, Shinra's troops will be back. | ふう、うまくいったな。しかし、神羅はかならずまたやってくる |
+| 301 | Be sure and scout the area well… We don't know when they'll attack again. | 次は、いつ攻めてくるかわからないからときどき、見てきてくれよ |
+| 302 | My God! They're attacking! We're counting on you. | しまった！入りこんできたぞ！君たち、たのんだよ |
+| 303 | We made it through that one somehow. But, Shinra'll be back. | なんとかしのいだな。しかし、神羅はかならずまたやってくる |
+| 304 | Are you all right? Looks like a few got through. | 大丈夫か？何匹か入りこまれたな |
+| 305 | We have  allies left, so here's  gil. | 味方は、体残ったからギル返すよ |
+| 306 | We have 20 allies left, so we'll return 4000 gil to you. | 味方は、２０体残ったから４０００ギル返すよ |
+| 307 | Hey we're a little short on money… so could you at least make it  gil? | おいおい、所持金がちょっと少なすぎないか？せめて、ギルはないとな |
+| 308 | Hang in there, if we lose  more times, we're in deep trouble. | 後、回負けると危ないからがんばってくれよ |
+| 309 | How are things going? Seems like there's no activity at Shinra. | やあ、調子はどうだい？今は、神羅もおとなしいようだよ |
+| 310 | Perfect timing! They're just around the corner. Get ready. | おお、ちょうどのタイミングだ！もう、すぐそこまで来ているらしいぞ。準備してくれ |
+| 311 | Wait | まだ準備ができていない |
+| 312 | OK, ready | 準備はできている |
+| 313 | Contribute gil | 資金援助をする |
+| 314 | Let them handle it | 今回はまかせる |
+| 315 | Hear more | 説明を聞きたい |
+| 316 | Preparations ready? | もう準備はいいかい？ |
+| 317 | I see, very well then. Maybe, we'll fight together again sometime. | そうか、わかった。次は、いっしょに戦ってくれよな |
+| 318 | Sorry. We only have  gil. We have to beg for your help. | すまない。資金が、ギルしかないんだ。君たちにおねがいするしかないのだよ |
+| 319 | We have  gil right now. | 現在資金はギル残っている |
+| 320 | We need 3000 gil for each battle. | １回の戦闘で必要な資金はだいたい３０００ギルくらいだ |
+| 321 | How much can you help? | どれくらい援助してくれるんだい？ |
+| 322 | 500 gil | ５００ギル |
+| 323 | 1000 gil | １０００ギル |
+| 324 | 2000 gil | ２０００ギル |
+| 325 | 3000 gil | ３０００ギル |
+| 326 | 5000 gil | ５０００ギル |
+| 327 | Nothing right now | 今は、やめておく |
+| 328 | We are very grateful, but you don't have enough money. | ありがたいのだが所持金が足りないようだぞ |
+| 329 | Thanks. This makes gil. | ありがとう。これで資金はギルになったよ |
+| 330 | That's enough money for now. If we run out, we'll ask you for more. | 今は、じゅうぶんだから足りなくなったら、また、おねがいするよ |
+| 331 | How goes it? The Shinra troops have attacked times since you were here. | やあ、ひさしぶりだね。あれから神羅が回やってきたよ。おかげで資金がかなり減ってしまった |
+| 332 | So we're getting a little short on funds. | ちょっと、遅かったな。つい先ほど神羅に攻めこまれてしまったよ |
+| 333 | You're just a little too late… They attacked when you weren't here. | 次はもうすこし早く来てくれよな |
+| 334 | The situation has changed. Looks like the enemy is set to attack. If we lose here, it's over. | どうやら事態が変わったらしい。奴らこれで終わりにする気らしい。これに負けるとやばいぞ |
+| 335 | Our lives are in your hands. We're counting on you. | おれたちの明日は君たちにたくす。たのんだぞ |
+| 336 | … Even if you could only spare them… | ……せめて彼らだけでも…… |
+| 337 | YES! We did it! That was wonderful! Thank you!! I doubt Shinra will attack now. | やったぞ！すごいよ、ありがとう！これでもう神羅も来ないだろう |
+| 338 | A, arrgghh… | う、うわぁ…… |
+| 339 | There are four types of enemies. | 敵は、４タイプいる |
+| 340 | Wyverns | ワイバーンについて |
+| 341 | Beasts | ビーストについて |
+| 342 | Barbarians | バーバリアンについて |
+| 343 | Commanders | コマンダーについて |
+| 344 | Anything else? | 別のことを聞きたい |
+| 345 | Wyverns are flying types that can move at high speed. Stoner and Tristoner aren't effective against them. | ワイバーンは、飛行タイプで移動速度が速い。したがって、岩落機や、３連岩落機はあまり、効果がない |
+| 346 | Beasts are monster types that do not move quickly, but have explosive attacking power. | ビーストは、獣タイプで移動速度がおそい。そのかわりに、攻撃力が高い |
+| 347 | Barbarians are human types. They attack from a distance, so you've got to be on your toes. | バーバリアンは、人型タイプだ。間接攻撃をしてくるので、注意が必要だ |
+| 348 | Commanders are the enemy commanders. They're the ones we want to subdue, but they're formidable foes. | コマンダーは、敵の司令官だ。こいつをやっつければいいのだがとにかく手強い相手だ |
+| 349 | Your mobile allies are: Fighters, Attackers, Defenders, Shooters, Repairers and Workers. | 味方には、移動できるタイプとしてファイター、アタッカー、ディフェンダーシューター、リペアラー、ワーカー、がいる |
+| 350 | Your immobile allies are: Stoner, Tristoner, Catapult, and Fire Catapult. | 移動できないタイプとして岩落機、３連岩落機、投石機爆弾投機、がある |
+| 351 | Which do you want to hear about? | どれについて説明しよう？ |
+| 352 | Mobile types | 移動できるタイプについて |
+| 353 | Immobile types | 移動できないタイプについて |
+| 354 | Fighters | ファイターについて |
+| 355 | Attackers | アタッカーについて |
+| 356 | Defenders | ディフェンダーについて |
+| 357 | Shooters | シューターについて |
+| 358 | Repairers | リペアラーについて |
+| 359 | Workers | ワーカーについて |
+| 360 | Stoners | 岩落機について |
+| 361 | Tristoners | ３連岩落機について |
+| 362 | Catapults | 投石機について |
+| 363 | Fire Catapult | 爆弾投機について |
+| 364 | Fighters are good at defending and attacking, but aren't especially effective or deficient for any enemy. | ファイターは、攻守にバランスがよいが得意な相手、苦手な相手もいない |
+| 365 | Attackers move extremely fast and are best for expanding the front line. | アタッカーは、移動速度が速く 前線を広げるのに向いている。  |
+| 366 | They work good against enemy Beasts, but not enemy Barbarians. | 敵ビーストにたいして強く敵バーバリアンが苦手だ |
+| 367 | Defenders have high endurance, but move slowly. They're best suited for defense. | ディフェンダーは、体力が高いが移動速度が遅い、拠点防御に向いている。 |
+| 368 | Defenders work best against enemy Barbarians, but not enemy Wyverns. | 敵バーバリアンにたいして強く敵ワイバーンが苦手だ |
+| 369 | Shooters attack from a distance, but have low endurance. | シューターは、間接攻撃ができる。しかし、体力が低い。 |
+| 370 | Shooters work best against enemy Wyverns, but not enemy Beasts. | 敵ワイバーンにたいして強く敵ビーストが苦手だ |
+| 371 | Repairers repair allied units, but have little attacking power. | リペアラーは、味方の回復ができる。しかし、攻撃力はあまりない |
+| 372 | Workers set mines. Mines have strong attacking power, but Workers don't. | ワーカーは、地雷を置くことができる。地雷の攻撃力は高くても自分の攻撃力は低い |
+| 373 | Mines explode when touched by the enemy. The explosions will damage everything in the immediate area. | 地雷は、敵がさわると爆発する爆発すると、そのまわりにいる者すべてにダメージを与える |
+| 374 | Stoners can fire a single boulder, causing extensive damage to every enemy it hits. | 岩落機は、岩を１つ落とすことができる落ちている間に当たった敵すべてにダメージを与えることができる |
+| 375 | Tristoners can fire three boulders simultaneously, causing extensive damage to every enemy they hit. | ３連岩落機は、岩を同時に３つ落とすことができる落ちている間に当たった敵すべてにダメージを与えることができる |
+| 376 | Catapults shoot rocks a great distance, causing extensive damage to every enemy they hit. | 投石機は、石を遠くへ投げることができる落下地点にいる敵にダメージを与えられる |
+| 377 | Fire Catapults fire bombs a great distance, causing extensive damage to every enemy they hit. | 爆弾投機は、爆弾を遠くへ投げることができる爆弾の落下地点周辺の敵にダメージを与える |
+| 378 | You must pay for every weapon you set up. Even if you decide to move it later, you can only get back half of the gil you spent. | 一度設置したものを、てっきょしても設置するために使った費用があるので設置に要したギルの半分しか返ってこないぞ |
+| 379 | You have 10 enemies. There appear to be many Beasts, so you may want to deploy more Attackers. | 今回の敵は、１０匹程度だ。ビーストの数が多いようなのでアタッカーを多めに配置した方がいいかもしれないな |
+| 380 | The Barbarians are mixed during this attack. | 今回はバーバリアンが混ざっているようだ |
+| 381 | There are more than 20. Set up for a balanced-attack or we'll be in trouble. | ２０匹をこえる数がいそうだバランスよく配置しないと危ないぞ |
+| 382 | A strong unit's on their way. Looks like around 30. | かなりの部隊が来ている３０匹くらいいるだろう |
+| 383 | They'll probably climb up here using various routes. Better be careful or we'll be in trouble. | いろいろなルートで登ってくるだろうから気をつけないと危ないぞ |
+| 384 | And make sure to deploy Fire Catapults. | それと、爆弾投機が使えるぞ |
+| 385 | You're probably used to it now, but don't let your guard down. | もう、なれてきたと思うが油断しないようにな |
+| 386 | Deploy Tristoners. | それと、３連岩落機が使えるぞ |
+| 387 | Looks like the enemy numbers 40. Don't let your guard down. | どうやら、敵は４０匹ほどいるようだ。油断しないようにな |
+| 388 | I think you don't need my advice. The rest is up to you. | もう、アドバイスも必要ないだろう。たよりにしているよ |
+| 389 | This is the deciding battle. The enemy numbers more than ever before. | これで、全ての決着がつく。敵も、いままでにない数だ |
+| 390 | Let's give them all the gil we have. | 私たちの持っているギルを全て渡そう |
+| 391 | Received " gil"! | 『ギル』をもらった！ |
+| 392 | Received "40,000 gil"! | 『４００００ギル』をもらった！ |
+| 393 | Looks like there's a special Materia up in the Mako reactor. | どうやら、この上に魔晄炉の中にはなにか、特別なマテリアがあるらしい |
+| 394 | Their plan is to get rid of the Condor and the people on this mountain and to get the Materia from the Mako Reactor. | 軍の目的は、コンドルとこの山に住むわたしたちを排除し魔晄炉からマテリアを取り出すことだ |
+| 395 | Oh, it's you guys? How are things going? | ああ、あなたがたですか。どうです、調子は？ |
+| 396 | Up to now, you've lost  times. If you lose too many times, you won't be able to come back. | これまでに回負けてしまいましたね。あまり、負けてしまうと取り返しがつかないことになってしまいますよ |
+| 397 | We'll get some rest | そうだな休むか |
+| 398 | Let's move on | いや、やめておこう |
+| 399 | Yeah… | そうね |
+| 400 | Let's get some rest | 休みましょう |
+| 401 | Maybe next time | 今度にしましょう |
+| 402 | Yo! | おう |
+| 403 | Take a break | さっさと休んじまえ |
+| 404 | Not right now | 今はいいや |
+| 405 | Ey, let's get some rest. | おい、休もうぜ |
+| 406 | Say, let's rest. Okay? | ねえ、休みましょうよ |
+| 407 | Let's rest. Okay? | 休も、ね？ |
+| 408 | We should get some rest while we can. | 休めるときに、休んでおこう |
+| 409 | Let's take a break when we can afford to. | 休めるときに、休んでおこうよ |
+| 410 | Come on… break time, break time! | さ、やすみやすみ |
+| 411 | Now, shall we get some rest? | ほんな、休みましょか |
+| 412 | It's probably best to get some rest now. | 休んでおいた方がよさそうだな |
+| 413 | Come on, let's get some shut-eye. | ガンガン休みだ |
