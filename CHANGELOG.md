@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.11](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.10...v2.3.11) (2021-09-27)
+
+
+### Bug Fixes
+
+* Proofread Scene 12: Mythril Mine and Fort Condor. ([bd3cdc6](https://github.com/nowotato/final-fantasy-vii-catalog/commit/bd3cdc6e326e664a906990b18e57a43d6e60e918))
+
 ### [2.3.10](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.9...v2.3.10) (2021-09-27)
 
 
