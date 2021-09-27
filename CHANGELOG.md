@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.10](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.9...v2.3.10) (2021-09-27)
+
+
+### Bug Fixes
+
+* Fixed formatting issue in scene 12. ([8743449](https://github.com/nowotato/final-fantasy-vii-catalog/commit/8743449e287e61db5911333560564c21e47cfd60))
+
 ### [2.3.9](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.8...v2.3.9) (2021-09-15)
 
 
