@@ -89,7 +89,7 @@ console.log("");
 			let literal = split[2];
 			let english = split[3];
 			let kanji = japanese.match(kanjiRule) || [];
-			let format = `${japanese}\t${english}\t${literal}\t${kanji.join("")}\t${noext}`;
+			let format = `${japanese}\t${english}\t${literal===english?"":literal}\t${kanji.join("")}\t${noext}`;
 			formatted.push(format);
 			combined.push(format)
 		}
