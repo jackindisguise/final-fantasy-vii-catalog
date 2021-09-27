@@ -7,4 +7,6 @@ let result = rule.exec(data);
 let version = result[1];
 let link = result[2];
 let date = result[3];
+console.log("Footer line for Anki shared deck description:");
+console.log("---------------------------------------------");
 console.log(`<b>Latest Version:</b> <b><a href="${link}">${version}</a></b> ${date}`);
