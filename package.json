@@ -11,8 +11,9 @@
     "anki": "cd src && node generate-anki-import -q",
     "meta": "npm run kanji && npm run split && npm run table && npm run anki",
     "cycle": "npm run process && npm run meta",
-    "release": "standard-version",
-    "release-dry": "standard-version --dry-run"
+    "release": "standard-version && npm run latest",
+    "release-dry": "standard-version --dry-run",
+	"latest": "cd src && node latest"
   },
   "author": "",
   "license": "ISC",
