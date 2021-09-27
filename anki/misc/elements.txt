@@ -1,16 +1,16 @@
 炎	Fire	Flame	炎	elements
 冷	Ice	Cold	冷	elements
 雷	Lightning	Thunder	雷	elements
-土	Earth	Earth	土	elements
-毒	Poison	Poison	毒	elements
-重力	Gravity	Gravity	重力	elements
-水	Water	Water	水	elements
-風	Wind	Wind	風	elements
-聖	Holy	Holy	聖	elements
+土	Earth		土	elements
+毒	Poison		毒	elements
+重力	Gravity		重力	elements
+水	Water		水	elements
+風	Wind		風	elements
+聖	Holy		聖	elements
 １０番目の属性	Hidden*	Tenth Attribute	番目属性	elements
-斬る	Cut	Cut	斬	elements
+斬る	Cut		斬	elements
 殴る	Hit	Strike	殴	elements
 突く	Punch	Thrust	突	elements
 射撃	Shoot	Shot	射撃	elements
 回復	Restorative	Recovery	回復	elements
-叫ぶ	Shout	Shout	叫	elements
+叫ぶ	Shout		叫	elements

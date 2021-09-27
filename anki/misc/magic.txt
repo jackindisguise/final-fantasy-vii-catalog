@@ -1,7 +1,7 @@
 ブリザド	Ice	Blizzard		magic
 ブリザラ	Ice2	Blizzara		magic
 ブリザガ	Ice3	Blizzaga		magic
-ファイア	Fire	Fire		magic
+ファイア	Fire			magic
 ファイラ	Fire2	Fira		magic
 ファイガ	Fire3	Figa		magic
 サンダー	Bolt	Thunder		magic
@@ -9,46 +9,46 @@
 サンダガ	Bolt3	Thundaga		magic
 ケアル	Cure	Care		magic
 ケアルラ	Cure2	Carera		magic
-リジェネ	Regen	Regen		magic
+リジェネ	Regen			magic
 ケアルガ	Cure3	Carega		magic
-バイオ	Bio	Bio		magic
+バイオ	Bio			magic
 バイオラ	Bio2	Biora		magic
 バイオガ	Bio3	Bioga		magic
-クエイク	Quake	Quake		magic
+クエイク	Quake			magic
 クエイラ	Quake2	Quara		magic
 クエイガ	Quake3	Quaga		magic
-ポイゾナ	Poisona	Poisona		magic
-エスナ	Esuna	Esuna		magic
-レジスト	Resist	Resist		magic
+ポイゾナ	Poisona			magic
+エスナ	Esuna			magic
+レジスト	Resist			magic
 レイズ	Life	Raise		magic
 アレイズ	Life2	Arise		magic
-スリプル	Sleepel	Sleepel		magic
-サイレス	Silence	Silence		magic
+スリプル	Sleepel			magic
+サイレス	Silence			magic
 ミニマム	Mini	Minimum		magic
-トード	Toad	Toad		magic
+トード	Toad			magic
 コンフュ	Confu	Confuse/Confu		magic
-バーサク	Berserk	Berserk		magic
-ヘイスト	Haste	Haste		magic
-スロウ	Slow	Slow		magic
-ストップ	Stop	Stop		magic
+バーサク	Berserk			magic
+ヘイスト	Haste			magic
+スロウ	Slow			magic
+ストップ	Stop			magic
 グラビデ	Demi	Gravity		magic
 グラビラ	Demi2	Gravira		magic
 グラビガ	Demi3	Graviga		magic
 デバリア	DeBarrier	Debarrier		magic
 デスペル	DeSpell	Despell		magic
-デス	Death	Death		magic
-バリア	Barrier	Barrier		magic
+デス	Death			magic
+バリア	Barrier			magic
 マバリア	MBarrier	M-Barrier		magic
-リフレク	Reflect	Reflect		magic
-ウォール	Wall	Wall		magic
-エスケプ	Escape	Escape		magic
+リフレク	Reflect			magic
+ウォール	Wall			magic
+エスケプ	Escape			magic
 デジョン	Remove	Dezone		magic
-コメット	Comet	Comet		magic
+コメット	Comet			magic
 コメテオ	Comet2	Cometeo		magic
 フルケア	Full Cure	Full Care		magic
-フリーズ	Freeze	Freeze		magic
-ブレイク	Break	Break		magic
-トルネド	Tornado	Tornado		magic
-フレア	Flare	Flare		magic
-シールド	Shield	Shield		magic
+フリーズ	Freeze			magic
+ブレイク	Break			magic
+トルネド	Tornado			magic
+フレア	Flare			magic
+シールド	Shield			magic
 アルテマ	Ultima	Utima/Artima		magic

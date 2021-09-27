@@ -1,20 +1,20 @@
-リミットレベル	Limit level	Limit level		stats
-ちから	Strength	Strength		stats
-すばやさ	Dexterity	Dexterity		stats
-たいりょく	Vitality	Vitality		stats
-まりょく	Magic	Magic		stats
-せいしん	Spirit	Spirit		stats
-うん	Luck	Luck		stats
-こうげきりょく	Attack	Attack		stats
-めいちゅうりつ	Attack%	Attack%		stats
-ぼうぎょりょく	Defense	Defense		stats
-かいひりつ	Defense%	Defense%		stats
-まほうこうげき	Magic atk	Magic atk		stats
-まほうぼうぎょ	Magic def	Magic def		stats
-まほうかいひりつ	Magic def%	Magic def%		stats
-じかん	Time	Time		stats
-ギル	Gil	Gil		stats
-経験値	EXP	EXP	経験値	stats
-ＡＰ	AP	AP		stats
-ＧＰ	GP	GP		stats
-ＢＰ	BP	BP		stats
+リミットレベル	Limit level			stats
+ちから	Strength			stats
+すばやさ	Dexterity			stats
+たいりょく	Vitality			stats
+まりょく	Magic			stats
+せいしん	Spirit			stats
+うん	Luck			stats
+こうげきりょく	Attack			stats
+めいちゅうりつ	Attack%			stats
+ぼうぎょりょく	Defense			stats
+かいひりつ	Defense%			stats
+まほうこうげき	Magic atk			stats
+まほうぼうぎょ	Magic def			stats
+まほうかいひりつ	Magic def%			stats
+じかん	Time			stats
+ギル	Gil			stats
+経験値	EXP		経験値	stats
+ＡＰ	AP			stats
+ＧＰ	GP			stats
+ＢＰ	BP			stats
