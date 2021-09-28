@@ -5002,3 +5002,104 @@ CLOUD、ありがとう	CLOUD, thanks.		CLOUD、ありがとう		scene_12
 ほんな、休みましょか	Now, shall we get some rest?	休	ほんな、 休[やす]みましょか		scene_12
 休んでおいた方がよさそうだな	It's probably best to get some rest now.	休方	休[やす]んでおいた 方[ほう]がよさそうだな		scene_12
 ガンガン休みだ	Come on, let's get some shut-eye.	休	ガンガン 休[やす]みだ		scene_12
+ヘヘーん！やーい、だまされただろ！ザマーミロ！	Haa--ah! Gotcha! And you deserve it, too!		ヘヘーん！やーい、だまされただろ！ザマーミロ！		scene_13
+あっ、やられた！アイツ、オレの金を！	Hey, we been had! And…my money!	金	あっ、やられた！アイツ、オレの 金[きん]を！		scene_13
+アッ！私のお金、少なくなってる！	Hey! My money!	私金少	アッ！ 私[わたし]のお 金[かね]、 少[すく]なくなってる！		scene_13
+あれ……ね、お金、へってない？	Hmm…Hey, don't we have less money than before?	金	あれ……ね、お 金[かね]、へってない？		scene_13
+…………金が減っているな	… Some money is missing.	金減	………… 金[きむ]が 減[へ]っているな		scene_13
+アッ！オイラのヘソクリが！	Hey! My emergency money!		アッ！オイラのヘソクリが！		scene_13
+ギ、ギルが～ボクのギルがあらへん～！	Gil, gil, gil, where's my gil!?		ギ、ギルが~ボクのギルがあらへん~！		scene_13
+あああッ！？ねえ！　ねえぞ！　金がねえー！	What the--!? Gone! My money's gone!	金	あああ ッ[っ]！？ねえ！　ねえぞ！　 金[きむ]がねえー！		scene_13
+おや……？なるほど……すばやいな	Hmm? Pretty fast.		おや……？なるほど……すばやいな		scene_13
+２００ギル盗まれた！	200 Gil Stolen!	盗	２００ギル 盗[ぬす]まれた！		scene_13
+５００ギル盗まれた！	500 Gil Stolen!	盗	５００ギル 盗[ぬす]まれた！		scene_13
+７００ギル盗まれた！	700 Gil Stolen!	盗	７００ギル 盗[ぬす]まれた！		scene_13
+１０００ギル盗まれた！	1000 Gil Stolen!	盗	１０００ギル 盗[ぬす]まれた！		scene_13
+チクショ～！！オレの金、かえせ～！！	&^%$!! Gimme back my money!!	金	チクショ~！！オレの 金[きん]、かえせ~！！		scene_13
+ちょっと待ちなさい！私のお金は！？	Wait a second! Where's my money!?	待私金	ちょっと 待[ま]ちなさい！ 私[わたし]のお 金[かね]は！？		scene_13
+も～う！！だめじゃない、こんなコトしちゃ！！	Geez! You shouldn't have done that!!		も~う！！だめじゃない、こんなコトしちゃ！！		scene_13
+金に目がくらむ……じつに人間らしい行動だな	Greed…A perfect example of human nature.	金目人間行動	金[きん]に 目[め]がくらむ……じつに 人間[にんげん]らしい 行動[こうどう]だな		scene_13
+か、返せよ～！オイラのなんだぞ～！	Give…give back what is rightfully mine!	返	か、 返[かえ]せよ~！オイラのなんだぞ~！		scene_13
+ちょっと、アカンて！ボクのギル、返して～な～！	Hey, you can't! My gil, give it back!	返	ちょっと、アカンて！ボクのギル、 返[かえ]して~な~！		scene_13
+オレ様から金をくすねるたあいい度胸じゃねえか！！	Steal MY money, will ya? You got a lot of #&^%$ nerve!!	様金度胸	オレ 様[さま]から 金[きん]をくすねるたあいい 度胸[どきょう]じゃねえか！！		scene_13
+覚えてやがれ、このガキ！！	Just remember who you're dealin' with, punk!!	覚	覚[おぼ]えてやがれ、このガキ！！		scene_13
+ギルが目的、というわけでもなさそうだがな……	The gil doesn't seem be her real objective…	目的	ギルが 目的[もくてき]、というわけでもなさそうだがな……		scene_13
+なんなんだ、アイツ？	Wassup with that broad?		なんなんだ、アイツ？		scene_13
+CLOUD、あのコ知ってるの？	CLOUD, do you know her?	知	CLOUD、あのコ 知[し]ってるの？		scene_13
+だ～れ？あのコ……	Who is that girl?		だ~れ？あのコ……		scene_13
+……みなれない格好をしているな……	You don't see one like that everyday…	格好	……みなれない 格好[かっこう]をしているな……		scene_13
+何なんだい、あいつ。まだコドモじゃないか	Who is that girl? She's still a child.	何	何[なに]なんだい、あいつ。まだコドモじゃないか		scene_13
+なんやろ、アレ。知らん顔ですなぁ	Who do you think she is? I don't recognize her face.	知顔	なんやろ、アレ。 知らん顔[しらんかお]ですなぁ		scene_13
+なんだ、あいつはよう？まだガキじゃねえか！	Who is that kid?		なんだ、あいつはよう？まだガキじゃねえか！		scene_13
+不思議な武器を持っているな……どこかで見た記憶がある	She has a mysterious weapon. I've seen her somewhere before…	不思議武器持見記憶	不思議[ふしぎ]な 武器[ぶき]を 持[も]っているな……どこかで 見[み]た 記憶[きおく]がある		scene_13
+チクショ～……このアタシが負けるなんて……	Man… I can't believe I lost.	負	チクショ~……このアタシが 負[ま]けるなんて……		scene_13
+やい、このツンツン頭！もう１回、もう１回勝負だ！	You spikey-headed jerk! One more time, let's go one more time!	頭回勝負	やい、このツンツン 頭[あたま]！もう１ 回[かい]、もう１ 回[かい] 勝負[しょうぶ]だ！		scene_13
+やい、このオッパイ女！もう１回、もう１回勝負しろ！	Hey, boobs! Try that again! Just one more time!	女回勝負	やい、このオッパイ 女[おんな]！もう１ 回[かい]、もう１ 回[かい] 勝負[しょうぶ]しろ！		scene_13
+言ったわね！	What did you say!?	言	言[い]ったわね！		scene_13
+やめておくわ	Don't fight		やめておくわ		scene_13
+やい、このガニマタオヤジ！もう１回、もう１回勝負だ！	Hey, you bow-legged ol' man! Give me another chance! I'll fight ya!	回勝負	やい、このガニマタオヤジ！もう１ 回[かい]、もう１ 回[かい] 勝負[しょうぶ]だ！		scene_13
+ボコボコにしてやる！	Give her a lickin'		ボコボコにしてやる！		scene_13
+やなこった	Forget it!		やなこった		scene_13
+今度は負けないからね！時間をやるから、用意しなよ。カクゴができたらかかってきな！	I won't lose this time! Take your time and get ready. Holler when you're ready!	今度負時間用意	今度[こんど]は 負[ま]けないからね！ 時間[じかん]をやるから、 用意[ようい]しなよ。カクゴができたらかかってきな！		scene_13
+フーンだ、誰がアンタらみたいなザコと何度もたたかうもんか！	No way I'm going to fight with a punk like you more than once!	誰何度	フーンだ、 誰[だれ]がアンタらみたいなザコと 何度[なんど]もたたかうもんか！		scene_13
+ケガの治療費はいただいとくよ！次はようしゃしないからなー！	I'll save enough for the doctor bill! Next time, you won't be as lucky!	治療費次	ケガの 治療費[ちりょうひ]はいただいとくよ！ 次[つぎ]はようしゃしないからなー！		scene_13
+ム、逃げる気？ちゃんと勝負しろ！しろったらしろ！	Thinkin' of running away? Stay and fight! FIGHT, I said!	逃気勝負	ム、 逃[に]げる 気[き]？ちゃんと 勝負[しょうぶ]しろ！しろったらしろ！		scene_13
+シュッシュッ……どうしたどうした！	C'mon… What's the matter?		シュッシュッ……どうしたどうした！		scene_13
+アタシの強さにビビッてんだろ！！	You're pretty scared of me, huh!?	強	アタシの 強[つよ]さにビビッてんだろ！！		scene_13
+……まあな	Petrified…		……まあな		scene_13
+何度やっても同じだ	You're gonna lose again	何度同	何[なん] 度[ど]やっても 同[おな]じだ		scene_13
+……まあね	Petrified…		……まあね		scene_13
+あなたにはムリよ	You're outta your league!		あなたにはムリよ		scene_13
+そういうこった	Something like that		そういうこった		scene_13
+やるだけムダだぜ	You're wasting your time		やるだけムダだぜ		scene_13
+な、な、なんだと！？	Wh…what!?		な、な、なんだと！？		scene_13
+キー！　ムキキー！！アッタマきたあ！	Uuuuugh! Now I'm really mad!		キー！　ムキキー！！アッタマきたあ！		scene_13
+バカにしやがって……おぼえてろォ！！	Make fun of me, will ya! Just watch!!		バカにしやがって……おぼえてろォ！！		scene_13
+ヘヘ、や～っぱりそうか。ま、アタシの実力からいえばそれも当然だネ	Hmm, just as I thought. What do you expect with my skills?	実力当然	ヘヘ、や~っぱりそうか。ま、アタシの 実力[じつりょく]からいえばそれも 当然[とうぜん]だネ		scene_13
+アンタらもがんばれよ。また気が向いたら相手してやるからさ、んじゃね！	Good luck to you guys, too. If you feel up to it, we can go another around. Later!	気向相手	アンタらもがんばれよ。また 気[き]が 向[む]いたら 相手[あいて]してやるからさ、んじゃね！		scene_13
+行っちゃった……なんなの、あのコ……	She's gone… What's with her?	行	行[い]っちゃった……なんなの、あのコ……		scene_13
+行っちまった……なんだったんだ、アイツ……？	Gone… Wassup with that?	行	行[い]っちまった……なんだったんだ、アイツ……？		scene_13
+行っちゃった……けっきょく、何だったのかな？	She's gone… So what was that all about?	行何	行[い]っちゃった……けっきょく、 何[なに]だったのかな？		scene_13
+行ってしまった……いったい何がしたかったんだ？	She's gone… So what did that prove?	行何	行[い]ってしまった……いったい 何[なに]がしたかったんだ？		scene_13
+アレレ、行っちゃったよ……あいつ、何やってんだろ？	Huh? She's gone… What is she doing?	行何	アレレ、 行[い]っちゃったよ……あいつ、 何[なに]やってんだろ？		scene_13
+……消えよった。なんや、サッパリわかりませんわ	…She disappeared… I have no clue what happened.	消	…… 消[き]えよった。なんや、サッパリわかりませんわ		scene_13
+行っちまったよ、オイ……何なんだ、あのガキは！？	She's gone, hey… What's with that kid!?	行何	行[い]っちまったよ、オイ…… 何[なに]なんだ、あのガキは！？		scene_13
+…………理解に苦しむ行動だな	… What could her motivation have been?	理解苦行動	………… 理解[りかい]に 苦[くる]しむ 行動[こうどう]だな		scene_13
+なんだよ、アタシにまだなんか用？	What is it, you still have somethin' for me?	用	なんだよ、アタシにまだなんか 用[よう]？		scene_13
+……ハハーン。さてはアレかな？	…Hmmm. So is that it?		……ハハーン。さてはアレかな？		scene_13
+アタシがあんまり強いんでぜひ助けてほしいと！	I know you want my help because I'm so good!	強助	アタシがあんまり 強[つよ]いんでぜひ 助[たす]けてほしいと！		scene_13
+このアタシにいっしょに来てくれと！そういうこと？	You want me to go with you?	来	このアタシにいっしょに 来[き]てくれと！そういうこと？		scene_13
+……そういうこと	That's right		……そういうこと		scene_13
+じょうだんじゃない	You kiddin'?		じょうだんじゃない		scene_13
+そんなわけない！	No way!		そんなわけない！		scene_13
+……そういうこった	That's right		……そういうこった		scene_13
+何言ってやがんでえ！	What're you sayin'?”	何言	何[なに] 言[い]ってやがんでえ！		scene_13
+ホントに行っちゃうからね！ホントのホントだよ！	I'm gonna leave! I mean it!	行	ホント[ほんと]に 行[い]っちゃうからね！ホントのホントだよ！		scene_13
+ご自由に……	Go ahead	自由	ご 自由[じゆう]に……		scene_13
+ちょっと待った	Wait a second!	待	ちょっと 待[ま]った		scene_13
+ええ、どうぞ	Yeah, so?		ええ、どうぞ		scene_13
+ちょっと待って！	Wait a second!	待	ちょっと 待[ま]って！		scene_13
+とっとと消えろ！	GO, then!	消	とっとと 消[き]えろ！		scene_13
+……待ちやがれ！	Hold on!	待	…… 待[ま]ちやがれ！		scene_13
+あっそ！フーンだ、勝手にしろ！	Oh yeah? Then do whatever you want!	勝手	あっそ！フーンだ、 勝手[かって]にしろ！		scene_13
+へへへ、やっぱりねえ。いや、まいったなあ。ウーン、どうしようかなあ	Heh heh…thought so. You put me in a spot. Hmm, what should I do?		へへへ、やっぱりねえ。いや、まいったなあ。ウーン、どうしようかなあ		scene_13
+でも、そこまで言われちゃこのアタシもことわれないし……	But, if you want me that bad, I can't refuse…	言	でも、そこまで 言[い]われちゃこのアタシもことわれないし……		scene_13
+よし、わかった！アンタらについてってやるよ！	All right! I'll go with you!		よし、わかった！アンタらについてってやるよ！		scene_13
+……名前は？	What's your name?	名前	…… 名前[なまえ]は？		scene_13
+……先を急ごう	Let's hurry	先急	…… 先[さき]を 急[いそ]ごう		scene_13
+あなた、名前は？	What's your name?	名前	あなた、 名前[なまえ]は？		scene_13
+さ、急ぎましょ	Come on, let's hurry!”	急	さ、 急[いそ]ぎましょ		scene_13
+おめえ、名前は？	What's your name?	名前	おめえ、 名前[なまえ]は？		scene_13
+早くしねえとおいてくぞ！	Come on, or we'll leave you!	早	早[はや]くしねえとおいてくぞ！		scene_13
+アタシ？アタシの名前はね……	Me? The name's…	名前	アタシ？アタシの 名前[なまえ]はね……		scene_13
+ヘン、何言ってんだい！そっちが先になのるのがマナーってもんだろ！	What are you talking about!? You're the one who should go first!	何言先	ヘン、 何[なに] 言[い]ってんだい！そっちが 先[さき]になのるのがマナーってもんだろ！		scene_13
+やめやめやめ！いっしょに行くのやーめた！	Okay forget it! I'm not going with you!	行	やめやめやめ！いっしょに 行[い]くのやーめた！		scene_13
+アタシを怒らせると高くつくの！おぼえときな！！	Remember, if you piss me off it'll cost you!!	怒高	アタシを 怒[おこ]らせると 高[たか]くつくの！おぼえときな！！		scene_13
+あれ、ちょ、ちょっと……	Huh? Hey…HEY!		あれ、ちょ、ちょっと……		scene_13
+ちょっと！アタシまだ名前……	Wait! I haven't even told you my name…	名前	ちょっと！アタシまだ 名前[なまえ]……		scene_13
+アタシ、YUFFIE！ひとつヨロシク！	I'm YUFFIE! Good to meetcha!		アタシ、 YUFFIE！ひとつヨロシク！		scene_13
+へへへ……うまくいったよ	Heh, heh…just as I planned.		へへへ……うまくいったよ		scene_13
+あとはアレをナニして……クックック……	Now all I have to do is… a little this and a little that… nyuk, nyuk, nyuk…		あとはアレをナニして……クックック……		scene_13
+オ～イ、待ってよ！待ってってば～！！	Hey, wait up! Wait for me!!	待	オ~イ、 待[ま]ってよ！ 待[ま]ってってば~！！		scene_13
+盗んだお金ならホラ！ちゃんと返すからさァ！	Here, I'll give you back the money I've stolen from you!	盗金返	盗[ぬす]んだお 金[かね]ならホラ！ちゃんと 返[かえ]すからさァ！		scene_13
+……まだ使ってないぶんは	…Or, uh, what's left of it.	使	……まだ 使[つか]ってないぶんは		scene_13
