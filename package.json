@@ -10,7 +10,8 @@
     "table": "cd src && node generate-scene-tables -q",
     "anki": "cd src && node generate-anki-import -q",
     "meta": "npm run kanji && npm run split && npm run table && npm run anki",
-    "cycle": "npm run process && npm run meta",
+    "cycle-all": "npm run process && npm run meta",
+	"cycle-script": "npm run process && npm run split && npm run table",
     "release": "standard-version && npm run latest",
     "release-dry": "standard-version --dry-run",
     "latest": "cd src && node latest"
