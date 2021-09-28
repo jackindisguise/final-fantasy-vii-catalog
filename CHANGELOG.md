@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.13](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.11...v2.3.13) (2021-09-28)
+
+
+### Bug Fixes
+
+* `latest` script has a premable to identify what the text is. ([2d62733](https://github.com/nowotato/final-fantasy-vii-catalog/commit/2d627330e1af17eaa35a0b54241c67e3ffa91419))
+* Added `latest` script. `release` now runs `latest` automatically. ([af2c517](https://github.com/nowotato/final-fantasy-vii-catalog/commit/af2c5172d0b4b58c3173cb76b80f584e2bd7e1fa))
+* Misc. text decks no longer show literal field when it's identical to English field. ([6224635](https://github.com/nowotato/final-fantasy-vii-catalog/commit/62246354e2ee725f00649c74bb4ea60dd850425d))
+* Proofread Scene 14: Junon. ([d760fa4](https://github.com/nowotato/final-fantasy-vii-catalog/commit/d760fa4cddbaa4a29d931ad34f3349ddf6edbccb)), closes [#79](https://github.com/nowotato/final-fantasy-vii-catalog/issues/79)
+* Proofread Scene 15: Cargo Ship. ([25cbcf9](https://github.com/nowotato/final-fantasy-vii-catalog/commit/25cbcf99af424cad2d89b74303b15ea7fe5e72d6)), closes [#80](https://github.com/nowotato/final-fantasy-vii-catalog/issues/80)
+* When generating misc. text, if the literal line matches the English line, the literal line will be empty. ([e1132c0](https://github.com/nowotato/final-fantasy-vii-catalog/commit/e1132c0e30d88ee53f112010272fee90a410b4db))
+
 ### [2.3.12](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.11...v2.3.12) (2021-09-27)
 
 
