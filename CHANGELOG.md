@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.14](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.13...v2.3.14) (2021-09-29)
+
+
+### Bug Fixes
+
+* Fixed formatting, proofread Scene 16: Costa del Sol. ([6ca2e41](https://github.com/nowotato/final-fantasy-vii-catalog/commit/6ca2e412a0a00ada961d48941b27b4daafd55e48)), closes [#81](https://github.com/nowotato/final-fantasy-vii-catalog/issues/81)
+* Fixing a formatting issue in Scene 16: Costa del Sol. ([91d1f6c](https://github.com/nowotato/final-fantasy-vii-catalog/commit/91d1f6c931b25ee2f38fbfcbf51bd1c599bd1308))
+* Updated decks for Scene 16. ([b7078c4](https://github.com/nowotato/final-fantasy-vii-catalog/commit/b7078c4eaddbaf63bd987ddfd09df4fb55a7d67e))
+
 ### [2.3.13](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.11...v2.3.13) (2021-09-28)
 
 
