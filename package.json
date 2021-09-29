@@ -11,11 +11,7 @@
     "anki": "cd src && node generate-anki-import -q",
     "meta": "npm run kanji && npm run split && npm run table && npm run anki",
     "cycle-all": "npm run process && npm run meta",
-<<<<<<< HEAD
     "cycle-scenes": "npm run process && npm run split && npm run table",
-=======
-    "cycle-script": "npm run process && npm run split && npm run table",
->>>>>>> 9680b1858a2df86030b3ebda5b4e1686d94b055d
     "release": "standard-version && npm run latest",
     "release-dry": "standard-version --dry-run",
     "latest": "cd src && node latest"
