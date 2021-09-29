@@ -233,32 +233,28 @@
 | 231 | The Gold Saucer reopened. Why don't you go play hard and clear your heads as well as your pockets? | ゴールドソーサーが再開したよ。こんな時だからこそ、遊んで頭もサイフもカラッポにしたらどうだい？ |
 | 232 | I'm gonna use all my life savings before Meteor hits! | メテオが落ちる前にゴールドソーサーで有り金を全部使ってやるぜ！ |
 | 233 | I know how you feel, but what if Meteor doesn't hit us? What are you gonna do then? | あせる気持ちは分かるけどよ。メテオが落ちなかったらそのあと、どうするんだよ？ |
-| 234 | …My hometown, Corel's always | ……オレの故郷、コレルは |
-| 235 | been a coal mining town. | 古くからの炭坑の村だった。 |
-| 236 | It may be dusty and poor, | ほこりっぽくて |
-| 237 | but it's calm… | のどかで、まずしくて…… |
-| 238 | It's a real small town. | そんなちっぽけな村だった。 |
-| 239 | That's the first time I ever heard | 魔晄炉という名を初めて |
-| 240 | Mako Reactor mentioned since then… | 耳にする、あの時までは…… |
-| 241 | We all dreamt of the good life. | オレたちは豊かな生活を夢みていた。 |
-| 242 | Then, all of a sudden, Shinra troops came… | しかし……突然神羅の軍が…… |
-| 243 | Village Headman | 村長 |
-| 244 | What are we going to do? The only one opposed to this is Dyne… | どうする？反対してるのはダインだけだが…… |
-| 245 | Dyne | ダイン |
-| 246 | I am definitely against it, no matter what. There's nothing to talk about if you're thinking of throwing away our coal! | 俺は絶対反対だ。コレルの炭坑をすてるなんてできない相談だからな！ |
-| 247 | The coal's been ours for generations. Our fathers, and theirs before them, risked their lives for it. | コレルの炭坑は、俺たちのじいさんたち、おやじたちが命がけで守ってきたものだ |
-| 248 | We have no right to throw it all away so easily! | 俺たちの時代になってすてることなんてできない！ |
-| 249 | But listen, Dyne. No one uses coal nowadays. It's the sign of the times. | でもよ、ダイン。今の時代、石炭なんて誰も使わない。時代にはさからえないんだ |
-| 250 | Right, everything is Mako, now. | そう、時代は魔晄エネルギー |
-| 251 | It'll be all right, Dyne. Shinra, Inc. will guarantee your livelihood once the Mako Reactor is completed. | だいじょうぶですよ、ダインさん。魔晄炉完成のあかつきには我々神羅カンパニーがみなさんの生活を保障します |
-| 252 | Listen, Dyne. I don't want my wife, Myrna, to suffer anymore. | な、ダイン。オレは女房のミーナにこれ以上苦しい生活をさせたくないんだ |
-| 253 | I know how you feel! I feel the same way too, damn it! | そんなの俺だって同じなんだ！ |
-| 254 | But even so, I won't give away our coal mines! | でも、それでも俺には炭坑をすてるなんてできないんだよ！ |
-| 255 | Dyne…you've got to understand. | ダイン……わかってくれ |
-| 256 | That's how the Corel Reactor was built…and completed. | こうしてコレル魔晄炉は建設され……完成した。 |
-| 257 | We all thought it would bring us an easier life. | オレたちは豊かな生活を夢みていた。しかし………… |
-| 258 | It happened when Dyne and I were out of town for a few days. | オレとダインが村を離れているほんのわずかな時間の出来事だった。 |
-| 259 | Corel was burned down by the Shinra troops. | コレル村は神羅の軍によってやきはらわれてしまったんだ。 |
-| 260 | All the townspeople… | 大勢の村人たちも…… |
-| 261 | All my relatives…… | オレたちの家族も…… |
-| 262 | Everyone…everything… | みんな……いっしょに…… |
+| 234 | …My hometown, Corel's always been a coal mining town. | ……オレの故郷、コレルは 古くからの炭坑の村だった。 |
+| 235 | It may be dusty and poor, but it's calm… It's a real small town. | ほこりっぽくて のどかで、まずしくて…… そんなちっぽけな村だった。 |
+| 236 | That's the first time I ever heard Mako Reactor mentioned since then… | 『魔晄炉』という名を初めて耳にする、あの時までは…… |
+| 237 | We all dreamt of the good life. | オレたちは豊かな生活を夢みていた。 |
+| 238 | Then, all of a sudden, Shinra troops came… | しかし……突然神羅の軍が…… |
+| 239 | Village Headman | 村長 |
+| 240 | What are we going to do? The only one opposed to this is Dyne… | どうする？反対してるのはダインだけだが…… |
+| 241 | Dyne | ダイン |
+| 242 | I am definitely against it, no matter what. There's nothing to talk about if you're thinking of throwing away our coal! | 俺は絶対反対だ。コレルの炭坑をすてるなんてできない相談だからな！ |
+| 243 | The coal's been ours for generations. Our fathers, and theirs before them, risked their lives for it. | コレルの炭坑は、俺たちのじいさんたち、おやじたちが命がけで守ってきたものだ |
+| 244 | We have no right to throw it all away so easily! | 俺たちの時代になってすてることなんてできない！ |
+| 245 | But listen, Dyne. No one uses coal nowadays. It's the sign of the times. | でもよ、ダイン。今の時代、石炭なんて誰も使わない。時代にはさからえないんだ |
+| 246 | Right, everything is Mako, now. | そう、時代は魔晄エネルギー |
+| 247 | It'll be all right, Dyne. Shinra, Inc. will guarantee your livelihood once the Mako Reactor is completed. | だいじょうぶですよ、ダインさん。魔晄炉完成のあかつきには我々神羅カンパニーがみなさんの生活を保障します |
+| 248 | Listen, Dyne. I don't want my wife, Myrna, to suffer anymore. | な、ダイン。オレは女房のミーナにこれ以上苦しい生活をさせたくないんだ |
+| 249 | I know how you feel! I feel the same way too, damn it! | そんなの俺だって同じなんだ！ |
+| 250 | But even so, I won't give away our coal mines! | でも、それでも俺には炭坑をすてるなんてできないんだよ！ |
+| 251 | Dyne…you've got to understand. | ダイン……わかってくれ |
+| 252 | That's how the Corel Reactor was built…and completed. | こうしてコレル魔晄炉は建設され……完成した。 |
+| 253 | We all thought it would bring us an easier life. | オレたちは豊かな生活を夢みていた。しかし………… |
+| 254 | It happened when Dyne and I were out of town for a few days. | オレとダインが村を離れているほんのわずかな時間の出来事だった。 |
+| 255 | Corel was burned down by the Shinra troops. | コレル村は神羅の軍によってやきはらわれてしまったんだ。 |
+| 256 | All the townspeople… | 大勢の村人たちも…… |
+| 257 | All my relatives…… | オレたちの家族も…… |
+| 258 | Everyone…everything… | みんな……いっしょに…… |
