@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.16](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.15...v2.3.16) (2021-09-29)
+
+
+### Bug Fixes
+
+* Fixed formatting issues, proofread Scene 20: Cosmo Canyon. ([c582b57](https://github.com/nowotato/final-fantasy-vii-catalog/commit/c582b57f8738d45dfc2bc8fc9202c58c8cb3c545)), closes [#85](https://github.com/nowotato/final-fantasy-vii-catalog/issues/85)
+* Forgot to cycle Cosmo Canyon script fixes to Anki files. ([137285a](https://github.com/nowotato/final-fantasy-vii-catalog/commit/137285ab1e24fd112cb0bafb22649fdd367c831b))
+* Proofread Scene 18: Gold Saucer and Corel Prison. ([682ca11](https://github.com/nowotato/final-fantasy-vii-catalog/commit/682ca1162b420584dd9d8e7319b8a68caa5d886d)), closes [#83](https://github.com/nowotato/final-fantasy-vii-catalog/issues/83)
+* Proofread Scene 19: Gongaga. ([0cc211a](https://github.com/nowotato/final-fantasy-vii-catalog/commit/0cc211acf9cfe518f8100fc2b22b42fe2fcab65d)), closes [#84](https://github.com/nowotato/final-fantasy-vii-catalog/issues/84)
+* Updated anki decks to recent submissions. ([905fba6](https://github.com/nowotato/final-fantasy-vii-catalog/commit/905fba6a2c640e0dbaf202897141233f5419849c)), closes [#86](https://github.com/nowotato/final-fantasy-vii-catalog/issues/86) [#87](https://github.com/nowotato/final-fantasy-vii-catalog/issues/87) [#88](https://github.com/nowotato/final-fantasy-vii-catalog/issues/88)
+
 ### [2.3.15](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.14...v2.3.15) (2021-09-29)
 
 
