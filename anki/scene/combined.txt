@@ -8053,16 +8053,8 @@ RED XIII、なんだか様子がヘンじゃない？	RED XIII seems different, 
 はいよ、いらっしゃい。あれ、まだ武器を買うの？あんたも変わった人だね……	Welcome. You still want more weapons? You sure are weird…	武器買変人	scene_20
 まあいいや、そんな人もいないとわたしもヒマになっちゃうからね。ハハハハハ！	Uh, I mean, it's weird. If there weren't people like you, I'd be out of business. Heh, heh, heh…sweat…!	人	scene_20
 ナンバー４	Number 4		scene_20
-アルバイトぼしゅう！	Now hiring!		scene_20
-タイクツにたえられる	Looking for someone who		scene_20
-ガマンづよい方求む！	can stand long hours of boredom!	方求	scene_20
-くわしいお間い合わせは	For details, contact	間合	scene_20
-居酒屋『かめ道楽』まで！！	the "Turtle's Paradise"!!	居酒屋道楽	scene_20
-経験は間いません。	No experience necessary.	経験間	scene_20
-武器を見てもこうふんしない	Looking for emotionally stable people	武器見	scene_20
-おだやかな性格の方求む！	who don't get excited at the sight of weapons!	性格方求	scene_20
-ちょっとせまいけれど	We offer a small, but good		scene_20
-明るいしょくばです！	working environment!	明	scene_20
+アルバイトぼしゅう！タイクツにたえられるガマンづよい方求む！くわしいお間い合わせは居酒屋『かめ道楽』まで！！	Now hiring! Looking for someone who can stand long hours of boredom! For details, contact the "Turtle's Paradise"!!	方求間合居酒屋道楽	scene_20
+アルバイトぼしゅう！経験は間いません。武器を見てもこうふんしないおだやかな性格の方求む！ちょっとせまいけれど明るいしょくばです！	Now hiring! No experience necessary. Looking for emotionally stable people who don't get excited at the sight of weapons! We offer a small, but good working environment!	経験間武器見性格方求明	scene_20
 長老の部屋	Elder's Room	長老部屋	scene_20
 長老ハーゴ	Elder Hargo	長老	scene_20
 どこへやったかいの……たしかこのへんに……	Where did I put it? I know it's around here…		scene_20
@@ -8287,13 +8279,9 @@ CLOUDたちは星の命を救うために旅をしているんだ	They have come
 そして、時が来て、死にまた星に帰る……	Then, the time comes when they die and once again return to the Planet…	時来死星帰	scene_20
 むろんいくつかの例外はあるがこれがこの世界の仕組みじゃ	Of course there are exceptions, but this is the way of the world.	例外世界仕組	scene_20
 いろいろ話してしまったがまあ、これを見たらわかるじゃろ	I've digressed, but you'll understand better if you watch this.	話見	scene_20
-精神エネルギーのおかげで	Spirit energy is the source of life for	精神	scene_20
-木や鳥や人間は……	trees, birds, and humans.	木鳥人間	scene_20
-いやいや生き物だけではない。	And not only living things.	生物	scene_20
-星が星であるためには	It makes it possible	星	scene_20
-精神エネルギーが必要なんじゃ。	to form Planets.	精神必要	scene_20
-その精神エネルギーが	And if that Spirit Energy	精神	scene_20
-なくなったらどうなる？	were to disappear…		scene_20
+精神エネルギーのおかげで木や鳥や人間は……いやいや生き物だけではない。	Spirit energy is the source of life for trees, birds, and humans. And not only living things.	精神木鳥人間生物	scene_20
+星が星であるためには精神エネルギーが必要なんじゃ。	It makes it possible to form Planets.	星精神必要	scene_20
+その精神エネルギーがなくなったらどうなる？	And if that Spirit Energy were to disappear…	精神	scene_20
 ……終わりじゃ	It would be the end of life as we know it.	終	scene_20
 ……これが星命学の基本じゃな	…These are the basics of the Study of Planet Life.	星命学基本	scene_20
 精神エネルギーが失われると星が滅びる……	If Spirit Energy disappears, our Planet will die.	精神失星滅	scene_20
