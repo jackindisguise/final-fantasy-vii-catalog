@@ -231,13 +231,9 @@ BARRET、どうしたの？	BARRET, what happened?		scene_17
 ゴールドソーサーが再開したよ。こんな時だからこそ、遊んで頭もサイフもカラッポにしたらどうだい？	The Gold Saucer reopened. Why don't you go play hard and clear your heads as well as your pockets?	再開時遊頭	scene_17
 メテオが落ちる前にゴールドソーサーで有り金を全部使ってやるぜ！	I'm gonna use all my life savings before Meteor hits!	落前有金全部使	scene_17
 あせる気持ちは分かるけどよ。メテオが落ちなかったらそのあと、どうするんだよ？	I know how you feel, but what if Meteor doesn't hit us? What are you gonna do then?	気持分落	scene_17
-……オレの故郷、コレルは	…My hometown, Corel's always	故郷	scene_17
-古くからの炭坑の村だった。	been a coal mining town.	古炭坑村	scene_17
-ほこりっぽくて	It may be dusty and poor,		scene_17
-のどかで、まずしくて……	but it's calm…		scene_17
-そんなちっぽけな村だった。	It's a real small town.	村	scene_17
-魔晄炉という名を初めて	That's the first time I ever heard	魔晄炉名初	scene_17
-耳にする、あの時までは……	Mako Reactor mentioned since then…	耳時	scene_17
+……オレの故郷、コレルは 古くからの炭坑の村だった。	…My hometown, Corel's always been a coal mining town.	故郷古炭坑村	scene_17
+ほこりっぽくて のどかで、まずしくて…… そんなちっぽけな村だった。	It may be dusty and poor, but it's calm… It's a real small town.	村	scene_17
+『魔晄炉』という名を初めて耳にする、あの時までは……	That's the first time I ever heard Mako Reactor mentioned since then…	魔晄炉名初耳時	scene_17
 オレたちは豊かな生活を夢みていた。	We all dreamt of the good life.	豊生活夢	scene_17
 しかし……突然神羅の軍が……	Then, all of a sudden, Shinra troops came…	突然神羅軍	scene_17
 村長	Village Headman	村長	scene_17
