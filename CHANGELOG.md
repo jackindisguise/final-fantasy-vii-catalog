@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.15](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.14...v2.3.15) (2021-09-29)
+
+
+### Bug Fixes
+
+* Fixed formatting issues, proofread Scene 17: Corel. ([aef3091](https://github.com/nowotato/final-fantasy-vii-catalog/commit/aef309175596a535f2072914bc0003a0ddf972cb)), closes [#82](https://github.com/nowotato/final-fantasy-vii-catalog/issues/82)
+* Generated anki files for updated Corel scene. ([5b37c8b](https://github.com/nowotato/final-fantasy-vii-catalog/commit/5b37c8b8ab336a21c084804a35fa37dc3b160f48))
+
 ### [2.3.14](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.13...v2.3.14) (2021-09-29)
 
 

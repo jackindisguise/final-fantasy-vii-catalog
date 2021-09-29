@@ -1,6 +1,6 @@
 {
   "name": "final-fantasy-7-script",
-  "version": "2.3.14",
+  "version": "2.3.15",
   "description": "Processing the Japanese and English Final Fantasy 7 script for quick and easy use.",
   "main": "process.js",
   "scripts": {
