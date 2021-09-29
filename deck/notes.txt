@@ -6737,3 +6737,1024 @@ BARRET、どうしたの？	BARRET, what happened?		BARRET、どうしたの？	
 大勢の村人たちも……	All the townspeople…	大勢村人	大勢[たいせい]の 村人[むらびと]たちも……		scene_17
 オレたちの家族も……	All my relatives……	家族	オレたちの 家族[かぞく]も……		scene_17
 みんな……いっしょに……	Everyone…everything…		みんな……いっしょに……		scene_17
+ようこそゴールドソーサーへ	Welcome to the Gold Saucer.		ようこそゴールドソーサーへ		scene_18
+団体様ですね？　入園チケットは１回３０００ギルです何回でも入園できるゴールドチケットは３００００ギルになります	Are you together? A single pass is 3000 gil, or you can purchase a lifetime pass for 30000 gil.	団体様入園回何	団体[だんたい] 様[さま]ですね？　 入園[にゅうえん]チケットは１ 回[かい]３０００ギルです 何[なん] 回[かい]でも 入園[にゅうえん]できるゴールドチケットは３００００ギルになります		scene_18
+３０００ギル払う	Pay 3000 gil	払	３０００ギル 払[はら]う		scene_18
+３００００ギル払う	Pay 30000 gil	払	３００００ギル 払[はら]う		scene_18
+払わない	Don't pay	払	払[はら]わない		scene_18
+チケットは一度ゴールドソーサーからでますと、無効になりますのでお気をつけ下さい	If you leave Gold Saucer, your tickets become invalid.	一度無効気下	チケットは 一度[いちど]ゴールドソーサーからでますと、 無効[むこう]になりますのでお 気[き]をつけ 下[くだ]さい		scene_18
+ゴールドチケットはお客様がお無くしならない限り何度でも入園できます	If you have a Gold Ticket, you can come and go freely into the park…as long as you don't lose it.	客様無限何度入園	ゴールドチケットはお 客様[きゃくさま]がお 無[な]くしならない 限[かぎ]り 何度[なんど]でも 入園[にゅうえん]できます		scene_18
+もうしわけありませんがお金がたりないようです	I'm sorry, you don't have enough money.	金	もうしわけありませんがお 金[かね]がたりないようです		scene_18
+どうぞ、心行くまでお楽しみください	Please enjoy yourselves.	心行楽	どうぞ、 心行[こころゆ]くまでお 楽[たの]しみください		scene_18
+お客様こちらでチケットをお買い下さい	Please buy your ticket here.	客様買下	お 客様[きゃくさま]こちらでチケットをお 買[か]い 下[くだ]さい		scene_18
+ここゴールドソーサーでは料金を『ＧＰ』でお支払いただくものが多数あります	Here at the Gold Saucer, there are many places where you must pay with GP.	料金支払多数	ここゴールドソーサーでは 料金[りょうきん]を『 ＧＰ[じーぴー]』でお 支払[しはらい]いただくものが 多数[たすう]あります		scene_18
+『ＧＰ』はゴールドソーサーでのみ使うことの出来るお金だと思っていただければ、けっこうです	Just think of 'GP' as money that you can only use at the Gold Saucer.	使出来金思	『 ＧＰ[じーぴー]』はゴールドソーサーでのみ 使[つか]うことの 出来[でき]るお 金[かね]だと 思[おも]っていただければ、けっこうです		scene_18
+ＧＰはワンダースクェアの各種ゲームとチョコボレース場でのみお求めいただけます	GP can only be redeemed at the games in Wonder Square and at the Chocobo Races.	各種場求	ＧＰ[じーぴー]はワンダースクェアの 各種[かくしゅ]ゲームとチョコボレース 場[じょう]でのみお 求[もと]めいただけます		scene_18
+それとＧＰの個人の所有は１００００までとなっておりますのでお気をつけ下さい	Your GP limit is 10000, so please be careful.	個人所有気下	それと ＧＰ[じーぴー]の 個人[こじん]の 所有[しょゆう]は１００００までとなっておりますのでお 気[き]をつけ 下[くだ]さい		scene_18
+ギルをＧＰに換金しますか？１ＧＰは１００ギルです	Would you like to change gil into GP? 1 GP is 100 gil.	換金	ギルを ＧＰ[じーぴー]に 換金[かんきん]しますか？１ ＧＰ[じーぴー]は１００ギルです		scene_18
+いや	No		いや		scene_18
+ＧＰ	GP		ＧＰ[じーぴー]		scene_18
+ギル	gil		ギル		scene_18
+ギルだがいいな？	Is this okay?		ギルだがいいな？		scene_18
+おっ、兄ちゃんたちどうだい、俺がギルをＧＰに変えてやろうか？	Hey, how 'bout it, change your gil into GP?	兄俺変	おっ、 兄[にい]ちゃんたちどうだい、 俺[おれ]がギルを ＧＰ[じーぴー]に 変[か]えてやろうか？		scene_18
+興味無いな	Not interested	興味無	興味[きょうみ] 無[な]いな		scene_18
+へへっ、毎度１ＧＰ１００ギルでいいぜ	Hey, thanks 1 GP is 100 gil.	毎度	へへっ、 毎度[まいど]１ＧＰ１００ギルでいいぜ		scene_18
+なんだよ、兄ちゃん金がたりねぇぞ	Hey, you don't have enough.	兄金	なんだよ、 兄[にい]ちゃん 金[きん]がたりねぇぞ		scene_18
+ダメダメ１００００以上もっててもあやしまれるだけだ	No, no. It's suspicious if you have more than 10000 GP.	以上	ダメダメ１００００ 以上[いじょう]もっててもあやしまれるだけだ		scene_18
+また欲しくなったら来なおりゃあ、たまにここにいるからよ	If you want some more later, I'll be around now and then.	欲来	また 欲[ほ]しくなったら 来[き]なおりゃあ、たまにここにいるからよ		scene_18
+メニューを開いて【セーブ】を選ぶとゲームの状態を保存できます……、がここでは　５ＧＰかかります。	Access the Menu and select [SAVE] to save your game…but, each transaction will cost 5 GP here.	開選状態保存	メニューを 開[ひら]いて【セーブ】を 選[えら]ぶとゲームの 状態[じょうたい]を 保存[ほぞん]できます……、がここでは　５ ＧＰ[じーぴー]かかります。		scene_18
+払わない！	No way!	払	払[はら]わない！		scene_18
+しょーがないから払う	I guess I'm stuck. I'll pay	払	しょーがないから 払[はら]う		scene_18
+ＧＰがたりません…	Not enough GP…		ＧＰ[じーぴー]がたりません…		scene_18
+現在の持ちＧＰ	Current GP	現在持	現在[げんざい]の 持[も]ち ＧＰ[じーぴー]		scene_18
+ディオ	Dio		ディオ		scene_18
+こっちだ、君たち	This way.	君	こっちだ、 君[きみ]たち		scene_18
+すまないが、しばらくは営業をひかえさせてもらう	I'm sorry, I'm gonna close this for awhile.	営業	すまないが、しばらくは 営業[えいぎょう]をひかえさせてもらう		scene_18
+こんな時でも、経営を続けるかどうかを考えている所だ	I'm just debating if I should be in business at a time like this.	時経営続考所	こんな 時[とき]でも、 経営[けいえい]を 続[つづ]けるかどうかを 考[かんが]えている 所[ところ]だ		scene_18
+考えぬいたが、結論は１つだった	I thought about it, but there was only one solution.	考結論	考[かんが]えぬいたが、 結論[けつろん]は １[ひと]つだった		scene_18
+こんなときだからこそこのような場所が必要なのかも知れんそう考えたよ	I believed that because of the way things are, there's a need for a place like this.	場所必要知考	こんなときだからこそこのような 場所[ばしょ]が 必要[ひつよう]なのかも 知[し]れんそう 考[かんが]えたよ		scene_18
+楽しんでいってくれたまえはははははっはははっ	Enjoy yourselves… Ha ha ha ha…	楽	楽[たの]しんでいってくれたまえはははははっはははっ		scene_18
+案内板	Info Board	案内板	案内[あんない] 板[ばん]		scene_18
+『イベントスクェア』	Event Square		『イベントスクェア』		scene_18
+楽しい演劇があなたを待っています	An entertaining show awaits you.	楽演劇待	楽[たの]しい 演劇[えんげき]があなたを 待[ま]っています		scene_18
+『チョコボスクェア』	Chocobo Square		『チョコボスクェア』		scene_18
+チョコボレーシングが君をバーチャル空間へご案内	Chocobo Racing takes you into the world of Virtual Reality!	君空間案内	チョコボレーシングが 君[きみ]をバーチャル 空間[くうかん]へご 案内[あんない]		scene_18
+クエっ！　クエっ！	Wark! Wark!		クエっ！　クエっ！		scene_18
+『バトルスクェア』	Battle Square		『バトルスクェア』		scene_18
+熱き戦いへ君をいざなう！	Go to the limits in heated battles!	熱戦君	熱[あつ]き 戦[たたか]いへ 君[きみ]をいざなう！		scene_18
+いま必殺のゴールドアタック！！	Try your hand at the special Gold Attack!!	必殺	いま 必殺[ひっさつ]のゴールドアタック！！		scene_18
+『ラウンドスクェア』	Round Square		『ラウンドスクェア』		scene_18
+園内を一望できます 美しいゴールドソーサーの 夜景をあなたに……	Take a tour of the Park and see the beautiful night scenery of Gold Saucer…	園内一望美夜景	園内[えんない]を 一望[いちぼう]できます 美[うつく]しいゴールドソーサーの 夜景[やけい]をあなたに……		scene_18
+『スピードスクェア』	Speed Square		『スピードスクェア』		scene_18
+あなたを興奮の中へ シューティングコースターが 君を待つ！	A Shooting Roller Coaster is waiting to take you into the world of excitement.	興奮中君待	あなたを 興奮[こうふん]の 中[なか]へシューティングコースターが 君[きみ]を 待[ま]つ！		scene_18
+『ワンダースクェア』	Wonder Square		『ワンダースクェア』		scene_18
+数多くのゲームがあなたを待っています ワンダースクェアでＧＰをためて たくさん遊ぼう！	A number of Games await you here. Collect GP at Wonder Square and play some more!	数多待遊	数多[かずおお]くのゲームがあなたを 待[ま]っていますワンダースクェアで ＧＰ[じーぴー]をためてたくさん 遊[あそ]ぼう！		scene_18
+『ゴーストスクェア』	Ghost Square		『ゴーストスクェア』		scene_18
+こちらにはホテルがございますお泊りのさいはこちらへ……ひょひょひょひょひょっ	Please come and stay at the hotel… Ha ha ha…	泊	こちらにはホテルがございますお 泊[とま]りのさいはこちらへ……ひょひょひょひょひょっ		scene_18
+『現在地・ゴールドゲート』	Now in: Gold Gate	現在地	『 現在地[げんざいち]・ゴールドゲート』		scene_18
+様々なアトラクションへレッツ　アクセス！	Let's try all of the Attractions!	様	様々[さまざま]なアトラクションへレッツ　アクセス！		scene_18
+ゴールドソーサーへようこそ！	Welcome to Gold Saucer!		ゴールドソーサーへようこそ！		scene_18
+ゴールドソーサーでは 様々なアトラクションが あなたを待っています。	Many attractions await you here at Gold Saucer.	様待	ゴールドソーサーでは 様々[さまざま]なアトラクションがあなたを 待[ま]っています。		scene_18
+感動と興奮、スリル＆サスペンスあなたを未体験ゾーンへご案内！一生の思い出をあなたに……	You will be moved and excited, thrilled and terrified! Led from one zone to another… unlike anything you've ever experienced! Make your memories…today.	感動興奮未体験案内一生思出	感動[かんどう]と 興奮[こうふん]、スリル ＆[あんど]サスペンスあなたを 未[み] 体験[たいけん]ゾーンへご 案内[あんない]！ 一生[いっしょう]の 思い出[おもいで]をあなたに……		scene_18
+うわ～！楽しまなくっちゃ！	Wow! Let's have fun!	楽	うわ~！ 楽[たの]しまなくっちゃ！		scene_18
+そんな場合じゃないのはわかってるけど、ね	I know this isn't the right time to do this.	場合	そんな 場合[ばあい]じゃないのはわかってるけど、ね		scene_18
+ね、BARRETも元気だして！	Hey, BARRET, cheer up!	元気	ね、 BARRETも 元気[げんき]だして！		scene_18
+……そんな気分にはなれねえ。オレのことは放っておいてくれ	…I ain't in a cheery mood. So jus' leave me alone.	気分放	……そんな 気分[きぶん]にはなれねえ。オレのことは 放[はな]っておいてくれ		scene_18
+そ～ぉ？仕方ないね	Really? That's too bad.	仕方	そ~ぉ？ 仕方[しかた]ないね		scene_18
+行こっ！	Let's go!	行	行[い]こっ！		scene_18
+ヒソヒソ……。（AERIS！ちょっとひどいんじゃない？）	…whisper…whisper… (Wasn't that a little harsh, AERIS!?)		ヒソヒソ……。（ AERIS！ちょっとひどいんじゃない？）		scene_18
+ヒソヒソ……。（こういうとき、ヘンに気をつかわないほうがいいよ）	…whisper…whisper… (Just act normal when this happens)	気	ヒソヒソ……。（こういうとき、ヘンに 気[き]をつかわないほうがいいよ）		scene_18
+ヒソヒソ……。（そうかな……）	…whisper… (You think so…?)		ヒソヒソ……。（そうかな……）		scene_18
+だいじょぶよ！	Of course!		だいじょぶよ！		scene_18
+わたしたち、遊んでくるね	We're gonna go play…	遊	わたしたち、 遊[あそ]んでくるね		scene_18
+勝手にしろ！チャラチャラしやがってよ！	So PLAY! …mess around all you want!	勝手	勝手[かって]にしろ！チャラチャラしやがってよ！		scene_18
+オレたちはセフィロスを追ってるんだぞ！それを忘れるんじゃねえ！	Don't forget we're after Sephiroth!	追忘	オレたちはセフィロスを 追[お]ってるんだぞ！それを 忘[わす]れるんじゃねえ！		scene_18
+……怒っちゃった	…I think he's mad.	怒	…… 怒[おこ]っちゃった		scene_18
+あ、でも、だいじょうぶみたい。なんだかいつものBARRET。少し元気でたみたい	He'll be fine. He seems to be doing a little better now.	少元気	あ、でも、だいじょうぶみたい。なんだかいつもの BARRET。 少[すこ]し 元気[げんき]でたみたい		scene_18
+それじゃ、わたしたちも！	Then, shall we!?		それじゃ、わたしたちも！		scene_18
+セフィロスが来てるかもしれないから気をつけなくちゃね	We'd better be careful, Sephiroth might be around.	来気	セフィロスが 来[き]てるかもしれないから 気[き]をつけなくちゃね		scene_18
+いっしょに行く	Go together	行	いっしょに 行[い]く		scene_18
+いっしょに行かない	Don't go together	行	いっしょに 行[い]かない		scene_18
+いろ～んなこと忘れて楽しめると、いいね	I wish we could just forget everything and have fun!	忘楽	いろ~んなこと 忘[わす]れて 楽[たの]しめると、いいね		scene_18
+……私と行くのか？	…You want to go with me?	私行	…… 私[わたし]と 行[い]くのか？		scene_18
+アタシと！？	With me!?		アタシと！？		scene_18
+いっしょに行くわ	I'll go with you.	行	いっしょに 行[い]くわ		scene_18
+１人で行かないで私と行きましょ！	Don't go alone, go with me!	人行私	１ 人[にん]で 行[い]かないで 私[わたし]と 行[い]きましょ！		scene_18
+アタシといっしょに行こうよ！	Let's go together, CLOUD!	行	アタシといっしょに 行[い]こうよ！		scene_18
+１人ではなんだろう……	Don't go by yourself…	人	１ 人[にん]ではなんだろう……		scene_18
+スピードスクェア	Speed Square		スピードスクェア		scene_18
+チョコボスクェア	Chocobo Square		チョコボスクェア		scene_18
+イベントスクェア	Event Square		イベントスクェア		scene_18
+ラウンドスクェア	Round Square		ラウンドスクェア		scene_18
+はイベントがまだでーーーーす。	Uh… It's not time for the Event yet…		はイベントがまだでーーーーす。		scene_18
+バトルスクェア	Battle Square		バトルスクェア		scene_18
+ワンダースクェア	Wonder Square		ワンダースクェア		scene_18
+もうしわけございませんがこちらはただいま故障中です	Sorry it's out of order.	故障中	もうしわけございませんがこちらはただいま 故障[こしょう] 中[ちゅう]です		scene_18
+どっちと乗るか…	Who should I ride with?	乗	どっちと 乗[の]るか…		scene_18
+いらっしゃいませ こちらのアトラクションの お値段は３ＧＰに なっておりますが	Welcome. This attraction is 3 GP.	値段	いらっしゃいませこちらのアトラクションのお 値段[ねだん]は３ ＧＰ[じーぴー]になっておりますが		scene_18
+お乗りになられますか？	Shall you be riding this evening?	乗	お 乗[の]りになられますか？		scene_18
+お乗りになる	Yes, I shall	乗	お 乗[の]りになる		scene_18
+お乗りにならない	No, I shan't	乗	お 乗[の]りにならない		scene_18
+あの、まことにもうしわけございませんがＧＰがたりませんようです	Um, I'm very sorry, but you do not have enough GP.		あの、まことにもうしわけございませんが ＧＰ[じーぴー]がたりませんようです		scene_18
+こちらの乗り物は初めてでございますか？	Would this be your first time riding with us?	乗物初	こちらの 乗り物[のりもの]は 初[はじ]めてでございますか？		scene_18
+初めてでございます	Yes, it would	初	初[はじ]めてでございます		scene_18
+初めてでは無いでございます	No, it would not	初無	初[はじ]めてでは 無[な]いでございます		scene_18
+こちらの乗り物は中からゴールドソーサーの色々な景色がお楽しみいただけます。ただ、すわっているだけでは見ることの出来ない景色も多くございますのでマドからのぞいてみるとよろしいですよ	You will be able to see all of Gold Saucer park on this ride. So please just sit back and enjoy a lovely view you won't see anywhere else.	乗物中色景楽見出来多	こちらの 乗り物[のりもの]は 中[なか]からゴールドソーサーの 色々[いろいろ]な 景色[けしき]がお 楽[たの]しみいただけます。ただ、すわっているだけでは 見[み]ることの 出来[でき]ない 景色[けしき]も 多[おお]くございますのでマドからのぞいてみるとよろしいですよ		scene_18
+さようでございますか	Is that right?		さようでございますか		scene_18
+それとこちら、お２人様専用のアトラクションになってございますのでお１人様はこちらでおまちください	This attraction can only accommodate 2 passengers, so one of you please wait over there.	人様専用	それとこちら、お２ 人[にん] 様[さま] 専用[せんよう]のアトラクションになってございますのでお１ 人[にん] 様[さま]はこちらでおまちください		scene_18
+では、ゴールドソーサーの景色をごゆるりとお楽しみ下さい	Enjoy the sights of Gold Saucer.	景色楽下	では、ゴールドソーサーの 景色[けしき]をごゆるりとお 楽[たの]しみ 下[くだ]さい		scene_18
+わるいね、今の時間は何もやってないよ	Sorry but there's no show now.	今時間何	わるいね、 今[いま]の 時間[じかん]は 何[なに]もやってないよ		scene_18
+ここは、一風変わったショーをするんだ今日はやってないみたいだけどまた、きてみるといいよ	We put on a really unusual show here. But not today, so come back again sometime and see it.	一風変今日	ここは、 一風[いっぷう] 変[か]わったショーをするんだ 今日[きょう]はやってないみたいだけどまた、きてみるといいよ		scene_18
+な、なんだよ２人のじゃまをしないでくれ	What's your problem? Can't you see we wanna be alone?	人	な、なんだよ２ 人[にん]のじゃまをしないでくれ		scene_18
+ふっ、君もブスイな人だ２人だけにしておいてもらえないか	Geez, what a jerk. Why don't you just leave us alone?	君人	ふっ、 君[きみ]もブスイな 人[ひと]だ２ 人[にん]だけにしておいてもらえないか		scene_18
+へへへ、ついに５０００点をとったぜ	Hey, I finally got 5000 points.	点	へへへ、ついに５０００ 点[てん]をとったぜ		scene_18
+へへへ、また５０００点をとったぜ	Hey, I got 5000 points again.	点	へへへ、また５０００ 点[てん]をとったぜ		scene_18
+へへへ、景品が変わったんでまた５０００点を取ったぜ	Hey, since the prizes changed, I got 5000 points again.	景品変点取	へへへ、 景品[けいひん]が 変[か]わったんでまた５０００ 点[てん]を 取[と]ったぜ		scene_18
+へへへ、ついに【未定４】を手に入れたぜ	Hey, I finally got 'Undecided 4'.	未定手入	へへへ、ついに【 未定[みてい]４】を 手[て]に 入[い]れたぜ		scene_18
+へへへ、ついに【未定５】を手に入れたぜ	Hey, I finally got 'Undecided 5'.	未定手入	へへへ、ついに【 未定[みてい]５】を 手[て]に 入[い]れたぜ		scene_18
+キャー！！　ステキー！！	Wow!! You're so wonderful!!		キャー！！　ステキー！！		scene_18
+ああ、やっと景品をもらうことが出来た…	Man, I finally got a prize…	景品出来	ああ、やっと 景品[けいひん]をもらうことが 出来[でき]た…		scene_18
+また、ＧＰをかせぎに行くか	Well, I guess I'll go and get some more GP.	行	また、 ＧＰ[じーぴー]をかせぎに 行[い]くか		scene_18
+やっぱり、出てくる順番を覚えて、先よみして攻撃すれば……ブツブツ……	First, I gotta memorize the order it comes out, and then guess on the attacks… …mumble, mumble…	出順番覚先攻撃	やっぱり、 出[で]てくる 順番[じゅんばん]を 覚[おぼ]えて、 先[さき]よみして 攻撃[こうげき]すれば……ブツブツ……		scene_18
+こういう階段って気を付けないとね	We have to be careful of these steps.	階段気付	こういう 階段[かいだん]って 気[き]を 付[つ]けないとね		scene_18
+なにをって…色々だよいろいろ	What? A lot of things…	色	なにをって… 色々[いろいろ]だよいろいろ		scene_18
+わ～い！！	Yaaay!!		わ~い！！		scene_18
+キャッキャ！	Eyyaaaaaa!		キャッキャ！		scene_18
+これこれ、走るんじゃないよ	Come on now, no running.	走	これこれ、 走[はし]るんじゃないよ		scene_18
+これこれ、メテオには気をつけるんだよ	Now, now, be careful of Meteor.	気	これこれ、メテオには 気[き]をつけるんだよ		scene_18
+クラクラ～！！	I'm dizzy!!		クラクラ~！！		scene_18
+ゴールドソーサーにようこそ	Welcome to the Gold Saucer.		ゴールドソーサーにようこそ		scene_18
+ふう……	Phew…		ふう……		scene_18
+男	Man	男	男[おとこ]		scene_18
+そこの少年	Hey boy.	少年	そこの 少年[しょうねん]		scene_18
+少年……	Boy…	少年	少年[しょうねん]……		scene_18
+どうだね？　楽しんでいるかね？	How is it? You having fun?	楽	どうだね？　 楽[たの]しんでいるかね？		scene_18
+ん、そうか、楽しんでいるかよかった、よかった、な少年よ	Mmm, so, you ARE having fun. Well, good, good for you boy.	楽少年	ん、そうか、 楽[たの]しんでいるかよかった、よかった、な 少年[しょうねん]よ		scene_18
+俺は、CLOUDだ。少年というのはやめてくれ	My name's CLOUD. And stop calling me boy.	俺少年	俺[おれ]は、 CLOUDだ。 少年[しょうねん]というのはやめてくれ		scene_18
+ん？　私か？私は、ここゴールドソーサーの園長ディオという	Mmm? Me? I'm the owner of the Gold Saucer. The name's Dio.	私園長	ん？　 私[わたし]か？ 私[わたし]は、ここゴールドソーサーの 園長[えんちょう]ディオという		scene_18
+気軽に『ディオちゃん』と呼んでくれ	Just call me 'Dio'.	気軽呼	気軽[きがる]に『ディオちゃん』と 呼[よ]んでくれ		scene_18
+………（聞いちゃいないな）	(He's not even listening)	聞	………（ 聞[き]いちゃいないな）		scene_18
+そうだ、少年。『黒マテリア』を知っているか？	By the way, boy, do you know what a 'Black Materia' is?	少年黒知	そうだ、 少年[しょうねん]。『 黒[くろ]マテリア』を 知[し]っているか？		scene_18
+知らない	What is it?	知	知[し]らない		scene_18
+ははははははは、少年！ウソはいけない。　この私の目はごまかせないぞ	Ha ha ha…that, I say, that's a good one, boy! But it's not good to lie. You can't fool me.	少年私目	ははははははは、 少年[しょうねん]！ウソはいけない。　この 私[わたし]の 目[め]はごまかせないぞ		scene_18
+おお、やはり知っているか	Oh, so you do know?	知	おお、やはり 知[し]っているか		scene_18
+なぜ俺に聞いた？	Why d'you ask me?	俺聞	なぜ 俺[おれ]に 聞[き]いた？		scene_18
+少し前に、少年くらいの少年が来て『黒マテリア』はないかと聞いていったのでな	Well, a while back, a boy your age came in and asked me if I had Black Materia.'	少前年来黒聞	少[すこ]し 前[まえ]に、 少年[しょうねん]くらいの 少年[しょうねん]が 来[き]て『 黒[くろ]マテリア』はないかと 聞[き]いていったのでな		scene_18
+同じくらいの少年なら知っているのかと思ってな	I thought you might know who he was, seein' as how you're both about the same age.	同少年知思	同[おな]じくらいの 少年[しょうねん]なら 知[し]っているのかと 思[おも]ってな		scene_18
+その男は黒いマントの……	Did he happen to have…a black cape?	男黒	その 男[おとこ]は 黒[くろ]いマントの……		scene_18
+その通りだ。それに手の甲に『１』のタトゥーをしていたぞ	Why yes, yes indeed. And a tattoo on his hand that said '1'.	通手甲	その 通[とお]りだ。それに 手の甲[てのこう]に『１』のタトゥーをしていたぞ		scene_18
+その男、どこへ行った！？	Where did he go!?	男行	その 男[おとこ]、どこへ 行[い]った！？		scene_18
+はははははは、そんなことはさすがの私も知らんよ	Ha ha ha, I have no idea.	私知	はははははは、そんなことはさすがの 私[わたし]も 知[し]らんよ		scene_18
+では	Well then.		では		scene_18
+おお、そうだ少年よ。よかったら、闘技場によってみてくれ	I say, stop by the Battle Arena if you like, boy.	少年闘技場	おお、そうだ 少年[しょうねん]よ。よかったら、 闘技場[とうぎじょう]によってみてくれ		scene_18
+君なら気に入ってくれると思うよ。私のコレクションの数々もかざってあることだし	You'll probably like it. Many of my collections are on display there.	君気入思私数	君[きみ]なら 気に入[きにい]ってくれると 思[おも]うよ。 私[わたし]のコレクションの 数々[かずかず]もかざってあることだし		scene_18
+はははははは	Ha, ha ha.		はははははは		scene_18
+お客さまお申しこみはこちらでおねがいします	This way, Sir, to register.	客申	お 客[きゃく]さまお 申[さる]しこみはこちらでおねがいします		scene_18
+こちらのアトラクションは１０ＧＰになります	This attraction costs 10 GP.		こちらのアトラクションは１０ ＧＰ[じーぴー]になります		scene_18
+はらう	Pay		はらう		scene_18
+お客様は、こちら初めてでございますね？まずは、ゲームの内容をそちらでお聞きになるのがよいかと思います	Is this your first time? First, listen to the explanation of the game over there.	客様初内容聞思	お 客様[きゃくさま]は、こちら 初[はじ]めてでございますね？まずは、ゲームの 内容[ないよう]をそちらでお 聞[き]きになるのがよいかと 思[おも]います		scene_18
+はい、ごあんな～い	Thank you.		はい、ごあんな~い		scene_18
+後、ほんの少～し、まって	Later, just a second.	後少	後[ご]、ほんの 少[しょう]~し、まって		scene_18
+…………お客さん、ＧＰがたりません	… You don't have enough GP	客	…………お 客[きゃく]さん、 ＧＰ[じーぴー]がたりません		scene_18
+は～い、このアトラクションのルールを知りたい？	Hear the rules for this attraction?	知	は~い、このアトラクションのルールを 知[し]りたい？		scene_18
+このアトラクション『シューティングコースター』はね	This attraction is the Shooting Coaster.		このアトラクション『シューティングコースター』はね		scene_18
+ゴーッと走る中にピュンピュンと出てくる物をバンバンと撃ってドッカーンとやっつけるの。どう、簡単でしょ？	While your ride's going ZOOM, you're going BANG BANG, and things are going PHEW PHEW and you destroy them with a big BOOM. Pretty simple, isn't it?	走中出物撃簡単	ゴーッと 走[はし]る 中[なか]にピュンピュンと 出[で]てくる 物[もの]をバンバンと 撃[う]ってドッカーンとやっつけるの。どう、 簡単[かんたん]でしょ？		scene_18
+あっ撃つのは○ボタンよ。それから～、画面左についてるバーはパワーメーターなの	Oh, to shoot, hit [OK]. The bar on the left side of the screen is your Power Meter.	撃画面左	あっ 撃[う]つのは○ボタンよ。それから~、 画面[がめん] 左[ひだり]についてるバーはパワーメーターなの		scene_18
+いっぱいの時うつと、ガーンていって少ないときはチョビチョビって弱くなっちゃうの、気をつけてね	When it's full, it'll go BROOOOOM and when it's empty, it'll only go …brm…and putter out. So be careful.	時少弱気	いっぱいの 時[とき]うつと、ガーンていって 少[すく]ないときはチョビチョビって 弱[よわ]くなっちゃうの、 気[き]をつけてね		scene_18
+あとね、お客さんの点数は上位３つまで出口の人が記録しておいてくれるのがんばってね♥	If you make it to the Top 3, you'll get on the Wall of Fame.	客点数上位出口人記録	あとね、お 客[きゃく]さんの 点数[てんすう]は 上位[じょうい] ３[みっ]つまで 出口[でぐち]の 人[ひと]が 記録[きろく]しておいてくれるのがんばってね♥		scene_18
+ただいま、故障中でして…	It's currently under repair…	故障中	ただいま、 故障[こしょう] 中[ちゅう]でして…		scene_18
+ごめんなさい、また来てね	I'm sorry, please come again.	来	ごめんなさい、また 来[き]てね		scene_18
+プラットホーム	Platform		プラットホーム		scene_18
+もうチョットまって	Wait just a little longer please.		もうチョットまって		scene_18
+あなたの得点は点でした	You had points.	得点	あなたの 得点[とくてん]は 点[てん]でした		scene_18
+あなたの得点は点です	Your score is points.	得点	あなたの 得点[とくてん]は 点[てん]です		scene_18
+あなたのスコア記録を見ますか？	Would you like to see the Wall of Fame?	記録見	あなたのスコア 記録[きろく]を 見[み]ますか？		scene_18
+３０００点以上取ったら景品があります、ガンバッテください	You'll receive a prize if you get more than 3000 Points. So good luck.	点以上取景品	３０００ 点[てん] 以上[いじょう] 取[と]ったら 景品[けいひん]があります、ガンバッテください		scene_18
+ハイスコア　CLOUD	HighScore CLOUD		ハイスコア　 CLOUD		scene_18
+うっ…	Ugh…		うっ…		scene_18
+いらっしゃいませ当ゴーストホテルへおいでいただきまことに、ありがとうございます	Welcome. Thank you for coming to the Ghost Hotel.	当	いらっしゃいませ 当[とう]ゴーストホテルへおいでいただきまことに、ありがとうございます		scene_18
+いらっしゃいませ世界がどうなろうとも当ゴーストホテルは元気いっぱい営業させていただきます	Welcome. No matter what happens in this world, The Ghost Hotel will always be in business.	世界当元気営業	いらっしゃいませ 世界[せかい]がどうなろうとも 当[とう]ゴーストホテルは 元気[げんき]いっぱい 営業[えいぎょう]させていただきます		scene_18
+ひっひっひっひっ	Uuuuuuuuuugh……		ひっひっひっひっ		scene_18
+お部屋のご予約は奥のカウンターでどうぞ	For reservations, please step up to the counter.	部屋予約奥	お 部屋[へや]のご 予約[よやく]は 奥[おく]のカウンターでどうぞ		scene_18
+当ホテルの人気者首つり君でございます	It's our most popular employee, Mr. Hangman.	当人気者首君	当[とう]ホテルの 人気者[にんきもの] 首[くび]つり 君[くん]でございます		scene_18
+首つり君	Mr. Hangman	首君	首[くび]つり 君[くん]		scene_18
+ようこそ！	Welcome!		ようこそ！		scene_18
+１夜　５ＧＰですがおやすみになられますか？	It's 5 GP a night. Would you like to stay?	夜	１ 夜[や]　５ＧＰですがおやすみになられますか？		scene_18
+えんりょしておく	No thanks		えんりょしておく		scene_18
+ひょっひょひょよい、夜を　ひょっひょひょ	Ugh, ugh, ugh, ugh! Enjoy, ugh, your stay.	夜	ひょっひょひょよい、 夜[よる]を　ひょっひょひょ		scene_18
+ひょひょひょＧＰがありませんな	Ugh, ugh, ugh You don't have enough GP.		ひょひょひょ ＧＰ[じーぴー]がありませんな		scene_18
+ホテルロビー	Hotel Lobby		ホテルロビー		scene_18
+お客さんお部屋のご予約はカウンターでどうぞ！！	Sir…Please register at the counter!!	客部屋予約	お 客[きゃく]さんお 部屋[へや]のご 予約[よやく]はカウンターでどうぞ！！		scene_18
+【かめ道楽　通信】	[Turtle's Paradise]	道楽通信	【かめ 道楽[どうらく]　 通信[つうしん]】		scene_18
+ナンバー３	No. 3		ナンバー３		scene_18
+ゴールドソーサーにただひとつ、たりないもの……それはおいしいお酒とムードのある居酒屋！ぜひいちど居酒屋『かめ道楽』へ！！	Forget the bad times with a nice drink… Only thing missing in the Gold Saucer is… A pub with good drinks and a great atmosphere! Stop in the Turtle's Paradise!	酒居屋道楽	ゴールドソーサーにただひとつ、たりないもの……それはおいしいお 酒[さけ]とムードのある 居酒屋[いざかや]！ぜひいちど 居酒屋[いざかや]『かめ 道楽[どうらく]』へ！！		scene_18
+ホテルショップ	Hotel Shop		ホテルショップ		scene_18
+いらっしゃい	Welcome.		いらっしゃい		scene_18
+闘技場ロビー	Arena Lobby	闘技場	闘技場[とうぎじょう]ロビー		scene_18
+ゴールドソーサーに来たらここの園長ディオ様の数々のコレクションを１度はのぞいていくことをおすすめしますよ	Whenever you come to the Gold Saucer, I recommend you visit the owner's museum at least once.	来園長様数度	ゴールドソーサーに 来[き]たらここの 園長[えんちょう]ディオ 様[さま]の 数々[かずかず]のコレクションを１ 度[ど]はのぞいていくことをおすすめしますよ		scene_18
+ちっ！まだ、ポイントが足りねぇか	Crap! I still don't have enough points.	足	ちっ！まだ、ポイントが 足[た]りねぇか		scene_18
+ふむ…	Hmm…		ふむ…		scene_18
+おう、その後の調子はどうだい？	So, uh, how've things been since then?	後調子	おう、その 後[ご]の 調子[ちょうし]はどうだい？		scene_18
+まかせろ	No sweat		まかせろ		scene_18
+ボチボチだな	They're going		ボチボチだな		scene_18
+ほう、たいしたもんだ	Hmm, pretty good.		ほう、たいしたもんだ		scene_18
+ハハハッ！まぁ、がんばんな	Ha ha ha! Well, good luck.		ハハハッ！まぁ、がんばんな		scene_18
+ん？　あんた新顔だな？なら、おれ様がこの闘技場のことを教えてやろうか？	Mmm? You're new here, aren't you? Then, you want an explanation of the Battle Arena?	新顔様闘技場教	ん？　あんた 新顔[しんがお]だな？なら、おれ 様[さま]がこの 闘技場[とうぎじょう]のことを 教[おし]えてやろうか？		scene_18
+なんだ、あんたもかい？まったく、こんな世の中だってのになにやってんかね、オレらは	What, you too? With the way things are in the world, It makes you wonder what we're doin' here?	世中	なんだ、あんたもかい？まったく、こんな 世の中[よのなか]だってのになにやってんかね、オレらは		scene_18
+ま、いまさらジタバタしてもしゃ～ないしこうして、スキなことをやってるのが１番だねオレは	Well, it's a little late for me to run around now, so I do what I love, it works best for me.	番	ま、いまさらジタバタしてもしゃ~ないしこうして、スキなことをやってるのが１ 番[ばん]だねオレは		scene_18
+そうそう、あんた知ってるかい？ここにはよ、最強と認められたもののみが参加をゆるされるバトルがあるって話だぜ	Oh, by the way, did you know? I heard that there's going to be a battle and only the strongest will be allowed to participate.	知最強認参加話	そうそう、あんた 知[し]ってるかい？ここにはよ、 最強[さいきょう]と 認[みと]められたもののみが 参加[さんか]をゆるされるバトルがあるって 話[はなし]だぜ		scene_18
+しかし、最強ってのもあいまいだよなとりあえず、武器かな。	But what do they mean by 'strongest'? If ya ask me I'll say it's 'weapons.'	最強武器	しかし、 最強[さいきょう]ってのもあいまいだよなとりあえず、 武器[ぶき]かな。		scene_18
+それと、ここでの強さもコジしねぇとな。う～ん、もう１つぐらい決め手がほしいか	But, there's gotta be a way to measure this, too. Mmm, we need another way to measure strength.	強決手	それと、ここでの 強[つよ]さもコジしねぇとな。う~ん、もう １[ひと]つぐらい 決め手[きめて]がほしいか		scene_18
+ここは、戦って戦って戦い抜いてバトルポイントをもらいそいつで商品をもらう所さ	You fight here and collect battle points. You can then exchange those points for prizes.	戦抜商品所	ここは、 戦[たたか]って 戦[たたか]って 戦[そよ]い 抜[ぬ]いてバトルポイントをもらいそいつで 商品[しょうひん]をもらう 所[ところ]さ		scene_18
+バトルゲーム…、ゲームといっても体を張ったゲームだがなこれには奥のフロントでＧＰを払って、ゲームに登録すればいい	The Battle Game…even though it's a game you still use all your physical abilities. To participate, go to the front and pay yer GP's.	体張奥払登録	バトルゲーム…、ゲームといっても 体[からだ]を 張[は]ったゲームだがなこれには 奥[おく]のフロントでＧＰを 払[はら]って、ゲームに 登録[とうろく]すればいい		scene_18
+バトルは８戦まで連続で行うことができる。もちろん勝ち抜けば勝ち抜くほどもらえるバトルポイントは増えていく	You can fight in up to eight battles. The more you win, the more battle points you get.	戦連続行勝抜増	バトルは８ 戦[せん]まで 連続[れんぞく]で 行[おこな]うことができる。もちろん 勝ち抜[かちぬ]けば 勝ち抜[かちぬ]くほどもらえるバトルポイントは 増[ふ]えていく		scene_18
+ただし、途中で敗けた場合そのバトルでかせいだポイントは０になる勝った時点で、次のバトルに進むかどうかは、あんたの自由ってわけさ	But, if you lose, you lose all your points So it's up to you whether or not to fight after each win.	途中敗場合勝時点次進自由	ただし、 途中[とちゅう]で 敗[ま]けた 場合[ばあい]そのバトルでかせいだポイントは０になる 勝[か]った 時点[じてん]で、 次[つぎ]のバトルに 進[すす]むかどうかは、あんたの 自由[じゆう]ってわけさ		scene_18
+それと、バトルにはハンデがつくこちらの不利な条件だらけだ	They also make it harder by givin' out handicaps.	不利条件	それと、バトルにはハンデがつくこちらの 不利[ふり]な 条件[じょうけん]だらけだ		scene_18
+ハンデの内容は向こうがきめるこっちは、何のハンデを背負うかはバトル直前までわからん	They decide what handicaps there'll be, and you won't know what you're up against until the battle.	内容向何背負直前	ハンデの 内容[ないよう]は 向[む]こうがきめるこっちは、 何[なに]のハンデを 背負[せお]うかはバトル 直前[ちょくぜん]までわからん		scene_18
+最後に、バトルポイントは『闘技場』をでると無効になっちまう、気をつけな	Oh yeah, once you leave the Battle area, all your battle points will become useless. So watch it.	最後闘技場無効気	最後[さいご]に、バトルポイントは『 闘技場[とうぎじょう]』をでると 無効[むこう]になっちまう、 気[き]をつけな		scene_18
+おっと、それと個人のバトルポイントの所有は６５０００までだ。それ以上は入手できない１回商品に換えることだな	Oh, and one more thing. The maximum points you could get is 65000, no more. So if you get that many you should exchange them for something.	個人所有以上入手回商品換	おっと、それと 個人[こじん]のバトルポイントの 所有[しょゆう]は６５０００までだ。それ 以上[いじょう]は 入手[にゅうしゅ]できない１ 回[かい] 商品[しょうひん]に 換[か]えることだな		scene_18
+お客様、そちらはバトルゲームへ登録をすませた、チャレンジャーが入るところです。登録をこちらですませてください	Sir, that entrance is for the challengers who have already registered. Please register here.	客様登録入	お 客様[きゃくさま]、そちらはバトルゲームへ 登録[とうろく]をすませた、チャレンジャーが 入[はい]るところです。 登録[とうろく]をこちらですませてください		scene_18
+あっ、そっちはゲームに登録した人が入るところだから、まだしてないあなたは、入れないわけ。こっちで登録してからにして	Um, I'm sorry, that's only for registered participants. You can't enter there until you register.	登録人入	あっ、そっちはゲームに 登録[とうろく]した 人[ひと]が 入[はい]るところだから、まだしてないあなたは、 入[い]れないわけ。こっちで 登録[とうろく]してからにして		scene_18
+もうしわけございませんが商品が変わりましたので前回までのバトルポイントは無効になりました	I'm sorry to announce that our prizes have changed. Your previous battle points are no longer valid.	商品変前回無効	もうしわけございませんが 商品[しょうひん]が 変[か]わりましたので 前回[ぜんかい]までのバトルポイントは 無効[むこう]になりました		scene_18
+ようこそ、あなたのバトルポイントはポイントです	Welcome. You currently have battle points.		ようこそ、あなたのバトルポイントはポイントです		scene_18
+商品と交換いたしますか？	Would you like to exchange them?	商品交換	商品[しょうひん]と 交換[こうかん]いたしますか？		scene_18
+ありがとうございましたバトルポイントは闘技場内より外に出ますと無効となりますのでご注意ください	Thank you very much. Please remember, your battle points become invalid once you leave the Battle Arena.	闘技場内外出無効注意	ありがとうございましたバトルポイントは 闘技場[とうぎじょう] 内[ない]より 外[そと]に 出[で]ますと 無効[むこう]となりますのでご 注意[ちゅうい]ください		scene_18
+やっぱり、あそこでやめておけばなぁヤメ時がむずかしいんだ…	Man, I knew I should've stopped. But it's so hard to stop…	時	やっぱり、あそこでやめておけばなぁヤメ 時[じ]がむずかしいんだ…		scene_18
+もうチョットいけたかなぁヤメ時がむずかしいんだ…	Maybe I could've made it a little further. It's so hard to know when to stop…	時	もうチョットいけたかなぁヤメ 時[じ]がむずかしいんだ…		scene_18
+さ～て、アタシもそろそろまた戦うかな	All right, it should be my turn comin' up here soon.	戦	さ~て、アタシもそろそろまた 戦[たたか]うかな		scene_18
+今度は、負けないわ	I'm not going to lose this time!	今度負	今度[こんど]は、 負[ま]けないわ		scene_18
+メテオなんて、アタシのこのケリでガツーン……、というわけにはいかないか？	I'll give that Meteor my ultra kick… …or…maybe not.		メテオなんて、アタシのこのケリでガツーン……、というわけにはいかないか？		scene_18
+ねぇ、知ってる？なんかスゴイ事があったらしいわね	Hey, have you heard? Something awful happened!	知事	ねぇ、 知[し]ってる？なんかスゴイ 事[ごと]があったらしいわね		scene_18
+神羅兵と一練にここのスタッフまで撃たれたって聞いたわ	Two staff members and some Shinra soldiers were shot.	神羅兵一練撃聞	神[しん] 羅[ら] 兵[へい]と一 練[ねり]にここのスタッフまで 撃[う]たれたって 聞[き]いたわ		scene_18
+けど、撃たれた神羅兵は即死だったらしいけど、スタッフは２人ともケガだけですんだって話よ	The soldiers died instantly, but the staff survived.	撃神羅兵即死人話	けど、 撃[う]たれた 神[しん] 羅[ら] 兵[へい]は 即死[そくし]だったらしいけど、スタッフは ２人[ふたり]ともケガだけですんだって 話[はなし]よ		scene_18
+そこの２人、カケオチしちゃったのよ『最後の時を君と～』とかなんとか言っちゃってさまいっちゃうわね	Those two over there eloped, saying something about Our last moments together---' I can't bear it.	人最後時君言	そこの２ 人[にん]、カケオチしちゃったのよ『 最後[さいご]の 時[とき]を 君[きみ]と~』とかなんとか 言[い]っちゃってさまいっちゃうわね		scene_18
+ま、私にはそんな人いないしこうなったら、なるようにしかならないでしょ	I don't have anyone special in my life but when it happens, it happens.	私人	ま、 私[わたし]にはそんな 人[ひと]いないしこうなったら、なるようにしかならないでしょ		scene_18
+ってわけで私は働いてるわけ。あっ、ゴメンなさいグチっちゃって	…that's why I'm working now. Oh, sorry for going off like that…	私働	ってわけで 私[わたし]は 働[はたら]いてるわけ。あっ、ゴメンなさいグチっちゃって		scene_18
+ダイン……	Dyne…		ダイン……		scene_18
+ねぇねぇ前から思ってたんだけどあなた、とっても強いわよね？	You know, I've been thinking about it for a while now, but you must be pretty strong.	前思強	ねぇねぇ 前[まえ]から 思[おも]ってたんだけどあなた、とっても 強[つよ]いわよね？		scene_18
+たぶん、歴代ファイターでも１、２をあらそう強さだわ	Probably strong enough to take on the top 1 or 2 fighters?	歴代強	たぶん、 歴代[れきだい]ファイターでも１、２をあらそう 強[つよ]さだわ		scene_18
+あなたなら、あれに挑戦できるかも知れないわね……	Maybe you'll be good enough for the big match…	挑戦知	あなたなら、あれに 挑戦[ちょうせん]できるかも 知[し]れないわね……		scene_18
+どう？　とっておきの裏バトルがあるんだけどやってみる？	How 'bout it? There's a private battle only for the strongest. Wanna try?	裏	どう？　とっておきの 裏[うら]バトルがあるんだけどやってみる？		scene_18
+やってやるぜ	Let's do it		やってやるぜ		scene_18
+バトルに登録しますか？登録料は１０ＧＰです	Register for battle? The entrance fee is 10 GP.	登録料	バトルに 登録[とうろく]しますか？ 登録料[とうろくりょう]は１０ＧＰです		scene_18
+裏バトルをやる	Try the special battle	裏	裏[うら]バトルをやる		scene_18
+普通のバトルをやる	Try the regular battle	普通	普通[ふつう]のバトルをやる		scene_18
+バトルへの参加は１人となっておりますどなたが参加いたしますか？	This is a one-on-one battle. Which one of you will participate?	参加人	バトルへの 参加[さんか]は１ 人[にん]となっておりますどなたが 参加[さんか]いたしますか？		scene_18
+バトルは連続して８回まですることができます。数をますごとにハンデやモンスターが強くなりますのでご注意ください	You can fight up to eight battles. But the more battles you fight, the greater your handicap, and stronger the monsters will become.	連続回数強注意	バトルは 連続[れんぞく]して８ 回[かい]まですることができます。 数[かず]をますごとにハンデやモンスターが 強[つよ]くなりますのでご 注意[ちゅうい]ください		scene_18
+では、お気をつけて	Well, good luck.	気	では、お 気[き]をつけて		scene_18
+ＧＰが足りないようですね	Seems like you do not have enough GP.	足	ＧＰ[じーぴー]が 足[た]りないようですね		scene_18
+バトルポイントをポイント獲得	Gained  Battle Points	獲得	バトルポイントをポイント 獲得[かくとく]		scene_18
+合計　　ＢＰ	Total  BP	合計	合計[ごうけい]　　ＢＰ		scene_18
+さて、たまには戦いを楽しむか	Well, I guess I'll enjoy a few battles.	戦楽	さて、たまには 戦[たたか]いを 楽[たの]しむか		scene_18
+よし、ガンバルぞ	All right, I'll show 'em.		よし、ガンバルぞ		scene_18
+あばれまくってやるぜ！	I'm gonna bust the place up!		あばれまくってやるぜ！		scene_18
+ガツーンといくわよ！	I'll show 'em with a BANG!		ガ ツーン[つーん]といくわよ！		scene_18
+サクッといってみよっかな	Let's make this quick.		サクッといってみよっかな		scene_18
+腕だめしにはちょうどいいかな	I guess it'll be fun to show off what I've got.	腕	腕[うで]だめしにはちょうどいいかな		scene_18
+このCID様にまかせとけ！	Let ol' CID show ya how it's done!	様	この CID 様[さま]にまかせとけ！		scene_18
+アタシのカレイな舞をみせてやる！	I'll show you my moves!	舞	アタシのカレイな 舞[まい]をみせてやる！		scene_18
+フッ……戦いと言うものを教えてやろう	Hmph…I'll show them what real fighting is.	戦言教	フッ…… 戦[たたか]いと 言[い]うものを 教[おし]えてやろう		scene_18
+ほな、行くで～！-	Then, I'm off!	行	ほな、 行[い]くで~！-		scene_18
+所持ＢＰ	Current BP	所持	所持[しょじ] Ｂ[びー] Ｐ[ぴー]		scene_18
+ポーション　　　８０	Potion = 80		ポーション　　　８０		scene_18
+フェニックスの尾　　　　１６０	Phoenix Down = 160	尾	フェニックスの 尾[お]　　　　１６０		scene_18
+ボムのかけら　　　　　　３２０	Shrapnel = 320		ボムのかけら　　　　　　３２０		scene_18
+エーテル　　　　　　　　６４０	Ether = 640		エーテル　　　　　　　　６４０		scene_18
+ミメットの野菜　　　　１２８０	Memmet Greens = 1280	野菜	ミメットの 野菜[やさい]　　　　１２８０		scene_18
+怒りの指輪　　　　　　２５６０	Fury Ring = 2560	怒指輪	怒[いか]りの 指輪[ゆびわ]　　　　　　２５６０		scene_18
+てきよせ　　　　　　　５１２０	Enemy lure = 5120		てきよせ　　　　　　　５１２０		scene_18
+せんせいこうげき　　１０２４０	Pre-Emptive = 10240		せんせいこうげき　　１０２４０		scene_18
+スピード　　　　　　２０４８０	Speed Plus = 20480		スピード　　　　　　２０４８０		scene_18
+チャンピオンベルト　４０９６０	Championship Belt = 40960		チャンピオンベルト　４０９６０		scene_18
+フェニックスの尾　　　　　１００	Phoenix Down = 100	尾	フェニックスの 尾[お]　　　　　１００		scene_18
+万能薬　　　　　　　　　　２００	Remedy = 200	万能薬	万能薬[ばんのうやく]　　　　　　　　　　２００		scene_18
+ミメットの野菜　　　　　　４００	Memmet Greens = 400	野菜	ミメットの 野菜[やさい]　　　　　　４００		scene_18
+てきよせ　　　　　　　　　８００	Enemy lure = 800		てきよせ　　　　　　　　　８００		scene_18
+巨鳥のハネ　　　　　　　１６００	Bird Wing = 1600	巨鳥	巨鳥のハネ　　　　　　　１６００		scene_18
+Ｓマイン　　　　　　　　３２００	S-Mine = 3200		Ｓ[えす]マイン　　　　　　　　３２００		scene_18
+せんせいこうげき　　　　６４００	Pre-Emptive = 6400		せんせいこうげき　　　　６４００		scene_18
+スピード　　　　　　　１２８００	Speed Plus = 12800		スピード　　　　　　　１２８００		scene_18
+チャンピオンベルト　　２５６００	Championship Belt = 25600		チャンピオンベルト　　２５６００		scene_18
+超究武神覇斬（限定１）５１２００	Omnislash(Limit 1) = 51200	超究武神覇斬限定	超[ちょう] 究[きわむ] 武神[ぶしん] 覇[は] 斬[き]（ 限定[げんてい]１）５１２００		scene_18
+万能薬　　　　　　　　　　１００	Remedy = 100	万能薬	万能薬[ばんのうやく]　　　　　　　　　　１００		scene_18
+てきよせ　　　　　　　　　２５０	Enemy lure = 250		てきよせ　　　　　　　　　２５０		scene_18
+ボムの右腕　　　　　　　　５００	Right Arm = 500	右腕	ボムの 右腕[うわん]　　　　　　　　５００		scene_18
+せんせいこうげき　　　　１０００	Pre-Emptive = 1000		せんせいこうげき　　　　１０００		scene_18
+レイゲンの野菜　　　　　２０００	Regan Greens = 2000	野菜	レイゲンの 野菜[やさい]　　　　　２０００		scene_18
+スピード　　　　　　　　４０００	Speed Plus = 4000		スピード　　　　　　　　４０００		scene_18
+星の砂　　　　　　　　　８０００	Stardust = 8000	星砂	星[ほし]の 砂[すな]　　　　　　　　　８０００		scene_18
+チャンピオンベルト　　１６０００	Championship Belt = 16000		チャンピオンベルト　　１６０００		scene_18
+超究武神覇斬（限定１）３２０００	Omnislash (Limit 1) = 32000	超究武神覇斬限定	超[ちょう] 究[きわむ] 武神[ぶしん] 覇[は] 斬[き]（ 限定[げんてい]１）３２０００		scene_18
+Ｗしょうかん（限定１）６４０００	W-Summon (Limit 1) = 64000	限定	Ｗ[だぶりゅー]しょうかん（ 限定[げんてい]１）６４０００		scene_18
+『バトルポイントがたりません』	You do not have enough battle points.		『バトルポイントがたりません』		scene_18
+『こちらの商品は品切れです』	We are currently out of this prize.	商品切	『こちらの 商品[しょうひん]は 品切[しなぎ]れです』		scene_18
+『ボムのかけら』を手にいれた！	"Received ""Shrapnel""!"	手	『ボムのかけら』を 手[て]にいれた！		scene_18
+『ミメットの野菜』を手にいれた！	"Received ""Memmet Greens""!"	野菜手	『ミメットの 野菜[やさい]』を 手[て]にいれた！		scene_18
+『怒りの指輪』を手にいれた！	"Received ""Fury Ring""!"	怒指輪手	『 怒[いか]りの 指輪[ゆびわ]』を 手[て]にいれた！		scene_18
+『てきよせ』のマテリアを手にいれた！	"Received ""Enemy lure""!"	手	『てきよせ』のマテリアを 手[て]にいれた！		scene_18
+『せんせんこうげき』のマテリアを手にいれた！	"Received ""Pre-Emptive"" Materia!"	手	『せんせんこうげき』のマテリアを 手[て]にいれた！		scene_18
+『スピード』のマテリアを手にいれた！	"Received ""Speed Plus"" Materia!"	手	『スピード』のマテリアを 手[て]にいれた！		scene_18
+『チャンピオンベルト』を手にいれた！	"Received ""Championship Belt""!"	手	『チャンピオンベルト』を 手[て]にいれた！		scene_18
+『万能薬』を手にいれた！	"Received ""Remedy""!"	万能薬手	『 万能薬[ばんのうやく]』を 手[て]にいれた！		scene_18
+『巨鳥のハネ』を手にいれた！	"Received ""Bird Wing""!"	巨鳥手	『巨鳥のハネ』を 手[て]にいれた！		scene_18
+『Ｓマイン』を手にいれた！	"Received ""S-Mine""!"	手	『 Ｓ[えす]マイン』を 手[て]にいれた！		scene_18
+『超究武神覇斬』を手にいれた！	"Received ""Omnislash""!"	超究武神覇斬手	『 超[ちょう] 究[きわむ] 武神[ぶしん] 覇[は] 斬[き]』を 手[て]にいれた！		scene_18
+『ボムの右腕』を手にいれた！	"Received ""Right Arm""!"	右腕手	『ボムの 右腕[うわん]』を 手[て]にいれた！		scene_18
+『レイゲンの野菜』を手にいれた！	"Received ""Regan Greens""!"	野菜手	『レイゲンの 野菜[やさい]』を 手[て]にいれた！		scene_18
+『星の砂』を手にいれた！	"Received ""Stardust""!"	星砂手	『 星[ほし]の 砂[すな]』を 手[て]にいれた！		scene_18
+『Ｗしょうかん』を手にいれた！	"Received ""W-Summon"" Materia!"	手	『 Ｗ[だぶりゅー]しょうかん』を 手[て]にいれた！		scene_18
+『あなたはマテリアをこれいじょう持てないようです』	You cannot take on any more Materia.	持	『あなたはマテリアをこれいじょう 持[も]てないようです』		scene_18
+参加した記念に	Consolation Prize	参加記念	参加[さんか]した 記念[きねん]に		scene_18
+『ポケットテッシュ』をもらった！	"Received ""Tissue""!"		『ポケットテッシュ』をもらった！		scene_18
+裏バトルを勝った記念に 『リボン』をもらった！	"For winning the Special Battle, Received ""Ribbon""!"	裏勝記念	裏[うら]バトルを 勝[か]った 記念[きねん]に『リボン』をもらった！		scene_18
+裏バトルを勝った記念に 『サイン色紙』をもらった！	"For winning the Special Battle, Received ""Autograph""!"	裏勝記念色紙	裏[うら]バトルを 勝[か]った 記念[きねん]に『サイン 色紙[いろがみ]』をもらった！		scene_18
+裏バトルを勝った記念に 『ディオ激闘日記』をもらった！	"For winning the Special Battle, Received ""Combat Diary""!"	裏勝記念激闘日	裏[うら]バトルを 勝[か]った 記念[きねん]に『ディオ 激闘[げきとう] 日記[にっき]』をもらった！		scene_18
+裏バトルを勝った記念に 『人生バクチ打ち』をもらった！	"For winning the Special Battle, Received ""Gambler""!"	裏勝記念人生打	裏[うら]バトルを 勝[か]った 記念[きねん]に『 人生[じんせい]バクチ 打[う]ち』をもらった！		scene_18
+裏バトルを勝った記念に 『ファイナルアタック』 のマテリアを手にいれた！！	"For winning the Special Battle, Received ""Final Attack"" Materia!"	裏勝記念手	裏[うら]バトルを 勝[か]った 記念[きねん]に『ファイナルアタック』のマテリアを 手[て]にいれた！！		scene_18
+チョコボレーシングへようこそ	Welcome to Chocobo Racing.		チョコボレーシングへようこそ		scene_18
+申し訳ございませんがこちらは、関係者以外立ち入り禁止になっております	I'm sorry, but this is for authorized personnel only.	申訳関係者以外立入禁止	申し訳[もうしわけ]ございませんがこちらは、 関係者[かんけいしゃ] 以外[いがい] 立ち入り禁止[たちいりきんし]になっております		scene_18
+いけ～！！させ～～！！そこだ～～！！	Go---!! Do it----!! That's it----!!		いけ~！！させ~~！！そこだ~~！！		scene_18
+ま、まけた…	I…I lost…		ま、まけた…		scene_18
+やった！これが、あるからやめられないんだよな	Yeahh! This is why I can't seem to quit.		やった！これが、あるからやめられないんだよな		scene_18
+チョコボ券は３点までしか買えないよ～く、考えて買うんだな例えば、チョコボを半分にしぼって３点をボックスで買うとかな	You can only buy up to 3 tickets Think before you buy. For example, you could select half of the Chocobos and buy 3 boxes.	券点買考例半分	チョコボ 券[けん]は３ 点[てん]までしか 買[か]えないよ~く、 考[かんが]えて 買[か]うんだな 例[たと]えば、チョコボを 半分[はんぶん]にしぼって３ 点[てん]をボックスで 買[か]うとかな		scene_18
+ボックス？	Boxes?		ボックス？		scene_18
+ボックスってのは３匹のチョコボの組みあわせで買う方法さ	A box is buying 3 combinations of 2 Chocobos.	匹組買方法	ボックスってのは３ 匹[ひき]のチョコボの 組[く]みあわせで 買[か]う 方法[ほうほう]さ		scene_18
+例えば、１番と３番と５番のチョコボだったら１―３、１―５、３―５みたいにね	For example, if you select Chocobo 1, 3, and 5, you can purchase combinations, such as 1 - 3, 1 - 5, 3 - 5.	例番	例[たと]えば、１ 番[ばん]と３ 番[ばん]と５ 番[ばん]のチョコボだったら１―３、１―５、３―５みたいにね		scene_18
+他にも、１匹のチョコボから流し買いって手もあるな	You can also play the limited wheel by selecting a Chocobo.	他匹流買手	他[ほか]にも、１ 匹[ひき]のチョコボから 流[なが]し 買[か]いって 手[て]もあるな		scene_18
+流し？	Limited wheel?	流	流[なが]し？		scene_18
+流しってのは言葉どおりに	Playing a 'Limited wheel' means you select a Chocobo and use it in all of your combinations.	流言葉	流[なが]しってのは 言葉[ことば]どおりに		scene_18
+例えば１番のチョコボから１―２、１―３、１―４って買うことさ	For example, if you have Chocobo 1, then you buy 1 - 2, 1 - 3, 1 - 4.	例番買	例[たと]えば１ 番[ばん]のチョコボから１―２、１―３、１―４って 買[か]うことさ		scene_18
+まぁ、どんな買い方しても当たる時は当たるし、外れる時は外れるけっきょく最後は自分のカンがもの言うってわけかな	No matter how you make your bet, you win some and you lose some. It all comes down to skill and luck.	買方当時外最後自分言	まぁ、どんな 買い方[かいかた]しても 当[あ]たる 時[とき]は 当[あ]たるし、 外[はず]れる 時[とき]は 外[はず]れるけっきょく 最後[さいご]は 自分[じぶん]のカンがもの 言[い]うってわけかな		scene_18
+ねぇ、あのオッズ表のチョコボって何？	Hey, see that Chocobo on the odds sheet?	表何	ねぇ、あのオッズ 表[ひょう]のチョコボって 何[なに]？		scene_18
+あれで、チョコボの調子と強さがわかるのさ	That's how you can find out about a Chocobo's condition.	調子強	あれで、チョコボの 調子[ちょうし]と 強[つよ]さがわかるのさ		scene_18
+ふ～ん強いチョコボがわかるなら簡単に当てられるじゃない	Hmm… If you find out which are the strongest, then it's easy, right?	強簡単当	ふ~ん 強[つよ]いチョコボがわかるなら 簡単[かんたん]に 当[あ]てられるじゃない		scene_18
+そうでも、ないんだよ。強さだけじゃなくて乗っている騎手の腕前やチョコボの性格	Well, not as easy as you think. It's not just a matter of the Chocobo's strength, but it also depends on the jockey and the Chocobo's personality.	強乗騎手腕前性格	そうでも、ないんだよ。 強[つよ]さだけじゃなくて 乗[の]っている 騎手[きしゅ]の 腕前[うでまえ]やチョコボの 性格[せいかく]		scene_18
+これが悪いと、スタミナを使いすぎてゴールまでもたなかったりといろんな要素がからんでくるからね	If these are bad, the Chocobo may use too much stamina.	悪使要素	これが 悪[わる]いと、スタミナを 使[つか]いすぎてゴールまでもたなかったりといろんな 要素[ようそ]がからんでくるからね		scene_18
+俺らが普段買っているチョコボ券ってＢランクとＣランクレースだろ	One usually buys tickets for the B and C rank races, right?	俺普段買券	俺[おい]らが 普段[ふだん] 買[か]っているチョコボ 券[けん]って Ｂ[びー]ランクと Ｃ[しー]ランクレースだろ		scene_18
+ランク？	Rank?		ランク？		scene_18
+あっ、そう	Oh, that's right.		あっ、そう		scene_18
+ランクっていうのは、簡単に言うとチョコボの強ささ。Ｃの上がＢ、Ｂの上がＡってわけさ	In other words, the 'rank' is the Chocobo's 'strength'.  A is highest and C the lowest.	簡単言強上	ランクっていうのは、 簡単[かんたん]に 言[い]うとチョコボの 強[つよ]ささ。 Ｃ[しー]の 上[うえ]が Ｂ[びー]、 Ｂ[びー]の 上[うえ]が Ａ[えい]ってわけさ		scene_18
+フリーのチョコボレーサーになればＡランクレースのチョコボ券を買えるようになるんだよ	You can buy A rank tickets if you become a freelance Chocobo jockey.	券買	フリーのチョコボレーサーになれば Ａ[えい]ランクレースのチョコボ 券[けん]を 買[か]えるようになるんだよ		scene_18
+もちろん、ランクが上の方がアイテム券がいいんだ。あ～、俺もチョコボレーサーになろうかな	Of course, the higher the rank, the better your item ticket. Hey, maybe I'll become a Chocobo jockey!?	上方券俺	もちろん、ランクが 上[うえ]の 方[ほう]がアイテム 券[けん]がいいんだ。あ~、 俺[おれ]もチョコボレーサーになろうかな		scene_18
+どうやってなる？	How DO you become one?		どうやってなる？		scene_18
+コネと自分のチョコボがあればなれるんだけど…チョコボ捕まえるのは大変だしコネも持ってないからなぁ	You can become one if you own a Chocobo …and have some connections. But Chocobo's are pretty hard to catch and I don't have any connections.	自分捕大変持	コネと 自分[じぶん]のチョコボがあればなれるんだけど…チョコボ 捕[つか]まえるのは 大変[たいへん]だしコネも 持[も]ってないからなぁ		scene_18
+お客様、こまります！	Sir, you can't do that!	客様	お 客様[きゃくさま]、こまります！		scene_18
+チケットオフィス	Ticket Office		チケットオフィス		scene_18
+ようこそここでは、チョコボ券を買うことができます	Welcome Please purchase your Chocobo tickets here.	券買	ようこそここでは、チョコボ 券[けん]を 買[か]うことができます		scene_18
+お買いになったチョコボ券が的中した場合はパネルに振り分けられたアイテム券をもらえます	If your ticket is a winner, you will receive an item ticket good for items on the panel.	買券的中場合振分	お 買[か]いになったチョコボ 券[けん]が 的中[てきちゅう]した 場合[ばあい]はパネルに 振り分[ふりわ]けられたアイテム 券[けん]をもらえます		scene_18
+アイテム券は入口右の交換所でアイテムかアイテムに応じたＧＰに変えることが出来ます	Your item ticket may be exchanged for an item or GP at the exchange counter to the right of the entrance.	券入口右交換所応変出来	アイテム 券[けん]は 入口[いりぐち] 右[みぎ]の 交換所[こうかんじょ]でアイテムかアイテムに 応[おう]じた ＧＰ[じーぴー]に 変[か]えることが 出来[でき]ます		scene_18
+いらっしゃいませ。チョコボ券をお買い求めですか？	Welcome. Would you like to buy some Chocobo tickets?	券買求	いらっしゃいませ。チョコボ 券[けん]をお 買い求[かいもと]めですか？		scene_18
+話が聞きたい	Explain it to me	話聞	話[はなし]が 聞[き]きたい		scene_18
+レース投票の登録に２００ギルかかりますがよろしいですか？	Registration fees are 200 gil. Is that all right?	投票登録	レース 投票[とうひょう]の 登録[とうろく]に２００ギルかかりますがよろしいですか？		scene_18
+イヤ！	No way!		イヤ！		scene_18
+買い方聞く	Ask how to buy	買方聞	買い方[かいかた] 聞[き]く		scene_18
+ありがとうございます１ＢＥＴはギルです。こちらが、次のレースになります	Thank you! 1 BET is  gil. This is the next race.	次	ありがとうございます１ＢＥＴはギルです。こちらが、 次[つぎ]のレースになります		scene_18
+どちらのランクのレースに投票いたしますか？	Which rank would you like?	投票	どちらのランクのレースに 投票[とうひょう]いたしますか？		scene_18
+チョコボレーサーの方ですね？どちらのランクのレースに投票いたしますか？	You're a Chocobo jockey, right? Which rank will you ride in?	方投票	チョコボレーサーの 方[ほう]ですね？どちらのランクのレースに 投票[とうひょう]いたしますか？		scene_18
+はずれた……	I lost…		はずれた……		scene_18
+Ｃ（１ＢＥＴ　１００ギル）	C(1BET 100gil)		Ｃ[しー]（１ＢＥＴ　１００ギル）		scene_18
+Ｂ（１ＢＥＴ　２００ギル）	B(1BET 200gil)		Ｂ[びー]（１ＢＥＴ　２００ギル）		scene_18
+Ａ（１ＢＥＴ　３００ギル）	A(1BET 300gil)		Ａ[えい]（１ＢＥＴ　３００ギル）		scene_18
+Ｓ（１ＢＥＴ　５００ギル）	S(1BET 500gil)		Ｓ[えす]（１ＢＥＴ　５００ギル）		scene_18
+このチョコボレースはコースの上に設置されたバーチャル装置によって	This Chocobo Race is run on a virtual course.	上設置装	このチョコボレースはコースの 上[うえ]に 設置[せっち]されたバーチャル 装置[そうち]によって		scene_18
+実際には存在しない自然の中でダイナミックなレースを展開します	The natural scenery you see in the race doesn't really exist.	実際存在自然中展開	実際[じっさい]には 存在[そんざい]しない 自然[しぜん]の 中[なか]でダイナミックなレースを 展開[てんかい]します		scene_18
+お客様はこちらでどのチョコボが１着と２着になるか予想をいたしまして	You pick which Chocobo will finish first and second here,	客様着予想	お 客様[きゃくさま]はこちらでどのチョコボが１ 着[ちゃく]と２ 着[ちゃく]になるか 予想[よそう]をいたしまして		scene_18
+その番号のチョコボ券をお買い求めになることができます	And then buy the appropriate tickets.	番号券買求	その 番号[ばんごう]のチョコボ 券[けん]をお 買い求[かいもと]めになることができます		scene_18
+お買いになったチョコボ券が的中した場合はパネルに振り分けられたアイテム券をさしあげております	And if the ticket you purchased is a winner, you'll receive a ticket for an item that will be listed on the panel.	買券的中場合振分	お 買[か]いになったチョコボ 券[けん]が 的中[てきちゅう]した 場合[ばあい]はパネルに 振り分[ふりわ]けられたアイテム 券[けん]をさしあげております		scene_18
+アイテム券は入口右の交換所でアイテムかアイテムに応じたＧＰのどちらかに交換して下さい	You can exchange your tickets for items or GP at the Exchange Counter to the right of the entrance.	券入口右交換所応下	アイテム 券[けん]は 入口[いりぐち] 右[みぎ]の 交換所[こうかんじょ]でアイテムかアイテムに 応[おう]じた ＧＰ[じーぴー]のどちらかに 交換[こうかん]して 下[くだ]さい		scene_18
+チョコボ券は３点までお買いになることが出来ます	You are allowed a maximum of 3 bets per Chocobo ticket.	券点買出来	チョコボ 券[けん]は３ 点[てん]までお 買[か]いになることが 出来[でき]ます		scene_18
+方向キーの上下左右でパネル上のカーソルを動かし○ボタンで決定します	Use the Directional keys to move the cursor on the panel and select with [OK].	方向上下左右動決定	方向キ[ほうこうき]ーの 上下左右[じょうげさゆう]でパネル 上[じょう]のカーソルを 動[うご]かし○ボタンで 決定[けってい]します		scene_18
+取消は、同じパネル上でもう１度○ボタンを押せば取消となります	Press [OK] to cancel, while the cursor is still on the panel.	取消同上度押	取消[とりけし]は、 同[おな]じパネル 上[じょう]でもう１ 度[ど]○ボタンを 押[お]せば 取消[とりけし]となります		scene_18
+『Ｌ１』『Ｒ１』のボタンで画面右に表示されているチョコボのデータを送ることが出来ます	With [PAGEUP] and [PAGEDOWN], you can change the Chocobo data shown on the right.	画面右表示送出来	『 Ｌ[える]１』『 Ｒ[あーる]１』のボタンで 画面[がめん] 右[みぎ]に 表示[ひょうじ]されているチョコボのデータを 送[おく]ることが 出来[でき]ます		scene_18
+こちらを参考にして予想を立てられるとよろしいかと思います	This data is helpful when you make your pick.	参考予想立思	こちらを 参考[さんこう]にして 予想[よそう]を 立[た]てられるとよろしいかと 思[おも]います		scene_18
+投票がすみましたら『ＳＴＡＲＴ』ボタンでレースを開始して下さい	After you've made your selections, press [START] to start the race.	投票開始下	投票[とうひょう]がすみましたら『 ＳＴＡＲＴ[すたーと]』ボタンでレースを 開始[かいし]して 下[くだ]さい		scene_18
+ギルがたりないようですが…	You do not have enough gil…		ギルがたりないようですが…		scene_18
+もうしばらくしたらはいると思うの…	It should come in pretty soon…	思	もうしばらくしたらはいると 思[おも]うの…		scene_18
+当たった！	I won!	当	当[あ]たった！		scene_18
+投票券をアイテムかＧＰにできますが？	You may exchange your ticket for an item or GP.	投票券	投票[とうひょう] 券[けん]をアイテムか ＧＰ[じーぴー]にできますが？		scene_18
+アイテムがいい	Item please		アイテムがいい		scene_18
+ＧＰがいい	I want GP		ＧＰ[じーぴー]がいい		scene_18
+そのアイテム券なら　　ＧＰになりますがよろしいですか？	Your item ticket will be  GP. Is that all right?	券	そのアイテム 券[けん]なら　　 ＧＰ[じーぴー]になりますがよろしいですか？		scene_18
+ＧＰにしてくれ	Yeah, gimme GP		ＧＰ[じーぴー]にしてくれ		scene_18
+やっぱアイテムにして	No, I'll take the item		やっぱアイテムにして		scene_18
+ＧＰを点手にいれた！！	Received  GP!!	点手	ＧＰ[じーぴー]を 点手[てんじゅ]にいれた！！		scene_18
+マテリアがいっぱいで持つことができません。かわりにＧＰにします	You cannot take on any more Materia. Please discard some Materia.	持	マテリアがいっぱいで 持[も]つことができません。かわりに ＧＰ[じーぴー]にします		scene_18
+『エルメスのくつ』を手にいれた！！	"Received ""Sprint Shoes""!"	手	『エルメスのくつ』を 手[て]にいれた！！		scene_18
+『カウンター』のマテリアを手にいれた！！	"Received ""Counter Attack"" Materia!!"	手	『カウンター』のマテリアを 手[て]にいれた！！		scene_18
+『まほうカウンター』のマテリアを手にいれた！！	"Received ""Magic Counter"" Materia!!"	手	『まほうカウンター』のマテリアを 手[て]にいれた！！		scene_18
+『高級腕時計』を手にいれた！！	"Received ""Precious Watch""!!"	高級腕時計手	『 高級[こうきゅう] 腕時計[うでどけい]』を 手[て]にいれた！！		scene_18
+『エーテル』を手にいれた！！	"Received ""Ether""!!"	手	『エーテル』を 手[て]にいれた！！		scene_18
+『英雄の薬』を手にいれた！！	"Received ""Hero Drink""!!"	英雄薬手	『 英雄[えいゆう]の 薬[くすり]』を 手[て]にいれた！！		scene_18
+『電撃鳥の角』を手にいれた！！	"Received ""Bolt Plume""!!"	電撃鳥角手	『 電撃[でんげき] 鳥[とり]の 角[かく]』を 手[て]にいれた！！		scene_18
+『エリクサー』を手にいれた！！	"Received ""Elixir""!!"	手	『エリクサー』を 手[て]にいれた！！		scene_18
+『火龍の牙』を手にいれた！！	"Received ""Fire Fang""!!"	火龍牙手	『 火[ひ] 龍[りゅう]の 牙[きば]』を 手[て]にいれた！！		scene_18
+『南極の風』を手にいれた！！	"Received ""Antarctic Wind""!!"	南極風手	『 南極[なんきょく]の 風[かぜ]』を 手[て]にいれた！！		scene_18
+『ポーション』を手にいれた！！	"Received ""Potion""!!"	手	『ポーション』を 手[て]にいれた！！		scene_18
+『フェニックスの尾』を手にいれた！！	"Received ""Phoenix Down""!!"	尾手	『フェニックスの 尾[お]』を 手[て]にいれた！！		scene_18
+『興奮剤』を手にいれた！！	"Received ""Hyper""!!"	興奮剤手	『 興奮剤[こうふんざい]』を 手[て]にいれた！！		scene_18
+『鎮静剤』を手にいれた！！	"Received ""Tranquilizer""!!"	鎮静剤手	『 鎮静剤[ちんせいざい]』を 手[て]にいれた！！		scene_18
+『タマのすず』を手にいれた！！	"Received ""Cat's Bell""!!"	手	『タマのすず』を 手[て]にいれた！！		scene_18
+『てきよけ』のマテリアを手にいれた！！	"Received ""Enemy Away"" Materia!!"	手	『てきよけ』のマテリアを 手[て]にいれた！！		scene_18
+『ふいうち』のマテリアを手にいれた！！	"Received ""Sneak Attack"" Materia!!"	手	『ふいうち』のマテリアを 手[て]にいれた！！		scene_18
+『チョコボの腕輪』を手にいれた！！	"Received ""Chocobracelet""!!"	腕輪手	『チョコボの 腕輪[うでわ]』を 手[て]にいれた！！		scene_18
+『雷迅』を手にいれた！！	"Received ""Swift Bolt""!!"	雷迅手	『 雷[かみなり]迅』を 手[て]にいれた！！		scene_18
+『火とん』を手にいれた！！	"Received ""Fire Veil""!!"	火手	『 火[ひ]とん』を 手[て]にいれた！！		scene_18
+『ラストエリクサー』を手にいれた！！	"Received ""Megalixir""!!"	手	『ラストエリクサー』を 手[て]にいれた！！		scene_18
+『エーテルターボ』を手にいれた！！	"Received ""Turbo Ether""!!"	手	『エーテルターボ』を 手[て]にいれた！！		scene_18
+『ハイポーション』を手にいれた！！	"Received ""Hi-Potion""!!"	手	『ハイポーション』を 手[て]にいれた！！		scene_18
+『冷気の結晶』を手にいれた！！	"Received ""Ice Crystal""!!"	冷気結晶手	『 冷気[れいき]の 結晶[けっしょう]』を 手[て]にいれた！！		scene_18
+まけた……	I lost…		まけた……		scene_18
+勝った！！	I won!!	勝	勝[か]った！！		scene_18
+ごめんなさいまだ、遊べないの…	I'm sorry We can't play yet…	遊	ごめんなさいまだ、 遊[あそ]べないの…		scene_18
+エスト	Ester		エスト		scene_18
+どう、乗ってく？	Do you want to ride?	乗	どう、 乗[の]ってく？		scene_18
+あっ、ひさしぶり～元気だった？	Hey, long time no see… How have you been?	元気	あっ、ひさしぶり~ 元気[げんき]だった？		scene_18
+なんか外はスゴイことになってるじゃない	There's a lot going on in the world outside.	外	なんか 外[そと]はスゴイことになってるじゃない		scene_18
+ここも、さびしくなっちゃったけどレーサーたちの燃えるタマシイは止められないわ	It's little lonely around here, but you can't keep a jockey from doing what he loves.	燃止	ここも、さびしくなっちゃったけどレーサーたちの 燃[も]えるタマシイは 止[と]められないわ		scene_18
+どう、ひさしぶりに乗ってみる？自分のチョコボもってるんでしょ？	How 'bout it, you want to ride again? You have your own Chocobo, right?	乗自分	どう、ひさしぶりに 乗[の]ってみる？ 自分[じぶん]のチョコボもってるんでしょ？		scene_18
+そうそうレーサーは券を買えないけど	Yeahh, but jockeys can't buy tickets.	券買	そうそうレーサーは 券[けん]を 買[か]えないけど		scene_18
+勝てば、その組み合わせのアイテム券がもらえるのよガンバッテね	If you win, you'll get an item ticket, so try it!	勝組合券	勝[か]てば、その 組み合[くみあ]わせのアイテム 券[けん]がもらえるのよガンバッテね		scene_18
+登録をたのむ	Let me register	登録	登録[とうろく]をたのむ		scene_18
+乗り方を聞く	Tell me how to ride it	乗方聞	乗[の]り 方[かた]を 聞[き]く		scene_18
+やめる	Don't do it		やめる		scene_18
+あら、いま登録できるチョコボっていないみたい…	Hmm, it seems that no Chocobos can be registered…	登録	あら、いま 登録[とうろく]できるチョコボっていないみたい…		scene_18
+どれをだそうか？	Which one?		どれをだそうか？		scene_18
+おめでとう１着よ	Congratulations! You're first!	着	おめでとう１ 着[ちゃく]よ		scene_18
+それと、チョコボのランクがあがったわよ	And your Chocobo moved up a rank.		それと、チョコボのランクがあがったわよ		scene_18
+次からそのチョコボはＢ　ランクよ	From the next race, that Chocobo will be in B rank.	次	次[つぎ]からそのチョコボは Ｂ[びー]　ランクよ		scene_18
+次からそのチョコボはＡ　ランクよ	From the next race, that Chocobo will be in A rank.	次	次[つぎ]からそのチョコボは Ａ[えい]　ランクよ		scene_18
+スゴイわね次からそのチョコボもＳ　ランクよ	Wow! From the next race, that Chocobo will be in S rank.	次	スゴイわね 次[つぎ]からそのチョコボも Ｓ[えす]　ランクよ		scene_18
+すごいじゃない	Wow, that's great.		すごいじゃない		scene_18
+もうＡランクでも敵はいないって感じかしら？	Looks like you don't have any rivals in the A rank anymore.	敵感	もう Ａ[えい]ランクでも 敵[てき]はいないって 感[かん]じかしら？		scene_18
+ふふ、でもねじつは、そういうチョコボが集まっているランクがあるのよ	But you know, there's a rank that's full of those Chocobos.	集	ふふ、でもねじつは、そういうチョコボが 集[あつ]まっているランクがあるのよ		scene_18
+オホン！次からそのチョコボは…	Ahem!! From the next race, that Chocobo is…	次	オホン！ 次[つぎ]からそのチョコボは…		scene_18
+Ｓ　ランク！ジョーも大抵はここで活躍しているのガンバッテね	S rank! Joe's usually in that group, too. So good luck.	大抵活躍	Ｓ[えす]　ランク！ジョーも 大抵[たいてい]はここで 活躍[かつやく]しているのガンバッテね		scene_18
+すごいわ…	Amazing…		すごいわ…		scene_18
+Ｓランクでそんなに勝ってる人ってジョー以外では始めて見たわ	This is the winningest jockey in S rank ever since Joe.	勝人以外始見	Ｓ[えす]ランクでそんなに 勝[か]ってる 人[ひと]ってジョー 以外[いがい]では 始[はじ]めて 見[み]たわ		scene_18
+ごほうびに、私からプレゼントあげちゃう	Good job. Here's a little something from me!	私	ごほうびに、 私[わたし]からプレゼントあげちゃう		scene_18
+『経験値アップ』のマテリアを手にいれた！！	"Received ""Exp Plus"" Materia!!"	経験値手	『 経験値[けいけんち]アップ』のマテリアを 手[て]にいれた！！		scene_18
+じゃあ、そのランクＣのチョコボを登録するわね	I'll register this C rank Chocobo.	登録	じゃあ、そのランク Ｃ[しー]のチョコボを 登録[とうろく]するわね		scene_18
+じゃあ、そのランクＢのチョコボを登録するわね	Then I'll register this B rank Chocobo.	登録	じゃあ、そのランク Ｂ[びー]のチョコボを 登録[とうろく]するわね		scene_18
+じゃあ、そのランクＡのチョコボを登録するわね	Then I'll register this A rank Chocobo.	登録	じゃあ、そのランク Ａ[えい]のチョコボを 登録[とうろく]するわね		scene_18
+じゃあ、そのランクＳのチョコボを登録するわね	Then I'll register this S rank Chocobo.	登録	じゃあ、そのランク Ｓ[えす]のチョコボを 登録[とうろく]するわね		scene_18
+やっぱりやめ	I changed my mind, don't do it		やっぱりやめ		scene_18
+コースはロングとショートがあるけど、どっちにする？	Which do you want, the long course or the short one?		コースはロングとショートがあるけど、どっちにする？		scene_18
+ショート	Short		ショート		scene_18
+ロング	Long		ロング		scene_18
+がんばっていってらっしゃ～い	Good Luck! Take care!		がんばっていってらっしゃ~い		scene_18
+ねぇ、CLOUDたまには、私にも乗らせて	Hey, CLOUD. Let me ride once in a while.	私乗	ねぇ、 CLOUDたまには、 私[わたし]にも 乗[の]らせて		scene_18
+おう、CLOUDたまには、おれ様にも乗らせてくれよ	Hey, CLOUD. Let me hop on sometime.	様乗	おう、 CLOUDたまには、おれ 様[さま]にも 乗[の]らせてくれよ		scene_18
+あら、忘れちゃったの？まぁ、いいわ。オホン！	Oh, you forgot? It's all right. Ahem!	忘	あら、 忘[わす]れちゃったの？まぁ、いいわ。オホン！		scene_18
+まず『ＳＥＬＥＣＴ』ボタンでオートとマニュアルを切り替えるの	First use [ASSIST] to choose either AUTO or MANUAL.	切替	まず『ＳＥＬＥＣＴ』ボタンでオートとマニュアルを 切り替[きりか]えるの		scene_18
+簡単に言うと、自分で命令するかチョコボの好きに走らせるかね	This lets you control the Chocobo yourself or let it run on its own.	簡単言自分命令好走	簡単[かんたん]に 言[い]うと、 自分[じぶん]で 命令[めいれい]するかチョコボの 好[す]きに 走[はし]らせるかね		scene_18
+でも、自分の思うとおりには中々走らせられないわよ。チョコボとの仲が良くないと言うことを聞いてくれないから	But it's pretty hard to make the Chocobo run the way you want it to. If the Chocobo doesn't like you, it won't listen.	自分思中走仲良言聞	でも、 自分[じぶん]の 思[おも]うとおりには 中[なか]々 走[はし]らせられないわよ。チョコボとの 仲[なか]が 良[よ]くないと 言[い]うことを 聞[き]いてくれないから		scene_18
+それから、自分で命令してる時に	Then, you're stuck…	自分命令時	それから、 自分[じぶん]で 命令[めいれい]してる 時[とき]に		scene_18
+[LINE DOESN'T EXIST]	But, most of the Chocobos I have are mellow and you should be able to handle them.		[ LINE DOESN' T EXIST]		scene_18
+それから、自分で命令してる時に□ボタンでスピードアップ×ボタンでスピードダウン	When you're riding, use [SWITCH] to Speed Up and [CANCEL]to Slow Down.	自分命令時	それから、 自分[じぶん]で 命令[めいれい]してる 時[とき]に□ボタンでスピードアップ ×[かける]ボタンでスピードダウン		scene_18
+ただし、チョコボが本来持っている能力以上のスピードをだすとどんどんスタミナが減ってくの	If you go faster than the Chocobo can handle, it will quickly lose its stamina.	本来持能力以上減	ただし、チョコボが 本来[ほんらい] 持[も]っている 能力[のうりょく] 以上[いじょう]のスピードをだすとどんどんスタミナが 減[へ]ってくの		scene_18
+それと方向キーの左右でチョコボを左右に○ボタンでムチを入れていっきにスピードを上げられるわ	Use the Directional button to move the Chocobo left and right, use [OK] to get a boost of speed.	方向左右入上	それと 方向キ[ほうこうき]ーの 左右[さゆう]でチョコボを 左右[さゆう]に○ボタンでムチを 入[い]れていっきにスピードを 上[あ]げられるわ		scene_18
+もちろんスタミナの消費は激しくなるけどね	But this makes your stamina run out faster.	消費激	もちろんスタミナの 消費[しょうひ]は 激[はげ]しくなるけどね		scene_18
+あと、気性の悪いチョコボは自分のペースがわからなくてすぐスタミナを使いきっちゃうの	Some Chocobos are bad-tempered and can't pace themselves. They'll lose their stamina quickly.	気性悪自分使	あと、 気性[きしょう]の 悪[わる]いチョコボは 自分[じぶん]のペースがわからなくてすぐスタミナを 使[つか]いきっちゃうの		scene_18
+そういうチョコボは、すぐにマニュアル（自分で動かす）操作にしてスピードを落としてやるといいわ	Those Chocobos should be set on Manual to slow them down.	自分動操作落	そういうチョコボは、すぐにマニュアル（ 自分[じぶん]で 動[うご]かす） 操作[そうさ]にしてスピードを 落[お]としてやるといいわ		scene_18
+最後にね、セッカチな人におすすめなんだけど１、２着のチョコボがゴールした後に	Finally, some advice for the restless, once the first and second Chocobo cross the goal line,	最後人着	最後[さいご]にね、セッカチな 人[ひと]におすすめなんだけど１、２ 着[ちゃく]のチョコボがゴールした 後[のち]に		scene_18
+『ＳＴＡＲＴ』ボタンを押すと途中でレースを見るのをやめることができるわ	Push [START] to end the race.	押途中見	『 ＳＴＡＲＴ[すたーと]』ボタンを 押[お]すと 途中[とちゅう]でレースを 見[み]るのをやめることができるわ		scene_18
+建物１Ｆ	Building 1f.	建物	建物[たてもの]１ Ｆ[えふ]		scene_18
+ＲＥＡＤＹ……	READY……		ＲＥＡＤＹ……		scene_18
+ＧＯ！！	GO!!		ＧＯ！！		scene_18
+ＹＯＵ　ＬＯＳＥ	YOU LOSE!		ＹＯＵ　ＬＯＳＥ		scene_18
+ＹＯＵ　ＷＩＮ！！	YOU WIN!!		ＹＯＵ　ＷＩＮ！！		scene_18
+アームレスリング	Arm Wrestling		アームレスリング		scene_18
+メガずもう	Mega Sumo		メガずもう		scene_18
+１プレイ　１００ギル	1 game 100 gil		１プレイ　１００ギル		scene_18
+やる	Try it		やる		scene_18
+ギルがたりない…	Not enough gil…		ギルがたりない…		scene_18
+『○ボタンを連打してください』	Push [OK] consecutively.	連打	『○ボタンを 連打[れんだ]してください』		scene_18
+『対戦レベルを選んでください』	Please select opponent.	対戦選	『 対戦[たいせん]レベルを 選[えら]んでください』		scene_18
+すもう	Sumo Wrestler		すもう		scene_18
+レスラー	Wrestler		レスラー		scene_18
+『ワンダーキャッチャー』	Wonder Catcher		『ワンダーキャッチャー』		scene_18
+何も取れなかった…	Didn't get a thing…	何取	何[なに]も 取[と]れなかった…		scene_18
+ＧＰを１点手にいれた！！	Received 1 GP!!	点手	ＧＰ[じーぴー]を１ 点[てん] 手[しゅ]にいれた！！		scene_18
+ＧＰを３点手にいれた！！	Received 3 GP!!	点手	ＧＰ[じーぴー]を３ 点[てん] 手[しゅ]にいれた！！		scene_18
+ＧＰを１００点手にいれた！！	Received 100 GP!!	点手	ＧＰ[じーぴー]を１００ 点[てん] 手[しゅ]にいれた！！		scene_18
+ＧＰを８０点手にいれた！！	Received 80 GP!!	点手	ＧＰ[じーぴー]を８０ 点[てん] 手[しゅ]にいれた！！		scene_18
+『バスケットゲーム』	Basketball Game		『バスケットゲーム』		scene_18
+１プレイ　２００ギル	1 game 200 gil		１プレイ　２００ギル		scene_18
+○ボタンを押している間だけ	Hold down [OK] to gain strength.	押間	○ボタンを 押[お]している 間[ま]だけ		scene_18
+力をため○ボタンをはなすとシュートをうちます	Release [OK] to shoot.	力	力[ちから]をため○ボタンをはなすとシュートをうちます		scene_18
+ＧＰを点手に入れた！！	Received  GP!!	点手入	ＧＰ[じーぴー]を 点手[てんじゅ]に 入[い]れた！！		scene_18
+『ダブルアップチャンス！』	DOUBLE CHANCE!		『ダブルアップチャンス！』		scene_18
+『現在獲得のＧＰを倍に出来ます失敗すると１点になります』	Double your GP for the game, but if you lose, your GP will be 1.	現在獲得倍出来失敗点	『 現在[げんざい] 獲得[かくとく]の ＧＰ[じーぴー]を 倍[ばい]に 出来[でき]ます 失敗[しっぱい]すると１ 点[てん]になります』		scene_18
+『成功するとダブルアップ後もゲームを続けることが出来ます。ダブルアップに挑戦しますか？』	You may continue after you successfully double your GP. Want to try 'DOUBLE CHANCE'?	成功後続出来挑戦	『 成功[せいこう]するとダブルアップ 後[ご]もゲームを 続[つづ]けることが 出来[でき]ます。ダブルアップに 挑戦[ちょうせん]しますか？』		scene_18
+『ダブルアップ挑戦中』	NOW PLAYING DOUBLE CHANCE	挑戦中	『ダブルアップ 挑戦[ちょうせん] 中[ちゅう]』		scene_18
+『ダブルアップ！！』	Double Up!!		『ダブルアップ！！』		scene_18
+『ミス！！』	Missed!!		『ミス！！』		scene_18
+『ギブアップ！』	Give Up!		『ギブアップ！』		scene_18
+ごめ～んここも、まだ半分くらい遊べないの…	"I'm sorry. You only played about half the games here..."""	半分遊	ごめ~んここも、まだ 半分[はんぶん]くらい 遊[あそ]べないの…		scene_18
+新しい商品も入りましたよ中身はナイショですけど	We got new prizes. But what's in them is a secret.	新商品入中身	新[あたら]しい 商品[しょうひん]も 入[はい]りましたよ 中身[なかみ]はナイショですけど		scene_18
+あなたはＧＰを点お持ちですね	You have GP.	点持	あなたは ＧＰ[じーぴー]を 点[てん]お 持[も]ちですね		scene_18
+ここでは、ＧＰを商品と交換することもできますが、いかがいたしますか？	Exchange your GP for prizes here. Want to exchange?	商品交換	ここでは、 ＧＰ[じーぴー]を 商品[しょうひん]と 交換[こうかん]することもできますが、いかがいたしますか？		scene_18
+する	Yes		する		scene_18
+しない	No		しない		scene_18
+ポーション　　　　　　　１ＧＰ	Potion 1GP		ポーション　　　　　　　１ ＧＰ[じーぴー]		scene_18
+エーテル　　　　　　　２０ＧＰ	Ether 20GP		エーテル　　　　　　　２０ ＧＰ[じーぴー]		scene_18
+エクスポーション　　　８０ＧＰ	X-Potion  80GP		エクスポーション　　　８０ ＧＰ[じーぴー]		scene_18
+エーテルターボ　　　１００ＧＰ	Turbo Ether  100GP		エーテルターボ　　　１００ ＧＰ[じーぴー]		scene_18
+ゴールドチケット　　３００ＧＰ	Gold Ticket  300GP		ゴールドチケット　　３００ ＧＰ[じーぴー]		scene_18
+？？？？？？？？　　５００ＧＰ	???????????  500GP		？？？？？？？？　　５００ ＧＰ[じーぴー]		scene_18
+？？？？？？？？　１０００ＧＰ	??????????? 1000GP		？？？？？？？？　１０００ ＧＰ[じーぴー]		scene_18
+？？？？？？？？　２０００ＧＰ	??????????? 2000GP		？？？？？？？？　２０００ ＧＰ[じーぴー]		scene_18
+やっぱり取りかえない	Don't want to exchange	取	やっぱり 取[と]りかえない		scene_18
+ポーション　　　　　　１ＧＰ	Potion 1GP		ポーション　　　　　　１ ＧＰ[じーぴー]		scene_18
+エーテル　　　　　　２０ＧＰ	Ether 20GP		エーテル　　　　　　２０ ＧＰ[じーぴー]		scene_18
+エクスポーション　　８０ＧＰ	X-Potion  80GP		エクスポーション　　８０ ＧＰ[じーぴー]		scene_18
+エーテルターボ　　１００ＧＰ	Turbo Ether  100GP		エーテルターボ　　１００ ＧＰ[じーぴー]		scene_18
+ゴールドチケット　３００ＧＰ	Gold Ticket  300GP		ゴールドチケット　３００ ＧＰ[じーぴー]		scene_18
+？？？？？？？？　５００ＧＰ	???????????  500GP		？？？？？？？？　５００ ＧＰ[じーぴー]		scene_18
+ポイントが足りません	Not enough GP	足	ポイントが 足[た]りません		scene_18
+バラしちゃうけどこれ、マテリアなのよけど、あなたいっぱいで持てないわよ	I'm gonna let you in on something… Y'see, this is Materia. But you can't seem to carry any more of it.	持	バラしちゃうけどこれ、マテリアなのよけど、あなたいっぱいで 持[も]てないわよ		scene_18
+『エクスポーション』を手にいれた！！	"Received ""X-Potion""!!"	手	『エクスポーション』を 手[て]にいれた！！		scene_18
+『ゴールドチケット』を手にいれた！！	"Received ""Gold Ticket""!!"	手	『ゴールドチケット』を 手[て]にいれた！！		scene_18
+『ギルアップ』のマテリアを手にいれた！！	"Received ""Gil Plus"" Materia!!"	手	『ギルアップ』のマテリアを 手[て]にいれた！！		scene_18
+『カラブの実』を手にいれた！！	"Received ""Carob Nut""!!"	実手	『カラブの 実[み]』を 手[て]にいれた！！		scene_18
+『ゴールドチケット』はすでにお持ちのようですが…	You already have a 'Gold Ticket'…	持	『ゴールドチケット』はすでにお 持[も]ちのようですが…		scene_18
+あれが、取れないんだよな…	I can't get that…	取	あれが、 取[と]れないんだよな…		scene_18
+中には、いいのも入ってるからやめられないんだよな	I can't stop because they have good stuff in 'em.	中入	中[なか]には、いいのも 入[はい]ってるからやめられないんだよな		scene_18
+もう、ちょっと……	Almost…		もう、ちょっと……		scene_18
+だめだった…	No cigar…		だめだった…		scene_18
+やった！！！	Got it!!!		やった！！！		scene_18
+世界がこんなんなってもやめられない僕って…	I can't stop, no matter what's going on outside…	世界僕	世界[せかい]がこんなんなってもやめられない 僕[ぼく]って…		scene_18
+もう、こうなったらここで、遊びまくってお金使いきってやるんだから！	I'm just gonna spend all my money and play until I drop!!	遊金使	もう、こうなったらここで、 遊[あそ]びまくってお 金[かね] 使[つか]いきってやるんだから！		scene_18
+いま、チョット話しかけないでもらえます	Please…don't… talk to me…right now.	話	いま、チョット 話[はな]しかけないでもらえます		scene_18
+ここってほ～んと金がかかるね	You sure do need a lot of money here.	金	ここってほ~んと 金[きむ]がかかるね		scene_18
+建物２Ｆ	Building 2f.	建物	建物[たてもの]２ Ｆ[えふ]		scene_18
+『３Ｄバトラー』	3D Battler		『 ３Ｄ[さんでぃー]バトラー』		scene_18
+△ボタンで上段攻撃	[MENU]       Hi attack	上段攻撃	△ボタンで 上段[じょうだん] 攻撃[こうげき]		scene_18
+□ボタンで中段攻撃	[SWITCH]   Mid attack	中段攻撃	□ボタンで 中段[ちゅうだん] 攻撃[こうげき]		scene_18
+×ボタンで下段攻撃	[CANCEL]   Low attack	下段攻撃	×[かける]ボタンで 下段[げだん] 攻撃[こうげき]		scene_18
+１０ポイント先取したほうの勝ちです	The first one with 10 points wins.	先取勝	１０ポイント 先取[せんしゅ]したほうの 勝[か]ちです		scene_18
+あの奥の方のが…	Back there…	奥方	あの 奥[おく]の 方[ほう]のが…		scene_18
+わたし、こういうのすぐムキになっちゃうのよね～	I get so caught up in these…		わたし、こういうのすぐ ムキ[むき]になっちゃうのよね~		scene_18
+あんたも物好きね外があんなだってのにこんな所に来て…ってアタシもか？	You sure are an unusual one. Staying here with all that's going on outside…guess that makes, uh, two of us, huh?	物好外所来	あんたも 物好[ものず]きね 外[そと]があんなだってのにこんな 所[ところ]に 来[き]て…ってアタシもか？		scene_18
+故障中	Out of Order	故障中	故障[こしょう] 中[ちゅう]		scene_18
+まったく、ここは金がかかるなぁ…遊ぶべきか、遊ばざるべきか…	This place sure gets expensive… To play, or not to play'…	金遊	まったく、ここは 金[きん]がかかるなぁ… 遊[あそ]ぶべきか、 遊[あそ]ばざるべきか…		scene_18
+………気にしないでやってくれよ	…Don't worry 'bout me. Go ahead and play.	気	……… 気[き]にしないでやってくれよ		scene_18
+うう……感動したよ…。いいもの見せてくれてありがとう	Hmm, I'm impressed… Thanks for the show.	感動見	うう…… 感動[かんどう]したよ…。いいもの 見[み]せてくれてありがとう		scene_18
+これ、やるよ	Here, take this.		これ、やるよ		scene_18
+対人関係に注意	Use caution in relationships	対人関係注意	対人関係[たいじんかんけい]に 注意[ちゅうい]		scene_18
+ラッキーカラーは赤です	Your lucky color is red.	赤	ラッキーカラーは 赤[あか]です		scene_18
+新しい出会いがあるかも	You may meet someone new.	新出会	新[あたら]しい 出会[であ]いがあるかも		scene_18
+空飛ぶ乗物に縁がありそうです	You have ties with those that fly.	空飛乗物縁	空[そら] 飛[と]ぶ 乗物[のりもの]に 縁[えん]がありそうです		scene_18
+探し物は近くにあります	What you are looking for is near.	探物近	探し物[さがしもの]は 近[ちか]くにあります		scene_18
+人間関係に注意	Use caution in relationships.	人間関係注意	人間関係[にんげんかんけい]に 注意[ちゅうい]		scene_18
+南東の方角に探し物があります	What you're looking for is in the Southeast	南東方角探物	南東[なんとう]の 方角[ほうがく]に 探し物[さがしもの]があります		scene_18
+北の方角に注意	Beware of the North	北方角注意	北[きた]の 方角[ほうがく]に 注意[ちゅうい]		scene_18
+大きな転機がおとずれます	A great turning point is near.	大転機	大[おお]きな 転機[てんき]がおとずれます		scene_18
+あきらめずにがんばろう	Never give up.		あきらめずにがんばろう		scene_18
+あなたのラッキーナンバーは	Your lucky number is .		あなたのラッキーナンバーは		scene_18
+Ｇバイク	G Bike		Ｇ[じー]バイク		scene_18
+『方向キー』で移動	Use [Directional button] to move	方向移動	『 方向キ[ほうこうき]ー』で 移動[いどう]		scene_18
+□ボタンで左攻撃	[SWITCH] to attack left	左攻撃	□ボタンで 左[ひだり] 攻撃[こうげき]		scene_18
+○ボタンで右攻撃	[OK] to attack right	右攻撃	○ボタンで 右[みぎ] 攻撃[こうげき]		scene_18
+トラックが攻撃を受けると減点です	If the truck is attacked, you lose points.	攻撃受減点	トラックが 攻撃[こうげき]を 受[う]けると 減点[げんてん]です		scene_18
+スノーゲーム	Snow Game		スノーゲーム		scene_18
+『方向キー上』で加速	[Directional button Up] to speed up	方向上加速	『 方向キ[ほうこうき]ー 上[じょう]』で 加速[かそく]		scene_18
+『方向キー下』または	[Directional button Down] or	方向下	『 方向キ[ほうこうき]ー 下[か]』または		scene_18
+□ボタンで減速	[SWITCH] to slow down	減速	□ボタンで 減速[げんそく]		scene_18
+×ボタンでジャンプ	[CANCEL] to Jump		×[かける]ボタンでジャンプ		scene_18
+『方向キー左右』で左右の移動	[Directional button Right/Left] to move Right and Left	方向左右移動	『 方向キ[ほうこうき]ー 左右[さゆう]』で 左右[さゆう]の 移動[いどう]		scene_18
+『Ｒ１ボタン＋方向キー左右』でそれぞれの方向にエッジをきかせます	[PAGEDOWN] + Directional button Right/Left] to edge	方向左右	『 Ｒ[あーる]１ボタン ＋[たす] 方向キ[ほうこうき]ー 左右[さゆう]』でそれぞれの 方向[ほうこう]にエッジをきかせます		scene_18
+コースにでてくるバルーンを取るとポイントになります。	You receive points for hitting the balloons that appear on the course.	取	コースにでてくるバルーンを 取[と]るとポイントになります。		scene_18
+潜水監ゲーム	Submarine Game	潜水監	潜水[せんすい] 監[げん]ゲーム		scene_18
+『方向キー左』で左に旋回	Directional button Left for Left Turn	方向左旋回	『 方向キ[ほうこうき]ー 左[ひだり]』で 左[ひだり]に 旋回[せんかい]		scene_18
+『方向キー右』で右に旋回	Directional button Right for Right Turn	方向右旋回	『 方向キ[ほうこうき]ー 右[みぎ]』で 右[みぎ]に 旋回[せんかい]		scene_18
+『方向キー上』で下降	Directional button Up to Dive	方向上下降	『 方向キ[ほうこうき]ー 上[じょう]』で 下降[かこう]		scene_18
+『方向キー下』で上昇	Directional button Down to Rise	方向下上昇	『 方向キ[ほうこうき]ー 下[か]』で 上昇[じょうしょう]		scene_18
+△ボタンで前進	[MENU]   to Speed Up	前進	△ボタンで 前進[ぜんしん]		scene_18
+×ボタンで後退	[CANCEL] to Slow Down	後退	×[かける]ボタンで 後退[こうたい]		scene_18
+□ボタンでギョライ発射	[SWITCH] to Fire Torpedo	発射	□ボタンでギョライ 発射[はっしゃ]		scene_18
+ソナーで機雷を見つけ、よけながら敵潜水監を全滅させるとクリアです。	Find and avoid mines by using the Sonar, and destroy the Enemy Submarines.	機雷見敵潜水監全滅	ソナーで 機雷[きらい]を 見[み]つけ、よけながら 敵[てき] 潜水[せんすい] 監[げん]を 全滅[ぜんめつ]させるとクリアです。		scene_18
+『うらない』	Fortune Telling		『うらない』		scene_18
+１プレイ　５０ギル	1 fortune 50 gil		１プレイ　５０ギル		scene_18
+『モグ・はうす』	Mog House		『モグ・はうす』		scene_18
+調整中	Out of Order	調整中	調整[ちょうせい] 中[ちゅう]		scene_18
+ギュオーン、ギュオーンキュー、バリバリバリ	Hyuuuuu, BAM, BAM, BAM…		ギュオーン、ギュオーンキュー、バリバリバリ		scene_18
+ああ、つい声をだしてしまう	Oh man, I gotta scream.	声	ああ、つい 声[こえ]をだしてしまう		scene_18
+ふう、つかれた。ああ、これですかなんか、修理中みたいですね	Whew, I'm tired. Oh this? It seems to be out of order.	修理中	ふう、つかれた。ああ、これですかなんか、 修理中[しゅうりちゅう]みたいですね		scene_18
+私は今日も風になる！	I'm gonna be the wind again today!	私今日風	私[わたし]は 今日[きょう]も 風[かぜ]になる！		scene_18
+ダメダメ、クリアするまでやめないよ	Nope, I'm not quitting until I clear this!		ダメダメ、クリアするまでやめないよ		scene_18
+『セーフティビット』を手にいれた！	"Received ""Safety Bit""!"	手	『セーフティビット』を 手[て]にいれた！		scene_18
+『クリスタルバンクル』を手にいれた！	"Received ""Crystal Bangle""!"	手	『クリスタルバンクル』を 手[て]にいれた！		scene_18
+『イカスミ』を手にいれた！	"Received ""Ink""!"	手	『イカスミ』を 手[て]にいれた！		scene_18
+『時空弾』を手にいれた！	"Received ""T/S Bomb""!"	時空弾手	『 時空[じくう] 弾[だん]』を 手[て]にいれた！		scene_18
+『双龍の牙』を手にいれた！	"Received ""Dragon Fang""!"	双龍牙手	『 双[そう] 龍[りゅう]の 牙[きば]』を 手[て]にいれた！		scene_18
+『海龍のウロコ』を手にいれた！	"Received ""Dragon Scales""!"	海龍手	『 海[うみ] 龍[りゅう]のウロコ』を 手[て]にいれた！		scene_18
+『魔女の大釜』を手にいれた！	"Received ""Caldron""!"	魔女大釜手	『 魔女[まじょ]の 大釜[おおかま]』を 手[て]にいれた！		scene_18
+ミッションを選んで下さい。	Please select your mission.	選下	ミッションを 選[えら]んで 下[くだ]さい。		scene_18
+海底魔晄炉戦	Undersea Mako Reactor Battle	海底魔晄炉戦	海底[かいてい] 魔[ま] 晄[こう] 炉[ろ] 戦[せん]		scene_18
+レベル１	Level 1		レベル１		scene_18
+レベル２	Level 2		レベル２		scene_18
+レベル３	Level 3		レベル３		scene_18
+レベル４	Level 4		レベル４		scene_18
+ここはモーグリ山の モーグリ森のモグの家。	This is Mog's house. It's in Mog Forest on Mt. Mog.	山森家	ここはモーグリ 山[さん]のモーグリ 森[もり]のモグの 家[いえ]。		scene_18
+今日もモグの一日が 始まります。	The beginning of another day in the life of a Mog.	今日一始	今日[きょう]もモグの一 日[にち]が 始[はじ]まります。		scene_18
+モグは今年でクピパポプポさい。 人間でいうと２８さい。	This year, Mog is pipapopupo years old. …that's 28 in human years.	今年人間	モグは 今年[ことし]でクピパポプポさい。 人間[にんげん]でいうと２８さい。		scene_18
+そろそろ、おヨメさんが欲しい 年ごろです。	He's at that age when he should be looking for a mate.	欲年	そろそろ、おヨメさんが 欲[ほ]しい 年[とし]ごろです。		scene_18
+モーグリの世界では 飛べるようになると りっぱなオスとみなされます。	But before Mog can become an adult, he first needs to learn how to fly.	世界飛	モーグリの 世界[せかい]では 飛[と]べるようになるとりっぱなオスとみなされます。		scene_18
+ところがモグは、まだ上手に 飛べません。 毎日、いっしょうけんめい 練習しているのですが……	Even though Mog trains hard everyday, he still can't seem to get off the ground.	上手飛毎日練習	ところがモグは、まだ 上手[じょうず]に 飛[と]べません。 毎日[まいにち]、いっしょうけんめい 練習[れんしゅう]しているのですが……		scene_18
+おやおや、今日もダメなようです。	Looks like he's still got a long way to go…	今日	おやおや、 今日[きょう]もダメなようです。		scene_18
+そこで、みなさんにおねがいです。	Here's where you come in.		そこで、みなさんにおねがいです。		scene_18
+【○ボタン】で、モグの大好きな クポの実をあげて、彼が飛べるよう 手伝ってあげてください。	Help Mog learn how to fly by pushing [OK] and feeding him his favorite Kupo nut.	大好実彼飛手伝	【○ボタン】で、モグの 大好[だいす]きなクポの 実[み]をあげて、 彼[かれ]が 飛[と]べるよう 手伝[てつだ]ってあげてください。		scene_18
+でも、あげすぎには御用心。 重くて飛べなくなってしまいます。	But don't overfeed him. He won't be able to fly if he's too fat.	御用心重飛	でも、あげすぎには 御[ご] 用心[ようじん]。 重[おも]くて 飛[と]べなくなってしまいます。		scene_18
+【○ボタン】 クポの実をあげる	[OK]…Give him a Kupo nut	実	【○ボタン】クポの 実[み]をあげる		scene_18
+おや？	Oh?		おや？		scene_18
+ついにモグは、飛ぶかくごを 決めたようです。	It seems like Mog's decided to take another shot at it.	飛決	ついにモグは、 飛[と]ぶかくごを 決[き]めたようです。		scene_18
+さあ、飛ぶんだ、モグ。 きみと彼女のしあわせのために。	All right, Mog, fly! Your future happiness may depend on it.	飛彼女	さあ、 飛[と]ぶんだ、モグ。きみと 彼女[かのじょ]のしあわせのために。		scene_18
+おやおや、残念ながら失敗です。	Unfortunately, he didn't make it.	残念失敗	おやおや、 残念[ざんねん]ながら 失敗[しっぱい]です。		scene_18
+まだしばらく、モグにはおヨメさんは、こないようです。	Poor Mog'll have to wait some time for a bride.		まだしばらく、モグにはおヨメさんは、こないようです。		scene_18
+ＣＯＮＴＩＮＵＥ	CONTINUE		ＣＯＮＴＩＮＵＥ		scene_18
+ＰＵＳＨ　ＳＴＡＲＴ	PUSH [START]		ＰＵＳＨ　 ＳＴＡＲＴ[すたーと]		scene_18
+おやおや、ギルがたりないようですね。 かわいそうに、モグは、とうぶん 一人ぼっちなようです。	Oh-oh, seems like you don't have enough Gil. Poor Mog, looks like he'll continue be lonely for a while.	一人	おやおや、ギルがたりないようですね。かわいそうに、モグは、とうぶん一 人[にん]ぼっちなようです。		scene_18
+かわいそうに、モグは、とうぶん 一人ぼっちなようです。	Poor Mog, seems like he'll be alone for a while.	一人	かわいそうに、モグは、とうぶん一 人[にん]ぼっちなようです。		scene_18
+飛んだ！　モグが飛んだ！ これでモグも、りっぱなオスモーグリに なれたのです。	He did it!  He's flying! Now, he's finally become a full-fledged Mog.	飛	飛[と]んだ！　モグが 飛[と]んだ！これでモグも、りっぱなオスモーグリになれたのです。		scene_18
+つかれたモグは、安心したせいか 今日は早めにおやすみのようです。 おやすみモグ、すてきな夢を……。	Tired but relaxed, our little Mog turns out the lights early and goes to bed. Goodnight, and sweet dreams…	安心今日早夢	つかれたモグは、 安心[あんしん]したせいか 今日[きょう]は 早[はや]めにおやすみのようです。おやすみモグ、すてきな 夢[ゆめ]を……。		scene_18
+おやおや？ さっそくメスモーグリが やって来ました。	Oh? What's this? Here comes a female Mog!	来	おやおや？さっそくメスモーグリがやって 来[き]ました。		scene_18
+なんと、モグも彼女を 気に入ったようです。	It seems like he likes her.	彼女気入	なんと、モグも 彼女[かのじょ]を 気に入[きにい]ったようです。		scene_18
+さあ、彼女の前で モグは、りっぱに飛べるでしょうか？	Now, will Mog be able to fly gracefully in front of her?	彼女前飛	さあ、 彼女[かのじょ]の 前[まえ]でモグは、りっぱに 飛[と]べるでしょうか？		scene_18
+クポの実をあげて、彼女とうまくいくように 手伝ってあげてください。	Help him out with a few Kupo nuts.	実彼女手伝	クポの 実[み]をあげて、 彼女[かのじょ]とうまくいくように 手伝[てつだ]ってあげてください。		scene_18
+飛んだ！ モグが、彼女の前で飛んだ！ 彼女も、モグの男らしい飛びっぷりに すっかり、心をうばわれたようです。	He's flying!! Mog was able to do it! She must have fallen for his graceful flying form.	飛彼女前男心	飛[と]んだ！モグが、 彼女[かのじょ]の 前[まえ]で 飛[と]んだ！ 彼女[かのじょ]も、モグの 男[おとこ]らしい 飛[と]びっぷりにすっかり、 心[こころ]をうばわれたようです。		scene_18
+さて、それから しばらくが、たちました。 おやおや、彼女とすっかり なかよくなったモグ。	Sometime later… Looks like things are going well with his new Mog-friend.	彼女	さて、それからしばらくが、たちました。おやおや、 彼女[かのじょ]とすっかりなかよくなったモグ。		scene_18
+今日は二人でお出かけのようです。	Time for a quiet date in the forest.	今日二人出	今日[きょう]は二 人[にん]でお 出[で]かけのようです。		scene_18
+彼女の名前はマグ。	Her name is Mag.	彼女名前	彼女[かのじょ]の 名前[なまえ]はマグ。		scene_18
+とっても気立てのいい メスモーグリです。	She is a good-natured Mog.	気立	とっても 気立[きだ]てのいいメスモーグリです。		scene_18
+おしあわせに、モグ。 そしてマグ。	Best of luck to the both of you, Mog and Mag.		おしあわせに、モグ。そしてマグ。		scene_18
+元気でかわいい子供が たくさん生まれるといいね。	May you have lots and lots of healthy Mogs!	元気子供生	元気[げんき]でかわいい 子供[こども]がたくさん 生[う]まれるといいね。		scene_18
+おやおや、どうやらよけいな 心配だったようです。	Uh…no worries there, I guess…	心配	おやおや、どうやらよけいな 心配[しんぱい]だったようです。		scene_18
+～ＦＩＮ～	~FIN~		~ＦＩＮ~		scene_18
+ヘイ・ユー！！暗～い顔してますな～	Hey you!! What're you lookin' so down for!?	暗顔	ヘイ・ユー！！ 暗[くら]~い 顔[がお]してますな~		scene_18
+どうですか～？みなさんの未来占うで～	How 'bout it? Want me to read your fortune!? A bright future! A happy future!	未来占	どうですか~？みなさんの 未来[みらい] 占[うらな]うで~		scene_18
+明るい未来、ゆかいな未来！あっ、ひさんな未来が出たらかんにんしてや～！	Oh, but don't hold it against me if it doesn't come true!	明未来出	明[あか]るい 未来[みらい]、ゆかいな 未来[みらい]！あっ、ひさんな 未来[みらい]が 出[で]たらかんにんしてや~！		scene_18
+あらら、すんません！ボクは、占いマシーンです。名前は……	Oh, so sorry! I'm a fortune telling machine. The name's…	占名前	あらら、すんません！ボクは、 占[うらな]いマシーンです。 名前[なまえ]は……		scene_18
+占うのは未来だけか？	You can only read the future?	占未来	占[うらな]うのは 未来[みらい]だけか？		scene_18
+バカにしたらあかんで！失せ物、失せ人なんでもございや！	You kidding? I can find missing things, missing people, anything!	失物人	バカにしたらあかんで！ 失せ物[うせもの]、 失[う]せ 人[じん]なんでもございや！		scene_18
+セフィロスという男はどこにいる？	Then can you tell me where a man named Sephiroth is?	男	セフィロスという 男[おとこ]はどこにいる？		scene_18
+セフィロスですな！	Sephiroth, right!?		セフィロスですな！		scene_18
+ほな、いきまっせ！！	Okay, here goes!!		ほな、いきまっせ！！		scene_18
+……中吉。活発な運勢になります	…Ordinary luck. It will be an active fortune.	中吉活発運勢	…… 中[ちゅう] 吉[きち]。 活発[かっぱつ]な 運勢[うんせい]になります		scene_18
+周りの人の好意に甘えてひと頑張りしておくと夏以降にどっきりな予感。……なんだこれは？	Give into the good will of others, and something big'll happen after summer.  …Wait…hold on…	周人好意甘頑張夏以降予感	周[まわ]りの 人[ひと]の 好意[こうい]に 甘[あま]えてひと 頑張[がんば]りしておくと 夏[なつ] 以降[いこう]にどっきりな 予感[よかん]。……なんだこれは？		scene_18
+あれっ？　もっぺんやりましょか	Huh? Let me try again.		あれっ？　もっぺんやりましょか		scene_18
+忘れ物に注意。ラッキーカラーは青？	Be careful of forgetfulness. Your lucky color is…blue?	忘物注意青	忘れ物[わすれもの]に 注意[ちゅうい]。ラッキーカラーは 青[あお]？		scene_18
+……もういい	…Forget it.		……もういい		scene_18
+待って～な、もっぺんやらして！	Wait, wait give me another chance!	待	待[ま]って~な、もっぺんやらして！		scene_18
+……なんだと！？	What the?		……なんだと！？		scene_18
+何てかいてあるの？	What does it say?	何	何[なに]てかいてあるの？		scene_18
+読んでみろ、CLOUD	Read it out loud, CLOUD	読	読[よ]んでみろ、 CLOUD		scene_18
+なんだよう！教えろよう！	What is it? Tell us!	教	なんだよう！ 教[おし]えろよう！		scene_18
+求めれば必ず会えます。しかし最も大切なものを失います	What you pursue will be yours. But you will lose something dear.	求必会最大切失	求[もと]めれば 必[かなら]ず 会[あ]えます。しかし 最[もっと]も 大切[たいせつ]なものを 失[うしな]います		scene_18
+ええんか、わるいんかようわからんなぁ……	I don't know if it's good or bad…		ええんか、わるいんかようわからんなぁ……		scene_18
+こんな占い初めてですわ。気になりますな～	This's the first time I ever got something like THIS.	占初気	こんな 占[うらな]い 初[はじ]めてですわ。 気[き]になりますな~		scene_18
+ほな、いきましょか	Then shall we?		ほな、いきましょか		scene_18
+なにいってるの？	What are you talking about?		なにいってるの？		scene_18
+どこへ？	To where?		どこへ？		scene_18
+なんだぁ？	Huh?		なんだぁ？		scene_18
+占い屋CAIT SITHとしてはこんな占い不本意なんです	Being a fortune teller, this is gonna bug me.	占屋不本意	占[うらな]い 屋[や] CAIT SITHとしてはこんな 占[うらな]い 不本意[ふほんい]なんです		scene_18
+きっちり見届けんと気持ちがおさまらん。みなさんといっしょに行かせてもらいますわ！	If I don't see how it turns out, I'll never be able to relax. So, I'm going with you!	見届気持行	きっちり 見届[みとど]けんと 気持[きも]ちがおさまらん。みなさんといっしょに 行[い]かせてもらいますわ！		scene_18
+いいの？　CLOUD	Is it all right, CLOUD?		いいの？　 CLOUD		scene_18
+どうするの、CLOUD	What are we going to do, CLOUD?		どうするの、 CLOUD		scene_18
+CLOUD、いいのか？	CLOUD, it's all right with you?		CLOUD、いいのか？		scene_18
+へんなやつ！CLOUD、やめなよ	He's weird! CLOUD, don't let him come!		へんなやつ！ CLOUD、やめなよ		scene_18
+どないに言われてもついてきます！	I'm comin' with you no matter WHAT you say!	言	どないに 言[い]われてもついてきます！		scene_18
+ワンダースクェアでＧＰをためてたくさん遊ぼう！	Let's get lotsa GP at Wonder Square and have some fun!	遊	ワンダースクェアで ＧＰ[じーぴー]をためてたくさん 遊[あそ]ぼう！		scene_18
+わんだ～すくぇあでＧＰをためてたくさん遊ぼうでちゅ	Let's get lotsa GP at Wonder Square and have a blast!	遊	わんだ~すくぇあで ＧＰ[じーぴー]をためてたくさん 遊[あそ]ぼうでちゅ		scene_18
+ひとりになってもガンバルでちゅ	I'll hang in there, even if I'm alone!		ひとりになってもガンバルでちゅ		scene_18
+入口で聞いたと思うけどよゴールドソーサーのアトラクションのほとんどは『ＧＰ』っていうゴールドソーサーでのお金がいるんだよ	They probably told you at the entrance, but most of the attractions at Gold Saucer only take 'GP'.	入口聞思金	入口[いりぐち]で 聞[き]いたと 思[おも]うけどよゴールドソーサーのアトラクションのほとんどは『 ＧＰ[じーぴー]』っていうゴールドソーサーでのお 金[かね]がいるんだよ		scene_18
+これが、普通に売ってなくてよこのワンダースクェアのゲームかチョコボレースでしか手に入れられねぇんだ	They don't sell GP. You can only get 'em from the Wonder Square games or at the Chocobo Races.	普通売手入	これが、 普通[ふつう]に 売[う]ってなくてよこのワンダースクェアのゲームかチョコボレースでしか 手[て]に 入[い]れられねぇんだ		scene_18
+よし、ちれ！！	Attention! Dismissed!!		よし、ちれ！！		scene_18
+神羅兵…こんなところまで…	Shinra soldiers… Even here…	神羅兵	神[しん] 羅[ら] 兵[へい]…こんなところまで…		scene_18
+どうした？	What happened?		どうした？		scene_18
+シッ！	Sh…!		シッ！		scene_18
+すいません、今は改装中なんですまた、出直してください	I'm sorry, we're currently renovating. Please come again.	今改装中出直	すいません、 今[いま]は 改装[かいそう] 中[ちゅう]なんですまた、 出直[でなお]してください		scene_18
+！！	!!		！！		scene_18
+ん！？	Hmm!?		ん！？		scene_18
+死んでる……	Dead…	死	死[し]んでる……		scene_18
+え！？	What!?		え！？		scene_18
+え！？　どうして？	What!? Why?		え！？　どうして？		scene_18
+いったい……	What the…		いったい……		scene_18
+な、なんで？	Wh…why?		な、なんで？		scene_18
+ちょ、ちょっとCLOUD！	Wa…wait CLOUD!		ちょ、ちょっと CLOUD！		scene_18
+CLOUD！？どこ、いくの？	CLOUD!? Where are you going?		CLOUD！？どこ、いくの？		scene_18
+ア、アタシを置いていくな！	Don't, don't just leave me!	置	ア、アタシを 置[お]いていくな！		scene_18
+ここのアトラクションが園長は１番好きらしいね。闘技場内に自分のコレクションを展示してるくらいだからなぁ	I heard that this is the curator's favorite attraction. He even has his collection displayed in the arena.	園長番好闘技場内自分展示	ここのアトラクションが 園長[えんちょう]は１ 番[ばん] 好[す]きらしいね。 闘技場[とうぎじょう] 内[ない]に 自分[じぶん]のコレクションを 展示[てんじ]してるくらいだからなぁ		scene_18
+これこれ、メテオには気を付けるんだよ	Be careful of the Meteor.	気付	これこれ、メテオには 気[き]を 付[つ]けるんだよ		scene_18
+あなたも、ここでバトルのかしら？	Are you here for the battle, too?		あなたも、ここでバトルのかしら？		scene_18
+そのつもり	That's the idea		そのつもり		scene_18
+そんな気はない	Not interested	気	そんな 気[き]はない		scene_18
+わたし、ファイターって好きよ。けど、口だけの人ってキライなの	I like fighters, but hate ones who're all talk.	好口人	わたし、ファイターって 好[す]きよ。けど、 口[くち]だけの 人[ひと]ってキライなの		scene_18
+見てたわ、あなたが８戦勝ち抜くところ。これ、受け取って下さい！	I watched you win eight battles. I want you to have this!	見戦勝抜受取下	見[み]てたわ、あなたが８ 戦[せん] 勝ち抜[かちぬ]くところ。これ、 受け取[うけと]って 下[くだ]さい！		scene_18
+これからもガンバってくださいね	Good luck in the future too!		これからも ガンバ[がんば]ってくださいね		scene_18
+セフィロスがやったのか！	Did Sephiroth do this!?		セフィロスがやったのか！		scene_18
+これは……ちがう………銃で撃たれている……セフィロスは銃など使わない…	No…it's not him… They're all shot… Sephiroth would never use a gun…	銃撃使	これは……ちがう……… 銃[じゅう]で 撃[う]たれている……セフィロスは 銃[じゅう]など 使[つか]わない…		scene_18
+う、うう	Ugh, ugggh.		う、うう		scene_18
+おい、何があったんだ！	Hey, what happened!	何	おい、 何[なに]があったんだ！		scene_18
+被害者	Victim	被害者	被害者[ひがいしゃ]		scene_18
+ウ…ウ…片腕が銃の男……	Ugh…ugh…a man with a gun…on his arm…	片腕銃男	ウ…ウ… 片腕[かたうで]が 銃[じゅう]の 男[おとこ]……		scene_18
+ま、まさか！？	It can't be!?		ま、まさか！？		scene_18
+片腕が銃！？	A gun on his arm!?	片腕銃	片腕[かたうで]が 銃[じゅう]！？		scene_18
+……あいつが！？	…did he!?		……あいつが！？		scene_18
+へぇ、やるぅ！！	Wow, no way!!		へぇ、やるぅ！！		scene_18
+そこまでだ！おとなしくしろ！！	Hold it right there! And stay quiet!!		そこまでだ！おとなしくしろ！！		scene_18
+お前らがやったのか！？	Did you guys do this!?	前	お 前[まえ]らがやったのか！？		scene_18
+ち、ちがう、俺たちじゃない！	N…no, it wasn't us!	俺	ち、ちがう、 俺[おれ]たちじゃない！		scene_18
+私の見こみ違いというわけか…	I must've been wrong…	私見違	私[わたし]の 見[み]こみ 違[ちが]いというわけか…		scene_18
+捕らえろ！！	Stop them!!	捕	捕[と]らえろ！！		scene_18
+はよ逃げな、やばいで	Hurry and run, it's gonna get ugly.	逃	はよ 逃[に]げな、やばいで		scene_18
+まて、話を…	Wait, listen to…	話	まて、 話[はなし]を…		scene_18
+CLOUDさん…	CLOUD…		CLOUDさん…		scene_18
+闘技場	Arena	闘技場	闘技場[とうぎじょう]		scene_18
+してる	doing it.		してる		scene_18
+あと、１人だな	One more to go.	人	あと、１ 人[にん]だな		scene_18
+おい！少しは、こっちの話を聞け！！	Hey! Pay attention!!	少話聞	おい！ 少[すこ]しは、こっちの 話[はなし]を 聞[き]け！！		scene_18
+聞くことはない。下で、罪をつぐなうのだ！！	I don't need to hear it. Pay for your crime below!!	聞下罪	聞[き]くことはない。 下[した]で、 罪[つみ]をつぐなうのだ！！		scene_18
+やれ！	Do it!		やれ！		scene_18
+コレルプリズン	Corel Prison		コレルプリズン		scene_18
+ひゃあ、はっはっは！ようこそコレルプリズンへ	Wo-ho! Welcome to Corel Prison.		ひゃあ、はっはっは！ようこそコレルプリズンへ		scene_18
+おっと、こっから先はボスの許可が無ければダメだ	Hold---it. If you wanna pass, you're gonna need the boss's permission.	先許可無	おっと、こっから 先[さき]はボスの 許可[きょか]が 無[な]ければダメだ		scene_18
+CLOUDだいじょうぶ？	CLOUD, you all right?		CLOUDだいじょうぶ？		scene_18
+おい、だいじょうぶ？	Hey, you okay?		おい、だいじょうぶ？		scene_18
+サバクのかんごく……コレルプリズンやな	A desert prison… Corel Prison…		サバクのかんごく……コレルプリズンやな		scene_18
+サバクのかんごく？	A desert prison?		サバクのかんごく？		scene_18
+そや、サバクの流砂にかこまれた自然のかんごくや	Yup, a natural prison in the middle of the desert… surrounded entirely by quicksand.	流砂自然	そや、サバクの 流砂[りゅうしゃ]にかこまれた 自然[しぜん]のかんごくや		scene_18
+一度入ったら、出ることはかなわんって、聞いてます…	I heard that once you get in, you never get out…	一度入出聞	一度[いちど] 入[はい]ったら、 出[で]ることはかなわんって、 聞[き]いてます…		scene_18
+けど、たしかナンか特例があったような…	But, there was one special exception…	特例	けど、たしかナンか 特例[とくれい]があったような…		scene_18
+あっ！！BARRET！！	Hey!! BARRET!!		あっ！！ BARRET！！		scene_18
+BARRET！？	BARRET!?		BARRET！？		scene_18
+ん！？あれは、BARRETではないのか？	Mmm!? Isn't that BARRET?		ん！？あれは、 BARRETではないのか？		scene_18
+あれ？あいつ、BARRETじゃないのか？	Hey? Isn't that BARRET?		あれ？あいつ、 BARRETじゃないのか？		scene_18
+あんたまさか本当に……	Did you…	本当	あんたまさか 本当[ほんとう]に……		scene_18
+来るな！　これはオレの……オレがカタをつけなくちゃならねえことなんだ	Stay back! This's something I gotta deal with.	来	来[く]るな！　これはオレの……オレがカタをつけなくちゃならねえことなんだ		scene_18
+ほっといてくれ……	Jus' leave me alone…		ほっといてくれ……		scene_18
+ヒョーッ！あの人も、みなさんのお知り合い？なんやアブなそうな人やなぁ～	Whew! That's one of your friends? He sure looks dangerous…	人知合	ヒョーッ！あの 人[ひと]も、みなさんのお 知り合[しりあ]い？なんやアブなそうな 人[ひと]やなぁ~		scene_18
+CLOUD、どうしよう？BARRET、いつもとちがうよ	CLOUD, what should we do? BARRET's not his normal self.		CLOUD、どうしよう？ BARRET、いつもとちがうよ		scene_18
+そんな……BARRET……	…BARRET…		そんな…… BARRET……		scene_18
+おい、CLOUD！あんなヤツほっとこうよ	Hey, CLOUD! Just leave him alone.		おい、 CLOUD！あんなヤツほっとこうよ		scene_18
+向こうもああ言ってんだ。ここでオサラバしよ、な？	I mean, he told us to, didn't he? Then that's that, right?	向言	向[む]こうもああ 言[い]ってんだ。ここでオサラバしよ、な？		scene_18
+これも銃で撃たれあとだ…	This one's been shot, too…	銃撃	これも 銃[じゅう]で 撃[う]たれあとだ…		scene_18
+サバクに出る前にBARRETを追ったほうがいいな	We should find BARRET before we go out into the desert.	出前追	サバクに 出る前[でるまえ]に BARRETを 追[お]ったほうがいいな		scene_18
+からっぽ……	Empty…		からっぽ……		scene_18
+新入りか？なら、コーツ様にあいさつをしておくんだな	You new? Then go and pay your respects to Mr. Coates.	新入様	新入[しんい]りか？なら、コーツ 様[さま]にあいさつをしておくんだな		scene_18
+コーツの部下の２人	Mr. Coates' Henchmen	部下人	コーツの 部下[ぶか]の２ 人[にん]		scene_18
+また、あいさつか？ いい心がけだ、入んな』	More respects again? You sure are formal, go ahead…	心入	また、あいさつか？いい 心[こころ]がけだ、 入[はい]んな』		scene_18
+新入りさん１つ教えておいてやるぜここのサバクはチョー危険だぜ	I'll tell you one thing, rookie. This desert is extremely dangerous.	新入教危険	新入[しんい]りさん １[ひと]つ 教[おし]えておいてやるぜここのサバクはチョー 危険[きけん]だぜ		scene_18
+入る時はすんなり人を招き入れるが外に出ようとすると、サバクがそれをこばむんだよ	It'll welcome you in, but when you try to leave, it'll swallow ya.	入時人招外出	入[はい]る 時[とき]はすんなり 人[ひと]を 招き入[まねきい]れるが 外[そと]に 出[で]ようとすると、サバクがそれをこばむんだよ		scene_18
+けどな、逆に招かれざる客もこばまれて入ってこれねぇなんて、話も聞くな	I hear some of them never make it out… the best thing is to stay out of the desert entirely.	逆招客入話聞	けどな、 逆[ぎゃく]に 招かれざる客[まねかれざるきゃく]もこばまれて 入[はい]ってこれねぇなんて、 話[はなし]も 聞[き]くな		scene_18
+へっへっへ	Ha ha ha		へっへっへ		scene_18
+このエレベーターに乗りゃあ上に行けるんだぜぇ	This elevator will take you to the top…	乗上行	このエレベーターに 乗[の]りゃあ 上[うえ]に 行[い]けるんだぜぇ		scene_18
+けど、これに乗れるのは　チョコボレーサーに選ばれたやつだけなんだぜぇ	But, you gotta be picked as a Chocobo Racer, first.	乗選	けど、これに 乗[の]れるのは　チョコボレーサーに 選[えら]ばれたやつだけなんだぜぇ		scene_18
+チョコボレースに出たいのか？	Want to enter the Chocobo Race?	出	チョコボレースに 出[で]たいのか？		scene_18
+ぜひ、出たい	Yeah, I want to enter	出	ぜひ、 出[で]たい		scene_18
+一生ここでくらす気か？せいぜい長生きするんだな！	You thinkin' of livin' here forever? Then live a long life!	一生気長	一生[いっしょう]ここでくらす 気[き]か？せいぜい 長生[ながい]きするんだな！		scene_18
+それならよ、許可をとってこいよ。ここのボスのさ	Then go get permission with the boss of this place.	許可	それならよ、 許可[きょか]をとってこいよ。ここのボスのさ		scene_18
+ボスは誰だ？	Who's the boss?	誰	ボスは 誰[だれ]だ？		scene_18
+あ～らら！知らないの？ダメだな、こりゃ	You don't even know that? Oh man.	知	あ~らら！ 知[し]らないの？ダメだな、こりゃ		scene_18
+ここは天国だぜ	This place is heaven.	天国	ここは 天国[てんごく]だぜ		scene_18
+片腕が銃の男？	Man with a gun on his arm?	片腕銃男	片腕[かたうで]が 銃[じゅう]の 男[おとこ]？		scene_18
+知らねぇぜ	Never heard of him.	知	知[し]らねぇぜ		scene_18
+ボスに会いてぇ？	You wanna see the Boss?	会	ボスに 会[あ]いてぇ？		scene_18
+南西にず～っと向かえば会えるんじゃねぇか？	Go Southwest and you'll meet him.	南西向会	南西[なんせい]にず~っと 向[む]かえば 会[あ]えるんじゃねぇか？		scene_18
+会えるんじゃねぇか？	You'll meet him.	会	会[あ]えるんじゃねぇか？		scene_18
+サバクにでたらずっと止まってるんだ歩いちゃいけねぇ	Once out in the desert, stay still and don't walk.	止歩	サバクにでたらずっと 止[と]まってるんだ 歩[ある]いちゃいけねぇ		scene_18
+歩いちゃいけねぇ	Don't walk.	歩	歩[ある]いちゃいけねぇ		scene_18
+いつか、不思議なチョコボ車に会えるなんて事はぜってぇ、ねぇ	There's no way you'll ever see a mysterious Chocobo carriage. No way.	不思議車会事	いつか、 不思議[ふしぎ]なチョコボ 車[しゃ]に 会[あ]えるなんて 事[こと]はぜってぇ、ねぇ		scene_18
+ぜってぇ、ねぇ	No way.		ぜってぇ、ねぇ		scene_18
+そこの奴らはウソしか言わねぇんだウソだけだ、本当のことなんて何ひとつ言わねぇよ。　何回か話を聞いてみな、あきれてくるぜ	Those guys only tell lies. Only lies. Not one of 'em will tell you the truth. Just talk with 'em a couple of times, and you'll get sick of 'em.	奴言本当何回話聞	そこの 奴[やつ]らはウソしか 言[い]わねぇんだウソだけだ、 本当[ほんとう]のことなんて 何[なに]ひとつ 言[い]わねぇよ。　 何回[なんかい]か 話[ばなし]を 聞[き]いてみな、あきれてくるぜ		scene_18
+サバクに迷いこんじまったらひたすら北東に進むんだな。運がよければもどってこられるぜ	If you get lost in the desert, just keep going Northeast. If you're lucky, you'll make it back here.	迷北東進運	サバクに 迷[まよ]いこんじまったらひたすら 北東[ほくとう]に 進[すす]むんだな。 運[うん]がよければもどってこられるぜ		scene_18
+今日のボスはすげぇキゲンが悪ぃや…いや、ありゃあキゲンがいいのか？	Man, the Boss was REALLY in a bad mood today… Or was it one of his better days?	今日悪	今日[きょう]のボスはすげぇキゲンが 悪[あく]ぃや…いや、ありゃあキゲンがいいのか？		scene_18
+プリズンパブ	Prison Pub		プリズンパブ		scene_18
+新入りか？　じゃあ買っていけ。ああ、そういうルールだ	A rookie? Then you gotta buy something. Yup, that's the rule here.	新入買	新入[しんい]りか？　じゃあ 買[か]っていけ。ああ、そういうルールだ		scene_18
+コーツのコンテナ	Container		コーツのコンテナ		scene_18
+コーツ	Mr.Coates		コーツ		scene_18
+見ねえ顔だな。ん？　上へ行きてえのか？	Never seen your face 'round here before. Goin' up?	見顔上行	見[み]ねえ 顔[かお]だな。ん？　 上[うえ]へ 行[い]きてえのか？		scene_18
+行きたい	Yeah, up	行	行[い]きたい		scene_18
+ヘッヘッヘッ！いいこころがけだ	Heh heh! You sure got guts!		ヘッヘッヘッ！いいこころがけだ		scene_18
+おめえ、ここがわかってねえな。ここはゴールドソーサーのゴミすて場てめえらもクズなんだよ	You don't seem to understand how things work down here. This is the Gold Saucer's garbage dump. And that makes alluv ya scrubs.	場	おめえ、ここがわかってねえな。ここはゴールドソーサーのゴミすて 場[じょう]てめえらもクズなんだよ		scene_18
+シャバへもどりてえんならチョコボレースで優勝するしかねえ	The only way to get back up there is to win the Chocobo Race.	優勝	シャバへもどりてえんならチョコボレースで 優勝[ゆうしょう]するしかねえ		scene_18
+だがな、てめえらみたいな新顔がすぐ出られるほど甘かねえよ	But, it's not as easy as you rookies think.	新顔出甘	だがな、てめえらみたいな 新顔[しんがお]がすぐ 出[で]られるほど 甘[あま]かねえよ		scene_18
+ま、ボスの許可でも取れたら別だがなとれるわきゃあねえか？	Of course, if you got the boss's permission it'd be a different story, but YOU'll never get that!	許可取別	ま、ボスの 許可[きょか]でも 取[と]れたら 別[べつ]だがなとれるわきゃあねえか？		scene_18
+はははっははっ	Ha ha ha ha.		はははっははっ		scene_18
+旧村長の家	Mayor's Old House	旧村長家	旧[きゅう] 村長[そんちょう]の 家[いえ]		scene_18
+来るなと言ったじゃねえか！	Didn't I tell you not to come here!?	来言	来[く]るなと 言[い]ったじゃねえか！		scene_18
+ちょ、ちょっとタンマ！話し、しましょ！な、話せばわかるって！	Ju…just hold on for a second! We just want to talk! You'll understand if you just hear us out!	話	ちょ、ちょっとタンマ！ 話[はな]し、しましょ！な、 話[はな]せばわかるって！		scene_18
+おまえたちをまきこみたくなかった……	Didn't want none of ya to get involved…		おまえたちをまきこみたくなかった……		scene_18
+それ、CLOUDのセリフ！『危険だ、まきこむわけにはいかない』とかなんとか、ね	Hey that's CLOUD's line! …It's too dangerous, I can't let you get involved…' blah, blah, blah…	危険	それ、 CLOUDのセリフ！『 危険[きけん]だ、まきこむわけにはいかない』とかなんとか、ね		scene_18
+そうそう。それに私たち、もう思いっきりまきこまれちゃってるんだから	Yeah. We're already involved in this.	私思	そうそう。それに 私[わたし]たち、もう 思[おも]いっきりまきこまれちゃってるんだから		scene_18
+上でBARRET見つけてあわててここまで来たの。BARRET、ちゃんと説明して	We saw you and hurried here. BARRET, just tell us what's going on.	上見来説明	上[うえ]で BARRET 見[み]つけてあわててここまで 来[き]たの。 BARRET、ちゃんと 説明[ときあか]して		scene_18
+上でBARRETを見かけてあわてて追いかけてきたんだから。さあBARRET、きちんと説明してね	We saw you and hurried here. So come on BARRET, just tell us what's going on.	上見追説明	上[うえ]で BARRETを 見[み]かけてあわてて 追[お]いかけてきたんだから。さあ BARRET、きちんと 説明[ときあか]してね		scene_18
+おまえたち……	You guys…		おまえたち……		scene_18
+闘技場の事件は片腕が銃の男のしわざだと聞いた。……あんたか？	I heard that the murders at the Battle Arena were done by a man with a gun-arm…was that you?	闘技場事件片腕銃男聞	闘技場[とうぎじょう]の 事件[じけん]は 片腕[かたうで]が 銃[じゅう]の 男[おとこ]のしわざだと 聞[き]いた。……あんたか？		scene_18
+もう１人いるんだ……片腕に銃をもつ男。４年前、あの日から……	There's another… another man that got a gun grafted inta one of his arms. It was four years ago…	人片腕銃男年前日	もう１ 人[にん]いるんだ…… 片腕[かたうで]に 銃[じゅう]をもつ 男[おとこ]。４ 年[ねん] 前[まえ]、あの 日[ひ]から……		scene_18
+なんてこった……	What the hell happened?		なんてこった……		scene_18
+とりかえしがつかねえ…	What's done is done.		とりかえしがつかねえ…		scene_18
+おい、BARRET！まだ終わっちゃいねえ！	Hey, BARRET! It's not over yet!	終	おい、 BARRET！まだ 終[お]わっちゃいねえ！		scene_18
+みんなが、待ってる！！俺たちの村へ帰るぞ！	Everyone's waiting! Let's go back to the village!	待俺村帰	みんなが、 待[ま]ってる！！ 俺[おれ]たちの 村[むら]へ 帰[かえ]るぞ！		scene_18
+あの日……	I remember…	日	あの 日[ひ]……		scene_18
+建設中の魔晄炉を見物にいった	I was on my way home from visiting	建設中魔晄炉見物	建設中[けんせつちゅう]の 魔[ま] 晄[こう] 炉[ろ]を 見物[けんぶつ]にいった		scene_18
+帰り道だった……	a Mako Reactor being built.	帰道	帰り道[かえりみち]だった……		scene_18
+BARRET！　ダイン！大変だ！　村が襲われた！神羅の兵だ！	BARRET! Dyne! Come quick! The village's being attacked! It's Shinra soldiers!	大変村襲神羅兵	BARRET！　ダイン！ 大変[たいへん]だ！　 村[むら]が 襲[おそ]われた！ 神[しん] 羅[ら]の 兵[へい]だ！		scene_18
+なにっ！！！	What!!!?		なにっ！！！		scene_18
+おい、BARRET！急ぐんだ！	C'mon, BARRET! We gotta hurry!	急	おい、 BARRET！ 急[いそ]ぐんだ！		scene_18
+BARRET！　ダイン！村をたのんだぞ…	BARRET! Dyne! Protect the village!	村	BARRET！　ダイン！ 村[むら]をたのんだぞ…		scene_18
+チッ！！おやっさん！！	Hmp!! Old man!!		チッ！！おやっさん！！		scene_18
+クッ……！！	Krggh!!		クッ……！！		scene_18
+BARRET！！ここはこらえろ！！	BARRET!! You stay here!!		BARRET！！ここはこらえろ！！		scene_18
+うるせえ！！	Shu' up!!		うるせえ！！		scene_18
+あぶねえ！！	Watch out!!		あぶねえ！！		scene_18
+キャハハハハハ！！	Kyaa, haa, ha!!		キャハハハハハ！！		scene_18
+下手な鉄砲はいくら撃ってもあたんないんだよ！！	You can shoot all day and never hit them with aim like that.	下手鉄砲撃	下手[へた]な 鉄砲[てっぽう]はいくら 撃[う]ってもあたんないんだよ！！		scene_18
+キャハハハハ！！！ちゃんと当たるじゃないか！！	Kya, ha, ha!!! Looks like one hit you!!	当	キャハハハハ！！！ちゃんと 当[あ]たるじゃないか！！		scene_18
+キャハハハハハ！！！ほら、遊んでないで援護しな！！	Kya, ha, ha!! Stop playing around and cover me!!	遊援護	キャハハハハハ！！！ほら、 遊[あそ]んでないで 援護[えんご]しな！！		scene_18
+ダイン！！離すんじゃねえぞ！！	Dyne!! Hang on!!	離	ダイン！！ 離[はな]すんじゃねえぞ！！		scene_18
+いいか！！村へ帰るんだろ！！	Listen to me!! You're comin' back to the village, hear!!?	村帰	いいか！！ 村[むら]へ 帰[かえ]るんだろ！！		scene_18
+ああ……。離すわけねえ……	Yeah… I ain't lettin' go…	離	ああ……。 離[はな]すわけねえ……		scene_18
+俺たちの村に帰るんだ………みんなが待ってる…	You're comin' back… Everyone's waitin' for ya…	俺村帰待	俺[おれ]たちの 村[むら]に 帰[かえ]るんだ………みんなが 待[ま]ってる…		scene_18
+エレノアが…マリンが……俺たちの帰りを……	Eleanor… and Marlene… They all waitin' on us…	俺帰	エレノアが…マリンが…… 俺[おれ]たちの 帰[かえ]りを……		scene_18
+ダイーーーーーン！	Dyyyyyyne!		ダイーーーーーン！		scene_18
+オレの右腕はもう使い物にならなかった	From then on, I couldn't use my right arm no more.	右腕使物	オレの 右腕[うわん]はもう 使い物[つかいもの]にならなかった		scene_18
+……しばらく悩んだけどよ	…I was depressed for a while.	悩	……しばらく 悩[なや]んだけどよ		scene_18
+オレは右腕をすてこの銃を手に入れた	But then I threw away my artificial arm and got this gun grafted in.	右腕銃手入	オレは 右腕[うわん]をすてこの 銃[じゅう]を 手[て]に 入[い]れた		scene_18
+オレからすべてを奪っていった神羅に復讐するための新しい右腕……	Got a new right arm to get revenge on the Shinra, who took everything away…	奪神羅復讐新右腕	オレからすべてを 奪[うば]っていった 神[しん] 羅[ら]に 復讐[ふくしゅう]するための 新[あたら]しい 右腕[うわん]……		scene_18
+そのときの医者から聞いたのさ。オレと同じ手術を望んだ男がもう１人いるってことをな	Back then, I heard the doc say there was another man who got the same operation as me.	医者聞同手術望男人	そのときの 医者[いしゃ]から 聞[き]いたのさ。オレと 同[おな]じ 手術[しゅじゅつ]を 望[のぞ]んだ 男[おとこ]がもう１ 人[にん]いるってことをな		scene_18
+ただし、そいつは左腕が銃になっている	But, his was the left arm.	左腕銃	ただし、そいつは 左腕[さわん]が 銃[じゅう]になっている		scene_18
+でも……それならダインもあなたと同じ、でしょ？	But…Dyne's injury was the same as yours, right?	同	でも……それならダインもあなたと 同[おな]じ、でしょ？		scene_18
+そうよね。神羅にだまされたんだもの	Yeah, that's right. He was deceived by the Shinra too.	神羅	そうよね。 神[しん] 羅[ら]にだまされたんだもの		scene_18
+きっと、いっしょに神羅と戦ってくれるわ	He'll probably join us to fight against the Shinra.	神羅戦	きっと、いっしょに 神[しん] 羅[ら]と 戦[たたか]ってくれるわ		scene_18
+……わからねえ。わからねえが、オレはダインにあやまらなくちゃ気がすまねえ	…Wouldn't bet on it. I gotta 'pologize to Dyne before I can rest in peace.	気	……わからねえ。わからねえが、オレはダインにあやまらなくちゃ 気[き]がすまねえ		scene_18
+だからよ、１人でいかせてくれ	An' that's why I gotta go alone.	人	だからよ、１ 人[にん]でいかせてくれ		scene_18
+好きにすればいい	Do whatever you want… Is that what you want to hear?	好	好[す]きにすればいい		scene_18
+と、いいたいところだがダメだなここで、アンタに死なれると夢見が悪そうだ	Well, I can't let you do it. We need your help to save the Planet.	死夢見悪	と、いいたいところだがダメだなここで、アンタに 死[し]なれると 夢見[ゆめみ]が 悪[わる]そうだ		scene_18
+BARRETここで終わりじゃないよ	BARRET, this isn't the end.	終	BARRETここで 終[お]わりじゃないよ		scene_18
+星を救うんでしょ？	Weren't you going to save the Planet?	星救	星[ほし]を 救[すく]うんでしょ？		scene_18
+へっ！TIFA、もうわかっただろ？	@#$%! TIFA, you oughtta know by now.		へっ！ TIFA、もうわかっただろ？		scene_18
+……いいじゃない、べつに。私だって似たようなものだわ	…That's all right. I'm not so different from you.	私似	……いいじゃない、べつに。 私[わたし]だって 似[に]たようなものだわ		scene_18
+わかりやすいよ、そのほうが。BARRETらしいもん	That's easier to understand. It's you, BARRET.		わかりやすいよ、そのほうが。 BARRETらしいもん		scene_18
+というわけだ、BARRET。さて、BARRETと俺と……	So there it is, BARRET. So I guess it'll be BARRET, me, and…	俺	というわけだ、 BARRET。さて、 BARRETと 俺[おれ]と……		scene_18
+ダインさん、仲間なってくれるかな？	I wonder if Dyne will join us?	仲間	ダインさん、 仲間[なかま]なってくれるかな？		scene_18
+気をつけてね	Be careful.	気	気[き]をつけてね		scene_18
+ん？　私も行こうか？	Hmm? Shall I go with you?	私行	ん？　 私[わたし]も 行[い]こうか？		scene_18
+ええ占い出てますわ。なんもかんもバッチリですわ！	Fortune's good. Everything is perfect!	占出	ええ 占[うらな]い 出[で]てますわ。なんもかんもバッチリですわ！		scene_18
+金にもならないのに物好きなやつらだねえ	You all sure are acting pretty heroic, considerin' we're not makin' any money on this…	金物好	金[きん]にもならないのに 物好[ものず]きなやつらだねえ		scene_18
+ここで、ひと眠りできそうだ	Looks like we could get some sleep here.	眠	ここで、ひと 眠[ねむ]りできそうだ		scene_18
+ねる	Sleep		ねる		scene_18
+ねない	Don't sleep		ねない		scene_18
+コレルサバク	Corel Desert		コレルサバク		scene_18
+乗るかい……？	Wanna ride?	乗	乗[の]るかい……？		scene_18
+乗りたくない	Don't get on	乗	乗[の]りたくない		scene_18
+……ダイン……おまえなのか？	…Dyne …is that you?		……ダイン……おまえなのか？		scene_18
+なつかしい声だな……	Now that's a voice I haven't heard in years…	声	なつかしい 声[こえ]だな……		scene_18
+忘れようにも忘れられない声だ……	A voice I'll never forget…	忘声	忘[わす]れようにも 忘[わす]れられない 声[こえ]だ……		scene_18
+いつか会えると信じていた……オレと同じ手術を受けどこかで生きていると……	I always hoped I'd be able to see you again someday… I knew you were alive somewhere… we had the same operation.	会信同手術受生	いつか 会[あ]えると 信[しん]じていた……オレと 同[おな]じ 手術[しゅじゅつ]を 受[う]けどこかで 生[い]きていると……		scene_18
+聞いてくれダイン。おまえに……	Listen Dyne, I want to…	聞	聞[き]いてくれダイン。おまえに……		scene_18
+声が……聞こえるんだ	I can hear her voice. What's that?	声聞	声[こえ]が…… 聞[き]こえるんだ		scene_18
+聞こえるんだよ、エレノアの声が。おねがいだから……BARRETをうらまないでってさ	It's Eleanor's voice. Begging me… not to hate your rotten guts.	聞声	聞[き]こえるんだよ、エレノアの 声[こえ]が。おねがいだから…… BARRETをうらまないでってさ		scene_18
+だから、あんたを追っかけるのはやめといた……	That's why I never hunted you down…	追	だから、あんたを 追[お]っかけるのはやめといた……		scene_18
+……自分の愚かさは知っている。許してくれとは言わない	…I know I was stupid. I'm not asking you to forgive me.	自分愚知許言	…… 自分[じぶん]の 愚[おろ]かさは 知[し]っている。 許[ゆる]してくれとは 言[い]わない		scene_18
+でもよ……こんなところで何をしてるんだ？	But…what're you doin' in a place like this?	何	でもよ……こんなところで 何[なに]をしてるんだ？		scene_18
+関係ない人間を殺してどうなる？なぜだ？	Why ya wanna kill people who ain't even involved? Why?	関係人間殺	関係[かんけい]ない 人間[にんげん]を 殺[ころ]してどうなる？なぜだ？		scene_18
+……なぜ！？理由を聞いてどうする！？	Why!? The hell do you care!?	理由聞	……なぜ！？ 理由[りゆう]を 聞[き]いてどうする！？		scene_18
+それで殺された人間はなっとくするのか？神羅の言い分を聞けばコレル村の人間は了解するのか！？	You think the dead understand why's? Is hearin' Shinra's excuses gonna make people in Corel understand anything?	殺人間神羅言分聞村了解	それで 殺[ころ]された 人間[にんげん]はなっとくするのか？ 神[しん] 羅[ら]の 言い分[いいぶん]を 聞[き]けばコレル 村[むら]の 人間[にんげん]は 了解[りょうかい]するのか！？		scene_18
+理由なんてどうでもいい！	I don't CARE about reasons!	理由	理由[りゆう]なんてどうでもいい！		scene_18
+与えられるのは銃弾と不条理…残されるのは絶望と無の世界…それだけだ！！	All they give us is artillery and stupid excuses… What's left is a world of despair and emptiness…	与銃弾不条理残絶望無世界	与[あた]えられるのは 銃弾[じゅうだん]と 不条理[ふじょうり]… 残[のこ]されるのは 絶望[ぜつぼう]と 無[む]の 世界[せかい]…それだけだ！！		scene_18
+それでも聞きたいか？……なら教えてやろう	You still want to hear 'why'? …All right, I'll tell you.	聞教	それでも 聞[き]きたいか？……なら 教[おし]えてやろう		scene_18
+俺はな、壊してしまいたいんだよ	'Cause I want to destroy everything.	俺壊	俺[おれ]はな、 壊[こわ]してしまいたいんだよ		scene_18
+この街の人間を	The people in this city.	街人間	この 街[まち]の 人間[にんげん]を		scene_18
+この街のすべてを	This city itself.	街	この 街[まち]のすべてを		scene_18
+この世界のすべてを！	The whole world!	世界	この 世界[せかい]のすべてを！		scene_18
+この世界にはもう何もない。コレル村、エレノア……マリン……	I got nothing left in this world. Corel, Eleanor… Marlene…	世界何村	この 世界[せかい]にはもう 何[なに]もない。コレル 村[むら]、エレノア……マリン……		scene_18
+マリンは……マリンは生きている	Dyne, Marlene… Marlene's still alive.	生	マリンは……マリンは 生[い]きている		scene_18
+あのあと、オレは村にもどった。もう逃げられない…そう思った	I went back into town. I thought she was gone for sure.	村逃思	あのあと、オレは 村[むら]にもどった。もう 逃[に]げられない…そう 思[おも]った		scene_18
+だからせめて、最後はミーナのそばにいたいと思った	I wandered around town for awhile…	最後思	だからせめて、 最後[さいご]はミーナのそばにいたいと 思[おも]った		scene_18
+そこであの子を……おまえの娘、マリンを見つけた	That's when I found her… …found Marlene.	子娘見	そこであの 子[こ]を……おまえの 娘[むすめ]、マリンを 見[み]つけた		scene_18
+マリンはミッドガルにいるんだ。一練に会いに行こう、な？	She's in Midgar. Let's go see her together, all right?	一練会行	マリンはミッドガルにいるんだ。一 練[ねり]に 会[あ]いに 行[い]こう、な？		scene_18
+そうか……生きているのか……	So…she's still alive?	生	そうか…… 生[い]きているのか……		scene_18
+わかったよ、BARRET。やはりおまえと戦わなくてはならないな	All right, BARRET. Then I guess you and me gotta fight.	戦	わかったよ、 BARRET。やはりおまえと 戦[たたか]わなくてはならないな		scene_18
+なんだと！？	What!?		なんだと！？		scene_18
+エレノアが１人でさみしがってる。マリンも連れて行ってやらないとな	Eleanor's all by herself. I gotta take Marlene to her.	人連行	エレノアが１ 人[にん]でさみしがってる。マリンも 連[つ]れて 行[い]ってやらないとな		scene_18
+ダイン……正気か！？	Dyne…are you crazy!?	正気	ダイン…… 正気[しょうき]か！？		scene_18
+マリンだって母さんに会いたがってるだろ？	Marlene wants to see her mom, don't she?	母会	マリンだって 母[かあ]さんに 会[あ]いたがってるだろ？		scene_18
+やめろ、ダイン！オレはここで死ぬわけにはいかねえんだ！	Stop, Dyne! I can't die yet!	死	やめろ、ダイン！オレはここで 死[し]ぬわけにはいかねえんだ！		scene_18
+そうかい。俺はあの日から命はすててるぜ	Oh yeah? Well my life's been over ever since then.	俺日命	そうかい。 俺[おれ]はあの 日[ひ]から 命[いのち]はすててるぜ		scene_18
+やめてくれ！おまえとはやりたくねえ！	Stop it! I don't wanna fight you!		やめてくれ！おまえとはやりたくねえ！		scene_18
+CLOUD、手を出すな！これは、オレの間題だ！！	CLOUD, you stay the hell out of it! This is MY problem!!	手出間題	CLOUD、 手[て]を 出[だ]すな！これは、オレの 間[ま] 題[だい]だ！！		scene_18
+……BARRET……	…BARRET…		…… BARRET……		scene_18
+ダイン！！	Dyne!!		ダイン！！		scene_18
+来るな！！	Back!!	来	来[く]るな！！		scene_18
+……俺はあの時片腕と……いっしょに	…I didn't just lose an arm back then…	俺時片腕	…… 俺[おれ]はあの 時[とき] 片腕[かたうで]と……いっしょに		scene_18
+かけがえのないものを失った……どこで……くいちがっちまったのかな……	I lost something irreplaceable. I don't know where it went wrong…	失	かけがえのないものを 失[うしな]った……どこで……くいちがっちまったのかな……		scene_18
+ダイン……わからねえよ	Dyne…I don't know either, man.		ダイン……わからねえよ		scene_18
+オレたち……こういうやりかたでしか決着をつけられなかったのか？	Is this the only way… we can resolve this?	決着	オレたち……こういうやりかたでしか 決着[けっちゃく]をつけられなかったのか？		scene_18
+言ったはずだ……俺は……壊してしまいたかったんだよ……	I told you… I… I wanna destroy everything…	言俺壊	言[い]ったはずだ…… 俺[おれ]は…… 壊[こわ]してしまいたかったんだよ……		scene_18
+何もかも……このくるった世界も……俺自身も……	Everything… This crazy world… Even me…	何世界俺自身	何[なに]もかも……このくるった 世界[せかい]も…… 俺[おれ] 自身[じしん]も……		scene_18
+マリンは！マリンはどうなるんだ！	An' what 'bout Marlene? What's gonna happen to her!?		マリンは！マリンはどうなるんだ！		scene_18
+……考えてみろ……BARRET……あのときマリンはいくつだった……？	…Think about it…BARRET… How old was Marlene back then?	考	…… 考[かんが]えてみろ…… BARRET……あのときマリンはいくつだった……？		scene_18
+いまさら……いまさら俺が出ていったところであの子には……わかるはずもない……	Even if I did go see her… she wouldn't even know me…	俺出子	いまさら……いまさら 俺[おれ]が 出[で]ていったところであの 子[こ]には……わかるはずもない……		scene_18
+それにな……BARRET……	And what's more…BARRET…		それにな…… BARRET……		scene_18
+マリンを抱いてやるには俺の手は……少々汚れすぎちまったのさ……	My hands are too stained to carry her anymore…	抱俺手少汚	マリンを 抱[だ]いてやるには 俺[おれ]の 手[て]は…… 少々[しょうしょう] 汚[よご]れすぎちまったのさ……		scene_18
+BARRET…	BARRET…		BARRET…		scene_18
+そのペンダントをマリンに…エレ…ノアの……女房の……かたみ……	Give that pendant to Marlene… It was…Eleanor's… my wife's…a memento…	女房	そのペンダントをマリンに…エレ…ノアの…… 女房[にょうぼう]の……かたみ……		scene_18
+わかった……	All right…		わかった……		scene_18
+……そうか……マリンが……もう……４つ…か……	…so…Marlene's… already…4…		……そうか……マリンが……もう…… ４[よっ]つ…か……		scene_18
+ダイン……？	Dyne…?		ダイン……？		scene_18
+BARRET……マリンを…………泣かせる…な…よ……	BARRET… Don't…you… …Don't ever make her…cry…	泣	BARRET……マリンを………… 泣[な]かせる…な…よ……		scene_18
+ダイン！	Dyne!		ダイン！		scene_18
+ダイーーーン！！	Dy------ne!!		ダイーーーン！！		scene_18
+……ダイン。おまえと同じなんだ……	…Dyne. Me an' you were the same…	同	……ダイン。おまえと 同[おな]じなんだ……		scene_18
+オレだって……オレの手だって……汚れちまってる……	My hands ain't any cleaner… I shouldn't carry Marlene either…	手汚	オレだって……オレの 手[て]だって…… 汚[よご]れちまってる……		scene_18
+うおぉぉーーーー！！！	Uuuurrrrrrgh!!!		うおぉぉーーーー！！！		scene_18
+上へ行きてえ	I want to go up.	上行	上[うえ]へ 行[い]きてえ		scene_18
+だからよ、ボスの許可をとってチョコボレースに……	Like I told you before, you gotta get the boss's permission, then win the Chocobo…	許可	だからよ、ボスの 許可[きょか]をとってチョコボレースに……		scene_18
+ダインはワケがあって話ができなくなった	Dyne's got his reasons an' can't speak.	話	ダインはワケがあって 話[はなし]ができなくなった		scene_18
+そのかわり、これをもらってきたぜ	So, I got this, instead.		そのかわり、これをもらってきたぜ		scene_18
+ゲッ……	Yeah, bull--!!		ゲッ……		scene_18
+わ、わかったよ	R, right.		わ、わかったよ		scene_18
+……ダインをやったのか？	Did you kill Dyne?		……ダインをやったのか？		scene_18
+いや、そうなんだろうな。そんなもの持ってるんだからな	You must've. Or you'd never be holding that thing.	持	いや、そうなんだろうな。そんなもの 持[も]ってるんだからな		scene_18
+そうか……ダインが死んだかこれで、ここも少しは落ちついた土地になるぜ	…So Dyne's dead… Maybe now, the place'll calm down a little.	死少落土地	そうか……ダインが 死[し]んだかこれで、ここも 少[すこ]しは 落[お]ちついた 土地[とち]になるぜ		scene_18
+なにしろダインはだれかれかまわず……	Dyne didn't care who anyone was…		なにしろダインはだれかれかまわず……		scene_18
+てめえに何がわかるってんだ！！	The hell do YOU know!!	何	てめえに 何[なに]がわかるってんだ！！		scene_18
+わわわ、わかった！いや、なんにもわかってないです。す、すいません	R…ight! I mean, no, I DON'T know anything. S…sorry.		わわわ、わかった！いや、なんにもわかってないです。す、すいません		scene_18
+それじゃあ、ここから出してもらおうか？	Then, will you get us outta here?	出	それじゃあ、ここから 出[だ]してもらおうか？		scene_18
+ん？　あんたたちなんか、かんちがいしてないか？	Huh? Oh man, you guys are mistaken.		ん？　あんたたちなんか、かんちがいしてないか？		scene_18
+前に、少し言ったと思うがここからでる手段は、ただひとつ	I already told you, there's only one way to get outta here.	前少言思手段	前[まえ]に、 少[すこ]し 言[い]ったと 思[おも]うがここからでる 手段[しゅだん]は、ただひとつ		scene_18
+ゴールドソーサーで行なわれているチョコボレースで優勝するしかねぇ	That's to win the Chocobo Race and that's held up there, in the Gold Saucer.	行優勝	ゴールドソーサーで 行[おこ]なわれているチョコボレースで 優勝[ゆうしょう]するしかねぇ		scene_18
+それに、一度に上に行けるレーサーはたった１人だ	And, only one racer can go up at a time.	一度上行人	それに、 一度[いちど]に 上[うえ]に 行[い]けるレーサーはたった １人[ひとり]だ		scene_18
+なんだと！	Say what!?		なんだと！		scene_18
+だーーっ！いくら、おどしてもダメだ！！	Noooo! Really, even if you threaten me!!		だーーっ！いくら、おどしてもダメだ！！		scene_18
+このルールだけは変えるわけにはいかねぇ	A rule's a rule. I can't change it.	変	このルールだけは 変[か]えるわけにはいかねぇ		scene_18
+ここの規律がメチャクチャになっちまう！！これは、ゆずれねぇ！	If I do, the whole system down here'll get messed up!! An' I can't do that!	規律	ここの 規律[きりつ]がメチャクチャになっちまう！！これは、ゆずれねぇ！		scene_18
+ひ、１人は上に送ってやる。後は、そいつがディオと取り引きするなり、なんなりしな	OK, OK, I'll let one go up there. After that, he's gotta deal with Dio.	人上送後取引	ひ、１ 人[にん]は 上[うえ]に 送[おく]ってやる。 後[ご]は、そいつがディオと 取り引[とりひ]きするなり、なんなりしな		scene_18
+ちっ！　しょうがねぇ	Alright then.		ちっ！　しょうがねぇ		scene_18
+CLOUD、おまえ行ってこい	CLOUD, you go.	行	CLOUD、おまえ 行[い]ってこい		scene_18
+オレたちは、下でまってるからよ	We'll wait down here.	下	オレたちは、 下[した]でまってるからよ		scene_18
+さっさと、チョコボレースとかいうのに勝って、こっちもなんとかしろ！	Hurry up an' win that Chocobo Race, an' get us outta here!	勝	さっさと、チョコボレースとかいうのに 勝[か]って、こっちもなんとかしろ！		scene_18
+そうだな、CLOUDが適任だろう	You're right. CLOUD should do it.	適任	そうだな、 CLOUDが 適任[てきにん]だろう		scene_18
+うん、CLOUDがんばってね	Yes, good luck, CLOUD.		うん、 CLOUDがんばってね		scene_18
+そうね、CLOUD私たち待ってるからたのむわよ	Right, CLOUD. We'll be waiting and rooting for you.	私待	そうね、 CLOUD 私[わたし]たち 待[ま]ってるからたのむわよ		scene_18
+じゃ、CLOUDたのんだよ	Well, CLOUD go get 'em!		じゃ、 CLOUDたのんだよ		scene_18
+ほんな、CLOUDさんガンバッテなぁ～	OK CLOUD, knock 'em dead!		ほんな、 CLOUDさんガンバッテなぁ~		scene_18
+は、話は、まとまったか？	Have you decided?	話	は、 話[はなし]は、まとまったか？		scene_18
+じゃあ、あとはマネージャーか	All you need now is a manager…		じゃあ、あとはマネージャーか		scene_18
+チョコボレースの登録やちょうたつをする役目なんだが……	To register and get a Chocobo…	登録役目	チョコボレースの 登録[とうろく]やちょうたつをする 役目[やくめ]なんだが……		scene_18
+は～い、話、聞かせてもらっちゃった	Hi. I happened to hear your story.	話聞	は~い、 話[はなし]、 聞[き]かせてもらっちゃった		scene_18
+エストか？	Ester?		エストか？		scene_18
+あたしがマネージャーやるわ	I'll be your manager.		あたしがマネージャーやるわ		scene_18
+まぁ、もんくはねぇが……	Well, I have nothing against it, but…		まぁ、もんくはねぇが……		scene_18
+こいつはエスト。　見た目は変だろ？	This is Ester. She may look kinda funny…	見目変	こいつはエスト。　 見た目[みため]は 変[へん]だろ？		scene_18
+でも、チョコボレースのマネージメントで右に出るやつはいねぇ	But there's no better manager in the races…	右出	でも、チョコボレースのマネージメントで 右[みぎ]に 出[で]るやつはいねぇ		scene_18
+しっつれいな言い方ね	That's so rude…	言方	しっつれいな 言い方[いいかた]ね		scene_18
+まぁ、いいわ。よろしくCLOUDさん	Yeah, well. Nice to meet you, CLOUD.		まぁ、いいわ。よろしく CLOUDさん		scene_18
+よし、CLOUDさんとやら	All right then, CLOUD.		よし、 CLOUDさんとやら		scene_18
+柱のエレベーターから上に送ってやる。くわしいことはエストから聞きな	I'll send you up the elevator. Ester'll fill you in on the details.	柱上送聞	柱[はしら]のエレベーターから 上[うえ]に 送[おく]ってやる。くわしいことはエストから 聞[き]きな		scene_18
+そう、そんなことがあったのわかったわ、ディオ園長には私から話をしておくわ	Hmm, so that's what happened. I'll talk to Dio directly.	園長私話	そう、そんなことがあったのわかったわ、ディオ 園長[えんちょう]には 私[わたし]から 話[はなし]をしておくわ		scene_18
+あなたは、取りあえずレースに集中して	You just concentrate on the race.	取集中	あなたは、 取[と]りあえずレースに 集中[しゅうちゅう]して		scene_18
+そうそう、さっきの話の続きだけどチョコボレーサーにはいろんな人がいるの。犯罪者だけのレースってわけじゃないのよ	Oh yeah, getting back to the other thing, there are many different types of Chocobo jockeys. It's not only for criminals.	話続人犯罪者	そうそう、さっきの 話[はなし]の 続[つづ]きだけどチョコボレーサーにはいろんな 人[ひと]がいるの。 犯罪者[はんざいしゃ]だけのレースってわけじゃないのよ		scene_18
+名声のために戦い続けている人お金のために戦う人レースにのみ生き場所を感じている人…あなた、みたいな人をふくめてね	Some people compete for the fame, some people compete for the money, some only for glory… And then there're people like you.	名声戦続人金生場所感	名声[めいせい]のために 戦[たたか]い 続[つづ]けている 人[ひと]お 金[かね]のために 戦[たたか]う 人[ひと]レースにのみ 生[い]き 場所[ばしょ]を 感[かん]じている 人[ひと]…あなた、みたいな 人[ひと]をふくめてね		scene_18
+あっ、そうだチョコボの騎乗方法教えておくわね	Oh yeah, I'll teach you how to ride a Chocobo.	騎乗方法教	あっ、そうだチョコボの 騎乗[きじょう] 方法[ほうほう] 教[おし]えておくわね		scene_18
+え～とまず『ＳＥＬＥＣＴ』ボタンでオートとマニュアルを切り替えるの	Ummm… First use [ASSIST] to choose either AUTO or MANUAL.	切替	え~とまず『ＳＥＬＥＣＴ』ボタンでオートとマニュアルを 切り替[きりか]えるの		scene_18
+こればっかりは今回はしょうがないわね	Then, you're stuck…	今回	こればっかりは 今回[こんかい]はしょうがないわね		scene_18
+けど、私の用意するチョコボはおとなしい子が多いからけっこう、うまくやれると思うわ	But, most of the Chocobos I have are mellow and you should be able to handle them.	私用意子多思	けど、 私[わたし]の 用意[ようい]するチョコボはおとなしい 子[こ]が 多[おお]いからけっこう、うまくやれると 思[おも]うわ		scene_18
+新入りかい？	You new?	新入	新入[しんい]りかい？		scene_18
+こんにちは、ジョー	Hi, Joe.		こんにちは、ジョー		scene_18
+ジョー	Joe		ジョー		scene_18
+やぁ、エスト今日も美しいね	Hey, Ester you're looking pretty as usual.	今日美	やぁ、エスト 今日[きょう]も 美[うつく]しいね		scene_18
+ふふ、ありがと	Thanks.		ふふ、ありがと		scene_18
+しょうかいするわ、CLOUD	Let me introduce you, CLOUD.		しょうかいするわ、 CLOUD		scene_18
+彼はジョー、現役チョコボレーサーのトップをいく人よ	This is Joe, one of the top Chocobo Jockeys.	彼現役人	彼[かれ]はジョー、 現役[げんえき]チョコボレーサーのトップをいく 人[たり]よ		scene_18
+以後お見知りおきをCLOUD君	Nice to meet you, CLOUD.	以後見知君	以後[いご]お 見知[みし]りおきを CLOUD 君[きみ]		scene_18
+しかし、エストがじかについているということは……	If you're with Ester, then…		しかし、エストがじかについているということは……		scene_18
+そ！　期待の新人ってところかしら	Right! He's an up and coming jockey.	期待新人	そ！　 期待[きたい]の 新人[しんじん]ってところかしら		scene_18
+なんてったって、下に来てたった１日でここにいるんだから！！	He'd only been down there a day and already he made it up here!!	下来日	なんてったって、 下[した]に 来[き]てたった１ 日[にち]でここにいるんだから！！		scene_18
+『なに！！』	What!?		『なに！！』		scene_18
+なるほどな……	Oh, I see…		なるほどな……		scene_18
+いったい、下で何をした？	So why did you get put down?	下何	いったい、 下[した]で 何[なに]をした？		scene_18
+いや……ここで過去を聞くのはタブーだったな…	Sorry…we're not supposed to ask about the past here.	過去聞	いや……ここで 過去[かこ]を 聞[き]くのはタブーだったな…		scene_18
+フッ	Hmm.		フッ		scene_18
+おもしろいよ……君とはまた、会えそうな気がする	Pretty interesting… I have a feeling that we'll meet again.	君会気	おもしろいよ…… 君[くん]とはまた、 会[あ]えそうな 気[き]がする		scene_18
+では、また会おう、CLOUD君	Then, until we meet again, CLOUD.	会君	では、また 会[あ]おう、 CLOUD 君[きみ]		scene_18
+じゃあ私はチョコボの手配をしてくるわ。しばらくここで待っててね	I'm going to check on the Chocobo. You just wait here for a while.	私手配待	じゃあ 私[わたし]はチョコボの 手配[てはい]をしてくるわ。しばらくここで 待[ま]っててね		scene_18
+すぐ、もどってくるから	I'll be right back.		すぐ、もどってくるから		scene_18
+話すことはねぇ	I got nothing to say.	話	話[はな]すことはねぇ		scene_18
+あんまし、いい気になるんじゃねぇぞ。腕っぷしなんてレースになりゃあ関係ねぇからな	Don't get cocky. Skills don't matter once you get in the race…	気腕関係	あんまし、いい 気[き]になるんじゃねぇぞ。 腕[うで]っぷしなんてレースになりゃあ 関係[かんけい]ねぇからな		scene_18
+まもなく、レースがスタートします次のレースに出場のチョコボレーサーはパドックまでおこしください	The race will start in a few moments. Will the jockeys for the next race please proceed to the paddock.	次出場	まもなく、レースがスタートします 次[つぎ]のレースに 出場[しゅつじょう]のチョコボレーサーはパドックまでおこしください		scene_18
+くりかえします……	I repeat…		くりかえします……		scene_18
+はい、おまたせCLOUDも次のレースに登録しておいたわ	Thanks for waiting. I registered you in the next race.	次登録	はい、おまたせ CLOUDも 次[つぎ]のレースに 登録[とうろく]しておいたわ		scene_18
+まぁ、私が用意したチョコボなんだから、簡単には負けないわよ	This is a Chocobo I prepared myself. He should do well.	私用意簡単負	まぁ、 私[わたし]が 用意[ようい]したチョコボなんだから、 簡単[かんたん]には 負[ま]けないわよ		scene_18
+そうそうもう一度、乗り方を聞いておく？	So… Remember how to ride?	一度乗方聞	そうそうもう 一度[いちど]、 乗[の]り 方[かた]を 聞[き]いておく？		scene_18
+いや、いい	Yeah, I got it		いや、いい		scene_18
+それじゃあ、がんばってきてね	Then, good luck.		それじゃあ、がんばってきてね		scene_18
+でも、自分の思うとおりにはなかなか走らせられないわよ。チョコボとの仲が良くないと言うことを聞いてくれないから	But it's pretty hard to make the Chocobo run the way you want it to. If the Chocobo doesn't like you, it won't listen.	自分思走仲良言聞	でも、 自分[じぶん]の 思[おも]うとおりにはなかなか 走[はし]らせられないわよ。チョコボとの 仲[なか]が 良[よ]くないと 言[い]うことを 聞[き]いてくれないから		scene_18
+『ＳＴＡＲＴ』ボタンを押すと途中でレースを見るのをやめることができるのよ	Push [START] to end the race.	押途中見	『 ＳＴＡＲＴ[すたーと]』ボタンを 押[お]すと 途中[とちゅう]でレースを 見[み]るのをやめることができるのよ		scene_18
+残念だったわね	Too bad.	残念	残念[ざんねん]だったわね		scene_18
+もうチョットだったんだけどね	You were so close.		もうチョットだったんだけどね		scene_18
+もう少し期待したんだけどな	I expected more from you.	少期待	もう 少[すこ]し 期待[きたい]したんだけどな		scene_18
+けど、内容が悪すぎるわ	That was a tough break.	内容悪	けど、 内容[ないよう]が 悪[わる]すぎるわ		scene_18
+じゃあ、もう少しいいチョコボを探してくるわ。しばらく待っててね	Let me find a better Chocobo for you.  Wait here for a while, OK?	少探待	じゃあ、もう 少[すこ]しいいチョコボを 探[さが]してくるわ。しばらく 待[ま]っててね		scene_18
+けどさっきのチョコボで勝てないとなると…	If you couldn't win with that last Chocobo…	勝	けどさっきのチョコボで 勝[か]てないとなると…		scene_18
+わかったわ、もう最っ高のチョコボを探してくるわ	All right, I'll go get the best Chocobo there is!	最高探	わかったわ、もう 最[さい]っ 高[こう]のチョコボを 探[さが]してくるわ		scene_18
+うそでしょ！？今のチョコボ以上なんてもう、いないわよ	You gotta be kidding me!? There aren't any other Chocobos better than the last one!	今以上	うそでしょ！？ 今[いま]のチョコボ 以上[いじょう]なんてもう、いないわよ		scene_18
+もう、本当に勝ちたいのなら『ＳＥＬＥＣＴ』ボタンでオートモードにして走ってみてよ	Well, if you really want to win, just push [ASSIST] and try the 'AUTO' mode.	本当勝走	もう、 本当[ほんとう]に 勝[か]ちたいのなら『ＳＥＬＥＣＴ』ボタンでオートモードにして 走[はし]ってみてよ		scene_18
+おめでとう！！これで晴れて自由の身よ	Congratulations!! Now you're home free!	晴自由身	おめでとう！！これで 晴[は]れて 自由の身[じゆうのみ]よ		scene_18
+あっ、そうだこれ園長から手紙勝ったら渡すようにって	Oh yeah, the owner told me to give this letter to you if you won.	園長手紙勝渡	あっ、そうだこれ 園長[えんちょう]から 手紙[てがみ] 勝[か]ったら 渡[わた]すようにって		scene_18
+少年なら自らの力で、勝利を手にいれこの手紙を読んでくれていると信じている	Boy, if you're reading this letter, then you must've won. I know you earned it.	少年自力勝利手紙読信	少年[しょうねん]なら 自[みずか]らの 力[ちから]で、 勝利[しょうり]を 手[て]にいれこの 手紙[てがみ]を 読[よ]んでくれていると 信[しん]じている		scene_18
+ダインのことはエスト君から聞いた。少年が勝つことができたなら私の権限で、君の仲間の自由も約束しよう	I heard about Dyne from Ester. Now that you won, I'm granting you and your friends a full pardon, and setting you all free.	君聞少年勝私権限仲間自由約束	ダインのことはエスト 君[くん]から 聞[き]いた。 少年[しょうねん]が 勝[か]つことができたなら 私[わたし]の 権限[けんげん]で、 君[きみ]の 仲間[なかま]の 自由[じゆう]も 約束[やくそく]しよう		scene_18
+それと、おわびと言ってはなんだが、プレゼントを用意した。旅のやくにたててくれたまえ	And by way of apology, I have a little gift for you to use on your journey.	言用意旅	それと、おわびと 言[い]ってはなんだが、プレゼントを 用意[ようい]した。 旅[たび]のやくにたててくれたまえ		scene_18
+これでも、多忙な身の上。手紙という形でしつれいした。ではディオちゃん　より	Sorry I couldn't be there to tell you this in person, but I'm a very busy man. Sincerely, Dio	多忙身上手紙形	これでも、 多忙[たぼう]な 身の上[みのうえ]。 手紙[てがみ]という 形[かたち]でしつれいした。ではディオちゃん　より		scene_18
+プレゼント？	A gift?		プレゼント？		scene_18
+CLOUD！？　ね、すごいのよ！いまね、園長の使いとかいう人が来て『バギー』置いていったの	CLOUD, this is great!! The assistant manager just stopped by and dropped off a 'buggy'!	園長使人来置	CLOUD！？　ね、すごいのよ！いまね、 園長[えんちょう]の 使[つか]いとかいう 人[ひと]が 来[き]て『バギー』 置[お]いていったの		scene_18
+これがあれば『サバク』も『川』もラクラクよ	Now we can go over deserts' and 'rivers', no problem.	川	これがあれば『サバク』も『 川[かわ]』もラクラクよ		scene_18
+じゃ、CLOUD。外でまってるね	OK, CLOUD. I'll be waiting outside.	外	じゃ、 CLOUD。 外[そと]でまってるね		scene_18
+（ん？　手紙に続きがある）	(Hmm? The letter continues…)	手紙続	（ん？　 手紙[てがみ]に 続[つづ]きがある）		scene_18
+Ｐ．Ｓ．この間、私はセフィロスにあったぞ少年たちの年代では、彼のファンもいるだろう	P.S. I recently met Sephiroth. I'll bet he's pretty popular with boys your age.	間私少年代彼	Ｐ[ぴー]． Ｓ[えす]．この 間[かん]、 私[わたし]はセフィロスにあったぞ 少年[しょうねん]たちの 年代[ねんだい]では、 彼[かれ]のファンもいるだろう		scene_18
+サインでももらったらどうだ？彼は、ここから【南の川を越えてゴンガガエリア】に向かったようだぞ	Why don't you get his autograph? He was heading toward Gongaga, south of the river.	彼南川越向	サインでももらったらどうだ？ 彼[かれ]は、ここから【 南[みなみ]の 川[かわ]を 越[こ]えてゴンガガエリア】に 向[む]かったようだぞ		scene_18
+じゃあ、お別れね	I guess this is goodbye.	別	じゃあ、お 別[わか]れね		scene_18
+そうだ。いつか、自分のレースチョコボを持てるようになったらもう一度ここに来るといいわ	Yeah. Well, if you ever get your own Chocobo, come back again.	自分持一度来	そうだ。いつか、 自分[じぶん]のレースチョコボを 持[も]てるようになったらもう 一度[いちど]ここに 来[く]るといいわ		scene_18
+また私が、登録とかいろんなことして、あ・げ・るまた、会いましょうね	I'll take care of your registration and everything. I'll see you again.	私登録会	また 私[わたし]が、 登録[とうろく]とかいろんなことして、あ・げ・るまた、 会[あ]いましょうね		scene_18
+『ラムウ』のマテリアを手にいれた！	"Received ""Ramuh"" Materia!"	手	『ラムウ』のマテリアを 手[て]にいれた！		scene_18
