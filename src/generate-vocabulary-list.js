@@ -109,6 +109,7 @@ fs.readdir(inputFolder, async function(err, files){
 		let text = fs.readFileSync(inputFolder+file, "utf8");
 		let lines = text.split("\r\n");
 		let duplicateRoots = 0;
+		let sceneLookupRoots = [];
 		for(let i=0;i<lines.length;i++){
 			let line = lines[i];
 			let split = line.split("\t");
@@ -119,11 +120,11 @@ fs.readdir(inputFolder, async function(err, files){
 				let token = tokens[j];
 				if(!token.root) continue; // fake words?
 				if(!tokenIsBasic(token)) continue; // not a verb, noun, adjective, or adverb
-				if(lookupRoots.contains(token.root)) { duplicateRoots++; continue; } // ignore past searches
+				if(sceneLookupRoots.contains(token.root)) { duplicateRoots++; continue; } // ignore past searches
 				// i actually think I should remove this, since it could be necessary
 				// to disambiguate 2 words with the same root. but removing this
 				// makes the files too big. too much extra work. no thanks.
-				lookupRoots.push(token.root);
+				sceneLookupRoots.push(token.root);
 				let search = lookup(`${token.root}`);
 				if(!search.length) continue;
 				let definitions = [];
