@@ -63,6 +63,36 @@ function getTitle(name){
 }
 
 console.log("");
+// generate scene quality control files
+{
+	// local consts
+	const inputDir = "../anki/scene/";
+	const outputDir = "../anki/scene-qc/";
+	let kanjiRule = /([\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A])/g;
+
+	// save all lines for combination
+	let combined = [];
+
+	console.log("Selecting quality control lines for Anki scene import files.");
+	let files = fs.readdirSync(inputDir);
+	for(let file of files){
+		if(file==="combined.txt") continue; // we don't need to qc the combined file
+		if(file.indexOf(".txt") === -1) continue;
+		let noext = file.substring(0,file.length-4);
+		let num = new Number(noext.substring(0,2));
+		let name = noext.substring("00 - ".length);
+		let data = fs.readFileSync(inputDir+file, "utf8");
+
+		// split lines
+		let lines = data.split("\r\n");
+		let chosen = [];
+		for(let i=0;i<lines.length;i+=4) chosen.push(lines[i]);
+		fs.writeFileSync(outputDir+file, chosen.join("\r\n"), "utf8");
+		if(verbose) console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET}`);
+	}
+}
+
+console.log("");
 // generate misc. text import files
 {
 	// local consts

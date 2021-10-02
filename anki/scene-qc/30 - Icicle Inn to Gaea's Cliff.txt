@@ -1,0 +1,96 @@
+アイシクルロッジ	Icicle Inn		scene_30
+まっ、まて！ よける じっとしている イリーナ	Wa…wait! Get out of the way Stay put Elena		scene_30
+ヒ・ミ・ツ	It's a SE-CR-ET.		scene_30
+口で言ってもムダなんだったら体に聞いてもらおうじゃないの！	Looks like just talking won't do. You're going to have to feel some pain!	口言体聞	scene_30
+どうせ、あの大氷河を越えられるはずがないわ	There's no way they can climb the Great Glacier anyway.	大氷河越	scene_30
+えっ？　ええ……	What?  Yeah…		scene_30
+悪く思うな、これも仕事なんだ	Don't be angry. I'm just doing my job.	悪思仕事	scene_30
+イッ、イリーナさん！？	Ele…Elena!?		scene_30
+それでも行く	I'm still going	行	scene_30
+いやいや。当然のことをしたまでさ	No, no. I just did what came natural.	当然	scene_30
+えんりょする	No thanks		scene_30
+わかんねぇヤツだな……ケガしてもしらねぇぜ	All right, fat-head… But don't blame me if you get hurt.		scene_30
+気を付けろよ！	Be careful!	気付	scene_30
+この村に引っ越してきていきなり、黒マントの男が北に向かうのを見たんだ	When I first moved here, I saw a man with a black cape heading North.	村引越黒男北向見	scene_30
+次はスノボーにちょうせんするんだ！	I'm gonna try snowboarding after this!	次	scene_30
+お山さんが泣いているんだね、きっと。どこか、ケガしてるのかな？	The mountain must be crying. Is it hurt?	山泣	scene_30
+パンチをかわせ！	Dodge that punch!		scene_30
+【方向キーの左】　左移動	Directional button [left] Move left	方向左移動	scene_30
+×ボタン　　ジャンプ	[CANCEL]Jump		scene_30
+おにいちゃんにスノーボードをあげるよ	Hey, I'll give you my snowboard.		scene_30
+あの子ったら、引っ越してすぐにケガしちゃうんだから……	My boy got hurt right about the time we moved here…	子引越	scene_30
+また、引っ越ししなくちゃ……でも、何から手をつけていいのやら？	I have to move again… I don't know where to start.	引越何手	scene_30
+この家のおじぃさんは登山家だそうなの	The master is an experienced climber, you know.	家登山	scene_30
+ついつい、イイ気持ちになってね	I just get SO comfortable.	気持	scene_30
+南方の島にお医者さんがいるそうなんだけどこの町にも来てくれんかねぇ……ゴホゴホ	I heard there's a doctor on a Southern island somewhere. I sure wish he'd come here…cough…cough…	南方島医者町来	scene_30
+オレは、あの坂をスキーで挑戦してみようと思ってるんだ	I'm thinkin' 'bout taking that hill on my skis.	坂挑戦思	scene_30
+地図を見る	Look at the Map	地図見	scene_30
+目うつりするほどイイものがそろっているゾイ！	You'll have a hard time selecting from all the good things we have!	目	scene_30
+２００ギルだが、泊まっていくかい？	It's 200 gil , you wanna spend the night?	泊	scene_30
+この村の先に超デンジャラスな坂があるらしいんだけどさすべらせてくれないんだ	You heard about the gnarly hill in this town? They tell me it's off limits!	村先超坂	scene_30
+パブ	Icicle Inn Bar		scene_30
+セトラって知ってるか？	Do you know what a Cetra is?	知	scene_30
+こうも、おかしな事が続くとみんなが町を出ようとする気もわかるような気がするよ……	With all the strange things happening in the world, I kinda understand why people want to leave…	事続町出気	scene_30
+おれたちも早くこの町を出た方がいいかもしれんな	Maybe we'd better leave town soon too.	早町出方	scene_30
+バカだよな、あの温泉にでもつかりに行くつもりなのかな？	What an idiot. Is he thinkin' 'bout going to that hot spring?	温泉行	scene_30
+そのつもりだ	That's my plan		scene_30
+そうかそうか。ま、何もないところだけどゆっくりしていきな	Yeah, we really don't have anything here, but make yourself at home.	何	scene_30
+いらっしゃ～い！あなたって強そ～	Welcome! You look like a STRONG one…	強	scene_30
+へぇ～、そぉなの？	Oh yeah?		scene_30
+入ってま～す	I'm still in here! All right!?	入	scene_30
+ウェポンとは？	What is "Weapon?"		scene_30
+娘の記録・生後２０日め	Daughter's Record: 20th Day after birth	娘記録生後日	scene_30
+古代種、いやセトラは星を治す特別な力を持っているのですか？	Do the Ancients, rather, the Cetra, have special powers to heal the Planet?	古代種星治特別力持	scene_30
+顔色があまりよくない……今日はこれで終わりにしましょう	You don't look well… Let's call it a day.	顔色今日終	scene_30
+ノルズボルとは、このあたりのことです。そしてセトラたちは、星読みを始めました	Knowlespole refers to this area. The Cetra then began a Planet-reading.	星読始	scene_30
+でも、その傷はあまりにも深く星自身が長い年月をかけて治す他はなかったのです	But, due to the severity of the wound, it was only able to heal itself over many years.	傷深星自身長年月治他	scene_30
+星はセトラにノルズポルから離れるようにすすめたそうです…でも	The Planet tried to persuade the Cetra to leave the Knowlespole, but…	星離	scene_30
+その時、そのものは現れたのです！その姿は、亡き母の…亡き兄のものでした。それぞれに過去の幻影を見せるのです	That's when it appeared!	時現姿亡母兄過去幻影見	scene_30
+では、ウェポンとは星の意志が生みだした兵器ということですか？	It approached other Cetra clans… and infected them with…the virus.	星意志生兵器	scene_30
+はい、博士	Where is Weapon?	博士	scene_30
+ウェポンが消えることはありません。…この星のどこかで眠っているのです	A small number of the surviving Cetra defeated Jenova and confined it.	消星眠	scene_30
+その空から来た厄災を滅ぼすことを星が意識しはじめました……	Times…have changed. The Planet…is probably watching this situation closely.	空来厄災滅星意識	scene_30
+………そう言わないでくださいよ	Even though Jenova is confined, it could come back to life at some time…	言	scene_30
+ア、アナタとAERISはワタシの宝なんです。何があってもはなしません！！	Don't you want to capture her childhood on videotape?	宝何	scene_30
+宝条くん……どうしてここが？	Damn!!	宝条	scene_30
+イファルナ！	That's it! I'm severing all ties with the Shinra.		scene_30
+そんなにカワイがってばかりじゃ強い子に育たないかもしれない……	Ifalna! Take AERIS and run!!	強子育	scene_30
+クスクス……ええ、そうね	I feel so much better now, darling.		scene_30
+おねがいAERISは、関係ないわ！わたしさえいれば、いいんでしょ？	Who the devil?	関係	scene_30
+いやぁ、骨をおりました。あなたたちが、ここにいることぐらいとうにわかってたんですよ	Heh, heh, heh I've been searching for you, Ifalna… or should I say, Cetra!	骨	scene_30
+ガスト博士、わかってくれますよね。この星の運命を変えることができるんですよ！	Hmm, AERIS? What a nice name. Ha, ha, ha.	博士星運命変	scene_30
+な、なにをするんだ博士！？	Mmm? What a funny looking camera. Guard! Destroy it!	博士	scene_30
+あっ、ビデオをとろうと思っているんですよ	Heh, heh, heh…a mountain of treasure! Thank you Professor…Ha, ha, ha	思	scene_30
+でしょ！？あっ、ビデオのテープがっ…………	I've already decided! If it's a girl, then it'll be AERIS. That's that!		scene_30
+もう、それならビデオより先にこの子の名前を決めなくちゃ！	What are you going to tape? Is there still something I haven't mentioned?	先子名前決	scene_30
+なんとか、飛び越したようだな	I guess we're still in one piece.	飛越	scene_30
+も～、イヤ	I'm sick of this.		scene_30
+ああ、大丈夫だ	Yeah, I'm all right.	大丈夫	scene_30
+まったく、ジャンプをできなかったようだ……	In fact, it feels like we didn't even jump at all…		scene_30
+ねえねえ。□ボタンで地図、見ようよ	Hey. Let's take a look at the map. Press [SWITCH].	地図見	scene_30
+ほな、地図でも見よか。ええからはよひろげぇな。□ボタンや	Then, let's look at the map. Just push [SWITCH].	地図見	scene_30
+ここだけ凍っていないな	This is the only place not frozen.	凍	scene_30
+かまわないでください	Don't worry about me.		scene_30
+いいかげんにしてください	Please, that's enough.		scene_30
+あら、こりてないのかしら	Still don't get it, eh?		scene_30
+しかたがないな	That's the way it goes…		scene_30
+なんだかマズそうだな	Looks like trouble.		scene_30
+オオッ、これは珍しい！！	Now, this is a surprise!!	珍	scene_30
+立ち話もなんだから向こうの部屋に行こう	Why don't we go to the next room and sit down.	立話向部屋行	scene_30
+むちゃをしてはいけないぞ	Don't overdo it.		scene_30
+これから先、北に向かうつもりならわたしの話を聞いていきなさい	If you are planning to head north, you'd better listen to me.	先北向話聞	scene_30
+【決定ボタン】　　登山ルートの確認	[OK]Confirm route.	決定登山確認	scene_30
+わたしと友人ヤマスキーが初めて絶壁に挑んだのは３０年前のことだ	The first time my friend Yamski and I tried to climb the cliff was 30 years ago.	友人初絶壁挑年前	scene_30
+しかし、わたしらは無知すぎた。ある程度の寒さは予想していたが……	But, we weren't prepared for it. We never dreamed the temperature would be so low…	無知程度寒予想	scene_30
+以来わたしは、この地に移り絶壁に挑みつづけ、同じ仲間に注意と、ほんの少しの休息を提供しているんだよ	I've lived here ever since… challenging the cliff and providing warning and shelter to my fellow climbers.	以来地移絶壁挑同仲間注意少休息提供	scene_30
+わかったかい？	Understand?		scene_30
+俺たちがルートを確保する。あとから来てくれ	We'll secure the route. You come up later.	俺確保来	scene_30
+こんなところに住めって言われたらオレは、迷わずカンベンしてくれって答えるぜ……	But, if anyone ever told me to live here, I'd tell them to…well, you know…	住言迷答	scene_30
+うぉぉぉおおお！！	Uuuuuurrrrrgh!!		scene_30
+もちろん敵なんかじゃねえけどよ。なんつうか、人間なんか相手にしてねえっつうか……	Of course we can't even compete. I mean… The Planet don't even notice us humans…	敵人間相手	scene_30
+クッソ～ィ！空を飛べればよ、絶壁なんてヒュ～～ッなのによっ！	Damn! If I was back in the air, this cliff would be nothing!	空飛絶壁	scene_30
+メンバーチェンジしますか？	Change members?		scene_30
+絶壁内部	Inside of Gaea's Cliff	絶壁内部	scene_30
+落とす	Push	落	scene_30
+右に進む	Go right	右進	scene_30
+左に進む	Go left	左進	scene_30
