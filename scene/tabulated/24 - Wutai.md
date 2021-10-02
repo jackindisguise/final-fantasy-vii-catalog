@@ -333,372 +333,371 @@
 | 331 | If you give it back now, we'll drop the whole thing. | マテリアさえ返してくれればそれ以上おまえを責めるようなことはしない |
 | 332 | I'm sorry, YUFFIE. I know how you feel, but we need Materia, too. | ごめんなさいね、YUFFIE。あなたのキモチはわかるけど私たちにもマテリアは必要なの |
 | 333 | …We just can't let you have it. Please understand. | ……このままあなたにあげてしまうことはできないのよ。わかってちょうだい |
-| 334 | YUFFIE | CID |
-| 335 | Dammit, YUFFIE. We ain't got time to be listening to your life story. | ……ケッ、YUFFIEよ。おめえの身の上話をきいてるヒマは、こっちにゃねえよ |
-| 336 | If you want Materia, get it yourself. That's how you should do it. | マテリアが欲しかったらてめえの力で手に入れな。それがスジってもんだ |
-| 337 | I know. I know that… | わかってる。そんなのアタシだってわかってるよ…… |
-| 338 | That…sniff…switch… the lever on the left…… Materia's…sniff, hic…in there. | そこにヒック……スイッチ……左のレバー……マテリア、ヒック……かくして…… |
-| 339 | Don't make a mistake. The left lever… | まちがえないで。左のレバーを…… |
-| 340 | I'm sorry, but…… | かわいそう、だけど…… |
-| 341 | Ain't nuthin' we can do about it… | ま、しかたねえよな…… |
-| 342 | Now, the Materia… | さあ、マテリアを…… |
-| 343 | Were we a little too harsh on her? | ちょっと言い過ぎたかな…… |
-| 344 | Well, let's get our Materia back. | まぁ、とりあえずはマテリア、返してもらいましょ |
-| 345 | Hmmph… I dunno. | ケッ……オレ様は知らねえよ |
-| 346 | There was nothing else to do. | やむをえないな |
-| 347 | Wh…what the hell is this? | な、なんだコリャ！？ |
-| 348 | Wh, what are you doing? | な、何するんだ！？ |
-| 349 | Wh, what is this? | な、なんやねんなコレ！？ |
-| 350 | Whoa! | オオッ！？ |
-| 351 | !? | ！？ |
-| 352 | Ha, ha--! You should've listened!! | ハッハッハーッ！人の言うことは聞いとくもんだってこと！！ |
-| 353 | Ha, ha, ha--! Never trust anyone that easily!! | ハッハッハーッ！そうかんたんに人を信用するなってこと！！ |
-| 354 | The Materia's mine! Tough! | マテリアはアタシのもの！ざんねんでした！ |
-| 355 | You want your Materia? Then go find it yourself! | マテリア取りかえしたかったら自分たちでさがしてみれば？ |
-| 356 | Yeah that's right. And when you're looking for the Materia, remember you gotta steel it. | そう、マテリアを見つけるにはカネにものを言わせなきゃ |
-| 357 | Heh heh… Steel…steel! Get it? | エヘヘ……カネだよ、カネ。わっかるー？ |
-| 358 | C'ya!! | じゃ～ね～！ |
-| 359 | Y, yo, wait up!! | お、おい、助けてくれよ！ |
-| 360 | Wait, don't leave us! | ね、おいてかないで！ |
-| 361 | W..wait, don't leave us here! | ちょ、ちょっとおいてかないでよ！ |
-| 362 | Help us first! | 先にオイラたちを助けてよ～！ |
-| 363 | Hey, help us…please! | 先に、こっちを助けて～なぁ～！ |
-| 364 | Hey! Help me first! | おい！オレ様を助けるのが先だろうが！ |
-| 365 | Wait, don't go by yourself! | 待て、ひとりで追うな！ |
-| 366 | Flip the Left Lever | 左のレバーをさげる |
-| 367 | Flip the Right Lever | 右のレバーをさげる |
-| 368 | No. 6 | ナンバー６ |
-| 369 | Drink at the "Turtle's Paradise" and talk about Wutai! To find "Turtle's Paradise", look for the big pot outside!! | 『かめ道楽』で飲まずしてウータイを語るなかれ！居酒屋『かめ道楽』はでっかいツボが目印です！！ |
-| 370 | Hidden Room | かくし部屋 |
-| 371 | Let go! I SAID let GO! | 離せよ！　離せってば！ちょっと、イタ、イタタタタ！ |
-| 372 | Hey! Who do you think I… OW! What're you doin'? Jerk! | コラ、アタシをだれだと……あーっ！　何すんだよー！ |
-| 373 | You! | おまえは……！ |
-| 374 | Oh! You're… | あっ！　あなたは……！ |
-| 375 | Ww, who are you!? | な、なんだテメエは！？ |
-| 376 | …ho… …ho… | ……ほ………………ほ…… |
-| 377 | Hohi, hohi! Hohihi! | ほひ、ほひ！ほひひ～～～！！ |
-| 378 | Corneo!? | コルネオ！？ |
-| 379 | Don Corneo!? | ドン・コルネオ！？ |
-| 380 | The hell are you doing! | テメエ、何してやがる！ |
-| 381 | I've finally got a new chicky! | やっと新しいおなごが手にはいったぞ～！ |
-| 382 | Two for one, in fact! Heh, heh! | いちどにふたりも！ほひ～ほひ～！ |
-| 383 | Two!? | ふたり！？ |
-| 384 | Two!? | ふたりだと！？ |
-| 385 | H…hey! Let go of me! You're gonna regret this!! | コ……コラ、離しなさい！後でこうかいするわよ！！ |
-| 386 | Received "Swift Bolt"! | 『雷迅』を手にいれた！ |
-| 387 | There he is! It's Corneo! Don't let him get away! | いたぞ、ヤツだ！コルネオだ！絶対に逃がすな！ |
-| 388 | Attaaaack! | 突撃ーーーッ！！ |
-| 389 | Num, num… | ムニャムニャムニャ…… |
-| 390 | Help me. Help me. Help me… | どうかお助けください。どうかお助けください。どうかお助けください…… |
-| 391 | Num, num… I hope Meteor doesn't fall anywhere around here… | ムニャムニャムニャ……あの星がこのあたりに落ちてきませんように…… |
-| 392 | Oh, Great Da-chao… Please grant us your strength… | あ～ダチャオ様……今こそあなたのお力を…… |
-| 393 | He's in the pagoda next to Lord Godo. Lord Godo says we're stuck… | ゴドー様はとなりにある五強の塔にこもりっきりじゃ。ゴドー様でもあんなものはどうにもならんて…… |
-| 394 | Wutai‚Da-chao Statue | ウータイ　ダチャオ像 |
-| 395 | Wutai‚Godo's Pagoda | ウータイ　五強の塔 |
-| 396 | You're finally here. We're gonna split up. | やっと来たな。俺たちは二手に別れるぞ、と |
-| 397 | You do whatever you want. But don't endanger Elena. | お前たちは、勝手に行動しろ。ただし、イリーナに危害は加えるなよ、と |
-| 398 | Don't worry. We won't do anything to that girl, YUFFIE. | 心配するな。俺たちも、YUFFIEとかいう小娘には何もしやしない、と |
-| 399 | For now… | 今のところはな、と |
-| 400 | Stop fooling around. The enemy's not gonna wait for us, you know! | チンタラやってるヒマはねえ。敵さんは待っちゃくれないぜ、と |
-| 401 | You all thought they might be here too, huh?  We were way off. | お前たちも、ここがクサイと思ったか。あいにく、大ハズレ、と |
-| 402 | There's no way they could get this far. | そんなに遠くへは行けないはずだぜ、と |
-| 403 | Can't go through here… That flame would fry me in an instant. | これは無理だな。この炎じゃ、あっという間に黒コゲだ |
-| 404 | Eyaaaah! | キャアッ！ |
-| 405 | There is no way past this! | とてもじゃないけど進めないわ！ |
-| 406 | Damn, that's hot! | うあっちい！ |
-| 407 | I like hot baths, but this is TOO hot! | フロは熱いにかぎるがこいつは、ちいとばかり熱すぎんぜ！ |
-| 408 | "The Scale of the Sea God" shines! | 『水神様のうろこ』がきらめいた！ |
-| 409 | LET…ME……GO!!!! | は～な～せ～よ～！ |
-| 410 | Hmm! Delicious…scrumptious! I think I've just found a new HOBBY! | ほひ～！いいの～、いいの～！新たなシュミになりそ～じゃの～！ |
-| 411 | Which shall it be? Hmm…Hmm… | どっちのおなごにしようかな？ほひ～ほひ～！ |
-| 412 | He…hey, I'm a 'Turk'! Don't think you can get away with this!! | あ、あんた、私はタークスよ！こんな事をしてすむと思ってるの！？ |
-| 413 | Oh GAWD! If I knew this was gonna happen, I would've taken those rope lessons more seriously!! | あ～ッ！こんなことなら、ナワ抜けの修行マジにやっとくんだったよ～！ |
-| 414 | Hmm!!! I've made my choice! My companion for the night will be… | ほひ～！！決めた決～めた！今夜の相手は…… |
-| 415 | GROSS-NESS! | ゲゲッ！ |
-| 416 | Don't mess with me old man! You don't even have any Materia! | ざけんな、ジジイ～！マテリアも持ってないクセによ！ |
-| 417 | Oooooh! And she's saucy, too! Wheee! Wheee! | ほひ～！そのこばむしぐさがういの～、うぶいの～ |
-| 418 | All right, that's it!! | そこまでだ！ |
-| 419 | Hold it right there! | 待ちなさい！ |
-| 420 | Hey, hey, hey! That's as far as you go! | おうおうおう！そのヘンにしときな！ |
-| 421 | Oh man! CLOUD……! | ゲッ！CLOUD……！ |
-| 422 | Oh man! TIFA……! | ゲッ！TIFA……！ |
-| 423 | Oh man! That old fart, CID! | ゲッ！CIDのオヤジ……！ |
-| 424 | Wheeel…long time no see. | ほひひ、ひさしぶりだな |
-| 425 | Don't tell me you forgot… | 忘れたとは言わせないぞ |
-| 426 | That fall into the trap really hurt! | 痛かったんだから！あの落とし穴……！ |
-| 427 | You just don't get it, do you…!? | こりない人ねこんなマネして……！ |
-| 428 | Hmm…Who are you guys!? | ほひひ、なんだ、お前たちは！？ |
-| 429 | Maybe God'd forgive an ugly ^#@# like you, but I won't! | てめーみてえな、ゲスやろう神さんが許しても、このオレ様が許さねえ！ |
-| 430 |  You damn Midgar hyena…! | このミッドガルのハイエナ野郎……！ |
-| 431 | Hurry and let the two go! | 早くふたりを放せ！ |
-| 432 | I don't care what you're doing, so much as the idiotic way you're doing it… | どうでもいいが、やり方がスマートではないな…… |
-| 433 | Listen you stupid, slimy, sleazy old scab bag! If you want to get women, there's such a thing as the RIGHT way! | オッサン女にもてたいんやったらやり方ちゅうもんがあるやろ |
-| 434 | Be quiet! None of you know how much I've suffered since then… | だまらっしゃ～い！あれから、俺がどんなに苦労したかお前らにはわかるまい…… |
-| 435 | It's a long story, but…… | そう、話せば長くなるけれど…… |
-| 436 | We don't want to hear it! Just let them go! | 話さなくていーの！早くふたりを降ろしなさい！ |
-| 437 | I don't really give a damn! You're gonna let them go, or else I'm gonna break your arm! | んなこた、どーでもいーんだよ！ネエちゃんたちを、返してもらうぜ。腕ずくでもな！ |
-| 438 | I don't really care! Let YUFFIE and Elena go! | 興味ないね！YUFFIEたちを、返せ！ |
-| 439 | Hmm…You guys are serious. …Good, good. | ほひ……おまえら……本気だな。……えらいえらい |
-| 440 | Why did you kill my little Aps? | あの時は俺の可愛いアプスをよくも殺ってくれたな…… |
-| 441 | I'm gonna make you PLAY with my new pet, so you won't interfere in my search for a bride! | これ以上、俺の花ヨメ探しのジャマをさせんためにも、俺の新しいペットと遊んでもらうぜ！ |
-| 442 | RAPPS---come here!! | ラプス　カムヒア！！ |
-| 443 | Wait… | ちょ…… |
-| 444 | You better say your prayers! | さあ、かんねんしなさい！ |
-| 445 | Don't be such a poor loser, old man! | おうじょうぎわが、わりーぜ！とっつぁん！！ |
-| 446 | Why do you think a bad guy like me would swallow his pride and plead for his life? | 俺たちみたいな悪堂がこうやってプライドをすててまで命ごいするのは、どんなときだと思う？ |
-| 447 | Eyaaaah… | キャアーッ！ |
-| 448 | It makes me so MAD! | あ、頭に血がのぼる～ッ！ |
-| 449 | Once I push this button, they'll fall and we'll have SQUASHED TOMATOES! | このスイッチを押すと、このまま下に真っ逆さま……つぶれたトマトのでき上がり！ |
-| 450 | Damn! | クッ……！ |
-| 451 | Coward! | ひきょうよ！ |
-| 452 | So this is how a loser lives! | この、クサレ外道が……！ |
-| 453 | Damn tricky $#%@&T$*^%$ ! | きったねえ手使いやがって……！ |
-| 454 | All right… | わ、わかった…… |
-| 455 | Grrrrrgh… | グルル……！ |
-| 456 | You sure are vulgar! | えぐいことすんの～！ |
-| 457 | ……! | ……！ |
-| 458 | Now, give me your women too! | では、そっちのおなごもわたしてもらおうか！ |
-| 459 | Ha, ha, ha, ha! I guess I have the last laugh! | ほっひっひっひ！最後に笑うのは、俺だったな！ |
-| 460 | No, that would be us. | いや、俺たちだ、と |
-| 461 | …The Turks! | タ、タークス！ |
-| 462 | You knew this was gonna happen ever since you leaked that secret. | お前が秘密をもらした時から決まっていたのだ |
-| 463 | We're going to take care of you… personally. | 俺たちの手でほうむり去られるとな、と |
-| 464 | DAMMIT! Then they're all comin' with me! | え、ええ～い！こうなれば、道づれだ！ |
-| 465 | Ugh…! | グワッ……！ |
-| 466 | Good timing, Rude. | いいタイミングだぜ。ルード、と |
-| 467 | …Let's get to work. | ……仕事だ |
-| 468 | All right, Corneo. This'll be over quick, so listen up. | さーて、コルネオさんよ。すぐ終わるから聞いてくれ、と |
-| 469 | Why do you think we went to all the trouble of teaming up with those guys to get you…? | 俺たちが、ヤツらと組んでまできさまを追いつめるのはなぜだと思う……？、と |
-| 470 | Two…Number two? | ２……２番ですか？ |
-| 471 | All wrong. | どれも不正解、と |
-| 472 | No! Wait, st… | や！　やめ……！ |
-| 473 | Aaaaaaaaaa……p | ほひいいいぃぃぃぃぃ…… |
-| 474 | The correct answer was… | 正解は、と |
-| 475 | …because it's our job. | ……仕事だからだ |
-| 476 | Oh, thank you very much…! | あ、ありがとうございます。先輩……！ |
-| 477 | I never thought you'd come… | まさか、助けに来てくれるなんて…… |
-| 478 | Elena, don't act so weak. | イリーナ。あまえるなよ、と |
-| 479 | You're a Turk! | お前もタークスの一員なんだぜ、と |
-| 480 | Y…Yes, sir! | は……はい！ |
-| 481 | Th…Thanks. | あ……ありがとう |
-| 482 | Thanks for your help. | ありがと、助かっちゃった |
-| 483 | I uh, thanks for today. | ともかく、今日んとこは礼を言うぜ |
-| 484 | Never thought you'd ever help us… | お前らに救われるとはな…… |
-| 485 | You guys have some good in you. | あんたらもええトコあるやないか |
-| 486 | It would appear thanks are in order… | 礼を言わねばならないのか…… |
-| 487 | I'll just say you…helped. | 助かった……と言っておくよ |
-| 488 | Yes…this is Reno. | はい……レノです、と |
-| 489 | Yes…Yes… I'll get on it right away. | はい……はい……ただちに、かかります、と |
-| 490 | Was that the company? | か、会社からですか？先輩…… |
-| 491 | Yeah, they want us to find CLOUD… | そう、CLOUDたちを探せとな、と…… |
-| 492 | Are we on? | 仕事か……？ |
-| 493 | No, today's our day off. | いや、今日は非番だ、と |
-| 494 | Hey---who cares about that!? Get----me-----down----! | ど～でもい～けどお～ろ～し～て～～ッ！ |
-| 495 | Freeze! | 待たれいッ！ |
-| 496 | You aren't from Wutai, are you? | それがしたち、ウータイの者ではござらぬな？ |
-| 497 | Only those from Wutai may enter the tower! | ウータイの者でなければこの塔に立ち入る事まかりならんッ！ |
-| 498 | I'll have to ask for you to leave! | お引き取りいただこう！ |
-| 499 | Hey! I can't stand liars! Leave this tower at once! | ええい！　正体をいつわるとはふとどきせんばん！即刻この塔から出ていかれよ！ |
-| 500 | Oh, Miss YUFFIE! Will you be climbing the pagoda today? | おお、YUFFIE様！この五強の塔を登られる気になられたのですな？ |
-| 501 | Yeah | ま、そんなトコかな |
-| 502 | No way! | ま～さか～！ |
-| 503 | Then I, Sacred Gorky, will be your opponent on the first floor! | では、この１階の相手はこの力の強聖ゴーリキーがつとめさせていただきます！ |
-| 504 | Miss YUFFIE! You cannot go on to the second floor unless you defeat me! | YUFFIE様！私を倒さねば、２階に上がる事まかりなりませんぞ！ |
-| 505 | Yo! They call me Shake! I'll be watchin' your fight with Gorky! | いよ！　オラ、シェイクってんだ！ゴーリキーと、あんたの手合わせはオラが見届けさしてもらうよ！ |
-| 506 | Gorky | ゴーリキー |
-| 507 | Then, begin! | では、参る！ |
-| 508 | Power Change! | 力変化招来！ |
-| 509 | Here I am, Miss YUFFIE! | 参りましたぞ、YUFFIE様！ |
-| 510 | Shake | シェイク |
-| 511 | Hmm, I thought you were just a girl, but you handled that pretty good! | へー、ただのはねッ返り娘かと思ってたけど、その程度は出来んじゃん！ |
-| 512 | Let's see how you do on next one… | ま、次はどーかな？ |
-| 513 | In my opinion, you need more training! Gorky is disappointed! | お言葉ですが、修行が足りませんぞ！このゴーリキー、がっかりしましたぞ！ |
-| 514 | No good! You have to beat Gorky! Are you mocking this Pagoda? | だ～めだって！ゴーリキーをやらなきゃ！五強の塔、ナメてんじゃない？ |
-| 515 | Of course! | と～ぜ～ん！ |
-| 516 | Shut up! Shut up! SHADDUP! | るさい！　るさい！　るさ～い！ |
-| 517 | Who's next? | 次は誰よ？ |
-| 518 | Are you blind? I'm right here! | あんたの目はふし穴か？ここに、いんじゃん！ |
-| 519 | What? I gotta fight a punk? | は～？ガキが相手～？ |
-| 520 | Heh! Punk. I'm more of an adult than some bimbo girl! | ヘン、何を言うかね！どこぞのバカ娘よりはオラの方が、よっぽど大人よ！ |
-| 521 | Wh, what did you say!? | な、なんだって～！？ |
-| 522 | See what I mean? That kind of anger's what makes you so immature! | ヘッヘ！　そうやってムキになるのがガキたるゆえんよ！ |
-| 523 | Don't pat yourself on the back until you beat me! | のうがきは、速の強聖のオラに勝ってからにしな！ |
-| 524 | Now watch…! | 見てなよ……！ |
-| 525 | 'bout the only thing you do really good is breathe! Are you sure you wanna fight? | ハナいきだけは一人前だね！ホントにやる根性あんの？ |
-| 526 | Stop yappin'! | おしゃべりは、もういい！ |
-| 527 | I'll forgive you | 許してやるよ |
-| 528 | Hm, so someone finally got past Gorky. | ほう、ついにゴーリキーを倒した者が出たようじゃの |
-| 529 | I guess it's Chekhov's turn… | では、このチェホフが立ち合いましょうぞ…… |
-| 530 | Here I go, brat! Speed Change! | 行くぜ、ガキんちょ！速変化招来！ |
-| 531 | URRGRAAAAGH! So you CAN fight a bit! | うわっちゃ～！ちったーやるみたいじゃん！ |
-| 532 | HYAAAAAAH! BRATBRATBRATBRAT!! | ひゃ～っはっは！ガキガキガキガキ～！ |
-| 533 | You don't belong here! This is the Wutai Temple of Martial Arts! | あんたらじゃダ～メ！ここはウータイ武闘術五強聖の塔だぜ！ |
-| 534 | Hey, you there! Don't ignore me! | コラコラ、そこの～！オラをムシすんなって！ |
-| 535 | So you're just talk after all. Brat! | あ～らら、いざとなると口だけなんて、ガキもガキ大～ガキ～！ |
-| 536 | Chekhov | チェホフ |
-| 537 | You can't go to the next floor unless you beat Shake. | シェイクを倒さずして階上に上がることあいなりませんぞ…… |
-| 538 | Ho, ho, ho… It's been a while since I felt pain… | ホッホッホ……ひさかたぶりに、うずきますぞ…… |
-| 539 | So even Shake's been defeated. It's been a while since you had to fight, eh Chekhov? | なんとシェイクまで、敗れたか。チェホフ、そなたの出番もひさしぶりだな |
-| 540 | Unfortunately, this is as far as it goes.  Staniv, you watch over there. | 残念ながら、わらわでおしまいじゃ。スタニフ、そなたは、そこで見ているがいい |
-| 541 | That ain't going to happen! I'll teach you about the strength of youth! | そんなワケにはいかないのよね～！若さが強さってとこ教えたげるよ |
-| 542 | Keep mouthing off like that, little girl, and you're going to get burned. | 小娘が、いきがっておるとやけどくらいですまぬぞえ |
-| 543 | I got insurance. | あいにく火遊びは大好きなの |
-| 544 | Let's get this over, ya' old geez. | オバさんは相手にしてらんない |
-| 545 | Ho, ho, ho. We'll see if you still talk like that after you taste some of my Sacred Magic… | ホッホッホ。魔の強聖のわらわと試合った後でも、そのへらず口きけるといいが…… |
-| 546 | Ho, ho, ho. What do you expect from a child barely out of diapers!? | ホッホホ。ケツの青い小娘ならではのへらず口だこと |
-| 547 | Magic Change! | 魔変化招来！ |
-| 548 | I can't believe…you beat me. | わ、わらわの術を破るとは…… |
-| 549 | Staniv | スタニフ |
-| 550 | This should be interesting! It's been too long since I've had a chance to use my full power… | 面白い……！ひさびさに我が腕、ぞんぶんにふるえそうだな…… |
-| 551 | Ho, ho, ho! What does a immature child know…? | ホッホッホ！年はもいかぬ子娘に何がわかろうて…… |
-| 552 | This is the average person's limit? | やはり常人では、ここまでが限度か…… |
-| 553 | That being the case, we have nothing further to discuss. | そなたらでは、話にならぬぞえ |
-| 554 | How dare they mock us, thinking they could sneak past us. | ここを素通りしようとはわらわも、なめられたものよ |
-| 555 | First, Chekhov will keep you company… | まずは、そちらのチェホフがお相手いたす…… |
-| 556 | So you're here… | 来ましたな…… |
-| 557 | Huh? Who am I supposed to beat? | あれ？　立ち合い人ってのは？ |
-| 558 | HAAAAH! | はあーッ！ |
-| 559 | The rule is the best fighter on each floor will be your opponent… This is a five-storied pagoda,but the fourth floor is the highest… | ここ、４階までは階上の者が立ち合うのが、ならわし……。しかし、ここは五強の塔４階にして最上階の意味を持つ…… |
-| 560 | In other words, no one has ever defeated me--Master of Weaponry! | すなわち！武の強聖の、私を敗った者はかつてないということだ |
-| 561 | You still want to try…? | それでも、戦うかね……？ |
-| 562 | Just come on!! | もっちろん！ |
-| 563 | I'll pass! | パス、パ～ス！ |
-| 564 | I like you! Now watch… | 気にいった！見るがいい…… |
-| 565 | Weapon Change! | 武変化招来！ |
-| 566 | How unfortunate! It was over before I could even put all my strength into it… | 無念！今回も力をすべて出せずに終わってしまった…… |
-| 567 | Wh, what…!? | な、何だと……！？ |
-| 568 | Splendid! You have definitely improved… | お見事！かくも腕を上げられたとは…… |
-| 569 | Oh, ho! You might not be as much of a child as we thought you were! | おっほ！思ったよりガキじゃないみたいじゃん！ |
-| 570 | Of course. If WE lost to her… | 当然であろう。わらわが敗れた者なれば…… |
-| 571 | You have defeated four of our best, but now you will have to face HIM! | 最上階の立ち合いは我ら４人！あの方と相まみえていただきましょうぞ……！ |
-| 572 | If it were not for Miss YUFFIE, I wouldn't be facing him… | YUFFIE殿でなければ私が相まみえるわけには参りませぬな…… |
-| 573 | You didn't seem like someone who could get to the fourth floor so easily… | 労せずして実をえようとはこの４階まで来た者とも思えん所業…… |
-| 574 | D,…Dad!? | お、オヤジイ！？ |
-| 575 | I'm glad you made it this far, YUFFIE! | よくぞ来た、YUFFIE！ |
-| 576 | Why, why are you…… | な、なんでアンタが…… |
-| 577 | I'll answer you by having you try your skills against me! | 聞きたい事は、ワシの体におのれの技で聞くが良い！ |
-| 578 | Hold nothing back. Come as if you're trying to kill me! If you don't…then I'll have to kill you! | 手をぬくなよ。　ワシを殺すつもりで、来い！でなければ、私がお前を殺す！ |
-| 579 | Dammit…… | ち、ちっくしょ～…… |
-| 580 | Ohhh! And what was that!? Come back when you get more training! | ええい！　なんたるざまだ！腕をみがいて、出直して来い！ |
-| 581 | I'll show you this time, you old Fart-meister! | 今度こそ見てなよ。この、なまぐさボウズ！ |
-| 582 | Hmm? A slight improvement. | ほう、少しは腕を上げたか？ |
-| 583 | Come at me with all you have! OMNI-Change!! | 全力で来い！総！　変！　化！　招！　来……ッ！！ |
-| 584 | H…hey! | ちょ、ちょっと！ |
-| 585 | What are you doing! OMNI-Change!! | 何をしておる！総！　変！　化！　招！　来……ッ！！ |
-| 586 | …heave…heave… | ハッ……　ハッ…… |
-| 587 | …huff…puff… | ゼエ……　ゼェ…… |
-| 588 | O…old coot… not…bad… | おっ……　オヤジ……やるじゃ……ねーか…… |
-| 589 | You've…also…improved… | お前も……　腕を……あげたな…… |
-| 590 | Hah…Ha, ha… | ハ……　ハハッ…… |
-| 591 | …Heh, heh… | ……ふ　ふッ…… |
-| 592 | Ha ha haaaaaa! | アハハハハハ……ッ！ |
-| 593 | Waha haaaaa! | うわっはっはっは……！ |
-| 594 | It's time I gave this to you, YUFFIE… | やるようになったなYUFFIE…… |
-| 595 | This is Leviathan Materia. Take it. | この水神様のマテリアを持って行くがいい |
-| 596 | …I thought I'd give it to you, but you have no room for it. | と、思ったら、持ちきれんほどマテリアを持っているな |
-| 597 | Then, come back for it later. And don't forget! | ならば、後ほど受け取れい。忘れぬようにな！ |
-| 598 | Leviathan Materia? Oh! So you DID remember. | 水神様のマテリアか？ぬうッ！　きっちり覚えておったか |
-| 599 | Well it's yours, go ahead and take it! | やむをえん、受け取るがよい！ |
-| 600 | You have too much Materia! | そなたら、おびただしいほどのマテリアを持っておるではないか！ |
-| 601 | But, Lord Godo. Leviathan Materia should only be given to the person who conquers and takes over this Pagoda. That is our custom… | しかし、ゴドー様。水神様のマテリアは、五強の塔を制覇し、新たに五強聖をおさめる者が持つのが、ならわし…… |
-| 602 | CUSTOM, CUSTOM, CUSTOM… I'm so sick of hearing that! | ならわし、ならわしってもー聞きあきたよ！ |
-| 603 | It's so stupid! | バッカじゃない！？ |
-| 604 | Silence, Miss YUFFIE! | 口がすぎますぞ！YUFFIE様！ |
-| 605 | Then what 'bout all of you? With all your power… | じゃ、あんたらは、い～の？ それだけの力があって…… |
-| 606 | Are you satisfied being cooped up in this tower? | こんな塔にこもってるだけで満足なのかよ！？ |
-| 607 | You too, Dad! Just because you lost the war, | オヤジもそーさ……！ 前に戦に負けたからって！ |
-| 608 | You turned Wutai into a place like this! | このウータイを、こんなにしちまってさ！ |
-| 609 | What do you mean? | ……何が言いたいんだい？ |
-| 610 | You turned Wutai into a cheesy resort town peddling to tourists… | ウータイを、こんな、ひなびた観光地にして、ヨソ者にこびて…… |
-| 611 | How dare you!? Da-chao Statue and Leviathan are ashamed!! | そんなんで、いーのかよ！ダチャオ像も、水神様も泣いてるよ！！ |
-| 612 | She IS a kid. | やれやれ、やっぱガキだな |
-| 613 | YUFFIE!! | YUFFIEッ！！ |
-| 614 | Forgive me… It's all my fault… | 許してくれ……すべてワシの責任だ…… |
-| 615 | What are you saying, Lord Godo! | 何をおっしゃいます！ゴドー様！ |
-| 616 | Losing the war…turning Wutai into this. It was all my fault… | 戦に負け……ウータイをこのようにしてしまったのは、ワシなのだ…… |
-| 617 | Lord Godo! | ゴドー様！ |
-| 618 | Silence!! | お前たちは黙っておれ！！ |
-| 619 | YUFFIE…… | YUFFIE…… |
-| 620 | I am the same now as I was before when I wanted war. | かつて、戦にのぞむ前のワシも今のお前と同じじゃった |
-| 621 | But, after losing, I began to think… | だが戦に負け、考えた…… |
-| 622 | Is strength for beating enemies | 強さとは、相手をたおすためのものなのか？ |
-| 623 | …or just something to show-off? | 他者に対し見せつけるものなのかとな…… |
-| 624 | Might begets might. | 力を見せつける強者は、強者を呼ぶ。それが戦になる…… |
-| 625 | The same as Shinra. | それでは神羅と同じではないか…… |
-| 626 | I knew you were looking for Materia for the good of Wutai. | お前がウータイのため、マテリアを探しているのは、わかっていた |
-| 627 | But, the reason I hide my strength now, is also for the good of Wutai… | だが、ワシが、力を封じているのもまたウータイのためなのだ…… |
-| 628 | And now, I realize both are necessary… | 今、わかったぞ。必要なものは両方なのだ…… |
-| 629 | Strength without determination means nothing. And determination without strength is equally useless…! | 志のない力では、意味がない。力のない志では、それもかなわぬ……！ |
-| 630 | Lord Godo… | ゴドー様…… |
-| 631 | You there, please take YUFFIE with you! | そなたたち、YUFFIEを同行させてやってくれい！ |
-| 632 | I perceive that you all have both determination and strength! | そなたたちは、志と力その２つを持っている！ |
-| 633 | Well, just tell yourself you're on a big ship, and leave the rest to ol' CID! | ま、大船に乗ったつもりでこのCID様にまかせときなって！ |
-| 634 | If you put it that way, we can't refuse… | そ、そこまで言いはるんならかまへんけど…… |
-| 635 | As long as she doesn't interfere! | オイラたちにめいわくをかけないっていうならね……！ |
-| 636 | All right. We'll take her with us. | わかりました。娘さん、おあずかりします |
-| 637 | …after that, how can we refuse? | ……そうまで言われたらことわれないわね |
-| 638 | Hmm… You may come if you want to … | フッ……勝手について来るがいい…… |
-| 639 | Jus' don't do nothin' funny to our Materia…! | もうマテリアに、みょうなマネしねえならな……！ |
-| 640 | All right, I don't mind. | ということさ。俺はかまわないよ |
-| 641 | Go, YUFFIE! | 行けい、YUFFIE！ |
-| 642 | For the sake of Wutai! | ウータイに真の強さを根づかせるためにもな！ |
-| 643 | Dad… | オヤジ…… |
-| 644 | I'll take care of the Five Sacred Gods until you return! | お前がもどるまでは、ワシが五強聖をおさめる！ |
-| 645 | Go! And come back alive! | 行ってこい！そして生きて帰って来い！ |
-| 646 | Duh! | と～ぜんだよ！ |
-| 647 | YUFFIE, wait a minute. | YUFFIE、ちょっと待て |
-| 648 | After their battle is over… | あの連中の持っているマテリアな…… |
-| 649 | Do you think they'll still want all their Materia? | 戦いが終われば、たぶん用ずみになるんではないかな？ |
-| 650 | Dad…! | オヤジ……！ |
-| 651 | Go! Fight till the end! But come back! | 行ってこい！ 最後まで生き残れ！ そして帰って来るのだ！ |
-| 652 | With the Materia! | マテリアを持ってな！ |
-| 653 | Heh, heh…you bet! | ヘヘ……あったりまえよ！ |
-| 654 | Miss YUFFIE. Your feelings for Wutai are the same as Lord Godo's. Always remember that… | YUFFIE殿。ウータイを思う気持ちはそなたもゴドー様もいっしょ。それだけはお忘れなきよう…… |
-| 655 | Please take care of Miss YUFFIE. | YUFFIE殿を、なにとぞよろしくおたのもうしますぞ |
-| 656 | Never bring shame on Wutai. | ウータイの名にはじぬ戦をしてまいれ |
-| 657 | She's always like this. It'll be rougher on you. | あの小娘はあいかわらずじゃろうて。そなたらも大変じゃのう |
-| 658 | You say there's some unusual Materia where the underground pipe is!? | 海底パイプってとこにめずらしいマテリアがあるって！ |
-| 659 | But, first you gotta get if from a monster and unless you use your head, you won't be able to do it. | モンスターが持っているらしいけどちょっと頭をつかわないとゲットできないってさ。 |
-| 660 | Did that kid mature at all? | あのガキ、ちっとは成長したかい？ |
-| 661 | Miss YUFFIE. We pray for your success! | YUFFIE様。ご武運を、おいのりしております！ |
-| 662 | Oh, you there! How is Miss YUFFIE doing? | おお、そなたら！YUFFIE様は、お元気ですかな？ |
-| 663 | Winning Miss YUFFIE's heart must mean you have tremendous skill. | YUFFIE様に見そめられるとはそれがしたちも、かなり腕にはおぼえがあられますな |
-| 664 | Compared to me, all of you are nothin' but a buncha babies. | あんたらも、オラにくらべりゃまだまだヒヨッコだね |
-| 665 | Managing that girl must be exceedingly rough on you. | そなたらも、あの小娘相手にたいぎなことじゃのう |
-| 666 | I would like to fight you, however the Five Sacred Gods can only compete with those from Wutai… | そなたらとも、お手合わせねがいたいところだが、五強聖はウータイの者としか、試合うことはゆるされない…… |
-| 667 | Sh… | しー……ッ！ |
-| 668 | …Hm. You can do it… | ……ほう。出来るな、そなたら…… |
-| 669 | Mat-… | マテ…… |
-| 670 | Take care of the Materia!! | マテリアを大事になッ！！ |
-| 671 | Your Mat-… | そなたら、マテ…… |
-| 672 | I mean, please look after YUFFIE…! | いや、YUFFIEをよろしく頼みますぞ……！ |
-| 673 | Received "Dragoon Lance"! | 『ドラグーンランス』を手にいれた！ |
-| 674 | Received "Oritsuru"! | 『折り鶴』を手にいれた！ |
-| 675 | Received "Leviathan" Materia! | 『リヴァイアサン』のマテリアを手にいれた！ |
-| 676 | Received "Steal As Well" Materia! | 『ついでにぬすむ』のマテリアを手にいれた！ |
-| 677 | Yeah, let's get some rest | 休んでいこうかな |
-| 678 | I'm all right | 今はつかれてないわね |
-| 679 | Well… | ヤレヤレ…… |
-| 680 | I could take a short nap | ちょっくら休んでくか |
-| 681 | No time to waste | グズグズしてられねえ |
-| 682 | Phew, perfect. Now the Materia is back in its rightful place. | フー、これでバッチリ。マテリアはもとどおり！ |
-| 683 | Hey…the order is all messed up. | おい……マテリアのつけかたがメチャクチャだ |
-| 684 | Hey, what is this? The order of it's all messed up! | ちょっと、なにコレ……マテリアのつけかたメチャクチャじゃない！ |
-| 685 | What the hell's goin' on!? The order of the Materia's all messed up! | なんだコリャ！？おい、マテリアのつけかたメチャクチャじゃねえよ！ |
-| 686 | Huh? Oh, it'll be all right… | あん？ああ、いいのいいの |
-| 687 | Don't be so picky! | こまかいこといちいち気にしない！ |
-| 688 | Anyways, that sure was close. | いや～、それにしてもアブないところだったよね～ |
-| 689 | No, normally I would kick their butts, Boom, Bang!! | ううん、いつものアタシならあんなやつら、バシバシバシッ！！とかたづけちゃうんだけどさ |
-| 690 | That Corneo guy's a real pain. | ホント、あのコルネオってのとんでもないやつだね |
-| 691 | I'd rather deal with my dad than with that guy. | あれならアタシの親父のほうがずっとマシだよ |
-| 692 | You know, some of those Turk guys are pretty good, huh? | そうそう、そう言えばあのタークスの連中けっこうイイところあるよね |
-| 693 | At least, after all that, we got the Materia back. | ま、なにはともあれマテリアはぶじに戻ってきたし |
-| 694 | Now come on everybody, let's continue our journey… | さ、はりきってみんなで旅をつづけ…… |
-| 695 | Hey!! W…Wait! | ……って、ちょっと！！ま、待ってよ！ |
-| 696 | Oh, all right. Here, I'll give this to you guys. | わ、わかったよ、ホラこれもアンタたちにあげちゃう！ |
-| 697 | …No, forget it. Besides, they have lots of Materia anyway. | ……いや、やっぱりやめとこ。あいつら、いっぱいマテリア持ってるしな |
-| 698 | Here, look, look! | ホラ、見て見て！ジャジャーン！！ |
-| 699 | Received "MP Absorb" Materia! | 『ＭＰきゅうしゅう』のマテリアを手にいれたー！ |
-| 700 | Come on, wait! | あ～もう、待ってよ～！ |
-| 701 | No matter what you think, I'm going with you! | 誰が何と言おうとアタシはアンタたちについてくからね～！ |
-| 702 | …Next time… | ……そんでもってつぎこそかならず…… |
+| 334 | Dammit, YUFFIE. We ain't got time to be listening to your life story. | ……ケッ、YUFFIEよ。おめえの身の上話をきいてるヒマは、こっちにゃねえよ |
+| 335 | If you want Materia, get it yourself. That's how you should do it. | マテリアが欲しかったらてめえの力で手に入れな。それがスジってもんだ |
+| 336 | I know. I know that… | わかってる。そんなのアタシだってわかってるよ…… |
+| 337 | That…sniff…switch… the lever on the left…… Materia's…sniff, hic…in there. | そこにヒック……スイッチ……左のレバー……マテリア、ヒック……かくして…… |
+| 338 | Don't make a mistake. The left lever… | まちがえないで。左のレバーを…… |
+| 339 | I'm sorry, but…… | かわいそう、だけど…… |
+| 340 | Ain't nuthin' we can do about it… | ま、しかたねえよな…… |
+| 341 | Now, the Materia… | さあ、マテリアを…… |
+| 342 | Were we a little too harsh on her? | ちょっと言い過ぎたかな…… |
+| 343 | Well, let's get our Materia back. | まぁ、とりあえずはマテリア、返してもらいましょ |
+| 344 | Hmmph… I dunno. | ケッ……オレ様は知らねえよ |
+| 345 | There was nothing else to do. | やむをえないな |
+| 346 | Wh…what the hell is this? | な、なんだコリャ！？ |
+| 347 | Wh, what are you doing? | な、何するんだ！？ |
+| 348 | Wh, what is this? | な、なんやねんなコレ！？ |
+| 349 | Whoa! | オオッ！？ |
+| 350 | !? | ！？ |
+| 351 | Ha, ha--! You should've listened!! | ハッハッハーッ！人の言うことは聞いとくもんだってこと！！ |
+| 352 | Ha, ha, ha--! Never trust anyone that easily!! | ハッハッハーッ！そうかんたんに人を信用するなってこと！！ |
+| 353 | The Materia's mine! Tough! | マテリアはアタシのもの！ざんねんでした！ |
+| 354 | You want your Materia? Then go find it yourself! | マテリア取りかえしたかったら自分たちでさがしてみれば？ |
+| 355 | Yeah that's right. And when you're looking for the Materia, remember you gotta steel it. | そう、マテリアを見つけるにはカネにものを言わせなきゃ |
+| 356 | Heh heh… Steel…steel! Get it? | エヘヘ……カネだよ、カネ。わっかるー？ |
+| 357 | C'ya!! | じゃ～ね～！ |
+| 358 | Y, yo, wait up!! | お、おい、助けてくれよ！ |
+| 359 | Wait, don't leave us! | ね、おいてかないで！ |
+| 360 | W..wait, don't leave us here! | ちょ、ちょっとおいてかないでよ！ |
+| 361 | Help us first! | 先にオイラたちを助けてよ～！ |
+| 362 | Hey, help us…please! | 先に、こっちを助けて～なぁ～！ |
+| 363 | Hey! Help me first! | おい！オレ様を助けるのが先だろうが！ |
+| 364 | Wait, don't go by yourself! | 待て、ひとりで追うな！ |
+| 365 | Flip the Left Lever | 左のレバーをさげる |
+| 366 | Flip the Right Lever | 右のレバーをさげる |
+| 367 | No. 6 | ナンバー６ |
+| 368 | Drink at the "Turtle's Paradise" and talk about Wutai! To find "Turtle's Paradise", look for the big pot outside!! | 『かめ道楽』で飲まずしてウータイを語るなかれ！居酒屋『かめ道楽』はでっかいツボが目印です！！ |
+| 369 | Hidden Room | かくし部屋 |
+| 370 | Let go! I SAID let GO! | 離せよ！　離せってば！ちょっと、イタ、イタタタタ！ |
+| 371 | Hey! Who do you think I… OW! What're you doin'? Jerk! | コラ、アタシをだれだと……あーっ！　何すんだよー！ |
+| 372 | You! | おまえは……！ |
+| 373 | Oh! You're… | あっ！　あなたは……！ |
+| 374 | Ww, who are you!? | な、なんだテメエは！？ |
+| 375 | …ho… …ho… | ……ほ………………ほ…… |
+| 376 | Hohi, hohi! Hohihi! | ほひ、ほひ！ほひひ～～～！！ |
+| 377 | Corneo!? | コルネオ！？ |
+| 378 | Don Corneo!? | ドン・コルネオ！？ |
+| 379 | The hell are you doing! | テメエ、何してやがる！ |
+| 380 | I've finally got a new chicky! | やっと新しいおなごが手にはいったぞ～！ |
+| 381 | Two for one, in fact! Heh, heh! | いちどにふたりも！ほひ～ほひ～！ |
+| 382 | Two!? | ふたり！？ |
+| 383 | Two!? | ふたりだと！？ |
+| 384 | H…hey! Let go of me! You're gonna regret this!! | コ……コラ、離しなさい！後でこうかいするわよ！！ |
+| 385 | Received "Swift Bolt"! | 『雷迅』を手にいれた！ |
+| 386 | There he is! It's Corneo! Don't let him get away! | いたぞ、ヤツだ！コルネオだ！絶対に逃がすな！ |
+| 387 | Attaaaack! | 突撃ーーーッ！！ |
+| 388 | Num, num… | ムニャムニャムニャ…… |
+| 389 | Help me. Help me. Help me… | どうかお助けください。どうかお助けください。どうかお助けください…… |
+| 390 | Num, num… I hope Meteor doesn't fall anywhere around here… | ムニャムニャムニャ……あの星がこのあたりに落ちてきませんように…… |
+| 391 | Oh, Great Da-chao… Please grant us your strength… | あ～ダチャオ様……今こそあなたのお力を…… |
+| 392 | He's in the pagoda next to Lord Godo. Lord Godo says we're stuck… | ゴドー様はとなりにある五強の塔にこもりっきりじゃ。ゴドー様でもあんなものはどうにもならんて…… |
+| 393 | Wutai‚Da-chao Statue | ウータイ　ダチャオ像 |
+| 394 | Wutai‚Godo's Pagoda | ウータイ　五強の塔 |
+| 395 | You're finally here. We're gonna split up. | やっと来たな。俺たちは二手に別れるぞ、と |
+| 396 | You do whatever you want. But don't endanger Elena. | お前たちは、勝手に行動しろ。ただし、イリーナに危害は加えるなよ、と |
+| 397 | Don't worry. We won't do anything to that girl, YUFFIE. | 心配するな。俺たちも、YUFFIEとかいう小娘には何もしやしない、と |
+| 398 | For now… | 今のところはな、と |
+| 399 | Stop fooling around. The enemy's not gonna wait for us, you know! | チンタラやってるヒマはねえ。敵さんは待っちゃくれないぜ、と |
+| 400 | You all thought they might be here too, huh?  We were way off. | お前たちも、ここがクサイと思ったか。あいにく、大ハズレ、と |
+| 401 | There's no way they could get this far. | そんなに遠くへは行けないはずだぜ、と |
+| 402 | Can't go through here… That flame would fry me in an instant. | これは無理だな。この炎じゃ、あっという間に黒コゲだ |
+| 403 | Eyaaaah! | キャアッ！ |
+| 404 | There is no way past this! | とてもじゃないけど進めないわ！ |
+| 405 | Damn, that's hot! | うあっちい！ |
+| 406 | I like hot baths, but this is TOO hot! | フロは熱いにかぎるがこいつは、ちいとばかり熱すぎんぜ！ |
+| 407 | "The Scale of the Sea God" shines! | 『水神様のうろこ』がきらめいた！ |
+| 408 | LET…ME……GO!!!! | は～な～せ～よ～！ |
+| 409 | Hmm! Delicious…scrumptious! I think I've just found a new HOBBY! | ほひ～！いいの～、いいの～！新たなシュミになりそ～じゃの～！ |
+| 410 | Which shall it be? Hmm…Hmm… | どっちのおなごにしようかな？ほひ～ほひ～！ |
+| 411 | He…hey, I'm a 'Turk'! Don't think you can get away with this!! | あ、あんた、私はタークスよ！こんな事をしてすむと思ってるの！？ |
+| 412 | Oh GAWD! If I knew this was gonna happen, I would've taken those rope lessons more seriously!! | あ～ッ！こんなことなら、ナワ抜けの修行マジにやっとくんだったよ～！ |
+| 413 | Hmm!!! I've made my choice! My companion for the night will be… | ほひ～！！決めた決～めた！今夜の相手は…… |
+| 414 | GROSS-NESS! | ゲゲッ！ |
+| 415 | Don't mess with me old man! You don't even have any Materia! | ざけんな、ジジイ～！マテリアも持ってないクセによ！ |
+| 416 | Oooooh! And she's saucy, too! Wheee! Wheee! | ほひ～！そのこばむしぐさがういの～、うぶいの～ |
+| 417 | All right, that's it!! | そこまでだ！ |
+| 418 | Hold it right there! | 待ちなさい！ |
+| 419 | Hey, hey, hey! That's as far as you go! | おうおうおう！そのヘンにしときな！ |
+| 420 | Oh man! CLOUD……! | ゲッ！CLOUD……！ |
+| 421 | Oh man! TIFA……! | ゲッ！TIFA……！ |
+| 422 | Oh man! That old fart, CID! | ゲッ！CIDのオヤジ……！ |
+| 423 | Wheeel…long time no see. | ほひひ、ひさしぶりだな |
+| 424 | Don't tell me you forgot… | 忘れたとは言わせないぞ |
+| 425 | That fall into the trap really hurt! | 痛かったんだから！あの落とし穴……！ |
+| 426 | You just don't get it, do you…!? | こりない人ねこんなマネして……！ |
+| 427 | Hmm…Who are you guys!? | ほひひ、なんだ、お前たちは！？ |
+| 428 | Maybe God'd forgive an ugly ^#@# like you, but I won't! | てめーみてえな、ゲスやろう神さんが許しても、このオレ様が許さねえ！ |
+| 429 |  You damn Midgar hyena…! | このミッドガルのハイエナ野郎……！ |
+| 430 | Hurry and let the two go! | 早くふたりを放せ！ |
+| 431 | I don't care what you're doing, so much as the idiotic way you're doing it… | どうでもいいが、やり方がスマートではないな…… |
+| 432 | Listen you stupid, slimy, sleazy old scab bag! If you want to get women, there's such a thing as the RIGHT way! | オッサン女にもてたいんやったらやり方ちゅうもんがあるやろ |
+| 433 | Be quiet! None of you know how much I've suffered since then… | だまらっしゃ～い！あれから、俺がどんなに苦労したかお前らにはわかるまい…… |
+| 434 | It's a long story, but…… | そう、話せば長くなるけれど…… |
+| 435 | We don't want to hear it! Just let them go! | 話さなくていーの！早くふたりを降ろしなさい！ |
+| 436 | I don't really give a damn! You're gonna let them go, or else I'm gonna break your arm! | んなこた、どーでもいーんだよ！ネエちゃんたちを、返してもらうぜ。腕ずくでもな！ |
+| 437 | I don't really care! Let YUFFIE and Elena go! | 興味ないね！YUFFIEたちを、返せ！ |
+| 438 | Hmm…You guys are serious. …Good, good. | ほひ……おまえら……本気だな。……えらいえらい |
+| 439 | Why did you kill my little Aps? | あの時は俺の可愛いアプスをよくも殺ってくれたな…… |
+| 440 | I'm gonna make you PLAY with my new pet, so you won't interfere in my search for a bride! | これ以上、俺の花ヨメ探しのジャマをさせんためにも、俺の新しいペットと遊んでもらうぜ！ |
+| 441 | RAPPS---come here!! | ラプス　カムヒア！！ |
+| 442 | Wait… | ちょ…… |
+| 443 | You better say your prayers! | さあ、かんねんしなさい！ |
+| 444 | Don't be such a poor loser, old man! | おうじょうぎわが、わりーぜ！とっつぁん！！ |
+| 445 | Why do you think a bad guy like me would swallow his pride and plead for his life? | 俺たちみたいな悪堂がこうやってプライドをすててまで命ごいするのは、どんなときだと思う？ |
+| 446 | Eyaaaah… | キャアーッ！ |
+| 447 | It makes me so MAD! | あ、頭に血がのぼる～ッ！ |
+| 448 | Once I push this button, they'll fall and we'll have SQUASHED TOMATOES! | このスイッチを押すと、このまま下に真っ逆さま……つぶれたトマトのでき上がり！ |
+| 449 | Damn! | クッ……！ |
+| 450 | Coward! | ひきょうよ！ |
+| 451 | So this is how a loser lives! | この、クサレ外道が……！ |
+| 452 | Damn tricky $#%@&T$*^%$ ! | きったねえ手使いやがって……！ |
+| 453 | All right… | わ、わかった…… |
+| 454 | Grrrrrgh… | グルル……！ |
+| 455 | You sure are vulgar! | えぐいことすんの～！ |
+| 456 | ……! | ……！ |
+| 457 | Now, give me your women too! | では、そっちのおなごもわたしてもらおうか！ |
+| 458 | Ha, ha, ha, ha! I guess I have the last laugh! | ほっひっひっひ！最後に笑うのは、俺だったな！ |
+| 459 | No, that would be us. | いや、俺たちだ、と |
+| 460 | …The Turks! | タ、タークス！ |
+| 461 | You knew this was gonna happen ever since you leaked that secret. | お前が秘密をもらした時から決まっていたのだ |
+| 462 | We're going to take care of you… personally. | 俺たちの手でほうむり去られるとな、と |
+| 463 | DAMMIT! Then they're all comin' with me! | え、ええ～い！こうなれば、道づれだ！ |
+| 464 | Ugh…! | グワッ……！ |
+| 465 | Good timing, Rude. | いいタイミングだぜ。ルード、と |
+| 466 | …Let's get to work. | ……仕事だ |
+| 467 | All right, Corneo. This'll be over quick, so listen up. | さーて、コルネオさんよ。すぐ終わるから聞いてくれ、と |
+| 468 | Why do you think we went to all the trouble of teaming up with those guys to get you…? | 俺たちが、ヤツらと組んでまできさまを追いつめるのはなぜだと思う……？、と |
+| 469 | Two…Number two? | ２……２番ですか？ |
+| 470 | All wrong. | どれも不正解、と |
+| 471 | No! Wait, st… | や！　やめ……！ |
+| 472 | Aaaaaaaaaa……p | ほひいいいぃぃぃぃぃ…… |
+| 473 | The correct answer was… | 正解は、と |
+| 474 | …because it's our job. | ……仕事だからだ |
+| 475 | Oh, thank you very much…! | あ、ありがとうございます。先輩……！ |
+| 476 | I never thought you'd come… | まさか、助けに来てくれるなんて…… |
+| 477 | Elena, don't act so weak. | イリーナ。あまえるなよ、と |
+| 478 | You're a Turk! | お前もタークスの一員なんだぜ、と |
+| 479 | Y…Yes, sir! | は……はい！ |
+| 480 | Th…Thanks. | あ……ありがとう |
+| 481 | Thanks for your help. | ありがと、助かっちゃった |
+| 482 | I uh, thanks for today. | ともかく、今日んとこは礼を言うぜ |
+| 483 | Never thought you'd ever help us… | お前らに救われるとはな…… |
+| 484 | You guys have some good in you. | あんたらもええトコあるやないか |
+| 485 | It would appear thanks are in order… | 礼を言わねばならないのか…… |
+| 486 | I'll just say you…helped. | 助かった……と言っておくよ |
+| 487 | Yes…this is Reno. | はい……レノです、と |
+| 488 | Yes…Yes… I'll get on it right away. | はい……はい……ただちに、かかります、と |
+| 489 | Was that the company? | か、会社からですか？先輩…… |
+| 490 | Yeah, they want us to find CLOUD… | そう、CLOUDたちを探せとな、と…… |
+| 491 | Are we on? | 仕事か……？ |
+| 492 | No, today's our day off. | いや、今日は非番だ、と |
+| 493 | Hey---who cares about that!? Get----me-----down----! | ど～でもい～けどお～ろ～し～て～～ッ！ |
+| 494 | Freeze! | 待たれいッ！ |
+| 495 | You aren't from Wutai, are you? | それがしたち、ウータイの者ではござらぬな？ |
+| 496 | Only those from Wutai may enter the tower! | ウータイの者でなければこの塔に立ち入る事まかりならんッ！ |
+| 497 | I'll have to ask for you to leave! | お引き取りいただこう！ |
+| 498 | Hey! I can't stand liars! Leave this tower at once! | ええい！　正体をいつわるとはふとどきせんばん！即刻この塔から出ていかれよ！ |
+| 499 | Oh, Miss YUFFIE! Will you be climbing the pagoda today? | おお、YUFFIE様！この五強の塔を登られる気になられたのですな？ |
+| 500 | Yeah | ま、そんなトコかな |
+| 501 | No way! | ま～さか～！ |
+| 502 | Then I, Sacred Gorky, will be your opponent on the first floor! | では、この１階の相手はこの力の強聖ゴーリキーがつとめさせていただきます！ |
+| 503 | Miss YUFFIE! You cannot go on to the second floor unless you defeat me! | YUFFIE様！私を倒さねば、２階に上がる事まかりなりませんぞ！ |
+| 504 | Yo! They call me Shake! I'll be watchin' your fight with Gorky! | いよ！　オラ、シェイクってんだ！ゴーリキーと、あんたの手合わせはオラが見届けさしてもらうよ！ |
+| 505 | Gorky | ゴーリキー |
+| 506 | Then, begin! | では、参る！ |
+| 507 | Power Change! | 力変化招来！ |
+| 508 | Here I am, Miss YUFFIE! | 参りましたぞ、YUFFIE様！ |
+| 509 | Shake | シェイク |
+| 510 | Hmm, I thought you were just a girl, but you handled that pretty good! | へー、ただのはねッ返り娘かと思ってたけど、その程度は出来んじゃん！ |
+| 511 | Let's see how you do on next one… | ま、次はどーかな？ |
+| 512 | In my opinion, you need more training! Gorky is disappointed! | お言葉ですが、修行が足りませんぞ！このゴーリキー、がっかりしましたぞ！ |
+| 513 | No good! You have to beat Gorky! Are you mocking this Pagoda? | だ～めだって！ゴーリキーをやらなきゃ！五強の塔、ナメてんじゃない？ |
+| 514 | Of course! | と～ぜ～ん！ |
+| 515 | Shut up! Shut up! SHADDUP! | るさい！　るさい！　るさ～い！ |
+| 516 | Who's next? | 次は誰よ？ |
+| 517 | Are you blind? I'm right here! | あんたの目はふし穴か？ここに、いんじゃん！ |
+| 518 | What? I gotta fight a punk? | は～？ガキが相手～？ |
+| 519 | Heh! Punk. I'm more of an adult than some bimbo girl! | ヘン、何を言うかね！どこぞのバカ娘よりはオラの方が、よっぽど大人よ！ |
+| 520 | Wh, what did you say!? | な、なんだって～！？ |
+| 521 | See what I mean? That kind of anger's what makes you so immature! | ヘッヘ！　そうやってムキになるのがガキたるゆえんよ！ |
+| 522 | Don't pat yourself on the back until you beat me! | のうがきは、速の強聖のオラに勝ってからにしな！ |
+| 523 | Now watch…! | 見てなよ……！ |
+| 524 | 'bout the only thing you do really good is breathe! Are you sure you wanna fight? | ハナいきだけは一人前だね！ホントにやる根性あんの？ |
+| 525 | Stop yappin'! | おしゃべりは、もういい！ |
+| 526 | I'll forgive you | 許してやるよ |
+| 527 | Hm, so someone finally got past Gorky. | ほう、ついにゴーリキーを倒した者が出たようじゃの |
+| 528 | I guess it's Chekhov's turn… | では、このチェホフが立ち合いましょうぞ…… |
+| 529 | Here I go, brat! Speed Change! | 行くぜ、ガキんちょ！速変化招来！ |
+| 530 | URRGRAAAAGH! So you CAN fight a bit! | うわっちゃ～！ちったーやるみたいじゃん！ |
+| 531 | HYAAAAAAH! BRATBRATBRATBRAT!! | ひゃ～っはっは！ガキガキガキガキ～！ |
+| 532 | You don't belong here! This is the Wutai Temple of Martial Arts! | あんたらじゃダ～メ！ここはウータイ武闘術五強聖の塔だぜ！ |
+| 533 | Hey, you there! Don't ignore me! | コラコラ、そこの～！オラをムシすんなって！ |
+| 534 | So you're just talk after all. Brat! | あ～らら、いざとなると口だけなんて、ガキもガキ大～ガキ～！ |
+| 535 | Chekhov | チェホフ |
+| 536 | You can't go to the next floor unless you beat Shake. | シェイクを倒さずして階上に上がることあいなりませんぞ…… |
+| 537 | Ho, ho, ho… It's been a while since I felt pain… | ホッホッホ……ひさかたぶりに、うずきますぞ…… |
+| 538 | So even Shake's been defeated. It's been a while since you had to fight, eh Chekhov? | なんとシェイクまで、敗れたか。チェホフ、そなたの出番もひさしぶりだな |
+| 539 | Unfortunately, this is as far as it goes.  Staniv, you watch over there. | 残念ながら、わらわでおしまいじゃ。スタニフ、そなたは、そこで見ているがいい |
+| 540 | That ain't going to happen! I'll teach you about the strength of youth! | そんなワケにはいかないのよね～！若さが強さってとこ教えたげるよ |
+| 541 | Keep mouthing off like that, little girl, and you're going to get burned. | 小娘が、いきがっておるとやけどくらいですまぬぞえ |
+| 542 | I got insurance. | あいにく火遊びは大好きなの |
+| 543 | Let's get this over, ya' old geez. | オバさんは相手にしてらんない |
+| 544 | Ho, ho, ho. We'll see if you still talk like that after you taste some of my Sacred Magic… | ホッホッホ。魔の強聖のわらわと試合った後でも、そのへらず口きけるといいが…… |
+| 545 | Ho, ho, ho. What do you expect from a child barely out of diapers!? | ホッホホ。ケツの青い小娘ならではのへらず口だこと |
+| 546 | Magic Change! | 魔変化招来！ |
+| 547 | I can't believe…you beat me. | わ、わらわの術を破るとは…… |
+| 548 | Staniv | スタニフ |
+| 549 | This should be interesting! It's been too long since I've had a chance to use my full power… | 面白い……！ひさびさに我が腕、ぞんぶんにふるえそうだな…… |
+| 550 | Ho, ho, ho! What does a immature child know…? | ホッホッホ！年はもいかぬ子娘に何がわかろうて…… |
+| 551 | This is the average person's limit? | やはり常人では、ここまでが限度か…… |
+| 552 | That being the case, we have nothing further to discuss. | そなたらでは、話にならぬぞえ |
+| 553 | How dare they mock us, thinking they could sneak past us. | ここを素通りしようとはわらわも、なめられたものよ |
+| 554 | First, Chekhov will keep you company… | まずは、そちらのチェホフがお相手いたす…… |
+| 555 | So you're here… | 来ましたな…… |
+| 556 | Huh? Who am I supposed to beat? | あれ？　立ち合い人ってのは？ |
+| 557 | HAAAAH! | はあーッ！ |
+| 558 | The rule is the best fighter on each floor will be your opponent… This is a five-storied pagoda,but the fourth floor is the highest… | ここ、４階までは階上の者が立ち合うのが、ならわし……。しかし、ここは五強の塔４階にして最上階の意味を持つ…… |
+| 559 | In other words, no one has ever defeated me--Master of Weaponry! | すなわち！武の強聖の、私を敗った者はかつてないということだ |
+| 560 | You still want to try…? | それでも、戦うかね……？ |
+| 561 | Just come on!! | もっちろん！ |
+| 562 | I'll pass! | パス、パ～ス！ |
+| 563 | I like you! Now watch… | 気にいった！見るがいい…… |
+| 564 | Weapon Change! | 武変化招来！ |
+| 565 | How unfortunate! It was over before I could even put all my strength into it… | 無念！今回も力をすべて出せずに終わってしまった…… |
+| 566 | Wh, what…!? | な、何だと……！？ |
+| 567 | Splendid! You have definitely improved… | お見事！かくも腕を上げられたとは…… |
+| 568 | Oh, ho! You might not be as much of a child as we thought you were! | おっほ！思ったよりガキじゃないみたいじゃん！ |
+| 569 | Of course. If WE lost to her… | 当然であろう。わらわが敗れた者なれば…… |
+| 570 | You have defeated four of our best, but now you will have to face HIM! | 最上階の立ち合いは我ら４人！あの方と相まみえていただきましょうぞ……！ |
+| 571 | If it were not for Miss YUFFIE, I wouldn't be facing him… | YUFFIE殿でなければ私が相まみえるわけには参りませぬな…… |
+| 572 | You didn't seem like someone who could get to the fourth floor so easily… | 労せずして実をえようとはこの４階まで来た者とも思えん所業…… |
+| 573 | D,…Dad!? | お、オヤジイ！？ |
+| 574 | I'm glad you made it this far, YUFFIE! | よくぞ来た、YUFFIE！ |
+| 575 | Why, why are you…… | な、なんでアンタが…… |
+| 576 | I'll answer you by having you try your skills against me! | 聞きたい事は、ワシの体におのれの技で聞くが良い！ |
+| 577 | Hold nothing back. Come as if you're trying to kill me! If you don't…then I'll have to kill you! | 手をぬくなよ。　ワシを殺すつもりで、来い！でなければ、私がお前を殺す！ |
+| 578 | Dammit…… | ち、ちっくしょ～…… |
+| 579 | Ohhh! And what was that!? Come back when you get more training! | ええい！　なんたるざまだ！腕をみがいて、出直して来い！ |
+| 580 | I'll show you this time, you old Fart-meister! | 今度こそ見てなよ。この、なまぐさボウズ！ |
+| 581 | Hmm? A slight improvement. | ほう、少しは腕を上げたか？ |
+| 582 | Come at me with all you have! OMNI-Change!! | 全力で来い！総！　変！　化！　招！　来……ッ！！ |
+| 583 | H…hey! | ちょ、ちょっと！ |
+| 584 | What are you doing! OMNI-Change!! | 何をしておる！総！　変！　化！　招！　来……ッ！！ |
+| 585 | …heave…heave… | ハッ……　ハッ…… |
+| 586 | …huff…puff… | ゼエ……　ゼェ…… |
+| 587 | O…old coot… not…bad… | おっ……　オヤジ……やるじゃ……ねーか…… |
+| 588 | You've…also…improved… | お前も……　腕を……あげたな…… |
+| 589 | Hah…Ha, ha… | ハ……　ハハッ…… |
+| 590 | …Heh, heh… | ……ふ　ふッ…… |
+| 591 | Ha ha haaaaaa! | アハハハハハ……ッ！ |
+| 592 | Waha haaaaa! | うわっはっはっは……！ |
+| 593 | It's time I gave this to you, YUFFIE… | やるようになったなYUFFIE…… |
+| 594 | This is Leviathan Materia. Take it. | この水神様のマテリアを持って行くがいい |
+| 595 | …I thought I'd give it to you, but you have no room for it. | と、思ったら、持ちきれんほどマテリアを持っているな |
+| 596 | Then, come back for it later. And don't forget! | ならば、後ほど受け取れい。忘れぬようにな！ |
+| 597 | Leviathan Materia? Oh! So you DID remember. | 水神様のマテリアか？ぬうッ！　きっちり覚えておったか |
+| 598 | Well it's yours, go ahead and take it! | やむをえん、受け取るがよい！ |
+| 599 | You have too much Materia! | そなたら、おびただしいほどのマテリアを持っておるではないか！ |
+| 600 | But, Lord Godo. Leviathan Materia should only be given to the person who conquers and takes over this Pagoda. That is our custom… | しかし、ゴドー様。水神様のマテリアは、五強の塔を制覇し、新たに五強聖をおさめる者が持つのが、ならわし…… |
+| 601 | CUSTOM, CUSTOM, CUSTOM… I'm so sick of hearing that! | ならわし、ならわしってもー聞きあきたよ！ |
+| 602 | It's so stupid! | バッカじゃない！？ |
+| 603 | Silence, Miss YUFFIE! | 口がすぎますぞ！YUFFIE様！ |
+| 604 | Then what 'bout all of you? With all your power… | じゃ、あんたらは、い～の？ それだけの力があって…… |
+| 605 | Are you satisfied being cooped up in this tower? | こんな塔にこもってるだけで満足なのかよ！？ |
+| 606 | You too, Dad! Just because you lost the war, | オヤジもそーさ……！ 前に戦に負けたからって！ |
+| 607 | You turned Wutai into a place like this! | このウータイを、こんなにしちまってさ！ |
+| 608 | What do you mean? | ……何が言いたいんだい？ |
+| 609 | You turned Wutai into a cheesy resort town peddling to tourists… | ウータイを、こんな、ひなびた観光地にして、ヨソ者にこびて…… |
+| 610 | How dare you!? Da-chao Statue and Leviathan are ashamed!! | そんなんで、いーのかよ！ダチャオ像も、水神様も泣いてるよ！！ |
+| 611 | She IS a kid. | やれやれ、やっぱガキだな |
+| 612 | YUFFIE!! | YUFFIEッ！！ |
+| 613 | Forgive me… It's all my fault… | 許してくれ……すべてワシの責任だ…… |
+| 614 | What are you saying, Lord Godo! | 何をおっしゃいます！ゴドー様！ |
+| 615 | Losing the war…turning Wutai into this. It was all my fault… | 戦に負け……ウータイをこのようにしてしまったのは、ワシなのだ…… |
+| 616 | Lord Godo! | ゴドー様！ |
+| 617 | Silence!! | お前たちは黙っておれ！！ |
+| 618 | YUFFIE…… | YUFFIE…… |
+| 619 | I am the same now as I was before when I wanted war. | かつて、戦にのぞむ前のワシも今のお前と同じじゃった |
+| 620 | But, after losing, I began to think… | だが戦に負け、考えた…… |
+| 621 | Is strength for beating enemies | 強さとは、相手をたおすためのものなのか？ |
+| 622 | …or just something to show-off? | 他者に対し見せつけるものなのかとな…… |
+| 623 | Might begets might. | 力を見せつける強者は、強者を呼ぶ。それが戦になる…… |
+| 624 | The same as Shinra. | それでは神羅と同じではないか…… |
+| 625 | I knew you were looking for Materia for the good of Wutai. | お前がウータイのため、マテリアを探しているのは、わかっていた |
+| 626 | But, the reason I hide my strength now, is also for the good of Wutai… | だが、ワシが、力を封じているのもまたウータイのためなのだ…… |
+| 627 | And now, I realize both are necessary… | 今、わかったぞ。必要なものは両方なのだ…… |
+| 628 | Strength without determination means nothing. And determination without strength is equally useless…! | 志のない力では、意味がない。力のない志では、それもかなわぬ……！ |
+| 629 | Lord Godo… | ゴドー様…… |
+| 630 | You there, please take YUFFIE with you! | そなたたち、YUFFIEを同行させてやってくれい！ |
+| 631 | I perceive that you all have both determination and strength! | そなたたちは、志と力その２つを持っている！ |
+| 632 | Well, just tell yourself you're on a big ship, and leave the rest to ol' CID! | ま、大船に乗ったつもりでこのCID様にまかせときなって！ |
+| 633 | If you put it that way, we can't refuse… | そ、そこまで言いはるんならかまへんけど…… |
+| 634 | As long as she doesn't interfere! | オイラたちにめいわくをかけないっていうならね……！ |
+| 635 | All right. We'll take her with us. | わかりました。娘さん、おあずかりします |
+| 636 | …after that, how can we refuse? | ……そうまで言われたらことわれないわね |
+| 637 | Hmm… You may come if you want to … | フッ……勝手について来るがいい…… |
+| 638 | Jus' don't do nothin' funny to our Materia…! | もうマテリアに、みょうなマネしねえならな……！ |
+| 639 | All right, I don't mind. | ということさ。俺はかまわないよ |
+| 640 | Go, YUFFIE! | 行けい、YUFFIE！ |
+| 641 | For the sake of Wutai! | ウータイに真の強さを根づかせるためにもな！ |
+| 642 | Dad… | オヤジ…… |
+| 643 | I'll take care of the Five Sacred Gods until you return! | お前がもどるまでは、ワシが五強聖をおさめる！ |
+| 644 | Go! And come back alive! | 行ってこい！そして生きて帰って来い！ |
+| 645 | Duh! | と～ぜんだよ！ |
+| 646 | YUFFIE, wait a minute. | YUFFIE、ちょっと待て |
+| 647 | After their battle is over… | あの連中の持っているマテリアな…… |
+| 648 | Do you think they'll still want all their Materia? | 戦いが終われば、たぶん用ずみになるんではないかな？ |
+| 649 | Dad…! | オヤジ……！ |
+| 650 | Go! Fight till the end! But come back! | 行ってこい！ 最後まで生き残れ！ そして帰って来るのだ！ |
+| 651 | With the Materia! | マテリアを持ってな！ |
+| 652 | Heh, heh…you bet! | ヘヘ……あったりまえよ！ |
+| 653 | Miss YUFFIE. Your feelings for Wutai are the same as Lord Godo's. Always remember that… | YUFFIE殿。ウータイを思う気持ちはそなたもゴドー様もいっしょ。それだけはお忘れなきよう…… |
+| 654 | Please take care of Miss YUFFIE. | YUFFIE殿を、なにとぞよろしくおたのもうしますぞ |
+| 655 | Never bring shame on Wutai. | ウータイの名にはじぬ戦をしてまいれ |
+| 656 | She's always like this. It'll be rougher on you. | あの小娘はあいかわらずじゃろうて。そなたらも大変じゃのう |
+| 657 | You say there's some unusual Materia where the underground pipe is!? | 海底パイプってとこにめずらしいマテリアがあるって！ |
+| 658 | But, first you gotta get if from a monster and unless you use your head, you won't be able to do it. | モンスターが持っているらしいけどちょっと頭をつかわないとゲットできないってさ。 |
+| 659 | Did that kid mature at all? | あのガキ、ちっとは成長したかい？ |
+| 660 | Miss YUFFIE. We pray for your success! | YUFFIE様。ご武運を、おいのりしております！ |
+| 661 | Oh, you there! How is Miss YUFFIE doing? | おお、そなたら！YUFFIE様は、お元気ですかな？ |
+| 662 | Winning Miss YUFFIE's heart must mean you have tremendous skill. | YUFFIE様に見そめられるとはそれがしたちも、かなり腕にはおぼえがあられますな |
+| 663 | Compared to me, all of you are nothin' but a buncha babies. | あんたらも、オラにくらべりゃまだまだヒヨッコだね |
+| 664 | Managing that girl must be exceedingly rough on you. | そなたらも、あの小娘相手にたいぎなことじゃのう |
+| 665 | I would like to fight you, however the Five Sacred Gods can only compete with those from Wutai… | そなたらとも、お手合わせねがいたいところだが、五強聖はウータイの者としか、試合うことはゆるされない…… |
+| 666 | Sh… | しー……ッ！ |
+| 667 | …Hm. You can do it… | ……ほう。出来るな、そなたら…… |
+| 668 | Mat-… | マテ…… |
+| 669 | Take care of the Materia!! | マテリアを大事になッ！！ |
+| 670 | Your Mat-… | そなたら、マテ…… |
+| 671 | I mean, please look after YUFFIE…! | いや、YUFFIEをよろしく頼みますぞ……！ |
+| 672 | Received "Dragoon Lance"! | 『ドラグーンランス』を手にいれた！ |
+| 673 | Received "Oritsuru"! | 『折り鶴』を手にいれた！ |
+| 674 | Received "Leviathan" Materia! | 『リヴァイアサン』のマテリアを手にいれた！ |
+| 675 | Received "Steal As Well" Materia! | 『ついでにぬすむ』のマテリアを手にいれた！ |
+| 676 | Yeah, let's get some rest | 休んでいこうかな |
+| 677 | I'm all right | 今はつかれてないわね |
+| 678 | Well… | ヤレヤレ…… |
+| 679 | I could take a short nap | ちょっくら休んでくか |
+| 680 | No time to waste | グズグズしてられねえ |
+| 681 | Phew, perfect. Now the Materia is back in its rightful place. | フー、これでバッチリ。マテリアはもとどおり！ |
+| 682 | Hey…the order is all messed up. | おい……マテリアのつけかたがメチャクチャだ |
+| 683 | Hey, what is this? The order of it's all messed up! | ちょっと、なにコレ……マテリアのつけかたメチャクチャじゃない！ |
+| 684 | What the hell's goin' on!? The order of the Materia's all messed up! | なんだコリャ！？おい、マテリアのつけかたメチャクチャじゃねえよ！ |
+| 685 | Huh? Oh, it'll be all right… | あん？ああ、いいのいいの |
+| 686 | Don't be so picky! | こまかいこといちいち気にしない！ |
+| 687 | Anyways, that sure was close. | いや～、それにしてもアブないところだったよね～ |
+| 688 | No, normally I would kick their butts, Boom, Bang!! | ううん、いつものアタシならあんなやつら、バシバシバシッ！！とかたづけちゃうんだけどさ |
+| 689 | That Corneo guy's a real pain. | ホント、あのコルネオってのとんでもないやつだね |
+| 690 | I'd rather deal with my dad than with that guy. | あれならアタシの親父のほうがずっとマシだよ |
+| 691 | You know, some of those Turk guys are pretty good, huh? | そうそう、そう言えばあのタークスの連中けっこうイイところあるよね |
+| 692 | At least, after all that, we got the Materia back. | ま、なにはともあれマテリアはぶじに戻ってきたし |
+| 693 | Now come on everybody, let's continue our journey… | さ、はりきってみんなで旅をつづけ…… |
+| 694 | Hey!! W…Wait! | ……って、ちょっと！！ま、待ってよ！ |
+| 695 | Oh, all right. Here, I'll give this to you guys. | わ、わかったよ、ホラこれもアンタたちにあげちゃう！ |
+| 696 | …No, forget it. Besides, they have lots of Materia anyway. | ……いや、やっぱりやめとこ。あいつら、いっぱいマテリア持ってるしな |
+| 697 | Here, look, look! | ホラ、見て見て！ジャジャーン！！ |
+| 698 | Received "MP Absorb" Materia! | 『ＭＰきゅうしゅう』のマテリアを手にいれたー！ |
+| 699 | Come on, wait! | あ～もう、待ってよ～！ |
+| 700 | No matter what you think, I'm going with you! | 誰が何と言おうとアタシはアンタたちについてくからね～！ |
+| 701 | …Next time… | ……そんでもってつぎこそかならず…… |
