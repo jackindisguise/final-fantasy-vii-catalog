@@ -1,176 +1,71 @@
-荒れ地	Wilderness	荒地	scene_24
-な、なによとつぜん！？何かあったの？	What the--? Did something happen?	何	scene_24
-突然、どうしたというのだ？何かあったのか？	What happened all of a sudden? Did something happen?	突然何	scene_24
-また何かイケないこと考えたりしてない？	You're not planning something sneaky again, are you?	何考	scene_24
-ハッキリ言ってどうも信用できないんだよな、おまえ	I don't trust you.	言信用	scene_24
-ひょっとして私たちをダマそうとしてるとか……	Are you going to trick us again?	私	scene_24
-ホンマか～？この人なんや信用でけんのや	You serious? I can't trust you.	人信用	scene_24
-ここから先が？そんな気配は感じられないが	Further down? I don't see any signs of danger…	先気配感	scene_24
-神羅ッ！？	Shinra!?	神羅	scene_24
-なにいっ、神羅だと！？	What, the Shinra!?	神羅	scene_24
-おい、違うぞ！　ヤツじゃない！こ、こいつら、例の！！	Hey, that's not them! These are the other guys from before!!	違例	scene_24
-やっぱりYUFFIE……！！	So you were, YUFFIE!!		scene_24
-知らない知らない！これはアタシとカンケーないって！	I didn't know! I had nothing to do with this one!	知	scene_24
-おまえ、やっぱり何かたくらんでたんだな！！	So you WERE plannin' somethin'!!	何	scene_24
-やっぱり何か悪だくみしてたんだ！！	So you were concocting some evil scheme!!	何悪	scene_24
-おめえ、やっぱり何かたくらんでやがったな！！	So you WERE planning some crooked $%*&!!	何	scene_24
-ど、どうする！？	What should we do!?		scene_24
-おい、どうなってんだ！？	The hell's goin' on!?		scene_24
-どうなってるんだよォ？	What's going on?		scene_24
-コリャー、どういうこったい！	What the hell's goin' on?		scene_24
-おい……YUFFIEは……？	Hey…where's YUFFIE?		scene_24
-オイ……YUFFIEのやつは……？	Ey…where the hell's that damn kid?		scene_24
-やーらーれーたーっ！！	She's done it again!!		scene_24
-あちゃ～、やられてしもた～！	She's done it again!		scene_24
-これは見過ごせないな……	Inexcusable…	見過	scene_24
-北だ、北に逃げてったぜ！絶対に、絶対につかまえてマテリア取りもどしてやる！	She went North! When I get my hand on her, I'll get our Materia back!	北逃絶対取	scene_24
-はじめからオイラたちのマテリアがねらいだったんだ	Her objective was stealing our Materia from the beginning.		scene_24
-ほっとくわけやないんですやろ？ほんな、ちゃっちゃと追いかけましょ！方角？北です、北！占いのおつげや！	We can't just let her get away, right? Then, let's hurry after her! Which way? It's North, the North! It's a message from the stars!	追方角北占	scene_24
-どうやら、最初からマテリアが目的だったようだな	Seems as though all that she was after was our Materia.	最初目的	scene_24
-た、た、たいへんだよ！オイラたちのマテリアがなくなっちゃった！！	O…OH NO! All of our Materia…gone!?		scene_24
-ここは歴史の地、ウータイ。めずらしいものもあるからごらんになるといいでしょう	Wutai is a historical place. There are some very unusual things here you should see.	歴史地	scene_24
-この先の屋敷にはゴドー様がいらっしゃる	Lord Godo is in this house.	先屋敷様	scene_24
-どういうわけかYUFFIEは むかしからマテリアが好きでナ。  	Anyhow, for some reason YUFFIE's had a fondness for Materia ever since I can remember.	好	scene_24
-そういえばさっきからYUFFIEみたいなコをみかけるな……	That reminds me, lately I've seen a kid around here that reminds me of YUFFIE.		scene_24
-そうそう、たった今女の子がふたりダチャオ像の方へ行ったがあれが今のはやりなのかナ？	Two girls just went off towards Da-chao. I wonder if that place is popular with the kids now?	今女子像方行	scene_24
-すぐそこに終わりが近づいている……	The end is right in front of us…	終近	scene_24
-てっぺんまでのぼることもできるんだけどちょっとアブないからよーくきをつけてねー！	I hear you can climb to the top, but since it's dangerous I'd be mighty careful if I were you!		scene_24
-ハイハイ、ハーイ！ハデハデなカッコをしたオジさんが、ダチャオ像の方に走っていったよ！	Alright, alright, alright! I saw an old man in flashy clothes running towards Da-chao!	像方走	scene_24
-もう逃げられないぞ、YUFFIE	You can't get away, YUFFIE.	逃	scene_24
-アンタたちの勝ちだ。マテリアはぜんぶ返すよ……	You win. I'll give you back your Materia…	勝返	scene_24
-YUFFIE、この町からは出てないよ、きっと！行っちゃうの？	I know she hasn't left town! You still want to leave?	町出行	scene_24
-チラシキャンペーンの おしらせ	Publicity Flyers! Notice		scene_24
-チラシは見るだけでオーケー！ 他のお客様のためにも やぶったりしないで下さいネ！！	All you have to do is read them. Please don't take them down or rip them up!!	見他客様下	scene_24
-ちがうの、おじじ！ぜんぜん知らない人よ！知らない人が勝手にあがりこんでるの！	No, Gramps! This isn't anyone you know! This is just some stranger who barged into our house!	知人勝手	scene_24
-ちがうの、おじじ！あれは、真っ赤に燃えてる星よ！みんなこわがってるの！	No, Gramps! That's a big red planet in the sky! Everyone's scared of it!!	真赤燃星	scene_24
-のみどころかめ道楽	Bar [Turtle Paradise]	道楽	scene_24
-……イリーナ、うるさいぞ、と	Elena, you talk too much.		scene_24
-せっかくの休暇がつぶれちまうぞ、と	Now our vacation is ruined.	休暇	scene_24
-もっと飲めよ、ルード、と。お前とくんでもう何年になる……？	Drink, Rude! How long have we been a team?	飲前何年	scene_24
-フン、運がよかったわね。さっさと消えなさい！	Hmm, you're lucky all right. Now get out of my sight!	運消	scene_24
-なんだかお客さんたちがきてから、そうぞうしいナ。なんかあったのかい？	Seems like the town got really lively since you arrived. Did anything happen?	客	scene_24
-ま、静かなフンイキがおれはすきなんだけどね	Let's just say that I like things quiet.	静	scene_24
-ジタバタしたってどうしようもねえんだ。みんなも酒でも飲めばいいのに……	Running around like a fool won't help matters any. So, we all might as well sit back and have a beer…	酒飲	scene_24
-い、今なんと……？	Ww, what was that?	今	scene_24
-しかし、ヤツを探せという指令が本社から君たちにも出されているはず……！	But you all have orders from headquarters to look for him too!	探指令本社君出	scene_24
-これがプロフェッショナルのタークスなんですか！？	I mean is that the way a professional, a Turk, would act!?		scene_24
-私にはわかりません！……失礼します！！	Well, I don't buy that! Goodbye!!	私失礼	scene_24
-ウーイ。旅の人、知ってるかい？このウータイにはむかし水神様がいたんだナ	Hey. Did you hear? There used to be a Water God here in Wutai.	旅人知水神様	scene_24
-水神様のうろこだとか水神様の力をふうじたマテリアとかがさ	Believe in the scales of the Water God and in Materia that has its power in it.	水神様力	scene_24
-ウータイ五強聖の塔	Wutai‚Pagoda	五強聖塔	scene_24
-古来よりこのウータイは五強聖とダチャオ様、水神様により守られてきたと言われているのです	Legend has it that the village has been protected by Da-chao, the Water God, and the Five Mighty Gods.	古来五強聖様水神守言	scene_24
-とは言え、そんなものがあってもさすがにあの、不気味に燃える星の炎までは消せそうもありませんが……	But, of course, I don't think they'd stand up to the fire that huge eerie-lookin' Meteor's gonna make when it crashes down.	言不気味燃星炎消	scene_24
-……と、言いたいところだが	That sounded okay.	言	scene_24
-YUFFIEがいないとマテリアも取りもどせない	And without YUFFIE, there's no way we'll get our Materia back.	取	scene_24
-あのガキがいねえとマテリアも取りもどせねえってこった	And without that brat, we can't get our hands on our Materia!	取	scene_24
-ところで、コルネオはいったいどこへ逃げたんだ？	Now, uh, which direction did Corneo run off?	逃	scene_24
-にしてもよ、あのヤロウいったいどこへ逃げやがった？	Anyhow, which direction did that %^$*& run off?	逃	scene_24
-グガーなにか用かな？	GOOGAH…what do you want?	用	scene_24
-知らぬと言ったら知らぬ！YUFFIEなどという者はこのウータイにはおらん！	Listen, I said I didn't know her! There isn't anyone named YUFFIE here in Wutai!	知言者	scene_24
-ただ、神羅ともめごとを起こそうというのなら早々に出ていってくれ	But, if you're in trouble with the Shinra, I'm going to have to ask you to leave.	神羅起早出	scene_24
-そんなに神羅がこわいの？	You scared of the Shinra?	神羅	scene_24
-いちど戦にまけたらそれっきり？強いウータイはどうしたのさ！	You got beat once, so what? That's it? What happened to the mighty Wutai I used to know?	戦強	scene_24
-セ、センス……？ポリーシー……？	Style? Dictate?		scene_24
-ウータイを守るには神羅にさからうわけにはいかないのだ	For the good of Wutai, we cannot stand up to Shinra.	守神羅	scene_24
-『かんざし』を手にいれた！	Received "Hairpin"!	手	scene_24
-鉄は熱いうちに打てってな！できたてのキレモノがそろってるぜ！	We got some of the best blades right out of the furnace! So strike while the iron's hot!	鉄熱打	scene_24
-ここにあるの？あ、いや、これは……	What's this here? Ah, no…that's uh…		scene_24
-ここは、あきらめない人間によるあきらめない人間のための武器屋！さあ、見てってくれ！	This is a weapon store of hard cores, by hard cores, and for the hard cores! Come on and take a look, why doncha!?	人間武器屋見	scene_24
-イロイロそろってるよ。自由にえらんでおくれ	We got a lot of different stuff here. Take what you want.	自由	scene_24
-ほら、ここはいなかだしそれに、神羅カンパニーともあまり、ね……	Listen, this is just a backwoods town. We don't have much to do with Shinra, and besides…	神羅	scene_24
-え？なに？何かあったの？	Huh? What? You DID?	何	scene_24
-……小さいころから聞かされてた	…I've been hearing that ever since I was little.	小聞	scene_24
-だからアタシは……マテリアがいっぱいあればきっと……だから、だから……	That's why… if I had lots of Materia I could…		scene_24
-ごめんなさいね、YUFFIE。あなたのキモチはわかるけど私たちにもマテリアは必要なの	I'm sorry, YUFFIE. I know how you feel, but we need Materia, too.	私必要	scene_24
-わかってる。そんなのアタシだってわかってるよ……	I know. I know that…		scene_24
-ま、しかたねえよな……	Ain't nuthin' we can do about it…		scene_24
-ケッ……オレ様は知らねえよ	Hmmph… I dunno.	様知	scene_24
-な、なんやねんなコレ！？	Wh, what is this?		scene_24
-ハッハッハーッ！そうかんたんに人を信用するなってこと！！	Ha, ha, ha--! Never trust anyone that easily!!	人信用	scene_24
-エヘヘ……カネだよ、カネ。わっかるー？	Heh heh… Steel…steel! Get it?		scene_24
-ちょ、ちょっとおいてかないでよ！	W..wait, don't leave us here!		scene_24
-待て、ひとりで追うな！	Wait, don't go by yourself!	待追	scene_24
-『かめ道楽』で飲まずしてウータイを語るなかれ！居酒屋『かめ道楽』はでっかいツボが目印です！！	Drink at the "Turtle's Paradise" and talk about Wutai! To find "Turtle's Paradise", look for the big pot outside!!	道楽飲語居酒屋目印	scene_24
-おまえは……！	You!		scene_24
-ほひ、ほひ！ほひひ～～～！！	Hohi, hohi! Hohihi!		scene_24
-やっと新しいおなごが手にはいったぞ～！	I've finally got a new chicky!	新手	scene_24
-コ……コラ、離しなさい！後でこうかいするわよ！！	H…hey! Let go of me! You're gonna regret this!!	離後	scene_24
-ムニャムニャムニャ……	Num, num…		scene_24
-ゴドー様はとなりにある五強の塔にこもりっきりじゃ。ゴドー様でもあんなものはどうにもならんて……	He's in the pagoda next to Lord Godo. Lord Godo says we're stuck…	様五強塔	scene_24
-お前たちは、勝手に行動しろ。ただし、イリーナに危害は加えるなよ、と	You do whatever you want. But don't endanger Elena.	前勝手行動危害加	scene_24
-お前たちも、ここがクサイと思ったか。あいにく、大ハズレ、と	You all thought they might be here too, huh?  We were way off.	前思大	scene_24
-とてもじゃないけど進めないわ！	There is no way past this!	進	scene_24
-は～な～せ～よ～！	LET…ME……GO!!!!		scene_24
-あ～ッ！こんなことなら、ナワ抜けの修行マジにやっとくんだったよ～！	Oh GAWD! If I knew this was gonna happen, I would've taken those rope lessons more seriously!!	抜修行	scene_24
-ほひ～！そのこばむしぐさがういの～、うぶいの～	Oooooh! And she's saucy, too! Wheee! Wheee!		scene_24
-ゲッ！CLOUD……！	Oh man! CLOUD……!		scene_24
-忘れたとは言わせないぞ	Don't tell me you forgot…	忘言	scene_24
-てめーみてえな、ゲスやろう神さんが許しても、このオレ様が許さねえ！	Maybe God'd forgive an ugly ^#@# like you, but I won't!	神許様	scene_24
-オッサン女にもてたいんやったらやり方ちゅうもんがあるやろ	Listen you stupid, slimy, sleazy old scab bag! If you want to get women, there's such a thing as the RIGHT way!	女方	scene_24
-んなこた、どーでもいーんだよ！ネエちゃんたちを、返してもらうぜ。腕ずくでもな！	I don't really give a damn! You're gonna let them go, or else I'm gonna break your arm!	返腕	scene_24
-これ以上、俺の花ヨメ探しのジャマをさせんためにも、俺の新しいペットと遊んでもらうぜ！	I'm gonna make you PLAY with my new pet, so you won't interfere in my search for a bride!	以上俺花探新遊	scene_24
-おうじょうぎわが、わりーぜ！とっつぁん！！	Don't be such a poor loser, old man!		scene_24
-このスイッチを押すと、このまま下に真っ逆さま……つぶれたトマトのでき上がり！	Once I push this button, they'll fall and we'll have SQUASHED TOMATOES!	押下真逆上	scene_24
-きったねえ手使いやがって……！	Damn tricky $#%@&T$*^%$ !	手使	scene_24
-……！	……!		scene_24
-タ、タークス！	…The Turks!		scene_24
-グワッ……！	Ugh…!		scene_24
-俺たちが、ヤツらと組んでまできさまを追いつめるのはなぜだと思う……？、と	Why do you think we went to all the trouble of teaming up with those guys to get you…?	俺組追思	scene_24
-ほひいいいぃぃぃぃぃ……	Aaaaaaaaaa……p		scene_24
-まさか、助けに来てくれるなんて……	I never thought you'd come…	助来	scene_24
-あ……ありがとう	Th…Thanks.		scene_24
-あんたらもええトコあるやないか	You guys have some good in you.		scene_24
-はい……はい……ただちに、かかります、と	Yes…Yes… I'll get on it right away.		scene_24
-いや、今日は非番だ、と	No, today's our day off.	今日非番	scene_24
-ウータイの者でなければこの塔に立ち入る事まかりならんッ！	Only those from Wutai may enter the tower!	者塔立入事	scene_24
-ま、そんなトコかな	Yeah		scene_24
-いよ！　オラ、シェイクってんだ！ゴーリキーと、あんたの手合わせはオラが見届けさしてもらうよ！	Yo! They call me Shake! I'll be watchin' your fight with Gorky!	手合見届	scene_24
-参りましたぞ、YUFFIE様！	Here I am, Miss YUFFIE!	参様	scene_24
-お言葉ですが、修行が足りませんぞ！このゴーリキー、がっかりしましたぞ！	In my opinion, you need more training! Gorky is disappointed!	言葉修行足	scene_24
-次は誰よ？	Who's next?	次誰	scene_24
-な、なんだって～！？	Wh, what did you say!?		scene_24
-ハナいきだけは一人前だね！ホントにやる根性あんの？	'bout the only thing you do really good is breathe! Are you sure you wanna fight?	一人前根性	scene_24
-では、このチェホフが立ち合いましょうぞ……	I guess it's Chekhov's turn…	立合	scene_24
-あんたらじゃダ～メ！ここはウータイ武闘術五強聖の塔だぜ！	You don't belong here! This is the Wutai Temple of Martial Arts!	武闘術五強聖塔	scene_24
-シェイクを倒さずして階上に上がることあいなりませんぞ……	You can't go to the next floor unless you beat Shake.	倒階上	scene_24
-そんなワケにはいかないのよね～！若さが強さってとこ教えたげるよ	That ain't going to happen! I'll teach you about the strength of youth!	若強教	scene_24
-ホッホッホ。魔の強聖のわらわと試合った後でも、そのへらず口きけるといいが……	Ho, ho, ho. We'll see if you still talk like that after you taste some of my Sacred Magic…	魔強聖試合後口	scene_24
-スタニフ	Staniv		scene_24
-そなたらでは、話にならぬぞえ	That being the case, we have nothing further to discuss.	話	scene_24
-あれ？　立ち合い人ってのは？	Huh? Who am I supposed to beat?	立合人	scene_24
-それでも、戦うかね……？	You still want to try…?	戦	scene_24
-武変化招来！	Weapon Change!	武変化招来	scene_24
-おっほ！思ったよりガキじゃないみたいじゃん！	Oh, ho! You might not be as much of a child as we thought you were!	思	scene_24
-労せずして実をえようとはこの４階まで来た者とも思えん所業……	You didn't seem like someone who could get to the fourth floor so easily…	労実階来者思所業	scene_24
-聞きたい事は、ワシの体におのれの技で聞くが良い！	I'll answer you by having you try your skills against me!	聞事体技良	scene_24
-今度こそ見てなよ。この、なまぐさボウズ！	I'll show you this time, you old Fart-meister!	今度見	scene_24
-何をしておる！総！　変！　化！　招！　来……ッ！！	What are you doing! OMNI-Change!!	何総変化招来	scene_24
-お前も……　腕を……あげたな……	You've…also…improved…	前腕	scene_24
-うわっはっはっは……！	Waha haaaaa!		scene_24
-ならば、後ほど受け取れい。忘れぬようにな！	Then, come back for it later. And don't forget!	後受取忘	scene_24
-しかし、ゴドー様。水神様のマテリアは、五強の塔を制覇し、新たに五強聖をおさめる者が持つのが、ならわし……	But, Lord Godo. Leviathan Materia should only be given to the person who conquers and takes over this Pagoda. That is our custom…	様水神五強塔制覇新聖者持	scene_24
-じゃ、あんたらは、い～の？ それだけの力があって……	Then what 'bout all of you? With all your power…	力	scene_24
-……何が言いたいんだい？	What do you mean?	何言	scene_24
-YUFFIEッ！！	YUFFIE!!		scene_24
-ゴドー様！	Lord Godo!	様	scene_24
-だが戦に負け、考えた……	But, after losing, I began to think…	戦負考	scene_24
-それでは神羅と同じではないか……	The same as Shinra.	神羅同	scene_24
-志のない力では、意味がない。力のない志では、それもかなわぬ……！	Strength without determination means nothing. And determination without strength is equally useless…!	志力意味	scene_24
-ま、大船に乗ったつもりでこのCID様にまかせときなって！	Well, just tell yourself you're on a big ship, and leave the rest to ol' CID!	大船乗様	scene_24
-……そうまで言われたらことわれないわね	…after that, how can we refuse?	言	scene_24
-行けい、YUFFIE！	Go, YUFFIE!	行	scene_24
-行ってこい！そして生きて帰って来い！	Go! And come back alive!	行生帰来	scene_24
-戦いが終われば、たぶん用ずみになるんではないかな？	Do you think they'll still want all their Materia?	戦終用	scene_24
-ヘヘ……あったりまえよ！	Heh, heh…you bet!		scene_24
-あの小娘はあいかわらずじゃろうて。そなたらも大変じゃのう	She's always like this. It'll be rougher on you.	小娘大変	scene_24
-YUFFIE様。ご武運を、おいのりしております！	Miss YUFFIE. We pray for your success!	様武運	scene_24
-そなたらも、あの小娘相手にたいぎなことじゃのう	Managing that girl must be exceedingly rough on you.	小娘相手	scene_24
-マテ……	Mat-…		scene_24
-『ドラグーンランス』を手にいれた！	Received "Dragoon Lance"!	手	scene_24
-休んでいこうかな	Yeah, let's get some rest	休	scene_24
-グズグズしてられねえ	No time to waste		scene_24
-なんだコリャ！？おい、マテリアのつけかたメチャクチャじゃねえよ！	What the hell's goin' on!? The order of the Materia's all messed up!		scene_24
-ううん、いつものアタシならあんなやつら、バシバシバシッ！！とかたづけちゃうんだけどさ	No, normally I would kick their butts, Boom, Bang!!		scene_24
-ま、なにはともあれマテリアはぶじに戻ってきたし	At least, after all that, we got the Materia back.	戻	scene_24
-……いや、やっぱりやめとこ。あいつら、いっぱいマテリア持ってるしな	…No, forget it. Besides, they have lots of Materia anyway.	持	scene_24
-誰が何と言おうとアタシはアンタたちについてくからね～！	No matter what you think, I'm going with you!	誰何言	scene_24
+荒れ地	Wilderness			待った待った待ったーっ！！	Wait, wait, wait, wai----t!!
+この先ってさあ、かなりキツイんだよね。だからね、いろいろ準備を……	It gets pretty tough past here. Better get ready…	アタシ、ここいらあたりはちょっとくわしいんだ	I know this area pretty well.	……ふ～ん……なんかアヤしいな～	…Hmmm… Something's fishy…
+ひょっとして私たちをダマそうとしてるとか……	Are you going to trick us again?	……本当に？な～んとなく、信用できないのよね	…Really? Something tells me I shouldn't trust you.	クンクン……ウサンクサイにおいがするよ	Hmm… Smells fishy.
+ちちちがうって！ホントのホントに大変なん……	No! It's REALLY tough…	それにYUFFIEの態度にもどこか不自然なものが……	There's something unnatural in the way YUFFIE's acting…	いたぞ、つかまえろ！！	There they are, catch 'em!!
+おい、違うぞ！　ヤツじゃない！こ、こいつら、例の！！	Hey, that's not them! These are the other guys from before!!	神羅兵	Shinra Soldier	YUFFIE、あなた、もしかして……	YUFFIE, did you by any chance…
+YUFFIE、あなたやっぱりイケナイこと考えてたでしょ！	So you WERE up to something!	これ『は』？これ『は』って、何？	This one? What do you mean 'THIS one'?	これ『は』って何だ！『は』って！	Whaddya mean 'this one'!? This one'?
+おめえ、やっぱり何かたくらんでやがったな！！	So you WERE planning some crooked $%*&!!	これ『は』っつうのは何だ！『は』っつうのはよ！	Whaddya mean 'THIS one'? THIS one'!?	これ『は』？『は』とはどういうことだ？	What do you mean, 'This one'?
+いったい、どうなってるの！？	What's going on!?	なんかたりねえと思ったらマテリアが、マテリアがなくなっちまってる！！	I knew somethin' was missing. All my Materia's gone!!	なんだかおかしいと思ったらマテリアが、マテリアがなくなってるじゃない！！	I thought something was odd… My, my Materia is missing!!
+おい……YUFFIEは……？	Hey…where's YUFFIE?	みろ、マテリアがぬきとられている……！	My Materia's been stolen…	ね……YUFFIE……は？	Hey…where's YUFFIE?
+チークーショーッ！！	ZOUNDS!!	まただますなんて！もう許さないから！	I'll never forgive her!	ガルルル……ガウッ！ガウウッ！！	Grrrrrrrgh… Grrrgh! Grrrrrgh!!
+北だ、北に逃げてったぜ！絶対に、絶対につかまえてマテリア取りもどしてやる！	She went North! When I get my hand on her, I'll get our Materia back!	あいつ、はじめっからオレたちのマテリアをねらってやがったんだ！！	She was after our Materia from the start!!	急げ！後を追うぞ！	C'mon! We're goin' after her!
+フン……どうやら北に逃げたらしいな	Hmm… Looks like she went North.	間違いねえ！はじめからオレ様のマテリアをねらってやがった！！	No doubt about it! That kid was after our Materia from the start!!	グズグズするない！すぐ出発するぞ！あのヤロー、とっつかまえてやる！！	Don't drag your asses! We're going right NOW! That $#@^% is history!!
+ここは歴史の地、ウータイ。めずらしいものもあるからごらんになるといいでしょう	Wutai is a historical place. There are some very unusual things here you should see.	人の生、ただ水の流れににたり。命の大海より流れいでまた大海へと帰るものなり	Life is just like a river. It flows from the large ocean of life, and eventually it returns back to it.	YUFFIEですか？さっきみかけましたよ。このあたりの家にいるんじゃないかしら……？	YUFFIE? I saw her a while ago. She must be in one of the houses around here.
+そんでもって、ものかげにかくれたりなんかして……まだまだコドモなんだナ	Other times she'll hide in the shadows just like a little kid.	YUFFIEのやつ、あの性格だからナ。ときどき、人の家なんかに勝手にあがりこんだりするんだよ	That's just how she is. Sometimes she'll just bust into people's houses.	そういえばさっきからYUFFIEみたいなコをみかけるな……	That reminds me, lately I've seen a kid around here that reminds me of YUFFIE.
+だからといって、私に何ができる？けっきょくいつもと同じ生活を送るしかないんだよナ……	But what can you do about it? Just go on living your life, day in and day out…	すぐそこに終わりが近づいている……	The end is right in front of us…	ハイハイ、ハーイ！ボク、しってます！	Alright, alright, alright! I know!
+『アタシの家！誰も入るな！』	This is MY house! Nobody gets in!	あの星がぶつかったらダチャオ像も、ウータイもみんなこわれちゃうの！？そんなのヤダ！	When that big star bashes into us, both Wutai and Da-chao are going to be dust! Can't we do anything?	もう逃げられないぞ、YUFFIE	You can't get away, YUFFIE.
+オイオイ、あのガキほっぽってくのか？絶対まだこの町にいるぜ！	You lettin' that damn kid off the hook? I know she's gotta be hiding around here somewhere!	YUFFIE、この町からは出てないよ、きっと！行っちゃうの？	I know she hasn't left town! You still want to leave?	YUFFIEならこの町から出てはいないと思うが……それでも行くのか？	She couldn't have left town… I think she is must still be here. Or, do you want to go on?
+おーおー、ひさしぶりじゃナ。今まで何しとったんじゃ。えーと…………誰だっけ？	Well, well. Long time no see. What have you been up to? Let's see…what was your name?	ウータイ・おじじの家	Wutai‚ Old Man's House	ちがうの、おじじ！ぜんぜん知らない人よ！知らない人が勝手にあがりこんでるの！	No, Gramps! This isn't anyone you know! This is just some stranger who barged into our house!
+お、お前たち！？なんでこんなところへ……	Yy, you!? How did you get here?	のみどころかめ道楽	Bar [Turtle Paradise]	そ、そんなことどうでもいいわ。私たちタークスに会ったのが運のつき	Never mind that. I guess it's fate that brought us together.
+……はい……	…Sorry…	……せっかくの酒もマズくなる	Even the booze tastes bad now.	もっと飲めよ、ルード、と。お前とくんでもう何年になる……？	Drink, Rude! How long have we been a team?
+地面がグラグラゆれたと思ったら今度はあのでっかい星……	First the ground started shaking, then that large star…	なんだかお客さんたちがきてから、そうぞうしいナ。なんかあったのかい？	Seems like the town got really lively since you arrived. Did anything happen?	や、やっぱりもう……ダメなのかいナ？	Y, you think… It's all over?
+……やなこった、と	…What a drag.	ついにヤツを発見したのだ！タークスにも協力をたのみたい！	We've finally found him! Get the Turks here for back-up!	い、今なんと……？	Ww, what was that?
+イリーナ。かんちがいするなよ、と	Elena. Don't misunderstand.	これがプロフェッショナルのタークスなんですか！？	I mean is that the way a professional, a Turk, would act!?	仕事のためにすべてを犠牲にするのがプロじゃない。そんなのはただの仕事バカだ、と	Those who sacrifice themselves for their job aren't pros… …just fools.
+でもこのウータイや世界のどこかにはまだあるらしいんだナ	But some in the world, and here in Wutai, still believe.	今は魔晄の世の中だ。そんなもん信じる人間も少なくなったけどナ	Now we live in a world filled with Mako. Not many people would believe in something like that now.	水神様のうろこだとか水神様の力をふうじたマテリアとかがさ	Believe in the scales of the Water God and in Materia that has its power in it.
+しかしこの前の戦ではそれもかなわず……やはり伝説は伝説にすぎなかったのかもしれません	But, in the last battle, we didn't fare so well… I guess our beliefs were only based on legend.	古来よりこのウータイは五強聖とダチャオ様、水神様により守られてきたと言われているのです	Legend has it that the village has been protected by Da-chao, the Water God, and the Five Mighty Gods.	水神様のうろこの話を聞いたことがありますか？	Have you ever heard of the Water God's scales?
+……いいだろう。こちらもYUFFIEをコルネオにさらわれた	…OK. Corneo took YUFFIE from us.	そこで……と	And uh…	YUFFIEがいないとマテリアも取りもどせない	And without YUFFIE, there's no way we'll get our Materia back.
+ええ、私たちもそのつもり。タークスと仲良くあくしゅなんてえんりょしておくわ	The same goes for us. We don't want to make friends with the Turks.	ところで、コルネオはいったいどこへ逃げたんだ？	Now, uh, which direction did Corneo run off?	ところで、コルネオはいったいどこへ逃げたのかしら？	Now, which direction did Corneo run off?
+……くどいな。知らぬものは、知らぬ	…You again? I said it once, and I'll say it again, I don't know her.	……YUFFIE？…………知らぬな、そんな名は。グーゴー	…YUFFIE? …Nope, never heard of her. …GOOGO…	知らぬと言ったら知らぬ！YUFFIEなどという者はこのウータイにはおらん！	Listen, I said I didn't know her! There isn't anyone named YUFFIE here in Wutai!
+だったら他の町みたいにさっさと神羅にしたがったらいいじゃないか！	Then why don't you just bow down and obey them like all the other towns?	そんなに神羅がこわいの？	You scared of the Shinra?	そこにいる連中の方が神羅とまともにたたかってるよ！	Those guys are the ones who are really fighting the Shinra!
+……やはり、早々にここから出ていってくれ	…Take your things and get out of here now.	フンだ、このグータラ親父！！	Hmph! You're a sad excuse for a father!!	ウータイを守るには神羅にさからうわけにはいかないのだ	For the good of Wutai, we cannot stand up to Shinra.
+あんたらもまだあきらめてないクチかい？	You aren't tired of my rambling?	鉄は熱いうちに打てってな！できたてのキレモノがそろってるぜ！	We got some of the best blades right out of the furnace! So strike while the iron's hot!	うれしいねえ！さあ、買った買った！	Great! Then come on in and start buying!
+『ＭＰきゅうしゅう』のマテリアを手にいれた！	Received "MP Absorb" Materia!	『ＭＰきゅうしゅう』のマテリアを盗まれた！	Stole "MP Absorb" Materia!	イロイロそろってるよ。自由にえらんでおくれ	We got a lot of different stuff here. Take what you want.
+ああ、ダメダメ。今、商品のいれかえをしているところなんだよ。あとでまた、来ておくれ	Oh, no, no, no! I'm just replacing these goods! You come back later.	え？なに？何かあったの？	Huh? What? You DID?	YUFFIEの家	YUFFIE's House
+マテリアさえ返してくれればそれ以上おまえを責めるようなことはしない	If you give it back now, we'll drop the whole thing.	俺たちに重要なのはいま俺たちのマテリアをおまえがもっているということだ	You've got our Materia and I want it back…now.	ごめんなさいね、YUFFIE。あなたのキモチはわかるけど私たちにもマテリアは必要なの	I'm sorry, YUFFIE. I know how you feel, but we need Materia, too.
+さあ、マテリアを……	Now, the Materia…	ま、しかたねえよな……	Ain't nuthin' we can do about it…	ちょっと言い過ぎたかな……	Were we a little too harsh on her?
+ハッハッハーッ！人の言うことは聞いとくもんだってこと！！	Ha, ha--! You should've listened!!	！？	!?	ハッハッハーッ！そうかんたんに人を信用するなってこと！！	Ha, ha, ha--! Never trust anyone that easily!!
+先にオイラたちを助けてよ～！	Help us first!	ちょ、ちょっとおいてかないでよ！	W..wait, don't leave us here!	先に、こっちを助けて～なぁ～！	Hey, help us…please!
+コラ、アタシをだれだと……あーっ！　何すんだよー！	Hey! Who do you think I… OW! What're you doin'? Jerk!	離せよ！　離せってば！ちょっと、イタ、イタタタタ！	Let go! I SAID let GO!	おまえは……！	You!
+いちどにふたりも！ほひ～ほひ～！	Two for one, in fact! Heh, heh!	やっと新しいおなごが手にはいったぞ～！	I've finally got a new chicky!	ふたり！？	Two!?
+あ～ダチャオ様……今こそあなたのお力を……	Oh, Great Da-chao… Please grant us your strength…	ムニャムニャムニャ……あの星がこのあたりに落ちてきませんように……	Num, num… I hope Meteor doesn't fall anywhere around here…	ゴドー様はとなりにある五強の塔にこもりっきりじゃ。ゴドー様でもあんなものはどうにもならんて……	He's in the pagoda next to Lord Godo. Lord Godo says we're stuck…
+そんなに遠くへは行けないはずだぜ、と	There's no way they could get this far.	お前たちも、ここがクサイと思ったか。あいにく、大ハズレ、と	You all thought they might be here too, huh?  We were way off.	これは無理だな。この炎じゃ、あっという間に黒コゲだ	Can't go through here… That flame would fry me in an instant.
+あ、あんた、私はタークスよ！こんな事をしてすむと思ってるの！？	He…hey, I'm a 'Turk'! Don't think you can get away with this!!	どっちのおなごにしようかな？ほひ～ほひ～！	Which shall it be? Hmm…Hmm…	あ～ッ！こんなことなら、ナワ抜けの修行マジにやっとくんだったよ～！	Oh GAWD! If I knew this was gonna happen, I would've taken those rope lessons more seriously!!
+ゲッ！TIFA……！	Oh man! TIFA……!	ゲッ！CLOUD……！	Oh man! CLOUD……!	ゲッ！CIDのオヤジ……！	Oh man! That old fart, CID!
+どうでもいいが、やり方がスマートではないな……	I don't care what you're doing, so much as the idiotic way you're doing it…	早くふたりを放せ！	Hurry and let the two go!	オッサン女にもてたいんやったらやり方ちゅうもんがあるやろ	Listen you stupid, slimy, sleazy old scab bag! If you want to get women, there's such a thing as the RIGHT way!
+ラプス　カムヒア！！	RAPPS---come here!!	これ以上、俺の花ヨメ探しのジャマをさせんためにも、俺の新しいペットと遊んでもらうぜ！	I'm gonna make you PLAY with my new pet, so you won't interfere in my search for a bride!	ちょ……	Wait…
+この、クサレ外道が……！	So this is how a loser lives!	ひきょうよ！	Coward!	きったねえ手使いやがって……！	Damn tricky $#%@&T$*^%$ !
+お前が秘密をもらした時から決まっていたのだ	You knew this was gonna happen ever since you leaked that secret.	タ、タークス！	…The Turks!	俺たちの手でほうむり去られるとな、と	We're going to take care of you… personally.
+や！　やめ……！	No! Wait, st…	どれも不正解、と	All wrong.	ほひいいいぃぃぃぃぃ……	Aaaaaaaaaa……p
+ありがと、助かっちゃった	Thanks for your help.	あ……ありがとう	Th…Thanks.	ともかく、今日んとこは礼を言うぜ	I uh, thanks for today.
+仕事か……？	Are we on?	そう、CLOUDたちを探せとな、と……	Yeah, they want us to find CLOUD…	いや、今日は非番だ、と	No, today's our day off.
+ま～さか～！	No way!	ま、そんなトコかな	Yeah	では、この１階の相手はこの力の強聖ゴーリキーがつとめさせていただきます！	Then I, Sacred Gorky, will be your opponent on the first floor!
+ま、次はどーかな？	Let's see how you do on next one…	へー、ただのはねッ返り娘かと思ってたけど、その程度は出来んじゃん！	Hmm, I thought you were just a girl, but you handled that pretty good!	お言葉ですが、修行が足りませんぞ！このゴーリキー、がっかりしましたぞ！	In my opinion, you need more training! Gorky is disappointed!
+ヘッヘ！　そうやってムキになるのがガキたるゆえんよ！	See what I mean? That kind of anger's what makes you so immature!	な、なんだって～！？	Wh, what did you say!?	のうがきは、速の強聖のオラに勝ってからにしな！	Don't pat yourself on the back until you beat me!
+ひゃ～っはっは！ガキガキガキガキ～！	HYAAAAAAH! BRATBRATBRATBRAT!!	うわっちゃ～！ちったーやるみたいじゃん！	URRGRAAAAGH! So you CAN fight a bit!	あんたらじゃダ～メ！ここはウータイ武闘術五強聖の塔だぜ！	You don't belong here! This is the Wutai Temple of Martial Arts!
+小娘が、いきがっておるとやけどくらいですまぬぞえ	Keep mouthing off like that, little girl, and you're going to get burned.	そんなワケにはいかないのよね～！若さが強さってとこ教えたげるよ	That ain't going to happen! I'll teach you about the strength of youth!	あいにく火遊びは大好きなの	I got insurance.
+やはり常人では、ここまでが限度か……	This is the average person's limit?	ホッホッホ！年はもいかぬ子娘に何がわかろうて……	Ho, ho, ho! What does a immature child know…?	そなたらでは、話にならぬぞえ	That being the case, we have nothing further to discuss.
+もっちろん！	Just come on!!	それでも、戦うかね……？	You still want to try…?	パス、パ～ス！	I'll pass!
+YUFFIE殿でなければ私が相まみえるわけには参りませぬな……	If it were not for Miss YUFFIE, I wouldn't be facing him…	最上階の立ち合いは我ら４人！あの方と相まみえていただきましょうぞ……！	You have defeated four of our best, but now you will have to face HIM!	労せずして実をえようとはこの４階まで来た者とも思えん所業……	You didn't seem like someone who could get to the fourth floor so easily…
+ほう、少しは腕を上げたか？	Hmm? A slight improvement.	今度こそ見てなよ。この、なまぐさボウズ！	I'll show you this time, you old Fart-meister!	全力で来い！総！　変！　化！　招！　来……ッ！！	Come at me with all you have! OMNI-Change!!
+アハハハハハ……ッ！	Ha ha haaaaaa!	……ふ　ふッ……	…Heh, heh…	うわっはっはっは……！	Waha haaaaa!
+ならわし、ならわしってもー聞きあきたよ！	CUSTOM, CUSTOM, CUSTOM… I'm so sick of hearing that!	しかし、ゴドー様。水神様のマテリアは、五強の塔を制覇し、新たに五強聖をおさめる者が持つのが、ならわし……	But, Lord Godo. Leviathan Materia should only be given to the person who conquers and takes over this Pagoda. That is our custom…	バッカじゃない！？	It's so stupid!
+やれやれ、やっぱガキだな	She IS a kid.	そんなんで、いーのかよ！ダチャオ像も、水神様も泣いてるよ！！	How dare you!? Da-chao Statue and Leviathan are ashamed!!	YUFFIEッ！！	YUFFIE!!
+強さとは、相手をたおすためのものなのか？	Is strength for beating enemies	だが戦に負け、考えた……	But, after losing, I began to think…	他者に対し見せつけるものなのかとな……	…or just something to show-off?
+そなたたちは、志と力その２つを持っている！	I perceive that you all have both determination and strength!	そなたたち、YUFFIEを同行させてやってくれい！	You there, please take YUFFIE with you!	ま、大船に乗ったつもりでこのCID様にまかせときなって！	Well, just tell yourself you're on a big ship, and leave the rest to ol' CID!
+ウータイに真の強さを根づかせるためにもな！	For the sake of Wutai!	行けい、YUFFIE！	Go, YUFFIE!	オヤジ……	Dad…
+マテリアを持ってな！	With the Materia!	行ってこい！ 最後まで生き残れ！ そして帰って来るのだ！	Go! Fight till the end! But come back!	ヘヘ……あったりまえよ！	Heh, heh…you bet!
+おお、そなたら！YUFFIE様は、お元気ですかな？	Oh, you there! How is Miss YUFFIE doing?	YUFFIE様。ご武運を、おいのりしております！	Miss YUFFIE. We pray for your success!	YUFFIE様に見そめられるとはそれがしたちも、かなり腕にはおぼえがあられますな	Winning Miss YUFFIE's heart must mean you have tremendous skill.
+いや、YUFFIEをよろしく頼みますぞ……！	I mean, please look after YUFFIE…!	そなたら、マテ……	Your Mat-…	『ドラグーンランス』を手にいれた！	Received "Dragoon Lance"!
+フー、これでバッチリ。マテリアはもとどおり！	Phew, perfect. Now the Materia is back in its rightful place.	グズグズしてられねえ	No time to waste	おい……マテリアのつけかたがメチャクチャだ	Hey…the order is all messed up.
+そうそう、そう言えばあのタークスの連中けっこうイイところあるよね	You know, some of those Turk guys are pretty good, huh?	あれならアタシの親父のほうがずっとマシだよ	I'd rather deal with my dad than with that guy.	ま、なにはともあれマテリアはぶじに戻ってきたし	At least, after all that, we got the Materia back.
+……そんでもってつぎこそかならず……	…Next time…	誰が何と言おうとアタシはアンタたちについてくからね～！	No matter what you think, I'm going with you!		

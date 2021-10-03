@@ -1,35 +1,14 @@
-なんだ、おまえたちは！	Who goes there!?		scene_01
-ジェシー	Jessie		scene_01
-今はもう神羅（しんら）をやめちまって俺たちの仲間ってわけさ	But he quit and is with us now.	今神羅俺仲間	scene_01
-あんたたちの名前なんて興味ないね。どうせこの仕事が終わったらお別れだ	I don't care what your names are. Once this job's over…I'm outta here.	名前興味仕事終別	scene_01
-【キャンセル】ボタン（初期状態では×）を押しながら方向ボタンを押せば速く走ることができる。遅れずについてこい！	Press the Directional buttons while pushing [CANCEL] to run.	初期状態押方向速走遅	scene_01
-スイッチオン	Switch On.		scene_01
-たのんだぜソルジャーさんよ！	Don't mess up SOLDIER-boy!		scene_01
-この星は魔晄（まこう）エネルギーに満ちている。住民はその魔晄エネルギーを使って日々生活している	The Planet's full of Mako energy. People here use it everyday.	星魔晄満住民使日生活	scene_01
-クッ……	@#&^%$!		scene_01
-悪いけど興味がないな	It's not my problem.	悪興味	scene_01
-ビッグスがいないとコード解除できない	Can't decipher code without Biggs	解除	scene_01
-サンキュー！	Thanks!		scene_01
-はしごの前では【決定ボタン】を押して。そうすればはしごにつかまるわ。後は【方向キー】の上下で、のぼりおりするの	Push [OK] in front of a ladder to grab on to it. Then use the [Directional button] to climb up and down.	前決定押後方向上下	scene_01
-ジェシーがまだあがって来てないんだ！	Jessie still isn't back yet!	来	scene_01
-オレ？　オレは見張らせてもらう。おまえさんがおかしなマネをしないようにな	Jus' do it! I gotta watch to make sure you don't pull nothin'.	見張	scene_01
-…………うした？	What's wrong?		scene_01
-本格的にやってくるぜ	Heads up, here they come!	本格的	scene_01
-爆発　１０　分前	Ten minutes to detonation!	爆発分前	scene_01
-残り　１０　秒	Ten seconds remaining	残秒	scene_01
-残り　２　秒	Two seconds remaining	残秒	scene_01
-……TIFA	…TIFA.		scene_01
-わかってるさ。あんたは俺の見張りだろ？	I know. You're my chaperon‚ right?	俺見張	scene_01
-急ぎましょう、CLOUD	Let's hurry‚CLOUD.	急	scene_01
-８番街	Sector 8	番街	scene_01
-金の話なら無事にアジトに帰ってからだ	If it's about your money, wait 'til we get back.	金話無事帰	scene_01
-逃げたほうがいい	You'd better get out of here	逃	scene_01
-花なんて、めずらしいな	Don't see many flowers around here	花	scene_01
-もらおう	Buy one		scene_01
-はい！	Here you are!		scene_01
-いったい何がおこったって言うのよ	Just what the hell's going on!?	何言	scene_01
-魔晄は星の命！	Mako is the Planet's life source!	魔晄星命	scene_01
-兵士	Soldier	兵士	scene_01
-こっちだ！！	Over here!!		scene_01
-たわごとを……よし捕らえろ！！	Enough babbling… Grab him!!	捕	scene_01
-めんどくさいから逃げる	Later!	逃	scene_01
+なんだ、おまえたちは！	Who goes there!?			行くぞ、新入り！オレに続け！	C'mon newcomer. Follow me.
+……CLOUDだ	…CLOUD.	まだ名前聞いてなかったよな。教えてくれ	Didn't catch your name…	CLOUDか、おれは……	CLOUD, eh? I'm…
+スイッチオン	Switch On.	しっかし、この大きな魔晄炉（まこうろ）を爆破するなんて……みものっすね！	Geez, we're really gonna blow this huge furnace up? This'll be somethin' to see!	さ、そこのボタンを押して！	Push that button over there!
+魔晄はこの星を流れる血だ。それを神羅（しんら）って会社はガンガン吸い出していやがる。このへんちくりんなスクラップでな……	It's the life blood of this Planet. But Shinra keeps suckin' the blood out with these weird machines.	でも誰も魔晄の本質を知らねえんだ。おまえ、知ってるか？	[EMPTY LINE]	能書きはいい。先を急ごう	I'm not here for a lecture. Let's just do it.
+ビッグスがいないとコード解除できない	Can't decipher code without Biggs	コード解除	Code deciphered	ジェシーがいないとコード解除できない	Can't decipher code without Jessie
+行くぞ！	Let's go!	そう、その調子！	There you go!	さ、あせらないで	Alright, be careful.
+…………うした？	What's wrong?	ここはただの発電所じゃない！！	This isn't just a reactor!!	え？	Huh?
+残り　１　分	One minute remaining	残り　２　分	Two minutes remaining	残り　３０　秒	Thirty seconds remaining
+……TIFA	…TIFA.	だいじょうぶ？	You all right?	ん？	Mmm?
+そうっすね	Yeah.	星の命……ちょっとはのびたかな	That should keep the planet going… at least a little longer.	出来た！下がって	OK! Now everyone get back.
+逃げたほうがいい	You'd better get out of here	何があったの？	What happened?	気にするな……それより	Nothing…hey…
+あっ、ねぇ、お花はいらない？たった１ギルよ	Uh, excuse me, would you like to buy some flowers? They're only one gil.	やめとくよ	Forget it	わあ、ありがとう！	Oh, thank you!
+魔晄は星の命！	Mako is the Planet's life source!	魔晄エネルギーは永遠ではない！	Mako energy doesn't last forever!	いつか終わりがやってくる！	The end is in sight!
+ここまでだな	That's as far as you go.	めんどうだな…	What a pain…	残念だが、おまえらの相手をしてるほどヒマじゃないんでな	I don't have time to mess around with you guys.

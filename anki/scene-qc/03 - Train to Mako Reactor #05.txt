@@ -1,84 +1,34 @@
-ミッドガル８番街ステーション発最終列車～	Last train out of Sector 8 Station.	番街発最終列車	scene_03
-おい！！こら……！！	Hey!! What's going on here?		scene_03
-たのみますよぅ！！他のお客さんの迷惑になりますから…	Please!! Don't bother the other passengers.	他客迷惑	scene_03
-しかし、魔晄炉爆破とは考えたよな。リーダーはさしずめ頭の切れるヤツだな。次は、何やるんだろな？	…Blowing up a Reactor… they sure put some thought into this one. They must have a real calculating leader. I wonder what they'll do next?	魔晄炉爆破考頭切次何	scene_03
-また危ない人たちといっしょか。私もつくづく運がないな	…Hoodlums again. God, don't I just have all the luck?	危人私運	scene_03
-どうなってる？	What's goin' on?		scene_03
-ニュ、ニュースぐらい見てるだろ？アバランチの爆弾テロ予告があったんだ	You…you've seen the news, right? AVALANCHE says there'll be more bombings.	見爆弾予告	scene_03
-わ、私は暴力にはくっしないぞ～。こ、この席だって、ゆずらない	I won't give in to violence… and I'm not giving you my seat either!	私暴力席	scene_03
-ケッ！　落ちついた野郎だぜ！こっちのペースがくるっちまう…	@#$%! The hell you so calm? You're bustin' up my rhythm!	落野郎	scene_03
-へヘ……有名か…	Heh heh… Famous…	有名	scene_03
-しかたねえ……せ、説明してやるっ！	Alright…I'll tell ya!	説明	scene_03
-今までのニセＩＤはもう使えねえ…	We can't use our fake ID's anymore…	今使	scene_03
-よし、あと３分たったら列車から飛び降りる	Alright, in three minutes, we're jumpin' off this train.	分列車飛降	scene_03
-あいにく、列車ではすわらない主義でね	Sorry, but I have a thing against sitting down in trains.	列車主義	scene_03
-ヘッ！　元ソルジャーの物知りさんよ！五番魔晄炉のあたりは、くわしいんだろ！	Yo, Mr. Know-it-all, big time SOLDIER! You oughta know the area 'round the No. 5 Reactor, right!	元物知五番魔晄炉	scene_03
-あら、BARRET！相手してあげましょうか？	Oh, BARRET! Are you mad because I'm not paying enough attention to you?	相手	scene_03
-ま、いいわ。もっとそばにきて	It's all right. Come a little closer.		scene_03
-各車両緊急チェックに入ります	A search of all cars will be conducted!	各車両緊急入	scene_03
-まっずいことになっちゃったわ	We're in trouble.		scene_03
-チッ！！　ウスノロッ！！ここまでか……	C'mon!! Hurry your slow ass up! That's it, huh?		scene_03
-ん……？俺ん家来て、あいさつするのはあんただけ	Hmmm? You're the only ones that'll talk to me or come to my house.	俺家来	scene_03
-フェニックスの尾を手にいれた！	Received "Phoenix Down"!	尾手	scene_03
-車両１に未確認ＩＤ検知	Unidentified passengers located in Car #1	車両未確認検知	scene_03
-警戒レベル１	Level 1 Warning	警戒	scene_03
-さ、いそいで！！	Let's  hurry!!		scene_03
-え……！いえない	Ugh! I'm not sure…		scene_03
-おれたちは予定通り例のアレを実行する	We'll execute it just as we planned it.	予定通例実行	scene_03
-作戦２にチェンジよ！	Changing to Plan 2!	作戦	scene_03
-ぜんぜんっだめね！	That didn't do anything!		scene_03
-車両２ドアロック完了	Car #2: Locked Down	車両完了	scene_03
-おう！じゃますんな！	Hey, yo! Jus' keep the hell outta my face!		scene_03
-列車のなかではおぎょうぎよくしてね	Please behave while you're in the train.	列車	scene_03
-まちがいだ	My mistake		scene_03
-ハイポーションを手にいれた！	Received "Hi-Potion"!	手	scene_03
-車両２ロック完了	Car #2: Locked down	車両完了	scene_03
-警戒レベル３	Level 3 Warning	警戒	scene_03
-よし！！ぬけたか！？	Alright! We clear!?		scene_03
-説明？　いいの？ＯＫ！！　まっかせといて	You want an explanation? OK!! Let me.	説明	scene_03
-でも、旧式だけにちょろいもんよ	But it's an old system, we can get past it.	旧式	scene_03
-ごめんなさい	I'm so sorry.		scene_03
-こんどはもっとましなものプレゼントするわ。	I'll make a better one next time.		scene_03
-もうすこしだったのに	We were almost there.		scene_03
-車両３ドアロック完了	Car #3: Locked Down	車両完了	scene_03
-ハァハァ……	…heave…breathe…		scene_03
-さらば、グッバイ、アディオス！ミッドガル！！	Later…Goodbye…Adios, Midgar!!		scene_03
-むぎゅ～～	urrrrrrrg		scene_03
-そうだ	That's right		scene_03
-目が覚めたら、すっぱだかで男３人だった気分！	All I know is, when I woke up, the 3 of us were butt-naked!	目覚男人気分	scene_03
-ブルブルブル……	Brrrrrr…		scene_03
-わかってるよ。いいたいこと	I know what you want to say.		scene_03
-車両４ロック完了	Car #4: Locked Down	車両完了	scene_03
-いくぜ！！こっからダイブだ！！	Let's go!! We're gonna dive outta here!!		scene_03
-おふたりさん時間がないぞ！	Hey you two! There ain't no time for that!	時間	scene_03
-リーダーは最後まで残るもんだ	A leader always stays till the end.	最後残	scene_03
-わかるっすか？俺、ウェッジっす！	Guess who? It's me, Wedge!	俺	scene_03
-私、ジェシーよ。どう、CLOUD？	It's me, Jessie. How do I look, CLOUD?	私	scene_03
-……すてきだよ、男勝りで	…You look great, just like a man.	男勝	scene_03
-おれ、一度でいいからこんな格好してみたかったんだ	I always wanted to dress up like this.	一度格好	scene_03
-螺旋トンネル	Winding Tunnel	螺旋	scene_03
-ゲームの状態を保存できます。	[SAVE] to save your game.	状態保存	scene_03
-この光の帯は、神羅の警報センサー。これ以上、奥には進めないな	Those light beams are the Shinra's security sensors. We can't go any further.	光帯神羅警報以上奥進	scene_03
-侵入者だ！	Intruders!	侵入者	scene_03
-か～っ、せまっちい穴だな。ここからプレートの下にもぐれってのか？たまんねぇぜ	That's one damn tiny hole. You tellin' me to squeeze into that to get under the Plate? No way!	穴下	scene_03
-おりない	Don't go		scene_03
-入らねぇのか？ここを通る以外には、五番魔晄炉にいく方法はないんだぜ	Whaddya mean we're not goin' in? There ain't no other way of gettin' to the Sector 5 reactor 'cept through here.	入通以外五番魔晄炉方法	scene_03
-よし、ここまでは予定通りだ	Good, so far everything's going as planned.	予定通	scene_03
-まだ、オレたちが潜入したことはバレていないはずだ。五番魔晄炉まで一気に行けるぞ	They probably don't know we sneaked in yet. We'll be at the reactor in no time.	潜入五番魔晄炉一気行	scene_03
-CLOUDさん、こっちっす。五番魔晄炉はこのハシゴの先っす	CLOUD, this way. The reactor's up this ladder.	五番魔晄炉先	scene_03
-CLOUDのＩＤカード。私の特別製にしたから……	I modified your ID card… And that's what did it…	私特別製	scene_03
-セフィロスね！	Sephiroth!?		scene_03
-よし、行くぞ	Alright, let's go.	行	scene_03
-こっちだ！	This way!		scene_03
-プ、プレジデント神羅？	Pres…President Shinra?	神羅	scene_03
-ひさしぶりだな、プレジデント	Long time no see, sir.		scene_03
-CLOUD、だ	CLOUD.		scene_03
-セフィロスだと……？	Sephiroth?		scene_03
-キサマら神羅は、この星を死に追いやろうとする寄生虫じゃねぇか！その親玉であるキサマが何をえらそうにホザく！	Shinra're the VERMIN for killing the Planet! Guess that'd make you King VERMIN! So shu'up jackass!	神羅星死追寄生虫親玉何	scene_03
-キミたちの遊び相手は別に用意させてもらった	But, I've made arrangements for a playmate for you all.	遊相手別用意	scene_03
-待て、プレジデント！	Wait, President!	待	scene_03
-これ、ソルジャーなの？	THIS is from SOLDIER?		scene_03
-もうすぐ爆発する！行くぞ、TIFA！	It's gonna blow! Let's go, TIFA!	爆発行	scene_03
-わかってる、TIFA	I know, TIFA…		scene_03
-自分の心配でもしてろ！俺はいいからTIFAを！	You worry about yourselves! I'm all right, but take care of TIFA!	自分心配俺	scene_03
-情けない声だすんじゃねえよ。悪いが何もしてやれそうにない。自分でなんとかしてくれ	Don't go cryin' like a woman. There ain't nothin' I can do for ya. Ya gotta do it on your own.	情声悪何自分	scene_03
+ミッドガル８番街ステーション発最終列車～	Last train out of Sector 8 Station.			終点、スラム７番街列車基場駅～	Last stop is Sector 7, Train Graveyard.
+神羅新聞の号外見たかい？	You see the headlines in the Shinra Times?	これだから終電はまいるよ…。はあ……	This is why I hate the last train. Hoo-boy…	壱番魔晄炉爆破のテロリストはスラムにひそんでるらしいぞ	The terrorists that bombed the No. 1 Reactor are based somewhere in the slums.
+どうなってる？	What's goin' on?	おいっ！！ずいぶんすいてやがるな	Now look at that!! It got empty alluva sudden.	ヒッ！！	DAMN!!
+チッ！！あんた、ついてるぜ	&$#%!! You lucky ^$#^$.!	BARRET！！	BARRET!!	さて、どうするんだ？	So, what are we gonna do now?
+しかたねえ……せ、説明してやるっ！	Alright…I'll tell ya!	ヘッ！　仕事熱心だな。CLOUDさんよ！	Hah! Listen to Mr. Serious-about-his-work!	ジェシーから聞いただろうが上のプレートとの境界には検間がある。	Jessie's probably already told you, but there's a security check point at the top plate.
+それまでは、どうしたらいい？	What do we do until then?	いいな！	Got it!?	どうもこうもねえ。そのへん、すわってろ	The hell do I care whatcha do? Just siddown an' shu'up.
+あら、BARRET！相手してあげましょうか？	Oh, BARRET! Are you mad because I'm not paying enough attention to you?	ケッ！なにしにきたんだか！	@#$%! I don't know even why you came!	チッ……！！	@#$%!!
+どういうこと？	What's happening?	くりかえします	Repeat!!	どうなってんだ！！	What's goin' on?!
+ん……？俺ん家来て、あいさつするのはあんただけ	Hmmm? You're the only ones that'll talk to me or come to my house.	ああ～　たくさんバトルね。たいへんよ、きっと	We got a lot of battles ahead of us. This's going to be tough.	感心、感心	I'm impressed.
+車両１ドアロック完了	Car #1: Locked Down	ドアロック準備	Preparing for Lock Down	未確認ＩＤを駅まで護送します	Car being sent to the station
+え……！いえない	Ugh! I'm not sure…	なにを！？	What!?	あそびじゃねえんだぞ	C'mon, this ain't no joke!
+ガンガンいくぜ！	We gonna kick some ass!	チッ！！しようがねえ…	Damn!! I guess there's no other way…	チッ！！もうおしまいかよ！	What!? That's it!?
+おう！じゃますんな！	Hey, yo! Jus' keep the hell outta my face!	すごいね。いつもこんな調子なの	Yes, it's really something. It's always like this.	ヒュ～ン！！ヒュ～ン！！	Hyu---n!! Hyu---n!!
+あ～ん？くせになるから気をつけな	What? Don't get used to it though.	ホゥ！無料ほうしにしとくぜ	Wow! I won't even charge you…	あ～ん？必要になったらいっとくれ	Wha-t? Let me know when you need me.
+警戒レベル３	Level 3 Warning	現在位置の再確認に入ります	Currently tracking location	車両３をロックします	Car #3: Lock down
+未確認のＩＤを検知したら車両がロックされるシステムなの	Once it identifies an illegal ID, the system automatically locks down each car.	この列車の警戒装置は、旧型の神羅Ａ式	This train's security system is the old Shinra A system.	そのまま、駅に護送されて神羅警備兵にかこまれちゃうってわけよ	It'll stay locked until it gets to the station, where Shinra guards will be waiting.
+こんどはもっとましなものプレゼントするわ。	I'll make a better one next time.	心をこめたつもりだったんだけどね。失敗しちゃった	I did my best, but it just didn't work.	先にアジトに帰って研究開発にはげんでるからね	I'll head back to the hideout first and work on research and development.
+車両４ドアロック完了	Car #4: Locked Down	車両４に未確認ＩＤ検知	Illegal ID identified in Car #4	ウッー！！　話かけんなよ！わかんなくなっちゃうだろ	Shu'up!!  Don't talk to me! You're gonna mess me up!
+むぎゅ～～	urrrrrrrg	シュタッ！！	Yesss!!	に、逃げ場がない……	…Nowhere to run…
+こわい年上の女性がわたしに爆弾をつきつけて……	That scary broad made me take the bomb.	わかんないでしょうねぇ	But I guess you couldn't relate…	ことわれませんでした、ハイ	Of course I couldn't very well refuse her!
+車両４ロック完了	Car #4: Locked Down	車両４をロックします	Car #4: Lock Down	警戒レベルＭＡＸに移行	Upgrading to maximum security alert!!
+よっく、見てて。私、飛ぶから！！	Watch closely. I'm gonna jump!!	うん！！決めた！	Yeah!! I've made up my mind!	さきにいくがかまわないな？	You don't care if I go first?
+私、ジェシーよ。どう、CLOUD？	It's me, Jessie. How do I look, CLOUD?	いまごろ、どうしてるかなあ	I wonder how everyone is now?	神羅の制服、似合ってるかな？	Do I look good in a Shinra uniform?
+……なんとかしてやれ！	…Do something!	おう！！時間がねえ！！	Yo!! Ain't no time to waste!!	じゃな！あとしまつはたのんだっ！	Later! You take care of the rest!
+この光の帯は、神羅の警報センサー。これ以上、奥には進めないな	Those light beams are the Shinra's security sensors. We can't go any further.	きさま、アバランチだな！	You're the AVALANCHE!	神羅の警備兵がいる。……もどるしかないか	Shinra security guards are there. …We've got to turn back.
+中をよく見てみる	Look inside	どうする、CLOUDさんよぉ？	Yo, CLOUD, what're we gonna do?	おりる	Go down
+よし、ここまでは予定通りだ	Good, so far everything's going as planned.	ああ。このダクトをおりたらここには、もどってこれないぞ	Yeah. If we go down this duct, we won't be able to come back.	やばかったぜ。神羅のやつらに見つかるかと思った……	That was close. I thought we were gonna get caught…
+CLOUD、五番魔晄炉の爆破よろしくたのむぜ！	CLOUD, we're countin' on you to blow the reactor!	おれたちは、これで引き上げる。アジトで落ち合おうぜ	We're gonna pull out now. We'll meet up at the hideout.	こんどはもっとましなものプレゼントするわ	Next time, I'll give you something better.
+よし、行くぞ	Alright, let's go.	ぜんぶ大キライ！	I hate them all!	３人同時にボタンを押せってジェシーが言ってたわ	Jessie said we all have to push the button at once.
+ほほう。君たちがアレかね。……なんて言ったかな？	Hmm… So you all must be… What was it?	なぜ、プレジデントがここにいるの？	Why is the President here?	アバランチだ！　覚えておけ！おまえはプレジデント神羅だな	AVALANCHE! And don't ya forget it! So you're President Shinra, huh?
+セフィロスだと……？	Sephiroth?	そう、セフィロス……。優秀なソルジャーであった。そう、優秀すぎる……な	Aah, Sephiroth… He was brilliant. Perhaps too brilliant.	んなこたぁ、どうでもいい！もうすぐここはドッカン！！だぜ！ざまあみやがれ！	Don't give a damn 'bout none of that! This place's goin' up with a big BANG soon! Serves y'all right!
+な、なんだコイツは！！	The hell is that!?	！？　何の音？	What's that noise?!	では、失礼	Now then, if you'll excuse me.
+もうすぐ爆発する！行くぞ、TIFA！	It's gonna blow! Let's go, TIFA!	なんでもいい！！ぶっこわしてやるぜ！	I don't care what it is!! I'm gonna bust him up!	BARRET！何とかならないの？	BARRET! Can't you do something?
+これで終わりみたいな言いかたはやめてくれ！	Stop talkin' like this is the end!	……そうか。いろいろ悪かったな	…Alright. Sorry 'bout all this.	じゃ、あとでな	OK, hold on!

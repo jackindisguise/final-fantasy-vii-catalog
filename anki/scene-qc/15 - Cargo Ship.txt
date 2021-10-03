@@ -1,44 +1,18 @@
-運搬船	Cargo Ship	運搬船	scene_15
-ないね	Nope		scene_15
-他のれんちゅう？	Where are the others?	他	scene_15
-いや……ちが……う……あれ……人間じゃ……人間なんかじゃ……な……	No…there's no way… that…not a human… That thing's not human.	人間	scene_15
-フフフ……わたし。AERISよ	Umm…It's me AERIS.		scene_15
-ね、わたし、あれにのれるかな？	Hey, do you think I could get on it?		scene_15
-……そっかぁ。でも、一回でいいからのりたいなぁ	…Hmm. But just once, I'd like to ride it.	一回	scene_15
-一練にのろうね、飛空艇。約束、約束！	Let's ride the Airship together, OK? Promise, promise me!	一練飛空艇約束	scene_15
-ヨッシャ、新社長にいいトコ見せたるぞ～！	All right! I'm going to show the new President what I'm made of!	新社長見	scene_15
-これだけ働いてるのにまだ働けってのか？	I'm workin' hard already, and you still want me to do more?	働	scene_15
-こんな近くにいるってのに手が出せねえなんて……	They're this close but we can't do a thing to 'em…	近手出	scene_15
-ウヌヌ……グヌヌヌ……！グヌヌヌヌ……！！	Ggggggggh… Ggggh… Ggggggghhh!!		scene_15
-くりかえす。不審人物を発見の報告アリ！作業のない各員は監内を調査。発見しだい通報のこと！	I repeat… Stowaway sighted on board! Those not on detail, search the ship. Report when found!	不審人物発見報告作業各員監内調査通	scene_15
-ハッ！イジョウなしであります。ソルジャーどの！	Yes sir! Everything quiet, sir!		scene_15
-はやく、なくなるといいね。ね、CLOUD？	I wish they'd all disappear. Right, CLOUD?		scene_15
-……CLOUD。その服を着たらすこしかわったみたい	…CLOUD. Wearing those clothes seems to have changed you a little.	服着	scene_15
-つかれたんだ……	I'm tired…		scene_15
-まあいいか、海の男はこまかいことを気にしねえのよ！	Oh well, seamen never bother with details!	海男気	scene_15
-コレ１本でビンビンよ！２５０ギルだ！	Just one'll rejuvenate you! Only 250 gil!	本	scene_15
-船乗りだけにこれがホントのマストアイテム！ワッハッハッハ！	This is a must item for a sailor! Ha ha ha !	船乗	scene_15
-オウオウ！海の男がケチケチすんない！	Hey! Seamen shouldn't be so stingy!	海男	scene_15
-人間というものはたいてい、ものごとのそとがわしか見ないからな	Humans only look at appearances anyway.	人間見	scene_15
-向こうについたらひさしぶりの休みだ。ビーチで体をやこうかな……	When I get there, I'm going to take a long overdue vacation. Maybe I'll go down to the beach and get a tan…	向休体	scene_15
-あれ？	Huh?		scene_15
-セフィロス！？	Sephiroth!?		scene_15
-それがもっとも論理的な行動だな。さて、誰が行く？	It's the most logical thing to do.  Then, who's going to go?	論理的行動誰	scene_15
-……よし、行こう！	…All right, let's go!	行	scene_15
-この服はきゅうくつだ。できればそっちに加わりたい	These clothes are too tight on me. Can I switch with you?	服加	scene_15
-『風斬り』を手にいれた！	Received "Wind Slash"!	風斬手	scene_15
-……時は……	…the time…	時	scene_15
-CLOUD、あれ！！	CLOUD, look!!		scene_15
-…………だれだ	…Who are you?		scene_15
-何！？　何を言ってるんだ！？もっと……	What!? What are you saying!? Be more…	何言	scene_15
-これは神羅ビルから消えた……	That's what disappeared from the Shinra building…	神羅消	scene_15
-ジェノバ……こんなのと、いっしょに？	Jenova… With this thing?		scene_15
-やっぱりセフィロスだった	So it WAS Sephiroth.		scene_15
-時は満ちた……どういう意味だ？	The time is now? What does that mean?	時満意味	scene_15
-ワケがわかんねえぜ！	I don't know WHAT the hell's goin' on!		scene_15
-ねえCLOUD。ちょっとまとめて、ね？	Hey, CLOUD. Can you explain it to us?		scene_15
-フム……話はさほど単純ではなさそうだ。	Hmm… The story's not that simple.	話単純	scene_15
-……やってみるから途中で口をはさまないでくれよ	…I'll try, but don't interrupt me while I'm explaining.	途中口	scene_15
-そしてセフィロスはジェノバを持ち歩いている	He was carrying Jenova with him.	持歩	scene_15
-約束の地……本当にあるのか……？	The Promised Land… Does it really exist…?	約束地本当	scene_15
-これ以上ここにいるのはかしこいとは言えないな	I don't think it's wise to stay here any longer.	以上言	scene_15
+運搬船	Cargo Ship			ウ～……これだから……船はイヤなんだ	Urrrgh… This is why…I hate ships.
+そんなのアタシが知ってるわけ……ウ……プ……	How should I know…?  Ugh…urk…	さあ、そのへんにかくれてんじゃないの？	I dunno. Aren't they hiding somewhere around here?	……機関室に……不審……人物……	…the Engine Room… …a suspicious…character…
+ね、わたし、あれにのれるかな？	Hey, do you think I could get on it?	すっごいよね～	That was REALLY something.	いつか俺がのせてやるよ	I'll take you someday
+ムチャなこと、ひとりでしてなきゃいいけど……	I hope he's not doing anything stupid…	ね、CLOUD。BARRET見なかった？	Hey, CLOUD. Did you see BARRET?	オレを止めてもムダだぜ！	It won't do any good trying to stop me!
+こんな近くにいるってのに手が出せねえなんて……	They're this close but we can't do a thing to 'em…	見ろよ、CLOUD。ルーファウスとハイデッカーだぜ	Look, CLOUD. It's Rufus and Heidegger.	ウヌヌ……グヌヌヌ……	Ummmm… Gmmmmm…
+いや、オレたちじゃねえようだ。となると……TIFAたちか！？	Hmm, I don't think it's us. Did they find TIFA and the others!?	しまった、見つかったか！？	Damn, did they find us!?	こうしちゃいられねえ。行こうぜ、CLOUD！	Get off your spikey butt and let's go, CLOUD!
+……CLOUD。その服を着たらすこしかわったみたい	…CLOUD. Wearing those clothes seems to have changed you a little.	それでは、はりきって見張りをつづけるであります！フフフ……	Uh, yes sir, I'll continue my watch sir!  Hee hee…	気持ちまでソルジャーにもどっちゃったの……？そんなのイヤだよ……	Does it remind you of being in SOLDIER? I hope not…
+オウオウ！なにが足りないんだ！？	Ey ey! Whattaya mean, 'missin'!?	調子はどうだ、若いの！	How you feelin'!	そういう時はコイツ！海の男のスーパードリンク『インビンシブルα』！！	I got just the perfect thing! Invisible Alpha'-- A super drink for seamen!!
+オウオウ！海の男がケチケチすんない！	Hey! Seamen shouldn't be so stingy!	ＨＰ・ＭＰが回復した！	HP/MP Restored!	ルーファウス社長たちは監橋にいるらしい。サボってるとドヤされるぜ！	President Rufus and his men are in the Bridge of the Ship. If they see you slacking, they'll bust you one!
+だいじょうぶか！？	You all right!?	オウオウ！金が足りないよ！	Hey! You don't have enough money!	みんなだいじょうぶ！？	Everyone all right!?
+それがもっとも論理的な行動だな。さて、誰が行く？	It's the most logical thing to do.  Then, who's going to go?	……確かめよう	…Let's find out.	ア、アタシはいいよ、べつに	N, not me…
+メニューを開いてセーブを選ぶと	Access the Menu and select	だからアタシはいいって……ウ……ウエ……	I told you…I don't want… to, ugh…urk…	運搬船・機関室	Cargo Ship
+CLOUD、あれ！！	CLOUD, look!!	見て、CLOUD！！	Look, CLOUD!!	あそこだ、CLOUD	Over there, CLOUD.
+これ、見たことあるね……	I've seen this before…	これ……どこかで見たわね	I've seen this somewhere…before.	こいつは……アレじゃねえのか？	Isn't he…that guy?
+やっぱりセフィロスだった	So it WAS Sephiroth.	ウエ……ただでさえキモチわるいのにこんなもん見せられるなんて……	Gag… I'm sick enough as it is without you having to show me THAT!	時は満ちた、とか言ってたわね	He said something about it being time for something.
+めんどくさい	No way	CLOUD、ちょっとここまでを整理してくれねえか？	CLOUD, why don't you explain to me what's happened so far?	う～ん……わからない	Hmm… I don't get it.
+……やってみるから途中で口をはさまないでくれよ	…I'll try, but don't interrupt me while I'm explaining.	ちょっとCLOUD。アンタ、チョチョッと説明してよ	Hey CLOUD. Give us a quick run down.	セフィロスはこの星の支配者になるために約束の地を目指すと言い残し姿を消した……それが５年前だ	Sephiroth went off searching for the Promised Land, so he could become the ruler of the Planet… That was 5 years ago.
+ずっとここにいるのよくないんじゃない？	Maybe we shouldn't stay in here anymore…	おおっと！はやいとこ隠れたほうがよさそうだぜ	Whoa! We'd best hurry and hide somewhere.	いけない。もいちど身をかくしましょ	We should hide somewhere again.

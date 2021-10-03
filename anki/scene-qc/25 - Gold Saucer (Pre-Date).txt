@@ -1,37 +1,15 @@
-武器職人の小屋	Weapon seller	武器職人小屋	scene_25
-なんだ、お前らあれ目当てで来たんじゃないのか？	What? You didn't come here for that?	前目当来	scene_25
-ゲラゲラゲラゲラ	Ha, hah, hah, hah…		scene_25
-他の話	Let's change the subject	他話	scene_25
-どこのだれに？	Who did you sell it to?		scene_25
-究極の破壊魔法……	Ultimate Destruction Magic…?	究極破壊魔法	scene_25
-ん？　なんだ？キーストーンなら売っちまったよ	Huh? What? If it's the Keystone you want I already sold it!	売	scene_25
-ゆずらない	Forget it		scene_25
-『大いなる福音』を手にいれた！	Received "Great Gospel"!	大福音手	scene_25
-しょ～がねぇなベット使っていいぜ	Oh all right. You can use that bed.	使	scene_25
-『笑うなえぎ』	Laugh Sapling	笑	scene_25
-『Ｄガタ装備』	D Type Equipment	装備	scene_25
-キーストーンだ……	It's the Keystone…		scene_25
-これを貸してもらえないか？	Can you let me borrow this?	貸	scene_25
-条件は？	One condition?	条件	scene_25
-そうこなくては！	Hoo boy!		scene_25
-ここは、闘技場だ。少年のその力わたしに見せてくれたまえ。少年１人でな。期待しているぞ！	This is the Battle Arena. Show me your fighting skills. Just you, boy. I'm expecting a good fight!	闘技場少年力見人期待	scene_25
-よかろう、約束だもっていきたまえ。ついでに、こいつもやろう	Good, it's a promise, so go ahead and take it. I'll give this to you too.	約束	scene_25
-『チョコボのはね』を手に入れた！！	Received "Choco Feather"!	手入	scene_25
-これで、古代種の神殿とかに入れるんだろ？	This'll get us into the Temple of the Ancients, right?	古代種神殿入	scene_25
-……ということは？	…So?		scene_25
-しゃあないな～。ときどきあるんですわ	Too bad. It happens, though.		scene_25
-ちょっと、CLOUD。私たちだけでもどるの？	Hey, CLOUD, Are we going back without the others?	私	scene_25
-CLOUDさん、どうやろう。このへんでここまでのまとめやってもらえませんか？	CLOUD, how 'bout it? Can you tell me what's happened so far?		scene_25
-オレは最初からいるけどよくわからなくなっちまった	I been here since the beginnin', an' I still don't know what the hell's goin' on either.	最初	scene_25
-あとはねるだけじゃねえか！若いくせになに言ってんだよ！	All we have to do now is sleep! You're still young! What're you complaining about?	若言	scene_25
-魔晄エネルギーに満ちあふれた豊かな土地。……これは神羅の考え方だ	A land full of Mako energy. …Or at least that's what the Shinra believe.	魔晄満豊土地神羅考方	scene_25
-古代種は自分たちのことをそう呼んでいたの	That's what the Ancients call themselves.	古代種自分呼	scene_25
-AERISも……わかるのか？	AERIS…can you feel it too?		scene_25
-ディオさんから、聞きましたで。黒マントの男が黒マテリア探してるって	I heard from Dio that a man in a black cape was lookin' for the Black Materia.	聞黒男探	scene_25
-そのイレズミは……どうしたんだ？	How did you get that tattoo?		scene_25
-黒いマントの人たちは宝条に何かをされた人たちだと思うのね	I think Hojo did something to those men in the black capes.	黒人宝条何思	scene_25
-それにね……	And…		scene_25
-おっ！　おわり？アタシもねるよ！	What!? That's it? I'm goin' to bed!		scene_25
-オイラ、ナンバー１３だ。オイラもおかしくなっちゃうのかな？	I'm number 13. Am I going to go mad too?		scene_25
-しつこいわよ、RED XIII！ウジウジしないで！	Stop it, RED XIII! Be strong!		scene_25
-おい、CID部屋にもどるぞ	Hey CID, let's go back to our rooms.	部屋	scene_25
+武器職人の小屋	Weapon seller			ん？　また客かこんな、ヘンピな所によくもまあ	Huh? Oh another customer. You sure picked an out of the way place but…
+ん？　なんだ？	Huh? What?	本気にすんなよただの言い伝えなんだからよ	Don't take it seriously. It's just a legend!	神殿はどこだ？	Where is the Temple?
+究極の破壊魔法……	Ultimate Destruction Magic…?	そういやぁ、こんな話聞いたことあるぜ古代種の神殿には『究極の破壊魔法』が隠されてるとかなんとかな…	Now that you mention it, I've heard of something called Ultimate Destruction Magic It's supposed to be hidden somewhere in the Temple of the Ancients.	だ・か・ら！本気にするなって言うの	Come on! I said don't take it seriously!
+そうかいまぁ、しょうがねぇな	Yeah? Well, guess that's that.	ありがてえじゃあ、大きいハコか小さいハコか１つ選んで持ってっていいぜ	Hey thanks! All right you can help yourself to either a big or small box.	『金の腕輪』を手にいれた！	Received "Gold Armlet"!
+『笑うなえぎ』	Laugh Sapling	『週末の時計』	Weekend Clock	『スレイヤーのつぼ』	Slayer's Pot
+それは、ここから『川』をはさんで南にある小屋にすんどる男からゆずってもらったのだよ	I got it from the guy in a little shack south of here, past the 'River'.	はっはははははは久しぶりだな少年よん？　それが、気に入ったかね？	Heh, heh, heh. Long time no see, boy. Hmm? You like that, huh?	それについてくわしい話を聞きたいのならばそこに行きたまえ	If you want to know more, go there and talk to him.
+そうこなくては！	Hoo boy!	そんな気分じゃない	Not in the mood.	そうか……では、この話はなかったことにしよう	I see… Then let's pretend that this never happened.
+キーアイテム『キーストーン』を手に入れた！！	Received Key Item "Keystone"!	はっはははは！やるな、少年よ！よし、約束だもっていきたまえ。そうだ、これもやろう	Heh, heh, heh! Well done, young man! And, as I promised, you can take it. Oh, and I'll give you this too.	『防弾チョッキ』を手に入れた！！	Received "Protect Vest"!
+……ということは？	…So?	申し訳ございません。ロープウェイが故障してしまいまして	I'm sorry. The Tram is out of order right now.	申し訳ございません！	I'm really sorry!
+CLOUD！アタシたちだけでもどってどうするんだ？	CLOUD! Are we just going to leave the others?	みんなを置いてもどるの？	Are we leaving the others?	そういや、全員そろうのはめったにありませんな	We don't usually get the chance to be together like this, huh?
+あとはねるだけじゃねえか！若いくせになに言ってんだよ！	All we have to do now is sleep! You're still young! What're you complaining about?	やってみよう	All right, I'll give it a shot…	俺たちはセフィロスを追いかけている	We are going after Sephiroth.
+……古代種も約束の地、どこにあるか知ってるわけじゃないってこと	…You don't 'know' where the Promised Land of the Ancients is.	ねえ、コスモキャニオンで長老たちの話、聞かなかったの？	Hey, didn't you listen to the elders at Cosmo Canyon?	求めて、旅をして、感じるの。ああ、ここが約束の地だ、ってね	You search and travel, until you feel it. Then you just know that you've found it.
+そのイレズミは……どうしたんだ？	How did you get that tattoo?	……あのさ。オイラのイレズミは１３なんだけど	…You know, of course, my tattoo is number 13.	……宝条にやられたんだ。他のは戦士の魔除けだけど数字だけは宝条がやったんだよ	…Hojo put it on me. The rest are just war scars, but the number was done by Hojo.
+わたし、つかれちゃった。部屋、行くね	I think I'm tired. I'm going to bed now.	ゴメン、なんでもない！	I'm sorry, forget it!	なんやねん、急に！	What was that, all of a sudden!?
+しつこいわよ、RED XIII！ウジウジしないで！	Stop it, RED XIII! Be strong!	でも、オイラ……	But, I…	TIFA？	TIFA?

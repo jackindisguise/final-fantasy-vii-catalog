@@ -86,7 +86,25 @@ console.log("");
 		// split lines
 		let lines = data.split("\r\n");
 		let chosen = [];
-		for(let i=0;i<lines.length;i+=4) chosen.push(lines[i]);
+		for(let i=0;i<lines.length;i+=10) { // skip every 10 lines
+			let split = lines[i].split("\t");
+			let line = new Array(6);
+			line[0] = split[0];
+			line[1] = split[1];
+
+			if(i>0){
+				let previous = lines[i-1].split("\t");
+				line[2]=previous[0];
+				line[3]=previous[1];
+			}
+
+			if(i<lines.length-1){
+				let next = lines[i+1].split("\t");
+				line[4]=next[0];
+				line[5]=next[1];
+			}
+			chosen.push(line.join("\t"));
+		}
 		fs.writeFileSync(outputDir+file, chosen.join("\r\n"), "utf8");
 		if(verbose) console.log(`\t[${xterm.C.YELLOW}${num.toString().padStart(2, "0")}${xterm.C.RESET}]: ${xterm.C.PINK}${name}${xterm.C.RESET}`);
 	}
