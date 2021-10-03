@@ -3,8 +3,8 @@
 けど、ひと足遅かったな『キーストーン』ならもう、ねぇよ	But if it's the 'Keystone' you're looking for, you're too late. Don't have it.	足遅	scene_25
 キーストーン？	Keystone?		scene_25
 なんだ、お前らあれ目当てで来たんじゃないのか？	What? You didn't come here for that?	前目当来	scene_25
-『キーストーン』ってのはこの世界のどこかにある古～い、神殿の扉を開けるカギよ	The 'Keystone' is the key that unlocks the gate to a very old temple somewhere.	世界古神殿扉開	scene_25
-聞いておどろけ、その神殿とはなんと古代種の神殿だ！！	You're not going to believe your ears, but I heard it was the Temple of the Ancients!!	聞神殿古代種	scene_25
+『キーストーン』ってのはこの世界のどこかにある古～い、神殿の扉を開けるカギよ	The 'Keystone' is the key that unlocks the gate to a very old temple somewhere.  “You're not going to believe your ears,	世界古神殿扉開	scene_25
+聞いておどろけ、その神殿とはなんと古代種の神殿だ！！	but I heard it was the Temple of the Ancients!!	聞神殿古代種	scene_25
 古代種の神殿……	The Temple of the Ancients?	古代種神殿	scene_25
 ゲラゲラゲラゲラ	Ha, hah, hah, hah…		scene_25
 本気にすんなよただの言い伝えなんだからよ	Don't take it seriously. It's just a legend!	本気言伝	scene_25
@@ -17,7 +17,7 @@
 どこのだれに？	Who did you sell it to?		scene_25
 ゴールドソーサーで園長をやっている『ディオ』だよ。なんか展示室にかざるって言ってたから行ってみな	The manager of the Gold Saucer. think his name was 'Dio'. Said he was going to put it in his museum, then he took off out of here.	園長展示室言行	scene_25
 だから、言い伝えだってまぁ、けど本当にあったらおもしれぇな	Come on…it's only a legend. But if it were true, that sure would be something, huh?	言伝本当	scene_25
-そういやぁ、こんな話聞いたことあるぜ古代種の神殿には『究極の破壊魔法』が隠されてるとかなんとかな…	Now that you mention it, I've heard of something called Ultimate Destruction Magic It's supposed to be hidden somewhere in the Temple of the Ancients.	話聞古代種神殿究極破壊魔法隠	scene_25
+そういやぁ、こんな話聞いたことあるぜ古代種の神殿には『究極の破壊魔法』が隠されてるとかなんとかな…	Now that you mention it, I've heard of something called Ultimate Destruction Magic. It's supposed to be hidden somewhere in the Temple of the Ancients.	話聞古代種神殿究極破壊魔法隠	scene_25
 究極の破壊魔法……	Ultimate Destruction Magic…?	究極破壊魔法	scene_25
 だ・か・ら！本気にするなって言うの	Come on! I said don't take it seriously!	本気言	scene_25
 おいおい、勝手に開けないでくれよ	Hey, don't just come bargin' in here!	勝手開	scene_25

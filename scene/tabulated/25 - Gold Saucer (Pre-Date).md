@@ -5,8 +5,8 @@
 | 3 | But if it's the 'Keystone' you're looking for, you're too late. Don't have it. | けど、ひと足遅かったな『キーストーン』ならもう、ねぇよ |
 | 4 | Keystone? | キーストーン？ |
 | 5 | What? You didn't come here for that? | なんだ、お前らあれ目当てで来たんじゃないのか？ |
-| 6 | The 'Keystone' is the key that unlocks the gate to a very old temple somewhere. | 『キーストーン』ってのはこの世界のどこかにある古～い、神殿の扉を開けるカギよ |
-| 7 | You're not going to believe your ears, but I heard it was the Temple of the Ancients!! | 聞いておどろけ、その神殿とはなんと古代種の神殿だ！！ |
+| 6 | The 'Keystone' is the key that unlocks the gate to a very old temple somewhere.  “You're not going to believe your ears, | 『キーストーン』ってのはこの世界のどこかにある古～い、神殿の扉を開けるカギよ |
+| 7 | but I heard it was the Temple of the Ancients!! | 聞いておどろけ、その神殿とはなんと古代種の神殿だ！！ |
 | 8 | The Temple of the Ancients? | 古代種の神殿…… |
 | 9 | Ha, hah, hah, hah… | ゲラゲラゲラゲラ |
 | 10 | Don't take it seriously. It's just a legend! | 本気にすんなよただの言い伝えなんだからよ |
@@ -19,7 +19,7 @@
 | 17 | Who did you sell it to? | どこのだれに？ |
 | 18 | The manager of the Gold Saucer. think his name was 'Dio'. Said he was going to put it in his museum, then he took off out of here. | ゴールドソーサーで園長をやっている『ディオ』だよ。なんか展示室にかざるって言ってたから行ってみな |
 | 19 | Come on…it's only a legend. But if it were true, that sure would be something, huh? | だから、言い伝えだってまぁ、けど本当にあったらおもしれぇな |
-| 20 | Now that you mention it, I've heard of something called Ultimate Destruction Magic It's supposed to be hidden somewhere in the Temple of the Ancients. | そういやぁ、こんな話聞いたことあるぜ古代種の神殿には『究極の破壊魔法』が隠されてるとかなんとかな… |
+| 20 | Now that you mention it, I've heard of something called Ultimate Destruction Magic. It's supposed to be hidden somewhere in the Temple of the Ancients. | そういやぁ、こんな話聞いたことあるぜ古代種の神殿には『究極の破壊魔法』が隠されてるとかなんとかな… |
 | 21 | Ultimate Destruction Magic…? | 究極の破壊魔法…… |
 | 22 | Come on! I said don't take it seriously! | だ・か・ら！本気にするなって言うの |
 | 23 | Hey, don't just come bargin' in here! | おいおい、勝手に開けないでくれよ |
