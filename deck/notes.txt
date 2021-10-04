@@ -9165,3 +9165,1140 @@ CID、あんたはこれからどうするんだ？	CID, what will you do now?		
 情報をとるためにとにかく陸地をさがそう。【古代種の神殿】……気になる名前だな……	Let's just head for land and get some information. Temple of the Ancients… that name bothers me.	情報陸地古代種神殿気名前	情報[じょうほう]をとるためにとにかく 陸地[りくち]をさがそう。【 古代[こだい] 種[しゅ]の 神殿[しんでん]】…… 気[き]になる 名前[なまえ]だな……		scene_23
 …………エヘ。　西へ行くっての、どう？	…Hm. How 'bout goin' west?	西行	…………エヘ。　 西[にし]へ 行[い]くっての、どう？		scene_23
 ぜ～んぜん理由なんかないけどね。もう、ぜ～んぜん！	No, no reason. NO reason at all!	理由	ぜ~んぜん 理由[りゆう]なんかないけどね。もう、ぜ~んぜん！		scene_23
+荒れ地	Wilderness	荒地	荒れ地[あれち]		scene_24
+待った待った待ったーっ！！	Wait, wait, wait, wai----t!!	待	待[ま]った 待[ま]った 待[ま]ったーっ！！		scene_24
+なになに！？どうしたの、とつぜんあわてたりして？	What!? What happened all of a sudden?		なになに！？どうしたの、とつぜんあわてたりして？		scene_24
+な、なんだなんだ！？急にどうしたってんだ？	What!? The hell happened all of a sudden!?	急	な、なんだなんだ！？ 急[きゅう]にどうしたってんだ？		scene_24
+な、なによとつぜん！？何かあったの？	What the--? Did something happen?	何	な、なによとつぜん！？ 何[なに]かあったの？		scene_24
+ど、どうしたんだよ急に！？ビックリするじゃないかよ！	What happened all of a sudden? Don't scare me like that!	急	ど、どうしたんだよ 急[きゅう]に！？ビックリするじゃないかよ！		scene_24
+わ、わ、わ、なんや急に！？おどかさんといて～な	Wh, wh, what is it, all of a sudden!? Don't scare me like that!	急	わ、わ、わ、なんや 急[きゅう]に！？おどかさんといて~な		scene_24
+な、なんでえなんでえ！急にデカイ声出して飛びだすんじゃねえよ！	What the HELL is it! Shoutin' out and jumpin' in front of me all of a sudden!	急声出飛	な、なんでえなんでえ！ 急[きゅう]にデカイ 声[ごえ] 出[だ]して 飛[と]びだすんじゃねえよ！		scene_24
+突然、どうしたというのだ？何かあったのか？	What happened all of a sudden? Did something happen?	突然何	突然[とつぜん]、どうしたというのだ？ 何[なに]かあったのか？		scene_24
+アタシ、ここいらあたりはちょっとくわしいんだ	I know this area pretty well.		アタシ、ここいらあたりはちょっとくわしいんだ		scene_24
+この先ってさあ、かなりキツイんだよね。だからね、いろいろ準備を……	It gets pretty tough past here. Better get ready…	先準備	この 先[さき]ってさあ、かなりキツイんだよね。だからね、いろいろ 準備[じゅんび]を……		scene_24
+……ふ～ん……なんかアヤしいな～	…Hmmm… Something's fishy…		……ふ~ん……なんかアヤしいな~		scene_24
+また何かイケないこと考えたりしてない？	You're not planning something sneaky again, are you?	何考	また 何[なに]かイケないこと 考[かんが]えたりしてない？		scene_24
+何かイケないこととか考えたりしてない？	You're not planning something sneaky again, are you?	何考	何[なに]かイケないこととか 考[かんが]えたりしてない？		scene_24
+……ハハーン、よめたぞ。そんなこと言っておまえまた何かたくらんでるんだろ！　ちがうか！	Hah, I know what you're thinkin'. And you sayin' that just now means you're up to somethin'! Right!?	言何	……ハハーン、よめたぞ。そんなこと 言[い]っておまえまた 何[なに]かたくらんでるんだろ！　ちがうか！		scene_24
+……ホントか？そんなこと言っておまえ何かたくらんでねえか？	…You serious? And you sayin' that just now means you're up to somethin'! Right!?	言何	……ホントか？そんなこと 言[い]っておまえ 何[なに]かたくらんでねえか？		scene_24
+ハッキリ言ってどうも信用できないんだよな、おまえ	I don't trust you.	言信用	ハッキリ 言[い]ってどうも 信用[しんよう]できないんだよな、おまえ		scene_24
+……本当に？な～んとなく、信用できないんだけどな	…Really? Somehow, I don't believe it.	本当信用	…… 本当[ほんとう]に？な~んとなく、 信用[しんよう]できないんだけどな		scene_24
+また私たちをダマそうとしてるんじゃ……	Are you trying to con us again?	私	また 私[わたし]たちをダマそうとしてるんじゃ……		scene_24
+……本当に？な～んとなく、信用できないのよね	…Really? Something tells me I shouldn't trust you.	本当信用	…… 本当[ほんとう]に？な~んとなく、 信用[しんよう]できないのよね		scene_24
+ひょっとして私たちをダマそうとしてるとか……	Are you going to trick us again?	私	ひょっとして 私[わたし]たちをダマそうとしてるとか……		scene_24
+クンクン……ウサンクサイにおいがするよ	Hmm… Smells fishy.		クンクン……ウサンクサイにおいがするよ		scene_24
+まさか、またオイラたちをだしぬこうとか……	Are you going to trick us again?		まさか、またオイラたちをだしぬこうとか……		scene_24
+オイラのハナはウソをつかないからね！	My nose never lies!		オイラのハナはウソをつかないからね！		scene_24
+ホンマか～？この人なんや信用でけんのや	You serious? I can't trust you.	人信用	ホンマか~？この 人[ひと]なんや 信用[しんよう]でけんのや		scene_24
+ま、それはボクもいっしょやけどね	But then again, I guess I shouldn't talk.		ま、それはボクもいっしょやけどね		scene_24
+オウオウオウ！おめえ、それ本当だろうな？	Hey! You serious?	本当	オウオウオウ！おめえ、それ 本当[ほんとう]だろうな？		scene_24
+このオレ様をだまそうったってそうはいかねえぞ！？	If you're trying to con us, you won't get away with it!	様	このオレ 様[さま]をだまそうったってそうはいかねえぞ！？		scene_24
+ここから先が？そんな気配は感じられないが	Further down? I don't see any signs of danger…	先気配感	ここから 先[さき]が？そんな 気配[けはい]は 感[かん]じられないが		scene_24
+それにYUFFIEの態度にもどこか不自然なものが……	There's something unnatural in the way YUFFIE's acting…	態度不自然	それに YUFFIEの 態度[たいど]にもどこか 不自然[ふしぜん]なものが……		scene_24
+ちちちがうって！ホントのホントに大変なん……	No! It's REALLY tough…	大変	ちちちがうって！ホントのホントに 大変[たいへん]なん……		scene_24
+いたぞ、つかまえろ！！	There they are, catch 'em!!		いたぞ、つかまえろ！！		scene_24
+神羅ッ！？	Shinra!?	神羅	神[しん] 羅[ら]ッ！？		scene_24
+あっ、神羅の……！？	The Shinra!?	神羅	あっ、 神[しん] 羅[ら]の……！？		scene_24
+神羅かっ！！	The Shinra!!	神羅	神[しん] 羅[ら]かっ！！		scene_24
+し、神羅の……	That's Sh…Shinra's…	神羅	し、 神[しん] 羅[ら]の……		scene_24
+なにいっ、神羅だと！？	What, the Shinra!?	神羅	なにいっ、 神[しん] 羅[ら]だと！？		scene_24
+神羅のッ！！	It's Shinra!!	神羅	神[しん] 羅[ら]のッ！！		scene_24
+神羅……！	The Shinra!	神羅	神[しん] 羅[ら]……！		scene_24
+神羅兵	Shinra Soldier	神羅兵	神[しん] 羅[ら] 兵[へい]		scene_24
+おい、違うぞ！　ヤツじゃない！こ、こいつら、例の！！	Hey, that's not them! These are the other guys from before!!	違例	おい、 違[ちが]うぞ！　ヤツじゃない！こ、こいつら、 例[れい]の！！		scene_24
+YUFFIE、あなた、もしかして……	YUFFIE, did you by any chance…		YUFFIE、あなた、もしかして……		scene_24
+YUFFIE、おまえ、やっぱり……！	YUFFIE, so you're…		YUFFIE、おまえ、やっぱり……！		scene_24
+YUFFIE、あなたまさか……！	YUFFIE, you're not…		YUFFIE、あなたまさか……！		scene_24
+やっぱりYUFFIE……！！	So you were, YUFFIE!!		やっぱり YUFFIE……！！		scene_24
+YUFFIEさん、なかなかやりますなぁ	Not bad, YUFFIE, not bad at all.		YUFFIEさん、なかなかやりますなぁ		scene_24
+YUFFIE！おめえいい度胸してんじゃねえか！	YUFFIE! You sure got some nerve, kid!	度胸	YUFFIE！おめえいい 度胸[どきょう]してんじゃねえか！		scene_24
+これはどういうことか……後でじっくり説明してもらおうか	So what does this mean? You will explain later.	後説明	これはどういうことか…… 後[あと]でじっくり 説明[せつめい]してもらおうか		scene_24
+知らない知らない！これはアタシとカンケーないって！	I didn't know! I had nothing to do with this one!	知	知[し]らない 知[し]らない！これはアタシとカンケーないって！		scene_24
+これ『は』？これ『は』って、何？	This one? What do you mean 'THIS one'?	何	これ『は』？これ『は』って、 何[なに]？		scene_24
+YUFFIE、あなたやっぱりイケナイこと考えてたでしょ！	So you WERE up to something!	考	YUFFIE、あなたやっぱりイケナイこと 考[かんが]えてたでしょ！		scene_24
+これ『は』って何だ！『は』って！	Whaddya mean 'this one'!? This one'?	何	これ『は』って 何[なに]だ！『は』って！		scene_24
+おまえ、やっぱり何かたくらんでたんだな！！	So you WERE plannin' somethin'!!	何	おまえ、やっぱり 何[なに]かたくらんでたんだな！！		scene_24
+これ『は』？今、これ『は』って言った？	This one? Did you just say 'THIS one'?	今言	これ『は』？ 今[いま]、これ『は』って 言[い]った？		scene_24
+YUFFIE、やっぱりあなた何かたくらんでたのね！	So you WERE trying something!	何	YUFFIE、やっぱりあなた 何[なに]かたくらんでたのね！		scene_24
+これ『は』って何だよ『は』って！	What do you mean 'this one'? THIS one'?	何	これ『は』って 何[なに]だよ『は』って！		scene_24
+やっぱり何か悪だくみしてたんだ！！	So you were concocting some evil scheme!!	何悪	やっぱり 何[なに]か 悪[わる]だくみしてたんだ！！		scene_24
+これ『は』？『は』ってなんです？	This one? What do you mean 'THIS one'?		これ『は』？『は』ってなんです？		scene_24
+なんやほかにもやましいことでもあるんとちゃうか！	So you were planning on tricking us!		なんやほかにもやましいことでもあるんとちゃうか！		scene_24
+これ『は』っつうのは何だ！『は』っつうのはよ！	Whaddya mean 'THIS one'? THIS one'!?	何	これ『は』っつうのは 何[なに]だ！『は』っつうのはよ！		scene_24
+おめえ、やっぱり何かたくらんでやがったな！！	So you WERE planning some crooked $%*&!!	何	おめえ、やっぱり 何[なに]かたくらんでやがったな！！		scene_24
+これ『は』？『は』とはどういうことだ？	What do you mean, 'This one'?		これ『は』？『は』とはどういうことだ？		scene_24
+ほかのことなら心当たりがあるというのか？	You had something else in mind?	心当	ほかのことなら 心当[こころあ]たりがあるというのか？		scene_24
+い、いや、あの……	No, umm, uh…		い、いや、あの……		scene_24
+ど、どうする！？	What should we do!?		ど、どうする！？		scene_24
+い……や、やれ！いいからやってしまえ！！	Uh…Get them! Grab them and ask questions later!!		い……や、やれ！いいからやってしまえ！！		scene_24
+これ、どういうこと！？	What's going on!?		これ、どういうこと！？		scene_24
+なにかたりないと思ったらマテリア、マテリアなくなっちゃってる！！	I thought something was missing… my Materia's all gone!!	思	なにかたりないと 思[おも]ったらマテリア、マテリアなくなっちゃってる！！		scene_24
+おい、どうなってんだ！？	The hell's goin' on!?		おい、どうなってんだ！？		scene_24
+なんかたりねえと思ったらマテリアが、マテリアがなくなっちまってる！！	I knew somethin' was missing. All my Materia's gone!!	思	なんかたりねえと 思[おも]ったらマテリアが、マテリアがなくなっちまってる！！		scene_24
+いったい、どうなってるの！？	What's going on!?		いったい、どうなってるの！？		scene_24
+なんだかおかしいと思ったらマテリアが、マテリアがなくなってるじゃない！！	I thought something was odd… My, my Materia is missing!!	思	なんだかおかしいと 思[おも]ったらマテリアが、マテリアがなくなってるじゃない！！		scene_24
+どうなってるんだよォ？	What's going on?		どうなってるんだよォ？		scene_24
+なんかおかしいと思ったらマテリアが、マテリアがどっかへ行っちゃった！！	I thought something was funny, my Materia's disappeared!!	思行	なんかおかしいと 思[おも]ったらマテリアが、マテリアがどっかへ 行[い]っちゃった！！		scene_24
+どないなっとるんや、コレ！？	What's going on!?		どないなっとるんや、コレ！？		scene_24
+なんや足りんと思とったらマテリアがゴッソリのうなっとるやないか！	Something's missing…my Materia…it's gone!!	足思	なんや 足[た]りんと思とったらマテリアがゴッソリのうなっとるやないか！		scene_24
+コリャー、どういうこったい！	What the hell's goin' on?		コリャー、どういうこったい！		scene_24
+なんかものたりねえと思ったら、マテリアのやつどっか行っちまいやがった！！	I knew I was missing something… My Materia's gone!!	思行	なんかものたりねえと 思[おも]ったら、マテリアのやつどっか 行[い]っちまいやがった！！		scene_24
+どうもおかしいと思ったらなるほど、そういうことか	I thought something was wrong. So that's it.	思	どうもおかしいと 思[おも]ったらなるほど、そういうことか		scene_24
+みろ、マテリアがぬきとられている……！	My Materia's been stolen…		みろ、マテリアがぬきとられている……！		scene_24
+おい……YUFFIEは……？	Hey…where's YUFFIE?		おい…… YUFFIEは……？		scene_24
+ね……YUFFIE……は？	Hey…where's YUFFIE?		ね…… YUFFIE……は？		scene_24
+ねえ……YUFFIEは……？	Hey…where's YUFFIE?		ねえ…… YUFFIEは……？		scene_24
+はて……YUFFIEさんは……？	Now…where's YUFFIE?		はて…… YUFFIEさんは……？		scene_24
+オイ……YUFFIEのやつは……？	Ey…where the hell's that damn kid?		オイ…… YUFFIEのやつは……？		scene_24
+くーやーしーいーっ！！	I'm SO mad!!		くーやーしーいーっ！！		scene_24
+あーのーやーろーおーっ！！	That &*&$ kid!!!		あーのーやーろーおーっ！！		scene_24
+ガーッ！！ガアーッウオオオオーッ！！	Grrrrrgh!! Arrrrrgh Uhhhhhhhhhhhh!!		ガーッ！！ガアーッウオオオオーッ！！		scene_24
+やーらーれーたーっ！！	She's done it again!!		やーらーれーたーっ！！		scene_24
+まただますなんて！もう許さないから！	I'll never forgive her!	許	まただますなんて！もう 許[ゆる]さないから！		scene_24
+チークーショーッ！！	ZOUNDS!!		チークーショーッ！！		scene_24
+ガルルル……ガウッ！ガウウッ！！	Grrrrrrrgh… Grrrgh! Grrrrrgh!!		ガルルル……ガウッ！ガウウッ！！		scene_24
+あちゃ～、やられてしもた～！	She's done it again!		あちゃ~、やられてしもた~！		scene_24
+いや～、すっかりハメられましたなぁ！	She sure took us for fools!		いや~、すっかりハメられましたなぁ！		scene_24
+あーのーやーろーおー！！	That little ^%#^$@!!		あーのーやーろーおー！！		scene_24
+このオレ様をコケにしやがったな！！	Takin' me for a fool!!	様	このオレ 様[さま]をコケにしやがったな！！		scene_24
+これは見過ごせないな……	Inexcusable…	見過	これは 見過[みす]ごせないな……		scene_24
+最初からあのコわたしたちのマテリアねらってたのね、きっと	She was probably eyeing our Materia from the beginning.	最初	最初[さいしょ]からあのコわたしたちのマテリアねらってたのね、きっと		scene_24
+あのコ、北の方に逃げたみたい。早く追いかけて、マテリア取り返さなくちゃ！	It looks like she went North. Let's hurry after her and get our Materia back!	北方逃早追取返	あのコ、 北の方[きたのかた]に 逃[に]げたみたい。 早[はや]く 追[お]いかけて、マテリア 取り返[とりかえ]さなくちゃ！		scene_24
+あいつ、はじめっからオレたちのマテリアをねらってやがったんだ！！	She was after our Materia from the start!!		あいつ、はじめっからオレたちのマテリアをねらってやがったんだ！！		scene_24
+北だ、北に逃げてったぜ！絶対に、絶対につかまえてマテリア取りもどしてやる！	She went North! When I get my hand on her, I'll get our Materia back!	北逃絶対取	北[きた]だ、 北[きた]に 逃[に]げてったぜ！ 絶対[ぜったい]に、 絶対[ぜったい]につかまえてマテリア 取[と]りもどしてやる！		scene_24
+急げ！後を追うぞ！	C'mon! We're goin' after her!	急後追	急[いそ]げ！ 後[ご]を 追[お]うぞ！		scene_24
+はじめっから私たちのマテリアをねらってたんだわ	She was after our Materia from the beginning.	私	はじめっから 私[わたし]たちのマテリアをねらってたんだわ		scene_24
+そんなことさせないから！たしか北の方に逃げてったわ。後を追いましょう！！	She won't get away with this! I'm pretty sure she ran off North. Let's go after her!!	北方逃後追	そんなことさせないから！たしか 北の方[きたのかた]に 逃[に]げてったわ。 後[ご]を 追[お]いましょう！！		scene_24
+はじめからオイラたちのマテリアがねらいだったんだ	Her objective was stealing our Materia from the beginning.		はじめからオイラたちのマテリアがねらいだったんだ		scene_24
+クンクン……北だ！北の方に逃げたよ！	…sniff… North! She ran off to the North!	北方逃	クンクン…… 北[きた]だ！ 北の方[きたのかた]に 逃[に]げたよ！		scene_24
+このまま逃がすもんか！早く早く！マテリア取りもどさなきゃ！	I'm not going to let her get away with this! Hurry, hurry! We have to get our Materia back!	逃早取	このまま 逃[に]がすもんか！ 早[はや]く 早[はや]く！マテリア 取[と]りもどさなきゃ！		scene_24
+さいしょっからマテリアが目的やったんやな	She must've been after our Materia from the beginning.	目的	さいしょっからマテリアが 目的[もくてき]やったんやな		scene_24
+ほっとくわけやないんですやろ？ほんな、ちゃっちゃと追いかけましょ！方角？北です、北！占いのおつげや！	We can't just let her get away, right? Then, let's hurry after her! Which way? It's North, the North! It's a message from the stars!	追方角北占	ほっとくわけやないんですやろ？ほんな、ちゃっちゃと 追[お]いかけましょ！ 方角[ほうがく]？ 北[きた]です、 北[きた]！ 占[うらな]いのおつげや！		scene_24
+間違いねえ！はじめからオレ様のマテリアをねらってやがった！！	No doubt about it! That kid was after our Materia from the start!!	間違様	間違[まちが]いねえ！はじめからオレ 様[さま]のマテリアをねらってやがった！！		scene_24
+フン……どうやら北に逃げたらしいな	Hmm… Looks like she went North.	北逃	フン……どうやら 北[きた]に 逃[に]げたらしいな		scene_24
+グズグズするない！すぐ出発するぞ！あのヤロー、とっつかまえてやる！！	Don't drag your asses! We're going right NOW! That $#@^% is history!!	出発	グズグズするない！すぐ 出発[しゅっぱつ]するぞ！あのヤロー、とっつかまえてやる！！		scene_24
+どうやら、最初からマテリアが目的だったようだな	Seems as though all that she was after was our Materia.	最初目的	どうやら、 最初[さいしょ]からマテリアが 目的[もくてき]だったようだな		scene_24
+我々としてもこのままにしておくことはできないな。逃げたのは……北、か……	We can't just let her get away. She ran to the North…	我逃北	我々[われわれ]としてもこのままにしておくことはできないな。 逃[に]げたのは…… 北[きた]、か……		scene_24
+さあ、後を追ってマテリアを返してもらわなければ	We must go after her and retrieve our Materia back.	後追返	さあ、 後[ご]を 追[お]ってマテリアを 返[かえ]してもらわなければ		scene_24
+オイ、たいへんだ！オレたちのマテリアがなくなってる！！	Hey, we gotta problem! Our Materia's all gone!!		オイ、たいへんだ！オレたちのマテリアがなくなってる！！		scene_24
+た、た、たいへんだよ！オイラたちのマテリアがなくなっちゃった！！	O…OH NO! All of our Materia…gone!?		た、た、たいへんだよ！オイラたちのマテリアがなくなっちゃった！！		scene_24
+ウータイ	Wutai		ウータイ		scene_24
+あッ！！	Hey!!		あ ッ[っ]！！		scene_24
+人の生、ただ水の流れににたり。命の大海より流れいでまた大海へと帰るものなり	Life is just like a river. It flows from the large ocean of life, and eventually it returns back to it.	人生水流命大海帰	人[ひと]の 生[なま]、ただ 水[みず]の 流[なが]れににたり。 命[いのち]の 大海[たいかい]より 流[なが]れいでまた 大海[たいかい]へと 帰[かえ]るものなり		scene_24
+ここは歴史の地、ウータイ。めずらしいものもあるからごらんになるといいでしょう	Wutai is a historical place. There are some very unusual things here you should see.	歴史地	ここは 歴史[れきし]の 地[ち]、ウータイ。めずらしいものもあるからごらんになるといいでしょう		scene_24
+YUFFIEですか？さっきみかけましたよ。このあたりの家にいるんじゃないかしら……？	YUFFIE? I saw her a while ago. She must be in one of the houses around here.	家	YUFFIEですか？さっきみかけましたよ。このあたりの 家[いえ]にいるんじゃないかしら……？		scene_24
+マテリアも人の生ももとは同じ。いずれ命の大海へともどるべきものなのです	Materia is like Life. They both come from the large ocean of life, and both must return to it.	人生同命大海	マテリアも 人[ひと]の 生[なま]ももとは 同[おな]じ。いずれ 命[いのち]の 大海[たいかい]へともどるべきものなのです		scene_24
+人の生など、木の葉からしたたるあさつゆのようなもの。あの星が落ちようと落ちまいとほんの一瞬のきらめきにすぎないのです	Life is like the dew on the leaves of the trees. Whether Meteor falls or not is no more than a fleeting glimmer.	人生木葉星落一瞬	人[ひと]の 生[なま]など、 木の葉[このは]からしたたるあさつゆのようなもの。あの 星[ほし]が 落[お]ちようと 落[お]ちまいとほんの 一瞬[いっしゅん]のきらめきにすぎないのです		scene_24
+この先の屋敷にはゴドー様がいらっしゃる	Lord Godo is in this house.	先屋敷様	この 先[さき]の 屋敷[やしき]にはゴドー 様[さま]がいらっしゃる		scene_24
+むかしはたいそう強い方だったが今ではねてばかりだナ……	He used to be quite strong, but now, all he does is sleep…	強方今	むかしはたいそう 強[つよ]い 方[ほう]だったが 今[いま]ではねてばかりだナ……		scene_24
+なに、YUFFIEとな……それならゴドー様にきくのがいちばんだナ。　なにせ……	What, YUFFIE… It's best to ask Lord Godo about that.	様	なに、 YUFFIEとな……それならゴドー 様[さま]にきくのがいちばんだナ。　なにせ……		scene_24
+いや、しかし今のゴドー様には……とはいっても……しかし、あれではナ……	But today he's not in the best of… Well, I should say… But really he's not so…	今様	いや、しかし 今[いま]のゴドー 様[さま]には……とはいっても……しかし、あれではナ……		scene_24
+どういうわけかYUFFIEはむかしからマテリアが好きでナ。いつでもマテリアのありそうな場所をウロウロしてるよ	Anyhow, for some reason YUFFIE's had a fondness for Materia ever since I can remember. She's always hung around places she thought might have it.	好場所	どういうわけか YUFFIEはむかしからマテリアが 好[す]きでナ。いつでもマテリアのありそうな 場所[ばしょ]をウロウロしてるよ		scene_24
+YUFFIEのやつ、あの性格だからナ。ときどき、人の家なんかに勝手にあがりこんだりするんだよ	That's just how she is. Sometimes she'll just bust into people's houses.	性格人家勝手	YUFFIEのやつ、あの 性格[せいかく]だからナ。ときどき、 人[ひと]の 家[いえ]なんかに 勝手[かって]にあがりこんだりするんだよ		scene_24
+そんでもって、ものかげにかくれたりなんかして……まだまだコドモなんだナ	Other times she'll hide in the shadows just like a little kid.		そんでもって、ものかげにかくれたりなんかして……まだまだコドモなんだナ		scene_24
+そういえばさっきからYUFFIEみたいなコをみかけるな……	That reminds me, lately I've seen a kid around here that reminds me of YUFFIE.		そういえばさっきから YUFFIEみたいなコをみかけるな……		scene_24
+どっかすみっこのほうでまたゴソゴソと、何かしてるんじゃないかナ	Always sneakin' around corners and doin' somethin' she shouldn't.	何	どっかすみっこのほうでまたゴソゴソと、 何[なに]かしてるんじゃないかナ		scene_24
+ケンカばかりしとるがあれでゴドー様とYUFFIEはじつによくにてるんだ	She's always getting into fights. I guess she takes after Godo that way.	様	ケンカばかりしとるがあれでゴドー 様[さま]と YUFFIEはじつによくにてるんだ		scene_24
+やはり親子なのかね……	Like father like daughter…	親子	やはり 親子[おやこ]なのかね……		scene_24
+そうそう、たった今女の子がふたりダチャオ像の方へ行ったがあれが今のはやりなのかナ？	Two girls just went off towards Da-chao. I wonder if that place is popular with the kids now?	今女子像方行	そうそう、たった 今[いま] 女の子[おんなのこ]がふたりダチャオ 像[ぞう]の 方[ほう]へ 行[い]ったがあれが 今[いま]のはやりなのかナ？		scene_24
+ロープでグルグルまかれてかかえられてったよ。そういやひとりはYUFFIEに似ていたナ……	One had herself all tangled up in a rope. And the other one kind of looked like YUFFIE.	似	ロープでグルグルまかれてかかえられてったよ。そういやひとりは YUFFIEに 似[に]ていたナ……		scene_24
+なに、カネ？カネと言ったっていろいろあるからナ……	Hm, money? There's all kinds of money.	言	なに、カネ？カネと 言[い]ったっていろいろあるからナ……		scene_24
+あんなカネ、こんなカネ……おお、そういえばあそこにもカネがあったナ……	This type and that… Hey now that you mention it, there was some money over there.		あんなカネ、こんなカネ……おお、そういえばあそこにもカネがあったナ……		scene_24
+すぐそこに終わりが近づいている……	The end is right in front of us…	終近	すぐそこに 終[お]わりが 近[ちか]づいている……		scene_24
+だからといって、私に何ができる？けっきょくいつもと同じ生活を送るしかないんだよナ……	But what can you do about it? Just go on living your life, day in and day out…	私何同生活送	だからといって、 私[わたし]に 何[なに]ができる？けっきょくいつもと 同[おな]じ 生活[せいかつ]を 送[おく]るしかないんだよナ……		scene_24
+ハイハイ、ハーイ！ボク、しってます！	Alright, alright, alright! I know!		ハイハイ、ハーイ！ボク、しってます！		scene_24
+あそこのお山にガガン！と立ってるのはダチャオ像！	On the side of the mountain, right there in your face is Da-chao!	山立像	あそこのお 山[やま]にガガン！と 立[た]ってるのはダチャオ 像[ぞう]！		scene_24
+てっぺんまでのぼることもできるんだけどちょっとアブないからよーくきをつけてねー！	I hear you can climb to the top, but since it's dangerous I'd be mighty careful if I were you!		てっぺんまでのぼることもできるんだけどちょっとアブないからよーくきをつけてねー！		scene_24
+マテリアもったおねえちゃん？ううん、ダチャオ像にはしばらくだれものぼってないよ！	A girl with Materia? No, there hasn't been anyone climbing Da-chao for some time now.	像	マテリアもったおねえちゃん？ううん、ダチャオ 像[ぞう]にはしばらくだれものぼってないよ！		scene_24
+そういえば、ここのマテリア屋さんの中で、なんだかゴトゴト音がしてたケド	You know I've noticed that there's a pounding noise from time to time in this store.	屋中音	そういえば、ここのマテリア 屋[や]さんの 中[なか]で、なんだかゴトゴト 音[おと]がしてたケド		scene_24
+なんでダチャオ像？ハイハイ、ハーイ！ボク、それわかりませーん！	Why Da-chao? Alright, alright, alright! I don't know!	像	なんでダチャオ 像[ぞう]？ハイハイ、ハーイ！ボク、それわかりませーん！		scene_24
+ハイハイ、ハーイ！ハデハデなカッコをしたオジさんが、ダチャオ像の方に走っていったよ！	Alright, alright, alright! I saw an old man in flashy clothes running towards Da-chao!	像方走	ハイハイ、ハーイ！ハデハデなカッコをした オジ[おじ]さんが、ダチャオ 像[ぞう]の 方[ほう]に 走[はし]っていったよ！		scene_24
+なんかホヒホヒ言ってたけどすんごくはやいんだ！ビックリしたよ！	He was babblin' somethin' and looked like he was floatin'! He almost bowled me over!	言	なんかホヒホヒ 言[い]ってたけどすんごくはやいんだ！ビックリしたよ！		scene_24
+あの星がぶつかったらダチャオ像も、ウータイもみんなこわれちゃうの！？そんなのヤダ！	When that big star bashes into us, both Wutai and Da-chao are going to be dust! Can't we do anything?	星像	あの 星[ほし]がぶつかったらダチャオ 像[ぞう]も、ウータイもみんなこわれちゃうの！？そんなのヤダ！		scene_24
+『アタシの家！誰も入るな！』	This is MY house! Nobody gets in!	家誰入	『アタシの 家[いえ]！ 誰[だれ]も 入[はい]るな！』		scene_24
+もう逃げられないぞ、YUFFIE	You can't get away, YUFFIE.	逃	もう 逃[に]げられないぞ、 YUFFIE		scene_24
+あきらめなさい、YUFFIE	Give it up, YUFFIE!		あきらめなさい、 YUFFIE		scene_24
+テメエの負けだぜ、YUFFIE	You lost, YUFFIE.	負	テメエの 負[ま]けだぜ、 YUFFIE		scene_24
+わ……わかったよ……アタシが悪かった……	O…OK, I know… I was wrong…	悪	わ……わかったよ……アタシが 悪[わる]かった……		scene_24
+アンタたちの勝ちだ。マテリアはぜんぶ返すよ……	You win. I'll give you back your Materia…	勝返	アンタたちの 勝[か]ちだ。マテリアはぜんぶ 返[かえ]すよ……		scene_24
+あのコ、ここから出てないと思うけど……いいの？	I don't think she came out from here… Is that OK?	出思	あのコ、ここから 出[で]てないと 思[おも]うけど……いいの？		scene_24
+待てよ、YUFFIEのやつまだこの町のなかにいるはずだぜ。それでも行くのか？	Wait, that damn YUFFIE's gotta be somewhere in this cheap town! You jus' gonna leave?	待町行	待[ま]てよ、 YUFFIEのやつまだこの 町[まち]のなかにいるはずだぜ。それでも 行[い]くのか？		scene_24
+YUFFIEならこの町のなかにかくれてるはずよ。いいの？	Knowing YUFFIE, she's still hidden somewhere in town. You sure?	町	YUFFIEならこの 町[まち]のなかにかくれてるはずよ。いいの？		scene_24
+YUFFIE、この町からは出てないよ、きっと！行っちゃうの？	I know she hasn't left town! You still want to leave?	町出行	YUFFIE、この 町[まち]からは 出[で]てないよ、きっと！ 行[い]っちゃうの？		scene_24
+オイオイ、あのガキほっぽってくのか？絶対まだこの町にいるぜ！	You lettin' that damn kid off the hook? I know she's gotta be hiding around here somewhere!	絶対町	オイオイ、あのガキほっぽってくのか？ 絶対[ぜったい]まだこの 町[まち]にいるぜ！		scene_24
+YUFFIEならこの町から出てはいないと思うが……それでも行くのか？	She couldn't have left town… I think she is must still be here. Or, do you want to go on?	町出思行	YUFFIEならこの 町[まち]から 出[で]てはいないと 思[おも]うが……それでも 行[い]くのか？		scene_24
+居酒屋　『かめ道楽』	Pub [Turtle's Paradise]	居酒屋道楽	居酒屋[いざかや]　『かめ 道楽[どうらく]』		scene_24
+チラシキャンペーンの おしらせ	Publicity Flyers! Notice		チラシキャンペーンのおしらせ		scene_24
+ただいま居酒屋『かめ道楽』では チラシキャンペーンを展開中です。	[Turtle's Paradise] is now having a publicity campaign.	居酒屋道楽展開中	ただいま 居酒屋[いざかや]『かめ 道楽[どうらく]』ではチラシキャンペーンを 展開[てんかい] 中[ちゅう]です。		scene_24
+世界各地にはられている『かめ道楽』のチラシ【かめ道楽　通信】　をさがしだしてください。	"Flyer's will be posted all over the world. So make sure you look for our flyers that say ""Turtle's Paradise"""	世界各地道楽通信	世界各地[せかいかくち]にはられている『かめ 道楽[どうらく]』のチラシ【かめ 道楽[どうらく]　 通信[つうしん]】　をさがしだしてください。		scene_24
+チラシはぜんぶで６枚。 すべてさがしだした方は 『かめ道楽』主人におしらせ下さい。 ささやかな景品をプレゼント！！	There's six in all. If you find them all, make sure to let the owner of Turtle's Paradise know. You can win a prize!	枚方道楽主人下景品	チラシはぜんぶで６ 枚[まい]。すべてさがしだした 方[ほう]は『かめ 道楽[どうらく]』 主人[しゅじん]におしらせ 下[くだ]さい。ささやかな 景品[けいひん]をプレゼント！！		scene_24
+チラシは見るだけでオーケー！ 他のお客様のためにも やぶったりしないで下さいネ！！	All you have to do is read them. Please don't take them down or rip them up!!	見他客様下	チラシは 見[み]るだけでオーケー！ 他[ほか]のお 客様[きゃくさま]のためにもやぶったりしないで 下[くだ]さいネ！！		scene_24
+『かめ道楽』主人	Owner, Turtle's Paradise	道楽主人	『かめ 道楽[どうらく]』 主人[しゅじん]		scene_24
+ウータイ・おじじの家	Wutai‚ Old Man's House	家	ウータイ・おじじの 家[いえ]		scene_24
+おーおー、ひさしぶりじゃナ。今まで何しとったんじゃ。えーと…………誰だっけ？	Well, well. Long time no see. What have you been up to? Let's see…what was your name?	今何誰	おーおー、ひさしぶりじゃナ。 今[いま]まで 何[なに]しとったんじゃ。えーと………… 誰[だれ]だっけ？		scene_24
+ちがうの、おじじ！ぜんぜん知らない人よ！知らない人が勝手にあがりこんでるの！	No, Gramps! This isn't anyone you know! This is just some stranger who barged into our house!	知人勝手	ちがうの、おじじ！ぜんぜん 知[し]らない 人[ひと]よ！ 知[し]らない 人[ひと]が 勝手[かって]にあがりこんでるの！		scene_24
+おーおー、にぎやかなことじゃ。マゴのおともだちかな？	Oh, how exciting. You a friend of my grandson's?		おーおー、にぎやかなことじゃ。マゴのおともだちかな？		scene_24
+ちがうの、おじじ！すっごくアヤしい人たちよ！ドタバタ走り回ってるの！	No, Gramps! These guy's are creepy! They're runnin' all over the place!	人走回	ちがうの、おじじ！すっごくアヤしい 人[ひと]たちよ！ドタバタ 走り回[はしりまわ]ってるの！		scene_24
+おーおー、このごろはアレじゃな。ひるまでもお月さんが見えるんじゃナ。みんなもよろこんでおるわい	Oh, you know lately things have been like that. You can even see the moon at noon. Everyone's celebrating.	月見	おーおー、このごろはアレじゃな。ひるまでもお 月[つき]さんが 見[み]えるんじゃナ。みんなもよろこんでおるわい		scene_24
+ちがうの、おじじ！あれは、真っ赤に燃えてる星よ！みんなこわがってるの！	No, Gramps! That's a big red planet in the sky! Everyone's scared of it!!	真赤燃星	ちがうの、おじじ！あれは、 真っ赤[まっか]に 燃[も]えてる 星[ほし]よ！みんなこわがってるの！		scene_24
+どうしよう、おじじ！さっきもヘンなカッコしたおねえちゃんが、いきなり入ってきたとおもったら、あそこの……	What are we going to do, Gramps? Some strange-looking girl came in here a minute ago and I…	入	どうしよう、おじじ！さっきもヘンなカッコしたおねえちゃんが、いきなり 入[はい]ってきたとおもったら、あそこの……		scene_24
+おじじ、たいへん！また、ヘンな人たちがきちゃった！	Oh no! More weirdos!	人	おじじ、たいへん！また、ヘンな 人[ひと]たちがきちゃった！		scene_24
+ううん、さっききた人とはちがうの！　でもこの人たちもヘンなカッコ！	No, these aren't like the one from a while ago, but these ones look weird, too!	人	ううん、さっききた 人[じん]とはちがうの！　でもこの 人[ひと]たちもヘンなカッコ！		scene_24
+のみどころかめ道楽	Bar [Turtle Paradise]	道楽	のみどころかめ 道楽[どうらく]		scene_24
+お、お前たち！？なんでこんなところへ……	Yy, you!? How did you get here?	前	お、お 前[まえ]たち！？なんでこんなところへ……		scene_24
+そ、そんなことどうでもいいわ。私たちタークスに会ったのが運のつき	Never mind that. I guess it's fate that brought us together.	私会運	そ、そんなことどうでもいいわ。 私[わたし]たちタークスに 会[あ]ったのが 運[うん]のつき		scene_24
+さあ、かくごしなさいっ！！	Get ready to die!!		さあ、かくごしなさいっ！！		scene_24
+……イリーナ、うるさいぞ、と	Elena, you talk too much.		……イリーナ、うるさいぞ、と		scene_24
+せ、先輩！？	Ww, what?	先輩	せ、 先輩[せんぱい]！？		scene_24
+俺たちがこんないなかに来てるのは、何のためだ？	What are we doing way out here in the middle of nowhere?	俺来何	俺[おれ]たちがこんないなかに 来[き]てるのは、 何[なに]のためだ？		scene_24
+そ、それは、休暇をとってひごろのつかれをいやすため……です	We're taking a vacation and resting up from our work.	休暇	そ、それは、 休暇[きゅうか]をとってひごろのつかれをいやすため……です		scene_24
+せっかくの休暇がつぶれちまうぞ、と	Now our vacation is ruined.	休暇	せっかくの 休暇[きゅうか]がつぶれちまうぞ、と		scene_24
+で、でも……	B, but…		で、でも……		scene_24
+……せっかくの酒もマズくなる	Even the booze tastes bad now.	酒	……せっかくの 酒[さけ]もマズくなる		scene_24
+……はい……	…Sorry…		……はい……		scene_24
+もっと飲めよ、ルード、と。お前とくんでもう何年になる……？	Drink, Rude! How long have we been a team?	飲前何年	もっと 飲[の]めよ、ルード、と。お 前[まえ]とくんでもう 何[なん] 年[ねん]になる……？		scene_24
+タークスの仕事はツライこともあるけど、ま、俺はやってきてよかったと思ってるぜ	Being a Turk's been hard at times, but all in all, I'm glad I did it.	仕事俺思	タークスの 仕事[しごと]はツライこともあるけど、ま、 俺[おれ]はやってきてよかったと 思[おも]ってるぜ		scene_24
+お前みたいなヘンなやつにもであえたぞ、と	After all, I got to meet a bunch of wing nuts like you.	前	お 前[まえ]みたいなヘンなやつにもであえたぞ、と		scene_24
+タークスに……レノに……かんぱい	To the Turks… To Reno…cheers!		タークスに……レノに……かんぱい		scene_24
+フン、運がよかったわね。さっさと消えなさい！	Hmm, you're lucky all right. Now get out of my sight!	運消	フン、 運[うん]がよかったわね。さっさと 消[き]えなさい！		scene_24
+この次に会った時はようしゃしないからね！	The next time we meet I won't be so nice.	次会時	この 次[つぎ]に 会[あ]った 時[とき]はようしゃしないからね！		scene_24
+はいはい、いらっしゃい。お客さんも旅の人だね？ゆっくりしてっておくれナ	Hey, hey, welcome! You on a trip? Well, just relax and make yourself at home.	客旅人	はいはい、いらっしゃい。お 客[きゃく]さんも 旅[たび]の 人[ひと]だね？ゆっくりしてっておくれナ		scene_24
+今のウータイは、旅の人が観光にきてくれるおかげでもってるようなものだからナ	Nowadays, Wutai's just able to get by thanks to the tourists.	今旅人観光	今[いま]のウータイは、 旅[たび]の 人[ひと]が 観光[かんこう]にきてくれるおかげでもってるようなものだからナ		scene_24
+なんだかお客さんたちがきてから、そうぞうしいナ。なんかあったのかい？	Seems like the town got really lively since you arrived. Did anything happen?	客	なんだかお 客[きゃく]さんたちがきてから、そうぞうしいナ。なんかあったのかい？		scene_24
+地面がグラグラゆれたと思ったら今度はあのでっかい星……	First the ground started shaking, then that large star…	地面思今度星	地面[じめん]がグラグラゆれたと 思[おも]ったら 今度[こんど]はあのでっかい 星[ほし]……		scene_24
+や、やっぱりもう……ダメなのかいナ？	Y, you think… It's all over?		や、やっぱりもう……ダメなのかいナ？		scene_24
+ウーイ。さびしい店だろ？	Hey. You think the store feels gloomy?	店	ウーイ。さびしい 店[みせ]だろ？		scene_24
+ま、静かなフンイキがおれはすきなんだけどね	Let's just say that I like things quiet.	静	ま、 静[しず]かなフンイキがおれはすきなんだけどね		scene_24
+それにしても、おもてはさっきからバタバタさわがしいナ……	It's been really loud and busy outside.		それにしても、おもてはさっきからバタバタさわがしいナ……		scene_24
+また誰か、おもてのツボに悪さでもしてるのかナ？	Someone outside must be up to something bad…	誰悪	また 誰[だれ]か、おもてのツボに 悪[わる]さでもしてるのかナ？		scene_24
+まあ、世の中がこんなになっちまっちゃあそれもしかたないか	With things the way they are in the world I guess there's nothing I can do about it.	世中	まあ、 世の中[よのなか]がこんなになっちまっちゃあそれもしかたないか		scene_24
+ジタバタしたってどうしようもねえんだ。みんなも酒でも飲めばいいのに……	Running around like a fool won't help matters any. So, we all might as well sit back and have a beer…	酒飲	ジタバタしたってどうしようもねえんだ。みんなも 酒[さけ]でも 飲[の]めばいいのに……		scene_24
+おお、やはり休暇でこちらにきているという情報は本当だったか！	So our reports were right! He IS here on vacation!	休暇情報本当	おお、やはり 休暇[きゅうか]でこちらにきているという 情報[じょうほう]は 本当[ほんとう]だったか！		scene_24
+ついにヤツを発見したのだ！タークスにも協力をたのみたい！	We've finally found him! Get the Turks here for back-up!	発見協力	ついにヤツを 発見[はっけん]したのだ！タークスにも 協力[きょうりょく]をたのみたい！		scene_24
+……やなこった、と	…What a drag.		……やなこった、と		scene_24
+い、今なんと……？	Ww, what was that?	今	い、 今[いま]なんと……？		scene_24
+俺たちは休暇中につきあんたらのおもりはできないぞ、と	We're off duty now and can't save your butts.	俺休暇中	俺[おれ]たちは 休暇[きゅうか] 中[ちゅう]につきあんたらのおもりはできないぞ、と		scene_24
+き、君たちが休暇中なのは我々も知っている。しかし……	We know you're off duty, but…	君休暇中我知	き、 君[きみ]たちが 休暇[きゅうか] 中[ちゅう]なのは 我々[われわれ]も 知[し]っている。しかし……		scene_24
+知ってるなら消えてくれ、と。あんたらのカッコを見てると酔いがさめちまう	If you knew, then don't bother us! Lookin' at you is makin' me sober.	知消見酔	知[し]ってるなら 消[き]えてくれ、と。あんたらのカッコを 見[み]てると 酔[よ]いがさめちまう		scene_24
+しかし、ヤツを探せという指令が本社から君たちにも出されているはず……！	But you all have orders from headquarters to look for him too!	探指令本社君出	しかし、ヤツを 探[さが]せという 指令[しれい]が 本社[ほんしゃ]から 君[きみ]たちにも 出[だ]されているはず……！		scene_24
+ええい、もういい！タークスの力などかりなくてもヤツをつかまえてみせる！	All right, fine! We'll get him without any help from the Turks, just you see!	力	ええい、もういい！タークスの 力[ちから]などかりなくてもヤツをつかまえてみせる！		scene_24
+このことは本社に報告しておくからな！！	And don't think that headquarters isn't going to hear about this!!	本社報告	このことは 本社[ほんしゃ]に 報告[ほうこく]しておくからな！！		scene_24
+レノ先輩！本当にそれでいいんですか！？	Reno, do you think that was really such a good idea!?	先輩本当	レノ 先輩[せんぱい]！ 本当[ほんとう]にそれでいいんですか！？		scene_24
+これがプロフェッショナルのタークスなんですか！？	I mean is that the way a professional, a Turk, would act!?		これがプロフェッショナルのタークスなんですか！？		scene_24
+イリーナ。かんちがいするなよ、と	Elena. Don't misunderstand.		イリーナ。かんちがいするなよ、と		scene_24
+仕事のためにすべてを犠牲にするのがプロじゃない。そんなのはただの仕事バカだ、と	Those who sacrifice themselves for their job aren't pros… …just fools.	仕事犠牲	仕事[しごと]のためにすべてを 犠牲[ぎせい]にするのがプロじゃない。そんなのはただの 仕事[しごと]バカだ、と		scene_24
+ルード先輩……	Rude?	先輩	ルード 先輩[せんぱい]……		scene_24
+私にはわかりません！……失礼します！！	Well, I don't buy that! Goodbye!!	私失礼	私[わたし]にはわかりません！…… 失礼[しつれい]します！！		scene_24
+ほうっておけよ。こどもじゃないんだ。好きにさせるさ、と……	Relax. She's not a child. Let her have her way.	好	ほうっておけよ。こどもじゃないんだ。 好[す]きにさせるさ、と……		scene_24
+…………休暇だから手を出さないだけだ	… It's just that we're off duty!	休暇手出	………… 休暇[きゅうか]だから 手[て]を 出[だ]さないだけだ		scene_24
+お前らと酒を飲む気はない。気安くはなしかけるなよ、と	I don't feel like drinking with you. And don't talk to me.	前酒飲気安	お 前[まえ]らと 酒[さけ]を 飲[の]む 気[き]はない。 気安[きやす]くはなしかけるなよ、と		scene_24
+ウーイ。旅の人、知ってるかい？このウータイにはむかし水神様がいたんだナ	Hey. Did you hear? There used to be a Water God here in Wutai.	旅人知水神様	ウーイ。 旅[たび]の 人[ひと]、 知[し]ってるかい？このウータイにはむかし 水神[すいじん] 様[さま]がいたんだナ		scene_24
+そりゃあでっけえヘビみてえな神様だったって話だ	They say the Water God was a huge snake!	神様話	そりゃあでっけえヘビみてえな 神様[かみさま]だったって 話[はなし]だ		scene_24
+今は魔晄の世の中だ。そんなもん信じる人間も少なくなったけどナ	Now we live in a world filled with Mako. Not many people would believe in something like that now.	今魔晄世中信人間少	今[いま]は 魔[ま] 晄[こう]の 世の中[よのなか]だ。そんなもん 信[しん]じる 人間[にんげん]も 少[すく]なくなったけどナ		scene_24
+でもこのウータイや世界のどこかにはまだあるらしいんだナ	But some in the world, and here in Wutai, still believe.	世界	でもこのウータイや 世界[せかい]のどこかにはまだあるらしいんだナ		scene_24
+水神様のうろこだとか水神様の力をふうじたマテリアとかがさ	Believe in the scales of the Water God and in Materia that has its power in it.	水神様力	水神[すいじん] 様[さま]のうろこだとか 水神[すいじん] 様[さま]の 力[ちから]をふうじたマテリアとかがさ		scene_24
+おお！アナタ、この『かめ道楽』のチラシを、６枚すべて見つけられましたね！	"Congrats! You have just found all six flyers for the ""Turtle's Paradise""!"	道楽枚見	おお！アナタ、この『かめ 道楽[どうらく]』のチラシを、６ 枚[まい]すべて 見[み]つけられましたね！		scene_24
+なんとすばらしい！それではお約束どうりささやかな景品を！！	How wonderful! Now here is your prize, just as we promised!!	約束景品	なんとすばらしい！それではお 約束[やくそく]どうりささやかな 景品[けいひん]を！！		scene_24
+これからも『かめ道楽』をよろしくおねがいします！	"Please come again to ""Turtle's Paradise""! We're looking forward to seeing you!"	道楽	これからも『かめ 道楽[どうらく]』をよろしくおねがいします！		scene_24
+ウータイ五強聖の塔	Wutai‚Pagoda	五強聖塔	ウータイ五 強[きょう] 聖[ひじり]の 塔[とう]		scene_24
+あそこに見える五重の塔はウータイ五強聖の塔。五強の塔と呼ばれています	That five-storied pagoda over there is called the Pagoda of the Five Mighty Gods…	見五重塔強聖呼	あそこに 見[み]える 五重の塔[ごじゅうのとう]はウータイ五 強[きょう] 聖[ひじり]の 塔[とう]。五 強[きょう]の 塔[とう]と 呼[よ]ばれています		scene_24
+五強聖とは力、速、魔、武そして、すべてをかねそなえた総の５人を意味します	The Five Gods are Power, Speed, Magic, War and Omni. Omni has the best of the others.	五強聖力速魔武総人意味	五 強[きょう] 聖[きよし]とは 力[ちから]、 速[はや]、 魔[ま]、 武[たけ]そして、すべてをかねそなえた 総[そう]の５ 人[にん]を 意味[いみ]します		scene_24
+そしてここウータイでは古くからダチャオ様と水神様がまつられています	For generations, we in Wutai have worshipped Da-chao the Water God.	古様水神	そしてここウータイでは 古[ふる]くからダチャオ 様[さま]と 水神[すいじん] 様[さま]がまつられています		scene_24
+古来よりこのウータイは五強聖とダチャオ様、水神様により守られてきたと言われているのです	Legend has it that the village has been protected by Da-chao, the Water God, and the Five Mighty Gods.	古来五強聖様水神守言	古来[こらい]よりこのウータイは五 強[きょう] 聖[きよし]とダチャオ 様[さま]、 水神[すいじん] 様[さま]により 守[まも]られてきたと 言[い]われているのです		scene_24
+しかしこの前の戦ではそれもかなわず……やはり伝説は伝説にすぎなかったのかもしれません	But, in the last battle, we didn't fare so well… I guess our beliefs were only based on legend.	前戦伝説	しかしこの 前[まえ]の 戦[せん]ではそれもかなわず……やはり 伝説[でんせつ]は 伝説[でんせつ]にすぎなかったのかもしれません		scene_24
+水神様のうろこの話を聞いたことがありますか？	Have you ever heard of the Water God's scales?	水神様話聞	水神[すいじん] 様[さま]のうろこの 話[はなし]を 聞[き]いたことがありますか？		scene_24
+なんでも不思議な力をひめたうろこでそれを前にするとどんな炎でも消えてしまうとか	They're not just regular scales. They have special hidden powers. They're impervious to the strongest flames.	不思議力前炎消	なんでも 不思議[ふしぎ]な 力[ちから]をひめたうろこでそれを 前[まえ]にするとどんな 炎[ほのお]でも 消[き]えてしまうとか		scene_24
+とは言え、そんなものがあってもさすがにあの、不気味に燃える星の炎までは消せそうもありませんが……	But, of course, I don't think they'd stand up to the fire that huge eerie-lookin' Meteor's gonna make when it crashes down.	言不気味燃星炎消	とは 言[い]え、そんなものがあってもさすがにあの、 不気味[ぶきみ]に 燃[も]える 星[ほし]の 炎[ほのお]までは 消[け]せそうもありませんが……		scene_24
+フン、コルネオのやつ、あいかわらず逃げ足だけはたいしたものだ、と	Hmm… Corneo's good at escaping…	逃足	フン、コルネオのやつ、あいかわらず 逃げ足[にげあし]だけはたいしたものだ、と		scene_24
+……イリーナ	…Elena.		……イリーナ		scene_24
+行こうぜ、ルード。タークスの仕事やつにじっくり見せてやろう	Let's go, Rude. We'll give them a taste of what the Turks can do.	行仕事見	行[い]こうぜ、ルード。タークスの 仕事[しごと]やつにじっくり 見[み]せてやろう		scene_24
+……と、言いたいところだが	That sounded okay.	言	……と、 言[い]いたいところだが		scene_24
+イリーナが向こうの手にわたったとなるとちょっとやっかいだぞ、と	If he has Elena, that's going to make things a little difficult.	向手	イリーナが 向[む]こうの 手[て]にわたったとなるとちょっとやっかいだぞ、と		scene_24
+そこで……と	And uh…		そこで……と		scene_24
+……いいだろう。こちらもYUFFIEをコルネオにさらわれた	…OK. Corneo took YUFFIE from us.		……いいだろう。こちらも YUFFIEをコルネオにさらわれた		scene_24
+YUFFIEがいないとマテリアも取りもどせない	And without YUFFIE, there's no way we'll get our Materia back.	取	YUFFIEがいないとマテリアも 取[と]りもどせない		scene_24
+……わかったわ。私たちもYUFFIEをコルネオにさらわれたの	…All right. Corneo stole YUFFIE from us as well.	私	……わかったわ。 私[わたし]たちも YUFFIEをコルネオにさらわれたの		scene_24
+あのコがいないとマテリアも取りもどせないもの	And without her, there's no way we'll get our Materia back.	取	あのコがいないとマテリアも 取[と]りもどせないもの		scene_24
+……ケッ、しかたねえか。こっちもYUFFIEのやつをあのヤロウに持ってかれちまったからな	That's just beautiful! And now that *#$^@'s walked off with YUFFIE too!	持	……ケッ、しかたねえか。こっちも YUFFIEのやつをあのヤロウに 持[も]ってかれちまったからな		scene_24
+あのガキがいねえとマテリアも取りもどせねえってこった	And without that brat, we can't get our hands on our Materia!	取	あのガキがいねえとマテリアも 取[と]りもどせねえってこった		scene_24
+かんちがいするなよ、と	Don't misunderstand.		かんちがいするなよ、と		scene_24
+お前らと手を組む気などない。ただ、たがいのジャマはしない。それだけのことだぞ、と	We have no intention of joining you. We're only agreeing not to fight each other…for now.	前手組気	お 前[まえ]らと 手[て]を 組[く]む 気[き]などない。ただ、たがいのジャマはしない。それだけのことだぞ、と		scene_24
+けっこうだ。俺たちもタークスと協力するつもりはサラサラない	That's fine. We have no intention of cooperating with you, either.	俺協力	けっこうだ。 俺[おれ]たちもタークスと 協力[きょうりょく]するつもりはサラサラない		scene_24
+ところで、コルネオはいったいどこへ逃げたんだ？	Now, uh, which direction did Corneo run off?	逃	ところで、コルネオはいったいどこへ 逃[に]げたんだ？		scene_24
+ええ、私たちもそのつもり。タークスと仲良くあくしゅなんてえんりょしておくわ	The same goes for us. We don't want to make friends with the Turks.	私仲良	ええ、 私[わたし]たちもそのつもり。タークスと 仲良[なかよ]くあくしゅなんてえんりょしておくわ		scene_24
+ところで、コルネオはいったいどこへ逃げたのかしら？	Now, which direction did Corneo run off?	逃	ところで、コルネオはいったいどこへ 逃[に]げたのかしら？		scene_24
+あったりめえじゃねえか！タークスと手を組むなんざ、こっちからねがいさげでえ	Of course! There ain't no way we'd wanna work with the Turks anyway!	手組	あったりめえじゃねえか！タークスと 手[て]を 組[くみ]むなんざ、こっちからねがいさげでえ		scene_24
+にしてもよ、あのヤロウいったいどこへ逃げやがった？	Anyhow, which direction did that %^$*& run off?	逃	にしてもよ、あのヤロウいったいどこへ 逃[に]げやがった？		scene_24
+フン、あの性格だ。だいたい想像つくぞ。ここらで一番めだつのは……と	Hmm, nice attitude. Here's a clue, it's the most obvious place.	性格想像一番	フン、あの 性格[せいかく]だ。だいたい 想像[そうぞう]つくぞ。ここらで 一番[いちばん]めだつのは……と		scene_24
+ウータイ総本山	Wutai‚Main Mtn.	総本山	ウータイ 総本山[そうほんざん]		scene_24
+ゴドー	Godo		ゴドー		scene_24
+グガーなにか用かな？	GOOGAH…what do you want?	用	グガーなにか 用[よう]かな？		scene_24
+なにもンガーないが、旅のつかれをいやすことぐらいはグーできるだろう。ゴガーゆっくりしていきなさい	Don't have…GAH…anything much but, you should be able to…GOO…rest yourselves here. GOGAH…make yourselves at home.	旅	なにもンガーないが、 旅[たび]のつかれをいやすことぐらいはグーできるだろう。ゴガーゆっくりしていきなさい		scene_24
+……YUFFIE？…………知らぬな、そんな名は。グーゴー	…YUFFIE? …Nope, never heard of her. …GOOGO…	知名	…… YUFFIE？………… 知[し]らぬな、そんな 名[な]は。グーゴー		scene_24
+……くどいな。知らぬものは、知らぬ	…You again? I said it once, and I'll say it again, I don't know her.	知	……くどいな。 知[し]らぬものは、 知[し]らぬ		scene_24
+知らぬと言ったら知らぬ！YUFFIEなどという者はこのウータイにはおらん！	Listen, I said I didn't know her! There isn't anyone named YUFFIE here in Wutai!	知言者	知[し]らぬと 言[い]ったら 知[し]らぬ！ YUFFIEなどという 者[もの]はこのウータイにはおらん！		scene_24
+……見かけない顔だな……	…Never seen you around here before…	見顔	…… 見[み]かけない 顔[かお]だな……		scene_24
+このところ、この近くで神羅の兵をよく見かけるが……おぬしたちと関係があるのか	Lately, I've been seeing a lot of Shinra soldiers around here…You wouldn't know anything about that, would you?	近神羅兵見関係	このところ、この 近[ちか]くで 神[しん] 羅[ら]の 兵[へい]をよく 見[み]かけるが……おぬしたちと 関係[かんけい]があるのか		scene_24
+おぬしたちが何者か。そんなことに興味はない	I don't care about who you are.	何者興味	おぬしたちが 何者[なにもの]か。そんなことに 興味[きょうみ]はない		scene_24
+ただ、神羅ともめごとを起こそうというのなら早々に出ていってくれ	But, if you're in trouble with the Shinra, I'm going to have to ask you to leave.	神羅起早出	ただ、 神[しん] 羅[ら]ともめごとを 起[お]こそうというのなら 早々[そうそう]に 出[で]ていってくれ		scene_24
+神羅ににらまれたくはないのでな……	I don't want the Shinra hanging around here looking over my shoulder.	神羅	神[しん] 羅[ら]ににらまれたくはないのでな……		scene_24
+なんだい、このいくじなし！	What's with you, you coward?		なんだい、このいくじなし！		scene_24
+YUFFIE……！	YUFFIE!		YUFFIE……！		scene_24
+そんなに神羅がこわいの？	You scared of the Shinra?	神羅	そんなに 神[しん] 羅[ら]がこわいの？		scene_24
+だったら他の町みたいにさっさと神羅にしたがったらいいじゃないか！	Then why don't you just bow down and obey them like all the other towns?	他町神羅	だったら 他[ほか]の 町[まち]みたいにさっさと 神[しん] 羅[ら]にしたがったらいいじゃないか！		scene_24
+そこにいる連中の方が神羅とまともにたたかってるよ！	Those guys are the ones who are really fighting the Shinra!	連中方神羅	そこにいる 連中[れんちゅう]の 方[ほう]が 神[しん] 羅[ら]とまともにたたかってるよ！		scene_24
+う、うるさい！お前のようなやつになにがわかる！	Shut up! What would you know about this?	前	う、うるさい！お 前[まえ]のようなやつになにがわかる！		scene_24
+いちど戦にまけたらそれっきり？強いウータイはどうしたのさ！	You got beat once, so what? That's it? What happened to the mighty Wutai I used to know?	戦強	いちど 戦[せん]にまけたらそれっきり？ 強[つよ]いウータイはどうしたのさ！		scene_24
+これはお前のような子供が口を出す間題ではない！	No kid like you's going to talk to me like that!	前子供口出間題	これはお 前[まえ]のような 子供[こども]が 口[くち]を 出[だ]す 間[ま] 題[だい]ではない！		scene_24
+まだそんな格好をしおって！はずかしくないのか！	You keep acting like that! You ought to be ashamed of yourself!	格好	まだそんな 格好[かっこう]をしおって！はずかしくないのか！		scene_24
+アタシのセンスだもんそんなの勝手だろ！人のポリシーに口ださないでよ！	That's my style! And it's my business, not yours! Don't try and dictate what I should do!	勝手人口	アタシのセンスだもんそんなの 勝手[かって]だろ！ 人[ひと]のポリシーに 口[くち]ださないでよ！		scene_24
+セ、センス……？ポリーシー……？	Style? Dictate?		セ、センス……？ポリーシー……？		scene_24
+そんなヨコ文字までつかいおって！この……この不良ムスメが！	Why all those fancy words? You're a rotten daughter!	文字不良	そんなヨコ 文字[もじ]までつかいおって！この……この 不良[ふりょう]ムスメが！		scene_24
+フンだ、このグータラ親父！！	Hmph! You're a sad excuse for a father!!	親父	フンだ、このグータラ 親父[おやじ]！！		scene_24
+……やはり、早々にここから出ていってくれ	…Take your things and get out of here now.	早出	……やはり、 早々[そうそう]にここから 出[で]ていってくれ		scene_24
+ウータイを守るには神羅にさからうわけにはいかないのだ	For the good of Wutai, we cannot stand up to Shinra.	守神羅	ウータイを 守[まも]るには 神[しん] 羅[ら]にさからうわけにはいかないのだ		scene_24
+いいか！　ヤツはかならずこのあたりにいるはずだ！なんとしても探しだせ！	Now listen up! They must be in the area! Find them no matter what!	探	いいか！　ヤツはかならずこのあたりにいるはずだ！なんとしても 探[さが]しだせ！		scene_24
+かくし通路	Hidden Passage	通路	かくし 通路[つうろ]		scene_24
+『風魔手裏剣』を手にいれた！	"Received ""Magic Shuriken""!"	風魔手裏剣	『 風[かぜ] 魔[ま] 手裏剣[しゅりけん]』を 手[て]にいれた！		scene_24
+『かんざし』を手にいれた！	"Received ""Hairpin""!"	手	『かんざし』を 手[て]にいれた！		scene_24
+『ＨＰきゅうしゅう』のマテリアを手にいれた！	"Received ""HP Absorb"" Materia!"	手	『 ＨＰ[えいちぴー]きゅうしゅう』のマテリアを 手[て]にいれた！		scene_24
+武器・アクセサリー屋	Item/Accessory Store	武器屋	武器[ぶき]・アクセサリー 屋[や]		scene_24
+アイヨ、らっしゃい！	Hey yo! Welcome!		アイヨ、らっしゃい！		scene_24
+鉄は熱いうちに打てってな！できたてのキレモノがそろってるぜ！	We got some of the best blades right out of the furnace! So strike while the iron's hot!	鉄熱打	鉄[てつ]は 熱[あつ]いうちに 打[う]てってな！できたてのキレモノがそろってるぜ！		scene_24
+あんたらもまだあきらめてないクチかい？	You aren't tired of my rambling?		あんたらもまだあきらめてないクチかい？		scene_24
+うれしいねえ！さあ、買った買った！	Great! Then come on in and start buying!	買	うれしいねえ！さあ、 買[か]った 買[か]った！		scene_24
+すまないが、ウチの商品いまみんな売りきれなんだ	Sorry, but we're entirely sold out now.	商品売	すまないが、ウチの 商品[しょうひん]いまみんな 売[う]りきれなんだ		scene_24
+ここにあるの？あ、いや、これは……	What's this here? Ah, no…that's uh…		ここにあるの？あ、いや、これは……		scene_24
+そう、見本！見本なんだ。わるいな、また後できてくれよ	…A sample! Yeah, that's it…a sample. Sorry, but why don't you all come back later?	見本後	そう、 見本[みほん]！ 見本[みほん]なんだ。わるいな、また 後[ご]できてくれよ		scene_24
+やあ。こないだは悪かったな。じつはYUFFIEちゃんにアンタらに売るの、止められててさ	Listen, I'm sorry about last time. YUFFIE told me not to sell anything to you.	悪売止	やあ。こないだは 悪[わる]かったな。じつは YUFFIEちゃんにアンタらに 売[う]るの、 止[と]められててさ		scene_24
+でももう解決したんだよな？さあ、買った買った！	[DOESN'T EXIST]	解決買	でももう 解決[かいけつ]したんだよな？さあ、 買[か]った 買[か]った！		scene_24
+ここは、あきらめない人間によるあきらめない人間のための武器屋！さあ、見てってくれ！	This is a weapon store of hard cores, by hard cores, and for the hard cores! Come on and take a look, why doncha!?	人間武器屋見	ここは、あきらめない 人間[にんげん]によるあきらめない 人間[にんげん]のための 武器[ぶき] 屋[や]！さあ、 見[み]てってくれ！		scene_24
+すまないね。じつのところ……いや、なんでもない。また今度きてくれよ	Sorry, listen I… No, nothing…never mind.	今度	すまないね。じつのところ……いや、なんでもない。また 今度[こんど]きてくれよ		scene_24
+『ＭＰきゅうしゅう』のマテリアを盗まれた！	"Stole ""MP Absorb"" Materia!"	盗	『ＭＰきゅうしゅう』のマテリアを 盗[ぬす]まれた！		scene_24
+『ＭＰきゅうしゅう』のマテリアを手にいれた！	"Received ""MP Absorb"" Materia!"	手	『ＭＰきゅうしゅう』のマテリアを 手[て]にいれた！		scene_24
+イロイロそろってるよ。自由にえらんでおくれ	We got a lot of different stuff here. Take what you want.	自由	イロイロそろってるよ。 自由[じゆう]にえらんでおくれ		scene_24
+こんな時だってのにまだ何か買うのかい？	You're still gonna sit here and buy stuff at a time like this?	時何買	こんな 時[とき]だってのにまだ 何[なに]か 買[か]うのかい？		scene_24
+お客さん、変わってるね……	You're an odd one…	客変	お 客[きゃく]さん、 変[か]わってるね……		scene_24
+ごめんなさいね。おもてには『マテリア』なんてかいてあるけど、今ウータイにはマテリアなんてほとんどないの	"I'm sorry. The sign outside says ""Materia"", but there's almost no Materia left anywhere in Wutai."	今	ごめんなさいね。おもてには『マテリア』なんてかいてあるけど、 今[こん]ウータイにはマテリアなんてほとんどないの		scene_24
+ほら、ここはいなかだしそれに、神羅カンパニーともあまり、ね……	Listen, this is just a backwoods town. We don't have much to do with Shinra, and besides…	神羅	ほら、ここはいなかだしそれに、 神[しん] 羅[ら]カンパニーともあまり、ね……		scene_24
+マテリアがいっぱいあればウータイももっとにぎやかになると思うんだけど……	If we had a lot of Materia, Wutai would be a much more exciting town, but we don't…	思	マテリアがいっぱいあればウータイももっとにぎやかになると 思[おも]うんだけど……		scene_24
+もうマテリアがどうのと言ってる場合じゃなくなったわね……	And now it's too late to be worrying about Materia at this stage of the game…	言場合	もうマテリアがどうのと 言[い]ってる 場合[ばあい]じゃなくなったわね……		scene_24
+何かあなたの役に立つものがあったら、買っていってね	If you see anything you need, buy it.	何役立買	何[なに]かあなたの 役に立[やくにた]つものがあったら、 買[か]っていってね		scene_24
+え？なに？何かあったの？	Huh? What? You DID?	何	え？なに？ 何[なに]かあったの？		scene_24
+ああ、ダメダメ。今、商品のいれかえをしているところなんだよ。あとでまた、来ておくれ	Oh, no, no, no! I'm just replacing these goods! You come back later.	今商品来	ああ、ダメダメ。 今[いま]、 商品[しょうひん]のいれかえをしているところなんだよ。あとでまた、 来[き]ておくれ		scene_24
+YUFFIEの家	YUFFIE's House	家	YUFFIEの 家[いえ]		scene_24
+わかってるよ、マテリアだろ？ちゃんとしまってあるよ。……こっちきて	I know, the Materia, right? I have it stored in a safe place. …Follow me.		わかってるよ、マテリアだろ？ちゃんとしまってあるよ。……こっちきて		scene_24
+……小さいころから聞かされてた	…I've been hearing that ever since I was little.	小聞	…… 小[ちい]さいころから 聞[き]かされてた		scene_24
+アタシが生まれる前のウータイはもっとにぎやかでもっと強かったって……	Before I was born, Wutai was a lot more crowded and more impressive.	生前強	アタシが 生[う]まれる 前[まえ]のウータイはもっとにぎやかでもっと 強[つよ]かったって……		scene_24
+見たでしょ、今のウータイを。これじゃただの観光地だよ……	You see what it looks like now, right? …Just a tourist trap…	見今観光地	見[み]たでしょ、 今[いま]のウータイを。これじゃただの 観光地[かんこうち]だよ……		scene_24
+戦に負けて、和平を手にいれてでも、それといっしょに何かをなくしちゃったんだ。今のウータイは……	After the war, we got peace, but we lost something else. Now look at Wutai…	戦負和平手何今	戦[せん]に 負[ま]けて、 和平[わへい]を 手[て]にいれてでも、それといっしょに 何[なに]かをなくしちゃったんだ。 今[いま]のウータイは……		scene_24
+だからアタシは……マテリアがいっぱいあればきっと……だから、だから……	That's why… if I had lots of Materia I could…		だからアタシは……マテリアがいっぱいあればきっと……だから、だから……		scene_24
+……悪いがYUFFIE。ウータイの歴史にもおまえの感情にも興味はない	Listen, YUFFIE. I don't care about the history of Wutai or your feelings.	悪歴史感情興味	…… 悪[わる]いが YUFFIE。ウータイの 歴史[れきし]にもおまえの 感情[かんじょう]にも 興味[きょうみ]はない		scene_24
+俺たちに重要なのはいま俺たちのマテリアをおまえがもっているということだ	You've got our Materia and I want it back…now.	俺重要	俺[おれ]たちに 重要[じゅうよう]なのはいま 俺[おれ]たちのマテリアをおまえがもっているということだ		scene_24
+マテリアさえ返してくれればそれ以上おまえを責めるようなことはしない	If you give it back now, we'll drop the whole thing.	返以上責	マテリアさえ 返[かえ]してくれればそれ 以上[いじょう]おまえを 責[せ]めるようなことはしない		scene_24
+ごめんなさいね、YUFFIE。あなたのキモチはわかるけど私たちにもマテリアは必要なの	I'm sorry, YUFFIE. I know how you feel, but we need Materia, too.	私必要	ごめんなさいね、 YUFFIE。あなたのキモチはわかるけど 私[わたし]たちにもマテリアは 必要[ひつよう]なの		scene_24
+……このままあなたにあげてしまうことはできないのよ。わかってちょうだい	…We just can't let you have it. Please understand.		……このままあなたにあげてしまうことはできないのよ。わかってちょうだい		scene_24
+……ケッ、YUFFIEよ。おめえの身の上話をきいてるヒマは、こっちにゃねえよ	Dammit, YUFFIE. We ain't got time to be listening to your life story.	身上話	……ケッ、 YUFFIEよ。おめえの 身の上話[みのうえばなし]をきいてるヒマは、こっちにゃねえよ		scene_24
+マテリアが欲しかったらてめえの力で手に入れな。それがスジってもんだ	If you want Materia, get it yourself. That's how you should do it.	欲力手入	マテリアが 欲[ほ]しかったらてめえの 力[ちから]で 手[て]に 入[い]れな。それがスジってもんだ		scene_24
+わかってる。そんなのアタシだってわかってるよ……	I know. I know that…		わかってる。そんなのアタシだってわかってるよ……		scene_24
+そこにヒック……スイッチ……左のレバー……マテリア、ヒック……かくして……	That…sniff…switch… the lever on the left…… Materia's…sniff, hic…in there.	左	そこにヒック……スイッチ…… 左[ひだり]のレバー……マテリア、ヒック……かくして……		scene_24
+まちがえないで。左のレバーを……	Don't make a mistake. The left lever…	左	まちがえないで。 左[ひだり]のレバーを……		scene_24
+かわいそう、だけど……	I'm sorry, but……		かわいそう、だけど……		scene_24
+ま、しかたねえよな……	Ain't nuthin' we can do about it…		ま、しかたねえよな……		scene_24
+さあ、マテリアを……	Now, the Materia…		さあ、マテリアを……		scene_24
+ちょっと言い過ぎたかな……	Were we a little too harsh on her?	言過	ちょっと 言[い]い 過[す]ぎたかな……		scene_24
+まぁ、とりあえずはマテリア、返してもらいましょ	Well, let's get our Materia back.	返	まぁ、とりあえずはマテリア、 返[かえ]してもらいましょ		scene_24
+ケッ……オレ様は知らねえよ	Hmmph… I dunno.	様知	ケッ……オレ 様[さま]は 知[し]らねえよ		scene_24
+やむをえないな	There was nothing else to do.		やむをえないな		scene_24
+な、なんだコリャ！？	Wh…what the hell is this?		な、なんだコリャ！？		scene_24
+な、何するんだ！？	Wh, what are you doing?	何	な、 何[なに]するんだ！？		scene_24
+な、なんやねんなコレ！？	Wh, what is this?		な、なんやねんなコレ！？		scene_24
+オオッ！？	Whoa!		オオッ！？		scene_24
+！？	!?		！？		scene_24
+ハッハッハーッ！人の言うことは聞いとくもんだってこと！！	Ha, ha--! You should've listened!!	人言聞	ハッハッハーッ！ 人[ひと]の 言[い]うことは 聞[き]いとくもんだってこと！！		scene_24
+ハッハッハーッ！そうかんたんに人を信用するなってこと！！	Ha, ha, ha--! Never trust anyone that easily!!	人信用	ハッハッハーッ！そうかんたんに 人[ひと]を 信用[しんよう]するなってこと！！		scene_24
+マテリアはアタシのもの！ざんねんでした！	The Materia's mine! Tough!		マテリアはアタシのもの！ざんねんでした！		scene_24
+マテリア取りかえしたかったら自分たちでさがしてみれば？	You want your Materia? Then go find it yourself!	取自分	マテリア 取[と]りかえしたかったら 自分[じぶん]たちでさがしてみれば？		scene_24
+そう、マテリアを見つけるにはカネにものを言わせなきゃ	Yeah that's right. And when you're looking for the Materia, remember you gotta steel it.	見言	そう、マテリアを 見[み]つけるにはカネにものを 言[い]わせなきゃ		scene_24
+エヘヘ……カネだよ、カネ。わっかるー？	Heh heh… Steel…steel! Get it?		エヘヘ……カネだよ、カネ。わっかるー？		scene_24
+じゃ～ね～！	C'ya!!		じゃ~ね~！		scene_24
+お、おい、助けてくれよ！	Y, yo, wait up!!	助	お、おい、 助[たす]けてくれよ！		scene_24
+ね、おいてかないで！	Wait, don't leave us!		ね、おいてかないで！		scene_24
+ちょ、ちょっとおいてかないでよ！	W..wait, don't leave us here!		ちょ、ちょっとおいてかないでよ！		scene_24
+先にオイラたちを助けてよ～！	Help us first!	先助	先[さき]にオイラたちを 助[たす]けてよ~！		scene_24
+先に、こっちを助けて～なぁ～！	Hey, help us…please!	先助	先[さき]に、こっちを 助[たす]けて~なぁ~！		scene_24
+おい！オレ様を助けるのが先だろうが！	Hey! Help me first!	様助先	おい！オレ 様[さま]を 助[たす]けるのが 先[さき]だろうが！		scene_24
+待て、ひとりで追うな！	Wait, don't go by yourself!	待追	待[ま]て、ひとりで 追[お]うな！		scene_24
+左のレバーをさげる	Flip the Left Lever	左	左[ひだり]のレバーをさげる		scene_24
+右のレバーをさげる	Flip the Right Lever	右	右[みぎ]のレバーをさげる		scene_24
+ナンバー６	No. 6		ナンバー６		scene_24
+『かめ道楽』で飲まずしてウータイを語るなかれ！居酒屋『かめ道楽』はでっかいツボが目印です！！	"Drink at the ""Turtle's Paradise"" and talk about Wutai! To find ""Turtle's Paradise"", look for the big pot outside!!"	道楽飲語居酒屋目印	『かめ 道楽[どうらく]』で 飲[の]まずしてウータイを 語[かた]るなかれ！ 居酒屋[いざかや]『かめ 道楽[どうらく]』はでっかいツボが 目印[めじるし]です！！		scene_24
+かくし部屋	Hidden Room	部屋	かくし 部屋[へや]		scene_24
+離せよ！　離せってば！ちょっと、イタ、イタタタタ！	Let go! I SAID let GO!	離	離[はな]せよ！　 離[はな]せってば！ちょっと、イタ、イタタタタ！		scene_24
+コラ、アタシをだれだと……あーっ！　何すんだよー！	Hey! Who do you think I… OW! What're you doin'? Jerk!	何	コラ、アタシをだれだと……あーっ！　 何[なに]すんだよー！		scene_24
+おまえは……！	You!		おまえは……！		scene_24
+あっ！　あなたは……！	Oh! You're…		あっ！　あなたは……！		scene_24
+な、なんだテメエは！？	Ww, who are you!?		な、なんだテメエは！？		scene_24
+……ほ………………ほ……	…ho… …ho…		……ほ………………ほ……		scene_24
+ほひ、ほひ！ほひひ～～～！！	Hohi, hohi! Hohihi!		ほひ、ほひ！ほひひ~~~！！		scene_24
+コルネオ！？	Corneo!?		コルネオ！？		scene_24
+ドン・コルネオ！？	Don Corneo!?		ドン・コルネオ！？		scene_24
+テメエ、何してやがる！	The hell are you doing!	何	テメエ、 何[なに]してやがる！		scene_24
+やっと新しいおなごが手にはいったぞ～！	I've finally got a new chicky!	新手	やっと 新[あたら]しいおなごが 手[て]にはいったぞ~！		scene_24
+いちどにふたりも！ほひ～ほひ～！	Two for one, in fact! Heh, heh!		いちどにふたりも！ほひ~ほひ~！		scene_24
+ふたり！？	Two!?		ふたり！？		scene_24
+ふたりだと！？	Two!?		ふたりだと！？		scene_24
+コ……コラ、離しなさい！後でこうかいするわよ！！	H…hey! Let go of me! You're gonna regret this!!	離後	コ……コラ、 離[はな]しなさい！ 後[あと]でこうかいするわよ！！		scene_24
+『雷迅』を手にいれた！	"Received ""Swift Bolt""!"	雷迅手	『 雷[かみなり]迅』を 手[て]にいれた！		scene_24
+いたぞ、ヤツだ！コルネオだ！絶対に逃がすな！	There he is! It's Corneo! Don't let him get away!	絶対逃	いたぞ、ヤツだ！コルネオだ！ 絶対[ぜったい]に 逃[に]がすな！		scene_24
+突撃ーーーッ！！	Attaaaack!	突撃	突撃[とつげき]ーーーッ！！		scene_24
+ムニャムニャムニャ……	Num, num…		ムニャムニャムニャ……		scene_24
+どうかお助けください。どうかお助けください。どうかお助けください……	Help me. Help me. Help me…	助	どうかお 助[たす]けください。どうかお 助[たす]けください。どうかお 助[たす]けください……		scene_24
+ムニャムニャムニャ……あの星がこのあたりに落ちてきませんように……	Num, num… I hope Meteor doesn't fall anywhere around here…	星落	ムニャムニャムニャ……あの 星[ほし]がこのあたりに 落[お]ちてきませんように……		scene_24
+あ～ダチャオ様……今こそあなたのお力を……	Oh, Great Da-chao… Please grant us your strength…	様今力	あ~ダチャオ 様[さま]…… 今[いま]こそあなたのお 力[ちから]を……		scene_24
+ゴドー様はとなりにある五強の塔にこもりっきりじゃ。ゴドー様でもあんなものはどうにもならんて……	He's in the pagoda next to Lord Godo. Lord Godo says we're stuck…	様五強塔	ゴドー 様[さま]はとなりにある五 強[きょう]の 塔[とう]にこもりっきりじゃ。ゴドー 様[さま]でもあんなものはどうにもならんて……		scene_24
+ウータイ　ダチャオ像	Wutai‚Da-chao Statue	像	ウータイ　ダチャオ 像[ぞう]		scene_24
+ウータイ　五強の塔	Wutai‚Godo's Pagoda	五強塔	ウータイ　五 強[きょう]の 塔[とう]		scene_24
+やっと来たな。俺たちは二手に別れるぞ、と	You're finally here. We're gonna split up.	来俺二手別	やっと 来[き]たな。 俺[おれ]たちは二 手[て]に 別[わか]れるぞ、と		scene_24
+お前たちは、勝手に行動しろ。ただし、イリーナに危害は加えるなよ、と	You do whatever you want. But don't endanger Elena.	前勝手行動危害加	お 前[まえ]たちは、 勝手[かって]に 行動[こうどう]しろ。ただし、イリーナに 危害[きがい]は 加[くわ]えるなよ、と		scene_24
+心配するな。俺たちも、YUFFIEとかいう小娘には何もしやしない、と	Don't worry. We won't do anything to that girl, YUFFIE.	心配俺小娘何	心配[しんぱい]するな。 俺[おれ]たちも、 YUFFIEとかいう 小娘[こむすめ]には 何[なに]もしやしない、と		scene_24
+今のところはな、と	For now…	今	今[いま]のところはな、と		scene_24
+チンタラやってるヒマはねえ。敵さんは待っちゃくれないぜ、と	Stop fooling around. The enemy's not gonna wait for us, you know!	敵待	チンタラやってるヒマはねえ。 敵[てき]さんは 待[ま]っちゃくれないぜ、と		scene_24
+お前たちも、ここがクサイと思ったか。あいにく、大ハズレ、と	You all thought they might be here too, huh?  We were way off.	前思大	お 前[まえ]たちも、ここがクサイと 思[おも]ったか。あいにく、 大[だい]ハズレ、と		scene_24
+そんなに遠くへは行けないはずだぜ、と	There's no way they could get this far.	遠行	そんなに 遠[とお]くへは 行[い]けないはずだぜ、と		scene_24
+これは無理だな。この炎じゃ、あっという間に黒コゲだ	Can't go through here… That flame would fry me in an instant.	無理炎間黒	これは 無理[むり]だな。この 炎[ほのお]じゃ、あっという 間[ま]に 黒[くろ]コゲだ		scene_24
+キャアッ！	Eyaaaah!		キャアッ！		scene_24
+とてもじゃないけど進めないわ！	There is no way past this!	進	とてもじゃないけど 進[すす]めないわ！		scene_24
+うあっちい！	Damn, that's hot!		うあっちい！		scene_24
+フロは熱いにかぎるがこいつは、ちいとばかり熱すぎんぜ！	I like hot baths, but this is TOO hot!	熱	フロは 熱[あつ]いにかぎるがこいつは、ちいとばかり 熱[ねっ]すぎんぜ！		scene_24
+『水神様のうろこ』がきらめいた！	The Scale of the Sea God shines!	水神様	『 水神[すいじん] 様[さま]のうろこ』がきらめいた！		scene_24
+は～な～せ～よ～！	LET…ME……GO!!!!		は~な~せ~よ~！		scene_24
+ほひ～！いいの～、いいの～！新たなシュミになりそ～じゃの～！	Hmm! Delicious…scrumptious! I think I've just found a new HOBBY!	新	ほひ~！いいの~、いいの~！ 新[あら]たなシュミになりそ~じゃの~！		scene_24
+どっちのおなごにしようかな？ほひ～ほひ～！	Which shall it be? Hmm…Hmm…		どっちのおなごにしようかな？ほひ~ほひ~！		scene_24
+あ、あんた、私はタークスよ！こんな事をしてすむと思ってるの！？	He…hey, I'm a 'Turk'! Don't think you can get away with this!!	私事思	あ、あんた、 私[わたし]はタークスよ！こんな 事[こと]をしてすむと 思[おも]ってるの！？		scene_24
+あ～ッ！こんなことなら、ナワ抜けの修行マジにやっとくんだったよ～！	Oh GAWD! If I knew this was gonna happen, I would've taken those rope lessons more seriously!!	抜修行	あ~ッ！こんなことなら、ナワ 抜[ぬ]けの 修行[しゅぎょう]マジにやっとくんだったよ~！		scene_24
+ほひ～！！決めた決～めた！今夜の相手は……	Hmm!!! I've made my choice! My companion for the night will be…	決今夜相手	ほひ~！！ 決[き]めた 決[けつ]~めた！ 今夜[こんや]の 相手[あいて]は……		scene_24
+ゲゲッ！	GROSS-NESS!		ゲゲッ！		scene_24
+ざけんな、ジジイ～！マテリアも持ってないクセによ！	Don't mess with me old man! You don't even have any Materia!	持	ざけんな、ジジイ~！マテリアも 持[も]ってないクセによ！		scene_24
+ほひ～！そのこばむしぐさがういの～、うぶいの～	Oooooh! And she's saucy, too! Wheee! Wheee!		ほひ~！そのこばむしぐさがういの~、うぶいの~		scene_24
+そこまでだ！	All right, that's it!!		そこまでだ！		scene_24
+待ちなさい！	Hold it right there!	待	待[ま]ちなさい！		scene_24
+おうおうおう！そのヘンにしときな！	Hey, hey, hey! That's as far as you go!		おうおうおう！そのヘンにしときな！		scene_24
+ゲッ！CLOUD……！	Oh man! CLOUD……!		ゲッ！ CLOUD……！		scene_24
+ゲッ！TIFA……！	Oh man! TIFA……!		ゲッ！ TIFA……！		scene_24
+ゲッ！CIDのオヤジ……！	Oh man! That old fart, CID!		ゲッ！ CIDのオヤジ……！		scene_24
+ほひひ、ひさしぶりだな	Wheeel…long time no see.		ほひひ、ひさしぶりだな		scene_24
+忘れたとは言わせないぞ	Don't tell me you forgot…	忘言	忘[わす]れたとは 言[い]わせないぞ		scene_24
+痛かったんだから！あの落とし穴……！	That fall into the trap really hurt!	痛落穴	痛[いた]かったんだから！あの 落とし穴[おとしあな]……！		scene_24
+こりない人ねこんなマネして……！	You just don't get it, do you…!?	人	こりない 人[ひと]ねこんなマネして……！		scene_24
+ほひひ、なんだ、お前たちは！？	Hmm…Who are you guys!?	前	ほひひ、なんだ、お 前[まえ]たちは！？		scene_24
+てめーみてえな、ゲスやろう神さんが許しても、このオレ様が許さねえ！	Maybe God'd forgive an ugly ^#@# like you, but I won't!	神許様	てめーみてえな、ゲスやろう 神[しん]さんが 許[ゆる]しても、このオレ 様[さま]が 許[ゆる]さねえ！		scene_24
+このミッドガルのハイエナ野郎……！	You damn Midgar hyena…!	野郎	このミッドガルのハイエナ 野郎[やろう]……！		scene_24
+早くふたりを放せ！	Hurry and let the two go!	早放	早[はや]くふたりを 放[はな]せ！		scene_24
+どうでもいいが、やり方がスマートではないな……	I don't care what you're doing, so much as the idiotic way you're doing it…	方	どうでもいいが、やり 方[かた]がスマートではないな……		scene_24
+オッサン女にもてたいんやったらやり方ちゅうもんがあるやろ	Listen you stupid, slimy, sleazy old scab bag! If you want to get women, there's such a thing as the RIGHT way!	女方	オッサン 女[おんな]にもてたいんやったらやり 方[かた]ちゅうもんがあるやろ		scene_24
+だまらっしゃ～い！あれから、俺がどんなに苦労したかお前らにはわかるまい……	Be quiet! None of you know how much I've suffered since then…	俺苦労前	だまらっしゃ~い！あれから、 俺[おれ]がどんなに 苦労[くろう]したかお 前[まえ]らにはわかるまい……		scene_24
+そう、話せば長くなるけれど……	It's a long story, but……	話長	そう、 話[はな]せば 長[なが]くなるけれど……		scene_24
+話さなくていーの！早くふたりを降ろしなさい！	We don't want to hear it! Just let them go!	話早降	話[はな]さなくていーの！ 早[はや]くふたりを 降[お]ろしなさい！		scene_24
+んなこた、どーでもいーんだよ！ネエちゃんたちを、返してもらうぜ。腕ずくでもな！	I don't really give a damn! You're gonna let them go, or else I'm gonna break your arm!	返腕	んなこた、どーでもいーんだよ！ネエちゃんたちを、 返[かえ]してもらうぜ。 腕[うで]ずくでもな！		scene_24
+興味ないね！YUFFIEたちを、返せ！	I don't really care! Let YUFFIE and Elena go!	興味返	興味[きょうみ]ないね！ YUFFIEたちを、 返[かえ]せ！		scene_24
+ほひ……おまえら……本気だな。……えらいえらい	Hmm…You guys are serious. …Good, good.	本気	ほひ……おまえら…… 本気[ほんき]だな。……えらいえらい		scene_24
+あの時は俺の可愛いアプスをよくも殺ってくれたな……	Why did you kill my little Aps?	時俺可愛殺	あの 時[とき]は 俺[おれ]の 可愛[かわい]いアプスをよくも 殺[や]ってくれたな……		scene_24
+これ以上、俺の花ヨメ探しのジャマをさせんためにも、俺の新しいペットと遊んでもらうぜ！	I'm gonna make you PLAY with my new pet, so you won't interfere in my search for a bride!	以上俺花探新遊	これ 以上[いじょう]、 俺[おれ]の 花[はな]ヨメ 探[さが]しのジャマをさせんためにも、 俺[おれ]の 新[あたら]しいペットと 遊[あそ]んでもらうぜ！		scene_24
+ラプス　カムヒア！！	RAPPS---come here!!		ラプス　カムヒア！！		scene_24
+ちょ……	Wait…		ちょ……		scene_24
+さあ、かんねんしなさい！	You better say your prayers!		さあ、かんねんしなさい！		scene_24
+おうじょうぎわが、わりーぜ！とっつぁん！！	Don't be such a poor loser, old man!		おうじょうぎわが、わりーぜ！とっつぁん！！		scene_24
+俺たちみたいな悪堂がこうやってプライドをすててまで命ごいするのは、どんなときだと思う？	Why do you think a bad guy like me would swallow his pride and plead for his life?	俺悪堂命思	俺[おれ]たちみたいな 悪[あく] 堂[どう]がこうやってプライドをすててまで 命[いのち]ごいするのは、どんなときだと 思[おも]う？		scene_24
+キャアーッ！	Eyaaaah…		キャアーッ！		scene_24
+あ、頭に血がのぼる～ッ！	It makes me so MAD!	頭血	あ、 頭[あたま]に 血[ち]がのぼる~ッ！		scene_24
+このスイッチを押すと、このまま下に真っ逆さま……つぶれたトマトのでき上がり！	Once I push this button, they'll fall and we'll have SQUASHED TOMATOES!	押下真逆上	このスイッチを 押[お]すと、このまま 下[した]に 真っ逆[まっさか]さま……つぶれたトマトのでき 上[あ]がり！		scene_24
+クッ……！	Damn!		クッ……！		scene_24
+ひきょうよ！	Coward!		ひきょうよ！		scene_24
+この、クサレ外道が……！	So this is how a loser lives!	外道	この、クサレ 外道[げどう]が……！		scene_24
+きったねえ手使いやがって……！	Damn tricky $#%@&T$*^%$ !	手使	きったねえ 手[て] 使[づか]いやがって……！		scene_24
+わ、わかった……	All right…		わ、わかった……		scene_24
+グルル……！	Grrrrrgh…		グルル……！		scene_24
+えぐいことすんの～！	You sure are vulgar!		えぐいことすんの~！		scene_24
+……！	……!		……！		scene_24
+では、そっちのおなごもわたしてもらおうか！	Now, give me your women too!		では、そっちのおなごもわたしてもらおうか！		scene_24
+ほっひっひっひ！最後に笑うのは、俺だったな！	Ha, ha, ha, ha! I guess I have the last laugh!	最後笑俺	ほっひっひっひ！ 最後[さいご]に 笑[わら]うのは、 俺[おれ]だったな！		scene_24
+いや、俺たちだ、と	No, that would be us.	俺	いや、 俺[おれ]たちだ、と		scene_24
+タ、タークス！	…The Turks!		タ、タークス！		scene_24
+お前が秘密をもらした時から決まっていたのだ	You knew this was gonna happen ever since you leaked that secret.	前秘密時決	お 前[まえ]が 秘密[ひみつ]をもらした 時[とき]から 決[き]まっていたのだ		scene_24
+俺たちの手でほうむり去られるとな、と	We're going to take care of you… personally.	俺手去	俺[おれ]たちの 手[て]でほうむり 去[さ]られるとな、と		scene_24
+え、ええ～い！こうなれば、道づれだ！	DAMMIT! Then they're all comin' with me!	道	え、ええ~い！こうなれば、 道[みち]づれだ！		scene_24
+グワッ……！	Ugh…!		グワッ……！		scene_24
+いいタイミングだぜ。ルード、と	Good timing, Rude.		いいタイミングだぜ。ルード、と		scene_24
+……仕事だ	…Let's get to work.	仕事	…… 仕事[しごと]だ		scene_24
+さーて、コルネオさんよ。すぐ終わるから聞いてくれ、と	All right, Corneo. This'll be over quick, so listen up.	終聞	さーて、コルネオさんよ。すぐ 終[お]わるから 聞[き]いてくれ、と		scene_24
+俺たちが、ヤツらと組んでまできさまを追いつめるのはなぜだと思う……？、と	Why do you think we went to all the trouble of teaming up with those guys to get you…?	俺組追思	俺[おれ]たちが、ヤツらと 組[く]んでまできさまを 追[お]いつめるのはなぜだと 思[おも]う……？、と		scene_24
+２……２番ですか？	Two…Number two?	番	２……２ 番[ばん]ですか？		scene_24
+どれも不正解、と	All wrong.	不正解	どれも 不正解[ふせいかい]、と		scene_24
+や！　やめ……！	No! Wait, st…		や！　やめ……！		scene_24
+ほひいいいぃぃぃぃぃ……	Aaaaaaaaaa……p		ほひいいいぃぃぃぃぃ……		scene_24
+正解は、と	The correct answer was…	正解	正解[せいかい]は、と		scene_24
+……仕事だからだ	…because it's our job.	仕事	…… 仕事[しごと]だからだ		scene_24
+あ、ありがとうございます。先輩……！	Oh, thank you very much…!	先輩	あ、ありがとうございます。 先輩[せんぱい]……！		scene_24
+まさか、助けに来てくれるなんて……	I never thought you'd come…	助来	まさか、 助[たす]けに 来[き]てくれるなんて……		scene_24
+イリーナ。あまえるなよ、と	Elena, don't act so weak.		イリーナ。あまえるなよ、と		scene_24
+お前もタークスの一員なんだぜ、と	You're a Turk!	前一員	お 前[まえ]もタークスの 一員[いちいん]なんだぜ、と		scene_24
+は……はい！	Y…Yes, sir!		は……はい！		scene_24
+あ……ありがとう	Th…Thanks.		あ……ありがとう		scene_24
+ありがと、助かっちゃった	Thanks for your help.	助	ありがと、 助[たす]かっちゃった		scene_24
+ともかく、今日んとこは礼を言うぜ	I uh, thanks for today.	今日礼言	ともかく、 今日[きょう]んとこは 礼[れい]を 言[い]うぜ		scene_24
+お前らに救われるとはな……	Never thought you'd ever help us…	前救	お 前[まえ]らに 救[すく]われるとはな……		scene_24
+あんたらもええトコあるやないか	You guys have some good in you.		あんたらもええトコあるやないか		scene_24
+礼を言わねばならないのか……	It would appear thanks are in order…	礼言	礼[れい]を 言[い]わねばならないのか……		scene_24
+助かった……と言っておくよ	I'll just say you…helped.	助言	助[たす]かった……と 言[い]っておくよ		scene_24
+はい……レノです、と	Yes…this is Reno.		はい……レノです、と		scene_24
+はい……はい……ただちに、かかります、と	Yes…Yes… I'll get on it right away.		はい……はい……ただちに、かかります、と		scene_24
+か、会社からですか？先輩……	Was that the company?	会社先輩	か、 会社[かいしゃ]からですか？ 先輩[せんぱい]……		scene_24
+そう、CLOUDたちを探せとな、と……	Yeah, they want us to find CLOUD…	探	そう、 CLOUDたちを 探[さが]せとな、と……		scene_24
+仕事か……？	Are we on?	仕事	仕事[しごと]か……？		scene_24
+いや、今日は非番だ、と	No, today's our day off.	今日非番	いや、 今日[きょう]は 非番[ひばん]だ、と		scene_24
+ど～でもい～けどお～ろ～し～て～～ッ！	Hey---who cares about that!? Get----me-----down----!		ど~でもい~けどお~ろ~し~て~~ッ！		scene_24
+待たれいッ！	Freeze!	待	待[ま]たれいッ！		scene_24
+それがしたち、ウータイの者ではござらぬな？	You aren't from Wutai, are you?	者	それがしたち、ウータイの 者[もの]ではござらぬな？		scene_24
+ウータイの者でなければこの塔に立ち入る事まかりならんッ！	Only those from Wutai may enter the tower!	者塔立入事	ウータイの 者[もの]でなければこの 塔[とう]に 立ち入[たちい]る 事[こと]まかりならんッ！		scene_24
+お引き取りいただこう！	I'll have to ask for you to leave!	引取	お 引き取[ひきと]りいただこう！		scene_24
+ええい！　正体をいつわるとはふとどきせんばん！即刻この塔から出ていかれよ！	Hey! I can't stand liars! Leave this tower at once!	正体即刻塔出	ええい！　 正体[しょうたい]をいつわるとはふとどきせんばん！ 即刻[そっこく]この 塔[とう]から 出[で]ていかれよ！		scene_24
+おお、YUFFIE様！この五強の塔を登られる気になられたのですな？	Oh, Miss YUFFIE! Will you be climbing the pagoda today?	様五強塔登気	おお、 YUFFIE 様[さま]！この五 強[きょう]の 塔[とう]を 登[のぼ]られる 気[き]になられたのですな？		scene_24
+ま、そんなトコかな	Yeah		ま、そんなトコかな		scene_24
+ま～さか～！	No way!		ま~さか~！		scene_24
+では、この１階の相手はこの力の強聖ゴーリキーがつとめさせていただきます！	Then I, Sacred Gorky, will be your opponent on the first floor!	階相手力強聖	では、この１ 階[かい]の 相手[あいて]はこの 力[ちから]の 強[つよ] 聖[きよし]ゴーリキーがつとめさせていただきます！		scene_24
+YUFFIE様！私を倒さねば、２階に上がる事まかりなりませんぞ！	Miss YUFFIE! You cannot go on to the second floor unless you defeat me!	様私倒階上事	YUFFIE 様[さま]！ 私[わたし]を 倒[たお]さねば、２ 階[かい]に 上[あ]がる 事[こと]まかりなりませんぞ！		scene_24
+いよ！　オラ、シェイクってんだ！ゴーリキーと、あんたの手合わせはオラが見届けさしてもらうよ！	Yo! They call me Shake! I'll be watchin' your fight with Gorky!	手合見届	いよ！　オラ、シェイクってんだ！ゴーリキーと、あんたの 手合[てあ]わせはオラが 見届[みとど]けさしてもらうよ！		scene_24
+ゴーリキー	Gorky		ゴーリキー		scene_24
+では、参る！	Then, begin!	参	では、 参[まい]る！		scene_24
+力変化招来！	Power Change!	力変化招来	力[ちから] 変化[へんか] 招来[しょうらい]！		scene_24
+参りましたぞ、YUFFIE様！	Here I am, Miss YUFFIE!	参様	参[まい]りましたぞ、 YUFFIE 様[さま]！		scene_24
+シェイク	Shake		シェイク		scene_24
+へー、ただのはねッ返り娘かと思ってたけど、その程度は出来んじゃん！	Hmm, I thought you were just a girl, but you handled that pretty good!	返娘思程度出来	へー、ただのはね ッ[っ] 返[かえ]り 娘[むすめ]かと 思[おも]ってたけど、その 程度[ていど]は 出来[でき]んじゃん！		scene_24
+ま、次はどーかな？	Let's see how you do on next one…	次	ま、 次[つぎ]はどーかな？		scene_24
+お言葉ですが、修行が足りませんぞ！このゴーリキー、がっかりしましたぞ！	In my opinion, you need more training! Gorky is disappointed!	言葉修行足	お 言葉[ことば]ですが、 修行[しゅぎょう]が 足[た]りませんぞ！このゴーリキー、がっかりしましたぞ！		scene_24
+だ～めだって！ゴーリキーをやらなきゃ！五強の塔、ナメてんじゃない？	No good! You have to beat Gorky! Are you mocking this Pagoda?	五強塔	だ~めだって！ゴーリキーをやらなきゃ！五 強[きょう]の 塔[とう]、ナメてんじゃない？		scene_24
+と～ぜ～ん！	Of course!		と~ぜ~ん！		scene_24
+るさい！　るさい！　るさ～い！	Shut up! Shut up! SHADDUP!		るさい！　るさい！　るさ~い！		scene_24
+次は誰よ？	Who's next?	次誰	次[つぎ]は 誰[だれ]よ？		scene_24
+あんたの目はふし穴か？ここに、いんじゃん！	Are you blind? I'm right here!	目穴	あんたの 目[め]はふし 穴[あな]か？ここに、いんじゃん！		scene_24
+は～？ガキが相手～？	What? I gotta fight a punk?	相手	は~？ガキが 相手[あいて]~？		scene_24
+ヘン、何を言うかね！どこぞのバカ娘よりはオラの方が、よっぽど大人よ！	Heh! Punk. I'm more of an adult than some bimbo girl!	何言娘方大人	ヘン、 何[なに]を 言[い]うかね！どこぞのバカ 娘[むすめ]よりはオラの 方[ほう]が、よっぽど 大人[おとな]よ！		scene_24
+な、なんだって～！？	Wh, what did you say!?		な、なんだって~！？		scene_24
+ヘッヘ！　そうやってムキになるのがガキたるゆえんよ！	See what I mean? That kind of anger's what makes you so immature!		ヘッヘ！　そうやって ムキ[むき]になるのがガキたるゆえんよ！		scene_24
+のうがきは、速の強聖のオラに勝ってからにしな！	Don't pat yourself on the back until you beat me!	速強聖勝	のうがきは、 速[そく]の 強[つよ] 聖[きよし]のオラに 勝[か]ってからにしな！		scene_24
+見てなよ……！	Now watch…!	見	見[み]てなよ……！		scene_24
+ハナいきだけは一人前だね！ホントにやる根性あんの？	'bout the only thing you do really good is breathe! Are you sure you wanna fight?	一人前根性	ハナいきだけは 一人前[いちにんまえ]だね！ホントにやる 根性[こんじょう]あんの？		scene_24
+おしゃべりは、もういい！	Stop yappin'!		おしゃべりは、もういい！		scene_24
+許してやるよ	I'll forgive you	許	許[ゆる]してやるよ		scene_24
+ほう、ついにゴーリキーを倒した者が出たようじゃの	Hm, so someone finally got past Gorky.	倒者出	ほう、ついにゴーリキーを 倒[たお]した 者[もの]が 出[で]たようじゃの		scene_24
+では、このチェホフが立ち合いましょうぞ……	I guess it's Chekhov's turn…	立合	では、このチェホフが 立ち合[たちあ]いましょうぞ……		scene_24
+行くぜ、ガキんちょ！速変化招来！	Here I go, brat! Speed Change!	行速変化招来	行[い]くぜ、ガキんちょ！ 速[そく] 変化[へんか] 招来[しょうらい]！		scene_24
+うわっちゃ～！ちったーやるみたいじゃん！	URRGRAAAAGH! So you CAN fight a bit!		うわっちゃ~！ちったーやるみたいじゃん！		scene_24
+ひゃ～っはっは！ガキガキガキガキ～！	HYAAAAAAH! BRATBRATBRATBRAT!!		ひゃ~っはっは！ガキガキガキガキ~！		scene_24
+あんたらじゃダ～メ！ここはウータイ武闘術五強聖の塔だぜ！	You don't belong here! This is the Wutai Temple of Martial Arts!	武闘術五強聖塔	あんたらじゃダ~メ！ここはウータイ 武闘[ぶとう] 術[じゅつ]五 強[きょう] 聖[ひじり]の 塔[とう]だぜ！		scene_24
+コラコラ、そこの～！オラをムシすんなって！	Hey, you there! Don't ignore me!		コラコラ、そこの~！オラをムシすんなって！		scene_24
+あ～らら、いざとなると口だけなんて、ガキもガキ大～ガキ～！	So you're just talk after all. Brat!	口大	あ~らら、いざとなると 口[くち]だけなんて、ガキもガキ 大[だい]~ガキ~！		scene_24
+チェホフ	Chekhov		チェホフ		scene_24
+シェイクを倒さずして階上に上がることあいなりませんぞ……	You can't go to the next floor unless you beat Shake.	倒階上	シェイクを 倒[たお]さずして 階[かい] 上[じょう]に 上[あ]がることあいなりませんぞ……		scene_24
+ホッホッホ……ひさかたぶりに、うずきますぞ……	Ho, ho, ho… It's been a while since I felt pain…		ホッホッホ……ひさかたぶりに、うずきますぞ……		scene_24
+なんとシェイクまで、敗れたか。チェホフ、そなたの出番もひさしぶりだな	So even Shake's been defeated. It's been a while since you had to fight, eh Chekhov?	敗出番	なんとシェイクまで、 敗[やぶ]れたか。チェホフ、そなたの 出番[でばん]もひさしぶりだな		scene_24
+残念ながら、わらわでおしまいじゃ。スタニフ、そなたは、そこで見ているがいい	Unfortunately, this is as far as it goes.  Staniv, you watch over there.	残念見	残念[ざんねん]ながら、わらわでおしまいじゃ。スタニフ、そなたは、そこで 見[み]ているがいい		scene_24
+そんなワケにはいかないのよね～！若さが強さってとこ教えたげるよ	That ain't going to happen! I'll teach you about the strength of youth!	若強教	そんなワケにはいかないのよね~！ 若[わか]さが 強[つよ]さってとこ 教[おし]えたげるよ		scene_24
+小娘が、いきがっておるとやけどくらいですまぬぞえ	Keep mouthing off like that, little girl, and you're going to get burned.	小娘	小娘[こむすめ]が、いきがっておるとやけどくらいですまぬぞえ		scene_24
+あいにく火遊びは大好きなの	I got insurance.	火遊大好	あいにく 火遊[ひあそ]びは 大好[だいす]きなの		scene_24
+オバさんは相手にしてらんない	Let's get this over, ya' old geez.	相手	オバ[おば]さんは 相手[あいて]にしてらんない		scene_24
+ホッホッホ。魔の強聖のわらわと試合った後でも、そのへらず口きけるといいが……	Ho, ho, ho. We'll see if you still talk like that after you taste some of my Sacred Magic…	魔強聖試合後口	ホッホッホ。 魔[ま]の 強[つよ] 聖[きよし]のわらわと 試合[しあい]った 後[のち]でも、そのへらず 口[ぐち]きけるといいが……		scene_24
+ホッホホ。ケツの青い小娘ならではのへらず口だこと	Ho, ho, ho. What do you expect from a child barely out of diapers!?	青小娘口	ホッホホ。ケツの 青[あお]い 小娘[こむすめ]ならではのへらず 口[ぐち]だこと		scene_24
+魔変化招来！	Magic Change!	魔変化招来	魔[ま] 変化[へんか] 招来[しょうらい]！		scene_24
+わ、わらわの術を破るとは……	I can't believe…you beat me.	術破	わ、わらわの 術[じゅつ]を 破[やぶ]るとは……		scene_24
+スタニフ	Staniv		スタニフ		scene_24
+面白い……！ひさびさに我が腕、ぞんぶんにふるえそうだな……	This should be interesting! It's been too long since I've had a chance to use my full power…	面白我腕	面白[おもしろ]い……！ひさびさに 我[わ]が 腕[うで]、ぞんぶんにふるえそうだな……		scene_24
+ホッホッホ！年はもいかぬ子娘に何がわかろうて……	Ho, ho, ho! What does a immature child know…?	年子娘何	ホッホッホ！ 年[とし]はもいかぬ 子[こ] 娘[むすめ]に 何[なに]がわかろうて……		scene_24
+やはり常人では、ここまでが限度か……	This is the average person's limit?	常人限度	やはり 常人[じょうじん]では、ここまでが 限度[げんど]か……		scene_24
+そなたらでは、話にならぬぞえ	That being the case, we have nothing further to discuss.	話	そなたらでは、 話[はなし]にならぬぞえ		scene_24
+ここを素通りしようとはわらわも、なめられたものよ	How dare they mock us, thinking they could sneak past us.	素通	ここを 素通[すどお]りしようとはわらわも、なめられたものよ		scene_24
+まずは、そちらのチェホフがお相手いたす……	First, Chekhov will keep you company…	相手	まずは、そちらのチェホフがお 相手[あいて]いたす……		scene_24
+来ましたな……	So you're here…	来	来[き]ましたな……		scene_24
+あれ？　立ち合い人ってのは？	Huh? Who am I supposed to beat?	立合人	あれ？　 立ち合[たちあ]い 人[じん]ってのは？		scene_24
+はあーッ！	HAAAAH!		はあーッ！		scene_24
+ここ、４階までは階上の者が立ち合うのが、ならわし……。しかし、ここは五強の塔４階にして最上階の意味を持つ……	The rule is the best fighter on each floor will be your opponent… This is a five-storied pagoda,but the fourth floor is the highest…	階上者立合五強塔最意味持	ここ、４ 階[かい]までは 階上[かいじょう]の 者[もの]が 立ち合[たちあ]うのが、ならわし……。しかし、ここは五 強[きょう]の 塔[とう]４ 階[かい]にして 最上階[さいじょうかい]の 意味[いみ]を 持[も]つ……		scene_24
+すなわち！武の強聖の、私を敗った者はかつてないということだ	In other words, no one has ever defeated me--Master of Weaponry!	武強聖私敗者	すなわち！ 武[たけ]の 強[つよ] 聖[きよし]の、 私[わたし]を 敗[はい]った 者[もの]はかつてないということだ		scene_24
+それでも、戦うかね……？	You still want to try…?	戦	それでも、 戦[たたか]うかね……？		scene_24
+もっちろん！	Just come on!!		もっちろん！		scene_24
+パス、パ～ス！	I'll pass!		パス、パ~ス！		scene_24
+気にいった！見るがいい……	I like you! Now watch…	気見	気[き]にいった！ 見[み]るがいい……		scene_24
+武変化招来！	Weapon Change!	武変化招来	武[たけ] 変化[へんか] 招来[しょうらい]！		scene_24
+無念！今回も力をすべて出せずに終わってしまった……	How unfortunate! It was over before I could even put all my strength into it…	無念今回力出終	無念[むねん]！ 今回[こんかい]も 力[ちから]をすべて 出[だ]せずに 終[お]わってしまった……		scene_24
+な、何だと……！？	Wh, what…!?	何	な、 何[なに]だと……！？		scene_24
+お見事！かくも腕を上げられたとは……	Splendid! You have definitely improved…	見事腕上	お 見事[みごと]！かくも 腕[うで]を 上[あ]げられたとは……		scene_24
+おっほ！思ったよりガキじゃないみたいじゃん！	Oh, ho! You might not be as much of a child as we thought you were!	思	おっほ！ 思[おも]ったよりガキじゃないみたいじゃん！		scene_24
+当然であろう。わらわが敗れた者なれば……	Of course. If WE lost to her…	当然敗者	当然[とうぜん]であろう。わらわが 敗[やぶ]れた 者[もの]なれば……		scene_24
+最上階の立ち合いは我ら４人！あの方と相まみえていただきましょうぞ……！	You have defeated four of our best, but now you will have to face HIM!	最上階立合我人方相	最上階[さいじょうかい]の 立ち合[たちあ]いは 我[われ]ら４ 人[にん]！あの 方[かた]と 相[あい]まみえていただきましょうぞ……！		scene_24
+YUFFIE殿でなければ私が相まみえるわけには参りませぬな……	If it were not for Miss YUFFIE, I wouldn't be facing him…	殿私相参	YUFFIE 殿[どの]でなければ 私[わたし]が 相[あい]まみえるわけには 参[まい]りませぬな……		scene_24
+労せずして実をえようとはこの４階まで来た者とも思えん所業……	You didn't seem like someone who could get to the fourth floor so easily…	労実階来者思所業	労[ろう]せずして 実[み]をえようとはこの４ 階[かい]まで 来[き]た 者[もの]とも 思[おも]えん 所業[しょぎょう]……		scene_24
+お、オヤジイ！？	D,…Dad!?		お、オヤジイ！？		scene_24
+よくぞ来た、YUFFIE！	I'm glad you made it this far, YUFFIE!	来	よくぞ 来[き]た、 YUFFIE！		scene_24
+な、なんでアンタが……	Why, why are you……		な、なんでアンタが……		scene_24
+聞きたい事は、ワシの体におのれの技で聞くが良い！	I'll answer you by having you try your skills against me!	聞事体技良	聞[き]きたい 事[こと]は、ワシの 体[からだ]におのれの 技[わざ]で 聞[き]くが 良[よ]い！		scene_24
+手をぬくなよ。　ワシを殺すつもりで、来い！でなければ、私がお前を殺す！	Hold nothing back. Come as if you're trying to kill me! If you don't…then I'll have to kill you!	手殺来私前	手[て]をぬくなよ。　ワシを 殺[ころ]すつもりで、 来[こ]い！でなければ、 私[わたし]がお 前[まえ]を 殺[ころ]す！		scene_24
+ち、ちっくしょ～……	Dammit……		ち、ちっくしょ~……		scene_24
+ええい！　なんたるざまだ！腕をみがいて、出直して来い！	Ohhh! And what was that!? Come back when you get more training!	腕出直来	ええい！　なんたるざまだ！ 腕[うで]をみがいて、 出直[でなお]して 来[こ]い！		scene_24
+今度こそ見てなよ。この、なまぐさボウズ！	I'll show you this time, you old Fart-meister!	今度見	今度[こんど]こそ 見[み]てなよ。この、なまぐさボウズ！		scene_24
+ほう、少しは腕を上げたか？	Hmm? A slight improvement.	少腕上	ほう、 少[すこ]しは 腕[うで]を 上[あ]げたか？		scene_24
+全力で来い！総！　変！　化！　招！　来……ッ！！	Come at me with all you have! OMNI-Change!!	全力来総変化招	全力[ぜんりょく]で 来[こ]い！ 総[そう]！　 変[へん]！　 化[か]！　招！　 来[らい]……ッ！！		scene_24
+ちょ、ちょっと！	H…hey!		ちょ、ちょっと！		scene_24
+何をしておる！総！　変！　化！　招！　来……ッ！！	What are you doing! OMNI-Change!!	何総変化招来	何[なに]をしておる！ 総[そう]！　 変[へん]！　 化[か]！　招！　 来[らい]……ッ！！		scene_24
+ハッ……　ハッ……	…heave…heave…		ハッ……　ハッ……		scene_24
+ゼエ……　ゼェ……	…huff…puff…		ゼエ……　ゼェ……		scene_24
+おっ……　オヤジ……やるじゃ……ねーか……	O…old coot… not…bad…		おっ……　オヤジ……やるじゃ……ねーか……		scene_24
+お前も……　腕を……あげたな……	You've…also…improved…	前腕	お 前[まえ]も……　 腕[うで]を……あげたな……		scene_24
+ハ……　ハハッ……	Hah…Ha, ha…		ハ……　ハハッ……		scene_24
+……ふ　ふッ……	…Heh, heh…		……ふ　ふッ……		scene_24
+アハハハハハ……ッ！	Ha ha haaaaaa!		アハハハハハ……ッ！		scene_24
+うわっはっはっは……！	Waha haaaaa!		うわっはっはっは……！		scene_24
+やるようになったなYUFFIE……	It's time I gave this to you, YUFFIE…		やるようになったな YUFFIE……		scene_24
+この水神様のマテリアを持って行くがいい	This is Leviathan Materia. Take it.	水神様持行	この 水神[すいじん] 様[さま]のマテリアを 持[も]って 行[い]くがいい		scene_24
+と、思ったら、持ちきれんほどマテリアを持っているな	…I thought I'd give it to you, but you have no room for it.	思持	と、 思[おも]ったら、 持[も]ちきれんほどマテリアを 持[も]っているな		scene_24
+ならば、後ほど受け取れい。忘れぬようにな！	Then, come back for it later. And don't forget!	後受取忘	ならば、 後[のち]ほど 受け取[うけと]れい。 忘[わす]れぬようにな！		scene_24
+水神様のマテリアか？ぬうッ！　きっちり覚えておったか	Leviathan Materia? Oh! So you DID remember.	水神様覚	水神[すいじん] 様[さま]のマテリアか？ぬうッ！　きっちり 覚[おぼ]えておったか		scene_24
+やむをえん、受け取るがよい！	Well it's yours, go ahead and take it!	受取	やむをえん、 受け取[うけと]るがよい！		scene_24
+そなたら、おびただしいほどのマテリアを持っておるではないか！	You have too much Materia!	持	そなたら、おびただしいほどのマテリアを 持[も]っておるではないか！		scene_24
+しかし、ゴドー様。水神様のマテリアは、五強の塔を制覇し、新たに五強聖をおさめる者が持つのが、ならわし……	But, Lord Godo. Leviathan Materia should only be given to the person who conquers and takes over this Pagoda. That is our custom…	様水神五強塔制覇新聖者持	しかし、ゴドー 様[さま]。 水神[すいじん] 様[さま]のマテリアは、五 強[きょう]の 塔[とう]を 制覇[せいは]し、 新[あら]たに五 強[きょう] 聖[ひじり]をおさめる 者[もの]が 持[も]つのが、ならわし……		scene_24
+ならわし、ならわしってもー聞きあきたよ！	CUSTOM, CUSTOM, CUSTOM… I'm so sick of hearing that!	聞	ならわし、ならわしってもー 聞[き]きあきたよ！		scene_24
+バッカじゃない！？	It's so stupid!		バッカじゃない！？		scene_24
+口がすぎますぞ！YUFFIE様！	Silence, Miss YUFFIE!	口様	口[くち]がすぎますぞ！ YUFFIE 様[さま]！		scene_24
+じゃ、あんたらは、い～の？ それだけの力があって……	Then what 'bout all of you? With all your power…	力	じゃ、あんたらは、い~の？それだけの 力[ちから]があって……		scene_24
+こんな塔にこもってるだけで満足なのかよ！？	Are you satisfied being cooped up in this tower?	塔満足	こんな 塔[とう]にこもってるだけで 満足[まんぞく]なのかよ！？		scene_24
+オヤジもそーさ……！ 前に戦に負けたからって！	You too, Dad! Just because you lost the war,	前戦負	オヤジもそーさ……！ 前[まえ]に 戦[せん]に 負[ま]けたからって！		scene_24
+このウータイを、こんなにしちまってさ！	You turned Wutai into a place like this!		このウータイを、こんなにしちまってさ！		scene_24
+……何が言いたいんだい？	What do you mean?	何言	…… 何[なに]が 言[い]いたいんだい？		scene_24
+ウータイを、こんな、ひなびた観光地にして、ヨソ者にこびて……	You turned Wutai into a cheesy resort town peddling to tourists…	観光地者	ウータイを、こんな、ひなびた 観光地[かんこうち]にして、ヨソ 者[しゃ]にこびて……		scene_24
+そんなんで、いーのかよ！ダチャオ像も、水神様も泣いてるよ！！	How dare you!? Da-chao Statue and Leviathan are ashamed!!	像水神様泣	そんなんで、いーのかよ！ダチャオ 像[ぞう]も、 水神[すいじん] 様[さま]も 泣[な]いてるよ！！		scene_24
+やれやれ、やっぱガキだな	She IS a kid.		やれやれ、やっぱガキだな		scene_24
+YUFFIEッ！！	YUFFIE!!		YUFFIEッ！！		scene_24
+許してくれ……すべてワシの責任だ……	Forgive me… It's all my fault…	許責任	許[ゆる]してくれ……すべてワシの 責任[せきにん]だ……		scene_24
+何をおっしゃいます！ゴドー様！	What are you saying, Lord Godo!	何様	何[なに]をおっしゃいます！ゴドー 様[さま]！		scene_24
+戦に負け……ウータイをこのようにしてしまったのは、ワシなのだ……	Losing the war…turning Wutai into this. It was all my fault…	戦負	戦[せん]に 負[ま]け……ウータイをこのようにしてしまったのは、ワシなのだ……		scene_24
+ゴドー様！	Lord Godo!	様	ゴドー 様[さま]！		scene_24
+お前たちは黙っておれ！！	Silence!!	前黙	お 前[まえ]たちは 黙[だま]っておれ！！		scene_24
+YUFFIE……	YUFFIE……		YUFFIE……		scene_24
+かつて、戦にのぞむ前のワシも今のお前と同じじゃった	I am the same now as I was before when I wanted war.	戦前今同	かつて、 戦[せん]にのぞむ 前[まえ]のワシも 今[いま]のお 前[まえ]と 同[おな]じじゃった		scene_24
+だが戦に負け、考えた……	But, after losing, I began to think…	戦負考	だが 戦[せん]に 負[ま]け、 考[かんが]えた……		scene_24
+強さとは、相手をたおすためのものなのか？	Is strength for beating enemies	強相手	強[つよ]さとは、 相手[あいて]をたおすためのものなのか？		scene_24
+他者に対し見せつけるものなのかとな……	…or just something to show-off?	他者対見	他者[たしゃ]に 対[たい]し 見[み]せつけるものなのかとな……		scene_24
+力を見せつける強者は、強者を呼ぶ。それが戦になる……	Might begets might.	力見強者呼戦	力[ちから]を 見[み]せつける 強者[つわもの]は、 強者[つわもの]を 呼[よ]ぶ。それが 戦[せん]になる……		scene_24
+それでは神羅と同じではないか……	The same as Shinra.	神羅同	それでは 神[しん] 羅[ら]と 同[おな]じではないか……		scene_24
+お前がウータイのため、マテリアを探しているのは、わかっていた	I knew you were looking for Materia for the good of Wutai.	前探	お 前[まえ]がウータイのため、マテリアを 探[さが]しているのは、わかっていた		scene_24
+だが、ワシが、力を封じているのもまたウータイのためなのだ……	But, the reason I hide my strength now, is also for the good of Wutai…	力封	だが、ワシが、 力[ちから]を 封[ふう]じているのもまたウータイのためなのだ……		scene_24
+今、わかったぞ。必要なものは両方なのだ……	And now, I realize both are necessary…	今必要両方	今[いま]、わかったぞ。 必要[ひつよう]なものは 両方[りょうほう]なのだ……		scene_24
+志のない力では、意味がない。力のない志では、それもかなわぬ……！	Strength without determination means nothing. And determination without strength is equally useless…!	志力意味	志[こころざし]のない 力[ちから]では、 意味[いみ]がない。 力[ちから]のない 志[こころざし]では、それもかなわぬ……！		scene_24
+ゴドー様……	Lord Godo…	様	ゴドー 様[さま]……		scene_24
+そなたたち、YUFFIEを同行させてやってくれい！	You there, please take YUFFIE with you!	同行	そなたたち、 YUFFIEを 同行[どうこう]させてやってくれい！		scene_24
+そなたたちは、志と力その２つを持っている！	I perceive that you all have both determination and strength!	志力持	そなたたちは、 志[こころざし]と 力[ちから]その ２[ふた]つを 持[も]っている！		scene_24
+ま、大船に乗ったつもりでこのCID様にまかせときなって！	Well, just tell yourself you're on a big ship, and leave the rest to ol' CID!	大船乗様	ま、 大船[おおぶね]に 乗[の]ったつもりでこの CID 様[さま]にまかせときなって！		scene_24
+そ、そこまで言いはるんならかまへんけど……	If you put it that way, we can't refuse…	言	そ、そこまで 言[い]いはるんならかまへんけど……		scene_24
+オイラたちにめいわくをかけないっていうならね……！	As long as she doesn't interfere!		オイラたちにめいわくをかけないっていうならね……！		scene_24
+わかりました。娘さん、おあずかりします	All right. We'll take her with us.	娘	わかりました。 娘[むすめ]さん、おあずかりします		scene_24
+……そうまで言われたらことわれないわね	…after that, how can we refuse?	言	……そうまで 言[い]われたらことわれないわね		scene_24
+フッ……勝手について来るがいい……	Hmm… You may come if you want to …	勝手来	フッ…… 勝手[かって]について 来[く]るがいい……		scene_24
+もうマテリアに、みょうなマネしねえならな……！	Jus' don't do nothin' funny to our Materia…!		もうマテリアに、みょうなマネしねえならな……！		scene_24
+ということさ。俺はかまわないよ	All right, I don't mind.	俺	ということさ。 俺[おれ]はかまわないよ		scene_24
+行けい、YUFFIE！	Go, YUFFIE!	行	行[い]けい、 YUFFIE！		scene_24
+ウータイに真の強さを根づかせるためにもな！	For the sake of Wutai!	真強根	ウータイに 真[しん]の 強[つよ]さを 根[ね]づかせるためにもな！		scene_24
+オヤジ……	Dad…		オヤジ……		scene_24
+お前がもどるまでは、ワシが五強聖をおさめる！	I'll take care of the Five Sacred Gods until you return!	前五強聖	お 前[まえ]がもどるまでは、ワシが五 強[きょう] 聖[ひじり]をおさめる！		scene_24
+行ってこい！そして生きて帰って来い！	Go! And come back alive!	行生帰来	行[い]ってこい！そして 生[い]きて 帰[かえ]って 来[こ]い！		scene_24
+と～ぜんだよ！	Duh!		と~ぜんだよ！		scene_24
+YUFFIE、ちょっと待て	YUFFIE, wait a minute.	待	YUFFIE、ちょっと 待[ま]て		scene_24
+あの連中の持っているマテリアな……	After their battle is over…	連中持	あの 連中[れんちゅう]の 持[も]っているマテリアな……		scene_24
+戦いが終われば、たぶん用ずみになるんではないかな？	Do you think they'll still want all their Materia?	戦終用	戦[たたか]いが 終[お]われば、たぶん 用[よう]ずみになるんではないかな？		scene_24
+オヤジ……！	Dad…!		オヤジ……！		scene_24
+行ってこい！ 最後まで生き残れ！ そして帰って来るのだ！	Go! Fight till the end! But come back!	行最後生残帰来	行[い]ってこい！ 最後[さいご]まで 生き残[いきのこ]れ！そして 帰[かえ]って 来[く]るのだ！		scene_24
+マテリアを持ってな！	With the Materia!	持	マテリアを 持[も]ってな！		scene_24
+ヘヘ……あったりまえよ！	Heh, heh…you bet!		ヘヘ……あったりまえよ！		scene_24
+YUFFIE殿。ウータイを思う気持ちはそなたもゴドー様もいっしょ。それだけはお忘れなきよう……	Miss YUFFIE. Your feelings for Wutai are the same as Lord Godo's. Always remember that…	殿思気持様忘	YUFFIE 殿[どの]。ウータイを 思[おも]う 気持[きも]ちはそなたもゴドー 様[さま]もいっしょ。それだけはお 忘[わす]れなきよう……		scene_24
+YUFFIE殿を、なにとぞよろしくおたのもうしますぞ	Please take care of Miss YUFFIE.	殿	YUFFIE 殿[どの]を、なにとぞよろしくおたのもうしますぞ		scene_24
+ウータイの名にはじぬ戦をしてまいれ	Never bring shame on Wutai.	名戦	ウータイの 名[な]にはじぬ 戦[せん]をしてまいれ		scene_24
+あの小娘はあいかわらずじゃろうて。そなたらも大変じゃのう	She's always like this. It'll be rougher on you.	小娘大変	あの 小娘[こむすめ]はあいかわらずじゃろうて。そなたらも 大変[たいへん]じゃのう		scene_24
+海底パイプってとこにめずらしいマテリアがあるって！	You say there's some unusual Materia where the underground pipe is!?	海底	海底[かいてい]パイプってとこにめずらしいマテリアがあるって！		scene_24
+モンスターが持っているらしいけどちょっと頭をつかわないとゲットできないってさ。	But, first you gotta get if from a monster and unless you use your head, you won't be able to do it.	持頭	モンスターが 持[も]っているらしいけどちょっと 頭[あたま]をつかわないとゲットできないってさ。		scene_24
+あのガキ、ちっとは成長したかい？	Did that kid mature at all?	成長	あのガキ、ちっとは 成長[せいちょう]したかい？		scene_24
+YUFFIE様。ご武運を、おいのりしております！	Miss YUFFIE. We pray for your success!	様武運	YUFFIE 様[さま]。ご 武運[ぶうん]を、おいのりしております！		scene_24
+おお、そなたら！YUFFIE様は、お元気ですかな？	Oh, you there! How is Miss YUFFIE doing?	様元気	おお、そなたら！ YUFFIE 様[さま]は、お 元気[げんき]ですかな？		scene_24
+YUFFIE様に見そめられるとはそれがしたちも、かなり腕にはおぼえがあられますな	Winning Miss YUFFIE's heart must mean you have tremendous skill.	様見腕	YUFFIE 様[さま]に 見[み]そめられるとはそれがしたちも、かなり 腕[うで]にはおぼえがあられますな		scene_24
+あんたらも、オラにくらべりゃまだまだヒヨッコだね	Compared to me, all of you are nothin' but a buncha babies.		あんたらも、オラにくらべりゃまだまだヒヨッコだね		scene_24
+そなたらも、あの小娘相手にたいぎなことじゃのう	Managing that girl must be exceedingly rough on you.	小娘相手	そなたらも、あの 小娘[こむすめ] 相手[あいて]にたいぎなことじゃのう		scene_24
+そなたらとも、お手合わせねがいたいところだが、五強聖はウータイの者としか、試合うことはゆるされない……	I would like to fight you, however the Five Sacred Gods can only compete with those from Wutai…	手合五強聖者試	そなたらとも、お 手合[てあ]わせねがいたいところだが、五 強[きょう] 聖[きよし]はウータイの 者[もの]としか、 試合[しあい]うことはゆるされない……		scene_24
+しー……ッ！	Sh…		しー……ッ！		scene_24
+……ほう。出来るな、そなたら……	…Hm. You can do it…	出来	……ほう。 出来[でき]るな、そなたら……		scene_24
+マテ……	Mat-…		マテ……		scene_24
+マテリアを大事になッ！！	Take care of the Materia!!	大事	マテリアを 大事[だいじ]になッ！！		scene_24
+そなたら、マテ……	Your Mat-…		そなたら、マテ……		scene_24
+いや、YUFFIEをよろしく頼みますぞ……！	I mean, please look after YUFFIE…!	頼	いや、 YUFFIEをよろしく 頼[たの]みますぞ……！		scene_24
+『ドラグーンランス』を手にいれた！	"Received ""Dragoon Lance""!"	手	『ドラグーンランス』を 手[て]にいれた！		scene_24
+『折り鶴』を手にいれた！	"Received ""Oritsuru""!"	折鶴手	『 折り鶴[おりづる]』を 手[て]にいれた！		scene_24
+『リヴァイアサン』のマテリアを手にいれた！	"Received ""Leviathan"" Materia!"	手	『リヴァイアサン』のマテリアを 手[て]にいれた！		scene_24
+『ついでにぬすむ』のマテリアを手にいれた！	"Received ""Steal As Well"" Materia!"	手	『ついでにぬすむ』のマテリアを 手[て]にいれた！		scene_24
+休んでいこうかな	Yeah, let's get some rest	休	休[やす]んでいこうかな		scene_24
+今はつかれてないわね	I'm all right	今	今[いま]はつかれてないわね		scene_24
+ヤレヤレ……	Well…		ヤレヤレ……		scene_24
+ちょっくら休んでくか	I could take a short nap	休	ちょっくら 休[やす]んでくか		scene_24
+グズグズしてられねえ	No time to waste		グズグズしてられねえ		scene_24
+フー、これでバッチリ。マテリアはもとどおり！	Phew, perfect. Now the Materia is back in its rightful place.		フー、これでバッチリ。マテリアはもとどおり！		scene_24
+おい……マテリアのつけかたがメチャクチャだ	Hey…the order is all messed up.		おい……マテリアのつけかたがメチャクチャだ		scene_24
+ちょっと、なにコレ……マテリアのつけかたメチャクチャじゃない！	Hey, what is this? The order of it's all messed up!		ちょっと、なにコレ……マテリアのつけかたメチャクチャじゃない！		scene_24
+なんだコリャ！？おい、マテリアのつけかたメチャクチャじゃねえよ！	What the hell's goin' on!? The order of the Materia's all messed up!		なんだコリャ！？おい、マテリアのつけかたメチャクチャじゃねえよ！		scene_24
+あん？ああ、いいのいいの	Huh? Oh, it'll be all right…		あん？ああ、いいのいいの		scene_24
+こまかいこといちいち気にしない！	Don't be so picky!	気	こまかいこといちいち 気[き]にしない！		scene_24
+いや～、それにしてもアブないところだったよね～	Anyways, that sure was close.		いや~、それにしてもアブないところだったよね~		scene_24
+ううん、いつものアタシならあんなやつら、バシバシバシッ！！とかたづけちゃうんだけどさ	No, normally I would kick their butts, Boom, Bang!!		ううん、いつものアタシならあんなやつら、バシバシバシッ！！とかたづけちゃうんだけどさ		scene_24
+ホント、あのコルネオってのとんでもないやつだね	That Corneo guy's a real pain.		ホント、あのコルネオってのとんでもないやつだね		scene_24
+あれならアタシの親父のほうがずっとマシだよ	I'd rather deal with my dad than with that guy.	親父	あれならアタシの 親父[おやじ]のほうがずっとマシだよ		scene_24
+そうそう、そう言えばあのタークスの連中けっこうイイところあるよね	You know, some of those Turk guys are pretty good, huh?	言連中	そうそう、そう 言[い]えばあのタークスの 連中[れんちゅう]けっこうイイところあるよね		scene_24
+ま、なにはともあれマテリアはぶじに戻ってきたし	At least, after all that, we got the Materia back.	戻	ま、なにはともあれマテリアはぶじに 戻[もど]ってきたし		scene_24
+さ、はりきってみんなで旅をつづけ……	Now come on everybody, let's continue our journey…	旅	さ、はりきってみんなで 旅[たび]をつづけ……		scene_24
+……って、ちょっと！！ま、待ってよ！	Hey!! W…Wait!	待	……って、ちょっと！！ま、 待[ま]ってよ！		scene_24
+わ、わかったよ、ホラこれもアンタたちにあげちゃう！	Oh, all right. Here, I'll give this to you guys.		わ、わかったよ、ホラこれもアンタたちにあげちゃう！		scene_24
+……いや、やっぱりやめとこ。あいつら、いっぱいマテリア持ってるしな	…No, forget it. Besides, they have lots of Materia anyway.	持	……いや、やっぱりやめとこ。あいつら、いっぱいマテリア 持[も]ってるしな		scene_24
+ホラ、見て見て！ジャジャーン！！	Here, look, look!	見	ホラ、 見[み]て 見[み]て！ジャジャーン！！		scene_24
+『ＭＰきゅうしゅう』のマテリアを手にいれたー！	"Received ""MP Absorb"" Materia!"	手	『ＭＰきゅうしゅう』のマテリアを 手[て]にいれたー！		scene_24
+あ～もう、待ってよ～！	Come on, wait!	待	あ~もう、 待[ま]ってよ~！		scene_24
+誰が何と言おうとアタシはアンタたちについてくからね～！	No matter what you think, I'm going with you!	誰何言	誰[だれ]が 何[なん]と 言[い]おうとアタシはアンタたちについてくからね~！		scene_24
+……そんでもってつぎこそかならず……	…Next time…		……そんでもってつぎこそかならず……		scene_24
+武器職人の小屋	Weapon seller	武器職人小屋			scene_25
+ん？　また客かこんな、ヘンピな所によくもまあ	Huh? Oh another customer. You sure picked an out of the way place but…	客所			scene_25
+けど、ひと足遅かったな『キーストーン』ならもう、ねぇよ	But if it's the 'Keystone' you're looking for, you're too late. Don't have it.	足遅			scene_25
+キーストーン？	Keystone?				scene_25
+なんだ、お前らあれ目当てで来たんじゃないのか？	What? You didn't come here for that?	前目当来			scene_25
+『キーストーン』ってのはこの世界のどこかにある古～い、神殿の扉を開けるカギよ	The 'Keystone' is the key that unlocks the gate to a very old temple somewhere.  “You're not going to believe your ears,	世界古神殿扉開			scene_25
+聞いておどろけ、その神殿とはなんと古代種の神殿だ！！	but I heard it was the Temple of the Ancients!!	聞神殿古代種			scene_25
+古代種の神殿……	The Temple of the Ancients?	古代種神殿			scene_25
+ゲラゲラゲラゲラ	Ha, hah, hah, hah…				scene_25
+本気にすんなよただの言い伝えなんだからよ	Don't take it seriously. It's just a legend!	本気言伝			scene_25
+ん？　なんだ？	Huh? What?				scene_25
+神殿はどこだ？	Where is the Temple?	神殿			scene_25
+他の話	Let's change the subject	他話			scene_25
+何でもない	Never mind	何			scene_25
+売っちまったよ。いや～よ、俺も売る気は無かったんだけど	I sold it already. Yeah well, to tell the truth, I didn't really want to sell it but…	売俺気無			scene_25
+ど～も、あの人のウムも言わさぬ迫力に負けちまってツイ…	That guy had a way about him that made you feel like it may not be a good idea NOT to sell it to him…	人言迫力負			scene_25
+どこのだれに？	Who did you sell it to?				scene_25
+ゴールドソーサーで園長をやっている『ディオ』だよ。なんか展示室にかざるって言ってたから行ってみな	The manager of the Gold Saucer. think his name was 'Dio'. Said he was going to put it in his museum, then he took off out of here.	園長展示室言行			scene_25
+だから、言い伝えだってまぁ、けど本当にあったらおもしれぇな	Come on…it's only a legend. But if it were true, that sure would be something, huh?	言伝本当			scene_25
+そういやぁ、こんな話聞いたことあるぜ古代種の神殿には『究極の破壊魔法』が隠されてるとかなんとかな…	Now that you mention it, I've heard of something called Ultimate Destruction Magic. It's supposed to be hidden somewhere in the Temple of the Ancients.	話聞古代種神殿究極破壊魔法隠			scene_25
+究極の破壊魔法……	Ultimate Destruction Magic…?	究極破壊魔法			scene_25
+だ・か・ら！本気にするなって言うの	Come on! I said don't take it seriously!	本気言			scene_25
+おいおい、勝手に開けないでくれよ	Hey, don't just come bargin' in here!	勝手開			scene_25
+また、来たのかい？まぁ、いいけどな	You again? All right, what is it?	来			scene_25
+ん？　なんだ？キーストーンなら売っちまったよ	Huh? What? If it's the Keystone you want I already sold it!	売			scene_25
+ここの武器はぜ～んぶ、オレ様の作品だ。けど、最近は材料が手に入らなくてなぁ	All the weapons you see here I made myself. But lately I haven't been able to get materials…	武器様作品最近材料手入			scene_25
+そうだ、あんたたちミスリルは持ってねぇか？もし、ゆずってくれるなら何かプレゼントするぜ	Hey you wouldn't happen to have any Mythril on you, would you? I'll trade you something good if you could spare some.	持何			scene_25
+ゆずる	Give him some				scene_25
+ゆずらない	Forget it				scene_25
+ありがてえじゃあ、大きいハコか小さいハコか１つ選んで持ってっていいぜ	Hey thanks! All right you can help yourself to either a big or small box.	大小選持			scene_25
+そうかいまぁ、しょうがねぇな	Yeah? Well, guess that's that.				scene_25
+『金の腕輪』を手にいれた！	"Received ""Gold Armlet""!"	金腕輪手			scene_25
+『大いなる福音』を手にいれた！	"Received ""Great Gospel""!"	大福音手			scene_25
+誰もいないようだ……後で、また来てみよう	…No one's here. We'll come back later.	誰後来			scene_25
+なんだ？やすみてぇのか？	What? You want to rest?				scene_25
+そう	Yep				scene_25
+しょ～がねぇなベット使っていいぜ	Oh all right. You can use that bed.	使			scene_25
+『キーストーン』	Keystone				scene_25
+『星杯』	Star Cup	星杯			scene_25
+『週末の時計』	Weekend Clock	週末時計			scene_25
+『笑うなえぎ』	Laugh Sapling	笑			scene_25
+『スレイヤーのつぼ』	Slayer's Pot				scene_25
+『チサのカメン』	Chisa's Mask				scene_25
+『ディオ画』	Dio's Portrait	画			scene_25
+『Ｄガタ装備』	D Type Equipment	装備			scene_25
+『クラインのつぼ』	Kleine's Pot				scene_25
+『呼びかけるひょうたん』	Calling Gourd	呼			scene_25
+『ゾウゲの杯』	Zauger's Cup	杯			scene_25
+キーストーンだ……	It's the Keystone…				scene_25
+はっはははははは久しぶりだな少年よん？　それが、気に入ったかね？	Heh, heh, heh. Long time no see, boy. Hmm? You like that, huh?	久少年気入			scene_25
+それは、ここから『川』をはさんで南にある小屋にすんどる男からゆずってもらったのだよ	I got it from the guy in a little shack south of here, past the 'River'.	川南小屋男			scene_25
+それについてくわしい話を聞きたいのならばそこに行きたまえ	If you want to know more, go there and talk to him.	話聞行			scene_25
+これを貸してもらえないか？	Can you let me borrow this?	貸			scene_25
+はっはははは残念だが、貸し出しは禁止だよ	Heh, heh, heh. Sorry, but it's not for rent.	残念貸出禁止			scene_25
+ふ～む	Hmm.				scene_25
+しかし、話によってはゆずらないこともない君たちには、かりもあるしねぇ	Since you've been good to me in the past, I CAN let you have it on one condition.	話君			scene_25
+条件は？	One condition?	条件			scene_25
+はっははははは！わたしを楽しませてくれたまえ！	Heh, heh, heh. Entertain me!	楽			scene_25
+何をすればいい？	What do I gotta do?	何			scene_25
+そんな気分じゃない	Not in the mood.	気分			scene_25
+そうこなくては！	Hoo boy!				scene_25
+そうか……では、この話はなかったことにしよう	I see… Then let's pretend that this never happened.	話			scene_25
+はっはははは！　やはりキーストーンが欲しいのだろう？わたしを楽しませてくれるのかな？	Heh, heh, heh! So! You want the Keystone, right? How 'bout entertaining me first?	欲楽			scene_25
+はっははははそうむずかしいことではないよ	Heh, heh, heh. Nothing all that difficult.				scene_25
+ここは、闘技場だ。少年のその力わたしに見せてくれたまえ。少年１人でな。期待しているぞ！	This is the Battle Arena. Show me your fighting skills. Just you, boy. I'm expecting a good fight!	闘技場少年力見人期待			scene_25
+ディオの展示場	Dio's Museum	展示場			scene_25
+ふ～む、こんなものか。まぁ、よかろう約束だ。もっていきたまえ	That's the best you could do? Well, a promise is a promise. Go ahead, take it.	約束			scene_25
+なかなか、やるではないか少年！	Hmm, you did pretty well, young man!	少年			scene_25
+よかろう、約束だもっていきたまえ。ついでに、こいつもやろう	Good, it's a promise, so go ahead and take it. I'll give this to you too.	約束			scene_25
+はっはははは！やるな、少年よ！よし、約束だもっていきたまえ。そうだ、これもやろう	Heh, heh, heh! Well done, young man! And, as I promised, you can take it. Oh, and I'll give you this too.	少年約束			scene_25
+キーアイテム『キーストーン』を手に入れた！！	"Received Key Item ""Keystone""!"	手入			scene_25
+『防弾チョッキ』を手に入れた！！	"Received ""Protect Vest""!"	防弾手入			scene_25
+『チョコボのはね』を手に入れた！！	"Received ""Choco Feather""!"	手入			scene_25
+では、またあおう少年！はっはははは	We shall meet again! Heh, heh, heh.	少年			scene_25
+これがあれば古代種の神殿、はいれるね。行こ！　CLOUD	With this, We can get into the Temple of the Ancients. Let's go, CLOUD!	古代種神殿行			scene_25
+このキーマテリアで古代種の神殿にはいれるわ。行きましょう、CLOUD	With this Key Materia, We can get in to the Temple of the Ancients. Let's go, CLOUD!	古代種神殿行			scene_25
+これで、古代種の神殿とかに入れるんだろ？	This'll get us into the Temple of the Ancients, right?	古代種神殿入			scene_25
+係員	Staff	係員			scene_25
+あっ、お客さん	Excuse me, sir.	客			scene_25
+申し訳ございません。ロープウェイが故障してしまいまして	I'm sorry. The Tram is out of order right now.	申訳故障			scene_25
+……ということは？	…So?				scene_25
+申し訳ございません！	I'm really sorry!	申訳			scene_25
+修理が終わるまでここから出られないのです	I'm afraid you won't be able to leave until it's fully repaired.	修理終出			scene_25
+どないしたんですか？	What's wrong?				scene_25
+しゃあないな～。ときどきあるんですわ	Too bad. It happens, though.				scene_25
+せや！　ここのホテルに泊りましょ！ちょっと、顔きくんですわ話つけてきます～	I know! Let's stay at the hotel! They know me here. I'll go talk to them.	泊顔話			scene_25
+修理が終わりしだい連絡させていただきます	I will let you know once the repairs are completed.	修理終連絡			scene_25
+わたしたちだけ、もどるの？	Are you thinking of just us going back?				scene_25
+ちょっと、CLOUD。私たちだけでもどるの？	Hey, CLOUD, Are we going back without the others?	私			scene_25
+みんなを置いてもどるの？	Are we leaving the others?	置			scene_25
+CLOUD！アタシたちだけでもどってどうするんだ？	CLOUD! Are we just going to leave the others?				scene_25
+そういや、全員そろうのはめったにありませんな	We don't usually get the chance to be together like this, huh?	全員			scene_25
+CLOUDさん、どうやろう。このへんでここまでのまとめやってもらえませんか？	CLOUD, how 'bout it? Can you tell me what's happened so far?				scene_25
+ボクは、途中参加やからよぉわからんとこあるんです	I don't really know what's goin' on because I wasn't here in the beginning.	途中参加			scene_25
+おっ！　賛成だぜ！	Yeah! I'm for that!	賛成			scene_25
+それはいい考えだ	Good idea.	考			scene_25
+オレは最初からいるけどよくわからなくなっちまった	I been here since the beginnin', an' I still don't know what the hell's goin' on either.	最初			scene_25
+CLOUD、何がどうなってんだ？まとめてくれ！	CLOUD, the hell's goin' on? C'mon, tell us!	何			scene_25
+つかれてるからイヤ	I'm tired…				scene_25
+やってみよう	All right, I'll give it a shot…				scene_25
+あとはねるだけじゃねえか！若いくせになに言ってんだよ！	All we have to do now is sleep! You're still young! What're you complaining about?	若言			scene_25
+俺たちはセフィロスを追いかけている	We are going after Sephiroth.	俺追			scene_25
+セフィロスは約束の地をめざしているはずだ	Sephiroth must be in search of the Promised Land.	約束地			scene_25
+約束の地だぁ？	The Promised Land?	約束地			scene_25
+魔晄エネルギーに満ちあふれた豊かな土地。……これは神羅の考え方だ	A land full of Mako energy. …Or at least that's what the Shinra believe.	魔晄満豊土地神羅考方			scene_25
+じっさいにはどんなところなのかどこにあるのかすらわからない	I don't know if it actually exists.				scene_25
+セトラの民は約束の地へ帰る。至上の幸福が約束された運命の土地	The Cetras will return to the Promised Land. A land that promises boundless happiness.	民約束地帰至上幸福運命土			scene_25
+セトラノタミ？　なんだ、それ？	Cetra? That some kinda disease?				scene_25
+古代種は自分たちのことをそう呼んでいたの	That's what the Ancients call themselves.	古代種自分呼			scene_25
+ねえ、コスモキャニオンで長老たちの話、聞かなかったの？	Hey, didn't you listen to the elders at Cosmo Canyon?	長老話聞			scene_25
+……古代種も約束の地、どこにあるか知ってるわけじゃないってこと	…You don't 'know' where the Promised Land of the Ancients is.	古代種約束地知			scene_25
+求めて、旅をして、感じるの。ああ、ここが約束の地だ、ってね	You search and travel, until you feel it. Then you just know that you've found it.	求旅感約束地			scene_25
+AERISも……わかるのか？	AERIS…can you feel it too?				scene_25
+セフィロスが世界のあちこちを歩き回ってるのは約束の地をさがしてるのね	So Sephiroth is traveling the world because he's searching for the Promised Land? Is that it?	世界歩回約束地			scene_25
+それだけじゃない、きっと。ほかにも探してるものがある	He's searching for that, and one other thing.	探			scene_25
+黒マテリア……だな	The Black Materia?	黒			scene_25
+ディオさんから、聞きましたで。黒マントの男が黒マテリア探してるって	I heard from Dio that a man in a black cape was lookin' for the Black Materia.	聞黒男探			scene_25
+その黒マントもわからないわ	I've never heard of Black Materia…	黒			scene_25
+数字のイレズミがある黒マントの人たち。何人いるのかしら？	How many men with black capes and number tattoos are there?	数字黒人何			scene_25
+……あのさ。オイラのイレズミは１３なんだけど	…You know, of course, my tattoo is number 13.				scene_25
+そのイレズミは……どうしたんだ？	How did you get that tattoo?				scene_25
+……宝条にやられたんだ。他のは戦士の魔除けだけど数字だけは宝条がやったんだよ	…Hojo put it on me. The rest are just war scars, but the number was done by Hojo.	宝条他戦士魔除数字			scene_25
+最低でも１３人！？	So there are at least 13!?	最低人			scene_25
+……あのね	You know…				scene_25
+黒いマントの人たちは宝条に何かをされた人たちだと思うのね	I think Hojo did something to those men in the black capes.	黒人宝条何思			scene_25
+セフィロスとの関係……それ、よくわからないけど	But I don't know what it has to do with Sephiroth though…	関係			scene_25
+だから、セフィロス本人だけ追いかければいいんじゃないかな？	That's why I think we should just go after Sephiroth himself.	本人追			scene_25
+それ、賛成だぜ！ややこしくてしょうがないからな	Yeah, me too! It's all just too damn confusin'.	賛成			scene_25
+それにね……	And…				scene_25
+ゴメン、なんでもない！	I'm sorry, forget it!				scene_25
+わたし、つかれちゃった。部屋、行くね	I think I'm tired. I'm going to bed now.	部屋行			scene_25
+なんやねん、急に！	What was that, all of a sudden!?	急			scene_25
+おっ！　おわり？アタシもねるよ！	What!? That's it? I'm goin' to bed!				scene_25
+もう、おしまいですか？黒マテリアの話は、どうなったんです？	Is that all? How 'bout the Black Materia?	黒話			scene_25
+話したって何もわからないさ	You wouldn't understand even if I told you.	話何			scene_25
+行動あるのみ、だぜ！明日だ、明日！	Now all we gotta do is take action! We're startin' tomorrow!!	行動明日			scene_25
+オイラ、ナンバー１３だ。オイラもおかしくなっちゃうのかな？	I'm number 13. Am I going to go mad too?				scene_25
+宝条が何をしたのかわからないけどいままで、だいじょうぶだったんでしょ？	I don't know what Hojo did to you, but you've been all right so far, right?	宝条何			scene_25
+弱気にならないで	Be strong.	弱気			scene_25
+でも、オイラ……	But, I…				scene_25
+しつこいわよ、RED XIII！ウジウジしないで！	Stop it, RED XIII! Be strong!				scene_25
+TIFA？	TIFA?				scene_25
+不安なのはあなただけじゃないのよ！	You're not the only one who's worried!	不安			scene_25
+なんやしらんけどへんなことになってしまいましたな～	I don't know what's goin' on, but we're in a bad situation…				scene_25
+おい、CID部屋にもどるぞ	Hey CID, let's go back to our rooms.	部屋			scene_25
+グー……グー……	…zzzz…zzzz…				scene_25
+セリフ、考えてきたんだけどなんだかてれちゃうな……	I thought about what I was going to say, but, it's kinda embarrassing…	考			scene_26
+ね、CLOUD！ふたりでこっそり遊びにいかない？	Hey, CLOUD! Why don't the two of us sneak out of here and spend some time together?	遊			scene_26
+ね、行きましょ！	Come on, let's go!	行			scene_26
+お、おい	Hey.				scene_26
+エヘヘ！	Hee, hee!				scene_26
+デート、しない？	Let's go on a date!				scene_26
+デ・ー・ト！したことないの？	A D-A-T-E! Or haven't you ever gone on one?				scene_26
+バカにするな	Don't take me for a fool				scene_26
+正式には、ない	Well, not a real one…	正式			scene_26
+あ、ムキになるの、あやしい	Hey…a little touchy, aren't we?				scene_26
+う～ん、不幸な青年、ね	No, just a mixed-up kid…	不幸青年			scene_26
+まぁ、いいわ。さ、いきましょ	Oh well. Come on, let's go!				scene_26
+よう、CLOUD。起きてるな？	Yo, CLOUD. You still up?	起			scene_26
+いや、散歩でもしねえかと思ってよ	Uh, I was jus' thinkin' of goin' for a walk…	散歩思			scene_26
+２人でか？	What, just the two of us?	人			scene_26
+いいじゃねえかよ！さ、グダグダ言ってねえで行くぞ！	What's wrong with that? Don't gimme no lip!! Just c'mon!	言行			scene_26
+CLOUD　起きてる？	CLOUD you up?	起			scene_26
+ちょ、ちょっとアタシに付き合ってくれよ	Would you…keep me company for a bit.	付合			scene_26
+？付き合うってどこへ？	Huh? Keep you company where?	付合			scene_26
+いいから	Just come on.				scene_26
+客室	Hotel	客室			scene_26
+ターミナルフロア	Terminal Floor				scene_26
+さあ、今夜はマジカルナイト！すべてのアトラクションは無料になってるよ	Tonight's Enchantment Night! All the attractions are free.	今夜無料			scene_26
+あっ、どうです、そこのお２人さん。今から、こちらイベントスクェアで楽しいショーが始まりますよ！	How 'bout it you two? There's going to be an entertaining show in Event Square!	人今楽始			scene_26
+おめでとうございます！！	Congratulations!!				scene_26
+あなた方が本日１００組目のカップルです！！！	You are our 100th couple today!!	方本日組目			scene_26
+あなた方が本日１００組目のカップル……じゃないみたいですね……しつれい	You are our 100th couple today… Oh, wait…no you're not…  Sorry.	方本日組目			scene_26
+あなた方がこれから始まるショーの主人公です！！！！	You two will play the leads in tonight's show!!	方始主人公			scene_26
+難しいことはありませんあなたは好きにしてくださればショーのプロが話をまとめますので	Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.	難好話			scene_26
+ささ、こちらへ	Come this way.				scene_26
+わぁ、おもしろそうはやく行きましょ、CLOUD	This sounds like fun. Come on CLOUD, let's do it.	行			scene_26
+へぇ、なんかおもしろそう。行きましょう、CLOUD	Sounds like fun. Come on CLOUD, let's give it a try.	行			scene_26
+なんだか、わからないけど行こうよ、CLOUD	I don't know what it's all about but sounds kind of cool. Wanna try it, CLOUD?	行			scene_26
+ナレーション	Narration				scene_26
+むか～し、昔のそのまた昔の物語	Long, long ago…	昔物語			scene_26
+和平なガルディア王国にとつじょとして襲いかかる、邪悪な影…	An evil shadow appeared over the peaceful kingdom of Galdia…	和平王国襲邪悪影			scene_26
+ああ、悪竜王ヴァルヴァドスにさらわれた姫君ルーザの運命はどうなってしまうのでありましょうか…	Princess Rosa was kidnapped by the Evil Dragon King, Valvados. What will become of her?	悪竜王姫君運命			scene_26
+しかし、その時！伝説の勇者アルフリードがガルディア王国にあらわれたのであります！！	Just then, the legendary hero, Alfred, appears!!	時伝説勇者王国			scene_26
+おお～、あな～たこそ～伝説の勇者～、アルフリ～ド！	Oh……You must be the legendary hero…Alfred!	伝説勇者			scene_26
+ちょっと、アンタだよ	Hey, it's your line.				scene_26
+そう、アンタ	Yeah, you.				scene_26
+オホン！	Ahem!				scene_26
+なぜかわかりま～す、わかるので～す。どうか～、どうか、ルーザ姫をお救い、くださ～～～い	By my soul, please…please save Princess Rosa!	姫救			scene_26
+さあ～、王様に～おはな～しを～～！！	Now…please talk… to the King!!	王様			scene_26
+王様	King	王様			scene_26
+おお～、勇者アルフリ～ド私の愛しいル～ザを救うために～やってきた～	Oh…legendary hero, Alfred. You have come to save my beloved Rosa…	勇者私愛救			scene_26
+悪竜王ヴァルヴァドスのすみかは～はるか険しい山の上～。あわれル～ザは捕われの身～	On the peak of a dangerous mountain… dwells the Evil Dragon King, Valvados… who's kidnapped Princess Rosa…	悪竜王険山上捕身			scene_26
+しか～し今のお前では悪竜王には勝て～ん！お前の力とな～る者に語りかけよ～	But… you can't beat the Evil Dragon King now! Talk to one who can help you…	今前悪竜王勝力者語			scene_26
+どっちに話しかけようかな？	Who will you talk to?	話			scene_26
+魔法使い	The wizard	魔法使			scene_26
+わた～しは大魔法使いボーマン～。お前～は何を知りたいの～？	I am the great wizard, Vorman. What do you wish to know?	大魔法使前何知			scene_26
+悪竜王～の～弱点	The Evil Dragon King's weakness	悪竜王弱点			scene_26
+ル～ザ姫の～スリ～サイズ	The Princess' measurements	姫			scene_26
+わたし～は名もなき～兵士～。わたし～に何のごようでしょ～う？	I am…a lowly…knight. How…can I help you?	名兵士何			scene_26
+悪竜王～を～倒せ～	Defeat the Evil Dragon King	悪竜王倒			scene_26
+王様を～倒せ～	Defeat the King	王様倒			scene_26
+ああ～悪竜王の弱点それは～、それは～	Ahh, the weakness of the Evil Dragon King. It must be, it must be…	悪竜王弱点			scene_26
+そう！それは真実の～愛！	Yes, it must be… True love!	真実愛			scene_26
+愛しあ～う２人の力こそが～悪竜王の邪悪な～る牙に打ち勝つただひとつの武器～！	The power of love… Is the only weapon that can withstand the fangs of the Evil Dragon King…!	愛人力悪竜王邪牙打勝武器			scene_26
+なんということで～ありましょう～！おお！勇者よ～、あれを見よ～！	Oh what is going to happen next? Oh…legendary hero…look!	勇者見			scene_26
+悪竜王	EDK	悪竜王			scene_26
+ガハハハハ～！	Gaaaaaaaah!				scene_26
+我こそは～、悪竜王ヴァルヴァドス～！さらった姫に～何もしないで待っていたぞ～！	I am the Evil Dragon King…Valvados! I have not harmed the Princess… I have been expecting…you!	我悪竜王姫何待			scene_26
+姫	Princess	姫			scene_26
+お助け～ください～勇者さま～！	Please help me… legendary hero!	助勇者			scene_26
+……こんな感じ？	How was that?	感			scene_26
+……こんな感じかな？	How was that?	感			scene_26
+……これでいいのか？	…Was that good?				scene_26
+ガハハハハ～！いくぞ勇者アルフリ～ド～！	Gaaaaaah! Here I come, legendary hero…Alfred!	勇者			scene_26
+なんで～名前を知っているかは気にするな～！	I already know… your name!	名前知気			scene_26
+さあ～勇者よ～！今こそなんじの～愛するものに～	And now…legendary hero…! Here is what will happen…to your beloved…	勇者今愛			scene_26
+口づけを～！真実の愛の～力を～！！	A kiss! The power of True Love!!	口真実愛力			scene_26
+姫にする～	Kiss the Princess	姫			scene_26
+王様～にする～	Kiss the King	王様			scene_26
+悪竜～王にする～	Kiss the Evil Dragon King	悪竜王			scene_26
+コラァ～！この悪竜王様を無視するな～！	What ho! You dare ignore the Evil Dragon King!?	悪竜王様無視			scene_26
+ガハハハハ～！いいか勇者アルフリ～ド～！	Gaaaaaaahh! Prepare yourself…legendary hero Alfred!	勇者			scene_26
+お前の敵は誰ださあ～言ってみろ～！	Who is your enemy…? Say it!	前敵誰言			scene_26
+悪～竜王～～	The Evil…Dragon King…	悪竜王			scene_26
+王～様～	The King	王様			scene_26
+兵～士～	That Knight	兵士			scene_26
+ウ、ウワ～アアア～！	Uuuuuurrrrrgh!				scene_26
+ガハハハハ～！さあ～どう～する勇者よ～！	Gaaaaaaaaaaahh! What now…legendary hero!?	勇者			scene_26
+姫のもと～へ	To the Princess	姫			scene_26
+王様のもと～へ	To the King	王様			scene_26
+スタコ～ラ逃げ～る	To home	逃			scene_26
+……………だれか、助けて……	… Someone…help…	助			scene_26
+おお～アルフリ～ド～！じつはワシも～お前のことがあ～	Oh…Alfred…! In truth…I too…	前			scene_26
+ウギャアア～俺は～愛の力に弱～いんだあ～！！	Arrggaahhh!! Curses… The power of…love!!	俺愛力弱			scene_26
+おお見よ～！２人の愛の～勝利～だ～！	Oh…behold! Love has…triumphed!	見人愛勝利			scene_26
+さあみなのもの～もどって～いわいのうたげを～	Now let's all return… and celebrate.				scene_26
+そうしよ～　そうしよ～	Yes let's…yes let's…!				scene_26
+ああ、何と強い愛の力でありましょう……伝説の勇者アルフリードの物語はこうしてめでたく棊を閉じるのであります	Oh, how profound the power of love… And so the legendary hero Alfred and our story live on happily ever after.	何強愛力伝説勇者物語棊閉			scene_26
+ちょ、ちょっと何これ	Wh, what?	何			scene_26
+こんなのイヤー！	You must be kidding!				scene_26
+ちょ、ちょっとなんなの？	H, hey, what is this?				scene_26
+こ、これで、終わりなんていやーー！！	That can't be the end!!	終			scene_26
+終わり？	…That's it?	終			scene_26
+CLOUD……じゃなかった、アルフリ～ド～	CLOUD… I mean, Alfred…				scene_26
+ヒ～エ～！もうダメ～だ～！	Come on! No more!				scene_26
+コォ～ラ～！CLOUD～！さっきからなにやってんのよぉ！	Stop it CLOUD!  What are you doing!?				scene_26
+おしばい、だいなしじゃない！もう怒ったんだから！	The play's a disaster! Now I'm getting mad!	怒			scene_26
+CLOUD！！もっとまじめにやってよ！！そんなに、私とおしばいしてるのイヤなわけ！？	CLOUD!! Be serious!! You really don't want to be in the play that much, do you?	私			scene_26
+もう怒ったわよ！	Now I'm mad!	怒			scene_26
+コラ！　CLOUD！！せっかく、アタイがまじめにやってるのに…	Come on, CLOUD!! I'm tryin' to be serious here and you…				scene_26
+もう、怒った！	Ok, now I'm pissed!	怒			scene_26
+ガハハハハ～！俺を～無視するとは～いい度胸だ～！	Gaaaaaahh! You dare ignore me!!	俺無視度胸			scene_26
+何よアンタゴチャゴチャうるさいのよ！！	Why don't you shut up, blabbermouth!!	何			scene_26
+うっるさいわね！！	Shut up!!				scene_26
+うるっさい！！	Just shut up!!				scene_26
+あ……ああ、何と強い……姫の力！伝説の勇者ルーザの物語はこうしてめでたく棊を閉じるのであります	Oh my…what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.	何強姫力伝説勇者物語棊閉			scene_26
+なにを…	What…?				scene_26
+うぎゃああ	Urrrrrgh				scene_26
+美女性	Beautiful Girl	美女性			scene_26
+ありがとう～ございます～。おかげで～のろいがとけて～元の姿にもどれま～した～	Thank…you. You've released me…from the spell and I am my normal self again…	元姿			scene_26
+あ～、おもしろかった。ね、次はゴンドラ乗ろう	Oh, that was fun. Hey, let's go on the Gondola.	次乗			scene_26
+フフ、おかしかったね。ねぇ、次はゴンドラ乗りましょ	Hmm, that was funny. Hey, let's go on the Gondola next.	次乗			scene_26
+なんだか、よくわかんなかったなぁ。CLOUD、次はゴンドラ乗ろうよ	I didn't get it. CLOUD, let's go on the Gondola next.	次乗			scene_26
+ちょっと、静かに話せるとこ、行こうぜ	Let's go somewhere where we can talk, in private.	静話行			scene_26
+２人おねがいしま～す	Two, please.	人			scene_26
+２人おねがいします	Two, please.	人			scene_26
+２人でのるよ	Two.	人			scene_26
+おいおい、男２人で乗るのかよ……まぁ、いいけどな	Hey! You gotta be kiddin'! Just us two? …ok, that's cool, I guess…	男人乗			scene_26
+おい、２人だ	Yo. Two.	人			scene_26
+はい、お２人様ですね	Here you are, two tickets.	人様			scene_26
+観らん車内部	Inside the Ferris Wheel	観車内部			scene_26
+あっ、あれ	Look, there.				scene_26
+見て、見て	Look, look.	見			scene_26
+すっご～い	Wow.				scene_26
+CLOUD、ほら！	CLOUD!				scene_26
+すっげぇ	Geez!				scene_26
+ひょ～！	Oh my gawd!				scene_26
+わあ、きれい	Oh, how pretty.				scene_26
+ねぇ、CLOUD見て	Look, CLOUD.	見			scene_26
+CLOUD、ほら	Oh, CLOUD.				scene_26
+わあ、すご～い	Wow, how nice.				scene_26
+あっ！　CLOUD見て	Oh! Look, CLOUD.	見			scene_26
+わあ、きれ～	It's so pretty.				scene_26
+わあ！！	Geez!!				scene_26
+もうちょっとまって。	Wait a minute.				scene_26
+……きれいね	…it's really pretty, isn't it?				scene_26
+……言っちゃおうかな	Ok, I'm going to just go ahead and say it…	言			scene_26
+……何を	…What?	何			scene_26
+AERISなら、きっとハッキリ言うんだろうな	AERIS would be able to just come out and say it, probably.	言			scene_26
+幼なじみってむずかしいよね	Sometimes being old friends is hard.	幼			scene_26
+タイミング、むずかしいのよ	I mean, timing is everything.				scene_26
+あのね、CLOUD	CLOUD…?				scene_26
+私ね……	I…	私			scene_26
+………………………………	…. ….				scene_26
+……きれいだね	…Beautiful, isn't it?				scene_26
+……はじめはねそっくりだったから気になった	……first off, it bothered me how you looked exactly alike.	気			scene_26
+全然別人なんだけど、そっくり	Two completely different people, but look exactly the same.	全然別人			scene_26
+歩きかた、手の動かしかた……	The way you walk, gesture…	歩手動			scene_26
+あなたの中に彼を見ていた……	I think I must have seen him again, in you…	中彼見			scene_26
+でも、ちがうの	But you're different.				scene_26
+いまは、ちがう……	Things are different…				scene_26
+ね、CLOUD	CLOUD…				scene_26
+わたし、あなたをさがしてる	I'm searching for you.				scene_26
+……………？	…?				scene_26
+あなたに会いたい	I want to meet you.	会			scene_26
+俺はここにいる	But I'm right here.	俺			scene_26
+（うんうん、わかってる……でも）	I know, I know…what I mean is…				scene_26
+あなたに……会いたい	I want to meet…you.	会			scene_26
+おめえよ～。オレと花火見て楽しいかあ？	Hey spike-head. What'd you wanna see fireworks with me for?	花火見楽			scene_26
+……楽しいと思うか？	Not having fun?	楽思			scene_26
+それならよ、どっちか誘えば良かっただろうが！	You should've asked one of them!	誘良			scene_26
+どっちか？	Which would you have asked?				scene_26
+決まってんだろ！	Oh man, there just ain't no choice!	決			scene_26
+TIFA、AERIS	TIFA, AERIS.				scene_26
+おっ、YUFFIEか？	Ah, YUFFIE?				scene_26
+（やれやれ）	(hoo boy)				scene_26
+なんだよ、それ	What the hell's that supposed to mean?				scene_26
+おめえ、まさか……マリンを？	Hey, you don't mean…Marlene?				scene_26
+ダメだ！　許さねえ！	NO WAY! Forget it!	許			scene_26
+おまえみたいなワケがわからないヤツにマリンはやれねえ！	There ain't no way I'm lettin' a wacko like you anywhere near my little Marlene!				scene_26
+マリンは、オレの宝物だからな	She's my baby. My prized possession.	宝物			scene_26
+…………マリン	…Marlene.				scene_26
+……マリンに見せたかったぜ。この花火よぉ	Wish I could've brought Marlene here. She'd love the fireworks.	見花火			scene_26
+どうしておまえなんかと……	Why the hell do I gotta be here with a jackass like you!				scene_26
+クソッ……なんだか腹が立ってきたぜ	…The more I think bout it the madder I get!	腹立			scene_26
+うるせえ花火だ	Damn fireworks anyways.	花火			scene_26
+うるせ～～～！！	Shut up!!				scene_26
+いや、なんかさ～	No I, uh…				scene_26
+そういうフンイキかなって思ったワケよ	I just felt like doing that.	思			scene_26
+ん、そんだけ	That's all.				scene_26
+お、おい！なんとか言いなよ！	H, hey!! Say something, why don't you!	言			scene_26
+…………照れるよ	…gawd, I could just die.	照			scene_26
+なんとか言ってよ～～ッ！	Say something, PLEASE!	言			scene_26
+………………ナントカ	…something.				scene_26
+そんな場合じゃない、でしょ？はやく、CAIT SITH、追いましょう	There's no time for this! We have to go after CAIT SITH.	場合追			scene_26
+ゆっくりしてるヒマは無いの。はやくCAIT SITHを追いましょ！	There's no time to waste. Let's hurry and go after CAIT SITH!	無追			scene_26
+そんな、ゆっくりしててい～の？CAIT SITHを追うんじゃないのか？	Should we be wasting time like this? Weren't we going after CAIT SITH?	追			scene_26
+何してんだ！はやくCAIT SITHを追うぞ	The hell're you doin'!? We're goin' after CAIT SITH!	何追			scene_26
+CLOUD今日は楽しかったわ	CLOUD I really had fun tonight.	今日楽			scene_26
+そういえばさっき何を言おうと…	By the way, what did you want to say a minute ago?	何言			scene_26
+な、なんでも！	N, nothing!				scene_26
+なんでもない…	Nothing…				scene_26
+？	?				scene_26
+あっ、もうこんな時間そろそろもどりましょう	Oh, look at the time. We should be getting back.	時間			scene_26
+今日は楽しかったまた、いっしょにこようね	I had fun tonight. Let's do it again.	今日楽			scene_26
+わたしとじゃイヤ？	Don't you like being with me?				scene_26
+そんなことない	That's not it				scene_26
+もう、いじわる！	Oh, don't tease me like that!				scene_26
+よかった	I'm glad.				scene_26
+次に来たときはもっとゆっくりといろ～んなものに乗ろうね	Next time we come, let's take our time and go on more rides.	次来乗			scene_26
+あっ、もうこんな時間そろそろ帰りましょ	Oh, look at the time. We'd better get going.	時間帰			scene_26
+やれやれなんか、つかれちまった。そろそろもどろうぜ	Oh man I'm beat. Let's head back.				scene_26
+アタイ今日はよく眠れそうだよ	I should sleep really well tonight.	今日眠			scene_26
+つきあってくれてありがとな	Thanks… for coming with me.				scene_26
+じゃあそろそろもどろっかCLOUD	You wanna go back, CLOUD?				scene_26
+あれっ？CAIT SITH、なにしてるのかな？	Hey? What's CAIT SITH doing?				scene_26
+あれ……CAIT SITHよね。なんだか様子がおかしいわよ	That's…CAIT SITH. He's acting strange.	様子			scene_26
+……CAIT SITHだぜ。なにコソコソしてやがるんだ？	…it's CAIT SITH. What's he doin' so quietly?				scene_26
+あっ、CAIT SITHじゃないか？なにやってんだ？	Hey, isn't that CAIT SITH? What's he doing?				scene_26
+あいつが持ってるのはキーストーンじゃないのか？	Is that the…Keystone?	持			scene_26
+おい！　CAIT SITH！	Hey! CAIT SITH!				scene_26
+やばやば！	Oh oh!				scene_26
+ねぇ、行ってみよ	Come on, let's go.	行			scene_26
+ねぇ、行ってみましょう	Come on, let's go.	行			scene_26
+CLOUD、あそこいこうぜ	CLOUD, let's go.				scene_26
+CLOUD　チョットのぞいてみるか	CLOUD, wanna take a peek?				scene_26
+そんな場合じゃない、でしょ！？はやく、CAIT SITH、追いましょ！	We've got no time for this! Let's go after CAIT SITH!	場合追			scene_26
+ゆっくりしてるヒマは無いわよ。はやくCAIT SITHを追いましょ！	We've got no time to relax. Let's go after CAIT SITH!	無追			scene_26
+そんな、ゆっくりしてていいのか？CAIT SITHを追うんじゃないのか？	Is it all right to relax like that? Aren't we going after CAIT SITH?	追			scene_26
+そんな、場合じゃないでしょ！はやく、CAIT SITHを追いましょう	We don't have time for this! We've got to go after CAIT SITH.	場合追			scene_26
+ゆっくり乗ってるヒマは無いわよはやくCAIT SITHを追いましょ！	There's no time for this. Let's hurry after CAIT SITH!	乗無追			scene_26
+ほら！　これや！キー・マテリアや！	Hey! Look here! The Key Materia!				scene_26
+ごくろうさまです	Well done.				scene_26
+ちょちょ、ちょっと待って～や。逃げも隠れもしませんから	W, w, wait a second. I won't run or hide.	待逃隠			scene_26
+確かにボクは、スパイしてました。神羅のまわしモンです	Yes‚I was a spy. I was hired by the Shinra.	確神羅			scene_26
+ふざけないでよ！	Don't mess with us!				scene_26
+……信じてたのにがっかり！	…I trusted you. I can't believe you!	信			scene_26
+バレット	BARRET				scene_26
+うすぎたねえ野郎だぜ！	Ya dirty &*$*%$!	野郎			scene_26
+ふざけるな！！	You think this's a big joke!?				scene_26
+しゃあないんです。すんでしもたことはどないしょうもあらへん	I can't help it. What's done is done. That's just the way it is.				scene_26
+なぁ～んもなかったようにしませんか？	How 'bout if we go on like nothing ever happened?				scene_26
+ずうずうしいぞ、CAIT SITH！スパイだとわかってていっしょにいられるわけないだろ！	You're pushin' it‚CAIT SITH! You gotta lot of nerve staying with us all the while being a spy!				scene_26
+ほな、どないするんですか？ボクを壊すんですか？	Then‚what are you goin' to do? Destroy me?	壊			scene_26
+そんなんしても、ムダですよ。この身体、もともとオモチャやから	You'd just be wastin' your time if you tried. This body's just a toy anyway.	身体			scene_26
+本体はミッドガルの神羅本社におるんですわ。そっから、このネコのおもちゃ操っとるわけなんです	My real body's at Shinra Headquarters in Midgar. I'm controlin' this toy cat from there.	本体神羅社操			scene_26
+それじゃあ正体は神羅の人間なのね。だれなのよ？	So you're from Shinra. Who are you?	正体神羅人間			scene_26
+正体は神羅の人、ね？だ～れ？　あなた！言いなさい！	So you're from Shinra. Who? Who are you! Tell me!	正体神羅人言			scene_26
+だれだ、てめえ！本当の名前を教えろ！	Who the hell are ya!? What's your real name!?	本当名前教			scene_26
+神羅の人間！おまえ、だれだ！？	Part of the Shinra! Who the *&$# are you!?	神羅人間			scene_26
+おっと、名前は教えられへん	Whoa‚I can't tell you my name.	名前教			scene_26
+話にならないな	We're not gettin' anywhere.	話			scene_26
+な？　そうですやろ？話しなんどうでもええからこのまま旅、続けませんか？	Right? I told you! Talking won't do any good‚so can't we just continue our journey?	話旅続			scene_26
+……確かにボクは、神羅の社員や	…Alright‚yes‚I am a Shinra employee.	確神羅社員			scene_26
+それでも、完全にみなさんの敵っちゅうわけでもないんですよ	But we're not completely enemies.	完全敵			scene_26
+……ど～も、気になるんや。みなさんのその、生き方っちゅうか？	…Something bothers me. I think it's you're ways of living	気生方			scene_26
+誰か給料はろてくれるわけやないしだぁれも、ほめてくれへん。そやのに、命かけて旅しとる。そんなん見とるとなぁ……	You don't get paid You don't get praised. And yet you still risk your lives and continue on your journey. Seeing that makes me…	誰給料命旅見			scene_26
+自分の人生、考えてまうんや。なんや、このまま終わってしもたらアカンのとちゃうかってな	It just makes me think about my life. I don't think I'd feel too good if things ended the way it is now.	自分人生考終			scene_26
+またウソついてる	You're lying again.				scene_26
+～とかなんとか言ってぇ	…And so on‚and so on…	言			scene_26
+へっ！　だまされないぜ！	Hmph! You ain't foolin' us this time!				scene_26
+あやしい～	Sounds fishy---				scene_26
+正体はあかさない。スパイはやめない	He won't come clean. And he won't quit being a spy.	正体			scene_26
+そんなヤツといっしょに旅なんてできないからな。冗談はやめてくれ	We can't go on with someone like that. Pull your head out!	旅冗談			scene_26
+……まぁそうやろなぁ。話し合いにもならんわな	…I thought so. It won't do any good talking to you.	話合			scene_26
+ま、こうなんのとちゃうかとおもて準備だけはしといたんですわ	So‚I've prepared myself in case something like this happened.	準備			scene_26
+これ、聞いてもらいましょか	Why don't you listen to this.	聞			scene_26
+父ちゃん！　TIFA！	Dad! TIFA!	父			scene_26
+マリン！	Marlene!				scene_26
+あっ！　マリンの声！	Hey! That's Marlene!	声			scene_26
+マ、マリン！？	Ma…Marlene!?				scene_26
+……マリン？	…Marlene?				scene_26
+あ！　とうちゃんの声だ！とうちゃん！　マリンね！	Hey! It's dad! Dad! It's me‚Marlene!	声			scene_26
+あ！　TIFAの声だ！TIFA！　あのね！	Hey! It's TIFA! TIFA! You know what!	声			scene_26
+あ！　お花のお姉ちゃん！お姉ちゃん…	Hey! It's the flower lady! Flower lady…	花姉			scene_26
+あ！　CLOUDの声だ！	Hey! It's CLOUD!	声			scene_26
+……というわけです、みなさんはボクの言うとおりにするしかあらへんのですわ	…So‚there's no other way but to listen to me.	言			scene_26
+……最低だ	You're the lowest…	最低			scene_26
+そりゃ、ボクかってこんなことやりたない。人質とかヒレツなやりかたは……	I didn't want to do this either. Not by using dirty tricks and taking hostages…	人質			scene_26
+まぁ、こういうわけなんですわ。話し合いの余地はないですな。今までどおり、仲ようしてください。	So‚this is how it is. There's no room for compromises. So why don't we go on as we did.	話合余地今仲			scene_26
+明日は古代種の神殿でしたな？場所知ってますから後で、教えますわ	Tomorrow is the Temple of the Ancients‚right? I know where it is so I'll tell you later.	明日古代種神殿場所知後教			scene_26
+神羅のあとになりますけどまぁ、そんくらいはガマンしてくださいな	Of course we'll get there after the Shinra‚ but you'll have to deal with that.	神羅			scene_26
+……仕方ないな。言うとおりにしよう	…Well‚we're stuck… We'll have to do what he says.	仕方言			scene_26
+……マリン	…Marlene.				scene_26
+マリン、だいじょぶかな……お母さん、どうしたのかな	I wonder if Marlene is all right… I wonder what happened to Mom?	母			scene_26
+すまねえ、CLOUD	Sorry‚CLOUD.				scene_26
+う、うん	Uh‚yup.				scene_26
+ほら！　これや！キーストーンや！	Hey! Over here! The Keystone!				scene_26
+な？　そうやろ？話なんてどうでもええからこのまま旅、続けませんか？	See? I told you! Talking won't do any good, so can't we just continue our journey?	話旅続			scene_26
+あ！　CLOUDの声だ！CLOUD！　あ…	Hey! It's CLOUD!	声			scene_26
+明日は古代種の神殿でしたな？場所知ってますからあとで、教えますわ	Tomorrow is the Temple of the Ancients, right? I know where it is so I'll tell you later.	明日古代種神殿場所知教			scene_26
+そういや、みなさんは知らんかったみたいやけど	Oh, you didn't seem to know this, but…	知			scene_26
+キーストーンは古代種の神殿への鍵なんです。どちらにしろ、みなさんも行くんですよね？	The Keystone is the key to the Temple of the Ancients. Even so, you're all going, right?	古代種神殿鍵行			scene_26
+場所知ってますからあとで、教えますわ	I know where it is, so I'll show you later.	場所知教			scene_26
+マリン、だいじょうぶかな……お母さん、どうしたのかな	I wonder if Marlene is all right… I wonder what happened to Mom?	母			scene_26
