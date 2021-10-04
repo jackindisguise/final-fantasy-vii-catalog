@@ -43,7 +43,7 @@ AERISを…手放したのがケチ…の……つきはじめ…だ…	Letting 
 ここにキーストーンをつかえば……	Let's put the Keystone in.		scene_28
 ひゅ～！これが古代種の神殿かよ！	Damn! So this is the Temple of the Ancients!	古代種神殿	scene_28
 ウッ～　冗談じゃねえ。めまいがするぜ！	Oh man, you gotta be kiddin'. This is makin' me dizzy!	冗談	scene_28
-おう！　CLOUD！迷うんじゃねえぞ！	Hey, Cloud! Don't get lost!	迷	scene_28
+おう！　CLOUD！迷うんじゃねえぞ！	Hey, CLOUD! Don't get lost!	迷	scene_28
 言葉が…　思いが…たくさん、ここにある	Words…feelings… So many of them here.	言葉思	scene_28
 うひゃ～！こりゃ、たいへんだよ	Geeeez! We got our work cut out for us.		scene_28
 目まわってきたよ…アタシ	This is starting to get me really dizzy…	目	scene_28
@@ -139,7 +139,6 @@ AERISを…手放したのがケチ…の……つきはじめ…だ…	Letting 
 アタシは関係ないけどね。でも、ま、手をかしてやるよ	I have nothing to do with it. But, I guess I'll lend a hand.	関係手	scene_28
 おっ、いいねえ！若いやつはそうじゃなきゃいけねえ	All right! Guess you youngsters gotta be enthusiastic like that!	若	scene_28
 記録	Save	記録	scene_28
-時の大穴	Temple of the Ancients	時大穴	scene_28
 我、時の番人なり。古代種の知識を求めるものよ。我が時を制し、道をきずけ	I am the Time Guardian. Ye who seek the knowledge of the Ancients. I control the time, select your path.	我時番人古代種知識求制道	scene_28
 知識求めるものよ、何をねがう？	What is it you wish, seeker of knowledge?	知識求何	scene_28
 時を進める	Speed up time	時進	scene_28

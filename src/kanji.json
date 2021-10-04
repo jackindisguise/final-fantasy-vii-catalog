@@ -1,6 +1,6 @@
 {
 	"unique": 980,
-	"total": 42549,
+	"total": 42546,
 	"table": [
 		{
 			"kanji": "行",
@@ -295,7 +295,7 @@
 		{
 			"kanji": "大",
 			"order": 59,
-			"occurrences": 306
+			"occurrences": 305
 		},
 		{
 			"kanji": "爆",
@@ -835,7 +835,7 @@
 		{
 			"kanji": "時",
 			"order": 167,
-			"occurrences": 278
+			"occurrences": 277
 		},
 		{
 			"kanji": "刻",
@@ -2555,7 +2555,7 @@
 		{
 			"kanji": "穴",
 			"order": 511,
-			"occurrences": 10
+			"occurrences": 9
 		},
 		{
 			"kanji": "丈",

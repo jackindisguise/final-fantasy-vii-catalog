@@ -109,7 +109,7 @@ So this is the Temple of the Ancients!”	これが古代種の神殿かよ！�
 BARRET	BARRET
 “Oh man, you gotta be kiddin'.	「ウッ～　冗談じゃねえ。
 This is makin' me dizzy!”	めまいがするぜ！」
-“Hey, Cloud!	「おう！　CLOUD！
+“Hey, CLOUD!	「おう！　CLOUD！
 Don't get lost!”	迷うんじゃねえぞ！」
 AERIS	AERIS
 “Words…feelings…	「言葉が…　思いが…
@@ -342,9 +342,6 @@ Rest	休む
 Save	記録
 Forget it	用はない
 HP/MP Restored!	ＨＰ／ＭＰが回復した！
-Temple of the Ancients	時の大穴
-	
-	
 “I am the Time Guardian.	「我、時の番人なり。
 Ye who seek the knowledge of the Ancients.	古代種の知識を求めるものよ。
 I control the time, select your path.”	我が時を制し、道をきずけ」
