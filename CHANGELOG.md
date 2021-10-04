@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.17](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.16...v2.3.17) (2021-10-04)
+
+
+### Bug Fixes
+
+* Added a period between previously merged lines here to avoid a run-on sentence. ([0fccc30](https://github.com/nowotato/final-fantasy-vii-catalog/commit/0fccc30b6923400d27ae3556c176c1d1836f003e)), closes [#90](https://github.com/nowotato/final-fantasy-vii-catalog/issues/90)
+* Added disambiguator command, renamed script file. ([76cb07d](https://github.com/nowotato/final-fantasy-vii-catalog/commit/76cb07d59916ca1850fc850f8125a41e9e3a9f1d))
+* Creates a shortened Anki deck that contains 25% of the total lines. ([4c23a6b](https://github.com/nowotato/final-fantasy-vii-catalog/commit/4c23a6b0bd105c9b0de63737cce1f89f4d271a7c))
+* Fixed a formatting issue in the Wutai scene. ([73a2411](https://github.com/nowotato/final-fantasy-vii-catalog/commit/73a2411f3a0aff000a25d64948c408f1c5ed6f3f))
+* Fixed minor Wutai scene formatting issue. ([01a3824](https://github.com/nowotato/final-fantasy-vii-catalog/commit/01a3824ede11ce4bef9297c6da4890c386606a53))
+* Merged 2 lines in Wutai scene. ([8097098](https://github.com/nowotato/final-fantasy-vii-catalog/commit/8097098ebeb3b5589b06923708b9f25a1d3f7122)), closes [#89](https://github.com/nowotato/final-fantasy-vii-catalog/issues/89)
+* QC import files show every 10 lines, including the line before and after. ([fc187ff](https://github.com/nowotato/final-fantasy-vii-catalog/commit/fc187ffc9ace3e79b3176da67828deee74c8ba61))
+* Removed line that was arbitrarily translated incorrectly. ([51d6ae5](https://github.com/nowotato/final-fantasy-vii-catalog/commit/51d6ae5e54cce882164d2c36041ffde9a4db19ed))
+* Update decks with finished scenes. ([fb468b2](https://github.com/nowotato/final-fantasy-vii-catalog/commit/fb468b29f9209aa835b9aba0725a1e90f38989b6)), closes [#91](https://github.com/nowotato/final-fantasy-vii-catalog/issues/91)
+* Updated deck with completed scenes 26 & 27. ([51b01bc](https://github.com/nowotato/final-fantasy-vii-catalog/commit/51b01bc7c0c2d553826c528f6d21a4570e68e706)), closes [#91](https://github.com/nowotato/final-fantasy-vii-catalog/issues/91) [#92](https://github.com/nowotato/final-fantasy-vii-catalog/issues/92)
+* Vocab scraper no longer ignores "word roots" found in previous scenes. ([becd07d](https://github.com/nowotato/final-fantasy-vii-catalog/commit/becd07d891157fd4c2ad491e3950a5693cc9280c))
+
 ### [2.3.16](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.15...v2.3.16) (2021-09-29)
 
 
