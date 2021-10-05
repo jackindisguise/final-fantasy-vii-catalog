@@ -169,7 +169,8 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 古代種、いやセトラは星を治す特別な力を持っているのですか？	Do the Ancients, rather, the Cetra, have special powers to heal the Planet?	古代種星治特別力持	scene_30
 ふむ、北の大空洞に近いこの地に雪どけの時期がこないのは星の傷にエネルギーが集中しているからなのか	Hmm, even here so close to the North Cave, the snow never melts. Is that because the Planet's energy is gathered here to heal its injury?	北大空洞近地雪時期星傷集中	scene_30
 イファルナさん……少し休みましょう	Ifalna… Let's take a break.	少休	scene_30
-北の大空洞に現れた、その者とはいったい何者なのですか？まるで見当がつかないのですが	Who is the person that appeared at the North Cave? I haven't any idea.	北大空洞現者何見当	scene_30
+北の大空洞に現れた、その者とはいったい何者なのですか？	Who is the person that appeared at the North Cave?	北大空洞現者何	scene_30
+まるで見当がつかないのですが	I haven't any idea.	見当	scene_30
 顔色があまりよくない……今日はこれで終わりにしましょう	You don't look well… Let's call it a day.	顔色今日終	scene_30
 カメラは、これでよし！	Camera's ready!		scene_30
 およそ２０００年前わたしたちセトラの祖先はこの星の悲鳴を聞いたそうです	2000 years ago, our ancestors, the Cetra, heard the cries of the Planet.	年前祖先星悲鳴聞	scene_30
@@ -186,77 +187,78 @@ CLOUD……ハァ、ハァ	CLOUD…huff…wheeze.		scene_30
 だいじょうぶです…セトラたちが…長年親しんだ土地から旅立ちの準備をしていたとき……	I'm all right… When the Cetra…were preparing to part with the land they loved…	長年親土地旅立準備	scene_30
 それが星を傷つけた者です……空から来た厄災！わたしたちは、そう呼んでいます	That's when the one who injured the Planet… or the 'crisis from the sky', as we call it, came.	星傷者空来厄災呼	scene_30
 ウィルスに侵されたセトラたちは心を失い……そしてモンスターと化しました	The Cetra were attacked by the virus and went mad… transforming into monsters.	侵心失化	scene_30
-その時、そのものは現れたのです！その姿は、亡き母の…亡き兄のものでした。それぞれに過去の幻影を見せるのです	That's when it appeared!	時現姿亡母兄過去幻影見	scene_30
-その者は親しげな顔でセトラたちに近づき…あざむき…そして……ウィルスを…ウィルスを与えたのです	It looked like…our…our dead mothers …and our dead brothers. Showing us specters of their past.	者親顔近与	scene_30
-その者は、ノルズポルと同じように別のセトラの部族に近づき………そしてまた…ウィルスを……	It first approached as a friend, deceived them, and finally… gave them the virus.	者同別部族近	scene_30
-では、イファルナさんウェポンという名の者の存在について語っていただけますか？	Then, just as it had at the Knowlespole.	名者存在語	scene_30
-では、ウェポンとは星の意志が生みだした兵器ということですか？	It approached other Cetra clans… and infected them with…the virus.	星意志生兵器	scene_30
-もう、この星にウェポンは存在していないのですか？	Ifalna, can you comment on the thing called 'Weapon'?	星存在	scene_30
-ウェポンが眠っている場所はどこなのですか？	Back then, Weapon was a weapon the Planet produced by its own will?	眠場所	scene_30
-……ありがとう、イファルナさん今日は、このくらいで……	So, Weapon no longer exists on this Planet?	今日	scene_30
-はい、博士	Where is Weapon?	博士	scene_30
-ええ、でも…実際にウェポンが使われた歴史がないのです	…Thank you, Ifalna, that will be all for today…	実際使歴史	scene_30
-少数の生き残ったセトラたちがジェノバに討ち勝ち、そして封印したのです	Yes, Professor.	少数生残討勝封印	scene_30
-星はウェポンを生みだしました……しかし、使う必要がなくなったのです	Yes, but… There is no record of Weapon ever being used.	星生使必要	scene_30
-ウェポンが消えることはありません。…この星のどこかで眠っているのです	A small number of the surviving Cetra defeated Jenova and confined it.	消星眠	scene_30
-わたしには、わかりません……星の声は……もう、あまり聞こえないのです	The Planet produced Weapon… But it was no longer necessary to use it.	星声聞	scene_30
-時代は……変わりました。星は……きっと様子を見ているのだと思います	Weapon cannot vanish. …It remains asleep somewhere on the Planet.	時代変星様子見思	scene_30
-博士がセトラだと誤解した者……ジェノバと名づけた者こそが……空から来た厄災なのです	I don't know… I can't hear the voice of the Planet well…	博士誤解者名空来厄災	scene_30
-その空から来た厄災を滅ぼすことを星が意識しはじめました……	Times…have changed. The Planet…is probably watching this situation closely.	空来厄災滅星意識	scene_30
-ジェノバが存在するかぎり星が自身の力で傷を完全に治すことができないからなのです	The one the Professor mistook for a Cetra…was named Jenova. That is the 'crisis from the sky'.	存在星自身力傷完全治	scene_30
-ジェノバを封印したといってもいつ、よみがえらないともかぎりません……	The Planet knew it had to destroy the 'crisis from the sky'…	封印	scene_30
-星の傷は完全に治ってはいないのです。星はまだ、ジェノバを警戒しています	You see, as long as Jenova exists, the Planet will never be able to fully heal itself.	星傷完全治警戒	scene_30
-………そう言わないでくださいよ	Even though Jenova is confined, it could come back to life at some time…	言	scene_30
-ワ、ワタシと……ア、アナタのとってもカワイイ娘なんですよ！	The Planet has not fully healed itself yet. It's keeping watch on Jenova.	娘	scene_30
-彼女のすくすくと育っていく姿を残しておきたいと思いませんか？	… Please don't say it that way.	彼女育姿残思	scene_30
-そんなこと言っちゃダメです！ワタシが、アナタとAERISをどんなことをしても守ります！！	It's our lovely daughter, both yours…and mine!	言守	scene_30
-ア、アナタとAERISはワタシの宝なんです。何があってもはなしません！！	Don't you want to capture her childhood on videotape?	宝何	scene_30
-もう、いったいダレなんですか！？イイところで……	Never say that! I will protect you and AERIS no matter what!!		scene_30
-！！！　あわわ……	You and AERIS are my only treasures. I'll never let you go!!		scene_30
-我が家のくつろぎの時間にまったく……	Who could that-? I was just about to…	我家時間	scene_30
-宝条くん……どうしてここが？	Damn!!	宝条	scene_30
-……新しいサンプル？まさか、AERISを！？	How dare they intrude on our 'private time' together!	新	scene_30
-くっ……私は神羅とは手を切ったのだ	Hojo… How did you know?	私神羅手切	scene_30
-宝条くん、帰ってくれたまえ	A new sample? You don't mean AERIS!?	宝条帰	scene_30
-イファルナ！	That's it! I'm severing all ties with the Shinra.		scene_30
-だいじょうぶだイファルナ！ワタシは、こんなヤツらには負けない！	Hojo, please leave.	負	scene_30
-イファルナ！AERISをつれて逃げるんだ！！	Ifalna!	逃	scene_30
-あなた、またビデオ？この前とったばかりじゃないの！	Don't worry, Ifalna. I'll take care of this!	前	scene_30
-そんなにカワイがってばかりじゃ強い子に育たないかもしれない……	Ifalna! Take AERIS and run!!	強子育	scene_30
-AERISは、普通の子とは違うんだからこれから、どんな人生が待っているか……	Video again? You just got through taping!	普通子違人生待	scene_30
-あなた……わたし、今とっても幸せよ	If you keep doting on her like that, she won't grow up to be strong…	今幸	scene_30
-あなたに会わなければわたし……	AERIS is different from the other children. I wonder what dangers await her…?	会	scene_30
-クスクス……ええ、そうね	I feel so much better now, darling.		scene_30
-は～い、いますぐ！！	If I hadn't met you, I…		scene_30
-だれかしらね？	I'll send them away.		scene_30
-あ、あなたたちは！！	Yes, at once!!		scene_30
-おねがいAERISは、関係ないわ！わたしさえいれば、いいんでしょ？	Who the devil?	関係	scene_30
-キャーあなた～！！	It, it's them!!		scene_30
-クックックッ……探しましたよイファルナ……いや、セトラ！	Please, AERIS has nothing to do with it! All you want is me, right?	探	scene_30
-それから、本当に久しぶりですねガスト博士！	Eyaaaaaah… Darling…!!	本当久博士	scene_30
-いやぁ、骨をおりました。あなたたちが、ここにいることぐらいとうにわかってたんですよ	Heh, heh, heh I've been searching for you, Ifalna… or should I say, Cetra!	骨	scene_30
-でもね……２年間待ちました。私は新しいサンプルがほしかったんですよ……クックックッ	Long time no see, Professor Gast!	年間待私新	scene_30
-ほう、AERISちゃんですか？いい名前だ……クックックッ	Believe me, I had to turn over a stone or two to find you.	名前	scene_30
-私の実験にはあなたたち、みんなが必要なんですよ	Two years I waited… That's how much I wanted this new sample. Ha, ha, ha.	私実験必要	scene_30
-ガスト博士、わかってくれますよね。この星の運命を変えることができるんですよ！	Hmm, AERIS? What a nice name. Ha, ha, ha.	博士星運命変	scene_30
-ムダな抵抗はしないで下さいよ。大事なサンプルに傷をつけたくないですからね	I'll need all of you for my experiment.	抵抗下大事傷	scene_30
-ん？　おかしなカメラがあるな。おい、壊してしまえ！	You understand don't you, Professor Gast? We can change the future of the Planet!	壊	scene_30
-ていねいに運ぶんだぞ！！クックックッ……	Please don't put up a fight. I don't want any harm to come to my precious sample.	運	scene_30
-な、なにをするんだ博士！？	Mmm? What a funny looking camera. Guard! Destroy it!	博士	scene_30
-まあいい……子供を忘れるんじゃないぞ！	Be careful with her!! Ha, ha, ha…	子供忘	scene_30
-ほう、ビデオか？古代種…ウェポン！？	Wh…what are you doing, Professor!?	古代種	scene_30
-クックックッ……宝の山だな！ありがとう博士……クックックッ	Oh, and uh… don't forget the child!	宝山博士	scene_30
-あっ、ビデオをとろうと思っているんですよ	Heh, heh, heh…a mountain of treasure! Thank you Professor…Ha, ha, ha	思	scene_30
-でも、なんだかビデオの調子が悪くて……	You understand don't you, Professor Gast? We can change the future of the Planet!	調子悪	scene_30
-いえ、そんなことではないです。カワイイわが子をとるんですよ	Oh, I'm thinking of taping it on video.  But, the video's not working right…	子	scene_30
-ワタシはもう決めてますよ！女の子だったらAERISこれしかありません！	No, that's not it. I'm going to record my beautiful daughter.	決女子	scene_30
-でしょ！？あっ、ビデオのテープがっ…………	I've already decided! If it's a girl, then it'll be AERIS. That's that!		scene_30
-この、眠っている顔がまた、とてもカワイイ～んです	Right!? Oh, the video tape…	眠顔	scene_30
-博士……いえ、あなた何をしてるの？	And when she's sleeping, her face …looks like an angel.	博士何	scene_30
-何をとるの？まだ、話していないことがあったかしら？	What are you doing, Profes-- I mean, honey?	何話	scene_30
-もう、それならビデオより先にこの子の名前を決めなくちゃ！	What are you going to tape? Is there still something I haven't mentioned?	先子名前決	scene_30
-もう、勝手な人ね……でも、AERISってイイ名前ね！	First, we have to figure out her name. We can take the video later!	勝手人名前	scene_30
-ウフフ……あなたのカタイ頭で考えたにしては上出来じゃないかしら	You are SO selfish! But AERIS is a good name!	頭考上出来	scene_30
+その時、そのものは現れたのです！	That's when it appeared!	時現	scene_30
+その姿は、亡き母の…亡き兄のものでした。それぞれに過去の幻影を見せるのです	It looked like…our…our dead mothers …and our dead brothers. Showing us specters of their past.	姿亡母兄過去幻影見	scene_30
+その者は親しげな顔でセトラたちに近づき…あざむき…そして……ウィルスを…ウィルスを与えたのです	It first approached as a friend, deceived them, and finally… gave them the virus.	者親顔近与	scene_30
+その者は、ノルズポルと同じように別のセトラの部族に近づき………そしてまた…ウィルスを……	Then, just as it had at the Knowlespole. It approached other Cetra clans… and infected them with…the virus.	者同別部族近	scene_30
+では、イファルナさんウェポンという名の者の存在について語っていただけますか？	Ifalna, can you comment on the thing called 'Weapon'?	名者存在語	scene_30
+では、ウェポンとは星の意志が生みだした兵器ということですか？	Back then, Weapon was a weapon the Planet produced by its own will?	星意志生兵器	scene_30
+もう、この星にウェポンは存在していないのですか？	So, Weapon no longer exists on this Planet?	星存在	scene_30
+ウェポンが眠っている場所はどこなのですか？	Where is Weapon?	眠場所	scene_30
+……ありがとう、イファルナさん今日は、このくらいで……	…Thank you, Ifalna, that will be all for today…	今日	scene_30
+はい、博士	Yes, Professor.	博士	scene_30
+ええ、でも…実際にウェポンが使われた歴史がないのです	Yes, but… There is no record of Weapon ever being used.	実際使歴史	scene_30
+少数の生き残ったセトラたちがジェノバに討ち勝ち、そして封印したのです	A small number of the surviving Cetra defeated Jenova and confined it.	少数生残討勝封印	scene_30
+星はウェポンを生みだしました……しかし、使う必要がなくなったのです	The Planet produced Weapon… But it was no longer necessary to use it.	星生使必要	scene_30
+ウェポンが消えることはありません。…この星のどこかで眠っているのです	Weapon cannot vanish. …It remains asleep somewhere on the Planet.	消星眠	scene_30
+わたしには、わかりません……星の声は……もう、あまり聞こえないのです	I don't know… I can't hear the voice of the Planet well…	星声聞	scene_30
+時代は……変わりました。星は……きっと様子を見ているのだと思います	Times…have changed. The Planet…is probably watching this situation closely.	時代変星様子見思	scene_30
+博士がセトラだと誤解した者……ジェノバと名づけた者こそが……空から来た厄災なのです	The one the Professor mistook for a Cetra…was named Jenova. That is the 'crisis from the sky'.	博士誤解者名空来厄災	scene_30
+その空から来た厄災を滅ぼすことを星が意識しはじめました……	The Planet knew it had to destroy the 'crisis from the sky'…	空来厄災滅星意識	scene_30
+ジェノバが存在するかぎり星が自身の力で傷を完全に治すことができないからなのです	You see, as long as Jenova exists, the Planet will never be able to fully heal itself.	存在星自身力傷完全治	scene_30
+ジェノバを封印したといってもいつ、よみがえらないともかぎりません……	Even though Jenova is confined, it could come back to life at some time…	封印	scene_30
+星の傷は完全に治ってはいないのです。星はまだ、ジェノバを警戒しています	The Planet has not fully healed itself yet. It's keeping watch on Jenova.	星傷完全治警戒	scene_30
+………そう言わないでくださいよ	… Please don't say it that way.	言	scene_30
+ワ、ワタシと……ア、アナタのとってもカワイイ娘なんですよ！	It's our lovely daughter, both yours…and mine!	娘	scene_30
+彼女のすくすくと育っていく姿を残しておきたいと思いませんか？	Don't you want to capture her childhood on videotape?	彼女育姿残思	scene_30
+そんなこと言っちゃダメです！ワタシが、アナタとAERISをどんなことをしても守ります！！	Never say that! I will protect you and AERIS no matter what!!	言守	scene_30
+ア、アナタとAERISはワタシの宝なんです。何があってもはなしません！！	You and AERIS are my only treasures. I'll never let you go!!	宝何	scene_30
+もう、いったいダレなんですか！？イイところで……	Who could that-? I was just about to…		scene_30
+！！！　あわわ……	Damn!!		scene_30
+我が家のくつろぎの時間にまったく……	How dare they intrude on our 'private time' together!	我家時間	scene_30
+宝条くん……どうしてここが？	Hojo… How did you know?	宝条	scene_30
+……新しいサンプル？まさか、AERISを！？	A new sample? You don't mean AERIS!?	新	scene_30
+くっ……私は神羅とは手を切ったのだ	That's it! I'm severing all ties with the Shinra.	私神羅手切	scene_30
+宝条くん、帰ってくれたまえ	Hojo, please leave.	宝条帰	scene_30
+イファルナ！	Ifalna!		scene_30
+だいじょうぶだイファルナ！ワタシは、こんなヤツらには負けない！	Don't worry, Ifalna. I'll take care of this!	負	scene_30
+イファルナ！AERISをつれて逃げるんだ！！	Ifalna! Take AERIS and run!!	逃	scene_30
+あなた、またビデオ？この前とったばかりじゃないの！	Video again? You just got through taping!	前	scene_30
+そんなにカワイがってばかりじゃ強い子に育たないかもしれない……	If you keep doting on her like that, she won't grow up to be strong…	強子育	scene_30
+AERISは、普通の子とは違うんだからこれから、どんな人生が待っているか……	AERIS is different from the other children. I wonder what dangers await her…?	普通子違人生待	scene_30
+あなた……わたし、今とっても幸せよ	I feel so much better now, darling.	今幸	scene_30
+あなたに会わなければわたし……	If I hadn't met you, I…	会	scene_30
+クスクス……ええ、そうね	I'll send them away.		scene_30
+は～い、いますぐ！！	Yes, at once!!		scene_30
+だれかしらね？	Who the devil?		scene_30
+あ、あなたたちは！！	It, it's them!!		scene_30
+おねがいAERISは、関係ないわ！わたしさえいれば、いいんでしょ？	Please, AERIS has nothing to do with it! All you want is me, right?	関係	scene_30
+キャーあなた～！！	Eyaaaaaah… Darling…!!		scene_30
+クックックッ……探しましたよイファルナ……いや、セトラ！	Heh, heh, heh I've been searching for you, Ifalna… or should I say, Cetra!	探	scene_30
+それから、本当に久しぶりですねガスト博士！	Long time no see, Professor Gast!	本当久博士	scene_30
+いやぁ、骨をおりました。あなたたちが、ここにいることぐらいとうにわかってたんですよ	Believe me, I had to turn over a stone or two to find you.	骨	scene_30
+でもね……２年間待ちました。私は新しいサンプルがほしかったんですよ……クックックッ	Two years I waited… That's how much I wanted this new sample. Ha, ha, ha.	年間待私新	scene_30
+ほう、AERISちゃんですか？いい名前だ……クックックッ	Hmm, AERIS? What a nice name. Ha, ha, ha.	名前	scene_30
+私の実験にはあなたたち、みんなが必要なんですよ	I'll need all of you for my experiment.	私実験必要	scene_30
+ガスト博士、わかってくれますよね。この星の運命を変えることができるんですよ！	You understand don't you, Professor Gast? We can change the future of the Planet!	博士星運命変	scene_30
+ムダな抵抗はしないで下さいよ。大事なサンプルに傷をつけたくないですからね	Please don't put up a fight. I don't want any harm to come to my precious sample.	抵抗下大事傷	scene_30
+ん？　おかしなカメラがあるな。おい、壊してしまえ！	Mmm? What a funny looking camera. Guard! Destroy it!	壊	scene_30
+ていねいに運ぶんだぞ！！クックックッ……	Be careful with her!! Ha, ha, ha…	運	scene_30
+な、なにをするんだ博士！？	Wh…what are you doing, Professor!?	博士	scene_30
+まあいい……子供を忘れるんじゃないぞ！	Oh, and uh… don't forget the child!	子供忘	scene_30
+ほう、ビデオか？古代種…ウェポン！？	Hmm, a video? The Ancients…Weapon!?	古代種	scene_30
+クックックッ……宝の山だな！ありがとう博士……クックックッ	Heh, heh, heh…a mountain of treasure! Thank you Professor…Ha, ha, ha	宝山博士	scene_30
+あっ、ビデオをとろうと思っているんですよ	Oh, I'm thinking of taping it on video.	思	scene_30
+でも、なんだかビデオの調子が悪くて……	But, the video's not working right…	調子悪	scene_30
+いえ、そんなことではないです。カワイイわが子をとるんですよ	No, that's not it. I'm going to record my beautiful daughter.	子	scene_30
+ワタシはもう決めてますよ！女の子だったらAERISこれしかありません！	I've already decided! If it's a girl, then it'll be AERIS. That's that!	決女子	scene_30
+でしょ！？あっ、ビデオのテープがっ…………	Right!? Oh, the video tape…		scene_30
+この、眠っている顔がまた、とてもカワイイ～んです	And when she's sleeping, her face …looks like an angel.	眠顔	scene_30
+博士……いえ、あなた何をしてるの？	What are you doing, Profes-- I mean, honey?	博士何	scene_30
+何をとるの？まだ、話していないことがあったかしら？	What are you going to tape? Is there still something I haven't mentioned?	何話	scene_30
+もう、それならビデオより先にこの子の名前を決めなくちゃ！	First, we have to figure out her name. We can take the video later!	先子名前決	scene_30
+もう、勝手な人ね……でも、AERISってイイ名前ね！	You are SO selfish! But AERIS is a good name!	勝手人名前	scene_30
+ウフフ……あなたのカタイ頭で考えたにしては上出来じゃないかしら	Hee hee…it's a good name, considering it came out of that forgetful head of yours!	頭考上出来	scene_30
 う……	Ugh…		scene_30
 なんとか、飛び越したようだな	I guess we're still in one piece.	飛越	scene_30
 みんな大丈夫か？	Everyone all right?	大丈夫	scene_30

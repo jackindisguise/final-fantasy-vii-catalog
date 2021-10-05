@@ -1,6 +1,6 @@
 {
 	"unique": 980,
-	"total": 42467,
+	"total": 42466,
 	"table": [
 		{
 			"kanji": "行",
@@ -505,7 +505,7 @@
 		{
 			"kanji": "手",
 			"order": 101,
-			"occurrences": 685
+			"occurrences": 684
 		},
 		{
 			"kanji": "何",
