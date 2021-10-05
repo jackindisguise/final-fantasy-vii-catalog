@@ -222,42 +222,25 @@
 | 220 | And I guess now, we'll never know. | 今となっては俺たちにはそれを知る方法もない |
 | 221 | We still have a chance. We must get that Black Materia back before Sephiroth uses it. | まだ、チャンスはある。セフィロスがメテオを使う前に黒マテリアを取り返すんだ |
 | 222 | Let's go. | 行こう |
-| 223 | Everyone, listen to me. | みんな聞いてくれ |
-| 224 | What hit you so suddenly? | どしたの、急に？ |
-| 225 | I've heard all this before. | 前にも聞いたぜ |
-| 226 | I came here on my own will…… or at least that's what I thought. But… | 俺は自分の意志でここまでやってきた……そう思っていた。でも…… |
-| 227 | To be honest… I'm afraid of myself. | ……正直に話す。俺は自分が恐い |
-| 228 | There's a part of me I don't understand. | 俺の中には、俺の知らない部分がある |
-| 229 | …It's something inside me. | ……そういう自分が俺の中にいる |
-| 230 | Five years ago, he burned down my hometown, then he took AERIS. | ５年前、俺の故郷を焼き払いたった今、AERISを奪った |
-| 231 | And now he's trying to destroy the Planet. I won't let him get away with it. | そしてこの星を破壊しようとしているセフィロスを……俺は許さない |
-| 232 | …I must go on. | ……俺は行かなくちゃならない |
-| 233 | But…I have a favor to ask of you.” | それで……頼みがあるんだ |
-| 234 | …Will you all still go with me? | みんなも……行ってくれるよな？ |
-| 235 | …But, you know… | ……でもよ、なんかだよ |
-| 236 | All right, we'll watch you. | よ～し、しっかり見張ってるよ |
-| 237 | …I see. | ……なるほど |
-| 238 | I wonder how AERIS was going to save this planet from Meteor. We have no way of finding out now. | AERISがどうやってメテオを防ごうとしたのかはわからない。俺たちにはそれを知る方法もない |
-| 239 | We still have a chance. We need to get the Black Materia back before Sephiroth uses Meteor. | まだ、チャンスはある。セフィロスがメテオを使う前に黒マテリアを取り返せばいいんだ |
-| 240 | ( End of Disc 1 ) | 【　ディスク１が終了しました　】 |
-| 241 | Save the game to this point on your computer? | ここまでのゲームの状態をメモリーカードにセーブしますか？ |
-| 242 | Please change the disc. | ディスク交換が必要です。 |
-| 243 | Save the game to this point on your computer? | ここまでをメモリーカードにセーブしますか？ |
-| 244 | Please insert disc two. | ディスク２に交換してください。 |
-| 245 | You still haven't saved your game. | 現在はまだここでセーブできません。 |
-| 246 | Continue playing? | このままゲームをつづけてください。 |
-| 247 | Which way'd that damn foo' Sephiroth go? | セフィロスは……どっちだ？ |
-| 248 | Sephiroth… I wonder which way he went? | セフィロスは……どっちに行ったのかしら？ |
-| 249 | Sephiroth… which way did he go? | セフィロスは……どっちに行ったのかな？ |
-| 250 | …Which way did that creep Sephiroth go!? | ……どっち行きやがったんだ？セフィロスの野郎はよ |
-| 251 | Ummm… Which way did that Sephiroth guy go? | え～っと……セフィロス、どっち？ |
-| 252 | I wonder which way Sephiroth went? | セフィロスはどっち行ったんやろ？ |
-| 253 | Which way did Sephiroth head? | セフィロス……どこへ向かった？ |
-| 254 | Hey, you alright? | おい、大丈夫か？ |
-| 255 | CLOUD! Get a hold of yourself!! | CLOUD！しっかりして！！ |
-| 256 | You all right? | だ、大丈夫？ |
-| 257 | Ey, hey! You alright? | お、おい！大丈夫か？ |
-| 258 | Wait! Get a hold of yourself! | ち、ちょっと！シッカリしてよ |
-| 259 | CLOUD! Are you all right? | CLOUDさん！大丈夫ですか？ |
-| 260 | Sephiroth said to me… Head North…… ……past the Snow Fields…… | セフィロスは言っていた……【北を目指す】……【雪原の向こう】と…… |
-| 261 | …ugh. | ……うっ |
+| 223 | ( End of Disc 1 ) | 【　ディスク１が終了しました　】 |
+| 224 | Save the game to this point on your computer? | ここまでのゲームの状態をメモリーカードにセーブしますか？ |
+| 225 | Please change the disc. | ディスク交換が必要です。 |
+| 226 | Save the game to this point on your computer? | ここまでをメモリーカードにセーブしますか？ |
+| 227 | Please insert disc two. | ディスク２に交換してください。 |
+| 228 | You still haven't saved your game. | 現在はまだここでセーブできません。 |
+| 229 | Continue playing? | このままゲームをつづけてください。 |
+| 230 | Which way'd that damn foo' Sephiroth go? | セフィロスは……どっちだ？ |
+| 231 | Sephiroth… I wonder which way he went? | セフィロスは……どっちに行ったのかしら？ |
+| 232 | Sephiroth… which way did he go? | セフィロスは……どっちに行ったのかな？ |
+| 233 | …Which way did that creep Sephiroth go!? | ……どっち行きやがったんだ？セフィロスの野郎はよ |
+| 234 | Ummm… Which way did that Sephiroth guy go? | え～っと……セフィロス、どっち？ |
+| 235 | I wonder which way Sephiroth went? | セフィロスはどっち行ったんやろ？ |
+| 236 | Which way did Sephiroth head? | セフィロス……どこへ向かった？ |
+| 237 | Hey, you alright? | おい、大丈夫か？ |
+| 238 | CLOUD! Get a hold of yourself!! | CLOUD！しっかりして！！ |
+| 239 | You all right? | だ、大丈夫？ |
+| 240 | Ey, hey! You alright? | お、おい！大丈夫か？ |
+| 241 | Wait! Get a hold of yourself! | ち、ちょっと！シッカリしてよ |
+| 242 | CLOUD! Are you all right? | CLOUDさん！大丈夫ですか？ |
+| 243 | Sephiroth said to me… Head North…… ……past the Snow Fields…… | セフィロスは言っていた……【北を目指す】……【雪原の向こう】と…… |
+| 244 | …ugh. | ……うっ |

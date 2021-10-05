@@ -11031,23 +11031,6 @@ AERISがどうやってメテオを防ごうとしたのかはわからない	I 
 今となっては俺たちにはそれを知る方法もない	And I guess now, we'll never know.	今俺知方法	scene_29
 まだ、チャンスはある。セフィロスがメテオを使う前に黒マテリアを取り返すんだ	We still have a chance. We must get that Black Materia back before Sephiroth uses it.	使前黒取返	scene_29
 行こう	Let's go.	行	scene_29
-みんな聞いてくれ	Everyone, listen to me.	聞	scene_29
-どしたの、急に？	What hit you so suddenly?	急	scene_29
-前にも聞いたぜ	I've heard all this before.	前聞	scene_29
-俺は自分の意志でここまでやってきた……そう思っていた。でも……	I came here on my own will…… or at least that's what I thought. But…	俺自分意志思	scene_29
-……正直に話す。俺は自分が恐い	To be honest… I'm afraid of myself.	正直話俺自分恐	scene_29
-俺の中には、俺の知らない部分がある	There's a part of me I don't understand.	俺中知部分	scene_29
-……そういう自分が俺の中にいる	…It's something inside me.	自分俺中	scene_29
-５年前、俺の故郷を焼き払いたった今、AERISを奪った	Five years ago, he burned down my hometown, then he took AERIS.	年前俺故郷焼払今奪	scene_29
-そしてこの星を破壊しようとしているセフィロスを……俺は許さない	And now he's trying to destroy the Planet. I won't let him get away with it.	星破壊俺許	scene_29
-……俺は行かなくちゃならない	…I must go on.	俺行	scene_29
-それで……頼みがあるんだ	But…I have a favor to ask of you.”	頼	scene_29
-みんなも……行ってくれるよな？	…Will you all still go with me?	行	scene_29
-……でもよ、なんかだよ	…But, you know…		scene_29
-よ～し、しっかり見張ってるよ	All right, we'll watch you.	見張	scene_29
-……なるほど	…I see.		scene_29
-AERISがどうやってメテオを防ごうとしたのかはわからない。俺たちにはそれを知る方法もない	I wonder how AERIS was going to save this planet from Meteor. We have no way of finding out now.	防俺知方法	scene_29
-まだ、チャンスはある。セフィロスがメテオを使う前に黒マテリアを取り返せばいいんだ	We still have a chance. We need to get the Black Materia back before Sephiroth uses Meteor.	使前黒取返	scene_29
 【　ディスク１が終了しました　】	( End of Disc 1 )	終了	scene_29
 ここまでのゲームの状態をメモリーカードにセーブしますか？	Save the game to this point on your computer?	状態	scene_29
 ディスク交換が必要です。	Please change the disc.	交換必要	scene_29
@@ -11596,6 +11579,7 @@ RED XIIIにあずけない	Don't give to RED XIII.		scene_31
 セフィロスはいつ現れるのかわからない。気をぬくんじゃないぞ	You never know when Sephiroth may show up… so don't let your guard down.	現気	scene_31
 黒マテリア……おまえが持っていてはどうだ？	How about if you hold on to the Black Materia?	黒持	scene_31
 私たちが追ってきたのはセフィロスではなかったのか…？	You mean… we weren't in pursuit of Sephiroth?	私追	scene_31
+……なるほど	Hmm…I see,		scene_31
 悩むことなんかなかったな	Guess I shouldn't have worried about it.	悩	scene_31
 TIFA、もうだいじょうぶだ	TIFA, you'll be alright now.		scene_31
 ああ、心配かけたな。謎は解けた	Yeah, sorry I made you worry. I solved the mystery.	心配謎解	scene_31
