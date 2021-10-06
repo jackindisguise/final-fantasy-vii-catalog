@@ -1,6 +1,6 @@
 {
 	"unique": 980,
-	"total": 42466,
+	"total": 42462,
 	"table": [
 		{
 			"kanji": "行",
@@ -965,7 +965,7 @@
 		{
 			"kanji": "内",
 			"order": 193,
-			"occurrences": 68
+			"occurrences": 67
 		},
 		{
 			"kanji": "夜",
@@ -1350,7 +1350,7 @@
 		{
 			"kanji": "部",
 			"order": 270,
-			"occurrences": 157
+			"occurrences": 156
 		},
 		{
 			"kanji": "連",
@@ -3350,7 +3350,7 @@
 		{
 			"kanji": "巻",
 			"order": 670,
-			"occurrences": 17
+			"occurrences": 16
 		},
 		{
 			"kanji": "整",
@@ -4700,7 +4700,7 @@
 		{
 			"kanji": "竜",
 			"order": 940,
-			"occurrences": 30
+			"occurrences": 29
 		},
 		{
 			"kanji": "姫",
