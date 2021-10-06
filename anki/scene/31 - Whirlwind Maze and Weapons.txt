@@ -101,7 +101,8 @@ RED XIII、ここにいたのね！よかった！！	RED XIII, you're here! I'm
 ……なるほどな。そういうわけか	…hmm. So that's what this is all about.		scene_31
 ジェノバはリユニオンする、か	The Jenova Reunion…		scene_31
 説明はあとだ。今はセフィロスを倒すことだけを考えるんだ	I'll explain later. Right now, the only thing I'm thinking about is beating Sephiroth.	説明今倒考	scene_31
-セフィロスは、いる本当のセフィロスはこの奥にいるんだ	He's here. The real Sephiroth is just beyond here.	本当奥	scene_31
+セフィロスは、いる	He's here.		scene_31
+本当のセフィロスはこの奥にいるんだ	The real Sephiroth is just beyond here.	本当奥	scene_31
 どうしようもなく邪悪でどうしようもなく残忍……	It's both incredibly wicked and cruel…	邪悪残忍	scene_31
 しかし、とほうもなく強い意志をこの星の傷の奥底から放っている	But it's releasing a powerfully strong will from deep within the Planet's wound.	強意志星傷奥底放	scene_31
 ……黒マテリアは俺たちの手にもどった	…The Black Materia is back in our hands.	黒俺手	scene_31
@@ -377,7 +378,7 @@ TIFAさん……いつかどこかで本当のCLOUDくんに会えるといい�
 私の声、聞こえないの！？	You can't hear my voice?	私声聞	scene_31
 だめ、だめよ！CLOUDを止めて！	No, don't!!! Please! Stop CLOUD!	止	scene_31
 見たか！！　セフィロスだぞ！やはり、ここにいたのだ！	Did you see it!! It's Sephiroth! So he IS here!	見	scene_31
-素晴らしい！ジェノバのリユニオンとセフィロスの意志のちから！	This is perfect! Both Jenova's Reunion and Sephiroth's  will!	素晴意志	scene_31
+素晴らしい！ジェノバのリユニオンとセフィロスの意志のちから！	This is perfect! Both Jenova's Reunion and Sephiroth's will!	素晴意志	scene_31
 ライフストリームに拡散することなくここに結集したのだ！	They won't be diffused into the Lifestream, but gathered here!	拡散結集	scene_31
 クァックァックァッ！	Mwa, haa, ha…		scene_31
 宝条博士……何がそんなにうれしいの？どういうことかわかってるの……？	What are you so happy about, Professor? You know what this means, don't you?	宝条博士何	scene_31
