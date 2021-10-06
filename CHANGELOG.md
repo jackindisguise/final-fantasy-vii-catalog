@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.19](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.18...v2.3.19) (2021-10-06)
+
+
+### Bug Fixes
+
+* **scripts:** Fixed formatting issue in Mideel I scene. ([82c0189](https://github.com/nowotato/final-fantasy-vii-catalog/commit/82c01898f88b58b527ea5d95bb24b8262c37ed54)), closes [#97](https://github.com/nowotato/final-fantasy-vii-catalog/issues/97) [#98](https://github.com/nowotato/final-fantasy-vii-catalog/issues/98)
+
 ### [2.3.18](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.17...v2.3.18) (2021-10-06)
 
 
