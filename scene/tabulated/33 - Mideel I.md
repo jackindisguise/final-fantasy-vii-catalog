@@ -200,224 +200,223 @@
 | 198 | The chocobo put the Materia away. | チョコボは、マテリアをしまってしまった。 |
 | 199 | Oh, you scared me…! I thought you were dead! | あ～、ビックリした……！死んだかと思っちゃった！ |
 | 200 | Sheesh, you scared me. I thought you croaked!! | ひゅ～、驚かしやがって。死んだかと思っちまったぜ！！ |
-| 201 | Chocobos ignore humans who | チョコボは、好物の野菜を |
-| 202 | don't look like they'll give them greens. | くれそうにない人間にはつめたかった。 |
-| 203 | Mideel Item Store | ミディール　アイテム屋 |
-| 204 | So that overgrown moon's gonna fall on us, huh? | なんでももうすぐあの巨大なお月さんが、降ってくるっていうじゃない？ |
-| 205 | When it all comes down to it, this world's about money and material things! If you got 'em, you can get by whenever, wherever! | けっきょく世の中、お金と物よ！それさえあれば、いつだって……どこでだって、やってける！ |
-| 206 | Welcome! Cash is welcome here! How may I help you? | いらっしゃい、アルね。やすらぎといこいのショップ。今日、どんなようアルか？ |
-| 207 | Thank you! Come again! | まいどあり、のことね！また来てちょー、アルね |
-| 208 | Welcome! We always welcome cash! Now, about where you want to go… | へい、らっしゃい！いつもニコニコ現金払い！と、行きたいとこなんだが…… |
-| 209 | I'm afraid other customers have already booked it up. There's nothing left. | いやあ、そこのお客さんがみんな予約しちまったもんでもうなにも残ってないんで…… |
-| 210 | …just kidding! Just a little joke. | ……なんちゃってえ！じょうだんですよ、お客さん。さてそれじゃ、どんなごようで？ |
-| 211 | Mideel Materia Store | ミディール　マテリア屋 |
-| 212 | Welcome! We always welcome cash! Now‚about where you want to go… | いらっしゃいアルね。やすらぎといこいのショップね。と、行きたいとこアルが…… |
-| 213 | I'm afraid other customers have already booked it up. There's nothing left. | あいや、そこのお客さん、みな予約しちゃったんで、もうなにも残ってないよ、お店 |
-| 214 | …just kidding! Just a little joke. Now what can I do for you? | ……というのは、じょうだんアル。エヘヘ！さて、それじゃ、どんなごようね？ |
-| 215 | Mideel Clinic | ミディール　治療所 |
-| 216 | Doctor | ドクター |
-| 217 | Hey! You barged in here like Meteor was crashing down or something. | おやおや。そんなにあわててメテオでも降って来たかねおじょうさん？ |
-| 218 | I'm sorry…but I heard a friend of mine was here… | すみません、どうやら友人がこちらでお世話になってるらしいと聞いたもので…… |
-| 219 | A friend? | 友人……？ |
-| 220 | Oh…that young fellow!? | ああ……！　あの若者のことか！？ |
-| 221 | Don't worry. He's next door. But his condition isn't good. | 安心なさい。君の友人なら、となりの部屋だよ。ただ、まだ具合が…… |
-| 222 | Here? | こちらですか？ |
-| 223 | Over here. | 失礼します！ |
-| 224 | CLOUD!? | CLOUD……！？ |
-| 225 | Oh…CLOUD!! I'm so glad you're safe!? | ああ……CLOUD！！よかった、無事だったのね！？ |
-| 226 | Uh…aaa…? | う……ああ……？ |
-| 227 | Wh…what's wrong… CLOUD? | ど……どうしたの……CLOUD……？ |
-| 228 | Aaa..gurk.. | あ……。ぐげ……？ |
-| 229 | CLOUD! What happened to you? | CLOUD！どうしちゃったの……！？ |
-| 230 | Mako poisoning… Quite an advanced case. | 魔晄中毒だよ……。それも、かなり重度の、ね…… |
-| 231 | It appears this young man's been exposed to high levels of Mako energy for an extended period of time. | どうもこの若者は強烈な魔晄エネルギーに長時間さらされたようだな |
-| 232 | He probably has no idea who or where he is now… | おそらく、自分が誰なのか自分がいまどこにいるのかすら理解していないだろう…… |
-| 233 | Poor fellow, he can't even speak. He's literally miles away from us. | かわいそうだが、君の声もとどいてはいまい……。本当の彼は別の場所にいるんだ |
-| 234 | Some place far away where no one's ever been… All alone… | 誰もいったことがないような遠い場所に……ひとりぽっちでね…… |
-| 235 | Doctor!! | そんな……！！ |
-| 236 | This's bad… | チクショー。なんてこった…… |
-| 237 | How horrible… | なんて、むごい…… |
-| 238 | That's terrible… | あんまりやなぁ…… |
-| 239 | Damn, that's evil. | チ……ひでえ話だ |
-| 240 | You lyin' or what!? | ウソでしょ！？ |
-| 241 | Ahem! Let's excuse ourselves. | コホン！　わたしたちはちょっと席をはずすとしようか |
-| 242 | Listen, would you all mind… waiting outside? | さあ、君たちも、一練に……。外で待っていよう |
-| 243 | Why? What do you want me to do? | どうして……？どうして、こんなことに……！ |
-| 244 | Please, CLOUD… Talk to me… | おねがい、CLOUD……。こたえてよ…… |
-| 245 | Tell me you see me, that you can hear me… Tell me, please… | ちゃんと私のこと見てるって私の声が聞こえるって……言ってよ、ねえ…… |
-| 246 | I made it this far believing in the memories we shared. | あなたとの思い出を信じたくてここまで来たのに…… |
-| 247 | This isn't happening! It's too cruel! | こんなの、ないよ……！ひどすぎるよ…… |
-| 248 | Oh, CLOUD! I… | ああ、CLOUD……！私…… |
-| 249 | I don't care about anything else, only CLOUD… | 話っていうのは、ほかでもないCLOUDのことなんだけど…… |
-| 250 | I…want to be by his side… | 私……彼のそばにいてあげたいの…… |
-| 251 | Yeah, that's probably best… | ああ……そうしてやるのが一番かもしれんな…… |
-| 252 | For CLOUD… and you… | CLOUDにとっても……おまえにとっても…… |
-| 253 | Yes, that's best! | うん、それがいいよ！ |
-| 254 | Yeah. Right. Hang in there, TIFA. | ああ、わかってるって。なにも言うねぇ |
-| 255 | Then you gotta do it. You gotta be true to yourself. | やっぱ、そうこなくちゃ。自分に正直に生きなきゃ、ね |
-| 256 | If TIFA were my nurse, I'd switch places with CLOUD any day! | TIFAさんがかんびょうしてくれるんやったら、CLOUDさんと代わってほしいくらいですわ |
-| 257 | Do what you wish. | 好きにするがいい |
-| 258 | I'm sorry, everyone… Especially now… | ゴメンね、みんな……。こんな時に…… |
-| 259 | Why you apologizin'? We'll come back again an' check on ya. | あやまるヤツがあるかよ。オレたちも、また様子をみによるよ |
-| 260 | You take care now, TIFA. And take care of CLOUD. | がんばれよ、TIFA。CLOUDのことは、まかせたぜ |
-| 261 | Don't worry. I'll stop by again. | いいってことよ。オレ様も、また顔を出すからよ |
-| 262 | You hang in there, TIFA. Take care of CLOUD. | がんばりな、TIFA。CLOUDのことは、たのんだぜ |
-| 263 | That's all right. We'll be by again. | いいんだよ、そんなこと。オイラたちも、またよるからさ |
-| 264 | Do your best, TIFA. Take care of CLOUD. | がんばって、TIFA。CLOUDのことは、たのんだよ |
-| 265 | No big, no big. I'll pop in again later. | 気にしない、気にしない。アタイらも顔みせるからさ |
-| 266 | Look after CLOUD. Take care, TIFA. | CLOUDのこと、たのんだね。がんばるんだよ、TIFA |
-| 267 | What're you talkin' about? We'll stop in again. | ええって、みずくさいなぁ。また顔みせにきますわ |
-| 268 | Hope CLOUD gets better soon. | CLOUDさん、はよようなるとええのにな |
-| 269 | Don't worry. We'll return and check on him later. | 気にするな。私たちもたまには様子をみによる |
-| 270 | Take care of him. | CLOUDのことは、まかせたぞ |
-| 271 | Right… | うん…… |
-| 272 | Oh, and uh, TIFA… I don't like askin' this but… | それとな、TIFA……。こんなことは言いたかねえんだが…… |
-| 273 | Are you sure he's really your friend? And not Sephiroth's shadow? | ヤツはたしかに、おまえの幼なじみのCLOUDにまちがいないのか？セフィロスの影なんかじゃなく |
-| 274 | Huh!? Well…that is… | え！？それは……たぶん…… |
-| 275 | No, I'm sure of it! | ……ううん、きっと！ |
-| 276 | Yeah? OK, then… Sorry for askin'. | そうか……。なら、いいんだ……。ヘンなこと、聞いちまったな |
-| 277 | We gotta get back to the Highwind. | よし、それじゃオレたちはハイウインドにもどるぜ |
-| 278 | Now, we gotta be headin' back to the Highwind. | よし、それじゃオレ様のハイウインドにもどるとするか |
-| 279 | We should be getting back to the Highwind. | よし、それじゃオイラたちはハイウインドにもどろう |
-| 280 | Hey, shouldn't we be gettin' back to the Highwind? | よし、それじゃアタシたちはハイウインドにもどろうよ！ |
-| 281 | Well, I guess we'd better go back to the Highwind. | ほな、ハイウインドにもどりましょか |
-| 282 | Very well then, we should return to the Highwind. | ……それでは、私たちはハイウインドにもどるぞ |
-| 283 | So what about him? | なあ、お医者の先生。ほんとうのとこを聞かせてくれないか？ |
-| 284 | You know… CLOUD? | あいつは……、CLOUDはどうなんだ？なおるみこみはあるのかい？ |
-| 285 | Listen Doc, why don't you tell us the truth. | なあ、先生さんよ。ほんとうのところを教えてくれよ |
-| 286 | What about CLOUD? Is he all right? | CLOUDのヤツはどうなんだ？ちゃんと元にもどるのか？ |
-| 287 | Tell me doctor, is CLOUD all right? I mean will he heal? | ねえ先生、CLOUDはだいじょうぶなのかな？ちゃんと、なおるの？ |
-| 288 | Hey Doc, is he okay? Is he gonna heal? | ね、先生、CLOUDはほんとにオッケーなの？ちゃんとなおるの？ |
-| 289 | Hey doctor, is CLOUD all right? Is he gonna get better? Come on, tell us the truth | なぁ先生、ほんまはどうなんです？CLOUDさんは、だいじょうぶなんですか？ほんま、どないなっとるんやろ |
-| 290 | I'll say it again, he's got Mako poisoning. I've never seen a case this bad… | くりかえすが彼は重度の魔晄中毒だ。あそこまでひどいのは、わたしも見たことがない…… |
-| 291 | An immense amount of Mako-drenched knowledge was infused into his brain. | 魔晄エネルギー内に潜むぼうだいな知識の量……。それがいっぺんに彼の頭の中に流れこんだんだろう…… |
-| 292 | It's a miracle he survived! No normal human could have. | ふつうの人間にはたえきれるものじゃない……。生きてるだけでも、きせきだ！ |
-| 293 | No wonder… After fallin' in the Lifestream an' bein' washed up here… | ライフストリームに落ちてここまで流されて来たんじゃ……ムリないぜ、それも…… |
-| 294 | No wonder… After all, he fell into the Lifestream and was carried down here. | ムリねえかあ……。ライフストリームに落ちてここまで流されて来たんじゃなあ |
-| 295 | No wonder. He fell into the Lifestream and washed up here… | ムリないよ。生身でライフストリームにどっぷりつかっちゃったんだから…… |
-| 296 | No lie. After fallin' head first into the Lifestream. | あったりきだよねえ。ライフストリームに、頭から飛びこんじゃったんだもんね |
-| 297 | No wonder. After falling into the Lifestream… | しゃあないよな。ようさんライフストリームにつかってしもたからなぁ…… |
-| 298 | But remember, the light of hope can be found anywhere. | しかし、どんなところにも希望の光はある。あきらめては、いけない |
-| 299 | If you give up hope… What will happen to him? | いいかい、君たちが希望をすててしまったら……いったい彼はどこへ帰ればいいというのかね？ |
-| 300 | …hope… | ……希望か…… |
-| 301 | Hey, but honestly, man… Do I really want him to come back? | でもよ、正直な話……オレはあいつに帰ってきて欲しいとホントにねがってるんだろうか？ |
-| 302 | What did he do for the world? What can he do for us from here on out? He may be nothing more than Sephiroth's shadow… | ヤツがこの世界に何をした？この先、オレたちに何をもたらす？セフィロスの影でしかないのかもしれねえんだぞ…… |
-| 303 | Is something wrong? | どうかしたかね？ |
-| 304 | No, nothin'. Nothin' at all, Doc. | いや……。何でもねえよ |
-| 305 | …Hope… | ……。希望か…… |
-| 306 | I guess that's all that's left now… | たしかにいま、オレたちに残されてるのは、そいつだけかもしれねえなあ…… |
-| 307 | Hmm, I know he'll recover! CLOUD was a strong member of SOLDIER. | うん、きっとよくなるよね！強いソルジャーだもの、CLOUD |
-| 308 | Yeah, that's right. Besides, WE'RE here for him. He's gotta get better! | そうだよね。アタシたちがついてんだもん。きっと元気になるよね！ |
-| 309 | Yeah! I know CLOUD'll get better! | ほんま、そうや。CLOUDさん、元気になるわ！ほんまに…… |
-| 310 | With friends like us worrying about him He'll pull through. | こないに心配してくれはるおともだちが、ようさんおるんやおちおちねとられへんて |
-| 311 | You okay? | もういいのか？ |
-| 312 | Are you all right, TIFA? | だいじょうぶ、TIFA？ |
-| 313 | You okay, TIFA? | オッケーなの、TIFA？ |
-| 314 | You all right? | だいじょうぶなんですか？ |
-| 315 | Yes… I'm sorry to worry you all. | ええ……。 心配かけて、ごめんなさい。 |
-| 316 | There's something I want to say to you… | それで……ちょっとみんなに話があるんだけど…… |
-| 317 | Corel! | コレルだと～！！ |
-| 318 | What else can they do to Corel!? | これ以上コレルをどうしようってんだ！ |
-| 319 | And the Huge Materia… | それにヒュージマテリア…… |
-| 320 | You mean the Huge Materia, don't you? I've heard about it. | 大きなマテリアのことでしょ？オイラ、聞いたことがあるんだ |
-| 321 | When our small Materia nears the larger one, there should be some reaction. | えっと、オイラたちの小さなマテリアを大きなマテリアに近づけると何かがおこるはずだよ、きっと |
-| 322 | I'm certain of it. That's why we're using the Materia power in our fight… | だからオイラたちがマテリアの力を借りて戦いを続けるのなら…… |
-| 323 | Can't let Shinra get a hold of the Huge Materia! | ヒュージマテリアを神羅に渡すわけにはいかねえ！ |
-| 324 | Besides, when CLOUD gets back, I wanna show him this Huge Materia. He's gonna be shocked. | それによ、CLOUDが帰ってきたらヒュージマテリア見せてよびっくりさせてやろうぜ |
-| 325 | So, what are you saying, BARRET? | なぁ～んや、BARRETさん |
-| 326 | Even though you're always knocking him, you really want CLOUD to return. | なんやかんや、言うてもCLOUDさんが帰ってきはったらええなと思ってはるんや |
-| 327 | I ain't sayin' nothin' 'bout nothin'. So just…shut your face! | いいじゃねえか、そんなことはよ。それより、なんだ…… |
-| 328 | Every group's gotta have a leader. | 団体行動にはリーダーが必要だ |
-| 329 | An' that's me! | リーダーはオレだ！ |
-| 330 | Or at least I wanna be… But I ain't cut out to be no leader. | そう言いてえところだがオレはリーダーには向いてねえ |
-| 331 | I never knew that till lately. | 最近気づいたんだけどよ |
-| 332 | That's what it is. | んなわけでよ…… |
-| 333 | …ZZZZ…hmph? | ＺＺＺＺ……？ |
-| 334 | Wha? What's goin' on? | おっ！？　な、なんでい！ |
-| 335 | You been chosen to be the new leader. | あんたがリーダーに決まった |
-| 336 | Pain in the ass. Forget it. | そんな面倒なことはイヤだぜ |
-| 337 | But for us to fight, we gotta have Highwind, and you. | これからの戦いにはあんたと、あんたのこの飛空艇ハイウインドが必要なんだ |
-| 338 | We need it to save the Planet. An' who's runnin' this ship? You! | これは星を救う船だぜ。その大切な船を仕切ってるのは誰だ？あんただろ？ |
-| 339 | That's why you're our new leader. Ain't no one else can do it. | だからオレたちのリーダーはCID、あんたしか考えられねえ |
-| 340 | Hmm…this ship's gonna save the Planet, huh? Ain't that gonna be just a little tough? | へ……星を救う船か。……ちょっと熱いじゃねえか |
-| 341 | Oh man, stab me in the heart. | 今のはハートにズンと来たぜ |
-| 342 | I'm a man, too! | オレ様も男だ！ |
-| 343 | Okay, I'll do it! Everyone, follow me! | やったろうじゃねえか！オレ様についてきやがれ！ |
-| 344 | Alright, now here's the first job. | というわけで最初の仕事だ |
-| 345 | The Operation Room's waiting for you! | オペレーション・ルームがあんたを待ってるぜ！ |
-| 346 | As soon as we're ready, we'll head for the Corel reactor. | 準備ができしだいコレル魔晄炉へ出発だ！ |
-| 347 | Hurry, CID! | 急げ、CID！ |
-| 348 | Pilot in training (LV5) | 見習いパイロット（ＬＶ５） |
-| 349 | Eaggggghh! Congrats' on becoming our leader, Cap'n! | あわわわわ！艇長、リーダー就任おめでとうさんです！ |
-| 350 | Yaaah! Are we taking off? | あわわ！　いくですか？ |
-| 351 | Eagggggh! We're taking off now! | あわわ！　いくで～す！ |
-| 352 | Hey… | あのよぅ |
-| 353 | It's tough being the leader. | リーダーってのはつかれるよなぁ |
-| 354 | CLOUD did a great job. Sheesh… | CLOUDはよくやってたぜ。まったくよう…… |
-| 355 | Shall we go to Mideel to check on things? | ミディールに様子でも見に行くかあ？ |
-| 356 | I wonder how CLOUD's doing. | CLOUD……どうしてるかな？ |
-| 357 | I wonder if TIFA needs a break… | TIFA、つかれてないかな？ |
-| 358 | I could look after him instead. | オイラ、看病かわってもいいな |
-| 359 | Well, let's see… What's a good place to head to? | ええっと……どこへ行けばいいんだ？ |
-| 360 | Corel? Fort Condor? | コレルかぁ？コンドルフォートかぁ？ |
-| 361 | Where shall we go next? Shall we head for the Corel reactor? | お次はなんだ？コレルの魔晄炉だったかぁ？ |
-| 362 | What's next? Shall we head for Fort Condor? | お次はなんだ？コンドルフォートだったかぁ？ |
-| 363 | Pilot in training (LV6) | 見習いパイロット（ＬＶ６） |
-| 364 | Yaah! Shall we take off? | あわ！　いくですか？ |
-| 365 | Yaah! We're taking off! | あわ！　いきま～す！ |
-| 366 | What's that sad face for? | な～にシケた顔してるんだぁ？ |
-| 367 | What? Does CLOUD always gotta be around? We did fine without him in the beginning… | CLOUDがいなくちゃダメかよ……最初はあいつ無しでやってきたじゃねえか…… |
-| 368 | Right? An' what happened to the tough girl I used to know? Where'd she go to? | ん？　強いTIFAさんはどこに行っちまったんだぁ？ |
-| 369 | Whenever I think of CLOUD, everything gets all jumbled up. | オレはよう、CLOUDのこと考えるとワケがわかんなくなっちまうんだ |
-| 370 | No matter how powerful Shinra or Hojo is, I can't believe they can create humans. | いくら神羅や宝条でもよ人間をつくっちまうなんて信じられねえしな |
-| 371 | But because of them, we know that Meteor is heading towards us. | でも、あいつのせいでメテオが来ちまうのは確かだ…… |
-| 372 | Y'know, even if I saw him, I don't have a damn idea what I'd do. | はっきり言って、あいつに会ってもどうしたらいいのか、わかんねえぜ…… |
-| 373 | Yo, Leader-man! Get your pilot ass up here! | リーダーさんよ！　急いでくれ！ |
-| 374 | Leader-man? What's next!? | ん～？　リーダーさん、次はどうするよっ！ |
-| 375 | Yo, wanna see what TIFA and the gang are doing? | おい、ちらっとTIFAたちの様子でも見にいかねえか？ |
-| 376 | Cheer up, TIFA… | 元気だしてよ、TIFA…… |
-| 377 | There appears to be a small island near the Lifestream…… | ライフストリームに近い場所……小さな島があるらしいんだ |
-| 378 | They said the Lifestream sometimes suddenly gushes out at the Southern island. | 南の島で、ときどきライフストリームがブワーッてふきだしたりするんだって |
-| 379 | I remember hearing about this from Seto when I was a child, but I don't remember much else… | うんと小さいころ、セトに聞いたんだけどよく覚えてないんだ…… |
-| 380 | I'm sorry…TIFA. | ごめんね……TIFA |
-| 381 | We'll do our best for CLOUD and you. | CLOUDとTIFAのぶんもオイラ、がんばるからね |
-| 382 | …And AERIS, too. | …………AERISのぶんもね |
-| 383 | CID. | ね、CID |
-| 384 | Let's visit CLOUD and TIFA from time to time. | 時々CLOUDとTIFAに会いに行こうね |
-| 385 | I wonder how TIFA and CLOUD…are doing. | TIFAとCLOUD……どうしてるかな？ |
-| 386 | TIFA. | TIFAさん |
-| 387 | You saw him slapping Scarlet around? | スカーレットのほっぺたバシバシしばいてましたやろ？ |
-| 388 | Yeah, he did a good job, too. It felt good just watching. | いや、よ～やってくれました。すか～っとしましたわ |
-| 389 | Let's never forget that spirit, and give it our all! | あの元気をず～と、忘れんようにがんばりましょうや！ |
-| 390 | TIFA, I'll give you info on Shinra. | TIFAさん、ボク、いろいろと神羅の情報を流しますからね |
-| 391 | Ask me if there's anything you don't understand. | わからんことがあったらボクに聞いて下さいな |
-| 392 | Everything appears calm right now at Shinra. | 神羅の動きは特にありませんわ |
-| 393 | So now's the time to look for CLOUD. I'm worried about him, too. | 今のうちにCLOUDさん、探しましょ。ボクも気になりますのや |
-| 394 | I wonder where CLOUD is. Or could he already be… | あの人、どこにおるのやろなぁ？それとも、もう…… |
-| 395 | TIFA… Do you think it's a good idea for me to quit Shinra? | TIFAさん……ボクは、神羅やめた方がええんでしょうかねぇ？ |
-| 396 | Oh, I'm sorry. | あ、す、すんません |
-| 397 | TIFA, there's no way I can quit right now… | TIFAさん、それどころやあらへんもんなぁ…… |
-| 398 | CID, I'm expecting big things from you | CIDさん、期待してますで～ |
-| 399 | CID, you're tired, huh? | CIDさん、つかれてますなぁ |
-| 400 | I'd like to change places with you, but I'm in charge of information, so I can't. Sorry. | 代わってあげたいんやけどボク、情報係ですから、すんませんなぁ |
-| 401 | Hmmn, the Huge Materia is at Corel, Fort Condor, and… | ええと、ヒュージマテリアはコレル、コンドルフォート…… |
-| 402 | I'm sure there was another place that had it. Where was that…? | 他にもまだあったような気がしますけど、どこやったかなぁ…… |
-| 403 | Shinra's…stopped. | 神羅の動き……止まりましたで |
-| 404 | Now we've got to be careful. I know Heidegger and his gang are plotting something. | でも、こういう時は要注意ですのや。ハイデッカーたちがなんか考えてるにちがいまへんわ |
-| 405 | …So glad you're all right, TIFA. | ……無事で良かったな、TIFA |
-| 406 | Too much hope is the opposite of despair. | ふくらみすぎた希望は絶望の裏返し |
-| 407 | An overpowering love may consume you in the end. | 大きすぎる愛はおまえを打ちのめすことになるかもしれない…… |
-| 408 | CID…I wish I had your go-get-them attitude. | CID……あんたのその熱さがうらやましいよ |
-| 409 | It appears my feelings vanished into thin air ever since my long slumber…. | 私の心は長い眠りのうちにとけてなくなってしまったようだからな…… |
-| 410 | …Don't expect me to do anything other than fight beside you. | ……戦闘以外で私に何かを期待するな |
-| 411 | I have no words of comfort. Of course, I don't believe you're the type who needs the kindness from others… | ねぎらいの言葉すら、私は知らない。もっとも、あんたは他人の優しさにすがるような人間ではなさそうだが…… |
-| 412 | You look really tired, maybe you're ready to give up being leader? | ずいぶんつかれているようだがそろそろリーダーをおりるのかな？ |
-| 413 | No use singing the blues, baby. The best thing to do is to keep movin'. | 落ちこんでてもしょうがねえぞ、ネエちゃん。とにかくいろいろ動きまわるこったぜ |
-| 414 | Whenever anyone talks to me, I get all nervous and mess things up! | あ、あの、話しかけられるとドキドキしちゃって仕事しくじっちゃいます |
-| 415 | Hey you! What the hell are you doin'!? | オラッ！　なにやってんだよ！ |
-| 416 | Good day, Captain! | 艇長！　ごくろうさまです！ |
-| 417 | All we have to do is just pilot. They don't have to talk to us. | お、おれたち見てるだけでいいんです。話しかけてくれなくってもいいです |
-| 418 | Looks like you turned out to be the leader after all, Captain… | やっぱり艇長がリーダーじゃなくっちゃ……でっす！ |
-| 419 | Pilot in Training (LV7) | 見習いパイロット（ＬＶ７） |
-| 420 | Yaaah!  Shall we take off? | わ！　いくですか？ |
-| 421 | Man!  We're taking off! | わ！　いきます！ |
+| 201 | Chocobos ignore humans who don't look like they'll give them greens. | チョコボは、好物の野菜をくれそうにない人間にはつめたかった。 |
+| 202 | Mideel Item Store | ミディール　アイテム屋 |
+| 203 | So that overgrown moon's gonna fall on us, huh? | なんでももうすぐあの巨大なお月さんが、降ってくるっていうじゃない？ |
+| 204 | When it all comes down to it, this world's about money and material things! If you got 'em, you can get by whenever, wherever! | けっきょく世の中、お金と物よ！それさえあれば、いつだって……どこでだって、やってける！ |
+| 205 | Welcome! Cash is welcome here! How may I help you? | いらっしゃい、アルね。やすらぎといこいのショップ。今日、どんなようアルか？ |
+| 206 | Thank you! Come again! | まいどあり、のことね！また来てちょー、アルね |
+| 207 | Welcome! We always welcome cash! Now, about where you want to go… | へい、らっしゃい！いつもニコニコ現金払い！と、行きたいとこなんだが…… |
+| 208 | I'm afraid other customers have already booked it up. There's nothing left. | いやあ、そこのお客さんがみんな予約しちまったもんでもうなにも残ってないんで…… |
+| 209 | …just kidding! Just a little joke. | ……なんちゃってえ！じょうだんですよ、お客さん。さてそれじゃ、どんなごようで？ |
+| 210 | Mideel Materia Store | ミディール　マテリア屋 |
+| 211 | Welcome! We always welcome cash! Now‚about where you want to go… | いらっしゃいアルね。やすらぎといこいのショップね。と、行きたいとこアルが…… |
+| 212 | I'm afraid other customers have already booked it up. There's nothing left. | あいや、そこのお客さん、みな予約しちゃったんで、もうなにも残ってないよ、お店 |
+| 213 | …just kidding! Just a little joke. Now what can I do for you? | ……というのは、じょうだんアル。エヘヘ！さて、それじゃ、どんなごようね？ |
+| 214 | Mideel Clinic | ミディール　治療所 |
+| 215 | Doctor | ドクター |
+| 216 | Hey! You barged in here like Meteor was crashing down or something. | おやおや。そんなにあわててメテオでも降って来たかねおじょうさん？ |
+| 217 | I'm sorry…but I heard a friend of mine was here… | すみません、どうやら友人がこちらでお世話になってるらしいと聞いたもので…… |
+| 218 | A friend? | 友人……？ |
+| 219 | Oh…that young fellow!? | ああ……！　あの若者のことか！？ |
+| 220 | Don't worry. He's next door. But his condition isn't good. | 安心なさい。君の友人なら、となりの部屋だよ。ただ、まだ具合が…… |
+| 221 | Here? | こちらですか？ |
+| 222 | Over here. | 失礼します！ |
+| 223 | CLOUD!? | CLOUD……！？ |
+| 224 | Oh…CLOUD!! I'm so glad you're safe!? | ああ……CLOUD！！よかった、無事だったのね！？ |
+| 225 | Uh…aaa…? | う……ああ……？ |
+| 226 | Wh…what's wrong… CLOUD? | ど……どうしたの……CLOUD……？ |
+| 227 | Aaa..gurk.. | あ……。ぐげ……？ |
+| 228 | CLOUD! What happened to you? | CLOUD！どうしちゃったの……！？ |
+| 229 | Mako poisoning… Quite an advanced case. | 魔晄中毒だよ……。それも、かなり重度の、ね…… |
+| 230 | It appears this young man's been exposed to high levels of Mako energy for an extended period of time. | どうもこの若者は強烈な魔晄エネルギーに長時間さらされたようだな |
+| 231 | He probably has no idea who or where he is now… | おそらく、自分が誰なのか自分がいまどこにいるのかすら理解していないだろう…… |
+| 232 | Poor fellow, he can't even speak. He's literally miles away from us. | かわいそうだが、君の声もとどいてはいまい……。本当の彼は別の場所にいるんだ |
+| 233 | Some place far away where no one's ever been… All alone… | 誰もいったことがないような遠い場所に……ひとりぽっちでね…… |
+| 234 | Doctor!! | そんな……！！ |
+| 235 | This's bad… | チクショー。なんてこった…… |
+| 236 | How horrible… | なんて、むごい…… |
+| 237 | That's terrible… | あんまりやなぁ…… |
+| 238 | Damn, that's evil. | チ……ひでえ話だ |
+| 239 | You lyin' or what!? | ウソでしょ！？ |
+| 240 | Ahem! Let's excuse ourselves. | コホン！　わたしたちはちょっと席をはずすとしようか |
+| 241 | Listen, would you all mind… waiting outside? | さあ、君たちも、一練に……。外で待っていよう |
+| 242 | Why? What do you want me to do? | どうして……？どうして、こんなことに……！ |
+| 243 | Please, CLOUD… Talk to me… | おねがい、CLOUD……。こたえてよ…… |
+| 244 | Tell me you see me, that you can hear me… Tell me, please… | ちゃんと私のこと見てるって私の声が聞こえるって……言ってよ、ねえ…… |
+| 245 | I made it this far believing in the memories we shared. | あなたとの思い出を信じたくてここまで来たのに…… |
+| 246 | This isn't happening! It's too cruel! | こんなの、ないよ……！ひどすぎるよ…… |
+| 247 | Oh, CLOUD! I… | ああ、CLOUD……！私…… |
+| 248 | I don't care about anything else, only CLOUD… | 話っていうのは、ほかでもないCLOUDのことなんだけど…… |
+| 249 | I…want to be by his side… | 私……彼のそばにいてあげたいの…… |
+| 250 | Yeah, that's probably best… | ああ……そうしてやるのが一番かもしれんな…… |
+| 251 | For CLOUD… and you… | CLOUDにとっても……おまえにとっても…… |
+| 252 | Yes, that's best! | うん、それがいいよ！ |
+| 253 | Yeah. Right. Hang in there, TIFA. | ああ、わかってるって。なにも言うねぇ |
+| 254 | Then you gotta do it. You gotta be true to yourself. | やっぱ、そうこなくちゃ。自分に正直に生きなきゃ、ね |
+| 255 | If TIFA were my nurse, I'd switch places with CLOUD any day! | TIFAさんがかんびょうしてくれるんやったら、CLOUDさんと代わってほしいくらいですわ |
+| 256 | Do what you wish. | 好きにするがいい |
+| 257 | I'm sorry, everyone… Especially now… | ゴメンね、みんな……。こんな時に…… |
+| 258 | Why you apologizin'? We'll come back again an' check on ya. | あやまるヤツがあるかよ。オレたちも、また様子をみによるよ |
+| 259 | You take care now, TIFA. And take care of CLOUD. | がんばれよ、TIFA。CLOUDのことは、まかせたぜ |
+| 260 | Don't worry. I'll stop by again. | いいってことよ。オレ様も、また顔を出すからよ |
+| 261 | You hang in there, TIFA. Take care of CLOUD. | がんばりな、TIFA。CLOUDのことは、たのんだぜ |
+| 262 | That's all right. We'll be by again. | いいんだよ、そんなこと。オイラたちも、またよるからさ |
+| 263 | Do your best, TIFA. Take care of CLOUD. | がんばって、TIFA。CLOUDのことは、たのんだよ |
+| 264 | No big, no big. I'll pop in again later. | 気にしない、気にしない。アタイらも顔みせるからさ |
+| 265 | Look after CLOUD. Take care, TIFA. | CLOUDのこと、たのんだね。がんばるんだよ、TIFA |
+| 266 | What're you talkin' about? We'll stop in again. | ええって、みずくさいなぁ。また顔みせにきますわ |
+| 267 | Hope CLOUD gets better soon. | CLOUDさん、はよようなるとええのにな |
+| 268 | Don't worry. We'll return and check on him later. | 気にするな。私たちもたまには様子をみによる |
+| 269 | Take care of him. | CLOUDのことは、まかせたぞ |
+| 270 | Right… | うん…… |
+| 271 | Oh, and uh, TIFA… I don't like askin' this but… | それとな、TIFA……。こんなことは言いたかねえんだが…… |
+| 272 | Are you sure he's really your friend? And not Sephiroth's shadow? | ヤツはたしかに、おまえの幼なじみのCLOUDにまちがいないのか？セフィロスの影なんかじゃなく |
+| 273 | Huh!? Well…that is… | え！？それは……たぶん…… |
+| 274 | No, I'm sure of it! | ……ううん、きっと！ |
+| 275 | Yeah? OK, then… Sorry for askin'. | そうか……。なら、いいんだ……。ヘンなこと、聞いちまったな |
+| 276 | We gotta get back to the Highwind. | よし、それじゃオレたちはハイウインドにもどるぜ |
+| 277 | Now, we gotta be headin' back to the Highwind. | よし、それじゃオレ様のハイウインドにもどるとするか |
+| 278 | We should be getting back to the Highwind. | よし、それじゃオイラたちはハイウインドにもどろう |
+| 279 | Hey, shouldn't we be gettin' back to the Highwind? | よし、それじゃアタシたちはハイウインドにもどろうよ！ |
+| 280 | Well, I guess we'd better go back to the Highwind. | ほな、ハイウインドにもどりましょか |
+| 281 | Very well then, we should return to the Highwind. | ……それでは、私たちはハイウインドにもどるぞ |
+| 282 | So what about him? | なあ、お医者の先生。ほんとうのとこを聞かせてくれないか？ |
+| 283 | You know… CLOUD? | あいつは……、CLOUDはどうなんだ？なおるみこみはあるのかい？ |
+| 284 | Listen Doc, why don't you tell us the truth. | なあ、先生さんよ。ほんとうのところを教えてくれよ |
+| 285 | What about CLOUD? Is he all right? | CLOUDのヤツはどうなんだ？ちゃんと元にもどるのか？ |
+| 286 | Tell me doctor, is CLOUD all right? I mean will he heal? | ねえ先生、CLOUDはだいじょうぶなのかな？ちゃんと、なおるの？ |
+| 287 | Hey Doc, is he okay? Is he gonna heal? | ね、先生、CLOUDはほんとにオッケーなの？ちゃんとなおるの？ |
+| 288 | Hey doctor, is CLOUD all right? Is he gonna get better? Come on, tell us the truth | なぁ先生、ほんまはどうなんです？CLOUDさんは、だいじょうぶなんですか？ほんま、どないなっとるんやろ |
+| 289 | I'll say it again, he's got Mako poisoning. I've never seen a case this bad… | くりかえすが彼は重度の魔晄中毒だ。あそこまでひどいのは、わたしも見たことがない…… |
+| 290 | An immense amount of Mako-drenched knowledge was infused into his brain. | 魔晄エネルギー内に潜むぼうだいな知識の量……。それがいっぺんに彼の頭の中に流れこんだんだろう…… |
+| 291 | It's a miracle he survived! No normal human could have. | ふつうの人間にはたえきれるものじゃない……。生きてるだけでも、きせきだ！ |
+| 292 | No wonder… After fallin' in the Lifestream an' bein' washed up here… | ライフストリームに落ちてここまで流されて来たんじゃ……ムリないぜ、それも…… |
+| 293 | No wonder… After all, he fell into the Lifestream and was carried down here. | ムリねえかあ……。ライフストリームに落ちてここまで流されて来たんじゃなあ |
+| 294 | No wonder. He fell into the Lifestream and washed up here… | ムリないよ。生身でライフストリームにどっぷりつかっちゃったんだから…… |
+| 295 | No lie. After fallin' head first into the Lifestream. | あったりきだよねえ。ライフストリームに、頭から飛びこんじゃったんだもんね |
+| 296 | No wonder. After falling into the Lifestream… | しゃあないよな。ようさんライフストリームにつかってしもたからなぁ…… |
+| 297 | But remember, the light of hope can be found anywhere. | しかし、どんなところにも希望の光はある。あきらめては、いけない |
+| 298 | If you give up hope… What will happen to him? | いいかい、君たちが希望をすててしまったら……いったい彼はどこへ帰ればいいというのかね？ |
+| 299 | …hope… | ……希望か…… |
+| 300 | Hey, but honestly, man… Do I really want him to come back? | でもよ、正直な話……オレはあいつに帰ってきて欲しいとホントにねがってるんだろうか？ |
+| 301 | What did he do for the world? What can he do for us from here on out? He may be nothing more than Sephiroth's shadow… | ヤツがこの世界に何をした？この先、オレたちに何をもたらす？セフィロスの影でしかないのかもしれねえんだぞ…… |
+| 302 | Is something wrong? | どうかしたかね？ |
+| 303 | No, nothin'. Nothin' at all, Doc. | いや……。何でもねえよ |
+| 304 | …Hope… | ……。希望か…… |
+| 305 | I guess that's all that's left now… | たしかにいま、オレたちに残されてるのは、そいつだけかもしれねえなあ…… |
+| 306 | Hmm, I know he'll recover! CLOUD was a strong member of SOLDIER. | うん、きっとよくなるよね！強いソルジャーだもの、CLOUD |
+| 307 | Yeah, that's right. Besides, WE'RE here for him. He's gotta get better! | そうだよね。アタシたちがついてんだもん。きっと元気になるよね！ |
+| 308 | Yeah! I know CLOUD'll get better! | ほんま、そうや。CLOUDさん、元気になるわ！ほんまに…… |
+| 309 | With friends like us worrying about him He'll pull through. | こないに心配してくれはるおともだちが、ようさんおるんやおちおちねとられへんて |
+| 310 | You okay? | もういいのか？ |
+| 311 | Are you all right, TIFA? | だいじょうぶ、TIFA？ |
+| 312 | You okay, TIFA? | オッケーなの、TIFA？ |
+| 313 | You all right? | だいじょうぶなんですか？ |
+| 314 | Yes… I'm sorry to worry you all. | ええ……。 心配かけて、ごめんなさい。 |
+| 315 | There's something I want to say to you… | それで……ちょっとみんなに話があるんだけど…… |
+| 316 | Corel! | コレルだと～！！ |
+| 317 | What else can they do to Corel!? | これ以上コレルをどうしようってんだ！ |
+| 318 | And the Huge Materia… | それにヒュージマテリア…… |
+| 319 | You mean the Huge Materia, don't you? I've heard about it. | 大きなマテリアのことでしょ？オイラ、聞いたことがあるんだ |
+| 320 | When our small Materia nears the larger one, there should be some reaction. | えっと、オイラたちの小さなマテリアを大きなマテリアに近づけると何かがおこるはずだよ、きっと |
+| 321 | I'm certain of it. That's why we're using the Materia power in our fight… | だからオイラたちがマテリアの力を借りて戦いを続けるのなら…… |
+| 322 | Can't let Shinra get a hold of the Huge Materia! | ヒュージマテリアを神羅に渡すわけにはいかねえ！ |
+| 323 | Besides, when CLOUD gets back, I wanna show him this Huge Materia. He's gonna be shocked. | それによ、CLOUDが帰ってきたらヒュージマテリア見せてよびっくりさせてやろうぜ |
+| 324 | So, what are you saying, BARRET? | なぁ～んや、BARRETさん |
+| 325 | Even though you're always knocking him, you really want CLOUD to return. | なんやかんや、言うてもCLOUDさんが帰ってきはったらええなと思ってはるんや |
+| 326 | I ain't sayin' nothin' 'bout nothin'. So just…shut your face! | いいじゃねえか、そんなことはよ。それより、なんだ…… |
+| 327 | Every group's gotta have a leader. | 団体行動にはリーダーが必要だ |
+| 328 | An' that's me! | リーダーはオレだ！ |
+| 329 | Or at least I wanna be… But I ain't cut out to be no leader. | そう言いてえところだがオレはリーダーには向いてねえ |
+| 330 | I never knew that till lately. | 最近気づいたんだけどよ |
+| 331 | That's what it is. | んなわけでよ…… |
+| 332 | …ZZZZ…hmph? | ＺＺＺＺ……？ |
+| 333 | Wha? What's goin' on? | おっ！？　な、なんでい！ |
+| 334 | You been chosen to be the new leader. | あんたがリーダーに決まった |
+| 335 | Pain in the ass. Forget it. | そんな面倒なことはイヤだぜ |
+| 336 | But for us to fight, we gotta have Highwind, and you. | これからの戦いにはあんたと、あんたのこの飛空艇ハイウインドが必要なんだ |
+| 337 | We need it to save the Planet. An' who's runnin' this ship? You! | これは星を救う船だぜ。その大切な船を仕切ってるのは誰だ？あんただろ？ |
+| 338 | That's why you're our new leader. Ain't no one else can do it. | だからオレたちのリーダーはCID、あんたしか考えられねえ |
+| 339 | Hmm…this ship's gonna save the Planet, huh? Ain't that gonna be just a little tough? | へ……星を救う船か。……ちょっと熱いじゃねえか |
+| 340 | Oh man, stab me in the heart. | 今のはハートにズンと来たぜ |
+| 341 | I'm a man, too! | オレ様も男だ！ |
+| 342 | Okay, I'll do it! Everyone, follow me! | やったろうじゃねえか！オレ様についてきやがれ！ |
+| 343 | Alright, now here's the first job. | というわけで最初の仕事だ |
+| 344 | The Operation Room's waiting for you! | オペレーション・ルームがあんたを待ってるぜ！ |
+| 345 | As soon as we're ready, we'll head for the Corel reactor. | 準備ができしだいコレル魔晄炉へ出発だ！ |
+| 346 | Hurry, CID! | 急げ、CID！ |
+| 347 | Pilot in training (LV5) | 見習いパイロット（ＬＶ５） |
+| 348 | Eaggggghh! Congrats' on becoming our leader, Cap'n! | あわわわわ！艇長、リーダー就任おめでとうさんです！ |
+| 349 | Yaaah! Are we taking off? | あわわ！　いくですか？ |
+| 350 | Eagggggh! We're taking off now! | あわわ！　いくで～す！ |
+| 351 | Hey… | あのよぅ |
+| 352 | It's tough being the leader. | リーダーってのはつかれるよなぁ |
+| 353 | CLOUD did a great job. Sheesh… | CLOUDはよくやってたぜ。まったくよう…… |
+| 354 | Shall we go to Mideel to check on things? | ミディールに様子でも見に行くかあ？ |
+| 355 | I wonder how CLOUD's doing. | CLOUD……どうしてるかな？ |
+| 356 | I wonder if TIFA needs a break… | TIFA、つかれてないかな？ |
+| 357 | I could look after him instead. | オイラ、看病かわってもいいな |
+| 358 | Well, let's see… What's a good place to head to? | ええっと……どこへ行けばいいんだ？ |
+| 359 | Corel? Fort Condor? | コレルかぁ？コンドルフォートかぁ？ |
+| 360 | Where shall we go next? Shall we head for the Corel reactor? | お次はなんだ？コレルの魔晄炉だったかぁ？ |
+| 361 | What's next? Shall we head for Fort Condor? | お次はなんだ？コンドルフォートだったかぁ？ |
+| 362 | Pilot in training (LV6) | 見習いパイロット（ＬＶ６） |
+| 363 | Yaah! Shall we take off? | あわ！　いくですか？ |
+| 364 | Yaah! We're taking off! | あわ！　いきま～す！ |
+| 365 | What's that sad face for? | な～にシケた顔してるんだぁ？ |
+| 366 | What? Does CLOUD always gotta be around? We did fine without him in the beginning… | CLOUDがいなくちゃダメかよ……最初はあいつ無しでやってきたじゃねえか…… |
+| 367 | Right? An' what happened to the tough girl I used to know? Where'd she go to? | ん？　強いTIFAさんはどこに行っちまったんだぁ？ |
+| 368 | Whenever I think of CLOUD, everything gets all jumbled up. | オレはよう、CLOUDのこと考えるとワケがわかんなくなっちまうんだ |
+| 369 | No matter how powerful Shinra or Hojo is, I can't believe they can create humans. | いくら神羅や宝条でもよ人間をつくっちまうなんて信じられねえしな |
+| 370 | But because of them, we know that Meteor is heading towards us. | でも、あいつのせいでメテオが来ちまうのは確かだ…… |
+| 371 | Y'know, even if I saw him, I don't have a damn idea what I'd do. | はっきり言って、あいつに会ってもどうしたらいいのか、わかんねえぜ…… |
+| 372 | Yo, Leader-man! Get your pilot ass up here! | リーダーさんよ！　急いでくれ！ |
+| 373 | Leader-man? What's next!? | ん～？　リーダーさん、次はどうするよっ！ |
+| 374 | Yo, wanna see what TIFA and the gang are doing? | おい、ちらっとTIFAたちの様子でも見にいかねえか？ |
+| 375 | Cheer up, TIFA… | 元気だしてよ、TIFA…… |
+| 376 | There appears to be a small island near the Lifestream…… | ライフストリームに近い場所……小さな島があるらしいんだ |
+| 377 | They said the Lifestream sometimes suddenly gushes out at the Southern island. | 南の島で、ときどきライフストリームがブワーッてふきだしたりするんだって |
+| 378 | I remember hearing about this from Seto when I was a child, but I don't remember much else… | うんと小さいころ、セトに聞いたんだけどよく覚えてないんだ…… |
+| 379 | I'm sorry…TIFA. | ごめんね……TIFA |
+| 380 | We'll do our best for CLOUD and you. | CLOUDとTIFAのぶんもオイラ、がんばるからね |
+| 381 | …And AERIS, too. | …………AERISのぶんもね |
+| 382 | CID. | ね、CID |
+| 383 | Let's visit CLOUD and TIFA from time to time. | 時々CLOUDとTIFAに会いに行こうね |
+| 384 | I wonder how TIFA and CLOUD…are doing. | TIFAとCLOUD……どうしてるかな？ |
+| 385 | TIFA. | TIFAさん |
+| 386 | You saw him slapping Scarlet around? | スカーレットのほっぺたバシバシしばいてましたやろ？ |
+| 387 | Yeah, he did a good job, too. It felt good just watching. | いや、よ～やってくれました。すか～っとしましたわ |
+| 388 | Let's never forget that spirit, and give it our all! | あの元気をず～と、忘れんようにがんばりましょうや！ |
+| 389 | TIFA, I'll give you info on Shinra. | TIFAさん、ボク、いろいろと神羅の情報を流しますからね |
+| 390 | Ask me if there's anything you don't understand. | わからんことがあったらボクに聞いて下さいな |
+| 391 | Everything appears calm right now at Shinra. | 神羅の動きは特にありませんわ |
+| 392 | So now's the time to look for CLOUD. I'm worried about him, too. | 今のうちにCLOUDさん、探しましょ。ボクも気になりますのや |
+| 393 | I wonder where CLOUD is. Or could he already be… | あの人、どこにおるのやろなぁ？それとも、もう…… |
+| 394 | TIFA… Do you think it's a good idea for me to quit Shinra? | TIFAさん……ボクは、神羅やめた方がええんでしょうかねぇ？ |
+| 395 | Oh, I'm sorry. | あ、す、すんません |
+| 396 | TIFA, there's no way I can quit right now… | TIFAさん、それどころやあらへんもんなぁ…… |
+| 397 | CID, I'm expecting big things from you | CIDさん、期待してますで～ |
+| 398 | CID, you're tired, huh? | CIDさん、つかれてますなぁ |
+| 399 | I'd like to change places with you, but I'm in charge of information, so I can't. Sorry. | 代わってあげたいんやけどボク、情報係ですから、すんませんなぁ |
+| 400 | Hmmn, the Huge Materia is at Corel, Fort Condor, and… | ええと、ヒュージマテリアはコレル、コンドルフォート…… |
+| 401 | I'm sure there was another place that had it. Where was that…? | 他にもまだあったような気がしますけど、どこやったかなぁ…… |
+| 402 | Shinra's…stopped. | 神羅の動き……止まりましたで |
+| 403 | Now we've got to be careful. I know Heidegger and his gang are plotting something. | でも、こういう時は要注意ですのや。ハイデッカーたちがなんか考えてるにちがいまへんわ |
+| 404 | …So glad you're all right, TIFA. | ……無事で良かったな、TIFA |
+| 405 | Too much hope is the opposite of despair. | ふくらみすぎた希望は絶望の裏返し |
+| 406 | An overpowering love may consume you in the end. | 大きすぎる愛はおまえを打ちのめすことになるかもしれない…… |
+| 407 | CID…I wish I had your go-get-them attitude. | CID……あんたのその熱さがうらやましいよ |
+| 408 | It appears my feelings vanished into thin air ever since my long slumber…. | 私の心は長い眠りのうちにとけてなくなってしまったようだからな…… |
+| 409 | …Don't expect me to do anything other than fight beside you. | ……戦闘以外で私に何かを期待するな |
+| 410 | I have no words of comfort. Of course, I don't believe you're the type who needs the kindness from others… | ねぎらいの言葉すら、私は知らない。もっとも、あんたは他人の優しさにすがるような人間ではなさそうだが…… |
+| 411 | You look really tired, maybe you're ready to give up being leader? | ずいぶんつかれているようだがそろそろリーダーをおりるのかな？ |
+| 412 | No use singing the blues, baby. The best thing to do is to keep movin'. | 落ちこんでてもしょうがねえぞ、ネエちゃん。とにかくいろいろ動きまわるこったぜ |
+| 413 | Whenever anyone talks to me, I get all nervous and mess things up! | あ、あの、話しかけられるとドキドキしちゃって仕事しくじっちゃいます |
+| 414 | Hey you! What the hell are you doin'!? | オラッ！　なにやってんだよ！ |
+| 415 | Good day, Captain! | 艇長！　ごくろうさまです！ |
+| 416 | All we have to do is just pilot. They don't have to talk to us. | お、おれたち見てるだけでいいんです。話しかけてくれなくってもいいです |
+| 417 | Looks like you turned out to be the leader after all, Captain… | やっぱり艇長がリーダーじゃなくっちゃ……でっす！ |
+| 418 | Pilot in Training (LV7) | 見習いパイロット（ＬＶ７） |
+| 419 | Yaaah!  Shall we take off? | わ！　いくですか？ |
+| 420 | Man!  We're taking off! | わ！　いきます！ |

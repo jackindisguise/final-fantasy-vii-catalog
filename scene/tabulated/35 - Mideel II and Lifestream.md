@@ -378,4 +378,3 @@
 | 376 | Well anyhow… Hey, you all look terrible. Why don't you rest up for a while? | [NOT FOUND] |
 | 377 | Oh great. Now I've got to find another job… I guess I might as well make my side job as an accessory seller into my regular job. | まいったねえ、こりゃ。また新しいつとめさきをさがさないと……いっそのこと、ないしょくのアクセサリー売りの方をほんしょくにしちゃおうかしら |
 | 378 | Well, since you're already here, why don't you buy something to take back with you? | さあ、あんたたちもせっかく来てくれたんだからなんか買ってっておくれよ |
-| 379 | Chocobos ignore humans who don't look like they'll give them greens. | チョコボは、好物の野菜をくれそうにない人間にはつめたかった。 |

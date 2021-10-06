@@ -198,8 +198,7 @@ CIDたちは、呪いの指輪を	CID and the others	呪指輪	scene_33
 チョコボは、マテリアをしまってしまった。	The chocobo put the Materia away.		scene_33
 あ～、ビックリした……！死んだかと思っちゃった！	Oh, you scared me…! I thought you were dead!	死思	scene_33
 ひゅ～、驚かしやがって。死んだかと思っちまったぜ！！	Sheesh, you scared me. I thought you croaked!!	驚死思	scene_33
-チョコボは、好物の野菜を	Chocobos ignore humans who	好物野菜	scene_33
-くれそうにない人間にはつめたかった。	don't look like they'll give them greens.	人間	scene_33
+チョコボは、好物の野菜をくれそうにない人間にはつめたかった。	Chocobos ignore humans who don't look like they'll give them greens.	好物野菜人間	scene_33
 ミディール　アイテム屋	Mideel Item Store	屋	scene_33
 なんでももうすぐあの巨大なお月さんが、降ってくるっていうじゃない？	So that overgrown moon's gonna fall on us, huh?	巨大月降	scene_33
 けっきょく世の中、お金と物よ！それさえあれば、いつだって……どこでだって、やってける！	When it all comes down to it, this world's about money and material things! If you got 'em, you can get by whenever, wherever!	世中金物	scene_33
