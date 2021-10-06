@@ -129,7 +129,7 @@
 | 127 | Received three "Tincture"! | 『エーテル』を３個手にいれた！ |
 | 128 | Received five "Potion"! | 『ハイポーション』を５個手にいれた！ |
 | 129 | Received three "Turbo Ether"! | 『エーテルターボ』を３個手にいれた！ |
-| 130 | Received three "Elixir"! | 『エクスポーション』を５個手にいれた！ |
+| 130 | Received three "X Potion"! | 『エクスポーション』を５個手にいれた！ |
 | 131 | Received three "Elixir"! | 『エリクサー』を３個手にいれた！ |
 | 132 | top of the mountain | 山の上 |
 | 133 | Received "Phoenix" Materia! | 『フェニックス』のマテリアを手にいれた！ |
