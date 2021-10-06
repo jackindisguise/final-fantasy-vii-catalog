@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.4.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.19...v2.4.0) (2021-10-06)
+
+
+### Features
+
+* Added `COMMIT.md` with rules about how to label changes. ([4d6f775](https://github.com/nowotato/final-fantasy-vii-catalog/commit/4d6f77536821c4f143d7602c034915154652b89a))
+
+
+### Bug Fixes
+
+* **scene:** Fixed translation error. ([474ac8c](https://github.com/nowotato/final-fantasy-vii-catalog/commit/474ac8c3eccf907ab468307886155813c91370e5)), closes [#99](https://github.com/nowotato/final-fantasy-vii-catalog/issues/99)
+* **spreadsheet:** Changed name of `spreadsheets` folder for consistency. ([0989e40](https://github.com/nowotato/final-fantasy-vii-catalog/commit/0989e401f8b1bc0780a136c5a74637445aeb7f1d))
+* Updated README. ([7a1640a](https://github.com/nowotato/final-fantasy-vii-catalog/commit/7a1640a9e6e9b219b70d3d2e8186b7d8c03406df))
+
 ### [2.3.19](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.18...v2.3.19) (2021-10-06)
 
 
