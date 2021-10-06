@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.18](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.17...v2.3.18) (2021-10-06)
+
+
+### Bug Fixes
+
+* **script:** Fixed a dozen formatting issues in Icicle Inn/Gaea's Cliff. ([ec764c8](https://github.com/nowotato/final-fantasy-vii-catalog/commit/ec764c8e457622cce8e8cb001c954d26557d9793)), closes [#95](https://github.com/nowotato/final-fantasy-vii-catalog/issues/95)
+* **script:** Fixed a few formatting issues in scene 31. ([9bdf933](https://github.com/nowotato/final-fantasy-vii-catalog/commit/9bdf933eae9684dc05a428a687f1e73cb6763188)), closes [#96](https://github.com/nowotato/final-fantasy-vii-catalog/issues/96)
+* **script:** Removed unnused/duplicate scene from Scene 29. ([be2103c](https://github.com/nowotato/final-fantasy-vii-catalog/commit/be2103cce6bbc62fddf3ee4b611b76a5f45c8be6)), closes [#94](https://github.com/nowotato/final-fantasy-vii-catalog/issues/94)
+* **script:** There was an unused line that, for some reason, was matched with a duplicate of a used line. ([0dbfa83](https://github.com/nowotato/final-fantasy-vii-catalog/commit/0dbfa8362c9663365dd2481c133622b1f3cd04f9))
+* **script:** Updates decks to match changes. ([16cf2a3](https://github.com/nowotato/final-fantasy-vii-catalog/commit/16cf2a3afcfb612c80e564dad9096e17ecc752b6)), closes [#93](https://github.com/nowotato/final-fantasy-vii-catalog/issues/93)
+
 ### [2.3.17](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.16...v2.3.17) (2021-10-04)
 
 
