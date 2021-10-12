@@ -228,89 +228,89 @@
 | 226 | Hmm… AERIS didn't have to come here. | そうか……AERISはここに来る必要はなかった |
 | 227 | She was able to find out all the information here. | この場所にある情報は全部知ることができたんだな |
 | 228 | What AERIS needed was that altar…and only that. | AERISに必要だったのはあの祭壇……あの場所だけ |
-| 229 | AERIS… | AERIS……何をするつもりだった？ |
-| 230 | AERIS… What were you planning to do? | 俺たち……どうしたらいい？ |
-| 231 | The Sleeping Forest awoke… | どうしたい！？ |
-| 232 | What's wrong!? | 怪電波です！ |
-| 233 | It's a strange signal! | どっからだ？ |
-| 234 | From where? | この……人（？）から出てます |
-| 235 | Hey! | ちょっと驚いてコントロールが乱れてしまいました |
-| 236 | That was a surprise, the controls went crazy. | しもたなぁ～…… |
-| 237 | This ain't good… | ウェポンが海から出てきてミッドガルにきよるんです |
-| 238 | Weapon came out of the sea and is heading straight for Midgar. | 新兵器でなんとかなるんだろ？ |
-| 239 | The new weapon should stop him, right? | 準備が間に合うかどうか…… |
-| 240 | I don't know if it's ready or not… | おい！　マリンはどうなるんだ！？ |
-| 241 | Hey! What's gonna happen to Marlene!? | マリンちゃんは安全な場所にいますわ。AERISさんのお母さんもいっしょです |
-| 242 | Doncha worry none, Marlene's in a safe place. She's with AERIS's mama. | BARRETさん！！ |
-| 243 | BARRET!! | なんですか、今の『ポリポリ』ってのは！ |
-| 244 | What was that scratching just now!? | マリンちゃんが安全やったらあとはどうなってもええんですか？ |
-| 245 | As long as Marlene is safe, who cares what else happens, right? | まえからアンタには言いたいと思とったんですわ！ |
-| 246 | I been itchin' to say this to you for a while now! | ミッドガルの壱番魔晄炉が爆発したとき何人死んだと思ってますのや？ |
-| 247 | When you blew up the Sec.1 reactor how many do you think died? | ……星の命のためだったんだ。多少の犠牲は仕方なかった |
-| 248 | …that was for the life of the Planet. Ya gotta expect a few casualties. | 多少？　多少ってなんやねんな？アンタにとっては多少でも死んだ人にとっては、それが全部なんやで…… |
-| 249 | A few? Whaddya mean 'a few'? What may be a few to you is everything to those who died… | 星の命を守る。はん！　確かに聞こえは、いいですな！ |
-| 250 | Protect the Planet. Hah! That sure sounds good! | そんなもん誰も反対しませんわ。せやからって、何してもええんですか？ |
-| 251 | And no one will go against you. So you think you can do whatever you want, right? | 神羅のやつにどうこう言われたかねえ…… |
-| 252 | I don't wanna hear that from no one in Shinra… | …………どうせ、ボクは…… |
-| 253 | Can't do anything about that… | やめろよ |
-| 254 | Stop it! | CAIT SITH……BARRETは、もう、わかってる |
-| 255 | CAIT SITH… BARRET, he knows what he did. | 私たちがミッドガルでやったことはどんな理由があってもけして許されない |
-| 256 | What we did in Midgar can't be forgotten no matter what the reason. | そうでしょ？　私たち、忘れたことないわよね？ |
-| 257 | Right? We haven't forgotten, right? | あなたのことだってわかるわ |
-| 258 | I know you. | あなたが会社をやめないのはミッドガルの人たちが心配だからよね？ |
-| 259 | …CLOUD? | ウェポンか…… |
-| 260 | Weapon? | よし！　行くぞ！俺たちの手でウェポンを倒してやる！ |
-| 261 | OK! Let's go! We'll beat Weapon ourselves! | CLOUDよう…… |
-| 262 | Hey CLOUD… | あんなバケモノに勝てるのか？少しは勝ち目ってのがあるんだろうな？ |
-| 263 | You think we can win against that monster? We got a chance of winnin', right? | そんなことはわからない！ |
-| 264 | How would I know? | しかし、だからと言って放ってはおけない！ |
-| 265 | But that's no reason for us to just let him go! | 【ミッドガル】へ行ってウェポンと戦うんだ！さあ、行くぞ！ |
-| 266 | We're goin' to Midgar and fight Weapon! Come on, let's move! | 神羅ビル・７０階 |
-| 267 | Rufus | ……というわけでリーブ君。魔晄炉の出力調整は君の仕事だ |
-| 268 | Scarlet | キャハハハハハ！調整なんていいわよ、リーブ |
-| 269 | Kya, hah, hah! Don't worry about adjusting it, Reeve. | 出力全開でガーーーーッと行くのよ！ |
-| 270 | Heidegger | ガハハハハ！それにしてもさすが社長！ |
-| 271 | Gya hah, hah, hah! The President's sure done it this time! | セフィロスを倒せばメテオも消えるとは目のつけどころが違いますな！ |
-| 272 | Scarlet | 社長、忘れないでおいてね |
-| 273 | If you remember, Mr. President | ミッドガルの魔晄炉の力で砲弾を飛ばすのは私のアイディアなんだから |
-| 274 | Rufus | 魔晄キャノンの砲弾は本当に北の果てまでとどくのだろうな |
-| 275 | Of course! | でも社長、魔晄キャノンなんて呼ばないで |
-| 276 | But Mr. President, let's not call it a Mako cannon. | この新兵器の名前は…… |
-| 277 | This new weapon is called… | シスター・レイよっ！ |
-| 278 | The Sister Ray! | じっちゃん！！ |
-| 279 | Bugenhagen | なんだ……ナナキか。まだこんなところに……いる……のか？ |
-| 280 | …Nanaki? …you're still…here? | じっちゃんをこのままにしてなんか行けないよ……！ |
-| 281 | I can't leave you like this, Grandfather! | この谷を、コスモキャニオンのみんなを守るのがオイラの……セトの息子の使命だ！ |
-| 282 | Bugenhagen | ……聞くのじゃ、ナナキ。もうおまえにもわかっておるじゃろう |
-| 283 | …listen, Nanaki. I think you may already know. | おまえに使命というものがあるとすれば、それはこの谷を守ることでは……ない |
-| 284 | Bugenhagen | 枯れてゆく山の木々を見ること。うまれくるチョコボのうぶごえを聞くこと |
-| 285 | Look at the withering mountain grass. Listen to the warble of the new born chocobo's. | 人間の一生などよりもはるかに長い時の流れをみつめつづけること |
-| 286 | Look always to the eternal flow of time which is far greater than the span of a human life. | それはこの谷に残っているよりずっと多くのことをおまえに教えるじゃろう…… |
-| 287 | It will teach you more, than staying here in the valley… | そして、おまえの見たものはやがてライフストリームの一部となりうけつがれていくんじゃ |
-| 288 | What you will see will eventually become a part of the Lifestream. | わしらのこどもたちに……おまえのこどもたちに…… |
-| 289 | For my children… And for your children… | だから、ナナキよ……CLOUDと行け……その目で……耳で…… |
-| 290 | So please, Nanaki… Go with CLOUD… And use your eyes…your ears… | ホーホー…… |
-| 291 | Ho Ho… | じっちゃん！？じっちゃん！！ |
-| 292 | Bugenhagen | ……ああ、そうそう。おまえにわたすものがあった |
-| 293 | …oh yes. This is for you. | トトト……おどかさないでよ、じっちゃん！ |
-| 294 | Bugenhagen | なに言うとるんじゃ。自分で勝手におどろいたくせに。ホラ、持っていくといい |
-| 295 | What? You surprised yourself. Now take this. | 『リミテッドムーン』を手にいれた！ |
-| 296 | Bugenhagen | ホーホー……ホウ。わしのことは心配するな。星の未来をみつめるのじゃ |
-| 297 | Bugenhagen | ホーホー……ホウ。おまえさんたち……か |
-| 298 | Ho Ho…Hoooo. You? | いやなに……ひさしぶりに外に出たんで……少しばかりはしゃぎすぎたかの |
-| 299 | It's been a while…since I've been out. I think I must have…tired myself out a bit. | ああ……ナナキには言わんでくれよ。あれはすぐ心配するから……の |
-| 300 | Bugenhagen | ホーホー……ホウ。ホレ……そんな顔するな。わしのことなら、だいじょうぶじゃよ |
-| 301 | Ho Ho…Hoooo. Now, now. Don't look like that. I'm all right. | 広い世界を見てくるんじゃ……もしかしたらホレ、カワイイガールフレンドが見つかるかもしれんしの？ |
-| 302 | Bugenhagen | そうそう……これを持っていくといい。今のおまえならよく……似合うじゃろ |
-| 303 | Grandfather… | RED XIII……ブーゲンハーゲンは…… |
-| 304 | … | ……じっちゃん、また旅にでるって！ |
-| 305 | Grandpa told me that he's going away again! | 旅……？ |
-| 306 | Away? | この前の飛空艇がよっぽど気に入ったらしいんだ |
-| 307 | It seems like he really liked that airship. | じっとしてられないってとびだしていっちゃったよ！ |
-| 308 | He told me he couldn't stay still and just zipped out of here! | オミヤゲまでもらったんだ、ホラ！ |
-| 309 | Received "Limited Moon"! | あれ？オミヤゲって帰ってきてからもらうんだよね？ |
-| 310 | Wait a minute. Aren't you supposed to give gifts AFTER you come back? | ハハハ、へんなじっちゃん！ハハハ……ハハ……ハ…… |
-| 311 | Ha ha…Grandpa sure is strange! Haa…ha ha…ha… | そうか……それじゃまた、どこかでヒョッコリ会うかもしれないな |
-| 312 | Hmm… Maybe we'll run into him again somewhere. | ウン……そう……そうだね…… |
-| 313 | Yeah… maybe… | ありがと、CLOUD…… |
-| 314 | Thanks, CLOUD… | undefined |
+| 229 | AERIS… What were you planning to do? | AERIS……何をするつもりだった？ |
+| 230 | What…are we supposed to do? | 俺たち……どうしたらいい？ |
+| 231 | What's wrong!? | どうしたい！？ |
+| 232 | It's a strange signal! | 怪電波です！ |
+| 233 | From where? | どっからだ？ |
+| 234 | It's coming from this…person (?) | この……人（？）から出てます |
+| 235 | That was a surprise, the controls went crazy. | ちょっと驚いてコントロールが乱れてしまいました |
+| 236 | This ain't good… | しもたなぁ～…… |
+| 237 | Weapon came out of the sea and is heading straight for Midgar. | ウェポンが海から出てきてミッドガルにきよるんです |
+| 238 | The new weapon should stop him, right? | 新兵器でなんとかなるんだろ？ |
+| 239 | I don't know if it's ready or not… | 準備が間に合うかどうか…… |
+| 240 | Hey! What's gonna happen to Marlene!? | おい！　マリンはどうなるんだ！？ |
+| 241 | Doncha worry none, Marlene's in a safe place. She's with AERIS's mama. | マリンちゃんは安全な場所にいますわ。AERISさんのお母さんもいっしょです |
+| 242 | BARRET!! | BARRETさん！！ |
+| 243 | What was that scratching just now!? | なんですか、今の『ポリポリ』ってのは！ |
+| 244 | As long as Marlene is safe, who cares what else happens, right? | マリンちゃんが安全やったらあとはどうなってもええんですか？ |
+| 245 | I been itchin' to say this to you for a while now! | まえからアンタには言いたいと思とったんですわ！ |
+| 246 | When you blew up the Sec.1 reactor how many do you think died? | ミッドガルの壱番魔晄炉が爆発したとき何人死んだと思ってますのや？ |
+| 247 | …that was for the life of the Planet. Ya gotta expect a few casualties. | ……星の命のためだったんだ。多少の犠牲は仕方なかった |
+| 248 | A few? Whaddya mean 'a few'? What may be a few to you is everything to those who died… | 多少？　多少ってなんやねんな？アンタにとっては多少でも死んだ人にとっては、それが全部なんやで…… |
+| 249 | Protect the Planet. Hah! That sure sounds good! | 星の命を守る。はん！　確かに聞こえは、いいですな！ |
+| 250 | And no one will go against you. So you think you can do whatever you want, right? | そんなもん誰も反対しませんわ。せやからって、何してもええんですか？ |
+| 251 | I don't wanna hear that from no one in Shinra… | 神羅のやつにどうこう言われたかねえ…… |
+| 252 | Can't do anything about that… | …………どうせ、ボクは…… |
+| 253 | Stop it! | やめろよ |
+| 254 | CAIT SITH… BARRET, he knows what he did. | CAIT SITH……BARRETは、もう、わかってる |
+| 255 | What we did in Midgar can't be forgotten no matter what the reason. | 私たちがミッドガルでやったことはどんな理由があってもけして許されない |
+| 256 | Right? We haven't forgotten, right? | そうでしょ？　私たち、忘れたことないわよね？ |
+| 257 | I know you. | あなたのことだってわかるわ |
+| 258 | You can't quit the company because you're worried about the people in Midgar, right? | あなたが会社をやめないのはミッドガルの人たちが心配だからよね？ |
+| 259 | Weapon? | ウェポンか…… |
+| 260 | OK! Let's go! We'll beat Weapon ourselves! | よし！　行くぞ！俺たちの手でウェポンを倒してやる！ |
+| 261 | Hey CLOUD… | CLOUDよう…… |
+| 262 | You think we can win against that monster? We got a chance of winnin', right? | あんなバケモノに勝てるのか？少しは勝ち目ってのがあるんだろうな？ |
+| 263 | How would I know? | そんなことはわからない！ |
+| 264 | But that's no reason for us to just let him go! | しかし、だからと言って放ってはおけない！ |
+| 265 | We're goin' to Midgar and fight Weapon! Come on, let's move! | 【ミッドガル】へ行ってウェポンと戦うんだ！さあ、行くぞ！ |
+| 266 | Shinra Building 70f | 神羅ビル・７０階 |
+| 267 | …Reeve. It's your job to adjust the reactor's output. | ……というわけでリーブ君。魔晄炉の出力調整は君の仕事だ |
+| 268 | Kya, hah, hah! Don't worry about adjusting it, Reeve. | キャハハハハハ！調整なんていいわよ、リーブ |
+| 269 | Once you open it up all the way everything will go full speed! | 出力全開でガーーーーッと行くのよ！ |
+| 270 | Gya hah, hah, hah! The President's sure done it this time! | ガハハハハ！それにしてもさすが社長！ |
+| 271 | The whole idea that Meteor will disappear if we defeat Sephiroth is all wrong! | セフィロスを倒せばメテオも消えるとは目のつけどころが違いますな！ |
+| 272 | If you remember, Mr. President | 社長、忘れないでおいてね |
+| 273 | It was my idea to fire Mako powered shells. | ミッドガルの魔晄炉の力で砲弾を飛ばすのは私のアイディアなんだから |
+| 274 | Will the shells really reach the northern border? | 魔晄キャノンの砲弾は本当に北の果てまでとどくのだろうな |
+| 275 | But Mr. President, let's not call it a Mako cannon. | でも社長、魔晄キャノンなんて呼ばないで |
+| 276 | This new weapon is called… | この新兵器の名前は…… |
+| 277 | The Sister Ray! | シスター・レイよっ！ |
+| 278 | Grandfather!! | じっちゃん！！ |
+| 279 | …Nanaki? …you're still…here? | なんだ……ナナキか。まだこんなところに……いる……のか？ |
+| 280 | I can't leave you like this, Grandfather! | じっちゃんをこのままにしてなんか行けないよ……！ |
+| 281 | It's the duty of… Seto's son, to guard this canyon and her people… | この谷を、コスモキャニオンのみんなを守るのがオイラの……セトの息子の使命だ！ |
+| 282 | …listen, Nanaki. I think you may already know. | ……聞くのじゃ、ナナキ。もうおまえにもわかっておるじゃろう |
+| 283 | If you have any mission in life, it is not to defend this valley. | おまえに使命というものがあるとすれば、それはこの谷を守ることでは……ない |
+| 284 | Look at the withering mountain grass. Listen to the warble of the new born chocobo's. | 枯れてゆく山の木々を見ること。うまれくるチョコボのうぶごえを聞くこと |
+| 285 | Look always to the eternal flow of time which is far greater than the span of a human life. | 人間の一生などよりもはるかに長い時の流れをみつめつづけること |
+| 286 | It will teach you more, than staying here in the valley… | それはこの谷に残っているよりずっと多くのことをおまえに教えるじゃろう…… |
+| 287 | What you will see will eventually become a part of the Lifestream. | そして、おまえの見たものはやがてライフストリームの一部となりうけつがれていくんじゃ |
+| 288 | For my children… And for your children… | わしらのこどもたちに……おまえのこどもたちに…… |
+| 289 | So please, Nanaki… Go with CLOUD… And use your eyes…your ears… | だから、ナナキよ……CLOUDと行け……その目で……耳で…… |
+| 290 | Ho Ho… | ホーホー…… |
+| 291 | Grandfather!? Grandfather!!! | じっちゃん！？じっちゃん！！ |
+| 292 | …oh yes. This is for you. | ……ああ、そうそう。おまえにわたすものがあった |
+| 293 | … Don't scare me like that, Grandfather! | トトト……おどかさないでよ、じっちゃん！ |
+| 294 | What? You surprised yourself. Now take this. | なに言うとるんじゃ。自分で勝手におどろいたくせに。ホラ、持っていくといい |
+| 295 | Received "Limited Moon"! | 『リミテッドムーン』を手にいれた！ |
+| 296 | Ho Ho…Hoooo. Do not worry about me. I'll be watching the future of the Planet. | ホーホー……ホウ。わしのことは心配するな。星の未来をみつめるのじゃ |
+| 297 | Ho Ho…Hoooo. You? | ホーホー……ホウ。おまえさんたち……か |
+| 298 | It's been a while…since I've been out. I think I must have…tired myself out a bit. | いやなに……ひさしぶりに外に出たんで……少しばかりはしゃぎすぎたかの |
+| 299 | Ahh…don't tell Nanaki. He'll only worry… | ああ……ナナキには言わんでくれよ。あれはすぐ心配するから……の |
+| 300 | Ho Ho…Hoooo. Now, now. Don't look like that. I'm all right. | ホーホー……ホウ。ホレ……そんな顔するな。わしのことなら、だいじょうぶじゃよ |
+| 301 | It's a big world and you must go out and see it… You may even find your life's mate. You never know. | 広い世界を見てくるんじゃ……もしかしたらホレ、カワイイガールフレンドが見つかるかもしれんしの？ |
+| 302 | Oh yes…take this along. I think it will look good on you now. | そうそう……これを持っていくといい。今のおまえならよく……似合うじゃろ |
+| 303 | RED XIII… Is Bugenhagen…? | RED XIII……ブーゲンハーゲンは…… |
+| 304 | Grandpa told me that he's going away again! | ……じっちゃん、また旅にでるって！ |
+| 305 | Away? | 旅……？ |
+| 306 | It seems like he really liked that airship. | この前の飛空艇がよっぽど気に入ったらしいんだ |
+| 307 | He told me he couldn't stay still and just zipped out of here! | じっとしてられないってとびだしていっちゃったよ！ |
+| 308 | He even gave me a gift, look! | オミヤゲまでもらったんだ、ホラ！ |
+| 309 | Wait a minute. Aren't you supposed to give gifts AFTER you come back? | あれ？オミヤゲって帰ってきてからもらうんだよね？ |
+| 310 | Ha ha…Grandpa sure is strange! Haa…ha ha…ha… | ハハハ、へんなじっちゃん！ハハハ……ハハ……ハ…… |
+| 311 | Hmm… Maybe we'll run into him again somewhere. | そうか……それじゃまた、どこかでヒョッコリ会うかもしれないな |
+| 312 | Yeah… maybe… | ウン……そう……そうだね…… |
+| 313 | Thanks, CLOUD… | ありがと、CLOUD……Bugenhagen |
+| 314 | Thanks, CLOUD… | ありがと、CLOUD…… |

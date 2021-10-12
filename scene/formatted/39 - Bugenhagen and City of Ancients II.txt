@@ -651,7 +651,893 @@ information here.”	全部知ることができたんだな」
 altar…and only that.”	あの祭壇……あの場所だけ」
 CLOUD	CLOUD
 “AERIS…	「AERIS……
-“AERIS…	
+What were you planning to do?”	何をするつもりだった？」
+CLOUD	CLOUD
+“What…are we supposed to do?”	「俺たち……どうしたらいい？」
+The Sleeping Forest awoke…	眠りの森がめざめた……
+CID	CID
+“What's wrong!?”	「どうしたい！？」
+“It's a strange signal!”	「怪電波です！」
+CID	CID
+“From where?”	「どっからだ？」
+“It's coming from this…person (?)”	「この……人（？）から出てます」
+CAIT SITH	CAIT SITH
+“Wow!”	「おっ！」
+CAIT SITH	CAIT SITH
+“Hey!”	「のわっ！」
+CAIT SITH	CAIT SITH
+“That was a surprise,	「ちょっと驚いて
+the controls went crazy.”	コントロールが乱れてしまいました」
+CAIT SITH	CAIT SITH
+“This ain't good…”	「しもたなぁ～……」
+CAIT SITH	CAIT SITH
+“Weapon came out of the sea and	「ウェポンが海から出てきて
+is heading straight for Midgar.”	ミッドガルにきよるんです」
+CLOUD	CLOUD
+“The new weapon should stop him, right?”	「新兵器でなんとかなるんだろ？」
+CAIT SITH	CAIT SITH
+“I don't know if it's ready or not…”	「準備が間に合うかどうか……」
+BARRET	BARRET
+“Hey! What's gonna happen to Marlene!?”	「おい！　マリンはどうなるんだ！？」
+CAIT SITH	CAIT SITH
+“Doncha worry none, Marlene's in a safe place.	「マリンちゃんは安全な場所にいますわ。
+She's with AERIS's mama.”	AERISさんのお母さんもいっしょです」
+CAIT SITH	CAIT SITH
+“BARRET!!”	「BARRETさん！！」
+CAIT SITH	CAIT SITH
+“What was that scratching just now!?”	「なんですか、今の『ポリポリ』ってのは！」
+“As long as Marlene is safe,	「マリンちゃんが安全やったら
+who cares what else happens, right?”	あとはどうなってもええんですか？」
+CAIT SITH	CAIT SITH
+“I been itchin' to say this	「まえからアンタには言いたいと
+to you for a while now!”	思とったんですわ！」
+CAIT SITH	CAIT SITH
+“When you blew up the Sec.1 reactor	「ミッドガルの壱番魔晄炉が爆発したとき
+how many do you think died?”	何人死んだと思ってますのや？」
+BARRET	BARRET
+“…that was for the life of the Planet.	「……星の命のためだったんだ。
+Ya gotta expect a few casualties.”	多少の犠牲は仕方なかった」
+CAIT SITH	CAIT SITH
+“A few? Whaddya mean 'a few'?	「多少？　多少ってなんやねんな？
+What may be a few to you	アンタにとっては多少でも
+is everything to those who died…”	死んだ人にとっては、それが全部なんやで……」
+CAIT SITH	CAIT SITH
+“Protect the Planet.	「星の命を守る。
+Hah! That sure sounds good!”	はん！　確かに聞こえは、いいですな！」
+“And no one will go against you.	「そんなもん誰も反対しませんわ。
+So you think you can do	せやからって、何してもええんですか？」
+whatever you want, right?”	
+BARRET	BARRET
+“I don't wanna hear that	「神羅のやつにどうこう言われたかねえ……」
+from no one in Shinra…”	
+CAIT SITH	CAIT SITH
+“Can't do anything about that…”	「…………どうせ、ボクは……」
+CLOUD	CLOUD
+“Stop it!”	「やめろよ」
+TIFA	TIFA
+“CAIT SITH…	「CAIT SITH……
+BARRET, he knows what he did.”	BARRETは、もう、わかってる」
+“What we did in Midgar can't be forgotten	「私たちがミッドガルでやったことは
+no matter what the reason.”	どんな理由があってもけして許されない」
+TIFA	TIFA
+“Right?	「そうでしょ？　私たち、忘れたことないわよね？」
+We haven't forgotten, right?”	
+TIFA	TIFA
+“I know you.”	「あなたのことだってわかるわ」
+“You can't quit the company because you're	「あなたが会社をやめないのは
+worried about the people in Midgar, right?”	ミッドガルの人たちが心配だからよね？」
+TIFA	TIFA
+“…CLOUD?”	「……CLOUD？」
+CLOUD	CLOUD
+“Weapon?”	「ウェポンか……」
+CLOUD	CLOUD
+“OK! Let's go!	「よし！　行くぞ！
+We'll beat Weapon ourselves!”	俺たちの手でウェポンを倒してやる！」
+CID	CID
+“Hey CLOUD…”	「CLOUDよう……」
+“You think we can win against that monster?	「あんなバケモノに勝てるのか？
+We got a chance of winnin', right?”	少しは勝ち目ってのが
+	あるんだろうな？」
+CLOUD	CLOUD
+“How would I know?”	「そんなことはわからない！」
+“But that's no reason for us	「しかし、だからと言って
+to just let him go!”	放ってはおけない！」
+“We're goin' to Midgar and fight Weapon!	「【ミッドガル】へ行ってウェポンと戦うんだ！
+Come on, let's move!”	さあ、行くぞ！」
+Shinra Building 70f	神羅ビル・７０階
+Rufus	ルーファウス
+“…Reeve.	「……というわけでリーブ君。
+It's your job to adjust	魔晄炉の出力調整は君の仕事だ」
+the reactor's output.”	
+Reeve	リーブ
+“I see…”	「はぁ……」
+Scarlet	スカーレット
+“Kya, hah, hah!	「キャハハハハハ！
+Don't worry about adjusting it, Reeve.”	調整なんていいわよ、リーブ」
+“Once you open it up all the way	「出力全開でガーーーーッと行くのよ！」
+everything will go full speed!”	
+Heidegger	ハイデッカー
+“Gya hah, hah, hah!	「ガハハハハ！
+The President's sure done it this time!”	それにしてもさすが社長！」
+“The whole idea that Meteor will	「セフィロスを倒せば
+disappear if we defeat Sephiroth	メテオも消えるとは
+is all wrong!”	目のつけどころが違いますな！」
+Scarlet	スカーレット
+“If you remember, Mr. President”	「社長、忘れないでおいてね」
+“It was my idea to fire	「ミッドガルの魔晄炉の力で
+Mako powered shells.”	砲弾を飛ばすのは
+	私のアイディアなんだから」
+Rufus	ルーファウス
+“Will the shells really reach	「魔晄キャノンの砲弾は
+the northern border?”	本当に北の果てまで
+	とどくのだろうな」
+Scarlet	スカーレット
+“Kya, hah hah!”	「キャハハハハ！」
+“Of course!”	「もっちろん！」
+“But Mr. President,	「でも社長、魔晄キャノンなんて
+let's not call it a Mako cannon.”	呼ばないで」
+“This new weapon is called…”	「この新兵器の名前は……」
+“The Sister Ray!”	「シスター・レイよっ！」
+RED XIII	RED XIII
+“Grandfather!!”	「じっちゃん！！」
+Bugenhagen	ブーゲンハーゲン
+“…Nanaki?	「なんだ……ナナキか。
+…you're still…here?”	まだこんなところに……
+	いる……のか？」
+RED XIII	RED XIII
+“I can't leave you like this,	「じっちゃんをこのままに
+Grandfather!”	してなんか行けないよ……！」
+“It's the duty of…	「この谷を、コスモキャニオンの
+Seto's son, to guard this	みんなを守るのがオイラの……
+canyon and her people…”	セトの息子の使命だ！」
+Bugenhagen	ブーゲンハーゲン
+“…listen, Nanaki.	「……聞くのじゃ、ナナキ。
+I think you may already know.”	もうおまえにもわかっておるじゃろう」
+“If you have any mission in life,	「おまえに使命というものが
+it is not to defend this valley.”	あるとすれば、それはこの谷を
+	守ることでは……ない」
+Bugenhagen	ブーゲンハーゲン
+“Look at the withering mountain grass.	「枯れてゆく山の木々を見ること。
+Listen to the warble of	うまれくるチョコボのうぶごえを
+the new born chocobo's.”	聞くこと」
+“Look always to the eternal flow of time	「人間の一生などよりも
+which is far greater than	はるかに長い時の流れを
+the span of a human life.”	みつめつづけること」
+“It will teach you more,	「それはこの谷に残っているより
+than staying here in the valley…”	ずっと多くのことを
+	おまえに教えるじゃろう……」
+“What you will see will eventually	「そして、おまえの見たものはやがて
+become a part of the Lifestream.”	ライフストリームの一部となり
+	うけつがれていくんじゃ」
+“For my children…	「わしらのこどもたちに……
+And for your children…”	おまえのこどもたちに……」
+“So please, Nanaki…	「だから、ナナキよ……
+Go with CLOUD…	CLOUDと行け……
+And use your eyes…your ears…”	その目で……耳で……」
+“Ho Ho…”	「ホーホー……」
+RED XIII	RED XIII
+“Grandfather!?	「じっちゃん！？
+Grandfather!!!”	じっちゃん！！」
+Bugenhagen	ブーゲンハーゲン
+“…oh yes.	「……ああ、そうそう。
+This is for you.”	おまえにわたすものがあった」
+RED XIII	RED XIII
+“…	「トトト……
+Don't scare me like that, Grandfather!”	おどかさないでよ、じっちゃん！」
+Bugenhagen	ブーゲンハーゲン
+“What? You surprised yourself.	「なに言うとるんじゃ。
+Now take this.”	自分で勝手におどろいたくせに。
+	ホラ、持っていくといい」
+Received "Limited Moon"!	『リミテッドムーン』を手にいれた！
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho…Hoooo.	「ホーホー……ホウ。
+Do not worry about me.	わしのことは心配するな。
+I'll be watching the future of the Planet.”	星の未来をみつめるのじゃ」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho…Hoooo.	「ホーホー……ホウ。
+You?”	おまえさんたち……か」
+“It's been a while…since I've been out.	「いやなに……ひさしぶりに
+I think I must have…tired	外に出たんで……少しばかり
+myself out a bit.”	はしゃぎすぎたかの」
+“Ahh…don't tell Nanaki.	「ああ……ナナキには言わんでくれよ。
+He'll only worry…”	あれはすぐ心配するから……の」
+RED XIII	RED XIII
+“…”	「…………」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho…Hoooo.	「ホーホー……ホウ。
+Now, now. Don't look like that.	ホレ……そんな顔するな。
+I'm all right.”	わしのことなら、だいじょうぶじゃよ」
+“It's a big world and you must	「広い世界を見てくるんじゃ……
+go out and see it…	もしかしたらホレ、カワイイ
+You may even find your life's mate.	ガールフレンドが見つかるかも
+You never know.”	しれんしの？」
+Bugenhagen	ブーゲンハーゲン
+“Oh yes…take this along.	「そうそう……これを持っていくといい。
+I think it will look good on you now.”	今のおまえならよく……似合うじゃろ」
+RED XIII	RED XIII
+“Grandfather…”	「じっちゃん……」
+CLOUD	CLOUD
+“RED XIII…	「RED XIII……
+Is Bugenhagen…?”	ブーゲンハーゲンは……」
+RED XIII	RED XIII
+“…”	「…………」
+“Grandpa told me	「……じっちゃん、また旅にでるって！」
+that he's going away again!”	
+CLOUD	CLOUD
+“Away?”	「旅……？」
+RED XIII	RED XIII
+“It seems like he really liked	「この前の飛空艇がよっぽど
+that airship.”	気に入ったらしいんだ」
+“He told me he couldn't stay still	「じっとしてられないって
+and just zipped out of here!”	とびだしていっちゃったよ！」
+“He even gave me a gift,	「オミヤゲまで
+look!”	もらったんだ、ホラ！」
+Received "Limited Moon"!	『リミテッドムーン』を手にいれた！
+RED XIII	RED XIII
+“Wait a minute. Aren't you supposed	「あれ？オミヤゲって
+to give gifts AFTER you come back?”	帰ってきてからもらうんだよね？」
+“Ha ha…Grandpa sure is strange!	「ハハハ、へんなじっちゃん！
+Haa…ha ha…ha…”	ハハハ……ハハ……ハ……」
+CLOUD	CLOUD
+“Hmm…	「そうか……
+Maybe we'll run	それじゃまた、どこかで
+into him again somewhere.”	ヒョッコリ会うかもしれないな」
+RED XIII	RED XIII
+“Yeah…	「ウン……
+maybe…”	そう……そうだね……」
+“Thanks, CLOUD…”	「ありがと、CLOUD……」Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hoooo.	「ホーホーホウ。
+If you ever are in need of my wisdom,	わしの知識が必要になったら
+you are always welcome here.”	いつでも歓迎じゃ」
+CLOUD	CLOUD
+“Yeah, that's why we came.”	「ああ、だから来たんだ」
+Bugenhagen	ブーゲンハーゲン
+“What to do? Have you lost your way?	「どうしたらよいか……道を見失ったか？
+When that happens, we each have to	そういう時はおのおの
+take a good long look at ourselves.”	自分を静かにみつめるのじゃ」
+“There's always something in the deepest	「何か忘れているものが……
+reaches of our hearts.	何か心の奥にひっかかっているものが
+Something buried,	あるはずじゃ」
+or something forgotten.”	
+“Remember it…	「それを思いだせ……
+Whatever that is, must certainly be	きっとそれがあんたたちの
+what you are all looking for…”	さがしているものじゃ……」
+CLOUD	CLOUD
+“That's easy enough to say…	「そんなこと言われても……
+But, I can't remember a thing.”	思いだせない」
+Bugenhagen	ブーゲンハーゲン
+“It must be there.	「きっとあるはずじゃ。
+Look harder!”	よく心を見ろ！」
+BARRET	BARRET
+“This ain't no good with just us!	「だめだ、オレたちだけじゃ！
+CLOUD, we gotta	CLOUD、他の連中にも
+get some others in here.”	来てもらおうぜ」
+TIFA	TIFA
+“…no good. CLOUD,	「……ダメ。ねえCLOUD。
+let's have the others come.”	みんなにも来てもらいましょう」
+RED XIII	RED XIII
+“nghh…no good. We alone cannot do it.	「ん～……ダメだ。オイラたちだけじゃ。
+We need to have the others here.”	みんなにも来てもらおうよ」
+CID	CID
+“Ahh, no good.	「あ～ダメだダメだ！
+CLOUD you call	CLOUD、他のやつらも
+the others in here too!”	呼んでみろよ」
+YUFFIE	YUFFIE
+“You expect me to do that?	「そんなの、アタシに
+Let the others do it!”	わかるわけないじゃん！
+	他の連中にまかせたよ！」
+CAIT SITH	CAIT SITH
+“How about it, CLOUD?	「CLOUDさん、どうやろ
+Shouldn't we have the others come?”	みなさんにも来てもらうってのは？」
+VINCENT	VINCENT
+“I don't know,	「どうかなCLOUD。
+CLOUD.	ここは全員に来てもらったほうが
+I think we should have everyone here.”	いいと思うが……」
+Bugenhagen	ブーゲンハーゲン
+“Do you see it?	「どうじゃ、さがしものは
+What is it that you are searching for?”	見えてきたかの？」
+CAIT SITH	CAIT SITH
+“Nope. Not a thing.	「いやぁ～、サッパリですわ」
+Naw. Can't come up with a thing.”	
+YUFFIE	YUFFIE
+“Me either! I don't get any of this!”	「アタシも！　ぜんぜんわかんない！」
+CLOUD	CLOUD
+“I remember	「俺は……AERISのことを
+AERIS a lot.”	思いだしてた」
+“No…not that.	「いや……そうじゃない。
+You haven't remembered.	思いだしたんじゃない。
+You haven't forgotten.	忘れていたんじゃない。
+That's not it…”	そんなのじゃなくて……」
+“How would you say…	「なんていうか……
+AERIS was right	AERISは、そこにいたんだ。
+there all along. Right by our side.”	いつも、俺たちのそばに」
+“She was so close, we couldn't see her.	「あまりに近すぎて、見えなかった。
+What AERIS did…	AERISのしたこと……
+The words she left behind…”	AERISの残した言葉……」
+TIFA	TIFA
+“That reminds me…	「そう言えば……
+I was the same.”	私も……そうだった」
+RED XIII	RED XIII
+“…as was I.”	「……オイラも」
+BARRET	BARRET
+“Me too…”	「オレもさ……」
+CLOUD	CLOUD
+“She said she was the only one who	「セフィロスのメテオを
+could stop Sephiroth's Meteor.”	止めることができるのは
+	自分だけだと言っていた」
+TIFA	TIFA
+“But AERIS	「……でも、AERISは
+is gone.”	もういない」
+RED XIII	RED XIII
+“Is it impossible for us to carry on…	「AERISがやろうとしたこと……
+what AERIS tried to accomplish?”	オイラたちには無理なのかな？」
+BARRET	BARRET
+“We ain't no Ancients,	「オレたちゃ
+if that's what ya mean.”	古代種じゃねえからな」
+CID	CID
+“What? Did that girl	「だいたい、何だって
+go off to that place?”	あのネエちゃんは
+	あんな場所へ行ったんだ？」
+CLOUD	CLOUD
+“That's it!!”	「そうだ！！」
+CID	CID
+“What's it?”	「な、なんでい」
+CLOUD	CLOUD
+“Of course, CID!”	「そうなんだ、CID」
+CLOUD	CLOUD
+“We don't know about it.”	「俺たちは
+	そんなことも知らないんだ」
+“What did	「AERISは何を
+AERIS know?”	していたんだ？」
+“Why did she face Sephiroth	「なぜ逃げもせずに
+without running away?”	セフィロスに……」
+RED XIII	RED XIII
+“I see…	「そうか……
+She returned there once again, correct?”	あの場所にもう一度、だね？」
+Bugenhagen	ブーゲンハーゲン
+“Hmmm.	「ホーホウホウ。
+Perhaps I'll have you take me there.”	わしも乗せていってもらおうかのう」
+RED XIII	RED XIII
+“You're going too?”	「じじ、じっちゃんも！？」
+Bugenhagen	ブーゲンハーゲン
+“What's so surprising	「なにもそんなに
+about that?”	驚かんでもいいじゃろ……」
+“Even I like to get out from time to time	「わしだってたまには
+and see the outside world.	外の世界に出てみたいんじゃ。
+I wonder what did it?	なぜかのう、こんな気持ちに
+I haven't felt like this in ages.”	なったのはひさしぶりじゃ……」
+RED XIII	RED XIII
+“It must be the planet.	「きっと星がさ、星がじっちゃん
+The planet is calling you!”	を呼んでるんだよ！」
+CID	CID
+“Yeah, hoo boy, the planet calling…alright.”	「ヘッ、星が呼んでるねえ」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hoooo.	「ホーホーホウ。
+Then let's go.”	さあ、行こうかの」
+CLOUD	CLOUD
+“Oh yeah, Bugenhagen.	「そうだ、ブーゲンハーゲン。
+I have one more thing I want to ask you.”	もうひとつ、頼みがある」
+“We're carrying around Huge Materia.	「俺たちの手元に
+This is pretty delicate stuff and we would	ヒュージマテリアってのがあるんだ。
+like to keep it in a safe place…”	デリケートなものだから
+	どこか静かな場所に……」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hoooo.	「ホーホーホウ。
+Then we'll put it upstairs.	それなら、この上がいいじゃろ。
+Now, shall we be on our way?”	どれ、さっそく行ってみるか」
+Bugenhagen	ブーゲンハーゲン
+“I'll teach you how to work the machine.	「キカイの動かし方を教えるから
+Watch carefully now.	ようく見ておくんじゃぞ。
+You just pull here…”	ここを、こうすると……」
+Bugenhagen	ブーゲンハーゲン
+“You are using Shinra Materia,	「神羅はマテリアを武器として
+as a weapon?”	使おうとしているのか？」
+“Materia is highly dense spiritual energy.	「マテリアは高密度な精神エネルギー。
+A shred of the Planet's life.	星のいのちのかけらじゃ。
+It should not be used as a weapon.”	武器になどするものではない」
+“We must stop using it…	「なんとかやめさせなければ……
+or the Planet will be weakened.”	ただでさえ星が弱っているのに……」
+Observatory	天文台
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hoooo.	「ホーホーホウ。
+Is this what you call	これがその
+Huge Materia?”	ヒュージマテリアか……
+“This is really rare	「これはまためずらしい
+Materia, indeed.”	マテリアじゃの」
+“Materia this rare is certain	「これほどのマテリアなら、
+to have a special consciousness	なにか特別な知識をひめて
+enclosed in it.”	いるかもしれんのう」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hoooo.	「ホーホーホウ。
+Good.	よしよし。
+Now let's leave.”	それじゃ出発するとしよう」
+“Do you remember how to use	「下のキカイの使いかたは
+the machine down below?	おぼえたな？
+If you ever want to see Materia,	マテリアが見たくなったら
+come here anytime.”	またいつでも来るといい」
+“The Huge Materia	「ヒュージマテリアは
+emitted a quiet glow.”	静かな輝きをはなっている……
+“The Huge Materia	「ヒュージマテリアは
+emitted a gentle glow.”	やさしい輝きをはなっている……
+“The Huge Materia	「ヒュージマテリアは
+emitted a fiery glow.”	燃えるような輝きをはなっている……
+“The Huge Materia	「ヒュージマテリアは
+emitted a cold glow.”	冷たい輝きをはなっている……」
+CLOUD	CLOUD
+“The color…is the same	「この色……コマンドマテリアと
+as command Materia.”	同じ色だ……」
+CLOUD	CLOUD
+“The color…is the same	「この色……まほうマテリアと
+as magic Materia.”	同じ色だ……」
+CLOUD	CLOUD
+“The color…is the same	「この色……しょうかんマテリアと
+as summoned Materia.”	同じ色だ……」
+CLOUD	CLOUD
+“Is that…	「今のは……
+Bahamut…?”	バハムート……？」
+	
+Command Materia Blend	【コマンドマテリアゆうごう】
+	
+Magic Materia Blend	【まほうマテリアゆうごう】
+	
+Summoned Materia Blend	【しょうかんマテリアゆうごう】
+	
+“Maximum level command Materia blends with	「ＭＡＸレベルのコマンドマテリア
+Steal Sense  Throw	【ぬすむ】【みやぶる】【なげる】
+Morph   Deathblow   Manipulate	【へんか】【ひっさつ】【あやつる】
+Mime”	【ものまね】をゆうごうします。」
+Maximum level Materia has been lost.	「ＭＡＸレベルの
+	コマンドマテリアはうしなわれ、」
+Received one "Master Command" Materia!	「【マスターコマンド】のマテリアを
+	ひとつ、手にいれます。」
+Perform Materia Blend?	「【マテリアゆうごう】を
+	おこないますか？」
+Yes	はい
+No	いいえ
+“All maximum level magic Materia	「すべてのＭＡＸレベルの
+will be blended.”	まほうマテリアをゆうごうします。」
+“Maximum level	「ＭＡＸレベルの
+Magic Materia has been lost.”	まほうマテリアはうしなわれ、
+“Received one	「【マスターまほう】のマテリアを
+Master Magic Materia!”	ひとつ、手にいれます。」
+“All maximum level summoned	「すべてのＭＡＸレベルの
+Materia will be blended.”	しょうかんマテリアをゆうごうします。」
+“Maximum level summoned	「ＭＡＸレベルの
+magic has been lost.”	しょうかんマテリアはうしなわれ、」
+“Received one	「【マスターしょうかん】のマテリアを
+Master Summon Materia!”	ひとつ、手にいれます。」
+“Bahamut,	「マテリア【バハムート】
+Neo Bahamut	マテリア【バハムート改】が
+Materia glows brightly.”	まぶしく輝きだす……」
+Received "Master Command" Materia!	「マスターコマンド」のマテリアを手にいれた！
+Received "Master Magic" Materia!	「マスターまほう」のマテリアを手にいれた！
+Received "Master Summon" Materia!	「マスターしょうかん」のマテリアを手にいれた！
+Received "Bahamut ZERO" Materia!	「バハムート零式」のマテリアを手にいれた！
+CLOUD	CLOUD
+Huge Materia…	「ヒュージマテリア……」
+“It is glowing strangely…”	「たしかに不思議なかがやきだ……」
+Get closer…	もっと近くで……
+Leave it alone	そっとしておくか
+Go back down	下にもどろう
+Bugenhagen	ブーゲンハーゲン
+“Hmm, hmm, hmm!”	「ホーホーホウ……」
+Bugenhagen	ブーゲンハーゲン
+“Smells like machinery.”	「機械のニオイじゃな」
+RED XIII	RED XIII
+“Just be patient, old man.”	「少しの間、ガマンしてよじっちゃん」
+Bugenhagen	ブーゲンハーゲン
+“I love this smell.”	「ワシはこのニオイが好きじゃ」
+“Of course, I also love	「もちろん自然のニオイも
+the smell of nature, too…”	好きなんじゃが……」
+Bugenhagen	ブーゲンハーゲン
+“Hmm? The deck's up there?”	「ん？　上は甲板かな？」
+Bugenhagen	ブーゲンハーゲン
+“Then I'll be on the deck	「では、ワシは甲板で時を
+just passing the time.”	すごさせてもらおうか」
+“I can feel the workings of the Planet	「風のニオイに星のいとなみを感じ
+in the smell of the wind.	機械のニオイに人間の知恵と知識の
+I also feel the greatness of Man's	素晴らしさを感じる……」
+wisdom and the knowledge	
+in the smell of machinery…”	
+“Well, bye for now.”	「ホーホーホウ、じゃな」
+RED XIII	RED XIII
+“Gramps…	「じっちゃん……
+Sometimes I don't know what	時々、よくわからないんだ」
+he's talking about.”	
+YUFFIE	YUFFIE
+“I know you're all dyin' to talk	「かわいいYUFFIEちゃんに
+to a babe like me!”	話しかけたい気持ちはわかるけどさ」
+“But just leave me alone.	「悪いんだけど、ほっといて。
+This ship makes me…urk…!!”	アタシはね、船は……ウップ！」
+Bugenhagen	ブーゲンハーゲン
+“I wonder where you're taking me?”	「ホーホーホウ。
+	どこへ連れていってくれるのかな？」
+Bugenhagen	ブーゲンハーゲン
+“Traveling is wonderful, isn't it?”	「ホーホーホウ。
+	旅はいいものじゃのう……」
+Bugenhagen	ブーゲンハーゲン
+“This is…”	「ここは……」
+Bugenhagen	ブーゲンハーゲン
+“Yes…exactly…”	「おお……たしかに……」
+CLOUD	CLOUD
+“Are you getting something?”	「何かわかりそうなのか？」
+Bugenhagen	ブーゲンハーゲン
+“…Give me a moment.”	「……ちと時間をくれんか？」
+Bugenhagen	ブーゲンハーゲン
+“The knowledge of the Ancients swirling around	「この部屋にうずまいている古代種の意識は
+here is telling me one thing.”	たったひとつのことをうったえているのじゃ」
+Bugenhagen	ブーゲンハーゲン
+“The Planet's in a crisis…”	「星の危機……」
+Bugenhagen	ブーゲンハーゲン
+“A crisis beyond human power or endless time.”	「もう人の力でも
+	終わりのない時間の力でも
+	どうしようもないほどの星の危機」
+“It says, when the time comes,	「そんな時がおとずれたら
+we must search for 'Holy'.”	ホーリーを求めよ、とな」
+CLOUD	CLOUD
+“Holy?”	「ホーリー？」
+Bugenhagen	ブーゲンハーゲン
+“Holy…the ultimate White Magic.	「究極の白魔法ホーリー……
+Magic that might stand against Meteor.	メテオと対をなす魔法じゃ。
+Perhaps our last hope to save	メテオから星を救い出す最後の望み」
+the Planet from Meteor.”	
+Bugenhagen	ブーゲンハーゲン
+“If a soul seeking Holy reaches the Planet,	「ホーリーを求める心が
+it will appear.”	星にとどけば、それは現れる」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hooo.”	「ホーホーホウ」
+“Meteor, Weapon,	「メテオもウェポンも
+everything will disappear.”	すべて消えてなくなるじゃろう」
+Bugenhagen	ブーゲンハーゲン
+“Perhaps, even ourselves.”	「もしかしたら、わしらもな」
+CLOUD	CLOUD
+“Even us!?”	「俺たちも！？」
+Bugenhagen	ブーゲンハーゲン
+“It is up to the Planet to decide.”	「それは星が決めることじゃ」
+Bugenhagen	ブーゲンハーゲン
+“What is best for the Planet.	「星にとって何が良いのか。
+What is bad for the Planet.”	星にとって何が悪いのか」
+“All that is bad will disappear.	「悪しきものは消えて無くなる。
+That is all.”	それだけのことじゃ」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hooo.”	「ホーホーホウ」
+“I wonder which we humans are?”	「わしら人間は、どっちかのう」
+CLOUD	CLOUD
+“Search for Holy…	「ホーリーを求める……
+How do we do it?”	それはどうやるんだ？」
+Bugenhagen	ブーゲンハーゲン
+“Speak to the Planet.”	「星に語りかけるのじゃ」
+“Get the White Materia… This	「白マテリアを身につけ……
+will bond the Planet to humans.”	これが星と人をつなぐのじゃな」
+“Then speak to the Planet.”	「そして星に語りかけるのじゃ」
+“If our wish reaches the Planet,	「ねがいが星にとどくと
+the White Materia will begin to glow	白マテリアがあわ～いグリーンに
+a pale green.”	輝くらしいのじゃ」
+CLOUD	CLOUD
+“…This is the end.”	「……終わりだ」
+CLOUD	CLOUD
+“AERIS had the White Materia…”	「白マテリアはAERISが
+	持っていた……」
+CLOUD	CLOUD
+“But when AERIS died, it fell from	「でも……
+the altar…”	AERISが死んでしまった時に
+	祭壇から落ちて……」
+CLOUD	CLOUD
+“That's why…this is the end.”	「だから……終わりだ」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hooo!”	「ホーホーホウ！」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hooo!”	「ホーホーホウ！」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hooo!”	「ホーホーホウ！」
+Bugenhagen	ブーゲンハーゲン
+“Look at this!”	「これを見るのじゃ！」
+CLOUD	CLOUD
+“!?”	「！？」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hooo…	「ホーホーホウ……
+the key…”	カギか……」
+“It is written about the key here…”	「カギのことならここに
+	かいてあるようじゃ……」
+Bugenhagen	ブーゲンハーゲン
+“Ancients' writing.”	「古代文字じゃ」
+CLOUD	CLOUD
+“Can you read it?”	「読めるのか？」
+BARRET	BARRET
+“Damn, dude, you're really somethin'”	「さすがだな」
+TIFA	TIFA
+“You're really something, Bugenhagen!!”	「さすが、ブーゲンハーゲンさん！！」
+RED XIII	RED XIII
+“Wow, grandpa!”	「すごいなじっちゃん！」
+CAIT SITH	CAIT SITH
+“Wow!”	「すごいですなぁ」
+CID	CID
+“Way to go, gramps!	「やるなジジイ！
+You're not just another old coot!”	だてに歳くってねえぜ！」
+VINCENT	VINCENT
+“I never expected to find a person who could	「この難解な文字を解読できる者が
+read and understand this difficult	今の時代にいるとはな」
+writing nowadays.”	
+YUFFIE	YUFFIE
+“Really?”	「ほんと？」
+Bugenhagen	ブーゲンハーゲン
+“It's all Greek to me!!”	「まったく読めん！！」
+CLOUD	CLOUD
+“This's no time for jokes…”	「こんな時に冗談は……」
+Bugenhagen	ブーゲンハーゲン
+“I'm not an Ancient.	「わしは古代種じゃない。
+I can't read this thing!”	こんなもん読めんわい！」
+Bugenhagen	ブーゲンハーゲン
+“I may be old, but my eyes aren't	「でもな、こんなおいぼれでも目は
+completely bad yet.	悪くなっておらん。よ～くその
+Look closely below the writing.”	文字の下を見てみろい」
+CLOUD	CLOUD
+“There's something written in chalk…	「チョークでメモがかきなぐってある……
+…(even sunlight can't reach)…(Key)”	……【日の光もとどかぬ】……【カギ】」
+Bugenhagen	ブーゲンハーゲン
+“It was probably written by a scientist	「きっとここを発見した学者が
+who's been here…	解読を試みたあとじゃ……
+He probably used all his energy	たった二つの単語を解読して
+to make out these two words.”	力つきたのじゃろう」
+CLOUD	CLOUD
+“So this note points to where the key is?”	「そのメモはカギのある場所を
+	しめしているんだな？」
+CLOUD	CLOUD
+“Key…?	「カギ……？
+To what?”	何のための？」
+Bugenhagen	ブーゲンハーゲン
+“I don't know…	「わからん……
+But, it probably has something to	しかし、きっとここの謎を解くための
+do with our riddle.”	何かなんじゃろう」
+“The riddle…then it must have something	「謎……それはやはりAERISに
+to do with AERIS.”	関係したことかもしれんのう」
+CLOUD	CLOUD
+“There's a note written in chalk…	「チョークでメモがかきなぐってある……
+…(key)…(in the Music Box)”	……【カギを】……【オルゴールに】」
+CLOUD	CLOUD
+“What does it mean?”	「どういうことなんだ？」
+Bugenhagen	ブーゲンハーゲン
+“That Music Box over there.	「あそこにあるのがオルゴールじゃよ。
+We'll put the key in it.”	あそこでカギを使うんじゃ」
+Bugenhagen	ブーゲンハーゲン
+“Probably…”	「たぶん……」
+“Use these words as clues	「さあ、その言葉をヒントに
+and go find the key.”	カギを探してこい」
+“I'll continue to figure out	「ワシはここで古代文字の
+the Ancients' writing.”	解読を続けよう」
+CLOUD	CLOUD
+“A place (Even sunlight won't reach) is	「【日の光もとどかぬ】場所に
+where the (key) is, right?”	【カギ】があるんだな？」
+Bugenhagen	ブーゲンハーゲン
+“When you find the key, or when you can't	「カギが見つかった時、あるいはどうしても
+go any further, come back here.”	いきづまった時にはここにもどってこい」
+“Maybe I'll understand more from the writing	「解読がすすみ新しい事実が判明している
+and get some new information for you.”	かもしれんからのう」
+Bugenhagen	ブーゲンハーゲン
+“Remember, a place (even sunlight can't	「【日の光もとどかぬ】場所に
+reach) is where the (key) is…”	【カギ】がある……
+	忘れるんじゃないぞ」
+Bugenhagen	ブーゲンハーゲン
+“(even sunlight can't reach)…	「【日の光もとどかぬ】……
+Hmm…if we're above ground,	うーん……地上にいるかぎりは
+the sunlight reaches everywhere…	日の光はどこにでもとどくのに……
+Then it's probably not above ground…”	地上じゃない？？」
+Bugenhagen	ブーゲンハーゲン
+“A place where sunlight doesn't reach…	「日の光がとどかない所……
+Right, it must be underwater!”	そうか、海のそこか！」
+CLOUD	CLOUD
+“Underwater?	「海のそこ？
+There's…no way…	それは……むちゃだ……
+We need a submarine…”	潜水監でもないかぎり……」
+CLOUD	CLOUD
+“Wait.	「待てよ。
+Submarine…I think there's one	潜水監……【ジュノンの港】にたしか……」
+at Junon Port.”	
+Bugenhagen	ブーゲンハーゲン
+“Oh! You've found it!”	「おお！　見つけたか！」
+Bugenhagen	ブーゲンハーゲン
+“I'll go use the key.	「わしがカギをさしてこよう。
+You all wait here.”	おまえたちはここにいるんじゃ」
+“And watch closely what happens.”	「そして何が起こるのかをしかと
+	見ておくんじゃ」
+Bugenhagen	ブーゲンハーゲン
+“Now, go inside.	「さあ、中にはいるのじゃ。
+Hope may be inside…	そこにあるのは希望か……
+Or…”	それとも……」
+Bugenhagen	ブーゲンハーゲン
+“This was just a screen to project an image!”	「ここはイメージを投影するスクリーンだったのじゃ！」
+“Look!	「見てみい！
+Look at the image	水のスクリーンにうつったイメージを！」
+projected on the screen of the water!”	
+CLOUD	CLOUD
+“…It's glowing.”	「……輝いている」
+Bugenhagen	ブーゲンハーゲン
+“Ho Ho Hooo!!	「ホーホーホウ！！
+It's pale green!!”	あわ～いグリーンじゃ！！」
+CLOUD	CLOUD
+“…AERIS.	「……AERIS。
+AERIS has already prayed	AERISはすでにホーリーを
+for Holy.”	となえていたんだ」
+“…After I gave up the Black Materia	「……俺がセフィロスに黒マテリアを
+to Sephiroth…	わたしてしまったあと……
+AERIS's words came into	夢の中のAERISの言葉……」
+my dreams…”	
+“She said, she was the only one who could	「セフィロスを止めることができるのは
+stop Sephiroth…	わたしだけ……その方法が、秘密が
+And to do that, there was a secret here…”	ここにある……そう言ってたんだ」
+“That was Holy…	「それがホーリー……
+That's why, she had the White Materia.	自分が持っている白マテリアの意味。
+AERIS knew about here…	白マテリアを自分が持っている意味。
+and what she had to do.”	自分がすべきこと……AERISはここで知った」
+“AERIS has left us great hope.	「AERISは俺たちに大きな希望を残してくれた。
+But, it cost her life…	けれども、それはAERISの命……
+her future…”	AERIS自身の未来とひきかえに……」
+CLOUD	CLOUD
+“I'm sorry…AERIS.	「ごめんよ……AERIS。
+I should have figured this out sooner.”	もっと早く気づいてあげられなくて」
+“…You left without saying a word…	「……一言も言葉をかわすことなく
+It was all so sudden, I couldn't think…”	俺たちの前からいなくなってしまったから……
+	突然だったから、俺は何も考えられなくて……」
+“That's why it took so long for me to find out…	「だから気づくのが遅れてしまった……
+But, AERIS…I understand now.”	でも、AERIS……俺、わかったよ」
+“AERIS…	「AERIS……
+I'll do the rest.”	あとは俺がなんとかする」
+TIFA	TIFA
+“You mean, WE…”	「俺・た・ち・でしょ……」
+BARRET	BARRET
+“That's 'WE'!”	「俺・た・ち・っていえよ！」
+RED XIII	RED XIII
+“WE'LL take care of it.”	「俺・た・ち・だよ」
+CID	CID
+“You &^$#%^!	「クソったれい！
+It's WE! WE!”	俺・た！ち！っだろ？俺たち！」
+CAIT SITH	CAIT SITH
+“It's WE! Isn't it WE?”	「俺やのうて
+	俺・た・ち・やろ？」
+VINCENT	VINCENT
+“I? …you mean WE.”	「俺？……
+	俺・た・ち・じゃないのか？」
+YUFFIE	YUFFIE
+“Not I, dorkus!	「俺じゃないでしょ！
+WE!”	俺・た・ち！」
+TIFA	TIFA
+“What AERIS left us…	「AERISが私たちに
+We shouldn't waste.”	残していってくれたもの……
+	むだにしちゃ、いけないね」
+BARRET	BARRET
+“The thing  AERIS left for us…	「AERISがオレたちに残してくれたもの……
+We gotta take care of it.”	むだにはできねえぜ」
+RED XIII	RED XIII
+“We can't waste what	「AERISが残してくれたもの……
+AERIS left for us.”	むだにしちゃいけないよね」
+CID	CID
+“The flower girl gave us a big chance…	「あの花売りのねえちゃんが置いてった
+It'd be sad if we didn't finish it!”	でっけえプレゼント……
+	ふうをといてやんねぇと悲しむぜい！」
+CAIT SITH	CAIT SITH
+“What AERIS left us…	「AERISさんが残してくれたモン……
+We mustn't let go to waste…”	ムダにしたらアカン」
+VINCENT	VINCENT
+“The hope she left us…	「大切な人が残してくれた希望……
+We must make stronger…”	それをはぐくむのが、私たちに
+	できるせいいっぱいのこと……」
+YUFFIE	YUFFIE
+“We've gotta take a chance on	「せっかく残してくれた希望……
+the hope she left us!”	それにかけてみなきゃねっ！」
+CLOUD	CLOUD
+“Thank you…AERIS.”	「ありがとう……AERIS」
+CLOUD	CLOUD
+“AERIS's voice has already reached	「AERISの声は星にとどいていた。
+the Planet.	それは白マテリアのかがやきを見ても
+Just look at the glow of	あきらかだ……」
+the White Materia.”	
+“But…how about Holy?	「でも……ホーリーは？
+How come Holy isn't moving?”	どうしてホーリーは動き出さない？」
+CLOUD	CLOUD
+“Why?”	「なぜだ？」
+Bugenhagen	ブーゲンハーゲン
+“Something's getting in its way.”	「邪魔しとるもんがいるんじゃよ」
+CLOUD	CLOUD
+“…Him…”	「…………あいつか……」
+“He's the only one that could do it.”	「あいつしか考えられないな」
+CLOUD	CLOUD
+“…Sephiroth.	「……セフィロス。
+Where are you?”	どこにいるんだ？」
+CAIT SITH	CAIT SITH
+“H…Hey!”	「ちょ、ちょっと！」
+CLOUD	CLOUD
+“What the?”	「なんだ？」
+CAIT SITH	CAIT SITH
+“…whisper…whisper…	「ヒソヒソ……
+(sorry	（すんません）
+I was a little surprised).”	（ちょっと、びっくりしたもんですから）」
+CLOUD	CLOUD
+“What happened?”	「どうした？」
+CAIT SITH	CAIT SITH
+“You remember when the Junon Cannon	「ジュノンのキャノンが
+disappeared?	のうなってたの覚えてますか？
+Actually, Rufus moved it.”	あれ、実はルーファウスが運んだんです」
+CAIT SITH	CAIT SITH
+“You remember when the Junon Cannon	「ジュノンのキャノンが
+disappeared?	のうなってたの覚えてますか？
+Actually, Rufus moved it.”	あれ、実はルーファウスが運んだんです」
+CLOUD	CLOUD
+“Moved it? That big thing?	「運んだって？　あんなデカイものを……？
+Where? Why?”	どこに……？　なぜ？」
+CAIT SITH	CAIT SITH
+“Rufus wants to destroy Sephiroth with it.”	「ルーファウスはあれでセフィロスを
+	倒すつもりなんですわ」
+CAIT SITH	CAIT SITH
+“That cannon operates on Huge Materia.	「あの大砲はヒュージマテリアの力で
+But the Huge Materia has already	動いてます。でもヒュージマテリアは
+been used in the Rocket Plan.”	ロケット作戦でつこてしもたから」
+“So since the cannon's useless right now,	「もうあの大砲はあのままやと
+he decided to move it.”	使い物にならんのですな。
+	せやから移動させたんです」
+CAIT SITH	CAIT SITH
+“To a place where Materia…	「マテリアの……いや魔晄の力が
+no, where Mako is gathered…”	最大限に集中できる場所に……」
+CLOUD	CLOUD
+“And, where is that!?”	「それで、それはどこなんだ！？」
+CLOUD	CLOUD
+“It's similar.”	「……似ている」
+CLOUD	CLOUD
+“I didn't notice it the last time I came.”	「前に来た時は気づかなかった……」
+CLOUD	CLOUD
+“This place…is similar to the inside	「ここは……
+of the Lifestream.”	ライフストリームの中に似ている」
+CLOUD	CLOUD
+“…All the different noise.”	「……いろいろなノイズ」
+CLOUD	CLOUD
+“…The noise doesn't go through your ears	「……耳ではなく、頭の中に
+but directly into your head.”	直接入りこんでくるノイズ」
+CLOUD	CLOUD
+“It seems to mean something…	「意味があるようで
+but I can't quite get it.	……何もわからない。
+I hate not knowing what it is.”	何もわからないもどかしさ」
+CLOUD	CLOUD
+“That's what this is similar to.”	「それに似ているんだ」
+TIFA	TIFA
+“Now that you mention it…”	「そういえば……」
+CID	CID
+“Now that you mention it…”	「そういえば……」
+BARRET	BARRET
+“Now that you mention it…”	「そういえば……」
+RED XIII	RED XIII
+“Now that you mention it…”	「そういえば……」
+CAIT SITH	CAIT SITH
+“Now that you mention it…”	「そういや……」
+YUFFIE	YUFFIE
+“Now that you mention it…”	「そういえば……」
+VINCENT	VINCENT
+“Now that you mention it…”	「そういえば……」
+TIFA	TIFA
+“My head feels like it's getting crushed.”	「頭がパンクしそうなかんじ」
+CID	CID
+“My head feels like it's gettin' crushed!”	「頭がパンクしそうだ！」
+BARRET	BARRET
+“My head feels like it's gettin' crushed.”	「頭がパンクしそうなかんじだな」
+RED XIII	RED XIII
+“My head feels like it's getting crushed.”	「頭がパンクしそうなかんじだ」
+CAIT SITH	CAIT SITH
+“My head, it's about to be crushed.”	「頭、パンクしそうや」
+YUFFIE	YUFFIE
+“My head's about to pop.”	「頭がプッチンきちゃいそう」
+VINCENT	VINCENT
+“My head is about to be crushed.”	「頭がパンクしそうだ」
+CLOUD	CLOUD
+“So AERIS came here, too…	「AERISもここに来たのか……
+She stood in this exact spot…”	この場所に立ったのか……」
+CLOUD	CLOUD
+“Hmm…	「そうか……
+AERIS didn't have to come here.”	AERISはここに来る
+	必要はなかった」
+“She was able to find out all the	「この場所にある情報は
+information here.”	全部知ることができたんだな」
+“What AERIS needed was that	「AERISに必要だったのは
+altar…and only that.”	あの祭壇……あの場所だけ」
+CLOUD	CLOUD
+“AERIS…	「AERIS……
 What were you planning to do?”	何をするつもりだった？」
 CLOUD	CLOUD
 “What…are we supposed to do?”	「俺たち……どうしたらいい？」
