@@ -14386,16 +14386,18 @@ CID！この飛空艇ごとあの中に行けるか？	CID! Can the Airship get 
 オイ！	Hey!		scene_40
 船は、テメェにまかせるぜ！	I'm leaving the ship in your hands!	船	scene_40
 ミッドガルに進路をとります！	I'm heading for Midgar!	進路	scene_40
-CLOUD、着いたといってもミッドガルは、げん戒体勢だ！スラムからは侵入できねえぜ	Even if we get there, Midgar's under martial law! There'll be no way we could slip into the slums.	着戒体勢侵入	scene_40
+CLOUD、着いたといってもミッドガルは、げん戒体勢だ！	Even if we get there, Midgar's under martial law!	着戒体勢	scene_40
+スラムからは侵入できねえぜ	There'll be no way we could slip into the slums.	侵入	scene_40
 スラムからの交通機関は完全封鎖みたいよ……	Looks like all transportation from the slums is cut off…	交通機関完全封鎖	scene_40
-オイオイ、何のためのハイウインドだ？オレ様たちは、今どこにいる！？	Hey, hey, whaddya think we have Highwind for? Where are we now!?	何様今	scene_40
+オイオイ、何のためのハイウインドだ？	Hey, hey, whaddya think we have Highwind for?	何	scene_40
+オレ様たちは、今どこにいる！？	Where are we now!?	様今	scene_40
 あ？　どこって、ここは……	Huh? Where are we?		scene_40
 地上がダメでも空があるじゃねぇか！	If land's no go… We'll go by air!	地上空	scene_40
 よし！　パラシュートでミッドガルに降下するぞ！！	Okay then! We'll parachute into Midgar!!	降下	scene_40
 ミッドガルに到着しました！	We've reached Midgar!	到着	scene_40
 飛空てい内部	Inside airship	飛空内部	scene_40
 行くぞ！！	Here we go!!	行	scene_40
-降下後のメンバーを決めて下さい。メンバーチェンジしますか？	Choose from the members below. Change your party's members?	降下後決	scene_40
+降下後のメンバーを決めて下さい。	Choose from the members below.	降下後決	scene_40
 決定しますか？	Leave it as is?	決定	scene_40
 チェンジする	Change		scene_40
 ここが入口ですわ	This is where we go in.	入口	scene_40
