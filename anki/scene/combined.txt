@@ -14584,7 +14584,8 @@ TIFAの声がライフストリームの意識の海から俺を呼びもどし�
 がんばってる私たちの姿を見ていてくれると思う？	Do you think they see how hard we're fighting for them?	私姿見思	scene_40
 さあな……。でも……	I dunno… But…		scene_40
 だれが見ていようといまいととにかく、できることをやるだけさ。自分自身を信じて……	Whether they can or not, we still have to do what we can. And believe in ourselves…	見自分身信	scene_40
-ライフストリームのなかでTIFAにそう教えられたよ	Someday we'll find the answer. Right, TIFA? That's what I learned from you when I was in the Lifestream.	教	scene_40
+[NO LINE]	Someday we'll find the answer. Right, TIFA?		scene_40
+ライフストリームのなかでTIFAにそう教えられたよ	That's what I learned from you when I was in the Lifestream.	教	scene_40
 うん……そうだね……	Yes…that's right…		scene_40
 なあ、TIFA……。俺……。TIFAに話したいことがたくさんあったんだ……	Hey TIFA… I… There were so many things I wanted to say to you.	俺話	scene_40
 でも、今こうしてふたりでいると本当はなにを話したかったのか……	But now that we're together like this, I don't know what to say…	今本当話	scene_40
@@ -14680,7 +14681,7 @@ AERISの想い、解き放つんだ！	We've got to let go of AERIS's memory.	�
 じゃあ、CLOUDは？	Well then, what is CLOUD?		scene_40
 でも、どうしてCLOUDだけが……	But why only CLOUD?		scene_40
 みんな！！	You guys!!		scene_40
-おろ～っ……ひっどいなぁ	Geez…that's pretty lame.”		scene_40
+おろ～っ……ひっどいなぁ	Geez…that's pretty lame.		scene_40
 船酔いに負けないでここまで来たんだよ	I stuck in there even when I was pukin' from bein' so seasick.	船酔負来	scene_40
 最後の最後に抜けちゃっておいしいところはぜ～んぶ持っていかれるなんて絶対イヤだからね！	But if you think I stuck through all this just to make off with everything when the time's right, forget it. That's not my style.	最後抜持絶対	scene_40
 おまえに感謝されてもよう	Ain't no one wanna be thanked by you!	感謝	scene_40

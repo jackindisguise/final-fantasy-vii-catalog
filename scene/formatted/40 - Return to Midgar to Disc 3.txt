@@ -804,10 +804,10 @@ But…”	でも……」
 to do what we can.	とにかく、できることをやるだけさ。
 And believe in ourselves…”	自分自身を信じて……」
 CLOUD	CLOUD
-“Someday we'll find the answer.	「ライフストリームのなかで
-Right, TIFA?	TIFAにそう教えられたよ」
-That's what I learned from you	
-when I was in the Lifestream.”	
+“Someday we'll find the answer.	[NO LINE]
+Right, TIFA?”	
+“That's what I learned from you	「ライフストリームのなかで
+when I was in the Lifestream.”	TIFAにそう教えられたよ」
 TIFA	TIFA
 “Yes…that's right…”	「うん……そうだね……」
 CLOUD	CLOUD
@@ -1059,7 +1059,7 @@ But why only CLOUD?	「でも、どうしてCLOUDだけが……」
 CLOUD	CLOUD
 You guys!!	「みんな！！」
 YUFFIE	YUFFIE
-Geez…that's pretty lame.”	「おろ～っ……ひっどいなぁ」
+Geez…that's pretty lame.	「おろ～っ……ひっどいなぁ」
 YUFFIE	YUFFIE
 “I stuck in there even when I was	「船酔いに負けないで
 pukin' from bein' so seasick.	ここまで来たんだよ」
