@@ -97,219 +97,220 @@
 | 95 | Gramps… Sometimes I don't know what he's talking about. | じっちゃん……時々、よくわからないんだ |
 | 96 | I know you're all dyin' to talk to a babe like me! | かわいいYUFFIEちゃんに話しかけたい気持ちはわかるけどさ |
 | 97 | But just leave me alone. This ship makes me…urk…!! | 悪いんだけど、ほっといて。アタシはね、船は……ウップ！ |
-| 98 | Bugenhagen | ホーホーホウ。どこへ連れていってくれるのかな？ |
-| 99 | Bugenhagen | ホーホーホウ。旅はいいものじゃのう…… |
-| 100 | Are you getting something? | おお……たしかに…… |
-| 101 | Bugenhagen | 何かわかりそうなのか？ |
-| 102 | Bugenhagen | ……ちと時間をくれんか？ |
-| 103 | Bugenhagen | この部屋にうずまいている古代種の意識はたったひとつのことをうったえているのじゃ |
-| 104 | Bugenhagen | 星の危機…… |
-| 105 | It says, when the time comes, we must search for 'Holy'. | もう人の力でも終わりのない時間の力でもどうしようもないほどの星の危機 |
-| 106 | Holy? | そんな時がおとずれたらホーリーを求めよ、とな |
-| 107 | Bugenhagen | ホーリー？ |
-| 108 | Bugenhagen | 究極の白魔法ホーリー……メテオと対をなす魔法じゃ。メテオから星を救い出す最後の望み |
-| 109 | Bugenhagen | ホーリーを求める心が星にとどけば、それは現れる |
-| 110 | Bugenhagen | メテオもウェポンもすべて消えてなくなるじゃろう |
-| 111 | Even us!? | もしかしたら、わしらもな |
-| 112 | Bugenhagen | 俺たちも！？ |
-| 113 | Bugenhagen | それは星が決めることじゃ |
-| 114 | All that is bad will disappear. That is all. | 星にとって何が良いのか。星にとって何が悪いのか |
-| 115 | Bugenhagen | 悪しきものは消えて無くなる。それだけのことじゃ |
-| 116 | Search for Holy… How do we do it? | わしら人間は、どっちかのう |
-| 117 | Bugenhagen | ホーリーを求める……それはどうやるんだ？ |
-| 118 | Get the White Materia… This will bond the Planet to humans. | 星に語りかけるのじゃ |
-| 119 | Then speak to the Planet. | 白マテリアを身につけ……これが星と人をつなぐのじゃな |
-| 120 | If our wish reaches the Planet, the White Materia will begin to glow a pale green. | そして星に語りかけるのじゃ |
-| 121 | …This is the end. | ねがいが星にとどくと白マテリアがあわ～いグリーンに輝くらしいのじゃ |
-| 122 | AERIS had the White Materia… | ……終わりだ |
-| 123 | But when AERIS died, it fell from the altar… | 白マテリアはAERISが持っていた…… |
-| 124 | That's why…this is the end. | でも……AERISが死んでしまった時に祭壇から落ちて…… |
-| 125 | Bugenhagen | だから……終わりだ |
-| 126 | Bugenhagen | ホーホーホウ！ |
-| 127 | !? | これを見るのじゃ！ |
-| 128 | It is written about the key here… | ホーホーホウ……カギか…… |
-| 129 | Bugenhagen | カギのことならここにかいてあるようじゃ…… |
-| 130 | Can you read it? | 古代文字じゃ |
-| 131 | Damn, dude, you're really somethin' | 読めるのか？ |
-| 132 | You're really something, Bugenhagen!! | さすがだな |
-| 133 | Wow, grandpa! | さすが、ブーゲンハーゲンさん！！ |
-| 134 | Wow! | すごいなじっちゃん！ |
-| 135 | Way to go, gramps! You're not just another old coot! | すごいですなぁ |
-| 136 | I never expected to find a person who could read and understand this difficult writing nowadays. | やるなジジイ！だてに歳くってねえぜ！ |
-| 137 | Really? | この難解な文字を解読できる者が今の時代にいるとはな |
-| 138 | Bugenhagen | ほんと？ |
-| 139 | This's no time for jokes… | まったく読めん！！ |
-| 140 | Bugenhagen | こんな時に冗談は…… |
-| 141 | Bugenhagen | わしは古代種じゃない。こんなもん読めんわい！ |
-| 142 | There's something written in chalk… …(even sunlight can't reach)…(Key) | でもな、こんなおいぼれでも目は悪くなっておらん。よ～くその文字の下を見てみろい |
-| 143 | Bugenhagen | チョークでメモがかきなぐってある…………【日の光もとどかぬ】……【カギ】 |
-| 144 | So this note points to where the key is? | きっとここを発見した学者が解読を試みたあとじゃ……たった二つの単語を解読して力つきたのじゃろう |
-| 145 | Key…? To what? | そのメモはカギのある場所をしめしているんだな？ |
-| 146 | Bugenhagen | カギ……？何のための？ |
-| 147 | The riddle…then it must have something to do with AERIS. | わからん……しかし、きっとここの謎を解くための何かなんじゃろう |
-| 148 | There's a note written in chalk… …(key)…(in the Music Box) | 謎……それはやはりAERISに関係したことかもしれんのう |
-| 149 | What does it mean? | チョークでメモがかきなぐってある…………【カギを】……【オルゴールに】 |
-| 150 | Bugenhagen | どういうことなんだ？ |
-| 151 | Bugenhagen | あそこにあるのがオルゴールじゃよ。あそこでカギを使うんじゃ |
-| 152 | I'll continue to figure out the Ancients' writing. | さあ、その言葉をヒントにカギを探してこい |
-| 153 | A place (Even sunlight won't reach) is where the (key) is, right? | ワシはここで古代文字の解読を続けよう |
-| 154 | Bugenhagen | 【日の光もとどかぬ】場所に【カギ】があるんだな？ |
-| 155 | Maybe I'll understand more from the writing and get some new information for you. | カギが見つかった時、あるいはどうしてもいきづまった時にはここにもどってこい |
-| 156 | Bugenhagen | 解読がすすみ新しい事実が判明しているかもしれんからのう |
-| 157 | Bugenhagen | 【日の光もとどかぬ】場所に【カギ】がある……忘れるんじゃないぞ |
-| 158 | Bugenhagen | 【日の光もとどかぬ】……うーん……地上にいるかぎりは日の光はどこにでもとどくのに……地上じゃない？？ |
-| 159 | Underwater? There's…no way… We need a submarine… | 日の光がとどかない所……そうか、海のそこか！ |
-| 160 | Wait. Submarine…I think there's one at Junon Port. | 海のそこ？それは……むちゃだ……潜水監でもないかぎり…… |
-| 161 | Bugenhagen | 待てよ。潜水監……【ジュノンの港】にたしか…… |
-| 162 | Bugenhagen | おお！　見つけたか！ |
-| 163 | And watch closely what happens. | わしがカギをさしてこよう。おまえたちはここにいるんじゃ |
-| 164 | Bugenhagen | そして何が起こるのかをしかと見ておくんじゃ |
-| 165 | Bugenhagen | さあ、中にはいるのじゃ。そこにあるのは希望か……それとも…… |
-| 166 | Look! Look at the image projected on the screen of the water! | ここはイメージを投影するスクリーンだったのじゃ！ |
-| 167 | …It's glowing. | 見てみい！水のスクリーンにうつったイメージを！ |
-| 168 | Bugenhagen | ……輝いている |
-| 169 | …AERIS. AERIS has already prayed for Holy. | ホーホーホウ！！あわ～いグリーンじゃ！！ |
-| 170 | …After I gave up the Black Materia to Sephiroth… AERIS's words came into my dreams… | ……AERIS。AERISはすでにホーリーをとなえていたんだ |
-| 171 | She said, she was the only one who could stop Sephiroth… And to do that, there was a secret here… | ……俺がセフィロスに黒マテリアをわたしてしまったあと……夢の中のAERISの言葉…… |
-| 172 | That was Holy… That's why, she had the White Materia. AERIS knew about here… and what she had to do. | セフィロスを止めることができるのはわたしだけ……その方法が、秘密がここにある……そう言ってたんだ |
-| 173 | AERIS has left us great hope. But, it cost her life… her future… | それがホーリー……自分が持っている白マテリアの意味。白マテリアを自分が持っている意味。自分がすべきこと……AERISはここで知った |
-| 174 | I'm sorry…AERIS. I should have figured this out sooner. | AERISは俺たちに大きな希望を残してくれた。けれども、それはAERISの命……AERIS自身の未来とひきかえに…… |
-| 175 | …You left without saying a word… It was all so sudden, I couldn't think… | ごめんよ……AERIS。もっと早く気づいてあげられなくて |
-| 176 | That's why it took so long for me to find out… But, AERIS…I understand now. | ……一言も言葉をかわすことなく俺たちの前からいなくなってしまったから……突然だったから、俺は何も考えられなくて…… |
-| 177 | AERIS… I'll do the rest. | だから気づくのが遅れてしまった……でも、AERIS……俺、わかったよ |
-| 178 | You mean, WE… | AERIS……あとは俺がなんとかする |
-| 179 | That's 'WE'! | 俺・た・ち・でしょ…… |
-| 180 | WE'LL take care of it. | 俺・た・ち・っていえよ！ |
-| 181 | You &^$#%^! It's WE! WE! | 俺・た・ち・だよ |
-| 182 | It's WE! Isn't it WE? | クソったれい！俺・た！ち！っだろ？俺たち！ |
-| 183 | I? …you mean WE. | 俺やのうて俺・た・ち・やろ？ |
-| 184 | Not I, dorkus! WE! | 俺？……俺・た・ち・じゃないのか？ |
-| 185 | What AERIS left us… We shouldn't waste. | 俺じゃないでしょ！俺・た・ち！ |
-| 186 | The thing  AERIS left for us… We gotta take care of it. | AERISが私たちに残していってくれたもの……むだにしちゃ、いけないね |
-| 187 | We can't waste what AERIS left for us. | AERISがオレたちに残してくれたもの……むだにはできねえぜ |
-| 188 | The flower girl gave us a big chance… It'd be sad if we didn't finish it! | AERISが残してくれたもの……むだにしちゃいけないよね |
-| 189 | What AERIS left us… We mustn't let go to waste… | あの花売りのねえちゃんが置いてったでっけえプレゼント……ふうをといてやんねぇと悲しむぜい！ |
-| 190 | The hope she left us… We must make stronger… | AERISさんが残してくれたモン……ムダにしたらアカン |
-| 191 | We've gotta take a chance on the hope she left us! | 大切な人が残してくれた希望……それをはぐくむのが、私たちにできるせいいっぱいのこと…… |
-| 192 | Thank you…AERIS. | せっかく残してくれた希望……それにかけてみなきゃねっ！ |
-| 193 | AERIS's voice has already reached the Planet. Just look at the glow of the White Materia. | ありがとう……AERIS |
-| 194 | But…how about Holy? How come Holy isn't moving? | AERISの声は星にとどいていた。それは白マテリアのかがやきを見てもあきらかだ…… |
-| 195 | Why? | でも……ホーリーは？どうしてホーリーは動き出さない？ |
-| 196 | Bugenhagen | なぜだ？ |
-| 197 | …Him… | 邪魔しとるもんがいるんじゃよ |
-| 198 | He's the only one that could do it. | …………あいつか…… |
-| 199 | …Sephiroth. Where are you? | あいつしか考えられないな |
-| 200 | H…Hey! | ……セフィロス。どこにいるんだ？ |
-| 201 | What happened? | ヒソヒソ……（すんません）（ちょっと、びっくりしたもんですから） |
+| 98 | I wonder where you're taking me? | ホーホーホウ。どこへ連れていってくれるのかな？ |
+| 99 | Traveling is wonderful, isn't it? | ホーホーホウ。旅はいいものじゃのう…… |
+| 100 | Yes…exactly… | おお……たしかに…… |
+| 101 | Are you getting something? | 何かわかりそうなのか？ |
+| 102 | …Give me a moment. | ……ちと時間をくれんか？ |
+| 103 | The knowledge of the Ancients swirling around here is telling me one thing. | この部屋にうずまいている古代種の意識はたったひとつのことをうったえているのじゃ |
+| 104 | The Planet's in a crisis… | 星の危機…… |
+| 105 | A crisis beyond human power or endless time. | もう人の力でも終わりのない時間の力でもどうしようもないほどの星の危機 |
+| 106 | It says, when the time comes, we must search for 'Holy'. | そんな時がおとずれたらホーリーを求めよ、とな |
+| 107 | Holy? | ホーリー？ |
+| 108 | Holy…the ultimate White Magic. Magic that might stand against Meteor. Perhaps our last hope to save the Planet from Meteor. | 究極の白魔法ホーリー……メテオと対をなす魔法じゃ。メテオから星を救い出す最後の望み |
+| 109 | If a soul seeking Holy reaches the Planet, it will appear. | ホーリーを求める心が星にとどけば、それは現れる |
+| 110 | Meteor, Weapon, everything will disappear. | メテオもウェポンもすべて消えてなくなるじゃろう |
+| 111 | Perhaps, even ourselves. | もしかしたら、わしらもな |
+| 112 | Even us!? | 俺たちも！？ |
+| 113 | It is up to the Planet to decide. | それは星が決めることじゃ |
+| 114 | What is best for the Planet. What is bad for the Planet. | 星にとって何が良いのか。星にとって何が悪いのか |
+| 115 | All that is bad will disappear. That is all. | 悪しきものは消えて無くなる。それだけのことじゃ |
+| 116 | I wonder which we humans are? | わしら人間は、どっちかのう |
+| 117 | Search for Holy… How do we do it? | ホーリーを求める……それはどうやるんだ？ |
+| 118 | Speak to the Planet. | 星に語りかけるのじゃ |
+| 119 | Get the White Materia… This will bond the Planet to humans. | 白マテリアを身につけ……これが星と人をつなぐのじゃな |
+| 120 | Then speak to the Planet. | そして星に語りかけるのじゃ |
+| 121 | If our wish reaches the Planet, the White Materia will begin to glow a pale green. | ねがいが星にとどくと白マテリアがあわ～いグリーンに輝くらしいのじゃ |
+| 122 | …This is the end. | ……終わりだ |
+| 123 | AERIS had the White Materia… | 白マテリアはAERISが持っていた…… |
+| 124 | But when AERIS died, it fell from the altar… | でも……AERISが死んでしまった時に祭壇から落ちて…… |
+| 125 | That's why…this is the end. | だから……終わりだ |
+| 126 | Ho Ho Hooo! | ホーホーホウ！ |
+| 127 | Look at this! | これを見るのじゃ！ |
+| 128 | Ho Ho Hooo… the key… | ホーホーホウ……カギか…… |
+| 129 | It is written about the key here… | カギのことならここにかいてあるようじゃ…… |
+| 130 | Ancients' writing. | 古代文字じゃ |
+| 131 | Can you read it? | 読めるのか？ |
+| 132 | Damn, dude, you're really somethin' | さすがだな |
+| 133 | You're really something, Bugenhagen!! | さすが、ブーゲンハーゲンさん！！ |
+| 134 | Wow, grandpa! | すごいなじっちゃん！ |
+| 135 | Wow! | すごいですなぁ |
+| 136 | Way to go, gramps! You're not just another old coot! | やるなジジイ！だてに歳くってねえぜ！ |
+| 137 | I never expected to find a person who could read and understand this difficult writing nowadays. | この難解な文字を解読できる者が今の時代にいるとはな |
+| 138 | Really? | ほんと？ |
+| 139 | It's all Greek to me!! | まったく読めん！！ |
+| 140 | This's no time for jokes… | こんな時に冗談は…… |
+| 141 | I'm not an Ancient. I can't read this thing! | わしは古代種じゃない。こんなもん読めんわい！ |
+| 142 | I may be old, but my eyes aren't completely bad yet. Look closely below the writing. | でもな、こんなおいぼれでも目は悪くなっておらん。よ～くその文字の下を見てみろい |
+| 143 | There's something written in chalk… …(even sunlight can't reach)…(Key) | チョークでメモがかきなぐってある…………【日の光もとどかぬ】……【カギ】 |
+| 144 | It was probably written by a scientist who's been here… He probably used all his energy to make out these two words. | きっとここを発見した学者が解読を試みたあとじゃ……たった二つの単語を解読して力つきたのじゃろう |
+| 145 | So this note points to where the key is? | そのメモはカギのある場所をしめしているんだな？ |
+| 146 | Key…? To what? | カギ……？何のための？ |
+| 147 | I don't know… But, it probably has something to do with our riddle. | わからん……しかし、きっとここの謎を解くための何かなんじゃろう |
+| 148 | The riddle…then it must have something to do with AERIS. | 謎……それはやはりAERISに関係したことかもしれんのう |
+| 149 | There's a note written in chalk… …(key)…(in the Music Box) | チョークでメモがかきなぐってある…………【カギを】……【オルゴールに】 |
+| 150 | What does it mean? | どういうことなんだ？ |
+| 151 | That Music Box over there. We'll put the key in it. | あそこにあるのがオルゴールじゃよ。あそこでカギを使うんじゃ |
+| 152 | Use these words as clues and go find the key. | さあ、その言葉をヒントにカギを探してこい |
+| 153 | I'll continue to figure out the Ancients' writing. | ワシはここで古代文字の解読を続けよう |
+| 154 | A place (Even sunlight won't reach) is where the (key) is, right? | 【日の光もとどかぬ】場所に【カギ】があるんだな？ |
+| 155 | When you find the key, or when you can't go any further, come back here. | カギが見つかった時、あるいはどうしてもいきづまった時にはここにもどってこい |
+| 156 | Maybe I'll understand more from the writing and get some new information for you. | 解読がすすみ新しい事実が判明しているかもしれんからのう |
+| 157 | Remember, a place (even sunlight can't reach) is where the (key) is… | 【日の光もとどかぬ】場所に【カギ】がある……忘れるんじゃないぞ |
+| 158 | (even sunlight can't reach)… Hmm…if we're above ground, the sunlight reaches everywhere… Then it's probably not above ground… | 【日の光もとどかぬ】……うーん……地上にいるかぎりは日の光はどこにでもとどくのに……地上じゃない？？ |
+| 159 | A place where sunlight doesn't reach… Right, it must be underwater! | 日の光がとどかない所……そうか、海のそこか！ |
+| 160 | Underwater? There's…no way… We need a submarine… | 海のそこ？それは……むちゃだ……潜水監でもないかぎり…… |
+| 161 | Wait. Submarine…I think there's one at Junon Port. | 待てよ。潜水監……【ジュノンの港】にたしか…… |
+| 162 | Oh! You've found it! | おお！　見つけたか！ |
+| 163 | I'll go use the key. You all wait here. | わしがカギをさしてこよう。おまえたちはここにいるんじゃ |
+| 164 | And watch closely what happens. | そして何が起こるのかをしかと見ておくんじゃ |
+| 165 | Now, go inside. Hope may be inside… Or… | さあ、中にはいるのじゃ。そこにあるのは希望か……それとも…… |
+| 166 | This was just a screen to project an image! | ここはイメージを投影するスクリーンだったのじゃ！ |
+| 167 | Look! Look at the image projected on the screen of the water! | 見てみい！水のスクリーンにうつったイメージを！ |
+| 168 | …It's glowing. | ……輝いている |
+| 169 | Ho Ho Hooo!! It's pale green!! | ホーホーホウ！！あわ～いグリーンじゃ！！ |
+| 170 | …AERIS. AERIS has already prayed for Holy. | ……AERIS。AERISはすでにホーリーをとなえていたんだ |
+| 171 | …After I gave up the Black Materia to Sephiroth… AERIS's words came into my dreams… | ……俺がセフィロスに黒マテリアをわたしてしまったあと……夢の中のAERISの言葉…… |
+| 172 | She said, she was the only one who could stop Sephiroth… And to do that, there was a secret here… | セフィロスを止めることができるのはわたしだけ……その方法が、秘密がここにある……そう言ってたんだ |
+| 173 | That was Holy… That's why, she had the White Materia. AERIS knew about here… and what she had to do. | それがホーリー……自分が持っている白マテリアの意味。白マテリアを自分が持っている意味。自分がすべきこと……AERISはここで知った |
+| 174 | AERIS has left us great hope. But, it cost her life… her future… | AERISは俺たちに大きな希望を残してくれた。けれども、それはAERISの命……AERIS自身の未来とひきかえに…… |
+| 175 | I'm sorry…AERIS. I should have figured this out sooner. | ごめんよ……AERIS。もっと早く気づいてあげられなくて |
+| 176 | …You left without saying a word… It was all so sudden, I couldn't think… | ……一言も言葉をかわすことなく俺たちの前からいなくなってしまったから……突然だったから、俺は何も考えられなくて…… |
+| 177 | That's why it took so long for me to find out… But, AERIS…I understand now. | だから気づくのが遅れてしまった……でも、AERIS……俺、わかったよ |
+| 178 | AERIS… I'll do the rest. | AERIS……あとは俺がなんとかする |
+| 179 | You mean, WE… | 俺・た・ち・でしょ…… |
+| 180 | That's 'WE'! | 俺・た・ち・っていえよ！ |
+| 181 | WE'LL take care of it. | 俺・た・ち・だよ |
+| 182 | You &^$#%^! It's WE! WE! | クソったれい！俺・た！ち！っだろ？俺たち！ |
+| 183 | It's WE! Isn't it WE? | 俺やのうて俺・た・ち・やろ？ |
+| 184 | I? …you mean WE. | 俺？……俺・た・ち・じゃないのか？ |
+| 185 | Not I, dorkus! WE! | 俺じゃないでしょ！俺・た・ち！ |
+| 186 | What AERIS left us… We shouldn't waste. | AERISが私たちに残していってくれたもの……むだにしちゃ、いけないね |
+| 187 | The thing  AERIS left for us… We gotta take care of it. | AERISがオレたちに残してくれたもの……むだにはできねえぜ |
+| 188 | We can't waste what AERIS left for us. | AERISが残してくれたもの……むだにしちゃいけないよね |
+| 189 | The flower girl gave us a big chance… It'd be sad if we didn't finish it! | あの花売りのねえちゃんが置いてったでっけえプレゼント……ふうをといてやんねぇと悲しむぜい！ |
+| 190 | What AERIS left us… We mustn't let go to waste… | AERISさんが残してくれたモン……ムダにしたらアカン |
+| 191 | The hope she left us… We must make stronger… | 大切な人が残してくれた希望……それをはぐくむのが、私たちにできるせいいっぱいのこと…… |
+| 192 | We've gotta take a chance on the hope she left us! | せっかく残してくれた希望……それにかけてみなきゃねっ！ |
+| 193 | Thank you…AERIS. | ありがとう……AERIS |
+| 194 | AERIS's voice has already reached the Planet. Just look at the glow of the White Materia. | AERISの声は星にとどいていた。それは白マテリアのかがやきを見てもあきらかだ…… |
+| 195 | But…how about Holy? How come Holy isn't moving? | でも……ホーリーは？どうしてホーリーは動き出さない？ |
+| 196 | Why? | なぜだ？ |
+| 197 | Something's getting in its way. | 邪魔しとるもんがいるんじゃよ |
+| 198 | …Him… | …………あいつか…… |
+| 199 | He's the only one that could do it. | あいつしか考えられないな |
+| 200 | …Sephiroth. Where are you? | ……セフィロス。どこにいるんだ？ |
+| 201 | …whisper…whisper… (sorry I was a little surprised). | ヒソヒソ……（すんません）（ちょっと、びっくりしたもんですから） |
 | 202 | You remember when the Junon Cannon disappeared? Actually, Rufus moved it. | ジュノンのキャノンがのうなってたの覚えてますか？あれ、実はルーファウスが運んだんです |
-| 203 | Rufus wants to destroy Sephiroth with it. | 運んだって？　あんなデカイものを……？どこに……？　なぜ？ |
-| 204 | That cannon operates on Huge Materia. But the Huge Materia has already been used in the Rocket Plan. | ルーファウスはあれでセフィロスを倒すつもりなんですわ |
-| 205 | So since the cannon's useless right now, he decided to move it. | あの大砲はヒュージマテリアの力で動いてます。でもヒュージマテリアはロケット作戦でつこてしもたから |
-| 206 | To a place where Materia… no, where Mako is gathered… | もうあの大砲はあのままやと使い物にならんのですな。せやから移動させたんです |
-| 207 | And, where is that!? | マテリアの……いや魔晄の力が最大限に集中できる場所に…… |
-| 208 | It's similar. | それで、それはどこなんだ！？ |
-| 209 | I didn't notice it the last time I came. | ……似ている |
-| 210 | This place…is similar to the inside of the Lifestream. | 前に来た時は気づかなかった…… |
-| 211 | …All the different noise. | ここは……ライフストリームの中に似ている |
-| 212 | …The noise doesn't go through your ears but directly into your head. | ……いろいろなノイズ |
-| 213 | It seems to mean something… but I can't quite get it. I hate not knowing what it is. | ……耳ではなく、頭の中に直接入りこんでくるノイズ |
-| 214 | That's what this is similar to. | 意味があるようで……何もわからない。何もわからないもどかしさ |
-| 215 | Now that you mention it… | それに似ているんだ |
+| 203 | Moved it? That big thing? Where? Why? | 運んだって？　あんなデカイものを……？どこに……？　なぜ？ |
+| 204 | Rufus wants to destroy Sephiroth with it. | ルーファウスはあれでセフィロスを倒すつもりなんですわ |
+| 205 | That cannon operates on Huge Materia. But the Huge Materia has already been used in the Rocket Plan. | あの大砲はヒュージマテリアの力で動いてます。でもヒュージマテリアはロケット作戦でつこてしもたから |
+| 206 | So since the cannon's useless right now, he decided to move it. | もうあの大砲はあのままやと使い物にならんのですな。せやから移動させたんです |
+| 207 | To a place where Materia… no, where Mako is gathered… | マテリアの……いや魔晄の力が最大限に集中できる場所に…… |
+| 208 | And, where is that!? | それで、それはどこなんだ！？ |
+| 209 | It's similar. | ……似ている |
+| 210 | I didn't notice it the last time I came. | 前に来た時は気づかなかった…… |
+| 211 | This place…is similar to the inside of the Lifestream. | ここは……ライフストリームの中に似ている |
+| 212 | …All the different noise. | ……いろいろなノイズ |
+| 213 | …The noise doesn't go through your ears but directly into your head. | ……耳ではなく、頭の中に直接入りこんでくるノイズ |
+| 214 | It seems to mean something… but I can't quite get it. I hate not knowing what it is. | 意味があるようで……何もわからない。何もわからないもどかしさ |
+| 215 | That's what this is similar to. | それに似ているんだ |
 | 216 | Now that you mention it… | そういえば…… |
 | 217 | Now that you mention it… | そういや…… |
-| 218 | My head feels like it's gettin' crushed! | 頭がパンクしそうなかんじ |
-| 219 | My head feels like it's gettin' crushed. | 頭がパンクしそうだ！ |
-| 220 | My head feels like it's getting crushed. | 頭がパンクしそうなかんじだな |
-| 221 | My head, it's about to be crushed. | 頭がパンクしそうなかんじだ |
-| 222 | My head's about to pop. | 頭、パンクしそうや |
-| 223 | My head is about to be crushed. | 頭がプッチンきちゃいそう |
-| 224 | So AERIS came here, too… She stood in this exact spot… | 頭がパンクしそうだ |
-| 225 | Hmm… AERIS didn't have to come here. | AERISもここに来たのか……この場所に立ったのか…… |
-| 226 | She was able to find out all the information here. | そうか……AERISはここに来る必要はなかった |
-| 227 | What AERIS needed was that altar…and only that. | この場所にある情報は全部知ることができたんだな |
-| 228 | AERIS… | AERISに必要だったのはあの祭壇……あの場所だけ |
-| 229 | AERIS… What were you planning to do? | AERIS……何をするつもりだった？ |
-| 230 | What…are we supposed to do? | 俺たち……どうしたらいい？ |
-| 231 | What's wrong!? | どうしたい！？ |
-| 232 | It's a strange signal! | 怪電波です！ |
-| 233 | From where? | どっからだ？ |
-| 234 | It's coming from this…person (?) | この……人（？）から出てます |
-| 235 | That was a surprise, the controls went crazy. | ちょっと驚いてコントロールが乱れてしまいました |
-| 236 | This ain't good… | しもたなぁ～…… |
-| 237 | Weapon came out of the sea and is heading straight for Midgar. | ウェポンが海から出てきてミッドガルにきよるんです |
-| 238 | The new weapon should stop him, right? | 新兵器でなんとかなるんだろ？ |
-| 239 | I don't know if it's ready or not… | 準備が間に合うかどうか…… |
-| 240 | Hey! What's gonna happen to Marlene!? | おい！　マリンはどうなるんだ！？ |
-| 241 | Doncha worry none, Marlene's in a safe place. She's with AERIS's mama. | マリンちゃんは安全な場所にいますわ。AERISさんのお母さんもいっしょです |
-| 242 | BARRET!! | BARRETさん！！ |
-| 243 | What was that scratching just now!? | なんですか、今の『ポリポリ』ってのは！ |
-| 244 | As long as Marlene is safe, who cares what else happens, right? | マリンちゃんが安全やったらあとはどうなってもええんですか？ |
-| 245 | I been itchin' to say this to you for a while now! | まえからアンタには言いたいと思とったんですわ！ |
-| 246 | When you blew up the Sec.1 reactor how many do you think died? | ミッドガルの壱番魔晄炉が爆発したとき何人死んだと思ってますのや？ |
-| 247 | …that was for the life of the Planet. Ya gotta expect a few casualties. | ……星の命のためだったんだ。多少の犠牲は仕方なかった |
-| 248 | A few? Whaddya mean 'a few'? What may be a few to you is everything to those who died… | 多少？　多少ってなんやねんな？アンタにとっては多少でも死んだ人にとっては、それが全部なんやで…… |
-| 249 | Protect the Planet. Hah! That sure sounds good! | 星の命を守る。はん！　確かに聞こえは、いいですな！ |
-| 250 | And no one will go against you. So you think you can do whatever you want, right? | そんなもん誰も反対しませんわ。せやからって、何してもええんですか？ |
-| 251 | I don't wanna hear that from no one in Shinra… | 神羅のやつにどうこう言われたかねえ…… |
-| 252 | Can't do anything about that… | …………どうせ、ボクは…… |
-| 253 | Stop it! | やめろよ |
-| 254 | CAIT SITH… BARRET, he knows what he did. | CAIT SITH……BARRETは、もう、わかってる |
-| 255 | What we did in Midgar can't be forgotten no matter what the reason. | 私たちがミッドガルでやったことはどんな理由があってもけして許されない |
-| 256 | Right? We haven't forgotten, right? | そうでしょ？　私たち、忘れたことないわよね？ |
-| 257 | I know you. | あなたのことだってわかるわ |
-| 258 | You can't quit the company because you're worried about the people in Midgar, right? | あなたが会社をやめないのはミッドガルの人たちが心配だからよね？ |
-| 259 | Weapon? | ウェポンか…… |
-| 260 | OK! Let's go! We'll beat Weapon ourselves! | よし！　行くぞ！俺たちの手でウェポンを倒してやる！ |
-| 261 | Hey CLOUD… | CLOUDよう…… |
-| 262 | You think we can win against that monster? We got a chance of winnin', right? | あんなバケモノに勝てるのか？少しは勝ち目ってのがあるんだろうな？ |
-| 263 | How would I know? | そんなことはわからない！ |
-| 264 | But that's no reason for us to just let him go! | しかし、だからと言って放ってはおけない！ |
-| 265 | We're goin' to Midgar and fight Weapon! Come on, let's move! | 【ミッドガル】へ行ってウェポンと戦うんだ！さあ、行くぞ！ |
-| 266 | Shinra Building 70f | 神羅ビル・７０階 |
-| 267 | …Reeve. It's your job to adjust the reactor's output. | ……というわけでリーブ君。魔晄炉の出力調整は君の仕事だ |
-| 268 | Kya, hah, hah! Don't worry about adjusting it, Reeve. | キャハハハハハ！調整なんていいわよ、リーブ |
-| 269 | Once you open it up all the way everything will go full speed! | 出力全開でガーーーーッと行くのよ！ |
-| 270 | Gya hah, hah, hah! The President's sure done it this time! | ガハハハハ！それにしてもさすが社長！ |
-| 271 | The whole idea that Meteor will disappear if we defeat Sephiroth is all wrong! | セフィロスを倒せばメテオも消えるとは目のつけどころが違いますな！ |
-| 272 | If you remember, Mr. President | 社長、忘れないでおいてね |
-| 273 | It was my idea to fire Mako powered shells. | ミッドガルの魔晄炉の力で砲弾を飛ばすのは私のアイディアなんだから |
-| 274 | Will the shells really reach the northern border? | 魔晄キャノンの砲弾は本当に北の果てまでとどくのだろうな |
-| 275 | But Mr. President, let's not call it a Mako cannon. | でも社長、魔晄キャノンなんて呼ばないで |
-| 276 | This new weapon is called… | この新兵器の名前は…… |
-| 277 | The Sister Ray! | シスター・レイよっ！ |
-| 278 | Grandfather!! | じっちゃん！！ |
-| 279 | …Nanaki? …you're still…here? | なんだ……ナナキか。まだこんなところに……いる……のか？ |
-| 280 | I can't leave you like this, Grandfather! | じっちゃんをこのままにしてなんか行けないよ……！ |
-| 281 | It's the duty of… Seto's son, to guard this canyon and her people… | この谷を、コスモキャニオンのみんなを守るのがオイラの……セトの息子の使命だ！ |
-| 282 | …listen, Nanaki. I think you may already know. | ……聞くのじゃ、ナナキ。もうおまえにもわかっておるじゃろう |
-| 283 | If you have any mission in life, it is not to defend this valley. | おまえに使命というものがあるとすれば、それはこの谷を守ることでは……ない |
-| 284 | Look at the withering mountain grass. Listen to the warble of the new born chocobo's. | 枯れてゆく山の木々を見ること。うまれくるチョコボのうぶごえを聞くこと |
-| 285 | Look always to the eternal flow of time which is far greater than the span of a human life. | 人間の一生などよりもはるかに長い時の流れをみつめつづけること |
-| 286 | It will teach you more, than staying here in the valley… | それはこの谷に残っているよりずっと多くのことをおまえに教えるじゃろう…… |
-| 287 | What you will see will eventually become a part of the Lifestream. | そして、おまえの見たものはやがてライフストリームの一部となりうけつがれていくんじゃ |
-| 288 | For my children… And for your children… | わしらのこどもたちに……おまえのこどもたちに…… |
-| 289 | So please, Nanaki… Go with CLOUD… And use your eyes…your ears… | だから、ナナキよ……CLOUDと行け……その目で……耳で…… |
-| 290 | Ho Ho… | ホーホー…… |
-| 291 | Grandfather!? Grandfather!!! | じっちゃん！？じっちゃん！！ |
-| 292 | …oh yes. This is for you. | ……ああ、そうそう。おまえにわたすものがあった |
-| 293 | … Don't scare me like that, Grandfather! | トトト……おどかさないでよ、じっちゃん！ |
-| 294 | What? You surprised yourself. Now take this. | なに言うとるんじゃ。自分で勝手におどろいたくせに。ホラ、持っていくといい |
-| 295 | Received "Limited Moon"! | 『リミテッドムーン』を手にいれた！ |
-| 296 | Ho Ho…Hoooo. Do not worry about me. I'll be watching the future of the Planet. | ホーホー……ホウ。わしのことは心配するな。星の未来をみつめるのじゃ |
-| 297 | Ho Ho…Hoooo. You? | ホーホー……ホウ。おまえさんたち……か |
-| 298 | It's been a while…since I've been out. I think I must have…tired myself out a bit. | いやなに……ひさしぶりに外に出たんで……少しばかりはしゃぎすぎたかの |
-| 299 | Ahh…don't tell Nanaki. He'll only worry… | ああ……ナナキには言わんでくれよ。あれはすぐ心配するから……の |
-| 300 | Ho Ho…Hoooo. Now, now. Don't look like that. I'm all right. | ホーホー……ホウ。ホレ……そんな顔するな。わしのことなら、だいじょうぶじゃよ |
-| 301 | It's a big world and you must go out and see it… You may even find your life's mate. You never know. | 広い世界を見てくるんじゃ……もしかしたらホレ、カワイイガールフレンドが見つかるかもしれんしの？ |
-| 302 | Oh yes…take this along. I think it will look good on you now. | そうそう……これを持っていくといい。今のおまえならよく……似合うじゃろ |
-| 303 | RED XIII… Is Bugenhagen…? | RED XIII……ブーゲンハーゲンは…… |
-| 304 | Grandpa told me that he's going away again! | ……じっちゃん、また旅にでるって！ |
-| 305 | Away? | 旅……？ |
-| 306 | It seems like he really liked that airship. | この前の飛空艇がよっぽど気に入ったらしいんだ |
-| 307 | He told me he couldn't stay still and just zipped out of here! | じっとしてられないってとびだしていっちゃったよ！ |
-| 308 | He even gave me a gift, look! | オミヤゲまでもらったんだ、ホラ！ |
-| 309 | Wait a minute. Aren't you supposed to give gifts AFTER you come back? | あれ？オミヤゲって帰ってきてからもらうんだよね？ |
-| 310 | Ha ha…Grandpa sure is strange! Haa…ha ha…ha… | ハハハ、へんなじっちゃん！ハハハ……ハハ……ハ…… |
-| 311 | Hmm… Maybe we'll run into him again somewhere. | そうか……それじゃまた、どこかでヒョッコリ会うかもしれないな |
-| 312 | Yeah… maybe… | ウン……そう……そうだね…… |
-| 313 | Thanks, CLOUD… | ありがと、CLOUD…… |
+| 218 | My head feels like it's getting crushed. | 頭がパンクしそうなかんじ |
+| 219 | My head feels like it's gettin' crushed! | 頭がパンクしそうだ！ |
+| 220 | My head feels like it's gettin' crushed. | 頭がパンクしそうなかんじだな |
+| 221 | My head feels like it's getting crushed. | 頭がパンクしそうなかんじだ |
+| 222 | My head, it's about to be crushed. | 頭、パンクしそうや |
+| 223 | My head's about to pop. | 頭がプッチンきちゃいそう |
+| 224 | My head is about to be crushed. | 頭がパンクしそうだ |
+| 225 | So AERIS came here, too… She stood in this exact spot… | AERISもここに来たのか……この場所に立ったのか…… |
+| 226 | Hmm… AERIS didn't have to come here. | そうか……AERISはここに来る必要はなかった |
+| 227 | She was able to find out all the information here. | この場所にある情報は全部知ることができたんだな |
+| 228 | What AERIS needed was that altar…and only that. | AERISに必要だったのはあの祭壇……あの場所だけ |
+| 229 | AERIS… | AERIS……何をするつもりだった？ |
+| 230 | AERIS… What were you planning to do? | 俺たち……どうしたらいい？ |
+| 231 | The Sleeping Forest awoke… | どうしたい！？ |
+| 232 | What's wrong!? | 怪電波です！ |
+| 233 | It's a strange signal! | どっからだ？ |
+| 234 | From where? | この……人（？）から出てます |
+| 235 | Hey! | ちょっと驚いてコントロールが乱れてしまいました |
+| 236 | That was a surprise, the controls went crazy. | しもたなぁ～…… |
+| 237 | This ain't good… | ウェポンが海から出てきてミッドガルにきよるんです |
+| 238 | Weapon came out of the sea and is heading straight for Midgar. | 新兵器でなんとかなるんだろ？ |
+| 239 | The new weapon should stop him, right? | 準備が間に合うかどうか…… |
+| 240 | I don't know if it's ready or not… | おい！　マリンはどうなるんだ！？ |
+| 241 | Hey! What's gonna happen to Marlene!? | マリンちゃんは安全な場所にいますわ。AERISさんのお母さんもいっしょです |
+| 242 | Doncha worry none, Marlene's in a safe place. She's with AERIS's mama. | BARRETさん！！ |
+| 243 | BARRET!! | なんですか、今の『ポリポリ』ってのは！ |
+| 244 | What was that scratching just now!? | マリンちゃんが安全やったらあとはどうなってもええんですか？ |
+| 245 | As long as Marlene is safe, who cares what else happens, right? | まえからアンタには言いたいと思とったんですわ！ |
+| 246 | I been itchin' to say this to you for a while now! | ミッドガルの壱番魔晄炉が爆発したとき何人死んだと思ってますのや？ |
+| 247 | When you blew up the Sec.1 reactor how many do you think died? | ……星の命のためだったんだ。多少の犠牲は仕方なかった |
+| 248 | …that was for the life of the Planet. Ya gotta expect a few casualties. | 多少？　多少ってなんやねんな？アンタにとっては多少でも死んだ人にとっては、それが全部なんやで…… |
+| 249 | A few? Whaddya mean 'a few'? What may be a few to you is everything to those who died… | 星の命を守る。はん！　確かに聞こえは、いいですな！ |
+| 250 | Protect the Planet. Hah! That sure sounds good! | そんなもん誰も反対しませんわ。せやからって、何してもええんですか？ |
+| 251 | And no one will go against you. So you think you can do whatever you want, right? | 神羅のやつにどうこう言われたかねえ…… |
+| 252 | I don't wanna hear that from no one in Shinra… | …………どうせ、ボクは…… |
+| 253 | Can't do anything about that… | やめろよ |
+| 254 | Stop it! | CAIT SITH……BARRETは、もう、わかってる |
+| 255 | CAIT SITH… BARRET, he knows what he did. | 私たちがミッドガルでやったことはどんな理由があってもけして許されない |
+| 256 | What we did in Midgar can't be forgotten no matter what the reason. | そうでしょ？　私たち、忘れたことないわよね？ |
+| 257 | Right? We haven't forgotten, right? | あなたのことだってわかるわ |
+| 258 | I know you. | あなたが会社をやめないのはミッドガルの人たちが心配だからよね？ |
+| 259 | …CLOUD? | ウェポンか…… |
+| 260 | Weapon? | よし！　行くぞ！俺たちの手でウェポンを倒してやる！ |
+| 261 | OK! Let's go! We'll beat Weapon ourselves! | CLOUDよう…… |
+| 262 | Hey CLOUD… | あんなバケモノに勝てるのか？少しは勝ち目ってのがあるんだろうな？ |
+| 263 | You think we can win against that monster? We got a chance of winnin', right? | そんなことはわからない！ |
+| 264 | How would I know? | しかし、だからと言って放ってはおけない！ |
+| 265 | But that's no reason for us to just let him go! | 【ミッドガル】へ行ってウェポンと戦うんだ！さあ、行くぞ！ |
+| 266 | We're goin' to Midgar and fight Weapon! Come on, let's move! | 神羅ビル・７０階 |
+| 267 | Rufus | ……というわけでリーブ君。魔晄炉の出力調整は君の仕事だ |
+| 268 | Scarlet | キャハハハハハ！調整なんていいわよ、リーブ |
+| 269 | Kya, hah, hah! Don't worry about adjusting it, Reeve. | 出力全開でガーーーーッと行くのよ！ |
+| 270 | Heidegger | ガハハハハ！それにしてもさすが社長！ |
+| 271 | Gya hah, hah, hah! The President's sure done it this time! | セフィロスを倒せばメテオも消えるとは目のつけどころが違いますな！ |
+| 272 | Scarlet | 社長、忘れないでおいてね |
+| 273 | If you remember, Mr. President | ミッドガルの魔晄炉の力で砲弾を飛ばすのは私のアイディアなんだから |
+| 274 | Rufus | 魔晄キャノンの砲弾は本当に北の果てまでとどくのだろうな |
+| 275 | Of course! | でも社長、魔晄キャノンなんて呼ばないで |
+| 276 | But Mr. President, let's not call it a Mako cannon. | この新兵器の名前は…… |
+| 277 | This new weapon is called… | シスター・レイよっ！ |
+| 278 | The Sister Ray! | じっちゃん！！ |
+| 279 | Bugenhagen | なんだ……ナナキか。まだこんなところに……いる……のか？ |
+| 280 | …Nanaki? …you're still…here? | じっちゃんをこのままにしてなんか行けないよ……！ |
+| 281 | I can't leave you like this, Grandfather! | この谷を、コスモキャニオンのみんなを守るのがオイラの……セトの息子の使命だ！ |
+| 282 | Bugenhagen | ……聞くのじゃ、ナナキ。もうおまえにもわかっておるじゃろう |
+| 283 | …listen, Nanaki. I think you may already know. | おまえに使命というものがあるとすれば、それはこの谷を守ることでは……ない |
+| 284 | Bugenhagen | 枯れてゆく山の木々を見ること。うまれくるチョコボのうぶごえを聞くこと |
+| 285 | Look at the withering mountain grass. Listen to the warble of the new born chocobo's. | 人間の一生などよりもはるかに長い時の流れをみつめつづけること |
+| 286 | Look always to the eternal flow of time which is far greater than the span of a human life. | それはこの谷に残っているよりずっと多くのことをおまえに教えるじゃろう…… |
+| 287 | It will teach you more, than staying here in the valley… | そして、おまえの見たものはやがてライフストリームの一部となりうけつがれていくんじゃ |
+| 288 | What you will see will eventually become a part of the Lifestream. | わしらのこどもたちに……おまえのこどもたちに…… |
+| 289 | For my children… And for your children… | だから、ナナキよ……CLOUDと行け……その目で……耳で…… |
+| 290 | So please, Nanaki… Go with CLOUD… And use your eyes…your ears… | ホーホー…… |
+| 291 | Ho Ho… | じっちゃん！？じっちゃん！！ |
+| 292 | Bugenhagen | ……ああ、そうそう。おまえにわたすものがあった |
+| 293 | …oh yes. This is for you. | トトト……おどかさないでよ、じっちゃん！ |
+| 294 | Bugenhagen | なに言うとるんじゃ。自分で勝手におどろいたくせに。ホラ、持っていくといい |
+| 295 | What? You surprised yourself. Now take this. | 『リミテッドムーン』を手にいれた！ |
+| 296 | Bugenhagen | ホーホー……ホウ。わしのことは心配するな。星の未来をみつめるのじゃ |
+| 297 | Bugenhagen | ホーホー……ホウ。おまえさんたち……か |
+| 298 | Ho Ho…Hoooo. You? | いやなに……ひさしぶりに外に出たんで……少しばかりはしゃぎすぎたかの |
+| 299 | It's been a while…since I've been out. I think I must have…tired myself out a bit. | ああ……ナナキには言わんでくれよ。あれはすぐ心配するから……の |
+| 300 | Bugenhagen | ホーホー……ホウ。ホレ……そんな顔するな。わしのことなら、だいじょうぶじゃよ |
+| 301 | Ho Ho…Hoooo. Now, now. Don't look like that. I'm all right. | 広い世界を見てくるんじゃ……もしかしたらホレ、カワイイガールフレンドが見つかるかもしれんしの？ |
+| 302 | Bugenhagen | そうそう……これを持っていくといい。今のおまえならよく……似合うじゃろ |
+| 303 | Grandfather… | RED XIII……ブーゲンハーゲンは…… |
+| 304 | … | ……じっちゃん、また旅にでるって！ |
+| 305 | Grandpa told me that he's going away again! | 旅……？ |
+| 306 | Away? | この前の飛空艇がよっぽど気に入ったらしいんだ |
+| 307 | It seems like he really liked that airship. | じっとしてられないってとびだしていっちゃったよ！ |
+| 308 | He told me he couldn't stay still and just zipped out of here! | オミヤゲまでもらったんだ、ホラ！ |
+| 309 | Received "Limited Moon"! | あれ？オミヤゲって帰ってきてからもらうんだよね？ |
+| 310 | Wait a minute. Aren't you supposed to give gifts AFTER you come back? | ハハハ、へんなじっちゃん！ハハハ……ハハ……ハ…… |
+| 311 | Ha ha…Grandpa sure is strange! Haa…ha ha…ha… | そうか……それじゃまた、どこかでヒョッコリ会うかもしれないな |
+| 312 | Hmm… Maybe we'll run into him again somewhere. | ウン……そう……そうだね…… |
+| 313 | Yeah… maybe… | ありがと、CLOUD…… |
+| 314 | Thanks, CLOUD… | undefined |
