@@ -312,5 +312,4 @@
 | 310 | Ha ha…Grandpa sure is strange! Haa…ha ha…ha… | ハハハ、へんなじっちゃん！ハハハ……ハハ……ハ…… |
 | 311 | Hmm… Maybe we'll run into him again somewhere. | そうか……それじゃまた、どこかでヒョッコリ会うかもしれないな |
 | 312 | Yeah… maybe… | ウン……そう……そうだね…… |
-| 313 | Thanks, CLOUD… | ありがと、CLOUD……Bugenhagen |
-| 314 | Thanks, CLOUD… | ありがと、CLOUD…… |
+| 313 | Thanks, CLOUD… | ありがと、CLOUD…… |
