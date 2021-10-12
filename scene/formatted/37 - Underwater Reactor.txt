@@ -24,7 +24,7 @@ Let's go to the airport!”	エアポートにいこう！」
 CAIT SITH	CAIT SITH
 “Let's go to the airport!”	「エアポートに
 	いきましょか！」
-Vincent	VINCENT
+VINCENT	VINCENT
 “Looks like we made it.	「たすかったようだな。
 You'll probably head for the airport, right?”	エアポートへむかうのだろ」
 CLOUD	CLOUD
@@ -44,16 +44,16 @@ RED XIII	RED XIII
 Let's get one from the submarine dock	ジュノン地下の【潜水監ドック】！
 beneath Junon!”	とりにいこうよ！」
 CID	CID
-“You want it? Then you got it!	「ほしいならしかたねぇ！
-They're down at the submarine dock	ジュノン地下の【潜水監ドック】！
-underneath Junon!	とれるときにとっとけ！」
-You gotta get what you want while you can!”	
+You want it? Then you got it!	ほしいならしかたねぇ！
+“They're down at the submarine dock	ジュノン地下の【潜水監ドック】！
+underneath Junon!”	
+You gotta get what you want while you can!”	とれるときにとっとけ！
 YUFFIE	YUFFIE
-“…Yeah!!”	「ええっ～！！
-“The submarine dock underneath Junon!	ジュノン地下の【潜水監ドック】！
-	ぬすむのはいいけどさ！」
-I can steal a sub easy enough,	「乗るのは
-but I can't pilot it!”	えんりょしとくよ」
+…Yeah!!	ええっ～！！
+The submarine dock underneath Junon!	ジュノン地下の【潜水監ドック】！
+“I can steal a sub easy enough,	「ぬすむのはいいけどさ！
+but I can't pilot it!”	乗るのは
+	えんりょしとくよ」
 CAIT SITH	CAIT SITH
 “Security's pretty light now!	「潜水監はジュノン地下の【潜水監ドック】に
 The submarine's at the submarine dock!”	ありますんや！」
@@ -817,7 +817,7 @@ Cannot take on anymore Materia.	これいじょうマテリアは持てません
 Please discard some Materia.	なにかマテリアをすててください。
 Received "Outsider"!	『アウトサイダー』を手にいれた！
 Received "Escort Guard"!	『エスコードガード』を手にいれた！
-Received "Heaven's Cloud"!	『天の叢雲』を手にいれた！
+Received "Heaven's CLOUD"!	『天の叢雲』を手にいれた！
 Received "Conformer"!	『不倶戴天』を手にいれた！
 Received "Spirit Lance"!	『ロンギヌス』を手にいれた！
 Received "Megalixir"!	『ラストエリクサー』を手にいれた！

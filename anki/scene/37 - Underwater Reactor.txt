@@ -16,9 +16,11 @@
 いまなら警備もうすいわ	There should only be a few guards now.	警備	scene_37
 ジュノン地下の【潜水監ドック】によってくのもいいかもね	It might be safe to go to the submarine dock under Junon.	地下潜水監	scene_37
 オイラ、のりたいな！ジュノン地下の【潜水監ドック】！とりにいこうよ！	I would like to ride it! Let's get one from the submarine dock beneath Junon!	地下潜水監	scene_37
-ほしいならしかたねぇ！ジュノン地下の【潜水監ドック】！とれるときにとっとけ！	You want it? Then you got it! They're down at the submarine dock underneath Junon! You gotta get what you want while you can!	地下潜水監	scene_37
-ええっ～！！ジュノン地下の【潜水監ドック】！ぬすむのはいいけどさ！	…Yeah!!	地下潜水監	scene_37
-乗るのはえんりょしとくよ	The submarine dock underneath Junon!  I can steal a sub easy enough, but I can't pilot it!	乗	scene_37
+ほしいならしかたねぇ！	You want it? Then you got it!		scene_37
+ジュノン地下の【潜水監ドック】！	They're down at the submarine dock underneath Junon!	地下潜水監	scene_37
+とれるときにとっとけ！	You gotta get what you want while you can!”		scene_37
+ええっ～！！	…Yeah!!		scene_37
+ぬすむのはいいけどさ！乗るのはえんりょしとくよ	I can steal a sub easy enough, but I can't pilot it!	乗	scene_37
 潜水監はジュノン地下の【潜水監ドック】にありますんや！	Security's pretty light now! The submarine's at the submarine dock!	潜水監地下	scene_37
 悪くなかろう	It should be alright.	悪	scene_37
 いくか……	Let's go…		scene_37
@@ -337,7 +339,7 @@ CLOUDさん安全運転してや～	Oh please drive safely, CLOUD!	安全運転	
 『ハーデス』のマテリアを手にいれた！	Received "Hades" Materia!	手	scene_37
 『アウトサイダー』を手にいれた！	Received "Outsider"!	手	scene_37
 『エスコードガード』を手にいれた！	Received "Escort Guard"!	手	scene_37
-『天の叢雲』を手にいれた！	Received "Heaven's Cloud"!	天叢雲手	scene_37
+『天の叢雲』を手にいれた！	Received "Heaven's CLOUD"!	天叢雲手	scene_37
 『不倶戴天』を手にいれた！	Received "Conformer"!	不倶戴天手	scene_37
 『ロンギヌス』を手にいれた！	Received "Spirit Lance"!	手	scene_37
 『れんぞくぎり』のマテリアを手にいれた！	Received "Double Cut" Materia!	手	scene_37
