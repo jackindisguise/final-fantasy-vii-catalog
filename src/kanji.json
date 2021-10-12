@@ -1,6 +1,6 @@
 {
 	"unique": 980,
-	"total": 42462,
+	"total": 42461,
 	"table": [
 		{
 			"kanji": "行",
@@ -3305,7 +3305,7 @@
 		{
 			"kanji": "照",
 			"order": 661,
-			"occurrences": 10
+			"occurrences": 9
 		},
 		{
 			"kanji": "暑",

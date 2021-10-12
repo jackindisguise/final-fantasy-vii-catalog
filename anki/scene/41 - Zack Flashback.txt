@@ -11,10 +11,9 @@
 あ、どの女の子も親といっしょに住んでるのか……	No wait, the mother lives there too.	女子親住	scene_41
 そりゃマズいよな～あ？	Guess that's out.		scene_41
 ダメだ…作戦チェンジ！	Yep…gotta change my plans!	作戦	scene_41
-う～ん……New	Hmm…		scene_41
 何をどうするにしてもとりあえず金だよな……	No matter what I do, I need some money first…	何金	scene_41
 ……商売でもはじめるか	…Hey, wanna start a business? Now what could we do?	商売	scene_41
-な、Cloud。	Hey, CLOUD.		scene_41
+な、CLOUD。	Hey, CLOUD.		scene_41
 俺にできる商売ってあると思うか？	Think there's anything I'd be good at?	俺商売思	scene_41
 なあ、おっさん！	Hey old guy!		scene_41
 なんか俺にできるような商売知らないか？	What do you think I'd be good at?	俺商売知	scene_41
@@ -34,13 +33,12 @@
 おい、俺はなんでも屋になるぜ	Listen, I'm gonna become a mercenary and that's that.	俺屋	scene_41
 面倒なこと、危険なこと報酬しだいでなんでもやるんだ	Boring stuff, dangerous stuff, anything for money.	面倒危険報酬	scene_41
 こりゃ、もうかるぞ～	I'm gonna be rich!		scene_41
-な、Cloud。おまえはどうする？	So, CLOUD? What are YOU gonna do?		scene_41
+な、CLOUD。おまえはどうする？	So, CLOUD? What are YOU gonna do?		scene_41
 う…ぁぁあ…	U…uhhh…		scene_41
 ……冗談だよおまえを放り出したりはしないよ	Just kidding… I won't leave you hanging like that.	冗談放出	scene_41
 ……トモダチ、だろ？	We're friends, right?		scene_41
-はははは……照れるぜ	Mercenaries. CLOUD. That's what you an' me are gonna be.	照	scene_41
-なんでも屋だ、Cloud。俺たちはなんでも屋をやるんだ	Mercenaries. CLOUD. That's what you an' me are gonna be.	屋俺	scene_41
-わかるか、Cloud？	Understand, CLOUD?		scene_41
+なんでも屋だ、CLOUD。俺たちはなんでも屋をやるんだ	Mercenaries. CLOUD. That's what you an' me are gonna be.	屋俺	scene_41
+わかるか、CLOUD？	Understand, CLOUD?		scene_41
 こいつ、どうします？	What do you want to do with him?		scene_41
 ああ……うあぁぁぁ……	…Ah…ughhhh…		scene_41
 指揮官	Commander	指揮官	scene_41

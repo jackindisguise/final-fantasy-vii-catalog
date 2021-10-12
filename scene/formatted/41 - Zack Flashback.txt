@@ -20,12 +20,12 @@ Zack	ザックス
 Zack	ザックス
 “What're you gonna do	「なあ、ミッドガルに着いたら
 once we get to Midgar?”	おまえ、どうする？」
-CLOUD	Cloud
+CLOUD	CLOUD
 “…”	「………」
 Zack	ザックス
 “I know what I'm	「俺はあちこちに
 gonna do.”	あてがあるんだ」
-CLOUD	Cloud
+CLOUD	CLOUD
 “…”	「………」
 Zack	ザックス
 “I got a place I can	「みんなの世話んなって……」
@@ -36,20 +36,20 @@ lives there too.”	親といっしょに
 	住んでるのか……」
 Zack	ザックス
 “Guess that's out.”	「そりゃマズいよな～あ？」
-CLOUD	Cloud
+CLOUD	CLOUD
 “…”	「………」
 Zack	ザックス
 “Yep…gotta change	「ダメだ…作戦チェンジ！」
 my plans!”	
 Zack	ザックス
-“Hmm…”	「う～ん……」New
+“Hmm…”	「う～ん……」
 “No matter what I do, I	「何をどうするにしても
 need some money first…”	とりあえず金だよな……」
 Zack	ザックス
 “…Hey, wanna start a business?	「……商売でもはじめるか」
 Now what could we do?”	
 Zack	ザックス
-“Hey, CLOUD.”	「な、Cloud。」
+“Hey, CLOUD.”	「な、CLOUD。」
 “Think there's anything	「俺にできる商売ってあると思うか？」
 I'd be good at?”	
 Zack	ザックス
@@ -73,7 +73,7 @@ Find my own way?	……自分の道だぁ？
 “Try everything…	「なんでも、だってよ。
 That's easy for him to say.”	そんなこと言われたってな…」
 	
-CLOUD	Cloud
+CLOUD	CLOUD
 “…”	「………」
 Zack	ザックス
 “HEY!”	「あ！」
@@ -100,32 +100,29 @@ anything for money.”	報酬しだいで
 	なんでもやるんだ」
 “I'm gonna be rich!”	「こりゃ、もうかるぞ～」
 Zack	ザックス
-“So, CLOUD?	「な、Cloud。
+“So, CLOUD?	「な、CLOUD。
 What are YOU gonna do?”	おまえはどうする？」
-CLOUD	Cloud
+CLOUD	CLOUD
 “U…uhhh…”	「う…ぁぁあ…」
 Zack	ザックス
 “Just kidding…	「……冗談だよ
 I won't leave you hanging like that.”	おまえを放り出したりは
 	しないよ」
-CLOUD	Cloud
+CLOUD	CLOUD
 “…”	「………」
 Zack	ザックス
 “We're friends, right?”	「……トモダチ、だろ？」
 Zack	ザックス
-“Mercenaries. CLOUD.	「はははは……照れるぜ」
-That's what you an' me are gonna be.”	
-Zack	ザックス
-“Mercenaries. CLOUD.	「なんでも屋だ、Cloud。
+“Mercenaries. CLOUD.	「なんでも屋だ、CLOUD。
 That's what you an' me are gonna be.”	俺たちは
 	なんでも屋をやるんだ」
 Zack	ザックス
-“Understand, CLOUD?”	「わかるか、Cloud？」
+“Understand, CLOUD?”	「わかるか、CLOUD？」
 Shinra Soldier	神羅兵
 “What do you want to do with him?”	「こいつ、どうします？」
-CLOUD	Cloud
+CLOUD	CLOUD
 “…Ah…ughhhh…”	「ああ……うあぁぁぁ……」
 Commander	指揮官
 “Forget it. Just leave him.”	「……これはダメだな。放っておけ」
-CLOUD	Cloud
+CLOUD	CLOUD
 “uh…uhhh…Za…Zack…”	「うぅ……あぁああ……ザ……ザッ……クス」
