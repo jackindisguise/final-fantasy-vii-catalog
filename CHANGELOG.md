@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.4.0...v3.0.0) (2021-10-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* We're done proofreading for now. Even though this was essentially only 30% proofreading (for the last 10 or 20 scenes, atleast), it should account for a significant number of errors present in the scenes.
+
+### Bug Fixes
+
+* **scene:** Fixed a dozen formatting issues in Return to Midgar. ([8c1749e](https://github.com/nowotato/final-fantasy-vii-catalog/commit/8c1749e334808a1ad258d227a950a522988f92cc)), closes [#105](https://github.com/nowotato/final-fantasy-vii-catalog/issues/105)
+* **scene:** Fixed formatting issue in Underwater Reactor. ([0f180b0](https://github.com/nowotato/final-fantasy-vii-catalog/commit/0f180b0042fee78b03c14b5416849c5979e97162)), closes [#102](https://github.com/nowotato/final-fantasy-vii-catalog/issues/102)
+* **scene:** Fixed formatting issues of Zack Flashback. ([abe9fdb](https://github.com/nowotato/final-fantasy-vii-catalog/commit/abe9fdb50cbcec3a2ab159ecfdaaa0980871b1c9)), closes [#106](https://github.com/nowotato/final-fantasy-vii-catalog/issues/106)
+* **scene:** Fixed minor formatting issue in North Cave and Ending. ([c60d847](https://github.com/nowotato/final-fantasy-vii-catalog/commit/c60d847008d00469bc617df4a8f1dcb14871ebc2))
+* **scene:** Formatting issue in scene 39. ([9de3a06](https://github.com/nowotato/final-fantasy-vii-catalog/commit/9de3a0658f8094ba3cdc70b284bcc3c73971d47c)), closes [#104](https://github.com/nowotato/final-fantasy-vii-catalog/issues/104)
+* **scene:** Missing line in English re-added (Bugenhagan's name). ([5609c19](https://github.com/nowotato/final-fantasy-vii-catalog/commit/5609c19ddf6a4b7d5d964a1a760ae08d4d70f4df))
+* **scene:** Removed duplicate line. ([01d0ee3](https://github.com/nowotato/final-fantasy-vii-catalog/commit/01d0ee3b22abd12eab68a84757b2df2f1c7ab405))
+
+
+* fix(scene):Fixed all known formatting issues in North Cave and Ending. ([b5fc905](https://github.com/nowotato/final-fantasy-vii-catalog/commit/b5fc9050217e44f71089933f7b1ff3a640c9b7ee)), closes [#108](https://github.com/nowotato/final-fantasy-vii-catalog/issues/108)
+
 ## [2.4.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.3.19...v2.4.0) (2021-10-06)
 
 
