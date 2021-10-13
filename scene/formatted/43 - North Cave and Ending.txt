@@ -228,7 +228,7 @@ indeed the very life of this Planet,	いや、この星すべての命運は
 is in our hands…”	オイラたちに、かかってるんだね」
 YUFFIE	YUFFIE
 “Oh man…	「あ～あ～。
-Materia Hunter YUFFIE'	『マテリア・ハンター　YUFFIE』
+"Materia Hunter YUFFIE"	『マテリア・ハンター　YUFFIE』
 sounds like the last chapter of	最終回『マテリアよ永遠に……』って
 Materia Forever.'”	カンジ」
 CAIT SITH	CAIT SITH
@@ -412,7 +412,6 @@ CAIT SITH	CAIT SITH
 	いきましょか」
 VINCENT	VINCENT
 “Hold on to this.”	「とっておけ」
-	手にいれた！
 Received "Mythril"!	『ミスティール』を手にいれた！
 Received "Magic Source"!	『マジックアップ』を手にいれた！
 Received "MegaAll" Materia!	「『すべてぜんたいか』のマテリアを
@@ -475,11 +474,11 @@ Let's get going	そろそろ行こう
 CLOUD	CLOUD
 “All right, everyone, let's mosey.”	「よし、行こうよ、みんな」
 CID	CID
-“Damn! Again!”	「カーーッ！　またかよっ！」New
+“Damn! Again!”	「カーーッ！　またかよっ！」
 	「やめてくれよ
-“Stop sayin' it like a wimp!”	その気の抜けた言い方」New
+“Stop sayin' it like a wimp!”	その気の抜けた言い方」
 “Can't you say	「『行くぜ！！』くらい
-Move out!' or somethin'?”	言えねぇのかよ」
+"Move out!" or somethin'?”	言えねぇのかよ」
 CLOUD	CLOUD
 “Move out!!”	「行くぜ！！」
 BARRET	BARRET
@@ -500,7 +499,7 @@ do us no good wit'	全員グダグダしてても
 everyone back here!”	しょーがねぇだろ」
 CID	CID
 “BARRET's right.”	「だな、BARRETの言うことも
-	もっともだぜ」New
+	もっともだぜ」
 “You take two of us with	「CLOUD、おまえさんは
 you and go first. The rest'll	あと２人くれぇ連れて先に行ってろ。
 catch up with ya later.”	残ったこっちもスグおいつくからよ！」
@@ -732,13 +731,13 @@ CLOUD	CLOUD
 “That…I don't know.	「それは……わからない。
 Isn't the rest up to the Planet?”	あとは星が決めることだろ？」
 TIFA	TIFA
-“…You're right.”	「……そうね」New
+“…You're right.”	「……そうね」
 “We've done all that we could do.”	「私たち、できることは
 	ぜんぶやったものね」
 CLOUD	CLOUD
 “All right, everyone.”	「さあ、みんな」
 CLOUD	CLOUD
-“We did our best.”	「もう、考えてもしようがない」New
+“We did our best.”	「もう、考えてもしようがない」
 “That's it.”	「不安やなんかはここに
 	置きざりにしてさ」
 CLOUD	CLOUD
