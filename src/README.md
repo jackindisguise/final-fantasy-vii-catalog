@@ -1,14 +1,4 @@
 # Process scene text.
-Scene text is in this format:
-
->`<English line 1>` `\t` `<Japanese line 1>`
->
->`<English line 2>` `\t` `<Japanese line 2>`
->
->`...`
->
->`<English line n>` `\t` `<Japanese line n>`
-
 The goal is to make it so that each line of Japanese text is accompanied by its exact English translation.
 
 While the script does keep related lines next to each other, much of the text is not consistently formatted. Linebreaks in a dialogue box are completely separated into separate lines in the source spreadsheet. Because the number of lines change between the Japanese and English text, this means not all of the meaning is preserved line-by-line.
@@ -100,7 +90,11 @@ Generates a list of all vocabulary found in every scene.
 
 Vocabulary lists are stored as JSON in `../vocabulary/unprocessed/`.
 
-Designed to process through the vocab disambiguator webserver.
+Designed to be processed through the vocab disambiguator webserver.
+
+**This is a very costly operation.**
+This uses MeCab to parse every single line of every single scene.
+It takes over 10 minutes for this to complete.
 
 Syntax: `node generate-vocabulary-list`
 
@@ -109,6 +103,6 @@ I created a web-app that allows you to quickly and easily disambiguate words fou
 
 Disambiguated vocabulary files are stored in `../vocabulary/processed/`.
 
-Syntax: `node vocab-disambiguator-webserver`
+Syntax: `node disambugator`
 
 This starts the webserver. You'll need to visit it at `http://localhost/` to use it.
