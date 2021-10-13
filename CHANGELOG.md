@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v3.0.0...v3.0.1) (2021-10-13)
+
+
+### Bug Fixes
+
+* Updated flashcard and spreadsheet info to v3.0.0. ([30e5be8](https://github.com/nowotato/final-fantasy-vii-catalog/commit/30e5be84a054399b199e0de58139baee2d1f0526))
+
 ## [3.0.0](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v2.4.0...v3.0.0) (2021-10-13)
 
 
