@@ -109,166 +109,165 @@
 | 107 | Received "Guard Source"! | 『ガードアップ』を手にいれた |
 | 108 | Alright, this's the last dance! | よし、最後の大暴れだ！ |
 | 109 | CLOUD, I found this… | CLOUD、オイラこんなもの見つけたんだけど |
-| 110 | CLOUD… | CLOUD……マテリアがいっぱいみたいだよ |
-| 111 | Received "Speed Source"! | ついにここまで来たね |
-| 112 | We finally made it here. | おう、CLOUD。途中でひろったぜ |
-| 113 | Received "Elixir"! | ウダウダしてねぇでさっさと行こうぜ！ |
-| 114 | Let's just get this over with! | ほれ、CLOUDさんこんなん見つけましたわ |
-| 115 | Received "X-Potion"! | ほな、チャッチャッといきましょか |
-| 116 | Well, shall we get goin'? | とっておけ |
-| 117 | Hold on to this. | 手にいれた！ |
-| 118 | Received "MegaAll" Materia! | 『すべてぜんたいか』のマテリアを手にいれた！ |
-| 119 | No, first organize your Materia. You have too much. | いや、そのまえにマテリアを整理しろ。持ちすぎだ |
-| 120 | Hmm… Being with you all isn't so bad. | フッ……おまえたちにつきあうのも悪くはないな |
-| 121 | … Wh…what? | …………な、なんだよ |
-| 122 | By the way YUFFIE, didn't you find something? | そういえばYUFFIE何か見つけてなかった？ |
-| 123 | Oh yeah, YUFFIE, didn't you find somethin'? | そういえばよ、YUFFIE。おまえ、何か見つけてなかったか？ |
-| 124 | By the way YUFFIE, didn't you find something on the way? | そういえば、YUFFIEさあ。途中で何かひろってなかった？ |
-| 125 | Yeah, YUFFIE, didn't you pick up something on the way? | そういや、YUFFIEよ。おめぇ何かひろってなかったか？ |
-| 126 | By the way, YUFFIE, didn't you pick up something? | そういや、YUFFIEさんなんかひろとったような… |
-| 127 | YUFFIE, just let CLOUD have it. | YUFFIE、いいからCLOUDにあずけるのだ |
-| 128 | But I'm the one who found it, so you better give it back to me when you're done with it! | けど、それアタシが見つけたんだから終わったら返しなよ |
-| 129 | Hey!? But you have lots of Materia! Then you won't need it. | おっ！？マテリアがいっぱいじゃん！じゃあ、いらないね |
-| 130 | It feels like we made it as far as we can. | ついに、来るとこまで来たって感じ？ |
-| 131 | Let's get going | そろそろ行こう |
-| 132 | (No, not yet…) | （まだ、やめておこう…） |
-| 133 | All right, everyone, let's mosey. | よし、行こうよ、みんな |
-| 134 | Damn! Again! | カーーッ！　またかよっ！New |
-| 135 | Stop sayin' it like a wimp! | やめてくれよその気の抜けた言い方New |
-| 136 | Can't you say Move out!' or somethin'? | 『行くぜ！！』くらい言えねぇのかよ |
-| 137 | Move out!! | 行くぜ！！ |
-| 138 | Look at the number… | すごい数だ…… |
-| 139 | %#@^! They're comin' out in full force! | チッ！　みなさん総出でおでむかえかよ！ |
-| 140 | CLOUD! You go first! | CLOUD！おめぇは先に行け！ |
-| 141 | OK, I'm going alone. | 俺もここで戦う |
-| 142 | Shu'up! It won't do us no good wit' everyone back here! | バ～カ！　こんなところで全員グダグダしててもしょーがねぇだろ |
-| 143 | BARRET's right. | だな、BARRETの言うことももっともだぜNew |
-| 144 | You take two of us with you and go first. The rest'll catch up with ya later. | CLOUD、おまえさんはあと２人くれぇ連れて先に行ってろ。残ったこっちもスグおいつくからよ！ |
-| 145 | Is this like a practice run before the final battle? | ま、本番前の準備運動ってところかしら？ |
-| 146 | Yeah, a major practice run… | なんやえらい準備運動やなぁ… |
-| 147 | I'm fine with that. (It's probably more fun than meeting Sephiroth down there.) | へへ、アタシはへっちゃらだよ。（下でセフィロス相手にするより楽かもしれないし） |
-| 148 | Hmm, this might be fun to pass time. | フッ、ヒマつぶしにはもってこいだな |
-| 149 | They're coming! They're already on the floor next to us! | 来る！もう、となりのフロアまで来てる！ |
-| 150 | CLOUD! Hurry up and make up your mind! | CLOUD！はやく決めろ！ |
-| 151 | All of you! | みんな！ |
-| 152 | Later! | あとでまた！ |
-| 153 | Yeah, later. | ああ、あとでな |
-| 154 | Yup! Later! | ヘッ！　あとでな |
-| 155 | We'll meet up later. | うん、あとでまた会いましょう |
-| 156 | Inside the Planet | 星の体内 |
-| 157 | Where are we? | ここは……？ |
-| 158 | What's that!? | なんだ！？ |
-| 159 | What? | なに！？ |
-| 160 | What the hell? | なんだ、なんだ！ |
-| 161 | What? | な、なんや！ |
-| 162 | What? What? | なに！　なに！ |
-| 163 | What's this? | これは！？ |
-| 164 | Jenova? | ジェノバ…！？ |
-| 165 | It's coming!! | 来る！！ |
-| 166 | Li…ght… | ひ……かり…… |
-| 167 | A light… | 光だ…… |
-| 168 | Is this… | これが…… |
-| 169 | Is this light…Holy? | この光が……ホーリー？ |
-| 170 | CID!? | CID！？ |
-| 171 | Owww… | イテテテ…… |
-| 172 | Goddammit… So we're all here? | なんだコンチクショウ……けっきょく全員集合かよ…… |
-| 173 | What? So everyone's together again? | なんだオイ……けっきょくみんなそろっちまったのか…… |
-| 174 | Owwww… | アイタタタ…… |
-| 175 | CLOUD… So are we all together? | CLOUD……やっぱりいっしょになっちゃったね…… |
-| 176 | …And, where the hell's that? | ……それで、いったいどこにいやがるんだ？あの…… |
-| 177 | Uuuugh!! | ウグッ……！！ |
-| 178 | Sephiroth!! | ……セフィロスッ！！ |
-| 179 | Ugh! Is this… Sephiroth's power? | グッ……！これが……本当のセフィロスの力だってのか！？ |
-| 180 | My…my body… I can't control my body… Uuugh!? | か、体が……言うことをききやがらねえ……ウオッ！？ |
-| 181 | Sephi…roth! Not yet… I'm not…Uuuuraagh! | セフィ……ロス……！まだだ……まだ俺は……ウァァアア！ |
-| 182 | My front legs…my hind legs… my tail's about to rip off!! | 前足が……後ろ足が……シッポがちぎれそうだ！！ |
-| 183 | This is definitely not good… He's way outta our league… | アカン……やっぱりケタちがいや…… |
-| 184 | I, I don't know if I can…go on. | ア、アタシもうダメ……かも…… |
-| 185 | CLOUD… CLOUD… | CLOUD……CLOUD…… |
-| 186 | Ugh…ugh… | ウ……ウ…… |
-| 187 | …There… | ……こに……ある…… |
-| 188 | It's…there… | そこに……あるんだ…… |
-| 189 | …Holy…Holy… is there… | ……ホーリーが……ホーリーがそこにある…… |
-| 190 | Holy Materia is shining… AERIS's prayer is shining! | ホーリーが輝いてる……AERISのいのりが輝いてる……！ |
-| 191 | Holy… AERIS… | ホーリー……AERIS…… |
-| 192 | It's not over yet… This isn't the end yet!! | まだ終わりじゃない……終わりじゃないんだ！！ |
-| 193 | Uuuuuaaaaagh!! | ウワアァーッ！！ |
-| 194 | Eeeyaaaa!! | キャアアァーッ！！ |
-| 195 | Let's go, everyone! | いくぞ、みんな……！ |
-| 196 | Just a moment! | もう１度だけ……！ |
-| 197 | AERIS's memories… Our memories… | AERISの想い……俺たちの想い…… |
-| 198 | We came…to tell you…our memories… Come Planet! Show us your answer! | その想い伝えるために……俺たちは……来た……さあ、星よ！　答えを見せろ！ |
-| 199 | And Sephiroth!! To the settling of everything!! | そしてセフィロス！！すべての決着を！！ |
-| 200 | Not only AERIS… | AERISだけじゃねえ…… |
-| 201 | Holy is the prayer of AVALANCHE… Of Marlene and Dyne… And everyone on the Planet! | ホーリーはアバランチの……マリンやダインの……この星の人間のいのりだ！ |
-| 202 | AERIS is here… everyone is here… CLOUD is here with us! | AERISがいる……みんながいる……CLOUDがいてくれる！ |
-| 203 | There's still a lot for us to do… I'm not giving up!! | 私たちにはまだできることがある……！私、あきらめない！！ |
-| 204 | I'm going to see it through to the end. For our future… And that of the Planet… | オイラはみとどける。みんなのこれから……この星のこれから…… |
-| 205 | I understand now, Grandpa. This is my mission! | 今ならわかるよ、じっちゃん。それがオイラの使命だ！ |
-| 206 | I won't let the Lifestream… or the Planet wither away!! | ライフストリームを……星の命を、かれさせはしない！！ |
-| 207 | Hoo-ok! I can't be foolin' around in this hell hole… | ヘッ……！こんな穴ぐらの底でいつまでもはいつくばってられるかよ…… |
-| 208 | I still have lots of stuff to do with my life! | オレ様はよ……オレ様にはよ！まだまだ、やりてえことがあるんだよ！ |
-| 209 | We noticed a little late the trouble we were getting in… | まちがいにきづくんがちぃ～と遅かったんかもしれん…… |
-| 210 | But, there's still time… We can still get out of it! Even if we can't get EVERYTHING back to normal! | それでも、まだ……まだやり直せるはずや！ぜんぶ元にはもどせんかもしれんけどな！ |
-| 211 | We should be able to protect what's most important!! | いちばんだいじなモンを守ることはできるはずや！！ |
-| 212 | Maybe…maybe I shouldn't have come… | や……やっぱりくるんじゃなかったかも…… |
-| 213 | I don't need…Materia……any… | もう、マテリアなんか……マテリアなんか…… |
-| 214 | Nope, I still want it!! This an' that an' everything…MINE! And I'm never gonna give any up!! | やっぱり欲しいッ！！アレもコレも、みんなみんなアタシのもの！アンタなんかにやるもんか！！ |
-| 215 | I was frozen in time… But now I feel as though my time is finally beginning! | あの時に凍りついた私の時間が、今ふたたび動きはじめる……！ |
-| 216 | Sephiroth, now it's your time to sleep for the ages!! | セフィロス、今度はおまえが時のはざまで眠りにつく番だ！！ |
-| 217 | Urrrrrgh!! | ウオオォッ！！ |
-| 218 | …We're not gonna lose!! | ……負けないっ！！ |
-| 219 | …No way we're gonna lose!! | ……負けるもんか！！ |
-| 220 | This ain't nothin'!! | ケッ、へでもねえぜっ！！ |
-| 221 | We're not losin'!! | 負けへんでェ！！ |
-| 222 | I don't like it!! | もうイヤ～ッ！！ |
-| 223 | …over… | ……終わった…… |
-| 224 | It's all over… | 終わったんだ…… |
-| 225 | …everything… | ……なにもかも…… |
-| 226 | Everyone…everything… | なにも……かも…… |
-| 227 | all finished… | 終わりをつげ…… |
-| 228 | Now everything | そしてこの私から |
-| 229 | will begin anew…with me!! | すべてがはじまる！！ |
-| 230 | This is all we could do. | 俺たちにできるのはここまでだな |
-| 231 | Wait! What about Holy? What's gonna happen to the Planet? | ちょっと待てよ！ホーリーは！？星はどうなる？ |
-| 232 | That…I don't know. Isn't the rest up to the Planet? | それは……わからない。あとは星が決めることだろ？ |
-| 233 | …You're right. | ……そうねNew |
-| 234 | We've done all that we could do. | 私たち、できることはぜんぶやったものね |
-| 235 | All right, everyone. | さあ、みんな |
-| 236 | We did our best. | もう、考えてもしようがないNew |
-| 237 | That's it. | 不安やなんかはここに置きざりにしてさ |
-| 238 | Let's go home proud. | 胸を張って帰ろう |
-| 239 | …I feel it… | ……感じる…… |
-| 240 | What… | えっ…… |
-| 241 | He is still…here. | あいつは……まだいる |
-| 242 | Still… | まだ…… |
-| 243 | He's…laughing… | わ、笑ってる…… |
-| 244 | ……..Lifestream? | ……ライフストリム？ |
-| 245 | …. I think I'm beginning to understand. | ….わかったような気がする |
-| 246 | An answer from the planet… the Promised Land… | 星からの容え….約束の地…. |
-| 247 | I think I can meet her … there | そこで….会えると思うんだ |
-| 248 | Yeah, let's go meet her. | うん、会いに行こう |
-| 249 | Hey, where is everyone? | そうだ、みんなは？ |
-| 250 | Heeeey! | おーーーーい！ |
-| 251 | I'm glad you're all safe! | 良かった！みんな無事みたい |
-| 252 | They all seem to be safe, too. | どうやら向こうも無事らしいな |
-| 253 | But… now what're we going to do? | でもよ、これからどうするんだ？ |
-| 254 | Holy should be moving soon, | もうじきホーリーが動き出すんだろ？ |
-| 255 | and that means this place will… | そうなったら、ここは…… |
-| 256 | Oh, Lady Luck don't fail me now… | あ～あ、、　運命の女神さんよぉ、、 |
-| 257 | Shit!! | 何とかなんねェのかよ～ |
-| 258 | The flower girl? | ちくしょー！！ |
-| 259 | Wait a damn minute! | お花のおねえちゃん？ |
-| 260 | What's gonna happen to Midgar? | おいおいおい！ミッドガルどうなるんだ？ |
-| 261 | We can't let that happen! | まずいんじゃねえのか？ |
-| 262 | I had everyone take refuge in the slums, | みんなスラムに非難してもろたんやけど |
-| 263 | but the way things are now… | このままやったら、もう…… |
-| 264 | It's too late for Holy. | きっとホーリーが遅すぎたんだ |
-| 265 | Meteor is approaching the Planet. | メテオが星に近づきすぎてる |
-| 266 | Holy is having the opposite effect. | これじゃせっかくのホーリーも逆効果だ |
-| 267 | Forget Midgar, we've gotta worry about the Planet, | ミッドガルどころか星そのものが…… |
-| 268 | What's that!? | あれは！？ |
-| 269 | What the hell IS that…….? | なんなんだ……？ |
-| 270 | …….. Lifestream. | ……ライフストリームだ |
-| 271 | It's coming. | 来る |
-| 272 | Five hundred years later… | 500年後… |
+| 110 | CLOUD… Seems like you got too much Materia. | CLOUD……マテリアがいっぱいみたいだよ |
+| 111 | We finally made it here. | ついにここまで来たね |
+| 112 | Hey, CLOUD, I found this on the way. | おう、CLOUD。途中でひろったぜ |
+| 113 | Let's just get this over with! | ウダウダしてねぇでさっさと行こうぜ！ |
+| 114 | Hey, CLOUD, I found this. | ほれ、CLOUDさんこんなん見つけましたわ |
+| 115 | Well, shall we get goin'? | ほな、チャッチャッといきましょか |
+| 116 | Hold on to this. | とっておけ |
+| 117 | Received "Mythril"! | 手にいれた！ |
+| 118 | No, first organize your Materia. You have too much. | 『すべてぜんたいか』のマテリアを手にいれた！ |
+| 119 | Hmm… Being with you all isn't so bad. | いや、そのまえにマテリアを整理しろ。持ちすぎだ |
+| 120 | … Wh…what? | フッ……おまえたちにつきあうのも悪くはないな |
+| 121 | By the way YUFFIE, didn't you find something? | …………な、なんだよ |
+| 122 | Oh yeah, YUFFIE, didn't you find somethin'? | そういえばYUFFIE何か見つけてなかった？ |
+| 123 | By the way YUFFIE, didn't you find something on the way? | そういえばよ、YUFFIE。おまえ、何か見つけてなかったか？ |
+| 124 | Yeah, YUFFIE, didn't you pick up something on the way? | そういえば、YUFFIEさあ。途中で何かひろってなかった？ |
+| 125 | By the way, YUFFIE, didn't you pick up something? | そういや、YUFFIEよ。おめぇ何かひろってなかったか？ |
+| 126 | YUFFIE, just let CLOUD have it. | そういや、YUFFIEさんなんかひろとったような… |
+| 127 | Oh, all right. | YUFFIE、いいからCLOUDにあずけるのだ |
+| 128 | Received "Megalixir"! | けど、それアタシが見つけたんだから終わったら返しなよ |
+| 129 | Received "Vaccine"! | おっ！？マテリアがいっぱいじゃん！じゃあ、いらないね |
+| 130 | Let's get going | ついに、来るとこまで来たって感じ？ |
+| 131 | (No, not yet…) | そろそろ行こう |
+| 132 | All right, everyone, let's mosey. | （まだ、やめておこう…） |
+| 133 | Damn! Again! | よし、行こうよ、みんな |
+| 134 | Stop sayin' it like a wimp! | カーーッ！　またかよっ！New |
+| 135 | Can't you say Move out!' or somethin'? | やめてくれよその気の抜けた言い方New |
+| 136 | Move out!! | 『行くぜ！！』くらい言えねぇのかよ |
+| 137 | What? | 行くぜ！！ |
+| 138 | %#@^! They're comin' out in full force! | すごい数だ…… |
+| 139 | CLOUD! You go first! | チッ！　みなさん総出でおでむかえかよ！ |
+| 140 | OK, I'm going alone. | CLOUD！おめぇは先に行け！ |
+| 141 | Shu'up! It won't do us no good wit' everyone back here! | 俺もここで戦う |
+| 142 | BARRET's right. | バ～カ！　こんなところで全員グダグダしててもしょーがねぇだろ |
+| 143 | You take two of us with you and go first. The rest'll catch up with ya later. | だな、BARRETの言うことももっともだぜNew |
+| 144 | Is this like a practice run before the final battle? | CLOUD、おまえさんはあと２人くれぇ連れて先に行ってろ。残ったこっちもスグおいつくからよ！ |
+| 145 | Yeah, a major practice run… | ま、本番前の準備運動ってところかしら？ |
+| 146 | I'm fine with that. (It's probably more fun than meeting Sephiroth down there.) | なんやえらい準備運動やなぁ… |
+| 147 | Hmm, this might be fun to pass time. | へへ、アタシはへっちゃらだよ。（下でセフィロス相手にするより楽かもしれないし） |
+| 148 | They're coming! They're already on the floor next to us! | フッ、ヒマつぶしにはもってこいだな |
+| 149 | CLOUD! Hurry up and make up your mind! | 来る！もう、となりのフロアまで来てる！ |
+| 150 | All of you! | CLOUD！はやく決めろ！ |
+| 151 | Later! | みんな！ |
+| 152 | Yeah, later. | あとでまた！ |
+| 153 | Yup! Later! | ああ、あとでな |
+| 154 | We'll meet up later. | ヘッ！　あとでな |
+| 155 | Inside the Planet | うん、あとでまた会いましょう |
+| 156 | Where are we? | 星の体内 |
+| 157 | What's that!? | ここは……？ |
+| 158 | What? | なんだ！？ |
+| 159 | What the hell? | なに！？ |
+| 160 | Wha…what? | なんだ、なんだ！ |
+| 161 | What? What? | な、なんや！ |
+| 162 | What's this? | なに！　なに！ |
+| 163 | Jenova? | これは！？ |
+| 164 | It's coming!! | ジェノバ…！？ |
+| 165 | ???? | 来る！！ |
+| 166 | A light… | ひ……かり…… |
+| 167 | Is this… | 光だ…… |
+| 168 | Is this light…Holy? | これが…… |
+| 169 | CID!? | この光が……ホーリー？ |
+| 170 | BARRET!? | CID！？ |
+| 171 | Goddammit… So we're all here? | イテテテ…… |
+| 172 | Oww…damn, man! | なんだコンチクショウ……けっきょく全員集合かよ…… |
+| 173 | Owwww… | なんだオイ……けっきょくみんなそろっちまったのか…… |
+| 174 | CLOUD… So are we all together? | アイタタタ…… |
+| 175 | …And, where the hell's that? | CLOUD……やっぱりいっしょになっちゃったね…… |
+| 176 | Uuuugh!! | ……それで、いったいどこにいやがるんだ？あの…… |
+| 177 | Sephiroth!! | ウグッ……！！ |
+| 178 | Ugh! Is this… Sephiroth's power? | ……セフィロスッ！！ |
+| 179 | My…my body… I can't control my body… Uuugh!? | グッ……！これが……本当のセフィロスの力だってのか！？ |
+| 180 | Sephi…roth! Not yet… I'm not…Uuuuraagh! | か、体が……言うことをききやがらねえ……ウオッ！？ |
+| 181 | My front legs…my hind legs… my tail's about to rip off!! | セフィ……ロス……！まだだ……まだ俺は……ウァァアア！ |
+| 182 | This is definitely not good… He's way outta our league… | 前足が……後ろ足が……シッポがちぎれそうだ！！ |
+| 183 | I, I don't know if I can…go on. | アカン……やっぱりケタちがいや…… |
+| 184 | CLOUD… CLOUD… | ア、アタシもうダメ……かも…… |
+| 185 | Ugh…ugh… | CLOUD……CLOUD…… |
+| 186 | …There… | ウ……ウ…… |
+| 187 | It's…there… | ……こに……ある…… |
+| 188 | CLOUD? | そこに……あるんだ…… |
+| 189 | Holy Materia is shining… AERIS's prayer is shining! | ……ホーリーが……ホーリーがそこにある…… |
+| 190 | Holy… AERIS… | ホーリーが輝いてる……AERISのいのりが輝いてる……！ |
+| 191 | It's not over yet… This isn't the end yet!! | ホーリー……AERIS…… |
+| 192 | Uuuuuaaaaagh!! | まだ終わりじゃない……終わりじゃないんだ！！ |
+| 193 | Eeeyaaaa!! | ウワアァーッ！！ |
+| 194 | Let's go, everyone! | キャアアァーッ！！ |
+| 195 | Just a moment! | いくぞ、みんな……！ |
+| 196 | AERIS's memories… Our memories… | もう１度だけ……！ |
+| 197 | We came…to tell you…our memories… Come Planet! Show us your answer! | AERISの想い……俺たちの想い…… |
+| 198 | And Sephiroth!! To the settling of everything!! | その想い伝えるために……俺たちは……来た……さあ、星よ！　答えを見せろ！ |
+| 199 | Not only AERIS… | そしてセフィロス！！すべての決着を！！ |
+| 200 | Holy is the prayer of AVALANCHE… Of Marlene and Dyne… And everyone on the Planet! | AERISだけじゃねえ…… |
+| 201 | AERIS is here… everyone is here… CLOUD is here with us! | ホーリーはアバランチの……マリンやダインの……この星の人間のいのりだ！ |
+| 202 | There's still a lot for us to do… I'm not giving up!! | AERISがいる……みんながいる……CLOUDがいてくれる！ |
+| 203 | I'm going to see it through to the end. For our future… And that of the Planet… | 私たちにはまだできることがある……！私、あきらめない！！ |
+| 204 | I understand now, Grandpa. This is my mission! | オイラはみとどける。みんなのこれから……この星のこれから…… |
+| 205 | I won't let the Lifestream… or the Planet wither away!! | 今ならわかるよ、じっちゃん。それがオイラの使命だ！ |
+| 206 | Hoo-ok! I can't be foolin' around in this hell hole… | ライフストリームを……星の命を、かれさせはしない！！ |
+| 207 | I still have lots of stuff to do with my life! | ヘッ……！こんな穴ぐらの底でいつまでもはいつくばってられるかよ…… |
+| 208 | We noticed a little late the trouble we were getting in… | オレ様はよ……オレ様にはよ！まだまだ、やりてえことがあるんだよ！ |
+| 209 | But, there's still time… We can still get out of it! Even if we can't get EVERYTHING back to normal! | まちがいにきづくんがちぃ～と遅かったんかもしれん…… |
+| 210 | We should be able to protect what's most important!! | それでも、まだ……まだやり直せるはずや！ぜんぶ元にはもどせんかもしれんけどな！ |
+| 211 | Maybe…maybe I shouldn't have come… | いちばんだいじなモンを守ることはできるはずや！！ |
+| 212 | I don't need…Materia……any… | や……やっぱりくるんじゃなかったかも…… |
+| 213 | Nope, I still want it!! This an' that an' everything…MINE! And I'm never gonna give any up!! | もう、マテリアなんか……マテリアなんか…… |
+| 214 | I was frozen in time… But now I feel as though my time is finally beginning! | やっぱり欲しいッ！！アレもコレも、みんなみんなアタシのもの！アンタなんかにやるもんか！！ |
+| 215 | Sephiroth, now it's your time to sleep for the ages!! | あの時に凍りついた私の時間が、今ふたたび動きはじめる……！ |
+| 216 | G…ugh… | セフィロス、今度はおまえが時のはざまで眠りにつく番だ！！ |
+| 217 | …We're not gonna lose!! | ウオオォッ！！ |
+| 218 | …No way we're gonna lose!! | ……負けないっ！！ |
+| 219 | This ain't nothin'!! | ……負けるもんか！！ |
+| 220 | We're not losin'!! | ケッ、へでもねえぜっ！！ |
+| 221 | I don't like it!! | 負けへんでェ！！ |
+| 222 | Damn…! | もうイヤ～ッ！！ |
+| 223 | It's all over… | ……終わった…… |
+| 224 | …everything… | 終わったんだ…… |
+| 225 | Everyone…everything… | ……なにもかも…… |
+| 226 | all finished… | なにも……かも…… |
+| 227 | Now everything | 終わりをつげ…… |
+| 228 | will begin anew…with me!! | そしてこの私から |
+| 229 | This is all we could do. | すべてがはじまる！！ |
+| 230 | Wait! What about Holy? What's gonna happen to the Planet? | 俺たちにできるのはここまでだな |
+| 231 | That…I don't know. Isn't the rest up to the Planet? | ちょっと待てよ！ホーリーは！？星はどうなる？ |
+| 232 | …You're right. | それは……わからない。あとは星が決めることだろ？ |
+| 233 | We've done all that we could do. | ……そうねNew |
+| 234 | All right, everyone. | 私たち、できることはぜんぶやったものね |
+| 235 | We did our best. | さあ、みんな |
+| 236 | That's it. | もう、考えてもしようがないNew |
+| 237 | Let's go home proud. | 不安やなんかはここに置きざりにしてさ |
+| 238 | What happened? | 胸を張って帰ろう |
+| 239 | What… | ……感じる…… |
+| 240 | He is still…here. | えっ…… |
+| 241 | Still… | あいつは……まだいる |
+| 242 | CLOUD!? | まだ…… |
+| 243 | CLOUD! | わ、笑ってる…… |
+| 244 | …. I think I'm beginning to understand. | ……ライフストリム？ |
+| 245 | What? | ….わかったような気がする |
+| 246 | I think I can meet her … there | 星からの容え….約束の地…. |
+| 247 | Yeah, let's go meet her. | そこで….会えると思うんだ |
+| 248 | Hey, where is everyone? | うん、会いに行こう |
+| 249 | Heeeey! | そうだ、みんなは？ |
+| 250 | I'm glad you're all safe! | おーーーーい！ |
+| 251 | They all seem to be safe, too. | 良かった！みんな無事みたい |
+| 252 | But… now what're we going to do? | どうやら向こうも無事らしいな |
+| 253 | Holy should be moving soon, | でもよ、これからどうするんだ？ |
+| 254 | and that means this place will… | もうじきホーリーが動き出すんだろ？ |
+| 255 | Oh, Lady Luck don't fail me now… | そうなったら、ここは…… |
+| 256 | Shit!! | あ～あ、、　運命の女神さんよぉ、、 |
+| 257 | The flower girl? | 何とかなんねェのかよ～ |
+| 258 | Wait a damn minute! | ちくしょー！！ |
+| 259 | What's gonna happen to Midgar? | お花のおねえちゃん？ |
+| 260 | We can't let that happen! | おいおいおい！ミッドガルどうなるんだ？ |
+| 261 | I had everyone take refuge in the slums, | まずいんじゃねえのか？ |
+| 262 | but the way things are now… | みんなスラムに非難してもろたんやけど |
+| 263 | It's too late for Holy. | このままやったら、もう…… |
+| 264 | Meteor is approaching the Planet. | きっとホーリーが遅すぎたんだ |
+| 265 | Holy is having the opposite effect. | メテオが星に近づきすぎてる |
+| 266 | Forget Midgar, we've gotta worry about the Planet, | これじゃせっかくのホーリーも逆効果だ |
+| 267 | What's that!? | ミッドガルどころか星そのものが…… |
+| 268 | What the hell IS that…….? | あれは！？ |
+| 269 | …….. Lifestream. | なんなんだ……？ |
+| 270 | It's coming. | ……ライフストリームだ |
+| 271 | Five hundred years later… | 来る |
