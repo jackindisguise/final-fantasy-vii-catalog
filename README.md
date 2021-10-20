@@ -2,42 +2,29 @@
 [![Add All Scenes](https://img.shields.io/github/milestones/progress-percent/nowotato/final-fantasy-vii-catalog/1?label=scene-completion&style=for-the-badge)](https://github.com/nowotato/final-fantasy-vii-catalog/milestone/1)
 [![Proofread Scenes](https://img.shields.io/github/milestones/progress-percent/nowotato/final-fantasy-vii-catalog/2?label=proofread-scenes&style=for-the-badge)](https://github.com/nowotato/final-fantasy-vii-catalog/milestone/2)
 
-# About This Project
-This project *had* only one goal: **match the Japanese dialogue with its official English translation.**
-
-Once that's done, I can create flashcard decks with Japanese sentences on front and English on the back, which is a fantastic study resource for language-learners learning Japanese.
-
-Since I started the project, the scope increase a little bit, and I had a few more ideas.
-1. ✅ Compile a list of all kanji used in the game.
-2. ✅ Compile a list of all non-dialogue text (enemy names, weapon names, armor names, accessory names, menu text, materia names, etc...).
-3. Compile a list of most/all vocabulary used in the game.
-4. ✅ Add everything to a website for future generations.
+# Goals
+1. ✅ Format all text from source spreadsheet.
+2. ✅ Process all text from formatted spreadsheet.
+3. ✅ Proofread text to ensure quality.
+4. ✅ Compile a list of all kanji used in the game.
+5. ✅ Compile a list of all non-dialogue text (enemy names, weapon names, armor names, menu text, etc...).
+6. ❌ Compile a list of vocabulary used in the game.
+7. ✅ Add everything to a website.
 
 # Credit
-#### Jason Maltz
+### Jason Maltz
 This project is only possible due to the scene files compiled by **Jason Maltz**.
 
 The original scene spreadsheet can be found in `spreadsheet/source.xlsx`.
 
-#### MeCab
+### MeCab
 MeCab is a part-of-speech analyzer developed by **Taku Kudou** for the **Google Japanese Input project**.
 
-I'm using it in this project to scrape nouns, adjective, adverbs, verbs,  from the scene files.
-
-#### JMdict
+### JMdict
 JMdict is a Japanese-English dictionary created by **Jim Breen**.
 
-By using MeCab to tokenize words and JMdict to look them up, I can create vocabulary files for the scenes.
-For use in this project (and other projects), I wrote a script to convert JMdict's dictionary file to pure JSON.
-I call it JSdict, and it can be found [here](https://github.com/nowotato/JSdict).
-
-#### nowotato
-All other spreadsheets, scripting files, generated text files, kanji lists, vocabulary lists, etc... were done by me.
-
-# Anki
+### Anki
 Anki is a spaced-repitition (flashcard) software.
-
-All flashcard decks generated in this project will be made for use with Anki.
 
 # Links:
 * Download [Anki](https://apps.ankiweb.net/).
