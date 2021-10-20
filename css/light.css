@@ -20,6 +20,15 @@ a:visited{
 	color:rgb(128, 128, 128);
 }
 
+#top{
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	background-color:#fff;
+	height:125px;
+}
+
 #collapsed{
 }
 
@@ -36,6 +45,8 @@ p:nth-child(n+2){
 }
 
 #content{
+	margin-top:125px;
+	margin-bottom:25px;
 }
 
 
@@ -43,8 +54,14 @@ p:nth-child(n+2){
 	display:inline-block;
 	text-align:left;
 	background-color:rgba(255,255,255, 0.9);
-	padding:10px;
-	margin-top:10px;
+	padding:30px;
+	margin:30px;
+	border-radius:25px;
+	border:1px solid #000;
+}
+
+.section:nth-child(n+2){
+	margin-top:0px;
 }
 
 .section .section{
@@ -63,7 +80,7 @@ p:nth-child(n+2){
 }
 
 .section .content .section{
-	padding:0px;
+	padding:15px;
 }
 
 #title{
