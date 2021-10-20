@@ -27,6 +27,7 @@ a:visited{
 	width:100%;
 	background-color:#fff;
 	height:125px;
+	border-bottom:1px solid #000;
 }
 
 #collapsed{
