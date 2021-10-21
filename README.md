@@ -3,13 +3,25 @@
 [![Proofread Scenes](https://img.shields.io/github/milestones/progress-percent/nowotato/final-fantasy-vii-catalog/2?label=proofread-scenes&style=for-the-badge)](https://github.com/nowotato/final-fantasy-vii-catalog/milestone/2)
 
 # Goals
-1. ✅ Format all text from source spreadsheet.
-2. ✅ Process all text from formatted spreadsheet.
-3. ✅ Proofread text to ensure quality.
-4. ✅ Compile a list of all kanji used in the game.
-5. ✅ Compile a list of all non-dialogue text (enemy names, weapon names, armor names, menu text, etc...).
-6. ❌ Compile a list of vocabulary used in the game.
-7. ✅ Add everything to a website.
+### The Script (Dialogue Text)
+1. ✅ Format all text lines from source spreadsheet so the Japanese and English match 1:1.
+2. ✅ Ensure all text lines contain as much context as possible by merging lines together if necessary.
+4. ✅ Proofread text to ensure quality.
+5. ✅ Process all formatted text into unique lines.
+6. ✅ Produce a Japanese->English flashcard deck of the script.
+7. ✅ Share the script deck on Ankiweb.
+
+### Misc. Text (Non-Dialogue Text)
+1. ✅ Compile a list of all non-dialogue text (enemy names, weapon names, armor names, menu text, etc...) w/ translation.
+2. ✅ Produce a Japanese->English flashcard deck of the non-dialogue text.
+3. ✅ Share the non-dialogue text deck on Ankiweb.
+
+### Other Goals
+1. ✅ Compile a list of all kanji used in the game.
+2. ❌ Compile a list of Japanese vocabulary used in the game.
+3. ❌ Produce a Japanese->English flashcard deck of the Japanese vocabulary.
+4. ❌ Share the Japanese vocabulary deck on Ankiweb.
+5. ✅ Add everything to a website.
 
 # Credit
 ### Jason Maltz
