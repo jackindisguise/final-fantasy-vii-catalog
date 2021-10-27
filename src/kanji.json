@@ -1,6 +1,6 @@
 {
 	"unique": 980,
-	"total": 42460,
+	"total": 42461,
 	"table": [
 		{
 			"kanji": "行",
@@ -265,7 +265,7 @@
 		{
 			"kanji": "遅",
 			"order": 53,
-			"occurrences": 27
+			"occurrences": 28
 		},
 		{
 			"kanji": "脱",

@@ -19,7 +19,7 @@
 | 17 | Havin' everyone worried like that. You don't give a damn 'bout no one but yourself! | 心配させやがって勝手な野郎だ！ |
 | 18 | Hmm… You were worried about me? | ほう……？心配してくれたのか |
 | 19 | Wha!? | なにっ！！ |
-| 20 | That's comin' outta your share, hot shot!  | チッ…刻のぶんは報酬からひくからな |
+| 20 | That's comin' outta your share, hot shot!  | チッ…遅刻のぶんは報酬からひくからな |
 | 21 | Wake up! | おい、おめえら！ |
 | 22 | We're movin' out! Follow me! | 場所変えるぞ。ついてこい！ |
 | 23 | Hey, CLOUD!! You were great back there! | あっ、CLOUDさん！！おつかれっす！ |
