@@ -38,7 +38,7 @@ JMdict is a Japanese-English dictionary created by **Jim Breen**.
 ### Anki
 Anki is a spaced-repitition (flashcard) software.
 
-# Links:
+# Links
 * Download [Anki](https://apps.ankiweb.net/).
 * Download my Anki decks: [Script](https://ankiweb.net/shared/info/1382550012) · [Misc. Text](https://ankiweb.net/shared/info/1700863070)
 * Visit my [Github](https://github.com/nowotato/final-fantasy-vii-catalog) project.
