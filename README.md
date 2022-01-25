@@ -44,8 +44,3 @@ Anki is a spaced-repitition (flashcard) software.
 * Visit my [Github](https://github.com/nowotato/final-fantasy-vii-catalog) project.
 * Visit my [project website](https://nowotato.github.io/final-fantasy-vii-catalog/).
 * Visit my Google sheets: [Source](https://docs.google.com/spreadsheets/d/15j1daY2lC815kON_Lj1pOAIUgT3u9Pljn_OItqY-xHY/edit?usp=sharing) · [Uniform](https://docs.google.com/spreadsheets/d/15hmEPF-JQ7F0wcm8nlD3Ic9y8Ix2VOCP5sSI4zi3fpI/edit?usp=sharing) · [Formatted](https://docs.google.com/spreadsheets/d/1V3nNlDEZySQZzSKkVULG0hkyuMywq0jQB8xA2nPrPJ8/edit?usp=sharing) · [Processed](https://docs.google.com/spreadsheets/d/192VVNqbRRjMVa7XKZ2kVIvHyWHuP4audZ8TssQTNwK0/edit?usp=sharing) · [Misc. Text](https://docs.google.com/spreadsheets/d/1zReHSaUUPfFW7eEsJl53tEtGgxufpekUNw6JxlML2fg/edit?usp=sharing)
-
-# Support Me
-If you want to...
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nowotato)
