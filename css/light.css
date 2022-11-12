@@ -10,9 +10,6 @@
 	height:200px;
 }
 
-html{
-}
-
 body{
 	color: #fff;
 	background-color:#000;
@@ -63,10 +60,7 @@ a:hover{
 
 .section{
 	padding:20px;
-	background-image:url("/final-fantasy-vii-catalog/img/gradient.png");
-	background-size:100% 100%;
-	background-repeat:no-repeat;
-	background-attachment: fixed;
+	background-color:rgb(11,10,96);
 }
 
 .section:nth-child(n+2){
