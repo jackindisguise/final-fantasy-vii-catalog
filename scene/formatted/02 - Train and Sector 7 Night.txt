@@ -320,7 +320,7 @@ CLOUD	CLOUD
 If I feel like it.”	気がむいたらな」
 Jessie	ジェシー
 “Alrighty then!	「うん！
-It's a date!”	CLOUD、約束ね」　
+It's a date!”	CLOUD、約束ね」
 CLOUD	CLOUD
 You never know what lies ahead.	「先のことなんか、わからないな」
 Jessie	ジェシー
@@ -1502,13 +1502,12 @@ CLOUD	CLOUD
 “The [Change] command can move characters	「【チェンジ】のコマンドで
 to and from the front and back rows.”	戦闘隊形の前列・後列を入れかえられる」
 “In the back row, the damage received is less,	「後列にすると受けるダメージが減るが、攻撃力も減る。
-but the attacking power is less.”	【チェンジ】は、戦闘コマンドを選ぶときに
-	【方向キーの左】を押すと可能だ」
-“You can make a [Change]	「同じく戦闘コマンドを選ぶときに
-by pressing the Directional button in battle.	【方向キーの右】を押すと
-Pushing the Directional button	【ぼうぎょ】だ」
-the other direction during battle	
-accesses [Defend].”	
+but the attacking power is less.”	
+“You can make a [Change]	「【チェンジ】は、戦闘コマンドを選ぶときに
+by pressing the Directional button in battle.”	【方向キーの左】を押すと可能だ」
+“Pushing the Directional button	「同じく戦闘コマンドを選ぶときに
+the other direction during battle	【方向キーの右】を押すと
+accesses [Defend].”	【ぼうぎょ】だ」
 “Selecting [Defend] reduces the damage	「【ぼうぎょ】のコマンドを選ぶと
 you receive by half	次のコマンド入力までのあいだ
 until the next command.”	ダメージを半分にすることができる」
