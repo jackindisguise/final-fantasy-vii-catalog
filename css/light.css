@@ -64,7 +64,7 @@ a:hover{
 }
 
 .section:nth-child(n+2){
-	border-top:2px solid #0800b6;
+	border-top:15px solid #0800b6;
 }
 
 .section ul{
