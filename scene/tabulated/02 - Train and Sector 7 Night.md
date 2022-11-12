@@ -660,122 +660,123 @@
 | 658 | White numbers appearing on the screen in battle are damage points. Green numbers show restorative points. | バトルの時に、【ピロンと飛び出す数字】は白がダメージ、緑が回復していることを表している |
 | 659 | You better watch these if you don't want to get wiped out. | 全滅したくなければ注意することだな |
 | 660 | The [Change] command can move characters to and from the front and back rows. | 【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる |
-| 661 | In the back row, the damage received is less, but the attacking power is less. | 後列にすると受けるダメージが減るが、攻撃力も減る。【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ |
-| 662 | You can make a [Change] by pressing the Directional button in battle. Pushing the Directional button the other direction during battle accesses [Defend]. | 同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ |
-| 663 | Selecting [Defend] reduces the damage you receive by half until the next command. | 【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる |
-| 664 | If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it. | 手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな |
-| 665 | I don't really remember ever having to use the [Escape] command… but you'll probably need it. | 俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう |
-| 666 | Push [PAGEUP] and [PAGEDOWN] together, hold them down, and you can escape. | Ｌ１ボタンとＲ１ボタンを押しっぱなしにしていると逃げられたはずだ |
-| 667 | During battle, there are several [Gauges] displayed. You can't check them now, so just remember what I tell you. | いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。戦闘中、いくつか表示されている【ゲージ】のことだ |
-| 668 | [time gauge] displays the time remaining until your next turn while in battle. | 【ＴＩＭＥゲージ】は戦闘中、次のコマンド入力が回ってくるまでの待ち時間をあらわしている |
-| 669 | When the gauge is full, you can make your command. If you don't want to make one, push [MENU] and you can move to the next character. It's convenient when you wanna make BARRET work. | ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。BARRETをこきつかいたい時などに便利だ |
-| 670 | The [limit gauge] increases every time you sustain damage. When it is full, you can use the [limit technique]. | 【ＬＩＭＩＴゲージ】はダメージを受けるごとにのびていくはずだ。これがいっぱいになると、【リミット技】が使える |
-| 671 | This gauge is not cleared after each battle, but gradually builds up over time. | 【ＬＩＭＩＴゲージ】は、各戦闘ごとにクリアされず数をこなしただけ、たまっていくタイプだ |
-| 672 | It takes a while for it to build up, so you have to think about which times are the best to use it. | たまったからといって、すぐにつかわず【リミット技】の使いどころを見極めることが大切なのは言うまでもない |
-| 673 | You probably don't know about them, but there are conditions of [fury] and [sadness]. | おまえたちは知らないだろうから、教えといてやる。【ステータス】に、【怒り】と【悲しい】という状態がある |
-| 674 | When you have [fury], your limit gauge builds up sooner, but your attacking accuracy is lower. | 【怒り】は、【ＬＩＭＩＴゲージ】の上がり方が早くなるが攻撃の命中率は低下する |
-| 675 | Keep in mind that [sadness] makes your limit gauge build up slower, but the damage you receive is also lessened. | 【悲しい】は、【ＬＩＭＩＴゲージ】の上がり方が遅くなるが、敵の攻撃から受けるダメージは低下する。ついでに、おぼえておくといいだろう |
-| 676 | The [barrier gauge] shows your defense barriers. | 【ＢＡＲＲＩＥＲゲージ】は特定の魔法の効果時間をあらわす |
-| 677 | The top gauge displays [barrier] or magic defense against attacks. The bottom gauge displays [magic barrier] or defenses against magic attacks. | 上のゲージは、なぐられ攻撃を防ぐ魔法【バリア】下のゲージは、魔法攻撃を防ぐ魔法【マバリア】 |
-| 678 | Both will cut the damage you receive in half. However, over time they will disappear. | 両方ともダメージを半分にしてくれるが時間が経つと消えてしまう |
-| 679 | Whenever you use [barrier] or [magic barrier] make sure to pay attention to the [barrier gauge]. | 【バリア】と【マバリア】の魔法をつかったときは【ＢＡＲＲＩＥＲゲージ】に注目だな |
-| 680 | That's it. Remember that for the next battle. | 以上だ、次の戦闘で確認してくれ |
-| 681 | Looks like you didn't get it the last time I told you. What's wrong with you? You touched in the head? | この俺の説明でもわからんようならしかたない。おまえたちの理解する能力がたりないようだ |
-| 682 | Well, don't worry. You just need to push [ASSIST] in battle. | だが、安心しろ。そんなおまえたちは、戦闘中、セレクトボタンを押してみるといいだろう |
-| 683 | Do that, and the [Help] message will walk you through the commands. | 【ヘルプメッセージ】が、俺にかわっていろいろとコマンドの説明をしてくれるはずだ |
-| 684 | It also shows you the name of your enemy, so even I use it once in a while. Make good use of it. | 敵のモンスター名なども表示されるから俺も気分転換に見ることもある。はずかしがらずに使うといい |
-| 685 | [wiped out]. This is one I've never personally used. But I heard from someone what it was about. | 【全滅】か……俺の記憶にはないから、これは人から聞いた話だ |
-| 686 | When you are wiped out, you start back from the last save point. | 【全滅】したときには前の【セーブポイント】からはじまる |
-| 687 | Even a weakling like you can make it out of the roughest places as long as you hang in there and fight. You should be glad! | おまえたちのような弱いヤツでも地道に戦えば、どんな難所でも脱出できるはずだ。ありがたいことだな |
-| 688 | [Status] means just that. The status of each character. | 【ステータス】とはキャラクターの状態のことだ |
-| 689 | I'll probably wind up repeating myself, but let me go over a few basic points. | これまで説明したことと重なるかもしれんが代表的なものをまとめといてやる |
-| 690 | Sleep You cannot put in a command until you get up. | すいみん　起きるまでコマンド入力不可になる。 |
-| 691 | Poison Steals your HP in battle. | どく　　　　戦闘中にどんどんＨＰが減っていく。 |
-| 692 | Fury Damage is increased, attack accuracy decreased. Tranquilizers will remedy it. | いかり　　ダメージ倍、命中率低下。鎮静剤でもどる。 |
-| 693 | Sadness Damage is decreased. Hyper will remedy it. | かなしい　ダメージ低下。興奮剤でもどる。 |
-| 694 | Petrify Will petrify and become immobilized. Every member will be wiped out. | せきか　　石になり、動けなくなる。全員石で全滅だ。 |
-| 695 | Confuse Will attack enemy and ally alike. | こんらん　頭が混乱し、敵味方の区別がつかなくなる。 |
-| 696 | Silence Will be unable to cast magic. | ちんもく　全ての魔法をとなえられなくなる。 |
-| 697 | Paralyze Stops time gauges, commands. | マヒ　　　　タイムゲージ停止、コマンド入力不可 |
-| 698 | Darkness Accuracy of hitting attacks decreases. | くらやみ　なぐり攻撃の命中率低下。 |
-| 699 | Frog Become a frog. I hate this one! | カエル　　カエルになる。俺はだいきらいだ。 |
-| 700 | Hoo…I'm beat. | フッ……さすがにつかれたな |
-| 701 | Your [Status] can be changed with magic and items, so you should check it whenever you buy things. | 【ステータス変化】はアイテムや魔法で直せるから物を買うときに確認しておくのがいいだろう |
-| 702 | [elemental] is the special effect that comes with certain weapons and magic. | 【属性】は魔法や武器などについてくる特別な効果のことだ |
-| 703 | It's necessary to move ahead effectively. If you pay attention to the types of elementals you use you'll become intermediate in no time. | 有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな |
-| 704 | I put together this list, but remember, it's just a partial list don't take it too literally. | 代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな |
-| 705 | Fire Fire effect. Works best on animals and water monsters. | 炎　　火の効果。けもの、氷のモンスターにきく。 |
-| 706 | Ice Ice effect. Works best on fire monsters and things that hate the cold. | 冷　　氷の効果。寒がり、火のモンスターにきく。 |
-| 707 | Lightning Lightning effect. Works best on mechanical things. | 雷　　電撃の効果。機械でできたヤツにきく。 |
-| 708 | Earth Attacks using the earth's power. Doesn't work on flying enemies. | 土　　大地の力の攻撃。飛んでるヤツにはきかない。 |
-| 709 | Poison Poisons enemies. Doesn't work on any poison-based enemies. | 毒　　毒状態にする。もともと毒のヤツにはきかない。 |
-| 710 | Gravity Gravity-based attack. These hurt if they hit. | 重　　重力を使った攻撃。当たるといたいな。 |
-| 711 | Water Calls on the earth's water. Works well on fire monsters. | 水　　大地の恵みの水を呼ぶ。火のモンスターにきく。 |
-| 712 | Wind Calls up the winds. Works well on flying enemies. | 風　　大気の風をよびおこす。飛んでるヤツにきく。 |
-| 713 | Holy Calls up the Planet's power. Works well on dark monsters. | 聖　　星の力をよびおこす。暗黒のモンスターにきく。 |
-| 714 | If you use reciprocal elementals in your attacks, the effect is huge! | 相反する【属性】を攻撃に使用することで大きな効果を得られる |
-| 715 | Also, if you use the same elemental, your defenses are raised. But, you have to be careful because the opposite is also true. | また、同じ属性なら防御の効率があがる。だが……逆もまた真なり。気をつけることだな |
-| 716 | To see what elementals an enemy has, you need [Sense] Materia. If you get that Materia, you should try using it. | 敵のもっている【属性】をみぬくためには【みやぶる】ことが必要だ。マテリアを手にいれたら、使ってみてくれ |
-| 717 | ……smack……knock……!! | ポカポカポカポカ……！！ |
-| 718 | Help! | たしゅけて～！ |
-| 719 | You've got to hang in there. Your limit gauge is just starting to build. | そこでがまんだ。おまえの【リミットゲージ】はたまりはじめている |
-| 720 | Waaaah!! | びえ～ん！！ |
-| 721 | OK! Now your limit gauge is full, go ahead and use it! Fight with your limit technique. | よしっ、【リミットゲージ】はいっぱいだ！えんりょはいらない。【リミット技】で勝負だ！ |
-| 722 | Magic!! Magic!! | まほう！！まほう！！ |
-| 723 | Calm down! When your enemy uses magic counter with [Magic Barrier] or [reflect]. | おちつけ！相手が魔法を使うときには【マバリア】か【リフレク】で対抗するのだ |
-| 724 | [Magic Barrier] reduces the damage received from magic by half. | 【マバリア】は魔法のダメージを半分にする魔法だ |
-| 725 | [reflect] bounces the attacks off you. But the number of times you can use it is limited so be careful. | 【リフレク】は魔法をはねかえすがはねかえす回数に制限があるから気をつけろ |
-| 726 | Wow! You sure are strong! I'm going to be strong, too ! | さっすが、元ソルジャ！どちたら、強くなるの～！ |
-| 727 | Me too! | なるの～！ |
-| 728 | If you want to get as strong as me you need to use Materia. And you have to find the best combinations of them. | 俺みたいに強くなりたければマテリアを効率よく育て最適な組み合わせをさがすことだな |
-| 729 | The type of Materia you put in your weapons and armor will determine how quickly your Materia grows. | 装備する武器や防具のしゅるいによってマテリアの成長のスピードはちがう |
-| 730 | Put Materia into the open slots in your weapons and armor. The possible combinations are limitless. | 武器や防具にあいている穴の形によってマテリアの組み合わせは無限に広がる |
-| 731 | That's about all I can tell you. If you want to be like me, you have to have some natural talent. | 俺にアドバイスできるのはそのくらいのことだ。もっとも生まれついた素質がなければ俺のようにはなれんがな |
-| 732 | I still don't get it! | わかんな～い！ |
-| 733 | Listen kids, don't piss me off! | 俺を怒らせるな！ |
-| 734 | That's all right. Just give it a try. Little by little, you'll get used to it. | 大丈夫だ、まずはやってみろ。そのうち、なれてしまう |
-| 735 | Great! | 上出来だ |
-| 736 | How to use the buttons. | 『基本的なボタン操作方法』 |
-| 737 | [Directional button][CONTROL] | 【方向キー】　　　　　　【ボタン】 |
-| 738 | up [MENU]: menu | 上　　　　　　　　　　　△：メニュー |
-| 739 | leftright: walk  [OK]: speak/execute | 左　　　右：歩く　　　□　　○：話す／決定 |
-| 740 | down [CANCEL]: run | 下　　　　　　　　　　　×：走る／取り消し |
-| 741 | [PAGEUP]/[PAGEDOWN]: turn. | Ｌ１／Ｒ１ボタン：チョコッとまがる |
-| 742 | Huh? Finger!? What the hell? | ん？　指！？なんだ、おまえ？ |
-| 743 | I'm the position cursor!! Call me whenever you're walking around confused! | ボク、【ポジションカーソル】！！歩いている時、迷ったらボクを呼び出して！ |
-| 744 | Push [ASSIST] and I'll appear over your shiny little head. | セレクトボタンを押せばボクが君のツンツン頭のうえにつきまとうよ |
-| 745 | Geez, you stand out even more than I do… | 俺より目立つな…… |
-| 746 | Am I in the way? If so, just push [ASSIST] one more time. | ボクがじゃまかい？そんなときはもう一度セレクトボタンを押してね |
-| 747 | I'm pretty busy myself, and can't always come when you need me. If I don't show up sometimes, don't get mad. | それから、ボクはこう見えてもけっこういそがしいからいつでも登場はできないんだ。でてこなくても怒らないで！ |
-| 748 | Later! | それじゃね、バイバ～イ！ |
-| 749 | [Position Cursor] | 【ポジションカーソル】 |
-| 750 | Push [ASSIST] when you're lost in the field. Usually, the [Position Cursor] will appear on the screen. | フィールドで迷ったときにはセレクトボタンを押してください。ポジションカーソルが表示されます。 |
-| 751 | But wait!! | さらに！！ |
-| 752 | [Red triangles] mark the exits and [Green triangles] mark ladders. | 入口をあらわす『赤サンカク』とはしごなどをあらわす『緑サンカク』も表示されます。 |
-| 753 | These will help you safely make it through even the darkest streets or dangerous mountains! But, there are times when they won't appear, so be careful. | これで、暗い夜道も険しい山道もご安心！なお、フィールドによっては表示されないことがあります。御注意ください。 |
-| 754 | Johnny's Home | ジョニーの家 |
-| 755 | Ha, Ha!…… Well, there's nothin' wrong with that, I'd say. | ハッハッ……。まあ、それもいいでしょうなあ |
-| 756 | Ha!  Ha!…… I wonder if my son's already left? | ハッハッ……。息子はもう旅立ちましたかな？ |
-| 757 | When it's just my wife and I here, you have no idea how lonesome it gets. | こうして家内と私、二人きりになってみるといやはや、さびしいものですなあ |
-| 758 | We want him to be happy and do other things while he's young, but we can't help but worry… | ハッハッ……　若いうちはね好きなことをやらせてみようと思っていてもやっぱり心配なのは、いけませんなあ |
-| 759 | I guess we always will. | 親として修行がたりませんなあ |
-| 760 | By the way…… | ところで、あなた |
-| 761 | Where are you from? | 故郷はおありですかな？ |
-| 762 | A village called Nibelheim | ニブルヘイムという村だ…… |
-| 763 | Who cares? | そんな面倒なものはすてたさ |
-| 764 | But if you still have a family, you outta at least write them. | でも、もし、あなたにも家族がおありなら手紙ぐらい書いてあげるのが、いいですなあ |
-| 765 | You may leave your home, but it'll always be there for you. | 故郷はね、知らんぷりをしていてもいつでも、あなたを待ってますよ |
-| 766 | At least that's how I see it. | ハッハッ……まあ、そんなもんですなあ |
-| 767 | Hmm…did you say Nibelheim? Wasn't it in the news a while back? | ほう……あのニブルヘイム村ですか。ほら、何年か前にニュースになったことがありましたなあ |
-| 768 | Something to do with a reactor accident… | あのときは、たしか……魔晄炉の事故でしたか |
-| 769 | That was the first major Mako accident, I remember it was all over the news. | 当時は、最初の大きな魔晄炉事故ということですいぶん話題になりましたなあ |
-| 770 | This might sound rude, but… | ハッハッ……ぶしつけな質問ですが |
-| 771 | Is your family still living? | ご家族は健在ですかな？ |
-| 772 | I forgot about them long ago | いたとしても忘れたな |
-| 773 | I'm just an ex-SOLDIER | 俺は孤独なソルジャーだ |
-| 774 | Well, you really outta go home again. And if you can't do that, try and at least remember them sometimes. | ハッハッ……。まあ、たまには帰ってあげなさい。それができないならときどき思い出すのがよろしい |
-| 775 | Our boy acted like you, When he was a kid. | ハッハッ……。私も若いころはそんな風にかっこつけたこともありましたよ |
-| 776 | You seem to be about his age. | ハッハッ……あなたは、まだそんな年ごろかな |
-| 777 | Well, would you mind leaving us alone? | ハッハッ……。そろそろ、二人っきりにしてくれませんか |
-| 778 | I want to enjoy some quiet time together with my wife. | 家内と二人きりの時間というのをね。しみじみすごしたいのですよ |
-| 779 | He used to give us nothing but headaches when he was here, but now that he's gone…we kind of miss him. …Strange, isn't it? | あんな子でもいなくなってみるとね。なんだか、落ちつかなくて。……不思議なものね |
+| 661 | In the back row, the damage received is less, but the attacking power is less. | 後列にすると受けるダメージが減るが、攻撃力も減る。  |
+| 662 | You can make a [Change] by pressing the Directional button in battle. | 【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ |
+| 663 | Pushing the Directional button the other direction during battle accesses [Defend]. | 同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ |
+| 664 | Selecting [Defend] reduces the damage you receive by half until the next command. | 【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる |
+| 665 | If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it. | 手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな |
+| 666 | I don't really remember ever having to use the [Escape] command… but you'll probably need it. | 俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう |
+| 667 | Push [PAGEUP] and [PAGEDOWN] together, hold them down, and you can escape. | Ｌ１ボタンとＲ１ボタンを押しっぱなしにしていると逃げられたはずだ |
+| 668 | During battle, there are several [Gauges] displayed. You can't check them now, so just remember what I tell you. | いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。戦闘中、いくつか表示されている【ゲージ】のことだ |
+| 669 | [time gauge] displays the time remaining until your next turn while in battle. | 【ＴＩＭＥゲージ】は戦闘中、次のコマンド入力が回ってくるまでの待ち時間をあらわしている |
+| 670 | When the gauge is full, you can make your command. If you don't want to make one, push [MENU] and you can move to the next character. It's convenient when you wanna make BARRET work. | ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。BARRETをこきつかいたい時などに便利だ |
+| 671 | The [limit gauge] increases every time you sustain damage. When it is full, you can use the [limit technique]. | 【ＬＩＭＩＴゲージ】はダメージを受けるごとにのびていくはずだ。これがいっぱいになると、【リミット技】が使える |
+| 672 | This gauge is not cleared after each battle, but gradually builds up over time. | 【ＬＩＭＩＴゲージ】は、各戦闘ごとにクリアされず数をこなしただけ、たまっていくタイプだ |
+| 673 | It takes a while for it to build up, so you have to think about which times are the best to use it. | たまったからといって、すぐにつかわず【リミット技】の使いどころを見極めることが大切なのは言うまでもない |
+| 674 | You probably don't know about them, but there are conditions of [fury] and [sadness]. | おまえたちは知らないだろうから、教えといてやる。【ステータス】に、【怒り】と【悲しい】という状態がある |
+| 675 | When you have [fury], your limit gauge builds up sooner, but your attacking accuracy is lower. | 【怒り】は、【ＬＩＭＩＴゲージ】の上がり方が早くなるが攻撃の命中率は低下する |
+| 676 | Keep in mind that [sadness] makes your limit gauge build up slower, but the damage you receive is also lessened. | 【悲しい】は、【ＬＩＭＩＴゲージ】の上がり方が遅くなるが、敵の攻撃から受けるダメージは低下する。ついでに、おぼえておくといいだろう |
+| 677 | The [barrier gauge] shows your defense barriers. | 【ＢＡＲＲＩＥＲゲージ】は特定の魔法の効果時間をあらわす |
+| 678 | The top gauge displays [barrier] or magic defense against attacks. The bottom gauge displays [magic barrier] or defenses against magic attacks. | 上のゲージは、なぐられ攻撃を防ぐ魔法【バリア】下のゲージは、魔法攻撃を防ぐ魔法【マバリア】 |
+| 679 | Both will cut the damage you receive in half. However, over time they will disappear. | 両方ともダメージを半分にしてくれるが時間が経つと消えてしまう |
+| 680 | Whenever you use [barrier] or [magic barrier] make sure to pay attention to the [barrier gauge]. | 【バリア】と【マバリア】の魔法をつかったときは【ＢＡＲＲＩＥＲゲージ】に注目だな |
+| 681 | That's it. Remember that for the next battle. | 以上だ、次の戦闘で確認してくれ |
+| 682 | Looks like you didn't get it the last time I told you. What's wrong with you? You touched in the head? | この俺の説明でもわからんようならしかたない。おまえたちの理解する能力がたりないようだ |
+| 683 | Well, don't worry. You just need to push [ASSIST] in battle. | だが、安心しろ。そんなおまえたちは、戦闘中、セレクトボタンを押してみるといいだろう |
+| 684 | Do that, and the [Help] message will walk you through the commands. | 【ヘルプメッセージ】が、俺にかわっていろいろとコマンドの説明をしてくれるはずだ |
+| 685 | It also shows you the name of your enemy, so even I use it once in a while. Make good use of it. | 敵のモンスター名なども表示されるから俺も気分転換に見ることもある。はずかしがらずに使うといい |
+| 686 | [wiped out]. This is one I've never personally used. But I heard from someone what it was about. | 【全滅】か……俺の記憶にはないから、これは人から聞いた話だ |
+| 687 | When you are wiped out, you start back from the last save point. | 【全滅】したときには前の【セーブポイント】からはじまる |
+| 688 | Even a weakling like you can make it out of the roughest places as long as you hang in there and fight. You should be glad! | おまえたちのような弱いヤツでも地道に戦えば、どんな難所でも脱出できるはずだ。ありがたいことだな |
+| 689 | [Status] means just that. The status of each character. | 【ステータス】とはキャラクターの状態のことだ |
+| 690 | I'll probably wind up repeating myself, but let me go over a few basic points. | これまで説明したことと重なるかもしれんが代表的なものをまとめといてやる |
+| 691 | Sleep You cannot put in a command until you get up. | すいみん　起きるまでコマンド入力不可になる。 |
+| 692 | Poison Steals your HP in battle. | どく　　　　戦闘中にどんどんＨＰが減っていく。 |
+| 693 | Fury Damage is increased, attack accuracy decreased. Tranquilizers will remedy it. | いかり　　ダメージ倍、命中率低下。鎮静剤でもどる。 |
+| 694 | Sadness Damage is decreased. Hyper will remedy it. | かなしい　ダメージ低下。興奮剤でもどる。 |
+| 695 | Petrify Will petrify and become immobilized. Every member will be wiped out. | せきか　　石になり、動けなくなる。全員石で全滅だ。 |
+| 696 | Confuse Will attack enemy and ally alike. | こんらん　頭が混乱し、敵味方の区別がつかなくなる。 |
+| 697 | Silence Will be unable to cast magic. | ちんもく　全ての魔法をとなえられなくなる。 |
+| 698 | Paralyze Stops time gauges, commands. | マヒ　　　　タイムゲージ停止、コマンド入力不可 |
+| 699 | Darkness Accuracy of hitting attacks decreases. | くらやみ　なぐり攻撃の命中率低下。 |
+| 700 | Frog Become a frog. I hate this one! | カエル　　カエルになる。俺はだいきらいだ。 |
+| 701 | Hoo…I'm beat. | フッ……さすがにつかれたな |
+| 702 | Your [Status] can be changed with magic and items, so you should check it whenever you buy things. | 【ステータス変化】はアイテムや魔法で直せるから物を買うときに確認しておくのがいいだろう |
+| 703 | [elemental] is the special effect that comes with certain weapons and magic. | 【属性】は魔法や武器などについてくる特別な効果のことだ |
+| 704 | It's necessary to move ahead effectively. If you pay attention to the types of elementals you use you'll become intermediate in no time. | 有利に戦闘を進めるためには不可価だが【属性】を気にして戦えるようになればもう立派な中級者とよべるな |
+| 705 | I put together this list, but remember, it's just a partial list don't take it too literally. | 代表的なものの一例をまとめといてやる。あくまでも一例だ、うのみにするな |
+| 706 | Fire Fire effect. Works best on animals and water monsters. | 炎　　火の効果。けもの、氷のモンスターにきく。 |
+| 707 | Ice Ice effect. Works best on fire monsters and things that hate the cold. | 冷　　氷の効果。寒がり、火のモンスターにきく。 |
+| 708 | Lightning Lightning effect. Works best on mechanical things. | 雷　　電撃の効果。機械でできたヤツにきく。 |
+| 709 | Earth Attacks using the earth's power. Doesn't work on flying enemies. | 土　　大地の力の攻撃。飛んでるヤツにはきかない。 |
+| 710 | Poison Poisons enemies. Doesn't work on any poison-based enemies. | 毒　　毒状態にする。もともと毒のヤツにはきかない。 |
+| 711 | Gravity Gravity-based attack. These hurt if they hit. | 重　　重力を使った攻撃。当たるといたいな。 |
+| 712 | Water Calls on the earth's water. Works well on fire monsters. | 水　　大地の恵みの水を呼ぶ。火のモンスターにきく。 |
+| 713 | Wind Calls up the winds. Works well on flying enemies. | 風　　大気の風をよびおこす。飛んでるヤツにきく。 |
+| 714 | Holy Calls up the Planet's power. Works well on dark monsters. | 聖　　星の力をよびおこす。暗黒のモンスターにきく。 |
+| 715 | If you use reciprocal elementals in your attacks, the effect is huge! | 相反する【属性】を攻撃に使用することで大きな効果を得られる |
+| 716 | Also, if you use the same elemental, your defenses are raised. But, you have to be careful because the opposite is also true. | また、同じ属性なら防御の効率があがる。だが……逆もまた真なり。気をつけることだな |
+| 717 | To see what elementals an enemy has, you need [Sense] Materia. If you get that Materia, you should try using it. | 敵のもっている【属性】をみぬくためには【みやぶる】ことが必要だ。マテリアを手にいれたら、使ってみてくれ |
+| 718 | ……smack……knock……!! | ポカポカポカポカ……！！ |
+| 719 | Help! | たしゅけて～！ |
+| 720 | You've got to hang in there. Your limit gauge is just starting to build. | そこでがまんだ。おまえの【リミットゲージ】はたまりはじめている |
+| 721 | Waaaah!! | びえ～ん！！ |
+| 722 | OK! Now your limit gauge is full, go ahead and use it! Fight with your limit technique. | よしっ、【リミットゲージ】はいっぱいだ！えんりょはいらない。【リミット技】で勝負だ！ |
+| 723 | Magic!! Magic!! | まほう！！まほう！！ |
+| 724 | Calm down! When your enemy uses magic counter with [Magic Barrier] or [reflect]. | おちつけ！相手が魔法を使うときには【マバリア】か【リフレク】で対抗するのだ |
+| 725 | [Magic Barrier] reduces the damage received from magic by half. | 【マバリア】は魔法のダメージを半分にする魔法だ |
+| 726 | [reflect] bounces the attacks off you. But the number of times you can use it is limited so be careful. | 【リフレク】は魔法をはねかえすがはねかえす回数に制限があるから気をつけろ |
+| 727 | Wow! You sure are strong! I'm going to be strong, too ! | さっすが、元ソルジャ！どちたら、強くなるの～！ |
+| 728 | Me too! | なるの～！ |
+| 729 | If you want to get as strong as me you need to use Materia. And you have to find the best combinations of them. | 俺みたいに強くなりたければマテリアを効率よく育て最適な組み合わせをさがすことだな |
+| 730 | The type of Materia you put in your weapons and armor will determine how quickly your Materia grows. | 装備する武器や防具のしゅるいによってマテリアの成長のスピードはちがう |
+| 731 | Put Materia into the open slots in your weapons and armor. The possible combinations are limitless. | 武器や防具にあいている穴の形によってマテリアの組み合わせは無限に広がる |
+| 732 | That's about all I can tell you. If you want to be like me, you have to have some natural talent. | 俺にアドバイスできるのはそのくらいのことだ。もっとも生まれついた素質がなければ俺のようにはなれんがな |
+| 733 | I still don't get it! | わかんな～い！ |
+| 734 | Listen kids, don't piss me off! | 俺を怒らせるな！ |
+| 735 | That's all right. Just give it a try. Little by little, you'll get used to it. | 大丈夫だ、まずはやってみろ。そのうち、なれてしまう |
+| 736 | Great! | 上出来だ |
+| 737 | How to use the buttons. | 『基本的なボタン操作方法』 |
+| 738 | [Directional button][CONTROL] | 【方向キー】　　　　　　【ボタン】 |
+| 739 | up [MENU]: menu | 上　　　　　　　　　　　△：メニュー |
+| 740 | leftright: walk  [OK]: speak/execute | 左　　　右：歩く　　　□　　○：話す／決定 |
+| 741 | down [CANCEL]: run | 下　　　　　　　　　　　×：走る／取り消し |
+| 742 | [PAGEUP]/[PAGEDOWN]: turn. | Ｌ１／Ｒ１ボタン：チョコッとまがる |
+| 743 | Huh? Finger!? What the hell? | ん？　指！？なんだ、おまえ？ |
+| 744 | I'm the position cursor!! Call me whenever you're walking around confused! | ボク、【ポジションカーソル】！！歩いている時、迷ったらボクを呼び出して！ |
+| 745 | Push [ASSIST] and I'll appear over your shiny little head. | セレクトボタンを押せばボクが君のツンツン頭のうえにつきまとうよ |
+| 746 | Geez, you stand out even more than I do… | 俺より目立つな…… |
+| 747 | Am I in the way? If so, just push [ASSIST] one more time. | ボクがじゃまかい？そんなときはもう一度セレクトボタンを押してね |
+| 748 | I'm pretty busy myself, and can't always come when you need me. If I don't show up sometimes, don't get mad. | それから、ボクはこう見えてもけっこういそがしいからいつでも登場はできないんだ。でてこなくても怒らないで！ |
+| 749 | Later! | それじゃね、バイバ～イ！ |
+| 750 | [Position Cursor] | 【ポジションカーソル】 |
+| 751 | Push [ASSIST] when you're lost in the field. Usually, the [Position Cursor] will appear on the screen. | フィールドで迷ったときにはセレクトボタンを押してください。ポジションカーソルが表示されます。 |
+| 752 | But wait!! | さらに！！ |
+| 753 | [Red triangles] mark the exits and [Green triangles] mark ladders. | 入口をあらわす『赤サンカク』とはしごなどをあらわす『緑サンカク』も表示されます。 |
+| 754 | These will help you safely make it through even the darkest streets or dangerous mountains! But, there are times when they won't appear, so be careful. | これで、暗い夜道も険しい山道もご安心！なお、フィールドによっては表示されないことがあります。御注意ください。 |
+| 755 | Johnny's Home | ジョニーの家 |
+| 756 | Ha, Ha!…… Well, there's nothin' wrong with that, I'd say. | ハッハッ……。まあ、それもいいでしょうなあ |
+| 757 | Ha!  Ha!…… I wonder if my son's already left? | ハッハッ……。息子はもう旅立ちましたかな？ |
+| 758 | When it's just my wife and I here, you have no idea how lonesome it gets. | こうして家内と私、二人きりになってみるといやはや、さびしいものですなあ |
+| 759 | We want him to be happy and do other things while he's young, but we can't help but worry… | ハッハッ……　若いうちはね好きなことをやらせてみようと思っていてもやっぱり心配なのは、いけませんなあ |
+| 760 | I guess we always will. | 親として修行がたりませんなあ |
+| 761 | By the way…… | ところで、あなた |
+| 762 | Where are you from? | 故郷はおありですかな？ |
+| 763 | A village called Nibelheim | ニブルヘイムという村だ…… |
+| 764 | Who cares? | そんな面倒なものはすてたさ |
+| 765 | But if you still have a family, you outta at least write them. | でも、もし、あなたにも家族がおありなら手紙ぐらい書いてあげるのが、いいですなあ |
+| 766 | You may leave your home, but it'll always be there for you. | 故郷はね、知らんぷりをしていてもいつでも、あなたを待ってますよ |
+| 767 | At least that's how I see it. | ハッハッ……まあ、そんなもんですなあ |
+| 768 | Hmm…did you say Nibelheim? Wasn't it in the news a while back? | ほう……あのニブルヘイム村ですか。ほら、何年か前にニュースになったことがありましたなあ |
+| 769 | Something to do with a reactor accident… | あのときは、たしか……魔晄炉の事故でしたか |
+| 770 | That was the first major Mako accident, I remember it was all over the news. | 当時は、最初の大きな魔晄炉事故ということですいぶん話題になりましたなあ |
+| 771 | This might sound rude, but… | ハッハッ……ぶしつけな質問ですが |
+| 772 | Is your family still living? | ご家族は健在ですかな？ |
+| 773 | I forgot about them long ago | いたとしても忘れたな |
+| 774 | I'm just an ex-SOLDIER | 俺は孤独なソルジャーだ |
+| 775 | Well, you really outta go home again. And if you can't do that, try and at least remember them sometimes. | ハッハッ……。まあ、たまには帰ってあげなさい。それができないならときどき思い出すのがよろしい |
+| 776 | Our boy acted like you, When he was a kid. | ハッハッ……。私も若いころはそんな風にかっこつけたこともありましたよ |
+| 777 | You seem to be about his age. | ハッハッ……あなたは、まだそんな年ごろかな |
+| 778 | Well, would you mind leaving us alone? | ハッハッ……。そろそろ、二人っきりにしてくれませんか |
+| 779 | I want to enjoy some quiet time together with my wife. | 家内と二人きりの時間というのをね。しみじみすごしたいのですよ |
+| 780 | He used to give us nothing but headaches when he was here, but now that he's gone…we kind of miss him. …Strange, isn't it? | あんな子でもいなくなってみるとね。なんだか、落ちつかなくて。……不思議なものね |

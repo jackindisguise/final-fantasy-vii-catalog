@@ -518,160 +518,159 @@
 | 516 | What do you want to review? | なにを復習したいんだ？ |
 | 517 | That's all | もう復習は終わりだ |
 | 518 | If you select the back row, the amount of damage you receive is reduced, but so is your attacking power. | 後列にすると受けるダメージが減るが、攻撃力も減る。 |
-| 519 | [Change] can be selected from the battle menu by pushing the [left Directional button]. | 【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ |
-| 520 | It might be hard to understand this next one since you can't check it right now, but just listen. | いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。 |
-| 521 | I'm talking about the Gauges displayed during battle. | 戦闘中、いくつか表示されている【ゲージ】のことだ |
-| 522 | You can enter a command once the Gauge is full, but if you don't want to enter a command, press [MENU] to skip to the next person. | ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。 |
-| 523 | This is good when you want to make BARRET work. | BARRETをこきつかいたい時などに便利だ |
-| 524 | When you get Wiped Out, you can continue from your last Save Point. Your Experience points will not change. | 【全滅】したときに前の【セーブポイント】からかせいだ経験値はそのままのこるという |
-| 525 | This is the Beginner's Hall (Intermediate)! | まいどおなじみ初心者の館（復活編）だよ～ん！ |
-| 526 | Your explanations were so complicated I couldn't return to the Planet. | あんたの説明が、むずかしすぎて星に帰れなかったよ |
-| 527 | So, I have a right to ask you again. | もういちど、たのむ権利がオレにはあるよな |
-| 528 | OK wise-guy, I'll ask about Materia just so you can let off some stress. | 物知りさん、あんたのストレス解消にマテリアの話を聞いてあげるよ |
-| 529 | Growth Materia | マテリアの成長 |
-| 530 | Kinds of Materia | マテリアのしゅるい |
-| 531 | Combinations of Materia | マテリアの組み合わせ |
-| 532 | Divisions of Materia | マテリアのぶんれつ |
-| 533 | Number of Materia you may carry | もてるマテリアの数 |
-| 534 | The rest is a secret | あとは秘密だ |
-| 535 | First off, the main points. | 単刀直入に要点からきりだそう |
-| 536 | Some types of Materia, like Magic, grow as you use them. | マテリアの成長には魔法のように使える技が増えていくタイプ |
-| 537 | Some, like Summon Magic, grow from being used once a battle, to several times per battle. | 召喚のように一回のバトルで使える回数が増えてゆくもの |
-| 538 | Their effectiveness changes, too. There are all different kinds. | また、その効果が変わってゆくもの。……など色々なしゅるいがある |
-| 539 | Some types don't change, but they must grow in order to be divided. | 中には、効果が変わらない物もあるがそういうマテリアもぶんれつさせるためには成長させなければならない |
-| 540 | …And that's it. Maybe that sounded too official. | ……以上だな。なんだか、事務的だったかな |
-| 541 | Types of Materia… Here goes! | マテリアのしゅるいか…一気にいくぞ！ |
-| 542 | [Independent Materia] enables Abilities. No linking required. | 【独立マテリア】つけていればアビリティが機能するマテリア。 |
-| 543 | [Support Materia] is used with Command, Magic, and Summon Materia. | 【支援マテリア】コマンドや魔法、召喚マテリアと組にしてつかうマテリア。 |
-| 544 | You must equip them in linked slots or they won't be any good. | 連結穴にセットしないと何の意味もない。 |
-| 545 | [Command Materia] lets you use new commands. | 【コマンドマテリア】 新しいコマンドが使えるようになる。 |
-| 546 | There are lots of different kinds of Materia, so you'll never get bored. One called [Attack] changes itself. | いろいろなものがあって楽しめるマテリアだ。中には『たたかう』が、変化するものもある。 |
-| 547 | [Magic Materia] is easy. You can use Magic, and as your Level increases, you'll learn new Magic. | 【魔法マテリア】これはおなじみだな。魔法が使えるようになる。レベルアップで新しい魔法をどんどん覚えていく。 |
-| 548 | [Summon Materia] let's you use Summon Magic. As your Level increases, the number of times you can use it in a single battle increases. | 【召喚マテリア】召喚獣が使える。レベルアップで１回のバトルで使える回数が増える。 |
-| 549 | This's one of my favorites. | 俺もお気に入りのマテリアだ。 |
-| 550 | And there you have it, the five types of Materia. | ……以上の５しゅるい |
-| 551 | There's no single way to combine Materia. So here goes the basics. | マテリアの組み合わせ方か。ひとすじなわではいかない。ここでは基本のおさらいといこう |
-| 552 | Support Materia… The basic combination is Magic + All. | 支援マテリアの使い方……基本は【魔法】＋【全体化】の組み合わせだ |
-| 553 | The variety of magic you can cast will increase as your Magic Level increases. | 魔法をレベルアップすると魔法のしゅるいが増える。 |
-| 554 | When your All level increases, so does the number of times you can use it in a battle. | 全体化をレベルアップすると１回のバトルで全体化できる回数が増える。 |
-| 555 | That about covers it. | まあ、そんなところだ |
-| 556 | Huh? Wait a sec… | ん？まてよ… |
-| 557 | You can change between Magic-All and Magic with [PAGEUP/PAGEDOWN]. I'll bet you've probably already done this. | 魔法などの全体化／単体の切りかえはＬ１／Ｒ１ボタンで可能だ。当然、使いこなしているだろうな |
-| 558 | One effective combination is Elemental + Summon Materia. | 組み合わせの高度な使い方としては【属性】＋【魔法／召喚】がある |
-| 559 | If you equip this combination to your weapon, you can put Magic and Summon Elementals on your weapon. | この組み合わせを武器に装備すると魔法や召喚の【属性】を武器にはりつけることができる |
-| 560 | For example, if you equip Fire + Elemental to your sword, you will end up with Fire Elemental Sword. | 例えば、【炎】＋【属性】を剣に装備すれば【炎属性の剣】ができあがるというわけだ |
-| 561 | I'm getting off the subject,… If you equip Fire + Elemental to your armor, it will have twice the resistance to fire damage. | さらに、話はそれるが……【炎】＋【属性】を防具に装備すれば【炎のダメージ半減の防具】になる |
-| 562 | Now this is important. | ポイントはここだな |
-| 563 | When the Elemental levels in your armor increase, so will their effectiveness. From half damage - no damage - absorb. | 防具に限っては、さらにお得なことに【属性】がレベルアップすれば『半減→無効→吸収』と効果が上がるのだ |
-| 564 | If you combined Elemental and Fire you could develop Fire absorbing armor. | レベルアップした【属性】と【炎】を組み合わせれば【炎を吸収する防具】も作れるというわけだ |
-| 565 | Wait, there's more. Next is the Added Effect for Support Materia. | さらに続けるとしよう。【追加効果】の支援マテリアの使い方だ |
-| 566 | The Added Effect Materia grafts the effects of Compound Status Materia into your weapons and armor. | 【追加効果】マテリアは、組み合わせたステータス変化系のマテリアの効果を武器や防具にはりつけるためのものだ |
-| 567 | For example, equip Added Effect + Poison to your weapon and select [Attack]. Sometimes you'll make a Poison attack. | 例えば、【追加効果】＋【毒】を武器につければ『たたかう』で攻撃したときに追加効果として【毒】のステータス異常をひきおこすことが可能だ。 |
-| 568 | Of course, it doesn't always work. | もちろん、成功しないときもあるがな |
-| 569 | If you don't combine the Added Effect Materia with Status Change Materia, like Confusion or Time, you won't get any effect. | 【追加効果】のマテリアは【まどわす】や【時間】などステータス変化系のマテリアと組み合わせなければ意味がない |
-| 570 | To learn more about Added Effect, access the menu and check the Status. | 追加効果を細かく知りたければ『メニュー』を開いて『ステータス』をチェックしろ |
-| 571 | It's a little hard to get, but if you take your time, you'll be all right. | 内容はハードだが落ちついて考えれば、だいじょうぶだ |
-| 572 | Division… I'm pretty good at this. | ぶんれつか…。俺もこれが得意だな |
-| 573 | People tell me that my personality is divided. But I don't think so, but maybe it is? | 俺は、よく性格がぶんれつしてるといわれる。自分ではそのつもりはないがあるいは、いまもそうかもしれないな… |
-| 574 | Anyhow… | 話を元にもどそう |
-| 575 | Once your Materia reaches the maximum level, it will divide. | マテリアは最高ＬＶにたっするとぶんれつする。 |
-| 576 | The original Materia will no longer grow. Once that happens, all you can do is use it as it is. | 元のマテリアは、もうそれ以上成長しなくなる。そうなったら、後はただ使うだけだ |
-| 577 | New Materia always starts out with zero AP, so you need to raise its levels! | 新たに生まれたマテリアはＡＰが０の状態なのでこちらは、育てなければならない |
-| 578 | Of course, once the new Materia reaches its max, it'll divide. That's how you increase your Materia collection. | もちろん、ぶんれつして生まれたマテリアも最高レベルにたっするとまたぶんれつする。こうしてマテリアを増やしてゆくんだな |
-| 579 | Ha, ha… Right now I feel like I'm dividing myself. | クックックッ……なんだか、俺もすっかりぶんれつ気分だよ |
-| 580 | Once Materia starts dividing, you must be careful. | ぶんれつしてマテリアがふえはじめたら注意が必要だ |
-| 581 | There's a limit to how much Materia you can have. | マテリアのもてる数には制限がある |
-| 582 | Since we're fighting for the life of the Planet, it goes against my beliefs to carry too much Materia. | なぜなら、俺たちは、名目上星の命を守るために戦っている。故に、マテリアの持ちすぎは理念に反してる |
-| 583 | Either way, I don't really care but, I'll leave it up to you. | ……もちろん、これは俺の考えじゃない。だれが言い出したかは想像に任せるよ |
-| 584 | That's why, the amount of Materia that we can have is limited to 200… only what we can equip. | というわけで、もてるマテリアの数は２００個と俺たちが身につけている分だけだ |
-| 585 | When you have too much Materia, you need to dispose of some. If you don't, you can't take on any more. | マテリアがいっぱいの時は一度マテリアを手放してからでないとひろうこともできないし、買うこともできない |
-| 586 | So, ditch some Materia before that happens… Ahem…I mean, give them back to the Planet. | そんなときは、先にマテリアをすてる…。フッ……星に帰してやってくれ |
-| 587 | OK. Expert! Enlighten us on Limit Techniques, why doncha? | 上級者さん！リミット技について演説をひとつどうぞ！ |
-| 588 | I don't have too much to say about that… | あまりないがな…… |
-| 589 | Developing Limits | リミットの育て方 |
-| 590 | Extreme Limits | リミット究極技 |
-| 591 | That's it | こんなところだ |
-| 592 | There are 2 basic ways of building up your Limit techniques. First, just use them! | リミット技を育てる基本は、２つ。まずひとつは、ひたすらリミット技を使うことだ |
-| 593 | And second is to finish off as many enemies as possible! It sounds easier than it is. | もうひとつは、より多くの敵にとどめをさす！かんたんそうだが、意外とむずかしい |
-| 594 | Everyone knows that when you gain a new Limit technique, you need to select it in the menu. | もはや常識だが、新たなレベルのリミット技を覚えたら、メニューでリミットレベルをセットしなおさなければならない |
-| 595 | And you know that you won't be able to use advanced techniques on each level if you haven't used the basic ones. | ……まさか、わすれてないだろうな。各レベルの上級技はそのレベルの基本技を使っていないとあみだすことはできないからな |
-| 596 | Since the type and growth for each limit techniques is different, that's about all I will say. | リミット技の成長・種類には、個人差があるから俺に言えることはこれくらいだ |
-| 597 | A long time ago I heard extreme techniques exist within the Limit techniques. | 昔の話だが、うわさを聞いたことがある。リミット技には、究極の技が存在するという |
-| 598 | But, if that's true you wouldn't be able to get it in any normal way. That's about all I know about it. | だが、これはふつうの方法では使えるようにならない。俺の知っているのは、そこまでだ |
-| 599 | Received "Enemy Skill" Materia! | 『てきのわざ』のマテリアを手にいれた！ |
-| 600 | Junon Path | ジュノン・通路 |
-| 601 | What is it? The elevator's out of order for an inspection. | なんだい？いま、定期点検中なんでエレベーターは動かせないよ |
-| 602 | You know, right under us is a Submarine Dock and the Underwater Mako Reactor. | ちなみに……この下には潜水監ドッグと海底魔晄炉があるんだけどね |
-| 603 | Mako energy puts a lot of wear and tear on the machinery. | 魔晄エネルギーは機械のしょうもうがはげしいからね |
-| 604 | A lot of problems can pop up. So it's necessary for close inspections and maintenance. | あちこちガタがくるのがはやいんだ。まめな点検と整備がかかせないのさ |
-| 605 | Hey!! Civilian!! Stay out of our training!! | こりゃ！！　一般人！！くんれんのじゃまをすな～！！ |
-| 606 | Go around them! And stay out of their way!! | はしっこをちいさくなって進め～！！ |
-| 607 | All right!! Let's see how hard you trained! | うっし！！くんれんの成果をみせちゃれ！ |
-| 608 | Attention! Charge!! | 全員、とっつげき～！！ |
-| 609 | He…hey!! That's the Underwater Reactor!! Come back!! | こ、こりゃ～！！そっちは、海底魔晄炉！！逃げんな～！！ |
-| 610 | Our forces are in the process of gathering the Huge Materia from the Corel and the Fort Condor Reactors! | 我が友軍は～　現在【コレル魔晄炉】と～【コンドルフォート魔晄炉】の～ヒュージマテリア回収大作戦を実行中だ！ |
-| 611 | Once these two missions are completed, the Underwater Reactor will be our next target! | その２つのミッションが終われば次はここの地下の海底魔晄炉が大作戦の対象にな～る |
-| 612 | Till then, we do nothing but train, train, train! | それまでは、いっしょうけんめいくんれん、くんれん、くんれんだ！ |
-| 613 | Lower Junon | エルジュノン |
-| 614 | Oh! How's it going!? If you're looking for Junon dock, it's over there! | よう！　おつかれさん！ジュノンドックならあっちだぜ！ |
-| 615 | This lift goes to the Shinra section. | このリフトは上の神羅カンパニー区画につながってんだが…… |
-| 616 | Ever since that Black-caped murderer… But we can't use it because we're all on red alert. | 例の黒マント男の殺人事件があったからな。いまは警戒中で自由には使えないんだ |
-| 617 | Need a heli-taxi? Only in Junon! | ジュノン名物！！スキッフタクシーはいかが？ |
-| 618 | Free to Air Force personnel! | 空軍のサービス事業なんでお代はいらないよ！ |
-| 619 | Sure | タクシーよぶ |
-| 620 | Roger!! Hey! Taxi!! | ラジャ！！へい！　運転手さん！！ |
-| 621 | Just holler when you want a ride! | 乗りたくなったらまた声をかけてよ！ |
-| 622 | But if you get airsick easily, maybe you'd better not go. | 車に酔いやすい人はやめたほうがいいかもね |
-| 623 | Where to? | お客さん、どこまでいきやしょ？ |
-| 624 | Next sector | となり町まで |
-| 625 | Outside Junon | ジュノンの外まで |
-| 626 | Right! The next sector it is!! | では、となり町までおたっしゃで！！ |
-| 627 | Then outside Junon it is! Take care!! | では、町の外までおたっしゃで！！ |
-| 628 | Junon Dock | ジュノン港 |
-| 629 | All right, it's time! | よーし、時間だっ！ |
-| 630 | Ten…HUT! | 整列っ～！ |
-| 631 | President Rufus…has now arrived! | ルーファウス……様、到着よ！ |
-| 632 | This is it!! Junon Military Reception! | いざっ本番！！ジュノン軍隊式お見送り～！ |
-| 633 | Do it right! Do it with enthusiasm! Ready…! | 軍人らし～く　元気よ～くさんはいっ！ |
-| 634 | All right! Now finish strong!! | すわっ！最後は決めるぞ！！ |
-| 635 | [OK]! | ○：サークル！ |
-| 636 | [MENU]! | △：トライアングル！ |
-| 637 | [SWITCH]! | □：スクウェア！ |
-| 638 | [CANCEL]! | ×：クロス！ |
-| 639 | President's Mood Gauge | 社長好感度 |
-| 640 | Very entertaining. Keep up the good work. | 楽しませてもらった。今後もがんばってくれたまえ |
-| 641 | Looks like you need more practice. | くんれんがたりんようだな |
-| 642 | With things looking this bad, you better get ready for cutbacks. | このせいせきでは、減給もありうると思ってくれたまえ |
-| 643 | Keep up the good work for Shinra, Inc. | 今後も我が神羅カンパニーのため全力をつくしてもらいたい |
-| 644 | Gya haa ha!! Here's a special bonus for you!! | ガハハハハハ！！特別ボーナスだぞ、おまえら！！ |
-| 645 | A token of the President's kindness! Don't forget it! | ルーファウス社長のご好意だ！きもに命じとけ！ |
-| 646 | Received "Force Stealer"! | 『フォースイーター』を手にいれた！ |
-| 647 | Received "HP Plus" Materia! | 『ＨＰアップ』のマテリアを手にいれた！ |
-| 648 | Received "Silver Glasses"! | 『銀縁メガネ』を手にいれた！ |
-| 649 | Once the word gets out that Sephiroth's here, CLOUD and his friends will show up, too. | セフィロスがここに来たというウワサがひろまればCLOUDたちもあらわれるはずだ |
-| 650 | We'll crush them as soon as we find them! | みつけしだいヒネリつぶします！ |
-| 651 | We can't have them get in our way. | 邪魔をされてはかなわんからな |
-| 652 | Leave it up to me, sir! Gya haa ha! | おまかせ下さい！ガハハハハハハ！ |
-| 653 | I thought I told you to stop that stupid laugh. | やめろと言ったはずだが…… |
-| 654 | All right! Dismissed! | よーしっ！　解散！ |
-| 655 | That was close. | あぶなかったな |
-| 656 | Because Hojo disappeared, leaving a letter of resignation. | なんでも本社の宝条が会社をやめると言い残して行方不明になったらしいんだ |
-| 657 | Heidegger's been forced to take over that investigation, too. | ハイデッカーはその捜索もまかされたらしいからな |
-| 658 | Hey! I thought you were dismissed! | こらーっ！解散だと言っとろうが～！ |
-| 659 | We got some cleaning up to do! Hurry up! | あとかたづけがのこっちょる！はよせいよ！ |
-| 660 | Hey, hurry. You're the last one. | おい、急げ。あとはおまえだけだ |
-| 661 | How did you get here? | どうやって来たんだ？ |
-| 662 | A dolphin gave me a ride. | イルカに乗せてもらった |
-| 663 | Priscilla remembered it after you climbed the pole. But don't be mad at her. | おまえが柱をのぼったあとプリシラが思いついたんだ。悪く思うな |
-| 664 | We'll cross the ocean, to the new continent. | 俺たちは新たな大陸に向け、海を渡る |
-| 665 | …even if we are wearing Shinra's uniforms… | 神羅の軍服につつまれながら…… |
-| 666 | Lately the economy seems to be improving. Must be the 'Rufus' effect. | 最近、ルーファウス効果ってやつで景気がよくなってね |
-| 667 | Cargo ships are always coming and going from Costa del Sol. | 運搬船はいつでもコスタ・デル・ソルに出航してるんだ |
-| 668 | I'll forget you're being stowaways, if you help with the cargo. | 密航者もおおめに見てやるけどにもつ運びぐらいは手伝えよな |
-| 669 | Everyday there's no ship coming in, I always come here to watch the sun go down. | 船が港にない日にはいつもここで海に沈む太陽を見てるんだ |
-| 670 | The sun disappears like it's being swallowed up by the big horizon. | 大きな海原につつまれるように消えていく太陽 |
-| 671 | And somewhere out there is a big unknown continent with another port city. | その先に広がる未知の大陸。そして、そこにもまた港街さ |
-| 672 | Twilight always gets me misty… | こんなたそがれ時にはしみじみ思っちゃうわけよ |
-| 673 | I'm so glad I became a seaman. | 海の男になってよかったなあ、と |
-| 674 | I haven't had a girlfriend in 18 years. And I'm a romantic! …geez. | ロマンチストのこの俺も今年で彼女いない歴１８年。……ふぅ |
-| 675 | Well…I wouldn't have time for one now anyway because of Weapon… | あっ！　いまはウェポン騒動でそれどころじゃないんだけどね |
+| 519 | It might be hard to understand this next one since you can't check it right now, but just listen. | いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。 |
+| 520 | I'm talking about the Gauges displayed during battle. | 戦闘中、いくつか表示されている【ゲージ】のことだ |
+| 521 | You can enter a command once the Gauge is full, but if you don't want to enter a command, press [MENU] to skip to the next person. | ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。 |
+| 522 | This is good when you want to make BARRET work. | BARRETをこきつかいたい時などに便利だ |
+| 523 | When you get Wiped Out, you can continue from your last Save Point. Your Experience points will not change. | 【全滅】したときに前の【セーブポイント】からかせいだ経験値はそのままのこるという |
+| 524 | This is the Beginner's Hall (Intermediate)! | まいどおなじみ初心者の館（復活編）だよ～ん！ |
+| 525 | Your explanations were so complicated I couldn't return to the Planet. | あんたの説明が、むずかしすぎて星に帰れなかったよ |
+| 526 | So, I have a right to ask you again. | もういちど、たのむ権利がオレにはあるよな |
+| 527 | OK wise-guy, I'll ask about Materia just so you can let off some stress. | 物知りさん、あんたのストレス解消にマテリアの話を聞いてあげるよ |
+| 528 | Growth Materia | マテリアの成長 |
+| 529 | Kinds of Materia | マテリアのしゅるい |
+| 530 | Combinations of Materia | マテリアの組み合わせ |
+| 531 | Divisions of Materia | マテリアのぶんれつ |
+| 532 | Number of Materia you may carry | もてるマテリアの数 |
+| 533 | The rest is a secret | あとは秘密だ |
+| 534 | First off, the main points. | 単刀直入に要点からきりだそう |
+| 535 | Some types of Materia, like Magic, grow as you use them. | マテリアの成長には魔法のように使える技が増えていくタイプ |
+| 536 | Some, like Summon Magic, grow from being used once a battle, to several times per battle. | 召喚のように一回のバトルで使える回数が増えてゆくもの |
+| 537 | Their effectiveness changes, too. There are all different kinds. | また、その効果が変わってゆくもの。……など色々なしゅるいがある |
+| 538 | Some types don't change, but they must grow in order to be divided. | 中には、効果が変わらない物もあるがそういうマテリアもぶんれつさせるためには成長させなければならない |
+| 539 | …And that's it. Maybe that sounded too official. | ……以上だな。なんだか、事務的だったかな |
+| 540 | Types of Materia… Here goes! | マテリアのしゅるいか…一気にいくぞ！ |
+| 541 | [Independent Materia] enables Abilities. No linking required. | 【独立マテリア】つけていればアビリティが機能するマテリア。 |
+| 542 | [Support Materia] is used with Command, Magic, and Summon Materia. | 【支援マテリア】コマンドや魔法、召喚マテリアと組にしてつかうマテリア。 |
+| 543 | You must equip them in linked slots or they won't be any good. | 連結穴にセットしないと何の意味もない。 |
+| 544 | [Command Materia] lets you use new commands. | 【コマンドマテリア】 新しいコマンドが使えるようになる。 |
+| 545 | There are lots of different kinds of Materia, so you'll never get bored. One called [Attack] changes itself. | いろいろなものがあって楽しめるマテリアだ。中には『たたかう』が、変化するものもある。 |
+| 546 | [Magic Materia] is easy. You can use Magic, and as your Level increases, you'll learn new Magic. | 【魔法マテリア】これはおなじみだな。魔法が使えるようになる。レベルアップで新しい魔法をどんどん覚えていく。 |
+| 547 | [Summon Materia] let's you use Summon Magic. As your Level increases, the number of times you can use it in a single battle increases. | 【召喚マテリア】召喚獣が使える。レベルアップで１回のバトルで使える回数が増える。 |
+| 548 | This's one of my favorites. | 俺もお気に入りのマテリアだ。 |
+| 549 | And there you have it, the five types of Materia. | ……以上の５しゅるい |
+| 550 | There's no single way to combine Materia. So here goes the basics. | マテリアの組み合わせ方か。ひとすじなわではいかない。ここでは基本のおさらいといこう |
+| 551 | Support Materia… The basic combination is Magic + All. | 支援マテリアの使い方……基本は【魔法】＋【全体化】の組み合わせだ |
+| 552 | The variety of magic you can cast will increase as your Magic Level increases. | 魔法をレベルアップすると魔法のしゅるいが増える。 |
+| 553 | When your All level increases, so does the number of times you can use it in a battle. | 全体化をレベルアップすると１回のバトルで全体化できる回数が増える。 |
+| 554 | That about covers it. | まあ、そんなところだ |
+| 555 | Huh? Wait a sec… | ん？まてよ… |
+| 556 | You can change between Magic-All and Magic with [PAGEUP/PAGEDOWN]. I'll bet you've probably already done this. | 魔法などの全体化／単体の切りかえはＬ１／Ｒ１ボタンで可能だ。当然、使いこなしているだろうな |
+| 557 | One effective combination is Elemental + Summon Materia. | 組み合わせの高度な使い方としては【属性】＋【魔法／召喚】がある |
+| 558 | If you equip this combination to your weapon, you can put Magic and Summon Elementals on your weapon. | この組み合わせを武器に装備すると魔法や召喚の【属性】を武器にはりつけることができる |
+| 559 | For example, if you equip Fire + Elemental to your sword, you will end up with Fire Elemental Sword. | 例えば、【炎】＋【属性】を剣に装備すれば【炎属性の剣】ができあがるというわけだ |
+| 560 | I'm getting off the subject,… If you equip Fire + Elemental to your armor, it will have twice the resistance to fire damage. | さらに、話はそれるが……【炎】＋【属性】を防具に装備すれば【炎のダメージ半減の防具】になる |
+| 561 | Now this is important. | ポイントはここだな |
+| 562 | When the Elemental levels in your armor increase, so will their effectiveness. From half damage - no damage - absorb. | 防具に限っては、さらにお得なことに【属性】がレベルアップすれば『半減→無効→吸収』と効果が上がるのだ |
+| 563 | If you combined Elemental and Fire you could develop Fire absorbing armor. | レベルアップした【属性】と【炎】を組み合わせれば【炎を吸収する防具】も作れるというわけだ |
+| 564 | Wait, there's more. Next is the Added Effect for Support Materia. | さらに続けるとしよう。【追加効果】の支援マテリアの使い方だ |
+| 565 | The Added Effect Materia grafts the effects of Compound Status Materia into your weapons and armor. | 【追加効果】マテリアは、組み合わせたステータス変化系のマテリアの効果を武器や防具にはりつけるためのものだ |
+| 566 | For example, equip Added Effect + Poison to your weapon and select [Attack]. Sometimes you'll make a Poison attack. | 例えば、【追加効果】＋【毒】を武器につければ『たたかう』で攻撃したときに追加効果として【毒】のステータス異常をひきおこすことが可能だ。 |
+| 567 | Of course, it doesn't always work. | もちろん、成功しないときもあるがな |
+| 568 | If you don't combine the Added Effect Materia with Status Change Materia, like Confusion or Time, you won't get any effect. | 【追加効果】のマテリアは【まどわす】や【時間】などステータス変化系のマテリアと組み合わせなければ意味がない |
+| 569 | To learn more about Added Effect, access the menu and check the Status. | 追加効果を細かく知りたければ『メニュー』を開いて『ステータス』をチェックしろ |
+| 570 | It's a little hard to get, but if you take your time, you'll be all right. | 内容はハードだが落ちついて考えれば、だいじょうぶだ |
+| 571 | Division… I'm pretty good at this. | ぶんれつか…。俺もこれが得意だな |
+| 572 | People tell me that my personality is divided. But I don't think so, but maybe it is? | 俺は、よく性格がぶんれつしてるといわれる。自分ではそのつもりはないがあるいは、いまもそうかもしれないな… |
+| 573 | Anyhow… | 話を元にもどそう |
+| 574 | Once your Materia reaches the maximum level, it will divide. | マテリアは最高ＬＶにたっするとぶんれつする。 |
+| 575 | The original Materia will no longer grow. Once that happens, all you can do is use it as it is. | 元のマテリアは、もうそれ以上成長しなくなる。そうなったら、後はただ使うだけだ |
+| 576 | New Materia always starts out with zero AP, so you need to raise its levels! | 新たに生まれたマテリアはＡＰが０の状態なのでこちらは、育てなければならない |
+| 577 | Of course, once the new Materia reaches its max, it'll divide. That's how you increase your Materia collection. | もちろん、ぶんれつして生まれたマテリアも最高レベルにたっするとまたぶんれつする。こうしてマテリアを増やしてゆくんだな |
+| 578 | Ha, ha… Right now I feel like I'm dividing myself. | クックックッ……なんだか、俺もすっかりぶんれつ気分だよ |
+| 579 | Once Materia starts dividing, you must be careful. | ぶんれつしてマテリアがふえはじめたら注意が必要だ |
+| 580 | There's a limit to how much Materia you can have. | マテリアのもてる数には制限がある |
+| 581 | Since we're fighting for the life of the Planet, it goes against my beliefs to carry too much Materia. | なぜなら、俺たちは、名目上星の命を守るために戦っている。故に、マテリアの持ちすぎは理念に反してる |
+| 582 | Either way, I don't really care but, I'll leave it up to you. | ……もちろん、これは俺の考えじゃない。だれが言い出したかは想像に任せるよ |
+| 583 | That's why, the amount of Materia that we can have is limited to 200… only what we can equip. | というわけで、もてるマテリアの数は２００個と俺たちが身につけている分だけだ |
+| 584 | When you have too much Materia, you need to dispose of some. If you don't, you can't take on any more. | マテリアがいっぱいの時は一度マテリアを手放してからでないとひろうこともできないし、買うこともできない |
+| 585 | So, ditch some Materia before that happens… Ahem…I mean, give them back to the Planet. | そんなときは、先にマテリアをすてる…。フッ……星に帰してやってくれ |
+| 586 | OK. Expert! Enlighten us on Limit Techniques, why doncha? | 上級者さん！リミット技について演説をひとつどうぞ！ |
+| 587 | I don't have too much to say about that… | あまりないがな…… |
+| 588 | Developing Limits | リミットの育て方 |
+| 589 | Extreme Limits | リミット究極技 |
+| 590 | That's it | こんなところだ |
+| 591 | There are 2 basic ways of building up your Limit techniques. First, just use them! | リミット技を育てる基本は、２つ。まずひとつは、ひたすらリミット技を使うことだ |
+| 592 | And second is to finish off as many enemies as possible! It sounds easier than it is. | もうひとつは、より多くの敵にとどめをさす！かんたんそうだが、意外とむずかしい |
+| 593 | Everyone knows that when you gain a new Limit technique, you need to select it in the menu. | もはや常識だが、新たなレベルのリミット技を覚えたら、メニューでリミットレベルをセットしなおさなければならない |
+| 594 | And you know that you won't be able to use advanced techniques on each level if you haven't used the basic ones. | ……まさか、わすれてないだろうな。各レベルの上級技はそのレベルの基本技を使っていないとあみだすことはできないからな |
+| 595 | Since the type and growth for each limit techniques is different, that's about all I will say. | リミット技の成長・種類には、個人差があるから俺に言えることはこれくらいだ |
+| 596 | A long time ago I heard extreme techniques exist within the Limit techniques. | 昔の話だが、うわさを聞いたことがある。リミット技には、究極の技が存在するという |
+| 597 | But, if that's true you wouldn't be able to get it in any normal way. That's about all I know about it. | だが、これはふつうの方法では使えるようにならない。俺の知っているのは、そこまでだ |
+| 598 | Received "Enemy Skill" Materia! | 『てきのわざ』のマテリアを手にいれた！ |
+| 599 | Junon Path | ジュノン・通路 |
+| 600 | What is it? The elevator's out of order for an inspection. | なんだい？いま、定期点検中なんでエレベーターは動かせないよ |
+| 601 | You know, right under us is a Submarine Dock and the Underwater Mako Reactor. | ちなみに……この下には潜水監ドッグと海底魔晄炉があるんだけどね |
+| 602 | Mako energy puts a lot of wear and tear on the machinery. | 魔晄エネルギーは機械のしょうもうがはげしいからね |
+| 603 | A lot of problems can pop up. So it's necessary for close inspections and maintenance. | あちこちガタがくるのがはやいんだ。まめな点検と整備がかかせないのさ |
+| 604 | Hey!! Civilian!! Stay out of our training!! | こりゃ！！　一般人！！くんれんのじゃまをすな～！！ |
+| 605 | Go around them! And stay out of their way!! | はしっこをちいさくなって進め～！！ |
+| 606 | All right!! Let's see how hard you trained! | うっし！！くんれんの成果をみせちゃれ！ |
+| 607 | Attention! Charge!! | 全員、とっつげき～！！ |
+| 608 | He…hey!! That's the Underwater Reactor!! Come back!! | こ、こりゃ～！！そっちは、海底魔晄炉！！逃げんな～！！ |
+| 609 | Our forces are in the process of gathering the Huge Materia from the Corel and the Fort Condor Reactors! | 我が友軍は～　現在【コレル魔晄炉】と～【コンドルフォート魔晄炉】の～ヒュージマテリア回収大作戦を実行中だ！ |
+| 610 | Once these two missions are completed, the Underwater Reactor will be our next target! | その２つのミッションが終われば次はここの地下の海底魔晄炉が大作戦の対象にな～る |
+| 611 | Till then, we do nothing but train, train, train! | それまでは、いっしょうけんめいくんれん、くんれん、くんれんだ！ |
+| 612 | Lower Junon | エルジュノン |
+| 613 | Oh! How's it going!? If you're looking for Junon dock, it's over there! | よう！　おつかれさん！ジュノンドックならあっちだぜ！ |
+| 614 | This lift goes to the Shinra section. | このリフトは上の神羅カンパニー区画につながってんだが…… |
+| 615 | Ever since that Black-caped murderer… But we can't use it because we're all on red alert. | 例の黒マント男の殺人事件があったからな。いまは警戒中で自由には使えないんだ |
+| 616 | Need a heli-taxi? Only in Junon! | ジュノン名物！！スキッフタクシーはいかが？ |
+| 617 | Free to Air Force personnel! | 空軍のサービス事業なんでお代はいらないよ！ |
+| 618 | Sure | タクシーよぶ |
+| 619 | Roger!! Hey! Taxi!! | ラジャ！！へい！　運転手さん！！ |
+| 620 | Just holler when you want a ride! | 乗りたくなったらまた声をかけてよ！ |
+| 621 | But if you get airsick easily, maybe you'd better not go. | 車に酔いやすい人はやめたほうがいいかもね |
+| 622 | Where to? | お客さん、どこまでいきやしょ？ |
+| 623 | Next sector | となり町まで |
+| 624 | Outside Junon | ジュノンの外まで |
+| 625 | Right! The next sector it is!! | では、となり町までおたっしゃで！！ |
+| 626 | Then outside Junon it is! Take care!! | では、町の外までおたっしゃで！！ |
+| 627 | Junon Dock | ジュノン港 |
+| 628 | All right, it's time! | よーし、時間だっ！ |
+| 629 | Ten…HUT! | 整列っ～！ |
+| 630 | President Rufus…has now arrived! | ルーファウス……様、到着よ！ |
+| 631 | This is it!! Junon Military Reception! | いざっ本番！！ジュノン軍隊式お見送り～！ |
+| 632 | Do it right! Do it with enthusiasm! Ready…! | 軍人らし～く　元気よ～くさんはいっ！ |
+| 633 | All right! Now finish strong!! | すわっ！最後は決めるぞ！！ |
+| 634 | [OK]! | ○：サークル！ |
+| 635 | [MENU]! | △：トライアングル！ |
+| 636 | [SWITCH]! | □：スクウェア！ |
+| 637 | [CANCEL]! | ×：クロス！ |
+| 638 | President's Mood Gauge | 社長好感度 |
+| 639 | Very entertaining. Keep up the good work. | 楽しませてもらった。今後もがんばってくれたまえ |
+| 640 | Looks like you need more practice. | くんれんがたりんようだな |
+| 641 | With things looking this bad, you better get ready for cutbacks. | このせいせきでは、減給もありうると思ってくれたまえ |
+| 642 | Keep up the good work for Shinra, Inc. | 今後も我が神羅カンパニーのため全力をつくしてもらいたい |
+| 643 | Gya haa ha!! Here's a special bonus for you!! | ガハハハハハ！！特別ボーナスだぞ、おまえら！！ |
+| 644 | A token of the President's kindness! Don't forget it! | ルーファウス社長のご好意だ！きもに命じとけ！ |
+| 645 | Received "Force Stealer"! | 『フォースイーター』を手にいれた！ |
+| 646 | Received "HP Plus" Materia! | 『ＨＰアップ』のマテリアを手にいれた！ |
+| 647 | Received "Silver Glasses"! | 『銀縁メガネ』を手にいれた！ |
+| 648 | Once the word gets out that Sephiroth's here, CLOUD and his friends will show up, too. | セフィロスがここに来たというウワサがひろまればCLOUDたちもあらわれるはずだ |
+| 649 | We'll crush them as soon as we find them! | みつけしだいヒネリつぶします！ |
+| 650 | We can't have them get in our way. | 邪魔をされてはかなわんからな |
+| 651 | Leave it up to me, sir! Gya haa ha! | おまかせ下さい！ガハハハハハハ！ |
+| 652 | I thought I told you to stop that stupid laugh. | やめろと言ったはずだが…… |
+| 653 | All right! Dismissed! | よーしっ！　解散！ |
+| 654 | That was close. | あぶなかったな |
+| 655 | Because Hojo disappeared, leaving a letter of resignation. | なんでも本社の宝条が会社をやめると言い残して行方不明になったらしいんだ |
+| 656 | Heidegger's been forced to take over that investigation, too. | ハイデッカーはその捜索もまかされたらしいからな |
+| 657 | Hey! I thought you were dismissed! | こらーっ！解散だと言っとろうが～！ |
+| 658 | We got some cleaning up to do! Hurry up! | あとかたづけがのこっちょる！はよせいよ！ |
+| 659 | Hey, hurry. You're the last one. | おい、急げ。あとはおまえだけだ |
+| 660 | How did you get here? | どうやって来たんだ？ |
+| 661 | A dolphin gave me a ride. | イルカに乗せてもらった |
+| 662 | Priscilla remembered it after you climbed the pole. But don't be mad at her. | おまえが柱をのぼったあとプリシラが思いついたんだ。悪く思うな |
+| 663 | We'll cross the ocean, to the new continent. | 俺たちは新たな大陸に向け、海を渡る |
+| 664 | …even if we are wearing Shinra's uniforms… | 神羅の軍服につつまれながら…… |
+| 665 | Lately the economy seems to be improving. Must be the 'Rufus' effect. | 最近、ルーファウス効果ってやつで景気がよくなってね |
+| 666 | Cargo ships are always coming and going from Costa del Sol. | 運搬船はいつでもコスタ・デル・ソルに出航してるんだ |
+| 667 | I'll forget you're being stowaways, if you help with the cargo. | 密航者もおおめに見てやるけどにもつ運びぐらいは手伝えよな |
+| 668 | Everyday there's no ship coming in, I always come here to watch the sun go down. | 船が港にない日にはいつもここで海に沈む太陽を見てるんだ |
+| 669 | The sun disappears like it's being swallowed up by the big horizon. | 大きな海原につつまれるように消えていく太陽 |
+| 670 | And somewhere out there is a big unknown continent with another port city. | その先に広がる未知の大陸。そして、そこにもまた港街さ |
+| 671 | Twilight always gets me misty… | こんなたそがれ時にはしみじみ思っちゃうわけよ |
+| 672 | I'm so glad I became a seaman. | 海の男になってよかったなあ、と |
+| 673 | I haven't had a girlfriend in 18 years. And I'm a romantic! …geez. | ロマンチストのこの俺も今年で彼女いない歴１８年。……ふぅ |
+| 674 | Well…I wouldn't have time for one now anyway because of Weapon… | あっ！　いまはウェポン騒動でそれどころじゃないんだけどね |

@@ -797,7 +797,8 @@ White numbers appearing on the screen in battle are damage points. Green numbers
 You better watch these if you don't want to get wiped out.
 The [Change] command can move characters to and from the front and back rows.
 In the back row, the damage received is less, but the attacking power is less.
-You can make a [Change] by pressing the Directional button in battle. Pushing the Directional button the other direction during battle accesses [Defend].
+You can make a [Change] by pressing the Directional button in battle.
+Pushing the Directional button the other direction during battle accesses [Defend].
 Selecting [Defend] reduces the damage you receive by half until the next command.
 If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it.
 I don't really remember ever having to use the [Escape] command… but you'll probably need it.
@@ -5624,7 +5625,6 @@ OK, Mr. Know-it-all, ex-SOLDIER! Let me revenge…I mean, review!
 What do you want to review?
 That's all
 If you select the back row, the amount of damage you receive is reduced, but so is your attacking power.
-[Change] can be selected from the battle menu by pushing the [left Directional button].
 It might be hard to understand this next one since you can't check it right now, but just listen.
 I'm talking about the Gauges displayed during battle.
 You can enter a command once the Gauge is full, but if you don't want to enter a command, press [MENU] to skip to the next person.

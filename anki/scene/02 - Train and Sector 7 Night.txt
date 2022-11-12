@@ -658,8 +658,9 @@ CLOUD！武器屋２階のおじさんから伝言よ	CLOUD! I got a message fro
 バトルの時に、【ピロンと飛び出す数字】は白がダメージ、緑が回復していることを表している	White numbers appearing on the screen in battle are damage points. Green numbers show restorative points.	時飛出数字白緑回復表	scene_02
 全滅したくなければ注意することだな	You better watch these if you don't want to get wiped out.	全滅注意	scene_02
 【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる	The [Change] command can move characters to and from the front and back rows.	戦闘隊形前列後入	scene_02
-後列にすると受けるダメージが減るが、攻撃力も減る。【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ	In the back row, the damage received is less, but the attacking power is less.	後列受減攻撃力戦闘選方向左押可能	scene_02
-同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ	You can make a [Change] by pressing the Directional button in battle. Pushing the Directional button the other direction during battle accesses [Defend].	同戦闘選方向右押	scene_02
+後列にすると受けるダメージが減るが、攻撃力も減る。 	In the back row, the damage received is less, but the attacking power is less.	後列受減攻撃力	scene_02
+【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ	You can make a [Change] by pressing the Directional button in battle.	戦闘選方向左押可能	scene_02
+同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ	Pushing the Directional button the other direction during battle accesses [Defend].	同戦闘選方向右押	scene_02
 【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる	Selecting [Defend] reduces the damage you receive by half until the next command.	選次入力半分	scene_02
 手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな	If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it.	手強相無理必要俺関係	scene_02
 俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう	I don't really remember ever having to use the [Escape] command… but you'll probably need it.	俺戦闘中逃覚必要	scene_02

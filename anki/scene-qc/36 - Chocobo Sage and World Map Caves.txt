@@ -1,12 +1,36 @@
-オヤジ小屋	Old man's house			ぐー、ぐー	…zzzz…zzzz…
-大っきいマテリアはレベルが高～いマテリアが欲しいのかぁ……ぐー、ぐー	Large Materia needs high level Materia…  …zzzzzz….zzzzzzz…	回も戦っとるのかぁ…ぐー、ぐー	You've already fought  times… …zzzzz…zzzzzzzz…	？？？の家	Mystery House
-はぁ？あんた自分のことだろ？	You don't know who you are?	誰じゃったかのぉ？	I don't know.	えっ？自分が誰だかわからないの？	Wha? You don't know who you are?
-チョコボせんにん	Chocobo Sage	（なに、考えてんだコイツ）	(The hell's wrong with this guy?)	さて、この私になんのようかのぉ？	Now what can I do for you?
-どこで捕まえる？	Where can we catch one?	他にも川を越えられる『川チョコボ』とかもおったのぉ	There is another one that can cross rivers, too. They call him a 'River Chocobo'.	どこで捕まえられるの？	Where can we find one?
-『カラブの実』を使ってタマゴを生ませると生まれる時があるんじゃ	If you give them "Carob Nuts" during breeding, there's a chance you'll get one of these Chocobos.	生まれたんじゃ。『すごくいいチョコボ』か『いい感じのチョコボ』にのぉ	…was bred from a Great Chocobo' and a Good Chocobo'.	それで、そのチョコボはどこにいるんだ？	So where's this Chocobo?
-そこと、コレルから西の方で捕まえられるんじゃ。それと『カラブの実』はのぉ	You should be able to catch one just west of Mideel. And some Carob Nuts', too.	こっから、ずぅっ～と南東にある島か。緑にかこまれたコレルじゃったかのぉ	…Is on an island southeast of here, In a place called Mideel surrounded by greenery.	こっから南におるモンスターがよくもっとるぞ。さらにじゃなぁ	There used to be some monsters just south of here that had them. Or you might…
-また、忘れてるとは思うが……	You probably don't remember but…	海もわたれるチョコボもおるんじゃ	There's one that can cross oceans, too!	そのチョコボはどうやって手に入れるんだ？	How can I get one of those Chocobos?
-おお、思い出したぞ！山と川を渡れるチョコボにのぉ	Right, right! I remember! You take the Mountain-and-River-crossing Chocobo…	山と川を渡れるチョコボにのぉ………………。なんじゃったかのぉ	The Mountain-and-River-crossing Chocobo is…uh… Oh, what was I saying?	このスグそばで取れるそれはいいチョコボとタマゴを生ませるとのぉ	Mate it with a 'Wonderful Chocobo' you can catch right around here… And you'll get…
-教えられることはないと思うのぉ	…that's all I'm gonna remember.	もう、たぶん	I think…	おお！	Oh!
-チョコボの移動	How to ride a Chocobo	ここはチョコボでも渡れないか…もっとパワーのある乗り物なら…？	Not even a Chocobo could make it across. Isn't there a more powerful vehicle?	バギーは、【川のあさい部分】や【サバク】を移動することができます。	Buggy's can cross shallow rivers and deserts
-このような入りえでプレイヤーの乗り降りができます。	Players can get on and off at bays like this one	【キャンセルボタン】降りる・潜行＆浮上	press the [Cancel] button to get off	な、なんだ！？	What the?
+オヤジ小屋	Old man's house	1
+ぐー、ぐー	…zzzz…zzzz…	2
+なに、勝手にさわってんじゃ！	What're you groping around for?	3
+大っきいマテリアはレベルが高～いマテリアが欲しいのかぁ……ぐー、ぐー	Large Materia needs high level Materia…  …zzzzzz….zzzzzzz…	11
+？？？の家	Mystery House	12
+チョコボせんにんの家	Chocobo Sage's House	13
+はぁ？あんた自分のことだろ？	You don't know who you are?	21
+えっ？自分が誰だかわからないの？	Wha? You don't know who you are?	22
+あ？　おめぇってば　自分のこともわかんねぇのかよ？	Huh? You're sayin' you don't even know who you are?	23
+チョコボせんにん	Chocobo Sage	31
+さて、この私になんのようかのぉ？	Now what can I do for you?	32
+なんか売って	Sell me something?	33
+どこで捕まえる？	Where can we catch one?	41
+どこで捕まえられるの？	Where can we find one?	42
+どこにいるんだその何とかチョコボってのは？	Where can I get one of those Whatdyacallem Chocobos?	43
+『カラブの実』を使ってタマゴを生ませると生まれる時があるんじゃ	If you give them "Carob Nuts" during breeding, there's a chance you'll get one of these Chocobos.	51
+それで、そのチョコボはどこにいるんだ？	So where's this Chocobo?	52
+それと、その『カラブの実』はどこで手に入る？	So where can I get some of these 'Carob Nuts'?	53
+そこと、コレルから西の方で捕まえられるんじゃ。それと『カラブの実』はのぉ	You should be able to catch one just west of Mideel. And some Carob Nuts', too.	61
+こっから南におるモンスターがよくもっとるぞ。さらにじゃなぁ	There used to be some monsters just south of here that had them. Or you might…	62
+……………。おかしいのぉ何、言おうとしたのかのぉ	… Funny…I forgot What I was saying just now.	63
+また、忘れてるとは思うが……	You probably don't remember but…	71
+そのチョコボはどうやって手に入れるんだ？	How can I get one of those Chocobos?	72
+どうせまた忘れてると思うけど……	You probably forgot already but…	73
+おお、思い出したぞ！山と川を渡れるチョコボにのぉ	Right, right! I remember! You take the Mountain-and-River-crossing Chocobo…	81
+このスグそばで取れるそれはいいチョコボとタマゴを生ませるとのぉ	Mate it with a 'Wonderful Chocobo' you can catch right around here… And you'll get…	82
+海を渡れるチョコボが生まれるんじゃ。おおっ、それにのぉ	A chocobo that can cross the ocean will be born. Oh, but for that to happen...	83
+教えられることはないと思うのぉ	…that's all I'm gonna remember.	91
+おお！	Oh!	92
+なんにもないのぉ…	That's it…	93
+チョコボの移動	How to ride a Chocobo	101
+バギーは、【川のあさい部分】や【サバク】を移動することができます。	Buggy's can cross shallow rivers and deserts	102
+コスタ・デル・ソルやジュノンにはバギーに乗ったまま入ることができ、【運搬船】で運ぶことができます。	You can even enter costa del sol and Junon by Buggy by hitching a ride on the cargo ship	103
+このような入りえでプレイヤーの乗り降りができます。	Players can get on and off at bays like this one	111
+な、なんだ！？	What the?	112
+お、おい！ハイウインドを壊す気か？地上で迎え撃とうぜ！！	What're you tryin to do? Break the Highwind? Let's fight on the ground	113

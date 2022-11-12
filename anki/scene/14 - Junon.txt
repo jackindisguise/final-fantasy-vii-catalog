@@ -516,7 +516,6 @@ CLOUDが見つかったぜ！	We found CLOUD!	見	scene_14
 なにを復習したいんだ？	What do you want to review?	復習	scene_14
 もう復習は終わりだ	That's all	復習終	scene_14
 後列にすると受けるダメージが減るが、攻撃力も減る。	If you select the back row, the amount of damage you receive is reduced, but so is your attacking power.	後列受減攻撃力	scene_14
-【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ	[Change] can be selected from the battle menu by pushing the [left Directional button].	戦闘選方向左押可能	scene_14
 いまは確認できないからわかりにくいかもしれんがとにかく、聞いておけ。	It might be hard to understand this next one since you can't check it right now, but just listen.	確認聞	scene_14
 戦闘中、いくつか表示されている【ゲージ】のことだ	I'm talking about the Gauges displayed during battle.	戦闘中表示	scene_14
 ゲージがいっぱいになるとコマンドの入力が可能だがもし入力したくなければ、【△ボタン】で次のやつに順番をまわすこともできる。	You can enter a command once the Gauge is full, but if you don't want to enter a command, press [MENU] to skip to the next person.	入力可能次順番	scene_14

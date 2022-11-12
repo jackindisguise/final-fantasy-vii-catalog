@@ -1,20 +1,60 @@
-ゴンガガ	Gongaga Village			ジャングル	Jungle
-旅の人かい……おんや？あんたのその目の輝きは……ソルジャーさんだね？	You a traveller? Hey wait, that glow in your eye… Are you in SOLDIER?	『ホワイトメガホン』を手にいれた！	Received "White M-phone"!	おばあさん	Grandma
-そういえば６、７年前に手紙がきてガールフレンドができましたって書いてあったけど、あんたかい？	I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you?	娘さん、知ってるのかい？	Young lady, you know him?	……ちがいます	…No, it wasn't.
-５年前かな。仕事で出かけてそれっきり	I think it was five years ago. He went out on a job, and never came back.	行方不明？	Missing?	女の子が大好きなヤツだったからね。どこかで知り合った子と仲良くなっちゃったのよ、きっと	He loved women, a real lady's man. He probably found someone else…
-行きましょ、CLOUD	Let's go, CLOUD.	AERIS……	AERIS…	知ってるのか？	Do you know him?
-がんばったからな	I worked hard for it	運が良かっただけさ	I just got lucky	けんそんしちゃってぇ！	Don't be so humble!
-武器を買いたい	Buy weapons?	ほお……何か用かい？	You want something?	話を聞きたい	Hear a story?
-神羅のものたちは、魔晄炉ができれば幸せになると言いおった。しかし、魔晄炉はわしらに悲しみしか与えなかった……	The Shinra people told us that everyone would be happy once the reactor was built. But all it brought us was sadness…	ここは、ゴンガガ村。魔晄炉の爆発事故のために多くの人々を失った村じゃ	This is Gongaga Village. Many people died here in a Mako reactor explosion.	神羅のやつらは、村の安全など考えずに、魔晄炉を建設した。その結果が、これさ	Shinra built the reactor, without even thinking about the town's safety. And, this is the result.
-奥の方に、何か光るものがある……	There's something shiny back there…	８０ギル払う	Pay up	何もしない	Don't do anything
-そんな……	That can't…	なぜだ……！？	Why?	なあ、あんたザックスっちゅうソルジャーに会ったことはないかの？	Have you ever met someone in SOLDIER named Zack?
-手紙を受け取る	Take the letter	おねがいできるだろうか？	Will you do it for me?	わたしの愛する奥さんはカームの町に住んでいる。どうか、よろしくたのむ	My wife lives in Kalm. I really appreciate this.
-……みんな、死ぬのよ。何もかもが、終わるのよ	…Everyone's going to die. Everything's coming to an end.	魔晄炉のこともあるし神羅のすることは信用できないわ	After what happened with the reactor you can't trust Shinra.	道にまよったのじゃな？そういう時に一番たよりになるのは友、じゃよ	You lost? When that happens the only ones you can count on are your friends.
-……だれかが、オイラたちのことを神羅に知らせているのかな	…You'd think someone told the Shinra about us?	ねぇ、CLOUD。どうしてタークスは、オイラたちをまちぶせできたのかな	Hey, CLOUD. How did the Turks know to wait and ambush us here?	……誰かいる	…Is someone there?
-あいつら何の話してるんだ？	What are they talking about?	そりゃ初耳だな、と。だってツォンさんはあの古代種……	I never knew that! But Tseng likes that Ancient…	ホント、くだらない！	It's so stupid!
-７番街の借りを返すぞ、と	Payback time for what you did in Sector 7.	久しぶりだな、と	It's been a while.	７番街……忘れたな	Sector 7?
-なんで、ここにおるのんがわかったんやろ？	How'd they know that we were here?	なんかイヤなかんじ！アタシたちの行き先ってバレバレみたいだよ	I don't like this! It's like the whole world knows where we're going.	何故、わたしたちがここにいることがわかったのだ……	How did they know that we were here?
-神羅の手先がいる……ということか？	It means there's a Shinra spy…	たまらんなぁ～。そんなん、新入りのボクがうたがわれるんに決まってますやん	I hate this. Now everyone's gonna blame me because I'm new.	スパイがいるなんて考えたくもない……	I don't even want to think about there being a spy…
-……なあ、CLOUDこれからもオレたちと一練に戦ってくんだろ？	…Yo, CLOUD You still gonna fight with us, right?	オレは、そんなことは許せねぇ。『アバランチ』を結成して神羅カンパニーと戦ってるのもそんな世界を変えてえからだ	But I can't let 'em do that. That's why I formed AVALANCHE to fight 'em.	オレたちにゃ、おまえが必要なんだ	We need you, man.
-それは楽しみですね	I just can't wait.	おねがいね。それがあれば究極の兵器がつくれそうなのよ	Please. We could make the ultimate weapon if we only had some.	宝条がいなくなったおかげで私の兵器開発部に予算がた～っぷりまわってくるの	With Hojo gone, the Weapon Development's been getting a bigger budget.
-……フンッ！ここもダメだわ	Hmph! This isn't any good either.	神羅の兵器開発部部長スカーレットのおでましか--	It's Scarlet, Head of Shinra Weapon Development.	チンケな魔晄炉にはチンケなマテリアしかないみたいね	You only get junky Materia from junky reactors.
+ゴンガガ	Gongaga Village	1
+ジャングル	Jungle	2
+メルトダウン魔晄炉	Meltdown Reactor	3
+旅の人かい……おんや？あんたのその目の輝きは……ソルジャーさんだね？	You a traveller? Hey wait, that glow in your eye… Are you in SOLDIER?	11
+おばあさん	Grandma	12
+あらあらホントだよ！あんたウチの息子を知らないかい？	Oh, you're right! Don't you know anything about our son?	13
+そういえば６、７年前に手紙がきてガールフレンドができましたって書いてあったけど、あんたかい？	I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you?	21
+……ちがいます	…No, it wasn't.	22
+ザックス……	Zack…	23
+５年前かな。仕事で出かけてそれっきり	I think it was five years ago. He went out on a job, and never came back.	31
+女の子が大好きなヤツだったからね。どこかで知り合った子と仲良くなっちゃったのよ、きっと	He loved women, a real lady's man. He probably found someone else…	32
+あれ？　どうしたの？	Hey? What's wrong?	33
+行きましょ、CLOUD	Let's go, CLOUD.	41
+知ってるのか？	Do you know him?	42
+い、いいえ、知らないわ！	N, no, I don't know him!	43
+がんばったからな	I worked hard for it	51
+けんそんしちゃってぇ！	Don't be so humble!	52
+努力はむくわれるってわけね	Hard work pays off, huh.	53
+武器を買いたい	Buy weapons?	61
+話を聞きたい	Hear a story?	62
+特に用事はない	Nothing in particular	63
+神羅のものたちは、魔晄炉ができれば幸せになると言いおった。しかし、魔晄炉はわしらに悲しみしか与えなかった……	The Shinra people told us that everyone would be happy once the reactor was built. But all it brought us was sadness…	71
+神羅のやつらは、村の安全など考えずに、魔晄炉を建設した。その結果が、これさ	Shinra built the reactor, without even thinking about the town's safety. And, this is the result.	72
+ある日、魔晄炉が大爆発を起こした。その事故に巻きこまれて多くの村人が死んでしまった……	One day, a huge explosion. killed many of the townspeople…	73
+奥の方に、何か光るものがある……	There's something shiny back there…	81
+何もしない	Don't do anything	82
+手をのばしてみる	Reach for it	83
+そんな……	That can't…	91
+なあ、あんたザックスっちゅうソルジャーに会ったことはないかの？	Have you ever met someone in SOLDIER named Zack?	92
+１０年も連絡もよこさんとは……なんちゅう息子じゃ	I can't believe he hasn't contacted us in 10 years…! …After all, we're his parents.	93
+手紙を受け取る	Take the letter	101
+わたしの愛する奥さんはカームの町に住んでいる。どうか、よろしくたのむ	My wife lives in Kalm. I really appreciate this.	102
+なんということだ……死が目前に迫っているこの世界ではもはや人情もかれはてたか……	What's going on in a world about to end? Is kindness the first to vanish?	103
+……みんな、死ぬのよ。何もかもが、終わるのよ	…Everyone's going to die. Everything's coming to an end.	111
+道にまよったのじゃな？そういう時に一番たよりになるのは友、じゃよ	You lost? When that happens the only ones you can count on are your friends.	112
+もっとも大切な友を探すこと。それが先決じゃて	The first thing you gotta do is find your best friend.	113
+……だれかが、オイラたちのことを神羅に知らせているのかな	…You'd think someone told the Shinra about us?	121
+……誰かいる	…Is someone there?	122
+なあ、ルード。あんた、誰がいいんだ？	Hey, Rude. Who do you like?	123
+あいつら何の話してるんだ？	What are they talking about?	131
+ホント、くだらない！	It's so stupid!	132
+先輩たち、いつでも誰が好きとかキライとかそんな話ばっかりなんですよ。ツォンさんは別ですけど	They always talk about who they like or don't like. But Tseng is different.	133
+７番街の借りを返すぞ、と	Payback time for what you did in Sector 7.	141
+７番街……忘れたな	Sector 7?	142
+ジャマだ……どこか行け	Out of our way	143
+なんで、ここにおるのんがわかったんやろ？	How'd they know that we were here?	151
+何故、わたしたちがここにいることがわかったのだ……	How did they know that we were here?	152
+尾行されたか……いや、そんな気配はなかった。ということは……	They followed us… But there weren't any signs of it. Then, that means…	153
+神羅の手先がいる……ということか？	It means there's a Shinra spy…	161
+スパイがいるなんて考えたくもない……	I don't even want to think about there being a spy…	162
+俺はみんなを信じるよ	I trust everyone.	163
+……なあ、CLOUDこれからもオレたちと一練に戦ってくんだろ？	…Yo, CLOUD You still gonna fight with us, right?	171
+オレたちにゃ、おまえが必要なんだ	We need you, man.	172
+任せておけ	You got it	173
+それは楽しみですね	I just can't wait.	181
+宝条がいなくなったおかげで私の兵器開発部に予算がた～っぷりまわってくるの	With Hojo gone, the Weapon Development's been getting a bigger budget.	182
+うらやましいかぎりです	I envy them.	183
+……フンッ！ここもダメだわ	Hmph! This isn't any good either.	191
+チンケな魔晄炉にはチンケなマテリアしかないみたいね	You only get junky Materia from junky reactors.	192
+これも仕事だ。悪く思うなよ、と	This is just part of the job. Don't take it personally.	193
