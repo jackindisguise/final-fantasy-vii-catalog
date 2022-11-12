@@ -658,8 +658,9 @@ Personally, I always use [Active], but you can use whichever you like.	俺はい
 White numbers appearing on the screen in battle are damage points. Green numbers show restorative points.	バトルの時に、【ピロンと飛び出す数字】は白がダメージ、緑が回復していることを表している
 You better watch these if you don't want to get wiped out.	全滅したくなければ注意することだな
 The [Change] command can move characters to and from the front and back rows.	【チェンジ】のコマンドで戦闘隊形の前列・後列を入れかえられる
-In the back row, the damage received is less, but the attacking power is less.	後列にすると受けるダメージが減るが、攻撃力も減る。【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ
-You can make a [Change] by pressing the Directional button in battle. Pushing the Directional button the other direction during battle accesses [Defend].	同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ
+In the back row, the damage received is less, but the attacking power is less.	後列にすると受けるダメージが減るが、攻撃力も減る。 
+You can make a [Change] by pressing the Directional button in battle.	【チェンジ】は、戦闘コマンドを選ぶときに【方向キーの左】を押すと可能だ
+Pushing the Directional button the other direction during battle accesses [Defend].	同じく戦闘コマンドを選ぶときに【方向キーの右】を押すと【ぼうぎょ】だ
 Selecting [Defend] reduces the damage you receive by half until the next command.	【ぼうぎょ】のコマンドを選ぶと次のコマンド入力までのあいだダメージを半分にすることができる
 If you're up against a strong enemy, don't hesitate to use this one. Of course, I never need it.	手強い相手には無理せず【ぼうぎょ】することが必要だ。むろん、俺には関係ないことだがな
 I don't really remember ever having to use the [Escape] command… but you'll probably need it.	俺は、戦闘中、【逃げる】ことなどめったにないから、くわしくは覚えていないが…おまえたちには必要だろう
