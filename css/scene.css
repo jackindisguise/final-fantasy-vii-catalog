@@ -1,7 +1,19 @@
-body{
-	background-attachment: fixed;
-	background-image:url("/final-fantasy-vii-catalog/img/tifa.png");
-	background-position:bottom right;
-	background-size:300px;
-	background-repeat:no-repeat;
+#dialogue{
+
+}
+
+#dialogue tr th{
+	text-align:left;
+}
+
+#dialogue tr:nth-child(even) td{
+	background-color:rgba(0,0,0,0.1);
+}
+
+#dialogue tr td{
+	padding:10px;
+}
+
+#dialogue tr td.linenum, #dialogue tr th.linenum{
+	text-align:center;
 }

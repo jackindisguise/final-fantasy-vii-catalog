@@ -1,7 +1,20 @@
-body{
-	background-attachment: fixed;
-	background-image:url("/final-fantasy-vii-catalog/img/cait-sith.png");
-	background-position:bottom right;
-	background-size:300px;
-	background-repeat:no-repeat;
+table.misc{
+	width:100%;
+}
+
+table.misc tr th.header{
+	text-align:left;
+}
+
+table.misc tr th.art,
+table.misc tr td.art{
+	text-align:center;
+}
+
+table.misc tr td.art img{
+	background-color:#fff;
+	border-radius:25px;
+	padding:10px;
+	margin:10px;
+	max-height:100px;
 }

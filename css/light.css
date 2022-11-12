@@ -1,243 +1,82 @@
-html{
-	min-height:100%;
-}
-
-body{
-	margin:0px;
-	padding:0px;
-	min-height:100%;
-	font-size:125%;
-	background-color:#fff;
-}
-
-a{
-	color:rgb(40, 82, 197);
-	text-decoration:none;
-	font-weight:bold;
-}
-
-a:visited{
-	color:rgb(128, 128, 128);
-}
-
-#top{
-	position:fixed;
-	top:0px;
-	left:0px;
-	width:100%;
-	background-color:#fff;
-	height:125px;
-	border-bottom:1px solid #000;
-}
-
-#collapsed{
-}
-
 #header{
-	padding:5px;
-}
-
-p{
-	margin:0px;
-}
-
-p:nth-child(n+2){
-	margin-top:10px;
-}
-
-#content{
-	margin-top:125px;
-	margin-bottom:25px;
-}
-
-
-.section{
-	display:inline-block;
-	text-align:left;
-	background-color:rgba(255,255,255, 0.9);
-	padding:30px;
-	margin:30px;
-	border-radius:25px;
-	border:1px solid #000;
-}
-
-.section:nth-child(n+2){
-	margin-top:0px;
-}
-
-.section .section{
-	background-color:transparent !important;
-}
-
-.section .title{
-	display:inline-block;
-	font-size:200%;
-	border-bottom:1px solid #000;
-}
-
-.section .content{
-	padding-top:15px;
-	padding-left:10px;
-}
-
-.section .content .section{
-	padding:15px;
-}
-
-#title{
-	font-size:150%;
-	font-weight:bold;
-}
-
-#navigation{
-	padding:5px;
-	text-transform:lowercase;
-}
-
-#content{
-	/*padding-left:10px;*/
-}
-
-#footer{
-	opacity:0.1;
-	position:fixed;
-	bottom:10px;
-	right:10px;
-	border-radius:20px;
-	border:2px solid rgba(0,0,0,0.25);
-	background-color:rgba(255,255,255,0.95);
-	padding:10px;
-	font-size:11px;
-	font-family:tahoma;
-	text-align:right;
-	z-index: -1;
-}
-
-#footer:hover{
-	opacity:1;
-}
-
-.highlight{
-	font-size:125%;
-	color:#FF0;
-}
-
-table{
-	width:100%;
-	border-spacing: 0px;
-    border-collapse: separate;
-}
-
-#dialogue th{
-	text-align:left;
-}
-
-#dialogue td{
-	padding:10px;
-	vertical-align:middle;
-	margin:0px;
-}
-
-#sceneName{
-	font-size:200%;
-}
-
-#dialogue .linenum{
-	width:100px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	align-content:center;
 	text-align:center;
 }
 
-#dialogue .english{
-}
-
-#dialogue .japanese{
-}
-
-#dialogue tr:nth-child(odd) td{
-	/*background-color:rgba(0,0,255,0.25);*/
-}
-
-#scenes{
-	width:100%;
-}
-
-#scenes td{
-	padding:2px;
-	vertical-align:middle;
-}
-
-#scenes td.sceneNum{
-	width:10px;
-	font-size:150%;
-	text-align:right;
-}
-
-.links{
-	margin-top:0px;
-	margin-bottom:0px;
-}
-
-ul{
-	text-align:left;
-	margin:0px;
-	padding-left:10px;
-}
-
-table#vocabulary{
-	border-spacing: 0px;
-    border-collapse: separate;
-}
-
-#vocabulary th{
-	text-align:center;
-}
-
-#vocabulary td{
-	text-align:center;
-	padding:10px;
-}
-
-#vocabulary td.kanji{
-	width:100px;
-}
-
-#vocabulary td.reading{
-	width:100px;
-}
-
-#vocabulary .pos{
-	width:100px;
-}
-
-#vocabulary .def{
-	text-align:left;
-}
-
-table tr:nth-child(even) td{
-	background-color:rgba(0,0,0,0.1);
-}
-
-.misc td{
-	padding:15px;
-}
-
-.misc td, .misc th{
-	text-align:center;
-}
-
-.misc .entry{
-	font-size:125%;
-}
-
-.misc .art{
-}
-
-#materia-summon tr td.art, #bosses tr td.art, #enemies tr td.art, #weapons tr td.art{
-	width:200px;
+#logo{
 	height:200px;
 }
 
-#materia-summon tr td.art img, #bosses tr td.art img, #enemies tr td.art img, #weapons tr td.art img{
-	max-width:200px;
-	max-height:200px;
+html{
+}
+
+body{
+	color: #fff;
+	background-color:#000;
+	text-shadow: 2px 2px #212421, 1px 1px #212021;
+	font-family: Verdana, sans-serif;
+	font-size: 30px;
+	font-weight: normal;
+	padding:0;
+	margin:0;
+}
+
+#navigation{
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+}
+
+ul.hlist{
+	display:block;
+	margin:0;
+	padding:0;
+}
+
+ul.hlist li{
+	display:inline-block;
+	margin:0;
+	padding:0;
+}
+
+ul.hlist li:nth-child(n+2){
+	margin-left:10px;
+}
+
+ul.hlist li:nth-child(n+2)::before{
+	content:"·";
+	margin-right:10px;
+}
+
+a{
+	text-decoration:none;
+	color:inherit;
+	color:#FF0;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+.section{
+	padding:20px;
+	background-image:url("/final-fantasy-vii-catalog/img/gradient.png");
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+
+.section:nth-child(n+2){
+	border-top:2px solid #0800b6;
+}
+
+.section ul{
+	margin:0px;
+}
+
+.section .offset{
+	margin-left:50px;
 }
