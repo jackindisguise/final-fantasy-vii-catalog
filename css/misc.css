@@ -1,9 +1,10 @@
 table.misc{
 	width:100%;
+	text-align:center;
 }
 
 table.misc tr th.header{
-	text-align:left;
+	text-align:center;
 }
 
 table.misc tr th.art,
@@ -17,4 +18,18 @@ table.misc tr td.art img{
 	padding:10px;
 	margin:10px;
 	max-height:100px;
+}
+
+table{
+	border-spacing:0px;
+}
+
+table tr:nth-child(even) td{
+	background-color:rgba(0,0,0,0.1);
+}
+
+table tr td.japanese,
+table tr th.japanese,
+table tr th.header.japanese{
+	text-align:center;
 }

@@ -1,5 +1,5 @@
 #dialogue{
-
+	border-spacing:0px;
 }
 
 #dialogue tr th{
@@ -12,6 +12,7 @@
 
 #dialogue tr td{
 	padding:10px;
+	margin:0px;
 }
 
 #dialogue tr td.linenum, #dialogue tr th.linenum{

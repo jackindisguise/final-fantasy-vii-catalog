@@ -4,6 +4,12 @@
 	justify-content:center;
 	align-content:center;
 	text-align:center;
+	gap:10px;
+	padding:20px;
+	color:#fff;
+	font-weight:bold;
+	background: rgb(158,157,239);
+	background: linear-gradient(180deg, rgba(158,157,239,1) 0%, rgba(9,9,121,1) 71%, rgba(2,0,36,1) 100%);
 }
 
 #logo{
@@ -11,20 +17,19 @@
 }
 
 body{
-	color: #fff;
-	background-color:#000;
-	text-shadow: 2px 2px #212421, 1px 1px #212021;
+	color: #000;
+	background-color:rgb(158, 157, 239);
 	font-family: Verdana, sans-serif;
-	font-size: 30px;
+	font-size: 25px;
 	font-weight: normal;
 	padding:0;
 	margin:0;
 }
 
 #navigation{
-	margin-top:20px;
-	margin-bottom:20px;
 	text-align:center;
+	background-color:#000;
+	padding:10px;
 }
 
 ul.hlist{
@@ -40,31 +45,37 @@ ul.hlist li{
 }
 
 ul.hlist li:nth-child(n+2){
-	margin-left:10px;
+	margin-left:30px;
 }
 
 ul.hlist li:nth-child(n+2)::before{
 	content:"·";
-	margin-right:10px;
+	font-size:100%;
+	margin-right:30px;
 }
 
 a{
 	text-decoration:none;
-	color:inherit;
-	color:#FF0;
 }
 
 a:hover{
 	text-decoration:underline;
 }
 
+#navigation a{
+	color:inherit;
+	color:#FF0;
+	font-weight:bold;
+}
+
+#content{
+}
+
 .section{
 	padding:20px;
-	background-color:rgb(11,10,96);
 }
 
 .section:nth-child(n+2){
-	margin-top:10px;
 }
 
 .section ul{
@@ -73,4 +84,20 @@ a:hover{
 
 .section .offset{
 	margin-left:50px;
+}
+
+.double{
+	display:flex;
+	justify-content:space-evenly;
+	align-content:center;
+	gap:20px;
+}
+
+.literal{
+	font-size:50%;
+	font-weight:bold;
+}
+
+.literal::before{
+	content:"*";
 }
