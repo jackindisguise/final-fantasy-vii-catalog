@@ -1,31 +1,24 @@
-table.misc{
+table{
 	width:100%;
 	text-align:center;
+	table-layout:fixed;
+	border-spacing:0px;
 }
 
-table.misc tr th.header{
+table tr .art{
+}
+
+table tr th, table tr td{
 	text-align:center;
+	padding:10px;
 }
 
-table.misc tr th.art,
-table.misc tr td.art{
-	text-align:center;
-}
-
-table.misc tr td.art img{
+table tr td.art img{
 	background-color:#fff;
 	border-radius:25px;
 	padding:10px;
 	margin:10px;
 	max-height:100px;
-}
-
-table{
-	border-spacing:0px;
-}
-
-table tr td, table tr th{
-	padding:10px;
 }
 
 table tr:nth-child(even) td{
@@ -40,10 +33,4 @@ table tr:nth-child(even) td:first-child{
 table tr:nth-child(even) td:last-child{
 	border-top-right-radius:30px;
 	border-bottom-right-radius:30px;
-}
-
-table tr td.japanese,
-table tr th.japanese,
-table tr th.header.japanese{
-	text-align:center;
 }
