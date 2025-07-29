@@ -566,4 +566,4 @@
 | 564 | [PHS] will put us in constant contact with each other. | 『ＰＨＳ』があればたがいの連絡がとりやすくなる |
 | 565 | (Changing party members) | 【パーティの入れ替え】 |
 | 566 | Access the menu and select [PHS]. | メニューを開いて『ＰＨＳ』を選ぶと |
-| 567 | It can only be used on the World Map or at a Save Point. | 「パーティメンバーの入れ替えができます。 |
+| 567 | It can only be used on the World Map or at a Save Point. | パーティメンバーの入れ替えができます。ただし『ＰＨＳ』が使えるのはワールドマップとセーブポイントの上だけです。 |

@@ -564,4 +564,4 @@ BARRETたちが宿屋で待っている	BARRET and the others are waiting for me
 『ＰＨＳ』があればたがいの連絡がとりやすくなる	[PHS] will put us in constant contact with each other.	連絡	scene_10
 【パーティの入れ替え】	(Changing party members)	入替	scene_10
 メニューを開いて『ＰＨＳ』を選ぶと	Access the menu and select [PHS].	開選	scene_10
-「パーティメンバーの入れ替えができます。	It can only be used on the World Map or at a Save Point.	入替	scene_10
+パーティメンバーの入れ替えができます。ただし『ＰＨＳ』が使えるのはワールドマップとセーブポイントの上だけです。	It can only be used on the World Map or at a Save Point.	入替使上	scene_10
