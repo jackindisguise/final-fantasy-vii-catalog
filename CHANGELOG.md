@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.2](https://github.com/jackindisguise/final-fantasy-vii-catalog/compare/v3.0.1...v3.0.2) (2025-07-29)
+
+
+### Bug Fixes
+
+* failed to include all of the script in scene 10. fixes [#113](https://github.com/jackindisguise/final-fantasy-vii-catalog/issues/113) ([0aa5e4e](https://github.com/jackindisguise/final-fantasy-vii-catalog/commit/0aa5e4e6860b7ba075f67d6ce5dcfe61dea1040b))
+* fixed a few formatting issues. ([54dd851](https://github.com/jackindisguise/final-fantasy-vii-catalog/commit/54dd85127fa4a44683dd5396f94b740b29d78d0e))
+* last 2 JP lines of scene 10 were ignored for formatting reasons ([dd1288c](https://github.com/jackindisguise/final-fantasy-vii-catalog/commit/dd1288c08103e30d9c1141282c6f401947f3a6ab))
+* processed fixed scenes ([20cbb1c](https://github.com/jackindisguise/final-fantasy-vii-catalog/commit/20cbb1c40594d56f6286231d757d865011b2db3c))
+* **scene:** Typo in scene 2. ([d1a7158](https://github.com/jackindisguise/final-fantasy-vii-catalog/commit/d1a715875344d54b7fe7f44968164e9b5795b853))
+* updated meta files, changed anki QC format ([d711d7c](https://github.com/jackindisguise/final-fantasy-vii-catalog/commit/d711d7c37729c8dd5e107afcde04443eaa87b5c1))
+
 ### [3.0.1](https://github.com/nowotato/final-fantasy-vii-catalog/compare/v3.0.0...v3.0.1) (2021-10-13)
 
 
