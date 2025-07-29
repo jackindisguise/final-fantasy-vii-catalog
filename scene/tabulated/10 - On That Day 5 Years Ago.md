@@ -453,3 +453,117 @@
 | 451 | End[START] | スタートボタン　終了 |
 | 452 | Information concerning Materia/Hojo | 『マテリア関係資料／宝条』 |
 | 453 | Read it | 読んでみる |
+| 454 | Ignore | よまない |
+| 455 | Life of Materia | 『マテリアの中の生命』 |
+| 456 | Legend of the Ancients, World Version | 『古代種の伝説・世界編』 |
+| 457 | Next Quarter's projected Budget/Hojo | 『次期計画予算／宝条』 |
+| 458 | North Pole Daily Report/Hojo | 『北極日報／宝条』 |
+| 459 | /Hojo | 『／宝条』 |
+| 460 | The Promised Land | 『約束の地』 |
+| 461 | …An apparently dead organism was found in a 2000 year old geological stratum. | ……２０００年前の地層からみつかった仮死状態の生物 |
+| 462 | Professor Gast named that organism, Jenova… | その生物をガスト博士はジェノバと命名した…… |
+| 463 | X Year, X Month, X Day. Jenova confirmed to be an Ancient… | Ｘ年Ｘ月Ｘ日。ジェノバを古代種と確認…… |
+| 464 | X Year, X Month, X Day. Jenova Project approved. The use of Mako Reactor 1 approved for use… | Ｘ年Ｘ月Ｘ日。ジェノバ・プロジェクト承認。魔晄炉１号機使用許可…… |
+| 465 | My mother's name is Jenova… Jenova Project… Is this just a coincidence? | オレの母の名はジェノバ……ジェノバ・プロジェクト……これは偶然なのか？ |
+| 466 | Professor Gast… Why didn't you tell me anything? …Why did you die? | ガスト博士……どうして何も教えてくれなかった？……どうして死んだ？ |
+| 467 | Let me be alone. | １人にしてくれ |
+| 468 | Ha, ha, ha, ha! | ハハハハ！ |
+| 469 | Sephiroth didn't come out of the Shinra Mansion… | それ以降セフィロスは神羅屋敷に |
+| 470 | He continued to read as | こもりきりになった…… |
+| 471 | if he were possessed by something, | まるで何かに取りつかれたかのように |
+| 472 | and not once, did the light | 書物を読みあさり、地下室の明かりは |
+| 473 | in the basement go out… | 決して消える事はなかった…… |
+| 474 | Who is it!? | 誰だ！！ |
+| 475 | Hmph…traitor. | フッ……裏切り者め |
+| 476 | Traitor? | 裏切り者？ |
+| 477 | You ignorant traitor. I'll tell you. | 何も知らぬ裏切り者よ。教えてやろう |
+| 478 | This Planet originally belonged to the Cetra. Cetra was a itinerant race. They would migrate in, settle the Planet, then move on… | この星はもともとセトラのものだった。セトラは旅をする民族。旅をして、星を開き、そしてまた旅…… |
+| 479 | At the end of their harsh, hard journey, it was said they would find the Promised Land and supreme happiness. | つらく、きびしい旅の果てに約束の地を知り、至上の幸福を見つける |
+| 480 | But, those who disliked journeying appeared. They stopped their migrations, built shelters and elected to lead an easier life. | だが、旅を嫌う者たちが現れた。その者は旅することをやめ家を持ち、安楽な生活を選んだ |
+| 481 | They took that which the Cetra and the Planet had made without giving back one whit in return! | セトラと星が生み出したものをうばい何も返そうとしない |
+| 482 | Those are your ancestors. | それがおまえたちの祖先だ |
+| 483 | Sephiroth… | セフィロス…… |
+| 484 | Long ago, disaster struck the Planet. | 昔、この星を災害が襲った |
+| 485 | Your ancestors escaped… They survived because they hid. | おまえたちの祖先は逃げ回り……隠れたおかげで生きのびた |
+| 486 | The Planet was saved by sacrificing the Cetra. After that, your ancestors continued to multiply. | 星の危機はセトラの犠牲で回避された。その後でのうのうと数をふやしたのがおまえたちだ |
+| 487 | Now all that's left of the Cetra is in these reports. | セトラはこうしてレポートの中に残るだけの種族になってしまった |
+| 488 | What does that have to do with you? | それがあんたとどういう関係があるんだ？ |
+| 489 | Don't you see? | わからないか？ |
+| 490 | An Ancient named Jenova was found in a 2000 year-old geological stratum. | ２０００年前の地層から発見されジェノバと名づけられた古代種 |
+| 491 | The Jenova Project. | そしてジェノバ・プロジェクト |
+| 492 | The Jenova Project wanted to produce people with the powers of the Ancients… Or, the Cetra. | ジェノバ・プロジェクトとは古代種……つまりセトラの能力を持った人間を創り出すことだ |
+| 493 | …I am what was produced. | ……創り出されたのはオレだ |
+| 494 | Pr…produced!? | つ、つくりだされた！？ |
+| 495 | Yes. | そう |
+| 496 | Professor Gast, leader of the Jenova Project and genius scientist, produced me. | ジェノバ・プロジェクトの責任者天才的科学者ガスト博士がオレをつくりだした |
+| 497 | How…how did he? | そんなこと……どうやって…… |
+| 498 | Se…Sephiroth? | セ、セフィロス？ |
+| 499 | Out of my way. I'm going to see my mother. | 邪魔するな。オレは母に会いに行く |
+| 500 | Mother, I'm here to see you. Please, open this door. | 母さん、会いに来たよ。このとびらをあけておくれ |
+| 501 | How could you do that to Papa and all the townspeople? | よくもパパを！よくも村のみんなを！ |
+| 502 | …You promised… You promised that you'd come…… when I was in trouble… | ……ピンチの……時には……来てくれるって約束したのに…… |
+| 503 | Mother, let's take the Planet back together. | 母さん、いっしょにこの星を取りもどそうよ |
+| 504 | I've thought of a great idea. Let's go to the Promised Land. | オレ、いいことを考えたんだよ。約束の地へ行こう |
+| 505 | My family! My hometown! How could you do this to them!? | 俺の家族を！　俺の故郷を！よくもやってくれたな！ |
+| 506 | Ha, ha, ha… They've come again, Mother. | クックックッ……母さん、またやつらが来たよ |
+| 507 | With her superior power, knowledge, and magic, Mother was destined to become the ruler of this Planet. | 母さんは優れた能力と知識、そして魔法でこの星の支配者になるはずだった |
+| 508 | But, they… | でも、あいつらが…… |
+| 509 | These worthless ones, took the Planet from you. Didn't they, Mother? | 何のとりえもないあいつらが母さんたちからこの星をうばったんだよね |
+| 510 | But, don't be sad anymore. | でも、もう悲しまないで |
+| 511 | What about MY sadness!? My family…friends? The sadness of having my hometown taken away from me!? | 俺の悲しみはどうしてくれる！家族……友だち……故郷をうばわれた俺の悲しみは！！ |
+| 512 | It's the same as your sadness! | あんたの悲しみと同じだ！ |
+| 513 | Ha, ha, ha…my sadness? What do I have to be sad about? | クックックッ……オレの悲しみ？何を悲しむ？ |
+| 514 | I am the chosen one. I have been chosen to be the leader of this Planet. | オレは選ばれし者。この星の支配者として選ばれし存在だ |
+| 515 | I have orders to take the Planet back from you stupid people for the Cetra. What should I be sad about? | この星を、愚かなおまえたちからセトラの手にとりもどすために生をうけた。何を悲しめというのだ？ |
+| 516 | Sephiroth… I trusted you… | セフィロス……信頼していたのに…… |
+| 517 | No, you're not the Sephiroth I used to know! | いや、おまえは、もう俺の知っているセフィロスじゃない！ |
+| 518 | But they.... Those worthless creatures Are stealing the planet from Mother But now I'm here with you so don't worry | けど、アイツラが．．．．．．．何のとりえも無いアイツラが母さん達からこの星を奪ったんだよねでも、もう悲しまないで |
+| 519 | …and that's the end of my story. | ……この話はここで終わりなんだ |
+| 520 | Wait a damn minute! That's it? No more? | ちょっと待てよ！続きはどうなったんだ？ |
+| 521 | …I don't remember. | ……覚えていない |
+| 522 | What happened to Sephiroth? | セフィロスはどうなったの？ |
+| 523 | In terms of skill, I couldn't have killed him. | 実力から言って、俺がセフィロスを倒せたとは思えないんだ |
+| 524 | Official records state Sephiroth is dead. I read it in the newspaper. | 公式記録ではセフィロスは死んだことになっていたわ。新聞でみたもの |
+| 525 | Shinra, Inc. owns the newspapers, so you can't rely on that. | 新聞は神羅が出してるのよ。信用できない |
+| 526 | …I want to know the truth. I want to know what happened. | ……俺はたしかめたい。あの時、何があったのかを |
+| 527 | I challenged Sephiroth and lived. Why didn't he kill me? | セフィロスに戦いをいどんだ俺はまだ生きている。セフィロスは、なぜ俺を殺さなかったのか？ |
+| 528 | …I'm alive, too. | ……私も生きているわ |
+| 529 | A lot of this doesn't make sense. What about Jenova? It was in the Shinra building, right? | なんだか、いろいろ、へん。ねえ、ジェノバは？神羅ビルにいたのはジェノバ、よね？ |
+| 530 | Shinra shipped it from Nibelheim to Midgar. | 神羅がニブルヘイムからミッドガルへ運んだのは確実だな |
+| 531 | Did someone carry it out later? It was missing from the Shinra building. | そのあと、また誰かが持ち出した？神羅ビルからもなくなってたわよ |
+| 532 | Damn! None of this makes sense! | が～～～っ！わけがわかんねえ！ |
+| 533 | I'm going, going, gone! | オレはいくぜ！オレはいくぜ！オレはいくぜ！！ |
+| 534 | And I'm leavin' the thinkin' to you! | 考えるのはオマエたちにまかせた！ |
+| 535 | Yo, CLOUD! Let's get a move on! | おい、CLOUD！出発の準備を整えろ！ |
+| 536 | Wait a sec | ちょっと待て |
+| 537 | Right | わかったよ |
+| 538 | CLOUD, what's wrong? You just gonna stand there while Sephiroth heads for the Promised Land? | CLOUD、何をためらう！セフィロスが約束の地に向かうのをだまって見ているのか？ |
+| 539 | I ain't lettin' Sephiroth or Shinra get to no Promised Land. If they do, then we're all screwed. | セフィロスも神羅も約束の地には行かせねえ。行かせちまったらとりかえしのつかねえことになる |
+| 540 | Y'know what I'm sayin'? | オレにわかるのはそれだけだぜ！ |
+| 541 | Beautiful, just beautiful! | すばらしい！ |
+| 542 | Is that all? | それだけか？ |
+| 543 | Jus' leave it to me! | まかせておけって！ |
+| 544 | Fine! That's good enough. | いいじゃねえかよ！それで、じゅうぶんだぜ！ |
+| 545 | Yo, c'mon let's go! | よっしゃ、行こうぜ！ |
+| 546 | CLOUD? | ……ねぇCLOUD |
+| 547 | How bad was I after Sephiroth stabbed me? | セフィロスに斬られた私はどんなふうだった？ |
+| 548 | I thought you were a goner. …I was so sad. | もうダメだと思った。……悲しかったよ |
+| 549 | I… | わたし…… |
+| 550 | The Ancients…Cetra…Jenova… Sephiroth and myself… | 古代種……セトラ……ジェノバ……セフィロス……わたし…… |
+| 551 | Let's go. BARRET's waiting. | 行きましょう。BARRETが待ってるわ |
+| 552 | What a fascinating story… | 実に興味ぶかい話だ…… |
+| 553 | BARRET and the others are waiting for me at the inn. | BARRETたちが宿屋で待っている |
+| 554 | Yo, CLOUD. Here. | おい、CLOUD。これをわたしておくぜ |
+| 555 | CLOUD. Take this. | ねえ、CLOUD。使って、これ |
+| 556 | Oh, CLOUD. Let me give you this. | はい、CLOUD。これをわたしておくわ |
+| 557 | Received "PHS"! | 『ＰＨＳ』を手にいれた！ |
+| 558 | As long as we got [PHS], we can always reach each other. Use it if something happens. | その『ＰＨＳ』があればいつでも連絡が取れるからな。なにかあったら、それを使うんだぜ |
+| 559 | With [PHS], I can see you any time! | 『ＰＨＳ』があればいつでもCLOUDに会えるね！ |
+| 560 | Just use [PHS], and you can contact any of us easy. | 『ＰＨＳ』を使えば連絡がとりやすくなるわね |
+| 561 | Alright then, we're outta here. | じゃあな、オレたちは行くぜ |
+| 562 | Well, I'll be going. | じゃあ、わたし行くね |
+| 563 | I'm going on ahead. | じゃあ、先に行くわね |
+| 564 | [PHS] will put us in constant contact with each other. | 『ＰＨＳ』があればたがいの連絡がとりやすくなる |
+| 565 | (Changing party members) | 【パーティの入れ替え】 |
+| 566 | Access the menu and select [PHS]. | メニューを開いて『ＰＨＳ』を選ぶと |
+| 567 | It can only be used on the World Map or at a Save Point. | 「パーティメンバーの入れ替えができます。 |

@@ -451,3 +451,117 @@ CLOUD、バルブを閉じてくれ	CLOUD, close the valve.	閉	scene_10
 スタートボタン　終了	End[START]	終了	scene_10
 『マテリア関係資料／宝条』	Information concerning Materia/Hojo	関係資料宝条	scene_10
 読んでみる	Read it	読	scene_10
+よまない	Ignore		scene_10
+『マテリアの中の生命』	Life of Materia	中生命	scene_10
+『古代種の伝説・世界編』	Legend of the Ancients, World Version	古代種伝説世界編	scene_10
+『次期計画予算／宝条』	Next Quarter's projected Budget/Hojo	次期計画予算宝条	scene_10
+『北極日報／宝条』	North Pole Daily Report/Hojo	北極日報宝条	scene_10
+『／宝条』	/Hojo	宝条	scene_10
+『約束の地』	The Promised Land	約束地	scene_10
+……２０００年前の地層からみつかった仮死状態の生物	…An apparently dead organism was found in a 2000 year old geological stratum.	年前地層仮死状態生物	scene_10
+その生物をガスト博士はジェノバと命名した……	Professor Gast named that organism, Jenova…	生物博士命名	scene_10
+Ｘ年Ｘ月Ｘ日。ジェノバを古代種と確認……	X Year, X Month, X Day. Jenova confirmed to be an Ancient…	年月日古代種確認	scene_10
+Ｘ年Ｘ月Ｘ日。ジェノバ・プロジェクト承認。魔晄炉１号機使用許可……	X Year, X Month, X Day. Jenova Project approved. The use of Mako Reactor 1 approved for use…	年月日承認魔晄炉号機使用許可	scene_10
+オレの母の名はジェノバ……ジェノバ・プロジェクト……これは偶然なのか？	My mother's name is Jenova… Jenova Project… Is this just a coincidence?	母名偶然	scene_10
+ガスト博士……どうして何も教えてくれなかった？……どうして死んだ？	Professor Gast… Why didn't you tell me anything? …Why did you die?	博士何教死	scene_10
+１人にしてくれ	Let me be alone.	人	scene_10
+ハハハハ！	Ha, ha, ha, ha!		scene_10
+それ以降セフィロスは神羅屋敷に	Sephiroth didn't come out of the Shinra Mansion…	以降神羅屋敷	scene_10
+こもりきりになった……	He continued to read as		scene_10
+まるで何かに取りつかれたかのように	if he were possessed by something,	何取	scene_10
+書物を読みあさり、地下室の明かりは	and not once, did the light	書物読地下室明	scene_10
+決して消える事はなかった……	in the basement go out…	決消事	scene_10
+誰だ！！	Who is it!?	誰	scene_10
+フッ……裏切り者め	Hmph…traitor.	裏切者	scene_10
+裏切り者？	Traitor?	裏切者	scene_10
+何も知らぬ裏切り者よ。教えてやろう	You ignorant traitor. I'll tell you.	何知裏切者教	scene_10
+この星はもともとセトラのものだった。セトラは旅をする民族。旅をして、星を開き、そしてまた旅……	This Planet originally belonged to the Cetra. Cetra was a itinerant race. They would migrate in, settle the Planet, then move on…	星旅民族開	scene_10
+つらく、きびしい旅の果てに約束の地を知り、至上の幸福を見つける	At the end of their harsh, hard journey, it was said they would find the Promised Land and supreme happiness.	旅果約束地知至上幸福見	scene_10
+だが、旅を嫌う者たちが現れた。その者は旅することをやめ家を持ち、安楽な生活を選んだ	But, those who disliked journeying appeared. They stopped their migrations, built shelters and elected to lead an easier life.	旅嫌者現家持安楽生活選	scene_10
+セトラと星が生み出したものをうばい何も返そうとしない	They took that which the Cetra and the Planet had made without giving back one whit in return!	星生出何返	scene_10
+それがおまえたちの祖先だ	Those are your ancestors.	祖先	scene_10
+セフィロス……	Sephiroth…		scene_10
+昔、この星を災害が襲った	Long ago, disaster struck the Planet.	昔星災害襲	scene_10
+おまえたちの祖先は逃げ回り……隠れたおかげで生きのびた	Your ancestors escaped… They survived because they hid.	祖先逃回隠生	scene_10
+星の危機はセトラの犠牲で回避された。その後でのうのうと数をふやしたのがおまえたちだ	The Planet was saved by sacrificing the Cetra. After that, your ancestors continued to multiply.	星危機犠牲回避後数	scene_10
+セトラはこうしてレポートの中に残るだけの種族になってしまった	Now all that's left of the Cetra is in these reports.	中残種族	scene_10
+それがあんたとどういう関係があるんだ？	What does that have to do with you?	関係	scene_10
+わからないか？	Don't you see?		scene_10
+２０００年前の地層から発見されジェノバと名づけられた古代種	An Ancient named Jenova was found in a 2000 year-old geological stratum.	年前地層発見名古代種	scene_10
+そしてジェノバ・プロジェクト	The Jenova Project.		scene_10
+ジェノバ・プロジェクトとは古代種……つまりセトラの能力を持った人間を創り出すことだ	The Jenova Project wanted to produce people with the powers of the Ancients… Or, the Cetra.	古代種能力持人間創出	scene_10
+……創り出されたのはオレだ	…I am what was produced.	創出	scene_10
+つ、つくりだされた！？	Pr…produced!?		scene_10
+そう	Yes.		scene_10
+ジェノバ・プロジェクトの責任者天才的科学者ガスト博士がオレをつくりだした	Professor Gast, leader of the Jenova Project and genius scientist, produced me.	責任者天才的科学博士	scene_10
+そんなこと……どうやって……	How…how did he?		scene_10
+セ、セフィロス？	Se…Sephiroth?		scene_10
+邪魔するな。オレは母に会いに行く	Out of my way. I'm going to see my mother.	邪魔母会行	scene_10
+母さん、会いに来たよ。このとびらをあけておくれ	Mother, I'm here to see you. Please, open this door.	母会来	scene_10
+よくもパパを！よくも村のみんなを！	How could you do that to Papa and all the townspeople?	村	scene_10
+……ピンチの……時には……来てくれるって約束したのに……	…You promised… You promised that you'd come…… when I was in trouble…	時来約束	scene_10
+母さん、いっしょにこの星を取りもどそうよ	Mother, let's take the Planet back together.	母星取	scene_10
+オレ、いいことを考えたんだよ。約束の地へ行こう	I've thought of a great idea. Let's go to the Promised Land.	考約束地行	scene_10
+俺の家族を！　俺の故郷を！よくもやってくれたな！	My family! My hometown! How could you do this to them!?	俺家族故郷	scene_10
+クックックッ……母さん、またやつらが来たよ	Ha, ha, ha… They've come again, Mother.	母来	scene_10
+母さんは優れた能力と知識、そして魔法でこの星の支配者になるはずだった	With her superior power, knowledge, and magic, Mother was destined to become the ruler of this Planet.	母優能力知識魔法星支配者	scene_10
+でも、あいつらが……	But, they…		scene_10
+何のとりえもないあいつらが母さんたちからこの星をうばったんだよね	These worthless ones, took the Planet from you. Didn't they, Mother?	何母星	scene_10
+でも、もう悲しまないで	But, don't be sad anymore.	悲	scene_10
+俺の悲しみはどうしてくれる！家族……友だち……故郷をうばわれた俺の悲しみは！！	What about MY sadness!? My family…friends? The sadness of having my hometown taken away from me!?	俺悲家族友故郷	scene_10
+あんたの悲しみと同じだ！	It's the same as your sadness!	悲同	scene_10
+クックックッ……オレの悲しみ？何を悲しむ？	Ha, ha, ha…my sadness? What do I have to be sad about?	悲何	scene_10
+オレは選ばれし者。この星の支配者として選ばれし存在だ	I am the chosen one. I have been chosen to be the leader of this Planet.	選者星支配存在	scene_10
+この星を、愚かなおまえたちからセトラの手にとりもどすために生をうけた。何を悲しめというのだ？	I have orders to take the Planet back from you stupid people for the Cetra. What should I be sad about?	星愚手生何悲	scene_10
+セフィロス……信頼していたのに……	Sephiroth… I trusted you…	信頼	scene_10
+いや、おまえは、もう俺の知っているセフィロスじゃない！	No, you're not the Sephiroth I used to know!	俺知	scene_10
+けど、アイツラが．．．．．．．何のとりえも無いアイツラが母さん達からこの星を奪ったんだよねでも、もう悲しまないで	But they.... Those worthless creatures Are stealing the planet from Mother But now I'm here with you so don't worry	何無母達星奪悲	scene_10
+……この話はここで終わりなんだ	…and that's the end of my story.	話終	scene_10
+ちょっと待てよ！続きはどうなったんだ？	Wait a damn minute! That's it? No more?	待続	scene_10
+……覚えていない	…I don't remember.	覚	scene_10
+セフィロスはどうなったの？	What happened to Sephiroth?		scene_10
+実力から言って、俺がセフィロスを倒せたとは思えないんだ	In terms of skill, I couldn't have killed him.	実力言俺倒思	scene_10
+公式記録ではセフィロスは死んだことになっていたわ。新聞でみたもの	Official records state Sephiroth is dead. I read it in the newspaper.	公式記録死新聞	scene_10
+新聞は神羅が出してるのよ。信用できない	Shinra, Inc. owns the newspapers, so you can't rely on that.	新聞神羅出信用	scene_10
+……俺はたしかめたい。あの時、何があったのかを	…I want to know the truth. I want to know what happened.	俺時何	scene_10
+セフィロスに戦いをいどんだ俺はまだ生きている。セフィロスは、なぜ俺を殺さなかったのか？	I challenged Sephiroth and lived. Why didn't he kill me?	戦俺生殺	scene_10
+……私も生きているわ	…I'm alive, too.	私生	scene_10
+なんだか、いろいろ、へん。ねえ、ジェノバは？神羅ビルにいたのはジェノバ、よね？	A lot of this doesn't make sense. What about Jenova? It was in the Shinra building, right?	神羅	scene_10
+神羅がニブルヘイムからミッドガルへ運んだのは確実だな	Shinra shipped it from Nibelheim to Midgar.	神羅運確実	scene_10
+そのあと、また誰かが持ち出した？神羅ビルからもなくなってたわよ	Did someone carry it out later? It was missing from the Shinra building.	誰持出神羅	scene_10
+が～～～っ！わけがわかんねえ！	Damn! None of this makes sense!		scene_10
+オレはいくぜ！オレはいくぜ！オレはいくぜ！！	I'm going, going, gone!		scene_10
+考えるのはオマエたちにまかせた！	And I'm leavin' the thinkin' to you!	考	scene_10
+おい、CLOUD！出発の準備を整えろ！	Yo, CLOUD! Let's get a move on!	出発準備整	scene_10
+ちょっと待て	Wait a sec	待	scene_10
+わかったよ	Right		scene_10
+CLOUD、何をためらう！セフィロスが約束の地に向かうのをだまって見ているのか？	CLOUD, what's wrong? You just gonna stand there while Sephiroth heads for the Promised Land?	何約束地向見	scene_10
+セフィロスも神羅も約束の地には行かせねえ。行かせちまったらとりかえしのつかねえことになる	I ain't lettin' Sephiroth or Shinra get to no Promised Land. If they do, then we're all screwed.	神羅約束地行	scene_10
+オレにわかるのはそれだけだぜ！	Y'know what I'm sayin'?		scene_10
+すばらしい！	Beautiful, just beautiful!		scene_10
+それだけか？	Is that all?		scene_10
+まかせておけって！	Jus' leave it to me!		scene_10
+いいじゃねえかよ！それで、じゅうぶんだぜ！	Fine! That's good enough.		scene_10
+よっしゃ、行こうぜ！	Yo, c'mon let's go!	行	scene_10
+……ねぇCLOUD	CLOUD?		scene_10
+セフィロスに斬られた私はどんなふうだった？	How bad was I after Sephiroth stabbed me?	斬私	scene_10
+もうダメだと思った。……悲しかったよ	I thought you were a goner. …I was so sad.	思悲	scene_10
+わたし……	I…		scene_10
+古代種……セトラ……ジェノバ……セフィロス……わたし……	The Ancients…Cetra…Jenova… Sephiroth and myself…	古代種	scene_10
+行きましょう。BARRETが待ってるわ	Let's go. BARRET's waiting.	行待	scene_10
+実に興味ぶかい話だ……	What a fascinating story…	実興味話	scene_10
+BARRETたちが宿屋で待っている	BARRET and the others are waiting for me at the inn.	宿屋待	scene_10
+おい、CLOUD。これをわたしておくぜ	Yo, CLOUD. Here.		scene_10
+ねえ、CLOUD。使って、これ	CLOUD. Take this.	使	scene_10
+はい、CLOUD。これをわたしておくわ	Oh, CLOUD. Let me give you this.		scene_10
+『ＰＨＳ』を手にいれた！	Received "PHS"!	手	scene_10
+その『ＰＨＳ』があればいつでも連絡が取れるからな。なにかあったら、それを使うんだぜ	As long as we got [PHS], we can always reach each other. Use it if something happens.	連絡取使	scene_10
+『ＰＨＳ』があればいつでもCLOUDに会えるね！	With [PHS], I can see you any time!	会	scene_10
+『ＰＨＳ』を使えば連絡がとりやすくなるわね	Just use [PHS], and you can contact any of us easy.	使連絡	scene_10
+じゃあな、オレたちは行くぜ	Alright then, we're outta here.	行	scene_10
+じゃあ、わたし行くね	Well, I'll be going.	行	scene_10
+じゃあ、先に行くわね	I'm going on ahead.	先行	scene_10
+『ＰＨＳ』があればたがいの連絡がとりやすくなる	[PHS] will put us in constant contact with each other.	連絡	scene_10
+【パーティの入れ替え】	(Changing party members)	入替	scene_10
+メニューを開いて『ＰＨＳ』を選ぶと	Access the menu and select [PHS].	開選	scene_10
+「パーティメンバーの入れ替えができます。	It can only be used on the World Map or at a Save Point.	入替	scene_10
